@@ -14,6 +14,7 @@ substantial wiki change. Each entry: link, one-line summary, last updated, statu
 | [WING](tickers/WING/overview.md) | Wingstop | Narrow | Medium | 2026-04-05 | Active — full thesis compiled; watch Q1 2026 SSS |
 | [UNH](tickers/UNH/overview.md) | UnitedHealth Group | Wide | Medium | 2026-04-05 | Active — full thesis compiled; elevated uncertainty; watch Q1 2026 MLR |
 | [SCHW](tickers/SCHW/overview.md) | Charles Schwab | Narrow-Wide | Medium | 2026-04-05 | Active — full thesis compiled |
+| [RKT](tickers/RKT/overview.md) | Rocket Companies | Narrow-Emerging Wide | Medium | 2026-04-06 | Active — full thesis compiled; FCF/segment detail pending 10-K |
 
 ---
 
@@ -26,6 +27,7 @@ substantial wiki change. Each entry: link, one-line summary, last updated, statu
 | WING | $152.51 | –61% | — | ~25x | Triple (lower conviction) | Buy (Speculative) |
 | UNH | $277.26 | –54% | ~6.3% (trough) | ~10x normalized | Quadruple | Buy |
 | SCHW | $93.77 | –13% | — | ~17.5x | Double | Buy/Hold |
+| RKT | $14.96 | –38.5% | — | ~13-17x fwd EBITDA | Double (B+A) | Buy (Speculative) |
 
 ---
 
@@ -62,7 +64,10 @@ substantial wiki change. Each entry: link, one-line summary, last updated, statu
 | UNH | 2026 formal guidance (not yet provided as of Jan 2026) | UNH next earnings release |
 | SCHW | Full cash flow statement (FCF, capex, buybacks) | SCHW 10-K / Q4 earnings release |
 | SCHW | Tangible book value per share (for P/TBV calculation) | SCHW balance sheet |
+| RKT | Full FY2025 adj revenue (post-acquisition, full year) | RKT 10-K |
+| RKT | Segment revenue breakdown (origination vs. servicing vs. Redfin) | Q4 2025 earnings supplement |
+| RKT | FCF / operating cash flow (GAAP) | RKT 10-K |
 
 ---
 
-*Last full index refresh: 2026-04-05*
+*Last full index refresh: 2026-04-06*

@@ -1,8 +1,8 @@
 # Watchlist — Cross-Ticker Ranking
 
 *Updated by LLM agent after each full thesis cycle or earnings update.*
-*Last updated: 2026-04-05*
-*Prices as of 2026-04-05 (Yahoo Finance, verified)*
+*Last updated: 2026-04-06*
+*Prices as of 2026-04-05/06 (Yahoo Finance / analysis file)*
 
 ---
 
@@ -15,6 +15,7 @@
 | 3 | LLY | High | Triple | 2:1 (~+11% EV, 12-mo) | Buy — Tranche 1 ($900–$950) | Orforglipron FDA approval (2026) |
 | 4 | WING | Medium | Triple (lower conviction) | 2:1 (~+22% EV, 18-mo) | Buy Spec. — Tranche 1 ($140–$160) | Q1 2026 domestic SSS (April 2026) |
 | 5 | SCHW | Medium | Double | 2:1 (~+17% EV, 18-mo) | Buy/Hold — Tranche 1 ($88–$96) | Q1 2026 NIM + rate outlook (April 2026) |
+| 6 | RKT | Medium | Double (B+A) | 2.5:1 (~+51% PW EV, 1-3yr) | Buy Spec. — Tranche 1 ($14–$16) | Q1 2026 earnings (April 30, 2026) |
 
 **Ranking rationale**:
 - UNH ranked #1 on BAIT (quadruple overlap) and normalized earnings asymmetry (10x trough P/E), despite elevated operational uncertainty
@@ -22,6 +23,7 @@
 - LLY ranked #3 on strongest secular growth + manufacturing moat, but near-term upside is smaller
 - WING ranked #4 — compelling asymmetry but narrowest moat and SSS uncertainty
 - SCHW ranked #5 — solid NII recovery story, lowest asymmetry, rate-sensitive
+- RKT ranked #6 — strong PW upside (+51%) but highest execution risk (acquisition integration, rate sensitivity, RESPA lawsuit, $10.6B goodwill); BAIT is Double vs. Triple/Quad for others
 
 ---
 
@@ -34,7 +36,8 @@
 | WING | 2–3% | Speculative; SSS uncertainty limits size | 70% stock / 30% LEAPS |
 | UNH | 3–5% | Elevated uncertainty caps size; BAIT is very high | 85% stock / 15% LEAPS |
 | SCHW | 3–5% | Solid compounder; lower asymmetry | 85% stock / 15% options |
-| **Total** | **17–27%** | | |
+| RKT | 0.75–1.5% | Speculative; integration risk; cyclical; sized for asymmetry via options | 65% stock / 35% LEAPS |
+| **Total** | **18–29%** | | |
 
 *Remaining 73-83% of portfolio unallocated — these 5 positions form a concentrated
 high-conviction sleeve. Fill remaining portfolio per personal allocation preferences.*
@@ -51,6 +54,7 @@ high-conviction sleeve. Fill remaining portfolio per personal allocation prefere
 | WING | Q1 2026 earnings (~late April 2026) | **Domestic SSS** | Thesis confirming; short squeeze | Thesis-weakening; reduce position |
 | UNH | Q1 2026 earnings (~April 2026) | **Medical Loss Ratio** | Multiple expansion catalyst | Thesis-delaying; reassess size |
 | SCHW | Q1 2026 earnings (~April 2026) | NIM trend + sweep balance rebuild | Re-rate to 22-25x; buyback signal | Rate-cut risk realization |
+| RKT | Q1 2026 earnings (April 30, 2026) | **Adj revenue ≥ $2.6B + EBITDA run-rate** | Thesis confirming; 5th consecutive beat | Below $2.4B on no external shock = thesis break |
 
 ---
 
@@ -63,8 +67,9 @@ high-conviction sleeve. Fill remaining portfolio per personal allocation prefere
 | WING | $152.51 | $95 (25%) | $187 (50%) | $280 (25%) | $187 | +22% |
 | UNH | $277.26 | $200 (25%) | $360 (45%) | $525 (30%) | $369 | +33% |
 | SCHW | $93.77 | $70 (20%) | $110 (50%) | $137 (30%) | $110 | +17% |
+| RKT | $14.96 | $9 (20%) | $22 (55%) | $35 (25%) | $22.65 | +51% |
 
-*All price targets are 12-24 month horizons. UNH targets are 24-month given recovery timeline.*
+*All price targets are 12-24 month horizons. UNH targets are 24-month given recovery timeline. RKT targets are 1-3 year given integration timeline.*
 
 ---
 
@@ -77,3 +82,5 @@ high-conviction sleeve. Fill remaining portfolio per personal allocation prefere
 | CMS Medicare Advantage rates | UNH MLR recovery | Favorable CMS 2027 rates = UNH significant upside |
 | GLP-1 oral competition | LLY competitive positioning | Viking/Roche NDA = LLY multiple pressure |
 | AI in travel | BKNG existential risk | Watch Google, OpenAI travel agent product launches |
+| 30-year mortgage rates | RKT origination volume (critical); SCHW NIM (indirect) | Any sustained move below 6.25% = RKT bull trigger; above 7.5% = RKT bear |
+| Housing lock-in effect unlock | RKT purchase volume + Redfin traffic | Rate relief → unlock → RKT volume surge; watch 30-yr weekly averages |

@@ -15,6 +15,9 @@ substantial wiki change. Each entry: link, one-line summary, last updated, statu
 | [UNH](tickers/UNH/overview.md) | UnitedHealth Group | Wide | Medium | 2026-04-05 | Active — full thesis compiled; elevated uncertainty; watch Q1 2026 MLR |
 | [SCHW](tickers/SCHW/overview.md) | Charles Schwab | Narrow-Wide | Medium | 2026-04-05 | Active — full thesis compiled |
 | [RKT](tickers/RKT/overview.md) | Rocket Companies | Narrow-Emerging Wide | Medium | 2026-04-06 | Active — full thesis compiled; FCF/segment detail pending 10-K |
+| [SHOP](tickers/SHOP/overview.md) | Shopify | Wide | High | 2026-04-06 | Active — full thesis compiled; AI/checkout monetization tracking |
+| [DASH](tickers/DASH/overview.md) | DoorDash | Narrow | Medium | 2026-04-06 | Active — full thesis compiled; Watch position, better entry <$140 |
+| [PG](tickers/PG/overview.md) | Procter & Gamble | Wide (under pressure) | Medium | 2026-04-06 | Active — full thesis compiled; Watch/Conditional pending Q3 FY2026 |
 
 ---
 
@@ -28,6 +31,9 @@ substantial wiki change. Each entry: link, one-line summary, last updated, statu
 | UNH | $277.26 | –54% | ~6.3% (trough) | ~10x normalized | Quadruple | Buy |
 | SCHW | $93.77 | –13% | — | ~17.5x | Double | Buy/Hold |
 | RKT | $14.96 | –38.5% | — | ~13-17x fwd EBITDA | Double (B+A) | Buy (Speculative) |
+| SHOP | $117–121 | –20% from ATH | ~8% (positive FCF) | ~7x trailing revenue | Triple (B+A+I) | Buy (Speculative) |
+| DASH | $176 | –38% from 52-wk high | — | ~28x trailing EBITDA | Double (B+A) | Watch / Cautious Starter |
+| PG | $143.35 | –18% from 52-wk high | ~2.94% dividend yield | ~20x forward P/E | Weak | Watch / Conditional |
 
 ---
 
@@ -70,4 +76,4 @@ substantial wiki change. Each entry: link, one-line summary, last updated, statu
 
 ---
 
-*Last full index refresh: 2026-04-06*
+*Last full index refresh: 2026-04-17*

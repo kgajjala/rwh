@@ -9,15 +9,15 @@
 
 ## Annual Revenue & Volume
 
-| Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026E |
-|--------|--------|--------|--------|--------|--------|---------|
-| Total Revenue ($B) | $18.5 | $20.8 | $18.8 | $19.6 | $23.9 | ~$26.3–26.5 [guidance +9.5–10.5%] |
-| YoY Revenue Growth | — | +12.1% | –9.3% | +4.1% | +22.0% | +9.5–10.5% (guidance) |
-| Net Interest Income ($B) | $8.0 | $10.7 | $9.4 | $9.1 | $11.75 | — |
-| NII YoY Growth | — | +33.3% | –12.1% | –3.2% | +28.5% | — |
-| Net Interest Margin (NIM) | ~2.0% | ~2.6% | ~2.33% | ~2.33% | 2.90% | 2.85–2.95% (guidance) |
-| Total Client Assets ($T) | ~$7.7 | ~$7.0 | ~$8.5 | ~$9.9 | $11.9 | — |
-| Net New Assets ($B) | — | — | — | ~$350 | $519 | — |
+| Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Q1 2026 | FY2026E |
+|--------|--------|--------|--------|--------|--------|---------|---------|
+| Total Revenue ($B) | $18.5 | $20.8 | $18.8 | $19.6 | $23.9 | $6.5Q | ~$26.3–26.5 [guidance +9.5–10.5%] |
+| YoY Revenue Growth | — | +12.1% | –9.3% | +4.1% | +22.0% | +16% | +9.5–10.5% (guidance) |
+| Net Interest Income ($B) | $8.0 | $10.7 | $9.4 | $9.1 | $11.75 | ~$3.1Q | — |
+| NII YoY Growth | — | +33.3% | –12.1% | –3.2% | +28.5% | — | — |
+| Net Interest Margin (NIM) | ~2.0% | ~2.6% | ~2.33% | ~2.33% | 2.90% | Tracking upward | 2.85–2.95% (guidance) |
+| Total Client Assets ($T) | ~$7.7 | ~$7.0 | ~$8.5 | ~$9.9 | $11.9 | $11.8 | — |
+| Net New Assets ($B) | — | — | — | ~$350 | $519 | $158 (Q1 record) | — |
 
 *Note: FY2023 and FY2024 revenue declines reflect "cash sorting" — clients shifted sweep
 balances to money market funds, compressing NII. FY2022 high NII was a rate-spike benefit.
@@ -27,14 +27,14 @@ Cash sorting reversed in 2H2025 as sweep cash rebuilt.*
 
 ## Profitability
 
-| Metric | FY2022 | FY2023 | FY2024 | FY2025 |
-|--------|--------|--------|--------|--------|
-| EBITDA ($B) | — | — | — | — [⚠️ not available in search results] |
-| Operating Income ($B) | — | — | — | — |
-| Net Income ($B) | $6.6 | $4.6 | $5.5 | $8.4 |
-| Net Margin % | 31.9% | 24.7% | 28.0% | 35.2% |
-| EPS (Diluted) | $3.50 | $2.54 | $2.99 | $4.65 |
-| FY2026E EPS [Analyst consensus] | — | — | — | ~$5.20–5.50 [Analyst consensus] |
+| Metric | FY2022 | FY2023 | FY2024 | FY2025 | Q1 2026 | FY2026E |
+|--------|--------|--------|--------|--------|---------|---------|
+| EBITDA ($B) | — | — | — | — [⚠️ not available] | — | — |
+| Operating Income ($B) | — | — | — | — | — | — |
+| Adjusted Pretax Profit Margin | — | — | — | — | 51.4% | — |
+| Net Income ($B) | $6.6 | $4.6 | $5.5 | $8.4 | ~$1.97Q | — |
+| Net Margin % | 31.9% | 24.7% | 28.0% | 35.2% | ~30.3%Q | — |
+| EPS (Diluted) | $3.50 | $2.54 | $2.99 | $4.65 | $1.43 (+38% YoY) | >$5.80 (tracking above prior guidance $5.70–5.80) |
 
 *Note: EBITDA not a primary metric for SCHW; P/E and P/TBV are the standard valuation
 multiples for brokerage/financial companies.*

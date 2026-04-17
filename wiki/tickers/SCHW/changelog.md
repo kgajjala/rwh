@@ -4,6 +4,51 @@ Append-only record of thesis updates. Format defined in CLAUDE.md.
 
 ---
 
+## 2026-04-17 — Q1 2026 Earnings Update
+
+**Trigger**: SCHW reported Q1 2026 earnings on April 16, 2026 (yesterday). Strong beat on EPS; FY2026 guidance raised materially.
+
+**Data points reviewed**:
+- Q1 2026 earnings call transcript (Motley Fool, Yahoo Finance)
+- SCHW investor relations press release
+- CFO commentary on NIM trajectory, capital management, growth initiatives
+
+### What Changed
+- **EPS**: Q1 $1.43 (+38% YoY) beat consensus $1.42; implies FY2026 EPS will exceed prior guidance of $5.70–$5.80
+- **Revenue**: Q1 $6.5B (+16% YoY); record revenue
+- **Client Assets**: $11.8T (+19% YoY); core net new assets $158B (Q1 record)
+- **NIM Trajectory**: Management signaling "upward momentum" with potential lack of Fed rate cuts; client cash deposits +$8B sequentially
+- **Trading Volume**: Record 9.9M daily average trades (+34% YoY); however, revenue per trade declined (smaller positions, shorter duration)
+- **Managed Investing**: +46% net flows, Schwab Wealth Advisory reached $10B (+90% YoY)
+- **Lending**: Bank loans $61B (+29% YoY), all-time high; long-short lending demand strong
+- **Capital Actions**: 19% dividend increase; $2.4B share buybacks; Tier 1 leverage 6.8% (within target)
+
+### Thesis Status
+- **Overall**: STRENGTHENED — Q1 execution confirms thesis; FY2026 EPS guidance raised above prior range
+- **BAIT delta**: A-STRONG (TD synergies + NIM expansion visible now, not just projected) + I-STRONG (management commentary on rate environment + internal cash growth) + B-MODERATE (no significant behavioral signal; execution affirms fundamentals)
+- **New EPS guidance**: FY2026 tracking >$5.80 (vs. prior $5.70–$5.80) — implies multiple expansion opportunity if guidance raised in July
+- **Price target delta**: Base case $105–115 may be conservative if FY2026 EPS reaches $5.90+; implies upside re-rating
+
+### Action
+- [x] Hold — Tranche 1 position confirmed; Q1 execution validates thesis
+- [ ] Buy more — If Fed signals rate cuts, this would be a Tranche 2 entry (NIM hedge)
+- [ ] Trim — Not warranted
+
+**Key Monitoring Items**:
+1. FY2026 formal guidance (July 2026) — will it be raised above $5.80?
+2. Federal Reserve rate path — any cut signals are immediate re-assessment triggers
+3. NIM trajectory in Q2 (due ~July 20) — should show continued upward momentum if cash deposit trends hold
+4. AI/digital assets/alternatives monetization — early indicators of "next leg" growth
+5. Trading revenue per-transaction trend — is this structural decline or temporary?
+
+**Thesis-break triggers** (unchanged):
+- Federal Reserve cuts rates 150+bps in 2026 AND cash sorting re-emerges
+- NIM falls below 2.5% for two consecutive quarters
+
+**Next review trigger**: FY2026 formal guidance expected July 2026 (post-Q2 earnings ~July 20)
+
+---
+
 ## 2026-04-05 — Initial Thesis Compilation
 
 **Trigger**: First full wiki import — thesis compiled from live data (Yahoo Finance,

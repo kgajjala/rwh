@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BKNG — Investment Analysis</title>
+<style>
+  :root {
+    --navy: #003580;
+    --accent: #0054a3;
+    --mid: #0071c2;
+    --sky: #e8f1fb;
+    --green: #15803d;
+    --red: #b91c1c;
+    --amber: #b45309;
+    --gray: #6b7280;
+    --bg: #f0f4fa;
+    --card: #ffffff;
+    --border: #d9e5f5;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Georgia', 'Times New Roman', serif; background: var(--bg); color: #1a2030; line-height: 1.7; }
+  .container { max-width: 1100px; margin: 0 auto; padding: 24px; }
+
+  /* HEADER */
+  .header {
+    background: linear-gradient(135deg, #001f5c 0%, #003580 40%, #0071c2 100%);
+    color: white; padding: 44px 36px; border-radius: 14px; margin-bottom: 28px;
+    position: relative; overflow: hidden;
+  }
+  .header::before {
+    content: ''; position: absolute; top: -80px; right: -80px;
+    width: 340px; height: 340px; background: rgba(255,255,255,0.04); border-radius: 50%;
+  }
+  .header::after {
+    content: ''; position: absolute; bottom: -50px; right: 140px;
+    width: 180px; height: 180px; background: rgba(255,255,255,0.03); border-radius: 50%;
+  }
+  .header h1 { font-size: 2em; margin-bottom: 6px; font-weight: 700; letter-spacing: -0.02em; }
+  .header .subtitle { font-size: 1.1em; opacity: 0.85; font-style: italic; }
+  .header .badge {
+    display: inline-block; margin-top: 14px;
+    background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.22);
+    padding: 5px 16px; border-radius: 20px; font-size: 0.82em;
+    font-family: 'Segoe UI', system-ui, sans-serif; letter-spacing: 0.04em;
+  }
+  .header .meta {
+    margin-top: 18px; display: flex; gap: 10px; flex-wrap: wrap;
+    font-size: 0.87em; font-family: 'Segoe UI', system-ui, sans-serif;
+  }
+  .header .meta span {
+    background: rgba(255,255,255,0.13); border: 1px solid rgba(255,255,255,0.18);
+    padding: 5px 13px; border-radius: 8px;
+  }
+  .thesis-tag {
+    display: inline-block; padding: 3px 10px; border-radius: 4px;
+    font-size: 0.78em; font-family: 'Segoe UI', system-ui, sans-serif;
+    font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase;
+    background: rgba(134, 239, 172, 0.2); color: #86efac; border: 1px solid rgba(134,239,172,0.3);
+    margin-left: 10px; vertical-align: middle;
+  }
+  .split-banner {
+    background: rgba(251, 191, 36, 0.2); border: 1px solid rgba(251,191,36,0.4);
+    color: #fbbf24; border-radius: 8px; padding: 8px 16px; margin-top: 14px;
+    font-size: 0.86em; font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 600;
+    display: inline-block;
+  }
+
+  /* SECTIONS */
+  .section {
+    background: var(--card); border-radius: 12px; padding: 30px; margin-bottom: 20px;
+    box-shadow: 0 1px 4px rgba(0,53,128,0.07), 0 0 0 1px var(--border);
+  }
+  .section h2 {
+    color: var(--navy); font-size: 1.3em; margin-bottom: 18px;
+    padding-bottom: 10px; border-bottom: 2px solid var(--border);
+    font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 700;
+  }
+  .section h3 {
+    color: var(--accent); font-size: 1.05em; margin: 20px 0 10px;
+    font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 600;
+  }
+  p { margin-bottom: 12px; }
+  ul { margin: 10px 0 10px 22px; }
+  li { margin-bottom: 8px; }
+
+  /* TABLES */
+  table { width: 100%; border-collapse: collapse; margin: 14px 0; font-size: 0.89em; font-family: 'Segoe UI', system-ui, sans-serif; }
+  th {
+    background: var(--sky); color: var(--navy); padding: 10px 12px;
+    text-align: right; font-weight: 700; border-bottom: 2px solid var(--border);
+    font-size: 0.88em; letter-spacing: 0.02em;
+  }
+  th:first-child { text-align: left; }
+  td { padding: 9px 12px; border-bottom: 1px solid var(--border); text-align: right; }
+  td:first-child { text-align: left; font-weight: 500; color: #374151; }
+  tr:hover { background: #f5f8ff; }
+  .pos { color: var(--green); font-weight: 700; }
+  .neg { color: var(--red); font-weight: 700; }
+  .neu { color: var(--amber); font-weight: 600; }
+
+  /* CALLOUTS */
+  .highlight { background: #fffbeb; border-left: 4px solid #d97706; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.94em; }
+  .verdict { background: linear-gradient(135deg, #f0fdf4, #dcfce7); border-left: 4px solid var(--green); padding: 18px 22px; border-radius: 0 8px 8px 0; margin: 16px 0; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.94em; }
+  .warning { background: #fff1f2; border-left: 4px solid var(--red); padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.94em; }
+  .bait-box { background: linear-gradient(135deg, #eff6ff, #dbeafe); border-left: 4px solid var(--mid); padding: 18px 22px; border-radius: 0 8px 8px 0; margin: 16px 0; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.94em; }
+  .info-box { background: #f0f9ff; border-left: 4px solid #0ea5e9; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.94em; }
+
+  /* METRICS */
+  .grid4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin: 16px 0; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 16px 0; }
+  .metric-card { background: var(--sky); border: 1px solid var(--border); border-radius: 10px; padding: 18px; text-align: center; }
+  .metric-card .value { font-size: 1.55em; font-weight: 800; color: var(--navy); font-family: 'Segoe UI', system-ui, sans-serif; }
+  .metric-card .label { font-size: 0.8em; color: var(--gray); margin-top: 5px; font-family: 'Segoe UI', system-ui, sans-serif; }
+  .metric-card.green { background: #f0fdf4; border-color: #bbf7d0; }
+  .metric-card.green .value { color: var(--green); }
+  .metric-card.red { background: #fff1f2; border-color: #fecaca; }
+  .metric-card.red .value { color: var(--red); }
+  .metric-card.amber { background: #fffbeb; border-color: #fde68a; }
+  .metric-card.amber .value { color: var(--amber); }
+  .metric-card.gold { background: #fefce8; border-color: #fef08a; }
+  .metric-card.gold .value { color: #854d0e; }
+
+  /* BAIT GRID */
+  .bait-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 16px 0; }
+  .bait-card { border-radius: 10px; padding: 18px; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.9em; }
+  .bait-card.b { background: #eff6ff; border: 1px solid #bfdbfe; }
+  .bait-card.a { background: #f5f3ff; border: 1px solid #ddd6fe; }
+  .bait-card.i { background: #fffbeb; border: 1px solid #fde68a; }
+  .bait-card.t { background: #f0fdf4; border: 1px solid #bbf7d0; }
+  .bait-card .bait-letter { font-size: 1.8em; font-weight: 800; opacity: 0.12; float: right; margin-top: -4px; }
+  .bait-card h4 { font-size: 0.95em; font-weight: 700; margin-bottom: 8px; }
+
+  /* QUOTE */
+  .quote-block { margin: 14px 0; padding-left: 18px; border-left: 3px solid var(--mid); color: #4b5563; font-style: italic; font-size: 0.93em; font-family: 'Georgia', serif; }
+
+  /* BULL/BEAR */
+  .scenario-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 16px 0; }
+  .bull-card { background: #f0fdf4; padding: 20px; border-radius: 10px; border: 1px solid #bbf7d0; font-family: 'Segoe UI', system-ui, sans-serif; }
+  .bear-card { background: #fff1f2; padding: 20px; border-radius: 10px; border: 1px solid #fecaca; font-family: 'Segoe UI', system-ui, sans-serif; }
+  .bull-card h3 { color: var(--green); margin-bottom: 12px; }
+  .bear-card h3 { color: var(--red); margin-bottom: 12px; }
+
+  /* WATERFALL */
+  .flow-row { display: flex; align-items: center; gap: 6px; margin: 8px 0; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.9em; }
+  .flow-box { background: var(--sky); border: 1px solid var(--border); border-radius: 6px; padding: 6px 12px; white-space: nowrap; }
+  .flow-arrow { color: var(--mid); font-weight: 700; font-size: 1.2em; }
+
+  .disclaimer { font-size: 0.8em; color: var(--gray); margin-top: 28px; padding: 16px; background: #f0f4fa; border-radius: 8px; font-family: 'Segoe UI', system-ui, sans-serif; border: 1px solid var(--border); }
+  @media (max-width: 720px) { .grid2, .grid4, .bait-grid, .scenario-grid { grid-template-columns: 1fr; } .header .meta { flex-direction: column; gap: 8px; } }
+</style>
+</head>
+<body>
+<div class="container">
+
+<!-- HEADER -->
+<div class="header">
+  <h1>Booking Holdings, Inc. (NASDAQ: BKNG) <span class="thesis-tag">Wide Moat Compounder</span></h1>
+  <div class="subtitle">Deep Fundamental & Investment Analysis — The Global Travel Infrastructure Company</div>
+  <div class="badge">⚡ Mauboussin BAIT: Behavioral + Analytical Overlap — AI Disruption Overpriced</div>
+  <div class="split-banner">⚠️ 25-for-1 Stock Split Effective April 2, 2026 — Pre-split prices used throughout; post-split equivalent shown where relevant</div>
+  <div class="meta">
+    <span>Price (Pre-Split): ~$4,068</span>
+    <span>Post-Split: ~$163</span>
+    <span>Market Cap: ~$90B</span>
+    <span>EV: ~$72B</span>
+    <span>2025 Revenue: $26.92B</span>
+    <span>Adj EBITDA: $9.9B (36.9%)</span>
+    <span>FCF: ~$9.1B</span>
+    <span>52-Wk: $3,871–$5,839</span>
+    <span>Date: March 15, 2026</span>
+  </div>
+</div>
+
+<!-- 1. WHY DOES THIS COMPANY EXIST -->
+<div class="section">
+  <h2>1. Why Does This Company Exist?</h2>
+  <p>Booking Holdings (formerly The Priceline Group) was built on a foundational insight: travel is the world's largest industry, and the friction between travelers and suppliers (hotels, airlines, rental cars, restaurants) is colossal. The company exists to eliminate that friction by becoming the world's most trusted, comprehensive travel marketplace.</p>
+  <p>Founded in 1997, Booking Holdings today operates five consumer-facing brands — <strong>Booking.com</strong> (world's largest accommodation platform, 4.4 million properties, 220+ countries), <strong>Priceline</strong> (U.S. discount travel), <strong>Agoda</strong> (Asia-Pacific specialist), <strong>KAYAK</strong> (metasearch), and <strong>OpenTable</strong> (restaurant reservations) — plus support brands like Rentalcars.com and Momondo. Together, these brands processed $193B in gross bookings in 2025 from over 1.1 billion room nights.</p>
+  <p>In Buffett terms: Booking is the <strong>toll booth on global travel</strong>. It sits between 500 million travelers and 4.4 million properties and collects 15–25% of every transaction. The business doesn't own a single hotel room, plane seat, or restaurant table — it is pure platform, pure intermediation, pure information advantage. Its moat is the two-sided network: travelers go where inventory is largest; suppliers go where traveler demand is greatest. That circular reinforcement, built over 28 years, is extraordinarily hard to dismantle.</p>
+  <p>The company's evolving strategic vision — the "<strong>Connected Trip</strong>" — is to move from a hotels-only booking engine to an end-to-end AI-powered travel platform that books flights, trains, rental cars, experiences, and restaurants, and uses AI to anticipate, manage, and personalize the entire trip lifecycle. This is the agentic AI bet: being the entity that executes the trip, not just the entity that books the hotel.</p>
+
+  <div class="highlight">
+    <strong>The Pivotal Question for This Investment:</strong> Does AI disintermediate Booking (travelers book directly via AI agents, bypassing the OTA and its 15–25% take rate) — or does AI amplify Booking (the complexity of global travel fulfillment, payments, dispute resolution, and supplier relationships makes Booking MORE necessary, not less)? This question is responsible for a ~25% stock drawdown from highs and a multiple at a decade-low. It is the Mauboussin behavioral inefficiency creating the opportunity.
+  </div>
+</div>
+
+<!-- 2. ANNUAL FINANCIALS -->
+<div class="section">
+  <h2>2. Annual Financial Metrics (6-Year Trend)</h2>
+  <p><em>Note: Booking Holdings' fiscal year is the calendar year ending December 31. All figures in USD billions unless noted. 2020 data reflects severe COVID impact.</em></p>
+
+  <h3>Revenue, Gross Bookings & Room Nights</h3>
+  <table>
+    <tr>
+      <th>Metric</th><th>2020</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th><th>2025</th><th>2026E</th>
+    </tr>
+    <tr>
+      <td>Revenue ($B)</td><td class="neg">$6.8</td><td>$10.96</td><td>$17.09</td><td>$21.37</td><td>$23.74</td><td class="pos">$26.92</td><td class="pos">~$30.2</td>
+    </tr>
+    <tr>
+      <td>Revenue Growth</td><td class="neg">-55%</td><td class="pos">+61%</td><td class="pos">+56%</td><td class="pos">+25%</td><td class="pos">+11%</td><td class="pos">+13%</td><td class="pos">~+12%</td>
+    </tr>
+    <tr>
+      <td>Gross Bookings ($B)</td><td class="neg">$36.5</td><td>$95.8</td><td>$121.3</td><td>$150.6</td><td>$165.6</td><td class="pos">$193B (est)</td><td class="pos">~$214B</td>
+    </tr>
+    <tr>
+      <td>Room Nights (B)</td><td class="neg">~0.50</td><td>~0.82</td><td>~0.90</td><td>~1.0</td><td>~1.1</td><td class="pos">~1.19</td><td class="pos">~1.25–1.28</td>
+    </tr>
+    <tr>
+      <td>Room Night Growth</td><td>—</td><td class="pos">+64%</td><td class="pos">+10%</td><td class="pos">+17%</td><td class="pos">+9%</td><td class="pos">+8%</td><td class="neu">+5–7%</td>
+    </tr>
+    <tr>
+      <td>Take Rate (Rev/Gross Bookings)</td><td>18.6%</td><td>11.4%</td><td>14.1%</td><td>14.2%</td><td>14.3%</td><td>~13.9%</td><td>~14.1%</td>
+    </tr>
+  </table>
+
+  <div class="highlight">
+    <strong>Key Observation — Take Rate:</strong> The slight take rate decline in 2025 reflects the growing "merchant model" (Booking acting as payment merchant), which recognizes some revenue net of hotel payouts vs. the agency model. This is structurally positive — merchant revenue carries higher switching costs and enables the Connected Trip strategy — but creates near-term take rate noise. Underlying commission economics are stable.
+  </div>
+
+  <h3>Net Income, Adjusted EBITDA & Margins</h3>
+  <table>
+    <tr>
+      <th>Metric</th><th>2020</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th><th>2025</th><th>2026E</th>
+    </tr>
+    <tr>
+      <td>GAAP Net Income ($B)</td><td class="neg">-$0.07</td><td>$1.17</td><td>$3.06</td><td>$4.29</td><td>$5.90</td><td>$5.40</td><td class="pos">~$6.8E</td>
+    </tr>
+    <tr>
+      <td>GAAP Net Margin</td><td class="neg">-1%</td><td>10.7%</td><td>17.9%</td><td>20.1%</td><td>24.9%</td><td>20.1%</td><td>~22.5%</td>
+    </tr>
+    <tr>
+      <td>Adj EBITDA ($B)</td><td class="neg">-$0.2</td><td>$2.5</td><td>$5.3</td><td>$7.1</td><td>$8.3</td><td class="pos">$9.9</td><td class="pos">~$11.0E</td>
+    </tr>
+    <tr>
+      <td>Adj EBITDA Margin</td><td class="neg">nm</td><td>22.8%</td><td>31.0%</td><td>33.2%</td><td>35.0%</td><td class="pos">36.9%</td><td class="pos">~37.4%E</td>
+    </tr>
+    <tr>
+      <td>Adj EPS (pre-split)</td><td class="neg">~-$1.40</td><td>$72.37</td><td>$99.83</td><td>$152.42</td><td>$187.10</td><td class="pos">$228.06</td><td class="pos">~$262E</td>
+    </tr>
+    <tr>
+      <td>Adj EPS Growth</td><td>—</td><td>nm</td><td class="pos">+38%</td><td class="pos">+53%</td><td class="pos">+23%</td><td class="pos">+22%</td><td class="pos">~+15%</td>
+    </tr>
+  </table>
+
+  <div class="highlight">
+    <strong>Key Observation — 2025 GAAP Net Income Dip:</strong> GAAP net income declined from $5.90B (2024) to $5.40B (2025) despite higher revenue. This was driven by: (1) a proposed ~$530M fine from the Spanish competition authority; (2) higher marketing costs as merchant model scales; (3) the $700M reinvestment program beginning. The adjusted EPS of $228.06 (+22%) better reflects underlying business performance and is the appropriate metric for trend analysis. The GAAP dip is a one-time regulatory item, not operational deterioration.
+  </div>
+
+  <h3>SBC & Dilution — The Remarkably Clean Picture</h3>
+  <table>
+    <tr>
+      <th>Metric</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th><th>2025</th>
+    </tr>
+    <tr>
+      <td>SBC ($M)</td><td>~$370</td><td>~$450</td><td>~$480</td><td>~$520</td><td>~$560 est.</td>
+    </tr>
+    <tr>
+      <td>SBC as % of Revenue</td><td>3.4%</td><td>2.6%</td><td>2.2%</td><td class="pos">2.2%</td><td class="pos">~2.1%</td>
+    </tr>
+    <tr>
+      <td>Diluted Shares Outstanding (M)</td><td>~43.8</td><td>~40.5</td><td>~37.7</td><td>~34.2</td><td>~31.8</td>
+    </tr>
+    <tr>
+      <td>YoY Share Count Change</td><td>—</td><td class="pos">-7.5%</td><td class="pos">-6.9%</td><td class="pos">-9.3%</td><td class="pos">-7.0%</td>
+    </tr>
+    <tr>
+      <td>Shareholder Returns ($B)</td><td>~$4.5</td><td>~$7.0</td><td>~$8.0</td><td>~$7.0</td><td class="pos">~$8.2</td>
+    </tr>
+  </table>
+
+  <div class="verdict">
+    <strong>Dilution Verdict — World Class Capital Return:</strong> SBC at ~2.1% of revenue is modest — comparable to SCHW and well below PATH (17%) or early-stage tech. More importantly, Booking repurchases shares aggressively enough to reduce share count by 6–9% annually. Diluted shares have declined from ~43.8M (2021) to ~31.8M (2025) — a 27% reduction in 4 years. This creates a powerful EPS growth tailwind independent of revenue: a 9% revenue growth business with 7% annual buyback creates 16%+ EPS growth before any margin expansion. That's exactly the "9/9/15" framework management described — 9% gross bookings, 9% revenue, 15% EPS growth.
+  </div>
+
+  <h3>Free Cash Flow — The Core of the Thesis</h3>
+  <table>
+    <tr>
+      <th>Metric</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th><th>2025</th><th>2026E</th>
+    </tr>
+    <tr>
+      <td>Operating Cash Flow ($B)</td><td>$0.9</td><td>$5.0</td><td>$7.3</td><td>$8.3</td><td class="pos">~$9.5</td><td class="pos">~$10.5–11.0E</td>
+    </tr>
+    <tr>
+      <td>CapEx ($B)</td><td>$0.08</td><td>$0.19</td><td>$0.28</td><td>$0.35</td><td>~$0.35</td><td>~$0.40E</td>
+    </tr>
+    <tr>
+      <td>Free Cash Flow ($B)</td><td>$0.8</td><td>$4.8</td><td>$7.0</td><td>$7.9</td><td class="pos">$9.1</td><td class="pos">~$10.1–10.6E</td>
+    </tr>
+    <tr>
+      <td>FCF Margin</td><td>7.3%</td><td>28.1%</td><td>32.8%</td><td>33.3%</td><td class="pos">33.8%</td><td class="pos">~34.5%E</td>
+    </tr>
+    <tr>
+      <td>FCF / Adj EBITDA</td><td>32%</td><td>90%</td><td>99%</td><td>95%</td><td class="pos">92%</td><td>~96%</td>
+    </tr>
+  </table>
+
+  <div class="verdict">
+    <strong>FCF Verdict — One of the Finest Cash Machines in Global Business:</strong> FCF at $9.1B on $26.9B revenue is a 33.8% FCF margin. CapEx is negligible — Booking doesn't own planes, hotels, or restaurants. The asset-light platform model converts nearly every dollar of EBITDA to cash. At a ~$90B market cap, this is a 10.1x FCF multiple — remarkably inexpensive for a business growing at 9–13% annually with durable double-digit EPS growth via buybacks. The FCF yield (FCF/market cap) of ~10.1% is extraordinary for a Morningstar wide-moat compounder. Buffett would recognize this instantly.
+  </div>
+</div>
+
+<!-- 3. OPERATIONAL METRICS -->
+<div class="section">
+  <h2>3. Business & Operational Metrics</h2>
+
+  <h3>Core Volume Metrics</h3>
+  <table>
+    <tr>
+      <th>Metric</th><th>2023</th><th>2024</th><th>2025</th><th>Q1 2026E</th><th>FY2026E</th>
+    </tr>
+    <tr>
+      <td>Room Nights Booked (B)</td><td>~1.0</td><td>~1.1</td><td>~1.19</td><td>—</td><td>1.25–1.28B</td>
+    </tr>
+    <tr>
+      <td>Room Night Growth YoY</td><td class="pos">+17%</td><td class="pos">+9%</td><td class="pos">+8%</td><td>—</td><td class="neu">+5–7%</td>
+    </tr>
+    <tr>
+      <td>Gross Bookings ($B)</td><td>$150.6</td><td>$165.6</td><td>~$193</td><td>—</td><td>~$214E</td>
+    </tr>
+    <tr>
+      <td>Gross Bookings Growth</td><td class="pos">+24%</td><td class="pos">+10%</td><td class="pos">+16% (11% cc)</td><td>—</td><td class="pos">+11% cc</td>
+    </tr>
+    <tr>
+      <td>Alternative Accommodation Listings</td><td>~6.6M</td><td>~7.9M</td><td>8.6M</td><td>—</td><td>~9.2M est.</td>
+    </tr>
+    <tr>
+      <td>Alt. Accommodation as % of Room Nights</td><td>~33%</td><td>~34%</td><td>~36%</td><td>—</td><td>~37%</td>
+    </tr>
+    <tr>
+      <td>Airline Tickets Booked (YoY)</td><td>—</td><td>—</td><td class="pos">+37% YoY</td><td>—</td><td>—</td>
+    </tr>
+    <tr>
+      <td>ADR (Average Daily Rate) Trend</td><td>+4–5%</td><td>+2%</td><td class="neg">Slight softness (U.S.)</td><td>—</td><td>Stable to slightly down</td>
+    </tr>
+  </table>
+
+  <div class="highlight">
+    <strong>Room Night Growth Deceleration — Context Matters:</strong> Room night growth has declined from +17% (2023) to +8% (2025) and is guided +5–7% in 2026. This is the primary earnings call concern. However: (1) The deceleration reflects post-pandemic normalization, not structural share loss; (2) 5–7% room night growth on top of 1.19B already-large base is massive absolute volume; (3) Revenue grows faster than room nights because of attach rate improvements (flights, experiences, rental cars add incremental revenue); (4) Management explicitly targets revenue growing above room nights via Connected Trip cross-selling.
+  </div>
+
+  <h3>Customer Engagement & Loyalty — The Genius Program</h3>
+  <table>
+    <tr>
+      <th>Metric</th><th>Reading (Q4 2025)</th><th>Signal</th>
+    </tr>
+    <tr>
+      <td>Genius Level 2+3 as % of Active Base</td><td class="pos">30%+</td><td class="pos">Sticky, high-LTV loyal users accelerating</td>
+    </tr>
+    <tr>
+      <td>Genius Level 2+3 Room Night Share</td><td class="pos">50%+</td><td class="pos">Loyal customers disproportionately drive volume</td>
+    </tr>
+    <tr>
+      <td>Merchant Model % of Gross Bookings</td><td class="pos">~68%</td><td class="pos">More direct control, customer data, loyalty</td>
+    </tr>
+    <tr>
+      <td>Direct / App Bookings Trend</td><td class="pos">Growing strongly</td><td class="pos">Reducing paid search dependency (lower CAC)</td>
+    </tr>
+    <tr>
+      <td>AI-Powered Cost Per Booking</td><td class="pos">-10% YoY (2025)</td><td class="pos">Already generating quantifiable AI savings</td>
+    </tr>
+    <tr>
+      <td>Customer Service Cost vs 2024</td><td class="pos">Below 2024 at +10% volume</td><td class="pos">AI agentic tools reducing human-touch rate</td>
+    </tr>
+  </table>
+
+  <div class="verdict">
+    <strong>Genius / Loyalty Verdict:</strong> The Genius loyalty program is evolving into a genuine switching cost. When 50%+ of room nights come from Level 2+ Genius members who receive exclusive discounts unavailable elsewhere, those customers face real economic incentives to stay on Booking's platform. The merchant model (68% of bookings) deepens this lock-in: Booking handles the payment, the refund, the rebooking — the customer relationship is with Booking, not with the hotel. This is a deliberate moat-deepening strategy that reduces dependence on Google as traffic intermediary.
+  </div>
+
+  <h3>Geographic Revenue Mix</h3>
+  <table>
+    <tr>
+      <th>Region</th><th>% of Revenue (Approx.)</th><th>Key Markets</th><th>Trend</th>
+    </tr>
+    <tr>
+      <td>Europe (led by Netherlands HQ)</td><td>~55%</td><td>UK, Germany, France, Italy, Spain</td><td class="pos">Core market, stable; FX tailwind in 2025–26</td>
+    </tr>
+    <tr>
+      <td>Asia Pacific</td><td>~22%</td><td>Japan, SE Asia, India, ANZ (via Agoda)</td><td class="pos">Fastest-growing region; key 2026 investment target</td>
+    </tr>
+    <tr>
+      <td>Americas (mostly U.S.)</td><td>~18%</td><td>United States, Canada, Latin America</td><td class="neg">Mild softness in U.S. (shorter stays, lower ADRs)</td>
+    </tr>
+    <tr>
+      <td>Rest of World</td><td>~5%</td><td>Middle East, Africa</td><td class="neu">Growth; geopolitical uncertainty (Israel/Gaza)</td>
+    </tr>
+  </table>
+
+  <div class="info-box">
+    <strong>Geographic Advantage vs. Expedia:</strong> ~90% of Booking's revenue is generated outside the United States — the inverse of Expedia's U.S.-heavy mix. This was a meaningful advantage in 2025 as the U.S. market showed softness (lower ADRs, shorter stays, "K-shaped" travel demand). European and APAC travel demand was structurally stronger. The EUR/USD tailwind (~2 percentage points of reported revenue growth benefit in 2026 per management guidance) is an additional near-term boost.
+  </div>
+</div>
+
+<!-- 4. REVENUE MIX -->
+<div class="section">
+  <h2>4. Revenue Mix & Business Model Evolution</h2>
+  <table>
+    <tr>
+      <th>Revenue Stream</th><th>2025 Approx. ($B)</th><th>% of Revenue</th><th>Key Driver</th>
+    </tr>
+    <tr>
+      <td>Accommodation (Merchant + Agency)</td><td>~$19.5</td><td>~72%</td><td>Room nights booked × ADR × take rate</td>
+    </tr>
+    <tr>
+      <td>Flights / Non-Accommodation</td><td>~$4.0</td><td>~15%</td><td>Airline tickets (+37% YoY), Connected Trip attach</td>
+    </tr>
+    <tr>
+      <td>Advertising (KAYAK, Performance)</td><td>~$2.2</td><td>~8%</td><td>KAYAK metasearch, hotel partner advertising</td>
+    </tr>
+    <tr>
+      <td>Restaurant / Other (OpenTable)</td><td>~$1.2</td><td>~5%</td><td>OpenTable reservations, dining discovery</td>
+    </tr>
+  </table>
+
+  <div class="highlight">
+    <strong>Business Model Transition — Agency to Merchant:</strong> Historically, Booking operated as an "agency" — collecting commission from hotels for referring bookings. The shift to "merchant model" means Booking collects the full payment from travelers and remits to hotels. At 68% of gross bookings on the merchant model (2025), this: (1) improves customer loyalty and data ownership; (2) enables "Connected Trip" bundling (pay once, get flights + hotel + car); (3) reduces price transparency that could drive customers to hotel websites; (4) creates more complex accounting (revenue shown gross rather than net) boosting reported revenue. The 2026 $700M reinvestment program is primarily funding this merchant/Connected Trip buildout.
+  </div>
+</div>
+
+<!-- 5. MOAT -->
+<div class="section">
+  <h2>5. Competitive Moat — Wide But Contested</h2>
+  <p>Morningstar assigns Booking Holdings a "<strong>Wide Moat</strong>" rating — one of the highest designations in their coverage universe. The evidence supports this, but the AI narrative has created genuine uncertainty about its durability that warrants rigorous analysis.</p>
+
+  <h3>Moat Components — Genuine and Durable</h3>
+  <ul>
+    <li><strong>Two-Sided Network Effect (Primary Moat):</strong> 4.4 million listed properties joined Booking.com because travelers are there. Travelers go to Booking.com because the inventory is broadest. Each new hotel listing makes the platform more valuable to travelers; each new traveler makes the platform more valuable to hotels. This positive feedback loop — built over 28 years of compounding — is Booking's most durable competitive advantage and cannot be quickly replicated.</li>
+    <li><strong>Global Supplier Relationships (Critical Differentiator):</strong> CFO Steenbergen noted at Morgan Stanley TMT that Booking has <em>real-time connectivity</em> to 4.4 million properties and processes payments in 100+ payment forms and 50+ currencies. Building this infrastructure from scratch would take a decade and billions of dollars. This is why Google — despite massive resources — has explicitly stated it will not become a merchant of record or OTA. The fulfillment complexity is a genuine barrier.</li>
+    <li><strong>Genius Loyalty Program (Switching Costs):</strong> Level 2+ Genius members representing 50%+ of room nights create economic lock-in — these travelers receive discounts not available elsewhere, and losing that status creates real switching costs. As the merchant model deepens, the loyalty data Booking accumulates (travel patterns, preferences, price sensitivity) creates a personalization advantage that new entrants cannot match.</li>
+    <li><strong>Brand Trust in Crisis:</strong> When a traveler's hotel burns down at 2am or a flight is canceled during a geopolitical crisis, they don't want to talk to an AI chatbot — they want to call Booking.com and get a human to fix it. Steenbergen gave the example of the Middle East conflict at Morgan Stanley: Booking helped thousands of travelers cancel, rebook, and get refunds. This trust function is irreplaceable and highly valuable, especially at the high-end travel segment.</li>
+    <li><strong>Scale Advantages in Marketing:</strong> Booking spends $6–7B annually on performance marketing — giving it buying power on Google, Meta, and other channels that smaller competitors cannot match. The merchant model is actively reducing this dependency by driving direct/app bookings.</li>
+  </ul>
+
+  <h3>Where the Moat Faces Real Pressure</h3>
+  <ul>
+    <li><strong>Google (Frenemy Risk):</strong> Google Travel, Google Hotel Ads, and Google Flights continue to evolve. Booking disclosed that Google has stated publicly it will not become a merchant of record — but Google's integration of AI search (AI Overviews) into travel queries reduces click-through to OTA sites. This is a slow, grinding headwind to marketing efficiency, not an existential threat.</li>
+    <li><strong>Horizontal AI Agents (The Existential Question):</strong> Bernstein's March 2026 note flagged that AI platforms delivering "narrow sets of highly relevant results" via natural language could disrupt the "long list of sponsored links" model. If travelers increasingly use GPT/Gemini to plan AND book trips, and those AI models route to hotels directly (bypassing Booking's commission), the take rate is threatened. The CFO rebutted this: LLM traffic to Booking is "very small and not growing" and most users still book through trusted platforms after using AI for research.</li>
+    <li><strong>Hotel Brand Direct Booking:</strong> Marriott, Hilton, IHG, and other major brands have invested heavily in loyalty programs that offer price parity or advantages vs. OTA rates. Under the EU's Digital Markets Act (DMA), Booking can no longer enforce rate parity (blocking hotels from offering cheaper rates on their own sites). This could erode Booking's price advantage in Europe over time.</li>
+    <li><strong>Regulatory Risk (Spain Fine + DMA):</strong> A proposed €530M fine from Spanish regulators and the DMA "gatekeeper" designation create ongoing legal and compliance costs. Regulatory scrutiny of Booking's market practices is escalating across multiple geographies.</li>
+  </ul>
+
+  <div class="bait-box">
+    <strong>The "AND" Thesis for Booking — Why AI is More Friend Than Enemy:</strong>
+    Booking CFO Steenbergen made the key distinction at Morgan Stanley: he asked an LLM to help him cancel and rebook a flight, and it responded that it was a "travel strategy advisor, not the one pushing the button." The fulfillment gap between AI planning and AI execution is precisely Booking's value proposition. Even in the agentic future, an AI agent planning your trip still needs: (1) real-time inventory from 4.4M properties; (2) payment processing in 50+ currencies; (3) customer service when something goes wrong; (4) trust and liability in regulatory jurisdictions. That is Booking Holdings. Morgan Stanley analyst Brian Nowak made this explicit in the February 24 upgrade: "agents also need BKNG's leading inventory, giving BKNG leverage."
+  </div>
+</div>
+
+<!-- 6. MANAGEMENT -->
+<div class="section">
+  <h2>6. Management & Leadership</h2>
+
+  <p><strong>Glenn Fogel (CEO & President):</strong> Fogel has led Booking Holdings since 2017, succeeding Darren Huston. A 20+ year veteran of Priceline/Booking, he was the architect of Booking.com's global expansion strategy including the acquisition of Kayak, OpenTable, and Agoda. Under his tenure, adjusted EPS has compounded at ~20%+ annually. Fogel is an operator's operator — known for financial discipline, shareholder return focus, and strategic patience. He has consistently avoided the "growth at all costs" trap that destroyed Expedia's margins.</p>
+
+  <p><strong>Ewout Steenbergen (CFO):</strong> Joined in 2022 from S&P Global. Architect of the Transformation Program ($550M in annualized cost savings achieved by year-end 2025 at the high end of targets), the self-funded $700M reinvestment plan, and the "9/9/15" medium-term financial framework. His Morgan Stanley TMT presentation was exceptionally clear-eyed on the AI risk/opportunity — a mark of financial sophistication. The $8.2B returned to shareholders in 2025 reflects a balance sheet management discipline that is rare in travel.
+  </p>
+
+  <div class="verdict">
+    <strong>Management Verdict — Exemplary Capital Allocation:</strong> The combination of Fogel (strategic vision, deep product knowledge) and Steenbergen (financial discipline, cost optimization) is one of the strongest leadership pairs in the travel sector. Key indicators: (1) Share count reduced 27% in 4 years; (2) $550M Transformation Program at the high end of targets; (3) $700M self-funded reinvestment (AI, Connected Trip, regional expansion) — funded from operational savings, not from earnings dilution; (4) 9.4% dividend increase to $10.50/share; (5) 25-for-1 stock split signals management confidence at current valuations. No governance concerns — single-class share structure, no founder dual-class voting, clean audit history.
+  </div>
+
+  <h3>The $700M Reinvestment Plan — Return on Investment Framework</h3>
+  <div class="highlight">
+    <strong>Self-Funded Reinvestment Logic:</strong> Management has been explicit about the reinvestment structure. The $550M in Transformation savings allows Booking to fund $700M in 2026 reinvestment (AI, Connected Trip, Asia expansion, OpenTable, advertising, fintech) without EBITDA margin contraction. They project this $700M investment to generate approximately $400M in incremental annual revenue — a 57% year-1 payback, with compounding benefits in subsequent years. This is disciplined capital allocation: they're not spending for growth's sake, they're spending on specific initiatives with defined return expectations.
+  </div>
+</div>
+
+<!-- 7. STRATEGIC INITIATIVES -->
+<div class="section">
+  <h2>7. Strategic Growth Initiatives</h2>
+  <ul>
+    <li><strong>Connected Trip Platform:</strong> The core strategy — bundling flights (+37% bookings in 2025), rental cars, experiences, and restaurants into a single itinerary that Booking manages end-to-end. As attach rates increase (travelers booking 2+ services per trip), revenue per room night grows without requiring room night growth. This is the key driver of revenue growing faster than room nights.</li>
+    <li><strong>Agentic AI — Internal Efficiency First:</strong> Already delivering $10% cost reduction per booking in 2025 via agentic customer service (lower handling time, lower contact rate, maintained satisfaction scores). Management sees more potential in 2026. This is AI as a margin driver — one of the clearest examples of immediate AI ROI in any large-cap company.</li>
+    <li><strong>Agentic AI — Customer-Facing (the Bigger Bet):</strong> "Penny" on Priceline, AI concierge on OpenTable, agentic itinerary tools at Booking.com and Agoda. These tools aim to be the AI-native interface that captures travelers before they go to Google or OpenAI. First-mover advantage in agentic travel tools provides brand positioning and data advantages that compound.</li>
+    <li><strong>Asia Pacific Expansion:</strong> Agoda's Asia expansion is the highest-growth geographic opportunity. A 20% surge in cross-border APAC travel (2025) combined with underpenetrated OTA adoption in markets like India, Southeast Asia, and Japan creates a runway that European markets don't offer. APAC-specific investment is a key component of the $700M reinvestment.</li>
+    <li><strong>Alternative Accommodations Scaling:</strong> 8.6M listings (+8% YoY), representing 36% of room nights, directly competing with Airbnb. While growth is slower than Airbnb's inventory expansion, Booking's supply base covers a wider range of accommodation types (apartments, villas, hotels) and serves business travelers alongside leisure — a more diversified and stickier supply base.</li>
+    <li><strong>Merchant Model Deepening (Payments):</strong> At 68% merchant model penetration, Booking is building a fintech layer. Processing payments directly (100+ forms, 50+ currencies) enables better customer data, loyalty integration, and the "pay once for everything" Connected Trip experience. Long term, this payment infrastructure could itself become a revenue stream.</li>
+    <li><strong>OpenTable Expansion:</strong> Restaurant AI concierge, expanded geographic coverage, and integration with the Connected Trip ("book hotel + dinner") creates cross-sell opportunities. The $700M reinvestment includes OpenTable growth, signaling management confidence in the dining reservation platform's strategic role.</li>
+    <li><strong>25-for-1 Stock Split (April 2, 2026):</strong> A $4,000+ share price was an accessibility barrier for retail investors, excluding BKNG from price-weighted indices (Dow Jones, for instance, uses price weighting). Post-split at ~$163/share, the stock is accessible to Robinhood users, 401k participants, and index funds that have share-price minimums. Historically, stock splits in high-quality businesses are associated with 6–12 month positive price performance from increased retail participation.</li>
+  </ul>
+</div>
+
+<!-- 8. RISKS -->
+<div class="section">
+  <h2>8. Key Risks</h2>
+  <ul>
+    <li><strong>Agentic AI Disintermediation (Medium-High Impact, Low-Moderate Probability Near-Term):</strong> The existential risk. If AI platforms become transactional merchants of record for travel, Booking's commission model is threatened. The CFO's data (LLM traffic "very small and not growing") and OpenAI's stated retreat from direct checkout suggest this risk is further out than feared. But it's real and must be monitored.</li>
+    <li><strong>Google AI Search (Chronic Headwind):</strong> AI Overviews reducing hotel search click-through is a slow, sustained drag on marketing efficiency. Booking is responding by building direct/app habits via Genius, but this is a decades-long arms race. Already EBITDA margins are 3%+ below 2015 levels (per Bernstein) from prior Google adaptations.</li>
+    <li><strong>Room Night Growth Deceleration (Priced In):</strong> +5–7% room night guidance for 2026 vs. +17% in 2023. Post-pandemic normalization is complete; travel growth returns to GDP+ levels rather than revenge-travel levels. This was the primary driver of the post-earnings drawdown but is now consensus expectation.</li>
+    <li><strong>Regulatory Risk (Ongoing):</strong> Spain's €530M proposed fine, EU Digital Markets Act rate parity prohibitions, GDPR data privacy constraints, and multiple jurisdiction antitrust reviews. Booking spends significant capital on legal defense and regulatory compliance. DMA in particular could structurally reduce pricing power in Europe.</li>
+    <li><strong>U.S. Market Softness:</strong> Shorter average stays and slight ADR declines in Q4 2025 in the U.S. market. If U.S. consumer spending deteriorates further (recession risk, tariff-driven inflation), the U.S. segment (~18% of revenue) could be a drag. Less critical than for Expedia but worth monitoring.</li>
+    <li><strong>FX Volatility:</strong> ~90% of revenue is non-USD, primarily EUR. The $1.17 EUR/USD assumption in 2026 guidance creates ~2ppt revenue boost. A reversal (USD strengthening) would be a 2026 headwind. Currency is always a wildcard for global businesses of this scale.</li>
+    <li><strong>Macro / Travel Demand Shock:</strong> A severe recession, pandemic-level health scare, or major geopolitical conflict disrupting air travel would crater room nights and gross bookings. Booking's 2020 performance (-55% revenue) shows the magnitude of a genuine travel shock, though the recovery (to record highs by 2022–2025) also shows the business's resilience.</li>
+    <li><strong>Marketing Efficiency Erosion:</strong> Performance marketing was 27% of revenue in 2024, slightly higher in 2025. If Google increases ad prices (as it has historically), the customer acquisition cost rises and EBITDA margins compress. The merchant/direct model is the strategic hedge, but migration takes time.</li>
+  </ul>
+</div>
+
+<!-- 9. INTEREST RATE / MACRO -->
+<div class="section">
+  <h2>9. Interest Rate Sensitivity & Macro Analysis</h2>
+  <p>Unlike SCHW (where rate sensitivity is the dominant variable) or PATH (where enterprise IT budgets drive results), Booking's primary sensitivity is to <strong>travel demand and consumer discretionary spending</strong>. Rate sensitivity is secondary but non-trivial.</p>
+
+  <div class="grid4">
+    <div class="metric-card green">
+      <div class="value">~10x</div>
+      <div class="label">EV/FCF at Current Price — Cheap</div>
+    </div>
+    <div class="metric-card green">
+      <div class="value">37%</div>
+      <div class="label">Adj EBITDA Margin — Best in OTA Sector</div>
+    </div>
+    <div class="metric-card amber">
+      <div class="value">~$17.2B</div>
+      <div class="label">Gross Cash (No Net Debt Burden)</div>
+    </div>
+    <div class="metric-card">
+      <div class="value">$8.2B</div>
+      <div class="label">Shareholder Returns in 2025</div>
+    </div>
+  </div>
+
+  <h3>Rate & Macro Scenario Analysis</h3>
+  <table>
+    <tr>
+      <th>Macro Scenario</th><th>Impact on BKNG</th><th>Net Revenue Effect</th>
+    </tr>
+    <tr>
+      <td>Soft landing + 2–3 Fed cuts</td><td class="pos">Positive — consumer confidence intact, travel demand steady; lower rates boost housing mobility → more travel</td><td class="pos">Base case: +9–12% revenue</td>
+    </tr>
+    <tr>
+      <td>Mild recession / consumer pullback</td><td class="neg">Negative — ADR pressure, shorter stays, fewer international trips; business travel first cut</td><td class="neg">-5 to +3% revenue</td>
+    </tr>
+    <tr>
+      <td>Rate cuts to near-zero (crisis)</td><td class="neg">Very negative — implies recession; 2020 analog would be -40 to -60% revenue</td><td class="neg">Extreme tail risk</td>
+    </tr>
+    <tr>
+      <td>USD strengthens significantly</td><td class="neg">FX headwind — 90% of revenue non-USD; every 5% USD strengthening = ~2% revenue headwind</td><td class="neg">-2 to -4% revenue translation</td>
+    </tr>
+    <tr>
+      <td>AI adopted broadly, no disintermediation</td><td class="pos">Best case — internal efficiency savings compound; agentic tools grow booking attach rates</td><td class="pos">+13–15% revenue, margin expansion</td>
+    </tr>
+  </table>
+
+  <h3>Key Management & Analyst Commentary</h3>
+
+  <p><strong>Glenn Fogel (CEO), Q4 2025 Earnings Call (February 18, 2026):</strong></p>
+  <div class="quote-block">"2025 was another year of strong execution for us. Despite volatility in the broader global markets, the underlying fundamentals of our business are solid. Travel demand remains resilient, and we are building offerings that enhance our value proposition for both customers and suppliers."</div>
+
+  <p><strong>Ewout Steenbergen (CFO), Morgan Stanley TMT Conference (March 4, 2026):</strong></p>
+  <div class="quote-block">"Traffic coming from LLMs to Booking is currently very small and not growing — stable month to month. Many users appear to use LLMs for research and itinerary-building, but still book through trusted travel platforms... Concerns about horizontal AI agents disruption underestimate the complexity of travel fulfillment, including customer service, payments, tax and regulatory issues, and data privacy."</div>
+
+  <p><strong>Morgan Stanley (Brian Nowak, Analyst Upgrade, February 24, 2026):</strong></p>
+  <div class="quote-block">"We think BKNG and the OTAs are set to be just as important in the agentic world as they have been the past two decades. Agents also need BKNG's leading inventory, giving BKNG leverage. BKNG is well-positioned to own the customer, capture robust traveler data and use those to drive high margin direct business."</div>
+
+  <p><strong>Bernstein (Analyst Note, March 2026 — Bear View):</strong></p>
+  <div class="quote-block">The rise of generative AI threatens to compress margins and erode the "supply moat" — AI platforms deliver narrow, highly relevant results via natural language, which is a more disruptive model than Google's 2010 entry into travel metasearch. OTAs could face meaningful disruption to their take rates and marketing efficiency.</div>
+
+  <div class="info-box">
+    <strong>How to Weigh Morgan Stanley vs. Bernstein:</strong> Both are credible. The key distinction is timeline. Bernstein's disintermediation concern is a multi-year structural threat; Morgan Stanley's counter is near-term empirical evidence (LLM traffic "not growing"). The near-term investment case (~1–3 years) sits firmly with Morgan Stanley — the current AI risk is behavioral fear, not actual revenue impairment. The long-term case (5–10 years) requires monitoring whether AI agent platforms build the fulfillment complexity to bypass OTAs. Position sizing and exit criteria should reflect this distinction.
+  </div>
+</div>
+
+<!-- 10. VALUATION -->
+<div class="section">
+  <h2>10. Valuation & Return Target Analysis</h2>
+
+  <div class="grid4">
+    <div class="metric-card">
+      <div class="value">~$4,068</div>
+      <div class="label">Current Price (Pre-Split)</div>
+    </div>
+    <div class="metric-card">
+      <div class="value">~$163</div>
+      <div class="label">Post-Split Equivalent (÷25)</div>
+    </div>
+    <div class="metric-card green">
+      <div class="value">~10x</div>
+      <div class="label">EV/FCF (2025 $9.1B FCF)</div>
+    </div>
+    <div class="metric-card green">
+      <div class="value">~7.3x</div>
+      <div class="label">EV/Adj EBITDA (2025)</div>
+    </div>
+  </div>
+
+  <h3>Peer Valuation Comparison</h3>
+  <table>
+    <tr>
+      <th>Company</th><th>EV/EBITDA</th><th>FCF Yield</th><th>Revenue Growth</th><th>Adj EPS Growth</th><th>Moat Rating</th>
+    </tr>
+    <tr>
+      <td>Booking Holdings (BKNG)</td><td class="pos">~7.3x</td><td class="pos">~10.1%</td><td>+13%</td><td class="pos">+22%</td><td>Wide</td>
+    </tr>
+    <tr>
+      <td>Airbnb (ABNB)</td><td>~18x</td><td>~4%</td><td>+10%</td><td>+15%</td><td>Wide</td>
+    </tr>
+    <tr>
+      <td>Expedia (EXPE)</td><td>~9x</td><td>~8%</td><td>+11%</td><td>+12%</td><td>Narrow</td>
+    </tr>
+    <tr>
+      <td>Trip.com (TCOM)</td><td>~14x</td><td>~5%</td><td>+15%</td><td>+20%</td><td>Narrow</td>
+    </tr>
+    <tr>
+      <td>Analyst Avg Price Target (Pre-Split)</td><td colspan="5" style="text-align:center; font-style:italic;">~$5,600–$6,200 range; consensus Strong Buy; 30/36 analysts at Buy. Post-split: ~$224–$248</td>
+    </tr>
+  </table>
+
+  <div class="highlight">
+    <strong>Valuation Verdict — Decadal Cheapness:</strong> BKNG's stock multiple is at a 10-year trough (per Morgan Stanley), even after recovering from the post-earnings selloff. At 7.3x EBITDA and 10x FCF, you are paying less than most real estate investment trusts for a business growing at 13% revenue / 22% EPS that generates $9.1B in free cash annually and has a genuine wide moat. Airbnb — a lower-margin, slower-FCF business — trades at 18x EBITDA. This 2.5x valuation gap is the core of the opportunity. The market is discounting AI disruption that is currently not visible in any operating metric.
+  </div>
+
+  <h3>Return Target Analysis (Pre-Split Prices, Post-Split in Parentheses)</h3>
+  <table>
+    <tr>
+      <th>Return Target</th><th>Horizon</th><th>Required Price (Pre-Split)</th><th>Post-Split Equiv.</th><th>Implied Multiple</th><th>Probability</th>
+    </tr>
+    <tr>
+      <td>20% Return</td><td>1 year</td><td>$4,882</td><td>~$195</td><td>~9x 2026E EBITDA</td><td class="pos">High — consensus target avg $5,600+</td>
+    </tr>
+    <tr>
+      <td>50% Return</td><td>2–3 years</td><td>$6,102</td><td>~$244</td><td>~10x 2027E EBITDA</td><td class="pos">Moderate-High — requires no AI impairment</td>
+    </tr>
+    <tr>
+      <td>3x Return (Bull)</td><td>4–5 years</td><td>$12,204</td><td>~$488</td><td>~14x 2029E EBITDA</td><td class="neu">Moderate — requires AI amplification, not disruption</td>
+    </tr>
+  </table>
+
+  <h3>Scenario Analysis: 20% Return in 1 Year (~$4,882 / ~$195 post-split)</h3>
+  <table>
+    <tr><th>Scenario</th><th>2026 Adj EBITDA</th><th>EV/EBITDA</th><th>Pre-Split Price</th><th>Post-Split</th><th>Return</th></tr>
+    <tr><td>Bear (AI fears persist, Q1 guide miss)</td><td>$10.0B</td><td>6.5x</td><td>$3,200</td><td>$128</td><td class="neg">-21%</td></tr>
+    <tr><td>Base (Management guidance delivered)</td><td>$11.0B</td><td>8.5x</td><td>$5,100</td><td>$204</td><td class="pos">+25%</td></tr>
+    <tr><td>Bull (AI fears subside, multiple re-rates)</td><td>$11.3B</td><td>10.5x</td><td>$6,400</td><td>$256</td><td class="pos">+57%</td></tr>
+    <tr><td>Bull+ (Connected Trip inflection + re-rate)</td><td>$11.7B</td><td>12.0x</td><td>$7,600</td><td>$304</td><td class="pos">+87%</td></tr>
+  </table>
+
+  <h3>Scenario Analysis: 3-Year Return (~2028)</h3>
+  <table>
+    <tr><th>Scenario</th><th>2028E FCF</th><th>FCF Multiple</th><th>Pre-Split Price</th><th>Post-Split</th><th>Return</th></tr>
+    <tr><td>Bear (AI disruption materializes, margin compress)</td><td>$8.0B</td><td>8x</td><td>$2,600</td><td>$104</td><td class="neg">-36%</td></tr>
+    <tr><td>Base (9% revenue CAGR, 37–38% EBITDA margin)</td><td>$12.0B</td><td>14x</td><td>$6,200</td><td>$248</td><td class="pos">+52%</td></tr>
+    <tr><td>Bull (Connected Trip delivers, AI amplifies)</td><td>$15.0B</td><td>18x</td><td>$9,500</td><td>$380</td><td class="pos">+134%</td></tr>
+    <tr><td>Bull+ (Re-rates to Airbnb-like multiple)</td><td>$16.5B</td><td>20x</td><td>$11,800</td><td>$472</td><td class="pos">+190%</td></tr>
+  </table>
+
+  <div class="highlight">
+    <strong>FCF Derivation for 3-Year Base:</strong> 2025 FCF $9.1B growing at 12% CAGR (revenue growth + margin expansion + lower share count) = $12.7B by 2028. At 14x FCF (modest premium to current 10x, still cheap vs. historical 18–22x), enterprise value = $177B. Net cash of ~$20B (accumulated). Equity value ~$197B. Shares ~27M (buybacks continue). Pre-split implied price: ~$7,300. Post-split: ~$292. This conservative math gets you to 80% return over 3 years — more than the 50% target — with minimal AI amplification assumption.
+  </div>
+</div>
+
+<!-- 11. POSITION STRATEGY -->
+<div class="section">
+  <h2>11. Position Building Strategy</h2>
+
+  <h3>Why Stock-Heavy (Contrast with PATH, More Like SCHW)</h3>
+  <p>BKNG is a Wide Moat, positive FCF, disciplined-management compounder with a clean single-class governance structure. The primary risk (AI disintermediation) is currently behavioral fear, not fundamental impairment. This warrants a stock-heavy structure — you want to own the compounding machine, not just the volatility. However, given the AI uncertainty overhang and the near-term potential for further selloffs on AI news, a staged entry and modest options overlay makes sense.</p>
+
+  <h3>Recommended Split: 80% Stock / 20% Options Enhancement</h3>
+  <p><em>All prices shown pre-split; post-split equivalent in parentheses assuming April 2 effective date</em></p>
+
+  <h3>Stock Position — Staged Entry</h3>
+  <table>
+    <tr><th>Tranche</th><th>Allocation</th><th>Entry Trigger</th><th>Price Range (Pre-Split)</th><th>Post-Split Equiv.</th></tr>
+    <tr><td>Tranche 1 (now)</td><td>40% of position</td><td>Current levels — FCF yield at decade low makes waiting costly</td><td>$3,900–$4,200</td><td>$156–$168</td></tr>
+    <tr><td>Tranche 2 (AI pullback)</td><td>40% of position</td><td>AI news-driven selloff, sector rotation, or broader correction</td><td>$3,300–$3,700</td><td>$132–$148</td></tr>
+    <tr><td>Tranche 3 (confirmation)</td><td>20% of position</td><td>Q1 2026 beats, Connected Trip metric improvement, FCF confirms</td><td>$4,500–$5,200</td><td>$180–$208</td></tr>
+  </table>
+
+  <h3>Options Enhancement (20% of allocation)</h3>
+  <ul>
+    <li><strong>Cash-Secured Puts at $3,200–$3,500 pre-split ($128–$140 post-split):</strong> Sell 60–90 day puts targeting Tranche 2 entry. At $3,200, you'd be buying at ~6.4x EBITDA — absurdly cheap. Premium collected subsidizes Tranche 1 cost basis. Post-split, this becomes a $128–$140 put strategy that is highly accessible.</li>
+    <li><strong>LEAPS Calls — Jan 2027 or Jan 2028 at $5,500 strike pre-split ($220 post-split):</strong> If the multiple re-rates from 7.3x to 10x EBITDA (which would be BELOW Airbnb), these provide 3–4x return. More aggressive than stock but sized at only 10–15% of the overall BKNG allocation.</li>
+    <li><strong>Covered Calls at $5,800–$6,200 pre-split ($232–$248 post-split) once position built:</strong> The stock split catalyst (April 2) and Q1 earnings (likely May 2026) are near-term events where premium is elevated. Selling calls just above analyst consensus targets (~$5,800) generates income while the thesis plays out.</li>
+  </ul>
+
+  <h3>Catalysts & Signposts to Watch</h3>
+  <ul>
+    <li><strong>Stock Split (April 2, 2026):</strong> BKNG at ~$163/share post-split is a qualitatively different retail and passive investing opportunity. Historical split patterns suggest 6–12 months of positive performance from accessibility-driven demand. A potential Dow Jones inclusion would be another structural demand catalyst.</li>
+    <li><strong>Q1 2026 Earnings (May 2026):</strong> Management guided +14–16% revenue growth and +5–7% room nights. A beat would confirm AI fears are overstated. Key metric: is LLM-driven traffic still "not growing"? Any deterioration here would be a thesis warning sign.</li>
+    <li><strong>Connected Trip Attach Rate Disclosure:</strong> Watch for % of bookings that include non-accommodation services (flights, cars, experiences). An acceleration in attach rate signals that revenue can grow faster than room nights — the key to sustaining 10%+ revenue growth even with 5–7% room night growth.</li>
+    <li><strong>AI Agent Travel Products Launch:</strong> Penny (Priceline), Booking.com AI assistant, OpenTable AI concierge. User adoption metrics, if disclosed, would signal whether Booking is winning the consumer AI interface battle.</li>
+    <li><strong>Google/OpenAI Direct Booking:</strong> The most important NEGATIVE catalyst to watch. If any major AI platform announces a native, end-to-end hotel booking capability without routing through OTAs (becoming their own merchant of record), that is the thesis-break event. Currently explicitly NOT in Google's stated strategy.</li>
+    <li><strong>DMA Rate Parity Impact:</strong> European regulatory enforcement of the rate parity prohibition could accelerate hotel direct booking. Monitor Booking.com's European market share data (disclosed in annual filings) for any signs of structural share loss vs. hotel brand websites.</li>
+  </ul>
+</div>
+
+<!-- 12. BAIT -->
+<div class="section">
+  <h2>12. Mauboussin BAIT Framework — Mispricing Assessment</h2>
+
+  <div class="bait-grid">
+    <div class="bait-card b">
+      <span class="bait-letter">B</span>
+      <h4>🧠 Behavioral Inefficiency — VERY STRONG SIGNAL</h4>
+      <p>The AI disruption narrative triggered an 8.5% single-day selloff on Q4 2025 earnings — on a quarter that beat consensus on every metric. The stock then recovered 9% after Morgan Stanley's upgrade, demonstrating classic sentiment overreaction. BKNG's multiple is at a 10-year trough despite business performance at or near all-time highs. This is textbook Behavioral inefficiency: investors extrapolating a hypothetical future disruption into the present valuation, creating a dislocation between fundamental value and market price. The April 2 stock split announcement is itself a behavioral catalyst — management is explicitly trying to broaden the shareholder base to counteract sentiment-driven institutional selling.</p>
+    </div>
+    <div class="bait-card a">
+      <span class="bait-letter">A</span>
+      <h4>📊 Analytical Inefficiency — STRONG SIGNAL</h4>
+      <p>Most consensus models apply historical P/E or EV/EBITDA multiples without adequately crediting: (1) the 9% annual share count reduction that mechanically drives 15% EPS growth from just 9% revenue growth; (2) the AI cost savings ($10% cost/booking decline in 2025) compounding through the EBITDA line; (3) the Connected Trip attach rate driving revenue per room night above room night growth; (4) the structural demand shift toward experiential travel as a secular tailwind. A simple FCF discount model at current FCF ($9.1B, growing 12–15%) yields intrinsic values of $130–200/share post-split even at conservative terminal multiples — implying current price is at the low end of reasonable value.</p>
+    </div>
+    <div class="bait-card i">
+      <span class="bait-letter">I</span>
+      <h4>📡 Informational Asymmetry — MODERATE SIGNAL</h4>
+      <p>The CFO's Morgan Stanley TMT statement that LLM traffic to Booking is "very small and not growing" is the most important piece of information in the AI debate — and it's from primary management commentary, not media paraphrasing. The nuance of the "AND" vs "OR" AI thesis (fulfillment complexity requires OTAs even in an agentic world) requires close reading of earnings transcripts and conference presentations that many investors skip. Similarly, the Transformation Program's $550M in savings enabling self-funded $700M reinvestment is a capital allocation structure that is underappreciated — this company is growing faster while spending more, without diluting shareholders.</p>
+    </div>
+    <div class="bait-card t">
+      <span class="bait-letter">T</span>
+      <h4>⚙️ Technical Factor — STRONG SIGNAL</h4>
+      <p>Three converging technical catalysts: (1) Stock split April 2 expands retail accessibility and potential Dow Jones inclusion; (2) $8.2B in 2025 buybacks at $3,800–$5,800 range signals management's valuation confidence — they're buying most aggressively at current levels; (3) Morgan Stanley upgrade created momentum that is likely to attract other upgrades from equal-weight analysts (Bernstein is the outlier at Hold/$4,698). The recent 52-week low at $3,871 provided a technical floor near the bear-case intrinsic value ($3,200–$3,500 range), suggesting limited downside from current levels even in a negative scenario.</p>
+    </div>
+  </div>
+
+  <div class="bait-box">
+    <strong>BAIT Verdict — Behavioral + Analytical + Technical Triple Overlap (Highest-Conviction Signal in This Analysis):</strong> Among the four stocks analyzed (SHOP, SCHW, PATH, BKNG), Booking Holdings presents the broadest and most compelling BAIT overlap. The Behavioral fear (AI disruption) is clearly identifiable and empirically unsupported by current data. The Analytical undervaluation (10x FCF, decade-low multiple) is striking for a Wide Moat compounder. The Technical setup (split, buybacks, potential Dow inclusion) provides multiple catalysts for re-rating. This is the strongest BAIT signal in the current portfolio analysis — stronger than SCHW (which had only B+A overlap) and far stronger than PATH (which remains speculative). BKNG warrants one of the larger allocations in the portfolio.
+  </div>
+</div>
+
+<!-- 13. BULL/BEAR -->
+<div class="section">
+  <h2>13. Bull Case vs. Bear Case</h2>
+
+  <div class="scenario-grid">
+    <div class="bull-card">
+      <h3>🐂 Bull Case ($6,400–$9,500 Pre-Split / $256–$380 Post-Split, 2–3 Years)</h3>
+      <ul>
+        <li>AI disruption fears prove unfounded; Booking becomes the preferred booking interface for AI travel agents (inventory is irreplaceable)</li>
+        <li>Connected Trip attach rate accelerates: 20%+ of bookings include 2+ services by 2027 → revenue grows 13–15% on just 6% room night growth</li>
+        <li>AI savings compound: customer service down 10% → other functions saved → EBITDA margin reaches 40%+</li>
+        <li>25-for-1 split + Dow inclusion creates structural demand from price-weighted index funds and retail investors</li>
+        <li>Asia Pacific expansion: Agoda captures 20%+ of APAC growth market, adding a new revenue engine</li>
+        <li>Multiple re-rates from 7.3x EBITDA → 12–14x (still below Airbnb) as AI fears subside</li>
+        <li>$9–10B annual FCF + aggressive buybacks reduce share count to ~26–27M by 2028 (post-split ~650–675M)</li>
+        <li>2028 EPS (adj, post-split): $15–18 × 25–28x = $375–$500/share</li>
+      </ul>
+    </div>
+    <div class="bear-card">
+      <h3>🐻 Bear Case ($2,600–$3,000 Pre-Split / $104–$120 Post-Split)</h3>
+      <ul>
+        <li>Google or OpenAI launches end-to-end travel booking as merchant of record — genuinely disintermediating OTAs</li>
+        <li>Room night growth decelerates to 2–3%; ADRs compress as travelers trade down in economic slowdown</li>
+        <li>DMA rate parity ruling accelerates hotel direct booking in Europe, structural take rate compression of 2–3ppt</li>
+        <li>$700M reinvestment fails to generate projected $400M in incremental revenue — capital misallocation</li>
+        <li>Macro recession: revenue -15 to -20%, EBITDA -25% — analogous to a moderate COVID-like disruption</li>
+        <li>Multiple stays compressed at 6–7x EBITDA</li>
+        <li>2028 EBITDA: $7.5–8.0B × 6.5x = Market cap ~$52B, ~$2,600/share pre-split, ~$104 post-split</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="highlight">
+    <strong>Asymmetry Assessment:</strong> The bull case offers 60–140% upside over 2–3 years. The bear case implies 35–40% downside — but only if the AI disintermediation scenario actually materializes (not the current base case from primary management data). The risk/reward ratio is approximately 4:1 to 5:1 favorable, with a high probability that the bear case requires a truly adverse outcome (Google becoming merchant of record). At 1.5–2.5% of portfolio, this is one of the clearest high-conviction, stock-heavy allocations in the current market.
+  </div>
+</div>
+
+<!-- 14. BOTTOM LINE -->
+<div class="section">
+  <h2>14. Bottom Line</h2>
+
+  <div class="verdict">
+    <p><strong>BKNG is a high-conviction, stock-heavy, 1.5–2.5% portfolio allocation at current prices — the highest single conviction in this set of four analyses.</strong> This is a Wide Moat compounder trading at a 10-year valuation trough, generating $9.1B in free cash annually (10% FCF yield), reducing its share count by 7% per year through buybacks, and deploying AI internally to drive real cost savings while facing AI disruption fears that are — based on primary management data — currently not visible in any operating metric.</p>
+
+    <p><strong>The 20% one-year return target (~$4,882 pre-split / ~$195 post-split)</strong> is highly achievable — it merely requires the stock multiple to recover from decade-low 7.3x EBITDA toward a still-conservative 8.5–9x. The April 2 stock split, Q1 2026 earnings beat, and ongoing Morgan Stanley-style upgrades from sell-side analysts provide multiple catalysts.</p>
+
+    <p><strong>The 50% three-year return target (~$6,102 pre-split / ~$244 post-split)</strong> is very achievable in the base case — FCF growing 12% annually for 3 years gives $12.7B in FCF by 2028. At 14x FCF (still a discount to Airbnb's current 18x), you're at ~$6,200/share pre-split ($248 post-split), representing 52% upside. No Connected Trip inflection or AI amplification required — just continuation of the existing business at current trajectory.</p>
+
+    <p><strong>The key risk to monitor is NOT current AI disruption (unsupported by data) but future AI disruption.</strong> Watch for: (1) Any AI platform announcing plans to become a travel merchant of record; (2) LLM-driven traffic to Booking growing significantly (CFO data shows stable/small — any change is a warning); (3) European market share loss from DMA enforcement. Set price alerts at $3,400 (pre-split) / $136 (post-split) as the trigger to reassess if the business thesis is changing vs. market continuing to over-discount.</p>
+
+    <p><strong>The "9/9/15" framework management set at Morgan Stanley</strong> — 9% gross bookings growth, 9% revenue growth, 15% EPS growth — is repeatable and underappreciated. A 15% EPS compounder trading at 10x earnings (pre-split ~$4,068 / ~22.5x adj EPS) is extraordinarily cheap. The buyback program alone (7% annual share reduction) gets you two-thirds of the way to 15% EPS growth before any business improvement is required.</p>
+  </div>
+
+  <h3>Comparison: BKNG vs. Prior Analyses</h3>
+  <table>
+    <tr>
+      <th>Metric</th><th>SHOP</th><th>SCHW</th><th>PATH</th><th>BKNG</th>
+    </tr>
+    <tr>
+      <td>Conviction Level</td><td class="pos">Highest</td><td class="pos">High</td><td class="neg">Speculative</td><td class="pos">Very High</td>
+    </tr>
+    <tr>
+      <td>Recommended Allocation</td><td>Largest</td><td>1%</td><td>0.5%</td><td>1.5–2.5%</td>
+    </tr>
+    <tr>
+      <td>Options vs. Stock</td><td>70/30 stock</td><td>90/10 stock</td><td>50/50</td><td>80/20 stock</td>
+    </tr>
+    <tr>
+      <td>Moat Quality</td><td class="pos">Wide</td><td class="pos">Wide</td><td class="neu">Contested</td><td class="pos">Wide (Morningstar rated)</td>
+    </tr>
+    <tr>
+      <td>FCF Yield</td><td>~3%</td><td>~5%</td><td>~13%*</td><td class="pos">~10.1%</td>
+    </tr>
+    <tr>
+      <td>Primary Risk</td><td>GMV deceleration</td><td>Rate cuts</td><td>AI disruption (real)</td><td>AI disruption (behavioral)</td>
+    </tr>
+    <tr>
+      <td>BAIT Overlap</td><td>B + A + I</td><td>B + A</td><td>B + A (moderate)</td><td class="pos">B + A + T (strongest)</td>
+    </tr>
+    <tr>
+      <td>Governance</td><td class="pos">Clean (founder-led)</td><td class="pos">Clean</td><td class="neg">Dual-class</td><td class="pos">Clean (single class)</td>
+    </tr>
+    <tr>
+      <td>Near-Term Catalyst</td><td>GMV acceleration</td><td>Q1 earnings</td><td>AI Summit March 25</td><td>Stock split April 2 + Q1</td>
+    </tr>
+  </table>
+  <p style="font-size:0.8em; color:var(--gray); font-family:'Segoe UI',sans-serif;">*PATH FCF yield on market cap is high due to large cash position ($1.69B on $6.3B market cap); operating business FCF yield is lower.</p>
+</div>
+
+<div class="disclaimer">
+  <strong>Disclaimer:</strong> This analysis is for informational purposes only and does not constitute investment advice. The author is not a financial advisor. All investors should conduct their own due diligence before making investment decisions. Financial data sourced from Booking Holdings SEC filings, Q4 2025 earnings press release (February 18, 2026), Morgan Stanley TMT Conference transcript (March 4, 2026), analyst reports, and public financial databases. Note: Booking Holdings announced a 25-for-1 stock split effective April 2, 2026 (record date March 6, 2026). All prices shown pre-split unless noted. Post-split equivalent = pre-split price ÷ 25. Data as of March 15, 2026.
+</div>
+
+</div>
+</body>
+</html>

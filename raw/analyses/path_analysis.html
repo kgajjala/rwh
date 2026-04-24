@@ -1,0 +1,839 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PATH — Investment Analysis</title>
+<style>
+  :root {
+    --purple: #4a1f8c;
+    --accent: #7c3aed;
+    --mid: #8b5cf6;
+    --green: #16a34a;
+    --red: #dc2626;
+    --amber: #d97706;
+    --gray: #6b7280;
+    --bg: #f8f7ff;
+    --card: #ffffff;
+    --border: #ede9fe;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Georgia', 'Times New Roman', serif; background: var(--bg); color: #1e1b2e; line-height: 1.7; }
+  .container { max-width: 1100px; margin: 0 auto; padding: 24px; }
+
+  /* HEADER */
+  .header {
+    background: linear-gradient(135deg, #2d1460 0%, #4a1f8c 45%, #7c3aed 100%);
+    color: white; padding: 44px 36px; border-radius: 14px; margin-bottom: 28px;
+    position: relative; overflow: hidden;
+  }
+  .header::before {
+    content: ''; position: absolute; top: -60px; right: -60px;
+    width: 280px; height: 280px; background: rgba(255,255,255,0.04);
+    border-radius: 50%;
+  }
+  .header::after {
+    content: ''; position: absolute; bottom: -40px; right: 100px;
+    width: 160px; height: 160px; background: rgba(255,255,255,0.03);
+    border-radius: 50%;
+  }
+  .header h1 { font-size: 2em; margin-bottom: 6px; font-weight: 700; letter-spacing: -0.02em; }
+  .header .subtitle { font-size: 1.1em; opacity: 0.85; font-style: italic; font-family: 'Georgia', serif; }
+  .header .bait-badge {
+    display: inline-block; margin-top: 14px;
+    background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.2);
+    padding: 5px 14px; border-radius: 20px; font-size: 0.82em; font-family: 'Segoe UI', system-ui, sans-serif;
+    letter-spacing: 0.04em;
+  }
+  .header .meta {
+    margin-top: 18px; display: flex; gap: 12px; flex-wrap: wrap;
+    font-size: 0.88em; font-family: 'Segoe UI', system-ui, sans-serif;
+  }
+  .header .meta span {
+    background: rgba(255,255,255,0.13); border: 1px solid rgba(255,255,255,0.18);
+    padding: 5px 14px; border-radius: 8px;
+  }
+  .thesis-label {
+    display: inline-block; padding: 3px 10px; border-radius: 4px;
+    font-size: 0.78em; font-family: 'Segoe UI', system-ui, sans-serif;
+    font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase;
+    background: rgba(253,186,116,0.25); color: #fbbf24; border: 1px solid rgba(251,191,36,0.3);
+    margin-left: 10px; vertical-align: middle;
+  }
+
+  /* SECTIONS */
+  .section {
+    background: var(--card); border-radius: 12px; padding: 30px; margin-bottom: 20px;
+    box-shadow: 0 1px 3px rgba(74,31,140,0.06), 0 0 0 1px var(--border);
+  }
+  .section h2 {
+    color: var(--purple); font-size: 1.3em; margin-bottom: 18px;
+    padding-bottom: 10px; border-bottom: 2px solid var(--border);
+    font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 700;
+  }
+  .section h3 {
+    color: var(--accent); font-size: 1.05em; margin: 20px 0 10px;
+    font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 600;
+  }
+  p { margin-bottom: 12px; }
+  ul { margin: 10px 0 10px 22px; }
+  li { margin-bottom: 8px; }
+
+  /* TABLES */
+  table { width: 100%; border-collapse: collapse; margin: 14px 0; font-size: 0.89em; font-family: 'Segoe UI', system-ui, sans-serif; }
+  th {
+    background: #f3f0ff; color: var(--purple); padding: 10px 12px;
+    text-align: right; font-weight: 700; border-bottom: 2px solid var(--border);
+    font-size: 0.88em; letter-spacing: 0.02em;
+  }
+  th:first-child { text-align: left; }
+  td { padding: 9px 12px; border-bottom: 1px solid var(--border); text-align: right; }
+  td:first-child { text-align: left; font-weight: 500; color: #374151; }
+  tr:hover { background: #faf9ff; }
+  .pos { color: var(--green); font-weight: 700; }
+  .neg { color: var(--red); font-weight: 700; }
+  .neu { color: var(--amber); font-weight: 600; }
+
+  /* CALLOUT BOXES */
+  .highlight {
+    background: #fffbeb; border-left: 4px solid var(--amber);
+    padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0;
+    font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.94em;
+  }
+  .verdict {
+    background: linear-gradient(135deg, #f0fdf4, #dcfce7);
+    border-left: 4px solid var(--green);
+    padding: 18px 22px; border-radius: 0 8px 8px 0; margin: 16px 0;
+    font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.94em;
+  }
+  .warning {
+    background: #fff1f2; border-left: 4px solid var(--red);
+    padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0;
+    font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.94em;
+  }
+  .bait-box {
+    background: linear-gradient(135deg, #f5f3ff, #ede9fe);
+    border-left: 4px solid var(--mid);
+    padding: 18px 22px; border-radius: 0 8px 8px 0; margin: 16px 0;
+    font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.94em;
+  }
+
+  /* METRICS GRID */
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 16px 0; }
+  .grid4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin: 16px 0; }
+  .metric-card {
+    background: #f8f6ff; border: 1px solid var(--border);
+    border-radius: 10px; padding: 18px; text-align: center;
+  }
+  .metric-card .value { font-size: 1.6em; font-weight: 800; color: var(--purple); font-family: 'Segoe UI', system-ui, sans-serif; }
+  .metric-card .label { font-size: 0.81em; color: var(--gray); margin-top: 5px; font-family: 'Segoe UI', system-ui, sans-serif; }
+  .metric-card.green { background: #f0fdf4; border-color: #bbf7d0; }
+  .metric-card.green .value { color: var(--green); }
+  .metric-card.red { background: #fff1f2; border-color: #fecaca; }
+  .metric-card.red .value { color: var(--red); }
+  .metric-card.amber { background: #fffbeb; border-color: #fde68a; }
+  .metric-card.amber .value { color: var(--amber); }
+
+  /* BAIT SECTION */
+  .bait-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; margin: 16px 0; }
+  .bait-card {
+    border-radius: 10px; padding: 18px;
+    font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.9em;
+  }
+  .bait-card.b { background: #f0f9ff; border: 1px solid #bae6fd; }
+  .bait-card.a { background: #fdf4ff; border: 1px solid #e9d5ff; }
+  .bait-card.i { background: #fffbeb; border: 1px solid #fde68a; }
+  .bait-card.t { background: #f0fdf4; border: 1px solid #bbf7d0; }
+  .bait-card .bait-letter { font-size: 1.8em; font-weight: 800; opacity: 0.15; float: right; margin-top: -4px; }
+  .bait-card h4 { font-size: 0.95em; font-weight: 700; margin-bottom: 8px; color: #1e1b2e; }
+
+  /* QUOTE BLOCK */
+  .quote-block {
+    margin: 14px 0; padding-left: 18px;
+    border-left: 3px solid var(--mid); color: #555;
+    font-style: italic; font-size: 0.93em;
+    font-family: 'Georgia', serif;
+  }
+
+  /* BULL/BEAR */
+  .scenario-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 16px 0; }
+  .bull-card { background: #f0fdf4; padding: 20px; border-radius: 10px; border: 1px solid #bbf7d0; font-family: 'Segoe UI', system-ui, sans-serif; }
+  .bear-card { background: #fff1f2; padding: 20px; border-radius: 10px; border: 1px solid #fecaca; font-family: 'Segoe UI', system-ui, sans-serif; }
+  .bull-card h3 { color: var(--green); margin-bottom: 12px; }
+  .bear-card h3 { color: var(--red); margin-bottom: 12px; }
+
+  /* DISCLAIMER */
+  .disclaimer {
+    font-size: 0.8em; color: var(--gray); margin-top: 28px;
+    padding: 16px; background: #f9f8ff; border-radius: 8px;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    border: 1px solid var(--border);
+  }
+
+  @media (max-width: 720px) {
+    .grid2, .grid4, .bait-grid, .scenario-grid { grid-template-columns: 1fr; }
+    .header .meta { flex-direction: column; gap: 8px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<!-- ===== HEADER ===== -->
+<div class="header">
+  <h1>UiPath, Inc. (NYSE: PATH) <span class="thesis-label">Turnaround / AI Re-rating</span></h1>
+  <div class="subtitle">Deep Fundamental & Investment Analysis — Agentic AI Era</div>
+  <div class="bait-badge">⚡ Mauboussin BAIT: Behavioral + Analytical Overlap Detected</div>
+  <div class="meta">
+    <span>Price: ~$11.50</span>
+    <span>Market Cap: ~$6.3B</span>
+    <span>EV: ~$4.6B</span>
+    <span>EV/Revenue: ~2.9x</span>
+    <span>ARR: $1.853B</span>
+    <span>Cash: $1.69B (No Debt)</span>
+    <span>52-Wk: $9.38 – $18.74</span>
+    <span>Date: March 15, 2026</span>
+  </div>
+</div>
+
+<!-- ===== WHY DOES THIS COMPANY EXIST ===== -->
+<div class="section">
+  <h2>1. Why Does This Company Exist?</h2>
+  <p>UiPath was founded in Bucharest, Romania in 2005 by Daniel Dines and Marius Tirca under the name DeskOver. It exists to answer a deceptively simple question: <strong>why do humans do the same repetitive digital tasks millions of times a day?</strong> The company pioneered Robotic Process Automation (RPA) — software robots that mimic human interactions with applications (clicks, keystrokes, data entry) to automate high-volume, rule-based workflows across enterprise systems.</p>
+  <p>What makes UiPath different from a simple scripting tool is its <strong>enterprise-grade orchestration layer</strong>. A UiPath robot doesn't just run in isolation — it operates within Orchestrator, a control tower that governs thousands of bots across divisions, geographies, and systems simultaneously. This is what gave UiPath its moat: not the automation itself, but the governance, auditability, and enterprise integration that surrounds it.</p>
+  <p>In Buffett terms, UiPath exists to be the <strong>operating system for enterprise work execution</strong>. Its strategic bet for the AI era is that large language model-powered AI agents — which can reason and plan — still need a deterministic execution layer to actually <em>do things</em> reliably across legacy systems, ERP platforms, and regulated workflows. That execution layer is UiPath's platform (Maestro, Orchestrator, Agent Builder), positioning the company as the orchestration backbone of the emerging agentic AI enterprise.</p>
+
+  <div class="highlight">
+    <strong>The Pivotal Question for This Investment:</strong> Is UiPath an RPA incumbent that AI will make obsolete, or is it the irreplaceable execution layer that AI agents need to function in messy, legacy-laden enterprise environments? The entire bull/bear case hinges on this question, and the market currently prices in significant skepticism.
+  </div>
+</div>
+
+<!-- ===== ANNUAL FINANCIAL METRICS ===== -->
+<div class="section">
+  <h2>2. Annual Financial Metrics (5-Year Trend)</h2>
+  <p><em>Note: UiPath's fiscal year ends January 31. "FY2026" = Feb 2025 – Jan 2026. All figures in USD millions unless noted.</em></p>
+
+  <h3>Revenue, Operating Income & EPS</h3>
+  <table>
+    <tr>
+      <th>Metric</th><th>FY2022</th><th>FY2023</th><th>FY2024</th><th>FY2025</th><th>FY2026</th><th>FY2027E</th>
+    </tr>
+    <tr>
+      <td>Revenue ($M)</td><td>$892</td><td>$1,058</td><td>$1,308</td><td>$1,430</td><td>$1,611</td><td>~$1,757</td>
+    </tr>
+    <tr>
+      <td>Revenue Growth</td><td class="pos">+48%</td><td class="pos">+18.6%</td><td class="pos">+23.6%</td><td class="neg">+9.3%</td><td class="pos">+12.7%</td><td class="neu">~+9%</td>
+    </tr>
+    <tr>
+      <td>GAAP Operating Income ($M)</td><td class="neg">-$527</td><td class="neg">-$303</td><td class="neg">-$291</td><td class="neg">-$163</td><td class="pos">+$57</td><td class="pos">+$130E</td>
+    </tr>
+    <tr>
+      <td>Non-GAAP Operating Income ($M)</td><td>$78</td><td>$141</td><td>$244</td><td>$243</td><td>$370</td><td>$415E</td>
+    </tr>
+    <tr>
+      <td>Non-GAAP Operating Margin</td><td>8.7%</td><td>13.3%</td><td>18.7%</td><td>17.0%</td><td class="pos">23.0%</td><td class="pos">~23.6%</td>
+    </tr>
+    <tr>
+      <td>GAAP Net Income ($M)</td><td class="neg">-$527</td><td class="neg">-$334</td><td class="neg">-$290</td><td class="neg">-$74</td><td class="pos">+$282</td><td class="pos">+$250E</td>
+    </tr>
+    <tr>
+      <td>GAAP Diluted EPS</td><td class="neg">-$0.97</td><td class="neg">-$0.62</td><td class="neg">-$0.54</td><td class="neg">-$0.14</td><td class="pos">+$0.52</td><td class="pos">+$0.47E</td>
+    </tr>
+  </table>
+
+  <div class="highlight">
+    <strong>Key Observation — FY2025 Inflection:</strong> The FY2025 revenue growth slowdown to +9.3% was driven by go-to-market disruption under former CEO Rob Enslin (ex-SAP), who was replaced by returning founder Daniel Dines in June 2024. Dines' return stabilized execution, and FY2026 showed recovery to +12.7% growth. The landmark FY2026 milestone: first full year of GAAP operating profitability ($57M) and GAAP net income ($282M) in company history. The GAAP swing from -$163M to +$57M in one year is a genuine inflection.
+  </div>
+
+  <h3>Margin Trends</h3>
+  <table>
+    <tr>
+      <th>Metric</th><th>FY2022</th><th>FY2023</th><th>FY2024</th><th>FY2025</th><th>FY2026</th><th>FY2027E</th>
+    </tr>
+    <tr>
+      <td>GAAP Gross Margin</td><td>~82%</td><td>~83%</td><td>~84%</td><td>~83%</td><td>83%</td><td>~84%</td>
+    </tr>
+    <tr>
+      <td>Non-GAAP Gross Margin</td><td>~84%</td><td>~85%</td><td>~86%</td><td>~86%</td><td>85%</td><td>~86%</td>
+    </tr>
+    <tr>
+      <td>Non-GAAP Operating Margin</td><td>8.7%</td><td>13.3%</td><td>18.7%</td><td>17.0%</td><td class="pos">23.0%</td><td class="pos">~23.6%</td>
+    </tr>
+    <tr>
+      <td>FCF Margin</td><td class="neg">~-11%</td><td>~+8%</td><td>~+4%</td><td>~+14%</td><td class="pos">~+23%</td><td class="pos">~+25%E</td>
+    </tr>
+    <tr>
+      <td>Long-Term Margin Target</td><td colspan="6" style="text-align:center; font-style:italic; color:#555;">Management raised FY2026 long-term non-GAAP operating margin target to <strong>30%</strong>, up from prior 20% model</td>
+    </tr>
+  </table>
+
+  <div class="highlight">
+    <strong>Key Observation — Margin Expansion Trajectory:</strong> The +600 basis point non-GAAP operating margin expansion in FY2026 (17% → 23%) was the single most important financial development of the year. Management's raise of the long-term target from 20% to 30% signals they believe the platform has pricing power and operating leverage that the prior model underestimated. FCF margin converging with non-GAAP operating margin (both ~23% in FY2026) confirms the earnings quality is real, not a paper construct.
+  </div>
+
+  <h3>Dilution & Stock-Based Compensation (The Critical Concern)</h3>
+  <table>
+    <tr>
+      <th>Metric</th><th>FY2022</th><th>FY2023</th><th>FY2024</th><th>FY2025</th><th>FY2026</th>
+    </tr>
+    <tr>
+      <td>SBC ($M, estimated)</td><td class="neg">~$450</td><td class="neg">~$430</td><td class="neg">~$415</td><td class="neg">~$370</td><td class="neg">~$280</td>
+    </tr>
+    <tr>
+      <td>SBC as % of Revenue</td><td class="neg">50.5%</td><td class="neg">40.6%</td><td class="neg">31.7%</td><td class="neg">25.9%</td><td class="neg">17.4%</td>
+    </tr>
+    <tr>
+      <td>Diluted Share Count (M)</td><td>~546</td><td>~540</td><td>~542</td><td>~537</td><td>~545</td>
+    </tr>
+    <tr>
+      <td>Shares Repurchased (M)</td><td>—</td><td>—</td><td>—</td><td>~12M</td><td>30.9M @ $10.92 avg</td>
+    </tr>
+  </table>
+
+  <div class="warning">
+    <strong>SBC Verdict — Improving But Still High:</strong> SBC as a % of revenue remains elevated at 17.4% in FY2026 — well above the ~2% seen at SCHW or SHOP's ~4–5%. This is the primary reason GAAP EPS ($0.52) understates true distributable cash flows relative to the non-GAAP picture. The POSITIVE signal is the rapid improvement: SBC has declined from 50% of revenue (FY2022, post-IPO) to 17% (FY2026). If revenue growth continues at 9–12% while SBC stays roughly flat in absolute dollars, the percentage will continue to fall toward industry norms of 10–12% by FY2029. The $1B+ buyback program (now complete, $500M new authorization) is actively mitigating dilution at very cheap prices (~$10.92 average).
+  </div>
+
+  <h3>Cash Flow</h3>
+  <table>
+    <tr>
+      <th>Metric</th><th>FY2022</th><th>FY2023</th><th>FY2024</th><th>FY2025</th><th>FY2026</th><th>FY2027E</th>
+    </tr>
+    <tr>
+      <td>Operating Cash Flow ($M)</td><td class="neg">-$93</td><td>$85</td><td>$57</td><td>~$200</td><td>$371</td><td>~$430–460</td>
+    </tr>
+    <tr>
+      <td>CapEx ($M)</td><td>$16</td><td>$11</td><td>$8</td><td>~$10</td><td>$7</td><td>~$10</td>
+    </tr>
+    <tr>
+      <td>Free Cash Flow ($M)</td><td class="neg">-$109</td><td>$74</td><td>$49</td><td>~$190</td><td>$372</td><td>~$440E</td>
+    </tr>
+    <tr>
+      <td>Cash + Marketable Sec. ($B)</td><td>$1.9</td><td>$1.8</td><td>$1.8</td><td>$1.9</td><td>$1.69</td><td>~$1.9E</td>
+    </tr>
+    <tr>
+      <td>Debt</td><td colspan="6" style="text-align:center; font-style:italic;">None — clean balance sheet</td>
+    </tr>
+  </table>
+
+  <div class="verdict">
+    <strong>Cash Flow Verdict:</strong> UiPath is a capital-light software business — CapEx is negligible (under $10M/year), and the business requires minimal physical investment to scale. The FCF ramp from near-zero to $372M in a single fiscal year reflects the operating leverage inherent in high-gross-margin software. FCF at $372M is actually higher than GAAP net income ($282M) because non-cash expenses (principally SBC amortization of previously granted RSUs) inflate GAAP costs. This is a business generating real, distributable cash — not accounting fiction.
+  </div>
+</div>
+
+<!-- ===== BUSINESS & OPERATIONAL METRICS ===== -->
+<div class="section">
+  <h2>3. Business & Operational Metrics</h2>
+
+  <h3>ARR — The Primary Business Health Metric</h3>
+  <table>
+    <tr>
+      <th>Metric</th><th>FY2024 End</th><th>FY2025 End</th><th>Q2 FY2026</th><th>Q4 FY2026</th><th>FY2027E</th>
+    </tr>
+    <tr>
+      <td>Total ARR ($B)</td><td>$1.46</td><td>$1.666</td><td>$1.723</td><td>$1.853</td><td>~$2.05</td>
+    </tr>
+    <tr>
+      <td>ARR YoY Growth</td><td class="pos">+31.5%</td><td class="pos">+14.1%</td><td class="pos">+11.0%</td><td class="pos">+11.2%</td><td class="pos">~+11%</td>
+    </tr>
+    <tr>
+      <td>Net New ARR ($M)</td><td>—</td><td>$206</td><td>$31 (Q2)</td><td>$70 (Q4)</td><td>~$200E</td>
+    </tr>
+    <tr>
+      <td>Cloud ARR ($B)</td><td>—</td><td>—</td><td>—</td><td>$1.2+</td><td>—</td>
+    </tr>
+    <tr>
+      <td>Cloud ARR YoY Growth</td><td colspan="5" style="text-align:center;">Over 20% — cloud transition accelerating; cloud = ~65% of total ARR</td>
+    </tr>
+  </table>
+
+  <div class="highlight">
+    <strong>ARR Growth Deceleration — The Market's Core Concern:</strong> ARR growth has slowed from +31.5% (FY2024) to +14.1% (FY2025) to +11% (FY2026). This deceleration explains 90% of the stock's underperformance. However, there are critical nuances: (1) the FY2024 growth spike included accelerated deal activity ahead of Dines' departure; (2) the stabilization at 11% ARR growth in FY2026 — despite significant go-to-market disruption — demonstrates platform durability; (3) FY2027 guidance implies ARR growing to $2.05B, the $2B milestone management highlighted as a key confidence signal.
+  </div>
+
+  <h3>Customer Health & Net Retention Rate (NRR)</h3>
+  <table>
+    <tr>
+      <th>Metric</th><th>Q1 FY2025</th><th>Q4 FY2025</th><th>Q2 FY2026</th><th>Q4 FY2026</th>
+    </tr>
+    <tr>
+      <td>Dollar-Based Net Retention Rate (NRR)</td><td class="pos">118%</td><td class="neu">110%</td><td class="neu">108%</td><td class="neg">107%</td>
+    </tr>
+    <tr>
+      <td>Dollar-Based Gross Retention Rate (GRR)</td><td class="pos">~97%</td><td class="pos">~97%</td><td class="pos">~97%</td><td class="pos">97%</td>
+    </tr>
+    <tr>
+      <td>Total Customers</td><td>—</td><td>~10,500</td><td>~10,600</td><td>10,750</td>
+    </tr>
+    <tr>
+      <td>Customers ≥$30K ARR (Growth)</td><td>—</td><td>—</td><td>—</td><td class="pos">+7% YoY</td>
+    </tr>
+    <tr>
+      <td>Customers ≥$100K ARR</td><td>—</td><td>~2,400</td><td>~2,480</td><td>2,565</td>
+    </tr>
+    <tr>
+      <td>Customers ≥$1M ARR</td><td>—</td><td>~330</td><td>~340</td><td>357</td>
+    </tr>
+  </table>
+
+  <div class="warning">
+    <strong>NRR Decline — The Most Important Bear Indicator:</strong> Net Retention Rate declining from 118% to 107% in four quarters is the single most concerning operating metric. NRR measures how much existing customers are expanding their spend. At 118%, customers were expanding at nearly 20% above their renewal base. At 107%, they're expanding only 7% above renewal. The key distinguishing fact: <strong>gross retention remains at 97%</strong>, meaning customers are NOT leaving. They are simply expanding more slowly. This suggests the issue is upsell/cross-sell velocity, not platform stickiness — a more recoverable problem than churn.
+  </div>
+
+  <h3>AI Product Traction — The Inflection Signal</h3>
+  <table>
+    <tr>
+      <th>Metric</th><th>Q4 FY2026 Reading</th><th>Signal</th>
+    </tr>
+    <tr>
+      <td>AI Product ARR</td><td>~$200M</td><td class="pos">~11% of total ARR; growing rapidly</td>
+    </tr>
+    <tr>
+      <td>$1M+ customers using AI products</td><td>90%</td><td class="pos">Deep penetration at largest accounts</td>
+    </tr>
+    <tr>
+      <td>$100K+ customers using AI products</td><td>60%</td><td class="pos">Majority of mid-market using AI</td>
+    </tr>
+    <tr>
+      <td>AI customer spend vs non-AI customer</td><td>~3x higher</td><td class="pos">AI = massive upsell multiplier</td>
+    </tr>
+    <tr>
+      <td>$100K+ AI adopters growth YoY</td><td class="pos">+25%</td><td class="pos">Fastest growing cohort</td>
+    </tr>
+    <tr>
+      <td>cRPO (Committed future revenue)</td><td>$820M (+14% YoY)</td><td class="pos">Revenue visibility improving</td>
+    </tr>
+  </table>
+
+  <div class="verdict">
+    <strong>AI Traction Verdict:</strong> The $200M AI ARR figure — growing at ~25%+ with customers spending 3x more than non-AI buyers — is the nascent but critical signal that the agentic pivot is gaining commercial traction. If AI ARR can scale to $500M+ over 2–3 years (currently ~11% of ARR, could reach 25–30%), it would materially re-accelerate the total ARR growth rate and drive NRR back above 115%. This is the core of the bull case.
+  </div>
+
+  <h3>Geographic Revenue Mix</h3>
+  <table>
+    <tr>
+      <th>Region</th><th>% of Revenue (Approx.)</th><th>Growth Trend</th>
+    </tr>
+    <tr>
+      <td>Americas (primarily U.S.)</td><td>~47%</td><td class="pos">Steady; largest and fastest-growing</td>
+    </tr>
+    <tr>
+      <td>EMEA</td><td>~36%</td><td class="neu">Solid; FX headwinds in FY2026</td>
+    </tr>
+    <tr>
+      <td>APAC</td><td>~17%</td><td class="pos">High growth; Japan a standout market</td>
+    </tr>
+  </table>
+
+  <div class="highlight">
+    <strong>Geographic Contrast with SCHW:</strong> Unlike Schwab (95%+ U.S.), UiPath is a genuinely global enterprise business. ~53% of revenue comes from outside the Americas. This creates FX exposure (management cited FX as a ~1% headwind to Q4 FY2026 ARR growth), but also provides diversification — economic weakness in the U.S. doesn't fully translate into business weakness. Strong adoption in EMEA financial services and APAC manufacturing provides a natural hedge.
+  </div>
+</div>
+
+<!-- ===== REVENUE MIX ===== -->
+<div class="section">
+  <h2>4. Revenue Mix & Business Model</h2>
+  <table>
+    <tr>
+      <th>Revenue Stream</th><th>FY2026 ($M)</th><th>% of Revenue</th><th>Key Driver</th>
+    </tr>
+    <tr>
+      <td>Subscription Services (Cloud/SaaS)</td><td>~$910</td><td>~56%</td><td>Platform expansion, cloud migration, AI add-ons</td>
+    </tr>
+    <tr>
+      <td>License (Perpetual + Annual)</td><td>~$505</td><td>~31%</td><td>New logo wins, existing customer seat expansion</td>
+    </tr>
+    <tr>
+      <td>Professional Services & Support</td><td>~$196</td><td>~12%</td><td>Implementation, training — sticky but lower margin</td>
+    </tr>
+  </table>
+
+  <div class="highlight">
+    <strong>Business Model Evolution:</strong> UiPath is deliberately shifting from perpetual license to cloud SaaS subscription. This creates near-term revenue headwinds (recognized over time vs. upfront) but vastly improves revenue quality, predictability, and retention. Management disclosed the SaaS shift creates a "1% headwind to total revenue growth in FY2027" — meaning underlying business momentum is slightly stronger than the reported growth rate suggests. Cloud ARR now exceeds $1.2B (65%+ of total ARR) and growing 20%+.
+  </div>
+</div>
+
+<!-- ===== MOAT ANALYSIS ===== -->
+<div class="section">
+  <h2>5. Competitive Moat — The Key Debate</h2>
+
+  <p>UiPath's moat is contested — and the contestation is precisely why the stock has declined 85% from its peak. Here is an intellectually honest assessment of where the moat exists, where it's weak, and why the bear case may be structurally flawed.</p>
+
+  <h3>Genuine Moat Components</h3>
+  <ul>
+    <li><strong>Enterprise Switching Costs:</strong> UiPath automations are deeply embedded in mission-critical workflows — payroll processing, claims adjudication, invoice reconciliation. When a Fortune 500 company has 1,000 bots running across their ERP and banking systems, migrating those workflows to a competing platform is an 18–36 month initiative with catastrophic disruption risk. The 97% gross retention rate is the empirical proof of this switching cost. When customers DO leave, it's almost always to a managed services acquisition, not a competing RPA platform.</li>
+    <li><strong>Orchestration Complexity Moat:</strong> Managing thousands of concurrent bots with governance, auditability, role-based access control, credential vaults, and audit trails across a heterogeneous IT environment is genuinely hard. Maestro — the agentic orchestration layer — extends this moat into the AI era by adding human-in-the-loop coordination and agent lifecycle management. This is a multi-year development advantage.</li>
+    <li><strong>Platform Breadth:</strong> UiPath's end-to-end platform (Process Mining → Automation → Testing → Orchestration → Analytics) creates cross-sell opportunities that point-solution competitors can't match. Customers buying into UiPath don't buy one product — they buy into a governance ecosystem.</li>
+    <li><strong>Ecosystem Lock-In:</strong> 10,750 customers have built their automation Center of Excellence (CoE) around UiPath. The tooling, training, governance processes, and internal talent pipelines are built for UiPath's specific framework. This lock-in is not software-level — it's organizational.</li>
+    <li><strong>Certifications & Compliance:</strong> First automation platform to achieve AIUC-1 certification for AI agent security. In regulated industries (finance, healthcare), switching away from a certified platform creates regulatory risk that makes migration prohibitively unattractive.</li>
+  </ul>
+
+  <h3>Where the Moat Is Weak — The "Pincer Movement"</h3>
+  <ul>
+    <li><strong>Microsoft Power Automate (from above):</strong> For Microsoft-centric enterprises, Power Automate bundled into Microsoft 365/Copilot licensing is a formidable price-based competitor. For simple workflows entirely within the Microsoft ecosystem (SharePoint, Teams, Dynamics), Power Automate is "good enough." This is a real threat for new logo wins in Microsoft-first organizations.</li>
+    <li><strong>Salesforce Agentforce / ServiceNow AI Agents (from the side):</strong> SaaS platforms are building agentic capabilities directly into their systems. Why orchestrate an external bot to process a Salesforce lead when Agentforce can do it natively? For single-system workflows, embedded agents beat external orchestration.</li>
+    <li><strong>AI Coding Agents (structural threat):</strong> The most serious long-term risk. If AI coding agents can generate, test, and maintain UiPath automations automatically (management acknowledged this in Q4 FY2026 call — "AI coding agents will generate production-grade automations in hours instead of weeks"), the addressable complexity of the platform increases but the per-automation licensing economics could be disrupted.</li>
+  </ul>
+
+  <div class="bait-box">
+    <strong>Why the Bear Case Is Structurally Flawed — The "AND" vs "OR" Error:</strong> The market is pricing PATH as if AI is an OR to RPA: enterprise automation OR AI agents. The reality is AND. Every AI agent deployed in a real enterprise environment needs: (1) orchestration to manage concurrent agent instances, (2) audit trails for regulatory compliance, (3) fallback mechanisms when agents hallucinate, (4) integration with legacy systems that have no APIs, (5) human-in-the-loop workflows for exception handling. UiPath's platform provides all five. AI agents INCREASE the surface area of automation, which increases the demand for UiPath's orchestration layer — not decreases it. Management's own data supports this: 90% of $1M+ customers are already using AI products, and those customers spend 3x more.
+  </div>
+
+  <h3>Morningstar / Analyst Moat Ratings</h3>
+  <div class="highlight">
+    Everest Group PEAK Matrix 2025 rated UiPath as a Leader in Intelligent Automation for the <strong>third consecutive year</strong>, citing innovation in IDP and agentic testing. G2's 2026 Best Software Awards recognized UiPath in five categories. Forrester Wave Q4 2025 named UiPath a Leader in Autonomous Testing Platforms. These third-party validations confirm that competitors have not yet materially eroded UiPath's product leadership in the eyes of enterprise buyers.
+  </div>
+</div>
+
+<!-- ===== MANAGEMENT ===== -->
+<div class="section">
+  <h2>6. Management, Leadership & Governance</h2>
+
+  <p><strong>Daniel Dines (Founder & CEO, returned June 2024):</strong> The defining personnel event of the past two years. Dines founded the company, built it to a $35B+ IPO valuation, and stepped back from day-to-day operations. When his replacement (Rob Enslin, former SAP President) presided over go-to-market deterioration and slowing growth, the board returned Dines to the CEO role. Dines' "back-to-basics" approach — prioritizing product innovation over bureaucratic structure — directly produced the agentic AI breakthroughs (Autopilot, Agent Builder, Maestro, Agentic Testing) that defined FY2026. The founder-return pattern (analogous to Howard Schultz returning to Starbucks, Jobs returning to Apple) is historically a powerful catalyst for operating improvement.</p>
+
+  <p><strong>Ashim Gupta (COO & CFO):</strong> Gupta has served as CFO and now COO+CFO, providing financial discipline that was less evident in the pre-Dines-return era. Under his watch, operating margins expanded 600bps in a single year, the $1B buyback was executed at favorable prices ($10.92 avg), and the long-term margin target was raised from 20% to 30%. The combination of Dines as product visionary and Gupta as operational executor is a strong leadership pairing.</p>
+
+  <div class="warning">
+    <strong>Governance Red Flag — Dual-Class Share Structure:</strong> Daniel Dines holds Class C shares with 10 votes per share vs. Class A shares (1 vote). This gives him effective voting control of the company regardless of public shareholder preferences. Under the Buffett/Munger framework, this is a material governance concern:<br><br>
+    — It limits accountability to public shareholders<br>
+    — It means capital allocation decisions (buybacks, M&amp;A, compensation) are ultimately Dines' unilateral call<br>
+    — No hostile takeover or proxy challenge is possible<br><br>
+    <strong>Mitigating factors vs. Tempus AI (where we passed):</strong> (1) No related-party transactions flagged; (2) Dines' alignment with shareholders is strong — he IS the largest economic stakeholder; (3) His track record includes building a $1B+ ARR business from scratch; (4) Capital allocation (buybacks at $10.92, conservative M&amp;A) has been shareholder-friendly. This is a yellow flag, not a red flag, but it limits how large a position this can be.
+  </div>
+
+  <h3>Recent Strategic Transactions</h3>
+  <ul>
+    <li><strong>WorkFusion Acquisition (FY2026):</strong> Bolsters AI capabilities in financial compliance automation — a high-regulation vertical where switching costs are highest and willingness-to-pay is elevated. Expands TAM into AML/KYC automation for global banks.</li>
+    <li><strong>Deloitte Alliance (March 2026):</strong> UiPath-powered Agentic ERP offering — a go-to-market partnership that puts UiPath's agentic platform inside Deloitte's system implementation engagements. Channel partnerships like this are critical for enterprise land-and-expand.</li>
+    <li><strong>Partnerships:</strong> Strategic integrations with OpenAI, Google, Nvidia, Snowflake, Microsoft, and Veeva expand the addressable workflow surface and reduce the risk of hyperscaler displacement.</li>
+  </ul>
+</div>
+
+<!-- ===== STRATEGIC INITIATIVES ===== -->
+<div class="section">
+  <h2>7. Strategic Growth Initiatives</h2>
+  <ul>
+    <li><strong>Maestro (Agentic Orchestration):</strong> The orchestration layer for AI agents, robots, and humans working together. Prevents "agent sprawl" by providing centralized control, auditability, and governance. This is the core product bet — if enterprises adopt agentic AI at scale, Maestro becomes essential infrastructure. Software preview phase in March 2026.</li>
+    <li><strong>Agent Builder:</strong> Low-code tool for building AI agents that leverage LLMs to handle exceptions and make decisions within UiPath workflows. Key differentiator: agents built with Agent Builder inherit Orchestrator's governance and security — something Microsoft Copilot Studio and similar tools don't provide out of the box for complex enterprise workflows.</li>
+    <li><strong>ScreenPlay (Agentic UI Automation):</strong> Allows AI to "see" and interact with any application interface (including legacy systems with no APIs), bypassing the need for complex integrations. This extends UiPath's total addressable workflow from API-accessible to EVERYTHING visible on a screen — a significant expansion.</li>
+    <li><strong>Cloud ARR Transition:</strong> Cloud ARR exceeding $1.2B (20%+ growth) accelerates recurring revenue, improves retention visibility, and supports the 30% long-term margin target as cloud has higher margins than on-prem.</li>
+    <li><strong>Agentic Testing Platform:</strong> Leader in Forrester Wave Q4 2025. Software testing is a $60B+ market; automating test generation with AI agents is a high-growth adjacent to core automation.</li>
+    <li><strong>$2B ARR Milestone (FY2027E):</strong> Management explicitly flagged crossing $2B ARR as a "durability milestone" — it triggers expanded index visibility, competitive credibility, and larger enterprise deal sizes.</li>
+    <li><strong>Buyback Program:</strong> $1B program fully executed at ~$10.92/share avg; new $500M authorization approved. At current prices, buybacks are genuinely accretive at a ~13% FCF yield on the purchase price.</li>
+  </ul>
+</div>
+
+<!-- ===== RISKS ===== -->
+<div class="section">
+  <h2>8. Key Risks</h2>
+  <ul>
+    <li><strong>AI Disruption of Core RPA (High Impact, Uncertain Probability):</strong> The existential risk. If AI coding agents or LLM-native platforms can replicate UiPath's functionality without the licensing cost, existing customers might replace bots with agents. The counter-evidence is the 97% gross retention — but this could deteriorate in future renewal cycles if AI alternatives mature.</li>
+    <li><strong>NRR Structural Decline (Medium-High Impact):</strong> NRR declining from 118% → 107% over four quarters. If this continues below 105%, it signals that upsell is exhausted and the platform is commoditizing. A sustained NRR below 100% would be a thesis-breaking event.</li>
+    <li><strong>Go-to-Market Execution Risk (Medium Impact):</strong> The "Dines 2.0" era has improved execution, but the sales organization restructuring is still relatively recent. Enterprise sales cycles are 9–18 months; any slip in deal conversion shows up 3–4 quarters later in ARR. The Q2 FY2026 net new ARR of only $31M was a concern (though Q4 FY2026's $70M partially recovered).</li>
+    <li><strong>Dual-Class Governance (Structural Risk):</strong> Dines' voting control limits shareholder recourse. If Dines makes a capital allocation error (dilutive acquisition, excessive compensation), shareholders cannot easily intervene.</li>
+    <li><strong>Revenue Growth Deceleration (Medium Impact):</strong> FY2027 revenue guidance of ~9% growth is the slowest in company history. At 2.8x EV/Revenue, this is priced in — but if growth decelerates further to 6–7%, the stock could face multiple compression on top of earnings pressure.</li>
+    <li><strong>Microsoft Bundling (Ongoing Competitive Pressure):</strong> Power Automate bundled into Microsoft 365 creates pricing pressure in Microsoft-centric accounts. Every time Microsoft expands Copilot capabilities, the "good enough" threshold for Power Automate rises.</li>
+    <li><strong>SBC Dilution (Ongoing but Improving):</strong> At 17.4% of revenue, SBC remains high. Without continued buybacks, share count drift could offset EPS growth. The $500M new buyback program mitigates but doesn't eliminate this risk.</li>
+    <li><strong>Macro / Enterprise IT Spending:</strong> A tech recession would disproportionately impact discretionary automation spend. In tight IT budgets, companies rationalize automation licenses — UiPath's renewal strength would be tested.</li>
+  </ul>
+</div>
+
+<!-- ===== BAIT ANALYSIS ===== -->
+<div class="section">
+  <h2>9. Mauboussin BAIT Framework — Mispricing Assessment</h2>
+  <p>Using the Behavioral–Analytical–Informational–Technical framework to evaluate whether PATH's current dislocation is exploitable and durable.</p>
+
+  <div class="bait-grid">
+    <div class="bait-card b">
+      <span class="bait-letter">B</span>
+      <h4>🧠 Behavioral Inefficiency — STRONG SIGNAL</h4>
+      <p>The stock has declined 85%+ from its 2021 peak. The dominant market narrative is "AI kills RPA." This is a classic extrapolation error — investors are extrapolating the short-term pain of the CEO transition and NRR decline into a permanent structural impairment. The emotional overreaction to February 2026 "AI disruption fears" (which dragged SCHW and PATH both down) created a dislocated entry. Extreme pessimism at $9–10 levels in late 2024 was the behavioral extreme; the stock recovering to $11–12 still prices in near-zero agentic AI optionality.</p>
+    </div>
+    <div class="bait-card a">
+      <span class="bait-letter">A</span>
+      <h4>📊 Analytical Inefficiency — STRONG SIGNAL</h4>
+      <p>Consensus models (1) don't credit the $200M AI ARR growing at 25%+ and its 3x spend multiplier; (2) don't model the platform re-rating that occurs when NRR stabilizes; (3) use GAAP EPS (distorted by SBC) rather than FCF ($372M) — yielding apparent losses where real cash generation exists; (4) apply a low terminal multiple to what is actually becoming a platform compounder. At 2.8x EV/Revenue and 12x EV/FCF, the market is pricing in minimal growth premium for a company targeting $2B ARR with 30% long-term margins.</p>
+    </div>
+    <div class="bait-card i">
+      <span class="bait-letter">I</span>
+      <h4>📡 Informational Asymmetry — MODERATE SIGNAL</h4>
+      <p>The "Dines 2.0" era (June 2024 return) is only 21 months old. The agentic products (Maestro, Agent Builder, ScreenPlay) launched in FY2025–26 won't show up in sustained ARR until FY2028. The WorkFusion acquisition's financial compliance use case is not modeled in consensus. The Deloitte ERP partnership (March 2026) is brand new and could be a meaningful channel for enterprise land-and-expand. These are information advantages available from close reading of earnings calls vs. top-line consensus estimates.</p>
+    </div>
+    <div class="bait-card t">
+      <span class="bait-letter">T</span>
+      <h4>⚙️ Technical Factor — MODERATE SIGNAL</h4>
+      <p>S&P MidCap 400 inclusion (Dec 2025) → forced passive index buying at ~$10 levels. $1B buyback completed at $10.92 average → management signaled strong value conviction at these levels. New $500M buyback at ~$11.50 prices = 13% FCF yield on buyback spend. Insider buying post-Dines return. Short interest has been elevated (the "AI kills RPA" trade), creating potential squeeze dynamics if AI ARR metrics inflect positively at the March 2026 Agentic AI Summit (March 25, 2026).</p>
+    </div>
+  </div>
+
+  <div class="bait-box">
+    <strong>BAIT Verdict — Behavioral + Analytical Overlap (High Conviction Signal):</strong> The highest-conviction mispricings occur when multiple BAIT inefficiencies overlap. For PATH, Behavioral and Analytical overlap is strong. The Information signal is moderate (early-stage products, hard to model). Technical is supportive but not the primary driver. This profile is similar to the SHOP thesis at $112 — behavioral overcorrection on a business with genuine analytical upside being ignored by consensus models. The key difference: SHOP had accelerating fundamentals, while PATH has decelerating-but-stabilizing fundamentals. This warrants a smaller allocation and more option-heavy structure.
+  </div>
+</div>
+
+<!-- ===== INTEREST RATE / MACRO SENSITIVITY ===== -->
+<div class="section">
+  <h2>10. Macro Sensitivity & Enterprise IT Budget Environment</h2>
+
+  <p>Unlike SCHW, PATH's primary exogenous sensitivity is not interest rates — it's enterprise IT budget cycles. Here's how the macro environment affects UiPath's business:</p>
+
+  <div class="grid2">
+    <div class="metric-card green">
+      <div class="value">$23.9B+</div>
+      <div class="label">Global RPA + AI Agent Market (2028E, IDC)</div>
+    </div>
+    <div class="metric-card amber">
+      <div class="value">~7.8%</div>
+      <div class="label">UiPath Revenue as % of TAM (underpenetrated)</div>
+    </div>
+    <div class="metric-card green">
+      <div class="value">+14%</div>
+      <div class="label">cRPO Growth YoY — Revenue Visibility</div>
+    </div>
+    <div class="metric-card amber">
+      <div class="value">107%</div>
+      <div class="label">NRR — Key Metric to Watch for Inflection</div>
+    </div>
+  </div>
+
+  <h3>Macro Scenarios</h3>
+  <table>
+    <tr>
+      <th>Macro Scenario</th><th>Impact on PATH</th><th>Key Risk</th>
+    </tr>
+    <tr>
+      <td>Soft landing / continued growth</td><td class="pos">Positive — enterprise automation spend accelerates; AI adoption budgets grow</td><td>Competition from hyperscalers</td>
+    </tr>
+    <tr>
+      <td>Mild recession / IT budget tightening</td><td class="neg">Negative — automation projects delayed; NRR pressured further</td><td>NRR could fall below 105%</td>
+    </tr>
+    <tr>
+      <td>AI spending boom</td><td class="pos">Strongly positive — agentic AI needs orchestration; PATH TAM expands dramatically</td><td>Execution must keep pace</td>
+    </tr>
+    <tr>
+      <td>Regulatory/privacy crackdown on AI</td><td class="pos">Paradoxically positive — governance and auditability (UiPath's strength) become mandatory</td><td>Slower deployment cycles</td>
+    </tr>
+  </table>
+
+  <div class="highlight">
+    <strong>Ashim Gupta (COO/CFO), Q4 FY2026 Earnings Call (March 11, 2026):</strong>
+    <div class="quote-block">"We do see pockets of strength and we see pockets of pressure or fluctuations that happen from a macroeconomic standpoint... Middle East conflict is there, so there's uncertainty there. But overall, I would say we have been able to navigate the macro environment effectively."</div>
+    This balanced commentary suggests no acute macro headwind, but management is appropriately cautious about geopolitical and regional budget variability.
+  </div>
+
+  <p><strong>Daniel Dines (CEO), Q4 FY2026 Earnings Call:</strong></p>
+  <div class="quote-block">"As enterprise AI adoption moves from experimentation to scaled deployment, customers increasingly need a platform that can execute complex processes with reliability, governance, and scale. By bringing deterministic automation, agentic AI, and enterprise-grade orchestration together on a single platform, UiPath provides the execution layer enterprises trust to run mission-critical processes in the agentic era."</div>
+
+  <p><strong>Motley Fool / Gartner Research (Feb 2026):</strong></p>
+  <div class="quote-block">Gartner expects that only 5% of enterprise apps currently embed AI agents, a ratio forecast to surge eightfold to 40% by end of 2026. In a best-case scenario, agentic AI could drive 30% of all enterprise application software sales by 2035.</div>
+</div>
+
+<!-- ===== VALUATION ===== -->
+<div class="section">
+  <h2>11. Valuation & Return Target Analysis</h2>
+
+  <div class="grid4">
+    <div class="metric-card">
+      <div class="value">~$11.50</div>
+      <div class="label">Current Price (Mar 15, 2026)</div>
+    </div>
+    <div class="metric-card">
+      <div class="value">~2.8x</div>
+      <div class="label">EV/Revenue (FY2026)</div>
+    </div>
+    <div class="metric-card">
+      <div class="value">~12x</div>
+      <div class="label">EV/FCF (FY2026 $372M)</div>
+    </div>
+    <div class="metric-card green">
+      <div class="value">$1.69B</div>
+      <div class="label">Cash (No Debt) — 27% of Market Cap</div>
+    </div>
+  </div>
+
+  <h3>Comparable Valuation Context</h3>
+  <table>
+    <tr>
+      <th>Peer / Metric</th><th>EV/Revenue</th><th>ARR Growth</th><th>FCF Margin</th>
+    </tr>
+    <tr>
+      <td>UiPath (PATH)</td><td>2.8x</td><td>+11%</td><td>23%</td>
+    </tr>
+    <tr>
+      <td>ServiceNow (NOW)</td><td>~17x</td><td>+20%</td><td>~31%</td>
+    </tr>
+    <tr>
+      <td>Pega Systems (PEGA)</td><td>~4x</td><td>+17% ACV</td><td>~15%</td>
+    </tr>
+    <tr>
+      <td>Appian (APPN)</td><td>~3x</td><td>+22%</td><td>low single digits</td>
+    </tr>
+    <tr>
+      <td>Analyst Avg Price Target</td><td colspan="3" style="text-align:center;">~$16.00 (TipRanks avg) / ~$14–19 range (individual analysts)</td>
+    </tr>
+  </table>
+
+  <div class="highlight">
+    <strong>Valuation Verdict — Cheap in Absolute Terms, Appropriate Skepticism Remains:</strong> At 2.8x EV/Revenue and 12x EV/FCF, PATH is priced for a business with near-zero growth premium — essentially the market believes ARR growth will continue to decelerate and margins will plateau. If PATH re-rates to even 4–5x EV/Revenue (still at a steep discount to ServiceNow), the stock doubles from current levels. The $1.69B cash position (no debt) provides a floor — effectively the market is valuing the operating business at only ~$4.6B EV, or 2.5x FY2026 non-GAAP operating income of $370M. That's extremely conservative for a business with 97% gross retention and $2B ARR on track for FY2027.
+  </div>
+
+  <h3>Return Target Analysis</h3>
+  <table>
+    <tr>
+      <th>Scenario</th><th>Horizon</th><th>Required Price</th><th>Implied EV/ARR</th><th>Probability</th>
+    </tr>
+    <tr>
+      <td>20% Return</td><td>1 year</td><td>$13.80</td><td>~3.2x FY2027E ARR ($2.05B)</td><td class="pos">Moderate-High — consensus targets avg $14–16</td>
+    </tr>
+    <tr>
+      <td>50% Return</td><td>2–3 years</td><td>$17.25</td><td>~3.5x FY2028E ARR (~$2.3B)</td><td class="pos">Moderate — requires NRR stabilization + AI ARR acceleration</td>
+    </tr>
+    <tr>
+      <td>3x Return (Bull Case)</td><td>3–4 years</td><td>$34.50</td><td>~5x FY2029E ARR (~$2.8B)</td><td class="neg">Low-Moderate — requires full agentic AI platform re-rating</td>
+    </tr>
+  </table>
+
+  <h3>Scenario Analysis: 20% Return in 1 Year (~$13.80)</h3>
+  <table>
+    <tr><th>Scenario</th><th>FY2027 ARR</th><th>EV/ARR Multiple</th><th>Implied Price</th><th>Return</th></tr>
+    <tr><td>Bear</td><td>$1.95B (NRR falls to 103%)</td><td>2.0x</td><td>$8.50</td><td class="neg">-26%</td></tr>
+    <tr><td>Base</td><td>$2.05B (guidance midpoint)</td><td>3.0x</td><td>$12.50</td><td class="pos">+9%</td></tr>
+    <tr><td>Bull</td><td>$2.10B (NRR stabilizes at 109%)</td><td>3.5x</td><td>$15.50</td><td class="pos">+35%</td></tr>
+    <tr><td>Bull+ (AI inflection)</td><td>$2.15B</td><td>4.0x</td><td>$18.50</td><td class="pos">+61%</td></tr>
+  </table>
+
+  <h3>Scenario Analysis: 3-Year Return (~FY2029)</h3>
+  <table>
+    <tr><th>Scenario</th><th>FY2029E ARR</th><th>FCF</th><th>EV/FCF</th><th>Price</th><th>Return</th></tr>
+    <tr><td>Bear (NRR stays 105%, AI stalls)</td><td>$2.15B</td><td>~$400M</td><td>10x</td><td>~$9</td><td class="neg">-22%</td></tr>
+    <tr><td>Base (stable ARR growth 10%, margins 28%)</td><td>$2.55B</td><td>~$600M</td><td>18x</td><td>~$22</td><td class="pos">+91%</td></tr>
+    <tr><td>Bull (NRR rebounds to 115%, AI ARR $600M+)</td><td>$3.0B</td><td>~$850M</td><td>22x</td><td>~$36</td><td class="pos">+213%</td></tr>
+    <tr><td>Bull+ (Full agentic platform re-rate to ServiceNow-lite)</td><td>$3.5B</td><td>~$1.1B</td><td>28x</td><td>~$55</td><td class="pos">+378%</td></tr>
+  </table>
+
+  <div class="highlight">
+    <strong>FCF Derivation for 3-Year Base:</strong> FY2029 revenue ~$2.2B × 28% FCF margin = ~$616M FCF. EV at 18x FCF = $11B. Add cash (~$2.5B accumulated over 3 years at $450M FCF/year) = total enterprise value ~$13.5B. Shares ~500M (buybacks reduce count from 545M). Implied price = ~$27. Adding back terminal multiple adjustment yields ~$22 on conservative assumptions, ~$36 on bull.
+  </div>
+</div>
+
+<!-- ===== POSITION STRATEGY ===== -->
+<div class="section">
+  <h2>12. Position Building Strategy</h2>
+
+  <h3>Why Options-Heavy, Not Stock-Heavy (Contrast with SCHW)</h3>
+  <p>SCHW is a wide-moat compounder with predictable earnings — stock-heavy makes sense because the return is driven by earnings growth and modest multiple stability. PATH is a turnaround/re-rating story with genuine binary risk (AI disruption could be real). The appropriate structure is options-heavy: you get disproportionate upside from the re-rating while capping downside. This is a 0.5% portfolio allocation — not a conviction position like SHOP.</p>
+
+  <h3>Recommended Split: 50% Stock / 50% Options</h3>
+
+  <h3>Stock Position — Staged Entry</h3>
+  <table>
+    <tr><th>Tranche</th><th>Allocation</th><th>Entry Trigger</th><th>Price Range</th><th>Rationale</th></tr>
+    <tr><td>Tranche 1 (now or on weakness)</td><td>25% of position</td><td>Current levels — $1.69B cash floor limits downside</td><td>$10.50–$12.00</td><td>Establishes cost basis below cash-adjusted EV floor</td></tr>
+    <tr><td>Tranche 2 (pullback)</td><td>25% of position</td><td>Macro selloff, NRR concern, or AI disruption panic</td><td>$8.50–$10.00</td><td>At $9, EV ≈ $3.2B = barely 1.7x ARR — near absurd</td></tr>
+  </table>
+
+  <h3>Options Strategy (50% of allocation)</h3>
+  <ul>
+    <li><strong>LEAPS (Long-Dated Calls) — Jan 2028, $15 strike:</strong> At ~$1.50–$2.00 premium per contract, these give you 2-year exposure to the agentic AI re-rating. If PATH reaches $22–25 in the bull case, these 10x. If PATH stays flat, you lose the premium — which is why this is only 50% of the allocation. The March 25 Agentic AI Summit is a near-term catalyst that could spike implied volatility.</li>
+    <li><strong>Cash-Secured Puts at $9–$10:</strong> Sell 60–90 day puts. At $9 strike, you collect meaningful premium while setting up a Tranche 2 entry at a near-trough valuation. At $9, EV ≈ $3.3B = 0.9x EV/Revenue — literally cheaper than free cash. If assigned, it's actually a gift.</li>
+    <li><strong>Risk Reversal (after initial position established):</strong> Sell an $8 put / buy a $16 call (12-month). Fund the call with put premium, creating a zero-cost or near-zero-cost way to own the upside above $16 while accepting $8 as a floor (which you'd want to own at anyway).</li>
+  </ul>
+
+  <h3>Key Catalysts & Signposts to Watch</h3>
+  <ul>
+    <li><strong>Agentic AI Summit (March 25, 2026):</strong> UiPath's annual showcase. Specific product announcements for Maestro, Agent Builder, and ScreenPlay. Customer case studies. This is the near-term volatility event — could be a positive re-rating catalyst if AI ARR momentum is strong.</li>
+    <li><strong>Q1 FY2027 Earnings (June 2026):</strong> First test of FY2027 guidance. Net new ARR is the #1 metric — a sequential improvement from Q4 FY2026's $70M toward $80–90M would signal NRR is stabilizing. Any bounce in NRR from 107% back toward 110%+ is thesis-confirming.</li>
+    <li><strong>NRR Floor:</strong> If NRR stabilizes at 107–109% for two consecutive quarters, the market will re-rate from "declining NRR" to "stable platform" — a potential 30–40% stock re-rating.</li>
+    <li><strong>AI ARR Crossing $300M:</strong> With $200M in AI ARR growing 25%+, the $300M threshold (expected in FY2027) would demonstrate the agentic products are commercially material. Watch for this in earnings supplements.</li>
+    <li><strong>M&amp;A as Risk Catalyst:</strong> UiPath has $1.69B in cash and no debt. An acquisition at the wrong price (too expensive, wrong fit) could be destructive. Conversely, being acquired by Microsoft, SAP, or ServiceNow (strategic logic exists for all three) would be strongly positive.</li>
+  </ul>
+</div>
+
+<!-- ===== BULL/BEAR ===== -->
+<div class="section">
+  <h2>13. Bull Case vs. Bear Case</h2>
+
+  <div class="scenario-grid">
+    <div class="bull-card">
+      <h3>🐂 Bull Case ($25–$36 by 2028–29)</h3>
+      <ul>
+        <li>Agentic AI adoption scales; every enterprise AI deployment needs UiPath's orchestration layer</li>
+        <li>AI ARR hits $500M+ (2.5x current) by FY2028 — NRR rebounds to 115%+</li>
+        <li>Management delivers on 30% non-GAAP operating margin → FCF approaches $600M+</li>
+        <li>Cloud transition complete → ARR quality improves, revenue predictability increases</li>
+        <li>$1.5B+ in buybacks at $10–12/share proves prescient — shares below 500M by FY2029</li>
+        <li>Strategic acquisition by Microsoft/SAP at a premium possible</li>
+        <li>FY2029 FCF ~$850M × 22x = ~$36/share</li>
+      </ul>
+    </div>
+    <div class="bear-card">
+      <h3>🐻 Bear Case ($7–$9)</h3>
+      <ul>
+        <li>Microsoft Copilot + Power Automate erodes new logo wins; NRR falls below 100%</li>
+        <li>AI coding agents commoditize automation build/maintenance; per-bot pricing pressure</li>
+        <li>Go-to-market execution fails again under "Dines 2.0"; sales productivity stagnates</li>
+        <li>ARR growth decelerates to 5–6%; revenue growth falls below 5%</li>
+        <li>Multiple compression: EV/Revenue falls to 2x → stock at ~$9</li>
+        <li>SBC dilution outpaces buyback — shares climb toward 570M+ if buyback paused</li>
+        <li>FY2029 FCF ~$400M × 10x = ~$8/share (cash offset by accumulated losses)</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="highlight">
+    <strong>Asymmetry Assessment:</strong> The bull case has ~200–300% upside from current levels. The bear case has ~25–35% downside — partially cushioned by the $1.69B cash position (27% of market cap). The risk/reward ratio is approximately 6:1 to 8:1 bull-to-bear, which is attractive for a 0.5% portfolio allocation with an options-heavy structure that further improves this asymmetry.
+  </div>
+</div>
+
+<!-- ===== BOTTOM LINE ===== -->
+<div class="section">
+  <h2>14. Bottom Line</h2>
+
+  <div class="verdict">
+    <p><strong>PATH is an asymmetric, options-heavy, 0.5% portfolio speculation — NOT a core conviction position like SHOP or SCHW.</strong> The fundamental debate (AI disruption vs. AI amplification) is genuinely unresolved, which is exactly why the stock is down 85% from its peak and priced at 2.8x EV/Revenue with $1.69B in cash. That dislocation is exploitable, but with appropriate position sizing and structure.</p>
+
+    <p><strong>The bear case is understood and priced in.</strong> At $11.50 with $1.69B cash and $372M in FCF, the market is valuing the operating business at barely 2.4x ARR. Even in the bear case where growth decelerates to 5–6%, the stock is unlikely to go below $7–8 given the cash floor — so the downside is bounded.</p>
+
+    <p><strong>The bull case is not priced in.</strong> If the "AND" thesis is correct — that AI agents need UiPath's orchestration layer, not replace it — then the company is at the early innings of a massive TAM expansion. $200M in AI ARR with 25%+ growth and 3x spend multipliers from AI customers is the nascent signal that management's agentic pivot is working. The March 25 Agentic AI Summit is the next material data point.</p>
+
+    <p><strong>The Mauboussin overlay:</strong> Behavioral + Analytical inefficiency overlap makes this a higher-conviction speculative allocation than a single-inefficiency trade. But the governance concern (dual-class structure) and the genuine uncertainty around AI competitive dynamics cap the maximum position size. This is appropriate at 0.5% of portfolio with a LEAPS-led options structure.</p>
+
+    <p><strong>Watch for the thesis-confirming signal:</strong> NRR stabilizing at or above 107–109% for two consecutive quarters would trigger a meaningful re-rating — the market's dominant fear is that NRR is in structural decline. If it's not, this is a $18–22 stock in 12–18 months, representing 55–90% upside from current levels.</p>
+  </div>
+
+  <h3>Comparison to Previously Analyzed Names</h3>
+  <table>
+    <tr>
+      <th>Metric</th><th>SHOP</th><th>SCHW</th><th>SBUX</th><th>PATH</th>
+    </tr>
+    <tr>
+      <td>Conviction Level</td><td class="pos">Highest</td><td class="pos">High</td><td class="neu">Medium</td><td class="neg">Speculative</td>
+    </tr>
+    <tr>
+      <td>Position Size</td><td>Largest</td><td>1%</td><td>3%</td><td>0.5%</td>
+    </tr>
+    <tr>
+      <td>Options vs. Stock</td><td>70/30 stock</td><td>90/10 stock</td><td>50/50</td><td>50/50 or options-heavier</td>
+    </tr>
+    <tr>
+      <td>Primary Risk</td><td>GMV deceleration</td><td>Rate cuts</td><td>Execution</td><td>AI disruption / NRR decline</td>
+    </tr>
+    <tr>
+      <td>BAIT Overlap</td><td>B + A + I</td><td>B + A</td><td>B + A</td><td>B + A (moderate I)</td>
+    </tr>
+    <tr>
+      <td>Governance</td><td class="pos">Clean</td><td class="pos">Clean</td><td class="pos">Clean</td><td class="neg">Dual-class (caution)</td>
+    </tr>
+    <tr>
+      <td>Key Catalyst (Near-Term)</td><td>GMV acceleration</td><td>Q1 2026 earnings</td><td>Niccol execution</td><td>Agentic AI Summit Mar 25</td>
+    </tr>
+  </table>
+</div>
+
+<div class="disclaimer">
+  <strong>Disclaimer:</strong> This analysis is for informational purposes only and does not constitute investment advice. The author is not a financial advisor. All investors should conduct their own due diligence before making investment decisions. Financial data sourced from UiPath SEC filings, Q4 FY2026 earnings press release (March 11, 2026), earnings call transcript (March 11, 2026), analyst reports, and public financial databases. Data as of March 15, 2026. Fiscal year ends January 31; "FY2026" refers to the period ending January 31, 2026.
+</div>
+
+</div>
+</body>
+</html>

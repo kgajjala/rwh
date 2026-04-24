@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SCHW — Q1 2026 Post-Earnings Investment Analysis</title>
+<style>
+:root{--navy:#003580;--accent:#0054a3;--mid:#0071c2;--sky:#e8f1fb;--green:#15803d;--red:#b91c1c;--amber:#b45309;--gray:#6b7280;--bg:#f0f4fa;--card:#ffffff;--border:#d9e5f5;}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Georgia','Times New Roman',serif;background:var(--bg);color:#1a2030;line-height:1.7;}
+.container{max-width:1100px;margin:0 auto;padding:24px;}
+.header{background:linear-gradient(135deg,#001f5c 0%,#003580 40%,#0071c2 100%);color:white;padding:44px 36px;border-radius:14px;margin-bottom:28px;position:relative;overflow:hidden;}
+.header h1{font-size:2em;margin-bottom:6px;font-weight:700;}
+.header .subtitle{font-size:1.1em;opacity:.85;font-style:italic;}
+.header .badge{display:inline-block;margin-top:14px;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.22);padding:5px 16px;border-radius:20px;font-size:.82em;font-family:'Segoe UI',system-ui,sans-serif;}
+.header .meta{margin-top:18px;display:flex;gap:10px;flex-wrap:wrap;font-size:.87em;font-family:'Segoe UI',system-ui,sans-serif;}
+.header .meta span{background:rgba(255,255,255,.13);border:1px solid rgba(255,255,255,.18);padding:5px 13px;border-radius:8px;}
+.thesis-tag{display:inline-block;padding:3px 10px;border-radius:4px;font-size:.78em;font-family:'Segoe UI',system-ui,sans-serif;font-weight:600;text-transform:uppercase;background:rgba(134,239,172,.2);color:#86efac;border:1px solid rgba(134,239,172,.3);margin-left:10px;}
+.section{background:var(--card);border-radius:12px;padding:30px;margin-bottom:20px;box-shadow:0 1px 4px rgba(0,53,128,.07),0 0 0 1px var(--border);}
+.section h2{color:var(--navy);font-size:1.3em;margin-bottom:18px;padding-bottom:10px;border-bottom:2px solid var(--border);font-family:'Segoe UI',system-ui,sans-serif;font-weight:700;}
+.section h3{color:var(--accent);font-size:1.05em;margin:20px 0 10px;font-family:'Segoe UI',system-ui,sans-serif;font-weight:600;}
+p{margin-bottom:12px;}ul{margin:10px 0 10px 22px;}li{margin-bottom:8px;}
+table{width:100%;border-collapse:collapse;margin:14px 0;font-size:.89em;font-family:'Segoe UI',system-ui,sans-serif;}
+th{background:var(--sky);color:var(--navy);padding:10px 12px;text-align:left;font-weight:600;border:1px solid var(--border);}
+td{padding:9px 12px;border:1px solid var(--border);vertical-align:top;}
+tr:nth-child(even) td{background:#f7f9fd;}
+td:first-child{font-weight:500;}
+.pos{color:var(--green);font-weight:700;}.neg{color:var(--red);font-weight:700;}.neu{color:var(--amber);font-weight:700;}.nd{color:var(--gray);font-style:italic;}
+.highlight{background:#fffbeb;border-left:4px solid #f59e0b;padding:14px 18px;border-radius:0 8px 8px 0;margin:16px 0;}
+.info-box{background:#eff6ff;border-left:4px solid #3b82f6;padding:14px 18px;border-radius:0 8px 8px 0;margin:16px 0;}
+.warning{background:#fef2f2;border-left:4px solid #ef4444;padding:14px 18px;border-radius:0 8px 8px 0;margin:16px 0;}
+.verdict{background:#f0fdf4;border:2px solid #16a34a;border-radius:10px;padding:22px;margin:16px 0;}
+.grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:16px 0;}
+.metric-card{background:var(--sky);border-radius:10px;padding:18px 14px;text-align:center;border:1px solid var(--border);}
+.metric-card.green{background:#f0fdf4;border-color:#16a34a;}.metric-card.amber{background:#fffbeb;border-color:#d97706;}.metric-card.red{background:#fef2f2;border-color:#ef4444;}
+.metric-card .value{font-size:1.6em;font-weight:700;color:var(--navy);font-family:'Segoe UI',system-ui,sans-serif;}
+.metric-card .label{font-size:.78em;color:var(--gray);margin-top:4px;font-family:'Segoe UI',system-ui,sans-serif;}
+.bait-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:16px 0;}
+.bait-card{border-radius:10px;padding:20px;}
+.bait-card.b{background:#fdf4ff;border:1px solid #d8b4fe;}.bait-card.a{background:#f0f9ff;border:1px solid #7dd3fc;}
+.bait-card.i{background:#f0fdf4;border:1px solid #86efac;}.bait-card.t{background:#fff7ed;border:1px solid #fdba74;}
+.bait-letter{font-size:2.4em;font-weight:700;font-family:'Segoe UI',system-ui,sans-serif;opacity:.25;float:right;margin-top:-6px;}
+.bait-card h4{font-family:'Segoe UI',system-ui,sans-serif;font-size:.95em;margin-bottom:8px;color:var(--navy);}
+.bait-box{background:#f8faff;border:1px solid var(--border);border-radius:10px;padding:18px;margin-top:14px;}
+.scenario-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;}
+.bull-card{background:#f0fdf4;border:1px solid #86efac;border-radius:10px;padding:20px;}
+.bear-card{background:#fef2f2;border:1px solid #fca5a5;border-radius:10px;padding:20px;}
+.price-verify{border-left:4px solid #d97706;background:#fffbeb;padding:14px 18px;border-radius:0 8px 8px 0;margin-bottom:20px;font-family:'Segoe UI',system-ui,sans-serif;font-size:.9em;}
+.disclaimer{background:#f1f5f9;border-radius:10px;padding:18px;font-size:.82em;color:var(--gray);font-family:'Segoe UI',system-ui,sans-serif;margin-top:24px;}
+.update-banner{background:linear-gradient(135deg,#fef3c7,#fde68a);border:2px solid #d97706;border-radius:10px;padding:18px;margin-bottom:20px;font-family:'Segoe UI',system-ui,sans-serif;}
+.update-banner h3{color:#92400e;margin-bottom:10px;font-size:1em;}
+.change-row{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px;font-size:.9em;padding:6px 0;border-bottom:1px solid #fde68a;}
+.change-row:last-child{border-bottom:none;}
+.change-row .label{font-weight:600;color:#92400e;}
+.quote-block{border-left:3px solid var(--mid);padding:12px 18px;margin:14px 0;background:#f8faff;font-style:italic;color:#334155;font-size:.93em;}
+</style>
+</head>
+<body>
+<div class="container">
+
+<div class="header">
+<h1>Charles Schwab Corporation (SCHW) <span class="thesis-tag">Wide Moat Compounder</span></h1>
+<div class="subtitle">Q1 2026 Post-Earnings Update — Record Results, Guidance Raised, Stock Sold Off</div>
+<div class="badge">⚡ BAIT Signal Strengthened: Behavioral + Technical Overlap Now Dominant</div>
+<div class="meta">
+<span>Price: ~$95.00</span>
+<span>Market Cap: ~$165B</span>
+<span>P/E TTM: 20.5x</span>
+<span>Fwd P/E: ~15.9x</span>
+<span>Dividend Yield: 1.3%</span>
+<span>52-Wk: $73.76 – $107.50</span>
+<span>Date: April 16, 2026</span>
+</div>
+</div>
+
+<div class="price-verify">
+<strong>Price verified:</strong> ~$95.00 as of April 16, 2026 (intraday, post-earnings) | Prev close $100.27 | Down ~5.3% on the day<br>
+52-week range: $73.76–$107.50 | Market cap: $165.8B | Shares outstanding: 1.74B<br>
+All multiples calculated from this verified price. Yahoo Finance and Quiver Quant cross-referenced.
+</div>
+
+<div class="update-banner">
+<h3>⚡ What Changed Since March 3, 2026 Analysis (Delta Summary)</h3>
+<div class="change-row"><div class="label">Metric</div><div class="label">Previous (Mar 3)</div><div class="label">Current (Apr 16)</div></div>
+<div class="change-row"><div>Stock Price</div><div>$95.11</div><div>$95.00 (-0.1% net)</div></div>
+<div class="change-row"><div>2026 EPS Guidance</div><div>$5.70–$5.80 (excl. buybacks/Forge)</div><div class="pos"><strong>Tracking ABOVE $5.70–$5.80</strong></div></div>
+<div class="change-row"><div>52-Week Low</div><div>$65.88</div><div>$73.76 (revised up)</div></div>
+<div class="change-row"><div>Q1 EPS</div><div>N/A</div><div class="pos">$1.43 (+38% YoY, beat $1.42)</div></div>
+<div class="change-row"><div>Q1 Revenue</div><div>N/A</div><div class="neu">$6.48B (+16% YoY, missed $6.62B)</div></div>
+<div class="change-row"><div>Core NNA</div><div>$519B in 2025</div><div class="pos">$158B in Q1 — record Q1</div></div>
+<div class="change-row"><div>NIM Outlook</div><div>~2.90% flat through 2026</div><div class="pos">Upward trajectory expected</div></div>
+<div class="change-row"><div>Fed Rate Path</div><div>Assumed 2 cuts in 2026</div><div class="pos">Market now prices NO cuts</div></div>
+<div class="change-row"><div>Dividend</div><div>$0.27/qtr</div><div class="pos">$0.32/qtr (+19%)</div></div>
+<div class="change-row"><div>Q1 Buybacks</div><div>$5.4B (H2 2025 total)</div><div class="pos">$2.4B in Q1 alone</div></div>
+<div class="change-row"><div>Client Assets</div><div>$11.9T (YE 2025)</div><div class="pos">$11.8T ex-one-time, +19% YoY</div></div>
+<div class="change-row"><div>Crypto Offering</div><div>Signaled for 2026</div><div class="pos">Launching in coming weeks</div></div>
+<div class="change-row"><div>Forge Acquisition</div><div>Closing imminent</div><div class="pos">Completed in Q1</div></div>
+</div>
+
+<!-- SECTION 1: WHY EXIST -->
+<div class="section">
+<h2>1. Why Does This Company Exist? (No Change)</h2>
+<p>The founding insight from the original March 3 analysis holds: Schwab exists to be the trusted custodian of America's wealth, serving 47 million accounts and $11.8T in client assets as the one-stop platform for retail investors, RIAs, and workplace plan participants.</p>
+<p><strong>What's new from Q1 2026:</strong> Management is explicitly articulating a "no trade-offs" value proposition — clients don't have to choose between price, service, and capability. The Q1 results validate this: clients are flooding in (1.3M new brokerage accounts, +10%) <em>because</em> of volatile markets, not despite them.</p>
+
+<div class="highlight">
+<strong>Refined Pivotal Investment Question:</strong> Is Schwab's ~4% of client wealth held as transactional sweep cash a vulnerable monetization model that competitors (JPM, Robinhood) or AI agents can disintermediate — OR is it genuinely "intentional allocation" by clients who value the ecosystem they've chosen? Wurster's Q1 commentary ("we have many ways to charge clients for the value we add") argues Schwab has multiple monetization paths even if cash economics shift. This is the key risk debate, and it intensified after JPMorgan announced a product to reduce brokerage cash friction.
+</div>
+</div>
+
+<!-- SECTION 2: ANNUAL FINANCIAL METRICS -->
+<div class="section">
+<h2>2. Annual Financial Metrics — Updated with Q1 2026 Data</h2>
+
+<h3>Revenue, Profitability & EPS</h3>
+<table>
+<tr><th>Metric</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th><th>2025</th><th>Q1 '26</th><th>2026E</th></tr>
+<tr><td>Revenue ($B)</td><td>$18.52</td><td>$20.76</td><td>$18.84</td><td>$19.61</td><td>$23.92</td><td class="pos">$6.48</td><td class="pos">~$27.0+</td></tr>
+<tr><td>Revenue Growth YoY</td><td class="pos">+58%</td><td class="pos">+12%</td><td class="neg">-9%</td><td class="pos">+4%</td><td class="pos">+22%</td><td class="pos">+16%</td><td class="pos">~+13%</td></tr>
+<tr><td>Adj. Pre-Tax Margin</td><td>—</td><td>~48%</td><td>~42%</td><td>~44%</td><td>~50%</td><td class="pos">51.4%</td><td>~51–52%</td></tr>
+<tr><td>GAAP Diluted EPS</td><td>$2.83</td><td>$3.50</td><td>$2.54</td><td>$2.99</td><td>$4.65</td><td class="pos">$1.43</td><td class="pos">~$6.00+</td></tr>
+<tr><td>Adj. Diluted EPS</td><td>—</td><td>$3.78</td><td>$3.13</td><td>$3.25</td><td>$4.87</td><td class="pos">$1.43</td><td class="pos">~$6.00+</td></tr>
+<tr><td>EPS Growth YoY</td><td>—</td><td class="pos">+24%</td><td class="neg">-17%</td><td class="pos">+18%</td><td class="pos">+56%</td><td class="pos">+38%</td><td class="pos">~+23%</td></tr>
+</table>
+
+<div class="info-box">
+<strong>Q1 2026 — What Changed:</strong> The adjusted pre-tax margin hit 51.4% in Q1 — above management's prior "low 50s" 2026 guidance and the highest quarterly reading in recent history. This is 150bps above the 2025 full-year number and validates the operating leverage thesis. Every major revenue line grew double-digits: NII +16%, asset management fees +15%, trading +20%, BDA fees +20%.
+</div>
+
+<h3>Net Interest Revenue — The Softest Data Point</h3>
+<table>
+<tr><th>Metric</th><th>Q4 2025</th><th>Q1 2026</th><th>Consensus</th><th>Read</th></tr>
+<tr><td>Net Interest Revenue ($B)</td><td>~$3.18</td><td class="neu">$3.14</td><td>$3.18</td><td class="neg">-$40M miss; slight sequential decline</td></tr>
+<tr><td>NII Growth YoY</td><td>—</td><td class="pos">+16%</td><td>—</td><td class="pos">Strong YoY despite seq. dip</td></tr>
+<tr><td>Revenue Total ($B)</td><td>—</td><td>$6.48</td><td>$6.62</td><td class="neg">-$134M miss (2%)</td></tr>
+<tr><td>Adj. EPS</td><td>—</td><td>$1.43</td><td>$1.42</td><td class="pos">+$0.01 beat</td></tr>
+</table>
+
+<div class="warning">
+<strong>The Bear's Talking Point — Addressed:</strong> NII of $3.14B fell slightly below consensus $3.18B "due to lower interest rates in Q1." This is the only genuinely weak data point and is driving today's selloff. But context matters: (1) management explicitly said forward NIM has "upward momentum" not flat; (2) the rate environment has moved in Schwab's favor — market is now pricing NO cuts vs. 2 cuts assumed in January; (3) lending growth (bank loans +29%, margin loans +13% sequentially) is offsetting any rate drag; (4) the $8B sequential transactional cash build in March creates a bigger earning asset base going into Q2.
+</div>
+
+<h3>Shareholder Returns</h3>
+<table>
+<tr><th>Metric</th><th>2024</th><th>2025</th><th>Q1 2026</th><th>Trend</th></tr>
+<tr><td>Share Buybacks ($B)</td><td>—</td><td>~$5.4B (H2 only)</td><td class="pos">$2.4B</td><td class="pos">Accelerating pace</td></tr>
+<tr><td>Quarterly Dividend</td><td>$0.25</td><td>$0.27</td><td class="pos">$0.32 (+19%)</td><td class="pos">Largest increase in years</td></tr>
+<tr><td>Tier 1 Leverage</td><td>—</td><td>~6.9%</td><td>6.8%</td><td class="pos">In 6.75–7% target</td></tr>
+<tr><td>Dividend Yield</td><td>—</td><td>—</td><td class="pos">1.3%</td><td class="pos">Payout ratio just 27%</td></tr>
+</table>
+
+<div class="verdict">
+<strong>Capital Return Verdict — Significantly Stronger:</strong> The 19% dividend increase plus $2.4B Q1 buybacks ($9.6B annualized pace) represents a meaningful acceleration of capital return vs. the 2025 cadence. Truist's January projection of $8.25B in 2026 buybacks now looks conservative — Schwab is on pace for $10B+ if Q1 pace holds. The capital ratio at 6.8% (middle of target range) gives management flexibility to maintain this pace while also funding organic growth.
+</div>
+</div>
+
+<!-- SECTION 3: GEOGRAPHIC -->
+<div class="section">
+<h2>3. Geographic Revenue Split (No Change)</h2>
+<p>Still essentially 95%+ U.S. domestic. No meaningful geographic diversification.</p>
+<table>
+<tr><th>Region</th><th>% of Revenue</th><th>Notes</th></tr>
+<tr><td>United States</td><td>~95%+</td><td>Pure-play U.S. wealth management</td></tr>
+<tr><td>International</td><td>&lt;5%</td><td>Charles Schwab International serves non-US residents investing in U.S. markets</td></tr>
+</table>
+<p>This remains both a strength (no FX risk, no geopolitical complexity) and a limitation (growth is tied to U.S. markets and investor participation).</p>
+</div>
+
+<!-- SECTION 4: REVENUE MIX -->
+<div class="section">
+<h2>4. Revenue Mix & Business Model — Q1 2026 Update</h2>
+
+<table>
+<tr><th>Revenue Stream</th><th>Q1 2026 ($B)</th><th>% of Rev</th><th>YoY Growth</th><th>Q1 Trend</th></tr>
+<tr><td>Net Interest Revenue</td><td>$3.14</td><td>48.5%</td><td class="pos">+16%</td><td class="neu">Seq. softer; forward momentum expected</td></tr>
+<tr><td>Asset Mgmt & Admin Fees</td><td>$1.80</td><td>27.8%</td><td class="pos">+15%</td><td class="pos">Record level; managed investing +46%</td></tr>
+<tr><td>Trading Revenue</td><td>~$1.0</td><td>~15.5%</td><td class="pos">+20%</td><td class="pos">Record 9.9M DAVT</td></tr>
+<tr><td>Bank Deposit Account Fees</td><td>~$0.40</td><td>~6%</td><td class="pos">+20%</td><td class="pos">Net yield expansion as low-rate obligations mature</td></tr>
+<tr><td>Other</td><td>~$0.15</td><td>~2%</td><td>—</td><td>Misc.</td></tr>
+</table>
+
+<div class="info-box">
+<strong>Revenue Mix — Continued Diversification:</strong> NII as % of revenue dropped from ~56% in 2025 to ~48.5% in Q1 2026 — partly due to fee revenue outgrowing it, partly due to the Q1 NII seasonal softness. This is directionally good for the thesis: each quarter where fees grow faster than NII reduces Schwab's interest rate sensitivity. Asset management fees at $1.8B are a record and demonstrate the Managed Investing / Wealth Advisory strategy is working — Schwab Wealth Advisory alone grew net flows 90% YoY to $10B.
+</div>
+
+<h3>Business Lines Growing Faster Than Consensus Thinks</h3>
+<ul>
+<li><strong>Managed Investing Net Flows:</strong> +46% YoY to all-time record. 30% of flows came from legacy Ameritrade clients — validating the deal thesis years later.</li>
+<li><strong>Schwab Wealth Advisory:</strong> +90% YoY net flows to $10B. This is the highest-margin, highest-LTV segment.</li>
+<li><strong>Bank Lending:</strong> +29% YoY to $61B. Pledged asset line balances at all-time highs — this is spread-heavy revenue.</li>
+<li><strong>Margin Loans:</strong> $127B, +13% from YE 2025. Long-short strategy adoption is a tailwind.</li>
+<li><strong>Trading:</strong> 9.9M DAVT is a record. Caveat: revenue per trade fell because clients are taking "smaller positions, holding them for less duration" amid volatility.</li>
+</ul>
+</div>
+
+<!-- SECTION 5: MOAT -->
+<div class="section">
+<h2>5. Competitive Moat — Wide, With a New Competitive Wrinkle</h2>
+<p><strong>Rating: Wide Moat (Morningstar)</strong> — unchanged.</p>
+
+<h3>Moat Sources (Confirmed by Q1 Data)</h3>
+<ul>
+<li><strong>Scale & Cost Advantage:</strong> $11.8T client assets × 51.4% adj. pre-tax margin = industry-best operating leverage. Asset base grew +19% YoY.</li>
+<li><strong>Switching Costs:</strong> Client Promoter Scores up 9–10 points in Investor Services to near all-time highs. Clients with FC relationships trust Schwab with 2.4x more assets — this is the lock-in metric.</li>
+<li><strong>RIA Custody Dominance:</strong> Advisor Services still the category leader. Structured asset lending program expanding what RIAs can do, deepening switching costs.</li>
+<li><strong>Brand Trust in Crisis:</strong> March 2026 was the 2nd-highest NNA month ever (behind only Dec 2021). When markets got volatile, clients flooded IN — not out. This is what trust looks like.</li>
+<li><strong>Genius / Gen Z Capture (New Lever):</strong> Schwab Teen Investor account launched in Q1 — capturing 13–17 year olds now creates 40–50 year relationships. Early momentum "strong."</li>
+</ul>
+
+<h3>New Pressure Point — JPMorgan Cash Sweep Product</h3>
+<div class="warning">
+<strong>The Brennan Hawken Question:</strong> JPMorgan rolled out a product "to reduce friction around brokerage cash" — a direct attack on Schwab's sweep cash economics. Wurster's response was measured but firm: (1) clients already have easy options (money market funds, BYA, high-yield savings), one-click to move; (2) cash sits in sweep because clients want bill-pay liquidity and trading flexibility; (3) "many ways to charge clients for the value we add" — commissions went to zero, Schwab adapted. This is the chronic competitive headwind to monitor, not acute — but it is real, and it's why the stock trades at 15.9x forward earnings instead of 20x+.
+</div>
+</div>
+
+<!-- SECTION 6: MANAGEMENT -->
+<div class="section">
+<h2>6. Management & Leadership — Credibility Reinforced</h2>
+
+<table>
+<tr><th>Executive</th><th>Role</th><th>Tenure</th><th>Guidance Pattern</th><th>Credibility</th></tr>
+<tr><td>Rick Wurster</td><td>President & CEO</td><td>16 mos as CEO</td><td>Consistent Beater — raised above Jan guide</td><td>🟢 Strong</td></tr>
+<tr><td>Mike Verdeschi</td><td>CFO</td><td>18 mos</td><td>Consistent Beater — NIM trajectory communication excellent</td><td>🟢 Strong</td></tr>
+<tr><td>Charles Schwab</td><td>Co-Chairman</td><td>Founder</td><td>Founder oversight</td><td>🟢 Strong</td></tr>
+<tr><td>Walt Bettinger</td><td>Exec. Co-Chairman</td><td>15+ yrs</td><td>Strategic continuity</td><td>🟢 Strong</td></tr>
+</table>
+
+<div class="verdict">
+<strong>Management Verdict — Strengthened:</strong> Q1 2026 marks the second consecutive "beat + guide-raise" from the new leadership team. The January 2026 scenario of $5.70–$5.80 EPS was already above analyst expectations; now management explicitly says they're "tracking higher." This is the third data point establishing Wurster/Verdeschi as beat-and-raise operators. Note also: Charles Schwab Foundation announced executive changes in Q1 including the retirement of Paul Woolway (CEO Schwab Bank) — but orderly succession planning is evident.
+</div>
+
+<div class="warning">
+<strong>Insider Selling Flag (Minor Concern):</strong> 39 insider sales in the last 6 months, 0 purchases. Charles Schwab himself sold $80.5M; Walt Bettinger sold $33.8M. All sales were under Rule 10b5-1 pre-arranged plans, so they're routine diversification for longtime insiders. Still worth noting — not a red flag, but not a vote of confidence signal either.
+</div>
+</div>
+
+<!-- SECTION 7: MANAGEMENT COMMENTARY -->
+<div class="section">
+<h2>7. Q1 2026 Management Commentary — Key Highlights</h2>
+
+<p><strong>[Wurster, Q1 Earnings Call, April 16, 2026] → On AI strategy:</strong></p>
+<div class="quote-block">Rick Wurster described Schwab as "already an AI-enabled company" with concrete rollouts: an investor AI assistant launching in June, portfolio insights tool in May, generative search on schwab.com, and agentic capabilities that will let clients reallocate cash and perform routine actions through conversational interfaces. Investment relevance: AI positioned as growth accelerant and cost lever — not a headwind.</div>
+
+<p><strong>[Verdeschi, Q1 Earnings Call] → On NIM and rate environment:</strong></p>
+<div class="quote-block">The CFO explicitly reframed the rate environment as favorable — the January scenario assumed two rate cuts, while the forward curve now prices zero cuts. He cited "upward momentum" for NIM expansion and "continued upward trajectory of cash being driven by organic growth." This is a material positive revision to the rate thesis from the March analysis.</div>
+
+<p><strong>[Wurster, Q1 Earnings Call] → On cash monetization flexibility:</strong></p>
+<div class="quote-block">Responding to the JPMorgan competitive question: "we have many ways to charge clients for the value we add." Wurster cited the transition from commissions to the current model as evidence Schwab can adapt. He emphasized transactional cash is only ~4% of total client relationships — cross-sell through wealth, lending, trading, and advisory fees provides multiple monetization paths.</div>
+
+<p><strong>[Verdeschi, Q1 Earnings Call] → On full-year guidance:</strong></p>
+<div class="quote-block">"Based on what we see today in terms of the expected path of rates and strong client engagement, we are tracking higher than the $5.70 to $5.80 EPS range." This is the explicit guidance raise. Full refresh comes in July. Investment relevance: analysts will now revise consensus upward — previously $5.75 midpoint, now likely $5.90–$6.10 midpoint.</div>
+
+<p><strong>[Wurster, Q1 Earnings Call] → On Schwab Crypto launch:</strong></p>
+<div class="quote-block">Employee pilot is live; phased client rollout begins in coming weeks. Pricing at 75bps per trade on BTC/ETH. Described as "lowest price for the first dollar traded among major firms." Investment relevance: a new revenue line and — more importantly — builds optionality for tokenized securities custody, which positions Schwab for the future of fixed income and equities if tokenization proceeds.</div>
+
+<p><strong>[Wurster, Q1 Earnings Call] → On innovation velocity:</strong></p>
+<div class="quote-block">Q1 featured the launch of: (1) Schwab Teen Investor accounts, (2) structured asset lending for RIAs, (3) crypto employee pilot, (4) Forge acquisition closing, (5) wealth.com AI estate planning integration, (6) private issuer equity services. Wurster called it "one of the fastest paces of innovation I've ever seen." Investment relevance: this is a material shift in product velocity vs. the post-Ameritrade integration years.</div>
+</div>
+
+<!-- SECTION 8: STRATEGIC INITIATIVES -->
+<div class="section">
+<h2>8. Strategic Growth Initiatives — Updated Status</h2>
+<ul>
+<li><strong>AI Rollout (Accelerating):</strong> Investor AI assistant launches June 2026. Portfolio insights tool May 2026. 33,000 employees equipped with AI tools. 8,000+ technologists using AI for coding. Schwab Knowledge Assistant and Research Assistant already deployed. Relationship management assistant rolling out to FCs.</li>
+<li><strong>Schwab Crypto (Imminent):</strong> Employee pilot underway; client rollout in "coming weeks." BTC and ETH at 75bps. Transfer capabilities planned for deposits and withdrawals. This addresses a long-standing client demand and captures assets currently held at Coinbase, Robinhood, etc.</li>
+<li><strong>Forge Acquisition (Closed):</strong> Pre-IPO share access capabilities being rolled out. Combines with newly-launched private issuer equity services for a full pre-IPO ecosystem play. Lending against restricted/private shares via structured asset line.</li>
+<li><strong>Schwab Wealth Advisory (+90% YoY):</strong> The $10B net flows in Q1 is the highest-margin business growing fastest. Management is hiring FCs and opening ~12 new branches in 2026.</li>
+<li><strong>Managed Investing (+46% YoY):</strong> Robo + wealth advisory net flows at all-time record. 30% from legacy Ameritrade clients. This is the cross-sell thesis playing out.</li>
+<li><strong>ETF Monetization Platform (New):</strong> Management expects to have "ETF monetization strategy in place and live" by year-end 2026 — negotiations with 400+ asset managers. Active ETFs will carry higher economics than passive. This is a genuinely new revenue stream not in the March analysis.</li>
+<li><strong>Structured Asset Lending (Launched Q1):</strong> RIAs can now lend against alternatives and private shares for their clients. Stops the "leak" to big banks that historically won that lending business.</li>
+<li><strong>Wealth.com Partnership:</strong> AI estate planning tools live; AI tax planning launching soon. These create new fee-based offerings clients "are willing to pay for."</li>
+<li><strong>Prediction Markets (On Watch):</strong> Wurster confirmed Schwab will not enter sports/gambling markets but will evaluate binary options/financial events contracts from CBOE and Nasdaq. Optionality but not commitment.</li>
+</ul>
+</div>
+
+<!-- SECTION 9: RISKS -->
+<div class="section">
+<h2>9. Key Risks — Updated Assessment</h2>
+
+<table>
+<tr><th>Risk</th><th>Impact</th><th>Probability</th><th>Priced In?</th><th>Q1 Update</th></tr>
+<tr><td>Cash Sweep Monetization Erosion (JPM, AI agents)</td><td>High</td><td class="neu">Medium</td><td>Partially</td><td>JPM product launched; Wurster confident but acknowledges chronic pressure</td></tr>
+<tr><td>Interest Rate Decline</td><td>High</td><td class="pos">LOWERED</td><td>Yes</td><td class="pos">Market now prices 0 cuts vs. 2 assumed in Jan — risk reduced</td></tr>
+<tr><td>Class Action Litigation (Cash Sweep)</td><td>Medium</td><td>Medium</td><td>No</td><td>Ongoing; no material update</td></tr>
+<tr><td>Revenue Miss / NII Softness</td><td>Medium</td><td>Low</td><td class="pos">Yes (priced in today)</td><td>Q1 $134M miss already reflected in ~5% selloff</td></tr>
+<tr><td>Market Downturn (AUM decline)</td><td>High</td><td>Low-Med</td><td>Partial</td><td>Volatility actually bringing assets TO Schwab in Q1</td></tr>
+<tr><td>AI Disruption of Brokerage</td><td>Med-High</td><td>Low near-term</td><td>No</td><td>Schwab building agentic capabilities — proactive stance</td></tr>
+<tr><td>Basel III AOCI Inclusion</td><td>Low-Med</td><td>High</td><td>Yes</td><td>Phasing through 2028; capital remains 6.8% with room</td></tr>
+<tr><td>U.S. Concentration</td><td>Low</td><td>Low</td><td>Yes</td><td>Structural; unchanged</td></tr>
+</table>
+
+<div class="info-box">
+<strong>Risk Profile Has Shifted:</strong> The dominant risk in the March analysis was rate sensitivity (56% of revenue tied to NII). Q1 2026 shows: (1) NII as % of revenue has dropped to 48.5%, (2) the forward rate path has moved favorably, (3) the cash sweep monetization question has become the new dominant risk — different in character because it's a slow-burn competitive issue, not a macro variable. Net: total risk profile is reduced, but the remaining risk is less predictable.
+</div>
+</div>
+
+<!-- SECTION 10: MACRO -->
+<div class="section">
+<h2>10. Interest Rate Sensitivity — Materially Improved Outlook</h2>
+
+<div class="grid4">
+<div class="metric-card green"><div class="value">0 cuts</div><div class="label">Market Now Prices for 2026</div></div>
+<div class="metric-card green"><div class="value">Upward</div><div class="label">Mgmt NIM Trajectory</div></div>
+<div class="metric-card"><div class="value">~$12.5B</div><div class="label">Annualized 2026 NII Run-Rate</div></div>
+<div class="metric-card"><div class="value">48.5%</div><div class="label">NII as % of Revenue (down from 56%)</div></div>
+</div>
+
+<h3>The Rate Thesis — Flipped Positive</h3>
+<p>In the March 3 analysis, the base case was management's assumption of two Fed cuts to 3.00-3.25% by end of 2026. That was an ~$310-420M NII headwind requiring offsets. Today the scenario has shifted:</p>
+<ul>
+<li><strong>Verdeschi (Q1 call):</strong> "Looking at the forward curve now, perhaps the market is anticipating no cuts. So that is more favorable for us."</li>
+<li><strong>Verdeschi (Q1 call):</strong> "I feel good about the NIM growth, both what we had laid out in that scenario, but also perhaps some upside to that when we come back in July."</li>
+<li><strong>Verdeschi (Q1 call):</strong> "continued upward trajectory of cash being driven by organic growth."</li>
+</ul>
+
+<h3>Updated Rate Scenario Table</h3>
+<table>
+<tr><th>Rate Scenario 2026 YE</th><th>Probability (Mar)</th><th>Probability (Apr)</th><th>NIM Impact</th><th>2026 EPS Impact</th></tr>
+<tr><td>No cuts (4.25% hold)</td><td>~15%</td><td class="pos">~50%</td><td class="pos">Upside to ~2.95-3.00%</td><td class="pos">$6.00-$6.20</td></tr>
+<tr><td>1–2 cuts (3.75–4.00%)</td><td>~50%</td><td>~30%</td><td>Flat to mild decline</td><td>$5.80-$6.00</td></tr>
+<tr><td>3–4 cuts (3.00–3.25%)</td><td>~25%</td><td>~15%</td><td class="neg">-10–20bps</td><td>$5.50-$5.80</td></tr>
+<tr><td>Aggressive cuts (2.00%)</td><td>~8%</td><td>~4%</td><td class="neg">-30-40bps</td><td>$5.20-$5.50</td></tr>
+<tr><td>Emergency to 0.50%</td><td>~2%</td><td>~1%</td><td class="neg">nm</td><td>$4.50-$5.00</td></tr>
+</table>
+
+<div class="verdict">
+<strong>Updated Base Case:</strong> 2026 EPS likely lands in the $5.90-$6.10 range vs. original guidance of $5.70-$5.80. This 4-6% upside versus January guidance is why Wurster explicitly told the Street they're "tracking higher." The Motley Fool cited ~$6.00 expected — this is now consensus.
+</div>
+</div>
+
+<!-- SECTION 11: PRICE HISTORY -->
+<div class="section">
+<h2>11. Price History & Technical Context</h2>
+
+<div class="grid4">
+<div class="metric-card"><div class="value">~$95</div><div class="label">Current Price</div></div>
+<div class="metric-card amber"><div class="value">-11.6%</div><div class="label">From 52-Wk High $107.50</div></div>
+<div class="metric-card green"><div class="value">+28.8%</div><div class="label">From 52-Wk Low $73.76</div></div>
+<div class="metric-card"><div class="value">-5.3%</div><div class="label">Today on Q1 Earnings</div></div>
+</div>
+
+<h3>Key Price Action — March 3 to April 16, 2026</h3>
+<table>
+<tr><th>Phase</th><th>Period</th><th>Price Move</th><th>%</th><th>Tag</th><th>What Happened</th></tr>
+<tr><td>March Pullback</td><td>3/3 → 3/20</td><td>$95 → $85</td><td class="neg">-10%</td><td>EXT-MARKET</td><td>Broad equity volatility; banking sector weakness</td></tr>
+<tr><td>April Recovery</td><td>3/20 → 4/15</td><td>$85 → $100</td><td class="pos">+18%</td><td>INT-FUND</td><td>Pre-earnings positioning; strong Feb NNA report ($32.5B)</td></tr>
+<tr><td>Q1 Earnings Drop</td><td>4/15 → 4/16</td><td>$100 → $95</td><td class="neg">-5.3%</td><td>INT-FUND</td><td>Revenue miss on NII; "glass half-empty" reaction despite beat on EPS</td></tr>
+</table>
+
+<h3>Technical Verdict</h3>
+<ul>
+<li><strong>% from ATH:</strong> Stock is -11.6% from the 52-week high of $107.50 (reached Feb 10, 2026). Still within a reasonable "buyable pullback" range.</li>
+<li><strong>Support Levels:</strong> $92-93 is first support (pre-earnings consolidation range in late March). Below that, $85 is the key level (50-day MA and March low).</li>
+<li><strong>Historical Context:</strong> Last time at this price level (~$95), the business was generating $6.2B quarterly revenue and $4.87 2025 EPS. Today it's generating $6.5B and tracking to $6.00+ EPS. <strong>Same stock price, materially better fundamentals.</strong></li>
+<li><strong>Entry Read:</strong> <span class="pos">ATTRACTIVE</span>. Today's selloff takes the forward P/E from 16.7x to 15.9x — below 10-year trough levels for a business growing EPS 23%+.</li>
+</ul>
+</div>
+
+<!-- SECTION 12: VALUATION -->
+<div class="section">
+<h2>12. Valuation & Comparable Analysis — Cheaper Than March</h2>
+
+<div class="grid4">
+<div class="metric-card"><div class="value">$165.8B</div><div class="label">Market Cap</div></div>
+<div class="metric-card"><div class="value">20.5x</div><div class="label">TTM P/E</div></div>
+<div class="metric-card green"><div class="value">15.9x</div><div class="label">Forward P/E (2026E)</div></div>
+<div class="metric-card green"><div class="value">~13.3x</div><div class="label">2027E P/E (analyst $6.66)</div></div>
+</div>
+
+<h3>Peer Comparison</h3>
+<table>
+<tr><th>Company</th><th>Fwd P/E</th><th>FCF Yield</th><th>Rev Growth</th><th>EPS Growth</th><th>Moat</th></tr>
+<tr><td>Charles Schwab (SCHW)</td><td class="pos">15.9x</td><td>~5-6%</td><td>+16%</td><td class="pos">+38%</td><td>Wide</td></tr>
+<tr><td>Interactive Brokers (IBKR)</td><td>~22x</td><td>~3%</td><td>+20%</td><td>+25%</td><td>Narrow</td></tr>
+<tr><td>Robinhood (HOOD)</td><td>~35x</td><td>~2%</td><td>+40%</td><td>+60%</td><td>None</td></tr>
+<tr><td>Morgan Stanley (MS)</td><td>~14x</td><td>~5%</td><td>+10%</td><td>+15%</td><td>Wide</td></tr>
+<tr><td>Goldman Sachs (GS)</td><td>~13x</td><td>~6%</td><td>+8%</td><td>+12%</td><td>Wide</td></tr>
+</table>
+
+<h3>Analyst Price Targets (Updated)</h3>
+<table>
+<tr><th>Firm</th><th>Prior PT</th><th>Current PT</th><th>Date</th><th>Rating</th></tr>
+<tr><td>UBS Group</td><td>$125</td><td class="neu">$119</td><td>April 8</td><td>Buy</td></tr>
+<tr><td>Barclays</td><td>$126</td><td class="neu">$117</td><td>April 8</td><td>Overweight</td></tr>
+<tr><td>Jefferies</td><td>$122</td><td class="neu">$118</td><td>April 6</td><td>Buy</td></tr>
+<tr><td>Truist</td><td>$122</td><td class="neu">$120</td><td>April 14</td><td>Buy</td></tr>
+<tr><td>Wolfe Research</td><td>—</td><td>$120</td><td>Jan 12</td><td>Outperform</td></tr>
+<tr><td>KBW (new coverage)</td><td>—</td><td>$110</td><td>April 8</td><td>Outperform</td></tr>
+<tr><td>Raymond James</td><td>—</td><td>$114</td><td>Jan 5</td><td>Outperform</td></tr>
+<tr><td>Consensus Median</td><td>—</td><td class="pos">$119</td><td>—</td><td>Buy (18 Buy / 4 Hold / 1 Sell)</td></tr>
+<tr><td>Implied Upside from $95</td><td>—</td><td class="pos">+25%</td><td>—</td><td>—</td></tr>
+</table>
+
+<div class="verdict">
+<strong>Valuation Verdict: DISCOUNTED.</strong> At 15.9x forward earnings for a 22%+ EPS grower with 51% margins, wide moat, and $10B annualized buyback pace — this is the cheapest Schwab has been on forward multiple since 2020. The March 3 analysis noted "reasonable but not cheap" at 16.6x fwd; today at 15.9x fwd with raised guidance, the math has improved ~7% in Karthik's favor without any price appreciation. Consensus price target of $119 implies 25% upside over 12 months, which lines up almost exactly with the original 20% 1-year target of $114.
+</div>
+</div>
+
+<!-- SECTION 13: BAIT -->
+<div class="section">
+<h2>13. Mauboussin BAIT Framework — Updated</h2>
+
+<div class="bait-grid">
+<div class="bait-card b">
+<span class="bait-letter">B</span>
+<h4>🧠 Behavioral — STRONG (Upgraded)</h4>
+<p>Stock dropped 5.3% on a quarter that beat EPS consensus ($1.43 vs. $1.42), delivered the highest Q1 NNA ever ($158B), grew every revenue line double-digits, raised guidance, grew the dividend 19%, and completed a major acquisition. The sell-off is anchored on a single $134M revenue miss driven by a $40M NII softness — a 1-quarter data point on a $12B annual NII line. This is textbook behavioral overreaction: investors extrapolating a transient rate-driven miss into a structural concern. The January selloff post-Q4 was similar — stock later recovered to $107.50. Pattern is repeating.</p>
+</div>
+<div class="bait-card a">
+<span class="bait-letter">A</span>
+<h4>📊 Analytical — MODERATE</h4>
+<p>Consensus models haven't yet fully re-rated for the guidance raise. January guidance was $5.70-$5.80; management now says "tracking higher." If consensus moves to ~$6.00, forward P/E drops to 15.8x at current price — among the lowest in the decade. Analytical gap: most models don't adequately credit (1) NIM upside from no-cut environment, (2) fee revenue mix shift reducing NII sensitivity, (3) $10B+ buyback pace compounding EPS, (4) Forge/crypto/ETF new revenue streams not yet in estimates.</p>
+</div>
+<div class="bait-card i">
+<span class="bait-letter">I</span>
+<h4>📡 Informational — MODERATE</h4>
+<p>Today's earnings call contains several underweighted data points vs. media coverage: (1) "Upward momentum" NIM language — media focused on the miss instead; (2) 9.9M record DAVT and lending growth details buried in the transcript; (3) the JPM cash sweep response Wurster gave was more robust than media paraphrased; (4) the AI/agentic strategy is more concrete than understood — investor AI assistant launching in 60 days with specific capabilities. Primary-source transcript reading yields a different narrative than headline summary.</p>
+</div>
+<div class="bait-card t">
+<span class="bait-letter">T</span>
+<h4>⚙️ Technical — STRONG</h4>
+<p>Three technical tailwinds converging: (1) $10B+ annualized buyback pace at ~$95 is highly accretive; (2) the 5% today-of-earnings drop takes the stock to 52-week moving-average support — historically a buyable level for high-quality names; (3) 18 of 23 analysts at Buy with $119 median price target creates upward earnings-revision pressure as consensus catches up to the guidance raise; (4) $12B 2026E FCF against $166B market cap implies 7.2% FCF yield — attractive vs. risk-free rates.</p>
+</div>
+</div>
+
+<div class="bait-box">
+<strong>BAIT Verdict — B+A+T Triple Overlap, Strengthened from March:</strong> The March analysis had BAIT as "B+A overlap" with moderate signal. Q1 earnings has <em>strengthened</em> all four signals. The 5% post-earnings drop is the behavioral tell — a high-quality print with a single weak line item got punished hard, which is the signature of recency bias trumping fundamental analysis. Combined with the analytical gap (consensus lagging the guidance raise) and the technical setup (multi-year buyback pace at below-average multiples), this is now a stronger BAIT signal than in the March analysis. Not as strong as BKNG's B+A+T at the time, but close.
+</div>
+</div>
+
+<!-- SECTION 14: BULL/BEAR -->
+<div class="section">
+<h2>14. Bull Case vs. Bear Case — Updated</h2>
+
+<div class="scenario-grid">
+<div class="bull-card">
+<h3>🐂 Bull Case ($135–$150, 12 mos) — Probability: 30%</h3>
+<ul>
+<li>Fed holds rates flat; NIM expands from 2.90% to 3.00%+</li>
+<li>2026 EPS beats raised guidance to $6.10-$6.20</li>
+<li>ETF monetization platform live by year-end adds $200-400M revenue in 2027</li>
+<li>Schwab Crypto captures $20B+ in client assets by YE — fintech option value</li>
+<li>$10B+ buybacks reduce shares 5%+ to ~1.65B outstanding</li>
+<li>Multiple re-rates to 20-22x forward (historical norm for 20%+ grower) on $6.20 = $124-$136</li>
+<li>Bull math: 2027E EPS $7.00 × 20x = $140/share</li>
+</ul>
+</div>
+<div class="bear-card">
+<h3>🐻 Bear Case ($72–$85, 12 mos) — Probability: 15%</h3>
+<ul>
+<li>Fed forced to cut aggressively due to recession; NIM compresses to 2.60%</li>
+<li>JPMorgan / fintech cash sweep disintermediation reduces BDA fee revenue by 15-20%</li>
+<li>Class action cash sweep litigation results in meaningful settlement</li>
+<li>2027 EPS falls to $5.50 (vs. $6.66 consensus) on NII compression + monetization erosion</li>
+<li>Multiple compresses to 14x on growth concerns = $77/share</li>
+<li>Bear math: 2027E EPS $5.50 × 14x = $77/share</li>
+</ul>
+</div>
+</div>
+
+<div class="info-box">
+<strong>📊 Base Case ($115–$125, 12 mos) — Probability: 55%</strong>
+<ul>
+<li>Rates hold or cut modestly (50bps); management delivers raised EPS guidance at $6.00</li>
+<li>Managed investing flows continue 25%+ YoY; wealth advisory hits $40B+ annual</li>
+<li>Crypto launches smoothly, adds modest revenue but meaningful client engagement</li>
+<li>Q2/Q3 2026 earnings confirm the trajectory; analysts raise PTs toward $125</li>
+<li>2027E EPS $6.66 × 18x = $120/share — aligned with current consensus $119 median PT</li>
+</ul>
+</div>
+
+<div class="highlight">
+<strong>Asymmetry Assessment:</strong> At $95, bull upside is ~+45% and bear downside is ~-20%. Risk/reward is approximately 2.3:1 favorable — improved from ~2:1 in March. Probability-weighted expected value: (30% × $142) + (55% × $120) + (15% × $78) = <strong>$120/share</strong>, or 26% implied upside. For the bear case to materialize, you need BOTH a macro shock (recession-driven rate cuts) AND competitive disintermediation — both happening together is a low-probability compound event.
+</div>
+</div>
+
+<!-- SECTION 15: BOTTOM LINE -->
+<div class="section">
+<h2>15. Bottom Line</h2>
+
+<div class="verdict">
+<p><strong>Verdict: BUY — Upgrade from "Well-Suited 1% Allocation" to "High-Conviction 1.5% Allocation".</strong></p>
+
+<p><strong>1-Year Target (base): $120</strong> — aligned with consensus $119 median PT. <strong>3-Year Target (bull/base blend): $150–$160</strong> — requires mid-teens EPS CAGR and modest multiple recovery from 16x to 19-20x. <strong>Probability-weighted EV: ~$120/share = +26%.</strong></p>
+
+<p><strong>What Changed Since March 3:</strong></p>
+<ul>
+<li><strong>Rate thesis flipped positive</strong> — the dominant risk in the March analysis has inverted as market moved from pricing 2 cuts to 0 cuts</li>
+<li><strong>Management raised guidance</strong> — explicit "tracking higher than $5.70-$5.80" puts 2026 EPS likely at $5.95-$6.10</li>
+<li><strong>Revenue mix diversifying</strong> faster than expected — NII dropped from 56% to 48.5% of revenue, reducing rate sensitivity</li>
+<li><strong>Capital return accelerating</strong> — Q1 $2.4B buyback + 19% dividend raise implies $10B+ annualized</li>
+<li><strong>New revenue streams emerging</strong> — ETF monetization (new), Schwab Crypto (imminent), Forge pre-IPO access (closed)</li>
+<li><strong>BAIT signal strengthened</strong> — now B+A+T triple overlap vs. March B+A dual overlap</li>
+<li><strong>Entry price just improved ~5%</strong> — today's earnings drop gives a better entry than available anytime in the last 2 months</li>
+</ul>
+
+<p><strong>The Case for Upgrading to 1.5%:</strong> The BKNG analysis used a 1.5-2.5% allocation for a B+A+T triple overlap. Schwab now has a similar signal profile with better downside protection (wide moat + $166B market cap + no AI existential threat + record NNA growth in volatile markets). The original 1% was calibrated to rate-sensitivity being the primary risk. With that risk materially reduced, position sizing can increase. Staying below 2% preserves room for new ideas and respects concentration limits.</p>
+
+<p><strong>Position Structure (unchanged from March):</strong> Stock-heavy (90/10 stock/options) remains the right structure. Schwab is a compounder, not a turnaround. Options here serve as entry-optimization tools (cash-secured puts) and income layering (covered calls), not as core exposure.</p>
+
+<p><strong>Staged Entry Update:</strong> Given today's drop, Tranche 1 (40% of position) at current $93-96 is now the clear entry point. Tranche 2 (35%) trigger stays at $85-88 — requires a broader selloff to hit, but the $10B buyback pace creates a natural floor. Tranche 3 (25%) trigger moves UP to $105-112 range to reflect improved guidance — confirmation-buying once the market prices in the guidance raise.</p>
+
+<p><strong>Options Strategy Refinement:</strong></p>
+<ul>
+<li><strong>Cash-secured puts:</strong> Sell 30-60 DTE puts at $88-90 strike. At $88, you'd buy at ~14.6x 2026E — genuinely cheap. Premium subsidizes cost basis if unassigned.</li>
+<li><strong>Covered calls (once position built):</strong> $115-120 strikes, 60 DTE. Your 1-year target is $120, so calls at this strike natural profit-take. Premium ~$2-3 per cycle.</li>
+<li><strong>Avoid LEAPS:</strong> IV is not elevated enough to justify leverage. Stock works better than calls for a 25% move.</li>
+</ul>
+</div>
+
+<h3>Key Risk to Monitor</h3>
+<div class="warning">
+<strong>The real risk worth watching is NOT the headline bear case (recession + rate cuts to zero). It is the JPMorgan cash-sweep disintermediation narrative gaining traction.</strong> If a competitor successfully markets a "better cash deal" that causes measurable outflows from Schwab's transactional sweep, the BDA fee revenue (~20% grower today) could reverse. 
+<br><br>
+<strong>Price alert: $88</strong> — if stock breaks below this (last seen in March 2026), either (a) buy aggressively if it's macro noise, or (b) reassess thesis if it coincides with cash sweep outflow data in the monthly activity reports. Schwab publishes monthly NNA and cash data — these become the early warning indicators.
+</div>
+
+<h3>Management Framework Quote</h3>
+<p><em>"Based on what we see today in terms of the expected path of rates and strong client engagement, we are tracking higher than the $5.70 to $5.80 EPS range implied by the scenario we shared back at the winter business update in January." — Mike Verdeschi, CFO, Q1 2026 Earnings Call</em></p>
+
+<p>This is the quantified, repeatable, underappreciated commitment. Management has now delivered two consecutive guide-and-beat quarters, raising numbers each time. The Street will catch up over the next 1-2 quarters — that catch-up is the re-rating catalyst.</p>
+</div>
+
+<div class="disclaimer">
+<strong>Disclaimer:</strong> This analysis is for informational purposes only and does not constitute investment advice. The author is not a financial advisor. All investors should conduct their own due diligence. Data as of April 16, 2026. Sources include Schwab Q1 2026 Earnings Call transcript (Motley Fool / AOL), Schwab investor relations press releases, Yahoo Finance, Quiver Quantitative, The Motley Fool, Markets Daily, and analyst reports from UBS, Barclays, Jefferies, Truist, and KBW. Stock price and market data cross-referenced across multiple sources. This update builds on the prior March 3, 2026 analysis and should be read as a delta-focused supplement rather than a standalone document.
+</div>
+
+</div>
+</body>
+</html>

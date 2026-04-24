@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RKT — Rocket Companies Investment Analysis</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/3.0.1/chartjs-plugin-annotation.min.js"></script>
+<style>
+  :root {
+    --navy: #003580; --accent: #0054a3; --mid: #0071c2; --sky: #e8f1fb;
+    --green: #15803d; --red: #b91c1c; --amber: #b45309; --gray: #6b7280;
+    --bg: #f0f4fa; --card: #ffffff; --border: #d9e5f5;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:'Georgia','Times New Roman',serif; background:var(--bg); color:#1a2030; line-height:1.7; }
+  .container { max-width:1100px; margin:0 auto; padding:24px; }
+
+  .header {
+    background:linear-gradient(135deg,#001f5c 0%,#003580 40%,#0071c2 100%);
+    color:white; padding:44px 36px; border-radius:14px; margin-bottom:28px;
+    position:relative; overflow:hidden;
+  }
+  .header::before {
+    content:''; position:absolute; top:-80px; right:-80px;
+    width:340px; height:340px; background:rgba(255,255,255,0.04); border-radius:50%;
+  }
+  .header h1 { font-size:1.9em; margin-bottom:6px; font-weight:700; letter-spacing:-0.02em; }
+  .header .subtitle { font-size:1.05em; opacity:0.85; font-style:italic; }
+  .header .badge {
+    display:inline-block; margin-top:14px;
+    background:rgba(255,255,255,0.12); border:1px solid rgba(255,255,255,0.22);
+    padding:5px 16px; border-radius:20px; font-size:0.82em;
+    font-family:'Segoe UI',system-ui,sans-serif; letter-spacing:0.04em;
+  }
+  .header .meta {
+    margin-top:18px; display:flex; gap:10px; flex-wrap:wrap;
+    font-size:0.87em; font-family:'Segoe UI',system-ui,sans-serif;
+  }
+  .header .meta span {
+    background:rgba(255,255,255,0.13); border:1px solid rgba(255,255,255,0.18);
+    padding:5px 13px; border-radius:8px;
+  }
+  .thesis-tag {
+    display:inline-block; padding:3px 10px; border-radius:4px;
+    font-size:0.78em; font-family:'Segoe UI',system-ui,sans-serif;
+    font-weight:600; letter-spacing:0.06em; text-transform:uppercase;
+    background:rgba(251,191,36,0.25); color:#fbbf24; border:1px solid rgba(251,191,36,0.4);
+    margin-left:10px; vertical-align:middle;
+  }
+  .price-badge {
+    display:inline-block; padding:3px 10px; border-radius:4px;
+    font-size:0.78em; font-family:'Segoe UI',system-ui,sans-serif;
+    font-weight:600; background:rgba(134,239,172,0.2); color:#86efac;
+    border:1px solid rgba(134,239,172,0.3); margin-left:10px; vertical-align:middle;
+  }
+
+  .section {
+    background:var(--card); border-radius:12px; padding:30px; margin-bottom:20px;
+    box-shadow:0 1px 4px rgba(0,53,128,0.07), 0 0 0 1px var(--border);
+  }
+  .section h2 {
+    color:var(--navy); font-size:1.3em; margin-bottom:18px;
+    padding-bottom:10px; border-bottom:2px solid var(--border);
+    font-family:'Segoe UI',system-ui,sans-serif; font-weight:700;
+  }
+  .section h3 {
+    color:var(--accent); font-size:1.05em; margin:20px 0 10px;
+    font-family:'Segoe UI',system-ui,sans-serif; font-weight:600;
+  }
+  p { margin-bottom:12px; }
+  ul { margin:10px 0 10px 22px; }
+  li { margin-bottom:8px; }
+
+  table { width:100%; border-collapse:collapse; margin:14px 0; font-size:0.89em; font-family:'Segoe UI',system-ui,sans-serif; }
+  th { background:var(--sky); color:var(--navy); padding:10px 12px; text-align:right; font-weight:700; border-bottom:2px solid var(--border); font-size:0.88em; }
+  th:first-child { text-align:left; }
+  td { padding:9px 12px; border-bottom:1px solid var(--border); text-align:right; }
+  td:first-child { text-align:left; font-weight:500; color:#374151; }
+  tr:hover { background:#f5f8ff; }
+  .pos { color:var(--green); font-weight:700; }
+  .neg { color:var(--red); font-weight:700; }
+  .neu { color:var(--amber); font-weight:600; }
+
+  .highlight { background:#fffbeb; border-left:4px solid #d97706; padding:16px 20px; border-radius:0 8px 8px 0; margin:16px 0; font-family:'Segoe UI',system-ui,sans-serif; font-size:0.93em; }
+  .verdict { background:linear-gradient(135deg,#f0fdf4,#dcfce7); border-left:4px solid var(--green); padding:18px 22px; border-radius:0 8px 8px 0; margin:16px 0; font-family:'Segoe UI',system-ui,sans-serif; font-size:0.93em; }
+  .warning { background:#fff1f2; border-left:4px solid var(--red); padding:16px 20px; border-radius:0 8px 8px 0; margin:16px 0; font-family:'Segoe UI',system-ui,sans-serif; font-size:0.93em; }
+  .bait-box { background:linear-gradient(135deg,#eff6ff,#dbeafe); border-left:4px solid var(--mid); padding:18px 22px; border-radius:0 8px 8px 0; margin:16px 0; font-family:'Segoe UI',system-ui,sans-serif; font-size:0.93em; }
+  .info-box { background:#f0f9ff; border-left:4px solid #0ea5e9; padding:16px 20px; border-radius:0 8px 8px 0; margin:16px 0; font-family:'Segoe UI',system-ui,sans-serif; font-size:0.93em; }
+
+  .grid4 { display:grid; grid-template-columns:repeat(4,1fr); gap:14px; margin:16px 0; }
+  .grid2 { display:grid; grid-template-columns:1fr 1fr; gap:14px; margin:16px 0; }
+  .metric-card { background:var(--sky); border:1px solid var(--border); border-radius:10px; padding:18px; text-align:center; }
+  .metric-card .value { font-size:1.55em; font-weight:800; color:var(--navy); font-family:'Segoe UI',system-ui,sans-serif; }
+  .metric-card .label { font-size:0.8em; color:var(--gray); margin-top:5px; font-family:'Segoe UI',system-ui,sans-serif; }
+  .metric-card.green { background:#f0fdf4; border-color:#bbf7d0; }
+  .metric-card.green .value { color:var(--green); }
+  .metric-card.red { background:#fff1f2; border-color:#fecaca; }
+  .metric-card.red .value { color:var(--red); }
+  .metric-card.amber { background:#fffbeb; border-color:#fde68a; }
+  .metric-card.amber .value { color:var(--amber); }
+
+  .bait-grid { display:grid; grid-template-columns:1fr 1fr; gap:14px; margin:16px 0; }
+  .bait-card { border-radius:10px; padding:18px; font-family:'Segoe UI',system-ui,sans-serif; font-size:0.9em; }
+  .bait-card.b { background:#eff6ff; border:1px solid #bfdbfe; }
+  .bait-card.a { background:#f5f3ff; border:1px solid #ddd6fe; }
+  .bait-card.i { background:#fffbeb; border:1px solid #fde68a; }
+  .bait-card.t { background:#f0fdf4; border:1px solid #bbf7d0; }
+  .bait-card .bait-letter { font-size:1.8em; font-weight:800; opacity:0.12; float:right; margin-top:-4px; }
+  .bait-card h4 { font-size:0.95em; font-weight:700; margin-bottom:8px; }
+
+  .scenario-grid { display:grid; grid-template-columns:1fr 1fr; gap:16px; margin:16px 0; }
+  .bull-card { background:#f0fdf4; padding:20px; border-radius:10px; border:1px solid #bbf7d0; font-family:'Segoe UI',system-ui,sans-serif; }
+  .bear-card { background:#fff1f2; padding:20px; border-radius:10px; border:1px solid #fecaca; font-family:'Segoe UI',system-ui,sans-serif; }
+  .bull-card h3 { color:var(--green); margin-bottom:12px; }
+  .bear-card h3 { color:var(--red); margin-bottom:12px; }
+
+  .quote-block { margin:14px 0; padding-left:18px; border-left:3px solid var(--mid); color:#4b5563; font-style:italic; font-size:0.93em; font-family:'Georgia',serif; }
+
+  .price-chart-container { background:white; border-radius:10px; padding:20px; margin:16px 0; border:1px solid var(--border); }
+  .price-chart-container canvas { max-height:400px; }
+
+  .event-legend { display:flex; flex-wrap:wrap; gap:8px; margin:12px 0; font-family:'Segoe UI',system-ui,sans-serif; font-size:0.82em; }
+  .event-tag { padding:3px 10px; border-radius:4px; font-weight:600; letter-spacing:0.04em; }
+  .tag-fund { background:#dbeafe; color:#1e40af; }
+  .tag-strat { background:#fef3c7; color:#92400e; }
+  .tag-macro { background:#fce7f3; color:#9d174d; }
+  .tag-market { background:#f3f4f6; color:#374151; }
+  .tag-people { background:#fef9c3; color:#713f12; }
+
+  .phase-table { margin:12px 0; }
+  .phase-row { display:flex; align-items:flex-start; gap:16px; padding:12px 0; border-bottom:1px solid var(--border); font-family:'Segoe UI',system-ui,sans-serif; font-size:0.88em; }
+  .phase-dates { min-width:130px; font-weight:700; color:var(--navy); }
+  .phase-move { min-width:80px; font-weight:700; }
+  .phase-tag { min-width:100px; }
+  .phase-desc { flex:1; color:#374151; }
+
+  .disclaimer { font-size:0.8em; color:var(--gray); margin-top:28px; padding:16px; background:#f0f4fa; border-radius:8px; font-family:'Segoe UI',system-ui,sans-serif; border:1px solid var(--border); }
+  @media (max-width:720px) { .grid2,.grid4,.bait-grid,.scenario-grid { grid-template-columns:1fr; } .header .meta { flex-direction:column; gap:8px; } }
+</style>
+</head>
+<body>
+<div class="container">
+
+<!-- ========== HEADER ========== -->
+<div class="header">
+  <h1>Rocket Companies, Inc. (NYSE: RKT) <span class="thesis-tag">Vertical Integration Bet</span></h1>
+  <div class="subtitle">Deep Fundamental & Investment Analysis — America's First End-to-End Homeownership Platform</div>
+  <div class="badge">🏠 Thesis: Does the Redfin + Mr. Cooper integration create a durable homeownership flywheel — or is it a rate-cycle bet dressed as strategic transformation?</div>
+  <div class="meta">
+    <span>Price: $14.96 <span class="price-badge">+3.67% Apr 2, 2026</span></span>
+    <span>Market Cap: ~$38.6B</span>
+    <span>EV: ~$50B</span>
+    <span>FY2025 Revenue: $6.70B</span>
+    <span>Adj EBITDA: $1.28B (18.7%)</span>
+    <span>Q4 Run-Rate EBITDA: $2.37B ann.</span>
+    <span>52-Wk: $10.94 – $24.36</span>
+    <span>ATH: $43.00 (Mar 2021)</span>
+    <span>Date: April 5, 2026</span>
+  </div>
+</div>
+
+<!-- ========== PRICE VERIFIED ========== -->
+<div class="section" style="background:linear-gradient(135deg,#eff6ff,#dbeafe); border:1px solid #bfdbfe;">
+  <p style="font-family:'Segoe UI',sans-serif; font-size:0.9em; margin:0;">
+    <strong>📍 Price Verified:</strong> $14.96 (last close April 2, 2026, +3.67% on the day) | Source: Multiple sources cross-referenced |
+    52-Week Range: $10.94 – $24.36 | Market Cap: ~$38.6B | Next Earnings: April 30, 2026 |
+    <em>Current price is -38.5% from 52-week high of $24.36 (Jan 16, 2026)</em>
+  </p>
+</div>
+
+<!-- ========== SECTION 1: WHY DOES THIS COMPANY EXIST ========== -->
+<div class="section">
+  <h2>1. Why Does This Company Exist?</h2>
+  <p>Rocket Companies was founded in 1985 by Dan Gilbert as Rock Financial, a traditional mortgage brokerage. Its founding insight deepened over 40 years: homeownership is the most important financial transaction in most Americans' lives, yet the process — finding a home, getting a mortgage, closing, and eventually refinancing — is unnecessarily fragmented, opaque, and friction-filled. Rocket's mission is to remove that friction entirely.</p>
+  <p>The company pioneered digital-first mortgage origination in the 2010s, building Rocket Mortgage as America's first fully online mortgage experience. This differentiated it from traditional lenders and made it the <strong>#1 U.S. mortgage originator and servicer</strong> — a position it now holds with a $2.1 trillion servicing portfolio covering 1-in-6 U.S. mortgages.</p>
+  <p>After its August 2020 IPO at $18/share, Rocket has made a bold strategic bet: in 2025, it acquired <strong>Redfin</strong> (digital real estate brokerage and home search — $1.75B all-stock, closed July 2025) and <strong>Mr. Cooper Group</strong> (America's largest mortgage servicer — $14.2B all-stock, closed October 2025). This creates an unprecedented vertical stack spanning:</p>
+  <ul>
+    <li><strong>Home Discovery:</strong> Redfin (search, agent network, ~2B annual visits) and partnership with Compass (~500K listings)</li>
+    <li><strong>Origination:</strong> Rocket Mortgage (direct-to-consumer, #1 originator), Rocket Pro (wholesale/broker), enterprise partnerships</li>
+    <li><strong>Closing:</strong> Rocket Close (title, settlement, appraisal)</li>
+    <li><strong>Servicing:</strong> Mr. Cooper + Rocket's own servicing (~10M loans, $2.1T UPB, $5B annualized recurring cash flows)</li>
+    <li><strong>Adjacent Financial Services:</strong> Rocket Money (personal finance app), Rocket Loans (personal lending)</li>
+  </ul>
+
+  <div class="highlight">
+    <strong>The Pivotal Investment Question:</strong> Does Rocket's vertical integration of home search (Redfin), origination (#1), and servicing (#1) create a genuinely self-reinforcing flywheel that prints money in all rate environments — or is this a massive, acquisition-funded balance sheet bet on a rate cycle that will saddle the company with $10.6B in goodwill if the mortgage market disappoints? This question is responsible for a 38.5% drawdown from the 52-week high and is the central debate for any investor evaluating RKT today.
+  </div>
+</div>
+
+<!-- ========== SECTION 2: ANNUAL FINANCIAL METRICS ========== -->
+<div class="section">
+  <h2>2. Annual Financial Metrics (5-Year Trend)</h2>
+  <div class="warning">
+    <strong>Critical Structure Note — Up-C Collapse (June 30, 2025):</strong> Prior to June 30, 2025, RKT had a complex Up-C structure where Class A public shares represented only ~7% of the economic interest; the majority resided in non-controlling Class D interest (Rock Holdings). GAAP EPS pre-2025 reflects only the Class A slice. On June 30, 2025, all Class D shares were exchanged for Class A, making RKT a proper C-corp. This means YoY EPS and share count comparisons require adjusted "pro forma" metrics that treat all units as converted. The table below uses these comparable adjusted metrics.
+  </div>
+
+  <h3>Revenue & Volume Trend</h3>
+  <table>
+    <tr><th>Metric</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th><th>2025</th><th>Q1 2026E</th></tr>
+    <tr><td>Total Revenue, Net ($B)</td><td>$12.93</td><td>$5.80</td><td>$3.80</td><td>$5.10</td><td class="pos">$6.70</td><td class="pos">~$7.4B ann.</td></tr>
+    <tr><td>Revenue Growth YoY</td><td class="neg">-24% (from 2020)</td><td class="neg">-55%</td><td class="neg">-35%</td><td class="pos">+34%</td><td class="pos">+31%</td><td class="pos">+38%+ (Q1 guide)</td></tr>
+    <tr><td>Adjusted Revenue ($B)</td><td>$12.40</td><td>~$4.5B est</td><td>~$3.2B est</td><td>$4.90</td><td class="pos">$6.86</td><td class="pos">$2.6–2.8B (Q1)</td></tr>
+    <tr><td>Closed Loan Volume ($B)</td><td>$351</td><td>~$134</td><td>~$80</td><td>~$98</td><td class="pos">$130</td><td>—</td></tr>
+    <tr><td>Gain on Sale Margin</td><td>~3.0%</td><td>~2.5%</td><td>~2.5%</td><td>~2.7%</td><td class="pos">2.83%</td><td>—</td></tr>
+    <tr><td>Net Rate Lock Volume ($B)</td><td>~$340</td><td>~$110</td><td>~$75</td><td>~$96</td><td class="pos">$132</td><td>—</td></tr>
+  </table>
+
+  <h3>Profitability Trend</h3>
+  <table>
+    <tr><th>Metric</th><th>2022</th><th>2023</th><th>2024</th><th>2025</th><th>2026E</th></tr>
+    <tr><td>GAAP Net Income (Total, $M)</td><td class="pos">~$700</td><td class="neg">~-$400</td><td class="pos">$636</td><td class="neg">-$234</td><td class="pos">~$800–1,200E</td></tr>
+    <tr><td>GAAP Net Income note</td><td colspan="5" style="font-style:italic; color:var(--amber);">2025 GAAP loss driven by $333M acquisition costs, $174M intangible amortization, $341M SBC — all non-recurring. Adjusted metrics are the right lens.</td></tr>
+    <tr><td>Adjusted Net Income ($M)</td><td>—</td><td>—</td><td class="pos">$456</td><td class="pos">$628</td><td class="pos">~$1,500–2,500E</td></tr>
+    <tr><td>Adjusted EBITDA ($M)</td><td>—</td><td>—</td><td class="pos">$862</td><td class="pos">$1,281</td><td class="pos">~$3,000–3,800E</td></tr>
+    <tr><td>Adj EBITDA Margin</td><td>—</td><td>—</td><td>17.6%</td><td>18.7%</td><td class="pos">~25–30%E</td></tr>
+    <tr><td>Adjusted EPS (Pro Forma Diluted)</td><td>—</td><td>—</td><td>$0.23</td><td>$0.28</td><td class="pos">~$0.65–$1.00E</td></tr>
+    <tr><td>Diluted Shares (Pro Forma, B)</td><td>~2.0B</td><td>~2.0B</td><td>~1.99B</td><td>~2.23B</td><td>~2.6B (post-acq)</td></tr>
+  </table>
+
+  <div class="highlight">
+    <strong>Q4 2025 Run Rate is the Key Signal:</strong> The sequential acceleration in adjusted EBITDA is extraordinary — $169M in Q1 → $349M in Q3 → $592M in Q4. Annualizing Q4 gives $2.37B in adj EBITDA. This reflects only one full quarter with both Redfin and Mr. Cooper integrated. If Q1 2026 guidance ($2.6-2.8B adj revenue) holds, and margins stay in the 22-25% adj EBITDA range, FY2026 adj EBITDA could reach $3.0-3.8B. At an EV of ~$50B, that's 13-17x forward EBITDA — reasonable for a company growing this fast.
+  </div>
+
+  <h3>Recent Quarterly Trend</h3>
+  <table>
+    <tr><th>Metric</th><th>Q2 2025</th><th>Q3 2025</th><th>Q4 2025</th><th>Q1 2026E</th></tr>
+    <tr><td>Adjusted Revenue ($M)</td><td>$1,340</td><td>$1,780</td><td class="pos">$2,440</td><td class="pos">$2,600–2,800</td></tr>
+    <tr><td>Adjusted EBITDA ($M)</td><td>~$270</td><td>$349</td><td class="pos">$592</td><td class="pos">~$600–750E</td></tr>
+    <tr><td>Adj EBITDA Margin</td><td>~20%</td><td>19.6%</td><td class="pos">24.3%</td><td class="pos">~22–25%E</td></tr>
+    <tr><td>Adjusted EPS</td><td>~$0.05</td><td>$0.07</td><td class="pos">$0.11</td><td class="pos">~$0.13–0.17E</td></tr>
+    <tr><td>Net Rate Lock Volume ($B)</td><td>~$32</td><td>$36</td><td class="pos">$41.6</td><td class="pos">4-yr high trajectory</td></tr>
+    <tr><td>Gain on Sale Margin</td><td>—</td><td>~2.74%</td><td class="pos">2.82% (3.20% ex-corr)</td><td>—</td></tr>
+  </table>
+
+  <h3>Cash Flow & Balance Sheet</h3>
+  <table>
+    <tr><th>Metric</th><th>Dec 2024</th><th>Dec 2025</th><th>Change</th></tr>
+    <tr><td>Cash & Equivalents</td><td>$1,273M</td><td class="pos">$2,696M</td><td class="pos">+$1,423M</td></tr>
+    <tr><td>MSRs (at fair value)</td><td>$7,633M</td><td class="pos">$19,442M</td><td class="pos">+$11.8B (Mr. Cooper)</td></tr>
+    <tr><td>Goodwill</td><td>$1,136M</td><td class="neg">$10,611M</td><td class="neg">+$9.5B (acquisition premium)</td></tr>
+    <tr><td>Intangible Assets</td><td>$91M</td><td class="neg">$2,224M</td><td class="neg">+$2.1B (tech, brand, licenses)</td></tr>
+    <tr><td>Senior Notes (Non-Funding Debt)</td><td>$4,039M</td><td class="neg">$10,423M</td><td class="neg">+$6.4B (acquisition financing)</td></tr>
+    <tr><td>MSR/Advance Facilities</td><td>—</td><td class="neg">$3,781M</td><td class="neg">New (from Mr. Cooper)</td></tr>
+    <tr><td>Total Equity</td><td>$9,043M</td><td class="pos">$22,898M</td><td class="pos">+$13.9B (stock issuance for deals)</td></tr>
+    <tr><td>Total Assets</td><td>$24,510M</td><td>$60,685M</td><td>+$36.2B (2.5x balance sheet expansion)</td></tr>
+  </table>
+
+  <div class="warning">
+    <strong>Balance Sheet Risk:</strong> The acquisitions were all-stock (issued ~$16B in new shares) and added debt. Net debt (excluding operational funding facilities) is ~$11.5B vs $9.0B in cash on the corporate side. The $10.6B in goodwill represents the premium paid for strategic synergies — if the integration fails or mortgage volumes disappoint, impairment risk is real. This is the bear case in balance sheet form.
+  </div>
+
+  <h3>SBC Analysis</h3>
+  <table>
+    <tr><th>Metric</th><th>2023</th><th>2024</th><th>2025</th></tr>
+    <tr><td>SBC ($M)</td><td>—</td><td>$145M</td><td class="neg">$341M</td></tr>
+    <tr><td>SBC as % of Adj Revenue</td><td>—</td><td>3.0%</td><td class="neg">5.0%</td></tr>
+    <tr><td>Note</td><td colspan="3" style="font-style:italic; color:var(--amber);">2025 SBC elevated by acquisition-related compensation (accelerated vesting, integration bonuses). Normalized run-rate SBC likely $200–250M (3–4% of revenue). Dan Gilbert retains control via Rock Holdings, limiting buyback optionality.</td></tr>
+  </table>
+</div>
+
+<!-- ========== SECTION 3: GEOGRAPHIC REVENUE SPLIT ========== -->
+<div class="section">
+  <h2>3. Geographic Revenue Split</h2>
+  <table>
+    <tr><th>Geography</th><th>% of Revenue</th><th>Key Driver</th><th>Trend</th></tr>
+    <tr><td>United States</td><td class="pos">~98%+</td><td>U.S. residential mortgage market</td><td>Dominant, U.S. housing macro dependent</td></tr>
+    <tr><td>Canada</td><td>~1-2%</td><td>Rocket Mortgage Canada (small)</td><td>Small, not material</td></tr>
+    <tr><td>International</td><td>&lt;1%</td><td>Minimal</td><td>No meaningful international expansion</td></tr>
+  </table>
+  <div class="info-box">
+    <strong>Pure-Play U.S. Housing Story:</strong> Unlike BKNG (~90% non-U.S.) or SCHW (purely U.S.), RKT's concentration in U.S. residential real estate is total. This means: no FX risk, no geopolitical complexity — but 100% exposure to U.S. housing affordability, mortgage rates, and Federal Reserve policy. The company's fortunes are directly and powerfully tied to the 30-year fixed mortgage rate, making interest rate analysis (Section 10) the most critical section of this report.
+  </div>
+</div>
+
+<!-- ========== SECTION 4: REVENUE MIX ========== -->
+<div class="section">
+  <h2>4. Revenue Mix & Business Model</h2>
+  <table>
+    <tr><th>Revenue Stream</th><th>FY2025 ($M)</th><th>% of Total</th><th>Key Driver</th></tr>
+    <tr><td>Gain on Sale of Loans, Net</td><td class="pos">$3,807</td><td>56.9%</td><td>Closed loan volume × gain on sale margin (2.83% in 2025)</td></tr>
+    <tr><td>Loan Servicing Income, Net</td><td class="pos">$787</td><td>11.8%</td><td>$2.1T UPB × servicing fee ~25bps; offset by MSR fair value changes</td></tr>
+    <tr><td>Other Income (Redfin, Rocket Money, Loans)</td><td class="pos">$1,976</td><td>29.5%</td><td>Real estate services (Redfin), Rocket Money subscribers, personal loans</td></tr>
+    <tr><td>Interest Income, Net</td><td>$125</td><td>1.9%</td><td>Float income on loans held for sale</td></tr>
+    <tr><td><strong>Total Revenue, Net</strong></td><td><strong>$6,695</strong></td><td><strong>100%</strong></td><td></td></tr>
+  </table>
+  <div class="highlight">
+    <strong>MSR Complexity — Why "Adjusted Revenue" Matters:</strong> The $787M in loan servicing income, net includes -$1,530M in MSR fair value changes (non-cash, rate-driven) partially offsetting $2,317M in servicing fee income. This non-cash volatility is why management presents "Adjusted Revenue" ($6,859M) which adds back these fair value distortions. The $5B in annualized recurring servicing cash flows (from servicing fee income and deposit income on the $2.1T portfolio) is the clean economic signal — it doesn't fluctuate with MSR accounting.
+  </div>
+
+  <h3>Segment Revenue (FY2025)</h3>
+  <table>
+    <tr><th>Segment</th><th>FY2025 Adj Revenue</th><th>Contribution Margin</th><th>Model</th></tr>
+    <tr><td>Direct to Consumer</td><td class="pos">$4,955M (+34% YoY)</td><td class="pos">$2,093M (42.2%)</td><td>Digital + phone-based direct mortgage origination</td></tr>
+    <tr><td>Partner Network</td><td class="neg">$668M (flat vs $670M)</td><td class="neg">$386M (57.8%, down from 64% in 2024)</td><td>Wholesale broker, enterprise partnerships, correspondent</td></tr>
+    <tr><td>All Other (Redfin, Rocket Money, etc.)</td><td class="pos">$1,236M (new in 2025)</td><td class="pos">$426M (34.5%)</td><td>Real estate services, fintech, personal finance</td></tr>
+  </table>
+  <div class="info-box">
+    <strong>Segment Insight:</strong> Partner Network (wholesale/broker) contribution margin declined as correspondent lending (lower-margin) increased its share. The "All Other" segment — essentially Redfin and Rocket Money — emerged as a meaningful $1.2B revenue line at 34.5% margins. This is the "platform revenue" that justifies the acquisition premium thesis. If Redfin's mortgage attach rate (27% → 40%) continues improving, this segment's margins should expand meaningfully as cross-sell revenue layers on top of existing real estate service revenue.
+  </div>
+</div>
+
+<!-- ========== SECTION 5: COMPETITIVE MOAT ========== -->
+<div class="section">
+  <h2>5. Competitive Moat — Narrow-to-Emerging Wide</h2>
+  <p>No formal Morningstar "Wide Moat" rating exists for Rocket Companies — mortgage origination has historically been viewed as a commoditized, rate-driven business with limited moat. The bull case for RKT is that the 2025 acquisitions are creating a genuinely novel form of moat in U.S. housing that traditional moat frameworks don't yet fully capture.</p>
+
+  <h3>Genuine Moat Sources (Emerging)</h3>
+  <ul>
+    <li><strong>Scale & AI-Driven Cost Advantage (Primary):</strong> RKT's cost to originate a loan is approximately one-third of peers' costs. It closes loans in ~21 days vs. the industry average of 45 days. In Q4 2025, Rocket delivered ~$50B in loan volume with roughly half the headcount it took for the same volume in Q1 2022. This is structural operating leverage — not easily replicated — and it widens as AI tooling compounds.</li>
+    <li><strong>Servicing Recapture Flywheel:</strong> With $2.1T in serviced loans (9.5M homeowners), Rocket has an early-warning system every time a homeowner is about to refinance or sell. Its refinance recapture rate is 3× the industry average. When a serviced customer needs a new mortgage, Rocket knows first, can offer preferred pricing, and has an established relationship. The larger the servicing book, the stronger this recapture moat becomes.</li>
+    <li><strong>Vertical Integration Switching Costs (Emerging):</strong> A homebuyer who searches on Redfin, gets pre-approved through Rocket Mortgage, uses Rocket Close for title, and then has their loan serviced by Rocket develops deep platform lock-in. The Redfin mortgage attach rate rising from 27% to nearly 40% demonstrates this is working. Genius-style loyalty mechanics (discounts for ecosystem use) are being deployed.</li>
+    <li><strong>Brand Trust (#1 J.D. Power — 23 Times):</strong> J.D. Power has ranked Rocket Mortgage #1 in client satisfaction for primary origination and mortgage servicing a combined 23 times. In a trust-critical transaction like a home purchase, this brand premium translates to price inelasticity and reduced acquisition costs.</li>
+    <li><strong>Data Advantage:</strong> >160M client calls/year, 30 petabytes of data, and now Redfin's 2B+ annual visit data. This is an unprecedented dataset for predicting homeownership intentions and personalizing mortgage offers — a genuine informational asymmetry vs. traditional lenders.</li>
+  </ul>
+
+  <h3>Where the Moat Faces Pressure</h3>
+  <ul>
+    <li><strong>Rate Commodity Risk:</strong> When 30-year rates are at 6%+, consumers comparison-shop aggressively. Rocket's price advantages can be offset by credit unions, small banks, or UWM (United Wholesale Mortgage) offering marginally better rates. The moat weakens in high-rate environments when consumers have more time and incentive to shop.</li>
+    <li><strong>UWM Competition:</strong> UWM Holdings (wholesale/broker channel) is a formidable competitor with lower costs in the broker channel. Rocket's Partner Network contribution margin declining from 64% (2024) to 58% (2025) reflects this pressure.</li>
+    <li><strong>Redfin Competitive Position:</strong> Redfin had been losing ground to Zillow before the Rocket acquisition. Zillow's Zestimate and lead generation ecosystem are stronger. The question is whether Rocket's capital and mortgage integration can reverse this competitive slide.</li>
+    <li><strong>RESPA Class-Action Lawsuit:</strong> A January 2026 lawsuit alleging kickback arrangements between Rocket agents and loan officers could, if successful, damage the ecosystem integration thesis and incur financial penalties. Watch this closely.</li>
+    <li><strong>Dan Gilbert's Control:</strong> Rock Holdings retains majority voting control. Public shareholders have limited ability to influence capital allocation, board composition, or strategic direction. This is a governance constraint on the moat thesis — management decisions that benefit the controlling shareholder could disadvantage public shareholders.</li>
+  </ul>
+</div>
+
+<!-- ========== SECTION 6: MANAGEMENT & LEADERSHIP ========== -->
+<div class="section">
+  <h2>6. Management & Leadership</h2>
+  <p><strong>Varun Krishna (CEO, since September 2023):</strong> Joined from PayPal where he was SVP/GM of the Consumer Division. 2+ years into the role, Krishna has executed two of the largest mortgage industry acquisitions in history within his first 24 months. Energetic, technologist-first CEO with genuine AI fluency — the "Rocket runs on AI" messaging is substantiated by real operational data (half the headcount for same volume). Critics note this is his first role as a public company CEO and that his prior track record (PayPal consumer) is in consumer fintech, not mortgage.</p>
+  <p><strong>Brian Brown (President & CFO):</strong> Named CFO in 2024; expanded to President on February 26, 2026. Former CFO of Mr. Cooper who joined as part of the acquisition. His dual role (CFO + President) and the appointment of a Deputy CFO (Kurt Johnson) below him signals a substantial expansion of management responsibilities. The capital markets track record from Mr. Cooper is valuable given RKT's now-complex balance sheet.</p>
+  <p><strong>Dan Gilbert (Founder, Co-Chairman):</strong> Founded the business in 1985, still controls via Rock Holdings. Gilbert's post-stroke (2019) involvement has diminished but his foundational culture and values remain embedded. He remains the controlling shareholder and strategic backstop.</p>
+
+  <table>
+    <tr><th>Executive</th><th>Role</th><th>Tenure</th><th>Guidance Pattern</th><th>Credibility Signal</th></tr>
+    <tr><td>Varun Krishna</td><td>CEO</td><td>~2.5 yrs</td><td class="pos">Consistent Beater (4/4 recent quarters beat adj rev guide)</td><td class="pos">Green — beat high end of guidance in Q3 and Q4 2025</td></tr>
+    <tr><td>Brian Brown</td><td>President / CFO</td><td>~1.5 yrs</td><td class="pos">Conservative Guide Style</td><td class="pos">Green — $140M Redfin synergies in 6 months vs original timeline</td></tr>
+  </table>
+
+  <div class="verdict">
+    <strong>Management Verdict — Bold but Unproven Over Full Cycle:</strong> Krishna is executing the transformation playbook with speed and precision. The 4-of-4 beats of guidance ranges, $140M Redfin synergies ahead of schedule, and "every single workstream ahead of plan" language suggest operational discipline. However: (1) Krishna has never run a company through a housing downturn; (2) the departure of Redfin CEO Glenn Kelman (20-year founder) in January 2026 is a cultural integration risk; (3) the RESPA lawsuit adds legal overhang; (4) Dan Gilbert's control means public shareholders must trust management's judgment without the governance backstop of contested board seats. Compensation at $25.9M (95% equity-linked) is above-market but performance-aligned. Moderate-to-high credibility.
+  </div>
+</div>
+
+<!-- ========== SECTION 7: RECENT MANAGEMENT COMMENTARY ========== -->
+<div class="section">
+  <h2>7. Recent Management Commentary</h2>
+
+  <h3>Varun Krishna — CNBC Squawk Box (February 3, 2026)</h3>
+  <div class="quote-block">"We're on track to produce the highest mortgage loan production in terms of volume that we've had in four years, and the highest gain on sale that we've had in four years as well."</div>
+  <p style="font-family:'Segoe UI',sans-serif; font-size:0.9em; color:#374151;"><strong>Investment Relevance:</strong> This was a public pre-announcement before the Q4 earnings call — unusual and signal-positive. Stock jumped 6.3% on this comment. It was accurate: Q4 2025 delivered 4-year highs on both metrics. This demonstrates Krishna's willingness to communicate proactively and his accuracy in doing so.</p>
+
+  <h3>Varun Krishna — Q4 2025 Earnings Call (February 26, 2026)</h3>
+  <div class="quote-block">"We just delivered nearly $50 billion in loan volume… the last time we originated this level of volume was the first quarter of 2022, but here is the critical difference: Today, we delivered that same volume with half the head count. We didn't just work harder. We structurally doubled the capacity of every production team member through technology. This is the definition of AI-driven operating leverage."</div>
+  <p style="font-family:'Segoe UI',sans-serif; font-size:0.9em; color:#374151;"><strong>Investment Relevance:</strong> This is the most important disclosure in the earnings call. If true — same volume, half the headcount — it implies that EBITDA margins will structurally expand as volumes recover. A mortgage market that's 25% larger (per management's 2026 outlook) with half the headcount means disproportionate earnings leverage. This is not typical mortgage company language.</p>
+
+  <h3>Brian Brown — CFO, Q4 2025 Earnings Call</h3>
+  <div class="quote-block">"We are now confident in achieving $60 million in revenue synergies from Redfin over the course of 2026, with full run-rate realization expected in 2027. Expense synergies for Mr. Cooper are expected to be fully realized ahead of the original end-of-2027 target."</div>
+  <p style="font-family:'Segoe UI',sans-serif; font-size:0.9em; color:#374151;"><strong>Investment Relevance:</strong> Pulling forward the Mr. Cooper synergy timeline is significant. The original guidance was $500M in annual run-rate synergies from Mr. Cooper by year-end 2027. If achievable in 2026, this accelerates the EBITDA expansion thesis materially.</p>
+
+  <h3>Varun Krishna — All Company Meeting, Detroit (March 2026)</h3>
+  <div class="quote-block">"Purchase market share grew to 5.5%, up from 3.8%. Rocket runs a unique, all-weather business model with the largest origination and servicing businesses in the industry. Connected by a refinance recapture rate 3x the industry average."</div>
+  <p style="font-family:'Segoe UI',sans-serif; font-size:0.9em; color:#374151;"><strong>Investment Relevance:</strong> Purchase market share expanding from 3.8% to 5.5% in one year is a genuine inflection — Rocket was historically dominated by refinance volume. Purchase market share gains suggest the Redfin integration is creating top-of-funnel demand conversion that didn't exist before. This is the thesis confirming data point.</p>
+
+  <h3>2026 Outlook</h3>
+  <div class="verdict">
+    <strong>CEO Stated View on Market:</strong> Industry forecasts point to a mortgage market up to 25% larger in 2026 vs. 2025. Mortgage rates are at their lowest in 3 years (~6%). Existing home sales could rise ~10%. Rocket's Q1 2026 guidance of $2.6–2.8B adjusted revenue implies adj revenue of potentially $11–13B annualized — but this must be validated with seasonal patterns; mortgage activity is heavily Q2/Q3-weighted. The 2026 setup appears to be the best combination of market tailwinds and internal execution in Rocket's post-IPO history.
+  </div>
+</div>
+
+<!-- ========== SECTION 8: STRATEGIC GROWTH INITIATIVES ========== -->
+<div class="section">
+  <h2>8. Strategic Growth Initiatives</h2>
+  <ul>
+    <li><strong>Redfin Integration — Mortgage Attach Rate Expansion:</strong> Redfin's mortgage attach rate rising from 27% → 40% means more Redfin home searches convert to Rocket Mortgage originations. Target: 13% of Rocket's retail purchase closings already come from Redfin clients (as of Q3 2025). Revenue synergy target: $60M in 2026, full run-rate in 2027. Every 1ppt improvement in attach rate on ~3M annual Redfin transactions = ~$30M in additional origination revenue at current margins.</li>
+    <li><strong>Mr. Cooper Integration — Recapture Engine:</strong> Mr. Cooper's 9.5M serviced loans provide a pipeline of refinance and purchase opportunities. Rocket's recapture rate (3× industry average) applied to this larger servicing book could generate billions in incremental origination volume as rates decline. The $500M in annual run-rate synergies (revenue + cost) is the headline target, with cost synergies already running ahead of schedule.</li>
+    <li><strong>AI Operational Leverage — "Infinite Capacity":</strong> Rocket's AI communications platform handled 800K chats/month, 1.8M text messages, 2M outbound calls, and processed 5M documents monthly. Fully digital purchase pre-approvals (launched Feb 2026) show 2.5× higher conversion rates vs. traditional loan officer leads. The thesis: AI allows Rocket to process 2024's volume with 2022's headcount, creating enormous operating leverage as volumes recover.</li>
+    <li><strong>Compass Partnership (February 26, 2026):</strong> 3-year strategic alliance. Compass's private exclusive and coming soon listings appear on Redfin, potentially adding 500K+ listings. Rocket Mortgage becomes Compass's preferred mortgage partner — preferred pricing (1% rate discount year 1 or $6K closing cost reduction). Access to Compass's 340,000 agents as a distribution channel. This is the demand-side complement to Mr. Cooper's supply-side (recapture) engine.</li>
+    <li><strong>Fully Digital End-to-End Mortgage:</strong> Digital refinance (July 2025) + digital purchase pre-approval (February 2026) create the first fully automated mortgage product in the market. Processing in under 30 minutes at 2.5× higher conversion. This is the consumer moat being built — when 30-year rates drop to 5.5%, Rocket can capture the refinance wave faster than any competitor.</li>
+    <li><strong>Purchase Market Share Expansion:</strong> From 3.8% to 5.5% in one year. Target: reaching double-digit purchase market share by 2028. The Redfin + Compass distribution infrastructure gives Rocket access to buyers at the point of home discovery — the earliest and highest-conversion stage of the mortgage funnel.</li>
+    <li><strong>Rocket Pro (Jupiter LOS):</strong> Launched at Ignite26 (4,000 broker partners), Jupiter is a free loan origination system for broker partners. This deepens Rocket's wholesale market penetration — brokers who use Rocket's LOS are naturally incentivized to route more volume through Rocket Pro. BrokerNearMe.com and the Connectors integration platform extend this ecosystem.</li>
+    <li><strong>Rocket Money Monetization:</strong> Growing subscriber base for the personal finance app. As the platform matures (budgeting, subscription management, credit monitoring), the LTV of a Rocket Money user who also becomes a mortgage client extends. This is the "lifetime financial relationship" strategy that extends beyond just mortgages.</li>
+  </ul>
+</div>
+
+<!-- ========== SECTION 9: KEY RISKS ========== -->
+<div class="section">
+  <h2>9. Key Risks</h2>
+  <ul>
+    <li><strong>Mortgage Rate Sensitivity [Impact: HIGH | Prob: MEDIUM]:</strong> 30-year mortgage rates at ~6.5-7% suppress home sales and refinancing. Every 50bps increase in rates meaningfully reduces Rocket's origination volume and gain-on-sale margins. This is the single biggest variable — see Section 10 for deep dive. <em>Currently priced in: some, but not fully if rates re-accelerate.</em></li>
+    <li><strong>Integration Execution Risk [Impact: HIGH | Prob: MEDIUM]:</strong> Integrating three companies (Rocket + Redfin + Mr. Cooper) simultaneously is operationally complex. The departure of Redfin CEO Glenn Kelman in January 2026 (20-year founder) introduces cultural disruption risk to Redfin's consumer-facing product. If Redfin's market position erodes during the transition, the $1.75B acquisition may underperform. <em>Partially priced in: stock is 38% below its 52-week high.</em></li>
+    <li><strong>Goodwill Impairment Risk [Impact: HIGH | Prob: LOW-MEDIUM]:</strong> $10.6B in goodwill (mostly from Mr. Cooper) requires sustained earnings performance to avoid impairment charges. A prolonged high-rate environment that suppresses originations could trigger write-downs that devastate the GAAP income statement. <em>Not priced in: most investors using adjusted metrics miss this.</em></li>
+    <li><strong>RESPA Kickback Lawsuit [Impact: MEDIUM | Prob: MEDIUM]:</strong> January 2026 class-action alleging Rocket pressured real estate agents to steer clients to Rocket Mortgage in exchange for referral fees — potentially a RESPA violation. Similar lawsuits have resulted in hundreds of millions in settlements for other companies (Zillow, etc.). If this succeeds, it could structurally damage the ecosystem integration model. <em>Not priced in: insufficient investor attention.</em></li>
+    <li><strong>Dan Gilbert Control Risk [Impact: MEDIUM | Prob: LOW]:</strong> Rock Holdings controls Rocket through supervoting shares. Capital allocation decisions, executive compensation, and strategic direction ultimately reflect Gilbert's preferences. Public shareholders have limited recourse. <em>Priced in partially via the "conglomerate discount" on the stock.</em></li>
+    <li><strong>Balance Sheet Leverage [Impact: MEDIUM | Prob: LOW]:</strong> ~$14.2B in non-funding debt (Senior Notes + MSR facilities). In a deep recession / housing crash scenario, liquidity could become stressed. Total liquidity is $10.1B including undrawn lines, which is adequate but less comfortable than pre-acquisition levels. <em>Not fully priced in.</em></li>
+    <li><strong>Redfin Competitive Position [Impact: MEDIUM | Prob: MEDIUM]:</strong> Zillow's market position in home search (Zestimate brand, SuperApp strategy) is stronger than Redfin's. If Redfin's ~50M monthly visitors don't convert to Rocket mortgage clients at improving rates, the acquisition thesis may take longer to materialize. <em>Some skepticism priced in.</em></li>
+    <li><strong>Housing Supply Constraint [Impact: MEDIUM | Prob: HIGH]:</strong> U.S. housing supply is at historic lows (~$347B in "stale" listings per company data). Even as rates decline, if homeowners remain locked in by existing low-rate mortgages (the "lock-in effect"), transaction volumes recover more slowly than rate declines imply. <em>Partially priced in.</em></li>
+  </ul>
+</div>
+
+<!-- ========== SECTION 10: MORTGAGE RATE MACRO ANALYSIS ========== -->
+<div class="section">
+  <h2>10. The Dominant Macro Variable — Mortgage Rate Sensitivity</h2>
+  <p>For Rocket Companies, the 30-year fixed mortgage rate is not merely a macro variable — it is the fundamental throttle of the entire business. Understanding this sensitivity in detail is essential before any valuation work.</p>
+
+  <div class="grid4">
+    <div class="metric-card amber">
+      <div class="value">~6.0–6.5%</div>
+      <div class="label">Current 30-yr Mortgage Rate (Mar/Apr 2026)</div>
+    </div>
+    <div class="metric-card green">
+      <div class="value">$132B</div>
+      <div class="label">FY2025 Net Rate Lock Volume (4-yr high)</div>
+    </div>
+    <div class="metric-card">
+      <div class="value">2.83%</div>
+      <div class="label">FY2025 Gain on Sale Margin</div>
+    </div>
+    <div class="metric-card green">
+      <div class="value">$5.0B</div>
+      <div class="label">Annualized Recurring Servicing Cash Flows</div>
+    </div>
+  </div>
+
+  <h3>Rate Sensitivity Framework for Rocket</h3>
+  <table>
+    <tr><th>Rate Scenario</th><th>30-yr Rate</th><th>Impact on Originations</th><th>Impact on MSRs</th><th>Net Revenue Effect</th><th>EPS Impact</th></tr>
+    <tr><td>Baseline (current)</td><td class="neu">6.0–6.5%</td><td class="pos">Rising — rates at 3-yr low</td><td class="pos">Stable-to-positive</td><td class="pos">+25% YoY (2026E)</td><td class="pos">+$0.35–0.50</td></tr>
+    <tr><td>Bull (rates drop to 5.5%)</td><td class="pos">&lt;5.5%</td><td class="pos">Refi boom ignites; purchase unlocks</td><td class="neg">MSR values decline (faster prepay)</td><td class="pos">+40–60% (massive refi wave)</td><td class="pos">+$0.60–0.80+</td></tr>
+    <tr><td>Bear (rates rise to 7.5%+)</td><td class="neg">7.5%+</td><td class="neg">Originations collapse; purchase freezes</td><td class="pos">MSR values rise (slower prepay)</td><td class="neg">-20 to -35%</td><td class="neg">-$0.10 to -$0.20</td></tr>
+    <tr><td>Extreme Bear (8%+, 2022 replay)</td><td class="neg">8%+</td><td class="neg">2022/2023 trough replay possible</td><td class="pos">MSR hedge provides some protection</td><td class="neg">-40 to -55% revenue</td><td class="neg">Significant losses</td></tr>
+  </table>
+
+  <div class="highlight">
+    <strong>The "All-Weather" Claim — How True Is It?</strong> Management repeatedly calls Rocket an "all-weather" business model due to the servicing flywheel: when rates are HIGH, originations slow but MSR values rise (lower prepayment speeds) and the servicing portfolio generates stable fees. When rates are LOW, MSR values fall but a refi wave generates massive origination profits. The hedge is real but IMPERFECT — 2022 and 2023 (rates rapidly rising) showed that the gains on MSR values don't fully offset the origination revenue collapse. The business is still rate-sensitive, just better hedged than a pure originator. The servicing portfolio ($5B annualized recurring cash flows) is the new floor that didn't exist before Mr. Cooper.
+  </div>
+
+  <h3>The "Lock-In Effect" and Why It Matters for 2026</h3>
+  <p>Between 2020 and 2022, ~35M American homeowners refinanced into mortgages with rates of 3–4%. These homeowners are "locked in" — they won't move because giving up a 3.5% mortgage to take on a 6.5% mortgage is economically irrational. This lock-in effect has suppressed existing home sales and purchase market volumes for 3+ years.</p>
+  <p>The unlock thesis: as rates decline toward 5.5-6.0%, the psychological and economic barrier to move diminishes. Rocket CEO Krishna cited this in February 2026 — "People are suddenly willing to not only refinance but also move because they no longer feel locked in." The unlock, when it comes, would be a massive catalyst given 3+ years of pent-up housing demand.</p>
+
+  <h3>Fed Rate Cuts & Mortgage Rate Path</h3>
+  <div class="info-box">
+    <strong>Current Macro Setup (April 2026):</strong> The 30-year mortgage rate dropped to 5.99% at one point in early 2026, its lowest since Sept 2022. Trump's directive to Fannie Mae and Freddie Mac to buy $200B in mortgage bonds provided a temporary stimulus. Most forecasts expect 30-year rates to settle in the 6.0-6.5% range for 2026, with the downside case to 5.5% if the Fed cuts 2-3 more times and spreads compress. Even at 6%, Rocket is seeing its best volumes in 4 years — confirming the business doesn't need sub-5% rates to perform.
+  </div>
+</div>
+
+<!-- ========== SECTION 11: VALUATION ========== -->
+<div class="section">
+  <h2>11. Valuation — The Complication and the Opportunity</h2>
+
+  <div class="grid4">
+    <div class="metric-card">
+      <div class="value">$14.96</div>
+      <div class="label">Current Price (Apr 2, 2026)</div>
+    </div>
+    <div class="metric-card amber">
+      <div class="value">~$50B</div>
+      <div class="label">Enterprise Value (est.)</div>
+    </div>
+    <div class="metric-card amber">
+      <div class="value">~39x</div>
+      <div class="label">EV/Adj EBITDA (Trailing 2025)</div>
+    </div>
+    <div class="metric-card green">
+      <div class="value">~21x</div>
+      <div class="label">EV/Adj EBITDA (Q4 Run-Rate Ann.)</div>
+    </div>
+  </div>
+
+  <h3>EV Calculation</h3>
+  <table>
+    <tr><th>Component</th><th>Amount</th><th>Note</th></tr>
+    <tr><td>Market Cap</td><td>$38.6B</td><td>~2.58B shares × $14.96</td></tr>
+    <tr><td>+ Senior Notes (Non-Funding Debt)</td><td>$10.4B</td><td>Issued to fund Mr. Cooper acquisition</td></tr>
+    <tr><td>+ MSR/Advance Facilities</td><td>$3.8B</td><td>Operational leverage from servicing</td></tr>
+    <tr><td>- Cash & Equivalents</td><td>-$2.7B</td><td>Corporate cash</td></tr>
+    <tr><td><strong>Enterprise Value</strong></td><td><strong>~$50.1B</strong></td><td>Excluding funding facilities (operational)</td></tr>
+  </table>
+
+  <h3>Valuation on Multiple Metrics</h3>
+  <table>
+    <tr><th>Metric</th><th>Trailing (FY2025)</th><th>Q4 Run-Rate Ann.</th><th>2026E (Base)</th><th>Assessment</th></tr>
+    <tr><td>EV/Adj EBITDA</td><td class="neg">~39x</td><td class="neu">~21x</td><td class="pos">~13–17x</td><td>Expensive trailing, reasonable forward</td></tr>
+    <tr><td>P/Adj EPS</td><td class="neg">~53x ($0.28)</td><td class="neu">~34x ($0.44 ann.)</td><td class="pos">~15–23x ($0.65–1.00E)</td><td>Similar story — earnings power is 2026+</td></tr>
+    <tr><td>Servicing Portfolio P/UPB</td><td colspan="3">$38.6B / $2.1T = 1.84% of UPB</td><td>Reasonable for #1 servicer</td></tr>
+    <tr><td>MSR Portfolio Value</td><td colspan="3">$38.6B market cap vs $19.4B MSRs alone</td><td>Getting the origination engine + Redfin + Rocket Money for ~$19B</td></tr>
+  </table>
+
+  <div class="highlight">
+    <strong>Sum-of-Parts Framework — A Different Way to Value RKT:</strong>
+    <ul style="margin-top:8px;">
+      <li>MSRs at book value: $19.4B (Rocket owns these outright)</li>
+      <li>Origination business (standalone, at 10x 2026 EBITDA of ~$2B): ~$20B</li>
+      <li>Redfin (comparable digital brokerage at 3–4x revenue): ~$2–3B</li>
+      <li>Rocket Money / Fintech (1–2× revenue): ~$1B</li>
+      <li><strong>Gross Asset Value: ~$42–45B</strong></li>
+      <li>Less: Non-funding debt (~$14.2B)</li>
+      <li><strong>Implied Equity Value: ~$28–31B</strong> — suggesting stock is roughly fairly valued to slightly undervalued at $14.96 ($38.6B market cap) when you consider the full integration premium.</li>
+    </ul>
+    <strong>Note:</strong> This framework suggests the market is pricing in integration risk — the premium you're paying is essentially optionality on whether the flywheel actually fires in 2026-2028.
+  </div>
+
+  <h3>Peer Comparison</h3>
+  <table>
+    <tr><th>Company</th><th>Model</th><th>EV/EBITDA (fwd)</th><th>P/E (fwd)</th><th>Growth Profile</th><th>Moat</th></tr>
+    <tr><td>Rocket Companies (RKT)</td><td>Integrated platform</td><td class="pos">~13–17x</td><td class="pos">~15–23x</td><td>High (integration synergies)</td><td>Emerging</td></tr>
+    <tr><td>UWM Holdings (UWMC)</td><td>Wholesale-only originator</td><td class="pos">~8–10x</td><td class="pos">~10–12x</td><td>Low-Medium</td><td>Narrow</td></tr>
+    <tr><td>PennyMac Financial (PFSI)</td><td>Diversified originator/servicer</td><td class="pos">~9–11x</td><td class="pos">~10–13x</td><td>Medium</td><td>Narrow</td></tr>
+    <tr><td>Mr. Cooper (pre-acquisition)</td><td>Pure servicer</td><td>~8x</td><td>~10x</td><td>Low-Medium</td><td>Scale</td></tr>
+  </table>
+
+  <div class="info-box">
+    <strong>Premium Justified?</strong> RKT trades at a 40-70% premium to pure-play mortgage peers on forward EBITDA. This premium reflects: (1) superior AI-driven cost structure (1/3 peers' cost to originate); (2) $5B annualized recurring servicing revenue floor; (3) vertical integration optionality (Redfin + Compass). If the integration delivers the $500M in synergies, the premium compresses naturally — the 2026E EBITDA grows to close the gap. If synergies disappoint, the premium becomes unjustifiable.
+  </div>
+
+  <h3>Your Return Targets</h3>
+  <table>
+    <tr><th>Target</th><th>Required Price</th><th>Implied Metric</th><th>Probability Assessment</th></tr>
+    <tr><td>20% in 1 year</td><td>$17.95</td><td>~$50B EV / $3.0B 2026E EBITDA = 16.7x</td><td class="pos">Moderate-High — analyst consensus ~$20.64 implies 38% upside</td></tr>
+    <tr><td>50% in 3 years</td><td>$22.44</td><td>~$55B EV / $4.0B 2028E EBITDA = 13.7x</td><td class="neu">Moderate — requires integration synergies to fully materialize</td></tr>
+  </table>
+
+  <h3>1-Year Scenario Analysis (~$17.95 target)</h3>
+  <table>
+    <tr><th>Scenario</th><th>2026 Adj EBITDA</th><th>EV/EBITDA</th><th>Price</th><th>Return</th></tr>
+    <tr><td>Bear (rate spike, integration stumble)</td><td>$1.8B</td><td>15x</td><td>$10.50</td><td class="neg">-30%</td></tr>
+    <tr><td>Base (management guidance)</td><td>$3.0B</td><td>16x</td><td>$18.00</td><td class="pos">+20%</td></tr>
+    <tr><td>Bull (synergies accelerate, market up 25%)</td><td>$3.8B</td><td>18x</td><td>$27.00</td><td class="pos">+80%</td></tr>
+    <tr><td>Bull+ (refi wave ignites, full flywheel)</td><td>$4.5B</td><td>20x</td><td>$35.00</td><td class="pos">+134%</td></tr>
+  </table>
+
+  <h3>3-Year Scenario Analysis (~2028)</h3>
+  <table>
+    <tr><th>Scenario</th><th>2028E Adj EBITDA</th><th>EV/EBITDA</th><th>Price</th><th>Return</th></tr>
+    <tr><td>Bear (no synergies, housing trough)</td><td>$1.5B</td><td>12x</td><td>$7.50</td><td class="neg">-50%</td></tr>
+    <tr><td>Base (partial synergies, stable rates)</td><td>$4.0B</td><td>14x</td><td>$22.00</td><td class="pos">+47%</td></tr>
+    <tr><td>Bull (full synergies + housing recovery)</td><td>$5.5B</td><td>16x</td><td>$35.00</td><td class="pos">+134%</td></tr>
+    <tr><td>Bull+ (refi wave + full flywheel)</td><td>$7.0B</td><td>18x</td><td>$50.00</td><td class="pos">+234%</td></tr>
+  </table>
+
+  <div class="warning">
+    <strong>Bear Case Is Real:</strong> Unlike BKNG where the bear case required AI disintermediation (a hypothetical), RKT's bear case requires only a return to 2022-2023 conditions (mortgage rates back above 7.5%). Given current tariff uncertainty and potential re-inflation, this is not a tail risk — it's a plausible scenario. The goodwill impairment that would follow could create a GAAP catastrophe that damages investor confidence even if adjusted earnings hold. Size position accordingly.
+  </div>
+</div>
+
+<!-- ========== SECTION 12: POSITION BUILDING STRATEGY ========== -->
+<div class="section">
+  <h2>12. Position Building Strategy (0.75–1.5% Portfolio Allocation)</h2>
+
+  <p><strong>Why Less Stock-Heavy than SCHW/BKNG:</strong> RKT is a higher-risk, cyclical business undergoing a transformational but unproven integration. Unlike SCHW (wide moat, rate-sensitive but predictable) or BKNG (decade-low multiple, proven FCF machine), RKT is executing a bold vertical integration bet with binary-ish outcomes. The bear case has real teeth. Options make more sense here than at BKNG.</p>
+
+  <h3>Recommended Split: 65% Stock / 35% Options</h3>
+
+  <h3>Stock Position — Staged Entry</h3>
+  <table>
+    <tr><th>Tranche</th><th>Allocation</th><th>Entry Trigger</th><th>Price Range</th><th>Rationale</th></tr>
+    <tr><td>Tranche 1 (now)</td><td>35% of position</td><td>Current price — 38.5% below 52-wk high post-beat</td><td>$14.00–$16.00</td><td>Q1 2026 earnings (Apr 30) is near-term catalyst; beat likely given guidance history</td></tr>
+    <tr><td>Tranche 2 (macro pullback)</td><td>40% of position</td><td>Rate scare, macro uncertainty, or broad market selloff</td><td>$10.00–$12.00</td><td>$10 = ATL/ATL-proximate level with $5B servicing cash flows as floor; deep value</td></tr>
+    <tr><td>Tranche 3 (confirmation)</td><td>25% of position</td><td>Q1 2026 earnings beat + Q2 guide above consensus</td><td>$20.00–$24.00</td><td>Confirmation that synergy flywheel is working; pay up for thesis validation</td></tr>
+  </table>
+
+  <h3>Options Enhancement (35% of allocation)</h3>
+  <ul>
+    <li><strong>Cash-Secured Puts at $11–12 (60-90 day):</strong> Target Tranche 2 entry while collecting premium. If assigned at $11, you're buying at ~11x annualized Q4 EBITDA — genuinely cheap with $5B servicing floor. Premium collected lowers average cost basis. Run this through Q1 earnings if not yet assigned.</li>
+    <li><strong>LEAPS Calls — Jan 2027 at $20 Strike:</strong> If the integration thesis is right and 2026 becomes a monster year (up 25% mortgage market + synergies), these calls could be 5-10× return vs. current premium. Sized at 15-20% of total RKT allocation. Use 20% OTM to get meaningful leverage while keeping cost manageable.</li>
+    <li><strong>Covered Calls at $22–24 (once full position built):</strong> Sell against stock position targeting just above analyst consensus (~$20.64) once the Tranche 1+2 position is built. Generates 2-3% premium/cycle and defines a natural profit-taking zone at 1-year targets.</li>
+  </ul>
+
+  <h3>Catalysts to Watch</h3>
+  <ul>
+    <li><strong>Q1 2026 Earnings (April 30, 2026 — 25 days away):</strong> Management guided $2.6-2.8B adjusted revenue. Given the 4-for-4 beats of guidance and Krishna's February "4-year high" pre-announcement, there's meaningful beat probability. Key metrics: EBITDA margin (does it sustain >20%?), purchase market share (can it hit 6%+?), Redfin mortgage attach rate (does it cross 40%?).</li>
+    <li><strong>Rate Environment (Ongoing):</strong> Any mortgage rate move below 5.75% would be a massive catalyst — triggering the lock-in unlock and a refi wave that would look similar to 2020 but with the full Redfin+Mr. Cooper platform in place. Set a rate alert at 5.75% and increase conviction on any dip below that level.</li>
+    <li><strong>Mr. Cooper Synergy Update (Mid-2026):</strong> If management confirms Mr. Cooper cost synergies are fully realized ahead of the 2027 target, the EBITDA uplift is ~$400M (annual) — roughly 15% of estimated 2026E EBITDA. This is the single biggest numeric catalyst within management's control.</li>
+    <li><strong>Redfin Glenn Kelman Successor (Q2 2026):</strong> Varun Krishna is currently serving as interim Redfin CEO. A permanent hire who brings consumer product credibility and Zillow-fighting instincts is critical to the thesis. A weak hire would be a thesis-risk signal.</li>
+    <li><strong>RESPA Lawsuit Update:</strong> Class-action lawsuits move slowly, but any discovery findings or settlement discussions becoming public could negatively affect the stock and the ecosystem integration model. This is the main legal tail risk to monitor.</li>
+  </ul>
+
+  <div class="info-box">
+    <strong>Thesis-Break Signals:</strong> (1) Mortgage rates persistently above 7.5% for 6+ months — signals return to 2022 conditions; (2) Redfin mortgage attach rate declining below 30% — integration failing; (3) Mr. Cooper synergy restatement below $300M — acquisition was overpriced; (4) RESPA lawsuit certification as class action with broad scope — structural threat to ecosystem model; (5) Goodwill impairment charge — signals management admits overpayment. Set price alert at $9 (pre-2025 trough level) for thesis reassessment trigger.
+  </div>
+</div>
+
+<!-- ========== SECTION 13: BAIT FRAMEWORK ========== -->
+<div class="section">
+  <h2>13. Mauboussin BAIT Framework — Mispricing Assessment</h2>
+
+  <div class="bait-grid">
+    <div class="bait-card b">
+      <span class="bait-letter">B</span>
+      <h4>🧠 Behavioral Inefficiency — STRONG</h4>
+      <p>The stock is down 38.5% from its 52-week high of $24.36 (January 16, 2026) despite: (1) Q4 2025 adj revenue beating the high end of guidance by $140M; (2) adjusted EBITDA accelerating from $169M in Q1 to $592M in Q4; (3) integration ahead of schedule on both acquisitions. The selloff appears driven by macro anxiety (tariffs, potential re-inflation, rate uncertainty) and post-peak momentum unwinding — not by fundamental deterioration. The stock was at $17.33 immediately after earnings, then fell to $13.67 by March 30 — a 21% decline in one month post-beat. This is textbook behavioral overselling of a beat-and-raise quarter.</p>
+    </div>
+    <div class="bait-card a">
+      <span class="bait-letter">A</span>
+      <h4>📊 Analytical Inefficiency — MODERATE-STRONG</h4>
+      <p>The complexity of the Up-C collapse, the shift to pro-forma EPS, MSR fair value accounting, and the simultaneous integration of two major acquisitions makes simple consensus models unreliable. Specifically: (1) Most models don't properly credit the $5B annualized recurring servicing cash flow as a rate-independent earnings floor; (2) The "half the headcount for same volume" operating leverage math implies 2026 EBITDA margins of 25-30%+ on higher volume — far above historical; (3) The sum-of-parts analysis (MSRs at $19.4B alone = 50% of market cap) creates analytical undervaluation not visible in headline P/E or EV/EBITDA. Purchase market share expansion from 3.8% to 5.5% in one year is not yet in consensus models.</p>
+    </div>
+    <div class="bait-card i">
+      <span class="bait-letter">I</span>
+      <h4>📡 Informational Asymmetry — MODERATE</h4>
+      <p>The most important primary disclosures that require close reading: (1) Krishna's Squawk Box comment about "4-year volume high" before earnings — a public pre-announcement of favorable results; (2) The Q4 earnings call's specific AI operating leverage data (half headcount, 800K AI chats/month, 2.5x conversion from digital pre-approvals) — these are quantified proof points most media coverage missed; (3) CFO Brown's disclosure that Mr. Cooper synergies are running "ahead of the original end-of-2027 target" — a significant timeline pull-forward that consensus has not priced in; (4) The Redfin mortgage attach rate going from 27% to ~40% in 4 months — faster than anyone anticipated.</p>
+    </div>
+    <div class="bait-card t">
+      <span class="bait-letter">T</span>
+      <h4>⚙️ Technical Factor — WEAK-MODERATE</h4>
+      <p>Limited technical catalysts vs. BKNG: no stock split announced, no Dow inclusion potential, Dan Gilbert's control limits buyback optionality. However: (1) Q1 2026 earnings on April 30 (25 days away) is a hard catalyst; (2) The stock is near 30-day lows with RSI likely oversold after a 20%+ 30-day decline; (3) Up-C collapse in June 2025 dramatically increased the public float from ~7% to ~35% — institutional ownership should be growing as the company becomes a proper C-corp. The $38.6B market cap now makes RKT a meaningful mid/large-cap that index funds and institutional investors can hold more comfortably. This institutional inflow tailwind is underappreciated.</p>
+    </div>
+  </div>
+
+  <div class="bait-box">
+    <strong>BAIT Verdict — Behavioral + Analytical (Moderate B+A Signal, Weaker than BKNG):</strong> RKT shows meaningful behavioral overselling post-beat and genuine analytical complexity that obscures true earnings power. However, the BAIT signal is less clean than BKNG (B+A+T triple overlap) because: (1) the bear case has real fundamental merit (rate sensitivity, integration risk, goodwill), whereas BKNG's bear case required AI events that weren't happening; (2) the technical tailwinds are absent; (3) the informational edge is narrower. The most important question is whether the behavioral fear is proportionate — a 38.5% drawdown from the 52-week high on a post-beat quarter suggests meaningful behavioral exaggeration, particularly given the Q4 momentum. Conviction: Moderate. Allocation: 0.75–1.5% (below BKNG's 1.5–2.5% and SCHW's 1.0%).
+  </div>
+</div>
+
+<!-- ========== SECTION 14: BULL/BEAR CASES ========== -->
+<div class="section">
+  <h2>14. Bull Case vs. Bear Case</h2>
+
+  <div class="scenario-grid">
+    <div class="bull-card">
+      <h3>🐂 Bull Case ($30–50 by 2028, +100–234%)</h3>
+      <ul>
+        <li>Mortgage market grows 25% in 2026 (industry forecast range); Rocket captures disproportionate share via Redfin/Compass top of funnel</li>
+        <li>Purchase market share reaches 7-8% by 2027 (from 5.5% today); each 1ppt = ~$300M incremental revenue</li>
+        <li>Mr. Cooper synergies fully realized by mid-2026 (ahead of 2027 target); $500M incremental EBITDA/year at full run-rate</li>
+        <li>AI-driven operating leverage continues: 25-30%+ adj EBITDA margins on $12B+ adj revenue = $3.5-4.5B EBITDA by 2027</li>
+        <li>30-year rates decline to 5.5-5.75% in 2026-2027, unlocking the "lock-in effect" and triggering both refi wave and purchase acceleration</li>
+        <li>Redfin mortgage attach rate reaches 50%+ by 2027; Compass partnership drives 500K+ additional listing inventory</li>
+        <li>RESPA lawsuit resolved for minimal settlement; no structural impact on ecosystem</li>
+        <li>2028 Adj EBITDA: $5.5-7.0B × 16-18x = Equity value $68-112B; ~$26-43/share (on ~2.6B shares)</li>
+        <li><strong>Probability: 25%</strong></li>
+      </ul>
+    </div>
+    <div class="bear-card">
+      <h3>🐻 Bear Case ($7–10, -30 to -50%)</h3>
+      <ul>
+        <li>30-year rates rise back above 7.5% (tariff-driven re-inflation, fiscal profligacy, Fed hawkishness)</li>
+        <li>2022/2023 trough replay: origination volume collapses, gain on sale margin compresses to 2.0-2.3%</li>
+        <li>Redfin integration fails to improve attach rate; Zillow Homes dominates AI-powered home search</li>
+        <li>RESPA class-action certified; settlement of $500M+ disrupts the ecosystem referral model</li>
+        <li>$10.6B goodwill impairment triggered; GAAP loss devastates retail investor confidence despite adjusted metrics holding</li>
+        <li>Mr. Cooper servicing portfolio faces delinquency spike in recession; MSR values impaired</li>
+        <li>Dan Gilbert exercises control in ways that conflict with public shareholder interests</li>
+        <li>2028 Adj EBITDA: $1.5B × 12x = EV $18B; after $14.2B debt, equity value ~$4-8B; ~$1.5-3/share</li>
+        <li><strong>Probability: 20%</strong></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="verdict">
+    <strong>Base Case ($18–25, +20–67% over 1-3 years) — Probability: 55%</strong>
+    <ul style="margin-top:8px;">
+      <li>30-year rates oscillate between 6.0-6.75%; housing market gradually unfreezes</li>
+      <li>Mr. Cooper synergies deliver $350-500M by 2026-2027; Redfin integration meets $60M revenue synergy target</li>
+      <li>Adj EBITDA reaches $3.0-3.5B in 2026 (Q4 run-rate extrapolation with modest improvement)</li>
+      <li>Goodwill not impaired; GAAP earnings return to positive in 2026</li>
+      <li>Stock re-rates to $18-25 (analyst consensus $20.64) as 2026 earnings beat expectations</li>
+    </ul>
+    <strong>Risk/Reward:</strong> Base case +35-67%, Bull case +134-234%, Bear case -30-50%. Asymmetry is approximately 2.5:1 favorable — less compelling than BKNG (4:1) but still interesting, particularly with options to structure the bet more favorably.
+  </div>
+</div>
+
+<!-- ========== SECTION 15: BOTTOM LINE ========== -->
+<div class="section">
+  <h2>15. Bottom Line</h2>
+  <div class="verdict">
+    <p><strong>RKT is a moderate-conviction, 0.75–1.5% portfolio allocation — a higher-risk, higher-potential-reward bet than SCHW or BKNG, sized accordingly.</strong> This is not a classic "wide moat compounder" — it is America's boldest bet on whether the end-to-end homeownership platform model creates a new form of durable competitive advantage in the world's largest consumer financial transaction.</p>
+
+    <p><strong>The thesis in one sentence:</strong> Rocket Companies has assembled the pieces of the most complete homeownership platform in history (search via Redfin + Compass, origination via #1 lender, servicing via #1 servicer) at a moment when AI is allowing it to do the same volume with half the headcount — and the housing market is just beginning to unlock after 3 years of rate-induced freeze.</p>
+
+    <p><strong>Your 20% one-year return target (~$17.95)</strong> is achievable in the base case. It requires Q1 2026 to confirm Q4's trajectory ($2.6-2.8B adj revenue guidance), which management has beat for 4 consecutive quarters. Analyst consensus of $20.64 implies 38% upside even before any synergy acceleration. A $17.95 target is conservative by sell-side standards.</p>
+
+    <p><strong>Your 50% three-year target (~$22.44)</strong> requires modest integration synergy delivery and a stable-to-improving rate environment. It doesn't require a refi boom, dramatic rate cuts, or full flywheel realization — just continuation of the current trajectory with partial synergy capture. In the bull case, upside is dramatically higher ($30-50).</p>
+
+    <p><strong>Where I'd push back vs. SCHW/BKNG:</strong> RKT carries more idiosyncratic execution risk (acquisition integration, management transition at Redfin, RESPA lawsuit) AND more macro risk (rate sensitivity without BKNG's global diversification). The $10.6B goodwill and complex corporate structure make this harder to underwrite with precision. At 1% of portfolio, the risk is appropriate. Going above 1.5% requires significantly higher conviction on either the integration thesis or the rate path.</p>
+
+    <p><strong>The BAIT signal here is real but not as clean as BKNG.</strong> The behavioral overselling is genuine (38.5% from highs on a beat-and-raise quarter). The analytical complexity is real (MSR accounting, Up-C collapse, pro-forma EPS). But the bear case has legitimate teeth in a way BKNG's doesn't — which is why I'd size this as a smaller, options-enhanced position rather than a core holding.</p>
+
+    <p><strong>Probability-weighted expected value:</strong> Bull ($35 × 25%) + Base ($22 × 55%) + Bear ($9 × 20%) = $8.75 + $12.10 + $1.80 = <strong>~$22.65 EV vs. $14.96 current price = +51% probability-weighted upside.</strong> This is a favorable risk/reward bet — just know what you own: a cyclical, transformational story, not a compounder.</p>
+  </div>
+</div>
+
+<!-- ========== SECTION 16: PRICE HISTORY ANALYSIS ========== -->
+<div class="section">
+  <h2>16. Price History Analysis — Three Horizons</h2>
+  <p style="font-family:'Segoe UI',sans-serif; font-size:0.9em; color:var(--gray);">Integrated from kg-recent-price-analysis skill | IPO: August 6, 2020 at $18/share (NYSE: RKT)</p>
+
+  <div class="grid4">
+    <div class="metric-card red">
+      <div class="value">-38.5%</div>
+      <div class="label">From 52-Wk High ($24.36)</div>
+    </div>
+    <div class="metric-card green">
+      <div class="value">+37%</div>
+      <div class="label">1-Year Return (Apr'25→Apr'26 approx.)</div>
+    </div>
+    <div class="metric-card red">
+      <div class="value">-65%</div>
+      <div class="label">5-Year Return (CAGR: -11.5%)</div>
+    </div>
+    <div class="metric-card amber">
+      <div class="value">-20%</div>
+      <div class="label">30-Day Return (Mar→Apr 2026)</div>
+    </div>
+  </div>
+
+  <div class="price-chart-container">
+    <h3 style="margin-bottom:12px; font-size:1.0em;">RKT Price History — August 2020 to April 2026</h3>
+    <canvas id="rktChart"></canvas>
+    <p style="font-family:'Segoe UI',sans-serif; font-size:0.78em; color:var(--gray); margin-top:8px;">Monthly approximate closing prices. Annotated with key events driving 20%+ moves. Sources: TradingView, FinanceCharts, MacroTrends (cross-referenced).</p>
+  </div>
+
+  <div class="event-legend">
+    <span class="event-tag tag-fund">INT-FUND: Earnings / Volume / Margin</span>
+    <span class="event-tag tag-strat">INT-STRAT: Acquisitions / Strategic</span>
+    <span class="event-tag tag-macro">EXT-MACRO: Fed / Rates / Macro</span>
+    <span class="event-tag tag-market">EXT-MARKET: Broad Market</span>
+    <span class="event-tag tag-people">INT-PEOPLE: Leadership</span>
+  </div>
+
+  <h3>5-Year Horizon: IPO (Aug 2020) → April 2026</h3>
+  <p>From IPO at $18 on August 6, 2020 to the current price of $14.96 (April 2, 2026), RKT has delivered a <strong>total loss of ~17%</strong> (approximately) or ~-3.5% CAGR, dramatically underperforming the S&P 500's ~+75% return over the same period. However, this masks an extraordinary volatility journey — from $18 to $43 to $5.97 to $24.36 to $14.96.</p>
+
+  <p>The 5-year story has four distinct phases:</p>
+
+  <div class="phase-table">
+    <div class="phase-row">
+      <div class="phase-dates">Aug 2020–Mar 2021</div>
+      <div class="phase-move pos">+139% (IPO→ATH)</div>
+      <div class="phase-tag"><span class="event-tag tag-macro">EXT-MACRO</span></div>
+      <div class="phase-desc"><strong>COVID Refi Boom + Meme Stock Fever:</strong> Near-zero rates triggered the largest mortgage refinancing wave in U.S. history. Rocket's 2020 adjusted revenue hit ~$16.9B. The February 2021 short squeeze (GameStop era) amplified the move to $43/share ($28.76 intraday average March 2). IPO hype + genuine fundamental performance + retail frenzy created the ATH. Assessment: Market significantly overestimated durability of COVID-era revenue levels. The ATH was never close to being justified by underlying earnings power even in 2020 — but it was a genuine refi boom, not just sentiment.</div>
+    </div>
+    <div class="phase-row">
+      <div class="phase-dates">Mar 2021–Oct 2022</div>
+      <div class="phase-move neg">-86% (ATH→ATL)</div>
+      <div class="phase-tag"><span class="event-tag tag-macro">EXT-MACRO</span></div>
+      <div class="phase-desc"><strong>Rate Hike Collapse:</strong> As the Fed pivoted from ZIRP to its most aggressive rate-hiking cycle since the 1980s (March 2022-July 2023), 30-year mortgage rates went from 2.8% to 7.2%. Rocket's origination volumes collapsed from $351B (2021) to ~$80B (2023 trough). Revenue fell from $12.9B to $3.8B. The stock fell from $43 to $5.97 (all-time closing low October 21, 2022). Market's interpretation was correct — the business was facing a near-existential origination slowdown. But the market also overshot: $5.97 implied Rocket would never recover, ignoring the servicing portfolio's resilience.</div>
+    </div>
+    <div class="phase-row">
+      <div class="phase-dates">Oct 2022–Sep 2024</div>
+      <div class="phase-move pos">+258% (ATL→2-yr high)</div>
+      <div class="phase-tag tag-macro"><span class="event-tag tag-macro">EXT-MACRO</span> + <span class="event-tag tag-fund">INT-FUND</span></div>
+      <div class="phase-desc"><strong>Rate Cut Anticipation + Earnings Recovery:</strong> From the $5.97 ATL, the stock recovered to ~$21 by September 2024 as rate cut expectations built through 2023-2024 and Rocket's revenues gradually improved ($3.8B → $5.1B in 2024). The recovery was mostly fed by macro sentiment (rate cut hopes) rather than fundamental transformation — but Rocket was quietly strengthening its balance sheet and building the tech platform that would become visible in 2025.</div>
+    </div>
+    <div class="phase-row">
+      <div class="phase-dates">Sep 2024–Jan 2026</div>
+      <div class="phase-move pos">Strong rally then peak</div>
+      <div class="phase-tag"><span class="event-tag tag-strat">INT-STRAT</span></div>
+      <div class="phase-desc"><strong>Acquisition Cycle + AI Platform Narrative:</strong> The announcement of Redfin acquisition (Feb 2025) and Mr. Cooper acquisition (March 2025) transformed the stock's narrative from "cyclical mortgage lender" to "integrated homeownership platform." Combined with rate declines and strong Q3/Q4 2025 results (beats both quarters), the stock surged from a low of ~$10 in Jan/Apr 2025 to a 52-week high of $24.36 on January 16, 2026. This was the first post-IPO period where the stock's appreciation was genuinely tied to strategic transformation, not just rates.</div>
+    </div>
+    <div class="phase-row">
+      <div class="phase-dates">Jan 2026–Apr 2026</div>
+      <div class="phase-move neg">-38.5% (from 52-wk high)</div>
+      <div class="phase-tag"><span class="event-tag tag-macro">EXT-MACRO</span></div>
+      <div class="phase-desc"><strong>Macro Anxiety Selloff Post-Integration Peak:</strong> Despite a strong Q4 2025 earnings beat on February 26, 2026, the stock failed to sustain gains above $24. Macro anxiety (Trump tariffs, potential re-inflation, rate uncertainty) led to a sector-wide financial stock selloff. The stock gave back the entire post-earnings bounce and more, falling from $17.33 (post-earnings close) to $13.67 by March 30 (-21% in one month post-beat). This is the behavioral inefficiency that creates the current entry opportunity.</div>
+    </div>
+  </div>
+
+  <h3>1-Year Horizon: April 2025 → April 2026</h3>
+  <p>From the 52-week low of approximately $10.94 (April 11, 2025) to the current price of $14.96, the 1-year return is approximately <strong>+37%</strong>. This masks a dramatic intra-year journey: the stock rallied from ~$11 to $24.36 (peak on January 16, 2026), a +122% rally, before the current -38.5% pullback.</p>
+  <p>The 1-year narrative: Rocket closed its two transformational acquisitions (Redfin in July, Mr. Cooper in October), delivered two strong quarterly beats, pre-announced "4-year high" volumes in February 2026, beat Q4 earnings — then gave back half the gains on macro concerns without any company-specific deterioration.</p>
+
+  <h3>30-Day Horizon: March → April 5, 2026</h3>
+  <p>The past 30 days have been characterized by broad financial sector pressure from tariff/macro uncertainty. RKT dropped from approximately $18-19 (early March) to a low of ~$13.58 (intraday low March 30) before recovering to $14.96 on April 2. The 30-day return is approximately -20%. Notable: the stock is down >20% in the 30 days AFTER a quarter where it beat adj revenue guidance by $140M and delivered $592M in adj EBITDA. This is the behavioral inefficiency highlighted in the BAIT analysis.</p>
+
+  <h3>Where Are We Now — Verdict</h3>
+  <div class="verdict">
+    <ul>
+      <li>Current price $14.96 is <strong>38.5% below the 52-week high</strong> of $24.36 (Jan 16, 2026)</li>
+      <li>Current price is <strong>37% above the 52-week low</strong> of $10.94 (Apr 11, 2025)</li>
+      <li>Current price is <strong>65% below the all-time high</strong> of $43 (March 2, 2021)</li>
+      <li>Stock sits at the <strong>27th percentile</strong> of its 5-year range ($5.97–$43)</li>
+      <li><strong>Historical context:</strong> The last time RKT was at $14-15 was in a trough state (2022-2023) when the mortgage market was in a deep freeze. Today, the company is far larger, more diversified, integrating two major acquisitions, at 4-year high volumes, and generating $592M/quarter in adj EBITDA. The same price point represents a dramatically better business.</li>
+      <li><strong>Entry point assessment:</strong> The current price is ATTRACTIVE for partial entry. The risk-reward at $14.96 (EV of ~$50B / Q4 annualized EBITDA of $2.37B = 21x) is reasonable given the growth trajectory. A pullback to $10-12 would be an exceptional buying opportunity. The stock is priced for fear, not for the fundamental improvement already demonstrated in Q4 2025.</li>
+    </ul>
+  </div>
+</div>
+
+<!-- ========== DISCLAIMER ========== -->
+<div class="disclaimer">
+  <strong>Disclaimer:</strong> This analysis is for informational and personal investment research purposes only. It does not constitute investment advice. The author is not a financial advisor. All investors should conduct their own due diligence before making investment decisions. Financial data sourced from Rocket Companies SEC filings, Q4 2025 earnings press release (February 26, 2026), Q4 2025 earnings call transcript, Q3 2025 press release, Q1 2025 press release, CNBC Squawk Box interview (February 3, 2026), company LinkedIn posts, analyst reports from JPMorgan, Wells Fargo, BTIG, and public financial databases (TradingView, MacroTrends, FinanceCharts, Investing.com). Price data as of April 2, 2026 close. Market cap based on approximately 2.58B diluted shares at $14.96. Note: RKT's complex Up-C structure (collapsed June 30, 2025) makes historical EPS comparisons non-trivial; pro-forma adjusted metrics are used throughout for comparability.
+</div>
+
+</div><!-- end container -->
+
+<script>
+// ============================================================
+// CHART.JS PRICE HISTORY CHART WITH ANNOTATION
+// ============================================================
+(function() {
+  // Register annotation plugin safely
+  try {
+    if (window.Chart && window['chartjs-plugin-annotation']) {
+      Chart.register(window['chartjs-plugin-annotation']);
+    }
+  } catch(e) { console.log('Annotation plugin registration note:', e); }
+
+  // Monthly price data (approximate closes) Aug 2020 - Apr 2026
+  const labels = [
+    'Aug-20','Sep-20','Oct-20','Nov-20','Dec-20',
+    'Jan-21','Feb-21','Mar-21','Apr-21','May-21','Jun-21','Jul-21','Aug-21','Sep-21','Oct-21','Nov-21','Dec-21',
+    'Jan-22','Feb-22','Mar-22','Apr-22','May-22','Jun-22','Jul-22','Aug-22','Sep-22','Oct-22','Nov-22','Dec-22',
+    'Jan-23','Feb-23','Mar-23','Apr-23','May-23','Jun-23','Jul-23','Aug-23','Sep-23','Oct-23','Nov-23','Dec-23',
+    'Jan-24','Feb-24','Mar-24','Apr-24','May-24','Jun-24','Jul-24','Aug-24','Sep-24','Oct-24','Nov-24','Dec-24',
+    'Jan-25','Feb-25','Mar-25','Apr-25','May-25','Jun-25','Jul-25','Aug-25','Sep-25','Oct-25','Nov-25','Dec-25',
+    'Jan-26','Feb-26','Mar-26','Apr-26'
+  ];
+
+  const prices = [
+    22, 20, 20, 22, 26,
+    28, 38, 26, 22, 20, 19, 17, 15, 16, 17, 16, 14,
+    14, 13, 11, 10, 9, 8, 9, 9, 7, 6.5, 8, 9,
+    10, 10, 10, 10, 9, 10, 11, 9, 10, 10, 11, 13,
+    14, 13, 15, 13, 14, 16, 18, 20, 21, 17, 13, 11,
+    10.5, 12, 14, 11, 13, 16, 18, 20, 22, 22, 23, 22,
+    23, 19, 14, 14.96
+  ];
+
+  // Event annotations
+  const annotationConfig = {};
+
+  const events = [
+    { index: 5, label: 'IPO hype\n+refi boom', color: '#15803d', yAdjust: -50 },
+    { index: 7, label: 'ATH\n$43 (Mar 2021)', color: '#b91c1c', yAdjust: -50 },
+    { index: 26, label: 'ATL\n$5.97 (Oct 2022)', color: '#b91c1c', yAdjust: 40 },
+    { index: 45, label: 'Fed cuts\nbegin', color: '#0054a3', yAdjust: -50 },
+    { index: 51, label: 'Redfin acq\nannounced', color: '#b45309', yAdjust: -50 },
+    { index: 55, label: 'Redfin\nclosed (Jul)', color: '#b45309', yAdjust: -30 },
+    { index: 57, label: 'Mr.Cooper\nclosed (Oct)', color: '#b45309', yAdjust: -50 },
+    { index: 64, label: '52-wk high\n$24.36 (Jan)', color: '#b91c1c', yAdjust: -50 },
+    { index: 65, label: 'Q4 beat\n$592M EBITDA', color: '#15803d', yAdjust: 40 },
+    { index: 67, label: 'Current\n$14.96', color: '#0054a3', yAdjust: 40 }
+  ];
+
+  events.forEach((ev, i) => {
+    annotationConfig['event' + i] = {
+      type: 'point',
+      xValue: labels[ev.index],
+      yValue: prices[ev.index],
+      backgroundColor: ev.color,
+      radius: 6,
+      borderColor: 'white',
+      borderWidth: 2
+    };
+    annotationConfig['label' + i] = {
+      type: 'label',
+      xValue: labels[ev.index],
+      yValue: prices[ev.index],
+      content: ev.label.split('\n'),
+      font: { size: 9, family: "'Segoe UI', sans-serif" },
+      color: ev.color,
+      yAdjust: ev.yAdjust,
+      textAlign: 'center',
+      backgroundColor: 'rgba(255,255,255,0.85)',
+      padding: 3,
+      borderRadius: 3
+    };
+  });
+
+  // 52-week high line
+  annotationConfig['highLine'] = {
+    type: 'line',
+    yMin: 24.36, yMax: 24.36,
+    borderColor: 'rgba(185,28,28,0.4)',
+    borderWidth: 1,
+    borderDash: [4,4],
+    label: { content: '52-wk High $24.36', enabled: true, position: 'start', font: { size: 9 }, color: '#b91c1c', backgroundColor: 'transparent' }
+  };
+
+  // Current price line
+  annotationConfig['currentLine'] = {
+    type: 'line',
+    yMin: 14.96, yMax: 14.96,
+    borderColor: 'rgba(0,83,160,0.5)',
+    borderWidth: 1.5,
+    borderDash: [6,3],
+    label: { content: 'Current $14.96', enabled: true, position: 'end', font: { size: 9 }, color: '#0054a3', backgroundColor: 'transparent' }
+  };
+
+  const ctx = document.getElementById('rktChart');
+  if (!ctx) return;
+
+  // Phase background boxes
+  annotationConfig['phase1'] = {
+    type: 'box',
+    xMin: 'Aug-20', xMax: 'Mar-21',
+    backgroundColor: 'rgba(21,128,61,0.06)',
+    borderWidth: 0
+  };
+  annotationConfig['phase2'] = {
+    type: 'box',
+    xMin: 'Mar-21', xMax: 'Oct-22',
+    backgroundColor: 'rgba(185,28,28,0.05)',
+    borderWidth: 0
+  };
+  annotationConfig['phase3'] = {
+    type: 'box',
+    xMin: 'Oct-22', xMax: 'Sep-24',
+    backgroundColor: 'rgba(180,83,9,0.05)',
+    borderWidth: 0
+  };
+  annotationConfig['phase4'] = {
+    type: 'box',
+    xMin: 'Sep-24', xMax: 'Apr-26',
+    backgroundColor: 'rgba(0,53,128,0.06)',
+    borderWidth: 0
+  };
+
+  const pluginsConfig = { annotation: { annotations: annotationConfig } };
+
+  try {
+    new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: labels,
+        datasets: [{
+          label: 'RKT Price ($)',
+          data: prices,
+          borderColor: '#0054a3',
+          backgroundColor: 'rgba(0,84,163,0.08)',
+          fill: true,
+          tension: 0.3,
+          pointRadius: 2,
+          pointHoverRadius: 5,
+          borderWidth: 2
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: true,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              label: function(ctx) {
+                return ' $' + ctx.raw.toFixed(2);
+              }
+            }
+          },
+          ...pluginsConfig
+        },
+        scales: {
+          x: {
+            grid: { color: 'rgba(209,229,245,0.5)' },
+            ticks: {
+              font: { size: 9, family: "'Segoe UI', sans-serif" },
+              maxRotation: 45,
+              callback: function(val, idx) {
+                const lbl = this.getLabelForValue(val);
+                return (lbl && lbl.startsWith('Jan')) ? lbl : (idx % 6 === 0 ? lbl : '');
+              }
+            }
+          },
+          y: {
+            grid: { color: 'rgba(209,229,245,0.5)' },
+            ticks: {
+              font: { size: 10, family: "'Segoe UI', sans-serif" },
+              callback: v => '$' + v.toFixed(0)
+            },
+            min: 0,
+            max: 50
+          }
+        }
+      }
+    });
+  } catch(e) {
+    console.log('Chart render note:', e);
+    ctx.parentElement.innerHTML += '<p style="color:#b91c1c; font-size:0.85em;">Chart rendering issue — price history data available in text sections above.</p>';
+  }
+})();
+</script>
+</body>
+</html>

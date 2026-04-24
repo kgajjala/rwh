@@ -1,0 +1,1259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Automation Anywhere — Private Company Investment Analysis</title>
+<style>
+  :root {
+    --navy-dark: #001433;
+    --navy-mid: #002366;
+    --navy-light: #003da5;
+    --blue-accent: #0057e7;
+    --blue-pale: #e8f1fb;
+    --green: #15803d;
+    --red: #b91c1c;
+    --amber: #b45309;
+    --amber-bg: #fffbeb;
+    --amber-border: #f59e0b;
+    --green-bg: #f0fdf4;
+    --green-border: #86efac;
+    --red-bg: #fef2f2;
+    --red-border: #fca5a5;
+    --text-main: #1e293b;
+    --text-muted: #64748b;
+    --card-border: #cbd5e1;
+    --card-shadow: 0 2px 12px rgba(0,30,80,0.08);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: Georgia, 'Times New Roman', serif;
+    background: #f0f4f8;
+    color: var(--text-main);
+    line-height: 1.6;
+  }
+  a { color: var(--blue-accent); }
+
+  /* ─── HEADER ─── */
+  .header {
+    background: linear-gradient(135deg, var(--navy-dark) 0%, var(--navy-mid) 55%, var(--navy-light) 100%);
+    color: #fff;
+    padding: 36px 40px 28px;
+  }
+  .header-top { display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
+  .header-left .ticker {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 13px; font-weight: 700; letter-spacing: 2px;
+    text-transform: uppercase; color: #93c5fd; margin-bottom: 4px;
+  }
+  .header-left .company-name {
+    font-size: 32px; font-weight: 700; letter-spacing: -0.5px;
+    line-height: 1.1;
+  }
+  .header-left .tagline {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 13px; color: #bfdbfe; margin-top: 6px;
+  }
+  .header-right { display: flex; flex-direction: column; align-items: flex-end; gap: 8px; }
+  .private-badge {
+    background: #1d4ed8; color: #fff;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 11px; font-weight: 700; letter-spacing: 1.5px;
+    text-transform: uppercase; padding: 4px 10px; border-radius: 4px;
+  }
+  .analysis-date {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 12px; color: #bfdbfe;
+  }
+  .moat-badge {
+    background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.25);
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 12px; font-weight: 600; color: #e0f2fe;
+    padding: 4px 12px; border-radius: 20px; margin-top: 8px; display: inline-block;
+  }
+
+  /* stats pills */
+  .stats-bar {
+    display: flex; flex-wrap: wrap; gap: 10px;
+    margin-top: 22px; padding-top: 18px;
+    border-top: 1px solid rgba(255,255,255,0.15);
+  }
+  .stat-pill {
+    background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 6px; padding: 7px 14px;
+    font-family: 'Segoe UI', Arial, sans-serif;
+  }
+  .stat-pill .label { font-size: 10px; color: #93c5fd; text-transform: uppercase; letter-spacing: 1px; font-weight: 600; }
+  .stat-pill .value { font-size: 15px; font-weight: 700; color: #fff; margin-top: 1px; }
+  .stat-pill .sub { font-size: 10px; color: #bfdbfe; }
+
+  /* ─── PRICE VERIFIED ─── */
+  .price-verified {
+    background: #0f172a; border-left: 4px solid var(--amber-border);
+    padding: 12px 20px; margin: 0;
+    font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; color: #94a3b8;
+    line-height: 1.8;
+  }
+  .price-verified strong { color: #fbbf24; }
+
+  /* ─── MAIN CONTAINER ─── */
+  .container { max-width: 1100px; margin: 0 auto; padding: 32px 24px 60px; }
+
+  /* ─── SECTION CARD ─── */
+  .section-card {
+    background: #fff;
+    border: 1px solid var(--card-border);
+    border-radius: 10px;
+    box-shadow: var(--card-shadow);
+    margin-bottom: 24px;
+    overflow: hidden;
+  }
+  .section-header {
+    background: linear-gradient(90deg, var(--navy-dark) 0%, var(--navy-mid) 100%);
+    color: #fff; padding: 12px 22px;
+    display: flex; align-items: center; gap: 12px;
+  }
+  .section-number {
+    background: rgba(255,255,255,0.15);
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 11px; font-weight: 700; letter-spacing: 1px;
+    padding: 3px 8px; border-radius: 4px; color: #bfdbfe;
+  }
+  .section-title {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 14px; font-weight: 700; letter-spacing: 0.3px; color: #fff;
+  }
+  .section-body { padding: 22px; }
+
+  /* ─── TABLES ─── */
+  table {
+    width: 100%; border-collapse: collapse;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 13px; margin-top: 8px; margin-bottom: 8px;
+  }
+  thead tr { background: var(--blue-pale); }
+  thead th {
+    padding: 9px 12px; text-align: right;
+    font-weight: 700; font-size: 12px;
+    color: var(--navy-mid); border-bottom: 2px solid #bfdbfe;
+  }
+  thead th:first-child { text-align: left; }
+  tbody tr { border-bottom: 1px solid #f1f5f9; }
+  tbody tr:hover { background: #f8faff; }
+  tbody td { padding: 8px 12px; text-align: right; vertical-align: middle; }
+  tbody td:first-child { text-align: left; font-weight: 600; color: var(--text-main); }
+  .pos { color: var(--green); font-weight: 700; }
+  .neg { color: var(--red); font-weight: 700; }
+  .neu { color: var(--amber); font-weight: 700; }
+  .table-note {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 11px; color: var(--text-muted); font-style: italic; margin-top: 6px;
+  }
+  .table-label {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 12px; font-weight: 700; color: var(--navy-mid);
+    text-transform: uppercase; letter-spacing: 0.5px;
+    margin-top: 18px; margin-bottom: 4px;
+    padding-bottom: 4px; border-bottom: 1px solid var(--blue-pale);
+  }
+
+  /* ─── CALLOUT BOXES ─── */
+  .callout-amber {
+    border-left: 4px solid var(--amber-border);
+    background: var(--amber-bg);
+    padding: 14px 18px; border-radius: 0 6px 6px 0;
+    margin: 12px 0;
+    font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px;
+  }
+  .callout-blue {
+    border-left: 4px solid var(--blue-accent);
+    background: #eff6ff;
+    padding: 14px 18px; border-radius: 0 6px 6px 0;
+    margin: 12px 0;
+    font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px;
+  }
+  .callout-red {
+    border-left: 4px solid #ef4444;
+    background: var(--red-bg);
+    padding: 14px 18px; border-radius: 0 6px 6px 0;
+    margin: 12px 0;
+    font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px;
+  }
+  .callout-green {
+    border-left: 4px solid #22c55e;
+    background: var(--green-bg);
+    padding: 14px 18px; border-radius: 0 6px 6px 0;
+    margin: 12px 0;
+    font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px;
+  }
+  .callout-title { font-weight: 700; font-size: 12px; letter-spacing: 0.5px; text-transform: uppercase; margin-bottom: 6px; }
+
+  /* ─── BULLET LISTS ─── */
+  ul.analysis-list {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 13px; padding-left: 20px; margin: 6px 0;
+  }
+  ul.analysis-list li { margin-bottom: 5px; line-height: 1.55; }
+  ul.analysis-list li strong { color: var(--navy-mid); }
+
+  /* ─── BULL/BEAR GRID ─── */
+  .bull-bear-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 8px; }
+  .bull-card {
+    background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+    border: 1px solid #86efac; border-radius: 8px; padding: 16px;
+  }
+  .bear-card {
+    background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%);
+    border: 1px solid #fca5a5; border-radius: 8px; padding: 16px;
+  }
+  .card-header-bull { color: #15803d; font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; font-weight: 700; margin-bottom: 10px; display: flex; align-items: center; gap: 6px; }
+  .card-header-bear { color: #b91c1c; font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; font-weight: 700; margin-bottom: 10px; display: flex; align-items: center; gap: 6px; }
+  .bull-card ul, .bear-card ul {
+    font-family: 'Segoe UI', Arial, sans-serif; font-size: 12.5px;
+    padding-left: 16px; line-height: 1.5;
+  }
+  .bull-card ul li { margin-bottom: 6px; color: #166534; }
+  .bear-card ul li { margin-bottom: 6px; color: #991b1b; }
+
+  /* ─── BAIT GRID ─── */
+  .bait-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 8px; }
+  .bait-card { border-radius: 8px; padding: 16px; }
+  .bait-b { background: #eff6ff; border: 1px solid #bfdbfe; }
+  .bait-a { background: #fdf4ff; border: 1px solid #e9d5ff; }
+  .bait-i { background: var(--amber-bg); border: 1px solid #fde68a; }
+  .bait-t { background: var(--green-bg); border: 1px solid var(--green-border); }
+  .bait-label {
+    font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; font-weight: 700;
+    letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 6px;
+  }
+  .bait-b .bait-label { color: #1d4ed8; }
+  .bait-a .bait-label { color: #7c3aed; }
+  .bait-i .bait-label { color: #b45309; }
+  .bait-t .bait-label { color: #166534; }
+  .bait-title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; font-weight: 700; margin-bottom: 8px; }
+  .bait-body { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12.5px; line-height: 1.5; }
+
+  /* ─── SCENARIO TABLE ─── */
+  .scenario-table { width: 100%; }
+  .scenario-table td { vertical-align: top; padding: 8px 14px; }
+  .scenario-bull-head { background: #dcfce7; color: #166534; font-weight: 700; font-size: 13px; border-radius: 6px 0 0 0; }
+  .scenario-base-head { background: var(--blue-pale); color: var(--navy-mid); font-weight: 700; font-size: 13px; }
+  .scenario-bear-head { background: #fee2e2; color: #991b1b; font-weight: 700; font-size: 13px; border-radius: 0 6px 0 0; }
+
+  /* ─── VERDICT BOX ─── */
+  .verdict-box {
+    background: linear-gradient(135deg, #14532d 0%, #166534 60%, #15803d 100%);
+    border-radius: 10px; padding: 28px; color: #fff; margin-top: 8px;
+  }
+  .verdict-header {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 11px; font-weight: 700; letter-spacing: 2px;
+    text-transform: uppercase; color: #86efac; margin-bottom: 10px;
+  }
+  .verdict-title {
+    font-size: 22px; font-weight: 700; margin-bottom: 14px; line-height: 1.2;
+  }
+  .verdict-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-top: 16px; }
+  .verdict-stat { background: rgba(255,255,255,0.1); border-radius: 6px; padding: 12px 14px; }
+  .verdict-stat .v-label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; color: #86efac; text-transform: uppercase; letter-spacing: 1px; font-weight: 700; }
+  .verdict-stat .v-value { font-family: 'Segoe UI', Arial, sans-serif; font-size: 17px; font-weight: 700; color: #fff; margin-top: 3px; }
+  .verdict-body { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13.5px; color: #d1fae5; line-height: 1.6; }
+  .verdict-risk { background: rgba(255,255,255,0.08); border-left: 3px solid #fbbf24; padding: 12px 14px; border-radius: 0 6px 6px 0; margin-top: 16px; }
+  .verdict-risk .r-label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; color: #fbbf24; text-transform: uppercase; letter-spacing: 1px; font-weight: 700; margin-bottom: 4px; }
+  .verdict-risk .r-text { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12.5px; color: #fef9c3; line-height: 1.5; }
+
+  /* ─── MISC ─── */
+  .section-body p {
+    font-size: 14px; line-height: 1.7; margin-bottom: 10px;
+    font-family: Georgia, serif;
+  }
+  .pivotal-question {
+    background: linear-gradient(135deg, var(--navy-dark) 0%, var(--navy-mid) 100%);
+    border-radius: 8px; padding: 20px 22px; margin: 16px 0;
+    color: #fff;
+  }
+  .pq-label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; letter-spacing: 2px; text-transform: uppercase; color: #93c5fd; font-weight: 700; margin-bottom: 8px; }
+  .pq-text { font-size: 16px; font-weight: 700; line-height: 1.4; }
+  .pq-sub { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; color: #bfdbfe; margin-top: 8px; }
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+  .tag { display: inline-block; font-family: 'Segoe UI', Arial, sans-serif; font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 4px; margin: 2px; }
+  .tag-blue { background: #dbeafe; color: #1e40af; }
+  .tag-green { background: #dcfce7; color: #166534; }
+  .tag-red { background: #fee2e2; color: #991b1b; }
+  .tag-amber { background: #fef3c7; color: #92400e; }
+  .tag-purple { background: #f3e8ff; color: #6b21a8; }
+  .moat-meter { margin: 10px 0; }
+  .moat-meter-label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; font-weight: 600; margin-bottom: 4px; display: flex; justify-content: space-between; }
+  .moat-bar { background: #e2e8f0; border-radius: 4px; height: 8px; }
+  .moat-fill { background: linear-gradient(90deg, var(--navy-mid), var(--blue-accent)); height: 8px; border-radius: 4px; }
+  @media (max-width: 700px) {
+    .bull-bear-grid, .bait-grid, .two-col, .verdict-grid { grid-template-columns: 1fr; }
+    .stats-bar .stat-pill { flex: 1 1 calc(50% - 10px); }
+    .header-top { flex-direction: column; }
+    .header-right { align-items: flex-start; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<div class="header">
+  <div class="header-top">
+    <div class="header-left">
+      <div class="ticker">AUAN.PVT &nbsp;·&nbsp; PRIVATE COMPANY</div>
+      <div class="company-name">Automation Anywhere</div>
+      <div class="tagline">Agentic Process Automation · Enterprise AI · Founded 2003 · San Jose, CA</div>
+      <div class="moat-badge">🏛 Moat Rating: Moderate — Switching Costs + Partner Ecosystem</div>
+    </div>
+    <div class="header-right">
+      <div class="private-badge">⚠ PRIVATE — No Public Financials</div>
+      <div class="analysis-date">Analysis Date: March 29, 2026</div>
+      <div class="analysis-date">FY ends: January 31 &nbsp;|&nbsp; Coverage: FY2020–FY2026E</div>
+    </div>
+  </div>
+  <div class="stats-bar">
+    <div class="stat-pill">
+      <div class="label">Last Formal Valuation</div>
+      <div class="value">$7.3B</div>
+      <div class="sub">Series B, Nov 2019</div>
+    </div>
+    <div class="stat-pill">
+      <div class="label">Secondary Market Est.</div>
+      <div class="value">$2–5B</div>
+      <div class="sub">Forge / Nasdaq Private Mkt, 2024–25</div>
+    </div>
+    <div class="stat-pill">
+      <div class="label">Total Funding Raised</div>
+      <div class="value">~$840M–$1.1B</div>
+      <div class="sub">5–8 rounds since 2018</div>
+    </div>
+    <div class="stat-pill">
+      <div class="label">Revenue (Est.)</div>
+      <div class="value">$600–800M+</div>
+      <div class="sub">Analyst est.; not disclosed</div>
+    </div>
+    <div class="stat-pill">
+      <div class="label">Employees</div>
+      <div class="value">~3,650</div>
+      <div class="sub">Jan 2026</div>
+    </div>
+    <div class="stat-pill">
+      <div class="label">IPO Status</div>
+      <div class="value">IPO-Ready</div>
+      <div class="sub">Waiting on market conditions</div>
+    </div>
+    <div class="stat-pill">
+      <div class="label">Comp: UiPath (PATH)</div>
+      <div class="value">$1.69B ARR</div>
+      <div class="sub">Public, ~$9B mkt cap</div>
+    </div>
+  </div>
+</div>
+
+<!-- Price Context Bar -->
+<div class="price-verified">
+  ⚠ <strong>PRIVATE COMPANY NOTE:</strong> No public market price exists. Valuation data sourced from: (1) Last primary round — $7.3B at Series B (Nov 2019); (2) Secondary market / Forge indicative data — ~$2–5B range as of late 2024/early 2025; (3) Nasdaq Private Market Tape D™ implied ~$4.29/share (undisclosed share count). All valuation analysis uses these reference points and public comp multiples. Financial metrics are based on company press releases and analyst estimates — <strong>Automation Anywhere does not publicly disclose detailed financial statements.</strong>
+</div>
+
+<div class="container">
+
+<!-- ═══════════════════════ SECTION 1 ═══════════════════════ -->
+<div class="section-card">
+  <div class="section-header">
+    <span class="section-number">01</span>
+    <span class="section-title">Why Does This Company Exist?</span>
+  </div>
+  <div class="section-body">
+    <p>Automation Anywhere was founded in 2003 in San Jose by Mihir Shukla and co-founders on a single insight: enterprises spend billions of dollars on human workers performing perfectly predictable, rules-based digital tasks — logging into systems, copying data between applications, filling forms, updating records. These tasks require zero judgment and maximum consistency. Software robots could perform them faster, cheaper, and without error at any hour.</p>
+    <p>The company pioneered what the industry would later call Robotic Process Automation (RPA) — software that watches a human perform a task, learns the pattern, and then replicates it autonomously across enterprise systems without requiring any API integration or re-coding of underlying platforms. This was a breakthrough precisely because it worked on the <em>surface layer</em> of existing systems — no back-end integration required.</p>
+    <p>Two decades later, the company has evolved its positioning from RPA vendor to what it now calls the <strong>Agentic Process Automation (APA)</strong> platform — a system that orchestrates AI agents, software bots, APIs, and human workers across any cloud or application. The November 2025 acquisition of Aisera — an AI-native ITSM/HR/Customer Service agent platform — marked a significant expansion of this vision, adding conversational AI self-service to the core automation stack.</p>
+
+    <div class="callout-blue">
+      <div class="callout-title">🏢 Core Products & Platform</div>
+      <ul class="analysis-list">
+        <li><strong>Automation 360 (A360):</strong> Cloud-native RPA platform — the rebuilt (2019) flagship that migrated the company from an on-prem legacy product to a modern SaaS architecture.</li>
+        <li><strong>APA System (Agentic Process Automation):</strong> Multi-agent orchestration layer combining RPA bots, AI agents, APIs, and humans into end-to-end process automation.</li>
+        <li><strong>Process Reasoning Engine (PRE):</strong> Launched 2025 — proprietary AI engine trained on 400M+ automation runs that understands enterprise context, dynamically drives work, and orchestrates actions. Positioned as "AGI for work."</li>
+        <li><strong>IQ Bot / Document Automation:</strong> Intelligent Document Processing (IDP) for unstructured content — invoices, contracts, medical records.</li>
+        <li><strong>Automation Co-Pilot:</strong> Natural language interface for business users — integrated with Amazon Q and other enterprise AI systems.</li>
+        <li><strong>Aisera (acquired Nov 2025):</strong> AI-native ITSM, HR, and Customer Service agents — self-service automation for employees and customers.</li>
+        <li><strong>Bot Store + AARI:</strong> Pre-built automation marketplace and attended robot interface for human-in-the-loop workflows.</li>
+      </ul>
+    </div>
+
+    <div class="two-col" style="margin-top:16px;">
+      <div>
+        <div class="table-label">Strategic Vision</div>
+        <p style="font-size:13px; font-family: 'Segoe UI', Arial, sans-serif;">Automation Anywhere's declared destination is the <strong>"Autonomous Enterprise"</strong> — where up to 80% of business work is fully automated or AI-assisted. The company is pivoting from selling software robots (RPA) to selling <em>outcomes</em> — fully automated Accounts Payable, KYC, Revenue Cycle Management, Customer Support. The Aisera acquisition accelerates this by adding employee-facing AI agents to the existing process automation stack.</p>
+      </div>
+      <div>
+        <div class="table-label">Key Industries & Customers</div>
+        <p style="font-size:13px; font-family: 'Segoe UI', Arial, sans-serif;">Financial services, healthcare, technology, manufacturing, retail. Fortune 500 and Global 2000 customers. Partners include AWS (deep integration, Marketplace listing), PwC India, NVIDIA (Nemotron reasoning models), ServiceNow, Salesforce. 1,200+ partner ecosystem across 40+ countries.</p>
+      </div>
+    </div>
+
+    <div class="pivotal-question">
+      <div class="pq-label">⚡ The Pivotal Investment Question</div>
+      <div class="pq-text">Does the Agentic AI pivot genuinely differentiate Automation Anywhere from UiPath — or is it a marketing re-label of traditional RPA that still leaves them as the perennial #2 with a shrinking valuation gap from their 2019 peak?</div>
+      <div class="pq-sub">The market fears: Automation Anywhere will be outmaneuvered by UiPath's broader platform, Microsoft Power Automate's ecosystem bundling, and new AI-native entrants — remaining subscale relative to its last formal valuation. The counter: The PRE, Aisera, and AWS partnership create a differentiated stack that could actually leapfrog UiPath in the agentic era.</div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════ SECTION 2 ═══════════════════════ -->
+<div class="section-card">
+  <div class="section-header">
+    <span class="section-number">02</span>
+    <span class="section-title">Financial Metrics — Private Company Data Disclosure</span>
+  </div>
+  <div class="section-body">
+    <div class="callout-amber">
+      <div class="callout-title">⚠ Data Limitation — Private Company</div>
+      Automation Anywhere explicitly states: <em>"As a private company, Automation Anywhere does not disclose detailed financial information."</em> All revenue/ARR figures below are derived from: (a) company press release KPIs, (b) analyst estimates cited in credible sources, and (c) public comp benchmarking. Where figures are estimated, they are clearly labeled <span class="tag tag-amber">EST</span>.
+    </div>
+
+    <div class="table-label">Revenue & Key Performance Metrics — Fiscal Year (ends Jan 31)</div>
+    <table>
+      <thead>
+        <tr>
+          <th>Metric</th>
+          <th>FY22 (Jan22)</th>
+          <th>FY23 (Jan23)</th>
+          <th>FY24 (Jan24)</th>
+          <th>FY25 (Jan25)</th>
+          <th>FY26E (Jan26E)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Revenue <span class="tag tag-amber">EST</span></td>
+          <td>~$350M</td>
+          <td>~$425M</td>
+          <td>~$520M</td>
+          <td>~$650M</td>
+          <td>~$775–850M</td>
+        </tr>
+        <tr>
+          <td>YoY Revenue Growth</td>
+          <td class="neu">—</td>
+          <td class="pos">~21%</td>
+          <td class="pos">~22%</td>
+          <td class="pos">~25%</td>
+          <td class="pos">~20–30%</td>
+        </tr>
+        <tr>
+          <td>ARR Growth (directional)</td>
+          <td class="neu">—</td>
+          <td class="pos">Strong</td>
+          <td class="pos">DD growth</td>
+          <td class="pos">DD growth</td>
+          <td class="pos">Accelerating</td>
+        </tr>
+        <tr>
+          <td>RPO YoY Growth (disclosed)</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td class="pos">30%+</td>
+          <td class="pos">20%+ (Q2 FY26)</td>
+        </tr>
+        <tr>
+          <td>Non-GAAP Bookings Trend</td>
+          <td>—</td>
+          <td>—</td>
+          <td>GenAI 30% of bookings</td>
+          <td class="pos">Record Q4 bookings</td>
+          <td class="pos">GenAI >60% of wins</td>
+        </tr>
+        <tr>
+          <td>EBITDA (Non-GAAP)</td>
+          <td class="neg">Negative</td>
+          <td class="neg">Negative</td>
+          <td class="neu">Near breakeven</td>
+          <td class="pos">Positive; beat guidance</td>
+          <td class="pos">Beat guidance each Q</td>
+        </tr>
+        <tr>
+          <td>Free Cash Flow</td>
+          <td class="neg">Negative</td>
+          <td class="neg">Negative</td>
+          <td class="neu">Near neutral</td>
+          <td class="pos">Positive; growing</td>
+          <td class="pos">Positive (per mgmt)</td>
+        </tr>
+        <tr>
+          <td>Rule of 40 (est.)</td>
+          <td>—</td>
+          <td>—</td>
+          <td>~25–30</td>
+          <td class="pos">~38–42 (target met)</td>
+          <td class="pos">Target: 40+</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="table-note">All revenue figures are analyst estimates. Automation Anywhere does not publish revenue. Growth rates derived from disclosed KPI trends and industry benchmarks. DD = double-digit.</p>
+
+    <div class="table-label">Capital Structure & Funding History (Confirmed)</div>
+    <table>
+      <thead>
+        <tr>
+          <th>Round</th>
+          <th>Date</th>
+          <th>Amount</th>
+          <th>Post-Money Valuation</th>
+          <th>Lead / Key Investors</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Series A</td>
+          <td>Jul 2018</td>
+          <td class="pos">$250M</td>
+          <td>~$1.8B</td>
+          <td>SoftBank Vision Fund, NEA, Goldman Sachs</td>
+        </tr>
+        <tr>
+          <td>Series B</td>
+          <td>Nov 2019</td>
+          <td class="pos">$290M</td>
+          <td class="pos"><strong>$7.3B (peak)</strong></td>
+          <td>SoftBank, Salesforce Ventures, General Atlantic, Goldman Sachs</td>
+        </tr>
+        <tr>
+          <td>Conventional Debt</td>
+          <td>Oct 2022</td>
+          <td class="neu">$200M</td>
+          <td class="neu">Undisclosed (debt, not equity)</td>
+          <td>Hercules Capital, SVB</td>
+        </tr>
+        <tr>
+          <td><strong>Total Raised</strong></td>
+          <td></td>
+          <td><strong>~$840M–$1.1B</strong></td>
+          <td><strong>$7.3B (last equity round)</strong></td>
+          <td>72 total investors per PitchBook</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="callout-amber" style="margin-top:12px;">
+      <div class="callout-title">💡 Valuation Context: 2022 Down-Round Risk</div>
+      The Oct 2022 debt round (rather than equity) strongly suggests the company avoided marking down its $7.3B equity valuation during the 2022 SaaS market reset. Secondary market data (Forge, Nasdaq Private Market) implies the true mark-to-market valuation declined to ~$2–5B range in 2023–2025 — consistent with the ~60–70% peak-to-trough re-rating that peer public SaaS companies experienced. The IPO path requires either (a) growing into the $7.3B valuation at improved market multiples, or (b) accepting a lower IPO price vs. the 2019 peak.
+    </div>
+
+    <div class="table-label">Public Comp Reference: UiPath (PATH) — Key Metrics for Context</div>
+    <table>
+      <thead>
+        <tr>
+          <th>Metric</th>
+          <th>PATH FY23</th>
+          <th>PATH FY24</th>
+          <th>PATH FY25</th>
+          <th>PATH FY26E</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Revenue</td>
+          <td>$1.06B</td>
+          <td>$1.31B</td>
+          <td>~$1.43B</td>
+          <td>~$1.55B</td>
+        </tr>
+        <tr>
+          <td>ARR</td>
+          <td>$1.10B</td>
+          <td>$1.46B</td>
+          <td>~$1.61B</td>
+          <td>~$1.75B</td>
+        </tr>
+        <tr>
+          <td>Dollar NRR</td>
+          <td>119%</td>
+          <td>118%</td>
+          <td>~115%</td>
+          <td>~115–118%</td>
+        </tr>
+        <tr>
+          <td>Gross Margin</td>
+          <td>84%</td>
+          <td>83%</td>
+          <td>~83%</td>
+          <td>~83%</td>
+        </tr>
+        <tr>
+          <td>Market Cap (approx)</td>
+          <td>—</td>
+          <td>~$12B</td>
+          <td>~$9B</td>
+          <td>~$9B</td>
+        </tr>
+        <tr>
+          <td>EV/Revenue Multiple</td>
+          <td>—</td>
+          <td>~9x</td>
+          <td>~6x</td>
+          <td>~6x</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="table-note">UiPath data from public SEC filings. Used as primary comparable for Automation Anywhere private valuation benchmarking only.</p>
+  </div>
+</div>
+
+<!-- ═══════════════════════ SECTION 3 ═══════════════════════ -->
+<div class="section-card">
+  <div class="section-header">
+    <span class="section-number">03</span>
+    <span class="section-title">Business Segments & Revenue Architecture</span>
+  </div>
+  <div class="section-body">
+    <div class="two-col">
+      <div>
+        <div class="table-label">Revenue Breakdown (Estimated)</div>
+        <table>
+          <thead><tr><th>Segment</th><th>~% of Revenue</th><th>Trend</th></tr></thead>
+          <tbody>
+            <tr><td>SaaS Subscriptions (A360)</td><td>~70–75%</td><td class="pos">Growing</td></tr>
+            <tr><td>Legacy On-Prem Licenses</td><td>~15–20%</td><td class="neg">Declining</td></tr>
+            <tr><td>Professional Services</td><td>~5–8%</td><td class="neu">Stable</td></tr>
+            <tr><td>Aisera (post-Nov 2025)</td><td>Incremental</td><td class="pos">New</td></tr>
+          </tbody>
+        </table>
+        <p class="table-note">Estimates based on Sacra analysis (5% services) and enterprise SaaS benchmarks. Not disclosed by company.</p>
+      </div>
+      <div>
+        <div class="table-label">Geography (Estimated)</div>
+        <table>
+          <thead><tr><th>Region</th><th>~% Revenue</th></tr></thead>
+          <tbody>
+            <tr><td>North America</td><td>~50–55%</td></tr>
+            <tr><td>EMEA</td><td>~25–30%</td></tr>
+            <tr><td>APAC / India</td><td>~15–20%</td></tr>
+            <tr><td>Other</td><td>~5%</td></tr>
+          </tbody>
+        </table>
+        <p class="table-note">India is particularly strategic — BFSI and GCC (Global Capability Centers) are high-growth geographies for RPA/APA adoption.</p>
+      </div>
+    </div>
+    <div class="callout-blue" style="margin-top:14px;">
+      <div class="callout-title">🔄 Revenue Model Mechanics</div>
+      <ul class="analysis-list">
+        <li><strong>Land-and-expand:</strong> Automation Anywhere enters with a departmental automation use case (e.g., AP invoice processing), then expands to additional processes and departments — proven model with 2017 reported expansion rate of 282% and 99.5% renewal rate (legacy data; representative of customer economics).</li>
+        <li><strong>Consumption shift:</strong> Moving toward AI agent execution-based pricing (work done, not seats), positioning against traditional seat-based ITSM products. Cited in Aisera acquisition: AI agents could reduce ITSM seat requirements by up to 40%.</li>
+        <li><strong>APA attach rate:</strong> 51% of installed base now using APA (Q1 FY26) — indicates successful upsell motion from legacy RPA to the newer platform.</li>
+        <li><strong>Gross margin:</strong> Sacra estimates ~80% gross margin — consistent with enterprise SaaS norms. Professional services dilutes this slightly.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════ SECTION 4 ═══════════════════════ -->
+<div class="section-card">
+  <div class="section-header">
+    <span class="section-number">04</span>
+    <span class="section-title">Moat Analysis</span>
+  </div>
+  <div class="section-body">
+    <div class="callout-amber">
+      <div class="callout-title">🏛 Overall Moat Rating: MODERATE — Switching Costs Dominant, Network Effects Emerging</div>
+      Automation Anywhere possesses real but contested switching costs. Enterprise deployments of RPA/APA create deep integration into workflow processes, build automation portfolios spanning hundreds of bots, train internal CoEs (Centers of Excellence), and certify staff on the platform — all of which make ripping-and-replacing enormously costly. However, the moat is not as wide as top-tier enterprise platforms because: (a) the underlying technology (AI + RPA) is increasingly commoditized, (b) Microsoft Power Automate offers free/bundled access to M365 customers, and (c) new AI-native entrants (n8n, etc.) threaten the low-complexity end of the market.
+    </div>
+    <div style="margin-top: 16px;">
+      <div class="moat-meter">
+        <div class="moat-meter-label"><span>Switching Costs</span><span>Strong</span></div>
+        <div class="moat-bar"><div class="moat-fill" style="width:75%"></div></div>
+      </div>
+      <div class="moat-meter">
+        <div class="moat-meter-label"><span>Network Effects</span><span>Moderate</span></div>
+        <div class="moat-bar"><div class="moat-fill" style="width:45%"></div></div>
+      </div>
+      <div class="moat-meter">
+        <div class="moat-meter-label"><span>Scale / Cost Advantage</span><span>Moderate</span></div>
+        <div class="moat-bar"><div class="moat-fill" style="width:50%"></div></div>
+      </div>
+      <div class="moat-meter">
+        <div class="moat-meter-label"><span>Intangibles (Brand / Data)</span><span>Moderate-Strong</span></div>
+        <div class="moat-bar"><div class="moat-fill" style="width:60%"></div></div>
+      </div>
+      <div class="moat-meter">
+        <div class="moat-meter-label"><span>Efficient Scale</span><span>Limited</span></div>
+        <div class="moat-bar"><div class="moat-fill" style="width:30%"></div></div>
+      </div>
+    </div>
+    <div class="table-label" style="margin-top:16px;">Moat Sources — Detail</div>
+    <table>
+      <thead><tr><th>Source</th><th>Strength</th><th>Durability</th><th>Key Risk</th></tr></thead>
+      <tbody>
+        <tr><td>Automation portfolios / CoE inertia</td><td class="pos">High</td><td class="pos">Durable</td><td>New AI-native builds bypass RPA entirely</td></tr>
+        <tr><td>PRE (400M automation data flywheel)</td><td class="pos">High</td><td class="pos">Growing</td><td>UiPath building similar data moats</td></tr>
+        <tr><td>Partner ecosystem (1,200+, AWS, NVIDIA)</td><td class="pos">Strong</td><td class="neu">Moderate</td><td>Partners can be wooed by UiPath</td></tr>
+        <tr><td>Gartner Magic Quadrant Leader (7 years)</td><td class="pos">Strong</td><td class="pos">Durable</td><td>Co-leader with UiPath; not sole leader</td></tr>
+        <tr><td>Cloud-native architecture (A360)</td><td class="neu">Moderate</td><td class="neu">Moderate</td><td>UiPath is also cloud-native; not differentiating</td></tr>
+        <tr><td>Aisera ITSM/HR data moat</td><td class="neu">Emerging</td><td class="pos">High potential</td><td>ServiceNow, Salesforce own the incumbent ITSM layer</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ═══════════════════════ SECTION 5 ═══════════════════════ -->
+<div class="section-card">
+  <div class="section-header">
+    <span class="section-number">05</span>
+    <span class="section-title">Recent Business Momentum (FY25 & FY26 YTD)</span>
+  </div>
+  <div class="section-body">
+    <div class="table-label">Quarterly Momentum Indicators — What the Company HAS Disclosed</div>
+    <table>
+      <thead>
+        <tr>
+          <th>Period</th>
+          <th>Bookings</th>
+          <th>ARR/Revenue</th>
+          <th>EBITDA</th>
+          <th>FCF</th>
+          <th>Key Signal</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Q4 FY25 (Oct–Jan 25)</td>
+          <td class="pos">Record quarter — largest in history</td>
+          <td class="pos">Strong</td>
+          <td class="pos">Exceeded guidance</td>
+          <td class="pos">Growing cash balance</td>
+          <td>RPO +30% YoY</td>
+        </tr>
+        <tr>
+          <td>Q1 FY26 (Feb–Apr 25)</td>
+          <td class="pos">DD growth; new + upsell</td>
+          <td class="pos">High end of expectations</td>
+          <td class="pos">Beat guidance</td>
+          <td class="pos">Positive</td>
+          <td>51% APA attach rate in base</td>
+        </tr>
+        <tr>
+          <td>Q2 FY26 (May–Jul 25)</td>
+          <td class="pos">Strong large enterprise wins</td>
+          <td class="pos">Top end of range</td>
+          <td class="pos">Beat guidance</td>
+          <td class="pos">Beat guidance</td>
+          <td>GenAI >60% of wins; 1.8M agent runs</td>
+        </tr>
+        <tr>
+          <td>H2 FY26 (Aug–Jan 26)</td>
+          <td class="neu">Post-Aisera integration</td>
+          <td class="neu">In progress</td>
+          <td class="neu">Aisera integration costs</td>
+          <td class="neu">To be seen</td>
+          <td>First full APA+Aisera quarter</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="callout-green" style="margin-top:12px;">
+      <div class="callout-title">📈 Key Positive Signals</div>
+      <ul class="analysis-list">
+        <li>Consecutive quarters of beating EBITDA guidance signals genuine cost discipline, not just revenue management</li>
+        <li>RPO (Remaining Performance Obligations) growing 20–30% YoY — strongest forward indicator of revenue visibility for a private company</li>
+        <li>51% APA attach rate in the installed base within the first few quarters of launch — unusually high for a new product tier</li>
+        <li>GenAI >60% of bookings in Q2 FY26 — company is successfully converting its installed RPA base to the AI-enhanced product tier (pricing uplift)</li>
+        <li>1.8M AI agent executions — nascent but meaningful proof of production adoption beyond pilot</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════ SECTION 6 ═══════════════════════ -->
+<div class="section-card">
+  <div class="section-header">
+    <span class="section-number">06</span>
+    <span class="section-title">Management Assessment</span>
+  </div>
+  <div class="section-body">
+    <div class="two-col">
+      <div>
+        <div class="table-label">Leadership Team</div>
+        <table>
+          <thead><tr><th>Name</th><th>Role</th><th>Tenure</th></tr></thead>
+          <tbody>
+            <tr><td>Mihir Shukla</td><td>CEO &amp; Co-founder</td><td>Since founding (2003)</td></tr>
+            <tr><td>Ankur Kothari</td><td>COO &amp; Co-founder</td><td>Since founding</td></tr>
+            <tr><td>Abhi Maheshwari</td><td>Former CEO Aisera (now integration lead)</td><td>Post-acquisition</td></tr>
+            <tr><td>Jeff Immelt</td><td>Board Member (new)</td><td>Appointed 2025</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div>
+        <div class="table-label">Guidance Track Record</div>
+        <table>
+          <thead><tr><th>Period</th><th>EBITDA</th><th>Revenue/ARR</th></tr></thead>
+          <tbody>
+            <tr><td>Q4 FY25</td><td class="pos">Beat</td><td class="pos">Beat</td></tr>
+            <tr><td>Q1 FY26</td><td class="pos">Beat</td><td class="pos">High end</td></tr>
+            <tr><td>Q2 FY26</td><td class="pos">Beat</td><td class="pos">Top end</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div class="callout-blue" style="margin-top:12px;">
+      <div class="callout-title">📋 Management Credibility Assessment</div>
+      <ul class="analysis-list">
+        <li><strong>Consistency:</strong> Three consecutive quarters of beating own EBITDA guidance is a credible signal of improved financial discipline — particularly impressive for a founder-led private company historically focused on growth over profitability.</li>
+        <li><strong>Transparency gap:</strong> The decision not to disclose ARR or revenue figures remains a significant red flag for prospective investors. While legally allowed as a private company, it creates information asymmetry that disadvantages all but the most connected institutional investors.</li>
+        <li><strong>"Rule of 40" framing:</strong> Management has explicitly targeted Rule of 40. Achieving this would put Automation Anywhere in the same category as best-in-class enterprise SaaS at IPO — a deliberate pre-IPO positioning signal.</li>
+        <li><strong>Board upgrade:</strong> Jeff Immelt (ex-GE Chairman/CEO) joining the board adds operational credibility for large-enterprise transformation narratives but is not a technology signal.</li>
+        <li><strong>IPO readiness messaging:</strong> "IPO-ready, waiting for market conditions" language is consistent across multiple CEO statements in 2024–2025. This is a well-orchestrated positioning, not an imminent filing.</li>
+        <li><strong>Aisera acquisition risk:</strong> BofA (for AUAN) and JPMorgan (for Aisera) both advising on the deal suggests a material transaction. Integration execution will be the primary management test in FY26–27.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════ SECTION 7 ═══════════════════════ -->
+<div class="section-card">
+  <div class="section-header">
+    <span class="section-number">07</span>
+    <span class="section-title">Product Strategy & AI Pivot</span>
+  </div>
+  <div class="section-body">
+    <p>The most critical strategic question for Automation Anywhere is whether its transition from <strong>RPA vendor → Agentic Process Automation platform</strong> is a genuine technology evolution or a positioning reframe on top of largely unchanged product architecture. The evidence suggests it is substantively real — the PRE, Aisera acquisition, and AWS Marketplace listing are not cosmetic changes.</p>
+
+    <div class="table-label">Product Evolution Timeline</div>
+    <table>
+      <thead><tr><th>Year</th><th>Milestone</th><th>Strategic Significance</th></tr></thead>
+      <tbody>
+        <tr><td>2003</td><td>Founded — desktop RPA</td><td>First-mover in enterprise task automation</td></tr>
+        <tr><td>2018</td><td>IQ Bot (cognitive AI)</td><td>First unstructured data handling</td></tr>
+        <tr><td>2019</td><td>Automation 360 — cloud-native rebuild</td><td class="pos">Critical: migrated entire product to SaaS; competitor Blue Prism failed this transition</td></tr>
+        <tr><td>2022</td><td>Generative AI integration begins</td><td>Early mover on LLM-augmented automation</td></tr>
+        <tr><td>2024</td><td>APA System launch; AI Agent Studio</td><td class="pos">Pivot from robot execution to agent orchestration</td></tr>
+        <tr><td>2025 (Jun)</td><td>Process Reasoning Engine (PRE)</td><td class="pos">Proprietary AI engine trained on 400M+ automation runs — genuine differentiation</td></tr>
+        <tr><td>2025 (Aug)</td><td>NVIDIA Nemotron integration</td><td>Access to cutting-edge reasoning models</td></tr>
+        <tr><td>2025 (Nov)</td><td>Aisera acquisition</td><td class="pos">ITSM/HR/CS AI agents — expands TAM from back-office to employee/customer experience</td></tr>
+        <tr><td>2026</td><td>AWS Marketplace AI Agents listing</td><td>Reduces enterprise procurement friction; distribution leverage</td></tr>
+      </tbody>
+    </table>
+
+    <div class="callout-green" style="margin-top:12px;">
+      <div class="callout-title">🔑 The PRE Differentiation Thesis</div>
+      The Process Reasoning Engine — trained on 400+ million enterprise automation executions — is Automation Anywhere's most defensible asset. Unlike general-purpose LLMs, it understands enterprise workflow context, failure modes, and process dependencies learned from real production deployments at scale. If this data flywheel can compound (more automations → better PRE → more capable agents → more automations), it creates a proprietary data moat that pure AI companies cannot replicate without the same enterprise automation footprint.
+    </div>
+
+    <div class="callout-amber" style="margin-top:8px;">
+      <div class="callout-title">⚠ Platform vs Point Solution Risk</div>
+      The core competitive threat is platform bundling by Microsoft (Power Automate + Copilot, included in M365) and ServiceNow (which itself has native process automation). As enterprise AI platforms consolidate, standalone RPA/APA vendors risk being relegated to point solutions rather than the system of record for automation. Automation Anywhere's response (broader platform via Aisera, deeper AWS partnership) is directionally correct but execution risk is high.
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════ SECTION 8 ═══════════════════════ -->
+<div class="section-card">
+  <div class="section-header">
+    <span class="section-number">08</span>
+    <span class="section-title">Competitive Landscape</span>
+  </div>
+  <div class="section-body">
+    <div class="table-label">Competitive Positioning Matrix</div>
+    <table>
+      <thead>
+        <tr>
+          <th>Competitor</th>
+          <th>ARR / Revenue</th>
+          <th>Valuation / Mkt Cap</th>
+          <th>Relative Strength</th>
+          <th>Key Threat to AUAN</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>UiPath (PATH)</strong> — Primary Comp</td>
+          <td>$1.69B ARR (Q1 FY26)</td>
+          <td>~$9B mkt cap</td>
+          <td class="pos">Broader platform, larger community, stronger process mining</td>
+          <td>Scale, mindshare, 35%+ market share</td>
+        </tr>
+        <tr>
+          <td><strong>Microsoft Power Automate</strong></td>
+          <td>Bundled in M365 (~$270B rev)</td>
+          <td>~$3T mkt cap (MSFT)</td>
+          <td class="neg">Near-zero marginal cost for M365 customers; Copilot integration</td>
+          <td>Displaces low-complexity RPA use cases</td>
+        </tr>
+        <tr>
+          <td><strong>ServiceNow</strong></td>
+          <td>$10B+ ARR</td>
+          <td>~$200B mkt cap</td>
+          <td class="neg">Owns ITSM layer — Aisera attacks their turf</td>
+          <td>Counter-acquires or builds AI agents natively</td>
+        </tr>
+        <tr>
+          <td><strong>Blue Prism (SS&C)</strong></td>
+          <td>~$200M est.</td>
+          <td>Acquired $1.5B (2022)</td>
+          <td class="neu">Declining — lost cloud transition</td>
+          <td>Low; can still win regulated/on-prem niches</td>
+        </tr>
+        <tr>
+          <td><strong>SAP / Salesforce</strong></td>
+          <td>Bundled in platform</td>
+          <td>Mega-cap</td>
+          <td class="neg">Native integration advantage in their ecosystems</td>
+          <td>Lock-in via ERP/CRM bundling</td>
+        </tr>
+        <tr>
+          <td><strong>n8n / workflow AI natives</strong></td>
+          <td>~$180M raised (Oct 2025)</td>
+          <td>~$1–2B est.</td>
+          <td class="neu">Low-code, open-source; growing fast</td>
+          <td>Threatens mid-market and developer-led adoption</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="callout-blue" style="margin-top:12px;">
+      <div class="callout-title">🎯 Where Automation Anywhere Wins vs. Loses</div>
+      <div class="two-col">
+        <div>
+          <strong style="color: var(--green);">Wins:</strong>
+          <ul class="analysis-list">
+            <li>Large-enterprise complex process automation (F500 accounts)</li>
+            <li>Cloud-first deployments where A360 architecture is preferred</li>
+            <li>Accounts where AWS is the primary cloud (deep Marketplace/Q integration)</li>
+            <li>BFSI, healthcare, manufacturing verticals with regulatory complexity</li>
+            <li>Customers wanting pre-built Agentic Solutions (AP, KYC, RCM)</li>
+          </ul>
+        </div>
+        <div>
+          <strong style="color: var(--red);">Loses:</strong>
+          <ul class="analysis-list">
+            <li>Microsoft-centric shops (Power Automate + Copilot bundle is compelling)</li>
+            <li>Markets where UiPath's larger community/Academy create stickier developer preference</li>
+            <li>SMB and mid-market (pricing and complexity favor simpler tools)</li>
+            <li>Deals requiring deep on-premises / hybrid (UiPath's stronger here)</li>
+            <li>Pure-play AI agent use cases where specialized vendors offer better LLM flexibility</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════ SECTION 9 ═══════════════════════ -->
+<div class="section-card">
+  <div class="section-header">
+    <span class="section-number">09</span>
+    <span class="section-title">TAM & Market Dynamics</span>
+  </div>
+  <div class="section-body">
+    <div class="table-label">Market Size Estimates</div>
+    <table>
+      <thead><tr><th>Market</th><th>2024 Size</th><th>2030E Size</th><th>CAGR</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td>RPA Software Market</td><td>$3.6B</td><td class="pos">$30.85B</td><td class="pos">44%</td><td>Grand View Research</td></tr>
+        <tr><td>RPA + Hyperautomation</td><td>~$15B</td><td class="pos">~$211B</td><td class="pos">25%</td><td>Various analyst estimates</td></tr>
+        <tr><td>ITSM / Service Mgmt AI</td><td>~$12B</td><td class="pos">~$35B+</td><td class="pos">~20%</td><td>Aisera addressable mkt</td></tr>
+        <tr><td>Agentic AI Enterprise (emerging)</td><td>~$1B</td><td class="pos">$30–50B+</td><td class="pos">70%+</td><td>Multiple forecasts</td></tr>
+      </tbody>
+    </table>
+    <div class="callout-blue" style="margin-top:12px;">
+      <div class="callout-title">📊 Key Market Dynamics</div>
+      <ul class="analysis-list">
+        <li><strong>AI is expanding TAM, not replacing it:</strong> Contrary to the LLM-displacement fear (that GPT-4 would replace RPA bots), AI is proving to <em>expand</em> the automation opportunity — the shift to agentic AI requires more, not fewer, orchestration layers. This is the bull case for Automation Anywhere's pivot.</li>
+        <li><strong>Enterprise adoption acceleration:</strong> Over 78% of businesses using RPA; Gartner projects 90%+ of RPA vendors will offer GenAI-assisted automation by 2025 — market is still in early innings of AI augmentation.</li>
+        <li><strong>Gartner Magic Quadrant: Leader for 7 consecutive years</strong> — alongside UiPath. Brand recognition in the enterprise procurement process is substantial and not easily dislodged.</li>
+        <li><strong>Agentic AI risk:</strong> Gartner predicts 40%+ of agentic AI projects will be canceled by 2027 due to unclear ROI. Near-term execution noise is high even if the long-term TAM is real.</li>
+        <li><strong>India tailwind:</strong> Strong demand from Indian BFSI sector and Global Capability Centers (GCCs) — Automation Anywhere is particularly well-positioned given its San Jose/India R&D footprint.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════ SECTION 10 ═══════════════════════ -->
+<div class="section-card">
+  <div class="section-header">
+    <span class="section-number">10</span>
+    <span class="section-title">Macro & Exogenous Risk Factors</span>
+  </div>
+  <div class="section-body">
+    <table>
+      <thead><tr><th>Factor</th><th>Direction</th><th>Impact on AUAN</th></tr></thead>
+      <tbody>
+        <tr><td>Enterprise IT budget environment (2026)</td><td class="neu">Cautious but AI-prioritized</td><td>Mixed — AI automation budgets growing; overall IT freeze hurts land-and-expand</td></tr>
+        <tr><td>LLM commoditization (OpenAI, Google, Anthropic)</td><td class="neg">Accelerating</td><td>Reduces moat if PRE can be replicated by general AI; expands if it proves enterprise-specific advantage</td></tr>
+        <tr><td>Interest rates / IPO market</td><td class="neu">Improving but volatile</td><td>Directly affects exit valuation and timing</td></tr>
+        <tr><td>SaaS multiple compression</td><td class="neg">Sustained since 2022</td><td>$7.3B peak valuation likely unachievable at current public multiples; IPO at discount to 2019 price</td></tr>
+        <tr><td>Labor market / wage inflation</td><td class="pos">Persistent pressure</td><td>Tailwind — drives enterprise demand for automation to reduce headcount costs</td></tr>
+        <tr><td>AI regulation (EU AI Act, GDPR)</td><td class="neg">Increasing compliance burden</td><td>AUAN already emphasizes compliance/governance — net neutral to slight positive vs. pure AI entrants</td></tr>
+        <tr><td>Agentic AI skepticism / project cancellations</td><td class="neg">Real near-term risk</td><td>Gartner 40% cancellation forecast could slow enterprise conversion to APA tier</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ═══════════════════════ SECTION 11 ═══════════════════════ -->
+<div class="section-card">
+  <div class="section-header">
+    <span class="section-number">11</span>
+    <span class="section-title">Valuation Framework — Private Market Context</span>
+  </div>
+  <div class="section-body">
+    <div class="callout-amber">
+      <div class="callout-title">⚠ Valuation Methodology — Private Company Adaptations</div>
+      No public market price exists. Valuation approach: (1) Revenue/ARR multiple benchmarking vs. UiPath (PATH) as primary public comp; (2) Secondary market data from Forge/Nasdaq Private Market; (3) DCF-implied range; (4) IPO scenario modeling. All figures are analytical estimates, not fair value opinions.
+    </div>
+
+    <div class="table-label">EV / Revenue Multiple Benchmarking vs. UiPath</div>
+    <table>
+      <thead><tr><th>Scenario</th><th>AUAN Revenue Est.</th><th>Applied Multiple</th><th>Implied Valuation</th><th>Rationale</th></tr></thead>
+      <tbody>
+        <tr>
+          <td class="neg">Bear — Private Discount</td>
+          <td>$650M (FY25)</td>
+          <td>4x (steep private + execution discount)</td>
+          <td class="neg">$2.6B</td>
+          <td>Consistent with 2024 secondary market data; reflects valuation reset from 2019 peak</td>
+        </tr>
+        <tr>
+          <td class="neu">Base — Current State</td>
+          <td>$750M (mid FY26E)</td>
+          <td>5.5x (in-line with PATH current)</td>
+          <td class="neu">$4.1B</td>
+          <td>PATH trades at ~6x; ~15% private discount applied for illiquidity</td>
+        </tr>
+        <tr>
+          <td class="pos">Bull — IPO Re-rating</td>
+          <td>$850M (FY26E)</td>
+          <td>8x (IPO premium + agentic AI re-rating)</td>
+          <td class="pos">$6.8B</td>
+          <td>Achieves 2019 peak valuation; requires successful IPO + Rule of 40 demonstration</td>
+        </tr>
+        <tr>
+          <td class="pos">Super-Bull — Agentic Premium</td>
+          <td>$1B+ (FY27E)</td>
+          <td>10–12x</td>
+          <td class="pos">$10–12B</td>
+          <td>If PRE + Aisera creates genuine agentic AI category leadership; requires public market AI premium</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="table-label" style="margin-top:16px;">UiPath Peer Comp at Current Market (as of Mar 2026)</div>
+    <table>
+      <thead><tr><th>Metric</th><th>UiPath (PATH)</th><th>AUAN Implied (Base)</th><th>Premium / Discount</th></tr></thead>
+      <tbody>
+        <tr><td>ARR</td><td>~$1.69B</td><td>~$700–750M (est.)</td><td class="neg">~55% smaller</td></tr>
+        <tr><td>Revenue Growth</td><td>~8–10% YoY</td><td>~20–25% YoY (est.)</td><td class="pos">AUAN growing faster</td></tr>
+        <tr><td>EBITDA Margin</td><td>~20–22%</td><td>Approaching Rule of 40</td><td class="neu">Comparable trajectory</td></tr>
+        <tr><td>EV/Revenue Multiple</td><td>~6x</td><td>~5–5.5x (base case)</td><td class="neu">~15% private illiquidity discount</td></tr>
+        <tr><td>Valuation</td><td>~$9B</td><td>~$4B (base) / $7B (IPO bull)</td><td class="neg">~45–55% smaller; aligned with revenue gap</td></tr>
+      </tbody>
+    </table>
+    <p class="table-note">Growth rate advantage is AUAN's key differentiator vs. UiPath. If AUAN is growing at 2–3x the pace of UiPath, a discount to PATH's multiple is not warranted — this is the core IPO argument management will make.</p>
+  </div>
+</div>
+
+<!-- ═══════════════════════ SECTION 12 ═══════════════════════ -->
+<div class="section-card">
+  <div class="section-header">
+    <span class="section-number">12</span>
+    <span class="section-title">Bull vs. Bear Case</span>
+  </div>
+  <div class="section-body">
+    <div class="bull-bear-grid">
+      <div class="bull-card">
+        <div class="card-header-bull">🐂 Bull Case — "Agentic AI Leapfrog"</div>
+        <ul>
+          <li>PRE (400M automation data flywheel) creates a proprietary enterprise AI moat that pure LLM vendors cannot replicate — data compounds with every new customer deployment</li>
+          <li>GenAI >60% of Q2 FY26 bookings signals successful installed-base conversion to higher-ASP APA tier — net revenue retention could expand beyond 115%</li>
+          <li>Aisera acquisition creates the only platform offering RPA + Agentic process automation + ITSM self-service AI — comprehensive suite that can displace multiple point solutions</li>
+          <li>AWS Marketplace listing + deep Amazon Q integration gives preferential distribution to the largest cloud ecosystem — acts as an OEM channel</li>
+          <li>Rule of 40 achievement at IPO positions AUAN at premium SaaS multiples — vs. current private market discount</li>
+          <li>Faster growth rate than UiPath warrants valuation convergence at $7B+ at IPO</li>
+          <li>NVIDIA Nemotron integration adds cutting-edge reasoning capabilities without building foundational models in-house</li>
+        </ul>
+      </div>
+      <div class="bear-card">
+        <div class="card-header-bear">🐻 Bear Case — "Subscale #2 Trapped by Peak Valuation"</div>
+        <ul>
+          <li>$7.3B 2019 peak valuation was set during peak SaaS multiple environment; at 6x revenue, needs $1.2B+ in revenue to justify that price — likely 2–3 years away at current pace</li>
+          <li>Microsoft Power Automate's near-zero marginal cost for M365 customers is an existential threat to the mid-market and small enterprise segment — slow but steady displacement</li>
+          <li>UiPath's larger developer community (UiPath Academy), bigger marketplace (2,000+ components), and broader process mining capabilities represent a platform breadth gap that is hard to close</li>
+          <li>Aisera integration risk: ITSM is ServiceNow's core turf — selling against a $200B platform requires enterprise sales motions that Automation Anywhere may not be optimized for</li>
+          <li>Agentic AI project cancellations (Gartner: 40%+ by 2027) could slow Q3/Q4 FY26 and FY27 bookings just as the company needs to demonstrate IPO-readiness</li>
+          <li>Lack of financial transparency is a structural disadvantage at IPO — investors will demand clarity, and the first quarterly report will face heavy scrutiny</li>
+          <li>October 2022 debt round (not equity) implies the board itself was unwilling to mark equity at a lower valuation — overhang creates complexity for IPO pricing</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════ SECTION 13 ═══════════════════════ -->
+<div class="section-card">
+  <div class="section-header">
+    <span class="section-number">13</span>
+    <span class="section-title">BAIT Framework Analysis</span>
+  </div>
+  <div class="section-body">
+    <div class="bait-grid">
+      <div class="bait-card bait-b">
+        <div class="bait-label">B — Behavioral</div>
+        <div class="bait-title">The #2 Discount & IPO Timing Bias</div>
+        <div class="bait-body">
+          The market systematically discounts #2 enterprise software vendors — a cognitive shortcut that often over-punishes solid businesses. Automation Anywhere is likely being marked down in secondary markets more than its fundamentals warrant, partly because of the 2019 peak valuation anchor ($7.3B feels hard to justify, creating loss aversion). At IPO, fresh-start pricing without the anchor could actually re-rate upward. Meanwhile, investors who bought at $7.3B are reluctant to sell at a loss, creating supply constraints in secondary markets.
+        </div>
+      </div>
+      <div class="bait-card bait-a">
+        <div class="bait-label">A — Analytical</div>
+        <div class="bait-title">The Growth/Profitability Inflection</div>
+        <div class="bait-body">
+          The key analytical insight is the Rule of 40 trajectory. A company at ~$700M ARR growing 20–25% YoY with positive EBITDA and FCF is a genuinely attractive IPO candidate at ~5–6x revenue (~$3.5–4.2B). The analytical edge is recognizing that: (1) faster growth than UiPath warrants a smaller valuation discount than market implies; (2) consecutive EBITDA beats signal a real operating leverage inflection, not a one-quarter artifact; (3) RPO +30% YoY is the most reliable financial indicator available for a company that doesn't publish revenue — it represents contracted future revenue already on the books.
+        </div>
+      </div>
+      <div class="bait-card bait-i">
+        <div class="bait-label">I — Informational</div>
+        <div class="bait-title">Private Financials as Information Moat</div>
+        <div class="bait-body">
+          Automation Anywhere's information opacity creates an unusual dynamic: institutional investors with access to management (via relationship or conference channel) have significantly better information than retail or secondary market participants. This is one of the few legitimate informational edges in pre-IPO investing. The key information to seek is: (a) actual ARR/NRR figures, (b) Aisera integration ARR contribution, (c) churn rates in the legacy on-prem base, and (d) customer acquisition costs vs. LTV. None of this is publicly available — creating a wide information dispersion between insiders and everyone else.
+        </div>
+      </div>
+      <div class="bait-card bait-t">
+        <div class="bait-label">T — Technical</div>
+        <div class="bait-title">IPO Window & Secondary Market Liquidity</div>
+        <div class="bait-body">
+          Secondary market shares are accessible only to accredited investors at ~$3.75–4.29/share (Nasdaq Private Market Tape D™ est., early 2026). The technical set-up for a pre-IPO position is: (1) buy in secondary market at implied ~$2–5B valuation; (2) target IPO re-rating to $5–7B at prevailing SaaS multiples. The technical risk is illiquidity — no guaranteed exit timeline, lock-up periods post-IPO, and potential for a 6–18 month further delay if markets deteriorate. The IPO pipeline for enterprise SaaS in 2026 is competitive; Automation Anywhere needs to avoid being compared unfavorably to ServiceNow or Workday at their respective IPOs.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════ SECTION 14 ═══════════════════════ -->
+<div class="section-card">
+  <div class="section-header">
+    <span class="section-number">14</span>
+    <span class="section-title">Scenario Analysis — IPO Valuation Targets</span>
+  </div>
+  <div class="section-body">
+    <table class="scenario-table">
+      <thead>
+        <tr>
+          <th style="background:#dcfce7; color:#166534; font-weight:700; padding:10px 14px; border-radius:6px 0 0 0; text-align:center;">🐂 Bull (25% probability)</th>
+          <th style="background:var(--blue-pale); color:var(--navy-mid); font-weight:700; padding:10px 14px; text-align:center;">📊 Base (50% probability)</th>
+          <th style="background:#fee2e2; color:#991b1b; font-weight:700; padding:10px 14px; border-radius:0 6px 0 0; text-align:center;">🐻 Bear (25% probability)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="background:#f0fdf4; vertical-align:top; padding:14px;">
+            <strong>IPO Valuation: $7–10B</strong><br><br>
+            • Revenue reaches $900M–$1B by IPO<br>
+            • APA + Aisera create clear category leadership in Agentic Process Automation<br>
+            • AI premium multiple at IPO (8–10x revenue)<br>
+            • Rule of 40 achieved; strong NRR signal<br>
+            • IPO priced in favorable 2026 window<br>
+            <br>
+            <em>Pre-IPO secondary entry at $2–3B → 3–5x return</em>
+          </td>
+          <td style="background:#eff6ff; vertical-align:top; padding:14px;">
+            <strong>IPO Valuation: $4–6B</strong><br><br>
+            • Revenue at $750–850M at IPO<br>
+            • Steady growth but UiPath gap persists<br>
+            • 5–6x revenue multiple — in-line with PATH<br>
+            • Aisera integration progresses without major disruption<br>
+            • IPO in late 2026 or early 2027<br>
+            <br>
+            <em>Pre-IPO secondary entry at $2–3B → 1.5–2.5x return</em>
+          </td>
+          <td style="background:#fef2f2; vertical-align:top; padding:14px;">
+            <strong>IPO Valuation: $2–3.5B</strong><br><br>
+            • Revenue growth decelerates to mid-teens as agentic AI projects stall<br>
+            • Aisera integration creates disruption / margin compression<br>
+            • Microsoft Power Automate displaces a portion of installed base<br>
+            • IPO delayed to 2027–28; secondary market mark continues to decline<br>
+            <br>
+            <em>Pre-IPO secondary entry at $2–3B → breakeven to modest loss</em>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="callout-blue" style="margin-top:12px;">
+      <div class="callout-title">🎯 Expected Value Summary</div>
+      Probability-weighted expected IPO valuation: <strong>~$4.5–5.5B</strong> (25% × $8.5B + 50% × $5B + 25% × $2.75B ≈ $5.4B). At a secondary market entry price of ~$2–3B, this implies a <strong>1.8–2.7x expected return</strong> on a pre-IPO position — reasonable for a private equity / pre-IPO risk profile but not extraordinary. The risk-adjusted attractiveness improves materially if: (a) Rule of 40 is confirmed at IPO; (b) ARR disclosed at $800M+; (c) AI re-rating in public markets is sustained.
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════ SECTION 15 — VERDICT ═══════════════════════ -->
+<div class="section-card">
+  <div class="section-header">
+    <span class="section-number">15</span>
+    <span class="section-title">Bottom Line — Investment Verdict</span>
+  </div>
+  <div class="section-body">
+    <div class="verdict-box">
+      <div class="verdict-header">⚖ Investment Verdict — Private Pre-IPO</div>
+      <div class="verdict-title">Conditionally Attractive — High-Quality Business, Valuation Reset Required</div>
+      <div class="verdict-body">
+        Automation Anywhere is a <strong>genuinely strong enterprise software business</strong> — Gartner Magic Quadrant Leader for 7 consecutive years, 20–25% estimated ARR growth, consecutive EBITDA beats, a meaningful AI architecture pivot with the PRE, and the Aisera acquisition creating a more complete enterprise automation platform. The business is <em>not</em> a story of impending irrelevance.
+        <br><br>
+        However, the investment case is entirely conditional on <strong>entry price</strong>. At the $7.3B 2019 peak valuation, this is a weak investment. At secondary market prices of ~$2–4B (implied by Forge/Nasdaq Private Market data), the risk/reward becomes attractive. The probability-weighted IPO target of ~$5.4B implies a meaningful return from that entry range.
+        <br><br>
+        The key watch item is not whether GenAI disrupts Automation Anywhere (it is re-platforming correctly) — it is whether the PRE's data flywheel creates a genuinely durable differentiation from UiPath, and whether the Aisera integration executes cleanly without EBITDA regression.
+      </div>
+      <div class="verdict-grid">
+        <div class="verdict-stat">
+          <div class="v-label">Private Verdict</div>
+          <div class="v-value">WATCH → BUY</div>
+        </div>
+        <div class="verdict-stat">
+          <div class="v-label">Attractive Entry Range</div>
+          <div class="v-value">$2–4B valuation</div>
+        </div>
+        <div class="verdict-stat">
+          <div class="v-label">Expected IPO Target</div>
+          <div class="v-value">$4.5–6B</div>
+        </div>
+        <div class="verdict-stat">
+          <div class="v-label">Conviction Level</div>
+          <div class="v-value">Moderate (6/10)</div>
+        </div>
+        <div class="verdict-stat">
+          <div class="v-label">Key Catalyst</div>
+          <div class="v-value">IPO S-1 Filing</div>
+        </div>
+        <div class="verdict-stat">
+          <div class="v-label">Holding Period</div>
+          <div class="v-value">18–36 months</div>
+        </div>
+      </div>
+      <div class="verdict-risk">
+        <div class="r-label">⚠ Primary Risk to Monitor — NOT the headline bear case</div>
+        <div class="r-text">The commonly-feared risk (LLMs replacing RPA bots) is NOT the key watch item — Automation Anywhere is adapting correctly. The actual risk most worth watching is <strong>Aisera integration execution quality + EBITDA margin trajectory in FY27</strong>. If the first 6 months of Aisera integration produce margin compression, combined integration disruption, or customer churn, the IPO window closes and the $7.3B overhang becomes a serious pricing problem. Watch Q3/Q4 FY26 press releases for any deterioration in the "EBITDA beat" pattern — that would be the signal to reassess the bull case entirely.</div>
+      </div>
+    </div>
+
+    <div class="callout-amber" style="margin-top:16px;">
+      <div class="callout-title">🔑 The One Thing to Believe</div>
+      The entire bull case rests on a single conviction: the Process Reasoning Engine (PRE), trained on 400M+ enterprise automation runs, creates a data compound flywheel that general-purpose AI vendors (OpenAI, Google, Anthropic) cannot access without Automation Anywhere's 20+ years of enterprise process execution data. If PRE is genuinely enterprise-specific intelligence and not just a marketing layer over commodity LLMs, then Automation Anywhere's moat actually <em>strengthens</em> in the agentic AI era rather than eroding. This is the thesis to validate before any pre-IPO commitment.
+    </div>
+
+    <div class="callout-blue" style="margin-top:8px;">
+      <div class="callout-title">🔗 Karthik — Strategic Context Note</div>
+      <ul class="analysis-list">
+        <li>Automation Anywhere is headquartered in San Jose — directly relevant given your Bay Area base and existing network</li>
+        <li>Your ServiceNow background gives you informed perspective on the Aisera ITSM competitive threat — you've seen this SaaS-native process automation playbook from the inside</li>
+        <li>The APA System's Kubernetes-native architecture, distributed systems orchestration, and observability requirements are directly in your technical wheelhouse — you could evaluate the platform engineering depth with more precision than most analysts</li>
+        <li>If considering a VP Engineering role here (vs. purely investment thesis): the platform/SRE engineering challenges at this stage — scaling a multi-agent orchestration system, integrating Aisera, maintaining 99.x% reliability on mission-critical enterprise processes — are exactly the profile you've managed at eBay (cloud platform, scale crises) and F5 (security + reliability at global scale)</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<div style="text-align:center; font-family:'Segoe UI',Arial,sans-serif; font-size:11px; color:#94a3b8; margin-top:32px; padding-top:16px; border-top:1px solid #e2e8f0;">
+  Analysis by Claude · March 29, 2026 · For informational purposes only — not investment advice · All financial figures for Automation Anywhere are estimates; company does not disclose detailed financials<br>
+  Sources: Automation Anywhere press releases, Sacra, Tracxn, PitchBook, Forge Global, UiPath SEC filings, Gartner, IDC, analyst commentary
+</div>
+
+</div><!-- end container -->
+</body>
+</html>

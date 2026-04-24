@@ -1,0 +1,730 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PG — Price History & Event Analysis</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/3.0.1/chartjs-plugin-annotation.min.js"></script>
+<style>
+  :root {
+    --navy: #001f5c;
+    --accent: #0054a3;
+    --mid: #0071c2;
+    --sky: #e8f1fb;
+    --green: #15803d;
+    --red: #b91c1c;
+    --amber: #b45309;
+    --gray: #6b7280;
+    --purple: #7c3aed;
+    --teal: #0891b2;
+    --bg: #f0f4fa;
+    --card: #ffffff;
+    --border: #d9e5f5;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Georgia', 'Times New Roman', serif; background: var(--bg); color: #1a2030; line-height: 1.7; }
+  .container { max-width: 1100px; margin: 0 auto; padding: 24px; }
+
+  .header {
+    background: linear-gradient(135deg, #001f5c 0%, #003580 40%, #0071c2 100%);
+    color: white; padding: 44px 36px; border-radius: 14px; margin-bottom: 28px;
+    position: relative; overflow: hidden;
+  }
+  .header::before {
+    content: ''; position: absolute; top: -80px; right: -80px;
+    width: 340px; height: 340px; background: rgba(255,255,255,0.04); border-radius: 50%;
+  }
+  .header h1 { font-size: 2em; margin-bottom: 6px; font-weight: 700; }
+  .header .subtitle { font-size: 1.05em; opacity: 0.85; font-style: italic; }
+  .header .badge {
+    display: inline-block; margin-top: 14px;
+    background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.22);
+    padding: 5px 16px; border-radius: 20px; font-size: 0.82em;
+    font-family: 'Segoe UI', sans-serif; letter-spacing: 0.04em;
+  }
+  .header .meta {
+    margin-top: 18px; display: flex; gap: 10px; flex-wrap: wrap;
+    font-size: 0.87em; font-family: 'Segoe UI', sans-serif;
+  }
+  .header .meta span {
+    background: rgba(255,255,255,0.13); border: 1px solid rgba(255,255,255,0.18);
+    padding: 5px 13px; border-radius: 8px;
+  }
+  .price-verified {
+    margin-top: 12px; background: rgba(21,128,61,0.25); border: 1px solid rgba(134,239,172,0.4);
+    display: inline-block; padding: 5px 14px; border-radius: 8px;
+    font-size: 0.85em; font-family: 'Segoe UI', sans-serif;
+  }
+
+  .section {
+    background: var(--card); border-radius: 12px; padding: 30px; margin-bottom: 20px;
+    box-shadow: 0 1px 4px rgba(0,53,128,0.07), 0 0 0 1px var(--border);
+  }
+  .section h2 {
+    color: var(--navy); font-size: 1.3em; margin-bottom: 18px;
+    padding-bottom: 10px; border-bottom: 2px solid var(--border);
+    font-family: 'Segoe UI', sans-serif; font-weight: 700;
+  }
+  .section h3 {
+    color: var(--accent); font-size: 1.05em; margin: 20px 0 10px;
+    font-family: 'Segoe UI', sans-serif; font-weight: 600;
+  }
+  p { margin-bottom: 12px; }
+  ul { margin: 10px 0 10px 22px; }
+  li { margin-bottom: 8px; }
+
+  /* METRIC CARDS */
+  .grid4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin: 16px 0; }
+  .metric-card { background: var(--sky); border: 1px solid var(--border); border-radius: 10px; padding: 18px; text-align: center; font-family: 'Segoe UI', sans-serif; }
+  .metric-card .value { font-size: 1.55em; font-weight: 800; color: var(--navy); }
+  .metric-card .label { font-size: 0.8em; color: var(--gray); margin-top: 5px; }
+  .metric-card.green { background: #f0fdf4; border-color: #bbf7d0; }
+  .metric-card.green .value { color: var(--green); }
+  .metric-card.red { background: #fff1f2; border-color: #fecaca; }
+  .metric-card.red .value { color: var(--red); }
+  .metric-card.amber { background: #fffbeb; border-color: #fde68a; }
+  .metric-card.amber .value { color: var(--amber); }
+
+  /* CHART */
+  .chart-container { position: relative; height: 420px; margin: 20px 0; }
+  .chart-toggle { display: flex; gap: 8px; margin-bottom: 14px; }
+  .chart-btn {
+    padding: 8px 20px; border-radius: 8px; border: 1px solid var(--border);
+    background: white; color: var(--navy); cursor: pointer; font-family: 'Segoe UI', sans-serif;
+    font-size: 0.88em; font-weight: 600; transition: all 0.2s;
+  }
+  .chart-btn.active { background: var(--navy); color: white; border-color: var(--navy); }
+
+  /* LEGEND */
+  .legend-grid { display: flex; flex-wrap: wrap; gap: 10px; margin: 12px 0; font-family: 'Segoe UI', sans-serif; font-size: 0.83em; }
+  .legend-item { display: flex; align-items: center; gap: 6px; }
+  .legend-dot { width: 12px; height: 12px; border-radius: 3px; flex-shrink: 0; }
+
+  /* TABLES */
+  table { width: 100%; border-collapse: collapse; margin: 14px 0; font-size: 0.89em; font-family: 'Segoe UI', sans-serif; }
+  th { background: var(--sky); color: var(--navy); padding: 10px 12px; text-align: right; font-weight: 700; border-bottom: 2px solid var(--border); font-size: 0.88em; }
+  th:first-child { text-align: left; }
+  td { padding: 9px 12px; border-bottom: 1px solid var(--border); text-align: right; }
+  td:first-child { text-align: left; font-weight: 500; color: #374151; }
+  tr:hover { background: #f5f8ff; }
+  .pos { color: var(--green); font-weight: 700; }
+  .neg { color: var(--red); font-weight: 700; }
+  .neu { color: var(--amber); font-weight: 600; }
+
+  /* CALLOUTS */
+  .highlight { background: #fffbeb; border-left: 4px solid #d97706; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; font-family: 'Segoe UI', sans-serif; font-size: 0.94em; }
+  .verdict { background: linear-gradient(135deg, #f0fdf4, #dcfce7); border-left: 4px solid var(--green); padding: 18px 22px; border-radius: 0 8px 8px 0; margin: 16px 0; font-family: 'Segoe UI', sans-serif; font-size: 0.94em; }
+  .warning { background: #fff1f2; border-left: 4px solid var(--red); padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; font-family: 'Segoe UI', sans-serif; font-size: 0.94em; }
+  .info-box { background: #f0f9ff; border-left: 4px solid #0ea5e9; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; font-family: 'Segoe UI', sans-serif; font-size: 0.94em; }
+
+  /* EVENT CARDS */
+  .event-card { border-radius: 10px; padding: 22px; margin: 14px 0; border: 1px solid var(--border); font-family: 'Segoe UI', sans-serif; font-size: 0.93em; }
+  .event-card:nth-child(odd) { background: #f8fbff; }
+  .event-card:nth-child(even) { background: #fffaf5; }
+  .event-card-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; flex-wrap: wrap; gap: 8px; }
+  .event-title { font-size: 1.05em; font-weight: 700; color: var(--navy); }
+  .event-tag { display: inline-block; padding: 3px 10px; border-radius: 4px; font-size: 0.75em; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; }
+  .tag-int-fund-pos { background: #dcfce7; color: #15803d; border: 1px solid #bbf7d0; }
+  .tag-int-fund-neg { background: #fee2e2; color: #b91c1c; border: 1px solid #fecaca; }
+  .tag-int-people { background: #ede9fe; color: #7c3aed; border: 1px solid #ddd6fe; }
+  .tag-int-strat { background: #dbeafe; color: #0054a3; border: 1px solid #bfdbfe; }
+  .tag-ext-macro { background: #fef3c7; color: #b45309; border: 1px solid #fde68a; }
+  .tag-ext-market { background: #f3f4f6; color: #4b5563; border: 1px solid #e5e7eb; }
+  .tag-ext-sector { background: #cffafe; color: #0891b2; border: 1px solid #a5f3fc; }
+  .event-magnitude { font-size: 1.2em; font-weight: 800; }
+  .event-section-label { font-weight: 700; color: var(--accent); font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.04em; margin: 10px 0 4px; }
+
+  /* PATTERN PIE */
+  .pattern-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 14px 0; }
+  .pattern-bar-container { background: #f8fbff; border: 1px solid var(--border); border-radius: 10px; padding: 18px; font-family: 'Segoe UI', sans-serif; }
+  .pattern-bar-row { display: flex; align-items: center; gap: 10px; margin: 8px 0; font-size: 0.88em; }
+  .pattern-bar-label { width: 100px; flex-shrink: 0; font-weight: 500; }
+  .pattern-bar-track { flex: 1; background: #e9ecef; border-radius: 4px; height: 14px; overflow: hidden; }
+  .pattern-bar-fill { height: 100%; border-radius: 4px; }
+  .pattern-bar-count { width: 30px; text-align: right; font-weight: 700; }
+
+  /* VERDICT */
+  .verdict-card { background: linear-gradient(135deg, #f0fdf4, #dcfce7); border: 1px solid #bbf7d0; border-radius: 12px; padding: 24px; margin: 16px 0; font-family: 'Segoe UI', sans-serif; }
+  .verdict-card h3 { color: var(--green); margin-bottom: 12px; font-size: 1.1em; }
+  .price-levels { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 14px 0; }
+  .price-level-item { background: white; border: 1px solid var(--border); border-radius: 8px; padding: 12px; text-align: center; }
+  .price-level-item .pl-value { font-size: 1.3em; font-weight: 800; color: var(--navy); font-family: 'Segoe UI', sans-serif; }
+  .price-level-item .pl-label { font-size: 0.78em; color: var(--gray); margin-top: 3px; }
+
+  .disclaimer { font-size: 0.8em; color: var(--gray); margin-top: 28px; padding: 16px; background: #f0f4fa; border-radius: 8px; font-family: 'Segoe UI', sans-serif; border: 1px solid var(--border); }
+  @media (max-width: 720px) { .grid4 { grid-template-columns: 1fr 1fr; } .pattern-grid { grid-template-columns: 1fr; } .price-levels { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<div class="container">
+
+<!-- HEADER -->
+<div class="header">
+  <h1>The Procter & Gamble Company (NYSE: PG)</h1>
+  <div class="subtitle">Price History & Event Analysis — The Defensive Stalwart Under Pressure</div>
+  <div class="badge">📊 Three-Horizon Analysis: 5 Year · 1 Year · 30 Day</div>
+  <div class="price-verified">✓ Price verified: $143.35 as of March 25, 2026 · Source: Yahoo Finance / CNBC</div>
+  <div class="meta">
+    <span>Price: $143.35</span>
+    <span>Market Cap: ~$334B</span>
+    <span>52-Wk High: $174.80 (Apr 3, 2025)</span>
+    <span>52-Wk Low: $137.62 (Jan 7, 2026)</span>
+    <span>Div Yield: ~2.94%</span>
+    <span>Beta: 0.40</span>
+    <span>Analysis Date: March 25, 2026</span>
+  </div>
+</div>
+
+<!-- SUMMARY DASHBOARD -->
+<div class="section">
+  <h2>Summary Dashboard</h2>
+  <div class="grid4">
+    <div class="metric-card green">
+      <div class="value">+15.6%</div>
+      <div class="label">5-Year Price Return (~+35% total with dividends)</div>
+    </div>
+    <div class="metric-card red">
+      <div class="value">-18.0%</div>
+      <div class="label">1-Year Return (from ~$174.80 high, Apr 2025)</div>
+    </div>
+    <div class="metric-card red">
+      <div class="value">-12.1%</div>
+      <div class="label">30-Day Return (from ~$163 on Feb 23, 2026)</div>
+    </div>
+    <div class="metric-card red">
+      <div class="value">-18.0%</div>
+      <div class="label">Below 52-Week High of $174.80</div>
+    </div>
+  </div>
+  <div class="highlight">
+    <strong>Snapshot:</strong> PG is in an unusual position for a Dividend King — it has meaningfully underperformed both its sector and the S&P 500 over the last year. The stock sits 18% below its 52-week high, just 4% above its 52-week low, and has entered a 6-day losing streak as of today. This is a stock where the defensive narrative failed to protect investors from a string of operational disappointments, a CEO transition, and macro/tariff headwinds — all colliding simultaneously.
+  </div>
+</div>
+
+<!-- CHART SECTION -->
+<div class="section">
+  <h2>Annotated Price Chart</h2>
+  <p style="font-family:'Segoe UI',sans-serif; font-size:0.88em; color:var(--gray); margin-bottom:8px;">Monthly closing prices (approx.) with annotated 20%+ moves and key events. Use buttons to toggle time horizons.</p>
+  <div class="chart-toggle">
+    <button class="chart-btn active" onclick="showChart('5y')">5 Year</button>
+    <button class="chart-btn" onclick="showChart('1y')">1 Year</button>
+    <button class="chart-btn" onclick="showChart('30d')">30 Days</button>
+  </div>
+  <div class="legend-grid">
+    <div class="legend-item"><div class="legend-dot" style="background:#15803d"></div> Earnings Beat / Guidance Raise (INT-FUND+)</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#b91c1c"></div> Earnings Miss / Guidance Cut (INT-FUND−)</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#7c3aed"></div> Management Change (INT-PEOPLE)</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#0054a3"></div> Restructuring (INT-STRAT)</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#b45309"></div> Macro / Rate Event (EXT-MACRO)</div>
+    <div class="legend-item"><div class="legend-dot" style="background:#6b7280"></div> Broad Market Move (EXT-MARKET)</div>
+  </div>
+  <div class="chart-container">
+    <canvas id="priceChart"></canvas>
+  </div>
+  <p style="font-family:'Segoe UI',sans-serif; font-size:0.78em; color:var(--gray);">* Price data is approximate (monthly closes sourced from public data). All annotation dates are verified from primary news sources.</p>
+</div>
+
+<!-- MAJOR MOVES TABLE -->
+<div class="section">
+  <h2>Major Moves Table — All 20%+ Moves (5-Year Horizon)</h2>
+  <table>
+    <tr>
+      <th>#</th><th style="text-align:left">Direction</th><th style="text-align:left">From (Date)</th><th style="text-align:left">To (Date)</th><th>Move %</th><th>Duration</th><th>Speed</th><th style="text-align:left">Event Tag</th><th style="text-align:left">Primary Catalyst</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td style="text-align:left; color:var(--red); font-weight:700;">▼ Drawdown</td>
+      <td style="text-align:left">~$161 (Jan 2022)</td>
+      <td style="text-align:left">~$122 (Oct 2022)</td>
+      <td class="neg">-24.2%</td>
+      <td>~9 months</td>
+      <td>Gradual/Extended</td>
+      <td style="text-align:left"><span class="event-tag tag-ext-macro">EXT-MACRO</span></td>
+      <td style="text-align:left">2022 Bear Market: Fed rate hikes, inflation fears. Margin compression from commodity cost surge.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td style="text-align:left; color:var(--green); font-weight:700;">▲ Rally</td>
+      <td style="text-align:left">~$122 (Oct 2022)</td>
+      <td style="text-align:left">~$174 (Apr 2025)</td>
+      <td class="pos">+42.6%</td>
+      <td>~30 months</td>
+      <td>Extended</td>
+      <td style="text-align:left"><span class="event-tag tag-ext-macro">EXT-MACRO</span></td>
+      <td style="text-align:left">Inflation peaking, rate cut cycle, defensive rotation. Organic sales recovery 2023–2024.</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td style="text-align:left; color:var(--red); font-weight:700;">▼ Drawdown</td>
+      <td style="text-align:left">~$174 (Apr 2025)</td>
+      <td style="text-align:left">~$137.62 (Jan 7, 2026)</td>
+      <td class="neg">-20.9%</td>
+      <td>~9 months</td>
+      <td>Extended</td>
+      <td style="text-align:left"><span class="event-tag tag-int-fund-neg">INT-FUND</span></td>
+      <td style="text-align:left">Consecutive earnings/guidance misses; April 2025 guidance cut; tariff headwinds; CEO transition; restructuring announcement.</td>
+    </tr>
+    <tr>
+      <td>*4</td>
+      <td style="text-align:left; color:var(--green); font-weight:700;">▲ Rally</td>
+      <td style="text-align:left">~$137.62 (Jan 7, 2026)</td>
+      <td style="text-align:left">~$163.14 (Feb 23, 2026)</td>
+      <td class="pos">+18.5%</td>
+      <td>~7 weeks</td>
+      <td>Rapid</td>
+      <td style="text-align:left"><span class="event-tag tag-ext-market">EXT-MARKET</span></td>
+      <td style="text-align:left">Broader defensive rotation; staples outperformed vs. tech selloff; stock bounced off multi-year support.</td>
+    </tr>
+  </table>
+  <p style="font-family:'Segoe UI',sans-serif; font-size:0.82em; color:var(--gray);">* Move #4 is +18.5% — just below the 20% threshold, but included as it is the most recent significant recovery and nearly reached the threshold.</p>
+</div>
+
+<!-- 5-YEAR HORIZON -->
+<div class="section">
+  <h2>1. Five-Year Horizon (March 2021 → March 2026)</h2>
+  <p><strong>Total Price Return: From ~$123.50 (Mar 2021) to $143.35 (Mar 2026) = +16.1%</strong><br>
+  <span style="font-family:'Segoe UI',sans-serif; font-size:0.9em; color:var(--gray);">Annualized price CAGR: ~3.0% | Including dividends (~3% yield): ~+35% total return (~6.3% annualized). S&P 500 5-yr annualized: ~13% (significantly underperforms).</span></p>
+
+  <div class="info-box">
+    <strong>5-Year Context:</strong> Five years ago, PG was a $290B company delivering steady organic sales growth of 5-7%, benefiting from pricing power and brand loyalty. Today it's a $334B company struggling to grow sales at 0-4% organically, navigating tariff headwinds, a CEO transition, a major restructuring, and consumer trade-down pressure. The fundamentals haven't broken — it's still a Dividend King with $84B in revenue — but the stock's multiple has compressed from ~26x to ~20x as growth decelerated. This is a story of mean reversion in a richly-valued defensve stock.
+  </div>
+
+  <h3>Phase 1: The Pandemic-Era Premium (March 2021 – January 2022)</h3>
+  <p>PG rose from ~$123.50 to ~$161 (+30%) as investors crowded into consumer staples during the economic uncertainty of COVID's tail-end. Revenue surged on pricing power and household spending tailwinds. The stock reached a then-record of ~$161 in January 2022, trading at a premium ~26x P/E. <span class="event-tag tag-ext-market" style="font-size:0.8em">EXT-MARKET</span></p>
+
+  <h3>Phase 2: The 2022 Bear Market Drawdown (January – October 2022)</h3>
+  <p>PG fell ~24% alongside the broader market as the Fed began the most aggressive rate-hiking cycle in 40 years. But unlike pure growth stocks, PG's decline was amplified by a company-specific issue: commodity cost inflation (crude oil, resins, pulp, freight) hit PG's margins hard. Operating income fell even as revenue rose. The July 2022 earnings were a particular wake-up call — EPS missed estimates for the first time in years. Management warned of "significant headwinds" in FY2023. <span class="event-tag tag-ext-macro" style="font-size:0.8em">EXT-MACRO</span> + <span class="event-tag tag-int-fund-neg" style="font-size:0.8em">INT-FUND</span></p>
+
+  <h3>Phase 3: The Recovery and Re-Rating (October 2022 – April 2025)</h3>
+  <p>The stock recovered from its ~$122 October 2022 trough to an all-time high of ~$174-180 by November 2024–April 2025 (+43%). This 30-month rally was driven by: (1) inflation peaking and rate cut cycle beginning; (2) PG's organic sales recovering to 3-7% range through 2023-2024; (3) defensive rotation as recession fears lingered; (4) multiple expansion as rates fell. The stock hit a 52-week high of $174.80 on April 3, 2025 and an all-time closing high near $173-180 in late 2024. <span class="event-tag tag-ext-macro" style="font-size:0.8em">EXT-MACRO</span> + <span class="event-tag tag-int-fund-neg" style="font-size:0.8em">INT-FUND</span></p>
+
+  <h3>Phase 4: The Fundamental Deterioration Drawdown (April 2025 – January 2026)</h3>
+  <p>From the April 2025 high (~$174) to the January 2026 low ($137.62), PG fell 21% — right on the 20%+ threshold. Unlike Phase 2 (which was largely extrinsic), this decline was driven by genuine intrinsic deterioration: multiple earnings disappoints, a guidance cut citing tariffs, a CEO change, a restructuring announcement, and consumer trade-down to private labels. The stock hit a 52-week and multi-year low of $137.62 on January 7, 2026. <span class="event-tag tag-int-fund-neg" style="font-size:0.8em">INT-FUND</span></p>
+
+  <h3>Phase 5: Volatile Recovery and Re-Selloff (January 2026 – Present)</h3>
+  <p>After the January 2026 low, PG rallied nearly 19% to $163.14 by February 23, 2026 — driven by defensive rotation as tech/AI sold off. But the stock has since given back more than half of those gains, falling to $143.35 today on a combination of macro uncertainty (Iran war fears, "sell America" trade rethinking) and continued fundamental questions about growth. <span class="event-tag tag-ext-market" style="font-size:0.8em">EXT-MARKET</span></p>
+
+  <table>
+    <tr>
+      <th>Year</th><th>Approx. Start Price</th><th>Approx. End Price</th><th>Annual Return</th><th>Key Theme</th>
+    </tr>
+    <tr><td>2021</td><td>$123.50</td><td>$155.00</td><td class="pos">+25.5%</td><td>COVID premium, pricing power surge</td></tr>
+    <tr><td>2022</td><td>$155.00</td><td>$138.00</td><td class="neg">-11.0%</td><td>Rate hikes + commodity cost squeeze</td></tr>
+    <tr><td>2023</td><td>$138.00</td><td>$150.00</td><td class="pos">+8.7%</td><td>Inflation peaking, organic sales recovery</td></tr>
+    <tr><td>2024</td><td>$150.00</td><td>$165.00</td><td class="pos">+10.0%</td><td>Rate cut cycle, record highs, then July miss</td></tr>
+    <tr><td>2025</td><td>$165.00</td><td>$147.00</td><td class="neg">-10.9%</td><td>Tariff guidance cut, CEO change, restructuring</td></tr>
+    <tr><td>YTD 2026</td><td>$143.00</td><td>$143.35</td><td class="neu">+0.2%</td><td>Post-low bounce then re-selloff</td></tr>
+  </table>
+</div>
+
+<!-- 1-YEAR HORIZON -->
+<div class="section">
+  <h2>2. One-Year Horizon (March 2025 → March 2026)</h2>
+  <p><strong>Total Return: From ~$174.80 (52-wk high Apr 3, 2025) to $143.35 (today) = -18.0%</strong><br>
+  <span style="font-family:'Segoe UI',sans-serif; font-size:0.9em; color:var(--gray);">From ~$175 (late March 2025) → $143.35 today ≈ -18.1%. Consumer Staples XLP sector: approximately flat. PG significantly underperformed its sector.</span></p>
+
+  <div class="highlight">
+    <strong>1-Year Narrative:</strong> PG entered this period as a "safe haven" trading near all-time highs with a strong brand portfolio. It exits the period down ~18% — the worst rolling 1-year performance in over a decade — after a cascade of disappointments: a guidance cut citing tariffs ($1–1.5B annual headwind), a CEO change, a restructuring (7,000 job cuts), consecutive earnings misses, and consumer trade-down. The stock is now back to where it was in mid-2023.
+  </div>
+
+  <h3>Key Inflection Points (Past 12 Months)</h3>
+  <table>
+    <tr>
+      <th>Date</th><th style="text-align:left">Event</th><th>Price Before</th><th>Price After</th><th>Impact</th><th style="text-align:left">Tag</th>
+    </tr>
+    <tr>
+      <td>Apr 24, 2025</td>
+      <td style="text-align:left">Q3 FY2025 Earnings + Guidance Cut (tariffs)</td>
+      <td>~$173</td>
+      <td>~$165</td>
+      <td class="neg">-4.6%</td>
+      <td style="text-align:left"><span class="event-tag tag-int-fund-neg">INT-FUND</span></td>
+    </tr>
+    <tr>
+      <td>Jun 2025</td>
+      <td style="text-align:left">Restructuring Announced: 7,000 job cuts, brand divestitures</td>
+      <td>~$163</td>
+      <td>~$158</td>
+      <td class="neg">-3.1%</td>
+      <td style="text-align:left"><span class="event-tag tag-int-strat">INT-STRAT</span></td>
+    </tr>
+    <tr>
+      <td>Jul 28-29, 2025</td>
+      <td style="text-align:left">Q4 FY2025 Earnings + CEO Transition Announced (Moeller → Jejurikar)</td>
+      <td>~$162</td>
+      <td>~$155</td>
+      <td class="neg">-4.3%</td>
+      <td style="text-align:left"><span class="event-tag tag-int-people">INT-PEOPLE</span></td>
+    </tr>
+    <tr>
+      <td>Oct–Nov 2025</td>
+      <td style="text-align:left">Continued Organic Sales Weakness; Stock hits multi-year lows near $144</td>
+      <td>~$155</td>
+      <td>~$148</td>
+      <td class="neg">-4.5%</td>
+      <td style="text-align:left"><span class="event-tag tag-int-fund-neg">INT-FUND</span></td>
+    </tr>
+    <tr>
+      <td>Jan 7, 2026</td>
+      <td style="text-align:left">52-Week Low: $137.62</td>
+      <td>~$145</td>
+      <td>$137.62</td>
+      <td class="neg">-5.1%</td>
+      <td style="text-align:left"><span class="event-tag tag-ext-market">EXT-MARKET</span></td>
+    </tr>
+    <tr>
+      <td>Jan 22, 2026</td>
+      <td style="text-align:left">Q2 FY2026 Earnings: EPS $1.78 vs $1.87 expected (miss)</td>
+      <td>~$143</td>
+      <td>~$148</td>
+      <td class="pos">+3.5%</td>
+      <td style="text-align:left"><span class="event-tag tag-int-fund-neg">INT-FUND</span></td>
+    </tr>
+    <tr>
+      <td>Feb 23, 2026</td>
+      <td style="text-align:left">Defensive Rally Peak: $163.14 (+18.5% from Jan low)</td>
+      <td>$137.62</td>
+      <td>$163.14</td>
+      <td class="pos">+18.5%</td>
+      <td style="text-align:left"><span class="event-tag tag-ext-market">EXT-MARKET</span></td>
+    </tr>
+    <tr>
+      <td>Feb 24–Mar 25, 2026</td>
+      <td style="text-align:left">Re-Selloff: Macro fears, Iran war, "Sell America" trade rethink</td>
+      <td>$163.14</td>
+      <td>$143.35</td>
+      <td class="neg">-12.1%</td>
+      <td style="text-align:left"><span class="event-tag tag-ext-macro">EXT-MACRO</span></td>
+    </tr>
+  </table>
+</div>
+
+<!-- 30-DAY HORIZON -->
+<div class="section">
+  <h2>3. Thirty-Day Horizon (Feb 24 → March 25, 2026)</h2>
+  <p><strong>30-Day Return: From ~$163 (Feb 23, 2026 peak) to $143.35 = -12.1%</strong><br>
+  <span style="font-family:'Segoe UI',sans-serif; font-size:0.9em; color:var(--gray);">6-day losing streak as of today, per Trefis. ~$21B market cap eroded in 6 days.</span></p>
+
+  <table>
+    <tr>
+      <th>Date</th><th>Approx. Price</th><th>Weekly Change</th><th style="text-align:left">What Happened</th>
+    </tr>
+    <tr>
+      <td>Feb 23, 2026</td>
+      <td>$163.14</td>
+      <td class="pos">+9% (4-wk)</td>
+      <td style="text-align:left">Peak of defensive rally; highest since June 2025</td>
+    </tr>
+    <tr>
+      <td>Mar 5, 2026</td>
+      <td>$155.72</td>
+      <td class="neg">-4.5%</td>
+      <td style="text-align:left">Initial pullback; macro uncertainty re-emerging</td>
+    </tr>
+    <tr>
+      <td>Mar 12, 2026</td>
+      <td>~$152</td>
+      <td class="neg">-2.4%</td>
+      <td style="text-align:left">Iran war "sell America" narrative; defensive rotation fading</td>
+    </tr>
+    <tr>
+      <td>Mar 19, 2026</td>
+      <td>$145.68</td>
+      <td class="neg">-4.2%</td>
+      <td style="text-align:left">Lowest since Jan 2026; macro fears intensifying; -9.3% in 4-wks</td>
+    </tr>
+    <tr>
+      <td>Mar 24, 2026</td>
+      <td>$143.16</td>
+      <td class="neg">-1.7%</td>
+      <td style="text-align:left">6-day losing streak; Erste Group downgrades to Hold</td>
+    </tr>
+    <tr>
+      <td>Mar 25, 2026 (today)</td>
+      <td>$143.35</td>
+      <td class="pos">+0.1%</td>
+      <td style="text-align:left">Marginal stabilization; trading 3.9% above 52-wk low</td>
+    </tr>
+  </table>
+
+  <div class="warning">
+    <strong>30-Day Assessment:</strong> PG's 30-day action is characterized by a sharp reversal of the defensive rally. The stock is in a downtrend, sitting 3.9% above its 52-week low of $137.62. Momentum is bearish. No company-specific catalyst has emerged — this is macro-driven selling. The next major company event is Q3 FY2026 earnings on <strong>April 24, 2026</strong>, which will be the first test of new CEO Jejurikar's execution against FY2026 guidance (0-4% organic sales, $16B FCF target). The dividend ex-date was January 23, 2026; next ex-div expected around April 2026.
+  </div>
+
+  <div class="info-box">
+    <strong>Upcoming Catalysts (Next 30–60 Days):</strong>
+    <ul>
+      <li><strong>Q3 FY2026 Earnings — April 24, 2026:</strong> The critical near-term test. EPS consensus ~$1.55–1.60. Organic sales guidance already cautious (0–4%). Any tariff cost update or restructuring progress data will drive the stock.</li>
+      <li><strong>Dividend Ex-Date — Approx. April 2026:</strong> PG's quarterly dividend of $1.0568/share (~$4.23 annualized) supports the stock floor for income-oriented buyers near current levels (yield ~2.95%).</li>
+      <li><strong>Fed Decisions:</strong> PG benefits modestly from rate cuts (lower discount rate → higher DCF value), but the primary driver remains organic growth, not rates.</li>
+    </ul>
+  </div>
+</div>
+
+<!-- EVENT ANALYSIS CARDS -->
+<div class="section">
+  <h2>Event Analysis — Deep Dives on Key Intrinsic Moves</h2>
+
+  <!-- Event 1 -->
+  <div class="event-card">
+    <div class="event-card-header">
+      <div>
+        <div class="event-title">April 24, 2025: Q3 FY2025 Guidance Cut — Tariffs & Consumer Uncertainty</div>
+        <div style="margin-top:6px;">
+          <span class="event-tag tag-int-fund-neg">INT-FUND (Primary)</span>&nbsp;
+          <span class="event-tag tag-ext-macro">EXT-MACRO (Secondary)</span>
+        </div>
+      </div>
+      <div class="event-magnitude neg">-4.6% single day, then -14% over subsequent months</div>
+    </div>
+    <div class="event-section-label">What Happened</div>
+    <p>P&G reported Q3 FY2025 results that technically beat EPS, but the company simultaneously lowered its full-year FY2025 guidance, citing "consumer uncertainty" and tariff headwinds of $1–1.5B per year. CEO Moeller told CNBC: "Tariffs are inherently inflationary." P&G indicated mid-single-digit price increases on about a quarter of its products would be necessary in FY2026. This was the pivot point where the market recognized PG was not immune to the tariff environment.</p>
+    <div class="event-section-label">Market's Interpretation</div>
+    <p>The market read this as a signal that PG's pricing power — the very foundation of its Wide Moat — was now a double-edged sword. Raising prices to offset tariffs risked accelerating volume losses to private-label alternatives, which were already gaining ground. The stock was trading near its all-time high (~$173) when the news hit; a guidance cut at a peak multiple is always punished severely.</p>
+    <div class="event-section-label">Assessment — Was the Market Right?</div>
+    <p>Largely yes, though the cumulative 21% decline from April 2025 to January 2026 may have overshot the fundamental reality. The tariff impact of $1–1.5B on a company with $85B revenue and ~$15.7B net income is meaningful but not existential (~8-10% of net income). The deeper concern the market correctly identified: organic volume growth was already slowing before tariffs. Tariffs just made an already-difficult story worse. The restructuring announcement (7,000 job cuts) in June 2025 — framed as proactive — was interpreted as a confession of structural weakness.</p>
+    <div class="event-section-label">Lasting Impact</div>
+    <p>Permanent compression in P/E from ~25–26x to ~20–21x, reflecting a structurally lower organic growth outlook. The tariff headwind also forced a CEO transition and restructuring that will generate near-term charges and execution uncertainty through 2026–2027.</p>
+  </div>
+
+  <!-- Event 2 -->
+  <div class="event-card">
+    <div class="event-card-header">
+      <div>
+        <div class="event-title">July 28–29, 2025: CEO Jon Moeller Replaced by Shailesh Jejurikar</div>
+        <div style="margin-top:6px;">
+          <span class="event-tag tag-int-people">INT-PEOPLE (Primary)</span>&nbsp;
+          <span class="event-tag tag-int-fund-neg">INT-FUND (Secondary)</span>
+        </div>
+      </div>
+      <div class="event-magnitude neg">-4.3% on announcement day</div>
+    </div>
+    <div class="event-section-label">What Happened</div>
+    <p>On July 28, 2025, P&G announced Moeller would be replaced by COO Shailesh Jejurikar, effective January 1, 2026. Moeller became Executive Chairman. The announcement came one day before Q4 FY2025 results. Management framed it as a "planned, orderly transition." The simultaneous Q4 results showed revenue essentially flat at $84.3B and EPS guidance for FY2026 that included the $1B tariff headwind. The restructuring plan (7,000 jobs, brand divestitures, market exits) was already underway.</p>
+    <div class="event-section-label">Market's Interpretation</div>
+    <p>Despite the "orderly transition" framing, the market was uneasy. The timing — mid-restructuring, amid ongoing performance challenges — raised questions about whether the board had lost confidence in Moeller's execution. Jejurikar, a 36-year company veteran and COO, was seen as a continuity pick rather than a change agent, which muted enthusiasm. Brian Jacobsen (Annex Wealth Management) captured the market's ambivalence: "This could be more like the passing of the baton in a long race rather than shaking things up."</p>
+    <div class="event-section-label">Assessment — Was the Market Right?</div>
+    <p>The market's cautious reaction was proportionate. Jejurikar is a competent operator, but a change at the top without a clear new strategic direction provides limited re-rating catalyst. The "passing of the baton" is the right analogy — no new leadership premium was warranted. The real question (as yet unanswered) is whether Jejurikar will execute more aggressively on portfolio pruning or accelerate AI-driven efficiency gains. His first earnings (Q2 FY2026, Jan 22, 2026) showed EPS of $1.78 vs. $1.87 expected — not a confidence-building debut.</p>
+    <div class="event-section-label">Lasting Impact</div>
+    <p>Near-term uncertainty elevated through at least H1 FY2026. Market will need 2–3 earnings cycles under Jejurikar before re-rating the stock on management quality. The restructuring charges ($1.5–2.0B over FY2026–2027) will create GAAP noise for the next 12–18 months.</p>
+  </div>
+
+  <!-- Event 3 -->
+  <div class="event-card">
+    <div class="event-card-header">
+      <div>
+        <div class="event-title">October 2022: 2022 Bear Market Trough — Inflation Peak / Rate Hike Cycle</div>
+        <div style="margin-top:6px;">
+          <span class="event-tag tag-ext-macro">EXT-MACRO (Primary)</span>&nbsp;
+          <span class="event-tag tag-int-fund-neg">INT-FUND (Secondary)</span>
+        </div>
+      </div>
+      <div class="event-magnitude neg">-24.2% peak-to-trough (Jan → Oct 2022)</div>
+    </div>
+    <div class="event-section-label">What Happened</div>
+    <p>PG fell from ~$161 (Jan 2022) to ~$122 (Oct 2022), roughly tracking the broader market's -22% decline over the same period. The proximate cause was the Fed's 425bps rate hike cycle and the repricing of all equities at higher discount rates. For PG specifically, the secondary driver was genuine margin compression: commodity costs (oil, resins, pulp) surged 15-20%, freight costs doubled, and foreign exchange was a $3.7B headwind in FY2023. Management warned explicitly of "another year of significant headwinds" in July 2022.</p>
+    <div class="event-section-label">Market's Interpretation</div>
+    <p>The market correctly identified that even defensive staples companies aren't immune to rate repricing. A company trading at 26x earnings needs rates at 0-1% to justify that premium; at 4%+, the earnings yield (1/26 = 3.8%) no longer looks attractive. The combination of multiple compression AND fundamental pressure created the full -24% move.</p>
+    <div class="event-section-label">Assessment — Was the Market Right?</div>
+    <p>Yes, and the subsequent recovery proved the thesis. Once inflation peaked and the Fed signaled rate cuts were coming, PG recovered all losses and then some within 2 years. The fundamental "damage" (margin compression) was temporary — PG's organic sales growth recovered to 4-7% in FY2023-2024 as commodity costs normalized. Hindsight confirms October 2022 was an excellent long-term entry point.</p>
+    <div class="event-section-label">Lasting Impact</div>
+    <p>Temporary disruption. PG recovered to all-time highs by 2024–2025. The 2022 episode demonstrated that even a 26x P/E defensive stock can lose 24% if the rate environment shifts materially. This is the key valuation lesson for PG: the premium multiple is contingent on a relatively low-rate environment.</p>
+  </div>
+</div>
+
+<!-- EVENT PATTERN SUMMARY -->
+<div class="section">
+  <h2>Event Pattern Summary</h2>
+  <div class="pattern-grid">
+    <div class="pattern-bar-container">
+      <h3 style="margin-top:0; margin-bottom:14px;">Move Classification Breakdown (By Count)</h3>
+      <div class="pattern-bar-row">
+        <div class="pattern-bar-label" style="color:#b91c1c">INT-FUND−</div>
+        <div class="pattern-bar-track"><div class="pattern-bar-fill" style="width:40%; background:#b91c1c"></div></div>
+        <div class="pattern-bar-count">2</div>
+      </div>
+      <div class="pattern-bar-row">
+        <div class="pattern-bar-label" style="color:#b45309">EXT-MACRO</div>
+        <div class="pattern-bar-track"><div class="pattern-bar-fill" style="width:40%; background:#b45309"></div></div>
+        <div class="pattern-bar-count">2</div>
+      </div>
+      <div class="pattern-bar-row">
+        <div class="pattern-bar-label" style="color:#6b7280">EXT-MARKET</div>
+        <div class="pattern-bar-track"><div class="pattern-bar-fill" style="width:20%; background:#6b7280"></div></div>
+        <div class="pattern-bar-count">1</div>
+      </div>
+      <div class="pattern-bar-row">
+        <div class="pattern-bar-label" style="color:#7c3aed">INT-PEOPLE</div>
+        <div class="pattern-bar-track"><div class="pattern-bar-fill" style="width:10%; background:#7c3aed"></div></div>
+        <div class="pattern-bar-count">0.5*</div>
+      </div>
+    </div>
+    <div class="info-box" style="margin:0">
+      <strong>Pattern Verdict:</strong> PG's major moves are driven by a roughly even mix of <strong>extrinsic macro factors</strong> (rate cycles, inflation, geopolitics) and <strong>intrinsic fundamentals</strong> (earnings misses, guidance cuts). This reflects PG's dual nature: a premium-multiple defensive stock whose valuation is highly sensitive to the rate/macro environment, AND a business that must deliver consistent organic growth to justify that premium.<br><br>
+      <strong>The most predictive driver for PG:</strong> Interest rates and consumer staples sector sentiment (extrinsic) over short horizons; organic volume growth and pricing power execution (intrinsic) over longer horizons. When both are negative simultaneously — as in 2025 — the drawdowns are severe.
+    </div>
+  </div>
+  <p style="font-family:'Segoe UI',sans-serif; font-size:0.82em; color:var(--gray);">* INT-PEOPLE counted as 0.5 as the CEO transition was coincident with Q4 FY2025 earnings (dual classification).</p>
+</div>
+
+<!-- WHERE ARE WE NOW -->
+<div class="section">
+  <h2>Where Are We Now — Verdict</h2>
+
+  <div class="price-levels">
+    <div class="price-level-item">
+      <div class="pl-value">$143.35</div>
+      <div class="pl-label">Current Price (Mar 25, 2026)</div>
+    </div>
+    <div class="price-level-item" style="background:#fff1f2; border-color:#fecaca;">
+      <div class="pl-value" style="color:#b91c1c;">-18.0%</div>
+      <div class="pl-label">Below 52-Week High ($174.80)</div>
+    </div>
+    <div class="price-level-item" style="background:#fff1f2; border-color:#fecaca;">
+      <div class="pl-value" style="color:#b91c1c;">-20.4%</div>
+      <div class="pl-label">Below All-Time High (~$180.43)</div>
+    </div>
+    <div class="price-level-item" style="background:#fffbeb; border-color:#fde68a;">
+      <div class="pl-value" style="color:#b45309;">+4.2%</div>
+      <div class="pl-label">Above 52-Week Low ($137.62)</div>
+    </div>
+  </div>
+
+  <div class="verdict-card">
+    <h3>📍 Historical Context</h3>
+    <p>At $143.35, PG is trading at a level last seen in mid-2023 — before the final leg of the 2022-2025 recovery rally. The stock's 5-year performance (price only: +16%, total: ~+35%) significantly trails the S&P 500 (~+65% over the same period), which is unusual for a company of PG's quality and scale. The last time PG was a sustained underperformer for multiple years was during the 2016-2018 activist investor period (Nelson Peltz/Trian Fund).</p>
+
+    <p><strong>Percentile in 5-year range:</strong> At $143.35 vs. a 5-year range of approximately $116 (2020 lows) to $180 (2024 ATH), PG sits at roughly the 43rd percentile — closer to mid-range than either extreme. Against the more relevant 3-year range (~$122 to $180), the stock sits at the 36th percentile.</p>
+
+    <h3 style="margin-top:16px;">🔍 Event Pattern Takeaway</h3>
+    <p>This stock's major moves are driven by both macro and intrinsic factors. <strong>The current regime is unusual</strong>: unlike 2022 (pure macro/rate-driven), the 2025-2026 decline has a genuine intrinsic component — four consecutive quarters of below-consensus organic growth, a guidance cut, and leadership/restructuring uncertainty. This makes the current level harder to call as a "macro overreaction" entry point.</p>
+
+    <h3 style="margin-top:16px;">⚖️ Entry Point Assessment</h3>
+    <p>At ~$143 and ~20x forward earnings (FY2026E EPS ~$7.10–7.20):</p>
+    <ul>
+      <li><strong>The dividend yield (~2.94%) is at its highest since 2019</strong> — income investors find PG increasingly attractive at this level.</li>
+      <li><strong>Historical support zones:</strong> The $137–140 range (52-wk low territory) is the key technical floor. A break below $137 with conviction would suggest further downside to the $125–130 range (2022-era levels).</li>
+      <li><strong>Intrinsic concern:</strong> The stock is not "obviously cheap" at 20x — Colgate-Palmolive trades at 18x, Unilever at 18x. If organic growth stays at 0-3%, a 20x multiple requires exceptional margin discipline to justify.</li>
+      <li><strong>What would make it compelling:</strong> A Q3 FY2026 (April 24) earnings beat with organic sales acceleration to 3-5%, restructuring cost savings beginning to show in margins, and confirmation of the tariff headwind being within the $1B guided range.</li>
+    </ul>
+
+    <p style="margin-top:12px;"><strong>Bottom Line:</strong> PG is in a "show me" mode under new CEO Jejurikar. The stock is neither screaming cheap nor obviously overvalued. For a value-oriented investor focused on dividend income and capital preservation, $137–143 offers a meaningful entry with the dividend yield as a floor. For a growth-oriented investor, the more compelling entry would be post-Q3 FY2026 confirmation that organic growth is re-accelerating. A full kg-investment-analysis would be needed to build out the forward thesis, position sizing, and options overlay.</p>
+  </div>
+</div>
+
+<!-- DISCLAIMER -->
+<div class="disclaimer">
+  <strong>Disclaimer:</strong> This price history and event analysis is for informational purposes only and does not constitute investment advice. Price data is approximate (sourced from Yahoo Finance, CNBC, MacroTrends, TradingEconomics, and public financial databases) and may contain minor inaccuracies in intermediate data points. All prices are split-adjusted (PG has not had a stock split since 2004). Event interpretations represent the analyst's view based on available public information. Analysis date: March 25, 2026.
+</div>
+
+</div><!-- end container -->
+
+<script>
+// ---- Price Data ----
+const data5y = {
+  labels: ['Mar-21','Jun-21','Sep-21','Dec-21','Mar-22','Jun-22','Sep-22','Dec-22','Mar-23','Jun-23','Sep-23','Dec-23','Mar-24','Jun-24','Sep-24','Dec-24','Mar-25','Jun-25','Sep-25','Dec-25','Jan-26','Feb-26','Mar-26'],
+  prices: [123.5,131,140,157,152,136,128,139,149,145,138,150,156,162,165,171,173,163,153,147,139,160,143.35]
+};
+const data1y = {
+  labels: ['Mar-25','Apr-25','May-25','Jun-25','Jul-25','Aug-25','Sep-25','Oct-25','Nov-25','Dec-25','Jan 7-26','Jan 22-26','Feb 23-26','Mar 5-26','Mar 19-26','Mar 25-26'],
+  prices: [173,169,165,163,158,155,153,149,148,147,137.62,148,163.14,155.72,145.68,143.35]
+};
+const data30d = {
+  labels: ['Feb 23','Feb 26','Mar 2','Mar 5','Mar 9','Mar 12','Mar 16','Mar 19','Mar 23','Mar 24','Mar 25'],
+  prices: [163.14,161.5,159,155.72,153,152,148,145.68,144,143.16,143.35]
+};
+
+// ---- Annotations ----
+const annotations5y = {
+  a1: { type:'line', xMin:'Jan-22', xMax:'Jan-22', borderColor:'#b45309', borderWidth:2, borderDash:[6,4], label:{ display:true, content:'2022 Rate Hike Cycle Begins', position:'start', backgroundColor:'#b45309', color:'white', font:{size:10,family:'Segoe UI'}, padding:{top:3,bottom:3,left:6,right:6}, borderRadius:4 } },
+  a2: { type:'line', xMin:'Sep-22', xMax:'Sep-22', borderColor:'#b91c1c', borderWidth:2, borderDash:[6,4], label:{ display:true, content:'FQ1\'23 Margin Warning', position:'end', backgroundColor:'#b91c1c', color:'white', font:{size:10,family:'Segoe UI'}, padding:{top:3,bottom:3,left:6,right:6}, borderRadius:4 } },
+  a3: { type:'line', xMin:'Jun-24', xMax:'Jun-24', borderColor:'#b91c1c', borderWidth:2, borderDash:[6,4], label:{ display:true, content:'FQ4\'24 Revenue Miss', position:'start', backgroundColor:'#b91c1c', color:'white', font:{size:10,family:'Segoe UI'}, padding:{top:3,bottom:3,left:6,right:6}, borderRadius:4 } },
+  a4: { type:'line', xMin:'Mar-25', xMax:'Mar-25', borderColor:'#b91c1c', borderWidth:2, borderDash:[6,4], label:{ display:true, content:'Apr\'25 Guidance Cut + Tariffs', position:'end', backgroundColor:'#b91c1c', color:'white', font:{size:10,family:'Segoe UI'}, padding:{top:3,bottom:3,left:6,right:6}, borderRadius:4 } },
+  a5: { type:'line', xMin:'Jun-25', xMax:'Jun-25', borderColor:'#0054a3', borderWidth:2, borderDash:[6,4], label:{ display:true, content:'7,000 Job Cut Restructuring', position:'start', backgroundColor:'#0054a3', color:'white', font:{size:10,family:'Segoe UI'}, padding:{top:3,bottom:3,left:6,right:6}, borderRadius:4 } },
+  a6: { type:'line', xMin:'Jul-25', xMax:'Jul-25', borderColor:'#7c3aed', borderWidth:2, borderDash:[6,4], label:{ display:true, content:'CEO: Moeller → Jejurikar', position:'end', backgroundColor:'#7c3aed', color:'white', font:{size:10,family:'Segoe UI'}, padding:{top:3,bottom:3,left:6,right:6}, borderRadius:4 } },
+  a7: { type:'line', xMin:'Jan 7-26', xMax:'Jan 7-26', borderColor:'#b91c1c', borderWidth:2, borderDash:[6,4], label:{ display:true, content:'52-Wk Low: $137.62', position:'end', backgroundColor:'#b91c1c', color:'white', font:{size:10,family:'Segoe UI'}, padding:{top:3,bottom:3,left:6,right:6}, borderRadius:4 } },
+  a8: { type:'line', xMin:'Feb 23-26', xMax:'Feb 23-26', borderColor:'#15803d', borderWidth:2, borderDash:[6,4], label:{ display:true, content:'Defensive Rally Peak $163', position:'start', backgroundColor:'#15803d', color:'white', font:{size:10,family:'Segoe UI'}, padding:{top:3,bottom:3,left:6,right:6}, borderRadius:4 } }
+};
+
+const annotations1y = {
+  b1: { type:'line', xMin:'Apr-25', xMax:'Apr-25', borderColor:'#b91c1c', borderWidth:2, borderDash:[6,4], label:{ display:true, content:'Guidance Cut / Tariffs', position:'end', backgroundColor:'#b91c1c', color:'white', font:{size:10,family:'Segoe UI'}, padding:{top:3,bottom:3,left:6,right:6}, borderRadius:4 } },
+  b2: { type:'line', xMin:'Jul-25', xMax:'Jul-25', borderColor:'#7c3aed', borderWidth:2, borderDash:[6,4], label:{ display:true, content:'CEO Transition', position:'start', backgroundColor:'#7c3aed', color:'white', font:{size:10,family:'Segoe UI'}, padding:{top:3,bottom:3,left:6,right:6}, borderRadius:4 } },
+  b3: { type:'line', xMin:'Jan 7-26', xMax:'Jan 7-26', borderColor:'#b91c1c', borderWidth:2, borderDash:[6,4], label:{ display:true, content:'52-Wk Low $137.62', position:'end', backgroundColor:'#b91c1c', color:'white', font:{size:10,family:'Segoe UI'}, padding:{top:3,bottom:3,left:6,right:6}, borderRadius:4 } },
+  b4: { type:'line', xMin:'Jan 22-26', xMax:'Jan 22-26', borderColor:'#b91c1c', borderWidth:2, borderDash:[6,4], label:{ display:true, content:'Q2 FY26 EPS Miss', position:'start', backgroundColor:'#b91c1c', color:'white', font:{size:10,family:'Segoe UI'}, padding:{top:3,bottom:3,left:6,right:6}, borderRadius:4 } },
+  b5: { type:'line', xMin:'Feb 23-26', xMax:'Feb 23-26', borderColor:'#15803d', borderWidth:2, borderDash:[6,4], label:{ display:true, content:'Defensive Rally Peak', position:'end', backgroundColor:'#15803d', color:'white', font:{size:10,family:'Segoe UI'}, padding:{top:3,bottom:3,left:6,right:6}, borderRadius:4 } }
+};
+
+const annotations30d = {
+  c1: { type:'line', xMin:'Mar 5', xMax:'Mar 5', borderColor:'#b45309', borderWidth:2, borderDash:[6,4], label:{ display:true, content:'Macro Selloff Begins', position:'end', backgroundColor:'#b45309', color:'white', font:{size:10,family:'Segoe UI'}, padding:{top:3,bottom:3,left:6,right:6}, borderRadius:4 } },
+  c2: { type:'line', xMin:'Mar 24', xMax:'Mar 24', borderColor:'#b91c1c', borderWidth:2, borderDash:[6,4], label:{ display:true, content:'6-Day Losing Streak; Erste Downgrade', position:'start', backgroundColor:'#b91c1c', color:'white', font:{size:10,family:'Segoe UI'}, padding:{top:3,bottom:3,left:6,right:6}, borderRadius:4 } }
+};
+
+let currentChart = null;
+let currentView = '5y';
+
+function buildChart(view) {
+  if (currentChart) currentChart.destroy();
+  const ctx = document.getElementById('priceChart').getContext('2d');
+  let d, annots;
+  if (view === '5y') { d = data5y; annots = annotations5y; }
+  else if (view === '1y') { d = data1y; annots = annotations1y; }
+  else { d = data30d; annots = annotations30d; }
+
+  currentChart = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: d.labels,
+      datasets: [{
+        label: 'PG Close Price (USD)',
+        data: d.prices,
+        borderColor: '#0071c2',
+        backgroundColor: 'rgba(0,113,194,0.07)',
+        fill: true,
+        tension: 0.35,
+        pointRadius: view === '30d' ? 4 : 2,
+        borderWidth: 2.5
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        annotation: { annotations: annots },
+        tooltip: {
+          callbacks: {
+            label: ctx => '$' + ctx.parsed.y.toFixed(2)
+          }
+        }
+      },
+      scales: {
+        x: {
+          grid: { color: 'rgba(0,0,0,0.04)' },
+          ticks: { font: { family: 'Segoe UI', size: 11 }, maxRotation: 45 }
+        },
+        y: {
+          grid: { color: 'rgba(0,0,0,0.06)' },
+          ticks: {
+            font: { family: 'Segoe UI', size: 11 },
+            callback: v => '$' + v
+          },
+          suggestedMin: Math.min(...d.prices) * 0.96,
+          suggestedMax: Math.max(...d.prices) * 1.04
+        }
+      }
+    }
+  });
+}
+
+function showChart(view) {
+  currentView = view;
+  document.querySelectorAll('.chart-btn').forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+  buildChart(view);
+}
+
+buildChart('5y');
+</script>
+</body>
+</html>

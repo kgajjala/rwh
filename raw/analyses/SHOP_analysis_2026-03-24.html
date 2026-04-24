@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SHOP — Investment Analysis</title>
+<style>
+  :root { --navy: #003580; --accent: #0054a3; --mid: #0071c2; --sky: #e8f1fb; --green: #15803d; --red: #b91c1c; --amber: #b45309; --gray: #6b7280; --bg: #f0f4fa; --card: #ffffff; --border: #d9e5f5; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Georgia', 'Times New Roman', serif; background: var(--bg); color: #1a2030; line-height: 1.7; }
+  .container { max-width: 1100px; margin: 0 auto; padding: 24px; }
+  .header { background: linear-gradient(135deg, #001f5c 0%, #003580 40%, #0071c2 100%); color: white; padding: 44px 36px; border-radius: 14px; margin-bottom: 28px; position: relative; overflow: hidden; }
+  .header::before { content: ''; position: absolute; top: -80px; right: -80px; width: 340px; height: 340px; background: rgba(255,255,255,0.04); border-radius: 50%; }
+  .header h1 { font-size: 2em; margin-bottom: 6px; font-weight: 700; }
+  .header .subtitle { font-size: 1.1em; opacity: 0.85; font-style: italic; }
+  .header .badge { display: inline-block; margin-top: 14px; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.22); padding: 5px 16px; border-radius: 20px; font-size: 0.82em; font-family: 'Segoe UI', system-ui, sans-serif; }
+  .header .meta { margin-top: 18px; display: flex; gap: 10px; flex-wrap: wrap; font-size: 0.87em; font-family: 'Segoe UI', system-ui, sans-serif; }
+  .header .meta span { background: rgba(255,255,255,0.13); border: 1px solid rgba(255,255,255,0.18); padding: 5px 13px; border-radius: 8px; }
+  .thesis-tag { display: inline-block; padding: 3px 10px; border-radius: 4px; font-size: 0.78em; font-family: 'Segoe UI', sans-serif; font-weight: 600; text-transform: uppercase; background: rgba(134,239,172,0.2); color: #86efac; border: 1px solid rgba(134,239,172,0.3); margin-left: 10px; vertical-align: middle; }
+  .section { background: var(--card); border-radius: 12px; padding: 30px; margin-bottom: 20px; box-shadow: 0 1px 4px rgba(0,53,128,0.07), 0 0 0 1px var(--border); }
+  .section h2 { color: var(--navy); font-size: 1.3em; margin-bottom: 18px; padding-bottom: 10px; border-bottom: 2px solid var(--border); font-family: 'Segoe UI', sans-serif; font-weight: 700; }
+  .section h3 { color: var(--accent); font-size: 1.05em; margin: 20px 0 10px; font-family: 'Segoe UI', sans-serif; font-weight: 600; }
+  p { margin-bottom: 12px; } ul { margin: 10px 0 10px 22px; } li { margin-bottom: 8px; }
+  table { width: 100%; border-collapse: collapse; margin: 14px 0; font-size: 0.89em; font-family: 'Segoe UI', sans-serif; }
+  th { background: var(--sky); color: var(--navy); padding: 10px 12px; text-align: right; font-weight: 700; border-bottom: 2px solid var(--border); }
+  th:first-child { text-align: left; } td { padding: 9px 12px; border-bottom: 1px solid var(--border); text-align: right; }
+  td:first-child { text-align: left; font-weight: 500; color: #374151; } tr:hover { background: #f5f8ff; }
+  .pos { color: var(--green); font-weight: 700; } .neg { color: var(--red); font-weight: 700; } .neu { color: var(--amber); font-weight: 600; }
+  .highlight { background: #fffbeb; border-left: 4px solid #d97706; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; font-family: 'Segoe UI', sans-serif; font-size: 0.94em; }
+  .verdict { background: linear-gradient(135deg, #f0fdf4, #dcfce7); border-left: 4px solid var(--green); padding: 18px 22px; border-radius: 0 8px 8px 0; margin: 16px 0; font-family: 'Segoe UI', sans-serif; font-size: 0.94em; }
+  .warning { background: #fff1f2; border-left: 4px solid var(--red); padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; font-family: 'Segoe UI', sans-serif; font-size: 0.94em; }
+  .bait-box { background: linear-gradient(135deg, #eff6ff, #dbeafe); border-left: 4px solid var(--mid); padding: 18px 22px; border-radius: 0 8px 8px 0; margin: 16px 0; font-family: 'Segoe UI', sans-serif; font-size: 0.94em; }
+  .info-box { background: #f0f9ff; border-left: 4px solid #0ea5e9; padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 16px 0; font-family: 'Segoe UI', sans-serif; font-size: 0.94em; }
+  .grid4 { display: grid; grid-template-columns: repeat(4,1fr); gap: 14px; margin: 16px 0; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 16px 0; }
+  .metric-card { background: var(--sky); border: 1px solid var(--border); border-radius: 10px; padding: 18px; text-align: center; }
+  .metric-card .value { font-size: 1.55em; font-weight: 800; color: var(--navy); font-family: 'Segoe UI', sans-serif; }
+  .metric-card .label { font-size: 0.8em; color: var(--gray); margin-top: 5px; font-family: 'Segoe UI', sans-serif; }
+  .metric-card.green { background: #f0fdf4; border-color: #bbf7d0; } .metric-card.green .value { color: var(--green); }
+  .metric-card.amber { background: #fffbeb; border-color: #fde68a; } .metric-card.amber .value { color: var(--amber); }
+  .bait-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 16px 0; }
+  .bait-card { border-radius: 10px; padding: 18px; font-family: 'Segoe UI', sans-serif; font-size: 0.9em; }
+  .bait-card.b { background: #eff6ff; border: 1px solid #bfdbfe; } .bait-card.a { background: #f5f3ff; border: 1px solid #ddd6fe; }
+  .bait-card.i { background: #fffbeb; border: 1px solid #fde68a; } .bait-card.t { background: #f0fdf4; border: 1px solid #bbf7d0; }
+  .bait-card .bait-letter { font-size: 1.8em; font-weight: 800; opacity: 0.12; float: right; margin-top: -4px; }
+  .bait-card h4 { font-size: 0.95em; font-weight: 700; margin-bottom: 8px; }
+  .scenario-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 16px 0; }
+  .bull-card { background: #f0fdf4; padding: 20px; border-radius: 10px; border: 1px solid #bbf7d0; font-family: 'Segoe UI', sans-serif; }
+  .bear-card { background: #fff1f2; padding: 20px; border-radius: 10px; border: 1px solid #fecaca; font-family: 'Segoe UI', sans-serif; }
+  .bull-card h3 { color: var(--green); } .bear-card h3 { color: var(--red); }
+  .quote-block { margin: 14px 0; padding-left: 18px; border-left: 3px solid var(--mid); color: #4b5563; font-style: italic; font-size: 0.93em; }
+  .disclaimer { font-size: 0.8em; color: var(--gray); margin-top: 28px; padding: 16px; background: #f0f4fa; border-radius: 8px; font-family: 'Segoe UI', sans-serif; border: 1px solid var(--border); }
+  @media (max-width: 720px) { .grid2,.grid4,.bait-grid,.scenario-grid { grid-template-columns: 1fr; } .header .meta { flex-direction: column; gap: 8px; } }
+</style>
+</head>
+<body>
+<div class="container">
+<div class="header">
+  <h1>Shopify, Inc. (NASDAQ: SHOP) <span class="thesis-tag">Wide Moat Platform</span></h1>
+  <div class="subtitle">Deep Fundamental & Investment Analysis — The Commerce Infrastructure Company</div>
+  <div class="badge">⚡ BAIT: Behavioral + Analytical + Informational — AI Fear Creates Opportunity at Scale</div>
+  <div class="meta">
+    <span>Price: ~$121</span><span>Market Cap: ~$157B</span><span>EV: ~$152B</span><span>2025 Rev: $11.56B (+30%)</span>
+    <span>Op Inc: $1.47B (12.7%)</span><span>FCF: $2.0B (17%)</span><span>52-Wk: $69.84–$182.19</span><span>Date: March 24, 2026</span>
+  </div>
+  <div style="background:rgba(255,255,255,0.08);border:1px solid rgba(255,255,255,0.15);border-radius:8px;padding:10px 16px;margin-top:14px;font-family:'Segoe UI',sans-serif;font-size:0.82em;">
+    <strong>Price verified:</strong> ~$121.10 intraday Mar 24, 2026 · Source: TradingView/Robinhood · 52-wk: $69.84–$182.19 · All multiples from verified price.
+  </div>
+</div>
+
+<div class="section"><h2>1. Why Does This Company Exist?</h2>
+<p>Shopify was built on a foundational insight: selling online was so complex and expensive it excluded most entrepreneurs. In 2004, Tobias Lütke wanted to sell snowboards online, found no adequate platform, and built one. That snowboard store became Shopify in 2006. The mission: <strong>make commerce better for everyone</strong> by providing the essential internet infrastructure for retail businesses of any size.</p>
+<p>Today, Shopify is the world's largest independent e-commerce platform — powering millions of merchants in 175+ countries, processing $378B in GMV in 2025, commanding over 14% of US e-commerce market share. It operates as a platform-of-platforms: online stores, POS hardware, payments (Shopify Payments/Shop Pay), shipping, capital/lending, B2B wholesale, and now the infrastructure layer connecting merchants to every major AI agent via the Universal Commerce Protocol (UCP).</p>
+<p>In Buffett terms: Shopify is the <strong>toll booth on entrepreneurial commerce</strong>. It collects a subscription fee plus a percentage of every transaction. The business owns no inventory, runs no warehouses, carries no retail risk — pure platform, pure infrastructure. Its moat is massive merchant lock-in, a growing payments flywheel, and a first-mover position in agentic AI commerce.</p>
+<div class="highlight"><strong>The Pivotal Investment Question:</strong> Does AI disrupt Shopify (LLM tools let merchants build without a platform, or AI agents bypass checkout entirely) — or does AI amplify Shopify (multi-channel, multi-currency, multi-agent commerce complexity makes Shopify's infrastructure MORE necessary, and its UCP/Catalog become the connective tissue between merchants and every AI surface)? The market fears the former. The data — 15x growth in AI-originated orders, UCP co-developed with Google and endorsed by 20+ retailers, and OpenAI's own admission that agentic checkout is harder than expected — supports the latter.</div>
+</div>
+
+<div class="section"><h2>2. Annual Financial Metrics (6-Year Trend)</h2>
+<h3>Revenue, GMV & Attach Rate</h3>
+<table><tr><th>Metric</th><th>2020</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th><th>2025</th><th>2026E</th></tr>
+<tr><td>Revenue ($B)</td><td>$2.93</td><td>$4.61</td><td>$5.60</td><td>$7.06</td><td>$8.88</td><td class="pos">$11.56</td><td class="pos">~$15.0E</td></tr>
+<tr><td>Revenue Growth</td><td class="pos">+86%</td><td class="pos">+57%</td><td class="pos">+21%</td><td class="pos">+26%</td><td class="pos">+26%</td><td class="pos">+30%</td><td class="pos">~+30%</td></tr>
+<tr><td>GMV ($B)</td><td>$120</td><td>$175</td><td>$197</td><td>$236</td><td>$292</td><td class="pos">$378</td><td class="pos">~$475E</td></tr>
+<tr><td>Attach Rate (Rev/GMV)</td><td>2.44%</td><td>2.63%</td><td>2.84%</td><td>2.99%</td><td>3.04%</td><td class="pos">3.06%</td><td>~3.15%E</td></tr></table>
+<div class="highlight"><strong>Attach Rate Flywheel:</strong> Revenue consistently grows faster than GMV via Payments penetration (now 68% of GMV), Shop Pay (+62%), shipping, capital, and advertising (Shop Campaigns revenue doubled in 2025). Even if GMV growth slows to 15-20%, revenue can still grow 25%+ via attach rate expansion. This compounding is the core of the thesis.</div>
+
+<h3>Profitability</h3>
+<table><tr><th>Metric</th><th>2022</th><th>2023</th><th>2024</th><th>2025</th><th>2026E</th></tr>
+<tr><td>Gross Margin</td><td>49.3%</td><td>49.8%</td><td>50.7%</td><td>48.2%</td><td>~47.5%E</td></tr>
+<tr><td>Operating Income ($B)</td><td class="neg">-$0.82</td><td>$0.27</td><td>$1.08</td><td class="pos">$1.47</td><td class="pos">~$2.1E</td></tr>
+<tr><td>Operating Margin</td><td class="neg">-14.6%</td><td>3.8%</td><td>12.2%</td><td class="pos">12.7%</td><td class="pos">~14%E</td></tr>
+<tr><td>GAAP Diluted EPS</td><td class="neg">-$0.35</td><td>$0.14</td><td>$0.99</td><td class="pos">$1.36</td><td class="pos">~$1.48E</td></tr>
+<tr><td>Headcount</td><td>~10,000</td><td>~8,300</td><td>~8,100</td><td class="pos">~7,600</td><td>~7,600E</td></tr></table>
+
+<h3>Cash Flow & Capital Return</h3>
+<table><tr><th>Metric</th><th>2023</th><th>2024</th><th>2025</th></tr>
+<tr><td>Free Cash Flow ($B)</td><td>$0.84</td><td>$1.62</td><td class="pos">$2.0</td></tr>
+<tr><td>FCF Margin</td><td>11.9%</td><td>18.2%</td><td class="pos">17.3%</td></tr>
+<tr><td>SBC ($M) / % of Rev</td><td>$550 / 7.8%</td><td>$546 / 6.1%</td><td class="pos">~$570 / 4.9%</td></tr>
+<tr><td>Net Cash Position</td><td>~$4.1B</td><td>~$4.5B</td><td class="pos">~$4.6B</td></tr>
+<tr><td>Buyback Program</td><td>—</td><td>—</td><td class="pos">$2.0B authorized Feb 2026</td></tr></table>
+
+<h3>Recent Quarterly Trend</h3>
+<table><tr><th>Metric</th><th>Q2 2025</th><th>Q3 2025</th><th>Q4 2025</th></tr>
+<tr><td>Revenue</td><td>$2.70B</td><td>$2.84B</td><td class="pos">$3.67B</td></tr>
+<tr><td>Revenue Growth YoY</td><td class="pos">+31%</td><td class="pos">+32%</td><td class="pos">+31%</td></tr>
+<tr><td>GMV</td><td>$87.8B</td><td>$92.0B</td><td class="pos">$123.8B</td></tr>
+<tr><td>FCF Margin</td><td>16%</td><td>18%</td><td class="pos">19.5%</td></tr></table>
+</div>
+
+<div class="section"><h2>3. Business & Operational Metrics</h2>
+<table><tr><th>Metric</th><th>2024</th><th>2025</th><th>YoY</th></tr>
+<tr><td>GMV ($B)</td><td>$292</td><td class="pos">$378</td><td class="pos">+29%</td></tr>
+<tr><td>Payments Penetration</td><td>64%</td><td class="pos">68%</td><td class="pos">+4 pts</td></tr>
+<tr><td>Shop Pay GMV Growth</td><td>+50%</td><td class="pos">+62%</td><td class="pos">Accelerating</td></tr>
+<tr><td>US E-Commerce Share</td><td>12%+</td><td class="pos">14%+</td><td class="pos">+2 pts</td></tr>
+<tr><td>B2B GMV Growth</td><td>+140%</td><td class="pos">+96%</td><td class="pos">Rapid</td></tr>
+<tr><td>Int'l Revenue Growth</td><td>+33%</td><td class="pos">+36%</td><td class="pos">Accelerating</td></tr>
+<tr><td>Offline/POS Revenue</td><td>—</td><td class="pos">$748M</td><td class="pos">+27%</td></tr>
+<tr><td>Europe GMV Growth</td><td>—</td><td class="pos">+49%</td><td class="pos">Fastest region</td></tr></table>
+<p><strong>Geographic Mix (FY2025):</strong> US 63% | EMEA 21% | APAC 10% | Canada 5% | LatAm 1%</p>
+</div>
+
+<div class="section"><h2>4. Revenue Mix</h2>
+<table><tr><th>Stream</th><th>2025 ($B)</th><th>% Rev</th><th>Key Driver</th></tr>
+<tr><td>Merchant Solutions</td><td>~$8.4</td><td>~73%</td><td>Payments (+38% GPV), shipping, capital, Shop Campaigns (2x rev)</td></tr>
+<tr><td>Subscription Solutions</td><td>~$3.2</td><td>~27%</td><td>SaaS plans, Plus upgrades (34% of MRR), enterprise wins</td></tr></table>
+<div class="highlight"><strong>New in 2026 — Agentic Plan:</strong> For the first time, Shopify is opening the Catalog to non-Shopify brands via a standalone "Agentic Plan." Brands can list products in the Shopify Catalog and access AI commerce channels (ChatGPT, Gemini, Copilot) without migrating their entire store. This expands the addressable merchant base dramatically and creates a new revenue stream not yet in any analyst model.</div>
+</div>
+
+<div class="section"><h2>5. Competitive Moat — Wide and Widening</h2>
+<ul>
+<li><strong>Switching Costs (Primary):</strong> Online store + payments + POS + shipping + lending + advertising + AI storefronts — all integrated. Enterprise brands like GM, L'Oréal, Estée Lauder don't switch lightly.</li>
+<li><strong>Platform Network Effect:</strong> 875M+ unique shoppers. Shop Pay network creates consumer-side lock-in. Shop App native GMV +94% YoY.</li>
+<li><strong>Data & AI Advantage:</strong> $378B GMV across millions of merchants — arguably the most diverse commerce dataset on the internet. Powers Catalog's specialized LLMs.</li>
+<li><strong>First-Mover in Agentic Commerce:</strong> UCP co-developed with Google, endorsed by Visa, Mastercard, Stripe, Adyen, AmEx, Target, Walmart, Etsy, Wayfair, and 20+ others. Agentic Storefronts activating for ALL stores by default late March 2026.</li>
+</ul>
+<div class="bait-box"><strong>OpenAI's Checkout Retreat VALIDATES the Moat:</strong> CNBC reported (Mar 20, 2026) that OpenAI is abandoning "Instant Checkout" — only ~30 Shopify merchants were successfully onboarded. A Forrester analyst noted it's "not easy for retailers." The revised model routes users to Shopify merchant storefronts for checkout — exactly the "AND" thesis: AI surfaces discover, Shopify handles fulfillment. Same dynamic as BKNG's travel moat.</div>
+</div>
+
+<div class="section"><h2>6. Management & Leadership</h2>
+<p><strong>Tobias Lütke (CEO/Founder):</strong> Built the platform himself. Controls 40% voting via dual-class + Founder Share. Structured 10b5-1 sale plan for ~2M Class A shares through Dec 2026 — routine, pre-arranged, consistent with prior plans.</p>
+<p><strong>Harley Finkelstein (President):</strong> Commercial strategy lead. Frames 2026 as "the year of the builders" in AI commerce.</p>
+<p><strong>Jeff Hoffmeister (CFO):</strong> Drove OpEx as % of revenue down 3pts YoY. Architected $2B buyback — Shopify's first capital return program.</p>
+<div class="verdict"><strong>Management Verdict:</strong> Founder-led, operationally disciplined. Revenue guidance met/exceeded 11+ consecutive quarters. Headcount down 6% while revenue grew 30%. $2B buyback signals capital allocation maturity. Governance concern: dual-class structure with Founder Share — though founder control at this stage is more feature than bug.</div>
+</div>
+
+<div class="section"><h2>7. Strategic Growth Initiatives</h2>
+<ul>
+<li><strong>Universal Commerce Protocol (UCP):</strong> Open standard for AI agent commerce. Co-developed with Google, endorsed by 20+ retailers/payment providers. The "TCP/IP of commerce." Supports REST, MCP, A2A, and AP2 protocols.</li>
+<li><strong>Agentic Storefronts:</strong> Activating by default for ALL Shopify stores late March 2026 across ChatGPT, Google AI Mode, Gemini, Copilot. AI traffic up 7x, orders up 11x since Jan 2025. OpenAI charges 4% fee; Google charges nothing.</li>
+<li><strong>$2B Buyback:</strong> First meaningful capital return. Executing via pre-arranged algorithmic trading. Signals undervaluation view.</li>
+<li><strong>B2B Commerce:</strong> GMV +96% in 2025. Enterprise B2B customers consolidating D2C + wholesale on Shopify.</li>
+<li><strong>International:</strong> Nearly half of merchant base outside North America. Europe GMV +49%. Payments in 16 new regions.</li>
+<li><strong>Shop Campaigns:</strong> Revenue doubled, adoption tripled in 2025. High-margin advertising revenue leveraging commerce data.</li>
+</ul>
+</div>
+
+<div class="section"><h2>8. Key Risks</h2>
+<ul>
+<li><strong>Valuation Compression:</strong> At ~84x P/E, growth below 20% triggers multiple re-rating. Primary near-term risk.</li>
+<li><strong>AI Disruption to SaaS Pricing:</strong> If AI commoditizes storefront building. Counter: Shopify is payments + shipping + lending + AI infrastructure, not just SaaS.</li>
+<li><strong>Gross Margin Pressure:</strong> Merchant Solutions mix shift compresses blended margin. Expected and acceptable.</li>
+<li><strong>Macro/Tariffs:</strong> SMB exposure to tariffs, de minimis removal. Partially insulated by higher-income buyer skew (50%+ above $100K).</li>
+<li><strong>CEO Stock Sales:</strong> ~2M shares through Dec 2026. Structured, pre-arranged. He retains 77.75M Class B shares.</li>
+</ul>
+</div>
+
+<div class="section"><h2>9. Macro & AI Commerce Landscape</h2>
+<div class="grid4">
+<div class="metric-card green"><div class="value">30%</div><div class="label">2025 Revenue Growth</div></div>
+<div class="metric-card green"><div class="value">14%+</div><div class="label">US E-Commerce Share</div></div>
+<div class="metric-card amber"><div class="value">~84x</div><div class="label">Trailing P/E</div></div>
+<div class="metric-card green"><div class="value">11x</div><div class="label">AI Orders Growth Since Jan 2025</div></div>
+</div>
+<table><tr><th>AI Platform</th><th>Status (Mar 2026)</th><th>Impact on SHOP</th></tr>
+<tr><td>Google AI Mode / Gemini</td><td class="pos">UCP-native; no fees</td><td class="pos">Zero-cost new channel</td></tr>
+<tr><td>ChatGPT (OpenAI)</td><td class="neu">Retreated from Instant Checkout; Apps model</td><td class="pos">Validates complexity; storefronts launching</td></tr>
+<tr><td>Microsoft Copilot</td><td class="pos">Embedded checkout live</td><td class="pos">Additional discovery</td></tr>
+<tr><td>Amazon</td><td class="neu">Buy with Prime; Rufus AI</td><td>Partial competitive threat</td></tr></table>
+</div>
+
+<div class="section"><h2>10. Valuation & 100% Return Analysis</h2>
+<div class="grid4">
+<div class="metric-card"><div class="value">~$121</div><div class="label">Current Price</div></div>
+<div class="metric-card"><div class="value">~84x</div><div class="label">Trailing P/E</div></div>
+<div class="metric-card green"><div class="value">~$165</div><div class="label">Analyst Avg Target (+36%)</div></div>
+<div class="metric-card green"><div class="value">~$220</div><div class="label">Analyst High Target (+82%)</div></div>
+</div>
+<h3>100% Return: $121 → $242 in 3-5 Years</h3>
+<table><tr><th>Scenario</th><th>2028E EPS</th><th>P/E</th><th>Price</th><th>Return</th><th>Prob.</th></tr>
+<tr><td>Bear</td><td>$2.50</td><td>45x</td><td>$113</td><td class="neg">-7%</td><td>15%</td></tr>
+<tr><td>Base</td><td>$3.50</td><td>55x</td><td>$193</td><td class="pos">+59%</td><td>45%</td></tr>
+<tr><td>Bull</td><td>$4.20</td><td>60x</td><td>$252</td><td class="pos">+108%</td><td>30%</td></tr>
+<tr><td>Bull+</td><td>$5.00</td><td>65x</td><td>$325</td><td class="pos">+169%</td><td>10%</td></tr></table>
+<p style="font-size:0.85em;color:#374151;font-family:'Segoe UI',sans-serif;"><strong>Probability-weighted expected return: ~75% over 3 years (~20% annualized).</strong> The 100% target requires Bull case (40% combined probability).</p>
+</div>
+
+<div class="section"><h2>11. Position Strategy (5% Portfolio)</h2>
+<h3>Split: 55% Stock / 45% Options</h3>
+<table><tr><th>Tranche</th><th>%</th><th>Entry Zone</th><th>Trigger</th></tr>
+<tr><td>Tranche 1 (now)</td><td>20%</td><td>$118-$125</td><td>Current; 35% off ATH, near support</td></tr>
+<tr><td>Tranche 2</td><td>20%</td><td>$100-$110</td><td>Macro selloff or Q1 miss</td></tr>
+<tr><td>Tranche 3</td><td>15%</td><td>$80-$95</td><td>Major fear; near 52-wk low</td></tr></table>
+<h3>Options (45%)</h3>
+<ul>
+<li><strong>LEAPS Bull Call Spread (20%):</strong> Buy Jan 2028 $120C / Sell Jan 2028 $200C. Max profit $80 minus ~$30-35 debit. 2.3-2.7x if $200 reached.</li>
+<li><strong>Cash-Secured Puts (15%):</strong> Sell monthly 30-45 DTE puts at $100-$110. IV at 93rd percentile → rich premiums (4-7%/cycle). If assigned, effective entry aligns with Tranche 2/3.</li>
+<li><strong>Risk Reversals (10%):</strong> Sell Jun 2026 $100P / Buy Jun 2026 $145C. Near-zero cost. Free upside above $145; obligation to buy at $100 (welcome entry).</li>
+</ul>
+<h3>Key Catalysts</h3>
+<ul>
+<li><strong>Agentic Storefronts Launch (THIS WEEK):</strong> All stores activated by default across ChatGPT, Google, Gemini, Copilot.</li>
+<li><strong>Q1 2026 Earnings (Apr 30):</strong> Management guided low-30s revenue growth vs. street ~25%. Beat likely.</li>
+<li><strong>Buyback Pace:</strong> Aggressive execution at $105-125 is strong positive signal.</li>
+</ul>
+</div>
+
+<div class="section"><h2>12. BAIT Framework</h2>
+<div class="bait-grid">
+<div class="bait-card b"><span class="bait-letter">B</span><h4>🧠 Behavioral — STRONG</h4><p>SaaS selloff + AI disruption fear drove SHOP from $182 → $105 (42% drawdown) while revenue accelerated from 26% → 30%. Q4 beat on revenue and GAAP EPS met with 6-13% decline. Textbook overreaction: thematic fear applied indiscriminately to a company where AI is a structural tailwind.</p></div>
+<div class="bait-card a"><span class="bait-letter">A</span><h4>📊 Analytical — MODERATE-STRONG</h4><p>Consensus models underweight: attach rate compounding (rev grows faster than GMV), Agentic Plan TAM expansion to non-Shopify brands, operating leverage from flat headcount on 30% growth, $2B buyback. A DCF at 22% CAGR / 18% terminal margin / 25x terminal FCF → intrinsic value $180-220, 50-80% above current.</p></div>
+<div class="bait-card i"><span class="bait-letter">I</span><h4>📡 Informational — MODERATE</h4><p>Under-discussed: (1) OpenAI's Instant Checkout retreat (only ~30 merchants onboarded) validates fulfillment complexity; (2) AI orders up 11x from small base; (3) UCP endorsed by Visa, Mastercard, Stripe, Adyen — payments layer rallying around Shopify's standard; (4) Agentic Plan revenue stream in zero analyst models.</p></div>
+<div class="bait-card t"><span class="bait-letter">T</span><h4>⚙️ Technical — MODERATE</h4><p>$2B buyback creates structural demand floor. Truist upgrade triggered 8.5% rally — coiled for more upgrades. CEO 10b5-1 sale (~2M shares) creates mild supply overhang. Net neutral-to-positive.</p></div>
+</div>
+<div class="bait-box"><strong>BAIT Verdict — B + A + I Triple Overlap:</strong> Stronger signal than SCHW (B+A only), comparable to BKNG (B+A+T). The Behavioral fear is identifiable and contradicted by primary data. The Analytical case shows underappreciated compounding. The Informational edge around UCP/OpenAI retreat is significant. Q1 earnings April 30 is the potential Technical catalyst.</div>
+</div>
+
+<div class="section"><h2>13. Bull vs. Bear Case</h2>
+<div class="scenario-grid">
+<div class="bull-card"><h3>🐂 Bull ($250-$325 by 2028-2029)</h3><ul>
+<li>UCP becomes industry standard; Catalog is default AI product discovery layer</li>
+<li>Revenue sustains 25-30% via attach rate + international + B2B</li>
+<li>Operating margins reach 18-20% on flat headcount</li>
+<li>Agentic Plan adds hundreds of thousands of non-Shopify merchants</li>
+<li>FCF reaches $4-5B; buybacks reduce count 5-8%</li>
+<li>2028 EPS $4.50-5.50 × 55-60x = $248-$330</li>
+</ul></div>
+<div class="bear-card"><h3>🐻 Bear ($70-$90)</h3><ul>
+<li>Revenue growth decelerates to 12-15%; SMB merchant churn</li>
+<li>AI tools commoditize e-commerce; subscription pricing erodes</li>
+<li>Amazon Buy with Prime gains traction, pulling GMV</li>
+<li>Macro recession + tariffs hit consumer spending</li>
+<li>Multiple compresses to 40-50x</li>
+<li>2028 EPS $2.00 × 40x = $80</li>
+</ul></div>
+</div>
+<div class="highlight"><strong>Asymmetry:</strong> Bull offers 100-170% upside (40% probability). Bear implies 25-40% downside (15% probability) — requiring AI disruption to actually appear in operating metrics, which current data contradicts. Risk/reward: ~5:1 favorable. The same AI narrative depressing the stock is the company's most powerful growth catalyst.</div>
+</div>
+
+<div class="section"><h2>14. Bottom Line</h2>
+<div class="verdict">
+<p><strong>Verdict: Buy</strong> · <strong>Allocation: 5% of portfolio</strong> · <strong>Split: 55% stock / 45% options</strong></p>
+<p>SHOP is a high-conviction, 5% allocation — the largest position being built in the current portfolio. This is a Wide Moat commerce infrastructure company growing 30% at $11.6B scale, generating $2B FCF, with expanding margins and a first-mover position in agentic AI commerce that the market prices as a threat rather than an accelerant.</p>
+<p><strong>100% return target (~$242):</strong> Requires the Bull case (40% combined probability). Base case (45%) delivers ~59% ($193). Probability-weighted expected return: ~75% over 3 years.</p>
+<p><strong>Key Risk to Monitor:</strong> NOT AI disruption (data contradicts) but <strong>revenue growth deceleration below 20%</strong>. If two consecutive quarters show sub-20% growth AND margins decline, the premium multiple fails. Price alert: $85 for thesis reassessment.</p>
+</div>
+<h3>Cross-Portfolio Comparison</h3>
+<table><tr><th>Metric</th><th>SHOP</th><th>BKNG</th><th>SCHW</th></tr>
+<tr><td>Conviction</td><td class="pos">Highest</td><td class="pos">Very High</td><td class="pos">High</td></tr>
+<tr><td>Allocation</td><td>5%</td><td>1.5-2.5%</td><td>1%</td></tr>
+<tr><td>Stock/Options</td><td>55/45</td><td>80/20</td><td>90/10</td></tr>
+<tr><td>Revenue Growth</td><td class="pos">30%</td><td>+13%</td><td>+22%</td></tr>
+<tr><td>BAIT Overlap</td><td class="pos">B+A+I</td><td class="pos">B+A+T</td><td>B+A</td></tr>
+<tr><td>Near-Term Catalyst</td><td class="pos">Agentic NOW + Q1 Apr 30</td><td>Split Apr 2</td><td>Q1 earnings</td></tr></table>
+</div>
+
+<div class="section"><h2>15. Management Framework & Signposts</h2>
+<div class="quote-block">"2025 was Shopify at full throttle — driving compounding growth, while laying the rails for the new era of AI commerce. 2026 will be the year of the builders." — Harley Finkelstein, Q4 2025</div>
+<div class="quote-block">"The shift to agentic commerce will require a shared language across the ecosystem — and the Universal Commerce Protocol provides that framework." — Ashish Gupta, Google</div>
+<h3>Signpost Dashboard</h3>
+<table><tr><th>Signpost</th><th>Current</th><th>Bull Signal</th><th>Bear Signal</th></tr>
+<tr><td>Revenue Growth</td><td class="pos">31%</td><td>>25%</td><td class="neg"><20%</td></tr>
+<tr><td>GMV Growth</td><td class="pos">31%</td><td>>20%</td><td class="neg"><15%</td></tr>
+<tr><td>Payments Penetration</td><td class="pos">68%</td><td>>70%</td><td class="neg">Declining</td></tr>
+<tr><td>FCF Margin</td><td class="pos">17%</td><td>>18%</td><td class="neg"><14%</td></tr>
+<tr><td>AI-Attributed Orders</td><td class="pos">Up 11x</td><td>5x+ growth</td><td class="neg">Stagnation</td></tr>
+<tr><td>International Rev Growth</td><td class="pos">+36%</td><td>>30%</td><td class="neg"><20%</td></tr></table>
+<div class="info-box"><strong>Thesis Break:</strong> Two consecutive quarters of sub-20% revenue growth + declining margins. Price alert: $85.</div>
+</div>
+
+<div class="disclaimer"><strong>Disclaimer:</strong> This analysis is for informational purposes only and does not constitute investment advice. The author is not a financial advisor. Options involve significant risk including total loss of premium. Data from Shopify SEC filings, Q4 2025 earnings release (Feb 11, 2026), CNBC, Bloomberg, analyst reports. Date: March 24, 2026.</div>
+</div>
+</body>
+</html>

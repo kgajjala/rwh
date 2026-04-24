@@ -1,20 +1,26 @@
-# CLAUDE.md — kg-invest-wiki Schema
+# CLAUDE.md — kg-invest-wiki Schema (v2)
 
-This is the instruction file for the LLM agent (Claude Code or equivalent) that
-maintains this wiki. Read this file at the start of every session before making
-any changes to the wiki/ directory.
+This is the instruction file for the LLM agent that maintains this wiki.
+**Read this file at the start of every session before making any changes to `wiki/`, `raw/`, or `outputs/`.**
 
 ---
 
 ## What This Wiki Is
 
-A personal investment knowledge base maintained by an LLM agent. It accumulates
-and compounds knowledge from raw source material over time — replacing the need
-to re-derive analysis from scratch on every session.
+A personal, position-agnostic investment knowledge base maintained by an LLM agent.
+It accumulates and compounds knowledge from primary sources over time so that every
+session starts from the latest synthesis, not a blank page.
 
-**Owner**: Karthik G  
-**Started**: April 2026  
-**Model**: Karpathy LLM Wiki pattern (gist: karpathy/442a6bf555914893e9891c11519de94f)
+- **Owner**: Karthik G
+- **Started**: April 2026
+- **Schema version**: v2 (April 2026)
+- **Model**: Karpathy LLM Wiki pattern, adapted
+
+### What this wiki is *not*
+- It is **not** a portfolio tracker. It does not record what the owner holds.
+- It does **not** prescribe position sizing, tranche %, or portfolio allocation.
+- It does **not** invent numbers. Every figure traces to a primary source or is
+  explicitly tagged `[Estimate]` / `[Analyst consensus]` / `[Management guidance]`.
 
 ---
 
@@ -22,142 +28,336 @@ to re-derive analysis from scratch on every session.
 
 ```
 kg-invest-wiki/
-├── CLAUDE.md              ← This file. Read before every session.
-├── raw/                   ← Immutable source material. NEVER modify.
-│   ├── transcripts/       ← Earnings call transcripts (.md or .txt)
-│   ├── filings/           ← 10-Ks, 10-Qs, proxy statements
-│   ├── clippings/         ← Web-clipped articles (via Obsidian Web Clipper)
-│   └── analyses/          ← Prior full analyses exported from Claude sessions
-├── wiki/                  ← LLM-owned. You write and maintain everything here.
-│   ├── index.md           ← Master catalog. Update on every ingest.
-│   ├── log.md             ← Append-only event log. Never delete entries.
-│   ├── tickers/           ← One folder per company
+├── CLAUDE.md                     ← This file. Read before every session.
+├── README.md
+├── raw/                          ← Immutable source material. NEVER modify.
+│   ├── [TICKER]/                 ← Per-ticker raw store (created on first ingest)
+│   │   ├── filings/              ← 10-K, 10-Q, 8-K, DEF 14A
+│   │   ├── transcripts/          ← Earnings call transcripts
+│   │   ├── press-releases/       ← Earnings + corporate announcements
+│   │   ├── investor-day/         ← Slide decks, conference presentations
+│   │   └── analyst-reports/      ← User-uploaded PDFs from research firms
+│   ├── clippings/                ← General articles, not ticker-specific
+│   └── analyses/                 ← Legacy folder — pre-v2 imports (read-only)
+├── wiki/                         ← LLM-owned. Write and maintain everything here.
+│   ├── index.md                  ← Master catalog. Updated on every ingest.
+│   ├── log.md                    ← Append-only event log. Never delete entries.
+│   ├── watchlist.md              ← Cross-ticker attractiveness ranking (no allocation)
+│   ├── tickers/
 │   │   └── [TICKER]/
 │   │       ├── overview.md       ← Business description, moat, pivotal question
-│   │       ├── thesis.md         ← Full investment thesis (15 sections condensed)
-│   │       ├── financials.md     ← Key metrics table, updated each earnings
-│   │       └── changelog.md      ← What changed and whether action is warranted
-│   ├── frameworks/        ← Analytical frameworks used across all tickers
-│   └── watchlist.md       ← Cross-ticker ranking, conviction, allocation
-└── outputs/               ← Generated HTML reports, exported analyses
+│   │       ├── thesis.md         ← Full 15-section thesis
+│   │       ├── financials.md     ← Key metrics tables, refreshed each event
+│   │       └── changelog.md      ← Append-only per-ticker event log
+│   └── frameworks/               ← Cross-ticker analytical frameworks
+│       ├── bait.md
+│       ├── moneyball.md
+│       └── asset-types.md
+└── outputs/                      ← Generated reports.
+    ├── [TICKER]/
+    │   └── [TICKER]_initial_analysis_YYYY-MM-DD.md   ← Polished first-run report
+    └── weekly/
+        └── YYYY-MM-DD_weekly_summary.md              ← Friday cross-ticker rollup
 ```
 
 ---
 
 ## Core Rules
 
-1. **Never modify raw/**. It is the immutable source of truth.
-2. **Always update index.md** when adding or substantially changing a wiki page.
-3. **Always append to log.md** with a timestamped entry for every session action.
-4. **Never delete from log.md**. It is append-only.
-5. **Source data only from published sources**: SEC filings, earnings releases,
-   official IR pages. Never invent or estimate financials without labeling them
-   clearly as `[Estimate]` or `[Analyst consensus]`.
-6. **Live price always verified first**: Before any valuation work, fetch from
-   `https://finance.yahoo.com/quote/[TICKER]` — never trust search snippet prices.
-7. **changelog.md is the action layer**: After every update to a thesis, write
-   a changelog entry that explicitly states whether the thesis is Strengthened /
-   Weakened / Unchanged, and whether action is warranted (Buy more / Trim / Hold / Watch).
+1. **Never modify `raw/`**. It is the immutable source of truth. Add, never edit.
+2. **Position-agnostic**. The wiki analyzes the *company*, not the owner's holdings.
+   Recommendations are framed conditionally: what action a non-holder should consider
+   vs. what a holder should consider, when they diverge.
+3. **No portfolio sizing**. Do not write tranche %, position %, target allocation,
+   or stock/options split anywhere in the wiki. Price-level entry/exit *valuation*
+   ranges (e.g., "attractive below $140") are allowed — those are valuation, not sizing.
+4. **Always update `index.md`** when adding or substantially changing a wiki page.
+5. **Always append to `log.md`** with a timestamped entry for every session action.
+   Never delete or rewrite existing entries.
+6. **Source from primary sources**: SEC filings, earnings releases, official IR
+   pages, transcripts, conference materials. Anything not from primary sources must
+   be tagged `[Estimate]`, `[Analyst consensus]`, `[Management guidance]`, or
+   `[Source: <name>, <date>]`.
+7. **Live price always verified first**: Before any valuation work, fetch from
+   `https://finance.yahoo.com/quote/[TICKER]`. If unavailable, fall back to web search
+   (CNBC, Google Finance, MarketWatch). Never trust a search-snippet price; click through.
+8. **`changelog.md` is the action layer**: After every wiki update, write a changelog
+   entry stating Thesis Status (Strengthened / Weakened / Unchanged) and a recommended
+   action verb (Initiate / Add / Reduce / Exit / Hold / Avoid).
+9. **Quiet weeks still log**. If a weekly run finds no material events for a ticker,
+   write a `[YYYY-MM-DD] — No Material Events` changelog entry with a price /
+   short-interest / analyst-consensus snapshot. This becomes the next week's baseline.
 
 ---
 
-## Investment Framework (Applied to All Tickers)
+## Investment Framework — 15-Section Thesis Structure
 
-### 15-Section Analysis Structure
+Every ticker's `thesis.md` follows this structure:
 
-Every ticker's `thesis.md` follows this structure (condensed from full HTML output):
+| # | Section | Purpose |
+|---|---------|---------|
+| 1 | Why Does This Company Exist? + Pivotal Investment Question | Founding insight + the one question the thesis turns on |
+| 2 | Annual Financial Metrics | 4–6 year trend + recent quarters |
+| 3 | Geographic Revenue Mix | Region table + forward-looking shifts |
+| 4 | Revenue Mix & Business Model | Revenue streams, unit economics, business-model evolution |
+| 5 | Competitive Moat | Wide / Narrow / None + sources + vulnerabilities |
+| 6 | Management & Leadership | CEO/CFO assessment + capital allocation track record |
+| 7 | Strategic Growth Initiatives | The growth vectors that justify forward multiples |
+| 8 | Key Risks | Impact × Probability table |
+| 9 | Industry-Specific Macro Analysis | TAM, structural dynamics, regulatory environment |
+| 10 | Valuation & Comparable Analysis | Multiples, peer set, "fair price" range |
+| 11 | **Catalyst & Sentiment Tracker** | **(NEW)** Analyst ratings, short interest, options skew, insider activity, recent news, upcoming events |
+| 12 | BAIT Framework | Behavioral / Analytical / Informational / Technical lenses |
+| 13 | Bull / Bear / Base Cases | Scenario price targets with explicit probabilities summing to 100% |
+| 14 | Probability-Weighted Expected Value | PW EV vs. current price; horizon stated |
+| 15 | **Recommendation & Bottom Line** | **(REVISED)** Action verb (Initiate / Add / Reduce / Exit / Hold / Avoid), price-level rationale, thesis-break triggers, next review trigger |
 
-1. Why Does This Company Exist? + Pivotal Investment Question
-2. Annual Financial Metrics (4–6 year trend + recent quarters)
-3. Geographic Revenue Mix
-4. Revenue Mix & Business Model
-5. Competitive Moat (Wide / Narrow / None + sources)
-6. Management & Leadership (CEO/CFO assessment + capital allocation)
-7. Strategic Growth Initiatives
-8. Key Risks (Impact × Probability)
-9. Industry-Specific Macro Analysis
-10. Valuation & Comparable Analysis
-11. Position Building Strategy (stock % vs. options %, staged tranches)
-12. BAIT Framework (Behavioral / Analytical / Informational / Technical)
-13. Bull / Bear / Base Cases with price targets and probabilities
-14. Bottom Line (1-yr + 3-yr targets, portfolio %, monitoring trigger)
+### Section 11 — Catalyst & Sentiment Tracker (detail)
 
-### BAIT Framework (Mauboussin)
+This is the surface that drives weekly incrementals. Standardized fields:
 
-Applied in Section 12 of every full thesis. Four lenses:
+- **Live price + 52-week range + % from high/low** (with date stamp)
+- **Analyst consensus**: rating breakdown (Buy/Hold/Sell counts), median target,
+  high/low. Note any rating changes since last update with firm name + direction.
+- **Short interest**: % of float, days-to-cover, week-over-week and month-over-month delta.
+  Flag any sustained increase >10% MoM.
+- **Options skew (optional)**: 30-day put/call ratio, IV percentile if material.
+- **Insider activity (last 90 days)**: net buy/sell, notable transactions
+  (>$1M or executive officers / directors). Source: OpenInsider or equivalent + SEC Form 4.
+- **Recent corporate news (last 90 days)**: bullet list, each tagged
+  `[YYYY-MM-DD] [Event Type] — [one-line summary] [Source: ...]`
+- **Upcoming catalysts**: earnings date, shareholder meeting, FDA/regulatory date,
+  product launch, contract decision — anything date-anchored.
 
-- **B — Behavioral**: Is there identifiable sentiment/fear driving mispricing?
-  Is the fear empirically supported by operating data, or narrative-only?
-- **A — Analytical**: What is consensus missing? (buyback compounding, AI leverage,
-  attach rate acceleration, hidden FCF). What does a rigorous model yield vs. price?
-- **I — Informational**: Is there primary data (transcript, filing, conference)
-  underappreciated because most investors rely on media summaries?
+### Section 15 — Recommendation & Bottom Line (detail)
+
+Required structure:
+
+```
+**Thesis in one sentence**: [Single sentence stating the central thesis]
+
+**For a non-holder**: [Initiate / Watch / Avoid] — [price-level rationale]
+**For a current holder**: [Add / Hold / Reduce / Exit] — [price-level rationale]
+
+**Attractive entry zone**: [$X – $Y] (rationale: [valuation logic])
+**Trim zone**: [$X – $Y] (rationale: [valuation logic])
+**Exit / avoid zone**: [$X – $Y] (rationale: [valuation logic])
+
+**Thesis-break triggers** (would force re-rating, possibly to Exit / Avoid):
+- [Specific quantified trigger 1]
+- [Specific quantified trigger 2]
+- ...
+
+**Next review trigger**: [Specific event or date]
+```
+
+---
+
+## BAIT Framework (Mauboussin)
+
+Section 12 of every thesis. Four lenses:
+
+- **B — Behavioral**: Identifiable sentiment / fear driving mispricing? Empirically
+  supported by operating data, or narrative-only?
+- **A — Analytical**: What is consensus missing? What does a rigorous model yield
+  vs. price?
+- **I — Informational**: Primary data (transcript, filing, conference) underappreciated
+  because most investors rely on summaries?
 - **T — Technical**: Converging mechanical catalysts — index inclusion, short squeeze,
   buyback acceleration, options expiry, institutional flow.
 
 **BAIT Verdict**: Triple or quadruple overlap = highest-conviction signal.
-
-### Moneyball Probability Scoring
-
-All scenario price targets carry explicit probabilities summing to 100%.
-Example: Bull $X (30%) + Base $Y (50%) + Bear $Z (20%) = weighted EV of $W.
-Use this to compute expected return vs. current price.
-
-### Asset Type Rules
-
-| Type | Key Metrics | Valuation Primary |
-|------|-------------|-------------------|
-| Capital-light platform (BKNG) | GBV, Take Rate, Room Nights | FCF yield, EV/EBITDA |
-| Franchise royalty (WING) | SSS, AUV, Unit Count, Royalty Rate | EV/EBITDA |
-| Financial/Brokerage (SCHW) | NII, NIM, AUM, Net New Assets | P/TBV, P/E |
-| Pharma/Biotech (LLY) | Revenue by drug, pipeline milestones | P/E, EV/Sales |
-| Managed Care (UNH) | MLR, membership, premium yield | P/E, P/FCF |
+Always rate each lens Strong / Moderate / Weak with a one-paragraph justification.
+Full detail in `wiki/frameworks/bait.md`.
 
 ---
 
-## Update Operations
+## Moneyball Probability Scoring
 
-### On New Earnings (Mode B)
+Section 13 / 14 of every thesis. All scenario price targets carry explicit
+probabilities summing to 100%.
 
-When a new earnings transcript or press release is added to `raw/transcripts/`:
+Example: Bull $X (30%) + Base $Y (50%) + Bear $Z (20%) = weighted EV of $W.
+Use this to compute expected return vs. current price, with horizon stated.
 
-1. Read the new file
-2. Extract: headline numbers vs. consensus, guidance update, management tone,
-   key Q&A moments, any thesis-altering disclosures
-3. Update `wiki/tickers/[TICKER]/financials.md` with the new quarter's data
-4. Update `wiki/tickers/[TICKER]/thesis.md` Sections 2, 8, 13, 14 if materially changed
-5. Write a new entry in `wiki/tickers/[TICKER]/changelog.md`
-6. Update `wiki/watchlist.md` if conviction or allocation has changed
-7. Update `wiki/index.md` with new last-updated date
-8. Append to `wiki/log.md`
+Full detail in `wiki/frameworks/moneyball.md`.
 
-### On New Clipping (web article, research note)
+---
 
-1. Read the file in `raw/clippings/`
-2. Determine which ticker(s) it affects
-3. Integrate relevant data points into the appropriate `thesis.md` or `overview.md`
-4. Note the source in the relevant section with a `[Source: filename, date]` tag
-5. Append to `wiki/log.md`
+## Asset Type Rules
 
-### Weekly Lint Pass
+| Type | Key Metrics | Valuation Primary |
+|------|-------------|-------------------|
+| Capital-light platform (BKNG, SHOP) | GBV, take rate, room nights, GMV | FCF yield, EV/EBITDA |
+| Three-sided marketplace (DASH) | GOV, orders, MAU, take rate, ad attach | EV/EBITDA, EV/GOV |
+| Franchise royalty (WING) | SSS, AUV, unit count, royalty rate | EV/EBITDA |
+| Financial / brokerage (SCHW) | NII, NIM, AUM, NNA | P/TBV, P/E |
+| Pharma / biotech (LLY) | Revenue by drug, pipeline milestones | P/E, EV/Sales |
+| Managed care (UNH) | MLR, membership, premium yield | P/E, P/FCF |
+| Mortgage / housing (RKT) | Origination volume, recapture, gain-on-sale | P/TBV, EV/EBITDA |
+| Consumer staples (PG) | Organic sales growth, volume vs. price, FX | P/E, dividend yield |
 
-Run this when asked to "lint the wiki" or on the weekly cron trigger:
+Full detail in `wiki/frameworks/asset-types.md`.
 
-1. Check every ticker's `financials.md` — is the data stale (>90 days since earnings)?
-   Flag with `⚠️ STALE — next earnings: [date]`
-2. Check `watchlist.md` — are all BAIT signals and conviction levels current?
-3. Check `index.md` — are all pages listed and summaries current?
-4. Append a lint summary to `log.md`
+---
+
+## Workflow A — First-Run Ingest (Mode A: Full Analysis)
+
+Triggered by: "ingest [TICKER]" or "build wiki page for [TICKER]".
+
+### Step 1 — Pre-flight
+1. Read this `CLAUDE.md`.
+2. Read the `kg-investment-analysis` skill SKILL.md if not already loaded.
+3. Check whether `wiki/tickers/[TICKER]/` already exists. If yes, this is not a
+   first-run — switch to Workflow B instead.
+
+### Step 2 — Fetch standard raw set
+Create `raw/[TICKER]/` and populate with:
+- **Latest 10-K** (most recent annual filing) → `filings/`
+- **Last 4 quarterly earnings transcripts** → `transcripts/`
+- **Last 4 quarterly earnings press releases** → `press-releases/`
+- **All 8-K filings in last 12 months** → `filings/`
+- **Most recent DEF 14A (proxy statement)** → `filings/`
+- **Latest investor day or annual conference deck**, if available → `investor-day/`
+- **Any user-supplied PDFs** → `analyst-reports/` (user-managed)
+
+Source preference: SEC EDGAR > company IR site > major aggregator.
+Do not fabricate filings. If something is unavailable, log the gap and move on.
+
+### Step 3 — Verify live data
+- Live price from Yahoo Finance (fallback: CNBC, Google Finance via web search)
+- 52-week range, market cap, EV, latest float
+- Current short interest (aggregator)
+- Current analyst consensus (rating breakdown, median target)
+- Recent insider activity (last 90 days, aggregator + SEC Form 4 spot check)
+
+### Step 4 — Synthesize the 15 sections
+Compile from the raw set, not from prior media summaries. Cite primary source for
+every material claim. Tag estimates explicitly.
+
+### Step 5 — Write wiki files
+- `wiki/tickers/[TICKER]/overview.md`
+- `wiki/tickers/[TICKER]/thesis.md` (all 15 sections)
+- `wiki/tickers/[TICKER]/financials.md`
+- `wiki/tickers/[TICKER]/changelog.md` (initial entry — "Initial Ingest")
+
+### Step 6 — Generate polished report
+Write a single consolidated MD report combining overview + thesis + financials
+to: `outputs/[TICKER]/[TICKER]_initial_analysis_YYYY-MM-DD.md`
+
+### Step 7 — Update cross-cutting files
+- `wiki/index.md` — add row, refresh ticker summary, refresh last-updated date
+- `wiki/watchlist.md` — add row in attractiveness ranking
+- `wiki/log.md` — append entries for INGEST, UPDATE, REPORT actions
+
+---
+
+## Workflow B — Weekly Incremental (Mode B)
+
+Triggered by: scheduled task every **Friday evening**, OR manual command
+"weekly update" / "update [TICKER]".
+
+### Step 1 — Determine baseline
+For each ticker in `wiki/tickers/`:
+- Read the latest entry in `wiki/tickers/[TICKER]/changelog.md`.
+- The baseline is the date of that entry. The lookback window is
+  **everything that has happened since that date**.
+
+### Step 2 — Scan for meaningful events (lookback window)
+Check for any event from the **Meaningful Events List** below. Sources:
+- Company IR page (press releases, 8-K filings)
+- SEC EDGAR (any filings since baseline)
+- Earnings calendar (was there an earnings event in window?)
+- Analyst rating changes (primary research firm releases or aggregator)
+- Short interest aggregator (any material delta)
+- Insider activity aggregator (any new Form 4 transactions)
+- News search for ticker for window
+
+### Step 3a — If material events exist
+1. Fetch and store the new raw material under `raw/[TICKER]/<subfolder>/`.
+2. Update affected sections of `thesis.md` and `financials.md`.
+3. Update Section 11 (Catalyst & Sentiment Tracker) and Section 15
+   (Recommendation) if anything moved.
+4. Append a `changelog.md` entry using the standard format below.
+5. Update `wiki/index.md` last-updated date.
+6. Update `wiki/watchlist.md` ranking if attractiveness changed.
+
+### Step 3b — If no material events (quiet week)
+1. Write a `[YYYY-MM-DD] — No Material Events` changelog entry containing a
+   snapshot: live price, 52-wk range %, short interest %, analyst consensus
+   median target, any minor news headlines reviewed and dismissed.
+2. This entry sets the new baseline. Do not modify `thesis.md`.
+
+### Step 4 — Write the weekly cross-ticker summary
+After all tickers are processed, write:
+`outputs/weekly/YYYY-MM-DD_weekly_summary.md`
+
+Required content:
+- Header: date, ticker count, count with material events vs. quiet
+- Per-ticker section with: action verb (if changed), one-line "what happened",
+  price delta vs. last week, recommendation delta if any, source links
+- Cross-ticker macro callouts (rate moves, sector rotations) where relevant
+- Upcoming catalysts in the next 1–2 weeks
+
+### Step 5 — Log
+- Append all per-ticker actions to `wiki/log.md`.
+- Append a final `WEEKLY` entry summarizing the run.
+
+---
+
+## Meaningful Events List (extensible)
+
+Trigger a wiki update when any of the following occur during the lookback window:
+
+- **Earnings**: 10-Q / 10-K filing, earnings press release, earnings call transcript
+- **Shareholder meeting**: annual meeting, special meeting, proxy vote outcomes
+- **Strategic announcements**: new product launch, market entry, market exit,
+  divestiture, asset sale, restructuring
+- **M&A**: acquisition announcement / close, merger, joint venture, strategic partnership
+- **Capital allocation changes**: buyback authorization or execution update,
+  dividend initiation / increase / cut / suspension, debt issuance, equity issuance
+- **Analyst rating changes**: any upgrade / downgrade / initiation / target revision
+  from a primary research firm. Pay extra attention to clusters (3+ firms in a week).
+- **Short interest delta**: >10% MoM change, OR sustained 3-week trend in either direction
+- **Insider activity**: any Form 4 transaction >$1M, OR any cluster of buys/sells,
+  OR any unusual pattern (CEO/CFO sell into a decline, etc.)
+- **Major regulatory action**: agency investigation, fine, ruling, new rule
+  affecting the business model, antitrust action
+- **Litigation**: material lawsuit filed, settlement, judgment
+- **Management changes**: CEO/CFO/COO appointment or departure, board changes
+- **Credit / rating agency actions**: rating change from S&P / Moody's / Fitch
+
+This list is extensible — add new event types over time. Update this section
+when a new event type is added.
+
+---
+
+## Data Source Priority
+
+| Data Type | Primary | Fallback |
+|-----------|---------|----------|
+| Live price | Yahoo Finance (`finance.yahoo.com/quote/[TICKER]`) | CNBC, Google Finance, MarketWatch (via web search) |
+| Filings | SEC EDGAR | Company IR site |
+| Transcripts | Company IR site, Motley Fool, Seeking Alpha | Yahoo Finance transcripts |
+| Press releases | Company IR site, BusinessWire, PRNewswire | Web search |
+| Analyst ratings | Primary research firm releases | User-uploaded PDFs in `raw/[TICKER]/analyst-reports/`, aggregator (TipRanks / Yahoo) |
+| Short interest | Aggregator (Fintel, ChartExchange, NASDAQ) | FINRA twice-monthly data |
+| Insider activity | OpenInsider or equivalent aggregator | SEC EDGAR Form 4 direct |
+| Options data | CBOE, Yahoo options chain | Barchart |
 
 ---
 
 ## changelog.md Format (Per Ticker)
 
-```markdown
-## [YYYY-MM-DD] — [Event Type: Earnings Q[X] / Price Action / New Clipping / Lint]
+Append-only. Most recent entry first.
 
-**Trigger**: [What caused this update]
-**Data points reviewed**: [List of sources read]
+### Standard event entry
+
+```markdown
+## [YYYY-MM-DD] — [Event Type: Earnings Q[X] / Strategic Announcement / Analyst Action / Insider Cluster / etc.]
+
+**Trigger**: [What caused this update; cite primary source filename or URL]
+**Sources reviewed**: [List of files in raw/ or URLs read]
 
 ### What Changed
 - [Specific metric or thesis element that changed]
@@ -167,40 +367,127 @@ Run this when asked to "lint the wiki" or on the weekly cron trigger:
 - **Overall**: Strengthened / Weakened / Unchanged
 - **BAIT delta**: [Any change in B/A/I/T signals]
 - **Price target delta**: Bull $X → $Y | Base $X → $Y | Bear $X → $Y
+- **Catalyst & Sentiment delta**: [Short interest, analyst, insider, options changes]
 
-### Action
-- [ ] Buy more — [rationale + suggested tranche]
-- [ ] Trim — [rationale + suggested %]
-- [x] Hold — [rationale]
-- [ ] Watch — [specific trigger to monitor]
+### Recommendation
+- **For a non-holder**: Initiate / Watch / Avoid — [rationale]
+- **For a current holder**: Add / Hold / Reduce / Exit — [rationale]
 
 **Next review trigger**: [Specific event or date]
+```
+
+### Quiet-week entry
+
+```markdown
+## [YYYY-MM-DD] — No Material Events
+
+**Lookback window**: [Prior baseline date] → [today]
+**Sources scanned**: IR page, SEC EDGAR, analyst feed, short-interest, insider feed, news search
+
+### Snapshot
+- Price: $X (Δ vs. last entry: ±Y%)
+- 52-wk range: $L – $H (% from high: ±Z%)
+- Short interest: A% of float (Δ MoM: ±B%)
+- Analyst consensus: median target $C (Δ: ±D%)
+- Recent news scanned and dismissed: [bullet list, one-line each]
+
+**Recommendation**: Unchanged.
+**Next review trigger**: Next Friday (default), or [specific upcoming catalyst].
 ```
 
 ---
 
 ## log.md Format
 
-Each entry starts with a fixed prefix for Unix parseability:
+Each entry starts with a fixed prefix for grep / Unix parseability:
 
 ```
 LOG [YYYY-MM-DD HH:MM] [ACTION] [SCOPE] — [description]
 ```
 
+ACTION verbs (extend as needed):
+- `INIT` — wiki initialization
+- `INGEST` — first-run ingest of a new ticker (Workflow A)
+- `UPDATE` — wiki file modification
+- `WEEKLY` — Friday-evening weekly run summary
+- `LINT` — schema / consistency lint pass
+- `FETCH` — raw material fetch
+- `PRICE` — live price verification
+- `REPORT` — polished output report generation
+- `SCHEMA` — change to CLAUDE.md itself
+
 Examples:
 ```
-LOG 2026-04-05 14:30 INGEST WING — Added Q1 2026 earnings transcript to raw/transcripts/
-LOG 2026-04-05 14:35 UPDATE WING — Updated financials.md and changelog.md post Q1 earnings
-LOG 2026-04-06 09:00 LINT ALL — Weekly lint pass; flagged UNH financials as stale
-LOG 2026-04-06 09:05 UPDATE index.md — Refreshed last-updated dates for all tickers
+LOG 2026-04-24 22:00 SCHEMA ALL — Migrated CLAUDE.md to v2 (position-agnostic, weekly cron, removed sizing).
+LOG 2026-04-24 22:30 INGEST DASH — Fetched 10-K, last 4 transcripts + press releases, recent 8-Ks, DEF 14A.
+LOG 2026-04-24 22:45 PRICE DASH — Live price verified at $X via Yahoo Finance.
+LOG 2026-04-24 23:30 UPDATE DASH — Wrote overview, thesis (15 sections), financials, changelog.
+LOG 2026-04-24 23:35 REPORT DASH — Generated outputs/DASH/DASH_initial_analysis_2026-04-24.md.
+LOG 2026-04-24 23:40 UPDATE index.md, watchlist.md — Refreshed for DASH.
+LOG 2026-04-25 18:00 WEEKLY ALL — 9 tickers scanned. 2 with material events (DASH earnings, RKT analyst cluster). 7 quiet. Summary in outputs/weekly/2026-04-25_weekly_summary.md.
 ```
 
 ---
 
-## Co-Evolution Note
+## index.md Maintenance
 
-This schema file (`CLAUDE.md`) should be updated collaboratively over time.
-When a new framework is added, a new ticker type is encountered, or a new
-update operation is needed, update this file first, then apply the change.
-Version history is tracked via Git — every meaningful schema change should be
-committed with a descriptive message.
+Required columns (no allocation column):
+
+| Ticker | Company | Moat | Conviction | Last Updated | Status |
+
+Plus a Ticker Summary table:
+
+| Ticker | Price | vs. 52-wk High | FCF Yield | P/E Fwd | BAIT | Recommendation (non-holder / holder) |
+
+Plus a Pending Data Gaps table.
+
+Update on every ingest or substantive change. Refresh "last full index refresh"
+date at the bottom.
+
+---
+
+## watchlist.md Maintenance
+
+Pure attractiveness ranking. **No portfolio allocation, no target %, no form (stock/options) splits.**
+
+Required columns:
+
+| Rank | Ticker | Conviction | BAIT Overlap | Asymmetry (PW EV vs. price) | Recommendation (non-holder / holder) | Next Catalyst |
+
+Plus the Price Targets Summary (Probability-Weighted) table — kept, since it's
+pure analysis.
+
+Plus the Earnings Calendar & Key Watch Events table — kept.
+
+Plus Cross-Portfolio Macro Watch Items — kept.
+
+**Removed in v2**: "Portfolio Allocation Summary" table. Do not re-introduce it.
+
+---
+
+## Schema Co-Evolution
+
+This file (`CLAUDE.md`) is meant to evolve. When a new framework is added, a new
+ticker type is encountered, or a new update operation is needed:
+
+1. **Update this file first.**
+2. **Then apply the change to wiki content.**
+3. **Commit with a descriptive message** (`SCHEMA: [what changed and why]`).
+4. **Append a `LOG ... SCHEMA ALL ...` entry** to `wiki/log.md`.
+
+Version history is tracked via Git. v2 is current. Major changes bump the
+version (v3, v4, ...). Minor edits within a version are fine without bump.
+
+### v2 changelog (April 2026)
+- Removed all portfolio sizing language and `frameworks/position-sizing.md`.
+- Wiki is now position-agnostic. Recommendations split into non-holder / holder framings.
+- Section 11 changed from "Position Building Strategy" → "Catalyst & Sentiment Tracker".
+- Section 15 renamed to "Recommendation & Bottom Line" with explicit action verbs:
+  Initiate / Add / Reduce / Exit / Hold / Avoid.
+- Added Workflow A (first-run) and Workflow B (Friday weekly cron) as primary operating modes.
+- Added per-ticker `raw/[TICKER]/` structure with standard fetch set.
+- Added `outputs/[TICKER]/[TICKER]_initial_analysis_YYYY-MM-DD.md` and
+  `outputs/weekly/YYYY-MM-DD_weekly_summary.md` deliverables.
+- Added Meaningful Events List (extensible).
+- Codified data source priority table.
+- Codified changelog entry format for both event-driven and quiet-week updates.

@@ -1,24 +1,31 @@
 # Watchlist — Cross-Ticker Ranking
 
+> **Schema v2 note (2026-04-24)**: Allocation columns and tranche-sizing language
+> were removed when CLAUDE.md was migrated to v2 (position-agnostic). The
+> ranking and price-target tables below are legacy v1 content and will be
+> re-derived as each ticker is re-ingested under Workflow A. The v2 columns are:
+> Rank · Ticker · Conviction · BAIT Overlap · Asymmetry (PW EV vs. price) ·
+> Recommendation (non-holder / holder) · Next Catalyst.
+
 *Updated by LLM agent after each full thesis cycle or earnings update.*
-*Last updated: 2026-04-17*
+*Last updated: 2026-04-24 (schema migration; per-ticker content pending re-ingest)*
 *Prices as of 2026-04-16/17 (Yahoo Finance / analysis files)*
 
 ---
 
 ## Conviction Ranking
 
-| Rank | Ticker | Conviction | BAIT Overlap | Asymmetry | Action | Next Catalyst |
-|------|--------|-----------|--------------|-----------|--------|---------------|
-| 1 | UNH | Medium (high BAIT) | Quadruple | 3:1 (~+33% EV, 24-mo) | Buy — Tranche 1 ($250–$285) | Q1 2026 MLR (April 2026) |
-| 2 | BKNG | High | Triple | 1.5:1 (~+17% EV, 18-mo) | Buy — Tranche 1 (~$155–$170 post-split) | Q1 2026 earnings (May 2026) |
-| 3 | LLY | High | Triple | 2:1 (~+11% EV, 12-mo) | Buy — Tranche 1 ($900–$950) | Orforglipron FDA approval (2026) |
-| 4 | WING | Medium | Triple (lower conviction) | 2:1 (~+22% EV, 18-mo) | Buy Spec. — Tranche 1 ($140–$160) | Q1 2026 domestic SSS (April 2026) |
-| 5 | SCHW | Medium | Double | 2:1 (~+17% EV, 18-mo) | Buy/Hold — Tranche 1 ($88–$96) | Q1 2026 NIM + rate outlook (April 2026) |
-| 6 | RKT | Medium | Double (B+A) | 2.5:1 (~+51% PW EV, 1-3yr) | Buy Spec. — Tranche 1 ($14–$16) | Q1 2026 earnings (April 30, 2026) |
-| 7 | SHOP | High | Triple (B+A+I) | 1.8:1 (~+79% PW EV, 18-mo) | Buy Spec. — Tranche 1 ($115–$125) | Q1 2026 earnings (~May 2026) |
-| 8 | DASH | Low-Medium | Double (B+A) | 1.2:1 (–26% PW EV 5-yr) | Watch — Better entry at $140–150 | Q1 2026 earnings (~May 2026) |
-| 9 | PG | Medium | Weak (no overlap) | 1.1:1 (~+7% PW EV, 3-yr) | Watch/Conditional — Dividend income | Q3 FY2026 earnings (April 24) |
+| Rank | Ticker | Conviction | BAIT Overlap | Asymmetry | Recommendation | Next Catalyst |
+|------|--------|-----------|--------------|-----------|----------------|---------------|
+| 1 | UNH | Medium (high BAIT) | Quadruple | 3:1 (~+33% EV, 24-mo) | Initiate — attractive at $250–$285 | Q1 2026 MLR (April 2026) |
+| 2 | BKNG | High | Triple | 1.5:1 (~+17% EV, 18-mo) | Initiate — attractive at ~$155–$170 post-split | Q1 2026 earnings (May 2026) |
+| 3 | LLY | High | Triple | 2:1 (~+11% EV, 12-mo) | Initiate — attractive at $900–$950 | Orforglipron FDA approval (2026) |
+| 4 | WING | Medium | Triple (lower conviction) | 2:1 (~+22% EV, 18-mo) | Initiate (speculative) — attractive at $140–$160 | Q1 2026 domestic SSS (April 2026) |
+| 5 | SCHW | Medium | Double | 2:1 (~+17% EV, 18-mo) | Initiate / Hold — attractive at $88–$96 | Q1 2026 NIM + rate outlook (April 2026) |
+| 6 | RKT | Medium | Double (B+A) | 2.5:1 (~+51% PW EV, 1-3yr) | Initiate (speculative) — attractive at $14–$16 | Q1 2026 earnings (April 30, 2026) |
+| 7 | SHOP | High | Triple (B+A+I) | 1.8:1 (~+79% PW EV, 18-mo) | Initiate (speculative) — attractive at $115–$125 | Q1 2026 earnings (~May 2026) |
+| 8 | DASH | Low-Medium | Double (B+A) | 1.2:1 (–26% PW EV 5-yr) | Watch — better entry at $140–$150 | Q1 2026 earnings (~May 2026) |
+| 9 | PG | Medium | Weak (no overlap) | 1.1:1 (~+7% PW EV, 3-yr) | Watch / Conditional | Q3 FY2026 earnings (April 24) |
 
 **Ranking rationale**:
 - UNH ranked #1 on BAIT (quadruple overlap) and normalized earnings asymmetry (10x trough P/E), despite elevated operational uncertainty
@@ -30,26 +37,6 @@
 
 ---
 
-## Portfolio Allocation Summary
-
-| Ticker | Target % | Notes | Form |
-|--------|----------|-------|------|
-| BKNG | 4–6% | High conviction, wide moat, FCF compounder | 80% stock / 20% LEAPS |
-| LLY | 5–8% | High conviction, secular growth, high capex | 90% stock / 10% LEAPS |
-| WING | 2–3% | Speculative; SSS uncertainty limits size | 70% stock / 30% LEAPS |
-| UNH | 3–5% | Elevated uncertainty caps size; BAIT is very high | 85% stock / 15% LEAPS |
-| SCHW | 3–5% | Solid compounder; lower asymmetry | 85% stock / 15% options |
-| RKT | 0.75–1.5% | Speculative; integration risk; cyclical; sized for asymmetry via options | 65% stock / 35% LEAPS |
-| SHOP | 2–4% | High conviction; platform + network effects; options for asymmetry | 60% stock / 40% LEAPS |
-| DASH | 0.5–1% | Speculative; better entry at $140; macro-sensitive consumer discretionary | 70% stock / 30% LEAPS |
-| PG | 1–2% | Dividend income + optionality; lower conviction; smaller than others | 90% stock / 10% LEAPS |
-| **Total** | **26–40%** | These 9 tickers form high-conviction concentrated sleeve | |
-
-*Remaining 73-83% of portfolio unallocated — these 5 positions form a concentrated
-high-conviction sleeve. Fill remaining portfolio per personal allocation preferences.*
-
----
-
 ## Earnings Calendar & Key Watch Events
 
 | Ticker | Next Expected Event | Key Watch Item | Signal If Positive | Signal If Negative |
@@ -57,8 +44,8 @@ high-conviction sleeve. Fill remaining portfolio per personal allocation prefere
 | BKNG | Q1 2026 earnings (~May 2026) | Connected Trip % of transactions | Re-rate toward 20x EV/EBITDA | SSS concern; AI disintermediation narrative |
 | LLY | Orforglipron FDA approval (2026) | Priority review: 1-2 month timeline | Re-rate; oral GLP-1 TAM expansion | Delay → BKNG-style narrative re-ignition |
 | LLY | Q1 2026 earnings (~April/May 2026) | Zepbound + Mounjaro trajectory | Confirm guidance path | Miss → thesis delay |
-| WING | Q1 2026 earnings (~late April 2026) | **Domestic SSS** | Thesis confirming; short squeeze | Thesis-weakening; reduce position |
-| UNH | Q1 2026 earnings (~April 2026) | **Medical Loss Ratio** | Multiple expansion catalyst | Thesis-delaying; reassess size |
+| WING | Q1 2026 earnings (~late April 2026) | **Domestic SSS** | Thesis confirming; short squeeze | Thesis-weakening |
+| UNH | Q1 2026 earnings (~April 2026) | **Medical Loss Ratio** | Multiple expansion catalyst | Thesis-delaying |
 | SCHW | Q1 2026 earnings (~April 2026) | NIM trend + sweep balance rebuild | Re-rate to 22-25x; buyback signal | Rate-cut risk realization |
 | RKT | Q1 2026 earnings (April 30, 2026) | **Adj revenue ≥ $2.6B + EBITDA run-rate** | Thesis confirming; 5th consecutive beat | Below $2.4B on no external shock = thesis break |
 | SHOP | Q1 2026 earnings (~May 2026) | **Revenue growth ≥ +25% + gross margin stable** | Thesis continuing | Growth <20% + margins compressed = cautionary |
@@ -90,9 +77,10 @@ high-conviction sleeve. Fill remaining portfolio per personal allocation prefere
 | Macro Variable | Portfolio Impact | Direction to Watch |
 |----------------|-----------------|-------------------|
 | Federal Reserve rate path | SCHW NIM (direct); BKNG ADR/travel (indirect) | Any cut cycle = SCHW negative; no cuts = SCHW positive |
-| U.S. consumer health | WING SSS; BKNG room nights | Consumer stress = WING pressure; BKNG more resilient (international) |
+| U.S. consumer health | WING SSS; BKNG room nights; DASH order frequency | Consumer stress = WING / DASH pressure; BKNG more resilient (international) |
 | CMS Medicare Advantage rates | UNH MLR recovery | Favorable CMS 2027 rates = UNH significant upside |
 | GLP-1 oral competition | LLY competitive positioning | Viking/Roche NDA = LLY multiple pressure |
 | AI in travel | BKNG existential risk | Watch Google, OpenAI travel agent product launches |
 | 30-year mortgage rates | RKT origination volume (critical); SCHW NIM (indirect) | Any sustained move below 6.25% = RKT bull trigger; above 7.5% = RKT bear |
 | Housing lock-in effect unlock | RKT purchase volume + Redfin traffic | Rate relief → unlock → RKT volume surge; watch 30-yr weekly averages |
+| Gig worker reclassification (federal AB5) | DASH unit economics (existential) | Any federal legislative movement = DASH thesis-break risk |

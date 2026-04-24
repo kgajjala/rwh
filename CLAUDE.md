@@ -45,9 +45,7 @@ kg-invest-wiki/
 │   ├── watchlist.md              ← Cross-ticker attractiveness ranking (no allocation)
 │   ├── tickers/
 │   │   └── [TICKER]/
-│   │       ├── overview.md       ← Business description, moat, pivotal question
-│   │       ├── thesis.md         ← Full 15-section thesis
-│   │       ├── financials.md     ← Key metrics tables, refreshed each event
+│   │       ├── [TICKER].md       ← Single consolidated wiki page (overview + 15 sections + financial tables, all in one)
 │   │       └── changelog.md      ← Append-only per-ticker event log
 │   └── frameworks/               ← Cross-ticker analytical frameworks
 │       ├── bait.md
@@ -87,6 +85,16 @@ kg-invest-wiki/
 9. **Quiet weeks still log**. If a weekly run finds no material events for a ticker,
    write a `[YYYY-MM-DD] — No Material Events` changelog entry with a price /
    short-interest / analyst-consensus snapshot. This becomes the next week's baseline.
+10. **Always push to `origin` after every commit**. Local commits are not the
+    source of truth — the remote is. After any `git commit` (schema change,
+    ingest, weekly run, manual update), immediately run `git push`. If the push
+    fails, log the failure in `log.md` and surface it to the user.
+11. **One wiki page per ticker**. The per-ticker folder contains exactly two
+    files: `[TICKER].md` (the single consolidated wiki page covering business
+    overview, all 15 thesis sections, and embedded financial tables) and
+    `changelog.md` (append-only event log). Do not create separate
+    `overview.md`, `thesis.md`, or `financials.md` files. If legacy v1 files
+    exist, fold them into `[TICKER].md` and delete them on first re-ingest.
 
 ---
 
@@ -236,19 +244,33 @@ Compile from the raw set, not from prior media summaries. Cite primary source fo
 every material claim. Tag estimates explicitly.
 
 ### Step 5 — Write wiki files
-- `wiki/tickers/[TICKER]/overview.md`
-- `wiki/tickers/[TICKER]/thesis.md` (all 15 sections)
-- `wiki/tickers/[TICKER]/financials.md`
-- `wiki/tickers/[TICKER]/changelog.md` (initial entry — "Initial Ingest")
+- `wiki/tickers/[TICKER]/[TICKER].md` — single consolidated wiki page. Required structure:
+  1. **Header block** — ticker, company name, last-updated date, schema version
+  2. **Business Overview** (1–2 paragraphs: what the company does, brands, revenue streams)
+  3. **Moat Assessment** (Wide / Narrow / None + sources + vulnerabilities)
+  4. **Pivotal Investment Question** (the one question the thesis turns on)
+  5. **Key Stats Snapshot** (price, market cap, EV, FY revenue, FCF, key operating metrics)
+  6. **Sections 1–15** of the 15-section thesis structure (financial tables embedded inline in Sections 2, 3, 10, 14 — do not duplicate elsewhere)
+- `wiki/tickers/[TICKER]/changelog.md` — initial entry "v2 Initial Ingest"
+
+If legacy `overview.md`, `thesis.md`, `financials.md` files exist for this
+ticker, delete them as part of this step. The single `[TICKER].md` file
+replaces all three.
 
 ### Step 6 — Generate polished report
 Write a single consolidated MD report combining overview + thesis + financials
 to: `outputs/[TICKER]/[TICKER]_initial_analysis_YYYY-MM-DD.md`
 
 ### Step 7 — Update cross-cutting files
-- `wiki/index.md` — add row, refresh ticker summary, refresh last-updated date
+- `wiki/index.md` — add row, refresh ticker summary, refresh last-updated date.
+  Ticker column links to `tickers/[TICKER]/[TICKER].md` (the single wiki page).
 - `wiki/watchlist.md` — add row in attractiveness ranking
 - `wiki/log.md` — append entries for INGEST, UPDATE, REPORT actions
+
+### Step 8 — Commit and push
+- `git add` all changed files (raw additions, wiki page, changelog, index, watchlist, log, outputs)
+- `git commit` with message `INGEST [TICKER]: v2 initial ingest — [one-line headline]`
+- `git push origin <branch>` — never leave the commit local-only
 
 ---
 
@@ -275,9 +297,11 @@ Check for any event from the **Meaningful Events List** below. Sources:
 
 ### Step 3a — If material events exist
 1. Fetch and store the new raw material under `raw/[TICKER]/<subfolder>/`.
-2. Update affected sections of `thesis.md` and `financials.md`.
-3. Update Section 11 (Catalyst & Sentiment Tracker) and Section 15
-   (Recommendation) if anything moved.
+2. Update the affected sections of `[TICKER].md` (the single wiki page).
+   Typical update surface: Section 2 financial tables, Section 11 Catalyst &
+   Sentiment Tracker, Section 13/14 scenarios + PW EV if targets shifted.
+3. Update Section 15 (Recommendation) if the action verb or price-zone
+   thresholds moved.
 4. Append a `changelog.md` entry using the standard format below.
 5. Update `wiki/index.md` last-updated date.
 6. Update `wiki/watchlist.md` ranking if attractiveness changed.
@@ -286,7 +310,7 @@ Check for any event from the **Meaningful Events List** below. Sources:
 1. Write a `[YYYY-MM-DD] — No Material Events` changelog entry containing a
    snapshot: live price, 52-wk range %, short interest %, analyst consensus
    median target, any minor news headlines reviewed and dismissed.
-2. This entry sets the new baseline. Do not modify `thesis.md`.
+2. This entry sets the new baseline. Do not modify `[TICKER].md`.
 
 ### Step 4 — Write the weekly cross-ticker summary
 After all tickers are processed, write:
@@ -302,6 +326,11 @@ Required content:
 ### Step 5 — Log
 - Append all per-ticker actions to `wiki/log.md`.
 - Append a final `WEEKLY` entry summarizing the run.
+
+### Step 6 — Commit and push
+- `git add` all changed files
+- `git commit` with message `WEEKLY YYYY-MM-DD: [N] events / [M] quiet — [one-line headline]`
+- `git push origin <branch>`
 
 ---
 
@@ -415,16 +444,20 @@ ACTION verbs (extend as needed):
 - `PRICE` — live price verification
 - `REPORT` — polished output report generation
 - `SCHEMA` — change to CLAUDE.md itself
+- `PUSH` — `git push` to origin (record success or failure)
+- `DELETE` — file deletion
 
 Examples:
 ```
 LOG 2026-04-24 22:00 SCHEMA ALL — Migrated CLAUDE.md to v2 (position-agnostic, weekly cron, removed sizing).
 LOG 2026-04-24 22:30 INGEST DASH — Fetched 10-K, last 4 transcripts + press releases, recent 8-Ks, DEF 14A.
 LOG 2026-04-24 22:45 PRICE DASH — Live price verified at $X via Yahoo Finance.
-LOG 2026-04-24 23:30 UPDATE DASH — Wrote overview, thesis (15 sections), financials, changelog.
+LOG 2026-04-24 23:30 UPDATE DASH — Wrote DASH.md (single consolidated page) + changelog.md.
 LOG 2026-04-24 23:35 REPORT DASH — Generated outputs/DASH/DASH_initial_analysis_2026-04-24.md.
 LOG 2026-04-24 23:40 UPDATE index.md, watchlist.md — Refreshed for DASH.
+LOG 2026-04-24 23:45 PUSH origin main — Pushed schema + DASH ingest commits.
 LOG 2026-04-25 18:00 WEEKLY ALL — 9 tickers scanned. 2 with material events (DASH earnings, RKT analyst cluster). 7 quiet. Summary in outputs/weekly/2026-04-25_weekly_summary.md.
+LOG 2026-04-25 18:05 PUSH origin main — Pushed weekly run.
 ```
 
 ---
@@ -434,6 +467,9 @@ LOG 2026-04-25 18:00 WEEKLY ALL — 9 tickers scanned. 2 with material events (D
 Required columns (no allocation column):
 
 | Ticker | Company | Moat | Conviction | Last Updated | Status |
+
+The Ticker column links to `tickers/[TICKER]/[TICKER].md` (the single
+consolidated wiki page).
 
 Plus a Ticker Summary table:
 
@@ -474,6 +510,7 @@ ticker type is encountered, or a new update operation is needed:
 2. **Then apply the change to wiki content.**
 3. **Commit with a descriptive message** (`SCHEMA: [what changed and why]`).
 4. **Append a `LOG ... SCHEMA ALL ...` entry** to `wiki/log.md`.
+5. **Push to `origin`** and append a `LOG ... PUSH ALL ...` entry.
 
 Version history is tracked via Git. v2 is current. Major changes bump the
 version (v3, v4, ...). Minor edits within a version are fine without bump.
@@ -491,3 +528,15 @@ version (v3, v4, ...). Minor edits within a version are fine without bump.
 - Added Meaningful Events List (extensible).
 - Codified data source priority table.
 - Codified changelog entry format for both event-driven and quiet-week updates.
+
+### v2.1 changelog (April 2026 — same-day refinement)
+- **Consolidated per-ticker wiki from 4 files into 2.** Per-ticker folder now
+  contains exactly `[TICKER].md` (single page: business overview + 15 sections +
+  embedded financial tables) and `changelog.md`. Eliminates the prior
+  duplication of business description and financial metrics across `overview.md`,
+  `thesis.md`, and `financials.md`. Legacy v1 files are deleted on first
+  re-ingest under Workflow A.
+- **Always push to origin after every commit.** Added as Core Rule #10.
+  Workflow A and B now have explicit Commit-and-Push steps. New `PUSH` ACTION
+  verb in `log.md` tracks success/failure. Schema Co-Evolution gains a step 5
+  for pushing schema commits.

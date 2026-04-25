@@ -4,6 +4,49 @@
 
 ---
 
+## [2026-04-25] — v2.7 Primary-Source Enrichment (5-Year 10-Ks + Pattern B Quarterly Letters)
+
+**Trigger**: First Workflow B refresh under CLAUDE.md v2.7 (5-year 10-K baseline + Pattern B quarterly-letter substitution). SHOP used as the test case to validate that v2.7 mechanics work on a Pattern B publisher (Tobi Lütke does not write Buffett-style standalone annual letters; Shopify publishes quarterly letters with each earnings release).
+
+**Sources reviewed (additions to v2.5 baseline, all primary)**:
+- **5-year 10-K baseline** (Rule #20):
+  - [Shopify FY2020, FY2021, FY2022, FY2023 10-Ks via SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001594805&type=10-K)
+  - [Shopify FY2024 10-K (HTML)](https://www.sec.gov/Archives/edgar/data/1594805/000159480525000039/shop-20241231.htm)
+  - [Shopify FY2025 10-K (filed Feb 11, 2026)](https://www.stocktitan.net/sec-filings/SHOP/10-k-shopify-inc-files-annual-report-b62a5b66c76b.html)
+- **Pattern B quarterly letters** (Rule #19):
+  - [Tobi Lütke 2015 IPO Prospectus Letter](https://shopifyinvestors.com/past-letters/2015-letter/default.aspx) — founding mission
+  - Q4 letters from FY2020–FY2025 (5-year baseline as quarterly-letter substitute) via [Shopify IR News](https://investors.shopify.com/news-and-events/news/)
+  - [Shopify Q4 FY2025 Letter / Earnings Release (Feb 11, 2026)](https://www.shopify.com/news/shopify-q4-2025-financial-results) — first $2B buyback
+  - [Q4 2025 Earnings Call Transcript (Feb 11, 2026)](https://www.fool.com/earnings/call-transcripts/2026/02/11/shopify-shop-q4-2025-earnings-call-transcript/) — UCP, Agentic Storefronts
+  - [Tobi Lütke April 2025 internal memo: "AI is non-optional"](https://www.digitalcommerce360.com/2025/04/08/internal-memo-shopify-ceo-declares-ai-non-optional/) — operational mandate
+
+### What Changed
+- **Schema header**: Bumped SHOP page to v2.7.
+- **Section 2** (Annual Financial Metrics): Added `### Primary Source: 5-Year 10-K Segment Detail (FY2021–FY2025)` subsection per Rule #20 — multi-year segment evolution table (Subscription Solutions: $1.34B → ~$3.0B at +25% sustained; Merchant Solutions: $3.27B → ~$8.5B with payments penetration 68% of GMV in 2025; Shop Pay +62%; Shop Campaigns advertising revenue doubled in 2025) with verbatim 10-K MD&A driver commentary.
+- **Section 6** (Management & Leadership): Added `### Recent Management Commentary — Primary Source Synthesis (IPO Letter + 5 Years of Quarterly Letters + AI Memo)` subsection per Rule #19 (Pattern B applied) — verbatim quotes from 2015 IPO Letter, April 2025 "AI is non-optional" memo, Q4 2025 letter + call (Tobi + Finkelstein), 5-Year Strategic Framework Arc table tracing FY2020 COVID surge → FY2022 cost reset → FY2025 AI inflection, three-observation synthesis.
+- **Section 8** (Key Risks): Restructured per Rule #20 — added `Source` column flagging 10-K Item 1A vs. MD&A vs. `*[Analyst speculation]*`. Added 5 new rows from verbatim Item 1A that v2.5 had missed (cybersecurity, payments regulation, international expansion, founder dependency, third-party reliance). Existing rows enriched with verbatim quotes. Added new `### 5-Year Risk Factor Evolution Arc (FY2020 → FY2025)` subsection per Rule #20: chronological table showing AI risk **added in FY2023 10-K** (one year before Agentic Storefronts launch — classic Item 1A leading indicator), upgraded FY2024 → FY2025 from competitive risk to platform-strategic to execution risk.
+- **Summary**: Added new 📈 bullet calling out the primary-source signal (first-ever $2B buyback at $125–135 zone + AI-non-optional memo + 5-year Item 1A AI-risk evolution arc).
+- **Sources**: Restructured into 4 buckets (Primary sources / Tobi Lütke shareholder communications / Coverage and context / Live market data) with full v2.7-compliant citations.
+
+### Thesis Status
+- **Overall**: 🟢 **Strengthened** vs. v2.5 — the 5-year Item 1A arc revealed that management's AI-risk framing has *positively evolved* (defensive → strategic → execution), and the first-ever $2B buyback at this zone is the cleanest intrinsic-value signal in 11 years of public-company history.
+- **BAIT lens**: Triple BAIT preserved with informational edge sharpened — Section 8 risk *"AI disruption to SaaS pricing"* has data evidence supporting downgrade since Shopify is the AI-commerce *creator*.
+- **Price target**: Unchanged numerically (PW EV ~$212 over 3yr).
+- **New finding**: The 2023 Item 1A AI-risk addition (1 year before Agentic Storefronts launch) is a clean example of Item 1A as a leading indicator — investors who diff'd FY2022 vs. FY2023 10-Ks had a 12-month lead on the AI thesis vs. those relying on aggregator data.
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate** — at $125.83, current price at upper edge of attractive entry zone; primary-source confirmation strengthens conviction.
+- **For a current holder**: 🟢 **Add / Hold** — no reason to trim; add aggressively on any drawback toward $100–$110.
+
+**Next review trigger**: 📅 **Q1 2026 earnings (~May 2026)**. First quarter with Agentic Storefronts default-on across all stores; tests low-30s% revenue guide.
+
+### Test of v2.7 Schema
+- **Rule #19 Pattern B (quarterly letters) worked cleanly**: Substituting the Q4 letter from each of the last 5 years + the most-recent quarterly letters as the "annual letter equivalent" produced a coherent 5-year framework arc on a Pattern B publisher (Shopify). Validates the Pattern B path added in v2.7.
+- **Rule #20 5-year 10-K baseline produced new analytical edge**: The 5-Year Risk Factor Evolution Arc surfaced the **2023 Item 1A AI-risk addition** as a leading indicator that aggregator data missed. This is the single clearest demonstration of why multi-year 10-K diffing > single-year snapshot.
+- **PDF binary fallback path used twice**: Both FY2024 and FY2025 SEC HTML versions were used in lieu of PDF; StockTitan structured summary served as backup citation per Rule #20.
+
+---
+
 ## [2026-04-24] — v2.1 Migration (Workflow A) — Single-Page Consolidation + Refreshed Recommendation
 
 **Trigger**: Schema migration from v1 (4-file structure: overview/thesis/financials/changelog) to v2.1 (single consolidated `SHOP.md` + `changelog.md`). Live price refreshed and BAIT / entry-zone reassessed given recovery from $88 low to $125.83.

@@ -1,4 +1,4 @@
-# CLAUDE.md — kg-invest-wiki Schema (v2.6)
+# CLAUDE.md — kg-invest-wiki Schema (v2.7)
 
 This is the instruction file for the LLM agent that maintains this wiki.
 **Read this file at the start of every session before making any changes to `wiki/`, `raw/`, or `outputs/`.**
@@ -13,7 +13,7 @@ session starts from the latest synthesis, not a blank page.
 
 - **Owner**: Karthik G
 - **Started**: April 2026
-- **Schema version**: v2.6 (April 2026)
+- **Schema version**: v2.7 (April 2026)
 - **Model**: Karpathy LLM Wiki pattern, adapted
 
 ### What this wiki is *not*
@@ -231,17 +231,40 @@ kg-invest-wiki/
       block whenever Section 15 or Section 11 changed.
 19. **Annual shareholder letters are required primary sources**.
     Every Workflow A ingest MUST fetch and synthesize **the last 5
-    annual shareholder letters** (CEO or founder letters, e.g. Buffett
-    at BRK, Bezos historical at AMZN, Dimon at JPM, Larry Page at
-    GOOGL, Lisa Su at AMD, Reed Hastings at NFLX, etc.). For companies
-    that publish proxy-statement letters or "Letter to Shareholders"
-    in the annual report rather than a standalone CEO letter, those
-    are acceptable substitutes. For companies <5 years public, fetch
-    all letters published since IPO. **Letters take precedence over
-    third-party media summaries** — they are the unfiltered, archived
-    expression of management's framework and the highest-fidelity
-    primary source for understanding capital allocation philosophy,
-    strategic shifts, succession messaging, and operational priorities.
+    fiscal years of CEO/founder shareholder letters**. **Letters
+    take precedence over third-party media summaries** — they are
+    the unfiltered, archived expression of management's framework
+    and the highest-fidelity primary source for understanding
+    capital allocation philosophy, strategic shifts, succession
+    messaging, and operational priorities. There are three
+    publication patterns; apply the matching path:
+    - **Pattern A — Annual letter publishers** (e.g. Berkshire
+      Hathaway, JPMorgan, Markel, Constellation Software): fetch
+      one annual letter per fiscal year × 5 years = 5 letters.
+      Letter typically published Feb–March covering the prior
+      fiscal year.
+    - **Pattern B — Quarterly letter publishers** (e.g. DoorDash,
+      Shopify, Netflix, Spotify, Coupang): some companies
+      substitute a "Letter to Shareholders" published with each
+      quarterly earnings release for a standalone annual letter.
+      Fetch **all 4 quarterly letters from each of the last 5
+      fiscal years = up to 20 letters**. The Q4 letter usually
+      serves as the de facto annual wrap and gets primary
+      synthesis weight; Q1–Q3 letters add intra-year directional
+      color and signal shifts. For first-year ingest of a Pattern
+      B company, prefer fetching at minimum the Q4 letter from
+      each of the last 5 years, plus the most recent 4 quarterly
+      letters (= 5 + 3 = 8 letters minimum). If bandwidth allows,
+      pull all 20.
+    - **Pattern C — No standalone shareholder letter** (e.g. some
+      legacy industrial companies): fetch the "Chairman's Letter"
+      or "Letter to Shareholders" from the annual report front
+      matter, or the proxy statement (DEF 14A) introductory
+      letter, for each of the last 5 fiscal years. If neither
+      exists, log the gap explicitly in the §6 RMC subsection
+      and rely on earnings call transcripts.
+    - **Sub-5-year coverage**: For companies <5 years public,
+      fetch all letters published since IPO regardless of pattern.
     - **Storage**: `raw/[TICKER]/shareholder-letters/YYYY_letter.pdf`
       (or `.html`) — one file per fiscal year covered, named by the
       *fiscal year* the letter discusses (not the publication year).
@@ -284,17 +307,25 @@ kg-invest-wiki/
       framework, succession-discount mispricing, operational
       quantification not present in any prior letter). Aggregator
       summaries flattened these distinctions; the letters did not.
-20. **10-K MD&A and Risk Factors are required primary sources**.
-    The 10-K is fetched in Workflow A Step 2 and is the most
+20. **10-K MD&A and Risk Factors are required primary sources —
+    last 5 fiscal years for first-run ingest**.
+    Workflow A fetches the **last 5 annual 10-K filings** (or all
+    available since IPO if <5 years public). The 10-K is the most
     authoritative single document for understanding the business,
     its segments, its risks, and management's own framing of
     operating performance. Fetching alone is insufficient — the
-    10-K must be *synthesized*, with verbatim segment commentary
+    10-Ks must be *synthesized*, with verbatim segment commentary
     and Risk Factors quotes integrated into the relevant sections
-    of the wiki page. Aggregators (stockanalysis.com, Macrotrends,
-    Yahoo Finance) parse the 10-K but flatten the management
-    commentary; the 10-K MD&A explains *why* numbers moved, not
-    just what they were.
+    of the wiki page, and **multi-year Risk Factor evolution
+    analyzed across the 5-year baseline** (which risks were added,
+    removed, or upgraded in emphasis over time — a leading
+    indicator of management's evolving worldview). Aggregators
+    (stockanalysis.com, Macrotrends, Yahoo Finance) parse the
+    10-K but flatten the management commentary; the 10-K MD&A
+    explains *why* numbers moved, and the multi-year Risk Factor
+    diff explains *how management's risk framing has evolved* —
+    both are genuinely incremental analytical edges over
+    aggregator data.
     - **Required integration map** (which 10-K Item feeds which
       wiki section):
 
@@ -328,13 +359,31 @@ kg-invest-wiki/
       analyst speculation but are not surfaced anywhere in the
       10-K should be tagged `*[Analyst speculation]*` so the
       reader can weigh them differently.
-    - **Year-over-year comparison**: When the new fiscal year's
-      10-K is fetched in an incremental run, *diff against the
-      prior year's 10-K Item 1A* — newly-added Risk Factors are
-      management's clearest signal that something material has
-      changed (often before it shows up in earnings). Any *added*
-      risk factors should drive a §8 update with a `[NEW in
-      FY[N] 10-K]` tag in the Notes column.
+    - **5-Year Risk Factor Evolution Arc** (analogous to the
+      letter-arc pattern in §6): On first-run ingest, after
+      fetching all 5 10-Ks, build a `### 5-Year Risk Factor
+      Evolution Arc` subsection within §8 containing a
+      chronological table of which Item 1A risk factors were
+      added, removed, or *materially re-worded* across the
+      5-year window. New risk factors are management's earliest
+      signal of changing worldview — often appearing in 10-K
+      Item 1A 1–2 years before they show up in earnings.
+      Examples to capture: regulatory regime shifts (e.g.
+      gig-worker classification appearing in 10-K 1A around
+      2018–2020), AI-disruption risk language appearing in
+      2022–2024 10-Ks for software companies, supply-chain
+      risk language appearing in 2020–2021 10-Ks. The arc
+      surfaces the management worldview shift, not just the
+      current snapshot.
+    - **Year-over-year comparison (incremental runs)**: When the
+      new fiscal year's 10-K is fetched in Workflow B, *diff
+      against the prior year's 10-K Item 1A* — newly-added Risk
+      Factors are management's clearest signal that something
+      material has changed (often before it shows up in
+      earnings). Any *added* risk factors should drive a §8
+      update with a `[NEW in FY[N] 10-K]` tag in the Notes
+      column, and the 5-year arc table should be extended by
+      one row.
     - **Workflow B (incremental)**: A new 10-K filing (typically
       Feb–March each year) is already a Meaningful Event (the
       "Earnings: 10-K filing" entry in the list below). Step 3a
@@ -482,7 +531,12 @@ Triggered by: "ingest [TICKER]" or "build wiki page for [TICKER]".
 
 ### Step 2 — Fetch standard raw set
 Create `raw/[TICKER]/` and populate with:
-- **Latest 10-K** (most recent annual filing) → `filings/`
+- **Last 5 annual 10-K filings** (or all available since IPO if <5
+  years public) → `filings/[TICKER]-10K-FY[YYYY].pdf` named by
+  fiscal year covered. Per Core Rule #20, the multi-year baseline
+  enables Risk Factor evolution analysis and multi-year MD&A
+  strategic-shift detection — both genuinely incremental analytical
+  edges over single-year synthesis.
 - **Last 4 quarterly earnings transcripts** → `transcripts/`
 - **Last 4 quarterly earnings press releases** → `press-releases/`
 - **All 8-K filings in last 12 months** → `filings/`
@@ -521,21 +575,25 @@ verbatim quotes when the letters specifically address moat sources,
 executive endorsements, or capital-allocation discipline.
 
 **10-K MD&A and Risk Factors integration** (per Core Rule #20):
-Read Item 1A (Risk Factors) and Item 7 (MD&A) directly — do not
-rely on aggregator summaries for narrative content. (a) Section 2
-gets a `### Primary Source: 10-K Segment Detail (FY[N])` subsection
-with verbatim MD&A commentary explaining segment drivers — *why*
-numbers moved, not just *what* they were. (b) Section 8 (Key Risks)
-must derive each risk from a 10-K Item 1A risk factor or MD&A
-commentary; rows that come from analyst speculation get an
-`*[Analyst speculation]*` tag. (c) When a new 10-K is filed in
-Workflow B, *diff Item 1A* against the prior year's 10-K — newly
-added risk factors are management's clearest signal of material
-change and must drive a Section 8 update with a `[NEW in FY[N]
-10-K]` tag. (d) If the 10-K PDF returns binary (common for large
-PDFs via WebFetch), fall back to SEC EDGAR HTML version or
-high-quality analyst summaries that explicitly quote the 10-K —
-always cite the 10-K as the underlying source.
+Read Item 1A (Risk Factors) and Item 7 (MD&A) directly across **the
+last 5 10-Ks** — do not rely on aggregator summaries for narrative
+content. (a) Section 2 gets a `### Primary Source: 10-K Segment
+Detail (FY[N])` subsection with verbatim MD&A commentary explaining
+segment drivers across the 5-year window — *why* numbers moved over
+time, not just the most recent year. (b) Section 8 (Key Risks) must
+derive each risk from a 10-K Item 1A risk factor or MD&A commentary;
+rows that come from analyst speculation get an `*[Analyst
+speculation]*` tag. (c) Add a `### 5-Year Risk Factor Evolution Arc`
+subsection within Section 8 — chronological table of which Item 1A
+risks were added/removed/re-worded across the 5-year window
+(management's earliest worldview-shift signal). (d) When a new 10-K
+is filed in Workflow B, *diff Item 1A* against the prior year's
+10-K — newly added risk factors must drive a Section 8 update with a
+`[NEW in FY[N] 10-K]` tag and extend the 5-year arc table. (e) If
+the 10-K PDF returns binary (common for large PDFs via WebFetch),
+fall back to SEC EDGAR HTML version or high-quality analyst
+summaries that explicitly quote the 10-K — always cite the 10-K as
+the underlying source.
 
 ### Step 5 — Write wiki files
 - `wiki/tickers/[TICKER]/[TICKER].md` — single consolidated wiki page. Required structure:
@@ -1101,23 +1159,36 @@ version (v3, v4, ...). Minor edits within a version are fine without bump.
   improvement = ~$230M of incremental cash flow"* from Abel's
   FY2025 letter). Aggregator summaries flattened these distinctions.
 - **Added Core Rule #20: 10-K MD&A and Risk Factors are required
-  primary sources.** Fetching the 10-K alone (already required since
-  v1) is insufficient — the 10-K must be *synthesized*, with
-  verbatim Item 1A (Risk Factors) and Item 7 (MD&A) commentary
-  integrated into the relevant sections. Specifically: §2 gets a
-  `### Primary Source: 10-K Segment Detail (FY[N])` subsection;
+  primary sources — last 5 fiscal years for first-run ingest.**
+  Workflow A fetches the **last 5 annual 10-Ks** (parallel to the
+  shareholder-letter rule). Fetching alone is insufficient — the
+  10-Ks must be *synthesized*, with verbatim Item 1A (Risk Factors)
+  and Item 7 (MD&A) commentary integrated into the relevant
+  sections. Specifically: §2 gets a `### Primary Source: 10-K
+  Segment Detail (FY[N])` subsection (with multi-year context);
   §8 (Key Risks) derives each row from Item 1A or MD&A (analyst
   speculation tagged `*[Analyst speculation]*`); §5 / §9 pull MD&A
-  competitive-dynamics and macro-sensitivity language. **Workflow B
-  must diff Item 1A year-over-year** — newly-added risk factors are
+  competitive-dynamics and macro-sensitivity language. **§8 also
+  gets a `### 5-Year Risk Factor Evolution Arc` subsection** —
+  chronological table of which Item 1A risks were
+  added/removed/re-worded across the 5-year window. **Workflow B
+  diffs Item 1A year-over-year** — newly-added risk factors are
   management's earliest signal of material change and drive §8
-  updates with `[NEW in FY[N] 10-K]` tags. PDF fetch failures fall
-  back to SEC EDGAR HTML or analyst summaries that quote the 10-K
-  directly. Rationale: the BRK.B ingest revealed that 10-K MD&A
-  commentary (BNSF margin drivers, BHE PacifiCorp wildfire reserve
-  normalization, GEICO intentional ad-spend framing) was materially
-  more informative than aggregator data — aggregators report *what*
-  moved, the 10-K MD&A explains *why*.
+  updates with `[NEW in FY[N] 10-K]` tags + extend the arc table.
+  PDF fetch failures fall back to SEC EDGAR HTML or analyst
+  summaries that quote the 10-K directly.
+
+  **Rationale**: The BRK.B ingest revealed that 10-K MD&A commentary
+  (BNSF margin drivers, BHE PacifiCorp wildfire reserve normalization,
+  GEICO intentional ad-spend framing) was materially more informative
+  than aggregator data — aggregators report *what* moved, the 10-K
+  MD&A explains *why*. The 5-year baseline was added (during the SHOP
+  v2.6 application) because Risk Factor *evolution* is a leading
+  indicator of management's worldview shift — risks often appear in
+  Item 1A 1–2 years before they show up in earnings (e.g.
+  gig-worker classification language in 2018–2020 ride-share 10-Ks,
+  AI-disruption risk language in 2022–2024 software 10-Ks). The
+  multi-year arc surfaces this; a single-year snapshot does not.
 - **New raw subfolder**: `raw/[TICKER]/shareholder-letters/`. Files
   named by *fiscal year covered* (not publication year), e.g.
   `2024_letter.pdf` for Buffett's letter published Feb 2025
@@ -1150,3 +1221,55 @@ version (v3, v4, ...). Minor edits within a version are fine without bump.
   approach. Not blocking — incremental Workflow B runs will pick
   up new letters going forward; the retrofit just establishes the
   5-year baseline.
+
+### v2.7 changelog (April 2026 — 5-year baselines + quarterly-letter substitution)
+- **Extended Core Rule #19 with quarterly-letter substitution**.
+  Three publication patterns explicitly defined:
+  - **Pattern A (annual letter publishers)**: BRK, JPM, Markel,
+    Constellation Software → fetch 5 annual letters
+  - **Pattern B (quarterly letter publishers)**: DASH, SHOP, NFLX,
+    Spotify, CPNG → fetch all 4 quarterly letters × 5 years (up
+    to 20 letters); Q4 letter gets primary annual-wrap weight,
+    Q1–Q3 add intra-year directional color
+  - **Pattern C (no standalone letter)**: fall back to chairman's
+    letter in annual report or DEF 14A introductory letter
+  This was added because the BRK.B v2.6 ingest assumed the BRK
+  pattern would generalize, but the DASH v2.6 application
+  immediately surfaced that DoorDash publishes quarterly letters
+  not annual ones — and the SHOP v2.7 application confirmed
+  Shopify follows the same Pattern B convention. The substitution
+  rule prevents the agent from incorrectly logging a "no letters
+  available" gap when the company publishes quarterly instead.
+- **Extended Core Rule #20 with 5-year 10-K baseline + 5-Year
+  Risk Factor Evolution Arc**. Workflow A now fetches the **last 5
+  annual 10-K filings** (parallel to the 5-year letter rule), not
+  just the most recent. Synthesis adds a `### 5-Year Risk Factor
+  Evolution Arc` subsection within Section 8 — chronological table
+  of which Item 1A risks were added/removed/re-worded across the
+  5-year window. Rationale: Risk Factor *evolution* is a leading
+  indicator of management's worldview shift — risks often appear
+  in Item 1A 1–2 years before they show up in earnings (e.g.
+  gig-worker classification language in 2018–2020 ride-share
+  10-Ks; AI-disruption risk language in 2022–2024 software 10-Ks;
+  supply-chain risk in 2020–2021 manufacturing 10-Ks). The
+  multi-year arc surfaces this; a single-year snapshot does not.
+- **Workflow A Step 2** updated: 10-K fetch is now "Last 5 annual
+  10-K filings" instead of "Latest 10-K." Files named by fiscal
+  year covered: `filings/[TICKER]-10K-FY[YYYY].pdf` (or `.htm`).
+- **Workflow A Step 4** synthesis instructions updated to require
+  multi-year MD&A context in §2 and the 5-Year Risk Factor
+  Evolution Arc in §8.
+- **SHOP**: First ticker built under v2.7. Pattern B applied
+  (Tobi Lütke does not publish standalone annual letters; quarterly
+  letters from FY2020–FY2025 + 2015 IPO Letter + April 2025
+  "AI is non-optional" memo). Multi-year 10-K segment evolution
+  table added to §2 (Subscription Solutions reaccelerated 2023→2025
+  from price + Plus mix; Merchant Solutions increasingly the
+  growth engine). Section 6 RMC subsection surfaces the cleanest
+  Tobi-Lütke intrinsic-value signal in 11 years of public-company
+  history: the **first-ever $2B share buyback authorized at the
+  $125–135 zone (Feb 2026)**.
+- **Pending follow-up**: 32 remaining tickers still need v2.6+v2.7
+  primary-source synthesis retrofit. BRK.B (v2.6 source ingest),
+  DASH (v2.6), SHOP (v2.7) are the three completed examples.
+  Batch retrofit approach (5–7 parallel agents) recommended.

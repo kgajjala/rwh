@@ -43,7 +43,7 @@ Active / Paused status governs weekly cron coverage (Core Rule #15).
 | [RKT](tickers/RKT/RKT.md) | Active | Rocket Companies | Narrow-Emerging Wide | Medium | 2026-04-24 | v2.1 — Double BAIT (B+A); Initiate Spec. / Hold-Add; Q1 print Apr 30 |
 | [SBUX](tickers/SBUX/SBUX.md) | Active | Starbucks | Wide | Medium | 2026-04-24 | v2.4 ingest — Niccol turnaround mid-stride; Watch / Hold pre-Apr-28 print |
 | [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Narrow-Wide | High | 2026-04-24 | **v2.1 + Q1 2026 beat** — STRENGTHENED; Triple BAIT (B+A+I-Strong); Initiate / Add (post-beat 52-wk low) |
-| [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide | High | 2026-04-24 | v2.1 — STRENGTHENED; Triple+ BAIT; Initiate / Add-Hold |
+| [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide | High | 2026-04-25 | v2.7 enrichment — 5-yr 10-K + Pattern B letter arc; first-ever $2B buyback at $125-135 = cleanest intrinsic-value signal; STRENGTHENED; Initiate / Add-Hold |
 | [SN](tickers/SN/SN.md) | Active | SharkNinja | Narrow | Medium-High | 2026-04-24 | v2.4 ingest — Initiate; FY26 +10–11% sales guide |
 | [TREX](tickers/TREX/TREX.md) | Active | Trex Company | Narrow | Medium | 2026-04-24 | v2.4 ingest — Initiate / Hold; housing-cyclical trough + buyback |
 | [TSLA](tickers/TSLA/TSLA.md) | Active | Tesla | Narrow-Wide | Medium | 2026-04-24 | v2.4 ingest — Hold / Watch; coin-flip risk-reward; Cybercab launched Apr 24 |
@@ -85,7 +85,7 @@ Active / Paused status governs weekly cron coverage (Core Rule #15).
 | RKT | $15.60 | –35.9% | Double (B+A) | Initiate Spec. / Hold-Add on weakness |
 | SBUX | $98.67 | –3% | Single (binary print Apr 28) | Watch / Hold |
 | SCHW | $88.50 | –17.7% | Triple (B+A+I-Strong) | **Initiate / Add** (post-beat new 52-wk low) |
-| SHOP | $125.83 | –30.9% | Triple+ (B+A-Strong+I+T-Mod) | Initiate / Add-Hold |
+| SHOP | $125.83 | –30.9% | Triple+ (B+A-Strong+I+T-Mod) | **Initiate / Add-Hold** — v2.7 5-yr 10-K + Pattern B letter arc STRENGTHENED |
 | SN | $115.74 | –14% | Double | Initiate |
 | TREX | $41.90 | mid-range | Triple | Initiate / Hold |
 | TSLA | $376.30 | –25% | Single (coin-flip) | Hold / Watch |

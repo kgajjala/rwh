@@ -4,6 +4,40 @@
 
 ---
 
+## [2026-04-17] — v2.1 Schema Migration (Consolidated Wiki Page)
+
+**Trigger**: Wiki schema migration from v1 (4-file format: overview / thesis / financials / changelog) to v2.1 (single consolidated `[TICKER].md` page + changelog).
+
+**Sources reviewed**:
+- Existing v1 files (overview.md, thesis.md, financials.md)
+- Yahoo Finance live price (verified Apr 17, 2026)
+- Prior 2026-04-06 initial ingest
+
+### What Changed
+- Folded overview/thesis/financials into single `RKT.md` matching v2.1 DASH.md template structure
+- Added explicit Section 11 Catalyst & Sentiment Tracker (new in v2)
+- Rewrote Section 15 with non-holder/holder split, entry/trim/exit zones, expanded thesis-break triggers
+- Removed all portfolio-sizing language (no tranche %, no allocation %, no stock/options split) per v2 Core Rule #3
+- Updated price/52-wk to live data: **$15.60** (up from $14.96 prior); 52-wk low *$11.08* (down from prior $10.94 — further weakness in the window); 52-wk high $24.36 unchanged
+- PW EV recalculated: $22.65 vs. $15.60 spot = **+45% expected return** over 2–3 years (was +51% at $14.96)
+- BAIT verdict unchanged at Double overlap (B + A) — Moderate conviction
+- Bull/Base/Bear scenarios unchanged ($35 / $22 / $9 with 25/55/20 weights)
+- Deleted legacy v1 files: overview.md, thesis.md, financials.md
+
+### Thesis Status
+- **Overall**: **Unchanged** — operating thesis intact since 2026-04-06; no new earnings event in window; price moved from $14.96 → $15.60 (modest +4% drift)
+- **BAIT delta**: B Strong / A Moderate-Strong / I Moderate / T Weak-Moderate — all unchanged from 2026-04-06
+- **Price target delta**: Bull $35 / Base $22 / Bear $9 — unchanged
+- **Catalyst & Sentiment delta**: 52-wk low extended slightly lower ($10.94 → $11.08); next catalyst Q1 2026 earnings April 30, 2026 (~13 days)
+
+### Recommendation
+- **For a non-holder**: **Initiate (Speculative)** — at $15.60 the asymmetry is favorable; better entry $11–14 if weakness offers it
+- **For a current holder**: **Hold / Add on weakness** — Q1 2026 print is the catalyst that likely re-rates toward $20+
+
+**Next review trigger**: Q1 2026 earnings — April 30, 2026.
+
+---
+
 ## [2026-04-06] — Initial Ingest (from raw/analyses/RKT_analysis_2026-04-05.html)
 
 **Trigger**: User added RKT analysis HTML to raw/analyses/; full wiki ingest requested.

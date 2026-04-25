@@ -4,6 +4,41 @@ Append-only record of thesis updates. Format defined in CLAUDE.md.
 
 ---
 
+## 2026-04-17 — v2.1 Schema Migration (Consolidated Wiki Page)
+
+**Trigger**: Wiki schema migration from v1 (4-file format: overview / thesis / financials / changelog) to v2.1 (single consolidated `[TICKER].md` page + changelog). Performed concurrently with Q1 2026 earnings absorption.
+
+**Sources reviewed**:
+- Existing v1 files (overview.md, thesis.md, financials.md)
+- raw/transcripts/SCHW_Q1_2026_earnings_call_transcript.md (April 16, 2026 earnings call)
+- Yahoo Finance live price (verified Apr 17, 2026)
+- Prior 2026-04-05 initial ingest + 2026-04-17 Q1 entry
+
+### What Changed
+- Folded overview/thesis/financials into single `SCHW.md` matching v2.1 DASH.md template structure
+- Added explicit Section 11 Catalyst & Sentiment Tracker (new in v2)
+- Rewrote Section 15 with non-holder/holder split, entry/trim/exit zones, thesis-break triggers
+- Removed all portfolio-sizing language (no tranche %, no allocation %, no stock/options split) per v2 Core Rule #3
+- Updated price/52-wk to live data: **$88.50** (down from $93.77 prior); 52-wk low *$79.30* — printed *new* 52-wk low *the day after* the Q1 beat (counterintuitive setup)
+- Q1 2026 results integrated throughout Sections 2, 4, 6, 7, 11, 13, 15 (revenue $6.5B +16%, EPS $1.43 +38%, client assets $11.8T, NNA $158B Q1 record, DARTs 9.9M, bank loans $61B, 19% div hike, $2.4B Q1 buyback, FY26 EPS guide *raised above* $5.70–$5.80)
+- BAIT score *upgraded*: triple-Strong overlap (B + A + I) vs. prior v1 of A-Strong + B/I-Moderate. Behavioral lens upgraded from Moderate to Strong because the new 52-wk low *post* a clear EPS beat with raised FY26 guide is the cleanest behavioral mispricing setup SCHW has shown this cycle
+- Price targets refreshed to 18-month horizon: Bull $130 (30%) / Base $108 (50%) / Bear $70 (20%) → PW EV $107 = +21% upside from $88.50
+- Deleted legacy v1 files: overview.md, thesis.md, financials.md
+
+### Thesis Status
+- **Overall**: **Strengthened** (driven by Q1 print + lower entry price)
+- **BAIT delta**: B Moderate → **Strong**; A Strong → Strong (now with FY26 EPS bar *raised*); I Moderate → **Strong** (CFO's explicit guide-raise statement); T Weak → **Moderate** (fresh 52-wk low + buyback floor)
+- **Price target delta**: Base $110 → $108 (slightly lower target, but lower entry preserves upside); Bull $137 → $130 (narrower 18-mo horizon); Bear $70 → $70 (unchanged)
+- **Catalyst & Sentiment delta**: Stock at fresh 52-wk low *despite* clear Q1 beat; 19% dividend raise + $2.4B Q1 buyback represent step-change capital return; FY26 EPS bar raised >$5.80; Q2/July guide refresh now the next hard catalyst
+
+### Recommendation
+- **For a non-holder**: **Initiate** — at $88.50 / ~15× FY26E EPS the stock sits below historical band with strengthening fundamentals
+- **For a current holder**: **Add** — the post-beat 52-wk low is a rare add opportunity in a high-quality compounder
+
+**Next review trigger**: Q2 2026 earnings + FY26 formal guidance refresh (~July 2026).
+
+---
+
 ## 2026-04-17 — Q1 2026 Earnings Update
 
 **Trigger**: SCHW reported Q1 2026 earnings on April 16, 2026 (yesterday). Strong beat on EPS; FY2026 guidance raised materially.

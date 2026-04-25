@@ -1,5 +1,63 @@
 # PG — Changelog
 
+*Append-only. Most recent entry first.*
+
+---
+
+## [2026-04-17] — v2.1 Migration (Workflow A) — Single-Page Consolidation + Pre-Earnings Refresh
+
+**Trigger**: Schema migration from v1 (4-file structure: overview/thesis/financials/changelog) to v2.1 (single consolidated `PG.md` + `changelog.md`). Live price refreshed and recommendation framework updated to highlight the **April 24, 2026 (Q3 FY2026) earnings print — one week away** as the dominant binary catalyst.
+
+**Sources reviewed**:
+- Yahoo Finance JSON API (live price $148.18; 52-wk range $137.62–$170.99; verified Apr 17, 2026)
+- Prior v1 wiki files (overview.md, thesis.md, financials.md, changelog.md) — folded into single PG.md
+- PG_price_analysis_2026-03-25.html (prior Three-Horizon Price & Event Analysis)
+- Q2 FY2026 earnings (Jan 22, 2026): EPS $1.78 vs. $1.87 expected — miss under new CEO Jejurikar
+- Q3 FY2025 (Apr 24, 2025): Guidance cut citing tariffs ($1–1.5B/yr)
+- CEO transition: Moeller → Jejurikar effective Jan 1, 2026
+- Restructuring: 7,000 job cuts + brand divestitures + market exits ($1.5–2.0B charges over FY2026–FY2027)
+- Erste Group downgrade (Mar 24, 2026)
+
+### What Changed from Prior Entry (2026-04-06 at $143.35)
+
+- **Live price**: $143.35 → **$148.18** (+3.4%); modest pre-earnings drift higher
+- **52-week range refined**: now $137.62 – $170.99 (high revised from $174.80 reported in v1; $170.99 is the verified 52-wk-trailing high as of Apr 17, 2026)
+- **Q3 FY2026 earnings is now ONE WEEK AWAY** (April 24, 2026) — Section 11 and Section 15 explicitly elevate this as the dominant binary catalyst
+- **Recommendation framing tightened**: pre-print = Watch / Hold (do not initiate, do not exit); post-print = re-evaluate with explicit beat/in-line/miss decision tree
+- **Schema migration**: Consolidated overview.md + thesis.md + financials.md → PG.md per v2.1 CLAUDE.md. Position-sizing language ("small or watch position", portfolio % framing) removed per Core Rule #3. Replaced with price-level entry/trim/exit zones and non-holder/holder split.
+
+### Thesis Status
+- **Overall**: **Unchanged** — same "show me" thesis with the central catalyst now imminent. The 7-day timeline to Q3 FY2026 means thesis status will refresh dramatically next week regardless of outcome.
+- **BAIT delta**: No change pre-print
+  - B: Moderate (fundamental support for the fear remains; not a clean overreaction)
+  - A: Weak-Moderate (consensus appears fair at 20× for 0–4% growth)
+  - I: Weak-Moderate (Q2 miss is the most recent primary data; no underappreciated edge identified pre-print)
+  - T: Weak (downtrend partially repaired; +7.7% off low; binary print risk increasing volatility into earnings)
+  - Overall: Weak signal, no significant overlap. Conviction Low.
+- **Price target delta (1–2 yr scenarios)**: Bull $170–185 (25%) | Base $155–165 (45%) | Bear $120–130 (30%) — unchanged from prior entry
+- **PW EV ~$154 vs. spot $148.18 = +4% price + ~3% dividend = ~7% total** — modest, consistent with show-me status
+- **Catalyst & Sentiment delta**: April 24 print elevated to *the* catalyst. Erste downgrade (Mar 24) noted. Defensive rally ($137 → $163 in Feb) fully unwound by late March.
+
+### Recommendation
+- **For a non-holder**: **Watch** — do not initiate ahead of April 24. Pre-print binary risk + thin PW asymmetry (~7% total return) does not justify positioning. Re-evaluate within 24 hours of the print using beat/in-line/miss decision tree.
+- **For a current holder**: **Hold through April 24** — do not exit at –13% off highs (forfeits upside optionality on beat); do not add until print confirms execution. Trim into strength if price >$165 post-print.
+
+**Attractive entry zone**: $135 – $145
+**Trim zone**: $170 – $180
+**Exit / avoid zone**: >$185
+
+**Thesis-break triggers**:
+1. Q3 FY2026 EPS miss + organic growth ≤0%
+2. FY2026 organic sales guide cut below 0%
+3. Tariff headwind expansion above $1.5B for FY2026
+4. Dividend cut or freeze (immediate exit)
+5. Two consecutive quarters of accelerating private-label share losses
+6. Restructuring savings not materializing in operating margin by Q4 FY2026
+7. Jejurikar departure or material C-suite turnover
+8. Multiple compression below 17× without earnings deterioration (structural staples de-rating)
+
+**Next review trigger**: **Q3 FY2026 earnings — April 24, 2026 (pre-market). ONE WEEK AWAY.** Mandatory full-framework refresh within 24 hours of the print.
+
 ---
 
 ## [2026-04-06] — Initial Ingest

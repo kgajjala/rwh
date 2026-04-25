@@ -1,4 +1,4 @@
-# kg-invest-wiki
+# Richer Wiser Happier (rwh)
 
 Personal investment knowledge base — maintained by Claude Code following the
 [Karpathy LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).

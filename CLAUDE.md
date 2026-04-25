@@ -114,9 +114,11 @@ kg-invest-wiki/
     in sync — every ticker `add`, every Workflow B `material update`, and
     every ticker `removal` must update this table in the same commit:
     - **Order**: alphabetical by ticker symbol (case-sensitive; A → Z).
-    - **Columns** (exactly three): `Ticker` | `Last Updated` | `Punchline`.
+    - **Columns** (exactly four): `Ticker` | `Status` | `Last Updated` | `Punchline`.
     - **Ticker** column: a relative Markdown link to the ticker page —
       `[TICKER](wiki/tickers/TICKER/TICKER.md)`.
+    - **Status** column: `Active` or `Paused`. Mirror exactly what is in
+      the ticker page header. Per Rule #15.
     - **Last Updated** column: ISO date `YYYY-MM-DD` — the date of the most
       recent material update to that ticker's `[TICKER].md` (NOT the date
       the row in this table was last touched, and NOT the date of a quiet
@@ -138,7 +140,25 @@ kg-invest-wiki/
       history but the README should reflect current coverage only.
     - **Counter line**: the line directly below the table that begins
       `*N tickers above.*` (or similar) must reflect the current count.
-15. **All sources must be linked**. Every `[Source: ...]` citation and
+15. **Active / Paused ticker status**. Every ticker has a status: `Active`
+    (default — included in the weekly cron) or `Paused` (excluded from the
+    weekly cron until explicitly resumed). Status is a single source of
+    truth declared in the **header block of `wiki/tickers/[TICKER]/[TICKER].md`**
+    on a `**Status**: Active` or `**Status**: Paused — since YYYY-MM-DD` line
+    placed directly below the `Last Updated` line. README, `wiki/index.md`,
+    `wiki/watchlist.md`, and the weekly cron all read from this. Pausing
+    and resuming are governed by Workflow C below.
+    - The README ticker table must include a `Status` column (column 2:
+      `Ticker | Status | Last Updated | Punchline`).
+    - `wiki/index.md` must include a `Status` column.
+    - `wiki/watchlist.md` ranks **Active tickers only**. Paused tickers are
+      listed in a separate "Paused Tickers" footer section with their pause
+      date — they are not actionable but must remain visible so they are
+      not forgotten.
+    - **Quiet weeks vs. paused weeks are different**. A quiet week for an
+      Active ticker still produces a `No Material Events` changelog entry
+      and snapshot. A Paused ticker writes nothing during a weekly run.
+16. **All sources must be linked**. Every `[Source: ...]` citation and
     every date-stamped event bullet that names a source MUST be a real
     Markdown link, not bare text.
     - **Absolute URL** for anything on the public web — SEC EDGAR
@@ -165,7 +185,7 @@ kg-invest-wiki/
       `wiki/index.md`, `wiki/watchlist.md`, `wiki/summaries.md`,
       `wiki/frameworks/*.md`) and all generated outputs
       (`outputs/[TICKER]/*.md`, `outputs/weekly/*.md`).
-16. **Visual emphasis & emoji conventions**. Use bold, italics, and a
+17. **Visual emphasis & emoji conventions**. Use bold, italics, and a
     small standardized emoji vocabulary so key points are scannable.
     Do not sprinkle emoji decoratively — each glyph below carries a
     specific meaning:
@@ -192,18 +212,19 @@ kg-invest-wiki/
     - Markdown does not render hex colors — semantic color is conveyed
       via the emoji palette above. Do not embed HTML `<span style>`
       tags; they break GitHub rendering in some views.
-17. **Summary section at the top of every ticker page**. Every
+18. **Summary section at the top of every ticker page**. Every
     `wiki/tickers/[TICKER]/[TICKER].md` MUST open (immediately after
     the header block, before "Business Overview") with a `## Summary`
     section (literal heading — not "Section 0 — Summary") containing
-    **up to 10 bullets** distilled from the rest of the page. The Summary is a synthesis, not new analysis — every
-    bullet must be supported by content already in Sections 1–15.
+    **up to 10 bullets** distilled from the rest of the page. The
+    Summary is a synthesis, not new analysis — every bullet must be
+    supported by content already in Sections 1–15.
     - Bullets should cover (pick the 10 most thesis-relevant):
       thesis sentence, moat verdict, pivotal question, recommendation
       verbs (non-holder / holder), entry/trim zones, BAIT verdict,
       next catalyst with date, top 1–2 risks, key valuation anchor,
       price action context.
-    - Use the emoji vocabulary from Rule #16 to make signals scannable.
+    - Use the emoji vocabulary from Rule #17 to make signals scannable.
     - Refresh on every material update (Workflow B Step 3a) — list
       `Summary` as a refreshed section in the changelog `What Changed`
       block whenever Section 15 or Section 11 changed.
@@ -357,8 +378,9 @@ every material claim. Tag estimates explicitly.
 
 ### Step 5 — Write wiki files
 - `wiki/tickers/[TICKER]/[TICKER].md` — single consolidated wiki page. Required structure:
-  1. **Header block** — ticker, company name, last-updated date, schema version
-  2. **Summary** (≤10 bullets per Rule #17 — thesis sentence, moat, recommendation, entry zone, BAIT verdict, next catalyst, top risks; emoji-tagged per Rule #16)
+  1. **Header block** — ticker, company name, schema version, last-updated date,
+     and a `**Status**: Active` line (per Core Rule #15). New ingests start `Active`.
+  2. **Summary** (≤10 bullets per Rule #18 — thesis sentence, moat, recommendation, entry zone, BAIT verdict, next catalyst, top risks; emoji-tagged per Rule #17)
   3. **Business Overview** (1–2 paragraphs: what the company does, brands, revenue streams)
   4. **Moat Assessment** (Wide / Narrow / None + sources + vulnerabilities)
   5. **Pivotal Investment Question** (the one question the thesis turns on)
@@ -392,10 +414,15 @@ to: `outputs/[TICKER]/[TICKER]_initial_analysis_YYYY-MM-DD.md`
 Triggered by: scheduled task every **Friday evening**, OR manual command
 "weekly update" / "update [TICKER]".
 
-### Step 1 — Determine baseline
+### Step 1 — Determine baseline and active set
 For each ticker in `wiki/tickers/`:
-- Read the latest entry in `wiki/tickers/[TICKER]/changelog.md`.
-- The baseline is the date of that entry. The lookback window is
+- Read the `**Status**:` line from the header block of `[TICKER].md`.
+- **If `Paused`, skip the ticker entirely**. Do not fetch raw, do not
+  scan for events, do not write a changelog entry, do not modify the
+  page. Paused tickers are reported only as a count + list in the
+  weekly summary footer.
+- If `Active`: read the latest entry in `wiki/tickers/[TICKER]/changelog.md`.
+  The baseline is the date of that entry. The lookback window is
   **everything that has happened since that date**.
 
 ### Step 2 — Scan for meaningful events (lookback window)
@@ -451,11 +478,13 @@ After all tickers are processed, write:
 `outputs/weekly/YYYY-MM-DD_weekly_summary.md`
 
 Required content:
-- Header: date, ticker count, count with material events vs. quiet
-- Per-ticker section with: action verb (if changed), one-line "what happened",
+- Header: date, ticker counts split as `N active (X events / Y quiet) / M paused`
+- Per-ticker section (Active only) with: action verb (if changed), one-line "what happened",
   price delta vs. last week, recommendation delta if any, source links
 - Cross-ticker macro callouts (rate moves, sector rotations) where relevant
 - Upcoming catalysts in the next 1–2 weeks
+- **Paused tickers footer**: one-line list of paused tickers with pause date
+  (`PAUSED: ABNB (since 2026-05-15), DELL (since 2026-06-02)`). If empty, omit.
 
 ### Step 5 — Log
 - Append all per-ticker actions to `wiki/log.md`.
@@ -465,6 +494,112 @@ Required content:
 - `git add` all changed files
 - `git commit` with message `WEEKLY YYYY-MM-DD: [N] events / [M] quiet — [one-line headline]`
 - `git push origin <branch>`
+
+---
+
+## Workflow C — Pause / Resume (Mode C)
+
+Triggered by user commands:
+- `pause [TICKER]` or `pause [TICKER]: <reason>` — move ticker to Paused.
+- `resume [TICKER]` — move ticker to Active and run a catch-up incremental.
+
+### C.1 — Pause
+
+1. Verify the ticker exists at `wiki/tickers/[TICKER]/`. Confirm current
+   status is `Active` (no-op if already Paused; surface this to the user).
+2. Run `date -u +%Y-%m-%d` (Core Rule #12).
+3. In `[TICKER].md` header block, change the `**Status**:` line to
+   `**Status**: Paused — since YYYY-MM-DD`.
+4. Append a changelog entry:
+
+   ```markdown
+   ## [YYYY-MM-DD] — Paused
+
+   **Reason**: [user-provided reason, or "Owner request" if none given]
+   **Last active baseline**: [date of prior changelog entry]
+
+   No further weekly updates will be written until the ticker is
+   resumed via `resume [TICKER]`. The wiki page is frozen as of this date.
+   ```
+
+5. Update `README.md` ticker table: set `Status` column to `Paused` for
+   this row. Do NOT bump `Last Updated`. Do NOT modify `Punchline`.
+6. Update `wiki/index.md`: set `Status` column to `Paused`.
+7. Update `wiki/watchlist.md`: remove the row from the Conviction Ranking
+   and append/update the "Paused Tickers" footer section with
+   `[TICKER] — paused since YYYY-MM-DD`.
+8. Append a `LOG ... PAUSE [TICKER] ...` entry to `wiki/log.md`.
+9. Commit (`PAUSE [TICKER]: <one-line reason>`) and push.
+
+### C.2 — Resume (with catch-up incremental)
+
+The resume operation MUST reconstruct what happened during the paused
+window. A multi-quarter pause may span multiple earnings prints, analyst
+revisions, and macro events — the catch-up must surface all of them so
+the thesis is faithfully brought current, not just price-stamped.
+
+1. Verify current status is `Paused`. If `Active`, no-op and surface.
+2. Run `date -u +%Y-%m-%d`.
+3. **Determine pause window**: `[paused-since date] → [today]`. Read
+   the `Paused — since YYYY-MM-DD` value from the header.
+4. **Catch-up scan** (mandatory — do all of the following for the full
+   pause window, not just last 7 days):
+   - Pull all 10-Q / 10-K filings from SEC EDGAR in window into
+     `raw/[TICKER]/filings/`.
+   - Pull all earnings press releases + transcripts in window into
+     `raw/[TICKER]/press-releases/` and `raw/[TICKER]/transcripts/`.
+   - Pull all 8-K filings in window into `raw/[TICKER]/filings/`.
+   - Scan analyst rating changes across the entire window, not the last
+     7 days. Note clusters and net direction.
+   - Pull current short-interest, insider Form 4 (90-day), and current
+     analyst consensus.
+   - Note any management changes, M&A, regulatory actions, dividend or
+     buyback authorizations during the window.
+5. **Apply the full Workflow B Step 3a section-refresh checklist** —
+   walk all 11 sections (2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15) and
+   refresh anything the accumulated window data invalidates. Section 11
+   must explicitly enumerate each earnings print in the window, in
+   chronological order, before settling on the current state.
+6. In `[TICKER].md` header, change `**Status**:` back to `**Status**: Active`
+   and bump `**Last Updated**` to today.
+7. Append a changelog entry:
+
+   ```markdown
+   ## [YYYY-MM-DD] — Resumed (Catch-Up)
+
+   **Pause window**: [paused-since date] → [today] ([N] days)
+   **Events reconstructed in window**:
+   - [YYYY-MM-DD] [Event Type] — one-line summary
+   - [YYYY-MM-DD] [Event Type] — one-line summary
+   - ...
+
+   **Sources reviewed**: [list of new files in raw/]
+
+   ### What Changed (vs. pre-pause baseline)
+   - [Section X]: [summary of refresh]
+   - [Section Y]: [summary of refresh]
+   - ...
+
+   ### Thesis Status
+   - **Overall**: Strengthened / Weakened / Unchanged (vs. pre-pause)
+   - **BAIT delta**: ...
+   - **Price target delta**: ...
+
+   ### Recommendation
+   - **For a non-holder**: ...
+   - **For a current holder**: ...
+
+   **Next review trigger**: [Specific event or date]
+   ```
+
+8. Update `README.md` (Status → `Active`, bump `Last Updated`, refresh
+   `Punchline`), `wiki/index.md` (Status → `Active`, refresh row),
+   `wiki/watchlist.md` (re-insert into Conviction Ranking, remove from
+   Paused footer).
+9. Append `LOG ... RESUME [TICKER] ...` and any sub-actions (`FETCH`,
+   `UPDATE`, `PRICE`) to `wiki/log.md`.
+10. Commit (`RESUME [TICKER]: catch-up over [N]-day window — <headline>`)
+    and push.
 
 ---
 
@@ -580,6 +715,8 @@ ACTION verbs (extend as needed):
 - `SCHEMA` — change to CLAUDE.md itself
 - `PUSH` — `git push` to origin (record success or failure)
 - `DELETE` — file deletion
+- `PAUSE` — ticker moved from Active → Paused (Workflow C.1)
+- `RESUME` — ticker moved from Paused → Active with catch-up (Workflow C.2)
 
 Examples:
 ```
@@ -600,7 +737,11 @@ LOG 2026-04-25 18:05 PUSH origin main — Pushed weekly run.
 
 Required columns (no allocation column):
 
-| Ticker | Company | Moat | Conviction | Last Updated | Status |
+| Ticker | Status | Company | Moat | Conviction | Last Updated | Summary |
+
+The `Status` column is `Active` or `Paused` per Core Rule #15. The `Summary`
+column carries the short recommendation/BAIT note that previously lived in
+the `Status` column under v2.4.
 
 The Ticker column links to `tickers/[TICKER]/[TICKER].md` (the single
 consolidated wiki page).
@@ -619,6 +760,8 @@ date at the bottom.
 ## watchlist.md Maintenance
 
 Pure attractiveness ranking. **No portfolio allocation, no target %, no form (stock/options) splits.**
+**Active tickers only** — paused tickers are excluded from the Conviction
+Ranking and listed in a separate "Paused Tickers" footer section per Rule #15.
 
 Required columns:
 
@@ -711,30 +854,6 @@ version (v3, v4, ...). Minor edits within a version are fine without bump.
   refreshed section in the `What Changed` block, so reviewers can audit
   whether the full surface was walked.
 
-### v2.5 changelog (April 2026 — linked sources, visual emphasis, top-of-page Summary)
-- **Added Core Rule #15: All sources must be linked.** Every
-  `[Source: ...]` citation and date-stamped event bullet must be a
-  real Markdown link — absolute URL for web sources (SEC EDGAR,
-  company IR, news, aggregators), relative path when the file is
-  stored locally under `raw/[TICKER]/...`. Bare `[Source: name]`
-  text is no longer acceptable. Unresolvable citations get a
-  `[link pending]` tag for the next pass.
-- **Added Core Rule #16: Visual emphasis & emoji conventions.**
-  Standardized a small emoji vocabulary (🟢🔴🟡⚠️✅📅💰📈📉🎯) so
-  thesis status, risks, and catalysts are scannable at a glance.
-  Bold reserved for section punchlines and thesis-carrying numbers;
-  italics for source attributions and `*[Estimate]*`-style meta tags.
-  Hex colors / HTML spans explicitly disallowed (GitHub render gaps).
-- **Added Core Rule #17: Section 0 — Summary at the top of every
-  ticker page.** Up to 10 bullets distilled from Sections 1–15,
-  emoji-tagged, refreshed whenever Section 11 or 15 changes. Gives
-  a reader the entire thesis at a glance before scrolling.
-- **Updated Workflow A Step 5** per-ticker file structure to add
-  `Section 0 — Summary` between the header block and Business Overview.
-- **Existing-content sweep**: a one-time retrofit pass linkifies
-  citations and adds Summary sections to all 34 ticker pages without
-  re-fetching primary sources or recomputing analysis.
-
 ### v2.4 changelog (April 2026 — README ticker table maintenance)
 - **Added Core Rule #14: Maintain the README ticker table.** The
   `## Tickers Covered` table in `README.md` is the top-level entry
@@ -746,3 +865,54 @@ version (v3, v4, ...). Minor edits within a version are fine without bump.
 - The weekly cron routine prompt was updated to include README ticker
   table maintenance as a mandatory cross-cutting refresh step (alongside
   index.md, watchlist.md, summaries.md).
+
+### v2.5 changelog (April 2026 — Active / Paused ticker status + linked sources + Summary section)
+- **Added Core Rule #15: Active / Paused ticker status.** Every ticker
+  carries a status declared in the `**Status**:` line of its page header.
+  `Active` (default) means the weekly cron updates it; `Paused` means
+  the weekly cron skips it entirely until it is resumed. The owner uses
+  pause/resume to mute coverage on tickers that are temporarily
+  uninteresting (e.g., divested, in workout, or just out of attention)
+  without losing the wiki page or its history.
+- **Added Workflow C — Pause / Resume.** `pause [TICKER][: <reason>]`
+  freezes a ticker; `resume [TICKER]` reactivates it AND runs a
+  catch-up incremental that reconstructs every material event during
+  the pause window (multiple earnings prints, analyst clusters,
+  management changes, etc.) and walks the full Workflow B Step 3a
+  section-refresh checklist. The catch-up changelog entry must
+  enumerate every event that occurred during the window — a multi-quarter
+  pause cannot be discharged with a price-stamp.
+- **Workflow B Step 1** now reads each ticker's status and skips paused
+  tickers entirely (no quiet-week entry, no fetch). The weekly summary
+  reports counts as `N active (X events / Y quiet) / M paused` and lists
+  paused tickers in a footer.
+- **README ticker table** gains a `Status` column (column 2). Total of
+  four columns: `Ticker | Status | Last Updated | Punchline`.
+- **`wiki/index.md`** gains a `Status` column. The pre-existing column
+  previously labeled `Status` (which carried recommendation summaries)
+  is renamed to `Summary` to avoid collision.
+- **`wiki/watchlist.md`** ranks Active tickers only. Paused tickers
+  move to a "Paused Tickers" footer section.
+- **`log.md`** gains `PAUSE` and `RESUME` ACTION verbs.
+- **Added Core Rule #16: All sources must be linked.** Every
+  `[Source: ...]` citation and date-stamped event bullet must be a
+  real Markdown link — absolute URL for web sources (SEC EDGAR,
+  company IR, news, aggregators), relative path when the file is
+  stored locally under `raw/[TICKER]/...`. Bare `[Source: name]`
+  text is no longer acceptable. Unresolvable citations get a
+  `[link pending]` tag for the next pass.
+- **Added Core Rule #17: Visual emphasis & emoji conventions.**
+  Standardized a small emoji vocabulary (🟢🔴🟡⚠️✅📅💰📈📉🎯) so
+  thesis status, risks, and catalysts are scannable at a glance.
+  Bold reserved for section punchlines and thesis-carrying numbers;
+  italics for source attributions and `*[Estimate]*`-style meta tags.
+  Hex colors / HTML spans explicitly disallowed (GitHub render gaps).
+- **Added Core Rule #18: Summary section at the top of every ticker
+  page.** Up to 10 bullets distilled from Sections 1–15, emoji-tagged,
+  refreshed whenever Section 11 or 15 changes. Gives a reader the
+  entire thesis at a glance before scrolling.
+- **Updated Workflow A Step 5** per-ticker file structure to add the
+  `Summary` section between the header block and Business Overview.
+- **Existing-content sweep**: a one-time retrofit pass linkified
+  citations and added Summary sections to all 34 ticker pages
+  without re-fetching primary sources or recomputing analysis.

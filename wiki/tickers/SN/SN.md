@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **$115.74** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/SN); April 24 close)
 > **Ticker Type**: Consumer products / appliances (capital-light asset-lite design + manufacturing-outsourced model)
 

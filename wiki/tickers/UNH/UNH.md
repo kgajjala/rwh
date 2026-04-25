@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **$354.92** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/UNH))
 > **Ticker Type**: Managed care (vertically integrated insurer + PBM + care delivery + analytics)
 

@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **$142.82** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/ABNB))
 > **Ticker Type**: Capital-light platform / two-sided marketplace (alternative accommodations + experiences)
 

@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **$17.47** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/FIG))
 > **Ticker Type**: Capital-light SaaS / collaborative design platform
 > **⚠️ Limited Public History Notice**: Figma IPO'd July 31, 2025. As of April 24, 2026 the company has reported only two full quarters as a public entity (Q3 2025 and Q4 2025). Multi-year trend tables and long-duration valuation comparables are constrained by limited disclosure history. Lock-up dynamics dominate near-term price action.

@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **$60.73** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/MP); previous close $26.01 — note: massive price step reflects DoD strategic-investment + Apple/GM offtake catalysts that re-rated the equity in 2025)
 > **Ticker Type**: Strategic minerals / vertically integrating rare-earth + magnetics
 

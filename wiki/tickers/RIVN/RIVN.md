@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **$16.95** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/RIVN); April 23 close)
 > **Ticker Type**: Pre-scale auto OEM + software JV optionality (capital-intensive auto + capital-light VW software JV)
 

@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **$883.96** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/LLY))
 > **Ticker Type**: Large-cap pharma — GLP-1 / incretin franchise dominant
 

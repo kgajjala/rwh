@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **$214.65** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/DELL); April 22 close — most recent print near 52-wk high)
 > **Ticker Type**: Enterprise hardware / AI infrastructure (hybrid: capital-light client + capital-intensive server/storage)
 

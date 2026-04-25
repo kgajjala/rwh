@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **$41.90** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/TREX); previous close $59.13; reflects post-Q4 2025 sell-off + housing/R&R cycle weakness)
 > **Ticker Type**: Building products / housing-cyclical industrial
 

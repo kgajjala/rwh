@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **$93.24** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/NFLX); post 10-for-1 split effective Nov 17, 2025)
 > **Ticker Type**: Capital-light global streaming platform with advertising optionality
 

@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **$137.51** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/RH))
 > **Ticker Type**: Premium luxury home furnishings (cyclical specialty retail)
 

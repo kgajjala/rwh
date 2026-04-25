@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **$45.63** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/ZG); previous close $64.82; reflects multi-month decline tied to Rocket-Redfin competitive concerns + housing-cycle weight)
 > **Ticker Type**: Capital-light digital marketplace (real estate)
 

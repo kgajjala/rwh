@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **$62.16** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/KGS) / [stockanalysis.com](https://stockanalysis.com/stocks/kgs/) cross-check; intraday near 52-wk high of $66.16)
 > **Ticker Type**: Energy infrastructure services (contract compression — fee-based / utility-like)
 

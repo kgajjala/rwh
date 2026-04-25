@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **$176.78** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/DASH); intraday, previous close $187.22 → –5.6% session)
 > **Ticker Type**: Three-sided marketplace
 

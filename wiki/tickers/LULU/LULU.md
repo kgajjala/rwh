@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **$143.80** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/LULU))
 > **Ticker Type**: Premium consumer apparel / branded retail
 

@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **~$247** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/AMZN) / [24/7 Wall St](https://247wallst.com/?s=Amazon) cross-check; trading near top of 1-yr range)
 > **Ticker Type**: Capital-light platform / hyperscaler / e-commerce mega-cap
 

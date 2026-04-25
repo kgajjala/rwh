@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **$98.67** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/SBUX))
 > **Ticker Type**: Consumer staples / global retail (specialty coffee, multi-unit franchise + company-operated hybrid)
 

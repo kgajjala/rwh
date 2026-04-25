@@ -2,6 +2,7 @@
 
 > **Schema**: v2.5
 > **Last Updated**: 2026-04-25
+> **Status**: Active
 > **Live Price Verified**: **$395.95** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/INTU); previous close $614.83 — note: gap reflects multi-month drawdown from AI-disruption fears + Q3 FY26 pre-print weakness)
 > **Ticker Type**: Capital-light SaaS / vertical software platform
 

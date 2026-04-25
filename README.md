@@ -112,5 +112,3 @@ rwh/
 ```
 
 ---
-
-*Private repo. See `kg-life-wiki` (separate repo) for personal / non-investment content.*

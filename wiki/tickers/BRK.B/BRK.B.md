@@ -20,6 +20,7 @@
 - ⚠️ **Top risk**: $373B cash drag — every year of non-deployment is opportunity cost; the "Abel hesitation" question is the bear case mechanism.
 - ⚠️ **Second risk**: GEICO expense-driven earnings decline (–$1B in Q4 2025 driven by +$1.4B ad spend); insurance underwriting profit –54% YoY in Q4.
 - 🟢 **BAIT verdict**: **Triple overlap (B+I-Strong, A-Moderate)** — succession sentiment depressing price, primary signal (Abel's resumed buyback at this zone) under-weighted by media. 🎯 PW EV ~$540 (3-yr) implies +15%/yr including operating earnings compounding.
+- 📈 **Primary-source signal (5-yr letter arc)**: Abel's March 2026 buyback at ~$465–490 *directly applies* Buffett's [FY2022 framework](https://www.berkshirehathaway.com/letters/2022ltr.pdf) (*"stupid if done at a premium"*) and Abel's own [FY2025 letter](https://www.berkshirehathaway.com/letters/2025ltr.pdf) (*"shares trade below our estimate of intrinsic value"*). The cash growth $138B → $373B (2020–2025) was *Buffett's* discipline, not Abel's hesitation. Plus Abel's [new operational quantification](https://www.berkshirehathaway.com/letters/2025ltr.pdf) (*"each percentage point of margin = ~$230M of incremental cash flow"*) is a genuinely new compounding lever — BNSF's 2025 +250bps margin gain alone implies ~$575M of Year-1 lift.
 
 ---
 
@@ -37,10 +38,11 @@ The defining 2026 transition: **Warren Buffett stepped down as CEO on Dec 31, 20
 
 **Wide** — multi-source structural advantages compounded over 60 years that no rival can replicate.
 
-**Sources**:
-- **Cost-of-float advantage**: $176B of insurance float at *negative* underwriting cost (i.e., Berkshire is paid to hold the money) is structurally cheaper than any debt or equity capital. GEICO's direct distribution + scale = lowest expense ratio in U.S. auto insurance.
+**Sources** (with primary-source citations from Buffett's letters):
+- **Cost-of-float advantage**: $176B of insurance float at *negative* underwriting cost. Buffett's [FY2023 letter](https://www.berkshirehathaway.com/letters/2023ltr.pdf) noted float had grown to $169B and *"continues to come at no cost to the company thanks to these sterling underwriting results."* GEICO's direct distribution + scale = lowest expense ratio in U.S. auto insurance.
 - **Capital allocation IP**: 60-year track record (Buffett → 6,000× S&P-500-relative compounding 1965–2025). The discipline, network, and reputation are partially transferable to Abel; the deal flow access (private companies that *only* sell to Berkshire) is unique.
-- **Operating-business diversification**: BNSF, BHE, GEICO, Precision Castparts, Pilot are all top-3 in their industries with their own moats (regulatory, scale, network). One of the most genuinely diversified balance sheets in public markets — recession-resilient and rate-environment-flexible.
+- **Operating-business permanence**: Buffett's [FY2023 letter](https://www.berkshirehathaway.com/letters/2023ltr.pdf) on BNSF: *"A century from now, BNSF will continue to be a major asset of the country and of Berkshire."* This is the verbal expression of permanent-capital advantage. BNSF, BHE, GEICO, Precision Castparts, Pilot all held through cycles, not actively managed for IRR.
+- **"Secret sauce" = time**: Per Buffett's [FY2023 letter](https://www.berkshirehathaway.com/letters/2023ltr.pdf), time is Berkshire's compounding edge — holding great companies long-term, avoiding trading costs. Abel's FY2025 letter signals continuation; equity portfolio turnover (Q4 2025 trim AAPL/BAC/POOL/AMZN; build CB/CVX/DPZ; new NYT) is within Buffett-era norms, not a regime change.
 - **Permanent capital**: No external pressure to redeploy; Berkshire can wait 5+ years for the right deal, which most public-company CEOs can't.
 - **Tax-efficient structure**: Equity portfolio gains are deferred (vs. mutual fund pass-through); reinvested float compounds tax-deferred.
 - **Reputation / brand**: "Buffett premium" — ability to be *the* white-knight buyer in distressed events (GE 2008, Goldman 2008, Occidental 2020) at preferred-equity terms unavailable to others.
@@ -162,13 +164,32 @@ Source: [Berkshire 2025 Annual Report](https://www.berkshirehathaway.com/2025ar/
 |---|---|---|
 | Operating Earnings ($B) | 13.5 | 19.2 |
 | Op. Earnings YoY % | +34% | +2.5% |
-| Insurance Underwriting Profit ($B) | n/d | 1.56 |
-| Insurance Investment Income ($B) | ~3.4 | ~3.7 |
+| Insurance Underwriting Profit ($B) | 2.4 | 1.56 |
+| Insurance Investment Income ($B) | 3.2 (–$0.5B YoY) | ~3.7 |
 | BNSF Earnings | +mid-single digit | +5.4% |
 | Cash + Treasuries ($B end of qtr) | 382 | 373 |
 | Buybacks ($B) | 0 | 0 |
 
-The Q3 2025 +34% operating earnings spike was an *outlier* — driven by a return to insurance underwriting profitability after Q2 catastrophe losses and timing of investment income. The Q4 2025 print's modest +2.5% growth and –54% Q4 underwriting profit are the more representative read on 2026 trajectory: GEICO is investing through earnings (advertising), Q4 had reinsurance discipline-driven decline, and BNSF/BHE are operating at trend.
+The Q3 2025 +34% operating earnings spike was driven by strong P&C reinsurance underwriting ($2.4B Q3 underwriting profit) per [Reinsurance News coverage of Q3 2025](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/). The Q4 2025 print's modest +2.5% growth and –54% Q4 underwriting profit are the more representative read on 2026 trajectory: GEICO is investing through earnings (advertising), Q4 had reinsurance discipline-driven decline, and BNSF/BHE are operating at trend.
+
+### Primary Source: 10-K Segment Detail (FY2025)
+
+Pulled directly from the [Berkshire 2025 Annual Report / 10-K](https://www.berkshirehathaway.com/2025ar/2025ar.pdf) MD&A. These figures take precedence over aggregator data:
+
+| Segment / Metric | FY2025 | FY2024 | Δ | 10-K driver commentary |
+|---|---|---|---|---|
+| **Insurance underwriting profit (FY)** | (–20% YoY) | — | –20% | *"Ongoing impacts of competition within the industry and rising claim cost trends"* — verbatim from 10-K MD&A |
+| **GEICO earnings** | declined ~$1B | — | ~–$1B | Driven by **+$1.4B in expenses, mostly higher policy acquisition costs (advertising) — to accelerate growth** — explicitly framed by management as investing through earnings |
+| **BNSF after-tax earnings** | +8.8% | — | +8.8% | *"Lower operating expenses from improved operating efficiencies, lower litigation accruals, and a lower effective income tax rate"* |
+| **BNSF operating margin** | **34.5%** | 32.0% | **+250bps** | One of the largest operating-margin improvements in BRK's portfolio in 2025 |
+| **BHE after-tax earnings** | +$249M (**+6.7%**) | — | +6.7% | *"Lower wildfire loss accruals at PacifiCorp, reduced earnings attributable to noncontrolling interests, and the impact of real estate brokerage business litigation accruals in 2024"* |
+| **Net operating earnings (5-yr)** | **$44.4B** | (FY2021: $27.6B) | **+61% over 4 yrs** | Genuine compounding despite size; primary metric Buffett emphasizes |
+
+**What this changes vs. our prior rough numbers**:
+- **BNSF margin expansion is structurally larger than aggregator summaries suggest**: 250bps of operating margin lift in a single year on a $24B revenue base is a meaningful $600M+ run-rate impact — and it's explicitly cost-discipline-driven, which is repeatable.
+- **BHE was the *positive* surprise of 2025**, not just "down slightly Q4 / up slightly FY" as media summarized. After-tax earnings +6.7% reflects PacifiCorp wildfire reserve normalization; this is one-time tailwind, but it's real.
+- **The GEICO commentary in the 10-K is unambiguous**: management is voluntarily accelerating ad spend to recover share lost to Progressive. The –$1B earnings hit is investment, not deterioration. This is strongly thesis-positive for 2027–2028.
+- **Insurance underwriting –20% for the full year (not just –54% in Q4)** is more material than the headline Q4 number suggested. Combination of competition + rising claim costs is a multi-year industry-cycle concern, not a one-quarter blip.
 
 ---
 
@@ -241,6 +262,13 @@ Berkshire reports six operating segments. FY2025 figures from [2025 Annual Repor
 | Marc Hamburg | CFO | Since 2010 | Conservative, consistent | 🟢 |
 | Charlie Munger | (Deceased Nov 2023) | — | — | — |
 
+**Buffett's verbatim endorsement of Abel (from his final [FY2024 letter](https://www.berkshirehathaway.com/letters/2024ltr.pdf), Feb 2025)**:
+- *"Greg Abel will become the boss at yearend. He is a great manager, a tireless worker and an honest communicator."*
+- *"It won't be long before Greg Abel replaces me as CEO and will be writing the annual letters."*
+- Abel *"shares the Berkshire creed"* and has *"vividly shown his ability to act"* when investment opportunities arise.
+
+**Why this matters**: Buffett's praise is famously understated; *"vividly shown his ability to act"* is among the strongest endorsements he has ever issued for an operating executive. Combined with Abel's $68M+ personal stock purchases (per [FY2022 letter](https://www.berkshirehathaway.com/letters/2022ltr.pdf)) and his March 4, 2026 buyback action at the ~$465–490 zone, the alignment is real and material.
+
 **Capital allocation track record (Buffett era, 2015–2025)**:
 - **Apple stake** (2016–2018, ~$36B cost, peaked at ~$170B fair value, trimmed 2024–2025 to ~$60B): textbook BAIT setup — "scuttlebutt" research convinced Buffett of Apple's consumer-product moat at a time when the market called it a hardware company.
 - **Bank investments through 2024–2025**: trimmed BAC, exited WFC, retained AmEx; rotation reflected post-COVID rate-environment view.
@@ -258,27 +286,84 @@ Berkshire reports six operating segments. FY2025 figures from [2025 Annual Repor
 
 **Governance**: Dual-class structure (A vs. B); Buffett's voting power (~30% via A shares) transitions over decades via philanthropic gifting. Abel does not have voting control. Independent directors include Ron Olson, Susan Decker, Charlotte Guyman, Ken Chenault, Steve Burke, Tom Murphy Jr., Wally Weitz, Meryl Witmer.
 
+### Recent Management Commentary — Primary Source Synthesis (Last 5 Letters + Abel's First)
+
+This subsection synthesizes 6 years of primary-source CEO communication: Buffett's last 5 annual shareholder letters (FY2020–FY2024) plus Greg Abel's first letter (FY2025). Letters are the most authoritative primary source for understanding management's framework — they are unfiltered, preserved in archive, and have driven Berkshire's culture for 60 years. The letter index is at [berkshirehathaway.com/letters](https://www.berkshirehathaway.com/letters/letters.html).
+
+#### Verbatim quotes mapped to investment relevance
+
+- **[Buffett, FY2020 letter (Feb 2021)](https://www.berkshirehathaway.com/letters/2020ltr.pdf)** — on long-term equity ownership: *"a patient and level-headed monkey, who constructs a portfolio by throwing 50 darts at a board listing all of the S&P 500, will – over time – enjoy dividends and capital gains, just as long as it never gets tempted to make changes in its original 'selections.'"* → **Investment relevance**: Buffett's clearest articulation of *patience as the central edge*. This framework now anchors Abel's stated approach to the $373B cash pile — discipline > activity.
+
+- **[Buffett, FY2020 letter (Feb 2021)](https://www.berkshirehathaway.com/letters/2020ltr.pdf)** — on the American Tailwind: *"We count on the American Tailwind and, though it has been becalmed from time to time, its propelling force has always returned."* → **Investment relevance**: Frames the structural macro thesis. Compare directly to FY2024 letter where Buffett walked this back — see below.
+
+- **[Buffett, FY2021 letter (Feb 2022)](https://www.berkshirehathaway.com/letters/2021ltr.pdf)** — record buybacks: *"Last year we demonstrated our enthusiasm for Berkshire's spread of properties by repurchasing the equivalent of 80,998 'A' shares, spending $24.7 billion in the process. That action increased your ownership in all of Berkshire's businesses by 5.2% without requiring you to so much as touch your wallet."* → **Investment relevance**: Establishes the buyback playbook. ~5%/yr share-count reduction is the *secondary* compounding lever when external opportunities are scarce. Total 2021 buybacks reached $27B (record). Abel's March 2026 resumption is a direct echo of this framework.
+
+- **[Buffett, FY2022 letter (Feb 2023)](https://www.berkshirehathaway.com/letters/2022ltr.pdf)** — buyback discipline: *"All stock repurchases should be price-dependent. What is sensible at a discount to business-value becomes stupid if done at a premium."* → **Investment relevance**: This is the operative constraint Abel inherited. The fact that 2025 had **zero buybacks** for the full year (first since 1998) — with stock between ~$420 and ~$540 — implies Buffett judged intrinsic value below ~$420. The fact that Abel resumed buybacks at ~$465–490 in March 2026 implies Abel's intrinsic-value estimate is *above* this band. **This is the cleanest disclosure of intrinsic value the company ever issues.**
+
+- **[Buffett, FY2022 letter (Feb 2023)](https://www.berkshirehathaway.com/letters/2022ltr.pdf)** — on critics: *"When the share count goes down, your interest in our many businesses goes up. Every small bit helps if repurchases are made at value-accretive prices … critics of stock buybacks are 'either an economic illiterate or a silver-tongued demagogue.'"* → **Investment relevance**: Establishes that Berkshire culture views buybacks not as financial engineering but as a tax-efficient, partner-aligned compounding mechanism. Tone signals will not be diluted under Abel.
+
+- **[Buffett, FY2023 letter (Feb 2024)](https://www.berkshirehathaway.com/letters/2023ltr.pdf)** — Munger tribute: *"In reality, Charlie was the 'architect' of the present Berkshire, and I acted as the 'general contractor' to carry out the day-by-day construction of his vision."* → **Investment relevance**: Buffett's most generous public attribution. Munger died Nov 2023 at 99; this letter cemented him as co-architect. Cultural inheritance: the "buy great businesses, sit on them forever" framework was Munger's, not Buffett's solo invention.
+
+- **[Buffett, FY2023 letter (Feb 2024)](https://www.berkshirehathaway.com/letters/2023ltr.pdf)** — "secret sauce" = time: holding great companies for the long term, benefiting from compounding, avoiding the costs of trading. Float grew to $169B. → **Investment relevance**: This is the *cultural* metric to watch under Abel. If Abel turns over the equity portfolio more aggressively or shortens holding periods, the secret sauce thesis breaks. Q4 2025 13F (trim AAPL/BAC/POOL/AMZN; build CB/CVX/DPZ; new NYT) is moderate activity — within Buffett-era norms.
+
+- **[Buffett, FY2023 letter (Feb 2024)](https://www.berkshirehathaway.com/letters/2023ltr.pdf)** — BNSF: *"A century from now, BNSF will continue to be a major asset of the country and of Berkshire."* → **Investment relevance**: Direct expression of permanent-capital advantage. BNSF held through cycles, not actively managed for IRR.
+
+- **[Buffett, FY2023 letter (Feb 2024)](https://www.berkshirehathaway.com/letters/2023ltr.pdf)** — BHE risk: *"The regulatory climate in a few states has raised the specter of zero profitability or even bankruptcy."* → **Investment relevance**: Public flag of the PacifiCorp wildfire risk that became the BHE 2024 earnings drag. The 2025 +6.7% BHE earnings recovery (per 10-K) is partial reservoir-normalization — but Buffett's "zero profitability" warning is a *structural* concern that has not been fully discharged.
+
+- **[Buffett, FY2023 letter (Feb 2024)](https://www.berkshirehathaway.com/letters/2023ltr.pdf)** — Occidental: position to be *"maintain[ed] indefinitely"* → **Investment relevance**: One of very few stocks Buffett explicitly designated as permanent. Abel has not deviated; OXY remains a top-10 holding.
+
+- **[Buffett, FY2024 letter (Feb 2025) — his last](https://www.berkshirehathaway.com/letters/2024ltr.pdf)** — succession: *"Greg Abel will become the boss at yearend. He is a great manager, a tireless worker and an honest communicator."* And: *"it won't be long before Greg Abel replaces me as CEO and will be writing the annual letters."* Abel *"shares the Berkshire creed"* and has *"vividly shown his ability to act"* when investment opportunities arise. → **Investment relevance**: Buffett's strongest and most explicit endorsement of Abel. The "vividly shown his ability to act" phrase is the highest form of Buffett praise.
+
+- **[Buffett, FY2024 letter (Feb 2025)](https://www.berkshirehathaway.com/letters/2024ltr.pdf)** — cash position philosophy: *"Paper money can see its value evaporate if fiscal folly prevails. … Businesses, as well as individuals with desired talents, however, will usually find a way to cope with monetary instability."* And: *"the great majority of [shareholders'] invested money remains in equities, not cash."* → **Investment relevance**: At YE2024, cash was $334.2B. Buffett explicitly defended the cash pile but reminded shareholders that Berkshire is *primarily* an equity vehicle. This frames Abel's task: keep dry powder, but don't drift into being a Treasury bond fund.
+
+- **[Buffett, FY2024 letter (Feb 2025)](https://www.berkshirehathaway.com/letters/2024ltr.pdf)** — Munger lesson: *"Problems require action, however uncomfortable that may be."* Buffett identified the *"cardinal sin"* in business as delaying mistake correction — what Munger termed *"thumb-sucking."* → **Investment relevance**: This is Buffett's parting management challenge to Abel. The GEICO competitive lag is the obvious test case — the 2025 +$1.4B ad acceleration is a "no thumb-sucking" response.
+
+- **[Abel, FY2025 letter (Feb 28, 2026) — his first](https://www.berkshirehathaway.com/letters/2025ltr.pdf)** — fortress balance sheet: *"Berkshire's fortress-like balance sheet, ensuring Berkshire's foundation is never compromised … into perpetuity."* → **Investment relevance**: Continuity signal. The $30B minimum liquidity guideline holds; cash will not be aggressively redeployed.
+
+- **[Abel, FY2025 letter (Feb 28, 2026)](https://www.berkshirehathaway.com/letters/2025ltr.pdf)** — capital allocation: *"There will undoubtedly be incremental opportunities to deploy our owner's capital without compromising Berkshire's resilience. My role is to ensure our liquidity levels and capital deployment remain intentional and deliberate."* And: *"expansion through acquisition of new operating businesses and expansion of existing businesses if it makes sense to do so."* → **Investment relevance**: "Intentional and deliberate" = explicit signal that pace will be slower than market expects. The phrasing is deliberately constraining — the market should not expect a $50B acquisition in 2026 absent a clearly attractive setup.
+
+- **[Abel, FY2025 letter (Feb 28, 2026)](https://www.berkshirehathaway.com/letters/2025ltr.pdf)** — buybacks: *"Share repurchases could be another important capital allocation option when shares trade below our estimate of intrinsic value."* → **Investment relevance**: Combined with the March 4, 2026 buyback action at ~$465–490, this is Abel's clearest possible "intrinsic value above current price" disclosure. The buyback resumption *is* the disclosure.
+
+- **[Abel, FY2025 letter (Feb 28, 2026)](https://www.berkshirehathaway.com/letters/2025ltr.pdf)** — operations: *"CEOs of operating businesses are expected to relentlessly pursue operational excellence and close performance gaps."* → **Investment relevance**: This is the most material *cultural* shift signal. Buffett's framework was hands-off — operating CEOs given enormous autonomy with rare interference. Abel is signaling more active operational engagement. The 2025 GEICO ad acceleration and BNSF cost-discipline (margin +250bps) are early evidence.
+
+- **[Abel, FY2025 letter (Feb 28, 2026)](https://www.berkshirehathaway.com/letters/2025ltr.pdf)** — operational quantification: *"each percentage point improvement in operating margin generates approximately $230 million of incremental operating cash flow."* → **Investment relevance**: First time Berkshire has expressed an explicit operational lever in such concrete terms. This kind of quantified target was unusual in Buffett letters and signals Abel's operating-CEO mindset. **The 2025 BNSF +250bps margin expansion alone implies ~$575M of incremental cash flow on Abel's framework — a tangible Year-1 win.**
+
+- **[Abel, FY2025 letter (Feb 28, 2026)](https://www.berkshirehathaway.com/letters/2025ltr.pdf)** — humility: *"Warren is obviously a very hard act to follow."* → **Investment relevance**: Acknowledges the succession discount honestly. Tonal continuity with Buffett's understated style.
+
+- **[Q4 2025 press release (Feb 28, 2026)](https://www.berkshirehathaway.com/news/feb2826.pdf)** → Operating earnings $19.2B (+2.5% YoY) but EPS $4.73 Class B (–27.7% YoY) on mark-to-market losses; underwriting profit $1.56B (–54% YoY). → **Investment relevance**: Operating quality holding up; mark-to-market noise is ignorable per management framework.
+
+- **[Buyback action, March 4, 2026](https://www.thestreet.com/investing/greg-abel-sends-berkshire-investors-a-powerful-new-signal)** (no formal commentary — *the action is the signal*) → First buyback since May 2024 at ~$465–490 zone. → **Investment relevance**: Direct application of Buffett's FY2022 framework (*"value-accretive prices"*) and Abel's FY2025 letter (*"shares trade below our estimate of intrinsic value"*). The 5-year letter arc and the 2026 action are *internally consistent* — Abel is not deviating from the framework, he is applying it.
+
+#### 5-Year Capital Allocation Philosophy Arc
+
+Reading the FY2020 → FY2025 letters in sequence reveals a consistent framework with a real evolutionary thread. Each letter builds on the prior; Abel's first letter is a tight extension of Buffett's framework, not a rupture.
+
+| Year | Cash position | Buyback action | Letter framing | Key quote / theme |
+|---|---|---|---|---|
+| **FY2020** | $138B | $24.7B (record) | *"American Tailwind"* / patient-monkey S&P 500 framing | Confidence in long-term U.S. equity ownership |
+| **FY2021** | ~$144B | **$27B (record)** | *"Every small bit helps if repurchases are made at value-accretive prices"* | Buyback playbook formalized as compounding lever |
+| **FY2022** | ~$129B | $7.9B | *"Stupid if done at a premium"* — buybacks must be price-disciplined | Constraint articulated; sets up future zero-buyback periods |
+| **FY2023** | ~$167B | $9.2B | *"Secret sauce" = time*; Munger tribute (architect/general-contractor) | Permanent-capital advantage as cultural inheritance |
+| **FY2024** | **$334B** | $2.9B (mostly H1) | *"Tailwinds are gone"* / Greg Abel succession announcement | Reset of forward-return expectations; Abel formally introduced |
+| **FY2025** | **$373B** | **$0** (zero — first since 1998) | Abel's first letter: *"intentional and deliberate"* / *"shares below intrinsic value"* | Consistent framework, more constrained pace |
+| **2026 YTD** | (declining) | **Resumed Mar 4, 2026** | Action without formal commentary | Direct execution of FY2022 + FY2025 buyback frameworks |
+
+**Three observations from the arc**:
+
+1. **The cash growth from $138B (YE2020) → $373B (YE2025) is a 5-year demonstration of buyback discipline, not capital-allocation paralysis.** Buffett refused to buy back stock at premiums; the FY2022 *"stupid if done at a premium"* was the explicit rationale. The market read the zero-buyback 2025 as Abel's hesitation. The letter arc shows it was *Buffett's* discipline, with Abel inheriting the framework. Abel's March 2026 buyback at ~$465–490 is therefore the inflection — *Abel's* assessment that intrinsic value is above this band, applying the same framework.
+
+2. **The "tailwinds are gone" line in FY2024 is the most material forward-return setter.** Buffett walked back the FY2020 *"American Tailwind"* framing, signaling that Berkshire's forward returns will need to come from internal discipline, not external macro. This is the structural cap on the bull case (Section 13) — terminal multiples should be modeled in the 17–20× range, not the 22–25× range that *would have been* possible under tailwinds.
+
+3. **Abel's FY2025 letter introduced operational quantification that did not exist in any Buffett letter** — *"each percentage point improvement in operating margin generates approximately $230 million of incremental operating cash flow."* This is **the cultural shift**. Buffett ran Berkshire on a "trust the operating CEOs" framework with rare interference; Abel is signaling explicit operational engagement and concrete margin targets. The early evidence (BNSF margin +250bps in 2025 = ~$575M tailwind on Abel's framework) suggests this is real and material.
+
+**What this means for the thesis**:
+- The "succession discount" is *measurably* unwarranted on framework grounds — Abel is applying Buffett's discipline, not abandoning it. The market is mispricing continuity.
+- The operational quantification ($230M per margin point) is a *new* compounding lever Buffett never explicitly articulated. This is genuinely incremental upside vs. base case.
+- The forward-return cap (post-tailwinds) is *real* — bull case multiples should be tempered, but base/bear cases are unchanged. PW EV (Section 14) reflects this.
+
 ---
 
-## Section 7 — Recent Management Commentary
-
-Sources: [Greg Abel's first shareholder letter (Feb 28, 2026)](https://www.berkshirehathaway.com/letters/2025ltr.pdf), [CNBC coverage of Abel's letter](https://www.cnbc.com/2026/03/01/all-the-highlights-from-berkshire-ceo-abels-first-shareholder-letter.html), [Q4 2025 press release (Feb 28, 2026)](https://www.berkshirehathaway.com/news/feb2826.pdf), [Buffett's 2024 letter (Feb 2025)](https://www.berkshirehathaway.com/letters/2024ltr.pdf).
-
-- **[Abel, Feb 28, 2026 letter]** → *"Berkshire's fortress-like balance sheet, ensuring Berkshire's foundation is never compromised … into perpetuity."* → **Investment relevance**: Continuity signal. Abel will not rapidly redeploy cash; minimum $30B liquidity floor remains a hard guideline.
-
-- **[Abel, Feb 28, 2026 letter]** → *"There will undoubtedly be incremental opportunities to deploy our owner's capital without compromising Berkshire's resilience. My role is to ensure our liquidity levels and capital deployment remain intentional and deliberate."* → **Investment relevance**: Abel views the cash hoard as deployable but disciplined. "Intentional and deliberate" implies pace will be slower than market expects, consistent with Buffett's 2024–2025 behavior.
-
-- **[Abel, Feb 28, 2026 letter]** → *"Warren is obviously a very hard act to follow"* → **Investment relevance**: Acknowledges the succession discount honestly without false bravado. Tonal continuity with Buffett's understated style.
-
-- **[Buffett, Feb 2025 letter (Q4 2024 release)]** → *"Tailwinds are no longer in the wind for Berkshire. Operating ahead will require constant discipline."* → **Investment relevance**: Buffett's parting expectation-setter. 2026+ Berkshire's earnings growth will be more dependent on internal discipline than external macro.
-
-- **[Q4 2025 press release, Feb 28, 2026]** → Operating earnings $19.2B (+2.5% YoY) but EPS $4.73 Class B (–27.7% YoY) on mark-to-market losses; underwriting profit $1.56B (–54% YoY). → **Investment relevance**: Operating quality holding up; mark-to-market noise is ignorable per management framework. The underwriting decline is the genuine concern.
-
-- **[Buyback action, March 4, 2026]** (no formal commentary, action-only) → First buyback since May 2024 at ~$465–490 zone. → **Investment relevance**: This is the *strongest* signal — Abel views the current zone as below his intrinsic-value estimate. Functionally a soft floor.
-
----
-
-## Section 8 — Strategic Growth Initiatives
+## Section 7 — Strategic Growth Initiatives
 
 5–7 vectors that justify forward earnings normalization:
 
@@ -295,6 +380,24 @@ Sources: [Greg Abel's first shareholder letter (Feb 28, 2026)](https://www.berks
 6. **Insurance float growth** — From $171B to $176B in 2025; Berkshire targets steady float growth at +2–4%/yr. Each $1B of new float generates ~$40–50M of investment income at current T-bill yields, plus underwriting margin if pricing discipline holds.
 
 7. **International equity allocation expansion** — Japan trading houses (~$23B at YE2025) are the template. Buffett began rotating capital to non-US value buckets in 2020; Abel may extend (Korea? UK? specific Latin America?). This is *not* base case but is optionality.
+
+---
+
+## Section 8 — Key Risks
+
+| Risk | Impact | Probability | Priced In? | Notes |
+|---|---|---|---|---|
+| ⚠️ **Abel hesitation: cash deployment paralysis (key bear-case mechanism)** | High | Medium | Partially | Cash $373B → $400B+ would validate "trapped capital" narrative. **Watch: each quarter for buyback cadence.** Buybacks resumed Mar 4, 2026 mitigates near-term but not 12–24 mo. |
+| ⚠️ GEICO competitive erosion vs. Progressive | Medium | Medium | Mostly | 2025 +$1.4B ad acceleration is investing through earnings; if 2027 share doesn't recover, $1B+/yr permanent earnings loss. **Watch: Progressive vs. GEICO net-new-policy growth quarterly.** |
+| ⚠️ Insurance underwriting cycle softens further | Medium | Medium-High | Partially | FY2025 underwriting profit –20%; *"competition + rising claim cost trends"* per [10-K MD&A](https://www.berkshirehathaway.com/2025ar/2025ar.pdf). Multi-year industry-cycle concern. **Watch: combined ratios at GEICO + BHRG quarterly.** |
+| ⚠️ PacifiCorp wildfire liability re-escalation | High | Low-Medium | Not fully | Buffett's [FY2023 letter](https://www.berkshirehathaway.com/letters/2023ltr.pdf) flagged regulatory risk creating *"the specter of zero profitability or even bankruptcy"* in BHE-served states. 2025 reserves normalized; new fire season could re-open. **Watch: Western US fire-season weather + state regulatory actions.** |
+| Fed rate cuts compress T-bill investment income | Medium | Medium | Mostly | $373B at ~4–5% T-bill yield = ~$15–18B annualized. 100bps Fed cut ≈ –$3–4B/yr. Likely re-rated as Fed easing path becomes clear. |
+| Apple stake underperformance | Medium | Medium | Mostly | AAPL = 22.6% of $274B portfolio. iPhone refresh fatigue + services-attach saturation = portfolio drag if AAPL P/E compresses. Risk reduced by 2024–2025 trims (300M → 238M shares). |
+| Buffett health-related disruption | Low (financial) / Medium (multiple) | Medium-High | Mostly | Buffett 95 years old; now Chairman only. Departure event would cause 3–5% temporary multiple compression. Not thesis-breaking — Abel/Jain succession framework already operational. |
+| Major Abel-led acquisition at premium price | Medium | Low-Medium | Not priced | If Abel deploys $30B+ at >2× book / >18× normalized earnings → capital allocation discipline question opens. Inverse risk: market punishes the deal even if accretive. **Watch: any acquisition press release in 2026–2027.** |
+| Equity-portfolio mark-to-market volatility | Low (operating) / High (GAAP) | High | Fully | $274B portfolio → ±$30B GAAP EPS swings on macro moves. Operating earnings unaffected. Already priced into BRK volatility profile. |
+
+**Highest-impact / least-priced combination**: PacifiCorp wildfire re-escalation (low-med probability but high impact and not fully priced) and Abel hesitation (medium probability, high impact, only partially priced). These are the two risks worth tracking most actively.
 
 ---
 
@@ -511,11 +614,18 @@ Stock is at the bottom of its 52-week range, with the buyback resumption providi
 **Primary sources**:
 - [Berkshire Hathaway 2025 Annual Report (10-K, filed March 2, 2026)](https://www.berkshirehathaway.com/2025ar/2025ar.pdf)
 - [Q4 2025 Press Release (Feb 28, 2026)](https://www.berkshirehathaway.com/news/feb2826.pdf)
-- [Greg Abel's First Shareholder Letter (Feb 28, 2026)](https://www.berkshirehathaway.com/letters/2025ltr.pdf)
-- [Buffett's 2024 Shareholder Letter (Feb 2025)](https://www.berkshirehathaway.com/letters/2024ltr.pdf)
 - [Q3 2025 10-Q (filed Nov 2025)](https://www.berkshirehathaway.com/qtrly/3rdqtr25.pdf)
 - [Berkshire Hathaway Reports & Filings page](https://www.berkshirehathaway.com/reports.html)
 - [Berkshire Hathaway 2025 10-K and Annual Report links](https://www.berkshirehathaway.com/2025ar/linksannual25.html)
+
+**Shareholder letters (5-year baseline + Abel's first)** — *the highest-fidelity expression of management's framework*:
+- [Buffett FY2020 Letter (Feb 2021)](https://www.berkshirehathaway.com/letters/2020ltr.pdf) — "American Tailwind"; record $24.7B buybacks
+- [Buffett FY2021 Letter (Feb 2022)](https://www.berkshirehathaway.com/letters/2021ltr.pdf) — $27B record buybacks; *"every small bit helps"*
+- [Buffett FY2022 Letter (Feb 2023)](https://www.berkshirehathaway.com/letters/2022ltr.pdf) — *"Stupid if done at a premium"*; buyback discipline articulated
+- [Buffett FY2023 Letter (Feb 2024)](https://www.berkshirehathaway.com/letters/2023ltr.pdf) — Munger tribute; *"secret sauce" = time*; BNSF century quote
+- [Buffett FY2024 Letter (Feb 2025) — his last](https://www.berkshirehathaway.com/letters/2024ltr.pdf) — Abel succession announcement; *"tailwinds are gone"*
+- [Abel FY2025 Letter (Feb 28, 2026) — his first](https://www.berkshirehathaway.com/letters/2025ltr.pdf) — *"intentional and deliberate"*; operational margin quantification
+- [Letters index page](https://www.berkshirehathaway.com/letters/letters.html) — all letters back to 1965
 
 **Live market data**:
 - [Yahoo Finance — BRK-B](https://finance.yahoo.com/quote/BRK-B)

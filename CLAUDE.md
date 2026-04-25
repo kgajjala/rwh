@@ -1,4 +1,4 @@
-# CLAUDE.md — kg-invest-wiki Schema (v2.5)
+# CLAUDE.md — kg-invest-wiki Schema (v2.6)
 
 This is the instruction file for the LLM agent that maintains this wiki.
 **Read this file at the start of every session before making any changes to `wiki/`, `raw/`, or `outputs/`.**
@@ -13,7 +13,7 @@ session starts from the latest synthesis, not a blank page.
 
 - **Owner**: Karthik G
 - **Started**: April 2026
-- **Schema version**: v2.5 (April 2026)
+- **Schema version**: v2.6 (April 2026)
 - **Model**: Karpathy LLM Wiki pattern, adapted
 
 ### What this wiki is *not*
@@ -35,6 +35,7 @@ kg-invest-wiki/
 │   │   ├── filings/              ← 10-K, 10-Q, 8-K, DEF 14A
 │   │   ├── transcripts/          ← Earnings call transcripts
 │   │   ├── press-releases/       ← Earnings + corporate announcements
+│   │   ├── shareholder-letters/  ← Annual CEO/founder letters (last 5 yrs + new on incremental)
 │   │   ├── investor-day/         ← Slide decks, conference presentations
 │   │   └── analyst-reports/      ← User-uploaded PDFs from research firms
 │   ├── clippings/                ← General articles, not ticker-specific
@@ -228,6 +229,61 @@ kg-invest-wiki/
     - Refresh on every material update (Workflow B Step 3a) — list
       `Summary` as a refreshed section in the changelog `What Changed`
       block whenever Section 15 or Section 11 changed.
+19. **Annual shareholder letters are required primary sources**.
+    Every Workflow A ingest MUST fetch and synthesize **the last 5
+    annual shareholder letters** (CEO or founder letters, e.g. Buffett
+    at BRK, Bezos historical at AMZN, Dimon at JPM, Larry Page at
+    GOOGL, Lisa Su at AMD, Reed Hastings at NFLX, etc.). For companies
+    that publish proxy-statement letters or "Letter to Shareholders"
+    in the annual report rather than a standalone CEO letter, those
+    are acceptable substitutes. For companies <5 years public, fetch
+    all letters published since IPO. **Letters take precedence over
+    third-party media summaries** — they are the unfiltered, archived
+    expression of management's framework and the highest-fidelity
+    primary source for understanding capital allocation philosophy,
+    strategic shifts, succession messaging, and operational priorities.
+    - **Storage**: `raw/[TICKER]/shareholder-letters/YYYY_letter.pdf`
+      (or `.html`) — one file per fiscal year covered, named by the
+      *fiscal year* the letter discusses (not the publication year).
+      So Buffett's letter published Feb 2025 covering FY2024 →
+      `raw/BRK.B/shareholder-letters/2024_letter.pdf`.
+    - **Synthesis surface**: Section 6 (Management & Leadership) is
+      the home for verbatim quotes from shareholder letters. Add a
+      `### Recent Management Commentary — Primary Source Synthesis`
+      subsection within Section 6, with two child subsections:
+      `#### Verbatim quotes mapped to investment relevance` (one
+      bullet per quote with citation + investment relevance) and,
+      when the letter arc reveals a multi-year framework (e.g.,
+      capital-allocation philosophy, succession messaging, segment
+      commentary), `#### N-Year [Topic] Arc` containing a
+      chronological table that traces the evolution. Quote letters
+      directly with date and link; never paraphrase from third-party
+      summaries unless the primary source is genuinely unavailable.
+      *Note: This subsection lives within Section 6 because the wiki
+      schema's Section 7 is "Strategic Growth Initiatives." Do not
+      confuse with the kg-investment-analysis skill's Mode A schema
+      (which numbers "Recent Management Commentary" as Section 7);
+      the wiki schema takes precedence.*
+    - **Workflow B (incremental)**: A new annual shareholder letter
+      is a Meaningful Event (see list below). When a new letter
+      drops (typically Feb–March each year for calendar-year filers),
+      Step 3a must include a Section 6 RMC subsection refresh that
+      incorporates verbatim quotes from the new letter and extends
+      the multi-year arc table by one row. Old letters in
+      `shareholder-letters/` are never deleted — they accumulate as
+      the archive.
+    - **Source preference**: Company IR site > SEC EDGAR DEF 14A or
+      annual-report inclusions > third-party transcription. For
+      Berkshire specifically, letters live at
+      `https://www.berkshirehathaway.com/letters/YYYYltr.pdf`. For
+      most companies the IR site lists letters as PDFs; some
+      (e.g., AMZN) embed them in the proxy statement.
+    - **Rationale**: This rule was added in v2.6 after the BRK.B
+      ingest demonstrated that 5 years of Buffett letters + Abel's
+      first letter materially sharpened the thesis (continuity of
+      framework, succession-discount mispricing, operational
+      quantification not present in any prior letter). Aggregator
+      summaries flattened these distinctions; the letters did not.
 
 ---
 
@@ -359,6 +415,11 @@ Create `raw/[TICKER]/` and populate with:
 - **Last 4 quarterly earnings press releases** → `press-releases/`
 - **All 8-K filings in last 12 months** → `filings/`
 - **Most recent DEF 14A (proxy statement)** → `filings/`
+- **Last 5 annual shareholder letters** (or all available since IPO if
+  <5 years public) → `shareholder-letters/YYYY_letter.pdf` named by
+  fiscal year covered (per Core Rule #19). For Berkshire-style
+  companies the letter is standalone; for most others it is in the
+  annual report or proxy statement front-matter.
 - **Latest investor day or annual conference deck**, if available → `investor-day/`
 - **Any user-supplied PDFs** → `analyst-reports/` (user-managed)
 
@@ -375,6 +436,17 @@ Do not fabricate filings. If something is unavailable, log the gap and move on.
 ### Step 4 — Synthesize the 15 sections
 Compile from the raw set, not from prior media summaries. Cite primary source for
 every material claim. Tag estimates explicitly.
+
+**Shareholder letter integration** (per Core Rule #19): Section 7
+(Recent Management Commentary) MUST quote each of the last 5 letters
+verbatim, mapped to investment relevance. When the letters reveal a
+multi-year framework arc — capital allocation philosophy, succession
+messaging, segment-level emphasis evolution — add a "5-Year [Topic]
+Arc" subsection or table that traces the chronology. The arc is
+analytically valuable because it surfaces continuity vs. inflection
+that single-letter readings miss. Sections 5 (Moat) and 6 (Management)
+should also pull verbatim quotes when the letters specifically address
+moat sources, executive endorsements, or capital-allocation discipline.
 
 ### Step 5 — Write wiki files
 - `wiki/tickers/[TICKER]/[TICKER].md` — single consolidated wiki page. Required structure:
@@ -608,6 +680,11 @@ the thesis is faithfully brought current, not just price-stamped.
 Trigger a wiki update when any of the following occur during the lookback window:
 
 - **Earnings**: 10-Q / 10-K filing, earnings press release, earnings call transcript
+- **Annual shareholder letter published** (per Core Rule #19): typically
+  Feb–March each year for calendar-year filers. New letter must be
+  fetched into `raw/[TICKER]/shareholder-letters/YYYY_letter.pdf`,
+  Section 7 refreshed with verbatim quotes, and any maintained
+  multi-year arc table extended with the new row.
 - **Shareholder meeting**: annual meeting, special meeting, proxy vote outcomes
 - **Strategic announcements**: new product launch, market entry, market exit,
   divestiture, asset sale, restructuring
@@ -916,3 +993,53 @@ version (v3, v4, ...). Minor edits within a version are fine without bump.
 - **Existing-content sweep**: a one-time retrofit pass linkified
   citations and added Summary sections to all 34 ticker pages
   without re-fetching primary sources or recomputing analysis.
+
+### v2.6 changelog (April 2026 — annual shareholder letters as required primary source)
+- **Added Core Rule #19: Annual shareholder letters are required
+  primary sources.** Every Workflow A ingest must fetch and
+  synthesize the **last 5 annual shareholder letters** (CEO/founder
+  letters) for each ticker, and every Workflow B incremental run
+  must detect a newly-published letter and refresh accordingly.
+  Letters take precedence over third-party media summaries — they
+  are the unfiltered, archived expression of management's framework
+  and the highest-fidelity primary source for capital allocation
+  philosophy, strategic shifts, succession messaging, and operational
+  priorities. This rule was added after the BRK.B initial ingest
+  demonstrated that 5 years of Buffett letters + Abel's first
+  letter materially sharpened the thesis (continuity of framework,
+  succession-discount mispricing, operational quantification not
+  present in any prior letter — *"each percentage point of margin
+  improvement = ~$230M of incremental cash flow"* from Abel's
+  FY2025 letter). Aggregator summaries flattened these distinctions.
+- **New raw subfolder**: `raw/[TICKER]/shareholder-letters/`. Files
+  named by *fiscal year covered* (not publication year), e.g.
+  `2024_letter.pdf` for Buffett's letter published Feb 2025
+  covering FY2024.
+- **Workflow A Step 2** updated to add the last-5-letters fetch
+  alongside 10-K/10-Q/8-K/DEF 14A/transcripts/press-releases.
+- **Workflow A Step 4** synthesis now requires a
+  `### Recent Management Commentary — Primary Source Synthesis`
+  subsection within Section 6 (Management & Leadership), with
+  verbatim quotes mapped to investment relevance and an optional
+  multi-year framework arc table. Section 6 is used (not Section 7)
+  because the wiki schema's Section 7 is "Strategic Growth
+  Initiatives" — see Rule #19 note about disambiguation from the
+  kg-investment-analysis skill schema.
+- **Meaningful Events List** gains "Annual shareholder letter
+  published" as a Workflow B trigger event.
+- **BRK.B**: First ticker built under v2.6. Fetched 6 letters
+  (FY2020–FY2025); built verbatim-quote synthesis + 5-Year Capital
+  Allocation Arc table within Section 6. Also pulled 10-K segment
+  precision (BNSF op margin +250bps to 34.5%, BHE +6.7% earnings
+  on PacifiCorp wildfire reserve normalization, GEICO –$1B driven
+  by intentional +$1.4B ad acceleration) and added a proper
+  Section 8 (Key Risks) table that was previously missing in the
+  v2.5 ingest. Other 34 tickers will be backfilled with their own
+  shareholder-letter passes in subsequent runs (flagged as a
+  pending v2.6 retrofit).
+- **Pending follow-up**: Retrofit pass to add `shareholder-letters/`
+  + Section 6 RMC subsections to the other 34 existing tickers.
+  Should be done in batches matching the v2.4 25-ticker batch
+  approach. Not blocking — incremental Workflow B runs will pick
+  up new letters going forward; the retrofit just establishes the
+  5-year baseline.

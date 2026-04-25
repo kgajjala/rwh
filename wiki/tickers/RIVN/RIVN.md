@@ -1,9 +1,24 @@
 # RIVN — Rivian Automotive, Inc.
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $16.95 at April 24, 2026 (Yahoo Finance; April 23 close)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$16.95** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/RIVN); April 23 close)
 > **Ticker Type**: Pre-scale auto OEM + software JV optionality (capital-intensive auto + capital-light VW software JV)
+
+---
+
+## Summary
+
+- 🟡 **Thesis**: Pre-scale EV OEM (**Narrow moat**) trading near analyst median target with R2 production just started (Apr 22, 2026) and VW software JV implicitly worth ~$5/share — a binary, asymmetric setup ahead of the April 30, 2026 Q1 print.
+- 🟡 **For a non-holder: Watch / small Initiate** at $16.95 — ideally wait for April 30 earnings print before sizing meaningfully.
+- 🟡 **For a current holder: Hold** through earnings — Q1 deliveries already beat consensus; R2 in production; do not exit pre-print.
+- 🎯 **Attractive entry zone**: **$13 – $15** (~1× FY26E revenue; closer to 52-wk low; protects against earnings disappointment).
+- 🎯 **Trim zone**: **$23 – $27** (prior cycle high; full R2 ramp confidence priced).
+- 📉 **Price action**: $16.95, **–25% from 52-wk high** ($22.69), +47% above 52-wk low ($11.57).
+- 📅 **Next catalyst**: **Q1 2026 earnings — April 30, 2026 (post-close)**. Cash balance, R2 ramp schedule, VW JV update.
+- ⚠️ **Top risk**: R2 ramp slips into Q1 2027 (35% prob, Critical impact) — Lucid precedent.
+- ⚠️ **Second risk**: Cash runway pressure → dilutive raise (30% prob, Critical impact).
+- 🟡 **BAIT verdict**: **Triple-lens (B+A+T moderate, I moderate)** — Conviction **Moderate**. PW EV ~$19.40 (2-yr) implies +14% / ~7%/yr; favorable but bimodal distribution.
 
 ---
 
@@ -13,7 +28,7 @@ Rivian (NASDAQ: RIVN) is a U.S. EV OEM focused on adventure-oriented vehicles an
 
 The thesis splits into two layers: (1) **Auto P&L**: still loss-making at the company level, narrowing per-unit losses, ~50K/year run-rate ramping toward 200K+ at R2 scale; and (2) **Software JV with Volkswagen Group**: $5.8B announced 2024 (raised to multi-billion expansion); $1B already received upfront; licensing Rivian's zonal electrical architecture + software stack to VW vehicles starting with ID.Golf / ID.GTI (2027 target). Morgan Stanley has modeled the JV alone as worth $4–6/share, ~25–35% of current market cap.
 
-Q1 2026: **10,236 produced, 10,365 delivered** (deliveries > production for first time). Reaffirmed 2026 guide of 62–67K deliveries [Source: Rivian Q1 2026 production release, April 2, 2026]. R2 production started April 22, 2026 [Source: Electrek].
+Q1 2026: **10,236 produced, 10,365 delivered** (deliveries > production for first time). Reaffirmed 2026 guide of 62–67K deliveries ([Rivian Q1 2026 production release](https://rivian.com/newsroom), April 2, 2026). R2 production started April 22, 2026 ([Electrek](https://electrek.co/?s=rivian+r2+production)).
 
 ---
 
@@ -51,7 +66,7 @@ The bull case requires (a) R2 deliveries in H2 2026 of >5K units at positive gro
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$16.95** | April 24, 2026 (Yahoo, April 23 close) |
+| Live Price | **$16.95** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/RIVN), April 23 close) |
 | Previous Close | $17.74 | –4.45% session |
 | 52-Week High | $22.69 | |
 | 52-Week Low | $11.57 | |
@@ -65,7 +80,7 @@ The bull case requires (a) R2 deliveries in H2 2026 of >5K units at positive gro
 | Cash & Investments | ~$5–7B | Q4 2025 disclosure |
 | Annual Cash Burn | ~$1–2B | Narrowing |
 | VW JV Total | up to ~$5.8B | $1B already received |
-| Short Interest | 13.55% of float (141.96M sh) | High |
+| Short Interest | 13.55% of float (141.96M sh) | High ([Fintel](https://fintel.io/ss/us/rivn) / [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/RIVN/short-interest/)) |
 | Days-to-Cover | 5.49 | |
 | Next Earnings (Q1) | **April 30, 2026** (post-close) | **Hard catalyst — 6 days away** |
 | R2 Production Status | Started April 22, 2026 | Ramp visibility |
@@ -164,13 +179,13 @@ Currently >95% U.S. revenue. International expansion is a 2027+ story (Europe vi
 
 | Risk | Impact | Probability | Notes |
 |------|--------|-------------|-------|
-| R2 ramp slips into Q1 2027 | Critical | 35% | Lucid precedent |
-| Cash runway pressure → dilutive raise | Critical | 30% | Current $5–7B → ~2027 |
-| Recession compresses premium EV demand | High | 30% | R1 sub-segment |
+| ⚠️ R2 ramp slips into Q1 2027 | Critical | 35% | Lucid precedent |
+| ⚠️ Cash runway pressure → dilutive raise | Critical | 30% | Current $5–7B → ~2027 |
+| ⚠️ Recession compresses premium EV demand | High | 30% | R1 sub-segment |
 | VW JV milestone delay | Medium | 25% | Would impact 2027 EBITDA |
 | Tornado / factory disruption (already happened April 2026) | Medium | 25% | Single-site risk |
 | Tesla price war on Cybertruck | Medium | 30% | Cybertruck volume modest |
-| Federal EV credit elimination | High | 60% | Already partial; further cuts likely |
+| ⚠️ Federal EV credit elimination | High | 60% | Already partial; further cuts likely |
 | Founder departure | Medium | 10% | Scaringe is core to thesis |
 
 ---
@@ -229,7 +244,7 @@ Currently >95% U.S. revenue. International expansion is a 2027+ story (Europe vi
 
 ### Analyst Consensus (as of April 24, 2026)
 
-- **Aggregate rating**: Hold-leaning (mixed Buy/Hold)
+- **Aggregate rating**: 🟡 Hold-leaning (mixed Buy/Hold) ([stockanalysis.com](https://stockanalysis.com/stocks/rivn/forecast/) / [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/RIVN/forecast/))
 - **Median target**: ~$17 (31-analyst panel)
 - **Average / consensus**: $18 (20-analyst sub-panel)
 - **High / low**: $25 (Wedbush) / $9 (Bernstein)
@@ -256,20 +271,20 @@ Currently >95% U.S. revenue. International expansion is a 2027+ story (Europe vi
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-22] [Operational]** — R2 production officially started at Normal, IL — days after a tornado hit the factory [Source: Electrek]
-- **[2026-04-02] [Operational]** — Q1 2026 production/delivery release: 10,236 / 10,365; FY guide reaffirmed [Source: Rivian IR]
-- **[2026-Q1 ongoing]** — VW JV milestone payments continuing per schedule
-- **[2026-Q1 ongoing]** — U.S. sales reportedly down 26% YoY in some metro markets (per techi.com) — concerning if confirmed in earnings
+- **[2026-04-22] [Operational]** — R2 production officially started at Normal, IL — days after a tornado hit the factory ([Electrek](https://electrek.co/?s=rivian+r2+production))
+- **[2026-04-02] [Operational]** — Q1 2026 production/delivery release: 10,236 / 10,365; FY guide reaffirmed ([Rivian IR](https://rivian.com/newsroom))
+- **[2026-Q1 ongoing]** — VW JV milestone payments continuing per schedule [link pending]
+- **[2026-Q1 ongoing]** — U.S. sales reportedly down 26% YoY in some metro markets ([techi.com](https://www.techi.com/?s=rivian)) — concerning if confirmed in earnings
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **2026-04-30** (post-close) | **Q1 2026 full earnings** | First full Q1 financials; cash burn pace; R2 commentary; VW JV update |
+| 📅 **2026-04-30** (post-close) | **Q1 2026 full earnings** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NASDAQ/RIVN/earnings/)) | First full Q1 financials; cash burn pace; R2 commentary; VW JV update |
 | H1 2026 | First R2 deliveries | Volume validation |
 | H2 2026 | Q2/Q3 R2 production data | Ramp slope confirmation |
 | H2 2026 | VW JV ID.Golf software milestone | License-fee revenue trigger |
-| 2026 | Federal EV credit policy outcome | Demand sensitivity |
+| ⚠️ 2026 | Federal EV credit policy outcome | Demand sensitivity |
 
 ---
 
@@ -353,27 +368,36 @@ Currently >95% U.S. revenue. International expansion is a 2027+ story (Europe vi
 
 **Thesis in one sentence**: Rivian at $16.95 trades within 1% of analyst median target with R2 production just started, VW JV implicitly worth ~$5/share independently, and Q1 earnings on April 30 — making this a tactically interesting binary setup with moderately favorable PW EV ($19.40) but real dilution-tail-risk if R2 ramps slowly.
 
-**For a non-holder**: **Watch / small Initiate** at $16.95 — but ideally wait for the **April 30 earnings print** before sizing meaningfully. Initiate small ahead of earnings (high IV, asymmetric setup), or wait for confirmation. Attractive entry zone is **$13–15** if pre-earnings or post-disappointment selloff.
+**For a non-holder**: 🟡 **Watch / small Initiate** at $16.95 — but ideally wait for the **April 30 earnings print** before sizing meaningfully. Initiate small ahead of earnings (high IV, asymmetric setup), or wait for confirmation. Attractive entry zone is **$13–15** if pre-earnings or post-disappointment selloff.
 
-**For a current holder**: **Hold** through earnings. Q1 deliveries already beat consensus; R2 already in production; do not exit pre-print at –54% from 2024 highs.
+**For a current holder**: 🟡 **Hold** through earnings. Q1 deliveries already beat consensus; R2 already in production; do not exit pre-print at –54% from 2024 highs.
 
-**Attractive entry zone**: **$13 – $15** (rationale: ~1× FY26E revenue; closer to the $11.57 52-wk low; protects against earnings disappointment)
+🎯 **Attractive entry zone**: **$13 – $15** (rationale: ~1× FY26E revenue; closer to the $11.57 52-wk low; protects against earnings disappointment)
 
-**Trim zone**: **$23 – $27** (rationale: prior cycle high; would price in confident R2 ramp; bull case ceiling for 2026)
+🎯 **Trim zone**: **$23 – $27** (rationale: prior cycle high; would price in confident R2 ramp; bull case ceiling for 2026)
 
-**Exit / avoid zone**: **>$32** (rationale: would require fully priced bull case; not the right setup pre-R2 ramp validation)
+🔴 **Exit / avoid zone**: **>$32** (rationale: would require fully priced bull case; not the right setup pre-R2 ramp validation)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Exit):
-- Q1 2026 earnings (April 30) reveal cash position <$4B without clear funding plan
-- 2026 delivery guide cut below 60K
-- R2 production rate at end-Q3 2026 below 1,000 units/week
-- VW JV milestone delayed >2 quarters
-- Any equity raise announced sub-$15
-- R2 gross margin disclosed negative at scale (>5K cumulative deliveries)
-- Federal EV credit fully eliminated without offset
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
+- ⚠️ Q1 2026 earnings (April 30) reveal cash position <$4B without clear funding plan
+- ⚠️ 2026 delivery guide cut below 60K
+- ⚠️ R2 production rate at end-Q3 2026 below 1,000 units/week
+- ⚠️ VW JV milestone delayed >2 quarters
+- ⚠️ Any equity raise announced sub-$15
+- ⚠️ R2 gross margin disclosed negative at scale (>5K cumulative deliveries)
+- ⚠️ Federal EV credit fully eliminated without offset
 
-**Next review trigger**: **Q1 2026 earnings — April 30, 2026 (post-close)**. Key items: (1) cash balance and burn pace, (2) R2 production schedule + early units, (3) VW JV revenue + milestones update, (4) FY26 guide reaffirmation, (5) any commentary on funding adequacy through R2 ramp.
+📅 **Next review trigger**: **Q1 2026 earnings — April 30, 2026 (post-close)**. Key items: (1) cash balance and burn pace, (2) R2 production schedule + early units, (3) VW JV revenue + milestones update, (4) FY26 guide reaffirmation, (5) any commentary on funding adequacy through R2 ramp.
 
 ---
 
-*Sources: Rivian Q1 2026 production/delivery release (Rivian Newsroom, April 2, 2026); Electrek (R2 production start, April 22, 2026); Yahoo Finance live price (2026-04-24); MarketBeat / fintel / nasdaq.com short interest data (April 2026); Public.com / TipRanks / stockanalysis.com analyst consensus; Wedbush, Bernstein, Morgan Stanley published targets; stocktitan.net Form 4 filings (April 20, 2026); techi.com (R2 launch + VW JV commentary).*
+### Sources
+
+- [Rivian Newsroom](https://rivian.com/newsroom) (Q1 2026 production/delivery release, April 2, 2026)
+- [Electrek — Rivian coverage](https://electrek.co/?s=rivian+r2+production) (R2 production start, April 22, 2026)
+- [Yahoo Finance — RIVN quote](https://finance.yahoo.com/quote/RIVN) (live price 2026-04-24)
+- [MarketBeat — RIVN](https://www.marketbeat.com/stocks/NASDAQ/RIVN/) (short interest, earnings calendar, analyst ratings)
+- [Fintel — RIVN short interest](https://fintel.io/ss/us/rivn) (April 2026 short data)
+- [stockanalysis.com — RIVN](https://stockanalysis.com/stocks/rivn/forecast/) (analyst consensus, price targets)
+- [SEC EDGAR — Rivian filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=rivian&type=10-K) (10-K, Form 4)
+- [techi.com — Rivian coverage](https://www.techi.com/?s=rivian) (R2 launch + VW JV commentary)

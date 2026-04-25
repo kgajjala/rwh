@@ -1,9 +1,24 @@
 # MSFT — Microsoft Corporation
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $432.92 at April 24, 2026 (Yahoo Finance / TheStreet cross-check; trading down ~22% YTD then partially recovered)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$432.92** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/MSFT) / [TheStreet](https://www.thestreet.com/quote/msft) cross-check)
 > **Ticker Type**: Capital-light platform / hyperscaler / enterprise software (the deepest-moat mega-cap)
+
+---
+
+## Summary
+
+- 🟢 **Thesis**: Deepest-moat mega-cap (productivity + cloud + AI + gaming — **Wide moat**) trading at –22% drawdown from January 2026 highs at ~27× FY26E P/E with 15%+ growth and 46% op margins; Quadruple BAIT setup heading into the April 29 Q3 FY26 print.
+- 🟢 **For a non-holder: Initiate** at $432.92 — among the strongest BAIT setups in the wiki.
+- 🟢 **For a current holder: Add** if average cost is meaningfully above current price; otherwise **Hold**.
+- 🎯 **Attractive entry zone**: **$380 – $440** (~24–27× FY26E P/E; aligns with March 2026 lows; capex/AI worry priced in).
+- 🎯 **Trim zone**: **$640 – $720** (~40–45× FY26E P/E; matches sell-side bull targets).
+- 📉 **Price action**: $432.92, **–22% from 52-wk high** (~$555), +21% above 52-wk low (~$356); YTD ~–8%.
+- 📅 **Next catalyst**: **Q3 FY26 earnings — April 29, 2026 (post-close)** — "most important tech event of 2026"; resolves AI capex / payback debate.
+- ⚠️ **Top risk**: AI capex ROIC disappoints (high impact, 30% prob) — active debate; April 29 print is key resolution.
+- ⚠️ **Second risk**: Q3 FY26 print misses (high impact, 25% prob) — asymmetric near-term risk.
+- 🟢 **BAIT verdict**: **Quadruple overlap (B Strong + A Strong + I Moderate + T Strong)** — Conviction **High (event-driven; 5 days from a binary print)**. PW EV ~$565 (3-yr) implies ~10%/yr return; Morgan Stanley $650 PT implies +50% upside.
 
 ---
 
@@ -11,7 +26,7 @@
 
 Microsoft (NASDAQ: MSFT) is the world's most strategically positioned enterprise technology company — combining Azure (the #2 hyperscaler, growing 39–40%), Microsoft 365 (the dominant productivity platform, with 15M+ paid Copilot seats), Dynamics, GitHub, LinkedIn, Activision Blizzard / Xbox, and a deep AI partnership with OpenAI (~$13B+ invested through 2025; commercial product integration across the entire stack). **FY2025 revenue was $281.7B (+15%)** and **operating income $128.5B (+17%)** — making Microsoft one of the most profitable companies on earth. **Azure surpassed $75B revenue in FY2025 (+34%)**.
 
-**Q2 FY26 (calendar Q4 2025) results** [Source: MSFT IR press release, Jan 28, 2026]: revenue $81.3B (+17%, +15% constant currency); operating income $38.3B (+21%); GAAP net income $38.5B (+60%); Azure +39%. Microsoft returned $12.7B to shareholders in Q2 FY26 (+32% YoY). **Q2 FY26 capex was $37.5B** (+66% YoY) — two-thirds AI GPUs and infrastructure. **15M paid Microsoft 365 Copilot seats** disclosed (a new KPI introduced FY26 Q1).
+**Q2 FY26 (calendar Q4 2025) results** ([MSFT IR press release, Jan 28, 2026](https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast)): revenue $81.3B (+17%, +15% constant currency); operating income $38.3B (+21%); GAAP net income $38.5B (+60%); Azure +39%. Microsoft returned $12.7B to shareholders in Q2 FY26 (+32% YoY). **Q2 FY26 capex was $37.5B** (+66% YoY) — two-thirds AI GPUs and infrastructure. **15M paid Microsoft 365 Copilot seats** disclosed (a new KPI introduced FY26 Q1).
 
 The stock has been a notable underperformer in early 2026 — down nearly 25% from January 2026 to late March 2026, then partially recovering ~21% to $432.92. The drawdown reflected (a) capex / ROIC concerns ($80B+ FY26 capex), (b) Azure deceleration anxiety from Q2 FY26 +39% (vs. peak +40% Q1), (c) more general AI bubble worries, and (d) the OpenAI partnership uncertainty. The April 29, 2026 Q3 FY26 earnings print (5 days from this writeup) is widely viewed as the year's most important tech event — possibly THE catalyst that resolves the AI investment debate.
 
@@ -108,15 +123,15 @@ The bull case is "buy the moat-leader at a 25× P/E with 15%+ revenue growth and
 | Azure Revenue | ~$50B | ~$60B | ~$60B (rev recast) | >$75B | ~$105B |
 | Azure Growth | ~46% | ~28% | ~28%–35% | +34% | +35%+ |
 
-*Note: Azure historical disclosure has changed (FY24 included recast); FY25 IR explicitly disclosed "$75B+, up 34%" — the cleanest current Azure figure. [Source: MSFT FY25 Annual Report, IR page; Synyega FY25 review; Beancount.io analysis]*
+*Note: Azure historical disclosure has changed (FY24 included recast); FY25 IR explicitly disclosed "$75B+, up 34%" — the cleanest current Azure figure. Sources: [MSFT FY25 Annual Report](https://www.microsoft.com/investor/reports/ar25/); [Synyega FY25 review](https://www.synyega.com/?s=microsoft); [Beancount.io analysis](https://beancount.io/?s=microsoft).*
 
 ### Recent Quarter
 
 | Quarter | Revenue | Op Income | Azure Growth | Notes |
 |---------|---------|-----------|-------------|-------|
-| Q1 FY26 (Sep 2025) | ~$77B | — | +40% | Azure peak; AI-led re-acceleration; new Copilot seats KPI introduced [Source: MSFT IR Q1 FY26] |
-| Q2 FY26 (Dec 2025) | $81.3B (+17%) | $38.3B (+21%) | +39% | Azure modest decel; capex $37.5B; 15M Copilot seats [Source: MSFT IR Q2 FY26 PR, 2026-01-28] |
-| Q3 FY26 | (April 29, 2026 print) | — | — | Hard catalyst |
+| Q1 FY26 (Sep 2025) | ~$77B | — | +40% | Azure peak; AI-led re-acceleration; new Copilot seats KPI introduced ([MSFT IR Q1 FY26](https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q1/)) |
+| Q2 FY26 (Dec 2025) | $81.3B (+17%) | $38.3B (+21%) | +39% | Azure modest decel; capex $37.5B; 15M Copilot seats ([MSFT IR Q2 FY26 PR, 2026-01-28](https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast)) |
+| Q3 FY26 | 📅 (April 29, 2026 print) | — | — | Hard catalyst |
 
 ---
 
@@ -277,7 +292,7 @@ The bull case is "buy the moat-leader at a 25× P/E with 15%+ revenue growth and
 ## Section 11 — Catalyst & Sentiment Tracker
 
 ### Live Price & Positioning
-- **Price**: $432.92 (Apr 24, 2026 [Source: TheStreet])
+- **Price**: $432.92 (Apr 24, 2026 — [TheStreet](https://www.thestreet.com/quote/msft))
 - **52-week range**: ~$356 – $555
 - **% from 52-wk high**: –22%
 - **% above 52-wk low**: +21%
@@ -295,7 +310,7 @@ The bull case is "buy the moat-leader at a 25× P/E with 15%+ revenue growth and
 | Date | Firm | Action | Target |
 |------|------|--------|--------|
 | 2026-04 (mid) | Morgan Stanley | OW reaffirmed | $650 |
-| 2026-04 (mid) | Various | "Most important tech event of 2026" framing for April 29 print [Source: Motley Fool] | — |
+| 2026-04 (mid) | Various | "Most important tech event of 2026" framing for April 29 print ([Motley Fool](https://www.fool.com/quote/nasdaq/msft/)) | — |
 
 ### Short Interest
 Specific April 2026 short interest data not surfaced in search; MSFT runs <1% of float short — typical for mega-cap. Not a meaningful signal.
@@ -305,16 +320,16 @@ Specific April 2026 short interest data not surfaced in search; MSFT runs <1% of
 - No notable open-market buys among named officers in the window
 
 ### Recent Corporate News (Last 90 Days)
-- **[2026-04-08] [Corporate]** — Microsoft announced Q3 FY26 earnings release date of April 29, 2026 [Source: MSFT IR press release]
-- **[2026-01-28] [Earnings]** — Q2 FY26: rev $81.3B (+17%); op income $38.3B (+21%); GAAP NI $38.5B (+60%); Azure +39%; capex $37.5B; 15M Copilot seats; $12.7B capital returned [Source: MSFT IR PR]
-- **[2025-Oct or 2025-11] [Earnings]** — Q1 FY26: rev ~$77B; Azure +40%; new Copilot seats KPI introduced [Source: MSFT IR Q1 FY26]
-- **[2025 (Q4 FY25)] [Earnings]** — FY25 full year: rev $281.7B (+15%); op income $128.5B (+17%); Azure $75B+ (+34%); net income $101B [Source: MSFT FY25 AR]
-- **[Ongoing]** — OpenAI partnership status / structural negotiations
+- **[2026-04-08] [Corporate]** — Microsoft announced Q3 FY26 earnings release date of April 29, 2026 ([MSFT IR press release](https://news.microsoft.com/announcements/))
+- **[2026-01-28] [Earnings]** — Q2 FY26: rev $81.3B (+17%); op income $38.3B (+21%); GAAP NI $38.5B (+60%); Azure +39%; capex $37.5B; 15M Copilot seats; 💰 $12.7B capital returned ([MSFT IR PR](https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast))
+- **[2025-Oct or 2025-11] [Earnings]** — Q1 FY26: rev ~$77B; Azure +40%; new Copilot seats KPI introduced ([MSFT IR Q1 FY26](https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q1/))
+- **[2025 (Q4 FY25)] [Earnings]** — FY25 full year: rev $281.7B (+15%); op income $128.5B (+17%); Azure $75B+ (+34%); net income $101B ([MSFT FY25 AR](https://www.microsoft.com/investor/reports/ar25/))
+- **[Ongoing]** — OpenAI partnership status / structural negotiations [link pending]
 
 ### Upcoming Catalysts
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **2026-04-29** (post-close, 2:30pm PT call) | **Q3 FY26 earnings** | "Most important tech event of 2026"; resolves AI capex / payback debate |
+| 📅 **2026-04-29** (post-close, 2:30pm PT call) | **Q3 FY26 earnings** ([MSFT IR](https://www.microsoft.com/en-us/Investor)) | "Most important tech event of 2026"; resolves AI capex / payback debate |
 | Q4 FY26 (~July 2026) | Q4 FY26 earnings + FY27 guide | Capex pacing; FY27 outlook |
 | Ongoing | Microsoft Build conference (May 2026) | Major AI/dev product announcements |
 | Ongoing | Azure AI revenue disclosures | Run-rate and growth trajectory |
@@ -396,29 +411,44 @@ Stock is –22% from January 2026 high; YTD –8% (after partial recovery). The 
 
 **Thesis in one sentence**: Microsoft is the deepest-moat mega-cap (productivity + cloud + AI + gaming) trading at a –22% drawdown from January 2026 highs at ~27× FY26E P/E with 15%+ growth and 46% op margins; the BAIT setup is Quadruple overlap heading into the April 29, 2026 Q3 FY26 print, which is widely framed as the year's most important tech event.
 
-**For a non-holder**: **Initiate** at $432.92 — among the strongest BAIT setups in the wiki on a deepest-moat-quality basis; PW EV ~$565 (3-yr) implies ~10%/yr expected return ex-AI-bull-case re-rating; April 29 print is hard near-term catalyst. Aggressive buyers should fully initiate; risk-averse buyers can stage half pre-print, half post.
+**For a non-holder**: 🟢 **Initiate** at $432.92 — among the strongest BAIT setups in the wiki on a deepest-moat-quality basis; PW EV ~$565 (3-yr) implies ~10%/yr expected return ex-AI-bull-case re-rating; April 29 print is hard near-term catalyst. Aggressive buyers should fully initiate; risk-averse buyers can stage half pre-print, half post.
 
-**For a current holder**: **Add** if average cost is meaningfully above current price; otherwise **Hold**. Trim only on a re-rating to >$600 without AI revenue confirmation, or if position size has become outsized after a re-rating.
+**For a current holder**: 🟢 **Add** if average cost is meaningfully above current price; otherwise **Hold**. Trim only on a re-rating to >$600 without AI revenue confirmation, or if position size has become outsized after a re-rating.
 
-**Attractive entry zone**: **$380 – $440** (rationale: ~24–27× FY26E P/E; aligns with March 2026 lows; capex/AI worry priced in; meaningful margin of safety on Wide-moat quality)
+🎯 **Attractive entry zone**: **$380 – $440** (rationale: ~24–27× FY26E P/E; aligns with March 2026 lows; capex/AI worry priced in; meaningful margin of safety on Wide-moat quality)
 
-**Trim zone**: **$640 – $720** (rationale: ~40–45× FY26E P/E; matches sell-side bull targets; full AI bull case priced)
+🎯 **Trim zone**: **$640 – $720** (rationale: ~40–45× FY26E P/E; matches sell-side bull targets; full AI bull case priced)
 
-**Exit / avoid zone**: **>$780** (rationale: requires bull-case 2029 outcome already priced; little margin for AI capex disappointment)
+🔴 **Exit / avoid zone**: **>$780** (rationale: requires bull-case 2029 outcome already priced; little margin for AI capex disappointment)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Exit):
-- Azure YoY revenue growth decelerates below +30% for two consecutive quarters
-- Capex run-rate raised above $100B/year without commensurate Azure AI revenue acceleration
-- Microsoft 365 Copilot seat additions decelerate or reverse
-- OpenAI partnership materially restructured to MSFT's disadvantage
-- AWS or GCP captures a meaningful enterprise reference customer migration off Azure
-- Op margin compresses below 43% for two consecutive quarters
-- Q3 FY26 (April 29) print meaningfully misses (rev <–2% to consensus, Azure <+33%)
-- FY26 capex revised down >15% (would signal AI demand weakness)
-- Activision integration impairment
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
+- ⚠️ Azure YoY revenue growth decelerates below +30% for two consecutive quarters
+- ⚠️ Capex run-rate raised above $100B/year without commensurate Azure AI revenue acceleration
+- ⚠️ Microsoft 365 Copilot seat additions decelerate or reverse
+- ⚠️ OpenAI partnership materially restructured to MSFT's disadvantage
+- ⚠️ AWS or GCP captures a meaningful enterprise reference customer migration off Azure
+- ⚠️ Op margin compresses below 43% for two consecutive quarters
+- ⚠️ Q3 FY26 (April 29) print meaningfully misses (rev <–2% to consensus, Azure <+33%)
+- ⚠️ FY26 capex revised down >15% (would signal AI demand weakness)
+- ⚠️ Activision integration impairment
 
-**Next review trigger**: **Q3 FY26 earnings — April 29, 2026 (post-close, 2:30pm PT call)**. Key items: (1) Azure YoY growth (consensus implies ~+36–38%), (2) Microsoft 365 Copilot seat update (target: 18–20M+), (3) Q4 FY26 capex pacing and any FY27 guidance, (4) op margin trajectory, (5) any commentary on OpenAI partnership.
+📅 **Next review trigger**: **Q3 FY26 earnings — April 29, 2026 (post-close, 2:30pm PT call)**. Key items: (1) Azure YoY growth (consensus implies ~+36–38%), (2) Microsoft 365 Copilot seat update (target: 18–20M+), (3) Q4 FY26 capex pacing and any FY27 guidance, (4) op margin trajectory, (5) any commentary on OpenAI partnership.
 
 ---
 
-*Sources: Microsoft FY2025 Annual Report (microsoft.com/investor/reports/ar25); Microsoft 10-K (SEC EDGAR, msft-20250630, FY2025); FY26 Q2 press release (MSFT IR, 2026-01-28); FY26 Q1 Intelligent Cloud Performance page (MSFT IR); Q4 FY25 press release (MSFT IR); Microsoft Q3 FY26 earnings announcement (MSFT Source / News, 2026-04-08); Yahoo Finance live price (2026-04-24); Techi.com Microsoft Stock 2026 Forecast; Futurum Group Q4 FY25 / Q1 FY26 / Q2 FY26 quarterly analyses; Beancount.io FY2025 earnings analysis (2026-03-23); Synyega FY25 review; TIKR multi-year low / $792 path coverage; The Motley Fool "April 29 — Most Important Tech Event of 2026" (2026-04-23); TheStreet Morgan Stanley pre-earnings reset; S&P Global big-tech earnings preview; Stocktitan Q3 FY26 earnings announcement coverage.*
+### Sources
+
+- [Microsoft FY2025 Annual Report](https://www.microsoft.com/investor/reports/ar25/)
+- [Microsoft 10-K (SEC EDGAR, FY2025)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000789019&type=10-K)
+- [Microsoft Investor Relations](https://www.microsoft.com/en-us/Investor) (FY26 Q2 PR 2026-01-28; FY26 Q1 Intelligent Cloud Performance; Q4 FY25 PR; Q3 FY26 earnings announcement 2026-04-08)
+- [Yahoo Finance — MSFT quote](https://finance.yahoo.com/quote/MSFT) (live price 2026-04-24)
+- [TheStreet — MSFT](https://www.thestreet.com/quote/msft) (Morgan Stanley pre-earnings reset)
+- [Techi.com — Microsoft Stock 2026 Forecast](https://www.techi.com/?s=microsoft)
+- [Futurum Group — MSFT analyses](https://futurumgroup.com/?s=microsoft) (Q4 FY25 / Q1 FY26 / Q2 FY26)
+- [Beancount.io — MSFT analysis](https://beancount.io/?s=microsoft) (FY2025 earnings, 2026-03-23)
+- [Synyega — MSFT FY25 review](https://www.synyega.com/?s=microsoft)
+- [TIKR — MSFT coverage](https://app.tikr.com/?s=msft) ($792 path)
+- [The Motley Fool — MSFT](https://www.fool.com/quote/nasdaq/msft/) ("April 29 — Most Important Tech Event of 2026", 2026-04-23)
+- [S&P Global — big-tech earnings preview](https://www.spglobal.com/marketintelligence/en/?q=microsoft)
+- [StockTitan — MSFT](https://www.stocktitan.net/news/MSFT/) (Q3 FY26 earnings announcement coverage)
+- [Microsoft News (announcements)](https://news.microsoft.com/announcements/)

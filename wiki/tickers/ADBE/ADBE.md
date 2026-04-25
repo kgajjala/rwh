@@ -1,15 +1,30 @@
 # ADBE — Adobe Inc.
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $245.44 at April 24, 2026 (Yahoo Finance)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$245.44** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/ADBE))
 > **Ticker Type**: Capital-light software platform (subscription / SaaS)
+
+---
+
+## Summary
+
+- 🟢 **Thesis**: Wide-moat (narrowing) capital-light platform compounder trading at decade-low multiples (~10.5× FY26E NGAAP, ~9% FCF yield) on AI-disruption fear, with operating data (AI-first ARR tripled, MAU +17%, Q1 FY26 +12% rev / +19% NGAAP EPS) pointing to extension rather than erosion.
+- 🟢 **For a non-holder: Initiate** at $245.44 — Buffett-style "great business at a fair price"; +30% to consensus median target.
+- 🟢 **For a current holder: Add**. Drawdown is sentiment-driven; operating data intact. Add on weakness toward $225 (52-wk low test).
+- 🎯 **Attractive entry zone**: **$220 – $260** (9–11× FY26E NGAAP EPS; 8–10% FCF yield; bottom decile of 10-yr multiple history).
+- 🎯 **Trim zone**: **$370 – $420** (re-rate to 16–18× FY26E NGAAP; AI-winner narrative).
+- 📉 **Price action**: $245.44, **–42% from 52-wk high** ($422.95), only +5% above 52-wk low ($224.13) — major drawdown.
+- 📅 **Next catalyst**: **Q2 FY2026 earnings — June 2026 (est.)**. Tests $6.43–6.48B guide; AI-first ARR refresh.
+- ⚠️ **Top risk**: AI commoditization of creative-pro tools (30% prob, high impact) — would crystallize bear thesis.
+- ⚠️ **Second risk**: AI-first ARR growth disappoints (25% prob, high impact); enterprise CIO budget compression (35% prob, medium impact).
+- 🟢 **BAIT verdict**: **Triple overlap** (B Strong + A Strong + I Moderate; T Weak→Moderate) — Conviction **High**. ~2.7:1 reward-to-risk on probability-weighted basis.
 
 ---
 
 ## Business Overview
 
-Adobe Inc. (NASDAQ: ADBE) is the dominant subscription-software platform for digital content creation, document workflows, and marketing automation. The company operates two reportable segments: **Digital Media** (Creative Cloud — Photoshop, Illustrator, Premiere Pro, Lightroom, Acrobat / Document Cloud — and the consumer/SMB AI products Firefly, Express, GenStudio) and **Digital Experience** (the Adobe Experience Cloud enterprise marketing stack — Analytics, Real-Time CDP, Journey Optimizer, Marketo, Workfront, Commerce). FY2025 revenue was $23.77B (+11% YoY), with Digital Media ARR exiting the year at $19.20B and total Adobe ARR at $25.20B [Source: Adobe Q4 FY2025 release, 2025-12-10]. Q1 FY2026 (quarter ended Feb 27, 2026) printed $6.40B revenue (+12% YoY), with management calling out that AI-first ARR more than tripled YoY [Source: Adobe Q1 FY2026 release, 2026-03].
+Adobe Inc. (NASDAQ: ADBE) is the dominant subscription-software platform for digital content creation, document workflows, and marketing automation. The company operates two reportable segments: **Digital Media** (Creative Cloud — Photoshop, Illustrator, Premiere Pro, Lightroom, Acrobat / Document Cloud — and the consumer/SMB AI products Firefly, Express, GenStudio) and **Digital Experience** (the Adobe Experience Cloud enterprise marketing stack — Analytics, Real-Time CDP, Journey Optimizer, Marketo, Workfront, Commerce). FY2025 revenue was $23.77B (+11% YoY), with Digital Media ARR exiting the year at $19.20B and total Adobe ARR at $25.20B ([Adobe Q4 FY2025 release, 2025-12-10](https://www.adobe.com/investor-relations.html)). Q1 FY2026 (quarter ended Feb 27, 2026) printed $6.40B revenue (+12% YoY), with management calling out that AI-first ARR more than tripled YoY ([Adobe Q1 FY2026 release, 2026-03](https://www.adobe.com/investor-relations.html)).
 
 The business is overwhelmingly subscription (>95% of revenue is recurring), high-margin (non-GAAP operating margin ~46%), and cash-generative ($10.03B FY2025 operating cash flow). The current bear narrative is that Adobe's creative-pro moat is being eroded by AI-native upstarts (Figma, Canva, Midjourney, Runway, OpenAI's Sora-style video tools) and that the price/per-seat subscription model will compress as generative AI commoditizes parts of the workflow. The bull narrative is that Adobe's installed base + enterprise distribution + Firefly/Express AI roadmap is monetizing AI faster than peers and that the recent ~46% drawdown from the $422 high prices in catastrophe rather than an 11–12% top-line growth, mid-40s margin business.
 
@@ -48,14 +63,14 @@ The –46% drawdown from $422 to current $245 implies the market is pricing mate
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$245.44** | April 24, 2026 (Yahoo Finance) |
+| Live Price | **$245.44** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/ADBE)) |
 | 52-Week High | $422.95 | 2025 |
 | 52-Week Low | $224.13 | recent — within ~9% of low |
 | % From 52-Wk High | –42.0% | Major drawdown |
 | % Above 52-Wk Low | +5.0% | Trading near multi-year lows |
 | Market Cap | ~$103B | ~420M diluted shares × $245 [Estimate from share count and price] |
 | FY2025 Revenue | $23.77B | +11% YoY |
-| FY2025 Non-GAAP EPS | $20.94 | [Source: Adobe FY2025 release] |
+| FY2025 Non-GAAP EPS | $20.94 | ([Adobe FY2025 release](https://www.adobe.com/investor-relations.html)) |
 | FY2025 GAAP EPS | $16.70 | |
 | FY2025 Operating CF | $10.03B | |
 | Q1 FY2026 Revenue | $6.40B | +12% YoY |
@@ -65,7 +80,7 @@ The –46% drawdown from $422 to current $245 implies the market is pricing mate
 | Digital Media ARR | $19.20B+ | Q1 print |
 | MAU | 850M+ | +17% YoY (Q1 FY26) |
 | AI-first ARR (Q1 FY26) | "More than tripled YoY" | Management disclosure |
-| Short Interest | ~3.37% of float | 12.20M shares; ~2 days to cover [Source: MarketBeat / Fintel, Apr 2026] |
+| Short Interest | ~3.37% of float | 12.20M shares; ~2 days to cover ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/ADBE/short-interest/) / [Fintel](https://fintel.io/ss/us/adbe), Apr 2026) |
 | Analyst Median Target | ~$317–$329 | Wide dispersion ($220–$487) |
 | Next Earnings (Q2 FY26) | June 2026 (est.) | Hard catalyst |
 
@@ -165,7 +180,7 @@ Growth has been consistently 10–12% on revenue and mid-teens on non-GAAP EPS �
 **Dan Durn (CFO)**: Joined 2021 from Applied Materials. Disciplined on margin and capital allocation. Q1 FY2026 record cash flow ($2.96B) is partially his execution.
 
 **Capital allocation**:
-- **Buybacks**: ADBE has been a heavy buyback compounder. FY2025 deployed ~$9.5B+ to buybacks [Source: 10-K and Q4 FY25 release]
+- 💰 **Buybacks**: ADBE has been a heavy buyback compounder. FY2025 deployed ~$9.5B+ to buybacks ([10-K and Q4 FY25 release — SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000796343&type=10-K))
 - **Dividend**: None — pure-buyback return-of-capital model
 - **M&A**: Bolt-ons (Frame.io, Workfront prior years). Figma deal abandoned. No transformative deal expected near-term given antitrust posture
 - **R&D intensity**: ~17–18% of revenue; AI investment accelerating
@@ -253,17 +268,17 @@ Growth has been consistently 10–12% on revenue and mid-teens on non-GAAP EPS �
 
 ### Analyst Consensus (April 2026)
 
-- **Aggregate rating**: Buy / Hold mix (varies by panel — Hold-leaning per MarketBeat, Buy on TipRanks)
+- **Aggregate rating**: 🟡 Buy / Hold mix (varies by panel — Hold-leaning per [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/ADBE/), Buy on [TipRanks](https://www.tipranks.com/stocks/adbe/forecast))
 - **Median price target**: $317.26 – $329.28 (range $220 – $487)
 - **High/low**: $487 / $220 — wide dispersion signals real disagreement
 - **Implied upside**: +29–34% to median; +98% to high; –10% to low
-- [Source: MarketBeat, TipRanks, Public.com, April 2026]
+- ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/ADBE/), [TipRanks](https://www.tipranks.com/stocks/adbe/forecast), [Public.com](https://public.com/stocks/adbe), April 2026)
 
 ### Short Interest
 
 - **Latest**: ~3.37% of float (12.20M shares, down from 13.19M)
 - **Days to cover**: ~2 days
-- **Trend**: Declining short interest — bears partially closed positions; not a "crowded short" setup [Source: Fintel / MarketBeat, April 2026]
+- **Trend**: Declining short interest — bears partially closed positions; not a "crowded short" setup ([Fintel](https://fintel.io/ss/us/adbe) / [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/ADBE/short-interest/), April 2026)
 
 ### Insider Activity (Last 90 Days)
 
@@ -271,15 +286,15 @@ Growth has been consistently 10–12% on revenue and mid-teens on non-GAAP EPS �
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-03] [Earnings]** — Q1 FY2026 results: Revenue $6.40B (+12%), NGAAP EPS $6.06 (+19%), AI-first ARR more than tripled YoY [Source: Adobe IR release, 2026-03]
-- **[2025-12-10] [Earnings]** — Q4 FY2025 + FY2025 results: $23.77B FY revenue (+11%), Digital Media ARR $19.20B [Source: BusinessWire]
-- **[2026-04 (various)] [Analyst]** — Mixed price target updates; sentiment negative-leaning following Q1 reaction to Q2 guide
+- **[2026-03] [Earnings]** — Q1 FY2026 results: Revenue $6.40B (+12%), NGAAP EPS $6.06 (+19%), AI-first ARR more than tripled YoY ([Adobe IR release, 2026-03](https://www.adobe.com/investor-relations.html))
+- **[2025-12-10] [Earnings]** — Q4 FY2025 + FY2025 results: $23.77B FY revenue (+11%), Digital Media ARR $19.20B ([BusinessWire](https://www.businesswire.com/portal/site/home/?ndmViewId=news_view&newsId=&ndmConfigId=1000242))
+- **[2026-04 (various)] [Analyst]** — Mixed price target updates; sentiment negative-leaning following Q1 reaction to Q2 guide [link pending]
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **June 2026 (est.)** | **Q2 FY2026 earnings** | Tests $6.43–6.48B Q2 guide; AI-first ARR refresh |
+| 📅 **June 2026 (est.)** | **Q2 FY2026 earnings** | Tests $6.43–6.48B Q2 guide; AI-first ARR refresh |
 | Sep 2026 (est.) | Q3 FY2026 earnings | Mid-year ARR check; will market re-rate on AI traction? |
 | Oct 2026 | MAX (Adobe Annual Conference) | Major product roadmap event — Firefly / GenStudio updates |
 | Ongoing | Figma IPO (rumored 2026) | Direct competitive read-through to Adobe's design franchise |
@@ -372,27 +387,37 @@ Primary-source disclosures underappreciated by media:
 
 **Thesis in one sentence**: Adobe is a wide-moat, capital-light platform compounder trading at decade-low multiples on AI-disruption fear, with operating data (AI-first ARR triple, MAU +17%, FCF yield ~9%) pointing to extension rather than erosion of the moat — making the current ~$245 a high-conviction asymmetric entry.
 
-**For a non-holder**: **Initiate** at $245.44. The combination of (a) sub-11× FY26E NGAAP P/E, (b) ~9% FCF yield, (c) AI-first ARR tripling, and (d) 30%+ implied upside to consensus median target creates a Buffett-style "great business at a fair price" setup. Build position incrementally given ongoing volatility but the price level is attractive today.
+**For a non-holder**: 🟢 **Initiate** at $245.44. The combination of (a) sub-11× FY26E NGAAP P/E, (b) ~9% FCF yield, (c) AI-first ARR tripling, and (d) 30%+ implied upside to consensus median target creates a Buffett-style "great business at a fair price" setup. Build position incrementally given ongoing volatility but the price level is attractive today.
 
-**For a current holder**: **Add**. The drawdown from $422 to $245 is sentiment-driven; operating data is intact. Buffett-lens fair value of $300–340 implies meaningful upside. Add on weakness toward $225 (52-wk low test).
+**For a current holder**: 🟢 **Add**. The drawdown from $422 to $245 is sentiment-driven; operating data is intact. Buffett-lens fair value of $300–340 implies meaningful upside. Add on weakness toward $225 (52-wk low test).
 
-**Attractive entry zone**: **$220 – $260** (rationale: 9–11× FY26E NGAAP EPS; 8–10% FCF yield; bottom decile of 10-year multiple history)
+🎯 **Attractive entry zone**: **$220 – $260** (rationale: 9–11× FY26E NGAAP EPS; 8–10% FCF yield; bottom decile of 10-year multiple history)
 
-**Trim zone**: **$370 – $420** (rationale: re-rate to 16–18× FY26E NGAAP would price in AI-winner narrative; further upside becomes story-dependent)
+🎯 **Trim zone**: **$370 – $420** (rationale: re-rate to 16–18× FY26E NGAAP would price in AI-winner narrative; further upside becomes story-dependent)
 
-**Exit / avoid zone**: **>$450** (rationale: prior 2025 highs proved unsustainable; would price in flawless AI execution + multiple expansion + no Figma encroachment)
+🔴 **Exit / avoid zone**: **>$450** (rationale: prior 2025 highs proved unsustainable; would price in flawless AI execution + multiple expansion + no Figma encroachment)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Avoid):
-- Total ARR growth decelerates below 8% YoY for two consecutive quarters
-- AI-first ARR growth decelerates below 100% YoY (reset from "tripled")
-- Creative Cloud paid subscriber net adds turn negative for two consecutive quarters
-- Operating margin (non-GAAP) compresses below 42% on a sustained basis
-- Document Cloud growth falls below 8% (signals Acrobat AI Assistant failing)
-- Figma IPO reveals materially larger ARR or growth rate than market expects
-- Major enterprise CIO survey shows >30% of respondents reducing Adobe spend in next budget cycle
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Avoid):
+- ⚠️ Total ARR growth decelerates below 8% YoY for two consecutive quarters
+- ⚠️ AI-first ARR growth decelerates below 100% YoY (reset from "tripled")
+- ⚠️ Creative Cloud paid subscriber net adds turn negative for two consecutive quarters
+- ⚠️ Operating margin (non-GAAP) compresses below 42% on a sustained basis
+- ⚠️ Document Cloud growth falls below 8% (signals Acrobat AI Assistant failing)
+- ⚠️ Figma IPO reveals materially larger ARR or growth rate than market expects
+- ⚠️ Major enterprise CIO survey shows >30% of respondents reducing Adobe spend in next budget cycle
 
-**Next review trigger**: **Q2 FY2026 earnings — June 2026 (est.)**. Key items: (1) revenue vs. $6.43–6.48B guide, (2) AI-first ARR commentary refresh, (3) Digital Media ARR YoY trajectory, (4) any guidance update for FY2026, (5) Adobe MAX (October) preview color.
+📅 **Next review trigger**: **Q2 FY2026 earnings — June 2026 (est.)**. Key items: (1) revenue vs. $6.43–6.48B guide, (2) AI-first ARR commentary refresh, (3) Digital Media ARR YoY trajectory, (4) any guidance update for FY2026, (5) Adobe MAX (October) preview color.
 
 ---
 
-*Sources: Adobe Q1 FY2026 earnings release (2026-03); Adobe Q4 FY2025 earnings release (2025-12-10, BusinessWire); Adobe FY2025 10-K (SEC EDGAR); Yahoo Finance (live price 2026-04-24); MarketBeat, TipRanks, Public.com, Benzinga (analyst consensus, April 2026); Fintel / MarketBeat (short interest, April 2026); Adobe IR (corporate news).*
+### Sources
+
+- [Adobe Investor Relations](https://www.adobe.com/investor-relations.html) (Q1 FY2026 earnings release, 2026-03; Q4 FY2025 earnings release, 2025-12-10)
+- [SEC EDGAR — Adobe filings (CIK 0000796343)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000796343&type=10-K) (Adobe FY2025 10-K)
+- [BusinessWire — Adobe](https://www.businesswire.com/portal/site/home/?ndmViewId=news_view&newsId=&ndmConfigId=1000242) (Q4 FY2025 release, 2025-12-10)
+- [Yahoo Finance — ADBE quote](https://finance.yahoo.com/quote/ADBE) (live price 2026-04-24)
+- [MarketBeat — ADBE](https://www.marketbeat.com/stocks/NASDAQ/ADBE/) (analyst consensus, April 2026)
+- [TipRanks — ADBE](https://www.tipranks.com/stocks/adbe/forecast) (analyst consensus)
+- [Public.com — ADBE](https://public.com/stocks/adbe) (analyst consensus)
+- [Fintel — ADBE short interest](https://fintel.io/ss/us/adbe) (short interest, April 2026)
+- Benzinga ADBE coverage [link pending]

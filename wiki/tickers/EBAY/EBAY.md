@@ -1,15 +1,30 @@
 # EBAY — eBay Inc.
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $97.94 at April 24, 2026 (Yahoo Finance)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$97.94** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/EBAY))
 > **Ticker Type**: Capital-light platform / two-sided marketplace
+
+---
+
+## Summary
+
+- 🟡 **Thesis**: Re-accelerating capital-light marketplace platform (Narrow moat in collectibles + non-NIB) with ~6%+ combined buyback-plus-dividend capital return at ~16× FY26E NGAAP P/E — fair value with modest asymmetry.
+- 🟡 **For a non-holder: Watch / selective Initiate**. At $97.94 stock is roughly at consensus median target.
+- 🟡 **For a current holder: Hold** — capital return + steady reacceleration support position.
+- 🎯 **Attractive entry zone**: **$78 – $90** (~13–15× FY26E NGAAP EPS; combined yield 7%+).
+- 🎯 **Trim zone**: **$120 – $140** (19–22× FY26E NGAAP EPS; sustained reacceleration priced).
+- 📈 **Price action**: $97.94, **–9% from 52-wk high** ($107.34), **+51% above 52-wk low** ($65.00) — major recovery.
+- 📅 **Next catalyst**: **Q1 2026 earnings — early May 2026 (est.)**. Tests $21.5–21.9B GMV / +10–12% FX-neutral guide.
+- ⚠️ **Top risk**: GMV reacceleration fades (35% prob, high impact); Facebook Marketplace / social commerce (35% prob, medium).
+- ⚠️ **Second risk**: Authentication / trust failure (10% prob, high impact); recession / consumer discretionary weakness (25%).
+- 🟡 **BAIT verdict**: **Single-to-double overlap** (A Moderate + T Moderate; B/I Weak) — Conviction **Low-Moderate**. Cantor PT $90→$100 (Apr 21); Morgan Stanley PT $117 (Apr 10).
 
 ---
 
 ## Business Overview
 
-eBay (NASDAQ: EBAY) is a global online marketplace connecting buyers and sellers across categories with a particular emphasis on used, refurbished, vintage, and collectible "non-new-in-box" inventory — the segments least directly competed by Amazon or Shopify-powered DTC. FY2025 revenue was $11.1B (+8% YoY) and Gross Merchandise Volume (GMV) was $79.6B (+7% YoY) [Source: eBay Q4 2025 earnings release, 2026-02-18]. Q4 2025 revenue grew 15% (13% FX-neutral) and GMV grew 10% (8% FX-neutral) — the strongest quarterly growth in years.
+eBay (NASDAQ: EBAY) is a global online marketplace connecting buyers and sellers across categories with a particular emphasis on used, refurbished, vintage, and collectible "non-new-in-box" inventory — the segments least directly competed by Amazon or Shopify-powered DTC. FY2025 revenue was $11.1B (+8% YoY) and Gross Merchandise Volume (GMV) was $79.6B (+7% YoY) ([eBay Q4 2025 earnings release, 2026-02-18](https://investors.ebayinc.com/financial-information/quarterly-results/)). Q4 2025 revenue grew 15% (13% FX-neutral) and GMV grew 10% (8% FX-neutral) — the strongest quarterly growth in years.
 
 The business has reaccelerated after a multi-year decline period (2018–2023) via a strategic pivot into **focus categories**: trading cards (1Sansone-Pollack acquisition + Goldin), motors parts & accessories, luxury (handbags, watches via Authenticate), refurbished electronics, and pre-owned apparel (Depop acquisition). The 2024–2025 "AI-first marketplace" investment cycle (magical listing, AI search, image-based discovery) is now translating to GMV reacceleration. Q1 2026 guidance is for GMV $21.5–21.9B (+10–12% FX-neutral) and revenue $3.00–3.05B (+13–15% FX-neutral) — confirming sustained reacceleration.
 
@@ -52,7 +67,7 @@ The bull case requires (a) AI-first product investments to deliver durable buyer
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$97.94** | April 24, 2026 (Yahoo Finance) |
+| Live Price | **$97.94** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/EBAY)) |
 | 52-Week High | $107.34 | |
 | 52-Week Low | $65.00 | |
 | % From 52-Wk High | –8.8% | Near highs |
@@ -71,7 +86,7 @@ The bull case requires (a) AI-first product investments to deliver durable buyer
 | FY2026 Op Income Guide | +8 to +10% | |
 | Quarterly Dividend | $0.31/share (raised 7%) | March 2026 paid |
 | Buyback Auth | $2B incremental | |
-| Short Interest | ~3.83% of float | 14.93M shares; rising [Source: April 2026] |
+| Short Interest | ~3.83% of float | 14.93M shares; rising ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/EBAY/short-interest/) / [Fintel](https://fintel.io/ss/us/ebay), April 2026) |
 | Analyst Consensus Target | $96.86 | Mixed Buy/Hold |
 | Cantor Fitzgerald PT | $100 (raised from $90) | 2026-04-21 |
 | Morgan Stanley PT | $117 | 2026-04-10 |
@@ -249,24 +264,24 @@ The bull case requires (a) AI-first product investments to deliver durable buyer
 
 ### Analyst Consensus (April 2026)
 
-- **Aggregate rating**: **Mixed Buy/Hold** (mostly Hold consensus per MarketBeat)
+- **Aggregate rating**: 🟡 **Mixed Buy/Hold** (mostly Hold consensus per [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/EBAY/))
 - **Median price target**: $96.86 (at-spot)
 - **Range**: $65 (low) – $117 (high, Morgan Stanley)
 - **Implied upside**: roughly flat to median; +20% to Morgan Stanley high
-- [Source: MarketBeat, Benzinga, TipRanks April 2026]
+- ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/EBAY/), [Benzinga](https://www.benzinga.com/quote/EBAY), [TipRanks](https://www.tipranks.com/stocks/ebay/forecast), April 2026)
 
 ### Recent Analyst Actions (April 2026)
 
 | Date | Firm | Action | Target | Note |
 |------|------|--------|--------|------|
-| 2026-04-21 | Cantor Fitzgerald | Neutral; PT raised | $90 → $100 | +11% |
-| 2026-04-10 | Morgan Stanley | PT $117 | $117 | Implies +12–20% |
+| 2026-04-21 | Cantor Fitzgerald | 🟡 Neutral; PT raised | $90 → $100 | +11% |
+| 2026-04-10 | Morgan Stanley | 🟢 PT $117 | $117 | Implies +12–20% |
 
 ### Short Interest
 
 - **Latest**: ~3.83% of float (14.93M shares, up from 13.20M)
 - **Trend**: **Rising** — bears adding modestly into the price strength
-- [Source: MarketBeat / Fintel, April 2026]
+- ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/EBAY/short-interest/) / [Fintel](https://fintel.io/ss/us/ebay), April 2026)
 
 ### Insider Activity (Last 90 Days)
 
@@ -276,17 +291,17 @@ The bull case requires (a) AI-first product investments to deliver durable buyer
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-02-18] [Earnings]** — Q4 2025 / FY2025 results: revenue +15% Q4, GMV +10%; $2B buyback authorization; dividend +7% [Source: eBay IR, Q4 2025 release]
-- **[2026-04-21] [Analyst]** — Cantor Fitzgerald PT raise $90 → $100 [Source: Stock Observer]
-- **[2026-04-10] [Analyst]** — Morgan Stanley PT $117 [Source: Yahoo Finance]
-- **[2026-03-20] [Capital]** — $0.31/share dividend payment (March 2026)
-- **[Recent] [Strategic]** — Depop acquisition advancing C2C strategy
+- **[2026-02-18] [Earnings]** — Q4 2025 / FY2025 results: revenue +15% Q4, GMV +10%; $2B buyback authorization; dividend +7% ([eBay IR, Q4 2025 release](https://investors.ebayinc.com/financial-information/quarterly-results/))
+- 🟢 **[2026-04-21] [Analyst]** — Cantor Fitzgerald PT raise $90 → $100 ([Stock Observer](https://stockobserver.com/?s=ebay))
+- 🟢 **[2026-04-10] [Analyst]** — Morgan Stanley PT $117 ([Yahoo Finance](https://finance.yahoo.com/quote/EBAY))
+- 💰 **[2026-03-20] [Capital]** — $0.31/share dividend payment (March 2026) ([eBay IR](https://investors.ebayinc.com/financial-information/dividend-history/))
+- **[Recent] [Strategic]** — Depop acquisition advancing C2C strategy [link pending]
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **Q1 2026 Earnings (early May 2026, est.)** | **Earnings** | Tests $21.5–21.9B GMV guide; +10–12% FX-neutral |
+| 📅 **Q1 2026 Earnings (early May 2026, est.)** | **Earnings** | Tests $21.5–21.9B GMV guide; +10–12% FX-neutral |
 | Q2 2026 Earnings (early Aug 2026) | Earnings | Sustainability of GMV reacceleration |
 | Ongoing | Buyback execution pace | $2B incremental authorization deployment |
 | 2026 | Depop revenue trajectory | Gen Z C2C strategy validation |
@@ -373,27 +388,36 @@ Not much underappreciated here — sell-side coverage is comprehensive, focus-ca
 
 **Thesis in one sentence**: eBay is a re-accelerating capital-light marketplace platform with durable advantages in collectibles + non-new-in-box categories and an aggressive ~6%+ combined buyback-plus-dividend capital return, trading at ~16× FY26E NGAAP P/E — fair value with modest asymmetry, suitable as a steady total-return holding rather than a high-conviction asymmetric bet.
 
-**For a non-holder**: **Watch / selective Initiate**. At $97.94 the stock is roughly at consensus median target. Combined yield (~6%) makes it a reasonable patient holding, but the asymmetry is modest. Wait for either weakness toward $80 or a clear sustained GMV reacceleration print to commit fully.
+**For a non-holder**: 🟡 **Watch / selective Initiate**. At $97.94 the stock is roughly at consensus median target. Combined yield (~6%) makes it a reasonable patient holding, but the asymmetry is modest. Wait for either weakness toward $80 or a clear sustained GMV reacceleration print to commit fully.
 
-**For a current holder**: **Hold**. Capital return + steady reacceleration support the position. Trim only on rally toward $115+.
+**For a current holder**: 🟡 **Hold**. Capital return + steady reacceleration support the position. Trim only on rally toward $115+.
 
-**Attractive entry zone**: **$78 – $90** (rationale: ~13–15× FY26E NGAAP EPS; below recent recovery; combined yield 7%+)
+🎯 **Attractive entry zone**: **$78 – $90** (rationale: ~13–15× FY26E NGAAP EPS; below recent recovery; combined yield 7%+)
 
-**Trim zone**: **$120 – $140** (rationale: 19–22× FY26E NGAAP EPS; would already price in sustained reacceleration; further upside becomes story-dependent)
+🎯 **Trim zone**: **$120 – $140** (rationale: 19–22× FY26E NGAAP EPS; would already price in sustained reacceleration; further upside becomes story-dependent)
 
-**Exit / avoid zone**: **>$155** (rationale: would price in bull-case growth + multiple expansion; historical precedent suggests these levels not sustained without category breakthrough)
+🔴 **Exit / avoid zone**: **>$155** (rationale: would price in bull-case growth + multiple expansion; historical precedent suggests these levels not sustained without category breakthrough)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Avoid):
-- GMV growth decelerates below +3% FX-neutral for two consecutive quarters
-- Advertising / promoted listings revenue growth slows below 15%
-- Focus categories (cards, luxury, refurb, Depop) collectively grow below 10%
-- Take rate compression beyond 50bps annual decline
-- Major loss to Fanatics in trading cards (e.g., Topps + StockX + Goldin disruption)
-- Operating margin compression below 24%
-- Buyback pace materially slows (capital allocation pivot away from returns)
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Avoid):
+- ⚠️ GMV growth decelerates below +3% FX-neutral for two consecutive quarters
+- ⚠️ Advertising / promoted listings revenue growth slows below 15%
+- ⚠️ Focus categories (cards, luxury, refurb, Depop) collectively grow below 10%
+- ⚠️ Take rate compression beyond 50bps annual decline
+- ⚠️ Major loss to Fanatics in trading cards (e.g., Topps + StockX + Goldin disruption)
+- ⚠️ Operating margin compression below 24%
+- ⚠️ Buyback pace materially slows (capital allocation pivot away from returns)
 
-**Next review trigger**: **Q1 2026 earnings (early May 2026, est.)**. Key items: (1) GMV vs. $21.5–21.9B guide, (2) revenue vs. $3.00–3.05B guide, (3) focus-category growth disclosures, (4) advertising / promoted listings growth rate, (5) any update to FY2026 outlook, (6) buyback execution pace.
+📅 **Next review trigger**: **Q1 2026 earnings (early May 2026, est.)**. Key items: (1) GMV vs. $21.5–21.9B guide, (2) revenue vs. $3.00–3.05B guide, (3) focus-category growth disclosures, (4) advertising / promoted listings growth rate, (5) any update to FY2026 outlook, (6) buyback execution pace.
 
 ---
 
-*Sources: eBay Q4 2025 / FY2025 earnings release (2026-02-18, IR + Motley Fool transcript); eBay Q1 2026 guidance (Seeking Alpha summary); Yahoo Finance (live price 2026-04-24); MarketBeat, Benzinga, TipRanks (analyst consensus April 2026); Cantor Fitzgerald PT update (2026-04-21); Morgan Stanley PT (2026-04-10); eBay IR dividend history; gurufocus / Quiver Quantitative buyback + dividend coverage.*
+### Sources
+
+- [eBay Investor Relations — Quarterly Results](https://investors.ebayinc.com/financial-information/quarterly-results/) (Q4 2025 / FY2025 earnings release, 2026-02-18; Q1 2026 guidance)
+- [SEC EDGAR — eBay filings (CIK 0001065088)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001065088&type=10-K) (10-K)
+- [Yahoo Finance — EBAY quote](https://finance.yahoo.com/quote/EBAY) (live price 2026-04-24; Morgan Stanley PT 2026-04-10)
+- [MarketBeat — EBAY](https://www.marketbeat.com/stocks/NASDAQ/EBAY/) / [Benzinga — EBAY](https://www.benzinga.com/quote/EBAY) / [TipRanks — EBAY](https://www.tipranks.com/stocks/ebay/forecast) (analyst consensus April 2026)
+- [Stock Observer — EBAY](https://stockobserver.com/?s=ebay) (Cantor Fitzgerald PT update, 2026-04-21)
+- [eBay IR — Dividend history](https://investors.ebayinc.com/financial-information/dividend-history/)
+- [Fintel — EBAY short interest](https://fintel.io/ss/us/ebay)
+- [Quiver Quantitative — EBAY](https://www.quiverquant.com/stock/EBAY) / [Seeking Alpha — EBAY](https://seekingalpha.com/symbol/EBAY) / Motley Fool transcript (Q4 2025)

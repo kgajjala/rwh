@@ -1,9 +1,24 @@
 # SHOP — Shopify Inc.
 
-> **Schema**: v2.1
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $125.83 at April 24, 2026 (Yahoo Finance JSON API)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$125.83** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/SHOP))
 > **Ticker Type**: Capital-light platform / commerce infrastructure
+
+---
+
+## Summary
+
+- 🟢 **Thesis**: World's largest independent commerce-infrastructure platform (**Wide and Widening moat**) at ~85× FY26E EPS — accelerating revenue (+30% at $11.6B scale), $2B FCF, first-ever buyback, first-mover in agentic AI commerce; market is mid-flight on re-rating from $88 trough.
+- 🟢 **For a non-holder: Initiate** at $125.83 — current price at upper edge of attractive entry zone; PW EV $212 (~+68% over 3 yr).
+- 🟢 **For a current holder: Add / Hold** — no reason to trim; add aggressively on any drawback toward $100–$110.
+- 🎯 **Attractive entry zone**: **$100 – $125** (60–80× FY26E P/E; below DCF intrinsic $180–220).
+- 🎯 **Trim zone**: **$185 – $220** (top of analyst range; approaches DCF intrinsic mid-point).
+- 📈 **Price action**: $125.83, **–30.9% from 52-wk high** ($182.19), +42.8% above 52-wk low ($88.14) — strong recovery off low.
+- 📅 **Next catalyst**: **Q1 2026 earnings — ~May 2026**. Tests low-30s% revenue guide; first quarter with Agentic Storefronts default-on.
+- ⚠️ **Top risk**: Revenue deceleration <20% (Low-Moderate prob, High impact) — 84× P/E does not survive sub-20%.
+- ⚠️ **Second risk**: Multiple compression on broad SaaS reset (Moderate prob, High impact).
+- 🟢 **BAIT verdict**: **Triple overlap (B+A+I)** — Conviction **Moderate-High**. PW EV ~$212 (3-yr) implies +68% / ~19%/yr; ~5:1 risk/reward.
 
 ---
 
@@ -45,7 +60,7 @@ The market priced the *disruption* scenario through Q4 2025/Q1 2026 (drove the s
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$125.83** | April 24, 2026 (Yahoo Finance) |
+| Live Price | **$125.83** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/SHOP)) |
 | 52-Week High | $182.19 | early 2025 |
 | 52-Week Low | $88.14 | recent low; recovered |
 | % From 52-Wk High | –30.9% | |
@@ -208,11 +223,11 @@ International revenue grew +36% in FY2025 (vs. +33% FY2024 — accelerating). Ne
 
 | Risk | Impact | Probability | Notes |
 |------|--------|-------------|-------|
-| Revenue deceleration <20% | High | Low–Moderate | Primary thesis-break; 84× P/E does not survive sub-20% |
+| ⚠️ Revenue deceleration <20% | High | Low–Moderate | Primary thesis-break; 84× P/E does not survive sub-20% |
 | Gross margin pressure (mix shift) | Moderate | High | Merchant Solutions growing faster than Subscription; structural and accepted |
-| AI disruption to SaaS pricing | High | Low | Shopify is payments + shipping + lending + AI infra, not just SaaS |
+| ⚠️ AI disruption to SaaS pricing | High | Low | Shopify is payments + shipping + lending + AI infra, not just SaaS |
 | Macro / tariff / SMB weakness | Moderate | Moderate | De minimis removal; recession exposure on SMB |
-| Multiple compression | High | Moderate | At ~85× fwd P/E, any broad SaaS reset weighs regardless of fundamentals |
+| ⚠️ Multiple compression | High | Moderate | At ~85× fwd P/E, any broad SaaS reset weighs regardless of fundamentals |
 | CEO 10b5-1 stock sales | Low | Certain | ~2M shares through Dec 2026; pre-arranged; Lütke retains 77.75M Class B |
 | Competition (Amazon Buy with Prime) | Moderate | Moderate | Real but narrow; lacks merchant-platform breadth and AI positioning |
 
@@ -288,7 +303,7 @@ The stock fell from $182 (early 2025) to $88 (recent low) — a 52% drawdown dri
 
 ### Analyst Consensus (mid-April 2026)
 
-- **Aggregate rating**: Buy (~28 Buy / 9 Hold / 0 Sell as of Q4 2025 readout; expanding toward Buy on recovery)
+- **Aggregate rating**: 🟢 Buy (~28 Buy / 9 Hold / 0 Sell as of Q4 2025 readout; expanding toward Buy on recovery) ([stockanalysis.com](https://stockanalysis.com/stocks/shop/forecast/) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/SHOP/forecast/))
 - **Median price target**: ~$162–$165
 - **High target**: ~$220
 - **Low target**: ~$110
@@ -299,12 +314,12 @@ The stock fell from $182 (early 2025) to $88 (recent low) — a 52% drawdown dri
 | Date | Firm | Action | Note |
 |------|------|--------|------|
 | Q1 2026 (various) | Multiple | Target raises post-Q4 FY2025 + AI traction | Aggregate median crept from $148 → $162+ |
-| 2026-02-18 | Truist | Upgrade | Triggered +8.5% rally on day |
+| 2026-02-18 | Truist | Upgrade | Triggered +8.5% rally on day [link pending] |
 | 2026-02-11 | Multiple | Mixed reaction to Q4 print | Stock fell 6–13% despite top-line beat |
 
 ### Short Interest
 
-- **Latest [Estimate]**: ~3% of float (low for a high-beta name)
+- **Latest [Estimate]**: ~3% of float (low for a high-beta name) ([Fintel](https://fintel.io/ss/us/shop) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/SHOP/short-interest/))
 - **Interpretation**: Recovery off $88 likely flushed shorts; not a "bears piled in" setup. Behavioral signal is more "longs returning" than "bear capitulation."
 
 ### Insider Activity (Last 90 Days)
@@ -314,19 +329,19 @@ The stock fell from $182 (early 2025) to $88 (recent low) — a 52% drawdown dri
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-02-11] [Earnings]** — Q4 FY2025 results: Revenue $3.67B (+31%), GMV $123.8B (+31%), FCF $715M (19.5% margin); FY2025: $11.56B (+30%), $378B GMV, $2B FCF [Source: IR]
-- **[2026-02 (mid)] [Capital]** — $2.0B share buyback authorized (first-ever capital return) [Source: IR]
-- **[Late March 2026] [Strategic]** — Agentic Storefronts activated by default across all Shopify stores (ChatGPT, Google AI Mode, Gemini, Copilot) [Source: company blog / IR]
-- **[2026-02-18] [Analyst]** — Truist upgrade triggered +8.5% rally [Source: market reports]
+- **[2026-02-11] [Earnings]** — Q4 FY2025 results: Revenue $3.67B (+31%), GMV $123.8B (+31%), FCF $715M (19.5% margin); FY2025: $11.56B (+30%), $378B GMV, $2B FCF ([Shopify IR](https://investors.shopify.com/news-and-events/news/))
+- **[2026-02 (mid)] [Capital]** — 💰 $2.0B share buyback authorized (first-ever capital return) ([Shopify IR](https://investors.shopify.com/news-and-events/news/))
+- **[Late March 2026] [Strategic]** — Agentic Storefronts activated by default across all Shopify stores (ChatGPT, Google AI Mode, Gemini, Copilot) ([Shopify Blog](https://www.shopify.com/news))
+- **[2026-02-18] [Analyst]** — Truist upgrade triggered +8.5% rally [link pending]
 - **[Q1 2026]** — Recovery from $88.14 low to ~$126 (+43%) on multiple compression unwinding + buyback announcement
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **~May 2026** | **Q1 2026 earnings** | Tests "low-30s%" revenue growth guidance vs. street ~25%; first quarter with Agentic Storefronts default-on; buyback execution pace |
+| 📅 **~May 2026** | **Q1 2026 earnings** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NYSE/SHOP/earnings/)) | Tests "low-30s%" revenue growth guidance vs. street ~25%; first quarter with Agentic Storefronts default-on; buyback execution pace |
 | Ongoing | Agentic Plan adoption (non-Shopify brands) | New revenue stream not in any analyst model |
-| Ongoing | Buyback execution | Aggressive deployment at $90–$130 = significant signal |
+| 💰 Ongoing | Buyback execution | Aggressive deployment at $90–$130 = significant signal |
 | FY2026 (rolling) | International revenue growth (+36% trajectory) | Confirms global expansion thesis |
 
 ---
@@ -428,27 +443,37 @@ Underappreciated primary-source data:
 
 **Thesis in one sentence**: Shopify is the dominant independent commerce-infrastructure platform with widening switching costs, accelerating revenue growth (+30% at $11.6B scale), $2B FCF, the first-ever buyback, and a first-mover position in agentic AI commerce that the market has *partially* re-rated from disruption-fear pricing — recovery from $88 to $126 leaves room for another 50%+ if Q1 2026 confirms low-30s% growth.
 
-**For a non-holder**: **Initiate** at $125.83 — current price sits at the upper edge of the attractive entry zone. Asymmetry is favorable (PW EV $212, ~+68% over 3 years; ~5:1 risk/reward). The stronger setup would be a drawback to $100–$110, but waiting for it forfeits the Q1 2026 catalyst optionality.
+**For a non-holder**: 🟢 **Initiate** at $125.83 — current price sits at the upper edge of the attractive entry zone. Asymmetry is favorable (PW EV $212, ~+68% over 3 years; ~5:1 risk/reward). The stronger setup would be a drawback to $100–$110, but waiting for it forfeits the Q1 2026 catalyst optionality.
 
-**For a current holder**: **Add / Hold** — no reason to trim at $126 with PW EV ~$212. Add aggressively on any drawback toward $100–$110. The thesis has *strengthened* since the v1 ingest at $117–121: the Q4 FY2025 print confirmed +30% growth, the $2B buyback was authorized, and the recovery off $88 demonstrated that the Bear case (revenue deceleration to 12–15%) is not appearing in operating data.
+**For a current holder**: 🟢 **Add / Hold** — no reason to trim at $126 with PW EV ~$212. Add aggressively on any drawback toward $100–$110. The thesis has *strengthened* since the v1 ingest at $117–121: the Q4 FY2025 print confirmed +30% growth, the $2B buyback was authorized, and the recovery off $88 demonstrated that the Bear case (revenue deceleration to 12–15%) is not appearing in operating data.
 
-**Attractive entry zone**: **$100 – $125** (rationale: 60–80× FY2026E P/E; below DCF intrinsic $180–220; revisit-the-low optionality; original v1 entry zone was $117–121 — recovery has shifted the upper bound up modestly)
+🎯 **Attractive entry zone**: **$100 – $125** (rationale: 60–80× FY2026E P/E; below DCF intrinsic $180–220; revisit-the-low optionality; original v1 entry zone was $117–121 — recovery has shifted the upper bound up modestly)
 
-**Trim zone**: **$185 – $220** (rationale: top of analyst range; approaches DCF intrinsic mid-point; further upside becomes story-dependent)
+🎯 **Trim zone**: **$185 – $220** (rationale: top of analyst range; approaches DCF intrinsic mid-point; further upside becomes story-dependent)
 
-**Exit / avoid zone**: **>$280** (rationale: would imply 90×+ FY2026E P/E with no margin of safety; prior $182 high already required pricing in much of the AI-amplification thesis)
+🔴 **Exit / avoid zone**: **>$280** (rationale: would imply 90×+ FY2026E P/E with no margin of safety; prior $182 high already required pricing in much of the AI-amplification thesis)
 
-**Thesis-break triggers** (would force re-rating toward Avoid):
-- Two consecutive quarters of sub-20% revenue growth
-- FCF margin compression below 14%
-- Payments penetration declining (currently 68%; downtick = attach-rate flywheel breaking)
-- Material U.S. e-commerce share loss to Amazon Buy with Prime (below 12%)
-- Buyback paused or canceled before $1B executed
-- Lütke's voting control modified or Founder Share unwound (signals founder departure path)
-- AI-attributed orders growth decelerates from current +11–15× pace to flat/negative
+**Thesis-break triggers** ⚠️ (would force re-rating toward Avoid):
+- ⚠️ Two consecutive quarters of sub-20% revenue growth
+- ⚠️ FCF margin compression below 14%
+- ⚠️ Payments penetration declining (currently 68%; downtick = attach-rate flywheel breaking)
+- ⚠️ Material U.S. e-commerce share loss to Amazon Buy with Prime (below 12%)
+- ⚠️ Buyback paused or canceled before $1B executed
+- ⚠️ Lütke's voting control modified or Founder Share unwound (signals founder departure path)
+- ⚠️ AI-attributed orders growth decelerates from current +11–15× pace to flat/negative
 
-**Next review trigger**: **Q1 2026 earnings — ~May 2026**. Key items: (1) revenue growth vs. low-30s% guide, (2) Agentic Storefronts adoption metrics, (3) buyback execution pace YTD, (4) international revenue growth (continuation of +36% trajectory), (5) any FY2026 guide revision.
+📅 **Next review trigger**: **Q1 2026 earnings — ~May 2026**. Key items: (1) revenue growth vs. low-30s% guide, (2) Agentic Storefronts adoption metrics, (3) buyback execution pace YTD, (4) international revenue growth (continuation of +36% trajectory), (5) any FY2026 guide revision.
 
 ---
 
-*Sources: Shopify Q4 FY2025 earnings release (Feb 11, 2026); FY2025 10-K [Estimate of filing date — to verify]; raw/analyses/SHOP_analysis_2026-03-24.html (full 15-section thesis); raw/analyses/shop_analysis.html (Q4 2025 review); Yahoo Finance JSON API (live price 2026-04-24 verified); MarketBeat / TipRanks (analyst consensus); Truist Securities upgrade note (2026-02-18); company IR communications on UCP, Agentic Storefronts, $2B buyback.*
+### Sources
+
+- [Shopify Investor Relations](https://investors.shopify.com/news-and-events/news/) (Q4 FY2025 earnings release, Feb 11, 2026; $2B buyback authorization)
+- [SEC EDGAR — Shopify filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001594805&type=10-K) (FY2025 10-K, 6-K filings)
+- [Shopify Blog / News](https://www.shopify.com/news) (UCP, Agentic Storefronts default-on)
+- [Yahoo Finance — SHOP quote](https://finance.yahoo.com/quote/SHOP) (live price 2026-04-24)
+- [stockanalysis.com — SHOP](https://stockanalysis.com/stocks/shop/forecast/) (analyst consensus)
+- [MarketBeat — SHOP](https://www.marketbeat.com/stocks/NYSE/SHOP/) (earnings calendar, ratings, short interest)
+- [Fintel — SHOP short interest](https://fintel.io/ss/us/shop)
+- Truist Securities upgrade note (2026-02-18) [link pending]
+- Prior internal wiki: `raw/analyses/SHOP_analysis_2026-03-24.html` (full 15-section thesis); `raw/analyses/shop_analysis.html` (Q4 2025 review)

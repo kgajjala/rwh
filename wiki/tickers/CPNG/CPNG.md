@@ -1,9 +1,24 @@
 # CPNG — Coupang, Inc.
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $20.58 at April 24, 2026 (Yahoo Finance / stockanalysis.com)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$20.58** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/CPNG) / [stockanalysis.com](https://stockanalysis.com/stocks/cpng/))
 > **Ticker Type**: Capital-light platform (e-commerce + fintech + content + logistics) — Korea-anchored
+
+---
+
+## Summary
+
+- 🟢 **Thesis**: Dominant Korean e-commerce + logistics platform (**Wide moat in Korea**) trading at ~0.8× FY26E EV/Revenue and ~14× EV/EBITDA — a steep discount to global peers — with a clean Triple BAIT setup ahead of the May 12, 2026 Q1 print.
+- 🟢 **For a non-holder: Initiate** at $20.58 — among the most asymmetric setups in the wiki; PW EV ~$28 (3-yr) implies +36% / ~11%/yr.
+- 🟡 **For a current holder: Add modestly into the May 12 print** if cost basis is meaningfully above current price; otherwise **Hold**. Do not exit on chronic-disappointer fatigue.
+- 🎯 **Attractive entry zone**: **$17 – $22** (~0.7–0.85× FY26E EV/Revenue; aligns with 52-wk-low band).
+- 🎯 **Trim zone**: **$32 – $38** (~1.2–1.5× FY26E EV/Revenue; aligns with prior 52-wk highs).
+- 📉 **Price action**: $20.58, **–40% from 52-wk high** ($34.08), +23% above 52-wk low ($16.74) — capitulation pattern.
+- 📅 **Next catalyst**: **Q1 2026 earnings — May 12, 2026 (post-close)**. Korea op-margin trajectory + Farfetch/Taiwan progress.
+- ⚠️ **Top risk**: Korea operating-margin expansion stalls (25% prob, high impact) — would remove the core thesis.
+- ⚠️ **Second risk**: Farfetch write-down or further Developing-Offerings drag (35% prob, medium impact).
+- 🟢 **BAIT verdict**: **Triple overlap** (B Strong + A Strong + I/T Moderate) — Conviction **Moderate-High**. ~14M Korean WOW members spending 3× non-members; consensus Strong Buy with +51% implied upside to $31–32 target ([stockanalysis.com](https://stockanalysis.com/stocks/cpng/forecast/)).
 
 ---
 
@@ -49,7 +64,7 @@ The bull case is "Korea is undervalued; Developing Offerings is real optionality
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$20.58** | April 24, 2026 (Yahoo Finance) |
+| Live Price | **$20.58** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/CPNG)) |
 | 52-Week High | ~$34.08 | Late 2025 |
 | 52-Week Low | ~$16.74 | Early 2026 |
 | % From 52-Wk High | –40% | Substantial drawdown |
@@ -62,7 +77,7 @@ The bull case is "Korea is undervalued; Developing Offerings is real optionality
 | Q4 2025 Gross Margin | 28.8% | $2.5B gross profit |
 | Q3 2025 Op Margin | 1.7% | +36 bps YoY |
 | Rocket WOW Members | ~14M | Korea; 3× spend vs. non-members |
-| Short Interest | 1.93% of float | 21.3M shares short [Source: Fintel/MarketBeat Mar 2026] |
+| Short Interest | 1.93% of float | 21.3M shares short ([Fintel](https://fintel.io/ss/us/cpng) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/CPNG/short-interest/), Mar 2026) |
 | Analyst Consensus | Strong Buy (6 analysts) | Avg target $31–32 |
 | Implied Upside | +51–55% | To consensus target |
 | **Next Earnings** | **May 12, 2026** (post-close) | Q1 2026 |
@@ -92,14 +107,14 @@ The bull case is "Korea is undervalued; Developing Offerings is real optionality
 | GAAP Net Income | –$92M | $1.36B | ~$700M [Estimate] | ~$650M [Estimate] | ~$900M |
 | Korea Op Margin | mid-single | mid-single | high-single | high-single | low-double-digit |
 
-*Note: FY2025 Adj EBITDA margin is slightly compressed vs. FY2024 because Developing Offerings drag is increasing while Korea margin still expanding (mix-shift effect). [Source: Coupang Q4 2025 PR + 10-K, Feb/Mar 2026]*
+*Note: FY2025 Adj EBITDA margin is slightly compressed vs. FY2024 because Developing Offerings drag is increasing while Korea margin still expanding (mix-shift effect). Sources: [Coupang Q4 2025 PR](https://ir.aboutcoupang.com/news-releases) and [10-K FY2025 (SEC EDGAR)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001834584&type=10-K), Feb/Mar 2026.*
 
 ### Recent Quarter
 
 | Quarter | Revenue | Op Income | Op Margin | Notes |
 |---------|---------|-----------|-----------|-------|
-| Q3 2025 | $8.5B | $145M | 1.7% (+36 bps YoY) | Korea expanding; Dev Off drag stable [Source: Coupang Q3 2025 PR, IR] |
-| Q4 2025 | $8.8B (+11%, +14% FX-neut) | $8M | 0.1% | Slim op income; reinvestment phase; missed some estimates [Source: Q4 PR] |
+| Q3 2025 | $8.5B | $145M | 1.7% (+36 bps YoY) | Korea expanding; Dev Off drag stable ([Coupang Q3 2025 PR](https://ir.aboutcoupang.com/news-releases)) |
+| Q4 2025 | $8.8B (+11%, +14% FX-neut) | $8M | 0.1% | Slim op income; reinvestment phase; missed some estimates ([Coupang Q4 2025 PR](https://ir.aboutcoupang.com/news-releases)) |
 
 ---
 
@@ -260,31 +275,31 @@ The bull case is "Korea is undervalued; Developing Offerings is real optionality
 - **Market cap**: ~$37B
 
 ### Analyst Consensus
-- **Aggregate rating**: Strong Buy (6 analysts) [Source: stockanalysis.com / MarketBeat]
+- **Aggregate rating**: 🟢 Strong Buy (6 analysts) ([stockanalysis.com](https://stockanalysis.com/stocks/cpng/forecast/) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/CPNG/forecast/))
 - **Average target**: $31–32 (depending on aggregator)
 - **Implied upside**: +51–55%
 
 ### Short Interest
-- **Latest**: ~21.3M shares short = 1.93% of float; 2.62× ADV [Source: Fintel / MarketBeat, Mar 2026]
+- **Latest**: ~21.3M shares short = 1.93% of float; 2.62× ADV ([Fintel](https://fintel.io/ss/us/cpng) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/CPNG/short-interest/), Mar 2026)
 - **Interpretation**: Low — CPNG is not heavily shorted; the depressed price is more "long capitulation" than "active short-driven."
 
 ### Insider Activity (Last 90 Days)
 Specific April 2026 insider data not surfaced in search. Bom Kim has historically not been an active seller. SoftBank's ongoing position reduction (multi-year) is the main supply-side overhang. Worth a refresh on next update.
 
 ### Recent Corporate News (Last 90 Days)
-- **[2026-02 / 2026-03] [Earnings]** — Q4 2025: rev $8.8B (+11% reported / +14% constant currency); op income $8M; gross profit $2.5B (28.8% margin); FY25 rev $34.5B (+14%) [Source: Coupang IR]
-- **[2025-11] [Earnings]** — Q3 2025: rev $8.5B; op income $145M (1.7% margin, +36 bps YoY); reaffirmed ~20% FY revenue growth guide and continued margin expansion [Source: IR]
-- **[Ongoing] [Strategic]** — Coupang Play exclusive Paramount+ launch in Korea [Source: Korea Herald]
-- **[2025] [Acquisitions]** — Farfetch integration progressing (no major writedown recently)
+- **[2026-02 / 2026-03] [Earnings]** — Q4 2025: rev $8.8B (+11% reported / +14% constant currency); op income $8M; gross profit $2.5B (28.8% margin); FY25 rev $34.5B (+14%) ([Coupang IR](https://ir.aboutcoupang.com/news-releases))
+- **[2025-11] [Earnings]** — Q3 2025: rev $8.5B; op income $145M (1.7% margin, +36 bps YoY); reaffirmed ~20% FY revenue growth guide and continued margin expansion ([Coupang IR](https://ir.aboutcoupang.com/news-releases))
+- **[Ongoing] [Strategic]** — Coupang Play exclusive Paramount+ launch in Korea ([Korea Herald](https://www.koreaherald.com/search/coupang+play+paramount))
+- **[2025] [Acquisitions]** — Farfetch integration progressing (no major writedown recently) [link pending]
 
 ### Upcoming Catalysts
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **2026-05-12** (post-close) | **Q1 2026 earnings** | Korea op margin trajectory; Farfetch progress; Taiwan unit economics |
+| 📅 **2026-05-12** (post-close) | **Q1 2026 earnings** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NYSE/CPNG/earnings/)) | Korea op margin trajectory; Farfetch progress; Taiwan unit economics |
 | Q2 / Q3 2026 | Korea margin expansion data | Core thesis validation |
 | Ongoing | Farfetch break-even path | Key Developing Offerings de-risking signal |
 | Ongoing | KRW/USD currency moves | Reported revenue impact |
-| Ongoing | KFTC regulatory actions | Tail risk |
+| ⚠️ Ongoing | KFTC regulatory actions ([KFTC EN](https://www.ftc.go.kr/eng/)) | Tail risk |
 
 ---
 
@@ -359,28 +374,38 @@ Stock is –40% from 52-wk high; near 52-wk low; classic chronic-disappointer pa
 
 **Thesis in one sentence**: Coupang owns the dominant e-commerce + logistics platform in Korea (Wide moat), trading at ~0.8× FY26E EV/Revenue and ~14× EV/EBITDA — a steep discount to global peers — with a clean Triple BAIT setup ahead of the May 12, 2026 Q1 print that should confirm Korea op-margin expansion and de-risk Developing Offerings.
 
-**For a non-holder**: **Initiate** at $20.58 — among the most asymmetric setups in the wiki on a Buffett/Munger lens; PW EV ~$28 (3-yr) implies +36% / ~11%/yr; behavioral capitulation pattern + analytical sum-of-parts dislocation + hard May 12 catalyst. Position can be staged half pre-print, half post.
+**For a non-holder**: 🟢 **Initiate** at $20.58 — among the most asymmetric setups in the wiki on a Buffett/Munger lens; PW EV ~$28 (3-yr) implies +36% / ~11%/yr; behavioral capitulation pattern + analytical sum-of-parts dislocation + hard May 12 catalyst. Position can be staged half pre-print, half post.
 
-**For a current holder**: **Add** modestly into May 12 print if average cost is meaningfully above current price; otherwise **Hold**. Thesis intact; valuation reset has reset the risk/reward; do not exit on chronic-disappointer fatigue.
+**For a current holder**: 🟡 **Add** modestly into May 12 print if average cost is meaningfully above current price; otherwise **Hold**. Thesis intact; valuation reset has reset the risk/reward; do not exit on chronic-disappointer fatigue.
 
-**Attractive entry zone**: **$17 – $22** (rationale: ~0.7–0.85× FY26E EV/Revenue; aligns with 52-wk-low band; meaningful margin of safety vs. Korean Wide moat + cash position)
+🎯 **Attractive entry zone**: **$17 – $22** (rationale: ~0.7–0.85× FY26E EV/Revenue; aligns with 52-wk-low band; meaningful margin of safety vs. Korean Wide moat + cash position)
 
-**Trim zone**: **$32 – $38** (rationale: ~1.2–1.5× FY26E EV/Revenue; aligns with prior 52-wk highs; full Korea + partial Dev Off priced)
+🎯 **Trim zone**: **$32 – $38** (rationale: ~1.2–1.5× FY26E EV/Revenue; aligns with prior 52-wk highs; full Korea + partial Dev Off priced)
 
-**Exit / avoid zone**: **>$45** (rationale: requires bull-case execution on Korea + Taiwan + Farfetch all working; multi-year compounding pulled forward)
+🔴 **Exit / avoid zone**: **>$45** (rationale: requires bull-case execution on Korea + Taiwan + Farfetch all working; multi-year compounding pulled forward)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Exit):
-- Korea operating margin contracts YoY for two consecutive quarters
-- Constant-currency revenue growth decelerates below +12% YoY for two consecutive quarters
-- Farfetch announced impairment or wind-down
-- Taiwan exit / strategic retreat
-- KFTC structural remedy ordered
-- WOW membership growth decelerates / churn increases materially
-- Bom Kim founder departure or leadership change
-- Major acquisition outside core (suggests capital misallocation)
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
+- ⚠️ Korea operating margin contracts YoY for two consecutive quarters
+- ⚠️ Constant-currency revenue growth decelerates below +12% YoY for two consecutive quarters
+- ⚠️ Farfetch announced impairment or wind-down
+- ⚠️ Taiwan exit / strategic retreat
+- ⚠️ KFTC structural remedy ordered
+- ⚠️ WOW membership growth decelerates / churn increases materially
+- ⚠️ Bom Kim founder departure or leadership change
+- ⚠️ Major acquisition outside core (suggests capital misallocation)
 
-**Next review trigger**: **Q1 2026 earnings — May 12, 2026 (post-close)**. Key items: (1) Korea segment operating margin (consensus implies +30–50 bps YoY), (2) Dev Off operating loss (Farfetch progress, Taiwan unit economics), (3) WOW member count update, (4) FY26 revenue guide (constant currency), (5) any commentary on Farfetch break-even timeline.
+📅 **Next review trigger**: **Q1 2026 earnings — May 12, 2026 (post-close)**. Key items: (1) Korea segment operating margin (consensus implies +30–50 bps YoY), (2) Dev Off operating loss (Farfetch progress, Taiwan unit economics), (3) WOW member count update, (4) FY26 revenue guide (constant currency), (5) any commentary on Farfetch break-even timeline.
 
 ---
 
-*Sources: Coupang Q4 2025 / FY2025 results press release (Coupang IR, Feb 2026); Q3 2025 results press release (Coupang IR, 2025-11); Q3 2025 earnings call transcript (Yahoo Finance); Yahoo Finance live price (2026-04-24); stockanalysis.com forecast & price page; MarketBeat earnings calendar (Q1 May 12, 2026); TipRanks earnings page; Quiver Quantitative pre-earnings opinions; Fintel short interest data (Mar 2026); Korea Herald Coupang Play / Paramount+ coverage; Wikipedia (Coupang, Coupang Play); aboutcoupang.com WOW membership materials; ainvest.com membership ecosystem analysis; Investor's Podcast Network intrinsic value piece.*
+### Sources
+
+- [Coupang Investor Relations — News Releases](https://ir.aboutcoupang.com/news-releases) (Q4 2025 / FY2025 results, Feb 2026; Q3 2025 results, Nov 2025)
+- [SEC EDGAR — Coupang filings (CIK 0001834584)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001834584&type=10-K) (10-K FY2025)
+- [Yahoo Finance — CPNG quote](https://finance.yahoo.com/quote/CPNG) (live price 2026-04-24, 52-wk range)
+- [stockanalysis.com — CPNG forecast](https://stockanalysis.com/stocks/cpng/forecast/) (analyst consensus, price targets)
+- [MarketBeat — CPNG](https://www.marketbeat.com/stocks/NYSE/CPNG/) (earnings calendar, short-interest, analyst ratings)
+- [Fintel — CPNG short interest](https://fintel.io/ss/us/cpng) (Mar 2026 short data)
+- [Korea Herald — Coupang Play / Paramount+](https://www.koreaherald.com/search/coupang+play+paramount)
+- [aboutcoupang.com — WOW membership](https://www.aboutcoupang.com/English/about/default.aspx)
+- [Wikipedia — Coupang](https://en.wikipedia.org/wiki/Coupang)

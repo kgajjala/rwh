@@ -1,15 +1,30 @@
 # TREX — Trex Company, Inc.
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $41.90 at April 24, 2026 (Yahoo Finance; previous close $59.13; reflects post-Q4 2025 sell-off + housing/R&R cycle weakness)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$41.90** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/TREX); previous close $59.13; reflects post-Q4 2025 sell-off + housing/R&R cycle weakness)
 > **Ticker Type**: Building products / housing-cyclical industrial
+
+---
+
+## Summary
+
+- 🟡 **Thesis**: Dominant U.S. composite-decking franchise (**Narrow moat**) trading at housing-cyclical trough (~13× FY26E EV/EBITDA) with $200M buyback — tilted bullish if rates inflect lower in 12–18 months, neutral if not.
+- 🟢 **For a non-holder: Initiate** at $41.90 — but with patience; bull case requires rate-cycle help.
+- 🟡 **For a current holder: Hold** — do not exit at trough; add only if price drops below $35.
+- 🎯 **Attractive entry zone**: **$30 – $42** (~10–13× FY26E EBITDA; below historical floor; absorbs rate-stuck bear case).
+- 🎯 **Trim zone**: **$60 – $72** (~17–20× FY26E EBITDA; reaches historical mid-range).
+- 📉 **Price action**: $41.90, **–39.1% from 52-wk high** ($68.78), +40.7% above 52-wk low ($29.77).
+- 📅 **Next catalyst**: **Q1 2026 earnings — early May 2026 (est.)**. First print under new CEO Zambanini; tests FY26 guide.
+- ⚠️ **Top risk**: Mortgage rates stay 6%+ for 2026+ (50% prob, High impact) — compresses housing turnover.
+- ⚠️ **Second risk**: Housing R&R recession deepens (30% prob, High impact) — 2026 guide assumes flat-to-down R&R.
+- 🟡 **BAIT verdict**: **Moderate overlap (B+A both Moderate; I/T weak)** — Conviction **Moderate**. PW EV ~$57 (3-yr) implies +36% / ~11%/yr.
 
 ---
 
 ## Business Overview
 
-Trex Company (NYSE: TREX) is the leading U.S. manufacturer of high-performance, low-maintenance composite (wood-alternative) decking and railing products. The brand "Trex" is functionally synonymous with composite decking — a category that has compounded share against pressure-treated wood for 25+ years. FY2025 revenue was ~$1.13B with adjusted EPS of $1.88; the company guided **FY2026 revenue to $1.185B–$1.230B and Adjusted EBITDA of $315M–$340M**, assuming a flat-to-slightly-down repair-and-remodel (R&R) market. Q4 2025 sales were $161M (–4% YoY) but $17M above guide midpoint. [Source: Trex Q4 2025 press release, 2026-02-24]
+Trex Company (NYSE: TREX) is the leading U.S. manufacturer of high-performance, low-maintenance composite (wood-alternative) decking and railing products. The brand "Trex" is functionally synonymous with composite decking — a category that has compounded share against pressure-treated wood for 25+ years. FY2025 revenue was ~$1.13B with adjusted EPS of $1.88; the company guided **FY2026 revenue to $1.185B–$1.230B and Adjusted EBITDA of $315M–$340M**, assuming a flat-to-slightly-down repair-and-remodel (R&R) market. Q4 2025 sales were $161M (–4% YoY) but $17M above guide midpoint ([Trex Q4 2025 press release](https://investor.trex.com/news-and-events/news-releases), 2026-02-24).
 
 The company manufactures from recycled polyethylene + reclaimed wood at its Winchester, VA and new Little Rock, AR facilities. Railing has emerged as the strategic growth platform — TREX targets doubling its railing market share by year-end 2028. CEO Bryan Fairbanks plans to retire in late April 2026; COO Adam Zambanini becomes CEO.
 
@@ -47,7 +62,7 @@ The setup is a classic housing-cyclical question: terminal demand depends on rat
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$41.90** | April 24, 2026 (Yahoo Finance) |
+| Live Price | **$41.90** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/TREX)) |
 | Previous Close | $59.13 | Recent gap reflects multi-month decline |
 | 52-Week High | $68.78 | 2025 highs |
 | 52-Week Low | $29.77 | Recent low |
@@ -57,12 +72,12 @@ The setup is a classic housing-cyclical question: terminal demand depends on rat
 | FY2025 Revenue | ~$1.13B | |
 | FY2025 Adjusted EPS | $1.88 | $202M adj. net income |
 | FY2025 GAAP EPS | $1.78 | $190M GAAP NI |
-| FY2026 Revenue Guide | $1.185B–$1.230B | +5–9% YoY [Source: Trex, Feb 24 2026] |
+| FY2026 Revenue Guide | $1.185B–$1.230B | +5–9% YoY ([Trex IR](https://investor.trex.com/news-and-events/news-releases), Feb 24 2026) |
 | FY2026 Adj. EBITDA Guide | $315M–$340M | |
 | Q4 2025 Revenue | $161M | –4% YoY; beat guide by ~$17M |
 | Q4 2025 GM | 30.2% | Pressured by FIFO change + warranty reserve |
 | Buyback (Q4 2025) | $50M | Plus $150M new authorization for 1H 2026 |
-| Short Interest | 1.92% of float | Low |
+| Short Interest | 1.92% of float | Low ([Fintel](https://fintel.io/ss/us/trex) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/TREX/short-interest/)) |
 | Analyst Consensus Target | $44–67 (range across panels) | Wide dispersion |
 | Q1 2026 Earnings | Early May 2026 (est.) | |
 
@@ -92,7 +107,7 @@ The setup is a classic housing-cyclical question: terminal demand depends on rat
 | Adj. EPS | $1.66 | $1.88 | $2.10 | $1.88 | (not given) |
 | GAAP EPS | $1.55 | $1.81 | $2.02 | $1.78 | (not given) |
 
-[Source: Trex Q4 2025 press release, 2026-02-24]
+*Source: [Trex Q4 2025 press release](https://investor.trex.com/news-and-events/news-releases) (2026-02-24)*
 
 ### Quarterly Trajectory (Recent)
 
@@ -185,8 +200,8 @@ Forward outlook: U.S.-centric; international expansion is not a meaningful 2026 
 
 | Risk | Impact | Probability | Notes |
 |------|--------|-------------|-------|
-| Housing R&R recession deepens | High | 30% | 2026 guide assumes flat-to-down R&R |
-| Mortgage rates stay 6%+ for 2026+ | High | 50% | Compresses housing turnover |
+| ⚠️ Housing R&R recession deepens | High | 30% | 2026 guide assumes flat-to-down R&R |
+| ⚠️ Mortgage rates stay 6%+ for 2026+ | High | 50% | Compresses housing turnover |
 | AZEK / Fiberon share gain | Medium | 30% | Direct competition |
 | Big-box pricing pressure | Medium | 30% | HD + LOW concentration |
 | Polyethylene cost volatility | Medium | 25% | Raw material |
@@ -248,7 +263,7 @@ Forward outlook: U.S.-centric; international expansion is not a meaningful 2026 
 
 ### Analyst Consensus
 
-- **Aggregate rating**: Buy / Mixed (panels show 9 Buy / 8 Hold / 1 Sell on one survey; 19-analyst panel skews Buy)
+- **Aggregate rating**: 🟢 Buy / Mixed (panels show 9 Buy / 8 Hold / 1 Sell on one survey; 19-analyst panel skews Buy) ([stockanalysis.com](https://stockanalysis.com/stocks/trex/forecast/) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/TREX/forecast/))
 - **Median target**: $44–67 across panels (wide dispersion)
 - **Range**: $32 (low) – $85 (high)
 - **Dispersion commentary**: One of the widest analyst dispersions in the building products complex — reflects rate-cycle uncertainty
@@ -265,21 +280,21 @@ Forward outlook: U.S.-centric; international expansion is not a meaningful 2026 
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04 (late)] [Management]** — CEO Bryan Fairbanks retires; COO Adam Zambanini becomes CEO [Source: Trex IR]
-- **[2026-02-24] [Earnings]** — Q4 2025 / FY25 results: Q4 revenue $161M (–4%, +$17M vs. guide); FY adj. EPS $1.88; GM 30.2% (pressured); FY26 revenue guide $1.185–1.230B; adj. EBITDA $315–340M [Source: Trex press release / BusinessWire]
-- **[2026-02-24] [Capital]** — $50M Q4 buyback executed + $150M new 1H 2026 authorization [Source: Trex IR]
-- **[2026-02-24] [Strategic]** — Railing share doubling by YE 2028 reaffirmed; 100bps gross-margin headwind expected in 2026 from depreciation + railing mix [Source: Trex earnings call]
-- **[Late 2025] [Capacity]** — Little Rock, AR facility ramping [Source: Trex IR]
+- **[2026-04 (late)] [Management]** — CEO Bryan Fairbanks retires; COO Adam Zambanini becomes CEO ([Trex IR](https://investor.trex.com/news-and-events/news-releases))
+- **[2026-02-24] [Earnings]** — Q4 2025 / FY25 results: Q4 revenue $161M (–4%, +$17M vs. guide); FY adj. EPS $1.88; GM 30.2% (pressured); FY26 revenue guide $1.185–1.230B; adj. EBITDA $315–340M ([Trex press release / BusinessWire](https://investor.trex.com/news-and-events/news-releases))
+- **[2026-02-24] [Capital]** — 💰 $50M Q4 buyback executed + $150M new 1H 2026 authorization ([Trex IR](https://investor.trex.com/news-and-events/news-releases))
+- **[2026-02-24] [Strategic]** — Railing share doubling by YE 2028 reaffirmed; 100bps gross-margin headwind expected in 2026 from depreciation + railing mix ([Trex earnings call](https://investor.trex.com/news-and-events/events))
+- **[Late 2025] [Capacity]** — Little Rock, AR facility ramping ([Trex IR](https://investor.trex.com/news-and-events/news-releases))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|----------------|
-| **Early May 2026** (est.) | **Q1 2026 earnings** | First print under new CEO; tests FY26 guide |
+| 📅 **Early May 2026** (est.) | **Q1 2026 earnings** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NYSE/TREX/earnings/)) | First print under new CEO; tests FY26 guide |
 | Late April 2026 | CEO transition completed | Zambanini formally takes over |
 | Aug 2026 | Q2 2026 earnings | Mid-year guide refresh; covers core decking season |
-| Ongoing | Mortgage rate cycle | Macro swing factor |
-| Ongoing | Buyback execution | $200M authorized — meaningful for per-share math |
+| ⚠️ Ongoing | Mortgage rate cycle | Macro swing factor |
+| 💰 Ongoing | Buyback execution | $200M authorized — meaningful for per-share math |
 
 ---
 
@@ -362,28 +377,37 @@ The –39% drawdown reflects a clean housing-cyclical narrative: rates stay high
 
 **Thesis in one sentence**: Trex is the dominant U.S. composite-decking franchise trading at a housing-cyclical trough multiple with a real $200M buyback program — the 3-year PW EV is $57 (+36%), tilted bullish if rates inflect lower in the next 12–18 months and tilted neutral if they don't.
 
-**For a non-holder**: **Initiate** at $41.90 — but with patience. The bull case requires rate-cycle help; without that, returns may be moderate. Median analyst target $50–67 implies +20–60% upside.
+**For a non-holder**: 🟢 **Initiate** at $41.90 — but with patience. The bull case requires rate-cycle help; without that, returns may be moderate. Median analyst target $50–67 implies +20–60% upside.
 
-**For a current holder**: **Hold** — do not exit at the trough. Buyback compounding + structural share gain + new CEO continuity provide downside support. Add only if price drops below $35.
+**For a current holder**: 🟡 **Hold** — do not exit at the trough. Buyback compounding + structural share gain + new CEO continuity provide downside support. Add only if price drops below $35.
 
-**Attractive entry zone**: **$30 – $42** (rationale: ~10–13× FY26E EBITDA; below historical floor; absorbs rate-stuck bear case)
+🎯 **Attractive entry zone**: **$30 – $42** (rationale: ~10–13× FY26E EBITDA; below historical floor; absorbs rate-stuck bear case)
 
-**Trim zone**: **$60 – $72** (rationale: ~17–20× FY26E EBITDA; reaches historical mid-range; further upside requires rate-cycle help)
+🎯 **Trim zone**: **$60 – $72** (rationale: ~17–20× FY26E EBITDA; reaches historical mid-range; further upside requires rate-cycle help)
 
-**Exit / avoid zone**: **>$80** (rationale: prior peak band; would require both rate-cycle help and railing-strategy delivery)
+🔴 **Exit / avoid zone**: **>$80** (rationale: prior peak band; would require both rate-cycle help and railing-strategy delivery)
 
-**Thesis-break triggers** (would force re-rating toward Exit / Avoid):
-- FY26 revenue cut below $1.10B (below low end of guide)
-- Q1/Q2 2026 GM below 32% (signaling structural margin reset)
-- Composite share growth stalls (LIRA + comp data)
-- AZEK takes >2pts share in any quarter
-- Rates rise to 7.5%+ for sustained period
-- Railing revenue stalls (signaling category strategy failure)
-- Buyback program suspended (signaling cash-flow pressure)
-- Major warranty / product-quality issue
+**Thesis-break triggers** ⚠️ (would force re-rating toward Exit / Avoid):
+- ⚠️ FY26 revenue cut below $1.10B (below low end of guide)
+- ⚠️ Q1/Q2 2026 GM below 32% (signaling structural margin reset)
+- ⚠️ Composite share growth stalls (LIRA + comp data)
+- ⚠️ AZEK takes >2pts share in any quarter
+- ⚠️ Rates rise to 7.5%+ for sustained period
+- ⚠️ Railing revenue stalls (signaling category strategy failure)
+- ⚠️ Buyback program suspended (signaling cash-flow pressure)
+- ⚠️ Major warranty / product-quality issue
 
-**Next review trigger**: **Q1 2026 earnings — early May 2026**. Key items: (1) revenue and FY26 reaffirmation, (2) gross margin trajectory (does FIFO/warranty noise abate?), (3) railing growth rate, (4) buyback execution pace, (5) new CEO Zambanini commentary on strategic priorities.
+📅 **Next review trigger**: **Q1 2026 earnings — early May 2026**. Key items: (1) revenue and FY26 reaffirmation, (2) gross margin trajectory (does FIFO/warranty noise abate?), (3) railing growth rate, (4) buyback execution pace, (5) new CEO Zambanini commentary on strategic priorities.
 
 ---
 
-*Sources: Trex Q4 2025 / FY2025 press release (2026-02-24, BusinessWire); Q4 2025 earnings call transcript (Insider Monkey, Seeking Alpha, 2026-02-24); Yahoo Finance live price (2026-04-24); MarketBeat, public.com, stockanalysis.com, MarketScreener (analyst consensus, April 2026); Fintel (short interest 1.92%); 8-K/A filings (2026-02-24); Trex IR site.*
+### Sources
+
+- [Trex Investor Relations](https://investor.trex.com/news-and-events/news-releases) (Q4 2025 / FY2025 press release, 2026-02-24, BusinessWire; CEO transition; buyback authorizations)
+- [Trex Investor Events](https://investor.trex.com/news-and-events/events) (Q4 2025 earnings call)
+- [SEC EDGAR — Trex filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001069878&type=10-K) (10-K, 10-Q, 8-K/A filings 2026-02-24)
+- [Yahoo Finance — TREX quote](https://finance.yahoo.com/quote/TREX) (live price 2026-04-24)
+- [stockanalysis.com — TREX](https://stockanalysis.com/stocks/trex/forecast/) (analyst consensus)
+- [MarketBeat — TREX](https://www.marketbeat.com/stocks/NYSE/TREX/) (analyst consensus, earnings calendar, short interest)
+- [Fintel — TREX short interest](https://fintel.io/ss/us/trex) (short interest 1.92%)
+- [Insider Monkey — TREX Q4 2025 transcript](https://www.insidermonkey.com/blog/?s=trex)

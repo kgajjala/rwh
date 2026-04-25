@@ -1,9 +1,24 @@
 # LLY — Eli Lilly and Company
 
-> **Schema**: v2.1
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $883.96 at April 24, 2026 (Yahoo Finance)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$883.96** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/LLY))
 > **Ticker Type**: Large-cap pharma — GLP-1 / incretin franchise dominant
+
+---
+
+## Summary
+
+- 🟢 **Thesis**: Lilly is in the middle of the largest pharmaceutical franchise build-out in history (tirzepatide $40B + orforglipron filed + retatrutide Phase 3) with a $50B+ manufacturing moat (**Wide moat**), trading at ~0.5× PEG against +50% EPS growth — premium multiple is justified, not stretched.
+- 🟢 **For a non-holder: Initiate** with a measured starter at $883.96; **Add** aggressively in the $750–$850 zone if reached.
+- 🟡 **For a current holder: Hold** at $884 — do not trim into a –22% drawdown that doesn't break thesis. Add on pullback to $750–$850.
+- 🎯 **Attractive entry zone**: **$750 – $850** (~22–24× FY2026E EPS; margin of safety on oral GLP-1 competition narrative).
+- 🎯 **Trim zone**: **$1,150 – $1,250** (33–36× FY2026E EPS; near prior all-time highs).
+- 📉 **Price action**: $883.96, **–22% from 52-wk high** ($1,133.95), +41.7% above 52-wk low ($623.78).
+- 📅 **Next catalyst**: **Q1 2026 earnings — April 30, 2026 (CONFIRMED)**. Revenue tracking vs. $80–83B FY guide + orforglipron FDA review status.
+- ⚠️ **Top risk**: Oral GLP-1 competition (high impact, medium-high prob) — Viking VK2735, Structure, Roche in Phase 2-3; would pressure pricing.
+- ⚠️ **Second risk**: IRA drug-pricing negotiation (high impact, medium prob) — tirzepatide eligible ~2028–2030.
+- 🟢 **BAIT verdict**: **Triple overlap** (A-Strong + I-Strong + B-Moderate, T-Weak) — Conviction **High** on analytical + informational. Orforglipron approval is a near-binary upside catalyst that's not fully priced; PW EV ~$1,037 (18-mo) implies +17.4% / ~+11.4%/yr.
 
 ---
 
@@ -300,16 +315,16 @@ The bull: tirzepatide has decade+ patent life; oral GLP-1 (orforglipron) extends
 
 ### Recent Corporate News (last 90 days)
 
-- **[2026-02] [Earnings]** — Q4 2025 / FY2025 results: revenue $65.2B FY (+45%), EBITDA margin 43.4%, EPS $22.95; FY2026 guide $80–83B revenue, $33.50–$35.00 non-GAAP EPS [Source: prnewswire, IR]
-- **[2026 Q1] [Pipeline]** — Orforglipron NDA/MAA submitted to FDA, EMA, PMDA with priority review voucher [Source: LLY IR]
-- **[2025–2026] [Pipeline]** — Retatrutide Phase 3 data: 26.6% body weight reduction in obesity + OA patients [Source: LLY IR, biopharmadive]
-- **[Ongoing] [Capital]** — $50B+ U.S. manufacturing commitment; $6.5B Texas API plant for orforglipron under construction [Source: LLY IR]
+- **[2026-02] [Earnings]** — Q4 2025 / FY2025 results: revenue $65.2B FY (+45%), EBITDA margin 43.4%, EPS $22.95; FY2026 guide $80–83B revenue, $33.50–$35.00 non-GAAP EPS ([LLY IR](https://investor.lilly.com/news-releases) / [PRNewswire](https://www.prnewswire.com/news/eli-lilly-and-company/))
+- **[2026 Q1] [Pipeline]** — Orforglipron NDA/MAA submitted to FDA, EMA, PMDA with priority review voucher ([LLY IR](https://investor.lilly.com/news-releases))
+- **[2025–2026] [Pipeline]** — Retatrutide Phase 3 data: 26.6% body weight reduction in obesity + OA patients ([LLY IR](https://investor.lilly.com/news-releases) / [BioPharma Dive](https://www.biopharmadive.com/search/?q=retatrutide))
+- **[Ongoing] [Capital]** — 💰 $50B+ U.S. manufacturing commitment; $6.5B Texas API plant for orforglipron under construction ([LLY IR](https://investor.lilly.com/news-releases))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|----------------|
-| **Late Apr / Early May 2026** | **Q1 2026 earnings** | First quarter guide track on $80–83B FY2026 / $33.50–$35.00 EPS |
+| 📅 **2026-04-30** | **Q1 2026 earnings** ([LLY IR](https://investor.lilly.com/news-releases)) | First quarter guide track on $80–83B FY2026 / $33.50–$35.00 EPS |
 | 2026 (rolling) | Orforglipron FDA approval decision | Single biggest binary catalyst — $10–15B annual revenue at stake |
 | 2026 (rolling) | Retatrutide additional Phase 3 readouts | The "pipeline behind the pipeline" |
 | 2026–2027 | Tirzepatide additional indication approvals | OSA expansion, OA, CV outcomes |
@@ -392,28 +407,39 @@ The –22% pullback from the $1,134 peak reflects "LLY is priced for perfection;
 
 **Thesis in one sentence**: Lilly is in the middle of the largest pharmaceutical franchise build-out in history (tirzepatide $40B + orforglipron filed + retatrutide Phase 3) with a $50B+ manufacturing moat, trading at 0.5× PEG against a +50% EPS growth profile — premium multiple is justified by the growth profile, not stretched.
 
-**For a non-holder**: **Initiate** at $883.96 with a measured starter; **Add** aggressively in the $750–$850 zone if reached. The triple-overlap BAIT signal (A-Strong + I-Strong + B-Moderate) and ~+17% 18-month PW EV justify entry. The orforglipron approval is a near-binary upside catalyst that's not fully priced.
+**For a non-holder**: 🟢 **Initiate** at $883.96 with a measured starter; **Add** aggressively in the $750–$850 zone if reached. The triple-overlap BAIT signal (A-Strong + I-Strong + B-Moderate) and ~+17% 18-month PW EV justify entry. The orforglipron approval is a near-binary upside catalyst that's not fully priced.
 
-**For a current holder**: **Hold** at $884 — do not trim into a –22% drawdown that doesn't break thesis. **Add** on any pullback into $750–$850 (Tranche 2 zone). Q1 2026 earnings (April 30, 2026 — confirmed) is the next confirmation point on $80–83B revenue and orforglipron timing.
+**For a current holder**: 🟡 **Hold** at $884 — do not trim into a –22% drawdown that doesn't break thesis. **Add** on any pullback into $750–$850 (Tranche 2 zone). Q1 2026 earnings (April 30, 2026 — confirmed) is the next confirmation point on $80–83B revenue and orforglipron timing.
 
-**Attractive entry zone**: **$750 – $850** (rationale: ~22–24× FY2026E EPS; below current 26×; provides margin of safety on oral GLP-1 competition narrative)
+🎯 **Attractive entry zone**: **$750 – $850** (rationale: ~22–24× FY2026E EPS; below current 26×; provides margin of safety on oral GLP-1 competition narrative)
 
-**Trim zone**: **$1,150 – $1,250** (rationale: 33–36× FY2026E EPS; near prior all-time highs; bull case largely priced if reached pre-orforglipron approval)
+🎯 **Trim zone**: **$1,150 – $1,250** (rationale: 33–36× FY2026E EPS; near prior all-time highs; bull case largely priced if reached pre-orforglipron approval)
 
-**Exit / avoid zone**: **>$1,350** (rationale: pricing in flawless orforglipron launch + retatrutide approval + zero IRA impact + zero competition — overly aggressive on an 18-month horizon)
+🔴 **Exit / avoid zone**: **>$1,350** (rationale: pricing in flawless orforglipron launch + retatrutide approval + zero IRA impact + zero competition — overly aggressive on an 18-month horizon)
 
-**Thesis-break triggers** (would force re-rating toward Exit):
-- Orforglipron CRL or FDA delay >12 months past expected approval
-- Viking VK2735 Phase 3 oral data demonstrably superior to orforglipron
-- Novo oral semaglutide capturing >25% of new oral GLP-1 prescriptions in launch year
-- IRA Medicare negotiation announced for Mounjaro materially earlier than 2028
-- Manufacturing delay or write-down on the $50B U.S. capex program
-- FY2026 guidance withdrawn or revenue tracking <$78B by Q3 2026
-- Retatrutide Phase 3 efficacy disappointment (weight loss <20%)
-- David Ricks CEO departure
+**Thesis-break triggers** ⚠️ (would force re-rating toward Exit):
+- ⚠️ Orforglipron CRL or FDA delay >12 months past expected approval
+- ⚠️ Viking VK2735 Phase 3 oral data demonstrably superior to orforglipron
+- ⚠️ Novo oral semaglutide capturing >25% of new oral GLP-1 prescriptions in launch year
+- ⚠️ IRA Medicare negotiation announced for Mounjaro materially earlier than 2028
+- ⚠️ Manufacturing delay or write-down on the $50B U.S. capex program
+- ⚠️ FY2026 guidance withdrawn or revenue tracking <$78B by Q3 2026
+- ⚠️ Retatrutide Phase 3 efficacy disappointment (weight loss <20%)
+- ⚠️ David Ricks CEO departure
 
-**Next review trigger**: **Q1 2026 earnings (April 30, 2026)**. Items to check: (1) revenue tracking vs. $80–83B FY guide, (2) tirzepatide volume vs. price split, (3) Zepbound formulary expansion progress, (4) orforglipron FDA review status, (5) manufacturing capex pace and capacity utilization, (6) any Kisunla ramp data.
+📅 **Next review trigger**: **Q1 2026 earnings (April 30, 2026)**. Items to check: (1) revenue tracking vs. $80–83B FY guide, (2) tirzepatide volume vs. price split, (3) Zepbound formulary expansion progress, (4) orforglipron FDA review status, (5) manufacturing capex pace and capacity utilization, (6) any Kisunla ramp data.
 
 ---
 
-*Sources: Eli Lilly Q4 2025 / FY2025 earnings release (prnewswire, Feb 2026); LLY IR (orforglipron NDA/MAA submission; retatrutide Phase 3 data); biopharmadive.com, biospace.com, drugdiscoverytrends.com (pipeline coverage); investor.lilly.com; stockanalysis.com (income statement, financial history); Yahoo Finance (live price 2026-04-24 verified via JSON API); analyst consensus aggregators; prior wiki ingest (raw/analyses/).*
+### Sources
+
+- [Eli Lilly Investor Relations — News Releases](https://investor.lilly.com/news-releases) (Q4 2025 / FY2025 earnings, Feb 2026; orforglipron NDA/MAA; retatrutide Phase 3 data; manufacturing announcements)
+- [SEC EDGAR — Eli Lilly filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000059478&type=10-K) (10-K, 10-Q)
+- [PRNewswire — Eli Lilly](https://www.prnewswire.com/news/eli-lilly-and-company/) (Q4 2025 release)
+- [BioPharma Dive — search](https://www.biopharmadive.com/search/?q=eli+lilly) (pipeline coverage)
+- [BioSpace — Eli Lilly](https://www.biospace.com/employer/eli-lilly-and-company/)
+- [Drug Discovery Trends](https://www.drugdiscoverytrends.com/?s=eli+lilly)
+- [stockanalysis.com — LLY](https://stockanalysis.com/stocks/lly/financials/) (income statement, financial history)
+- [Yahoo Finance — LLY quote](https://finance.yahoo.com/quote/LLY) (live price 2026-04-24)
+- Analyst consensus aggregators ([MarketBeat — LLY](https://www.marketbeat.com/stocks/NYSE/LLY/forecast/))
+- Prior wiki ingest (raw/analyses/)

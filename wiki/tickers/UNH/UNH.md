@@ -1,9 +1,26 @@
 # UNH — UnitedHealth Group Incorporated
 
-> **Schema**: v2.1
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $354.92 at April 24, 2026 (Yahoo Finance JSON API)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$354.92** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/UNH))
 > **Ticker Type**: Managed care (vertically integrated insurer + PBM + care delivery + analytics)
+
+---
+
+## Summary
+
+- 🟢 **Thesis**: Wide-moat #1 managed care company with **recovery thesis confirmed** — Q1 2026 MCR 83.9% (vs. 84.8% PY-Q1) + Adj EPS beat +9.7% + raised FY26 Adj EPS guide to >$18.25 validate Hemsley-led normalization on accelerated timing.
+- 🟢 **For a non-holder: Initiate / Watch on pullback** — at $355 (~19× FY26 Adj EPS) the prior $300–$340 entry zone unlikely without unrelated macro shock; PW EV $420 implies +18% over 24mo.
+- 🟢 **For a current holder: Hold / Add on dips** — Q1 print confirms thesis; trim only above $470.
+- 🎯 **Attractive entry zone**: **$300 – $340** (~16–18× FY26E Adj EPS of $18.25; needs unrelated pullback).
+- 🎯 **Trim zone**: **$470 – $520** (19–21× FY27E normalized $25–28 EPS).
+- 📉 **Price action**: $354.92, **–16.3% from 52-wk high** ($424.12, recently re-tested), +51.3% above 52-wk low ($234.60) — substantial 24-mo recovery.
+- 📅 **Next catalyst**: **Q2 2026 earnings — late July 2026**. Sequential MCR trajectory; confirmation Q1 wasn't seasonal one-off.
+- ⚠️ **Top risk**: Q2 MCR sequential reversion >87% (Low-Medium prob, High impact) — would signal Q1 was seasonal one-off.
+- ⚠️ **Second risk**: DOJ antitrust action forces Optum divestiture (Low prob, Very High impact) — tail risk.
+- 🟢 **BAIT verdict**: **Quadruple overlap (B+A+I-Strong; T-Moderate)** — Conviction **High** but compressed asymmetry. PW EV ~$420 (24-mo) implies +18% / ~9%/yr; ~2:1 risk/reward.
+
+---
 
 > 🔥 **Q1 2026 EARNINGS UPDATE (reported 2026-04-21)** — **Big beat, guidance raised, thesis STRENGTHENED**:
 > - Revenue **$111.7B** (+2% YoY)
@@ -59,7 +76,7 @@ The vertical integration thesis — insurer + PBM + care delivery + analytics �
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$354.92** | April 24, 2026 (Yahoo Finance JSON API) |
+| Live Price | **$354.92** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/UNH)) |
 | 52-Week High | $424.12 | Recently re-tested — significant volatility |
 | 52-Week Low | $234.60 | Recovery from this low has been substantial |
 | % From 52-Wk High | **–16.3%** | Stock has materially recovered from prior $277 entry; near recent retest peak |
@@ -220,11 +237,11 @@ UNH is U.S.-centric. Material geographic breakdowns are by *product segment* (co
 
 | Risk | Impact | Probability | Notes |
 |------|--------|-------------|-------|
-| ~~MLR stays > 88% in 2026 (no normalization)~~ — **DE-RISKED 2026-04-21** | ~~High~~ | ~~Medium~~ | Q1 2026 MCR printed **83.9%** (vs. 84.8% Q1 2025), well below the 88% concern threshold. Risk reframed below. |
-| MLR sequential reversion: Q2 2026 MCR > 87% (Q1 was seasonal one-off) | High | Low-Medium | Q1 2026 print at 83.9% confirmed recovery trajectory — but full-year MLR depends on Q2/Q3 holding the gain. Watch late-July Q2 print. |
-| DOJ antitrust action forces Optum divestiture | Very High | Low | Investigation ongoing; timeline unclear |
-| Medicaid enrollment / contract losses | High | Medium | States rebidding contracts |
-| Optum Health structural losses persist | High | Medium | 2026 "reset" may not complete in one year |
+| ~~MLR stays > 88% in 2026 (no normalization)~~ — ✅ **DE-RISKED 2026-04-21** | ~~High~~ | ~~Medium~~ | Q1 2026 MCR printed **83.9%** (vs. 84.8% Q1 2025), well below the 88% concern threshold. Risk reframed below. |
+| ⚠️ MLR sequential reversion: Q2 2026 MCR > 87% (Q1 was seasonal one-off) | High | Low-Medium | Q1 2026 print at 83.9% confirmed recovery trajectory — but full-year MLR depends on Q2/Q3 holding the gain. Watch late-July Q2 print. |
+| ⚠️ DOJ antitrust action forces Optum divestiture | Very High | Low | Investigation ongoing; timeline unclear |
+| ⚠️ Medicaid enrollment / contract losses | High | Medium | States rebidding contracts |
+| ⚠️ Optum Health structural losses persist | High | Medium | 2026 "reset" may not complete in one year |
 | MA membership exits accelerate beyond 1.3M | Medium | Low-Medium | Proactively chosen; controllable |
 | Political / regulatory pricing + coverage action | Medium | Medium | Post-Thompson political heat unprecedented |
 | CEO transition execution risk | Medium | Low | Hemsley credible; execution will be tested |
@@ -293,7 +310,7 @@ This is a **recovery thesis already partially playing out**. Key context vs. the
 
 ### Analyst Consensus (as of mid-April 2026)
 
-- **Aggregate rating**: Buy [Analyst consensus, panel composition pending refresh]
+- **Aggregate rating**: 🟢 Buy ([stockanalysis.com](https://stockanalysis.com/stocks/unh/forecast/) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/UNH/forecast/), panel composition pending refresh)
 - **Median price target**: ~$400–$425 [Analyst consensus]
 - **Implied upside from $354.92**: ~+13–20% to median; consistent with "recovery in progress, base case priced in"
 
@@ -303,7 +320,7 @@ This is a **recovery thesis already partially playing out**. Key context vs. the
 
 ### Short Interest
 
-- Short interest declined materially from 2025 peak as the recovery played out [pending fresh aggregator pull]
+- Short interest declined materially from 2025 peak as the recovery played out ([Fintel](https://fintel.io/ss/us/unh) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/UNH/short-interest/), pending fresh aggregator pull)
 - Setup is no longer "longs capitulating" — it is "post-capitulation recovery in progress"
 
 ### Insider Activity (Last 90 Days)
@@ -312,19 +329,19 @@ This is a **recovery thesis already partially playing out**. Key context vs. the
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-21] [Earnings — Q1 2026 BEAT]** — Revenue $111.7B (+2% YoY); Adj EPS $7.23 (vs. $6.59 cons., +9.7% beat); GAAP EPS $6.90; Operating earnings $9.0B; OCF $8.9B (1.4× NI); **MCR 83.9% vs. 84.8% prior-year Q1**; **FY2026 guidance raised: Adj EPS >$18.25 (was >$17.75), GAAP EPS >$17.35**; $2B+ buybacks through end-Q2 2026 [Source: UnitedHealth Group press release 2026-04-21; CNBC]
-- **[2026-01 (approx.)] [Earnings]** — FY2025 full-year results: Revenue $447.6B (+11.8%), MLR 89.1%, EPS $13.23, FCF $16.1B; explicit guidance to exit 1.3–1.4M MA members in 2026 [Source: businesswire.com, IR]
-- **[2025-05-13] [Management]** — Andrew Witty resigned as CEO; Stephen Hemsley returned [Source: IR press release]
-- **[2025] [Operational]** — Optum Health adj. earnings collapsed from $7.9B (FY2024) to $2.3B (FY2025); restructuring underway [Source: IR]
-- **[Ongoing] [Regulatory]** — DOJ antitrust investigation into vertical integration; no formal complaint filed [Source: SEC filings, public reports]
+- **[2026-04-21] [Earnings — Q1 2026 BEAT]** — Revenue $111.7B (+2% YoY); Adj EPS $7.23 (vs. $6.59 cons., +9.7% beat); GAAP EPS $6.90; Operating earnings $9.0B; OCF $8.9B (1.4× NI); **MCR 83.9% vs. 84.8% prior-year Q1**; **FY2026 guidance raised: Adj EPS >$18.25 (was >$17.75), GAAP EPS >$17.35**; 💰 $2B+ buybacks through end-Q2 2026 ([UnitedHealth Group IR](https://www.unitedhealthgroup.com/newsroom.html), 2026-04-21; [CNBC](https://www.cnbc.com/search/?query=unitedhealth))
+- **[2026-01 (approx.)] [Earnings]** — FY2025 full-year results: Revenue $447.6B (+11.8%), MLR 89.1%, EPS $13.23, FCF $16.1B; explicit guidance to exit 1.3–1.4M MA members in 2026 ([UnitedHealth Group IR](https://www.unitedhealthgroup.com/newsroom.html))
+- **[2025-05-13] [Management]** — Andrew Witty resigned as CEO; Stephen Hemsley returned ([UnitedHealth Group IR](https://www.unitedhealthgroup.com/newsroom.html))
+- **[2025] [Operational]** — Optum Health adj. earnings collapsed from $7.9B (FY2024) to $2.3B (FY2025); restructuring underway ([UnitedHealth Group IR](https://www.unitedhealthgroup.com/newsroom.html))
+- **[Ongoing] [Regulatory]** — ⚠️ DOJ antitrust investigation into vertical integration; no formal complaint filed ([SEC EDGAR — UNH filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000731766&type=10-K))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|----------------|
-| ~~Late April 2026~~ **DELIVERED 2026-04-21** | ~~Q1 2026 earnings~~ ✅ **Q1 BEAT, GUIDANCE RAISED** | MCR 83.9% (–90bps YoY); first quarterly confirmation that MLR is recovering on the path the bull thesis required |
-| **Late July 2026** | **Q2 2026 earnings** | Sequential MLR trajectory — confirmation that Q1 wasn't one-off seasonality |
-| Mid-2026 | DOJ status / formal action (or absence) | Tail-risk resolution; absence is bullish |
+| ✅ ~~Late April 2026~~ **DELIVERED 2026-04-21** | ~~Q1 2026 earnings~~ **Q1 BEAT, GUIDANCE RAISED** | MCR 83.9% (–90bps YoY); first quarterly confirmation that MLR is recovering on the path the bull thesis required |
+| 📅 **Late July 2026** | **Q2 2026 earnings** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NYSE/UNH/earnings/)) | Sequential MLR trajectory — confirmation that Q1 wasn't one-off seasonality |
+| ⚠️ Mid-2026 | DOJ status / formal action (or absence) | Tail-risk resolution; absence is bullish |
 | Throughout 2026 | Optum Health quarterly adj. earnings | Recovery trajectory toward normalized $4–6B |
 | Q3 2026 | Two consecutive Q with MCR < 87% | Significant re-rating catalyst |
 | FY2026 (ongoing) | Medicaid contract rebids | State-level rate adequacy outcomes |
@@ -419,27 +436,39 @@ Primary-source disclosures underappreciated:
 
 **Updated post-Q1 (2026-04-24) read**: The Q1 print decisively closes the binary "is MLR recoverable" question. With Adj EPS guide raised to >$18.25, the stock at $355 trades at ~19× FY2026 EPS — *no longer cheap on trough earnings, but still reasonable on a recovery glide-path to normalized ~$22–25 EPS by FY2027*.
 
-**For a non-holder**: **Initiate / Watch on pullback** — at $355 with FY26 adj EPS now $18.25+ committed, the $300–$340 historical attractive entry zone is unlikely to re-print absent macro shock or DOJ escalation. Initiation here is defensible (PW EV $420 implies +18% over 24mo); patient holders may wait for any sub-$340 dip on DOJ news or sector rotation but should not require it.
+**For a non-holder**: 🟢 **Initiate / Watch on pullback** — at $355 with FY26 adj EPS now $18.25+ committed, the $300–$340 historical attractive entry zone is unlikely to re-print absent macro shock or DOJ escalation. Initiation here is defensible (PW EV $420 implies +18% over 24mo); patient holders may wait for any sub-$340 dip on DOJ news or sector rotation but should not require it.
 
-**For a current holder**: **Hold / Add on dips** — Q1 print confirms the thesis. Trim only above $470 unless bull case extends. Add aggressively only into a sub-$320 dip if such occurs (would imply an unrelated macro factor since Q1 fundamentals are now de-risked).
+**For a current holder**: 🟢 **Hold / Add on dips** — Q1 print confirms the thesis. Trim only above $470 unless bull case extends. Add aggressively only into a sub-$320 dip if such occurs (would imply an unrelated macro factor since Q1 fundamentals are now de-risked).
 
-**Attractive entry zone**: **$300 – $340** (post-Q1 narrowed: ~16–18× FY26E adj EPS of $18.25; would require unrelated pullback to print)
+🎯 **Attractive entry zone**: **$300 – $340** (post-Q1 narrowed: ~16–18× FY26E adj EPS of $18.25; would require unrelated pullback to print)
 
-**Trim zone**: **$470 – $520** (rationale: 19–21× FY2027E normalized $25–28 EPS; bull case largely priced in)
+🎯 **Trim zone**: **$470 – $520** (rationale: 19–21× FY2027E normalized $25–28 EPS; bull case largely priced in)
 
-**Exit / avoid zone**: **>$580** (rationale: returning to peak-2024 valuation multiples without resolution of the DOJ tail risk)
+🔴 **Exit / avoid zone**: **>$580** (rationale: returning to peak-2024 valuation multiples without resolution of the DOJ tail risk)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Exit):
-- ~~Q1 2026 reported MLR > 89.5%~~ — **DE-RISKED**: actual Q1 MCR 83.9%, far below trigger
-- DOJ files formal antitrust complaint seeking Optum divestiture (still live tail risk)
-- Hemsley resignation or Board instability
-- Q2 2026 MCR re-expansion to >87% (signals Q1 was seasonal/one-off rather than structural recovery)
-- Optum Health FY2026 adj. earnings < $2B (worse than 2025; signals structural rather than cyclical)
-- MA membership exits accelerate beyond 2M (signals UNH is losing competitive position)
-- Sequential MCR worsening for two consecutive quarters in 2026
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
+- ~~Q1 2026 reported MLR > 89.5%~~ — ✅ **DE-RISKED**: actual Q1 MCR 83.9%, far below trigger
+- ⚠️ DOJ files formal antitrust complaint seeking Optum divestiture (still live tail risk)
+- ⚠️ Hemsley resignation or Board instability
+- ⚠️ Q2 2026 MCR re-expansion to >87% (signals Q1 was seasonal/one-off rather than structural recovery)
+- ⚠️ Optum Health FY2026 adj. earnings < $2B (worse than 2025; signals structural rather than cyclical)
+- ⚠️ MA membership exits accelerate beyond 2M (signals UNH is losing competitive position)
+- ⚠️ Sequential MCR worsening for two consecutive quarters in 2026
 
-**Next review trigger**: **Q2 2026 earnings — late July 2026**. Specific items to check: (1) Q2 MCR vs. Q1 83.9% — does the recovery extend or revert? (2) MA membership trajectory through full open-enrollment Q1 cycle, (3) Optum Health Q2 adj. earnings vs. FY2026 path to $4–6B normalized, (4) FY2026 guidance refresh — any further raise above $18.25, (5) DOJ status update.
+📅 **Next review trigger**: **Q2 2026 earnings — late July 2026**. Specific items to check: (1) Q2 MCR vs. Q1 83.9% — does the recovery extend or revert? (2) MA membership trajectory through full open-enrollment Q1 cycle, (3) Optum Health Q2 adj. earnings vs. FY2026 path to $4–6B normalized, (4) FY2026 guidance refresh — any further raise above $18.25, (5) DOJ status update.
 
 ---
 
-*Sources: stockanalysis.com (income statement); businesswire.com FY2025 results (Jan 2026); medicaremarketinsights.com; fiercehealthcare.com; alphaspread.com; unitedhealthgroup.com IR; SEC filings; Yahoo Finance JSON API (live price 2026-04-24). Prior wiki snapshot: 2026-04-05 ingest (Tranche 1 entry at $277.26, 54% off then-52-wk high of $606.36). Note: 52-week range has re-set since prior ingest — old $606 high is now outside the trailing 12-month window, replaced by $424.12 recent retest high.*
+### Sources
+
+- [UnitedHealth Group Newsroom](https://www.unitedhealthgroup.com/newsroom.html) (Q1 2026 press release 2026-04-21; FY2025 results Jan 2026; CEO transition)
+- [SEC EDGAR — UNH filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000731766&type=10-K) (10-K, 10-Q; DOJ disclosures)
+- [CNBC — UnitedHealth coverage](https://www.cnbc.com/search/?query=unitedhealth)
+- [BusinessWire — UNH releases](https://www.businesswire.com/portal/site/home/news/?searchTerm=unitedhealth)
+- [Yahoo Finance — UNH quote](https://finance.yahoo.com/quote/UNH) (live price 2026-04-24)
+- [stockanalysis.com — UNH](https://stockanalysis.com/stocks/unh/forecast/) (income statement, analyst consensus)
+- [MarketBeat — UNH](https://www.marketbeat.com/stocks/NYSE/UNH/) (analyst consensus, earnings calendar, short interest)
+- [Fintel — UNH short interest](https://fintel.io/ss/us/unh)
+- [FierceHealthcare](https://www.fiercehealthcare.com/?s=unitedhealth) (industry context)
+- [AlphaSpread — UNH](https://www.alphaspread.com/security/nyse/unh/summary) (valuation context)
+- Prior wiki snapshot: 2026-04-05 ingest (Tranche 1 entry at $277.26, 54% off then-52-wk high of $606.36). Note: 52-week range has re-set since prior ingest — old $606 high is now outside the trailing 12-month window, replaced by $424.12 recent retest high.

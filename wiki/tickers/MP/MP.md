@@ -1,15 +1,30 @@
 # MP — MP Materials Corp.
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $60.73 at April 24, 2026 (Yahoo Finance; previous close $26.01 — note: massive price step reflects DoD strategic-investment + Apple/GM offtake catalysts that re-rated the equity in 2025)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$60.73** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/MP); previous close $26.01 — note: massive price step reflects DoD strategic-investment + Apple/GM offtake catalysts that re-rated the equity in 2025)
 > **Ticker Type**: Strategic minerals / vertically integrating rare-earth + magnetics
+
+---
+
+## Summary
+
+- 🟢 **Thesis**: U.S.'s indispensable rare-earth + magnetics platform (**Wide moat** — geographic + regulatory + capital) with a 10-year DoD-anchored offtake, $110/kg NdPr floor, Apple/GM commercial customers, and a vertical mine-to-magnet ramp through 2027.
+- 🟢 **For a non-holder: Initiate** at $60.73 — but appreciate this is a strategic-asset thesis, not a 2026 P/E thesis.
+- 🟢 **For a current holder: Hold / Add** — incremental adds in $50–62 zone well-rewarded; trim above $90 only as discipline.
+- 🎯 **Attractive entry zone**: **$48 – $62** (meaningful margin of safety on PW EV $85).
+- 🎯 **Trim zone**: **$95 – $110** (~$110 reaches Wedbush bull case).
+- 📉 **Price action**: $60.73, **–39.4% from 52-wk high** ($100.25), **+226% above 52-wk low** ($18.64) — reflects DoD-deal re-rating.
+- 📅 **Next catalyst**: **Q1 2026 earnings — early May 2026 (est.)**. First full quarter under DoD-anchored economics; Magnetics commercial print.
+- ⚠️ **Top risk**: Magnetics ramp execution slip (high impact, 30% prob) — Independence is complex, first-of-kind in U.S.
+- ⚠️ **Second risk**: Dilution from DoD warrants + future raises (medium impact, 60% prob) — already 15% on as-converted basis.
+- 🟢 **BAIT verdict**: **Triple overlap (A + I Strong + B/T Moderate)** — Conviction **Moderate-High**. Cleanest "strategic-asset optionality" setup in the wiki; PW EV ~$85 (3-yr) implies +40% / ~+12%/yr; 14.47% short interest provides squeeze potential.
 
 ---
 
 ## Business Overview
 
-MP Materials (NYSE: MP) owns and operates **Mountain Pass** in San Bernardino County, CA — the only fully-integrated rare-earth mining and processing site in North America and one of the world's richest rare-earth orebodies. The company produces **NdPr (neodymium-praseodymium) oxide** — the critical input for permanent magnets used in EV motors, wind turbines, defense systems (F-35, missiles, drones), and consumer electronics. FY2025 revenue was **$224.4M (+10% YoY)** with record NdPr oxide production of **2,599 metric tons** (more than doubled YoY). Q4 2025 marked an inflection to **positive adjusted EBITDA**. [Source: MP Materials Q4 2025 press release; SEC filings]
+MP Materials (NYSE: MP) owns and operates **Mountain Pass** in San Bernardino County, CA — the only fully-integrated rare-earth mining and processing site in North America and one of the world's richest rare-earth orebodies. The company produces **NdPr (neodymium-praseodymium) oxide** — the critical input for permanent magnets used in EV motors, wind turbines, defense systems (F-35, missiles, drones), and consumer electronics. FY2025 revenue was **$224.4M (+10% YoY)** with record NdPr oxide production of **2,599 metric tons** (more than doubled YoY). Q4 2025 marked an inflection to **positive adjusted EBITDA**. ([MP Materials Q4 2025 press release](https://investors.mpmaterials.com/news-releases); [SEC EDGAR — MP filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001801368&type=10-K))
 
 In July 2025, MP announced a **transformational public-private partnership with the U.S. Department of Defense (DoD)**: a $400M convertible preferred equity investment, warrants, $150M loan, **10-year offtake** with a **$110/kg NdPr price floor**, and pathway for DoD to become MP's largest shareholder (15% on as-converted basis). Anchor commercial customers include **Apple** and **General Motors**, with magnet production for GM ramping through 2026 from MP's new Independence facility (Texas). The Magnetics segment — sintered NdFeB magnet manufacturing — launched commercially in 2025, completing the mine-to-magnet vertical integration thesis.
 
@@ -89,7 +104,7 @@ The setup is unique in the wiki: this is a **strategic-asset re-rating** more th
 | Adj. EBITDA | $349M | $44M | –$24M | inflection | positive |
 | GAAP NI | $289M | $24M | ~–$60M | (recovering) | — |
 
-[Source: MP Q4 2025 earnings; 10-K]
+Source: [MP Q4 2025 earnings](https://investors.mpmaterials.com/news-releases); [10-K (SEC EDGAR)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001801368&type=10-K).
 
 **Note**: FY2022 was a peak NdPr-pricing year ($150+/kg) followed by the China-driven price collapse. Recent revenue understates the equity story — the value lies in the production scale-up + Magnetics segment + DoD economics + commercial offtakes.
 
@@ -244,7 +259,7 @@ Revenue is split across U.S. customers (GM, Apple, DoD) and historical Chinese r
 - **Aggregate rating**: Buy (12–20 analysts; Strong Buy on some panels)
 - **Median target**: $75–79
 - **Range**: $62 (low) – $94 (high)
-- **Wedbush**: $90 ("Only Real Play on American Rare Earth Independence" [Source: 24/7 Wall St., 2026-04-20])
+- **Wedbush**: $90 ("Only Real Play on American Rare Earth Independence" — [24/7 Wall St., 2026-04-20](https://247wallst.com/?s=mp+materials))
 - **Implied upside (median ~$77)**: +27%
 
 ### Short Interest
@@ -261,18 +276,18 @@ Revenue is split across U.S. customers (GM, Apple, DoD) and historical Chinese r
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-20] [Analyst]** — Wedbush projects $90 PT; "Only Real Play on American Rare Earth Independence" [Source: 24/7 Wall St.]
-- **[2025-Q4 / 2026 reporting] [Earnings]** — Q4 2025 results: revenue $224M FY (+10%); NdPr oxide 2,599 MT (more than 2x); Q4 first positive Adj. EBITDA; PPA income $51M from DoD floor [Source: MP press release]
-- **[2025-11-19] [Strategic]** — Pentagon-backed Saudi JV with Maaden announced; rare-earth refinery development [Source: CNBC]
-- **[2025 earlier] [DoD]** — $150M Pentagon loan announced under One Big Beautiful Bill Act [Source: Mining.com]
-- **[2025-07-09] [Transformational]** — DoD strategic investment: $400M convertible preferred + warrants + 10-year offtake + $110/kg NdPr price floor; DoD becomes largest shareholder (15% on as-converted) [Source: MP IR press release]
-- **[2025] [Commercial]** — Apple commercial agreement; GM magnet offtake ramp [Source: MP IR]
+- **[2026-04-20] [Analyst]** — Wedbush projects $90 PT; "Only Real Play on American Rare Earth Independence" ([24/7 Wall St.](https://247wallst.com/?s=mp+materials))
+- **[2025-Q4 / 2026 reporting] [Earnings]** — Q4 2025 results: revenue $224M FY (+10%); NdPr oxide 2,599 MT (more than 2x); Q4 first positive Adj. EBITDA; PPA income $51M from DoD floor ([MP press release](https://investors.mpmaterials.com/news-releases))
+- **[2025-11-19] [Strategic]** — Pentagon-backed Saudi JV with Maaden announced; rare-earth refinery development ([CNBC search](https://www.cnbc.com/search/?query=mp+materials+saudi))
+- **[2025 earlier] [DoD]** — 💰 $150M Pentagon loan announced under One Big Beautiful Bill Act ([Mining.com — MP](https://www.mining.com/?s=mp+materials))
+- **[2025-07-09] [Transformational]** — 💰 DoD strategic investment: $400M convertible preferred + warrants + 10-year offtake + $110/kg NdPr price floor; DoD becomes largest shareholder (15% on as-converted) ([MP IR press release](https://investors.mpmaterials.com/news-releases))
+- **[2025] [Commercial]** — Apple commercial agreement; GM magnet offtake ramp ([MP IR](https://investors.mpmaterials.com/news-releases))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|----------------|
-| **Early May 2026** (est.) | **Q1 2026 earnings** | First full quarter under DoD-anchored economics; Magnetics commercial print |
+| 📅 **Early May 2026** (est.) | **Q1 2026 earnings** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NYSE/MP/earnings/)) | First full quarter under DoD-anchored economics; Magnetics commercial print |
 | Aug 2026 | Q2 2026 earnings | GM magnet ramp progress |
 | Ongoing | NdPr spot price | Key swing factor above the $110 floor |
 | Ongoing | Saudi JV milestones | Long-dated optionality |
@@ -361,28 +376,42 @@ The –39% pullback from $100 reflects post-deal-frenzy normalization. The setup
 
 **Thesis in one sentence**: MP Materials is the U.S.'s indispensable rare-earth + magnetics platform with a 10-year DoD-anchored offtake, $110 NdPr floor, Apple/GM commercial customers, and a vertical mine-to-magnet ramp through 2027 — at $60.73 the 3-year PW EV is $85 (+40%) and the strategic-asset optionality through 2030–2035 supports asymmetric multi-year compounding.
 
-**For a non-holder**: **Initiate** at $60.73 — but appreciate that this is a strategic-asset thesis, not a 2026 P/E thesis. Median analyst target $75–79 implies +25–30%; Wedbush bull case at $90. Best entry is incremental on dips toward $50.
+**For a non-holder**: 🟢 **Initiate** at $60.73 — but appreciate that this is a strategic-asset thesis, not a 2026 P/E thesis. Median analyst target $75–79 implies +25–30%; Wedbush bull case at $90. Best entry is incremental on dips toward $50.
 
-**For a current holder**: **Hold / Add** — incremental adds in $50–62 zone are well-rewarded. Trim above $90 only as a discipline; the strategic-asset case argues for tolerating fuller-than-usual valuation.
+**For a current holder**: 🟢 **Hold / Add** — incremental adds in $50–62 zone are well-rewarded. Trim above $90 only as a discipline; the strategic-asset case argues for tolerating fuller-than-usual valuation.
 
-**Attractive entry zone**: **$48 – $62** (rationale: meaningful margin of safety on PW EV $85; absorbs Magnetics-ramp slippage scenario; well above $19 deal-floor low)
+🎯 **Attractive entry zone**: **$48 – $62** (rationale: meaningful margin of safety on PW EV $85; absorbs Magnetics-ramp slippage scenario; well above $19 deal-floor low)
 
-**Trim zone**: **$95 – $110** (rationale: ~$110 reaches Wedbush bull case; further upside requires NdPr above-floor pricing + additional strategic catalysts)
+🎯 **Trim zone**: **$95 – $110** (rationale: ~$110 reaches Wedbush bull case; further upside requires NdPr above-floor pricing + additional strategic catalysts)
 
-**Exit / avoid zone**: **>$130** (rationale: prices in full bull case; demands continued multi-year strategic-asset re-rating)
+🔴 **Exit / avoid zone**: **>$130** (rationale: prices in full bull case; demands continued multi-year strategic-asset re-rating)
 
-**Thesis-break triggers** (would force re-rating toward Exit / Avoid):
-- Magnetics ramp slips by >12 months (Independence facility unable to scale)
-- DoD price-floor agreement renegotiated lower or terminated
-- Apple or GM offtake cancelled or renegotiated materially down
-- China's strategic-minerals export controls relaxed (eliminates structural undersupply)
-- Mountain Pass operational disruption (>3-month outage)
-- CEO Litinsky departure
-- Material political reversal of U.S. strategic-minerals policy
-- NdPr spot price below $110 with DoD floor proven inadequate (e.g., counterparty risk on PPA payments)
+**Thesis-break triggers** ⚠️ (would force re-rating toward Exit / Avoid):
+- ⚠️ Magnetics ramp slips by >12 months (Independence facility unable to scale)
+- ⚠️ DoD price-floor agreement renegotiated lower or terminated
+- ⚠️ Apple or GM offtake cancelled or renegotiated materially down
+- ⚠️ China's strategic-minerals export controls relaxed (eliminates structural undersupply)
+- ⚠️ Mountain Pass operational disruption (>3-month outage)
+- ⚠️ CEO Litinsky departure
+- ⚠️ Material political reversal of U.S. strategic-minerals policy
+- ⚠️ NdPr spot price below $110 with DoD floor proven inadequate (e.g., counterparty risk on PPA payments)
 
-**Next review trigger**: **Q1 2026 earnings — early May 2026**. Key items: (1) revenue and Adj. EBITDA, (2) NdPr oxide production, (3) Magnetics segment commercial ramp, (4) GM offtake progress, (5) PPA income (DoD floor), (6) Saudi JV update, (7) any new DoD contract disclosure.
+📅 **Next review trigger**: **Q1 2026 earnings — early May 2026**. Key items: (1) revenue and Adj. EBITDA, (2) NdPr oxide production, (3) Magnetics segment commercial ramp, (4) GM offtake progress, (5) PPA income (DoD floor), (6) Saudi JV update, (7) any new DoD contract disclosure.
 
 ---
 
-*Sources: MP Materials Q4 2025 / FY2025 press release (IR); MP Materials DoD partnership press release (2025-07-09, IR); CNBC coverage of Saudi Maaden JV (2025-11-19); Mining.com coverage of $150M Pentagon loan; 24/7 Wall St. Wedbush $90 PT coverage (2026-04-20); Yahoo Finance live price (2026-04-24); MarketBeat, public.com, stockanalysis.com (analyst consensus, April 2026); Fintel, Benzinga (short interest 14.47%); Columbia CGEP analysis of strategic-minerals policy; Seeking Alpha "Market Is Missing This Rare Earth Opportunity"; MP Materials IR site.*
+### Sources
+
+- [MP Materials Investor Relations — News Releases](https://investors.mpmaterials.com/news-releases) (Q4 2025 / FY2025; DoD partnership 2025-07-09; Apple/GM commercial agreements)
+- [SEC EDGAR — MP Materials filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001801368&type=10-K)
+- [Yahoo Finance — MP quote](https://finance.yahoo.com/quote/MP) (live price 2026-04-24)
+- [MarketBeat — MP](https://www.marketbeat.com/stocks/NYSE/MP/) (analyst consensus, April 2026)
+- [Public.com — MP](https://public.com/stocks/mp) (analyst consensus)
+- [stockanalysis.com — MP](https://stockanalysis.com/stocks/mp/) (analyst consensus)
+- [Fintel — MP short](https://fintel.io/ss/us/mp) (short interest 14.47%)
+- [Benzinga — MP](https://www.benzinga.com/quote/MP) (short interest)
+- [CNBC — search MP Materials Saudi JV](https://www.cnbc.com/search/?query=mp+materials+saudi) (2025-11-19)
+- [Mining.com — MP coverage](https://www.mining.com/?s=mp+materials) ($150M Pentagon loan)
+- [24/7 Wall St. — MP coverage](https://247wallst.com/?s=mp+materials) (Wedbush $90 PT, 2026-04-20)
+- [Columbia CGEP — Critical minerals policy](https://www.energypolicy.columbia.edu/?s=rare+earth)
+- [Seeking Alpha — MP coverage](https://seekingalpha.com/symbol/MP) ("Market Is Missing This Rare Earth Opportunity")

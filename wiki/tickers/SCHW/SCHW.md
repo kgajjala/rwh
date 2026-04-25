@@ -1,9 +1,24 @@
 # SCHW — The Charles Schwab Corporation
 
-> **Schema**: v2.1
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $88.50 at April 24, 2026 (Yahoo Finance)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$88.50** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/SCHW))
 > **Ticker Type**: Financial / brokerage
+
+---
+
+## Summary
+
+- 🟢 **Thesis**: Largest U.S. retail brokerage (**Narrow-Wide moat → Wide post-TD integration**) at ~15× FY26E EPS — Q1 2026 confirmed structural earnings power yet stock printed new 52-wk low; FY26 EPS guide *raised* above prior $5.70–$5.80.
+- 🟢 **For a non-holder: Initiate** at $88.50 — fundamentals at record levels, multiple below historical band.
+- 🟢 **For a current holder: Add** — Q1 2026 print structurally strengthened thesis (raised guide, $2.4B buyback, 19% dividend hike).
+- 🎯 **Attractive entry zone**: **$79 – $92** (~13.5–15.7× FY26E EPS of $5.85; below historical 17–20× band).
+- 🎯 **Trim zone**: **$118 – $130** (20–22× FY26E EPS; above historical mid-cycle band).
+- 📉 **Price action**: $88.50, **–17.7% from 52-wk high** ($107.50), +11.6% above 52-wk low ($79.30) — counterintuitive new low *after* Q1 beat.
+- 📅 **Next catalyst**: **Q2 2026 earnings + FY26 formal guide refresh — ~July 2026**. CFO has signaled bar moves above $5.70–$5.80.
+- ⚠️ **Top risk**: Fed rate cuts compress NIM toward 2.0–2.3% (Low-Med prob, High impact) — bear case driver.
+- ⚠️ **Second risk**: Fidelity/Vanguard irrational price competition (Med prob, Med impact).
+- 🟢 **BAIT verdict**: **Triple-Strong overlap (B+A+I)**, Moderate T — Conviction **High**. PW EV ~$107 (18-mo) implies +21% / ~13–14%/yr; risk/reward ~2:1 favorable.
 
 ---
 
@@ -48,7 +63,7 @@ The answer hinges on three things: (1) the Fed's terminal rate path (every 25bps
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$88.50** | April 24, 2026 (Yahoo Finance) |
+| Live Price | **$88.50** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/SCHW)) |
 | 52-Week High | $107.50 | |
 | 52-Week Low | $79.30 | Recent — counterintuitive given Q1 2026 beat (Apr 16) |
 | % From 52-Wk High | –17.7% | |
@@ -231,7 +246,7 @@ SCHW is a U.S.-domestic business. Geographic mix is not a material variable.
 
 | Risk | Impact | Probability | Notes |
 |------|--------|-------------|-------|
-| Fed rate cuts compress NIM (2.85–2.95% → 2.0–2.3%) | High | Low–Medium | Q1 2026 commentary suggests low probability *near-term*; tail risk remains |
+| ⚠️ Fed rate cuts compress NIM (2.85–2.95% → 2.0–2.3%) | High | Low–Medium | Q1 2026 commentary suggests low probability *near-term*; tail risk remains |
 | Fidelity / Vanguard irrational price competition | Medium | Medium | Ongoing; manageable so far |
 | Cash sorting re-emergence on rate spike | Medium | Low | Balance sheet dramatically cleaner; less vulnerable |
 | PFOF regulatory elimination | Medium | Medium | SEC review; 1–3 year horizon; <10% of revenue |
@@ -294,14 +309,14 @@ SCHW is a U.S.-domestic business. Geographic mix is not a material variable.
 
 ### Analyst Consensus
 
-- **Aggregate rating**: Buy / Overweight bias — most coverage maintained Buy through Q1 [Analyst consensus]
+- **Aggregate rating**: 🟢 Buy / Overweight bias — most coverage maintained Buy through Q1 ([stockanalysis.com](https://stockanalysis.com/stocks/schw/forecast/) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/SCHW/forecast/))
 - **Median PT (pre-Q1 print)**: ~$95–105 [Analyst consensus]
 - **Implied upside from $88.50**: +7% to +19%
 - **Expectation**: Upward PT revisions following the FY26 EPS-bar raise; broader refresh likely after the July formal-guidance update.
 
 ### Short Interest
 
-- **Latest**: <2% of float [Estimate; verify in next refresh]
+- **Latest**: <2% of float [Estimate; verify in next refresh] ([Fintel](https://fintel.io/ss/us/schw) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/SCHW/short-interest/))
 - **Interpretation**: SCHW is not a hedge-fund short target; the recent drawdown is long-side capitulation / sector rotation, not a structured short thesis.
 
 ### Insider Activity (Last 90 Days)
@@ -311,23 +326,23 @@ SCHW is a U.S.-domestic business. Geographic mix is not a material variable.
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-16] [Earnings]** — Q1 2026 results: revenue $6.5B (+16%), EPS $1.43 (+38%, beat $1.42), client assets $11.8T (+19%), core NNA $158B (Q1 record), DARTs 9.9M (+34%), bank loans $61B (+29%), 19% dividend hike, $2.4B buyback. CFO: FY26 EPS tracking *above* prior $5.70–$5.80 guide. [Source: Q1 2026 earnings call transcript, IR press release]
-- **[2026-04-16] [Capital]** — 19% dividend increase + $2.4B Q1 buyback executed [Source: IR]
-- **[2026-Q1] [M&A]** — Forge acquisition completed (private markets / pre-IPO platform) [Source: IR]
-- **[2026-Q1] [Strategic]** — Crypto platform pilot announced; rollout imminent at ~75bps per trade [Source: Q1 call]
-- **[2026-Q1] [Strategic]** — Investor AI Assistant scheduled for June 2026 launch [Source: Q1 call]
-- **[2026-01] [Earnings]** — FY2025 / Q4 2025 results: revenue $23.9B (+22%), EPS $4.65, NIM 2.90%, FHLB debt down to $5.1B, declared TD Ameritrade integration complete [Source: pressroom.aboutschwab.com]
+- **[2026-04-16] [Earnings]** — Q1 2026 results: revenue $6.5B (+16%), EPS $1.43 (+38%, beat $1.42), client assets $11.8T (+19%), core NNA $158B (Q1 record), DARTs 9.9M (+34%), bank loans $61B (+29%), 19% dividend hike, $2.4B buyback. CFO: FY26 EPS tracking *above* prior $5.70–$5.80 guide ([Schwab IR](https://pressroom.aboutschwab.com/) / [Q1 2026 transcript](https://www.fool.com/earnings/call-transcripts/))
+- **[2026-04-16] [Capital]** — 💰 19% dividend increase + $2.4B Q1 buyback executed ([Schwab IR](https://pressroom.aboutschwab.com/))
+- **[2026-Q1] [M&A]** — 💰 Forge acquisition completed (private markets / pre-IPO platform) ([Schwab IR](https://pressroom.aboutschwab.com/))
+- **[2026-Q1] [Strategic]** — Crypto platform pilot announced; rollout imminent at ~75bps per trade ([Schwab IR](https://pressroom.aboutschwab.com/))
+- **[2026-Q1] [Strategic]** — Investor AI Assistant scheduled for June 2026 launch ([Schwab IR](https://pressroom.aboutschwab.com/))
+- **[2026-01] [Earnings]** — FY2025 / Q4 2025 results: revenue $23.9B (+22%), EPS $4.65, NIM 2.90%, FHLB debt down to $5.1B, declared TD Ameritrade integration complete ([pressroom.aboutschwab.com](https://pressroom.aboutschwab.com/))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **~July 2026** | **Q2 2026 earnings + FY26 formal guidance refresh** | CFO has signaled the bar moves above $5.70–$5.80; July is the print where the new range becomes consensus |
+| 📅 **~July 2026** | **Q2 2026 earnings + FY26 formal guidance refresh** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NYSE/SCHW/earnings/)) | CFO has signaled the bar moves above $5.70–$5.80; July is the print where the new range becomes consensus |
 | June 2026 | Investor AI Assistant launch | First user-visible AI differentiator — sentiment / brand catalyst |
 | 2H 2026 | Crypto platform full rollout | New revenue line at 75bps/trade |
 | YE 2026 | ETF monetization platform "live" | 400+ asset-manager partnerships activated |
 | Ongoing | Fed FOMC dot-plot updates | Each "no cuts in 2026" reinforcement = direct NIM tailwind |
-| Ongoing | Buyback execution | If Q1's $2.4B pace continues, ~$10B/year ≈ 6%+ of cap |
+| 💰 Ongoing | Buyback execution | If Q1's $2.4B pace continues, ~$10B/year ≈ 6%+ of cap |
 
 ---
 
@@ -414,29 +429,38 @@ Primary-source disclosures from the April 16 call that mainstream coverage hasn'
 
 **Thesis in one sentence**: Charles Schwab is the largest U.S. retail brokerage, fresh off a clean post-cash-sorting balance sheet and a complete TD Ameritrade integration; Q1 2026 confirmed structural earnings power (record revenue, +38% EPS, FY26 guide bar *raised* above prior $5.70–$5.80) yet the stock printed a new 52-week low — at ~15× FY26E EPS this is a Buffett-class quality compounder available below historical valuation.
 
-**For a non-holder**: **Initiate** at $88.50 — fundamentals are at record levels and the multiple sits below the historical band. Add into the **$80–$90 attractive entry zone** if any further weakness is offered.
+**For a non-holder**: 🟢 **Initiate** at $88.50 — fundamentals are at record levels and the multiple sits below the historical band. Add into the **$80–$90 attractive entry zone** if any further weakness is offered.
 
-**For a current holder**: **Add** — the Q1 2026 print structurally strengthened the thesis (FY26 EPS guide raised, $2.4B buyback executed, 19% dividend hike, NIM bias upward per CFO). The new 52-wk low offers a rare add opportunity in a high-quality compounder.
+**For a current holder**: 🟢 **Add** — the Q1 2026 print structurally strengthened the thesis (FY26 EPS guide raised, $2.4B buyback executed, 19% dividend hike, NIM bias upward per CFO). The new 52-wk low offers a rare add opportunity in a high-quality compounder.
 
-**Attractive entry zone**: **$79 – $92** (rationale: 13.5–15.7× FY26E EPS of $5.85; below historical 17–20× band; aligns with the recent 52-wk low and the prior April 5 entry zone; supported by $2.4B/quarter buyback floor)
+🎯 **Attractive entry zone**: **$79 – $92** (rationale: 13.5–15.7× FY26E EPS of $5.85; below historical 17–20× band; aligns with the recent 52-wk low and the prior April 5 entry zone; supported by $2.4B/quarter buyback floor)
 
-**Trim zone**: **$118 – $130** (rationale: 20–22× FY26E EPS; above historical mid-cycle band; required full credit for ETF/crypto/private-markets monetization plus continued buyback compounding)
+🎯 **Trim zone**: **$118 – $130** (rationale: 20–22× FY26E EPS; above historical mid-cycle band; required full credit for ETF/crypto/private-markets monetization plus continued buyback compounding)
 
-**Exit / avoid zone**: **>$140** (rationale: 24×+ FY26E EPS; would require both NIM expansion to 3.0%+ *and* monetization layers fully flowing — at that point the asymmetry has fully closed)
+🔴 **Exit / avoid zone**: **>$140** (rationale: 24×+ FY26E EPS; would require both NIM expansion to 3.0%+ *and* monetization layers fully flowing — at that point the asymmetry has fully closed)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Exit):
-- Federal Reserve cuts rates 150+bps in 2026 *and* cash sorting visibly re-emerges (sweep balances reverse for 2 consecutive quarters)
-- NIM falls below 2.50% for two consecutive quarters
-- FY26 EPS guidance *cut* below $5.70 at the July 2026 refresh
-- TD Ameritrade synergy run-rate disclosed below $1.5B (vs. ~$2B target)
-- Major PFOF regulatory ruling that materially reduces trading revenue
-- Buyback cadence falls below ~$1B/quarter for 2 consecutive quarters with no acquisition reason
-- Tier 1 leverage ratio falls below 6.5% (capital constraint)
-- Daily-average trades decline >15% YoY for 2 consecutive quarters with no offsetting NIM gain
-- Schwab Wealth Advisory or managed-investing flow growth turns negative
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
+- ⚠️ Federal Reserve cuts rates 150+bps in 2026 *and* cash sorting visibly re-emerges (sweep balances reverse for 2 consecutive quarters)
+- ⚠️ NIM falls below 2.50% for two consecutive quarters
+- ⚠️ FY26 EPS guidance *cut* below $5.70 at the July 2026 refresh
+- ⚠️ TD Ameritrade synergy run-rate disclosed below $1.5B (vs. ~$2B target)
+- ⚠️ Major PFOF regulatory ruling that materially reduces trading revenue
+- ⚠️ Buyback cadence falls below ~$1B/quarter for 2 consecutive quarters with no acquisition reason
+- ⚠️ Tier 1 leverage ratio falls below 6.5% (capital constraint)
+- ⚠️ Daily-average trades decline >15% YoY for 2 consecutive quarters with no offsetting NIM gain
+- ⚠️ Schwab Wealth Advisory or managed-investing flow growth turns negative
 
-**Next review trigger**: **Q2 2026 earnings + FY26 formal guidance refresh, ~July 2026.** Key items: (1) updated FY26 EPS range, (2) NIM trajectory and any 2H26 color, (3) deposit/sweep balance trend, (4) cumulative 1H26 buyback execution, (5) ETF monetization platform progress toward year-end live target, (6) crypto rollout timing and economics, (7) Investor AI Assistant adoption metrics post-June launch.
+📅 **Next review trigger**: **Q2 2026 earnings + FY26 formal guidance refresh, ~July 2026.** Key items: (1) updated FY26 EPS range, (2) NIM trajectory and any 2H26 color, (3) deposit/sweep balance trend, (4) cumulative 1H26 buyback execution, (5) ETF monetization platform progress toward year-end live target, (6) crypto rollout timing and economics, (7) Investor AI Assistant adoption metrics post-June launch.
 
 ---
 
-*Sources: SCHW Q1 2026 earnings call transcript (Motley Fool, Yahoo Finance, compiled 2026-04-24); SCHW IR press release Q1 2026 (April 16, 2026); pressroom.aboutschwab.com FY2025 full-year results (Jan 2026); content.schwab.com Q4 2025 earnings release; stockanalysis.com (FY2021–FY2024 financials); Yahoo Finance live price (2026-04-24). Prior internal wiki ingest: 2026-04-05 (overview/thesis/financials v1) and 2026-04-24 Q1 changelog.*
+### Sources
+
+- [Schwab Pressroom](https://pressroom.aboutschwab.com/) (Q1 2026 IR press release Apr 16, 2026; FY2025 full-year results Jan 2026; Q4 2025 earnings release; capital actions; Forge / crypto / AI announcements)
+- [Motley Fool — earnings call transcripts](https://www.fool.com/earnings/call-transcripts/) (SCHW Q1 2026 call)
+- [SEC EDGAR — Schwab filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000316709&type=10-K) (10-K, 10-Q)
+- [Yahoo Finance — SCHW quote](https://finance.yahoo.com/quote/SCHW) (live price 2026-04-24)
+- [stockanalysis.com — SCHW](https://stockanalysis.com/stocks/schw/forecast/) (FY2021–FY2024 financials, analyst consensus)
+- [MarketBeat — SCHW](https://www.marketbeat.com/stocks/NYSE/SCHW/) (earnings calendar, short interest, ratings)
+- [Fintel — SCHW short interest](https://fintel.io/ss/us/schw)
+- Prior internal wiki ingest: 2026-04-05 (overview/thesis/financials v1) and 2026-04-24 Q1 changelog

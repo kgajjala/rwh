@@ -1,11 +1,26 @@
 # PG — The Procter & Gamble Company
 
-> **Schema**: v2.1
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $148.18 at April 24, 2026 (Yahoo Finance JSON API)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$148.18** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/PG))
 > **Ticker Type**: Consumer staples (capital-light branded goods)
 
 > ⚠️ **STALE-CATALYST NOTICE (2026-04-24)**: This thesis was authored on the same day as the **Q3 FY2026 earnings print (April 24, 2026 pre-market)**. The pre-print recommendation framework below ("Watch / Hold pre-print") is **provisional and time-bounded**. Once the Q3 print drops (or has already dropped), all of Sections 11, 12, 13, 14, and 15 must be refreshed within 24 hours using the beat / in-line / miss decision tree provided in Section 15. Do not rely on this page's recommendation as authoritative until that refresh is complete.
+
+---
+
+## Summary
+
+- 🟡 **Thesis**: Dividend King in "show me" mode under a new CEO mid-restructuring (**Wide moat — under pressure**); 20× P/E roughly fair for 0–4% organic growth. April 24, 2026 Q3 print is the binary catalyst that confirms or refutes Jejurikar's execution thesis.
+- 🟡 **For a non-holder: Watch — do not initiate ahead of April 24**. Re-evaluate after print using beat/in-line/miss decision tree.
+- 🟡 **For a current holder: Hold through April 24** — exiting pre-print at –13% off highs forfeits upside optionality on a beat.
+- 🎯 **Attractive entry zone**: **$135 – $145** (19× FY2026E P/E; ~3% dividend yield; near 52-wk low).
+- 🎯 **Trim zone**: **$170 – $180** (24× FY2026E P/E; top of 52-wk range).
+- 📉 **Price action**: $148.18, **–13.3% from 52-wk high** ($170.99), +7.7% above 52-wk low ($137.62) — tepid bounce, defensive bid only.
+- 📅 **Next catalyst**: **Q3 FY2026 earnings — April 24, 2026 (pre-market)** — make-or-break Jejurikar print; binary outcome.
+- ⚠️ **Top risk**: Tariff headwinds (high impact, near-term certain) — $1–1.5B/yr; ~8–10% of net income.
+- ⚠️ **Second risk**: Private-label volume losses (high impact, moderate-high prob) — consumer trade-down accelerating during price-increase cycle.
+- 🟡 **BAIT verdict**: **Weak signal — no significant overlap** (Moderate B with fundamental support for fear; Weak elsewhere). "Show me" situation requiring April 24 execution evidence; PW EV ~$154 vs. spot $148 = ~+4% price + ~3% dividend = ~7% total return over 1–2 years.
 
 ---
 
@@ -303,11 +318,11 @@ This is the single dominant near-term catalyst and demands explicit framing:
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-24] [Earnings — UPCOMING]** — Q3 FY2026 earnings release scheduled
-- **[2026-03-24] [Analyst]** — Erste Group downgrade [Source: aggregator]
-- **[2026-01-22] [Earnings]** — Q2 FY2026 EPS miss ($1.78 vs. $1.87 expected) under new CEO Jejurikar; revenue roughly in-line
-- **[2026-01-07] [Price action]** — 52-week low set at $137.62
-- **[2026-01-01] [Management]** — Jejurikar formally takes CEO role; Moeller to Executive Chairman
+- **[2026-04-24] [Earnings — UPCOMING]** — 📅 Q3 FY2026 earnings release scheduled ([PG IR](https://www.pginvestor.com/financial-reporting/quarterly-results))
+- **[2026-03-24] [Analyst]** — Erste Group downgrade ([MarketBeat — PG](https://www.marketbeat.com/stocks/NYSE/PG/price-target/))
+- **[2026-01-22] [Earnings]** — Q2 FY2026 EPS miss ($1.78 vs. $1.87 expected) under new CEO Jejurikar; revenue roughly in-line ([PG IR](https://www.pginvestor.com/financial-reporting/quarterly-results))
+- **[2026-01-07] [Price action]** — 📉 52-week low set at $137.62
+- **[2026-01-01] [Management]** — Jejurikar formally takes CEO role; Moeller to Executive Chairman ([PG IR — leadership](https://us.pg.com/leadership-team/))
 
 ### Recent Earnings Events (Past 12 Months)
 
@@ -325,7 +340,7 @@ This is the single dominant near-term catalyst and demands explicit framing:
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **2026-04-24** | **Q3 FY2026 earnings (pre-market)** | **Make-or-break Jejurikar print; binary** |
+| 📅 **2026-04-24** | **Q3 FY2026 earnings (pre-market)** ([PG IR](https://www.pginvestor.com/financial-reporting/quarterly-results)) | **Make-or-break Jejurikar print; binary** |
 | ~April 2026 | Dividend ex-date | $1.0568/quarter; income floor |
 | Late July 2026 | Q4 FY2026 + FY2026 full-year results + FY2027 guide | Second key Jejurikar print |
 | Ongoing | Tariff policy developments | Any escalation = direct hit; any easing = relief |
@@ -398,31 +413,41 @@ Q2 FY2026 (Jan 22) EPS miss is the most recent primary data point — *not* posi
 
 **Thesis in one sentence**: PG is a Dividend King in "show me" mode under a new CEO mid-restructuring, with 20× P/E roughly fair for 0–4% organic growth — the April 24, 2026 Q3 FY2026 print (TODAY — pre-market) is the binary catalyst that will either confirm Jejurikar's execution thesis (re-expansion to $160–$170) or validate structural deterioration (re-test of $137 low, possible break to $125–$130).
 
-**For a non-holder**: **Watch — do not initiate ahead of April 24**. The binary risk of the Q3 print + the absence of meaningful BAIT overlap + thin asymmetry (PW EV $154 vs. spot $148, +7% total return inclusive of dividend) does not justify pre-print positioning. **Re-evaluate immediately after April 24**:
+**For a non-holder**: 🟡 **Watch — do not initiate ahead of April 24**. The binary risk of the Q3 print + the absence of meaningful BAIT overlap + thin asymmetry (PW EV $154 vs. spot $148, +7% total return inclusive of dividend) does not justify pre-print positioning. **Re-evaluate immediately after April 24**:
 - *If beat with organic ≥3%*: Initiate small at $160–$165 with target $175
 - *If in-line*: Hold off; wait for Q4 FY2026 (late July) for confirmation
 - *If miss*: Add to watch list at $125–$135; do not initiate above $140
 
-**For a current holder**: **Hold through April 24**. Exiting pre-print at –13% off highs forfeits the upside optionality on a beat; trimming makes sense only if the position is oversized relative to portfolio plan. Add only if (a) Q3 confirms organic acceleration AND (b) price is below $145 — otherwise wait. If price is above $165 post-print, consider trimming into strength.
+**For a current holder**: 🟡 **Hold through April 24**. Exiting pre-print at –13% off highs forfeits the upside optionality on a beat; trimming makes sense only if the position is oversized relative to portfolio plan. Add only if (a) Q3 confirms organic acceleration AND (b) price is below $145 — otherwise wait. If price is above $165 post-print, consider trimming into strength.
 
-**Attractive entry zone**: **$135 – $145** (rationale: 19× FY2026E P/E; ~3% dividend yield; near 52-wk low offers technical support; below mid-point of 5-yr price range)
+🎯 **Attractive entry zone**: **$135 – $145** (rationale: 19× FY2026E P/E; ~3% dividend yield; near 52-wk low offers technical support; below mid-point of 5-yr price range)
 
-**Trim zone**: **$170 – $180** (rationale: top of 52-wk range; 24× FY2026E P/E requires execution proof; approaches all-time-high zone)
+🎯 **Trim zone**: **$170 – $180** (rationale: top of 52-wk range; 24× FY2026E P/E requires execution proof; approaches all-time-high zone)
 
-**Exit / avoid zone**: **>$185** (rationale: would imply 26× FY2026E P/E and full re-rating to 2024 peak multiple — pricing in full execution upside with no margin of safety)
+🔴 **Exit / avoid zone**: **>$185** (rationale: would imply 26× FY2026E P/E and full re-rating to 2024 peak multiple — pricing in full execution upside with no margin of safety)
 
-**Thesis-break triggers** (would force re-rating toward Exit / Avoid):
-- Q3 FY2026 EPS miss + organic growth ≤0%
-- FY2026 organic sales guide cut below 0%
-- Tariff headwind expansion above $1.5B for FY2026
-- Dividend cut or freeze (Critical-impact, Very Low probability — but immediate exit if it happens)
-- Two consecutive quarters of accelerating private-label market-share losses (Nielsen / IRI scanner data)
-- Restructuring savings not materializing in operating margin by Q4 FY2026
-- Jejurikar departure or material C-suite turnover
-- Multiple compression below 17× without earnings deterioration (signals structural staples de-rating)
+**Thesis-break triggers** ⚠️ (would force re-rating toward Exit / Avoid):
+- ⚠️ Q3 FY2026 EPS miss + organic growth ≤0%
+- ⚠️ FY2026 organic sales guide cut below 0%
+- ⚠️ Tariff headwind expansion above $1.5B for FY2026
+- ⚠️ Dividend cut or freeze (Critical-impact, Very Low probability — but immediate exit if it happens)
+- ⚠️ Two consecutive quarters of accelerating private-label market-share losses (Nielsen / IRI scanner data)
+- ⚠️ Restructuring savings not materializing in operating margin by Q4 FY2026
+- ⚠️ Jejurikar departure or material C-suite turnover
+- ⚠️ Multiple compression below 17× without earnings deterioration (signals structural staples de-rating)
 
-**Next review trigger**: **Q3 FY2026 earnings — April 24, 2026 (pre-market)**. **Today — imminent or just released.** This is the single dominant catalyst. Update full BAIT, valuation, and recommendation framework within 24 hours of the print.
+📅 **Next review trigger**: **Q3 FY2026 earnings — April 24, 2026 (pre-market)**. **Today — imminent or just released.** This is the single dominant catalyst. Update full BAIT, valuation, and recommendation framework within 24 hours of the print.
 
 ---
 
-*Sources: PG_price_analysis_2026-03-25.html (Three-Horizon Price & Event Analysis); Yahoo Finance JSON API (live price 2026-04-24 verified at $148.18); CNBC / public financial data (52-wk range, dividend); Q2 FY2026 earnings release (Jan 22, 2026); Q3 FY2025 guidance cut release (Apr 24, 2025); CEO transition announcement (Jul 2025). Data gaps: full segment revenue, gross-margin trend, FCF history pending 10-K + earnings transcript ingestion post April 24, 2026.*
+### Sources
+
+- [Procter & Gamble Investor Relations — Quarterly Results](https://www.pginvestor.com/financial-reporting/quarterly-results) (Q2 FY2026 earnings release, Jan 22, 2026; Q3 FY2025 guidance cut, Apr 24, 2025; CEO transition announcement, Jul 2025)
+- [SEC EDGAR — P&G filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000080424&type=10-K)
+- [Yahoo Finance — PG quote](https://finance.yahoo.com/quote/PG) (live price 2026-04-24 verified at $148.18)
+- [CNBC — search Procter & Gamble](https://www.cnbc.com/search/?query=procter+gamble) (financial data, 52-wk range, dividend)
+- [MarketBeat — PG](https://www.marketbeat.com/stocks/NYSE/PG/) (analyst consensus, price targets)
+- [PG Leadership](https://us.pg.com/leadership-team/) (CEO transition)
+- PG_price_analysis_2026-03-25.html (Three-Horizon Price & Event Analysis) [internal artifact]
+
+*Data gaps: full segment revenue, gross-margin trend, FCF history pending 10-K + earnings transcript ingestion post April 24, 2026.*

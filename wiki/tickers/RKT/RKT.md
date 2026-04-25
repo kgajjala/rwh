@@ -1,9 +1,24 @@
 # RKT — Rocket Companies, Inc.
 
-> **Schema**: v2.1
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $15.60 at April 24, 2026 (Yahoo Finance)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$15.60** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/RKT))
 > **Ticker Type**: Mortgage / housing platform
+
+---
+
+## Summary
+
+- 🟢 **Thesis**: Most complete U.S. homeownership platform (search → originate → service → recapture; **Narrow-to-Emerging-Wide moat**) at ~14–16× FY26E EBITDA — market is pricing the bear case while operating data confirms the bull setup.
+- 🟢 **For a non-holder: Initiate (Speculative)** at $15.60 — Q1 2026 earnings (April 30) is a ~13-day hard catalyst on a 5th-consecutive beat.
+- 🟢 **For a current holder: Hold / Add on weakness** — Q1 confirmation likely re-rates toward $20+ (analyst consensus).
+- 🎯 **Attractive entry zone**: **$11 – $14** (~9–12× FY26E EBITDA on consensus $3.0–3.5B; bear-case downside discounted).
+- 🎯 **Trim zone**: **$24 – $30** (16–18× FY26E EBITDA on bull case; matches Jan 52-wk high).
+- 📉 **Price action**: $15.60, **–35.9% from 52-wk high** ($24.36, Jan 16, 2026), +40.8% above 52-wk low ($11.08).
+- 📅 **Next catalyst**: **Q1 2026 earnings — April 30, 2026**. Tests $2.6–2.8B guide; first full integrated platform quarter.
+- ⚠️ **Top risk**: 30-year rate re-inflation above 7.5% (20% prob, Critical) — would collapse origination.
+- ⚠️ **Second risk**: Redfin/Mr. Cooper integration failure or $10.6B goodwill impairment (15-20% prob, High impact).
+- 🟢 **BAIT verdict**: **Double overlap (B+A)** — Conviction **Moderate**. PW EV ~$22.65 (2-3 yr) implies +45% / ~13%/yr; bull case requires more execution proof.
 
 ---
 
@@ -56,7 +71,7 @@ The bear path: rates re-inflate to 7.5%+; origination volume re-collapses; Redfi
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$15.60** | April 24, 2026 (Yahoo Finance) |
+| Live Price | **$15.60** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/RKT)) |
 | 52-Week High | $24.36 | Jan 16, 2026 — platform transformation rally peak |
 | 52-Week Low | $11.08 | New low (was $10.94 prior; verified $11.08 Apr 24) |
 | % From 52-Wk High | –35.9% | |
@@ -228,13 +243,13 @@ Domestic only — RKT has no meaningful international exposure. This is both a c
 
 | Risk | Impact | Probability | Notes |
 |------|--------|-------------|-------|
-| Rates rise above 7.5% (re-inflation) | Critical | 20% | Trump tariff-driven; would collapse origination |
-| Redfin integration failure | High | 20% | Kelman departure; Zillow dominance; cultural risk |
-| Mr. Cooper synergy disappointment | High | 20% | $14.2B goodwill; timeline risk |
+| ⚠️ Rates rise above 7.5% (re-inflation) | Critical | 20% | Trump tariff-driven; would collapse origination |
+| ⚠️ Redfin integration failure | High | 20% | Kelman departure; Zillow dominance; cultural risk |
+| ⚠️ Mr. Cooper synergy disappointment | High | 20% | $14.2B goodwill; timeline risk |
 | RESPA class-action (Jan 2026) | Medium | 30% | Alleges illegal referral kickbacks; threatens ecosystem model if certified |
-| Goodwill impairment ($10.6B) | High | 15% | GAAP devastation; non-cash but confidence-destroying |
+| ⚠️ Goodwill impairment ($10.6B) | High | 15% | GAAP devastation; non-cash but confidence-destroying |
 | Dan Gilbert control risk | Medium | 15% | Super-voting structure |
-| Recession / consumer stress | High | 25% | MSR delinquency spike; GOS margin compression |
+| ⚠️ Recession / consumer stress | High | 25% | MSR delinquency spike; GOS margin compression |
 | Zillow / AI disintermediation | Medium | 20% | Zillow scaling mortgage; OpenAI home-search agents |
 
 ---
@@ -293,14 +308,14 @@ Domestic only — RKT has no meaningful international exposure. This is both a c
 
 ### Analyst Consensus
 
-- **Aggregate rating**: Hold/Buy mix [Analyst consensus]
+- **Aggregate rating**: 🟡 Hold/Buy mix ([stockanalysis.com](https://stockanalysis.com/stocks/rkt/forecast/) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/RKT/forecast/))
 - **Median PT**: ~$20–21 [Analyst consensus]
 - **Implied upside from $15.60**: +28% to +35%
 - **Coverage commentary**: JPMorgan / Wells Fargo / BTIG covered Q4 2025 print constructively; consensus 2026 EBITDA in the $3.0–3.5B range — bull camp models above $4B.
 
 ### Short Interest
 
-- **Latest**: [Estimate — verify on next refresh; historically RKT has run mid-to-high teens % of float as a contested-thesis name]
+- **Latest**: [Estimate — verify on next refresh; historically RKT has run mid-to-high teens % of float as a contested-thesis name] ([Fintel](https://fintel.io/ss/us/rkt) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/RKT/short-interest/))
 - **Action item**: Refresh short-interest figure with Fintel / NASDAQ data on next weekly run.
 
 ### Insider Activity (Last 90 Days)
@@ -311,23 +326,23 @@ Domestic only — RKT has no meaningful international exposure. This is both a c
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-02-26] [Earnings]** — Q4 2025 results: adj revenue $1.7B (beat $1.56B guide midpoint), adj EBITDA $592M, integrated platform run-rate visible. Q1 2026 guide $2.6–2.8B. [Source: Q4 2025 earnings press release / call]
-- **[2026-02 (early)] [CEO Comm]** — Krishna pre-announced "4-year volume high" on CNBC Squawk Box ahead of Q4 print [Source: CNBC]
-- **[2026-02] [Strategic]** — Compass partnership announced — adds Compass listing inventory + agent network [Source: IR]
-- **[2026-01] [People]** — Glenn Kelman (Redfin CEO) departed; internal successor appointed [Source: IR]
-- **[2026-01] [Litigation]** — RESPA class-action filed alleging illegal referral kickbacks across the integrated platform [Source: court filings]
-- **[2025-10] [M&A]** — Mr. Cooper acquisition closed ($14.2B all-stock); $2.7T servicing portfolio incorporated [Source: IR]
-- **[2025-07] [M&A]** — Redfin acquisition closed ($1.75B all-stock); 100M+ MAU search funnel incorporated [Source: IR]
-- **[2025-06-30] [Corporate]** — Up-C structure collapsed → full C-corp; public float increased from ~7% to ~35% [Source: IR / 8-K]
+- **[2026-02-26] [Earnings]** — Q4 2025 results: adj revenue $1.7B (beat $1.56B guide midpoint), adj EBITDA $592M, integrated platform run-rate visible. Q1 2026 guide $2.6–2.8B ([Rocket IR](https://ir.rocketcompanies.com/news-and-events/news-releases))
+- **[2026-02 (early)] [CEO Comm]** — Krishna pre-announced "4-year volume high" on CNBC Squawk Box ahead of Q4 print ([CNBC](https://www.cnbc.com/search/?query=rocket%20companies))
+- **[2026-02] [Strategic]** — Compass partnership announced — adds Compass listing inventory + agent network ([Rocket IR](https://ir.rocketcompanies.com/news-and-events/news-releases))
+- **[2026-01] [People]** — Glenn Kelman (Redfin CEO) departed; internal successor appointed ([Rocket IR](https://ir.rocketcompanies.com/news-and-events/news-releases))
+- **[2026-01] [Litigation]** — RESPA class-action filed alleging illegal referral kickbacks across the integrated platform [link pending]
+- **[2025-10] [M&A]** — 💰 Mr. Cooper acquisition closed ($14.2B all-stock); $2.7T servicing portfolio incorporated ([Rocket IR](https://ir.rocketcompanies.com/news-and-events/news-releases))
+- **[2025-07] [M&A]** — 💰 Redfin acquisition closed ($1.75B all-stock); 100M+ MAU search funnel incorporated ([Rocket IR](https://ir.rocketcompanies.com/news-and-events/news-releases))
+- **[2025-06-30] [Corporate]** — Up-C structure collapsed → full C-corp; public float increased from ~7% to ~35% ([SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001805284&type=8-K))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **2026-04-30** | **Q1 2026 earnings** | First full quarter of integrated platform; tests $2.6–2.8B guide; 5th-consecutive-beat watch; first earnings under new Redfin leadership |
+| 📅 **2026-04-30** | **Q1 2026 earnings** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NYSE/RKT/earnings/)) | First full quarter of integrated platform; tests $2.6–2.8B guide; 5th-consecutive-beat watch; first earnings under new Redfin leadership |
 | 2026 (rolling) | Mr. Cooper synergy realization milestones | CFO said "ahead of original end-2027 target"; any quantified update materially re-rates the thesis |
 | 2026 (rolling) | Redfin attach rate progression | 40% → 50%+ trajectory; each +10ppt ≈ ~$500M incremental revenue [Estimate] |
-| 2026 (ongoing) | RESPA class-action certification decision | Tail-risk catalyst; certification = thesis-break trigger if damages tracking >$500M |
+| ⚠️ 2026 (ongoing) | RESPA class-action certification decision | Tail-risk catalyst; certification = thesis-break trigger if damages tracking >$500M |
 | Ongoing | 30-year mortgage rate path | Each 25bps lower = material origination tailwind; tariff-driven re-inflation = downside catalyst |
 | Ongoing | Compass partnership ramp | Funnel diversification; listing inventory expansion |
 
@@ -419,29 +434,39 @@ Primary disclosures underappreciated by media:
 
 **Thesis in one sentence**: Rocket Companies has assembled the most complete homeownership platform in history (search via Redfin + Compass, origination via #1 lender, servicing via #1 servicer, 50% of 2020 headcount via AI) at a moment when the housing market is just beginning to unlock after 3 years of rate-induced freeze — at $15.60 the market is pricing the bear case while operating data confirms the bull setup.
 
-**For a non-holder**: **Initiate (Speculative)** at $15.60. The setup is favorable but the bear case has real teeth ($10.6B goodwill, rate re-inflation tail risk, RESPA litigation). The Q1 2026 earnings on April 30 is a ~13-day hard catalyst — initiating before the print is a tactical bet on a 5th-consecutive beat. Adding into the **$11–14 attractive entry zone** is the higher-asymmetry trade if weakness offers it.
+**For a non-holder**: 🟢 **Initiate (Speculative)** at $15.60. The setup is favorable but the bear case has real teeth ($10.6B goodwill, rate re-inflation tail risk, RESPA litigation). The Q1 2026 earnings on April 30 is a ~13-day hard catalyst — initiating before the print is a tactical bet on a 5th-consecutive beat. Adding into the **$11–14 attractive entry zone** is the higher-asymmetry trade if weakness offers it.
 
-**For a current holder**: **Hold / Add on weakness**. Q1 2026 confirmation likely re-rates the stock toward $20+ (analyst consensus). Below $14, the asymmetry is materially attractive. Above $24 (52-wk high), the bull-case execution proof is needed to justify pressing.
+**For a current holder**: 🟢 **Hold / Add on weakness**. Q1 2026 confirmation likely re-rates the stock toward $20+ (analyst consensus). Below $14, the asymmetry is materially attractive. Above $24 (52-wk high), the bull-case execution proof is needed to justify pressing.
 
-**Attractive entry zone**: **$11 – $14** (rationale: 9–12× FY26E EBITDA on the consensus $3.0–3.5B; bear-case downside fully discounted; near 52-wk low support; valid even if Q1 prints in line vs. beat)
+🎯 **Attractive entry zone**: **$11 – $14** (rationale: 9–12× FY26E EBITDA on the consensus $3.0–3.5B; bear-case downside fully discounted; near 52-wk low support; valid even if Q1 prints in line vs. beat)
 
-**Trim zone**: **$24 – $30** (rationale: 16–18× FY26E EBITDA on bull-case $4.0+ B EBITDA; matches January 52-wk high; bull-case re-rating largely priced; further upside requires platform-thesis proof beyond current evidence)
+🎯 **Trim zone**: **$24 – $30** (rationale: 16–18× FY26E EBITDA on bull-case $4.0+ B EBITDA; matches January 52-wk high; bull-case re-rating largely priced; further upside requires platform-thesis proof beyond current evidence)
 
-**Exit / avoid zone**: **>$32** (rationale: requires the full bull case in price — $5B+ EBITDA, attach >50%, full Mr. Cooper synergies, sub-6% rates; asymmetry has fully closed)
+🔴 **Exit / avoid zone**: **>$32** (rationale: requires the full bull case in price — $5B+ EBITDA, attach >50%, full Mr. Cooper synergies, sub-6% rates; asymmetry has fully closed)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Exit):
-- Q1 2026 adj revenue **<$2.4B** (below guide bottom) absent a clearly external macro shock
-- Redfin attach rate falls back **<30%** in any quarter
-- Mr. Cooper synergy timeline extends **beyond original 2027 target** after CFO's "ahead of schedule" framing
-- RESPA class-action **certified with damages tracking >$500M**
-- GOS margin **<2.0%** for 2 consecutive quarters
-- 30-year mortgage rate **breaks above 7.5%** sustained for a quarter (re-inflation scenario)
-- Goodwill impairment of >$2B announced
-- Net dollar exodus from servicing portfolio (recapture rate falls below 1.5× industry)
-- Dan Gilbert exercises super-voting authority in a way materially adverse to minority shareholders
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
+- ⚠️ Q1 2026 adj revenue **<$2.4B** (below guide bottom) absent a clearly external macro shock
+- ⚠️ Redfin attach rate falls back **<30%** in any quarter
+- ⚠️ Mr. Cooper synergy timeline extends **beyond original 2027 target** after CFO's "ahead of schedule" framing
+- ⚠️ RESPA class-action **certified with damages tracking >$500M**
+- ⚠️ GOS margin **<2.0%** for 2 consecutive quarters
+- ⚠️ 30-year mortgage rate **breaks above 7.5%** sustained for a quarter (re-inflation scenario)
+- ⚠️ Goodwill impairment of >$2B announced
+- ⚠️ Net dollar exodus from servicing portfolio (recapture rate falls below 1.5× industry)
+- ⚠️ Dan Gilbert exercises super-voting authority in a way materially adverse to minority shareholders
 
-**Next review trigger**: **Q1 2026 earnings — April 30, 2026.** Key items: (1) adj revenue vs. $2.6–2.8B guide, (2) adj EBITDA run-rate, (3) Redfin attach rate progression, (4) any quantified Mr. Cooper synergy update vs. original 2027 target, (5) GOS margin trend, (6) any commentary on RESPA class action, (7) post-Kelman Redfin integration update.
+📅 **Next review trigger**: **Q1 2026 earnings — April 30, 2026.** Key items: (1) adj revenue vs. $2.6–2.8B guide, (2) adj EBITDA run-rate, (3) Redfin attach rate progression, (4) any quantified Mr. Cooper synergy update vs. original 2027 target, (5) GOS margin trend, (6) any commentary on RESPA class action, (7) post-Kelman Redfin integration update.
 
 ---
 
-*Sources: RKT Q4 2025 earnings press release (Feb 26, 2026); RKT Q4 2025 earnings call transcript; CNBC Squawk Box interview with Varun Krishna (Feb 3, 2026); JPMorgan / Wells Fargo / BTIG analyst reports (Q4 2025 reactions); SEC filings (10-K, 10-Q, 8-K); Yahoo Finance live price (2026-04-24). Prior internal wiki ingest from raw/analyses/RKT_analysis_2026-04-05.html (April 5, 2026).*
+### Sources
+
+- [Rocket Companies IR — News Releases](https://ir.rocketcompanies.com/news-and-events/news-releases) (Q4 2025 earnings press release, Feb 26, 2026; Q4 2025 earnings call transcript; Compass partnership; Mr. Cooper / Redfin acquisition closes)
+- [CNBC — Rocket Companies coverage](https://www.cnbc.com/search/?query=rocket%20companies) (Squawk Box interview with Varun Krishna, Feb 3, 2026)
+- [SEC EDGAR — Rocket filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001805284&type=10-K) (10-K, 10-Q, 8-K including Up-C collapse)
+- [Yahoo Finance — RKT quote](https://finance.yahoo.com/quote/RKT) (live price 2026-04-24)
+- [stockanalysis.com — RKT](https://stockanalysis.com/stocks/rkt/forecast/) (analyst consensus, price targets)
+- [MarketBeat — RKT](https://www.marketbeat.com/stocks/NYSE/RKT/) (earnings calendar, short interest, analyst ratings)
+- [Fintel — RKT short interest](https://fintel.io/ss/us/rkt) (short data)
+- JPMorgan / Wells Fargo / BTIG analyst reports (Q4 2025 reactions) [link pending]
+- Prior internal wiki ingest from `raw/analyses/RKT_analysis_2026-04-05.html` (April 5, 2026)

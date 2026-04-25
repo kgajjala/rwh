@@ -1,20 +1,35 @@
 # FIG — Figma, Inc.
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $17.47 at April 24, 2026 (Yahoo Finance JSON API)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$17.47** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/FIG))
 > **Ticker Type**: Capital-light SaaS / collaborative design platform
 > **⚠️ Limited Public History Notice**: Figma IPO'd July 31, 2025. As of April 24, 2026 the company has reported only two full quarters as a public entity (Q3 2025 and Q4 2025). Multi-year trend tables and long-duration valuation comparables are constrained by limited disclosure history. Lock-up dynamics dominate near-term price action.
 
 ---
 
+## Summary
+
+- 🟢 **Thesis**: High-quality category-leader collaborative-design SaaS (Narrow moat, ~95% F500 design teams) at –88% from post-IPO peak under structural lock-up pressure + AI-disruption fear; Q4 2025 fundamentals (136% NDR, +41% revenue, +68% YoY $1M+ customers) materially decoupled from price.
+- 🟢 **For a non-holder: Initiate (small)** in entry zone with explicit recognition that AI-disruption bear case is –60%.
+- 🟢 **For a current holder: Hold / Add** — fundamentals do not support a price collapse this severe.
+- 🎯 **Attractive entry zone**: **$15 – $18** (~5–6× FY26 revenue with +30% growth; deep discount to peer set).
+- 🎯 **Trim zone**: **$35 – $50** (8–12× FY26 revenue; AI-thesis fade + lock-ups cleared).
+- 📉 **Price action**: $17.47, **–88% from 52-wk high** ($142.92 first-day post-IPO peak), only +5% above 52-wk low ($16.69).
+- 📅 **Next catalyst**: **Q1 2026 earnings — May 14, 2026 (post-close)**. Tests $315–317M guide; lock-up release tied.
+- ⚠️ **Top risk**: AI-native tools (Cursor, Lovable, v0) compress design TAM — critical impact, 35% prob (the central existential risk).
+- ⚠️ **Second risk**: Lock-up expirations create persistent supply pressure (70% prob, high impact); 54.1% extended through Aug 2026.
+- 🟢 **BAIT verdict**: **Triple overlap** (B Strong + A Moderate + I Moderate; T Weak-Moderate) — Conviction **Moderate-High** (with elevated existential risk). PW EV +64% over 3 yrs (~+18%/yr).
+
+---
+
 ## Business Overview
 
-Figma (NYSE: FIG) is the leading collaborative design and prototyping platform for digital products, used by ~95% of Fortune 500 design teams. The product began as a browser-based UX/UI design tool and has expanded into a multi-product collaborative-creation platform: Figma Design, FigJam (whiteboarding), Dev Mode (developer handoff), Figma Slides, and **Figma Make** (AI-assisted code/design generation, launched 2025). FY2025 (calendar year) revenue was **$1.056B (+41% YoY)** with Q4 2025 revenue of **$303.8M (+40%)** — the company crossed the $1B annual revenue threshold for the first time [Source: Figma Q4 2025 release, IR 2026 Feb].
+Figma (NYSE: FIG) is the leading collaborative design and prototyping platform for digital products, used by ~95% of Fortune 500 design teams. The product began as a browser-based UX/UI design tool and has expanded into a multi-product collaborative-creation platform: Figma Design, FigJam (whiteboarding), Dev Mode (developer handoff), Figma Slides, and **Figma Make** (AI-assisted code/design generation, launched 2025). FY2025 (calendar year) revenue was **$1.056B (+41% YoY)** with Q4 2025 revenue of **$303.8M (+40%)** — the company crossed the $1B annual revenue threshold for the first time ([Figma Q4 2025 release, IR 2026 Feb](https://investors.figma.com/news-releases)).
 
 The company famously had a $20B acquisition by Adobe announced in 2022 that was abandoned in December 2023 due to regulatory pressure (UK CMA, EU). Figma went public July 31, 2025 at $33/share, surged to a peak of $142.92 first-day, and has subsequently fallen to **$17.47** as of April 24, 2026 — a peak-to-current decline of **–88%** and substantially below the $33 IPO price. The drawdown reflects (a) staggered lock-up expirations with 54.1% of shares under extended lock-ups expiring in tranches through August 2026, (b) AI-tool competitive overhang (Cursor, Vercel v0, Lovable, ChatGPT canvas), and (c) sentiment whiplash on a stock that opened at peak unsustainable valuation.
 
-Net Dollar Retention reached **136%** in Q4 2025 (highest in 10 quarters), and customers spending >$1M ARR grew **+68% YoY** to 67 — fundamentals do not match the price action [Source: Figma Q4 2025 transcript].
+Net Dollar Retention reached **136%** in Q4 2025 (highest in 10 quarters), and customers spending >$1M ARR grew **+68% YoY** to 67 — fundamentals do not match the price action ([Figma Q4 2025 transcript](https://investors.figma.com/news-releases)).
 
 ---
 
@@ -34,7 +49,7 @@ Net Dollar Retention reached **136%** in Q4 2025 (highest in 10 quarters), and c
 - **Adobe is back**: Adobe Express + Firefly + Photoshop incorporate generative design; despite the abandoned acquisition, Adobe remains a competitor
 - **Lock-up overhang**: 54.1% of shares under extended lock-up expiring in 2026 tranches creates ongoing supply pressure
 - **AI investment cost**: Heavy compute/ML hiring depresses near-term margins
-- **Mike Krieger (Anthropic CPO) board resignation** April 14, 2026 — modest negative signal on AI-partnership depth [Source: search results]
+- **Mike Krieger (Anthropic CPO) board resignation** April 14, 2026 — modest negative signal on AI-partnership depth ([Reuters search](https://www.reuters.com/site-search/?query=Krieger+Figma+board)) [link pending]
 
 ---
 
@@ -50,7 +65,7 @@ The April 2026 price action implies the latter is winning the narrative; the Q4 
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$17.47** | April 24, 2026 (Yahoo Finance JSON API) |
+| Live Price | **$17.47** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/FIG)) |
 | 52-Week High | $142.92 | First-day post-IPO peak (July 31, 2025) |
 | 52-Week Low | $16.69 | Recent (April 2026) |
 | % From 52-Wk High | –87.8% | Severe drawdown |
@@ -99,7 +114,7 @@ The April 2026 price action implies the latter is winning the narrative; the Q4 
 | Quarter | Revenue | YoY Growth | NDR | Comment |
 |---------|---------|-----------|-----|---------|
 | Q3 2025 | ~$255M [Estimate from FY total minus Q4 minus Q1+Q2 estimates] | ~+40% | — | First post-IPO quarter |
-| Q4 2025 | $303.8M | +40% | 136% | NDR highest in 10 quarters [Source: Figma IR] |
+| Q4 2025 | $303.8M | +40% | 136% | NDR highest in 10 quarters ([Figma IR](https://investors.figma.com/news-releases)) |
 | Q1 2026E | $315–317M | +38% midpoint | — | Earnings May 14, 2026 |
 
 ---
@@ -157,7 +172,7 @@ International growth (+45%) outpaces overall growth (+41% FY) — geographic exp
 
 **Praveer Melwani (CFO)**: Hired pre-IPO; SaaS finance background.
 
-**Mike Krieger (Anthropic CPO)**: **Resigned from Figma board on April 14, 2026** [Source: April 2026 search results]. Mildly negative signal — a credible AI-product-leader departing a board mid-AI-pivot. Could be unrelated (workload), but worth monitoring.
+**Mike Krieger (Anthropic CPO)**: **Resigned from Figma board on April 14, 2026** ([Reuters search](https://www.reuters.com/site-search/?query=Krieger+Figma+board)) [link pending]. Mildly negative signal — a credible AI-product-leader departing a board mid-AI-pivot. Could be unrelated (workload), but worth monitoring.
 
 **Capital allocation track record**:
 - **IPO proceeds**: $1.7B cash on hand, deployed primarily into AI compute, hiring, product expansion (8 products as of Q4 2025).
@@ -237,11 +252,11 @@ International growth (+45%) outpaces overall growth (+41% FY) — geographic exp
 
 ### Live Price & Positioning
 
-- **Price**: $17.47 (April 24, 2026; Yahoo Finance JSON API)
+- **Price**: $17.47 (April 24, 2026; [Yahoo Finance](https://finance.yahoo.com/quote/FIG))
 - **52-week range**: $16.69 – $142.92
 - **% from 52-wk high**: –87.8%
 - **% above 52-wk low**: +4.7%
-- **YTD performance**: ~–46% [Source: Perplexity Finance ref]
+- **YTD performance**: ~–46% ([Perplexity Finance](https://www.perplexity.ai/finance/FIG))
 
 ### Analyst Consensus
 
@@ -260,21 +275,21 @@ International growth (+45%) outpaces overall growth (+41% FY) — geographic exp
 
 ### Insider Activity (Last 90 Days)
 
-- **[2026-04-14] [Board]** — Mike Krieger (Anthropic CPO) **resigned from Figma board** [Source: April 2026 news]
+- **[2026-04-14] [Board]** — Mike Krieger (Anthropic CPO) **resigned from Figma board** [link pending]
 - Routine 10b5-1 sales by founders/early holders likely, but specific Form 4 cadence not retrieved in this ingest.
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-14] [Board]** — Mike Krieger resigned from board — modest negative signal
-- **[~2026-02-17/18] [Earnings]** — Q4 2025 / FY2025 results: revenue $303.8M Q4 (+40%), FY $1.056B (+41%); NDR 136%; 67 >$1M ARR customers (+68% YoY); $1.7B cash; 8 products (from 4); FY26 guide $1.366–1.374B [Source: Figma IR]
-- **[2026-02-17] [Partnership]** — Claude Code integration announced [Source: Anthropic / Figma joint]
-- **[2025-07-31] [IPO]** — Figma IPO at $33; surged to $142.92 first day [Source: NASDAQ IPO records]
+- **[2026-04-14] [Board]** — Mike Krieger resigned from board — modest negative signal [link pending]
+- **[~2026-02-17/18] [Earnings]** — Q4 2025 / FY2025 results: revenue $303.8M Q4 (+40%), FY $1.056B (+41%); NDR 136%; 67 >$1M ARR customers (+68% YoY); $1.7B cash; 8 products (from 4); FY26 guide $1.366–1.374B ([Figma IR](https://investors.figma.com/news-releases))
+- **[2026-02-17] [Partnership]** — Claude Code integration announced ([Anthropic](https://www.anthropic.com/news) / [Figma joint](https://www.figma.com/blog/))
+- **[2025-07-31] [IPO]** — Figma IPO at $33; surged to $142.92 first day ([NASDAQ IPO records](https://www.nasdaq.com/market-activity/ipos))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **2026-05-14** (post-close) | **Q1 2026 earnings** | Tests $315–317M guide; lock-up release tied to this print |
+| 📅 **2026-05-14** (post-close) | **Q1 2026 earnings** | Tests $315–317M guide; lock-up release tied to this print |
 | Summer/Fall 2026 | Q2 + Q3 2026 earnings | Each linked to staggered lock-up releases |
 | 2026-08-31 | Extended lock-up final expiration | Removes the structural supply overhang |
 | Ongoing | AI competitive evidence (Make adoption, customer wins/losses) | Central thesis driver |
@@ -366,29 +381,40 @@ Most retail and even institutional investors are anchored on the IPO-spike narra
 
 **Thesis in one sentence**: Figma is a high-quality category-leader collaborative-design SaaS trading at –88% from its post-IPO peak under structural lock-up pressure and AI-disruption fear, with Q4 2025 fundamentals (136% NDR, +41% revenue, +68% YoY $1M+ customers) materially decoupled from price — creating a contrarian asymmetric setup if the AI thesis is overstated and lock-ups clear by August 2026.
 
-**For a non-holder**: **Initiate (small)** in the **$15–18 attractive entry zone** with explicit recognition that AI-disruption risk is real and the bear case is –60%. The triple-overlap BAIT signal (B Strong + A Moderate + I Moderate) and +64% PW EV justify a contrarian stake — but only at this price-fear level, and not as a high-conviction core position.
+**For a non-holder**: 🟢 **Initiate (small)** in the **$15–18 attractive entry zone** with explicit recognition that AI-disruption risk is real and the bear case is –60%. The triple-overlap BAIT signal (B Strong + A Moderate + I Moderate) and +64% PW EV justify a contrarian stake — but only at this price-fear level, and not as a high-conviction core position.
 
-**For a current holder**: **Hold / Add** — fundamentals do not support a price collapse this severe. Add only on dips into the $14–16 range. Trim into $35+ once lock-ups clear and growth durability is confirmed.
+**For a current holder**: 🟢 **Hold / Add** — fundamentals do not support a price collapse this severe. Add only on dips into the $14–16 range. Trim into $35+ once lock-ups clear and growth durability is confirmed.
 
-**Attractive entry zone**: **$15 – $18** (rationale: ~5–6× FY26 revenue with +30% growth; deep discount to peer set; coincides with peak lock-up pressure + maximum AI-fear narrative)
+🎯 **Attractive entry zone**: **$15 – $18** (rationale: ~5–6× FY26 revenue with +30% growth; deep discount to peer set; coincides with peak lock-up pressure + maximum AI-fear narrative)
 
-**Trim zone**: **$35 – $50** (rationale: 8–12× FY26 revenue; back to high-quality SaaS multiples; reflects AI-thesis fade + lock-ups cleared)
+🎯 **Trim zone**: **$35 – $50** (rationale: 8–12× FY26 revenue; back to high-quality SaaS multiples; reflects AI-thesis fade + lock-ups cleared)
 
-**Exit / avoid zone**: **>$70** (rationale: would require a return to 2021-style SaaS multiples, which is not the new normal)
+🔴 **Exit / avoid zone**: **>$70** (rationale: would require a return to 2021-style SaaS multiples, which is not the new normal)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Exit):
-- Q1 2026 revenue below $310M (low end of guide)
-- NDR drops below 120% in any quarter
-- Make weekly adoption stalls or declines among $100K+ customers
-- Specific large enterprise customer announces Cursor/Lovable/v0 displacement
-- FY26 guide cut at any point
-- Dylan Field departure
-- Lock-up expirations create cascading 30%+ further drawdowns post-August 2026
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
+- ⚠️ Q1 2026 revenue below $310M (low end of guide)
+- ⚠️ NDR drops below 120% in any quarter
+- ⚠️ Make weekly adoption stalls or declines among $100K+ customers
+- ⚠️ Specific large enterprise customer announces Cursor/Lovable/v0 displacement
+- ⚠️ FY26 guide cut at any point
+- ⚠️ Dylan Field departure
+- ⚠️ Lock-up expirations create cascading 30%+ further drawdowns post-August 2026
 
-**Next review trigger**: **Q1 2026 earnings — May 14, 2026 (post-close)**. Key items: (1) revenue vs. $315–317M guide, (2) NDR (must hold ≥125%), (3) Make adoption metrics, (4) FY26 guide reaffirmation, (5) cash burn rate, (6) management commentary on AI competition.
+📅 **Next review trigger**: **Q1 2026 earnings — May 14, 2026 (post-close)**. Key items: (1) revenue vs. $315–317M guide, (2) NDR (must hold ≥125%), (3) Make adoption metrics, (4) FY26 guide reaffirmation, (5) cash burn rate, (6) management commentary on AI competition.
 
 ---
 
-*Sources: Figma Q4 2025 / FY2025 press release and earnings call transcript (~2026-02-17, IR / Yahoo Finance / Stocktitan); Figma IPO disclosures (S-1, July 31, 2025); Perplexity Finance / IPOScoop / InvestorPlace coverage of post-IPO price action (Feb–Apr 2026); Sherwood News on lock-up expiration mechanics (Q1 2026 print); Yahoo Finance JSON API live price (2026-04-24); LinkedIn / mosbackr lock-up commentary; news reports on Mike Krieger board resignation (April 14, 2026).*
+### Sources
+
+- [Figma Investor Relations — News Releases](https://investors.figma.com/news-releases) (Q4 2025 / FY2025 press release and earnings call transcript, ~2026-02-17)
+- [SEC EDGAR — Figma filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=figma&type=S-1) (Figma IPO S-1, July 31, 2025)
+- [Yahoo Finance — FIG quote](https://finance.yahoo.com/quote/FIG) (live price 2026-04-24)
+- [Stocktitan — FIG](https://www.stocktitan.net/news/FIG/) / [InvestorPlace — FIG](https://investorplace.com/?s=figma) / [IPOScoop — FIG](https://www.iposcoop.com/?s=figma) (post-IPO price action coverage, Feb–Apr 2026)
+- [Perplexity Finance — FIG](https://www.perplexity.ai/finance/FIG) (YTD performance)
+- [NASDAQ — IPO records](https://www.nasdaq.com/market-activity/ipos) (Figma IPO at $33, 2025-07-31)
+- [Anthropic news](https://www.anthropic.com/news) / [Figma blog](https://www.figma.com/blog/) (Claude Code integration, 2026-02-17)
+- Sherwood News on lock-up expiration mechanics [link pending]
+- LinkedIn / mosbackr lock-up commentary [link pending]
+- News reports on Mike Krieger board resignation (April 14, 2026) [link pending]
 
 *Data gaps flagged: precise diluted share count and resulting market cap; exact short interest %; geographic revenue split (full disclosure pending FY26 10-Q).*

@@ -1,9 +1,24 @@
 # TSLA — Tesla, Inc.
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $376.30 at April 24, 2026 (Yahoo Finance; April 24 close)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$376.30** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/TSLA); April 24 close)
 > **Ticker Type**: Auto OEM + Energy storage + AI/robotaxi optionality (multi-modal: capital-intensive auto core + capital-light software/AI optionality layer)
+
+---
+
+## Summary
+
+- 🟡 **Thesis**: Multi-modal platform (auto + energy + autonomy + robotics; **Narrow auto/energy + Optional Wide autonomy moat**) at ~125× FY26E P/E that already discounts substantial FSD/robotaxi/Cybercab success — 3-yr PW EV roughly flat with spot.
+- 🟡 **For a non-holder: Watch** at $376.30 — initiate only on pullback to $280–320; entering here commits capital to a coin flip.
+- 🟡 **For a current holder: Hold** — do not add or exit; FSD/Cybercab catalysts live over next 6–12 months.
+- 🎯 **Attractive entry zone**: **$280 – $320** (~30–40× FY26E EPS at $8 base; matches multiple bear scenarios as floor).
+- 🎯 **Trim zone**: **$450 – $500** (prior 52-wk high; re-prices 90%+ probability of bull outcome).
+- 📉 **Price action**: $376.30, **–24.6% from 52-wk high** ($498.83), +39.0% above 52-wk low ($270.78).
+- 📅 **Next catalyst**: **Q2 2026 earnings — late July 2026 (est.)**. First full quarter with Cybercab production; tests inventory normalization.
+- ⚠️ **Top risk**: Auto demand softness extends — 50K Q1 inventory build (50% prob, High impact) — already manifest.
+- ⚠️ **Second risk**: Robotaxi service incident / fatal accident (20% prob, Critical impact) — would freeze rollout.
+- 🟡 **BAIT verdict**: **Triple lens (B+A+I+T all Moderate)** — Conviction **Moderate**. PW EV ~$393 (3-yr) implies +4.4% / ~1.4%/yr; symmetric distribution.
 
 ---
 
@@ -11,7 +26,7 @@
 
 Tesla (NASDAQ: TSLA) is the leading western pure-play EV manufacturer plus a vertically integrated energy storage business plus an AI / autonomy / robotics platform. The company splits operationally into: (1) **Automotive** — Model 3, Y, S, X, Cybertruck, plus the imminent Cybercab and an entry-level "Model 2" successor, (2) **Energy Generation & Storage** — Megapack utility-scale + Powerwall residential, (3) **Services & Other** — supercharging, used cars, parts, (4) **Optionality** — FSD (Full Self-Driving) software, Robotaxi network (launched in Austin June 2025; Dallas + Houston unsupervised April 2026), Optimus humanoid robot, Dojo training compute.
 
-Q1 2026 revenue $22.38B (+16% YoY); GAAP net income $1.45B; gross margin 21.1% (highest in years); FCF $1.44B (sharp positive surprise vs. –$1.57B consensus); 358,023 vehicles delivered (missed by ~7,600 units); 50,000+ inventory build [Source: Tesla Q1 2026 earnings, April 22, 2026]. Cybercab production "officially begun" per Musk on Q1 call [Source: Bloomberg, April 24, 2026].
+Q1 2026 revenue $22.38B (+16% YoY); GAAP net income $1.45B; gross margin 21.1% (highest in years); FCF $1.44B (sharp positive surprise vs. –$1.57B consensus); 358,023 vehicles delivered (missed by ~7,600 units); 50,000+ inventory build ([Tesla Q1 2026 earnings](https://ir.tesla.com/press), April 22, 2026). Cybercab production "officially begun" per Musk on Q1 call ([Bloomberg](https://www.bloomberg.com/search?query=tesla%20cybercab), April 24, 2026).
 
 ---
 
@@ -50,7 +65,7 @@ The bull case requires (a) FSD reaching unsupervised L4 in 12+ states by year-en
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$376.30** | April 24, 2026 (Yahoo Finance, close) |
+| Live Price | **$376.30** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/TSLA), close) |
 | Previous Close | $373.72 | +0.69% session |
 | 52-Week High | $498.83 | Late 2025 post-election rally peak |
 | 52-Week Low | $270.78 | Spring 2025 |
@@ -98,7 +113,7 @@ The bull case requires (a) FSD reaching unsupervised L4 in 12+ states by year-en
 | FCF | $7.6B | $4.4B | $3.6B | ~$5B | $1.4B |
 | Deliveries (M units) | 1.31 | 1.81 | 1.79 | 1.80 | 0.358 |
 
-[Source: Tesla 10-K FY2024; Q1 2026 release April 22, 2026]
+*Sources: [Tesla 10-K FY2024 (SEC EDGAR)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001318605&type=10-K); [Tesla Q1 2026 release](https://ir.tesla.com/press), April 22, 2026*
 
 ---
 
@@ -169,7 +184,7 @@ The bull case requires (a) FSD reaching unsupervised L4 in 12+ states by year-en
 ## Section 7 — Strategic Growth Initiatives
 
 1. **Cybercab production ramp**: Just begun (Apr 2026); target 2M+ annual run rate at maturity (Musk projection — large discount appropriate). The single most important growth lever.
-2. **Robotaxi network expansion**: TX live (Austin/Dallas/Houston unsupervised); target ~12 states by year-end 2026 [Source: Q1 2026 call, Musk]; pushback signaled in 5 cities [Source: Electrek, April 22, 2026]
+2. **Robotaxi network expansion**: TX live (Austin/Dallas/Houston unsupervised); target ~12 states by year-end 2026 ([Q1 2026 call, Musk](https://ir.tesla.com/press)); pushback signaled in 5 cities ([Electrek](https://electrek.co/?s=tesla+robotaxi), April 22, 2026)
 3. **Affordable model ("Model 2" / next-gen Model Y refresh)**: $25–30K target; ramp 2026–2027
 4. **Optimus humanoid robot**: Low-volume internal use 2025; commercial pilots 2026; volume production 2027 (per Musk; heavily discount)
 5. **Energy storage scale-up**: Megapack pipeline ~$25B+; Powerwall expanding
@@ -181,13 +196,13 @@ The bull case requires (a) FSD reaching unsupervised L4 in 12+ states by year-en
 
 | Risk | Impact | Probability | Notes |
 |------|--------|-------------|-------|
-| Auto demand softness extends (50K Q1 inventory build) | High | 50% | Already manifest |
-| FSD L4 deployment delayed beyond 2027 | High | 40% | Regulatory + tech risk |
-| BYD / Chinese OEM share gain accelerates globally | High | 50% | Already happening in EU/SEA |
-| Musk attention divides further (xAI, X, etc.) | High | 60% | Structural |
-| Auto GM compresses below 15% in 2026 | High | 25% | Q1 disproved this — for now |
-| Robotaxi service incident (fatal accident) | Critical | 20% | Tail risk; would freeze rollout |
-| Cybercab production slips past 2027 | High | 35% | Rivian R1T/Cybertruck precedent |
+| ⚠️ Auto demand softness extends (50K Q1 inventory build) | High | 50% | Already manifest |
+| ⚠️ FSD L4 deployment delayed beyond 2027 | High | 40% | Regulatory + tech risk |
+| ⚠️ BYD / Chinese OEM share gain accelerates globally | High | 50% | Already happening in EU/SEA |
+| ⚠️ Musk attention divides further (xAI, X, etc.) | High | 60% | Structural |
+| ⚠️ Auto GM compresses below 15% in 2026 | High | 25% | Q1 disproved this — for now |
+| ⚠️ Robotaxi service incident (fatal accident) | Critical | 20% | Tail risk; would freeze rollout |
+| ⚠️ Cybercab production slips past 2027 | High | 35% | Rivian R1T/Cybertruck precedent |
 | Optimus is permanently 5+ years from product | Medium | 50% | Doesn't hurt thesis if priced out |
 | Tariff / trade war disrupts China operations | Medium | 30% | Geopolitical |
 | Brand damage in EU permanent | Medium | 40% | Already manifest |
@@ -254,7 +269,7 @@ The bull case requires (a) FSD reaching unsupervised L4 in 12+ states by year-en
 
 ### Analyst Consensus (as of April 24, 2026)
 
-- **Aggregate rating**: Hold (26-analyst panel; mixed)
+- **Aggregate rating**: 🟡 Hold (26-analyst panel; mixed) ([stockanalysis.com](https://stockanalysis.com/stocks/tsla/forecast/) / [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/TSLA/forecast/))
 - **Median target**: ~$403 (33-analyst panel)
 - **High / low**: $600 (Wedbush, Apr 23, 2026) / $24.86 (GLJ, Apr 21, 2026)
 - **Implied upside from $376.30**: +7% to median; range is +59% to –93%
@@ -265,14 +280,14 @@ The bull case requires (a) FSD reaching unsupervised L4 in 12+ states by year-en
 
 | Date | Firm | Action | Target | Note |
 |------|------|--------|--------|------|
-| 2026-04-23 | Wedbush (Ives) | Reiterated Buy | $600 | High point of the panel |
+| 2026-04-23 | Wedbush (Ives) | Reiterated Buy | $600 | High point of the panel [link pending] |
 | 2026-04-22 | (multiple) | Various | $300–500 | Post-Q1 print |
-| 2026-04-21 | GLJ Research | Reiterated Sell | $24.86 | Bear extreme |
+| 2026-04-21 | GLJ Research | Reiterated Sell | $24.86 | Bear extreme [link pending] |
 
 ### Short Interest
 
 - **Latest**: ~1.82% of float (60.86M shares; ~$22.7B notional at spot)
-- **Trend**: Decreasing (61.84M → 60.86M) [Source: MarketBeat, April 2026]
+- **Trend**: Decreasing (61.84M → 60.86M) ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/TSLA/short-interest/) / [Fintel](https://fintel.io/ss/us/tsla), April 2026)
 - **Interpretation**: Despite the size of the dollar short notional, % of float is *low* — TSLA is not heavily shorted. The notional is large in absolute terms and would matter on a positive surprise.
 
 ### Insider Activity (Last 90 Days)
@@ -282,23 +297,23 @@ The bull case requires (a) FSD reaching unsupervised L4 in 12+ states by year-en
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-24] [AI/Strategy]** — Cybercab production "officially begun" per Musk on Q1 call [Source: Bloomberg]
-- **[2026-04-22] [Earnings]** — Q1 2026 results: Rev $22.38B (+16%), GM 21.1%, FCF $1.44B beat, GAAP NI $1.45B; deliveries 358K missed by 7.6K; inventory build 50K+ [Source: Tesla IR]
-- **[2026-04-22] [Strategy]** — Robotaxi launch pushback signaled in 5 cities; "dozen states by year-end" target reaffirmed [Source: Electrek, Apr 22, 2026]
-- **[2026-04-18] [Operational]** — Fully unsupervised robotaxi service launched in Dallas + Houston [Source: tech-insider.org]
-- **[2026 ongoing]** — FSD "Spring Update" pushed to customer cars [Source: Teslarati]
+- **[2026-04-24] [AI/Strategy]** — Cybercab production "officially begun" per Musk on Q1 call ([Bloomberg](https://www.bloomberg.com/search?query=tesla%20cybercab))
+- **[2026-04-22] [Earnings]** — Q1 2026 results: Rev $22.38B (+16%), GM 21.1%, FCF $1.44B beat, GAAP NI $1.45B; deliveries 358K missed by 7.6K; inventory build 50K+ ([Tesla IR](https://ir.tesla.com/press))
+- **[2026-04-22] [Strategy]** — ⚠️ Robotaxi launch pushback signaled in 5 cities; "dozen states by year-end" target reaffirmed ([Electrek](https://electrek.co/?s=tesla+robotaxi), Apr 22, 2026)
+- **[2026-04-18] [Operational]** — Fully unsupervised robotaxi service launched in Dallas + Houston ([tech-insider.org](https://tech-insider.org/?s=tesla))
+- **[2026 ongoing]** — FSD "Spring Update" pushed to customer cars ([Teslarati](https://www.teslarati.com/?s=fsd+spring+update))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **July 2026 (est.)** | **Q2 2026 earnings** | First full quarter with Cybercab production; tests inventory normalization; FSD adoption |
+| 📅 **July 2026 (est.)** | **Q2 2026 earnings** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NASDAQ/TSLA/earnings/)) | First full quarter with Cybercab production; tests inventory normalization; FSD adoption |
 | H2 2026 | Robotaxi expansion to 12 states (target) | Single most important catalyst |
 | H2 2026 | Cybercab pilot deliveries (target) | Manufacturing milestone |
 | 2026–2027 | Affordable Model 2 reveal/launch | Volume gravity-fix |
 | Q4 2026 | China FSD approvals (rolling) | Largest non-U.S. monetization unlock |
 | Ongoing | Optimus commercial pilot announcements | Sentiment driver, not yet financial |
-| Ongoing | Mega comp package shareholder vote | Confirms Musk runway commitment |
+| 💰 Ongoing | Mega comp package shareholder vote | Confirms Musk runway commitment |
 
 ---
 
@@ -382,28 +397,41 @@ The –25% drawdown from $498.83 reflects partial mean reversion from extreme po
 
 **Thesis in one sentence**: Tesla is a multi-modal platform with auto + energy + autonomy + robotics ambitions priced at $376 / $1.4T market cap that already discounts substantial FSD/robotaxi/Cybercab success — making the 3-year PW EV ($393) roughly flat with spot and the risk-reward symmetric, not favorable.
 
-**For a non-holder**: **Watch** at $376.30. Initiate only on a pullback to **$280–320 attractive entry zone** where the bear case is more priced in and asymmetry tilts favorable. Initiating at $376 commits capital to a coin flip.
+**For a non-holder**: 🟡 **Watch** at $376.30. Initiate only on a pullback to **$280–320 attractive entry zone** where the bear case is more priced in and asymmetry tilts favorable. Initiating at $376 commits capital to a coin flip.
 
-**For a current holder**: **Hold**. Do not add at these levels; do not exit either — the FSD/Cybercab thesis has live, monitorable catalysts in the next 6–12 months. Trim only if position size has grown disproportionate due to the rally.
+**For a current holder**: 🟡 **Hold**. Do not add at these levels; do not exit either — the FSD/Cybercab thesis has live, monitorable catalysts in the next 6–12 months. Trim only if position size has grown disproportionate due to the rally.
 
-**Attractive entry zone**: **$280 – $320** (rationale: ~30–40× FY26E EPS at $8 base; gives FSD optionality for a price closer to fundamentals; matches multiple bear scenarios as floor)
+🎯 **Attractive entry zone**: **$280 – $320** (rationale: ~30–40× FY26E EPS at $8 base; gives FSD optionality for a price closer to fundamentals; matches multiple bear scenarios as floor)
 
-**Trim zone**: **$450 – $500** (rationale: prior 52-wk high; would re-price 90%+ probability of bull outcome; further upside requires hard FSD/robotaxi delivery, not narrative)
+🎯 **Trim zone**: **$450 – $500** (rationale: prior 52-wk high; would re-price 90%+ probability of bull outcome; further upside requires hard FSD/robotaxi delivery, not narrative)
 
-**Exit / avoid zone**: **>$550** (rationale: 4× current EBITDA-multiple peer ceiling; would require Cybercab + FSD both validated; not an asymmetric setup)
+🔴 **Exit / avoid zone**: **>$550** (rationale: 4× current EBITDA-multiple peer ceiling; would require Cybercab + FSD both validated; not an asymmetric setup)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Exit):
-- Two consecutive quarters of >5% YoY auto delivery declines
-- Auto GM (ex-credits) compresses below 13%
-- Fatal robotaxi incident triggers federal NHTSA investigation
-- FSD L4 timeline pushed past mid-2027 explicitly
-- Cybercab production cap revealed below 200K annual rate
-- Inventory build extends past Q3 2026 (>100K cumulative excess)
-- BYD or Chinese OEM gains material U.S. or EU market access
-- Musk reduces Tesla operating involvement materially (e.g., named non-executive chair)
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
+- ⚠️ Two consecutive quarters of >5% YoY auto delivery declines
+- ⚠️ Auto GM (ex-credits) compresses below 13%
+- ⚠️ Fatal robotaxi incident triggers federal NHTSA investigation
+- ⚠️ FSD L4 timeline pushed past mid-2027 explicitly
+- ⚠️ Cybercab production cap revealed below 200K annual rate
+- ⚠️ Inventory build extends past Q3 2026 (>100K cumulative excess)
+- ⚠️ BYD or Chinese OEM gains material U.S. or EU market access
+- ⚠️ Musk reduces Tesla operating involvement materially (e.g., named non-executive chair)
 
-**Next review trigger**: **Q2 2026 earnings — late July 2026 (estimated)**. Key items: (1) inventory normalization vs. 50K Q1 build, (2) Cybercab production unit count, (3) FSD adoption rate, (4) robotaxi expansion city count vs. 12-state year-end target, (5) FY26 GM trajectory.
+📅 **Next review trigger**: **Q2 2026 earnings — late July 2026 (estimated)**. Key items: (1) inventory normalization vs. 50K Q1 build, (2) Cybercab production unit count, (3) FSD adoption rate, (4) robotaxi expansion city count vs. 12-state year-end target, (5) FY26 GM trajectory.
 
 ---
 
-*Sources: Tesla Q1 2026 press release & earnings call (IR, April 22, 2026); Yahoo Finance live price (2026-04-24); Bloomberg (Cybercab production; April 24, 2026); Electrek (Q1 preview, robotaxi pushback, April 21–22, 2026); Tesla 10-K FY2024 (SEC EDGAR); Tipranks / MarketBeat / Public.com analyst consensus; Wedbush / GLJ Research / Wells Fargo published targets; CNBC Q1 2026 earnings coverage; Drive Tesla Canada (Q1 2026); Quiver Quantitative; tech-insider.org (Dallas/Houston launch).*
+### Sources
+
+- [Tesla Investor Relations](https://ir.tesla.com/press) (Q1 2026 press release & earnings call, April 22, 2026)
+- [SEC EDGAR — Tesla filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001318605&type=10-K) (10-K FY2024, 10-Q)
+- [Yahoo Finance — TSLA quote](https://finance.yahoo.com/quote/TSLA) (live price 2026-04-24)
+- [Bloomberg — Tesla coverage](https://www.bloomberg.com/search?query=tesla%20cybercab) (Cybercab production; April 24, 2026)
+- [Electrek — Tesla coverage](https://electrek.co/?s=tesla+robotaxi) (Q1 preview, robotaxi pushback, April 21–22, 2026)
+- [stockanalysis.com — TSLA](https://stockanalysis.com/stocks/tsla/forecast/) (analyst consensus)
+- [MarketBeat — TSLA](https://www.marketbeat.com/stocks/NASDAQ/TSLA/) (analyst consensus, short interest, earnings calendar)
+- [Fintel — TSLA short interest](https://fintel.io/ss/us/tsla)
+- [CNBC — Tesla Q1 2026 coverage](https://www.cnbc.com/search/?query=tesla)
+- [tech-insider.org — Tesla coverage](https://tech-insider.org/?s=tesla) (Dallas/Houston launch)
+- [Teslarati](https://www.teslarati.com/?s=fsd+spring+update) (FSD Spring Update)
+- Wedbush / GLJ Research / Wells Fargo published targets [link pending]

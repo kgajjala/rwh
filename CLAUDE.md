@@ -1,4 +1,4 @@
-# CLAUDE.md — kg-invest-wiki Schema (v2.4)
+# CLAUDE.md — kg-invest-wiki Schema (v2.5)
 
 This is the instruction file for the LLM agent that maintains this wiki.
 **Read this file at the start of every session before making any changes to `wiki/`, `raw/`, or `outputs/`.**
@@ -13,7 +13,7 @@ session starts from the latest synthesis, not a blank page.
 
 - **Owner**: Karthik G
 - **Started**: April 2026
-- **Schema version**: v2.4 (April 2026)
+- **Schema version**: v2.5 (April 2026)
 - **Model**: Karpathy LLM Wiki pattern, adapted
 
 ### What this wiki is *not*
@@ -138,6 +138,75 @@ kg-invest-wiki/
       history but the README should reflect current coverage only.
     - **Counter line**: the line directly below the table that begins
       `*N tickers above.*` (or similar) must reflect the current count.
+15. **All sources must be linked**. Every `[Source: ...]` citation and
+    every date-stamped event bullet that names a source MUST be a real
+    Markdown link, not bare text.
+    - **Absolute URL** for anything on the public web — SEC EDGAR
+      filings (`https://www.sec.gov/...`), company IR press releases
+      and transcripts, news articles, aggregators (Yahoo Finance,
+      stockanalysis.com, Fintel, MarketBeat, OpenInsider, etc.).
+      Always link to the *specific* document (the 8-K page, the
+      press-release URL, the transcript URL), not the publisher's
+      home page.
+    - **Relative path** when the underlying document is stored
+      locally under `raw/[TICKER]/...` — e.g.
+      `[Q4 2025 PR](../../../raw/CPNG/press-releases/2026-02-Q4-results.pdf)`.
+      Prefer the relative link when the file exists locally; the web
+      URL is the fallback when it does not.
+    - **Format**: `[Human-readable label](URL-or-path)`. The label
+      should name the source briefly (e.g. "Coupang Q4 2025 PR",
+      "10-K FY2025", "Yahoo Finance"). Do NOT use bare `[Source: ...]`
+      tags or unlinked publisher names anywhere in `wiki/` or `outputs/`.
+    - **Unresolvable sources**: if no URL or local path can be
+      identified for a citation, leave the bare text and append
+      `[link pending]` so the next pass can fix it. Never silently
+      drop the citation.
+    - This rule applies to all wiki content (`wiki/tickers/*/*.md`,
+      `wiki/index.md`, `wiki/watchlist.md`, `wiki/summaries.md`,
+      `wiki/frameworks/*.md`) and all generated outputs
+      (`outputs/[TICKER]/*.md`, `outputs/weekly/*.md`).
+16. **Visual emphasis & emoji conventions**. Use bold, italics, and a
+    small standardized emoji vocabulary so key points are scannable.
+    Do not sprinkle emoji decoratively — each glyph below carries a
+    specific meaning:
+    - 🟢 **Bullish / Strengthened thesis / Initiate / Add** — Section
+      11 status, changelog "Strengthened", Section 15 action verbs
+    - 🔴 **Bearish / Weakened thesis / Exit / Avoid** — same surfaces
+    - 🟡 **Neutral / Unchanged / Hold / Watch** — same surfaces
+    - ⚠️ **Material risk or warning** — Section 8 high-impact rows,
+      thesis-break triggers in Section 15
+    - ✅ **De-risked / resolved / delivered catalyst** — pair with
+      the `~~struck-through~~` pattern from v2.3
+    - 📅 **Date-anchored upcoming catalyst** — earnings dates, FDA
+      decisions, shareholder meetings in Section 11 "Upcoming"
+    - 💰 **Capital allocation / buyback / dividend event**
+    - 📈 / 📉 **Notable price or metric move** (sparing — only when
+      magnitude is the point)
+    - 🎯 **Price target / entry zone / trim zone** in Section 15
+    - **Bold** the punchline of each section's first paragraph and
+      the action-verb line in Section 15. **Bold** key numbers in
+      tables only when they carry the thesis (an MLR print, a Korea
+      op-margin delta) — not every number.
+    - *Italics* for source attributions inside paragraphs and for
+      meta-tags (*[Estimate]*, *[Analyst consensus]*).
+    - Markdown does not render hex colors — semantic color is conveyed
+      via the emoji palette above. Do not embed HTML `<span style>`
+      tags; they break GitHub rendering in some views.
+17. **Summary section at the top of every ticker page**. Every
+    `wiki/tickers/[TICKER]/[TICKER].md` MUST open (immediately after
+    the header block, before "Business Overview") with a `## Summary`
+    section (literal heading — not "Section 0 — Summary") containing
+    **up to 10 bullets** distilled from the rest of the page. The Summary is a synthesis, not new analysis — every
+    bullet must be supported by content already in Sections 1–15.
+    - Bullets should cover (pick the 10 most thesis-relevant):
+      thesis sentence, moat verdict, pivotal question, recommendation
+      verbs (non-holder / holder), entry/trim zones, BAIT verdict,
+      next catalyst with date, top 1–2 risks, key valuation anchor,
+      price action context.
+    - Use the emoji vocabulary from Rule #16 to make signals scannable.
+    - Refresh on every material update (Workflow B Step 3a) — list
+      `Summary` as a refreshed section in the changelog `What Changed`
+      block whenever Section 15 or Section 11 changed.
 
 ---
 
@@ -289,11 +358,12 @@ every material claim. Tag estimates explicitly.
 ### Step 5 — Write wiki files
 - `wiki/tickers/[TICKER]/[TICKER].md` — single consolidated wiki page. Required structure:
   1. **Header block** — ticker, company name, last-updated date, schema version
-  2. **Business Overview** (1–2 paragraphs: what the company does, brands, revenue streams)
-  3. **Moat Assessment** (Wide / Narrow / None + sources + vulnerabilities)
-  4. **Pivotal Investment Question** (the one question the thesis turns on)
-  5. **Key Stats Snapshot** (price, market cap, EV, FY revenue, FCF, key operating metrics)
-  6. **Sections 1–15** of the 15-section thesis structure (financial tables embedded inline in Sections 2, 3, 10, 14 — do not duplicate elsewhere)
+  2. **Summary** (≤10 bullets per Rule #17 — thesis sentence, moat, recommendation, entry zone, BAIT verdict, next catalyst, top risks; emoji-tagged per Rule #16)
+  3. **Business Overview** (1–2 paragraphs: what the company does, brands, revenue streams)
+  4. **Moat Assessment** (Wide / Narrow / None + sources + vulnerabilities)
+  5. **Pivotal Investment Question** (the one question the thesis turns on)
+  6. **Key Stats Snapshot** (price, market cap, EV, FY revenue, FCF, key operating metrics)
+  7. **Sections 1–15** of the 15-section thesis structure (financial tables embedded inline in Sections 2, 3, 10, 14 — do not duplicate elsewhere)
 - `wiki/tickers/[TICKER]/changelog.md` — initial entry "v2 Initial Ingest"
 
 If legacy `overview.md`, `thesis.md`, `financials.md` files exist for this
@@ -640,6 +710,30 @@ version (v3, v4, ...). Minor edits within a version are fine without bump.
 - **Changelog entries should mirror section refreshes** — one bullet per
   refreshed section in the `What Changed` block, so reviewers can audit
   whether the full surface was walked.
+
+### v2.5 changelog (April 2026 — linked sources, visual emphasis, top-of-page Summary)
+- **Added Core Rule #15: All sources must be linked.** Every
+  `[Source: ...]` citation and date-stamped event bullet must be a
+  real Markdown link — absolute URL for web sources (SEC EDGAR,
+  company IR, news, aggregators), relative path when the file is
+  stored locally under `raw/[TICKER]/...`. Bare `[Source: name]`
+  text is no longer acceptable. Unresolvable citations get a
+  `[link pending]` tag for the next pass.
+- **Added Core Rule #16: Visual emphasis & emoji conventions.**
+  Standardized a small emoji vocabulary (🟢🔴🟡⚠️✅📅💰📈📉🎯) so
+  thesis status, risks, and catalysts are scannable at a glance.
+  Bold reserved for section punchlines and thesis-carrying numbers;
+  italics for source attributions and `*[Estimate]*`-style meta tags.
+  Hex colors / HTML spans explicitly disallowed (GitHub render gaps).
+- **Added Core Rule #17: Section 0 — Summary at the top of every
+  ticker page.** Up to 10 bullets distilled from Sections 1–15,
+  emoji-tagged, refreshed whenever Section 11 or 15 changes. Gives
+  a reader the entire thesis at a glance before scrolling.
+- **Updated Workflow A Step 5** per-ticker file structure to add
+  `Section 0 — Summary` between the header block and Business Overview.
+- **Existing-content sweep**: a one-time retrofit pass linkifies
+  citations and adds Summary sections to all 34 ticker pages without
+  re-fetching primary sources or recomputing analysis.
 
 ### v2.4 changelog (April 2026 — README ticker table maintenance)
 - **Added Core Rule #14: Maintain the README ticker table.** The

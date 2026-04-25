@@ -1,9 +1,24 @@
 # DASH — DoorDash, Inc.
 
-> **Schema**: v2.1
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $176.78 at April 24, 2026 (Yahoo Finance; intraday, previous close $187.22 → –5.6% session)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$176.78** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/DASH); intraday, previous close $187.22 → –5.6% session)
 > **Ticker Type**: Three-sided marketplace
+
+---
+
+## Summary
+
+- 🟡 **Thesis**: Dominant U.S. local-commerce marketplace (Narrow moat, 60–67% share) with credible advertising + international + autonomous margin-expansion optionality, but ~26× trailing EBITDA already prices aggressive execution; Buffett-lens fair value $120–140.
+- 🟡 **For a non-holder: Watch** at $176.78 — initiate only on drop into entry zone where asymmetry tilts favorable.
+- 🟡 **For a current holder: Hold** — do not add, do not exit. Q1 2026 print on May 6 is hard catalyst.
+- 🎯 **Attractive entry zone**: **$140 – $155** (15–18× 2026E Adj EBITDA; Buffett fair-value zone).
+- 🎯 **Trim zone**: **$245 – $275** (top of analyst consensus band; 22–24× 2026E Adj EBITDA re-rate).
+- 📉 **Price action**: $176.78, **–38% from 52-wk high** ($285.50), +23% above 52-wk low ($143.30); –5.6% session Apr 24.
+- 📅 **Next catalyst**: **Q1 2026 earnings — May 6, 2026 (post-close)**. First full quarter with Deliveroo consolidated; $675–775M adj EBITDA guide.
+- ⚠️ **Top risk**: Gig-worker reclassification (AB5-federal) — critical impact, 15% prob; would destroy variable-cost Dasher model.
+- ⚠️ **Second risk**: Margin disappointment vs. guidance (30% prob, medium impact); integration failure across Wolt+Deliveroo+SevenRooms (20% prob, high impact).
+- 🟡 **BAIT verdict**: **Double overlap** (B + A + I, all Moderate; T Weak) — Conviction **Low-Moderate**. Consensus median target $252–278 implies +43–57% upside but PW EV $130 sits below current price.
 
 ---
 
@@ -47,7 +62,7 @@ The answer divides the scenario set: the bull case requires 15% EBITDA margins o
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$176.78** | April 24, 2026 (intraday; Yahoo Finance) |
+| Live Price | **$176.78** | April 24, 2026 (intraday; [Yahoo Finance](https://finance.yahoo.com/quote/DASH)) |
 | Previous Close | $187.22 | Session Δ: –5.6% (stock-specific selloff; broader tape stable) |
 | 52-Week High | $285.50 | October 2025 (post Q3 print) |
 | 52-Week Low | $143.30 | March 2026 |
@@ -249,7 +264,7 @@ The answer divides the scenario set: the bull case requires 15% EBITDA margins o
 
 ### Analyst Consensus (as of mid-April 2026)
 
-- **Aggregate rating**: Buy (34 Buy / 10 Hold / 0 Sell)
+- **Aggregate rating**: 🟢 Buy (34 Buy / 10 Hold / 0 Sell) ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/DASH/) / [TipRanks](https://www.tipranks.com/stocks/dash/forecast))
 - **Median price target**: $252.50 (range $185 – $360)
 - **Alternate aggregator**: $265–277 median depending on panel
 - **Implied upside from $176.78**: +43% to +57% to median targets
@@ -286,18 +301,18 @@ The answer divides the scenario set: the bull case requires 15% EBITDA margins o
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-09] [Corporate]** — DoorDash announced Q1 2026 earnings date of May 6, 2026 [Source: BusinessWire]
-- **[2026-02-18] [Earnings]** — Q4 2025 / FY2025 results. Revenue $3.96B Q4 (+38%), FY $13.72B (+28%); Adj EBITDA $780M Q4, $2.78B FY; GAAP NI $213M Q4, $935M FY; orders 903M Q4 (+32%); exited year at 56M MAU + 35M subs [Source: IR, 10-K]
-- **[2026-02-18] [Filing]** — 10-K filed for FY2025 [Source: SEC EDGAR, CIK 1792789]
-- **[2025-10-02] [M&A]** — Deliveroo acquisition closed ($3.9B) [Source: IR]
-- **[2025 (various)] [M&A]** — SevenRooms acquisition closed ($1.2B) [Source: IR]
-- **[2025-02] [Capital]** — $5B buyback authorization announced [Source: IR]
+- **[2026-04-09] [Corporate]** — DoorDash announced Q1 2026 earnings date of May 6, 2026 ([BusinessWire](https://www.businesswire.com/portal/site/home/?ndmViewId=news_view&searchType=news&searchTerm=DoorDash))
+- **[2026-02-18] [Earnings]** — Q4 2025 / FY2025 results. Revenue $3.96B Q4 (+38%), FY $13.72B (+28%); Adj EBITDA $780M Q4, $2.78B FY; GAAP NI $213M Q4, $935M FY; orders 903M Q4 (+32%); exited year at 56M MAU + 35M subs ([DoorDash IR](https://ir.doordash.com/), 10-K)
+- **[2026-02-18] [Filing]** — 10-K filed for FY2025 ([SEC EDGAR, CIK 1792789](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001792789&type=10-K))
+- 💰 **[2025-10-02] [M&A]** — Deliveroo acquisition closed ($3.9B) ([DoorDash IR](https://ir.doordash.com/))
+- 💰 **[2025 (various)] [M&A]** — SevenRooms acquisition closed ($1.2B) ([DoorDash IR](https://ir.doordash.com/))
+- 💰 **[2025-02] [Capital]** — $5B buyback authorization announced ([DoorDash IR](https://ir.doordash.com/))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **2026-05-06** (post-close) | **Q1 2026 earnings** | First full quarter with Deliveroo consolidated; tests $675–775M adj EBITDA guide; H2 pacing color |
+| 📅 **2026-05-06** (post-close) | **Q1 2026 earnings** | First full quarter with Deliveroo consolidated; tests $675–775M adj EBITDA guide; H2 pacing color |
 | Q2 2026 (est. early Aug) | Q2 2026 earnings | Should start showing "H2 significantly stronger" thesis if on track |
 | FY2026 (rolling) | Advertising scale-up disclosures | Primary margin-expansion thesis signal |
 | FY2026 (rolling) | Grocery unit economics (management target: positive by H2 2026) | Second margin-expansion thesis signal |
@@ -390,28 +405,36 @@ Consensus median target of ~$252–278 implies +43–57% upside in ~12–18 mont
 
 **Thesis in one sentence**: DoorDash is the dominant U.S. local-commerce marketplace with credible advertising + international + autonomous margin-expansion optionality, but at ~26× trailing EBITDA the multiple already prices in aggressive execution; Buffett-lens fair value is $120–140 and the 5-year PW EV sits below the current price even after the –38% selloff.
 
-**For a non-holder**: **Watch** at $176.78. Initiate only if price drops into the **$140–155 attractive entry zone**, where Buffett-lens fair value becomes the floor and asymmetry tilts favorable. At current prices the 5-year PW EV of $130 is below spot — inadequate compensation for execution risk, integration risk (Wolt + Deliveroo + SevenRooms simultaneously), and regulatory tail risk.
+**For a non-holder**: 🟡 **Watch** at $176.78. Initiate only if price drops into the **$140–155 attractive entry zone**, where Buffett-lens fair value becomes the floor and asymmetry tilts favorable. At current prices the 5-year PW EV of $130 is below spot — inadequate compensation for execution risk, integration risk (Wolt + Deliveroo + SevenRooms simultaneously), and regulatory tail risk.
 
-**For a current holder**: **Hold** — do not add, do not exit. The Q1 2026 print on May 6 is a hard catalyst that will either confirm the H2 re-acceleration thesis (hold, possibly add on beat) or weaken it (reduce toward target size). Exiting pre-print at 38% off the high is asymmetric — you crystallize the loss and forfeit the re-rating optionality on consensus upgrades. The $5B untouched buyback is a tail-risk mitigant (downside floor from potential capital-return pivot).
+**For a current holder**: 🟡 **Hold** — do not add, do not exit. The Q1 2026 print on May 6 is a hard catalyst that will either confirm the H2 re-acceleration thesis (hold, possibly add on beat) or weaken it (reduce toward target size). Exiting pre-print at 38% off the high is asymmetric — you crystallize the loss and forfeit the re-rating optionality on consensus upgrades. The $5B untouched buyback is a tail-risk mitigant (downside floor from potential capital-return pivot).
 
-**Attractive entry zone**: **$140 – $155** (rationale: 15–18× 2026E Adj EBITDA; aligns with Buffett fair-value zone; below Stifel's $185 bear case target)
+🎯 **Attractive entry zone**: **$140 – $155** (rationale: 15–18× 2026E Adj EBITDA; aligns with Buffett fair-value zone; below Stifel's $185 bear case target)
 
-**Trim zone**: **$245 – $275** (rationale: top of analyst consensus band; 22–24× 2026E Adj EBITDA re-rate would already be priced; further upside becomes story-dependent)
+🎯 **Trim zone**: **$245 – $275** (rationale: top of analyst consensus band; 22–24× 2026E Adj EBITDA re-rate would already be priced; further upside becomes story-dependent)
 
-**Exit / avoid zone**: **>$300** (rationale: 2025-peak valuation required pricing in all three of advertising + international + autonomous successfully; the prior $285 top proved unsustainable)
+🔴 **Exit / avoid zone**: **>$300** (rationale: 2025-peak valuation required pricing in all three of advertising + international + autonomous successfully; the prior $285 top proved unsustainable)
 
-**Thesis-break triggers** (would force re-rating toward Exit / Avoid):
-- Q1 2026 adj EBITDA < $650M absent an external shock of clear magnitude
-- Full-year 2026 adj EBITDA guide implies H2 < 55% of full year when refreshed at Q2
-- U.S. market share falls below 58% for two consecutive quarters (Bloomberg Second Measure)
-- Gig-worker reclassification legislation advances materially at state (CA/NY) or federal level
-- Advertising revenue growth decelerates to below 25% YoY for two consecutive quarters
-- Deliveroo FY2026 adj EBITDA falls below $140M (30% below $200M target)
-- Any new commission cap legislation passes in a top-10 U.S. metro
-- Tony Xu founder departure (not a current signal, but a structural one)
+**Thesis-break triggers** ⚠️ (would force re-rating toward Exit / Avoid):
+- ⚠️ Q1 2026 adj EBITDA < $650M absent an external shock of clear magnitude
+- ⚠️ Full-year 2026 adj EBITDA guide implies H2 < 55% of full year when refreshed at Q2
+- ⚠️ U.S. market share falls below 58% for two consecutive quarters (Bloomberg Second Measure)
+- ⚠️ Gig-worker reclassification legislation advances materially at state (CA/NY) or federal level
+- ⚠️ Advertising revenue growth decelerates to below 25% YoY for two consecutive quarters
+- ⚠️ Deliveroo FY2026 adj EBITDA falls below $140M (30% below $200M target)
+- ⚠️ Any new commission cap legislation passes in a top-10 U.S. metro
+- ⚠️ Tony Xu founder departure (not a current signal, but a structural one)
 
-**Next review trigger**: **Q1 2026 earnings — May 6, 2026 (post-close)**. Key items: (1) adj EBITDA vs. $675–775M guide, (2) H2 pacing commentary and any FY guide update, (3) Deliveroo contribution run-rate toward $200M FY target, (4) advertising revenue growth rate, (5) any signal on grocery unit economics timeline.
+📅 **Next review trigger**: **Q1 2026 earnings — May 6, 2026 (post-close)**. Key items: (1) adj EBITDA vs. $675–775M guide, (2) H2 pacing commentary and any FY guide update, (3) Deliveroo contribution run-rate toward $200M FY target, (4) advertising revenue growth rate, (5) any signal on grocery unit economics timeline.
 
 ---
 
-*Sources: DoorDash 10-K FY2025 (SEC EDGAR, filed 2026-02-18, CIK 1792789); Q4 2025 press release (IR, 2026-02-18); Q3 2025 earnings call; DoorDash IR news release (2026-04-09, Q1 earnings date); secform4.com / stocktitan.net Form 4 filings (Apr 2026); Yahoo Finance (live price 2026-04-24); MarketBeat, TipRanks, Public.com (analyst consensus); Fintel (short interest); BusinessWire (M&A announcements); prior internal wiki ingest from raw/analyses/DoorDash_Fundamental_Analysis.md.pdf (Mar 2026).*
+### Sources
+
+- [DoorDash IR](https://ir.doordash.com/) (Q4 2025 press release, 2026-02-18; Q3 2025 earnings call; Q1 earnings date news release, 2026-04-09; M&A announcements)
+- [SEC EDGAR — DoorDash filings (CIK 0001792789)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001792789&type=10-K) (10-K FY2025, filed 2026-02-18)
+- [Yahoo Finance — DASH quote](https://finance.yahoo.com/quote/DASH) (live price 2026-04-24)
+- [MarketBeat — DASH](https://www.marketbeat.com/stocks/NASDAQ/DASH/) / [TipRanks — DASH](https://www.tipranks.com/stocks/dash/forecast) / [Public.com — DASH](https://public.com/stocks/dash) (analyst consensus)
+- [Fintel — DASH short interest](https://fintel.io/ss/us/dash) (short interest)
+- [BusinessWire — DoorDash](https://www.businesswire.com/portal/site/home/?ndmViewId=news_view&searchType=news&searchTerm=DoorDash) (M&A announcements; Q1 earnings date)
+- [SEC Form 4 / secform4.com — DASH](https://www.secform4.com/insider-trading/1792789.htm) / [Stocktitan — DASH](https://www.stocktitan.net/news/DASH/) (Form 4 filings, Apr 2026)

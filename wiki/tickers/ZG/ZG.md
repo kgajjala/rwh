@@ -1,15 +1,30 @@
 # ZG — Zillow Group, Inc.
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $45.63 at April 24, 2026 (Yahoo Finance; previous close $64.82; reflects multi-month decline tied to Rocket-Redfin competitive concerns + housing-cycle weight)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$45.63** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/ZG); previous close $64.82; reflects multi-month decline tied to Rocket-Redfin competitive concerns + housing-cycle weight)
 > **Ticker Type**: Capital-light digital marketplace (real estate)
+
+---
+
+## Summary
+
+- 🟢 **Thesis**: Dominant U.S. consumer real-estate marketplace (**Wide consumer / Narrow agent moat**) at 3-year housing-cycle trough — growing mortgages +39% and rentals +45% while operating fundamentals contradict Rocket-Redfin disintermediation narrative.
+- 🟢 **For a non-holder: Initiate** at $45.63 — asymmetric setup; PW EV +51%; deepest behavioral mispricing in the housing complex.
+- 🟢 **For a current holder: Add** in the $40–50 zone — buy the cycle trough.
+- 🎯 **Attractive entry zone**: **$38 – $50** (~10–13× FY26E EBITDA; ~3× EV/Revenue; absorbs Rocket-Redfin bear case).
+- 🎯 **Trim zone**: **$85 – $100** (~18–22× FY26E EBITDA; reaches analyst high band).
+- 📉 **Price action**: $45.63, **–49.4% from 52-wk high** ($90.22), +16.6% above 52-wk low ($39.14) — multi-month decline.
+- 📅 **Next catalyst**: **Q1 2026 earnings — early May 2026 (est.)**. Tests $700–710M / $160–175M guide; first full quarter post Rocket-Redfin.
+- ⚠️ **Top risk**: Rocket-Redfin disintermediation (35% prob, High impact) — best-funded competitive setup ZG has faced.
+- ⚠️ **Second risk**: Housing turnover stays at trough (4M existing sales) (40% prob, High impact) — limits monetization.
+- 🟢 **BAIT verdict**: **Triple overlap (B+A Strong; I Moderate)** — Conviction **Moderate-High**. PW EV ~$69 (3-yr) implies +51% / ~15%/yr; analyst median +88–102% upside.
 
 ---
 
 ## Business Overview
 
-Zillow Group (NASDAQ: ZG / Z) operates the largest U.S. real estate online marketplace, connecting buyers, sellers, renters, agents, and mortgage providers. Its core assets are **Zillow.com** (~221M monthly visitors in 2024 — the dominant U.S. real estate portal), **Trulia**, **StreetEasy** (NYC), **HotPads** (rentals), **Zillow Home Loans** (mortgage origination), and the agent-focused **Premier Agent** advertising program. FY2025 revenue was **$2.6B (+16%)**, with Q4 2025 at **$654M (+18%)** and Q4 Adjusted EBITDA of **$149M (23% margin, +260bps YoY)**. The company guided **Q1 2026 revenue to $700–710M (+18% YoY)** with EBITDA of $160–175M (24% margin). [Source: Zillow Q4 2025 press release, 2026-02-10]
+Zillow Group (NASDAQ: ZG / Z) operates the largest U.S. real estate online marketplace, connecting buyers, sellers, renters, agents, and mortgage providers. Its core assets are **Zillow.com** (~221M monthly visitors in 2024 — the dominant U.S. real estate portal), **Trulia**, **StreetEasy** (NYC), **HotPads** (rentals), **Zillow Home Loans** (mortgage origination), and the agent-focused **Premier Agent** advertising program. FY2025 revenue was **$2.6B (+16%)**, with Q4 2025 at **$654M (+18%)** and Q4 Adjusted EBITDA of **$149M (23% margin, +260bps YoY)**. The company guided **Q1 2026 revenue to $700–710M (+18% YoY)** with EBITDA of $160–175M (24% margin) ([Zillow Q4 2025 press release](https://investors.zillowgroup.com/investors/news-and-events/news/), 2026-02-10).
 
 The company has restructured around three segments — **For Sale**, **Mortgages**, **Rentals** — as it transitions from pure-play marketplace to a "super app" combining listings + tours + financing + agent matching. Mortgages grew 39% YoY in Q4 2025 (purchase loan origination volume +67% to $1.5B). Rentals grew 45% YoY (multifamily +63%).
 
@@ -47,7 +62,7 @@ The pivot: ZG's monetization (Premier Agent + mortgage attach + rentals) compoun
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$45.63** | April 24, 2026 (Yahoo Finance) |
+| Live Price | **$45.63** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/ZG)) |
 | Previous Close | $64.82 | Reflects multi-month decline |
 | 52-Week High | $90.22 | 2025 highs |
 | 52-Week Low | $39.14 | Recent low |
@@ -63,7 +78,7 @@ The pivot: ZG's monetization (Premier Agent + mortgage attach + rentals) compoun
 | Q4 For Sale Revenue | $475M | +11% |
 | Q4 Mortgages Revenue | $57M | +39%; purchase volume +67% |
 | Q4 Rentals Revenue | $168M | +45%; multifamily +63% |
-| Short Interest | ~7.89% of float | Modestly elevated |
+| Short Interest | ~7.89% of float | Modestly elevated ([Fintel](https://fintel.io/ss/us/zg) / [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/ZG/short-interest/)) |
 | Analyst Consensus Target | $86–92 median | Range $66–105 |
 | Q1 2026 Earnings | Early May 2026 (est.) | |
 
@@ -91,7 +106,7 @@ The pivot: ZG's monetization (Premier Agent + mortgage attach + rentals) compoun
 | Adj. EBITDA Margin | ~20% | ~22% | ~20% | ~24% | ~25% |
 | GAAP NI | –$104M | –$158M | –$112M | $23M | breakeven-positive [Estimate] |
 
-[Source: Zillow Q4 2025 press release, 2026-02-10]
+*Source: [Zillow Q4 2025 press release](https://investors.zillowgroup.com/investors/news-and-events/news/) (2026-02-10)*
 
 ### Quarterly Trajectory (Recent)
 
@@ -177,13 +192,13 @@ The pivot: ZG's monetization (Premier Agent + mortgage attach + rentals) compoun
 
 | Risk | Impact | Probability | Notes |
 |------|--------|-------------|-------|
-| Rocket-Redfin disintermediation | High | 35% | Best-funded competitive setup ZG has ever faced |
-| Housing turnover stays at trough (4M existing sales) | High | 40% | Limits monetization regardless of share |
+| ⚠️ Rocket-Redfin disintermediation | High | 35% | Best-funded competitive setup ZG has ever faced |
+| ⚠️ Housing turnover stays at trough (4M existing sales) | High | 40% | Limits monetization regardless of share |
 | Realtor.com / CoStar competitive intensity | Medium | 50% | Marketing spend escalation |
 | NAR settlement compresses Premier Agent ARPU | Medium | 30% | Active risk |
 | DOJ / antitrust action on portals | Medium | 15% | Tail risk |
 | Mortgage attach plateau | Medium | 25% | Critical margin lever |
-| Rates 7%+ for sustained period | High | 30% | Macro |
+| ⚠️ Rates 7%+ for sustained period | High | 30% | Macro |
 | AI-driven new entrant | Medium | 20% | Long-cycle |
 
 ---
@@ -241,11 +256,11 @@ The pivot: ZG's monetization (Premier Agent + mortgage attach + rentals) compoun
 
 ### Analyst Consensus
 
-- **Aggregate rating**: Buy (26 analysts; consensus Buy)
+- **Aggregate rating**: 🟢 Buy (26 analysts; consensus Buy) ([stockanalysis.com](https://stockanalysis.com/stocks/zg/forecast/) / [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/ZG/forecast/))
 - **Median target**: $86–92 (some sources $86.35, others $92)
 - **Range**: $66 (low) – $105 (high)
 - **Implied upside**: +88% to +102% to median targets
-- **Recent commentary**: GuruFocus flags "GF Value Says Undervalued" after recent decline [Source: GuruFocus, April 2026]
+- **Recent commentary**: GuruFocus flags "GF Value Says Undervalued" after recent decline ([GuruFocus — ZG](https://www.gurufocus.com/stock/ZG/summary), April 2026)
 
 ### Short Interest
 
@@ -259,20 +274,20 @@ The pivot: ZG's monetization (Premier Agent + mortgage attach + rentals) compoun
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-02-10] [Earnings]** — Q4 2025 / FY25 results: Revenue $654M Q4 (+18%), $2.6B FY (+16%); Adj. EBITDA $149M (23%); For Sale +11%, Mortgages +39%, Rentals +45% [Source: Zillow PRNewswire press release]
-- **[2026-02-10] [Guidance]** — Q1 2026 guide $700–710M (+18%) revenue; EBITDA $160–175M (24% margin) [Source: Zillow IR]
-- **[2026-Q1] [Strategic]** — Zillow Preview feature for pre-market listings [Source: Yahoo Finance]
-- **[2025-Q3/Q4] [Competitive]** — Rocket Companies completed Redfin acquisition; Redfin rebranded as "Redfin Powered by Rocket"; major competitive narrative shift [Source: HousingWire]
-- **[Pre-2026] [Regulatory]** — NAR commission settlement implementation ongoing [Source: Industry coverage]
+- **[2026-02-10] [Earnings]** — Q4 2025 / FY25 results: Revenue $654M Q4 (+18%), $2.6B FY (+16%); Adj. EBITDA $149M (23%); For Sale +11%, Mortgages +39%, Rentals +45% ([Zillow IR](https://investors.zillowgroup.com/investors/news-and-events/news/) / [PRNewswire](https://www.prnewswire.com/search/?searchterm=zillow))
+- **[2026-02-10] [Guidance]** — Q1 2026 guide $700–710M (+18%) revenue; EBITDA $160–175M (24% margin) ([Zillow IR](https://investors.zillowgroup.com/investors/news-and-events/news/))
+- **[2026-Q1] [Strategic]** — Zillow Preview feature for pre-market listings ([Yahoo Finance — ZG](https://finance.yahoo.com/quote/ZG))
+- **[2025-Q3/Q4] [Competitive]** — ⚠️ Rocket Companies completed Redfin acquisition; Redfin rebranded as "Redfin Powered by Rocket"; major competitive narrative shift ([HousingWire](https://www.housingwire.com/?s=rocket+redfin))
+- **[Pre-2026] [Regulatory]** — NAR commission settlement implementation ongoing [link pending]
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|----------------|
-| **Early May 2026** (est.) | **Q1 2026 earnings** | Tests $700–710M / $160–175M guide; first full quarter post Rocket-Redfin |
+| 📅 **Early May 2026** (est.) | **Q1 2026 earnings** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NASDAQ/ZG/earnings/)) | Tests $700–710M / $160–175M guide; first full quarter post Rocket-Redfin |
 | Aug 2026 | Q2 2026 earnings | Spring selling season impact |
-| Ongoing | Rate cycle | Macro swing factor for housing turnover |
-| Ongoing | Rocket-Redfin integration progress | Direct competitive read |
+| ⚠️ Ongoing | Rate cycle | Macro swing factor for housing turnover |
+| ⚠️ Ongoing | Rocket-Redfin integration progress | Direct competitive read |
 | Ongoing | NAR settlement implementation | Premier Agent ARPU impact |
 
 ---
@@ -358,28 +373,39 @@ The –49% drawdown from $90 reflects compounding bear-narrative pressure: Rocke
 
 **Thesis in one sentence**: Zillow is the dominant U.S. consumer real-estate marketplace at a 3-year housing-cycle trough, growing mortgage and rentals at 39–45% while operating fundamentals contradict the Rocket-Redfin disintermediation narrative — 3-year PW EV is $69 (+51%), median analyst target is $86–92 (+88–102%).
 
-**For a non-holder**: **Initiate** at $45.63 — asymmetric setup; PW EV +51%, analyst median +90%+, and the deepest behavioral mispricing in the housing complex. Rocket-Redfin risk is real but operating data is favorable.
+**For a non-holder**: 🟢 **Initiate** at $45.63 — asymmetric setup; PW EV +51%, analyst median +90%+, and the deepest behavioral mispricing in the housing complex. Rocket-Redfin risk is real but operating data is favorable.
 
-**For a current holder**: **Add** in the **$40–50 zone** — buy the cycle trough.
+**For a current holder**: 🟢 **Add** in the **$40–50 zone** — buy the cycle trough.
 
-**Attractive entry zone**: **$38 – $50** (rationale: ~10–13× FY26E EBITDA; ~3× EV/Revenue; absorbs Rocket-Redfin bear case and rates-stuck base case)
+🎯 **Attractive entry zone**: **$38 – $50** (rationale: ~10–13× FY26E EBITDA; ~3× EV/Revenue; absorbs Rocket-Redfin bear case and rates-stuck base case)
 
-**Trim zone**: **$85 – $100** (rationale: ~18–22× FY26E EBITDA; reaches analyst high band; further upside requires housing-cycle help)
+🎯 **Trim zone**: **$85 – $100** (rationale: ~18–22× FY26E EBITDA; reaches analyst high band; further upside requires housing-cycle help)
 
-**Exit / avoid zone**: **>$110** (rationale: prior peak band; would require both housing-cycle help and Rocket-Redfin proven inert)
+🔴 **Exit / avoid zone**: **>$110** (rationale: prior peak band; would require both housing-cycle help and Rocket-Redfin proven inert)
 
-**Thesis-break triggers** (would force re-rating toward Exit / Avoid):
-- Q1/Q2 2026 revenue growth decelerates below 12% (signaling share loss to Rocket-Redfin)
-- Zillow.com monthly visitors decline >10% YoY for two consecutive quarters
-- Mortgage attach growth decelerates below 20%
-- Premier Agent ARPU declines (signaling NAR-settlement impact)
-- DOJ / antitrust action filed against ZG specifically
-- Adj. EBITDA margin compresses below 20%
-- Rates rise to 8%+ for sustained period
-- CEO Wacksman departure
+**Thesis-break triggers** ⚠️ (would force re-rating toward Exit / Avoid):
+- ⚠️ Q1/Q2 2026 revenue growth decelerates below 12% (signaling share loss to Rocket-Redfin)
+- ⚠️ Zillow.com monthly visitors decline >10% YoY for two consecutive quarters
+- ⚠️ Mortgage attach growth decelerates below 20%
+- ⚠️ Premier Agent ARPU declines (signaling NAR-settlement impact)
+- ⚠️ DOJ / antitrust action filed against ZG specifically
+- ⚠️ Adj. EBITDA margin compresses below 20%
+- ⚠️ Rates rise to 8%+ for sustained period
+- ⚠️ CEO Wacksman departure
 
-**Next review trigger**: **Q1 2026 earnings — early May 2026**. Key items: (1) revenue and EBITDA vs. guide ($700–710M / $160–175M), (2) mortgage purchase volume trajectory, (3) rentals multifamily growth, (4) For Sale segment performance, (5) any Rocket-Redfin competitive commentary, (6) FY26 outlook.
+📅 **Next review trigger**: **Q1 2026 earnings — early May 2026**. Key items: (1) revenue and EBITDA vs. guide ($700–710M / $160–175M), (2) mortgage purchase volume trajectory, (3) rentals multifamily growth, (4) For Sale segment performance, (5) any Rocket-Redfin competitive commentary, (6) FY26 outlook.
 
 ---
 
-*Sources: Zillow Q4 2025 / FY2025 press release (2026-02-10, PRNewswire); Q4 2025 earnings call transcript (Motley Fool, Seeking Alpha, 2026-02-10); Yahoo Finance live price (2026-04-24); MarketBeat, public.com, stockanalysis.com (analyst consensus, April 2026); Nasdaq, Fintel (short interest); HousingWire (Rocket-Redfin coverage); GuruFocus (April 2026 valuation update); Zillow IR site.*
+### Sources
+
+- [Zillow Investor Relations](https://investors.zillowgroup.com/investors/news-and-events/news/) (Q4 2025 / FY2025 press release 2026-02-10; Q1 2026 guidance)
+- [PRNewswire — Zillow](https://www.prnewswire.com/search/?searchterm=zillow)
+- [SEC EDGAR — Zillow filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001617640&type=10-K) (10-K, 10-Q)
+- [Motley Fool — earnings transcripts](https://www.fool.com/earnings/call-transcripts/) (ZG Q4 2025 call)
+- [Yahoo Finance — ZG quote](https://finance.yahoo.com/quote/ZG) (live price 2026-04-24)
+- [stockanalysis.com — ZG](https://stockanalysis.com/stocks/zg/forecast/) (analyst consensus)
+- [MarketBeat — ZG](https://www.marketbeat.com/stocks/NASDAQ/ZG/) (analyst consensus, earnings calendar, short interest)
+- [Fintel — ZG short interest](https://fintel.io/ss/us/zg)
+- [HousingWire](https://www.housingwire.com/?s=rocket+redfin) (Rocket-Redfin coverage)
+- [GuruFocus — ZG](https://www.gurufocus.com/stock/ZG/summary) (April 2026 valuation update)

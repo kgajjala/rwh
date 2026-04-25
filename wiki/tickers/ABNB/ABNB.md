@@ -1,17 +1,32 @@
 # ABNB — Airbnb, Inc.
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $142.82 at April 24, 2026 (Yahoo Finance JSON API)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$142.82** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/ABNB))
 > **Ticker Type**: Capital-light platform / two-sided marketplace (alternative accommodations + experiences)
+
+---
+
+## Summary
+
+- 🟡 **Thesis**: Wide-moat, ~38% FCF-margin global travel platform with confirmed Q4 2025 GBV growth inflection (+16%), but at $142.82 (~30× FY26 P/E, ~17× FCF) the market has largely paid for the inflection.
+- 🟡 **For a non-holder: Watch** at $142.82 — initiate on a pullback into the entry zone where FCF yield exceeds 6%.
+- 🟡 **For a current holder: Hold** — quality compounder with credible 2026 catalysts (Q1 print, Experiences scaling, $5.6B buyback).
+- 🎯 **Attractive entry zone**: **$120 – $130** (~25× FY26 P/E, ~14× FCF, ~6.5% FCF yield).
+- 🎯 **Trim zone**: **$170 – $190** (~36× FY26 P/E; would imply re-rating to BKNG-level multiples).
+- 📈 **Price action**: $142.82, **–3% from 52-wk high** ($147.25), +29% above 52-wk low ($110.81) — near highs.
+- 📅 **Next catalyst**: **Q1 2026 earnings — May 7, 2026 (post-close)**. Tests $2.59–2.63B revenue guide.
+- ⚠️ **Top risk**: Major-market regulatory ban (NYC-style in EU mega-city) (35% prob, high impact).
+- ⚠️ **Second risk**: Travel macro slowdown / recession (25% prob, high impact).
+- 🟡 **BAIT verdict**: **Single overlap** (A Moderate, T Moderate event-dependent) — Conviction **Low-Moderate**. Wells Fargo upgraded to Overweight $178 PT on Apr 22, 2026 ([247wallst.com](https://247wallst.com/?s=Airbnb+Wells+Fargo)).
 
 ---
 
 ## Business Overview
 
-Airbnb (NASDAQ: ABNB) is the dominant global alternative-accommodation marketplace, connecting hosts (~5M+ active listings across 220+ countries) with travelers. Revenue is a take-rate on Gross Booking Value (GBV): Airbnb collects ~14–15% of GBV in service fees (roughly 11–12% from guests + ~3% from hosts). FY2025 revenue was **$12.2B** with **$2.5B GAAP net income** and **$4.6B free cash flow** at a 38% FCF margin — among the highest-quality FCF profiles in the consumer-internet category [Source: Airbnb Q4 2025 release, 2026-02-12].
+Airbnb (NASDAQ: ABNB) is the dominant global alternative-accommodation marketplace, connecting hosts (~5M+ active listings across 220+ countries) with travelers. Revenue is a take-rate on Gross Booking Value (GBV): Airbnb collects ~14–15% of GBV in service fees (roughly 11–12% from guests + ~3% from hosts). FY2025 revenue was **$12.2B** with **$2.5B GAAP net income** and **$4.6B free cash flow** at a 38% FCF margin — among the highest-quality FCF profiles in the consumer-internet category ([Airbnb Q4 2025 release, 2026-02-12](https://investors.airbnb.com/financials/quarterly-results/)).
 
-The 2025 strategic refresh introduced **Airbnb Experiences** (relaunched at scale) and **Airbnb Services**, broadening the platform from pure lodging to a "travel everything" marketplace. Q4 2025 GBV grew 16% YoY to $20.4B — the highest growth quarter in two years — and FY26 guidance calls for 14–16% Q1 revenue growth with low-double-digit acceleration full-year [Source: Airbnb Q4 2025 release; Q4 2025 earnings call, 2026-02-12]. Wells Fargo upgraded to Overweight April 22, 2026 with $178 PT, citing the inflection [Source: 247wallst.com, 2026-04-22].
+The 2025 strategic refresh introduced **Airbnb Experiences** (relaunched at scale) and **Airbnb Services**, broadening the platform from pure lodging to a "travel everything" marketplace. Q4 2025 GBV grew 16% YoY to $20.4B — the highest growth quarter in two years — and FY26 guidance calls for 14–16% Q1 revenue growth with low-double-digit acceleration full-year ([Airbnb Q4 2025 release; Q4 2025 earnings call, 2026-02-12](https://investors.airbnb.com/financials/quarterly-results/)). Wells Fargo upgraded to Overweight April 22, 2026 with $178 PT, citing the inflection ([247wallst.com, 2026-04-22](https://247wallst.com/?s=Airbnb+Wells+Fargo)).
 
 ---
 
@@ -48,7 +63,7 @@ The Q1 2026 print on May 7 will be the first independent confirmation of the Q4 
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$142.82** | April 24, 2026 (Yahoo Finance JSON API) |
+| Live Price | **$142.82** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/ABNB)) |
 | 52-Week High | $147.25 | Recent (April 2026); trading near highs |
 | 52-Week Low | $110.81 | Mid-2025 |
 | % From 52-Wk High | –3.0% | Trading near highs |
@@ -97,7 +112,7 @@ The Q1 2026 print on May 7 will be the first independent confirmation of the Q4 
 | Quarter | Revenue | GBV | FCF | Comment |
 |---------|---------|-----|-----|---------|
 | Q3 2025 | ~$3.7B [Estimate] | — | — | — |
-| Q4 2025 | $2.8B (+12%) | $20.4B (+16%) | $520M | Highest growth in 2 years; +6% next-day move [Source: SimplyWallSt, Stocktitan] |
+| Q4 2025 | $2.8B (+12%) | $20.4B (+16%) | $520M | Highest growth in 2 years; +6% next-day move ([SimplyWallSt](https://simplywall.st/stocks/us/consumer-services/nasdaq-abnb/airbnb) / [Stocktitan](https://www.stocktitan.net/news/ABNB/)) |
 | Q1 2026E | $2.59–2.63B (+14–16%) | — | — | Earnings May 7, 2026 |
 
 ---
@@ -211,7 +226,7 @@ The Q1 2026 print on May 7 will be the first independent confirmation of the Q4 
 | P/E (FY25 GAAP) | ~35× | |
 | Fwd P/E (FY26E) | ~30× | [Analyst consensus] |
 | EV / EBITDA (FY25E) | ~17× | [Estimate] |
-| Median Analyst PT | $147–150 | [Source: TipRanks, stockanalysis.com, Apr 2026] |
+| Median Analyst PT | $147–150 | ([TipRanks](https://www.tipranks.com/stocks/abnb/forecast) / [stockanalysis.com](https://stockanalysis.com/stocks/abnb/forecast/), Apr 2026) |
 | High Target | $190 (JMP) | |
 | Low Target | $103 (Barclays) | |
 | **Wells Fargo PT** | **$178** | New Overweight (Apr 22, 2026) |
@@ -233,7 +248,7 @@ The Q1 2026 print on May 7 will be the first independent confirmation of the Q4 
 
 ### Live Price & Positioning
 
-- **Price**: $142.82 (April 24, 2026; Yahoo Finance JSON API)
+- **Price**: $142.82 (April 24, 2026; [Yahoo Finance](https://finance.yahoo.com/quote/ABNB))
 - **52-week range**: $110.81 – $147.25
 - **% from 52-wk high**: –3.0%
 - **% above 52-wk low**: +28.9%
@@ -241,8 +256,8 @@ The Q1 2026 print on May 7 will be the first independent confirmation of the Q4 
 
 ### Analyst Consensus (April 2026)
 
-- **Aggregate rating**: Moderate Buy
-- **Median price target**: $147–150 [Source: TipRanks, stockanalysis.com, Apr 2026]
+- **Aggregate rating**: 🟡 Moderate Buy
+- **Median price target**: $147–150 ([TipRanks](https://www.tipranks.com/stocks/abnb/forecast) / [stockanalysis.com](https://stockanalysis.com/stocks/abnb/forecast/), Apr 2026)
 - **Range**: $103 (Barclays) – $190 (JMP)
 - **Distribution**: 16 Strong Buy / 3 Moderate Buy / 20 Hold / 1 Mod Sell / 1 Strong Sell (n=41)
 - **Implied upside to median**: +3% to +5% (priced in)
@@ -251,7 +266,7 @@ The Q1 2026 print on May 7 will be the first independent confirmation of the Q4 
 
 | Date | Firm | Action | Target | Note |
 |------|------|--------|--------|------|
-| 2026-04-22 | Wells Fargo | **Upgrade** to Overweight | $178 | Cited Q4 GBV +16% and AI-driven product gains [Source: 247wallst.com] |
+| 2026-04-22 | Wells Fargo | 🟢 **Upgrade** to Overweight | $178 | Cited Q4 GBV +16% and AI-driven product gains ([247wallst.com](https://247wallst.com/?s=Airbnb+Wells+Fargo)) |
 
 ### Short Interest
 
@@ -264,16 +279,16 @@ The Q1 2026 print on May 7 will be the first independent confirmation of the Q4 
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-22] [Analyst]** — Wells Fargo upgraded ABNB to Overweight with $178 PT [Source: 247wallst.com]
-- **[2026-04-21] [Pre-earnings]** — Q1 2026 preview articles published [Source: financialcontent.com / barchart]
-- **[2026-02-12] [Earnings]** — Q4 2025 / FY2025 results: revenue $2.8B Q4 (+12%), FY $12.2B (+12%); GBV $20.4B Q4 (+16%); FCF $520M Q4, $4.6B FY (38% margin); Net income FY $2.5B; Buyback $1.1B Q4, $3.8B FY; $5.6B authorization remaining [Source: Airbnb IR]
-- **[2026-02-12] [Filing]** — 10-K for FY2025 filed shortly after earnings [Source: SEC EDGAR]
+- **[2026-04-22] [Analyst]** — Wells Fargo upgraded ABNB to Overweight with $178 PT ([247wallst.com](https://247wallst.com/?s=Airbnb+Wells+Fargo))
+- **[2026-04-21] [Pre-earnings]** — Q1 2026 preview articles published ([financialcontent.com](https://markets.financialcontent.com/stocks/quote?Symbol=ABNB) / [barchart](https://www.barchart.com/stocks/quotes/ABNB))
+- **[2026-02-12] [Earnings]** — Q4 2025 / FY2025 results: revenue $2.8B Q4 (+12%), FY $12.2B (+12%); GBV $20.4B Q4 (+16%); FCF $520M Q4, $4.6B FY (38% margin); Net income FY $2.5B; Buyback $1.1B Q4, $3.8B FY; $5.6B authorization remaining ([Airbnb IR](https://investors.airbnb.com/financials/quarterly-results/))
+- **[2026-02-12] [Filing]** — 10-K for FY2025 filed shortly after earnings ([SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001559720&type=10-K))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **2026-05-07** (post-close) | **Q1 2026 earnings** | First confirmation of Q4 GBV inflection; tests $2.59–2.63B revenue guide |
+| 📅 **2026-05-07** (post-close) | **Q1 2026 earnings** | First confirmation of Q4 GBV inflection; tests $2.59–2.63B revenue guide |
 | Summer 2026 | Q2 2026 earnings | Peak summer travel quarter; key for FY26 trajectory |
 | FY2026 (rolling) | Experiences/Services scale milestones | Long-dated optionality marker |
 | FY2026 (rolling) | Buyback execution | $5.6B authorization at $142.82 = ~6.4% of shares |
@@ -359,27 +374,37 @@ Q4 2025 transcript and IR materials are publicly available. No information edge 
 
 **Thesis in one sentence**: Airbnb is a wide-moat, capital-light, ~38%-FCF-margin global travel platform with a confirmed Q4 2025 GBV growth inflection (+16%) and meaningful Experiences/Services optionality, but at $142.82 (~30× FY26 P/E, ~17× FCF) the market is largely paying for the inflection — leaving modest forward asymmetry tied to FY26 execution and capital return.
 
-**For a non-holder**: **Watch** at $142.82. Initiate on a pullback into the **$120–130 attractive entry zone**, where FCF yield exceeds 6% and the buyback's per-share leverage becomes more powerful. At spot, the +13% 3-year PW EV doesn't compensate enough for regulatory tail risk and travel-cycle exposure.
+**For a non-holder**: 🟡 **Watch** at $142.82. Initiate on a pullback into the **$120–130 attractive entry zone**, where FCF yield exceeds 6% and the buyback's per-share leverage becomes more powerful. At spot, the +13% 3-year PW EV doesn't compensate enough for regulatory tail risk and travel-cycle exposure.
 
-**For a current holder**: **Hold** — quality compounder with credible 2026 catalysts (Q1 May 7 print, Experiences scaling, $5.6B buyback). Trim only into the **$170+ zone** where multiple becomes story-fully-priced.
+**For a current holder**: 🟡 **Hold** — quality compounder with credible 2026 catalysts (Q1 May 7 print, Experiences scaling, $5.6B buyback). Trim only into the **$170+ zone** where multiple becomes story-fully-priced.
 
-**Attractive entry zone**: **$120 – $130** (rationale: ~25× FY26 P/E, ~14× FCF, ~6.5% FCF yield; aligns with Barclays bear-case PT of $103 + buffer)
+🎯 **Attractive entry zone**: **$120 – $130** (rationale: ~25× FY26 P/E, ~14× FCF, ~6.5% FCF yield; aligns with Barclays bear-case PT of $103 + buffer)
 
-**Trim zone**: **$170 – $190** (rationale: top of analyst PT band; ~36× FY26 P/E; would imply re-rating to BKNG-level multiples)
+🎯 **Trim zone**: **$170 – $190** (rationale: top of analyst PT band; ~36× FY26 P/E; would imply re-rating to BKNG-level multiples)
 
-**Exit / avoid zone**: **>$200** (rationale: would require multi-year 15%+ growth + Experiences scaling proven; aggressive)
+🔴 **Exit / avoid zone**: **>$200** (rationale: would require multi-year 15%+ growth + Experiences scaling proven; aggressive)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Exit):
-- Q1 2026 revenue below $2.55B (below low end of guide)
-- FY26 revenue growth de-accelerates from low-double-digit to single-digit at any quarterly update
-- Major-market regulatory ban (e.g., London, Paris, Tokyo NYC-style)
-- FCF margin compression below 33% for two consecutive quarters
-- Cluster of EU mega-city restrictions (3+ in same calendar year)
-- Material take-rate compression from host pressure (>50 bps)
-- Brian Chesky departure or unexpected step-back
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
+- ⚠️ Q1 2026 revenue below $2.55B (below low end of guide)
+- ⚠️ FY26 revenue growth de-accelerates from low-double-digit to single-digit at any quarterly update
+- ⚠️ Major-market regulatory ban (e.g., London, Paris, Tokyo NYC-style)
+- ⚠️ FCF margin compression below 33% for two consecutive quarters
+- ⚠️ Cluster of EU mega-city restrictions (3+ in same calendar year)
+- ⚠️ Material take-rate compression from host pressure (>50 bps)
+- ⚠️ Brian Chesky departure or unexpected step-back
 
-**Next review trigger**: **Q1 2026 earnings — May 7, 2026 (post-close)**. Key items: (1) revenue vs. $2.59–2.63B guide, (2) GBV YoY growth (must hold ≥14% to confirm Q4 inflection), (3) FCF margin trajectory, (4) Experiences/Services revenue disclosure, (5) FY26 guide reaffirmation, (6) buyback pace.
+📅 **Next review trigger**: **Q1 2026 earnings — May 7, 2026 (post-close)**. Key items: (1) revenue vs. $2.59–2.63B guide, (2) GBV YoY growth (must hold ≥14% to confirm Q4 inflection), (3) FCF margin trajectory, (4) Experiences/Services revenue disclosure, (5) FY26 guide reaffirmation, (6) buyback pace.
 
 ---
 
-*Sources: Airbnb Q4 2025 / FY2025 press release and earnings call transcript (2026-02-12, IR / Motley Fool / Stocktitan); Airbnb Q1 2026 earnings preview (financialcontent.com / barchart 2026-04-21); Wells Fargo upgrade note via 247wallst.com (2026-04-22); Yahoo Finance JSON API live price (2026-04-24); analyst consensus aggregators (TipRanks, MarketBeat, stockanalysis.com).*
+### Sources
+
+- [Airbnb IR — Quarterly Results](https://investors.airbnb.com/financials/quarterly-results/) (Q4 2025 / FY2025 press release and earnings call transcript, 2026-02-12)
+- [SEC EDGAR — Airbnb filings (CIK 0001559720)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001559720&type=10-K) (10-K FY2025)
+- [Yahoo Finance — ABNB quote](https://finance.yahoo.com/quote/ABNB) (live price 2026-04-24)
+- [TipRanks — ABNB forecast](https://www.tipranks.com/stocks/abnb/forecast) (analyst consensus, price targets)
+- [stockanalysis.com — ABNB forecast](https://stockanalysis.com/stocks/abnb/forecast/) (analyst consensus)
+- [MarketBeat — ABNB](https://www.marketbeat.com/stocks/NASDAQ/ABNB/) (earnings calendar, ratings)
+- [247wallst.com — Airbnb / Wells Fargo coverage](https://247wallst.com/?s=Airbnb+Wells+Fargo) (Wells Fargo upgrade note, 2026-04-22)
+- [financialcontent.com — ABNB](https://markets.financialcontent.com/stocks/quote?Symbol=ABNB) / [barchart — ABNB](https://www.barchart.com/stocks/quotes/ABNB) (Q1 2026 earnings previews, 2026-04-21)
+- [Stocktitan — ABNB](https://www.stocktitan.net/news/ABNB/) / [SimplyWallSt — ABNB](https://simplywall.st/stocks/us/consumer-services/nasdaq-abnb/airbnb) (post-earnings analysis)

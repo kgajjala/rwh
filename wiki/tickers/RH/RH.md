@@ -1,15 +1,30 @@
 # RH — RH (Restoration Hardware Holdings, Inc.)
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $137.51 at April 24, 2026 (Yahoo Finance)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$137.51** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/RH))
 > **Ticker Type**: Premium luxury home furnishings (cyclical specialty retail)
+
+---
+
+## Summary
+
+- 🟡 **Thesis**: Deeply cyclical luxury home retailer (**Narrow moat**) at a 46% drawdown trough with a long-term 2030 target of $5.4–5.8B revenue and 25–28% margins; a US housing recovery + tariff resolution + international ramp could deliver 3× equity returns, but leverage amplifies both upside and downside.
+- 🟡 **For a non-holder: Watch / selective Initiate** — small initial position at $137.51; add aggressively below $115.
+- 🟡 **For a current holder: Hold** — do not exit at –46%; asymmetry has shifted. Add only on weakness toward $115.
+- 🎯 **Attractive entry zone**: **$110 – $135** (~9× EV/EBITDA at FY26E; FCF yield 10%+; cyclical-trough valuation).
+- 🎯 **Trim zone**: **$240 – $290** (full re-rate to mid-cycle 12× EV/EBITDA on improving margins).
+- 📉 **Price action**: $137.51, **–46.5% from 52-wk high** ($257), +29.4% above 52-wk low ($106.30) — deep cyclical drawdown.
+- 📅 **Next catalyst**: **Q1 FY26 earnings (early June 2026, est.)**. First print under new guide; tariff transition update.
+- ⚠️ **Top risk**: US housing freeze persists into 2027 (high impact, 35% prob) — single biggest cyclical risk.
+- ⚠️ **Second risk**: Debt service pressure / refinance risk (high impact, 20% prob) — levered balance sheet from $2B+ buyback at peak prices.
+- 🟡 **BAIT verdict**: **Double overlap (B Strong + A Moderate)** — Conviction **Moderate**. Classic deep-cyclical trough setup; PW EV ~$225 (4-yr) implies +64% / ~+13.1%/yr; bull case +191% vs. bear case –56% (~3.4:1 asymmetry).
 
 ---
 
 ## Business Overview
 
-RH (NYSE: RH) is a luxury home furnishings retailer operating ~70 immersive Design Galleries (large-format experiential retail) across the U.S. plus international expansion in the UK and Europe. The brand spans RH Interiors, Modern, Contemporary, Beach House, Ski House, and a luxury hospitality / restaurant ecosystem (RH Guesthouse New York, RH Yountville, etc.). FY2025 (year ended Jan 31, 2026) Q4 revenue was $842.62M (missed $873.32M consensus) and adjusted EPS was $1.53 (missed $2.22 consensus) [Source: RH Q4 2025 earnings, Motley Fool / Chain Store Age, 2026-04-01].
+RH (NYSE: RH) is a luxury home furnishings retailer operating ~70 immersive Design Galleries (large-format experiential retail) across the U.S. plus international expansion in the UK and Europe. The brand spans RH Interiors, Modern, Contemporary, Beach House, Ski House, and a luxury hospitality / restaurant ecosystem (RH Guesthouse New York, RH Yountville, etc.). FY2025 (year ended Jan 31, 2026) Q4 revenue was $842.62M (missed $873.32M consensus) and adjusted EPS was $1.53 (missed $2.22 consensus) ([RH Q4 2025 earnings](https://ir.rh.com/financials), [Motley Fool](https://www.fool.com/quote/nyse/rh/) / [Chain Store Age](https://chainstoreage.com/?s=rh), 2026-04-01).
 
 The thesis has been a multi-year saga of:
 1. Aggressive long-duration capital deployment (Galleries, hospitality, real estate, brand globalization) under CEO Gary Friedman's vision
@@ -264,7 +279,7 @@ The company has been operating well below its long-term margin targets for 3+ ye
 - **Median price target**: $183–212.73 (panel-dependent)
 - **Range**: $130 (low) – $436 (high) — **extreme dispersion**
 - **Implied upside**: +33% to +55% on median; +217% on high; –5% on low
-- [Source: stockanalysis, public.com, Investing.com, TipRanks, April 2026]
+- ([stockanalysis.com](https://stockanalysis.com/stocks/rh/forecast/), [public.com](https://public.com/stocks/rh), [Investing.com](https://www.investing.com/equities/restoration-hardware-holdings-inc), [TipRanks](https://www.tipranks.com/stocks/rh), April 2026)
 
 ### Recent Analyst Actions (April 2026)
 
@@ -276,7 +291,7 @@ The company has been operating well below its long-term margin targets for 3+ ye
 ### Short Interest
 
 - Short interest data per MarketBeat indicates moderately-elevated levels — RH historically carries higher short interest than peers due to leverage + cyclicality
-- [Specific % to be refreshed on next data pull — Source: MarketBeat, Apr 2026]
+- Specific % to be refreshed on next data pull ([MarketBeat — RH short](https://www.marketbeat.com/stocks/NYSE/RH/short-interest/), Apr 2026)
 
 ### Insider Activity (Last 90 Days)
 
@@ -286,16 +301,16 @@ The company has been operating well below its long-term margin targets for 3+ ye
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-01] [Earnings]** — Q4 2025 results: revenue $842.62M (missed $873M); adj EPS $1.53 (missed $2.22); $190M tariff impact [Source: Motley Fool, Chain Store Age]
-- **[2026-04 (various)] [Analyst]** — TD Cowen PT cut $200 → $170 [Source: Investing.com]
-- **[2026 (rolling)] [Strategic]** — Tariff resourcing initiative; 40% of core assortment in motion
-- **[2026 (rolling)] [Real Estate]** — Asset sale program ($200–250M/yr in FY26 guide)
+- **[2026-04-01] [Earnings]** — Q4 2025 results: revenue $842.62M (missed $873M); adj EPS $1.53 (missed $2.22); $190M tariff impact ([Motley Fool](https://www.fool.com/quote/nyse/rh/), [Chain Store Age](https://chainstoreage.com/?s=rh))
+- **[2026-04 (various)] [Analyst]** — TD Cowen PT cut $200 → $170 ([Investing.com](https://www.investing.com/equities/restoration-hardware-holdings-inc))
+- **[2026 (rolling)] [Strategic]** — Tariff resourcing initiative; 40% of core assortment in motion ([RH IR](https://ir.rh.com/financials))
+- **[2026 (rolling)] [Real Estate]** — 💰 Asset sale program ($200–250M/yr in FY26 guide) ([RH IR](https://ir.rh.com/financials))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **Q1 FY26 Earnings (early June 2026, est.)** | Earnings | First print under new guide; tariff transition update |
+| 📅 **Q1 FY26 Earnings (early June 2026, est.)** | Earnings ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NYSE/RH/earnings/)) | First print under new guide; tariff transition update |
 | Q2 FY26 Earnings (early Sep 2026) | Earnings | Critical for tariff resolution / H2 momentum |
 | H2 2026 | Tariff resourcing completion | Removes 90bps drag if executed |
 | Ongoing | US existing home sales prints | Single most predictive macro variable |
@@ -388,29 +403,42 @@ Underappreciated:
 
 **Thesis in one sentence**: RH is a deeply cyclical luxury home retailer at a 46% drawdown trough with a long-term 2030 target of $5.4–5.8B revenue and 25–28% margins, where a US housing recovery + tariff resolution + international ramp could deliver 3× equity returns; leverage amplifies both the upside and the downside.
 
-**For a non-holder**: **Watch / selective Initiate**. At $137.51 the asymmetry is favorable but the leverage + cyclical timing risk argues for a small initial position rather than full conviction. Add aggressively below $115 if 52-wk low test occurs. The 4-year PW EV of $225 (+64%) is attractive but requires patience.
+**For a non-holder**: 🟡 **Watch / selective Initiate**. At $137.51 the asymmetry is favorable but the leverage + cyclical timing risk argues for a small initial position rather than full conviction. Add aggressively below $115 if 52-wk low test occurs. The 4-year PW EV of $225 (+64%) is attractive but requires patience.
 
-**For a current holder**: **Hold**. Do not exit at –46% — the asymmetry has shifted. Add only on weakness toward $115. Consider trimming if recovery to $200+ occurs without visible operating inflection (i.e., multiple recovery without earnings recovery).
+**For a current holder**: 🟡 **Hold**. Do not exit at –46% — the asymmetry has shifted. Add only on weakness toward $115. Consider trimming if recovery to $200+ occurs without visible operating inflection (i.e., multiple recovery without earnings recovery).
 
-**Attractive entry zone**: **$110 – $135** (rationale: ~9× EV/EBITDA at FY26E; FCF yield 10%+; cyclical-trough valuation in line with prior cycles)
+🎯 **Attractive entry zone**: **$110 – $135** (rationale: ~9× EV/EBITDA at FY26E; FCF yield 10%+; cyclical-trough valuation in line with prior cycles)
 
-**Trim zone**: **$240 – $290** (rationale: full re-rate to mid-cycle 12× EV/EBITDA on improving margins; would already price in housing recovery + tariff resolution)
+🎯 **Trim zone**: **$240 – $290** (rationale: full re-rate to mid-cycle 12× EV/EBITDA on improving margins; would already price in housing recovery + tariff resolution)
 
-**Exit / avoid zone**: **>$370** (rationale: would price in 2030 bull-case targets without execution proof; historically these levels have not been sustained)
+🔴 **Exit / avoid zone**: **>$370** (rationale: would price in 2030 bull-case targets without execution proof; historically these levels have not been sustained)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Avoid):
-- US existing home sales decline below 3.4M annualized rate for two consecutive quarters
-- Tariff resourcing extends materially beyond H2 2026 target
-- FY2026 adj EBITDA margin falls below 12% (vs. 14–16% guide)
-- Debt-service coverage ratio deteriorates materially
-- Equity raise / dilutive financing announced
-- Gary Friedman departure or material change in role
-- International Gallery EBITDA materially below US comparable
-- International expansion paused or reversed
-- New incremental tariff escalation >$200M
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Avoid):
+- ⚠️ US existing home sales decline below 3.4M annualized rate for two consecutive quarters
+- ⚠️ Tariff resourcing extends materially beyond H2 2026 target
+- ⚠️ FY2026 adj EBITDA margin falls below 12% (vs. 14–16% guide)
+- ⚠️ Debt-service coverage ratio deteriorates materially
+- ⚠️ Equity raise / dilutive financing announced
+- ⚠️ Gary Friedman departure or material change in role
+- ⚠️ International Gallery EBITDA materially below US comparable
+- ⚠️ International expansion paused or reversed
+- ⚠️ New incremental tariff escalation >$200M
 
-**Next review trigger**: **Q1 FY26 earnings (early June 2026, est.)**. Key items: (1) Q1 revenue trajectory, (2) tariff resourcing progress / expected H2 completion, (3) any update on FY26 guide, (4) cash flow generation pace, (5) asset sale execution, (6) international Gallery economics commentary.
+📅 **Next review trigger**: **Q1 FY26 earnings (early June 2026, est.)**. Key items: (1) Q1 revenue trajectory, (2) tariff resourcing progress / expected H2 completion, (3) any update on FY26 guide, (4) cash flow generation pace, (5) asset sale execution, (6) international Gallery economics commentary.
 
 ---
 
-*Sources: RH Q4 2025 earnings release and call (2026-04-01, Motley Fool, Chain Store Age, Alphastreet); Yahoo Finance (live price 2026-04-24); stockanalysis, public.com, Investing.com, TipRanks (analyst consensus, April 2026); TD Cowen PT update (April 2026); RH IR financials & filings page; CNBC tariff coverage (2025-09-12).*
+### Sources
+
+- [RH Investor Relations — Financials](https://ir.rh.com/financials) (Q4 2025 earnings release and call, 2026-04-01)
+- [SEC EDGAR — RH filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001528849&type=10-K)
+- [Yahoo Finance — RH quote](https://finance.yahoo.com/quote/RH) (live price 2026-04-24)
+- [Motley Fool — RH](https://www.fool.com/quote/nyse/rh/) (Q4 2025 earnings coverage)
+- [Chain Store Age — RH](https://chainstoreage.com/?s=rh)
+- [Alphastreet — RH](https://news.alphastreet.com/?s=rh) (earnings coverage)
+- [stockanalysis.com — RH](https://stockanalysis.com/stocks/rh/forecast/) (analyst consensus, April 2026)
+- [Public.com — RH](https://public.com/stocks/rh)
+- [Investing.com — RH](https://www.investing.com/equities/restoration-hardware-holdings-inc) (TD Cowen PT update April 2026)
+- [TipRanks — RH](https://www.tipranks.com/stocks/rh)
+- [MarketBeat — RH](https://www.marketbeat.com/stocks/NYSE/RH/) (short interest, earnings calendar)
+- [CNBC — search RH tariff](https://www.cnbc.com/search/?query=rh+tariff) (2025-09-12 coverage)

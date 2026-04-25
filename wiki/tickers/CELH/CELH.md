@@ -1,9 +1,24 @@
 # CELH — Celsius Holdings, Inc.
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $35.25 at April 24, 2026 (Yahoo Finance; pulled back from late-2025 highs)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$35.25** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/CELH); pulled back from late-2025 highs)
 > **Ticker Type**: Consumer staples — branded beverages (energy/functional)
+
+---
+
+## Summary
+
+- 🟢 **Thesis**: Multi-brand functional-beverage platform (CELSIUS + Alani Nu + Rockstar under PepsiCo) at ~10.5× FY26E EV/EBITDA after a –47% drawdown — Narrow moat with asymmetric setup but binary on May 11 Q1 print.
+- 🟢 **For a non-holder: Initiate (small, scaled into print)** at $35.25, or **Watch** if appetite for binary catalyst risk is low.
+- 🟡 **For a current holder: Hold / Add modestly** if average cost is meaningfully above current price.
+- 🎯 **Attractive entry zone**: **$30 – $36** (~9–10.5× FY26E EV/EBITDA; below 52-wk-low support).
+- 🎯 **Trim zone**: **$60 – $70** (re-test 2024–2025 highs; ~16–18× FY26E EV/EBITDA).
+- 📉 **Price action**: $35.25, **–47% from 52-wk high** ($66.74), only +9% above 52-wk low ($32.30) — capitulation.
+- 📅 **Next catalyst**: **Q1 2026 earnings — May 11, 2026 (est.)**. First Q1 with full Alani Nu YoY lap.
+- ⚠️ **Top risk**: CELSIUS-brand growth re-stalls (30% prob, high impact); premium valuation compression (50% prob, high impact).
+- ⚠️ **Second risk**: PepsiCo partnership renegotiation/disruption (10% prob, critical impact); MNST competitive response.
+- 🟢 **BAIT verdict**: **Triple overlap** (B Strong + A Moderate + T Moderate) — Conviction **Moderate-High (event-driven)**. Strong Buy consensus (17 analysts), $61 avg target = +73% upside ([WallStreetZen](https://www.wallstreetzen.com/stocks/us/nasdaq/celh)).
 
 ---
 
@@ -49,7 +64,7 @@ The bull case is "next Monster Beverage at 1/10th the market cap." The bear case
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$35.25** | April 24, 2026 (Yahoo Finance) |
+| Live Price | **$35.25** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/CELH)) |
 | 52-Week High | $66.74 | Late 2025 |
 | 52-Week Low | $32.30 | April 2026 |
 | % From 52-Wk High | –47% | Significant drawdown |
@@ -88,14 +103,14 @@ The bull case is "next Monster Beverage at 1/10th the market cap." The bear case
 | Adj EBITDA Margin | ~17% | ~24% | ~22% | ~26% | ~25–27% |
 | GAAP Net Income | $84M | $227M | ~$215M | ~$310M [Estimate] | ~$400M [consensus] |
 
-*Note: FY2025 figures reflect Alani Nu consolidation from April 1, 2025. FY2024 standalone CELSIUS-brand growth had decelerated to single digits, which was the source of the 2024 stock drawdown. [Source: CELH Q4 2025 / FY2025 press release, IR, Feb/Mar 2026]*
+*Note: FY2025 figures reflect Alani Nu consolidation from April 1, 2025. FY2024 standalone CELSIUS-brand growth had decelerated to single digits, which was the source of the 2024 stock drawdown. ([CELH Q4 2025 / FY2025 press release, IR, Feb/Mar 2026](https://ir.celsiusholdings.com/press-releases))*
 
 ### Recent Quarter
 
 | Quarter | Revenue | YoY | Adj EPS | Notes |
 |---------|---------|-----|---------|-------|
-| Q3 2025 | $725M (+173%) | — | — | Alani Nu first full quarter; CELSIUS brand re-accelerating; PepsiCo channel re-stocking [Source: CELH Q3 2025 PR, Nov 2025] |
-| Q4 2025 | $721.6M (+117%) | — | $0.26 vs. $0.21 cons | Beat consensus by 24% on EPS; ~20% U.S. energy $ share [Source: CELH FY2025 PR] |
+| Q3 2025 | $725M (+173%) | — | — | Alani Nu first full quarter; CELSIUS brand re-accelerating; PepsiCo channel re-stocking ([CELH Q3 2025 PR, Nov 2025](https://ir.celsiusholdings.com/press-releases)) |
+| Q4 2025 | $721.6M (+117%) | — | $0.26 vs. $0.21 cons | Beat consensus by 24% on EPS; ~20% U.S. energy $ share ([CELH FY2025 PR](https://ir.celsiusholdings.com/press-releases)) |
 
 ---
 
@@ -245,10 +260,10 @@ The bull case is "next Monster Beverage at 1/10th the market cap." The bear case
 - **Market cap**: ~$8.3B
 
 ### Analyst Consensus
-- **Aggregate rating**: Strong Buy (17 analysts)
-- **Average target**: $61 (Apr 2026 [Source: WallStreetZen])
+- **Aggregate rating**: 🟢 Strong Buy (17 analysts)
+- **Average target**: $61 (Apr 2026, [WallStreetZen](https://www.wallstreetzen.com/stocks/us/nasdaq/celh))
 - **Implied upside**: +73%
-- **Recent action**: J.P. Morgan raised PT (date not surfaced in search; cited PepsiCo partnership and Alani Nu growth)
+- **Recent action**: 🟢 J.P. Morgan raised PT (date not surfaced in search; cited PepsiCo partnership and Alani Nu growth) ([Yahoo Finance — CELH](https://finance.yahoo.com/quote/CELH))
 
 ### Short Interest
 Specific April 2026 short interest data not surfaced in search; CELH historically runs 5–10% of float short — reflecting valuation skepticism. Worth a Fintel/MarketBeat refresh on next update.
@@ -257,16 +272,16 @@ Specific April 2026 short interest data not surfaced in search; CELH historicall
 Specific April 2026 insider data not surfaced in search. Historically CELH insiders sold meaningful $$ during the 2023–2024 run to $100+. Worth a refresh on next update.
 
 ### Recent Corporate News (Last 90 Days)
-- **[2026-04 (mid)] [Analyst]** — JPM raised PT citing PepsiCo partnership + Alani Nu growth [Source: Yahoo Finance]
-- **[2026-03 (mid)] [Coverage]** — Motley Fool: "Celsius Pulled Off a Massive Steal With Alani Nu" [Source: Fool, 2026-03-04]
-- **[2026-02 (late) / 2026-03 (early)] [Earnings]** — Q4 2025 / FY2025 results: rev $721.6M Q4 (+117%), $2.5B FY; Adj EPS $0.26 vs. $0.21 cons; ~20% U.S. energy $ share [Source: CELH IR press release]
-- **[2025-11-06] [Earnings]** — Q3 2025: rev $725M (+173%); Alani Nu first full quarter; phased rollout outlined [Source: CELH IR / Seeking Alpha]
-- **[2025-04-01] [M&A]** — Alani Nu acquisition closed for $1.8B / $1.65B net [Source: CELH PR]
+- 🟢 **[2026-04 (mid)] [Analyst]** — JPM raised PT citing PepsiCo partnership + Alani Nu growth ([Yahoo Finance](https://finance.yahoo.com/quote/CELH))
+- **[2026-03 (mid)] [Coverage]** — Motley Fool: "Celsius Pulled Off a Massive Steal With Alani Nu" ([Fool, 2026-03-04](https://www.fool.com/quote/nasdaq/celh/))
+- **[2026-02 (late) / 2026-03 (early)] [Earnings]** — Q4 2025 / FY2025 results: rev $721.6M Q4 (+117%), $2.5B FY; Adj EPS $0.26 vs. $0.21 cons; ~20% U.S. energy $ share ([CELH IR press release](https://ir.celsiusholdings.com/press-releases))
+- **[2025-11-06] [Earnings]** — Q3 2025: rev $725M (+173%); Alani Nu first full quarter; phased rollout outlined ([CELH IR](https://ir.celsiusholdings.com/press-releases) / [Seeking Alpha](https://seekingalpha.com/symbol/CELH))
+- 💰 **[2025-04-01] [M&A]** — Alani Nu acquisition closed for $1.8B / $1.65B net ([CELH PR](https://ir.celsiusholdings.com/press-releases))
 
 ### Upcoming Catalysts
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **2026-05-11** (estimated) | **Q1 2026 earnings** | First Q1 with full Alani Nu lap year-over-year; tests pro-forma growth narrative |
+| 📅 **2026-05-11** (estimated) | **Q1 2026 earnings** | First Q1 with full Alani Nu lap year-over-year; tests pro-forma growth narrative |
 | Q2/Q3 2026 | Alani Nu international launch | Phased rollout starts; new TAM signal |
 | Ongoing | Rockstar transition execution | Confirms platform thesis or reveals integration risk |
 | Ongoing | Nielsen / IRI scanner data weekly | Real-time CELSIUS brand growth indicator |
@@ -344,28 +359,39 @@ Stock is –47% from 52-wk high, trading near 52-wk low. The 2024 deceleration s
 
 **Thesis in one sentence**: After the –47% drawdown, Celsius offers asymmetric exposure to a multi-brand functional-beverage platform (CELSIUS + Alani Nu + Rockstar under PepsiCo) at ~10.5× FY26E EV/EBITDA, with a clean BAIT setup (Behavioral Strong + Analytical/Technical Moderate) — but the case is event-driven on the May 11, 2026 Q1 print confirming Alani Nu growth pace and CELSIUS-brand re-acceleration.
 
-**For a non-holder**: **Initiate (small, scaled into the print)** at $35.25, or **Watch** if appetite for binary catalyst risk is low. The setup is asymmetric (PW EV $52 vs. spot $35), but Q1 result will swing the stock 15–25% in either direction. Aggressive buyers can build a position pre-print; risk-averse buyers wait for Q1 confirmation.
+**For a non-holder**: 🟢 **Initiate (small, scaled into the print)** at $35.25, or **Watch** if appetite for binary catalyst risk is low. The setup is asymmetric (PW EV $52 vs. spot $35), but Q1 result will swing the stock 15–25% in either direction. Aggressive buyers can build a position pre-print; risk-averse buyers wait for Q1 confirmation.
 
-**For a current holder**: **Hold / Add modestly** if average cost is meaningfully above current price. The drawdown has reset valuation; thesis-break triggers (CELSIUS brand re-stall, Alani Nu rapid normalization) have not yet materialized. Adding into Q1 print is reasonable on a thesis-conviction basis, but acknowledge binary outcome risk.
+**For a current holder**: 🟡 **Hold / Add modestly** if average cost is meaningfully above current price. The drawdown has reset valuation; thesis-break triggers (CELSIUS brand re-stall, Alani Nu rapid normalization) have not yet materialized. Adding into Q1 print is reasonable on a thesis-conviction basis, but acknowledge binary outcome risk.
 
-**Attractive entry zone**: **$30 – $36** (rationale: ~9–10.5× FY26E EV/EBITDA; below 52-wk-low support; bear case begins to be priced in)
+🎯 **Attractive entry zone**: **$30 – $36** (rationale: ~9–10.5× FY26E EV/EBITDA; below 52-wk-low support; bear case begins to be priced in)
 
-**Trim zone**: **$60 – $70** (rationale: re-test 2024–2025 highs; ~16–18× FY26E EV/EBITDA; full platform thesis priced)
+🎯 **Trim zone**: **$60 – $70** (rationale: re-test 2024–2025 highs; ~16–18× FY26E EV/EBITDA; full platform thesis priced)
 
-**Exit / avoid zone**: **>$80** (rationale: requires bull-case execution already in place; multi-year compounding pulled forward; little margin for execution miss)
+🔴 **Exit / avoid zone**: **>$80** (rationale: requires bull-case execution already in place; multi-year compounding pulled forward; little margin for execution miss)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Exit):
-- CELSIUS-brand revenue grows <5% YoY for two consecutive quarters
-- Alani Nu pro-forma growth decelerates below +20% YoY for two consecutive quarters
-- PepsiCo announces material change in distribution terms or strategic distance
-- MNST acquires or launches a clear "Alani Nu killer" sub-brand with PepsiCo-equivalent distribution
-- Adj EBITDA margin contracts >300 bps for two consecutive quarters
-- FY26 revenue guide cut at any quarterly print
-- Q1 2026 print misses revenue or EPS materially (>5% miss)
-- Multi-quarter Nielsen scanner trend below mid-single-digit growth for category
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
+- ⚠️ CELSIUS-brand revenue grows <5% YoY for two consecutive quarters
+- ⚠️ Alani Nu pro-forma growth decelerates below +20% YoY for two consecutive quarters
+- ⚠️ PepsiCo announces material change in distribution terms or strategic distance
+- ⚠️ MNST acquires or launches a clear "Alani Nu killer" sub-brand with PepsiCo-equivalent distribution
+- ⚠️ Adj EBITDA margin contracts >300 bps for two consecutive quarters
+- ⚠️ FY26 revenue guide cut at any quarterly print
+- ⚠️ Q1 2026 print misses revenue or EPS materially (>5% miss)
+- ⚠️ Multi-quarter Nielsen scanner trend below mid-single-digit growth for category
 
-**Next review trigger**: **Q1 2026 earnings — May 11, 2026 (estimated)**. Key items: (1) CELSIUS-brand standalone YoY growth, (2) Alani Nu pro-forma growth, (3) U.S. $ share sequential trend, (4) Rockstar transition update, (5) FY26 revenue and margin outlook.
+📅 **Next review trigger**: **Q1 2026 earnings — May 11, 2026 (estimated)**. Key items: (1) CELSIUS-brand standalone YoY growth, (2) Alani Nu pro-forma growth, (3) U.S. $ share sequential trend, (4) Rockstar transition update, (5) FY26 revenue and margin outlook.
 
 ---
 
-*Sources: Celsius Holdings Q4 2025 / FY2025 earnings press release (CELH IR, Feb/Mar 2026); Q3 2025 earnings release (CELH IR, 2025-11-06); Alani Nu acquisition press release (CELH IR, 2025); Yahoo Finance live price (2026-04-24); WallStreetZen analyst forecast page; MarketBeat earnings calendar; Public.com analyst forecast; SimplyWallSt valuation note; Motley Fool ("Massive Steal With Alani Nu", 2026-03-04); 24/7 Wall St Q3 173% revenue surge coverage (2025-11); SEC filings (CELH 10-Q ex-99.1).*
+### Sources
+
+- [Celsius Holdings IR — Press Releases](https://ir.celsiusholdings.com/press-releases) (Q4 2025 / FY2025 earnings press release, Feb/Mar 2026; Q3 2025 release, 2025-11-06; Alani Nu acquisition release, 2025)
+- [SEC EDGAR — CELH filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001341766&type=10-K) (CELH 10-Q ex-99.1, 10-K)
+- [Yahoo Finance — CELH quote](https://finance.yahoo.com/quote/CELH) (live price 2026-04-24)
+- [WallStreetZen — CELH](https://www.wallstreetzen.com/stocks/us/nasdaq/celh) (analyst forecast)
+- [MarketBeat — CELH](https://www.marketbeat.com/stocks/NASDAQ/CELH/) (earnings calendar)
+- [Public.com — CELH](https://public.com/stocks/celh) (analyst forecast)
+- [SimplyWallSt — CELH](https://simplywall.st/stocks/us/food-beverage-tobacco/nasdaq-celh/celsius-holdings) (valuation note)
+- [Motley Fool — CELH](https://www.fool.com/quote/nasdaq/celh/) ("Massive Steal With Alani Nu", 2026-03-04)
+- [Seeking Alpha — CELH](https://seekingalpha.com/symbol/CELH) (Q3 2025 coverage)
+- 24/7 Wall St Q3 173% revenue surge coverage (2025-11) [link pending]

@@ -1,17 +1,32 @@
 # ACLS — Axcelis Technologies, Inc.
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $143.13 at April 24, 2026 (Yahoo Finance JSON API; near 52-wk high of $147.94)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$143.13** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/ACLS); near 52-wk high of $147.94)
 > **Ticker Type**: Semiconductor capital equipment (ion implantation specialist)
+
+---
+
+## Summary
+
+- 🟡 **Thesis**: Dominant SiC ion-implant specialist (Narrow moat, ~70–80% SiC share) with structural 8-inch wafer-transition + memory tailwinds, but +186% trailing year and ~3% off 52-wk high have largely priced in the cyclical-recovery thesis.
+- 🟡 **For a non-holder: Watch** at $143.13 — do not chase the +186% rally; await pullback to entry zone.
+- 🟡 **For a current holder: Hold** — quality cyclical with structural SiC + HBM tailwinds; do not exit a winning position at the 52-wk high.
+- 🎯 **Attractive entry zone**: **$95 – $115** (~25× FY27E recovery EPS; ~20× FY28 mid-cycle).
+- 🎯 **Trim zone**: **$160 – $180** (~30× FY27E recovery EPS; cycle-peak premium).
+- 📈 **Price action**: $143.13, **–3% from 52-wk high** ($147.94), **+208% above 52-wk low** ($46.52); +186% trailing 1-yr.
+- 📅 **Next catalyst**: **Q1 2026 earnings — May 7, 2026 (post-close)**. Tests $195M revenue / $0.71 EPS guide.
+- ⚠️ **Top risk**: Power semi recovery delays beyond FY26 (35% prob, high impact); cyclical re-rate after +186% YoY (35% prob, high impact).
+- ⚠️ **Second risk**: China export controls tighten further (30% prob, high impact).
+- 🟡 **BAIT verdict**: **Single overlap** (T Strong currently, A Moderate) — Conviction **Low** for new entries at $143. B. Riley upgraded Neutral → Buy with $150 PT on Apr 20-21, 2026 ([Trefis](https://www.trefis.com/stock/acls), [themarketsdaily.com](https://themarketsdaily.com/?s=Axcelis)).
 
 ---
 
 ## Business Overview
 
-Axcelis Technologies (NASDAQ: ACLS) designs and manufactures ion implantation systems for the semiconductor industry — specialized capital equipment used in the front-end fabrication of integrated circuits. Ion implantation is the process of injecting dopant atoms (boron, phosphorus, arsenic) into silicon wafers to alter electrical properties — a fundamental, non-substitutable step in chip manufacturing. Axcelis competes primarily with Applied Materials (AMAT) in implant tools and is the dominant supplier in the **silicon carbide (SiC) power semiconductor implant market with an estimated 70–80% share** [Source: SimplyWallSt narrative analysis, 2026].
+Axcelis Technologies (NASDAQ: ACLS) designs and manufactures ion implantation systems for the semiconductor industry — specialized capital equipment used in the front-end fabrication of integrated circuits. Ion implantation is the process of injecting dopant atoms (boron, phosphorus, arsenic) into silicon wafers to alter electrical properties — a fundamental, non-substitutable step in chip manufacturing. Axcelis competes primarily with Applied Materials (AMAT) in implant tools and is the dominant supplier in the **silicon carbide (SiC) power semiconductor implant market with an estimated 70–80% share** ([SimplyWallSt narrative analysis, 2026](https://simplywall.st/stocks/us/semiconductors/nasdaq-acls/axcelis-technologies)).
 
-FY2025 revenue was **$839M (vs. record $1.13B in 2023)** with net income of **$120M** — a cyclical trough year for memory and power markets. Q1 2026 guidance is **$195M revenue / non-GAAP EPS ~$0.71**, with management guiding **flat full-year 2026** as DRAM/HBM growth offsets ongoing power and general mature softness [Source: Axcelis Q4 2025 release, 2026-02-17]. The stock has **+186% over the trailing year**, hit a fresh 52-wk high April 20 after **B. Riley upgrade to Buy with $150 PT** [Source: themarketsdaily.com, 2026-04-20; Trefis 2026-04-21]. Q1 2026 earnings is May 7, 2026 (post-close).
+FY2025 revenue was **$839M (vs. record $1.13B in 2023)** with net income of **$120M** — a cyclical trough year for memory and power markets. Q1 2026 guidance is **$195M revenue / non-GAAP EPS ~$0.71**, with management guiding **flat full-year 2026** as DRAM/HBM growth offsets ongoing power and general mature softness ([Axcelis Q4 2025 release, 2026-02-17](https://investor.axcelis.com/news-releases)). The stock has **+186% over the trailing year**, hit a fresh 52-wk high April 20 after **B. Riley upgrade to Buy with $150 PT** ([themarketsdaily.com, 2026-04-20](https://themarketsdaily.com/?s=Axcelis); [Trefis 2026-04-21](https://www.trefis.com/stock/acls)). Q1 2026 earnings is May 7, 2026 (post-close).
 
 ---
 
@@ -47,13 +62,13 @@ The Q1 2026 print on May 7 will test whether the equipment-cycle inflection narr
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$143.13** | April 24, 2026 (Yahoo Finance JSON API) |
+| Live Price | **$143.13** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/ACLS)) |
 | 52-Week High | $147.94 | April 2026 (recent post-B. Riley upgrade) |
 | 52-Week Low | $46.52 | Mid-2025 (cyclical trough) |
 | % From 52-Wk High | –3.3% | Trading near highs |
 | % Above 52-Wk Low | +208% | Major recovery |
-| Trailing 1-Year Return | +186% | [Source: Investing.com, Apr 2026] |
-| Market Cap | ~$4.3B | [Source: Investing.com] |
+| Trailing 1-Year Return | +186% | ([Investing.com](https://www.investing.com/equities/axcelis-tech), Apr 2026) |
+| Market Cap | ~$4.3B | ([Investing.com](https://www.investing.com/equities/axcelis-tech)) |
 | FY2025 Revenue | $839M | vs. record $1.13B in FY2023 |
 | FY2025 Net Income | $120M | |
 | Q4 2025 EPS (Non-GAAP) | $1.49 | Beat consensus $1.12 by $0.37 |
@@ -93,7 +108,7 @@ The Q1 2026 print on May 7 will test whether the equipment-cycle inflection narr
 | Quarter | Revenue | Non-GAAP EPS | Comment |
 |---------|---------|--------------|---------|
 | Q3 2025 | ~$200M [Estimate] | — | Cyclical trough quarter |
-| Q4 2025 | $238.33M | $1.49 (vs. $1.12 cons.) | Beat both top and bottom; key inflection [Source: Stocktitan] |
+| Q4 2025 | $238.33M | $1.49 (vs. $1.12 cons.) | Beat both top and bottom; key inflection ([Stocktitan](https://www.stocktitan.net/news/ACLS/)) |
 | Q1 2026E | $195M (guide) | $0.71 (guide) | Earnings May 7, 2026 |
 
 ---
@@ -202,7 +217,7 @@ The Q1 2026 print on May 7 will test whether the equipment-cycle inflection narr
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Market Cap | ~$4.3B | [Source: Investing.com] |
+| Market Cap | ~$4.3B | ([Investing.com](https://www.investing.com/equities/axcelis-tech)) |
 | EV (net cash position) | ~$3.8–4.0B | [Estimate] |
 | EV / Revenue (FY25) | ~4.5–4.8× | At cyclical trough |
 | EV / Revenue (FY26E flat) | ~4.5–4.8× | |
@@ -229,7 +244,7 @@ The Q1 2026 print on May 7 will test whether the equipment-cycle inflection narr
 
 ### Live Price & Positioning
 
-- **Price**: $143.13 (April 24, 2026; Yahoo Finance JSON API)
+- **Price**: $143.13 (April 24, 2026; [Yahoo Finance](https://finance.yahoo.com/quote/ACLS))
 - **52-week range**: $46.52 – $147.94
 - **% from 52-wk high**: –3.3%
 - **% above 52-wk low**: +208%
@@ -238,8 +253,8 @@ The Q1 2026 print on May 7 will test whether the equipment-cycle inflection narr
 
 ### Analyst Consensus
 
-- **Aggregate rating**: Hold (with recent upgrades shifting toward Buy) [Source: Daily Political, 2026-04-20]
-- **Recent action**: B. Riley upgrade (Apr 20–21, 2026) sparked +10% rally
+- **Aggregate rating**: 🟡 Hold (with recent upgrades shifting toward Buy) ([Daily Political](https://www.dailypolitical.com/?s=Axcelis), 2026-04-20)
+- **Recent action**: 🟢 B. Riley upgrade (Apr 20–21, 2026) sparked +10% rally
 - **Median target**: ~$130–145 [Estimate from aggregator]
 - **High target**: $150 (B. Riley)
 
@@ -247,8 +262,8 @@ The Q1 2026 print on May 7 will test whether the equipment-cycle inflection narr
 
 | Date | Firm | Action | Target | Note |
 |------|------|--------|--------|------|
-| 2026-04-21 | B. Riley | **Upgrade** Neutral → Buy | $150 | Sparked +10% rally [Source: Trefis] |
-| 2026-04-20 | (Aggregator update) | Aggregator avg moved up | — | New 52-wk high $147.28 [Source: Investing.com] |
+| 2026-04-21 | B. Riley | 🟢 **Upgrade** Neutral → Buy | $150 | Sparked +10% rally ([Trefis](https://www.trefis.com/stock/acls)) |
+| 2026-04-20 | (Aggregator update) | Aggregator avg moved up | — | New 52-wk high $147.28 ([Investing.com](https://www.investing.com/equities/axcelis-tech)) |
 
 ### Short Interest
 
@@ -260,17 +275,17 @@ The Q1 2026 print on May 7 will test whether the equipment-cycle inflection narr
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-21] [Analyst]** — B. Riley upgrade to Buy with $150 PT; +10% rally [Source: Trefis, themarketsdaily.com]
-- **[2026-04-20] [Price action]** — New 52-wk high at $147.28 [Source: Investing.com]
-- **[2026-04-15] [Price action]** — 52-wk high alert; momentum continuing [Source: ideas.quantcha.com]
-- **[2026-02-17] [Earnings]** — Q4 2025 / FY2025 results: Q4 revenue $238M, EPS $1.49 (beat $1.12); FY25 revenue $839M, NI $120M; Q1 2026 guide ~$195M revenue / $0.71 EPS; FY26 flat outlook [Source: Axcelis IR]
-- **[2026-04-09 (approx)] [Corporate]** — Q1 2026 earnings call announced for May 7, 2026 [Source: Stocktitan]
+- **[2026-04-21] [Analyst]** — B. Riley upgrade to Buy with $150 PT; +10% rally ([Trefis](https://www.trefis.com/stock/acls), [themarketsdaily.com](https://themarketsdaily.com/?s=Axcelis))
+- 📈 **[2026-04-20] [Price action]** — New 52-wk high at $147.28 ([Investing.com](https://www.investing.com/equities/axcelis-tech))
+- 📈 **[2026-04-15] [Price action]** — 52-wk high alert; momentum continuing ([ideas.quantcha.com](https://ideas.quantcha.com/?s=acls))
+- **[2026-02-17] [Earnings]** — Q4 2025 / FY2025 results: Q4 revenue $238M, EPS $1.49 (beat $1.12); FY25 revenue $839M, NI $120M; Q1 2026 guide ~$195M revenue / $0.71 EPS; FY26 flat outlook ([Axcelis IR](https://investor.axcelis.com/news-releases))
+- **[2026-04-09 (approx)] [Corporate]** — Q1 2026 earnings call announced for May 7, 2026 ([Stocktitan](https://www.stocktitan.net/news/ACLS/))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **2026-05-07** (post-close) | **Q1 2026 earnings** | Tests $195M revenue / $0.71 EPS guide; cycle-inflection bookings color |
+| 📅 **2026-05-07** (post-close) | **Q1 2026 earnings** | Tests $195M revenue / $0.71 EPS guide; cycle-inflection bookings color |
 | Q3 2026 (~Aug) | Q2 2026 earnings | Will validate FY26 "flat" guide direction |
 | FY2026 (rolling) | 8-inch SiC tool order book color | Multi-year tailwind validation |
 | FY2026 (rolling) | DRAM/HBM design-win disclosures | Memory offset thesis |
@@ -356,29 +371,41 @@ Q4 2025 transcript and IR materials are public. Coverage is thin (small/mid-cap)
 
 **Thesis in one sentence**: Axcelis is the dominant SiC ion-implant specialist with structural 8-inch wafer-transition + memory tailwinds, but at $143.13 (+186% trailing year, ~3% off 52-wk high) the cyclical-recovery thesis is largely priced in — leaving a low-asymmetry forward setup unless the Q1 2026 print materially exceeds expectations.
 
-**For a non-holder**: **Watch** at $143.13 — do not chase the +186% rally. Initiate on a pullback into the **$95–115 attractive entry zone**, where forward asymmetry returns to a meaningful range. The Q1 2026 print on May 7 could create that pullback if FY26 guide is reaffirmed as "flat."
+**For a non-holder**: 🟡 **Watch** at $143.13 — do not chase the +186% rally. Initiate on a pullback into the **$95–115 attractive entry zone**, where forward asymmetry returns to a meaningful range. The Q1 2026 print on May 7 could create that pullback if FY26 guide is reaffirmed as "flat."
 
-**For a current holder**: **Hold** — quality cyclical with structural SiC + HBM tailwinds. **Trim into the $160–180 zone** if reached on a clean Q1 beat / FY26 guide raise. Do not exit a winning position at the 52-wk high.
+**For a current holder**: 🟡 **Hold** — quality cyclical with structural SiC + HBM tailwinds. **Trim into the $160–180 zone** if reached on a clean Q1 beat / FY26 guide raise. Do not exit a winning position at the 52-wk high.
 
-**Attractive entry zone**: **$95 – $115** (rationale: ~25× FY27E recovery EPS; ~20× FY28 mid-cycle; aligns with peer set; gives margin of safety on cycle execution)
+🎯 **Attractive entry zone**: **$95 – $115** (rationale: ~25× FY27E recovery EPS; ~20× FY28 mid-cycle; aligns with peer set; gives margin of safety on cycle execution)
 
-**Trim zone**: **$160 – $180** (rationale: ~30× FY27E recovery EPS; full bull-case priced in; cycle-peak premium)
+🎯 **Trim zone**: **$160 – $180** (rationale: ~30× FY27E recovery EPS; full bull-case priced in; cycle-peak premium)
 
-**Exit / avoid zone**: **>$200** (rationale: would require all three of SiC + memory + power firing simultaneously *and* multiple expansion; aggressive)
+🔴 **Exit / avoid zone**: **>$200** (rationale: would require all three of SiC + memory + power firing simultaneously *and* multiple expansion; aggressive)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Exit):
-- Q1 2026 revenue below $185M (low end of guide)
-- FY2026 guide revised from "flat" to "down" at any quarterly update
-- Material 8-inch SiC tool order disclosure cut or delayed
-- AMAT announces a competing SiC implant tool with leading specs
-- China export controls tighten in a way that excludes implant tools
-- Memory/HBM capex announcement cycle weakens
-- Russell Low (CEO) departure
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
+- ⚠️ Q1 2026 revenue below $185M (low end of guide)
+- ⚠️ FY2026 guide revised from "flat" to "down" at any quarterly update
+- ⚠️ Material 8-inch SiC tool order disclosure cut or delayed
+- ⚠️ AMAT announces a competing SiC implant tool with leading specs
+- ⚠️ China export controls tighten in a way that excludes implant tools
+- ⚠️ Memory/HBM capex announcement cycle weakens
+- ⚠️ Russell Low (CEO) departure
 
-**Next review trigger**: **Q1 2026 earnings — May 7, 2026 (post-close)**. Key items: (1) revenue vs. $195M guide, (2) Q2 guide direction, (3) FY26 reaffirmation or revision, (4) book-to-bill ratio commentary, (5) SiC and memory order book color, (6) China commentary.
+📅 **Next review trigger**: **Q1 2026 earnings — May 7, 2026 (post-close)**. Key items: (1) revenue vs. $195M guide, (2) Q2 guide direction, (3) FY26 reaffirmation or revision, (4) book-to-bill ratio commentary, (5) SiC and memory order book color, (6) China commentary.
 
 ---
 
-*Sources: Axcelis Q4 2025 / FY2025 press release and earnings call (~2026-02-17, IR / Stocktitan / Motley Fool / Globe and Mail); B. Riley upgrade analysis (Trefis, themarketsdaily.com 2026-04-20/21); FinancialContent ACLS deep dive (2026-03-25); SimplyWallSt narrative analysis on SiC market share; Yahoo Finance JSON API live price (2026-04-24); Investing.com 52-wk high coverage; analyst consensus aggregators (MarketBeat, Daily Political).*
+### Sources
+
+- [Axcelis Investor Relations — News Releases](https://investor.axcelis.com/news-releases) (Q4 2025 / FY2025 press release and earnings call, ~2026-02-17)
+- [SEC EDGAR — Axcelis filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001113232&type=10-K) (10-K FY2025)
+- [Yahoo Finance — ACLS quote](https://finance.yahoo.com/quote/ACLS) (live price 2026-04-24)
+- [Trefis — ACLS](https://www.trefis.com/stock/acls) (B. Riley upgrade analysis, 2026-04-21)
+- [themarketsdaily.com — Axcelis](https://themarketsdaily.com/?s=Axcelis) (B. Riley upgrade, 2026-04-20)
+- [Investing.com — Axcelis](https://www.investing.com/equities/axcelis-tech) (52-wk high coverage, market cap)
+- [SimplyWallSt — ACLS](https://simplywall.st/stocks/us/semiconductors/nasdaq-acls/axcelis-technologies) (SiC market share narrative)
+- [Stocktitan — ACLS](https://www.stocktitan.net/news/ACLS/) (Q4 2025 earnings coverage)
+- [MarketBeat — ACLS](https://www.marketbeat.com/stocks/NASDAQ/ACLS/) / [Daily Political — Axcelis](https://www.dailypolitical.com/?s=Axcelis) (analyst consensus aggregators)
+- [ideas.quantcha.com — ACLS](https://ideas.quantcha.com/?s=acls) (52-wk high alerts)
+- FinancialContent ACLS deep dive (2026-03-25) [link pending]
 
 *Data gaps flagged: precise geographic revenue split (pending 10-K full read), specific short interest %, recent insider Form 4 cadence.*

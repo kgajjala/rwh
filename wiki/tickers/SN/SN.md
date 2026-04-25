@@ -1,9 +1,24 @@
 # SN — SharkNinja, Inc.
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $115.74 at April 24, 2026 (Yahoo Finance; April 24 close)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$115.74** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/SN); April 24 close)
 > **Ticker Type**: Consumer products / appliances (capital-light asset-lite design + manufacturing-outsourced model)
+
+---
+
+## Summary
+
+- 🟢 **Thesis**: Serial-innovation consumer products platform (**Narrow moat**) compounding revenue +10–24%/yr at 17%+ adj EBITDA margins — manufacturing diversifying out of China, growing international fast; at ~19× FY26E EPS the setup is asymmetric.
+- 🟢 **For a non-holder: Initiate** at $115.74 — preferred; consensus median ~$148 (+28% upside).
+- 🟢 **For a current holder: Hold / Add on weakness** — below $105 is an Add zone.
+- 🎯 **Attractive entry zone**: **$95 – $105** (~16–17× FY26E EPS; near 200DMA; tariff cushion).
+- 🎯 **Trim zone**: **$160 – $185** (full bull case priced; Jefferies $200 territory).
+- 📈 **Price action**: $115.74, **–13.6% from 52-wk high** ($133.99), +51.4% above 52-wk low ($76.45).
+- 📅 **Next catalyst**: **Q1 2026 earnings — early May 2026 (est.)**. Tariff impact on Q1 GM; first quarter under FY26 guide.
+- ⚠️ **Top risk**: Tariff escalation beyond current 20% (30% prob, High impact) — FY26 guide assumes status quo.
+- ⚠️ **Second risk**: Failed major product launch (CREAMi-class flop) (25% prob, High impact).
+- 🟢 **BAIT verdict**: **Triple-lens (A moderate-strong; B+I+T moderate)** — Conviction **Moderate-High**. PW EV ~$144 (3-yr) implies +24% / ~7.5%/yr.
 
 ---
 
@@ -13,7 +28,7 @@ SharkNinja (NYSE: SN) is a global designer and marketer of differentiated consum
 
 The model is "asset-lite manufacturing": SharkNinja designs and markets; contract manufacturers (~70% China, with Vietnam/Thailand/Malaysia/Cambodia/Indonesia diversification underway) build. Sales channel is ~60% U.S. domestic (Amazon, big-box, DTC) and ~35% international, growing.
 
-**Q4 2025 results** (released February 11, 2026): Net sales $2.1B (+17.6% YoY), domestic +15.7% to $1.37B, international +21.4% to $729M; adjusted EBITDA $395M (+36%) at 18.8% margin (+250 bps YoY); adjusted GM 48.2% (+40 bps despite tariff drag); adj diluted EPS $1.93 vs. $1.40 prior year [Source: SharkNinja Q4 2025 press release, IR, February 11, 2026]. **FY2026 Guide**: net sales +10–11%; adj EBITDA $1.27–1.28B (+12–13%); adj diluted EPS $5.90–6.00 (+12–14%) — **assumes current tariff levels persist** (20% China/Vietnam, 19% Indonesia/Thailand/Malaysia/Cambodia).
+**Q4 2025 results** (released February 11, 2026): Net sales $2.1B (+17.6% YoY), domestic +15.7% to $1.37B, international +21.4% to $729M; adjusted EBITDA $395M (+36%) at 18.8% margin (+250 bps YoY); adjusted GM 48.2% (+40 bps despite tariff drag); adj diluted EPS $1.93 vs. $1.40 prior year ([SharkNinja Q4 2025 press release](https://ir.sharkninja.com/news-and-events/news-releases), February 11, 2026). **FY2026 Guide**: net sales +10–11%; adj EBITDA $1.27–1.28B (+12–13%); adj diluted EPS $5.90–6.00 (+12–14%) — **assumes current tariff levels persist** (20% China/Vietnam, 19% Indonesia/Thailand/Malaysia/Cambodia).
 
 ---
 
@@ -50,7 +65,7 @@ The bull case requires (a) tariff mitigation (Vietnam/SEA shift) keeps GM stable
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$115.74** | April 24, 2026 (Yahoo close) |
+| Live Price | **$115.74** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/SN), close) |
 | Previous Close | $114.69 | +0.92% session |
 | 52-Week High | $133.99 | |
 | 52-Week Low | $76.45 | Tariff scare period |
@@ -66,7 +81,7 @@ The bull case requires (a) tariff mitigation (Vietnam/SEA shift) keeps GM stable
 | FY2026 Guide — Adj EPS | $5.90 – $6.00 | +12–14% |
 | FY2026 P/E (adj) | ~19× | At $115.74 / $6.00 EPS |
 | Tariff Assumptions | China/Vietnam 20%; Indo/Thai/Malay/Cam 19% | Per FY26 guide |
-| Short Interest | 9.61% of float (5.26M sh) | Elevated |
+| Short Interest | 9.61% of float (5.26M sh) | Elevated ([Fintel](https://fintel.io/ss/us/sn) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/SN/short-interest/)) |
 | Next Earnings (Q1 2026) | Early May 2026 (est.) | |
 
 ---
@@ -94,7 +109,7 @@ The bull case requires (a) tariff mitigation (Vietnam/SEA shift) keeps GM stable
 | FCF | — | — | ~$0.6B | ~$0.8B | TBD |
 | Diluted Shares (M) | ~140 | ~140 | ~141 | ~142 | ~142 |
 
-[Source: SharkNinja Q4 2025 press release, February 11, 2026; FY2025 trajectory inferred from Q4 + management commentary]
+*Source: [SharkNinja Q4 2025 press release](https://ir.sharkninja.com/news-and-events/news-releases) (February 11, 2026); FY2025 trajectory inferred from Q4 + management commentary*
 
 ### Quarterly Trajectory (Recent)
 
@@ -170,7 +185,7 @@ The bull case requires (a) tariff mitigation (Vietnam/SEA shift) keeps GM stable
 - **M&A**: Selective tuck-ins (e.g., niche brand acquisitions); not a major M&A consolidator
 - **Capex**: Light (asset-lite); reinvestment is mostly in R&D and channel expansion
 
-**Recent insider activity**: April 16, 2026 — director Wang Xuning RSU vest 461,334 shares (equity comp event, not open-market) [Source: stocktitan, Form 4]. Earlier 2026: CCO Neil Shah RSU exercises (routine). No signal-bearing open-market activity.
+**Recent insider activity**: April 16, 2026 — director Wang Xuning RSU vest 461,334 shares (equity comp event, not open-market) ([SEC Form 4](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=sharkninja&type=4)). Earlier 2026: CCO Neil Shah RSU exercises (routine). No signal-bearing open-market activity.
 
 ---
 
@@ -189,8 +204,8 @@ The bull case requires (a) tariff mitigation (Vietnam/SEA shift) keeps GM stable
 
 | Risk | Impact | Probability | Notes |
 |------|--------|-------------|-------|
-| Tariff escalation beyond current 20% | High | 30% | FY26 guide explicitly assumes status quo |
-| Failed major product launch (CREAMi-class flop) | High | 25% | Innovation engine must deliver |
+| ⚠️ Tariff escalation beyond current 20% | High | 30% | FY26 guide explicitly assumes status quo |
+| ⚠️ Failed major product launch (CREAMi-class flop) | High | 25% | Innovation engine must deliver |
 | Amazon channel policy change / private-label pressure | Medium | 30% | Concentrated |
 | JS Global secondary offering at low | Medium | 35% | Overhang |
 | Recession compresses discretionary durables | Medium | 25% | Real |
@@ -257,7 +272,7 @@ The bull case requires (a) tariff mitigation (Vietnam/SEA shift) keeps GM stable
 
 ### Analyst Consensus (as of mid-April 2026)
 
-- **Aggregate rating**: Moderate Buy / Strong Buy (panels vary; ~9–11 Buy, 0–1 Hold, 0 Sell)
+- **Aggregate rating**: 🟢 Moderate Buy / Strong Buy (panels vary; ~9–11 Buy, 0–1 Hold, 0 Sell) ([stockanalysis.com](https://stockanalysis.com/stocks/sn/forecast/) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/SN/forecast/))
 - **Median target**: $145.90 – $151.56 (depending on panel)
 - **High / low**: $200 (Jefferies) / $128 (recent JPM cut)
 - **Implied upside from $115.74**: +26% to +31% to median
@@ -266,9 +281,9 @@ The bull case requires (a) tariff mitigation (Vietnam/SEA shift) keeps GM stable
 
 | Date | Firm | Action | Target | Note |
 |------|------|--------|--------|------|
-| 2026-04-17 | JPMorgan | PT cut $152 → $144 | $144 | Tariff caution |
-| 2026-Q1 | Jefferies | Reaffirmed Buy | $200 | Bull extreme |
-| 2026-04-15 | (multiple) | Moderate Buy consensus | $145.90 | |
+| 2026-04-17 | JPMorgan | PT cut $152 → $144 | $144 | Tariff caution [link pending] |
+| 2026-Q1 | Jefferies | Reaffirmed Buy | $200 | Bull extreme [link pending] |
+| 2026-04-15 | (multiple) | Moderate Buy consensus | $145.90 | ([stockanalysis.com](https://stockanalysis.com/stocks/sn/forecast/)) |
 
 ### Short Interest
 
@@ -287,18 +302,18 @@ The bull case requires (a) tariff mitigation (Vietnam/SEA shift) keeps GM stable
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-02-11] [Earnings]** — Q4 2025 / FY2025 results: Q4 Rev $2.1B (+17.6%), Adj EBITDA $395M (+36%) at 18.8% margin, Adj EPS $1.93 vs. $1.40 PY; FY2026 guide 10–11% growth, Adj EBITDA $1.27–1.28B, Adj EPS $5.90–6.00 [Source: IR press release]
-- **[2026-Q1 ongoing]** — Manufacturing diversification toward Vietnam/SEA continues
-- **[2026-04 ongoing]** — JPMorgan PT trim on tariff caution
+- **[2026-02-11] [Earnings]** — Q4 2025 / FY2025 results: Q4 Rev $2.1B (+17.6%), Adj EBITDA $395M (+36%) at 18.8% margin, Adj EPS $1.93 vs. $1.40 PY; FY2026 guide 10–11% growth, Adj EBITDA $1.27–1.28B, Adj EPS $5.90–6.00 ([SharkNinja IR](https://ir.sharkninja.com/news-and-events/news-releases))
+- **[2026-Q1 ongoing]** — Manufacturing diversification toward Vietnam/SEA continues [link pending]
+- **[2026-04 ongoing]** — JPMorgan PT trim on tariff caution [link pending]
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **Early May 2026** (est.) | **Q1 2026 earnings** | First full quarter under FY26 guide; tariff-impact read |
+| 📅 **Early May 2026** (est.) | **Q1 2026 earnings** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NYSE/SN/earnings/)) | First full quarter under FY26 guide; tariff-impact read |
 | Q2 2026 (est. early Aug) | Q2 2026 earnings | International growth pace, beauty category data |
 | H2 2026 | Holiday product launch slate | Innovation pipeline confirmation |
-| Ongoing | Tariff policy developments | Direct GM impact |
+| ⚠️ Ongoing | Tariff policy developments | Direct GM impact |
 | Ongoing | JS Global secondary action | Overhang catalyst |
 
 ---
@@ -383,27 +398,38 @@ The bull case requires (a) tariff mitigation (Vietnam/SEA shift) keeps GM stable
 
 **Thesis in one sentence**: SharkNinja is a serial-innovation consumer products platform compounding revenue at 10–24%/year with 17%+ adj EBITDA margins, manufacturing-diversifying out of China, and growing international fast — at $115.74 with consensus median ~$148 (+28% upside) and 3-year PW EV of $144, the setup is one of the more asymmetric long opportunities in mid-cap consumer.
 
-**For a non-holder**: **Initiate** at $115.74 — preferred. The risk-reward is favorable now; do not wait for a perfect entry. **Attractive entry zone $95–105** for adding on weakness.
+**For a non-holder**: 🟢 **Initiate** at $115.74 — preferred. The risk-reward is favorable now; do not wait for a perfect entry. **Attractive entry zone $95–105** for adding on weakness.
 
-**For a current holder**: **Hold / Add on weakness**. Below $105 is an Add zone for long-horizon holders. Do not exit; the FY26 guide is intact and the tariff situation has stabilized.
+**For a current holder**: 🟢 **Hold / Add on weakness**. Below $105 is an Add zone for long-horizon holders. Do not exit; the FY26 guide is intact and the tariff situation has stabilized.
 
-**Attractive entry zone**: **$95 – $105** (rationale: ~16–17× FY26E EPS; closer to the 200DMA; cushions against tariff escalation surprise)
+🎯 **Attractive entry zone**: **$95 – $105** (rationale: ~16–17× FY26E EPS; closer to the 200DMA; cushions against tariff escalation surprise)
 
-**Trim zone**: **$160 – $185** (rationale: would price in full bull case; multi-year P/E expansion; Jefferies $200 target territory)
+🎯 **Trim zone**: **$160 – $185** (rationale: would price in full bull case; multi-year P/E expansion; Jefferies $200 target territory)
 
-**Exit / avoid zone**: **>$200** (rationale: would require 22×+ P/E on FY26E — premium beyond peer comps; not asymmetric)
+🔴 **Exit / avoid zone**: **>$200** (rationale: would require 22×+ P/E on FY26E — premium beyond peer comps; not asymmetric)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Exit):
-- Tariff escalation pushes blended rate above 25% materially
-- FY26 guide cut for any reason at Q1 print
-- A major product launch (e.g., next CREAMi-class) commercial flop
-- JS Global secondary >$1B at <$110
-- Adj EBITDA margin compresses below 15% in any quarter
-- Amazon channel policy change reducing SN shelf placement
-- Two consecutive quarters of <8% revenue growth
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
+- ⚠️ Tariff escalation pushes blended rate above 25% materially
+- ⚠️ FY26 guide cut for any reason at Q1 print
+- ⚠️ A major product launch (e.g., next CREAMi-class) commercial flop
+- ⚠️ JS Global secondary >$1B at <$110
+- ⚠️ Adj EBITDA margin compresses below 15% in any quarter
+- ⚠️ Amazon channel policy change reducing SN shelf placement
+- ⚠️ Two consecutive quarters of <8% revenue growth
 
-**Next review trigger**: **Q1 2026 earnings — early May 2026 (estimated)**. Key items: (1) Q1 net sales pace vs. FY26 +10–11% guide, (2) tariff impact on Q1 GM, (3) international growth rate, (4) any FY26 guide refresh, (5) commentary on manufacturing diversification progress.
+📅 **Next review trigger**: **Q1 2026 earnings — early May 2026 (estimated)**. Key items: (1) Q1 net sales pace vs. FY26 +10–11% guide, (2) tariff impact on Q1 GM, (3) international growth rate, (4) any FY26 guide refresh, (5) commentary on manufacturing diversification progress.
 
 ---
 
-*Sources: SharkNinja Q4 2025 / FY2025 press release (IR, February 11, 2026); Q4 2025 earnings call transcript (Motley Fool, Investing.com); Yahoo Finance live price (2026-04-24); SharkNinja Q3 2025 earnings call transcript (s202.q4cdn.com); MarketBeat short interest (April 2026); Public.com / TipRanks / WallStreetZen / Investing.com analyst consensus; JPMorgan PT cut April 17, 2026 (Daily Political); Jefferies Buy reaffirmation; stocktitan.net Form 4 filings (April 16, 2026 Wang Xuning RSU vest; February 28, 2026 Neil Shah RSU exercise).*
+### Sources
+
+- [SharkNinja Investor Relations](https://ir.sharkninja.com/news-and-events/news-releases) (Q4 2025 / FY2025 press release, Feb 11, 2026; Q3 2025)
+- [SEC EDGAR — SharkNinja filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=sharkninja&type=10-K) (10-K, 10-Q, Form 4 — Wang Xuning RSU vest Apr 16, 2026; Neil Shah RSU exercise Feb 28, 2026)
+- [Motley Fool — earnings transcripts](https://www.fool.com/earnings/call-transcripts/) (Q4 2025 SN call)
+- [Investing.com — SN](https://www.investing.com/equities/sharkninja) (Q4 2025 transcript, analyst consensus)
+- [Yahoo Finance — SN quote](https://finance.yahoo.com/quote/SN) (live price 2026-04-24)
+- [stockanalysis.com — SN](https://stockanalysis.com/stocks/sn/forecast/) (analyst consensus)
+- [MarketBeat — SN](https://www.marketbeat.com/stocks/NYSE/SN/) (short interest, ratings, earnings calendar)
+- [Fintel — SN short interest](https://fintel.io/ss/us/sn)
+- JPMorgan PT cut April 17, 2026 [link pending]
+- Jefferies Buy reaffirmation [link pending]

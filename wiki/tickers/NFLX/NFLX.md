@@ -1,9 +1,24 @@
 # NFLX — Netflix, Inc.
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $93.24 at April 24, 2026 (Yahoo Finance; intraday delayed quote — post 10-for-1 split effective Nov 17, 2025)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$93.24** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/NFLX); post 10-for-1 split effective Nov 17, 2025)
 > **Ticker Type**: Capital-light global streaming platform with advertising optionality
+
+---
+
+## Summary
+
+- 🟢 **Thesis**: Global streaming leader (**Wide moat**) with scaling advertising layer ($3B 2026 → $7B+ 2028) and ~30% operating margins; trading 30% off post-split highs after a Q1 light-Q2-guide selloff.
+- 🟢 **For a non-holder: Initiate (small, scaled)** at $93.24; $80–88 entry zone offers better risk-reward.
+- 🟡 **For a current holder: Hold / Add on weakness** — below $90 is an Add zone; do not exit at –30%.
+- 🎯 **Attractive entry zone**: **$80 – $88** (~30× FY26E EPS; below post-Q1 selloff; bear-case downside support).
+- 🎯 **Trim zone**: **$135 – $150** (prior 52-wk high; 38–42× FY26E EPS).
+- 📉 **Price action**: $93.24, **–30.5% from 52-wk high** ($134.12), +24.3% above 52-wk low ($75.01); post-Q1 9.7% selloff Apr 17.
+- 📅 **Next catalyst**: **Q2 2026 earnings — mid-July 2026 (est.)**. Test of Q2 guide ($12.5B); ad revenue pace toward $3B FY target.
+- ⚠️ **Top risk**: Sports rights cost inflation outpaces ROI (high impact, 35% prob) — NBA, NFL annual escalations.
+- ⚠️ **Second risk**: Ad revenue plateaus below $5B (high impact, 30% prob) — single biggest swing.
+- 🟡 **BAIT verdict**: **Triple-lens (B + A + I Moderate); T weak** — Conviction **Moderate**. Quality compounder at fair-to-slightly-rich price; PW EV ~$119.50 (3-yr) implies +28% / ~+9%/yr; mechanical $6B/yr buyback support.
 
 ---
 
@@ -13,7 +28,7 @@ Netflix (NASDAQ: NFLX) is the world's largest subscription streaming video servi
 
 In November 2025, Netflix executed a **10-for-1 stock split** (record date Nov 10, 2025; ex-date Nov 17, 2025) — the company's first split since 2015. Pre-split highs ~$1,341 = post-split ~$134.10.
 
-Q1 2026: Revenue $12.25B (+16% YoY), beat $12.17B consensus; on track for **$3B advertising revenue in 2026** (doubling YoY); ad-tier accounted for **>60% of sign-ups in ads markets**; 325M+ paid memberships [Source: Netflix Q1 2026 earnings, April 16, 2026]. Q2 guide of $12.5B (below $12.6B consensus) and EPS guide of $0.78 (below $0.84 consensus) caused a **9.7% selloff post-print**.
+Q1 2026: Revenue $12.25B (+16% YoY), beat $12.17B consensus; on track for **$3B advertising revenue in 2026** (doubling YoY); ad-tier accounted for **>60% of sign-ups in ads markets**; 325M+ paid memberships ([Netflix Q1 2026 earnings, April 16, 2026](https://ir.netflix.net/financials/quarterly-earnings/default.aspx)). Q2 guide of $12.5B (below $12.6B consensus) and EPS guide of $0.78 (below $0.84 consensus) caused a **9.7% selloff post-print**.
 
 ---
 
@@ -94,7 +109,7 @@ The bull case requires (a) ad revenue tracking $3B 2026 → $5B 2027 → $7B+ 20
 | FCF | $1.6B | $6.9B | $7.0B | ~$7B | ~$12.5B (raised) |
 | Diluted Shares (post-split, M) | ~4,460 | ~4,400 | ~4,330 | ~4,250 | ~4,220 |
 
-[Source: Netflix 10-K FY2024; Q1 2026 release April 16, 2026]
+Sources: [Netflix 10-K FY2024 (SEC EDGAR)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001065280&type=10-K); [Q1 2026 release April 16, 2026](https://ir.netflix.net/financials/quarterly-earnings/default.aspx).
 
 ---
 
@@ -167,7 +182,7 @@ The bull case requires (a) ad revenue tracking $3B 2026 → $5B 2027 → $7B+ 20
 1. **Advertising scale-up**: $3B 2026 → $5B 2027 → $7B+ 2028. Largest single growth + margin lever.
 2. **Live / sports**: NFL Christmas continuing; WWE Raw; expanding live event slate. Engagement + ad CPM lift.
 3. **Gaming**: Modest; long-arc bet on subscription expansion via cloud gaming
-4. **Video podcasts**: Q1 2026 disclosure that podcast adoption helped drive engagement to a record [Source: Netflix Q1 letter]
+4. **Video podcasts**: Q1 2026 disclosure that podcast adoption helped drive engagement to a record ([Netflix Q1 letter](https://ir.netflix.net/financials/quarterly-earnings/default.aspx))
 5. **Localized content production**: 50+ country production capability; non-English originals drive ~30% of total engagement
 6. **ARM expansion in mature markets**: Strategic pricing increases + plan-tier optimization
 7. **Password-sharing monetization**: Largely harvested; modest residual upside
@@ -270,16 +285,16 @@ The bull case requires (a) ad revenue tracking $3B 2026 → $5B 2027 → $7B+ 20
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-17] [Earnings + Selloff]** — Q1 2026: Rev $12.25B (+16%) beat, op income +18%, 325M+ subs, $3B 2026 ad target on track; **Q2 guide light → stock fell 9.7%** [Source: CNBC, IndexBox]
-- **[2026-Q1] [Engagement]** — Video podcasts + WBC (World Baseball Classic) drove engagement to record [Source: Netflix Q1 letter]
-- **[2026-Q1] [Strategic]** — Reaffirmed FY26 revenue guide; raised FCF guide to ~$12.5B (includes after-tax termination fee, likely related to a content/JV exit)
-- **[2025-11-17] [Capital]** — 10-for-1 stock split effective [Source: Netflix IR, prnewswire]
+- **[2026-04-17] [Earnings + Selloff]** — 📉 Q1 2026: Rev $12.25B (+16%) beat, op income +18%, 325M+ subs, $3B 2026 ad target on track; **Q2 guide light → stock fell 9.7%** ([CNBC search](https://www.cnbc.com/search/?query=netflix+q1+2026), [IndexBox](https://www.indexbox.io/?s=netflix))
+- **[2026-Q1] [Engagement]** — Video podcasts + WBC (World Baseball Classic) drove engagement to record ([Netflix Q1 letter](https://ir.netflix.net/financials/quarterly-earnings/default.aspx))
+- **[2026-Q1] [Strategic]** — 💰 Reaffirmed FY26 revenue guide; raised FCF guide to ~$12.5B (includes after-tax termination fee, likely related to a content/JV exit) ([Netflix IR](https://ir.netflix.net/financials/quarterly-earnings/default.aspx))
+- **[2025-11-17] [Capital]** — 💰 10-for-1 stock split effective ([Netflix IR](https://ir.netflix.net/news/news-details/2025/Netflix-Announces-10-for-1-Stock-Split/default.aspx) / [PRNewswire](https://www.prnewswire.com/news/netflix-inc/))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **Mid-July 2026** | **Q2 2026 earnings** | Test of Q2 guide ($12.5B); ad revenue pace |
+| 📅 **Mid-July 2026** | **Q2 2026 earnings** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NASDAQ/NFLX/earnings/)) | Test of Q2 guide ($12.5B); ad revenue pace |
 | H2 2026 | Q3/Q4 ad revenue acceleration | Tracks $3B FY26 target |
 | Late 2026 | NFL Christmas Day games (year 3) | Engagement + ad showcase |
 | Ongoing | New live event additions | Sentiment + engagement |
@@ -369,27 +384,41 @@ The bull case requires (a) ad revenue tracking $3B 2026 → $5B 2027 → $7B+ 20
 
 **Thesis in one sentence**: Netflix is the global streaming leader with a wide moat, scaling advertising layer ($3B 2026 → $7B+ 2028), and ~30% operating margins, now trading 30% off post-split highs after a Q1 light-Q2-guide selloff — making the 3-year PW EV ($119.50) ~28% above spot $93.24 and the setup mildly favorable for non-holders.
 
-**For a non-holder**: **Initiate (small, scaled)** at $93.24. The $80–88 attractive entry zone offers better risk-reward but the current price is reasonable for partial position-building. Wait for Q2 2026 print confirmation before sizing up.
+**For a non-holder**: 🟢 **Initiate (small, scaled)** at $93.24. The $80–88 attractive entry zone offers better risk-reward but the current price is reasonable for partial position-building. Wait for Q2 2026 print confirmation before sizing up.
 
-**For a current holder**: **Hold / Add on weakness**. Below $90 is an Add zone for long-horizon holders. Do not exit at –30% from highs — fundamentals are intact and the buyback is mechanical support.
+**For a current holder**: 🟡 **Hold / Add on weakness**. Below $90 is an Add zone for long-horizon holders. Do not exit at –30% from highs — fundamentals are intact and the buyback is mechanical support.
 
-**Attractive entry zone**: **$80 – $88** (rationale: ~30× FY26E EPS; below post-Q1 selloff; aligns with bear-case downside support; gives ad-runway optionality at lower implied multiple)
+🎯 **Attractive entry zone**: **$80 – $88** (rationale: ~30× FY26E EPS; below post-Q1 selloff; aligns with bear-case downside support; gives ad-runway optionality at lower implied multiple)
 
-**Trim zone**: **$135 – $150** (rationale: prior 52-wk high; would re-rate to 38–42× FY26E EPS; further upside requires execution proof rather than narrative)
+🎯 **Trim zone**: **$135 – $150** (rationale: prior 52-wk high; would re-rate to 38–42× FY26E EPS; further upside requires execution proof rather than narrative)
 
-**Exit / avoid zone**: **>$160** (rationale: full bull case priced; would require multiple expansion beyond reasonable comps)
+🔴 **Exit / avoid zone**: **>$160** (rationale: full bull case priced; would require multiple expansion beyond reasonable comps)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Exit):
-- 2026 advertising revenue tracking below $2.5B at end-Q3 (vs. $3B target)
-- Two consecutive quarters of FCF below trailing run-rate
-- Engagement (hours per member) declines for two consecutive quarters
-- Loss of major sports / live rights (NFL Christmas non-renewal, etc.)
-- Operating margin falls below 28% in any reported quarter
-- Co-CEO departure (either Sarandos or Peters)
-- Material content cost inflation step-up (NBA-style mega-deal at unprofitable rates)
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
+- ⚠️ 2026 advertising revenue tracking below $2.5B at end-Q3 (vs. $3B target)
+- ⚠️ Two consecutive quarters of FCF below trailing run-rate
+- ⚠️ Engagement (hours per member) declines for two consecutive quarters
+- ⚠️ Loss of major sports / live rights (NFL Christmas non-renewal, etc.)
+- ⚠️ Operating margin falls below 28% in any reported quarter
+- ⚠️ Co-CEO departure (either Sarandos or Peters)
+- ⚠️ Material content cost inflation step-up (NBA-style mega-deal at unprofitable rates)
 
-**Next review trigger**: **Q2 2026 earnings — mid-July 2026 (estimated)**. Key items: (1) Q2 actual vs. $12.5B guide, (2) ad revenue pace toward $3B FY target, (3) FY26 guide refresh (currently $50.7–51.7B), (4) engagement metric trajectory, (5) any commentary on sports/live ROI.
+📅 **Next review trigger**: **Q2 2026 earnings — mid-July 2026 (estimated)**. Key items: (1) Q2 actual vs. $12.5B guide, (2) ad revenue pace toward $3B FY target, (3) FY26 guide refresh (currently $50.7–51.7B), (4) engagement metric trajectory, (5) any commentary on sports/live ROI.
 
 ---
 
-*Sources: Netflix Q1 2026 earnings press release & shareholder letter (IR, April 16, 2026); Yahoo Finance live price (2026-04-24); CNBC, IndexBox, TIKR.com Q1 2026 coverage; Netflix IR (10-for-1 split announcement October 30, 2025; effective November 17, 2025); MarketBeat / Public.com / TipRanks / stockanalysis.com analyst consensus; Investing.com consensus aggregator.*
+### Sources
+
+- [Netflix Investor Relations — Quarterly Earnings](https://ir.netflix.net/financials/quarterly-earnings/default.aspx) (Q1 2026 press release & shareholder letter, April 16, 2026)
+- [SEC EDGAR — Netflix filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001065280&type=10-K) (10-K FY2024)
+- [Yahoo Finance — NFLX quote](https://finance.yahoo.com/quote/NFLX) (live price 2026-04-24)
+- [CNBC — search Netflix](https://www.cnbc.com/search/?query=netflix+q1+2026) (Q1 2026 coverage)
+- [IndexBox — Netflix](https://www.indexbox.io/?s=netflix)
+- [TIKR — NFLX coverage](https://app.tikr.com/?s=nflx) (Q1 2026 coverage)
+- [Netflix IR — 10-for-1 stock split (Oct 30, 2025; effective Nov 17, 2025)](https://ir.netflix.net/news/news-details/2025/Netflix-Announces-10-for-1-Stock-Split/default.aspx)
+- [MarketBeat — NFLX](https://www.marketbeat.com/stocks/NASDAQ/NFLX/) (analyst consensus)
+- [Public.com — NFLX](https://public.com/stocks/nflx)
+- [TipRanks — NFLX](https://www.tipranks.com/stocks/nflx)
+- [stockanalysis.com — NFLX](https://stockanalysis.com/stocks/nflx/)
+- [Investing.com — NFLX](https://www.investing.com/equities/netflix,-inc.-earnings) (consensus aggregator)
+- [PRNewswire — Netflix](https://www.prnewswire.com/news/netflix-inc/)

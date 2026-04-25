@@ -1,17 +1,32 @@
 # SBUX — Starbucks Corporation
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $98.67 at April 24, 2026 (Yahoo Finance JSON API)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$98.67** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/SBUX))
 > **Ticker Type**: Consumer staples / global retail (specialty coffee, multi-unit franchise + company-operated hybrid)
+
+---
+
+## Summary
+
+- 🟡 **Thesis**: Wide-moat global coffee brand in credible Niccol-led turnaround — Q1 FY26 marked first U.S. transaction inflection in 8 quarters, but at ~43× FY26 mid-guide the market already prices a successful multi-quarter recovery.
+- 🟡 **For a non-holder: Watch** — do not initiate ahead of April 28 Q2 print; binary catalyst.
+- 🟡 **For a current holder: Hold** — do not add or exit ahead of print.
+- 🎯 **Attractive entry zone**: **$85 – $92** (~37–39× FY26 mid-guide; aligns with low end of analyst PT band).
+- 🎯 **Trim zone**: **$115 – $125** (top of analyst PT band; story-fully-priced).
+- 📈 **Price action**: $98.67, **–5.9% from 52-wk high** ($104.82), +30.7% above 52-wk low ($75.50) — trading near highs.
+- 📅 **Next catalyst**: **Q2 FY2026 earnings — April 28, 2026 (post-close)**. U.S. transaction comp is binary thesis test.
+- ⚠️ **Top risk**: Q2 FY26 transaction growth fails to confirm Q1 inflection (30% prob, High impact).
+- ⚠️ **Second risk**: Niccol departure or health event (5% prob, Critical impact) — CEO-dependent thesis.
+- 🟡 **BAIT verdict**: **Single overlap (A only at Moderate)** — Conviction **Low**. PW EV ~$115 (3-yr) implies +17% / ~5%/yr plus 2.4% dividend.
 
 ---
 
 ## Business Overview
 
-Starbucks Corporation (NASDAQ: SBUX) is the world's largest specialty coffeehouse operator, with ~40,000 stores across 80+ markets. The company runs a hybrid model: ~52% company-operated stores (primarily U.S., Canada, U.K., Japan-licensed-then-acquired) and ~48% licensed/franchised stores (international markets, airports, grocery channel via the Nestlé Global Coffee Alliance). FY2025 (year ended Sept 28, 2025) revenue was approximately $36B, with the U.S. accounting for ~74% and China the second-largest market (~7–8%). Starbucks Rewards reached a record 35.5M U.S. members in Q1 FY2026 [Source: Starbucks Q1 FY2026 release, 2026-01-28].
+Starbucks Corporation (NASDAQ: SBUX) is the world's largest specialty coffeehouse operator, with ~40,000 stores across 80+ markets. The company runs a hybrid model: ~52% company-operated stores (primarily U.S., Canada, U.K., Japan-licensed-then-acquired) and ~48% licensed/franchised stores (international markets, airports, grocery channel via the Nestlé Global Coffee Alliance). FY2025 (year ended Sept 28, 2025) revenue was approximately $36B, with the U.S. accounting for ~74% and China the second-largest market (~7–8%). Starbucks Rewards reached a record 35.5M U.S. members in Q1 FY2026 ([Starbucks Q1 FY2026 release](https://investor.starbucks.com/press-releases/default.aspx), 2026-01-28).
 
-The investment narrative since 2024 has been the **Brian Niccol-led "Back to Starbucks" turnaround**. Niccol (former Chipotle CEO) joined September 2024 at a moment of comparable-sales decline, store-experience dilution (heavy mobile-order throughput), and falling China share. His mandate: simplify the menu, restore the third-place café feel, fix throughput, and re-accelerate transactions. Q1 FY2026 was an inflection: U.S. comparable transactions grew for the first time in eight quarters [Source: Starbucks Q1 FY2026 release, 2026-01-28].
+The investment narrative since 2024 has been the **Brian Niccol-led "Back to Starbucks" turnaround**. Niccol (former Chipotle CEO) joined September 2024 at a moment of comparable-sales decline, store-experience dilution (heavy mobile-order throughput), and falling China share. His mandate: simplify the menu, restore the third-place café feel, fix throughput, and re-accelerate transactions. Q1 FY2026 was an inflection: U.S. comparable transactions grew for the first time in eight quarters ([Starbucks Q1 FY2026 release](https://investor.starbucks.com/press-releases/default.aspx), 2026-01-28).
 
 ---
 
@@ -47,7 +62,7 @@ The Q1 FY2026 transaction inflection is the first hard data point. The bull case
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$98.67** | April 24, 2026 (Yahoo Finance JSON API) |
+| Live Price | **$98.67** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/SBUX)) |
 | 52-Week High | $104.82 | Recent (April 2026); mid-turnaround re-rating |
 | 52-Week Low | $75.50 | Mid-2025; pre-Niccol re-rating |
 | % From 52-Wk High | –5.9% | Trading near highs |
@@ -92,7 +107,7 @@ The Q1 FY2026 transaction inflection is the first hard data point. The bull case
 
 | Quarter | Revenue | Comp Sales (Global) | U.S. Transactions | EPS (Non-GAAP) | Comment |
 |---------|---------|---------------------|-------------------|----------------|---------|
-| Q1 FY2026 (Dec '25) | $9.9B (+6%) | +4% | +3% | $0.56 | Inflection — first U.S. txn growth in 8 quarters [Source: SBUX IR, 2026-01-28] |
+| Q1 FY2026 (Dec '25) | $9.9B (+6%) | +4% | +3% | $0.56 | Inflection — first U.S. txn growth in 8 quarters ([SBUX IR](https://investor.starbucks.com/press-releases/default.aspx), 2026-01-28) |
 | Q2 FY2026E (Mar '26) | ~$9.1–9.3B | [Analyst consensus +3–4%] | [Analyst consensus positive] | $0.59–0.65 [Analyst consensus] | Earnings April 28, 2026 |
 
 ---
@@ -171,11 +186,11 @@ The Q1 FY2026 transaction inflection is the first hard data point. The bull case
 
 | Risk | Impact | Probability | Notes |
 |------|--------|-------------|-------|
-| Q2 FY26 transaction growth fails to confirm Q1 inflection | High | 30% | Single-quarter inflection unproven; April 28 print |
+| ⚠️ Q2 FY26 transaction growth fails to confirm Q1 inflection | High | 30% | Single-quarter inflection unproven; April 28 print |
 | China share erosion accelerates | Medium | 40% | Ongoing structural; Luckin and value entrants |
-| Niccol departure or health event | Critical | 5% | CEO-dependency; would force re-rating |
-| Operating margin disappoints (labor reinvest exceeds productivity gain) | High | 30% | Margin guide is "slight improvement" — narrow margin for error |
-| Recession / consumer discretionary slowdown | High | 25% | Premium beverage purchase is elastic |
+| ⚠️ Niccol departure or health event | Critical | 5% | CEO-dependency; would force re-rating |
+| ⚠️ Operating margin disappoints (labor reinvest exceeds productivity gain) | High | 30% | Margin guide is "slight improvement" — narrow margin for error |
+| ⚠️ Recession / consumer discretionary slowdown | High | 25% | Premium beverage purchase is elastic |
 | Unionization wage step-up | Medium | 35% | Workers United continues to add stores |
 | Coffee commodity price spike (arabica) | Medium | 25% | 2024–2025 saw multi-year highs; partially hedged |
 | FX (dollar strength) | Medium | 30% | International revenue translation drag |
@@ -237,8 +252,8 @@ The Q1 FY2026 transaction inflection is the first hard data point. The bull case
 
 ### Analyst Consensus (mid-April 2026)
 
-- **Aggregate rating**: Buy / Moderate Buy
-- **Median price target**: ~$108 [Source: TIKR / aggregator, Apr 2026]
+- **Aggregate rating**: 🟢 Buy / Moderate Buy ([stockanalysis.com](https://stockanalysis.com/stocks/sbux/forecast/) / [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/SBUX/forecast/))
+- **Median price target**: ~$108 ([TIKR](https://app.tikr.com/stock/SBUX) / aggregator, Apr 2026)
 - **Range**: ~$80 – $120+
 - **Implied upside to median**: ~+9%
 
@@ -247,11 +262,11 @@ The Q1 FY2026 transaction inflection is the first hard data point. The bull case
 | Date | Firm | Action | Note |
 |------|------|--------|------|
 | April 2026 | Multiple | Modestly constructive into Q2 print | Most maintain Buy/Hold; PTs cluster $100–115 |
-| Pre-Q1 FY26 | Various | Upgrade cluster after Q1 transaction inflection | [Source: aggregators] |
+| Pre-Q1 FY26 | Various | Upgrade cluster after Q1 transaction inflection | ([stockanalysis.com](https://stockanalysis.com/stocks/sbux/forecast/)) |
 
 ### Short Interest
 
-- **Latest**: ~2–3% of float [Estimate based on aggregator history]
+- **Latest**: ~2–3% of float [Estimate based on aggregator history] ([Fintel](https://fintel.io/ss/us/sbux) / [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/SBUX/short-interest/))
 - **Interpretation**: Low; not a contrarian short setup
 
 ### Insider Activity (Last 90 Days)
@@ -260,15 +275,15 @@ The Q1 FY2026 transaction inflection is the first hard data point. The bull case
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-22] [Pre-earnings]** — Multiple analyst previews focused on U.S. transaction sustainability [Source: Motley Fool, IBTimes]
-- **[2026-04-09] [Product]** — Energy Refreshers launched; spring beverage menu (ube, coconut, lavender) [Source: SBUX press]
-- **[2026-01-28] [Earnings]** — Q1 FY2026 results: revenue $9.9B (+6%), comp sales +4%, U.S. txn +3% (first growth in 8 quarters), Non-GAAP EPS $0.56; FY26 guide $2.15–2.40 EPS, 3%+ comp growth [Source: SBUX IR]
+- **[2026-04-22] [Pre-earnings]** — Multiple analyst previews focused on U.S. transaction sustainability ([Motley Fool](https://www.fool.com/quote/nasdaq/sbux/) / [IBTimes](https://www.ibtimes.com/search?q=starbucks))
+- **[2026-04-09] [Product]** — Energy Refreshers launched; spring beverage menu (ube, coconut, lavender) ([SBUX press](https://stories.starbucks.com/press/))
+- **[2026-01-28] [Earnings]** — Q1 FY2026 results: revenue $9.9B (+6%), comp sales +4%, U.S. txn +3% (first growth in 8 quarters), Non-GAAP EPS $0.56; FY26 guide $2.15–2.40 EPS, 3%+ comp growth ([SBUX IR](https://investor.starbucks.com/press-releases/default.aspx))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **2026-04-28** (post-close) | **Q2 FY2026 earnings** | The single largest near-term test — does Q1 transaction inflection hold? |
+| 📅 **2026-04-28** (post-close) | **Q2 FY2026 earnings** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NASDAQ/SBUX/earnings/)) | The single largest near-term test — does Q1 transaction inflection hold? |
 | Q4 FY2026 (~Aug 2026) | Q3 FY2026 earnings | Two-quarter confirmation needed |
 | FY2026 (rolling) | China strategic update | Any partnership / divestiture announcement |
 | FY2026 (rolling) | Operating margin trajectory vs. "slight improvement" guide | Validates margin-recovery half of thesis |
@@ -353,27 +368,38 @@ The Q1 FY2026 transcript and operating disclosures (transaction growth attributi
 
 **Thesis in one sentence**: Starbucks is a wide-moat global brand in a credible Niccol-led turnaround, with Q1 FY2026 marking the first U.S. transaction inflection in eight quarters; at $98.67 (~43× FY26 mid-guide) the market already prices a successful multi-quarter recovery, and the Q2 print on April 28 is the binary catalyst.
 
-**For a non-holder**: **Watch** — do not initiate ahead of the April 28 print. The asymmetry is event-binary; better to see the Q2 transaction confirmation and underwrite at the post-print price. Initiate on a confirmed multi-quarter transaction trend (Q2 + Q3 both positive) and an attractive entry zone at $85–92.
+**For a non-holder**: 🟡 **Watch** — do not initiate ahead of the April 28 print. The asymmetry is event-binary; better to see the Q2 transaction confirmation and underwrite at the post-print price. Initiate on a confirmed multi-quarter transaction trend (Q2 + Q3 both positive) and an attractive entry zone at $85–92.
 
-**For a current holder**: **Hold** — do not add ahead of the print, do not exit. The Q2 print is binary: a confirmed positive U.S. transaction comp validates the thesis and likely produces a re-rating; a flat or negative comp likely reverses 10–20% of the recent run. Holders who entered below $80 have meaningful margin of safety; holders who entered near $100 are riding the catalyst.
+**For a current holder**: 🟡 **Hold** — do not add ahead of the print, do not exit. The Q2 print is binary: a confirmed positive U.S. transaction comp validates the thesis and likely produces a re-rating; a flat or negative comp likely reverses 10–20% of the recent run. Holders who entered below $80 have meaningful margin of safety; holders who entered near $100 are riding the catalyst.
 
-**Attractive entry zone**: **$85 – $92** (rationale: ~37–39× FY26 mid-guide; aligns with low end of analyst PT band; gives some downside cushion if Q2 disappoints)
+🎯 **Attractive entry zone**: **$85 – $92** (rationale: ~37–39× FY26 mid-guide; aligns with low end of analyst PT band; gives some downside cushion if Q2 disappoints)
 
-**Trim zone**: **$115 – $125** (rationale: top of analyst PT band; would imply ~50× FY26 mid-guide and ~38–42× FY27E; story-fully-priced)
+🎯 **Trim zone**: **$115 – $125** (rationale: top of analyst PT band; would imply ~50× FY26 mid-guide and ~38–42× FY27E; story-fully-priced)
 
-**Exit / avoid zone**: **>$130** (rationale: would require ~$3.50+ FY27 EPS already in the price; aggressive)
+🔴 **Exit / avoid zone**: **>$130** (rationale: would require ~$3.50+ FY27 EPS already in the price; aggressive)
 
-**Thesis-break triggers** (would force re-rating toward Exit / Avoid):
-- Q2 FY2026 U.S. transaction comp negative (would refute Q1 inflection)
-- Q3 FY2026 U.S. transaction comp negative (would confirm a stall)
-- FY26 EPS guide cut below $2.10 at any quarterly update
-- Operating margin guide reduced from "slight improvement" to "flat/down"
-- Niccol departure or extended health absence
-- China comp sales worse than –10% for two consecutive quarters
-- Material new unionization-driven wage step-up or strike
+**Thesis-break triggers** ⚠️ (would force re-rating toward Exit / Avoid):
+- ⚠️ Q2 FY2026 U.S. transaction comp negative (would refute Q1 inflection)
+- ⚠️ Q3 FY2026 U.S. transaction comp negative (would confirm a stall)
+- ⚠️ FY26 EPS guide cut below $2.10 at any quarterly update
+- ⚠️ Operating margin guide reduced from "slight improvement" to "flat/down"
+- ⚠️ Niccol departure or extended health absence
+- ⚠️ China comp sales worse than –10% for two consecutive quarters
+- ⚠️ Material new unionization-driven wage step-up or strike
 
-**Next review trigger**: **Q2 FY2026 earnings — April 28, 2026 (post-close)**. Key items: (1) U.S. comparable transactions (most important; must be ≥0% to validate inflection), (2) global comp sales vs. 3%+ FY guide, (3) operating margin direction, (4) China comp sales, (5) FY26 EPS guide reaffirmation or revision, (6) any China strategic update.
+📅 **Next review trigger**: **Q2 FY2026 earnings — April 28, 2026 (post-close)**. Key items: (1) U.S. comparable transactions (most important; must be ≥0% to validate inflection), (2) global comp sales vs. 3%+ FY guide, (3) operating margin direction, (4) China comp sales, (5) FY26 EPS guide reaffirmation or revision, (6) any China strategic update.
 
 ---
 
-*Sources: Starbucks Q1 FY2026 press release and earnings call transcript (2026-01-28, IR / Motley Fool); Starbucks Q1 FY2026 10-Q (SEC EDGAR); Starbucks Q2 FY2026 earnings preview articles (Motley Fool 2026-04-22, IBTimes 2026-04, Seeking Alpha 2026-04, TIKR); Yahoo Finance JSON API live price (2026-04-24); analyst consensus aggregators (TipRanks, MarketBeat).*
+### Sources
+
+- [Starbucks Investor Relations](https://investor.starbucks.com/press-releases/default.aspx) (Q1 FY2026 press release and earnings call transcript, 2026-01-28)
+- [SEC EDGAR — Starbucks filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000829224&type=10-Q) (Q1 FY2026 10-Q)
+- [Starbucks Stories — press](https://stories.starbucks.com/press/) (Energy Refreshers, spring menu)
+- [Motley Fool — SBUX](https://www.fool.com/quote/nasdaq/sbux/) (Q2 FY2026 earnings previews)
+- [IBTimes — Starbucks coverage](https://www.ibtimes.com/search?q=starbucks)
+- [Yahoo Finance — SBUX quote](https://finance.yahoo.com/quote/SBUX) (live price 2026-04-24)
+- [stockanalysis.com — SBUX](https://stockanalysis.com/stocks/sbux/forecast/) (analyst consensus)
+- [MarketBeat — SBUX](https://www.marketbeat.com/stocks/NASDAQ/SBUX/) (earnings calendar, short interest, ratings)
+- [Fintel — SBUX short interest](https://fintel.io/ss/us/sbux)
+- [TIKR — SBUX](https://app.tikr.com/stock/SBUX) (analyst PT)

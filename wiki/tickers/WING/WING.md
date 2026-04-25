@@ -1,9 +1,24 @@
 # WING — Wingstop Inc.
 
-> **Schema**: v2.1
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $189.37 at April 24, 2026 (Yahoo Finance JSON API)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$189.37** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/WING))
 > **Ticker Type**: Franchise royalty (asset-light QSR)
+
+---
+
+## Summary
+
+- 🟡 **Thesis**: High-quality asset-light franchise royalty (**Narrow moat**) whose first-ever SSS decline triggered a –51% drawdown — unit-growth flywheel still compounds royalties even at flat SSS, but at $189 the multiple still embeds growth-stock pricing and Q1 2026 SSS print is the binary catalyst.
+- 🟡 **For a non-holder: Watch** at $189.37 — initiate only on drop to $140–160 entry zone, OR after Q1 earnings confirm SSS stabilization.
+- 🟡 **For a current holder: Hold** — do not add or exit pre-print; Q1 2026 earnings (~April 29) is make-or-break.
+- 🎯 **Attractive entry zone**: **$140 – $160** (~15–18× FY26E EBITDA; near 52-wk low; matches prior Tranche 1 entry).
+- 🎯 **Trim zone**: **$260 – $310** (28–33× FY26E EBITDA; bull case largely priced in).
+- 📉 **Price action**: $189.37, **–51.2% from 52-wk high** ($388.14), +33.2% above 52-wk low ($142.24) — severe drawdown.
+- 📅 **Next catalyst**: **Q1 2026 earnings — ~April 29, 2026**. Single most important data point — SSS print determines if thesis-break activates.
+- ⚠️ **Top risk**: Structural SSS decline (saturation) (Medium-High prob, High impact) — first negative SSS in 22 years.
+- ⚠️ **Second risk**: Multiple compression to "declining QSR" range (~15× EBITDA) (Medium prob, High impact) — already partially happened.
+- 🟡 **BAIT verdict**: **Triple overlap (B-Strong, A-Moderate, T-Moderate)** — Conviction **Lower** than at $152 prior entry. PW EV ~$199 (18-mo) implies +5% / ~3%/yr; tactical, not compounder accumulation.
 
 ---
 
@@ -46,7 +61,7 @@ This is the only question that matters for WING at current prices. If SSS is tra
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$189.37** | April 24, 2026 (Yahoo Finance) |
+| Live Price | **$189.37** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/WING)) |
 | 52-Week High | $388.14 | Re-test of all-time high earlier in cycle |
 | 52-Week Low | $142.24 | Recent low; current price recovered modestly |
 | % From 52-Wk High | **–51.2%** | Severe drawdown — bigger than prior wiki snapshot |
@@ -188,14 +203,14 @@ Key international markets: UK, France, UAE, Saudi Arabia (new 2025), Netherlands
 
 | Risk | Impact | Probability | Notes |
 |------|--------|-------------|-------|
-| **Structural SSS decline (saturation)** | High | Medium-High | First negative SSS in 22 years; bigger drawdown than prior |
+| ⚠️ **Structural SSS decline (saturation)** | High | Medium-High | First negative SSS in 22 years; bigger drawdown than prior |
 | Chicken wing commodity inflation | Medium | Medium | Avian flu cycles; feed cost volatility |
-| Franchisee distress (leverage + SSS) | High | Low-Medium | AUV still healthy; monitor closely |
+| ⚠️ Franchisee distress (leverage + SSS) | High | Low-Medium | AUV still healthy; monitor closely |
 | Consumer trading down (QSR value war) | Medium | High | McDonald's value campaigns are pressuring all QSR |
 | International expansion underperformance | Medium | Low-Medium | Early days; lower AUV |
 | Balance sheet leverage (6.5× EBITDA) | Medium | Low | Securitization model; interest coverage adequate |
 | Management execution (new CEO) | Medium | Medium | Skipworth's first real test |
-| Multiple compression to "declining QSR" range (15× EBITDA) | High | Medium | Already partially happened; further leg lower if Q1 2026 SSS confirms structural |
+| ⚠️ Multiple compression to "declining QSR" range (15× EBITDA) | High | Medium | Already partially happened; further leg lower if Q1 2026 SSS confirms structural |
 
 ---
 
@@ -263,7 +278,7 @@ The prior wiki defined a thesis-break trigger of **two consecutive quarters of S
 
 **Both Q3 AND Q4 2025 printed worse than –5%** — meeting the previously-defined thesis-break trigger on a strict reading. However, the trigger was framed in v1 as "would force re-rating toward Reduce / Exit" — and that re-rating has already occurred (stock –51% from peak; –22% since prior wiki's $152 entry to today's $189 is recovery, not further breakdown). The market is pricing this in.
 
-Sell-side reaction: **Citi upgraded WING to Buy with a $230 target**, citing "second-half 2026 recovery comes into view" — analysts are bridging through the Q1/Q2 2026 trough rather than capitulating. Q1 2026 print on **April 29** is the binary catalyst: (a) further deterioration vs. Q4's –5.8% = Exit reassessment; (b) sequential improvement / inflection toward FY26 guide of "flat to LSD growth" = re-rating toward $230.
+Sell-side reaction: **Citi upgraded WING to Buy with a $230 target**, citing "second-half 2026 recovery comes into view" — analysts are bridging through the Q1/Q2 2026 trough rather than capitulating ([stockanalysis.com](https://stockanalysis.com/stocks/wing/forecast/) / [link pending]). Q1 2026 print on **April 29** is the binary catalyst: (a) further deterioration vs. Q4's –5.8% = Exit reassessment; (b) sequential improvement / inflection toward FY26 guide of "flat to LSD growth" = re-rating toward $230.
 
 Other contextual notes:
 - The –51% drawdown from $388 has compressed from the prior wiki's view of asymmetric value at $152
@@ -272,7 +287,7 @@ Other contextual notes:
 
 ### Analyst Consensus (as of mid-April 2026)
 
-- **Analyst count and ratings**: Mixed (consensus rating roughly Hold to Buy; specific firm-by-firm panel data pending refresh)
+- **Analyst count and ratings**: 🟡 Mixed (consensus rating roughly Hold to Buy; specific firm-by-firm panel data pending refresh) ([stockanalysis.com](https://stockanalysis.com/stocks/wing/forecast/) / [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/WING/forecast/))
 - **Median price target**: ~$200–$230 [Analyst consensus, range pending verification]
 - **Implied upside from $189.37**: low-double-digit %; consistent with a "show me the SSS recovery" tactical posture from the sell-side
 
@@ -282,7 +297,7 @@ Other contextual notes:
 
 ### Short Interest
 
-- Recent short interest (% of float): elevated relative to historical WING levels [pending fresh aggregator pull]
+- Recent short interest (% of float): elevated relative to historical WING levels ([Fintel](https://fintel.io/ss/us/wing) / [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/WING/short-interest/), pending fresh aggregator pull)
 - Interpretation: Stock-at-low + earnings-trigger setup creates short-squeeze potential on any positive Q1 2026 SSS surprise; conversely, a confirming bear print could see further leg lower
 
 ### Insider Activity (Last 90 Days)
@@ -291,17 +306,17 @@ Other contextual notes:
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-02 (approx.)] [Earnings]** — Q4 2025 / FY2025 results: Revenue $697M (+11.4%), Adj. EBITDA $244M (+15.2%), Net income +60%, 493 net new units, system-wide sales $5.3B (+12.1%), domestic SSS –3.3% [Source: ir.wingstop.com, prnewswire.com]
-- **[2025] [Capital]** — Advertising fund contribution raised to 5.5% (from 4%) — concrete management action to defend SSS [Source: IR]
-- **[2025] [Strategic]** — New international market entries: Australia, Saudi Arabia, Netherlands [Source: IR + franchisetimes.com]
+- **[2026-02 (approx.)] [Earnings]** — Q4 2025 / FY2025 results: Revenue $697M (+11.4%), Adj. EBITDA $244M (+15.2%), Net income +60%, 493 net new units, system-wide sales $5.3B (+12.1%), domestic SSS –3.3% ([Wingstop IR](https://ir.wingstop.com/news-releases) / [PRNewswire](https://www.prnewswire.com/search/?searchterm=wingstop))
+- **[2025] [Capital]** — Advertising fund contribution raised to 5.5% (from 4%) — concrete management action to defend SSS ([Wingstop IR](https://ir.wingstop.com/news-releases))
+- **[2025] [Strategic]** — New international market entries: Australia, Saudi Arabia, Netherlands ([Wingstop IR](https://ir.wingstop.com/news-releases) + [Franchise Times](https://www.franchisetimes.com/?s=wingstop))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|----------------|
-| **Late April / Early May 2026** | **Q1 2026 earnings** | **Single most important data point** — SSS print determines whether the thesis-break trigger activates |
+| 📅 **Late April / Early May 2026** | **Q1 2026 earnings** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NASDAQ/WING/earnings/)) | **Single most important data point** — SSS print determines whether the thesis-break trigger activates |
 | Throughout 2026 | International unit opening cadence | Validates the 15–16% unit growth guidance; international AUV stabilization |
-| Q2 / Q3 2026 | Sequential SSS trajectory | Two consecutive quarters of SSS < –5% = thesis-break (per Section 15) |
+| ⚠️ Q2 / Q3 2026 | Sequential SSS trajectory | Two consecutive quarters of SSS < –5% = thesis-break (per Section 15) |
 | Ongoing | Chicken wing commodity prices | Direct franchisee margin signal; menu pricing decisions |
 
 ---
@@ -383,29 +398,42 @@ The SSS decline is the single most-covered topic in QSR sell-side. There is litt
 
 **Thesis in one sentence**: Wingstop is a high-quality asset-light franchise royalty business whose first-ever SSS decline has triggered a –51% drawdown; the unit-growth flywheel still compounds royalties even at flat SSS, but at $189 the multiple still embeds growth-stock pricing and the binary Q1 2026 SSS print is the dominant near-term variable.
 
-**For a non-holder**: **Watch** at $189.37. The asymmetric entry has substantially closed since the $152 ingest baseline. Initiate only if (a) price drops back to the **$140–$160 attractive entry zone**, OR (b) Q1 2026 earnings confirm SSS stabilization at flat-to-positive, in which case initiation can occur in the $190–$210 range with confirmation. At $189 pre-print, the binary risk is unfavorable for first-time entry.
+**For a non-holder**: 🟡 **Watch** at $189.37. The asymmetric entry has substantially closed since the $152 ingest baseline. Initiate only if (a) price drops back to the **$140–$160 attractive entry zone**, OR (b) Q1 2026 earnings confirm SSS stabilization at flat-to-positive, in which case initiation can occur in the $190–$210 range with confirmation. At $189 pre-print, the binary risk is unfavorable for first-time entry.
 
-**For a current holder**: **Hold** — do not add at $189; do not exit pre-print. Q1 2026 earnings (late April / early May) is the make-or-break catalyst:
+**For a current holder**: 🟡 **Hold** — do not add at $189; do not exit pre-print. Q1 2026 earnings (late April / early May) is the make-or-break catalyst:
 - SSS at flat or better → Hold / Add on confirmation
 - SSS at –1% to –4% → Hold; thesis intact but slow
 - SSS at –5% or worse → Reduce significantly; thesis-break trigger activates if Q2 confirms
 
-**Attractive entry zone**: **$140 – $160** (rationale: ~15–18× FY2026E EBITDA; near 52-wk low; matches the prior wiki's Tranche 1 entry zone)
+🎯 **Attractive entry zone**: **$140 – $160** (rationale: ~15–18× FY2026E EBITDA; near 52-wk low; matches the prior wiki's Tranche 1 entry zone)
 
-**Trim zone**: **$260 – $310** (rationale: 28–33× FY2026E EBITDA; bull case largely priced in; further upside becomes story-dependent on international acceleration)
+🎯 **Trim zone**: **$260 – $310** (rationale: 28–33× FY2026E EBITDA; bull case largely priced in; further upside becomes story-dependent on international acceleration)
 
-**Exit / avoid zone**: **>$340** (rationale: returning to peak-multiple territory absent re-acceleration of SSS to mid-to-high single digits)
+🔴 **Exit / avoid zone**: **>$340** (rationale: returning to peak-multiple territory absent re-acceleration of SSS to mid-to-high single digits)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Exit):
-- **Two consecutive quarters of domestic SSS worse than –5%** (primary trigger)
-- Q1 2026 SSS worse than –5% with management commentary suggesting structural rather than cyclical drivers (sufficient on its own to reduce significantly)
-- Net new unit guidance cut below 15% — undermines the core unit-growth thesis
-- Franchisee-distress signals: closures accelerating, AUV falling below $1.8M, or franchisee royalty receivables rising sharply
-- International AUVs compressing further (signals that international TAM thesis is shakier than expected)
-- CEO Skipworth departure or any management discontinuity
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
+- ⚠️ **Two consecutive quarters of domestic SSS worse than –5%** (primary trigger)
+- ⚠️ Q1 2026 SSS worse than –5% with management commentary suggesting structural rather than cyclical drivers (sufficient on its own to reduce significantly)
+- ⚠️ Net new unit guidance cut below 15% — undermines the core unit-growth thesis
+- ⚠️ Franchisee-distress signals: closures accelerating, AUV falling below $1.8M, or franchisee royalty receivables rising sharply
+- ⚠️ International AUVs compressing further (signals that international TAM thesis is shakier than expected)
+- ⚠️ CEO Skipworth departure or any management discontinuity
 
-**Next review trigger**: **Q1 2026 earnings — expected April 29, 2026**. This is the single most important data point for the thesis. Specific items to check: (1) domestic SSS print vs. flat-to-LSD guide, (2) net new unit pace vs. 465–510 guide, (3) franchisee margin commentary, (4) advertising-fund ROI commentary, (5) any update to 2026 SSS trajectory expectations.
+📅 **Next review trigger**: **Q1 2026 earnings — expected April 29, 2026**. This is the single most important data point for the thesis. Specific items to check: (1) domestic SSS print vs. flat-to-LSD guide, (2) net new unit pace vs. 465–510 guide, (3) franchisee margin commentary, (4) advertising-fund ROI commentary, (5) any update to 2026 SSS trajectory expectations.
 
 ---
 
-*Sources: stockanalysis.com (income statement); ir.wingstop.com FY2025 release (Feb 2026, prnewswire.com); Wingstop FY2025 system metrics; franchisetimes.com (international expansion); 1851franchise.com (unit economics); ainvest.com; Yahoo Finance JSON API (live price 2026-04-24). Prior wiki snapshot: 2026-04-05 ingest (Tranche 1 entry at $152.51).*
+### Sources
+
+- [Wingstop Investor Relations](https://ir.wingstop.com/news-releases) (FY2025 release Feb 2026; international expansion announcements; ad fund increase)
+- [PRNewswire — Wingstop](https://www.prnewswire.com/search/?searchterm=wingstop)
+- [SEC EDGAR — Wingstop filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001636222&type=10-K) (10-K, 10-Q, 8-K)
+- [Yahoo Finance — WING quote](https://finance.yahoo.com/quote/WING) (live price 2026-04-24)
+- [stockanalysis.com — WING](https://stockanalysis.com/stocks/wing/forecast/) (income statement, analyst consensus)
+- [MarketBeat — WING](https://www.marketbeat.com/stocks/NASDAQ/WING/) (analyst ratings, earnings calendar, short interest)
+- [Fintel — WING short interest](https://fintel.io/ss/us/wing)
+- [Franchise Times — Wingstop](https://www.franchisetimes.com/?s=wingstop) (international expansion)
+- [1851 Franchise](https://1851franchise.com/?s=wingstop) (unit economics)
+- [AInvest](https://www.ainvest.com/?s=wingstop)
+- Citi upgrade to Buy with $230 target [link pending]
+- Prior wiki snapshot: 2026-04-05 ingest (Tranche 1 entry at $152.51)

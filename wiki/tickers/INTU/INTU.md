@@ -1,17 +1,32 @@
 # INTU — Intuit Inc.
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $395.95 at April 24, 2026 (Yahoo Finance; previous close $614.83 — note: gap reflects multi-month drawdown from AI-disruption fears + Q3 FY26 pre-print weakness)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$395.95** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/INTU); previous close $614.83 — note: gap reflects multi-month drawdown from AI-disruption fears + Q3 FY26 pre-print weakness)
 > **Ticker Type**: Capital-light SaaS / vertical software platform
+
+---
+
+## Summary
+
+- 🟢 **Thesis**: Wide-moat vertical SaaS franchise (TurboTax / QuickBooks / Credit Karma / Mailchimp) compounding 12–15% across rev / op income / EPS at 17× FY26E NGAAP P/E — AI-horizontal fear is already priced; next 12 months should resolve in favor of the moat.
+- 🟢 **For a non-holder: Initiate** at $395.95 — 3-yr PW EV $566 (+43%); median analyst target +50–75%; triple-overlap BAIT.
+- 🟢 **For a current holder: Add** — adding into $342–420 zone is asymmetric.
+- 🎯 **Attractive entry zone**: **$340 – $420** (14.5–18× FY26E NGAAP EPS; below historical floor).
+- 🎯 **Trim zone**: **$650 – $720** (28–31× FY26E EPS; historical mid-range).
+- 📉 **Price action**: $395.95, **–51% from 52-wk high** ($813.70), +16% above 52-wk low ($342.11) — major drawdown.
+- 📅 **Next catalyst**: **Q3 FY26 earnings — late May 2026 (est.)**. Tax season quarter; biggest revenue print of the year.
+- ⚠️ **Top risk**: AI horizontals commoditize tax/bookkeeping (30% prob, high impact) — the –50% drawdown is largely this fear.
+- ⚠️ **Second risk**: IRS Direct File expansion (50% prob, medium-high impact); Mailchimp continues to underperform (50% prob, medium).
+- 🟢 **BAIT verdict**: **Triple overlap** (B Strong + A Strong + I Moderate; T Weak) — Conviction **Moderate-High**. Median analyst target ~$590, range $425–916, implies +49–75% upside ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/INTU/)).
 
 ---
 
 ## Business Overview
 
-Intuit (NASDAQ: INTU) is a vertical SaaS platform serving consumers, small/mid-market businesses, and accountants across four product lines: **TurboTax** (consumer + assisted tax prep, dominant U.S. share), **QuickBooks** (the de-facto small-business accounting standard, with QuickBooks Online — QBO — as the cloud SaaS engine), **Credit Karma** (free credit scores + financial-product marketplace acquired 2020 for $8.1B), and **Mailchimp** (email/marketing automation acquired 2021 for $12B). FY2025 (ending July 2025) revenue was $18.8B, growing to a guided $20.997B–$21.186B for FY2026 (+12–13%). [Source: Intuit FY26 guidance, Feb 2026]
+Intuit (NASDAQ: INTU) is a vertical SaaS platform serving consumers, small/mid-market businesses, and accountants across four product lines: **TurboTax** (consumer + assisted tax prep, dominant U.S. share), **QuickBooks** (the de-facto small-business accounting standard, with QuickBooks Online — QBO — as the cloud SaaS engine), **Credit Karma** (free credit scores + financial-product marketplace acquired 2020 for $8.1B), and **Mailchimp** (email/marketing automation acquired 2021 for $12B). FY2025 (ending July 2025) revenue was $18.8B, growing to a guided $20.997B–$21.186B for FY2026 (+12–13%). ([Intuit FY26 guidance, Feb 2026](https://investors.intuit.com/news-and-events/press-releases))
 
-The company has repositioned around AI: in FY26 it formalized partnerships with **Anthropic** and **OpenAI** (all four core apps in OpenAI's directory), launched proprietary "Intuit Assist" agents across QBO and TurboTax, and pushed mid-market expansion via **QBO Advanced** and **Intuit Enterprise Suite (IES)** (~40% growth in Q2 FY26). Credit Karma rebounded sharply in FY26 (+23% in Q2) after multi-year stagnation as personal loans, credit cards, and auto-insurance verticals re-accelerated. [Source: INTU Q2 FY26 press release, Feb 26 2026]
+The company has repositioned around AI: in FY26 it formalized partnerships with **Anthropic** and **OpenAI** (all four core apps in OpenAI's directory), launched proprietary "Intuit Assist" agents across QBO and TurboTax, and pushed mid-market expansion via **QBO Advanced** and **Intuit Enterprise Suite (IES)** (~40% growth in Q2 FY26). Credit Karma rebounded sharply in FY26 (+23% in Q2) after multi-year stagnation as personal loans, credit cards, and auto-insurance verticals re-accelerated. ([INTU Q2 FY26 press release, Feb 26 2026](https://investors.intuit.com/news-and-events/press-releases))
 
 ---
 
@@ -46,7 +61,7 @@ The answer determines whether $395 is a 50%-upside re-rating opportunity (median
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$395.95** | April 24, 2026 (Yahoo Finance) |
+| Live Price | **$395.95** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/INTU)) |
 | Previous Close | $614.83 | Reflects multi-month decline; gap-down on AI/Anthropic-related concerns |
 | 52-Week High | $813.70 | 2025 highs pre-AI-rerating |
 | 52-Week Low | $342.11 | Recent low (April 2026) |
@@ -54,11 +69,11 @@ The answer determines whether $395 is a 50%-upside re-rating opportunity (median
 | % Above 52-Wk Low | +15.7% | |
 | Market Cap | ~$110B | ~278M diluted shares × $395.95 |
 | FY2025 Revenue | ~$18.8B | FY end July 2025 |
-| FY2026 Revenue Guide | $20.997B–$21.186B | +12–13% YoY [Source: Intuit, Feb 2026] |
+| FY2026 Revenue Guide | $20.997B–$21.186B | +12–13% YoY ([Intuit IR, Feb 2026](https://investors.intuit.com/news-and-events/press-releases)) |
 | FY2026 GAAP Op Inc Guide | $5.78B–$5.86B | +17–19% YoY |
 | FY2026 GAAP EPS Guide | $15.49–$15.69 | +13–15% YoY |
 | FY2026 Non-GAAP EPS Guide | $22.98–$23.18 | +14–15% YoY |
-| Q2 FY26 Revenue | $4.7B (+17%) | [Source: Intuit press release, 2026-02-26] |
+| Q2 FY26 Revenue | $4.7B (+17%) | ([Intuit press release, 2026-02-26](https://investors.intuit.com/news-and-events/press-releases)) |
 | Analyst Consensus Target | $590–697 median | Wide range $425–916 |
 | Q3 FY26 Earnings | Late May 2026 (est.) | Hard catalyst — covers tax season |
 
@@ -86,7 +101,7 @@ The answer determines whether $395 is a 50%-upside re-rating opportunity (median
 | GAAP Diluted EPS | $7.28 | $9.30 | $10.43 | ~$13.18 | $15.49–$15.69 |
 | Non-GAAP Diluted EPS | $11.97 | $14.40 | $16.94 | ~$20.07 | $22.98–$23.18 |
 
-[Source: Intuit 10-K FY2025, Q2 FY26 press release Feb 26 2026]
+([Intuit 10-K FY2025 — SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000896878&type=10-K); [Q2 FY26 press release Feb 26 2026](https://investors.intuit.com/news-and-events/press-releases))
 
 ### Quarterly Trajectory (Recent)
 
@@ -234,11 +249,11 @@ Forward outlook: Mid-market (IES) is U.S.-led; international expansion is a long
 
 ### Analyst Consensus
 
-- **Aggregate rating**: Buy / Strong Buy (38 analysts; 25 with explicit ratings)
+- **Aggregate rating**: 🟢 Buy / Strong Buy (38 analysts; 25 with explicit ratings) ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/INTU/) / [TipRanks](https://www.tipranks.com/stocks/intu/forecast))
 - **Median target**: ~$590 (range varies by panel; some $686, some $697)
 - **Range**: $425 (low) – $916 (high)
 - **Implied upside**: +49% to +75% to median targets
-- **Recent commentary**: "Analysts See 65% Upside for Intuit Despite 40% One-Year Share Price Decline" [Source: Yahoo Finance, April 2026]
+- **Recent commentary**: "Analysts See 65% Upside for Intuit Despite 40% One-Year Share Price Decline" ([Yahoo Finance](https://finance.yahoo.com/quote/INTU), April 2026)
 
 ### Short Interest
 
@@ -252,16 +267,16 @@ Forward outlook: Mid-market (IES) is U.S.-led; international expansion is a long
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-24] [Stock]** — INTU testing $342–395 support zone; multiple "buy now?" Trefis pieces published April 22–24 [Source: Trefis]
-- **[2026-04-15] [Strategic]** — Intuit 8.5% drop on Anthropic AI partnership concerns + FedNow milestone [Source: Yahoo Finance]
-- **[2026-02-26] [Earnings]** — Q2 FY26: Revenue $4.7B (+17%); QBO Adv + IES +40%; Credit Karma +23%; FY26 guide reaffirmed [Source: Intuit IR press release]
-- **[2026-02-26] [Strategic]** — Multiyear partnership with Anthropic formalized; OpenAI directory inclusion for all four apps [Source: Intuit press release]
+- **[2026-04-24] [Stock]** — INTU testing $342–395 support zone; multiple "buy now?" Trefis pieces published April 22–24 ([Trefis](https://www.trefis.com/stock/intu))
+- 📉 **[2026-04-15] [Strategic]** — Intuit 8.5% drop on Anthropic AI partnership concerns + FedNow milestone ([Yahoo Finance](https://finance.yahoo.com/quote/INTU))
+- **[2026-02-26] [Earnings]** — Q2 FY26: Revenue $4.7B (+17%); QBO Adv + IES +40%; Credit Karma +23%; FY26 guide reaffirmed ([Intuit IR press release](https://investors.intuit.com/news-and-events/press-releases))
+- **[2026-02-26] [Strategic]** — Multiyear partnership with Anthropic formalized; OpenAI directory inclusion for all four apps ([Intuit press release](https://investors.intuit.com/news-and-events/press-releases))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|----------------|
-| **Late May 2026** (est.) | **Q3 FY26 earnings** | Tax season quarter; biggest revenue print of the year |
+| 📅 **Late May 2026** (est.) | **Q3 FY26 earnings** | Tax season quarter; biggest revenue print of the year |
 | Aug 2026 | Q4 FY26 + FY27 guide | Sets next-year algorithm |
 | Ongoing | IRS Direct File usage data | Quantifies free-tier cannibalization |
 | Ongoing | Credit Karma origination trends | Lending cycle inflection |
@@ -348,27 +363,35 @@ Primary-source disclosures underappreciated:
 
 **Thesis in one sentence**: Intuit is a wide-moat vertical SaaS franchise compounding 12–15% across revenue, op income, and EPS while trading at a 17× FY26E non-GAAP P/E — the AI-horizontal fear is already priced; the next 12 months should resolve in favor of the moat, not the threat.
 
-**For a non-holder**: **Initiate** — at $395.95, the 3-year PW EV is $566 (+43%), median analyst target is +50–75%, and the BAIT setup is triple-overlap. This is the kind of high-quality drawdown that mean-reverts when narrative pressure eases.
+**For a non-holder**: 🟢 **Initiate** — at $395.95, the 3-year PW EV is $566 (+43%), median analyst target is +50–75%, and the BAIT setup is triple-overlap. This is the kind of high-quality drawdown that mean-reverts when narrative pressure eases.
 
-**For a current holder**: **Add** — adding into the $342–420 zone is asymmetric. A ratable add through earnings (May 2026) is sensible; concentrate any incremental adds below $400.
+**For a current holder**: 🟢 **Add** — adding into the $342–420 zone is asymmetric. A ratable add through earnings (May 2026) is sensible; concentrate any incremental adds below $400.
 
-**Attractive entry zone**: **$340 – $420** (rationale: 14.5–18× FY26E non-GAAP EPS; below historical floor; absorbs continued AI-narrative pressure)
+🎯 **Attractive entry zone**: **$340 – $420** (rationale: 14.5–18× FY26E non-GAAP EPS; below historical floor; absorbs continued AI-narrative pressure)
 
-**Trim zone**: **$650 – $720** (rationale: 28–31× FY26E EPS; reaches historical mid-range; further upside requires re-rating beyond peer median)
+🎯 **Trim zone**: **$650 – $720** (rationale: 28–31× FY26E EPS; reaches historical mid-range; further upside requires re-rating beyond peer median)
 
-**Exit / avoid zone**: **>$800** (rationale: prior peak; would require AI-amplifier thesis to be fully validated and priced)
+🔴 **Exit / avoid zone**: **>$800** (rationale: prior peak; would require AI-amplifier thesis to be fully validated and priced)
 
-**Thesis-break triggers** (would force re-rating toward Exit / Avoid):
-- Q3 FY26 (May 2026) revenue miss vs. consensus by >3% with downward FY guide revision
-- IRS Direct File usage reaches >10% of all e-filed returns and TurboTax volumes decline >10% YoY
-- QBO Online ARPU growth slows below 8% for two consecutive quarters
-- Credit Karma re-deceleration to single-digit growth for two consecutive quarters
-- Mailchimp goodwill impairment >$3B (signal that vertical AI marketing strategy has failed)
-- Material adverse FTC / regulatory action on TurboTax product
-- CEO Sasan Goodarzi departure
+**Thesis-break triggers** ⚠️ (would force re-rating toward Exit / Avoid):
+- ⚠️ Q3 FY26 (May 2026) revenue miss vs. consensus by >3% with downward FY guide revision
+- ⚠️ IRS Direct File usage reaches >10% of all e-filed returns and TurboTax volumes decline >10% YoY
+- ⚠️ QBO Online ARPU growth slows below 8% for two consecutive quarters
+- ⚠️ Credit Karma re-deceleration to single-digit growth for two consecutive quarters
+- ⚠️ Mailchimp goodwill impairment >$3B (signal that vertical AI marketing strategy has failed)
+- ⚠️ Material adverse FTC / regulatory action on TurboTax product
+- ⚠️ CEO Sasan Goodarzi departure
 
-**Next review trigger**: **Q3 FY26 earnings — late May 2026 (post-close)**. Key items: (1) total revenue and FY26 reaffirmation, (2) TurboTax revenue and unit volumes vs. IRS Direct File, (3) QBO Advanced + IES growth (current +40%; watch for any deceleration), (4) Credit Karma growth trajectory by vertical, (5) AI agent monetization commentary.
+📅 **Next review trigger**: **Q3 FY26 earnings — late May 2026 (post-close)**. Key items: (1) total revenue and FY26 reaffirmation, (2) TurboTax revenue and unit volumes vs. IRS Direct File, (3) QBO Advanced + IES growth (current +40%; watch for any deceleration), (4) Credit Karma growth trajectory by vertical, (5) AI agent monetization commentary.
 
 ---
 
-*Sources: Intuit Q2 FY26 press release (2026-02-26, IR); Q2 FY26 earnings call transcript (Motley Fool, 2026-02-26); Intuit FY26 guidance reaffirmation (Seeking Alpha, Feb 2026); Yahoo Finance live price (2026-04-24); MarketBeat, public.com, stockanalysis.com, MarketScreener (analyst consensus, April 2026); Trefis support-zone analyses (April 22–24 2026); CNBC, Yahoo Finance (Anthropic / FedNow news, April 2026); Intuit 10-K FY2025 (SEC EDGAR).*
+### Sources
+
+- [Intuit Investor Relations — Press Releases](https://investors.intuit.com/news-and-events/press-releases) (Q2 FY26 press release, 2026-02-26; FY26 guidance reaffirmation, Feb 2026; Anthropic partnership / OpenAI directory inclusion)
+- [SEC EDGAR — Intuit filings (CIK 0000896878)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000896878&type=10-K) (Intuit 10-K FY2025)
+- [Yahoo Finance — INTU quote](https://finance.yahoo.com/quote/INTU) (live price 2026-04-24; Anthropic / FedNow news, April 2026)
+- [MarketBeat — INTU](https://www.marketbeat.com/stocks/NASDAQ/INTU/) / [Public.com — INTU](https://public.com/stocks/intu) / [stockanalysis.com — INTU](https://stockanalysis.com/stocks/intu/) / [MarketScreener — INTU](https://www.marketscreener.com/quote/stock/INTUIT-INC-13350/) / [TipRanks — INTU](https://www.tipranks.com/stocks/intu/forecast) (analyst consensus, April 2026)
+- [Trefis — INTU](https://www.trefis.com/stock/intu) (support-zone analyses, April 22–24 2026)
+- [Motley Fool — INTU](https://www.fool.com/quote/nasdaq/intu/) (Q2 FY26 earnings call transcript, 2026-02-26)
+- [Seeking Alpha — INTU](https://seekingalpha.com/symbol/INTU) (FY26 guidance reaffirmation, Feb 2026)

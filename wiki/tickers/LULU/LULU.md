@@ -1,15 +1,30 @@
 # LULU — Lululemon Athletica Inc.
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $143.80 at April 24, 2026 (Yahoo Finance)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$143.80** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/LULU))
 > **Ticker Type**: Premium consumer apparel / branded retail
+
+---
+
+## Summary
+
+- 🟡 **Thesis**: At a 57% drawdown crossroads — either a 2014-style executional trough on a still-premium brand (**Narrow moat**) with a credible new CEO and a 20%-growth China business, or a Crocs/Coach-style structural brand-cycle peak. Asymmetry favors patient initiation but only at/below current levels and pending visible NA inflection.
+- 🟡 **For a non-holder: Watch** at $143.80 with bias to **Initiate** below $135.
+- 🟡 **For a current holder: Hold** — do not exit at –58%; asymmetry has shifted in your favor. Add only on weakness toward $130.
+- 🎯 **Attractive entry zone**: **$120 – $140** (~10–11× FY26E EPS; below 52-wk low; 1.3× EV/Sales).
+- 🎯 **Trim zone**: **$235 – $275** (19–22× FY26E EPS = mid-cycle multiple).
+- 📉 **Price action**: $143.80, **–57.7% from 52-wk high** ($340.25), **+1.7% above 52-wk low** ($141.33) — essentially at lows.
+- 📅 **Next catalyst**: **Q1 FY26 earnings — early June 2026 (est.)**; **Heidi O'Neill (ex-Nike) becomes CEO Sep 8, 2026**.
+- ⚠️ **Top risk**: Vuori / Alo permanent share gain (high impact, 50% prob) — most cited bear thesis.
+- ⚠️ **Second risk**: Brand-cycle peak (Crocs/Coach analog) (critical impact, 20% prob) — worst-case scenario.
+- 🟡 **BAIT verdict**: **Double overlap (B Strong + A Moderate)** — Conviction **Moderate**. Maestrini insider buy at $151 + decade-low P/E + retained China growth constructive; trigger for inflection likely not before Holiday FY26. PW EV ~$192 (3-yr) implies +34% / ~+10.2%/yr.
 
 ---
 
 ## Business Overview
 
-Lululemon Athletica (NASDAQ: LULU) is a vertically integrated premium athletic apparel brand best known for technical women's yoga and athleisure (Align legging, Define jacket) and a growing men's franchise (ABC pant, Pace Breaker shorts). The company sells direct-to-consumer through ~750+ owned stores globally and via lululemon.com (digital ~36% of revenue). FY2025 (year ended Feb 1, 2026) revenue was $11.1B (+~7% YoY) [Source: lululemon Q4 FY2025 release, 2026-03-17]. Q4 FY2025 net revenue grew just 1% (flat constant currency), reflecting a North American slowdown — Americas revenue fell ~4% in the quarter, while International (especially China Mainland) surged with annual China growth of +29%.
+Lululemon Athletica (NASDAQ: LULU) is a vertically integrated premium athletic apparel brand best known for technical women's yoga and athleisure (Align legging, Define jacket) and a growing men's franchise (ABC pant, Pace Breaker shorts). The company sells direct-to-consumer through ~750+ owned stores globally and via lululemon.com (digital ~36% of revenue). FY2025 (year ended Feb 1, 2026) revenue was $11.1B (+~7% YoY) ([lululemon Q4 FY2025 release, 2026-03-17](https://corporate.lululemon.com/media/press-releases)). Q4 FY2025 net revenue grew just 1% (flat constant currency), reflecting a North American slowdown — Americas revenue fell ~4% in the quarter, while International (especially China Mainland) surged with annual China growth of +29%.
 
 The company is in the middle of a **CEO transition crisis**. On 2025-12-11, Lululemon announced its CEO succession plan; on 2026-04-23 the company named Heidi O'Neill (25-yr Nike veteran, former President of Consumer/Product/Brand) as CEO effective September 8, 2026. The market reacted negatively (–13%+ session) — interpreted as a "vote of no confidence" given (a) Nike itself is in turnaround, (b) interim leadership creates uncertainty through summer 2026, and (c) the appointment came alongside FY2026 guidance that was materially below Street.
 
@@ -169,7 +184,7 @@ The bull case requires (a) International (especially China) sustaining 20%+ grow
 - **M&A**: 2020 Mirror acquisition was a write-off (~$700M total impairment) — meaningful capital-allocation scar
 - **Capex**: Store expansion + tech; international weighted
 
-**Insider activity**: President / Chief Commercial Officer / interim Co-CEO Andre Maestrini purchased ~$494K (3,275 shares at ~$151) in Q1 2026 — a **positive insider buy signal** at lows. Net 90-day insider activity: net buys ~$1.5M vs. sales ~$100K [Source: MarketBeat / TipRanks insider, April 2026].
+**Insider activity**: President / Chief Commercial Officer / interim Co-CEO Andre Maestrini purchased ~$494K (3,275 shares at ~$151) in Q1 2026 — a **positive insider buy signal** at lows. Net 90-day insider activity: net buys ~$1.5M vs. sales ~$100K ([MarketBeat — LULU](https://www.marketbeat.com/stocks/NASDAQ/LULU/insider-trades/) / [TipRanks — LULU insider](https://www.tipranks.com/stocks/lulu/insider-trading), April 2026).
 
 ---
 
@@ -257,12 +272,12 @@ The bull case requires (a) International (especially China) sustaining 20%+ grow
 - **Median price target**: $206.77 (per April 2026 brokerage compile); alternate aggregator $179.53
 - **Range**: $150 (low) – $280.49 (high)
 - **Implied upside**: +25% to +44% on median; +95% on high
-- [Source: MarketBeat, TipRanks, Public.com, April 2026]
+- ([MarketBeat — LULU](https://www.marketbeat.com/stocks/NASDAQ/LULU/forecast/), [TipRanks — LULU](https://www.tipranks.com/stocks/lulu/forecast), [Public.com — LULU](https://public.com/stocks/lulu), April 2026)
 
 ### Short Interest
 
 - Short interest data updated semi-monthly via Nasdaq; current level moderate per available signals — no extreme short setup
-- [Specific % to be refreshed on next data pull — Source: Nasdaq / MarketBeat]
+- Specific % to be refreshed on next data pull ([Nasdaq](https://www.nasdaq.com/market-activity/stocks/lulu/short-interest) / [MarketBeat — LULU short](https://www.marketbeat.com/stocks/NASDAQ/LULU/short-interest/))
 
 ### Insider Activity (Last 90 Days)
 
@@ -276,17 +291,17 @@ The Maestrini buy is a meaningful constructive signal — interim CEO buying per
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-23] [Management]** — Heidi O'Neill (ex-Nike) named CEO effective Sep 8, 2026; stock –13% [Source: Lululemon press release / TradingKey]
-- **[2026-03-17] [Earnings]** — Q4 FY2025 / FY2025 results: revenue +1% Q4 (flat CC); FY26 guide light [Source: lululemon corporate release]
-- **[2025-12-11] [Management]** — CEO succession plan announced [Source: lululemon press release]
-- **[2026-04 (various)] [Analyst]** — Mixed PT updates; UBS warned US sales likely struggle through 2026
+- **[2026-04-23] [Management]** — Heidi O'Neill (ex-Nike) named CEO effective Sep 8, 2026; stock –13% ([Lululemon press release](https://corporate.lululemon.com/media/press-releases) / [TradingKey](https://www.tradingkey.com/news?q=lululemon))
+- **[2026-03-17] [Earnings]** — Q4 FY2025 / FY2025 results: revenue +1% Q4 (flat CC); FY26 guide light ([lululemon corporate release](https://corporate.lululemon.com/media/press-releases))
+- **[2025-12-11] [Management]** — CEO succession plan announced ([lululemon press release](https://corporate.lululemon.com/media/press-releases))
+- **[2026-04 (various)] [Analyst]** — Mixed PT updates; UBS warned US sales likely struggle through 2026 ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/LULU/price-target/))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| **Q1 FY26 Earnings (early June 2026, est.)** | Earnings | Tests $2.40–2.43B Q1 guide |
-| **Sep 8, 2026** | **Heidi O'Neill becomes CEO** | Strategic / product reset begins |
+| 📅 **Q1 FY26 Earnings (early June 2026, est.)** | Earnings ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NASDAQ/LULU/earnings/)) | Tests $2.40–2.43B Q1 guide |
+| 📅 **Sep 8, 2026** | **Heidi O'Neill becomes CEO** | Strategic / product reset begins |
 | Q2 FY26 Earnings (early Sep 2026) | Earnings | Last under interim leadership |
 | Holiday FY26 (Q4 FY26) | Earnings | First full quarter under O'Neill |
 | Ongoing | China comp prints | Single most important growth signal |
@@ -378,28 +393,39 @@ Underappreciated primary-source disclosures:
 
 **Thesis in one sentence**: Lululemon is at a 57% drawdown crossroads — either a 2014-style executional trough on a still-premium brand with a credible new CEO and a 20%-growth China business, or a Crocs/Coach-style structural brand-cycle peak; the asymmetry favors patient initiation but only at or below current levels and pending visible NA inflection.
 
-**For a non-holder**: **Watch** at $143.80 with bias to **Initiate** below $135. The Maestrini insider buy + decade-low P/E + retained China growth are constructive. But CEO uncertainty (5 months of interim), declining FY26 EPS, and bear-case probability of 25% argue for waiting until either (a) clear NA stabilization signal or (b) deeper drawdown into the $120s.
+**For a non-holder**: 🟡 **Watch** at $143.80 with bias to **Initiate** below $135. The Maestrini insider buy + decade-low P/E + retained China growth are constructive. But CEO uncertainty (5 months of interim), declining FY26 EPS, and bear-case probability of 25% argue for waiting until either (a) clear NA stabilization signal or (b) deeper drawdown into the $120s.
 
-**For a current holder**: **Hold**. Do not exit at –58%; the asymmetry has shifted in your favor. Add only on weakness toward $130 or after the Q1 FY26 print confirms Q1 guide hold. Trim only on a recovery toward $200+ if NA inflection has not yet shown.
+**For a current holder**: 🟡 **Hold**. Do not exit at –58%; the asymmetry has shifted in your favor. Add only on weakness toward $130 or after the Q1 FY26 print confirms Q1 guide hold. Trim only on a recovery toward $200+ if NA inflection has not yet shown.
 
-**Attractive entry zone**: **$120 – $140** (rationale: ~10–11× FY26E EPS; below 52-wk low; 1.3× EV/Sales — historical trough)
+🎯 **Attractive entry zone**: **$120 – $140** (rationale: ~10–11× FY26E EPS; below 52-wk low; 1.3× EV/Sales — historical trough)
 
-**Trim zone**: **$235 – $275** (rationale: 19–22× FY26E EPS = mid-cycle multiple; would already price in O'Neill turnaround)
+🎯 **Trim zone**: **$235 – $275** (rationale: 19–22× FY26E EPS = mid-cycle multiple; would already price in O'Neill turnaround)
 
-**Exit / avoid zone**: **>$310** (rationale: prior 2024 highs proved unsustainable; full re-rating thesis would require multi-year visible execution)
+🔴 **Exit / avoid zone**: **>$310** (rationale: prior 2024 highs proved unsustainable; full re-rating thesis would require multi-year visible execution)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Avoid):
-- Americas revenue declines accelerate beyond –5% YoY for two consecutive quarters
-- China Mainland growth decelerates below +12% YoY (signals international leg breaking)
-- Operating margin compresses below 18% for full FY26 (vs. 20.5% guide)
-- Markdown depth increases QoQ for two consecutive quarters
-- O'Neill departure or strategic announcement materially weaker than expected
-- Material analyst downgrade cluster (3+ downgrades in a week)
-- Tariff headwind expands above $450M
-- Vuori or Alo discloses revenue >$2.5B (signals share permanently lost)
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Avoid):
+- ⚠️ Americas revenue declines accelerate beyond –5% YoY for two consecutive quarters
+- ⚠️ China Mainland growth decelerates below +12% YoY (signals international leg breaking)
+- ⚠️ Operating margin compresses below 18% for full FY26 (vs. 20.5% guide)
+- ⚠️ Markdown depth increases QoQ for two consecutive quarters
+- ⚠️ O'Neill departure or strategic announcement materially weaker than expected
+- ⚠️ Material analyst downgrade cluster (3+ downgrades in a week)
+- ⚠️ Tariff headwind expands above $450M
+- ⚠️ Vuori or Alo discloses revenue >$2.5B (signals share permanently lost)
 
-**Next review trigger**: **Q1 FY26 earnings — early June 2026 (est.)**. Key items: (1) Q1 revenue vs. $2.40–2.43B guide, (2) any FY26 guide refresh, (3) NA comp by month, (4) China Mainland comp, (5) any commentary on O'Neill September start preparations.
+📅 **Next review trigger**: **Q1 FY26 earnings — early June 2026 (est.)**. Key items: (1) Q1 revenue vs. $2.40–2.43B guide, (2) any FY26 guide refresh, (3) NA comp by month, (4) China Mainland comp, (5) any commentary on O'Neill September start preparations.
 
 ---
 
-*Sources: lululemon Q4 FY2025 earnings release (2026-03-17); lululemon CEO succession announcements (2025-12-11; 2026-04-23); Yahoo Finance (live price 2026-04-24); MarketBeat, TipRanks, Public.com (analyst consensus, April 2026); CNBC, Motley Fool earnings call coverage (2026-03-18); Seeking Alpha LULU coverage; TradingKey CEO appointment commentary; UBS research note (US sales 2026 outlook).*
+### Sources
+
+- [Lululemon Corporate — Press Releases](https://corporate.lululemon.com/media/press-releases) (Q4 FY2025 earnings 2026-03-17; CEO succession announcements 2025-12-11, 2026-04-23)
+- [SEC EDGAR — Lululemon filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001397187&type=10-K)
+- [Yahoo Finance — LULU quote](https://finance.yahoo.com/quote/LULU) (live price 2026-04-24)
+- [MarketBeat — LULU](https://www.marketbeat.com/stocks/NASDAQ/LULU/) (analyst consensus, insider trades, April 2026)
+- [TipRanks — LULU](https://www.tipranks.com/stocks/lulu) (analyst consensus, insider trading)
+- [Public.com — LULU](https://public.com/stocks/lulu) (analyst consensus)
+- CNBC, Motley Fool earnings call coverage (2026-03-18) ([CNBC search](https://www.cnbc.com/search/?query=lululemon))
+- [Seeking Alpha — LULU coverage](https://seekingalpha.com/symbol/LULU)
+- [TradingKey — Lululemon coverage](https://www.tradingkey.com/news?q=lululemon)
+- UBS research note (US sales 2026 outlook) [link pending]

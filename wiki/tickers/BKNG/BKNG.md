@@ -1,9 +1,24 @@
 # BKNG — Booking Holdings Inc.
 
-> **Schema**: v2.1
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $180.25 at April 24, 2026 (Yahoo Finance; post-25-for-1 split effective Apr 2, 2026)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$180.25** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/BKNG); post-25-for-1 split effective Apr 2, 2026)
 > **Ticker Type**: Capital-light global travel platform (OTA)
+
+---
+
+## Summary
+
+- 🟢 **Thesis**: World's dominant OTA generating $9B+ FCF at ~37% EBITDA margins (Wide moat), trading at <16× forward P/E and ~6.4% FCF yield — a Wide-moat compounder at a Narrow-moat multiple as the market prices in AI disintermediation the data doesn't yet validate.
+- 🟢 **For a non-holder: Initiate** at $180.25 — Triple-overlap BAIT, sub-0.5× PEG, stock-split mechanical tailwind.
+- 🟢 **For a current holder: Add** on any pullback into the $155–$170 zone; **Hold** at current $180.
+- 🎯 **Attractive entry zone**: **$155 – $175** (~13× FY2026E forward P/E; in line with 52-wk low retest).
+- 🎯 **Trim zone**: **$235 – $260** (20× EV/EBITDA re-rate; top of analyst target band).
+- 📉 **Price action**: $180.25 (post-split), **–23% from 52-wk high** ($233.58), +20% above 52-wk low ($150.62) — drawdown.
+- 📅 **Next catalyst**: **Q1 2026 earnings — early May 2026**. First post-split print; Connected Trip %, merchant mix, AI KPIs, $700M reinvestment progress.
+- ⚠️ **Top risk**: AI disintermediation (Google/LLM bypass) — high impact, medium probability; not yet visible in data.
+- ⚠️ **Second risk**: Macroeconomic slowdown / travel demand drop (high impact, medium prob); EUR/USD FX headwinds.
+- 🟢 **BAIT verdict**: **Triple overlap** (B Strong + A Strong + I/T Moderate) — Conviction **High**. Median analyst PT ~$235 (post-split) implies +30% upside.
 
 ---
 
@@ -306,7 +321,7 @@ FCF consistently exceeds net income due to merchant model (collect upfront, remi
 
 ### Analyst Consensus (mid-April 2026)
 
-- **Aggregate rating**: Buy (29–34 analysts; majority Buy)
+- **Aggregate rating**: 🟢 Buy (29–34 analysts; majority Buy) ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/BKNG/) / [TipRanks](https://www.tipranks.com/stocks/bkng/forecast))
 - **Median price target**: ~$235 post-split (≈ $5,880 pre-split equivalent)
 - **High / Low targets**: ~$280 / ~$155 post-split
 - **Implied upside from $180.25**: +30% to median; +55% to high
@@ -330,15 +345,15 @@ FCF consistently exceeds net income due to merchant model (collect upfront, remi
 
 ### Recent Corporate News (last 90 days)
 
-- **[2026-04-02] [Capital]** — 25-for-1 stock split effective; split-adjusted trading begins Apr 6 [Source: IR]
-- **[2026-02] [Earnings]** — Q4 2025 / FY2025 results: revenue $26.9B FY (+13%); FCF $9.1B; merchant mix 70%; airline tickets 68M (+37%); attractions +80%; $700M 2026 reinvestment framework introduced [Source: IR, Q4 2025 call]
-- **[2025–2026] [Capital]** — Continued buybacks at ~$6B/year pace; share count down to ~32M pre-split (~795M post-split) [Source: IR]
+- 💰 **[2026-04-02] [Capital]** — 25-for-1 stock split effective; split-adjusted trading begins Apr 6 ([BKNG IR](https://www.bookingholdings.com/news/))
+- **[2026-02] [Earnings]** — Q4 2025 / FY2025 results: revenue $26.9B FY (+13%); FCF $9.1B; merchant mix 70%; airline tickets 68M (+37%); attractions +80%; $700M 2026 reinvestment framework introduced ([BKNG IR](https://www.bookingholdings.com/news/), Q4 2025 call)
+- 💰 **[2025–2026] [Capital]** — Continued buybacks at ~$6B/year pace; share count down to ~32M pre-split (~795M post-split) ([BKNG IR](https://www.bookingholdings.com/news/))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|----------------|
-| **Early May 2026** | **Q1 2026 earnings** | First post-split print; Connected Trip %, merchant mix trend, AI product KPIs, $700M reinvestment progress |
+| 📅 **Early May 2026** | **Q1 2026 earnings** | First post-split print; Connected Trip %, merchant mix trend, AI product KPIs, $700M reinvestment progress |
 | Q3 2026 (Aug) | Q2 earnings | Should show full-year track on $400M incremental revenue + $300M EBITDA benefit |
 | Ongoing | Connected Trip transactions % | Leading thesis-confirmation KPI; mid-teens by year-end = base case validation |
 | Ongoing | Buyback execution | ~$6B/year mechanical floor support |
@@ -423,28 +438,34 @@ Primary-source disclosures underappreciated by media:
 
 **Thesis in one sentence**: Booking is the world's dominant OTA generating $9B+ FCF at ~37% EBITDA margins, trading at <16× forward P/E because the market is pricing AI disintermediation that the data doesn't yet validate — a Wide-moat compounder at a Narrow-moat multiple.
 
-**For a non-holder**: **Initiate** at $180.25. Triple-overlap BAIT signal (B-Strong + A-Strong + I-Moderate + T-Moderate), Wide moat, sub-0.5× PEG, ~6.4% FCF yield, and a stock-split mechanical tailwind. The asymmetry is favorable on both 18-month (modestly positive PW EV) and 3-year (meaningful upside) horizons.
+**For a non-holder**: 🟢 **Initiate** at $180.25. Triple-overlap BAIT signal (B-Strong + A-Strong + I-Moderate + T-Moderate), Wide moat, sub-0.5× PEG, ~6.4% FCF yield, and a stock-split mechanical tailwind. The asymmetry is favorable on both 18-month (modestly positive PW EV) and 3-year (meaningful upside) horizons.
 
-**For a current holder**: **Add** on any pullback into the $155–$170 attractive entry zone; **Hold** at current $180. The 18-month base case implies modest gains; the 3-year compounding picture is the real value. Q1 2026 earnings (early May) is the next confirmation point on Connected Trip + AI metrics.
+**For a current holder**: 🟢 **Add** on any pullback into the $155–$170 attractive entry zone; **Hold** at current $180. The 18-month base case implies modest gains; the 3-year compounding picture is the real value. Q1 2026 earnings (early May) is the next confirmation point on Connected Trip + AI metrics.
 
-**Attractive entry zone**: **$155 – $175** (rationale: ~13× FY2026E forward P/E; in line with 52-week low retest; below current price provides margin of safety on AI risk)
+🎯 **Attractive entry zone**: **$155 – $175** (rationale: ~13× FY2026E forward P/E; in line with 52-week low retest; below current price provides margin of safety on AI risk)
 
-**Trim zone**: **$235 – $260** (rationale: 20× EV/EBITDA re-rate; top of analyst target band; bull case largely priced)
+🎯 **Trim zone**: **$235 – $260** (rationale: 20× EV/EBITDA re-rate; top of analyst target band; bull case largely priced)
 
-**Exit / avoid zone**: **>$280** (rationale: multiple expansion beyond bull case requires AI-amplifier proof + Connected Trip at 25%+ — unproven over an 18-month horizon)
+🔴 **Exit / avoid zone**: **>$280** (rationale: multiple expansion beyond bull case requires AI-amplifier proof + Connected Trip at 25%+ — unproven over an 18-month horizon)
 
-**Thesis-break triggers** (would force re-rating toward Exit):
-- Room night growth falls below 5% for two consecutive quarters
-- Connected Trip transactions stall (no growth or contraction in attach rate)
-- Google antitrust resolution that empowers (not constrains) Google Hotels aggression
-- Merchant mix growth stalls below 75%
-- Management cuts the $700M 2026 reinvestment framework or reduces 9/9/15 long-term target
-- Glenn Fogel founder/CEO departure
-- A clear "AI agent intercept" demonstration — measurable share loss in EU bookings to ChatGPT/Gemini/Perplexity-driven trips
-- FY2026 EPS guidance withdrawn or guided meaningfully below $33+ post-split equivalent
+**Thesis-break triggers** ⚠️ (would force re-rating toward Exit):
+- ⚠️ Room night growth falls below 5% for two consecutive quarters
+- ⚠️ Connected Trip transactions stall (no growth or contraction in attach rate)
+- ⚠️ Google antitrust resolution that empowers (not constrains) Google Hotels aggression
+- ⚠️ Merchant mix growth stalls below 75%
+- ⚠️ Management cuts the $700M 2026 reinvestment framework or reduces 9/9/15 long-term target
+- ⚠️ Glenn Fogel founder/CEO departure
+- ⚠️ A clear "AI agent intercept" demonstration — measurable share loss in EU bookings to ChatGPT/Gemini/Perplexity-driven trips
+- ⚠️ FY2026 EPS guidance withdrawn or guided meaningfully below $33+ post-split equivalent
 
-**Next review trigger**: **Q1 2026 earnings — early May 2026**. Items to check: (1) Connected Trip transactions %, (2) merchant mix trend, (3) room night growth vs. ~9% framework, (4) AI product KPIs (conversion, customer service cost saves), (5) $700M reinvestment progress and any incremental revenue/EBITDA tracker.
+📅 **Next review trigger**: **Q1 2026 earnings — early May 2026**. Items to check: (1) Connected Trip transactions %, (2) merchant mix trend, (3) room night growth vs. ~9% framework, (4) AI product KPIs (conversion, customer service cost saves), (5) $700M reinvestment progress and any incremental revenue/EBITDA tracker.
 
 ---
 
-*Sources: BKNG 10-K FY2024 (SEC EDGAR); Q4 2025 / FY2025 earnings release and call (Feb 2026); BKNG IR press releases (stock split announcement Mar 2026; effective Apr 2, 2026); Yahoo Finance (live price 2026-04-24 verified via JSON API); stockanalysis.com (income statement, cash flow, balance sheet); analyst consensus aggregators (MarketBeat, TipRanks); prior wiki ingest from raw/analyses/ + Q4 2025 earnings call transcripts.*
+### Sources
+
+- [Booking Holdings IR — News](https://www.bookingholdings.com/news/) (Q4 2025 / FY2025 earnings release and call, Feb 2026; stock split announcement Mar 2026, effective Apr 2, 2026)
+- [SEC EDGAR — BKNG filings (CIK 0001075531)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001075531&type=10-K) (BKNG 10-K FY2024)
+- [Yahoo Finance — BKNG quote](https://finance.yahoo.com/quote/BKNG) (live price 2026-04-24)
+- [stockanalysis.com — BKNG](https://stockanalysis.com/stocks/bkng/) (income statement, cash flow, balance sheet)
+- [MarketBeat — BKNG](https://www.marketbeat.com/stocks/NASDAQ/BKNG/) / [TipRanks — BKNG](https://www.tipranks.com/stocks/bkng/forecast) (analyst consensus aggregators)

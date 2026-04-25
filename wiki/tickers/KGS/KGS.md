@@ -1,9 +1,24 @@
 # KGS — Kodiak Gas Services, Inc.
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $62.16 at April 24, 2026 (Yahoo Finance / stockanalysis.com cross-check; intraday near 52-wk high of $66.16)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$62.16** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/KGS) / [stockanalysis.com](https://stockanalysis.com/stocks/kgs/) cross-check; intraday near 52-wk high of $66.16)
 > **Ticker Type**: Energy infrastructure services (contract compression — fee-based / utility-like)
+
+---
+
+## Summary
+
+- 🟡 **Thesis**: Largest U.S. contract compression operator (4.35M HP, 98% utilization — **Narrow moat**) with credible AI-data-center optionality via the April 2026 DPS acquisition, but at $62 (near 52-wk high after +83% in 6 months) the stock prices the bull case adequately — fair value, not a bargain.
+- 🟡 **For a non-holder: Watch** — initiate only on a pullback into the $50–55 attractive entry zone.
+- 🟡 **For a current holder: Hold** — do not add at the high; do not exit; dividend (3.2%) + mid-single-digit EBITDA growth is attractive on a risk-adjusted basis.
+- 🎯 **Attractive entry zone**: **$50 – $55** (~9× FY26E EV/EBITDA pro forma DPS; ~3.6% dividend yield).
+- 🎯 **Trim zone**: **$72 – $80** (~11–12× FY26E EBITDA pro forma DPS; matches optimistic analyst targets).
+- 📈 **Price action**: $62.16, **–6% from 52-wk high** ($66.16), **+107% above 52-wk low** ($30); +82.7% over 6 months.
+- 📅 **Next catalyst**: **Q1 2026 earnings — late April / early May 2026** (first print with partial DPS contribution).
+- ⚠️ **Top risk**: Cycle / 2027–2028 gas oversupply post-LNG ramp (high impact, 30% prob); zero utilization slack at 98%.
+- ⚠️ **Second risk**: DPS integration / underwriting miss (medium impact, 30% prob) — new vertical, AI-data-center thesis unproven for KGS.
+- 🟡 **BAIT verdict**: **Single overlap (A only Moderate)** — Conviction **Low-Moderate**. Quality compounder at fair value; consensus FY26 EBITDA may be structurally light since DPS contribution is excluded from current guide.
 
 ---
 
@@ -92,13 +107,13 @@ The bull case is "utility with growth." The bear case is "cycle peak in a levera
 | Fleet HP (avg, M) | ~3.0 | ~3.3 | ~3.6 | 4.35 (YE) | growing |
 | Utilization | ~95% | ~96% | ~97% | 98% | 98%+ target |
 
-*Note: FY2022–FY2024 revenue/EBITDA figures are best-estimate trend reconstructions from quarterly filings and company decks; YE2024+ are post CSI Compressco. [Source: Q4 2025 earnings press release, IR site, Feb 25, 2026]*
+*Note: FY2022–FY2024 revenue/EBITDA figures are best-estimate trend reconstructions from quarterly filings and company decks; YE2024+ are post CSI Compressco. Source: [Q4 2025 earnings press release, IR site, Feb 25, 2026](https://ir.kodiakgas.com/news-releases).*
 
 ### Recent Quarter
 
 | Quarter | Revenue | Adj EBITDA | Notes |
 |---------|---------|-----------|-------|
-| Q4 2025 | $332.87M | $184.5M | Beat top-line; EPS missed (one-time items); 98% util reaffirmed [Source: KGS press release, 2026-02-25] |
+| Q4 2025 | $332.87M | $184.5M | Beat top-line; EPS missed (one-time items); 98% util reaffirmed ([KGS press release, 2026-02-25](https://ir.kodiakgas.com/news-releases)) |
 
 ---
 
@@ -171,7 +186,7 @@ Kodiak is a **U.S.-only** operator. Geographic mix is best understood by basin:
 - **Buybacks**: minimal to date — capital being directed at growth/M&A
 - **Leverage target**: ~3.5–4.0× net debt / EBITDA pro forma DPS; management has historically de-levered post-acquisitions within 6–8 quarters
 
-**Insider activity (last 90 days)**: Notable insider sales reported through mid-March 2026 [Source: aggregator news 2026-03-20]. In context of stock at 52-wk high after +83% 6-month run, some insider selling is unsurprising but worth tracking.
+**Insider activity (last 90 days)**: Notable insider sales reported through mid-March 2026 ([OpenInsider — KGS](http://openinsider.com/screener?s=KGS), aggregator news 2026-03-20). In context of stock at 52-wk high after +83% 6-month run, some insider selling is unsurprising but worth tracking.
 
 ---
 
@@ -250,12 +265,12 @@ Kodiak is a **U.S.-only** operator. Geographic mix is best understood by basin:
 - **% from 52-wk high**: –6.0%
 - **% above 52-wk low**: +107%
 - **Market cap**: ~$5.4B
-- **6-month performance**: +82.7% [Source: stockanalysis.com, Apr 2026]
+- **6-month performance**: +82.7% ([stockanalysis.com](https://stockanalysis.com/stocks/kgs/), Apr 2026)
 
 ### Analyst Consensus
-- **Aggregate rating**: Moderate Buy (7 Buy / 1 Hold / 1 Sell)
-- **Average target**: ~$55.86 (MarketBeat) — note: this trails recent upgrades
-- **High target**: $70 (BofA, 2026-04-13)
+- **Aggregate rating**: 🟢 Moderate Buy (7 Buy / 1 Hold / 1 Sell) ([MarketBeat — KGS](https://www.marketbeat.com/stocks/NYSE/KGS/forecast/))
+- **Average target**: ~$55.86 ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/KGS/forecast/)) — note: this trails recent upgrades
+- **High target**: $70 ([BofA, 2026-04-13](https://www.marketbeat.com/stocks/NYSE/KGS/price-target/))
 - **Recent revisions**: Goldman Sachs $60 → $69 (2026-04-20); BofA $45 → $70 (2026-04-13); JPM Buy reiterated (2026-04-16)
 - **Implied upside**: +12% to high target
 
@@ -270,21 +285,21 @@ Kodiak is a **U.S.-only** operator. Geographic mix is best understood by basin:
 Specific April 2026 short interest data not surfaced in search; KGS is small-cap energy infrastructure and historically runs low-mid single-digit % of float short. Worth a Fintel/MarketBeat refresh on next update.
 
 ### Insider Activity (Last 90 Days)
-- **Multiple insider stock disposals reported through mid-March 2026** [Source: aggregator news 2026-03-20]
+- **Multiple insider stock disposals reported through mid-March 2026** ([OpenInsider — KGS](http://openinsider.com/screener?s=KGS), aggregator news 2026-03-20)
 - Not unusual for stock at 52-wk high after 6-month +83% run
 - No material open-market insider buys reported in window
 
 ### Recent Corporate News (Last 90 Days)
-- **[2026-04 (early)] [M&A]** — DPS acquisition close (~$675M) [Source: KGS IR]
-- **[2026-04-20] [Analyst]** — Goldman PT $60 → $69
-- **[2026-04-13] [Analyst]** — BofA PT $45 → $70
-- **[2026-02-25] [Earnings]** — Q4 2025 / FY2025 results: rev $332.87M Q4 (+3% seq), $1.30B FY (+13%); adj EBITDA $184.5M Q4, $715M FY (+17%); FY26 guide $1.37–1.43B rev / $750–780M EBITDA ex-DPS [Source: KGS press release]
-- **[2026-02 (mid)] [Capital]** — $0.49/sh quarterly dividend declared
+- **[2026-04 (early)] [M&A]** — 💰 DPS acquisition close (~$675M) ([KGS IR](https://ir.kodiakgas.com/news-releases))
+- **[2026-04-20] [Analyst]** — Goldman PT $60 → $69 ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/KGS/price-target/))
+- **[2026-04-13] [Analyst]** — BofA PT $45 → $70 ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/KGS/price-target/))
+- **[2026-02-25] [Earnings]** — Q4 2025 / FY2025 results: rev $332.87M Q4 (+3% seq), $1.30B FY (+13%); adj EBITDA $184.5M Q4, $715M FY (+17%); FY26 guide $1.37–1.43B rev / $750–780M EBITDA ex-DPS ([KGS press release](https://ir.kodiakgas.com/news-releases))
+- **[2026-02 (mid)] [Capital]** — 💰 $0.49/sh quarterly dividend declared ([KGS IR](https://ir.kodiakgas.com/news-releases))
 
 ### Upcoming Catalysts
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| ~Late Apr / Early May 2026 | Q1 2026 earnings | First print with DPS contribution; integration commentary |
+| 📅 ~Late Apr / Early May 2026 | Q1 2026 earnings ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NYSE/KGS/earnings/)) | First print with DPS contribution; integration commentary |
 | ~Early Aug 2026 | Q2 2026 earnings | Updated FY26 guide pro forma DPS |
 | Ongoing | DPS first power deployment | Validates AI-data-center demand thesis |
 | Ongoing | Permian rig count / production data | Leading indicator for compression demand |
@@ -362,28 +377,40 @@ The Q4 2025 transcript and FY26 guide are well-covered. DPS acquisition deck off
 
 **Thesis in one sentence**: Kodiak is the U.S. compression scale leader at 98% utilization with credible AI-data-center optionality via DPS, but at $62 (near 52-wk high after +83% in 6 months) the stock prices the bull case adequately — fair value, not a bargain.
 
-**For a non-holder**: **Watch** — initiate only on a pullback into the **$50–55 attractive entry zone**, where the dividend yield approaches 3.6–3.9% and EV/EBITDA compresses to ~9× FY26E. At current $62, expected 3-year return of ~7–8%/yr (incl. div) is acceptable but not asymmetric — wait for a better setup.
+**For a non-holder**: 🟡 **Watch** — initiate only on a pullback into the **$50–55 attractive entry zone**, where the dividend yield approaches 3.6–3.9% and EV/EBITDA compresses to ~9× FY26E. At current $62, expected 3-year return of ~7–8%/yr (incl. div) is acceptable but not asymmetric — wait for a better setup.
 
-**For a current holder**: **Hold** — do not add at the high; do not exit. The dividend (3.2%) plus mid-single-digit EBITDA growth is attractive on a risk-adjusted basis. Trim only if the position has become outsized after the +83% run, or if Permian leading indicators (rig count, gas-to-oil ratio) deteriorate materially.
+**For a current holder**: 🟡 **Hold** — do not add at the high; do not exit. The dividend (3.2%) plus mid-single-digit EBITDA growth is attractive on a risk-adjusted basis. Trim only if the position has become outsized after the +83% run, or if Permian leading indicators (rig count, gas-to-oil ratio) deteriorate materially.
 
-**Attractive entry zone**: **$50 – $55** (rationale: 9× FY26E EV/EBITDA pro forma DPS; ~3.6% dividend yield; aligns with 1× turn discount to scale-leader premium)
+🎯 **Attractive entry zone**: **$50 – $55** (rationale: 9× FY26E EV/EBITDA pro forma DPS; ~3.6% dividend yield; aligns with 1× turn discount to scale-leader premium)
 
-**Trim zone**: **$72 – $80** (rationale: 11–12× FY26E EBITDA pro forma DPS; matches optimistic analyst targets; cycle premium fully priced)
+🎯 **Trim zone**: **$72 – $80** (rationale: 11–12× FY26E EBITDA pro forma DPS; matches optimistic analyst targets; cycle premium fully priced)
 
-**Exit / avoid zone**: **>$85** (rationale: requires >12× EV/EBITDA on a cyclical compression name at a probable cycle peak; historical precedent shows compression multiples >12× rarely sustain)
+🔴 **Exit / avoid zone**: **>$85** (rationale: requires >12× EV/EBITDA on a cyclical compression name at a probable cycle peak; historical precedent shows compression multiples >12× rarely sustain)
 
-**Thesis-break triggers** (would force re-rating toward Reduce / Exit):
-- Fleet utilization falls below 92% for two consecutive quarters (signals demand softening)
-- Permian rig count drops >25% from 2026 baseline for two consecutive quarters
-- DPS impairment or material integration charge announced
-- Net leverage rises above 4.5× and stays there for >2 quarters
-- Top-3 customer renegotiates or terminates a major contract
-- FY26 EBITDA guide is cut materially at any quarterly update
-- Dividend cut announced
-- Major insider cluster sell ($10M+ aggregate from named officers in a single quarter)
+**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
+- ⚠️ Fleet utilization falls below 92% for two consecutive quarters (signals demand softening)
+- ⚠️ Permian rig count drops >25% from 2026 baseline for two consecutive quarters
+- ⚠️ DPS impairment or material integration charge announced
+- ⚠️ Net leverage rises above 4.5× and stays there for >2 quarters
+- ⚠️ Top-3 customer renegotiates or terminates a major contract
+- ⚠️ FY26 EBITDA guide is cut materially at any quarterly update
+- ⚠️ Dividend cut announced
+- ⚠️ Major insider cluster sell ($10M+ aggregate from named officers in a single quarter)
 
-**Next review trigger**: **Q1 2026 earnings (late April / early May 2026)** — first print with partial DPS contribution; will set tone for FY26 pro forma guide and DPS integration narrative.
+📅 **Next review trigger**: **Q1 2026 earnings (late April / early May 2026)** — first print with partial DPS contribution; will set tone for FY26 pro forma guide and DPS integration narrative.
 
 ---
 
-*Sources: Kodiak Gas Services Q4 2025 / FY2025 earnings press release (IR, 2026-02-25); Q4 2025 earnings call transcript (Motley Fool, Globe and Mail, Feb 26, 2026); KGS DPS acquisition announcement (2026); Yahoo Finance live price (2026-04-24); stockanalysis.com 52-wk range; MarketBeat analyst consensus; Goldman Sachs PT note (2026-04-20); Bank of America PT note (2026-04-13); JP Morgan reiteration (2026-04-16); Daily Political 52-wk-high coverage (2026-04-20).*
+### Sources
+
+- [Kodiak Gas Services IR — News Releases](https://ir.kodiakgas.com/news-releases) (Q4 2025 / FY2025 earnings press release, 2026-02-25; DPS acquisition announcement, 2026)
+- Q4 2025 earnings call transcript ([Motley Fool](https://www.fool.com/quote/nyse/kgs/), [Globe and Mail](https://www.theglobeandmail.com/investing/markets/stocks/KGS-N/), Feb 26, 2026)
+- [Yahoo Finance — KGS quote](https://finance.yahoo.com/quote/KGS) (live price 2026-04-24)
+- [stockanalysis.com — KGS](https://stockanalysis.com/stocks/kgs/) (52-wk range)
+- [MarketBeat — KGS](https://www.marketbeat.com/stocks/NYSE/KGS/) (analyst consensus, price targets)
+- [SEC EDGAR — Kodiak Gas Services filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=kodiak+gas&type=10-K)
+- Goldman Sachs PT note (2026-04-20) [link pending]
+- Bank of America PT note (2026-04-13) [link pending]
+- JP Morgan reiteration (2026-04-16) [link pending]
+- Daily Political 52-wk-high coverage (2026-04-20) [link pending]
+- [OpenInsider — KGS](http://openinsider.com/screener?s=KGS) (insider activity)

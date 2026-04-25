@@ -1,15 +1,30 @@
 # ONON — On Holding AG
 
-> **Schema**: v2.2
-> **Last Updated**: 2026-04-24
-> **Live Price Verified**: $36.25 at April 24, 2026 (Yahoo Finance; previous close $44.76; deep drawdown reflects post-Q4-2025 guidance reset + tariff/FX overhang)
+> **Schema**: v2.5
+> **Last Updated**: 2026-04-25
+> **Live Price Verified**: **$36.25** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/ONON); deep drawdown reflects post-Q4-2025 guidance reset + tariff/FX overhang)
 > **Ticker Type**: Premium consumer brand / DTC + wholesale apparel-footwear
+
+---
+
+## Summary
+
+- 🟢 **Thesis**: Premium consumer brand (**Narrow moat**) compounding 23%+ constant-currency at a 63%+ gross margin, mispriced by FX + tariff macro at $36.25.
+- 🟢 **For a non-holder: Initiate** — at $36, asymmetry is constructive; median analyst target $60+ implies +66–72%.
+- 🟢 **For a current holder: Add** — incremental adds in $32–38 zone favored; avoid adding above $42 until tariff visibility improves.
+- 🎯 **Attractive entry zone**: **$31 – $40** (~13× 2026E EBITDA; below historical floor).
+- 🎯 **Trim zone**: **$60 – $70** (~22–25× 2026E EBITDA; reaches DECK parity).
+- 📉 **Price action**: $36.25, **–40.8% from 52-wk high** ($61.29), +15.4% above 52-wk low ($31.41).
+- 📅 **Next catalyst**: **Q1 2026 earnings — ~Mid-May 2026**. First print under 2026 guide; tariff-impact reality check.
+- ⚠️ **Top risk**: U.S. tariff escalation on Asia footwear sourcing (high impact, 50% prob) — 50bps+ gross-margin drag possible.
+- ⚠️ **Second risk**: Athletic-footwear category fade (peak penetration) — high impact, 15% prob (long-cycle risk).
+- 🟡 **BAIT verdict**: **Double overlap (B Strong + A/I Moderate)** — Conviction **Moderate**. Setup is real but tariff risk has empirical teeth; PW EV ~$53 (3-yr) implies +46% / ~+13%/yr. Yahoo: "Why Do Analysts See 70% Upside in On Holding (ONON)?"
 
 ---
 
 ## Business Overview
 
-On Holding AG (NYSE: ONON) is a Swiss premium athletic and lifestyle footwear and apparel brand founded in Zurich in 2010. The company designs CloudTec-cushioned running shoes, expanded into apparel, and operates a hybrid DTC + wholesale model. FY2025 net sales reached **CHF 3.0B**, +30% reported and **+35.6% at constant currency**, with a record full-year **gross margin of 62.8%** and adj. EBITDA margin guidance of 18.5–19% for 2026. Q4 2025 sales were CHF 743.8M (+22.6% reported, +30.6% constant-currency), with a record quarterly gross margin of 63.9%. [Source: On Holding Q4 2025 press release, 2026-03-03]
+On Holding AG (NYSE: ONON) is a Swiss premium athletic and lifestyle footwear and apparel brand founded in Zurich in 2010. The company designs CloudTec-cushioned running shoes, expanded into apparel, and operates a hybrid DTC + wholesale model. FY2025 net sales reached **CHF 3.0B**, +30% reported and **+35.6% at constant currency**, with a record full-year **gross margin of 62.8%** and adj. EBITDA margin guidance of 18.5–19% for 2026. Q4 2025 sales were CHF 743.8M (+22.6% reported, +30.6% constant-currency), with a record quarterly gross margin of 63.9%. ([On Holding Q4 2025 press release, 2026-03-03](https://investors.on.com/news-events/press-releases))
 
 The brand has scaled with a focus on premium positioning (no permanent discounting, athlete endorsements, top-tier marketing — Roger Federer co-investor and brand ambassador since 2019) and a controlled retail footprint (67 global stores). Tennis (Iga Świątek, Ben Shelton), running (Hellen Obiri), and hiking are core sport pillars.
 
@@ -58,7 +73,7 @@ The setup divides cleanly: the bull case sees a high-margin, self-funding compou
 | FY2025 Net Sales | CHF 3.0B (~$3.4B) | +30% YoY reported, +35.6% c-c |
 | FY2025 Gross Margin | 62.8% | Record |
 | FY2025 Q4 Gross Margin | 63.9% | Record quarterly |
-| 2026 Guide: c-c sales growth | ≥23% | [Source: On press release, March 3 2026] |
+| 2026 Guide: c-c sales growth | ≥23% | ([On press release, March 3 2026](https://investors.on.com/news-events/press-releases)) |
 | 2026 Guide: Gross Margin | ≥63% | |
 | 2026 Guide: Adj. EBITDA Margin | 18.5–19% | |
 | Q4 2025 Net Sales | CHF 743.8M | +22.6% reported / +30.6% c-c |
@@ -91,7 +106,7 @@ The setup divides cleanly: the bull case sees a high-margin, self-funding compou
 | Adj. EBITDA Margin | 13.5% | 16.7% | 18.0% | ~18.8% | 18.5–19% |
 | Net Income (CHF) | 58M | 80M | ~178M | (record) | — |
 
-[Source: On Holding Q4 2025 press release, 2026-03-03; Form 20-F 2025]
+Sources: [On Holding Q4 2025 press release, 2026-03-03](https://investors.on.com/news-events/press-releases); [Form 20-F 2025 (SEC EDGAR)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001823144&type=20-F).
 
 ### Quarterly Trajectory (Recent)
 
@@ -253,7 +268,7 @@ Forward outlook: APAC is the highest-growth region; Americas remains largest. Ta
 - **Range**: $30 (low) – $84 (high)
 - **Number of analysts**: 21–35 across panels
 - **Implied upside**: +66% to +72% to median targets
-- **Yahoo headline**: "Why Do Analysts See 70% Upside in On Holding (ONON)?" [Source: Yahoo Finance, April 2026]
+- **Yahoo headline**: "Why Do Analysts See 70% Upside in On Holding (ONON)?" ([Yahoo Finance — ONON](https://finance.yahoo.com/quote/ONON), April 2026)
 
 ### Short Interest
 
@@ -267,17 +282,17 @@ Forward outlook: APAC is the highest-growth region; Americas remains largest. Ta
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-03-03] [Earnings]** — Q4 2025 / FY2025 results: Net sales CHF 3.0B (+30%), GM 62.8% record, Q4 GM 63.9% record, EPS $0.31 vs. $0.18 cons. [Source: On press release, on-running.com IR]
-- **[2026-03-03] [Guidance]** — 2026 guide: ≥23% c-c growth, ≥63% gross margin, 18.5–19% adj. EBITDA margin — interpreted as conservative; stock fell on guide [Source: CNBC]
-- **[2026-Q1 various] [Tariff]** — U.S.-Asia tariff concerns weighing on consumer-discretionary footwear cohort [Source: Industry trade press]
-- **[Filing 2026] [Filing]** — Form 20-F 2025 filed [Source: SEC EDGAR]
-- **[Pre-2026] [Macro]** — Swiss franc strength persistent, ~800bps FX headwind [Source: management commentary, March 2026]
+- **[2026-03-03] [Earnings]** — Q4 2025 / FY2025 results: Net sales CHF 3.0B (+30%), GM 62.8% record, Q4 GM 63.9% record, EPS $0.31 vs. $0.18 cons. ([On press release / IR](https://investors.on.com/news-events/press-releases))
+- **[2026-03-03] [Guidance]** — 2026 guide: ≥23% c-c growth, ≥63% gross margin, 18.5–19% adj. EBITDA margin — interpreted as conservative; stock fell on guide ([CNBC search](https://www.cnbc.com/search/?query=on+holding))
+- **[2026-Q1 various] [Tariff]** — U.S.-Asia tariff concerns weighing on consumer-discretionary footwear cohort [link pending]
+- **[Filing 2026] [Filing]** — Form 20-F 2025 filed ([SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001823144&type=20-F))
+- **[Pre-2026] [Macro]** — Swiss franc strength persistent, ~800bps FX headwind ([On IR — management commentary, March 2026](https://investors.on.com/news-events/press-releases))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|----------------|
-| **~Mid-May 2026** (est.) | **Q1 2026 earnings** | First print under 2026 guide; tariff-impact reality check |
+| 📅 **~Mid-May 2026** (est.) | **Q1 2026 earnings** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NYSE/ONON/earnings/)) | First print under 2026 guide; tariff-impact reality check |
 | May 2026 | Frank Sluis joins as CFO | Capital-allocation signal |
 | Aug 2026 | Q2 2026 earnings | Mid-year guide reaffirmation or revision |
 | Ongoing | U.S. tariff developments | Single-largest 2026 variable |
@@ -361,27 +376,38 @@ The –41% drawdown from $61 reflects compounding bad news: 2026 EBITDA margin g
 
 **Thesis in one sentence**: ONON is a premium consumer brand compounding 23%+ constant-currency at a 63%+ gross margin, mispriced by FX + tariff macro at $36.25 — the 3-yr PW EV is $53 (+46%), and the central case sees re-rating to peer (DECK) parity once tariff overhang resolves.
 
-**For a non-holder**: **Initiate** — at $36, the asymmetry is constructive. Median analyst target $60+ implies +66–72%. Tariff is the primary risk and merits a smaller-than-usual entry size.
+**For a non-holder**: 🟢 **Initiate** — at $36, the asymmetry is constructive. Median analyst target $60+ implies +66–72%. Tariff is the primary risk and merits a smaller-than-usual entry size.
 
-**For a current holder**: **Add** — incremental adds in the **$32–38 zone** are favored. Avoid adding above $42 until tariff visibility improves.
+**For a current holder**: 🟢 **Add** — incremental adds in the **$32–38 zone** are favored. Avoid adding above $42 until tariff visibility improves.
 
-**Attractive entry zone**: **$31 – $40** (rationale: ~13× 2026E EBITDA at midpoint; below historical floor; absorbs flat-EBITDA-margin guide)
+🎯 **Attractive entry zone**: **$31 – $40** (rationale: ~13× 2026E EBITDA at midpoint; below historical floor; absorbs flat-EBITDA-margin guide)
 
-**Trim zone**: **$60 – $70** (rationale: ~22–25× 2026E EBITDA; reaches DECK parity; further upside requires apparel/APAC delivery)
+🎯 **Trim zone**: **$60 – $70** (rationale: ~22–25× 2026E EBITDA; reaches DECK parity; further upside requires apparel/APAC delivery)
 
-**Exit / avoid zone**: **>$80** (rationale: prior peak band; would require both apparel scale-up and tariff resolution)
+🔴 **Exit / avoid zone**: **>$80** (rationale: prior peak band; would require both apparel scale-up and tariff resolution)
 
-**Thesis-break triggers** (would force re-rating toward Exit / Avoid):
-- Constant-currency growth decelerates below 18% for two consecutive quarters
-- Gross margin falls below 60% in any quarter
-- DTC growth turns negative on a constant-currency basis
-- U.S. tariff increase >25% on Asia-sourced footwear without offsetting price action
-- Adj. EBITDA margin guide cut below 17% for FY27
-- Federer / founder departure
-- Apparel growth disappoints (<25% in 2026)
+**Thesis-break triggers** ⚠️ (would force re-rating toward Exit / Avoid):
+- ⚠️ Constant-currency growth decelerates below 18% for two consecutive quarters
+- ⚠️ Gross margin falls below 60% in any quarter
+- ⚠️ DTC growth turns negative on a constant-currency basis
+- ⚠️ U.S. tariff increase >25% on Asia-sourced footwear without offsetting price action
+- ⚠️ Adj. EBITDA margin guide cut below 17% for FY27
+- ⚠️ Federer / founder departure
+- ⚠️ Apparel growth disappoints (<25% in 2026)
 
-**Next review trigger**: **Q1 2026 earnings — ~Mid-May 2026**. Key items: (1) constant-currency growth vs. ≥23% guide, (2) gross margin trajectory + tariff-impact disclosure, (3) DTC growth, (4) APAC growth, (5) any FY26 guide revision.
+📅 **Next review trigger**: **Q1 2026 earnings — ~Mid-May 2026**. Key items: (1) constant-currency growth vs. ≥23% guide, (2) gross margin trajectory + tariff-impact disclosure, (3) DTC growth, (4) APAC growth, (5) any FY26 guide revision.
 
 ---
 
-*Sources: On Holding Q4 2025 / FY2025 press release (2026-03-03, IR); Q4 2025 earnings call transcript (Motley Fool, 2026-03-03); CNBC coverage (2026-03-03); Form 20-F 2025 (SEC EDGAR); Yahoo Finance live price (2026-04-24); MarketBeat, public.com, stockanalysis.com, MarketScreener (analyst consensus, April 2026); industry coverage of footwear tariff exposure.*
+### Sources
+
+- [On Holding Investor Relations — Press Releases](https://investors.on.com/news-events/press-releases) (Q4 2025 / FY2025 press release, 2026-03-03)
+- Q4 2025 earnings call transcript ([Motley Fool — ONON](https://www.fool.com/quote/nyse/onon/), 2026-03-03)
+- [CNBC — search On Holding](https://www.cnbc.com/search/?query=on+holding) (2026-03-03 coverage)
+- [SEC EDGAR — On Holding filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001823144&type=20-F) (Form 20-F 2025)
+- [Yahoo Finance — ONON quote](https://finance.yahoo.com/quote/ONON) (live price 2026-04-24)
+- [MarketBeat — ONON](https://www.marketbeat.com/stocks/NYSE/ONON/) (analyst consensus, April 2026)
+- [Public.com — ONON](https://public.com/stocks/onon)
+- [stockanalysis.com — ONON](https://stockanalysis.com/stocks/onon/)
+- [MarketScreener — ONON](https://www.marketscreener.com/quote/stock/ON-HOLDING-AG-129434571/)
+- Industry coverage of footwear tariff exposure [link pending]

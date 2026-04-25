@@ -1,4 +1,4 @@
-# CLAUDE.md — kg-invest-wiki Schema (v2)
+# CLAUDE.md — kg-invest-wiki Schema (v2.2)
 
 This is the instruction file for the LLM agent that maintains this wiki.
 **Read this file at the start of every session before making any changes to `wiki/`, `raw/`, or `outputs/`.**
@@ -13,7 +13,7 @@ session starts from the latest synthesis, not a blank page.
 
 - **Owner**: Karthik G
 - **Started**: April 2026
-- **Schema version**: v2 (April 2026)
+- **Schema version**: v2.2 (April 2026)
 - **Model**: Karpathy LLM Wiki pattern, adapted
 
 ### What this wiki is *not*
@@ -95,6 +95,20 @@ kg-invest-wiki/
     `changelog.md` (append-only event log). Do not create separate
     `overview.md`, `thesis.md`, or `financials.md` files. If legacy v1 files
     exist, fold them into `[TICKER].md` and delete them on first re-ingest.
+12. **Date discipline**. Before writing any date-stamped artifact (header
+    "Last Updated", changelog entry title, output filename, log entry, or
+    weekly summary filename), the agent MUST run `date -u +%Y-%m-%d` via
+    Bash and use that result as the literal date string. NEVER infer the
+    current date from session memory, prior file contents, conversation
+    context, or any other source. Stale dates have caused material thesis
+    framing errors (e.g., calling an earnings event "one week away" when
+    it was the same day). When delegating to sub-agents, pass the verified
+    date as a literal string in the prompt — agents must not be expected
+    to derive it correctly themselves.
+13. **Maintain the summaries index**. After every weekly run, prepend a row
+    to `wiki/summaries.md` (the index of cross-ticker weekly summaries) so
+    that the Markdown table at the top stays in reverse-chronological order
+    and links to each new `outputs/weekly/YYYY-MM-DD_weekly_summary.md`.
 
 ---
 
@@ -540,3 +554,21 @@ version (v3, v4, ...). Minor edits within a version are fine without bump.
   Workflow A and B now have explicit Commit-and-Push steps. New `PUSH` ACTION
   verb in `log.md` tracks success/failure. Schema Co-Evolution gains a step 5
   for pushing schema commits.
+
+### v2.2 changelog (April 2026 — date discipline + summaries index)
+- **Added Core Rule #12: Date discipline.** Before writing any date-stamped
+  artifact, the agent must run `date -u +%Y-%m-%d` and use that as a literal
+  string. Never infer dates from context. Sub-agent prompts must pass the
+  verified date as a literal. This rule was added in response to a
+  date-anchor-drift incident where 2026-04-17 was propagated as the
+  "current date" across 31 files when the actual session date was
+  2026-04-24, causing PG's "one week away" framing to be wrong on the day
+  of its earnings print.
+- **Added `wiki/summaries.md`** as a reverse-chronological index of all
+  weekly summaries. Auto-maintained by the weekly cron routine
+  (`trig_01R1X9aCDwHQDfUmkSii1bWb`).
+- **Added Core Rule #13: Maintain the summaries index.** Each weekly run
+  must prepend a row to `wiki/summaries.md`.
+- The weekly cron routine `kg-invest-wiki-weekly` was created on
+  2026-04-24 to fire every Friday at 22:00 UTC (6pm EDT / 5pm EST).
+  Routine ID: `trig_01R1X9aCDwHQDfUmkSii1bWb`.

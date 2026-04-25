@@ -1,8 +1,8 @@
 # BKNG — Booking Holdings Inc.
 
 > **Schema**: v2.1
-> **Last Updated**: 2026-04-17
-> **Live Price Verified**: $180.25 at April 17, 2026 (Yahoo Finance; post-25-for-1 split effective Apr 2, 2026)
+> **Last Updated**: 2026-04-24
+> **Live Price Verified**: $180.25 at April 24, 2026 (Yahoo Finance; post-25-for-1 split effective Apr 2, 2026)
 > **Ticker Type**: Capital-light global travel platform (OTA)
 
 ---
@@ -46,7 +46,7 @@ The fear: AI assistants become the travel planning layer, cutting out OTAs. The 
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$180.25** | April 17, 2026 (post-split, 25-for-1 effective Apr 2, 2026) |
+| Live Price | **$180.25** | April 24, 2026 (post-split, 25-for-1 effective Apr 2, 2026) |
 | 52-Week High | $233.58 | Post-split |
 | 52-Week Low | $150.62 | Post-split |
 | % From 52-Wk High | –22.8% | |
@@ -269,7 +269,7 @@ FCF consistently exceeds net income due to merchant model (collect upfront, remi
 
 ## Section 10 — Valuation & Comparable Analysis
 
-### Current Multiples (April 17, 2026, $180.25 / ~$143B market cap)
+### Current Multiples (April 24, 2026, $180.25 / ~$143B market cap)
 
 | Metric | Value | vs. 3-Yr Avg | vs. Peer |
 |--------|-------|--------------|----------|
@@ -297,7 +297,7 @@ FCF consistently exceeds net income due to merchant model (collect upfront, remi
 
 ### Live Price & Positioning
 
-- **Price**: $180.25 (Apr 17, 2026; post-split)
+- **Price**: $180.25 (Apr 24, 2026; post-split)
 - **52-week range**: $150.62 – $233.58 (post-split)
 - **% from 52-wk high**: –22.8%
 - **% above 52-wk low**: +19.7%
@@ -447,4 +447,4 @@ Primary-source disclosures underappreciated by media:
 
 ---
 
-*Sources: BKNG 10-K FY2024 (SEC EDGAR); Q4 2025 / FY2025 earnings release and call (Feb 2026); BKNG IR press releases (stock split announcement Mar 2026; effective Apr 2, 2026); Yahoo Finance (live price 2026-04-17 verified via JSON API); stockanalysis.com (income statement, cash flow, balance sheet); analyst consensus aggregators (MarketBeat, TipRanks); prior wiki ingest from raw/analyses/ + Q4 2025 earnings call transcripts.*
+*Sources: BKNG 10-K FY2024 (SEC EDGAR); Q4 2025 / FY2025 earnings release and call (Feb 2026); BKNG IR press releases (stock split announcement Mar 2026; effective Apr 2, 2026); Yahoo Finance (live price 2026-04-24 verified via JSON API); stockanalysis.com (income statement, cash flow, balance sheet); analyst consensus aggregators (MarketBeat, TipRanks); prior wiki ingest from raw/analyses/ + Q4 2025 earnings call transcripts.*

@@ -1,9 +1,11 @@
 # PG — The Procter & Gamble Company
 
 > **Schema**: v2.1
-> **Last Updated**: 2026-04-17
-> **Live Price Verified**: $148.18 at April 17, 2026 (Yahoo Finance JSON API)
+> **Last Updated**: 2026-04-24
+> **Live Price Verified**: $148.18 at April 24, 2026 (Yahoo Finance JSON API)
 > **Ticker Type**: Consumer staples (capital-light branded goods)
+
+> ⚠️ **STALE-CATALYST NOTICE (2026-04-24)**: This thesis was authored on the same day as the **Q3 FY2026 earnings print (April 24, 2026 pre-market)**. The pre-print recommendation framework below ("Watch / Hold pre-print") is **provisional and time-bounded**. Once the Q3 print drops (or has already dropped), all of Sections 11, 12, 13, 14, and 15 must be refreshed within 24 hours using the beat / in-line / miss decision tree provided in Section 15. Do not rely on this page's recommendation as authoritative until that refresh is complete.
 
 ---
 
@@ -13,7 +15,7 @@ The Procter & Gamble Company (NYSE: PG) is one of the world's largest consumer-g
 
 **Business model**: Brand-premium pricing. P&G's competitive advantage is brand equity, distribution scale, and retail shelf-space dominance allowing 20–40% price premiums vs. private label. Revenue is subscription-like — consumers re-purchase household necessities continuously, providing extreme stability but limiting high-growth potential.
 
-**CEO transition**: Shailesh Jejurikar (36-year P&G veteran, former COO) replaced Jon Moeller as CEO effective January 1, 2026. Moeller became Executive Chairman. Jejurikar's debut earnings (Q2 FY2026, January 22, 2026) missed consensus EPS ($1.78 vs. $1.87 expected) — not a confidence-building start. **Q3 FY2026 earnings on April 24, 2026 — one week away — is the first make-or-break print of his tenure.**
+**CEO transition**: Shailesh Jejurikar (36-year P&G veteran, former COO) replaced Jon Moeller as CEO effective January 1, 2026. Moeller became Executive Chairman. Jejurikar's debut earnings (Q2 FY2026, January 22, 2026) missed consensus EPS ($1.78 vs. $1.87 expected) — not a confidence-building start. **Q3 FY2026 earnings on April 24, 2026 — TODAY (pre-market) — is the first make-or-break print of his tenure.**
 
 ---
 
@@ -48,7 +50,7 @@ The Procter & Gamble Company (NYSE: PG) is one of the world's largest consumer-g
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$148.18** | April 17, 2026 (Yahoo Finance) |
+| Live Price | **$148.18** | April 24, 2026 (Yahoo Finance) |
 | 52-Week High | $170.99 | early 2025 |
 | 52-Week Low | $137.62 | January 7, 2026 |
 | % From 52-Wk High | –13.3% | still under pressure |
@@ -66,7 +68,7 @@ The Procter & Gamble Company (NYSE: PG) is one of the world's largest consumer-g
 | Annual Dividend | ~$4.23/share | $1.0568/quarter |
 | Beta | 0.40 | Defensive |
 | Consecutive Dividend Increases | 66+ years | Dividend King |
-| **Q3 FY2026 Earnings** | **April 24, 2026** | **One week away — make-or-break print** |
+| **Q3 FY2026 Earnings** | **April 24, 2026** | **Today — imminent or just released — make-or-break print** |
 
 ---
 
@@ -84,7 +86,7 @@ The Procter & Gamble Company (NYSE: PG) is one of the world's largest consumer-g
 - Four consecutive quarters of below-consensus organic growth before restructuring announcement
 - Q2 FY2026 EPS miss ($1.78 vs. $1.87) under Jejurikar
 
-**Pivotal question**: Is 20× fair value for 0–4% organic growth, or can Jejurikar's execution re-expand the multiple? The April 24, 2026 print (one week away) is the first hard data point.
+**Pivotal question**: Is 20× fair value for 0–4% organic growth, or can Jejurikar's execution re-expand the multiple? The April 24, 2026 print (TODAY — pre-market) is the first hard data point.
 
 ---
 
@@ -228,7 +230,7 @@ P&G reports across:
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Current Price | $148.18 | April 17, 2026 |
+| Current Price | $148.18 | April 24, 2026 |
 | Market Cap | ~$345B | |
 | Forward P/E (FY2026E) | ~20× | EPS consensus ~$7.10–7.20 |
 | Trailing P/E | ~21× | |
@@ -258,7 +260,7 @@ P&G reports across:
 
 ### Live Price & Positioning
 
-- **Price**: $148.18 (Apr 17, 2026, Yahoo Finance)
+- **Price**: $148.18 (Apr 24, 2026, Yahoo Finance)
 - **52-week range**: $137.62 – $170.99
 - **% from 52-wk high**: –13.3%
 - **% above 52-wk low**: +7.7% (near-low; defensive bid only)
@@ -266,7 +268,7 @@ P&G reports across:
 - **Dividend yield**: ~2.85% (highest since 2019)
 - **Beta**: 0.40 (defensive)
 
-### **Most Important Near-Term Catalyst: Q3 FY2026 Earnings — April 24, 2026 (ONE WEEK AWAY)**
+### **Most Important Near-Term Catalyst: Q3 FY2026 Earnings — April 24, 2026 (TODAY — pre-market)**
 
 This is the single dominant near-term catalyst and demands explicit framing:
 
@@ -317,7 +319,7 @@ This is the single dominant near-term catalyst and demands explicit framing:
 | Jan 22, 2026 | Q2 FY2026 (Jejurikar debut) | +3.5% on day (defensive bid) | EPS $1.78 vs. $1.87 (miss) |
 | Feb 23, 2026 | Defensive rally peak | +18.5% (4-wk) | $137.62 → $163.14; rotation, no fundamental catalyst |
 | Mar 25, 2026 | Macro selloff trough | –12.1% (30-day) | $163.14 → $143.35 |
-| Apr 17, 2026 | Current | (Apr trough $143 → $148; +3.6%) | Pre-earnings drift |
+| Apr 24, 2026 | Current | (Apr trough $143 → $148; +3.6%) | Pre-earnings drift |
 
 ### Upcoming Catalysts
 
@@ -394,7 +396,7 @@ Q2 FY2026 (Jan 22) EPS miss is the most recent primary data point — *not* posi
 
 ## Section 15 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: PG is a Dividend King in "show me" mode under a new CEO mid-restructuring, with 20× P/E roughly fair for 0–4% organic growth — the April 24, 2026 Q3 FY2026 print (one week away) is the binary catalyst that will either confirm Jejurikar's execution thesis (re-expansion to $160–$170) or validate structural deterioration (re-test of $137 low, possible break to $125–$130).
+**Thesis in one sentence**: PG is a Dividend King in "show me" mode under a new CEO mid-restructuring, with 20× P/E roughly fair for 0–4% organic growth — the April 24, 2026 Q3 FY2026 print (TODAY — pre-market) is the binary catalyst that will either confirm Jejurikar's execution thesis (re-expansion to $160–$170) or validate structural deterioration (re-test of $137 low, possible break to $125–$130).
 
 **For a non-holder**: **Watch — do not initiate ahead of April 24**. The binary risk of the Q3 print + the absence of meaningful BAIT overlap + thin asymmetry (PW EV $154 vs. spot $148, +7% total return inclusive of dividend) does not justify pre-print positioning. **Re-evaluate immediately after April 24**:
 - *If beat with organic ≥3%*: Initiate small at $160–$165 with target $175
@@ -419,8 +421,8 @@ Q2 FY2026 (Jan 22) EPS miss is the most recent primary data point — *not* posi
 - Jejurikar departure or material C-suite turnover
 - Multiple compression below 17× without earnings deterioration (signals structural staples de-rating)
 
-**Next review trigger**: **Q3 FY2026 earnings — April 24, 2026 (pre-market)**. **One week away.** This is the single dominant catalyst. Update full BAIT, valuation, and recommendation framework within 24 hours of the print.
+**Next review trigger**: **Q3 FY2026 earnings — April 24, 2026 (pre-market)**. **Today — imminent or just released.** This is the single dominant catalyst. Update full BAIT, valuation, and recommendation framework within 24 hours of the print.
 
 ---
 
-*Sources: PG_price_analysis_2026-03-25.html (Three-Horizon Price & Event Analysis); Yahoo Finance JSON API (live price 2026-04-17 verified at $148.18); CNBC / public financial data (52-wk range, dividend); Q2 FY2026 earnings release (Jan 22, 2026); Q3 FY2025 guidance cut release (Apr 24, 2025); CEO transition announcement (Jul 2025). Data gaps: full segment revenue, gross-margin trend, FCF history pending 10-K + earnings transcript ingestion post April 24, 2026.*
+*Sources: PG_price_analysis_2026-03-25.html (Three-Horizon Price & Event Analysis); Yahoo Finance JSON API (live price 2026-04-24 verified at $148.18); CNBC / public financial data (52-wk range, dividend); Q2 FY2026 earnings release (Jan 22, 2026); Q3 FY2025 guidance cut release (Apr 24, 2025); CEO transition announcement (Jul 2025). Data gaps: full segment revenue, gross-margin trend, FCF history pending 10-K + earnings transcript ingestion post April 24, 2026.*

@@ -4,12 +4,12 @@
 
 ---
 
-## [2026-04-17] — v2.1 Migration (Workflow A) — Single-Page Consolidation + Refreshed Recommendation
+## [2026-04-24] — v2.1 Migration (Workflow A) — Single-Page Consolidation + Refreshed Recommendation
 
 **Trigger**: Schema migration from v1 (4-file structure: overview/thesis/financials/changelog) to v2.1 (single consolidated `SHOP.md` + `changelog.md`). Live price refreshed and BAIT / entry-zone reassessed given recovery from $88 low to $125.83.
 
 **Sources reviewed**:
-- Yahoo Finance JSON API (live price $125.83; 52-wk range $88.14–$182.19; verified Apr 17, 2026)
+- Yahoo Finance JSON API (live price $125.83; 52-wk range $88.14–$182.19; verified Apr 24, 2026)
 - Prior v1 wiki files (overview.md, thesis.md, financials.md, changelog.md) — folded into single SHOP.md
 - Q4 FY2025 earnings release (Feb 11, 2026): Revenue $3.67B / GMV $123.8B / FCF $715M
 - FY2025 totals: Revenue $11.56B (+30%), GMV $378B, FCF $2.0B (17.3% margin)

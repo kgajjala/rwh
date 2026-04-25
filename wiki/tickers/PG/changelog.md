@@ -4,12 +4,12 @@
 
 ---
 
-## [2026-04-17] — v2.1 Migration (Workflow A) — Single-Page Consolidation + Pre-Earnings Refresh
+## [2026-04-24] — v2.1 Migration (Workflow A) — Single-Page Consolidation + Pre-Earnings Refresh
 
-**Trigger**: Schema migration from v1 (4-file structure: overview/thesis/financials/changelog) to v2.1 (single consolidated `PG.md` + `changelog.md`). Live price refreshed and recommendation framework updated to highlight the **April 24, 2026 (Q3 FY2026) earnings print — one week away** as the dominant binary catalyst.
+**Trigger**: Schema migration from v1 (4-file structure: overview/thesis/financials/changelog) to v2.1 (single consolidated `PG.md` + `changelog.md`). Live price refreshed and recommendation framework updated to highlight the **April 24, 2026 (Q3 FY2026) earnings print — TODAY (pre-market)** as the dominant binary catalyst.
 
 **Sources reviewed**:
-- Yahoo Finance JSON API (live price $148.18; 52-wk range $137.62–$170.99; verified Apr 17, 2026)
+- Yahoo Finance JSON API (live price $148.18; 52-wk range $137.62–$170.99; verified Apr 24, 2026)
 - Prior v1 wiki files (overview.md, thesis.md, financials.md, changelog.md) — folded into single PG.md
 - PG_price_analysis_2026-03-25.html (prior Three-Horizon Price & Event Analysis)
 - Q2 FY2026 earnings (Jan 22, 2026): EPS $1.78 vs. $1.87 expected — miss under new CEO Jejurikar
@@ -21,8 +21,8 @@
 ### What Changed from Prior Entry (2026-04-06 at $143.35)
 
 - **Live price**: $143.35 → **$148.18** (+3.4%); modest pre-earnings drift higher
-- **52-week range refined**: now $137.62 – $170.99 (high revised from $174.80 reported in v1; $170.99 is the verified 52-wk-trailing high as of Apr 17, 2026)
-- **Q3 FY2026 earnings is now ONE WEEK AWAY** (April 24, 2026) — Section 11 and Section 15 explicitly elevate this as the dominant binary catalyst
+- **52-week range refined**: now $137.62 – $170.99 (high revised from $174.80 reported in v1; $170.99 is the verified 52-wk-trailing high as of Apr 24, 2026)
+- **Q3 FY2026 earnings is now TODAY (pre-market — imminent or just released)** (April 24, 2026) — Section 11 and Section 15 explicitly elevate this as the dominant binary catalyst
 - **Recommendation framing tightened**: pre-print = Watch / Hold (do not initiate, do not exit); post-print = re-evaluate with explicit beat/in-line/miss decision tree
 - **Schema migration**: Consolidated overview.md + thesis.md + financials.md → PG.md per v2.1 CLAUDE.md. Position-sizing language ("small or watch position", portfolio % framing) removed per Core Rule #3. Replaced with price-level entry/trim/exit zones and non-holder/holder split.
 
@@ -56,7 +56,7 @@
 7. Jejurikar departure or material C-suite turnover
 8. Multiple compression below 17× without earnings deterioration (structural staples de-rating)
 
-**Next review trigger**: **Q3 FY2026 earnings — April 24, 2026 (pre-market). ONE WEEK AWAY.** Mandatory full-framework refresh within 24 hours of the print.
+**Next review trigger**: **Q3 FY2026 earnings — April 24, 2026 (pre-market). TODAY (pre-market — imminent or just released).** Mandatory full-framework refresh within 24 hours of the print.
 
 ---
 

@@ -12,21 +12,21 @@ overview/thesis/financials files have been folded in and deleted).
 
 | Ticker | Company | Moat | Conviction | Last Updated | Status |
 |--------|---------|------|-----------|--------------|--------|
-| [BKNG](tickers/BKNG/BKNG.md) | Booking Holdings | Wide | High | 2026-04-17 | v2.1 — Triple BAIT (B+A-Strong); Initiate / Hold-Add |
-| [LLY](tickers/LLY/LLY.md) | Eli Lilly | Wide | High | 2026-04-17 | v2.1 — Triple BAIT (A+I-Strong); Initiate measured / Hold-Add on pullback |
-| [WING](tickers/WING/WING.md) | Wingstop | Narrow | Medium | 2026-04-17 | v2.1 — Asymmetry compressed at recovery; Watch / Hold pre-Q1 SSS |
-| [UNH](tickers/UNH/UNH.md) | UnitedHealth Group | Wide | Medium-High | 2026-04-17 | v2.1 — Quadruple BAIT preserved; recovery underway; Watch / Hold-Add |
-| [SCHW](tickers/SCHW/SCHW.md) | Charles Schwab | Narrow-Wide | High | 2026-04-17 | **v2.1 + Q1 2026 beat** — STRENGTHENED; Triple BAIT (B+A+I-Strong); Initiate / Add (post-beat 52-wk low) |
-| [RKT](tickers/RKT/RKT.md) | Rocket Companies | Narrow-Emerging Wide | Medium | 2026-04-17 | v2.1 — Double BAIT (B+A); Initiate Spec. / Hold-Add; Q1 print Apr 30 |
-| [SHOP](tickers/SHOP/SHOP.md) | Shopify | Wide | High | 2026-04-17 | v2.1 — STRENGTHENED; Triple+ BAIT; Initiate / Add-Hold |
-| [DASH](tickers/DASH/DASH.md) | DoorDash | Narrow | Medium | 2026-04-17 | v2.1 — Double BAIT (all Moderate); Watch / Hold; entry $140-155 |
-| [PG](tickers/PG/PG.md) | Procter & Gamble | Wide (under pressure) | Medium | 2026-04-17 | v2.1 — Q3 FY26 earnings Apr 24 = binary; Watch / Hold pre-print |
+| [BKNG](tickers/BKNG/BKNG.md) | Booking Holdings | Wide | High | 2026-04-24 | v2.1 — Triple BAIT (B+A-Strong); Initiate / Hold-Add |
+| [LLY](tickers/LLY/LLY.md) | Eli Lilly | Wide | High | 2026-04-24 | v2.1 — Triple BAIT (A+I-Strong); Initiate measured / Hold-Add on pullback |
+| [WING](tickers/WING/WING.md) | Wingstop | Narrow | Medium | 2026-04-24 | v2.1 — Asymmetry compressed at recovery; Watch / Hold pre-Q1 SSS |
+| [UNH](tickers/UNH/UNH.md) | UnitedHealth Group | Wide | Medium-High | 2026-04-24 | v2.1 — Quadruple BAIT preserved; recovery underway; Watch / Hold-Add |
+| [SCHW](tickers/SCHW/SCHW.md) | Charles Schwab | Narrow-Wide | High | 2026-04-24 | **v2.1 + Q1 2026 beat** — STRENGTHENED; Triple BAIT (B+A+I-Strong); Initiate / Add (post-beat 52-wk low) |
+| [RKT](tickers/RKT/RKT.md) | Rocket Companies | Narrow-Emerging Wide | Medium | 2026-04-24 | v2.1 — Double BAIT (B+A); Initiate Spec. / Hold-Add; Q1 print Apr 30 |
+| [SHOP](tickers/SHOP/SHOP.md) | Shopify | Wide | High | 2026-04-24 | v2.1 — STRENGTHENED; Triple+ BAIT; Initiate / Add-Hold |
+| [DASH](tickers/DASH/DASH.md) | DoorDash | Narrow | Medium | 2026-04-24 | v2.1 — Double BAIT (all Moderate); Watch / Hold; entry $140-155 |
+| [PG](tickers/PG/PG.md) | Procter & Gamble | Wide (under pressure) | Medium | 2026-04-24 | v2.1 — Q3 FY26 earnings Apr 24 = binary; Watch / Hold pre-print |
 
 ---
 
 ## Ticker Summary
 
-| Ticker | Price (4/17/26) | vs. 52-wk High | vs. 52-wk Low | BAIT | Recommendation (non-holder / holder) |
+| Ticker | Price (4/24/26) | vs. 52-wk High | vs. 52-wk Low | BAIT | Recommendation (non-holder / holder) |
 |--------|----------------|---------------|--------------|------|--------------------------------------|
 | BKNG | $180.25 | –22.8% (post-split) | +19.7% | Triple (B+A-Strong) | Initiate / Hold-Add |
 | LLY | $883.96 | –22.0% | +41.7% | Triple (A+I-Strong) | Initiate measured / Hold-Add on pullback |
@@ -82,4 +82,4 @@ overview/thesis/financials files have been folded in and deleted).
 
 ---
 
-*Last full index refresh: 2026-04-17 (v2.1 schema migration — all 9 tickers consolidated to single-page format)*
+*Last full index refresh: 2026-04-24 (v2.1 schema migration — all 9 tickers consolidated to single-page format)*

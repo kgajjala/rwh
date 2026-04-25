@@ -3,8 +3,8 @@
 *Position-agnostic per v2.1 schema (Core Rule #3): no portfolio allocation, no target %, no form (stock/options) splits. This file is pure analysis.*
 
 *Updated by LLM agent after each full thesis cycle, earnings update, or v2.x schema migration.*
-*Last updated: 2026-04-17*
-*Prices verified via Yahoo Finance JSON API on 2026-04-17.*
+*Last updated: 2026-04-24*
+*Prices verified via Yahoo Finance JSON API on 2026-04-24.*
 
 ---
 
@@ -27,7 +27,7 @@
 - **SHOP at #2 (was #7)**: Recovery from $88 low to $125 + Agentic Storefronts default-on + $2B buyback authorization since v1. Triple-overlap BAIT preserved through the recovery.
 - **UNH at #3 (was #1)**: Recovery is materially playing out (+28% from $277 prior entry); asymmetry has compressed but the Quadruple BAIT verdict is still intact.
 - **WING dropped to #8 (was #4)**: Stock up +24% from $152.51 to $189.37; asymmetry compressed dramatically. Q1 SSS print is now binary — second consecutive negative print would activate the previously-defined thesis-break trigger.
-- **DASH at #7**: Stock-specific selloff (–5.6% session on Apr 17) + Stanley Tang sale at 52-wk low + Stifel cut to $185 reinforces the cautious stance. Better entry exists at $140-155.
+- **DASH at #7**: Stock-specific selloff (–5.6% session on Apr 24) + Stanley Tang sale at 52-wk low + Stifel cut to $185 reinforces the cautious stance. Better entry exists at $140-155.
 
 ---
 

@@ -4,12 +4,12 @@
 
 ---
 
-## [2026-04-17] — v2.1 Schema Migration + Recovery-in-Progress Refresh
+## [2026-04-24] — v2.1 Schema Migration + Recovery-in-Progress Refresh
 
 **Trigger**: Migration of UNH wiki from v1 (4-file: overview/thesis/financials/changelog) to v2.1 (single consolidated `UNH.md` + `changelog.md`). Triggered by user request as part of batch v2.1 rollout. Legacy v1 files deleted; content folded into `UNH.md`. Live price refreshed — recovery has materially advanced since prior ingest.
 
 **Sources reviewed**:
-- Yahoo Finance JSON API (live price $354.92; 52-wk $234.60–$424.12; April 17, 2026)
+- Yahoo Finance JSON API (live price $354.92; 52-wk $234.60–$424.12; April 24, 2026)
 - Prior wiki v1 files (overview.md, thesis.md, financials.md, changelog.md from 2026-04-05 ingest at $277.26)
 - businesswire.com FY2025 release; stockanalysis.com; medicaremarketinsights.com; fiercehealthcare.com; unitedhealthgroup.com IR
 

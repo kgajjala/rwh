@@ -1,8 +1,8 @@
 # SHOP — Shopify Inc.
 
 > **Schema**: v2.1
-> **Last Updated**: 2026-04-17
-> **Live Price Verified**: $125.83 at April 17, 2026 (Yahoo Finance JSON API)
+> **Last Updated**: 2026-04-24
+> **Live Price Verified**: $125.83 at April 24, 2026 (Yahoo Finance JSON API)
 > **Ticker Type**: Capital-light platform / commerce infrastructure
 
 ---
@@ -45,7 +45,7 @@ The market priced the *disruption* scenario through Q4 2025/Q1 2026 (drove the s
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$125.83** | April 17, 2026 (Yahoo Finance) |
+| Live Price | **$125.83** | April 24, 2026 (Yahoo Finance) |
 | 52-Week High | $182.19 | early 2025 |
 | 52-Week Low | $88.14 | recent low; recovered |
 | % From 52-Wk High | –30.9% | |
@@ -239,7 +239,7 @@ International revenue grew +36% in FY2025 (vs. +33% FY2024 — accelerating). Ne
 
 ## Section 10 — Valuation & Comparable Analysis
 
-### Current Multiples (April 17, 2026, $125.83 / ~$163B market cap)
+### Current Multiples (April 24, 2026, $125.83 / ~$163B market cap)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
@@ -275,7 +275,7 @@ Consensus 2027 EPS ~$2.40. At 80× forward P/E → ~$192. To reach $252 requires
 
 ### Live Price & Positioning
 
-- **Price**: $125.83 (Apr 17, 2026, Yahoo Finance JSON API)
+- **Price**: $125.83 (Apr 24, 2026, Yahoo Finance JSON API)
 - **52-week range**: $88.14 – $182.19
 - **% from 52-wk high**: –30.9%
 - **% above 52-wk low**: +42.8%
@@ -451,4 +451,4 @@ Underappreciated primary-source data:
 
 ---
 
-*Sources: Shopify Q4 FY2025 earnings release (Feb 11, 2026); FY2025 10-K [Estimate of filing date — to verify]; raw/analyses/SHOP_analysis_2026-03-24.html (full 15-section thesis); raw/analyses/shop_analysis.html (Q4 2025 review); Yahoo Finance JSON API (live price 2026-04-17 verified); MarketBeat / TipRanks (analyst consensus); Truist Securities upgrade note (2026-02-18); company IR communications on UCP, Agentic Storefronts, $2B buyback.*
+*Sources: Shopify Q4 FY2025 earnings release (Feb 11, 2026); FY2025 10-K [Estimate of filing date — to verify]; raw/analyses/SHOP_analysis_2026-03-24.html (full 15-section thesis); raw/analyses/shop_analysis.html (Q4 2025 review); Yahoo Finance JSON API (live price 2026-04-24 verified); MarketBeat / TipRanks (analyst consensus); Truist Securities upgrade note (2026-02-18); company IR communications on UCP, Agentic Storefronts, $2B buyback.*

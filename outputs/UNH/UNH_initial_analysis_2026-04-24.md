@@ -1,8 +1,8 @@
 # UNH — UnitedHealth Group Incorporated
 
 > **Schema**: v2.1
-> **Last Updated**: 2026-04-17
-> **Live Price Verified**: $354.92 at April 17, 2026 (Yahoo Finance JSON API)
+> **Last Updated**: 2026-04-24
+> **Live Price Verified**: $354.92 at April 24, 2026 (Yahoo Finance JSON API)
 > **Ticker Type**: Managed care (vertically integrated insurer + PBM + care delivery + analytics)
 
 ---
@@ -49,7 +49,7 @@ The vertical integration thesis — insurer + PBM + care delivery + analytics �
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$354.92** | April 17, 2026 (Yahoo Finance JSON API) |
+| Live Price | **$354.92** | April 24, 2026 (Yahoo Finance JSON API) |
 | 52-Week High | $424.12 | Recently re-tested — significant volatility |
 | 52-Week Low | $234.60 | Recovery from this low has been substantial |
 | % From 52-Wk High | **–16.3%** | Stock has materially recovered from prior $277 entry; near recent retest peak |
@@ -235,7 +235,7 @@ UNH is U.S.-centric. Material geographic breakdowns are by *product segment* (co
 
 ## Section 10 — Valuation & Comparable Analysis
 
-### Current Multiples (April 17, 2026, $354.92 / ~$320B market cap)
+### Current Multiples (April 24, 2026, $354.92 / ~$320B market cap)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
@@ -264,7 +264,7 @@ UNH is U.S.-centric. Material geographic breakdowns are by *product segment* (co
 
 ### Live Price & Positioning
 
-- **Price**: $354.92 (April 17, 2026, Yahoo Finance JSON API)
+- **Price**: $354.92 (April 24, 2026, Yahoo Finance JSON API)
 - **52-week range**: $234.60 – $424.12
 - **% from 52-wk high**: **–16.3%** (high was *recently* re-tested then sold off — significant volatility)
 - **% above 52-wk low**: **+51.3%** (substantial 24-month recovery from the $234.60 capitulation low)
@@ -422,4 +422,4 @@ Primary-source disclosures underappreciated:
 
 ---
 
-*Sources: stockanalysis.com (income statement); businesswire.com FY2025 results (Jan 2026); medicaremarketinsights.com; fiercehealthcare.com; alphaspread.com; unitedhealthgroup.com IR; SEC filings; Yahoo Finance JSON API (live price 2026-04-17). Prior wiki snapshot: 2026-04-05 ingest (Tranche 1 entry at $277.26, 54% off then-52-wk high of $606.36). Note: 52-week range has re-set since prior ingest — old $606 high is now outside the trailing 12-month window, replaced by $424.12 recent retest high.*
+*Sources: stockanalysis.com (income statement); businesswire.com FY2025 results (Jan 2026); medicaremarketinsights.com; fiercehealthcare.com; alphaspread.com; unitedhealthgroup.com IR; SEC filings; Yahoo Finance JSON API (live price 2026-04-24). Prior wiki snapshot: 2026-04-05 ingest (Tranche 1 entry at $277.26, 54% off then-52-wk high of $606.36). Note: 52-week range has re-set since prior ingest — old $606 high is now outside the trailing 12-month window, replaced by $424.12 recent retest high.*

@@ -1,8 +1,8 @@
 # RKT — Rocket Companies, Inc.
 
 > **Schema**: v2.1
-> **Last Updated**: 2026-04-17
-> **Live Price Verified**: $15.60 at April 17, 2026 (Yahoo Finance)
+> **Last Updated**: 2026-04-24
+> **Live Price Verified**: $15.60 at April 24, 2026 (Yahoo Finance)
 > **Ticker Type**: Mortgage / housing platform
 
 ---
@@ -56,9 +56,9 @@ The bear path: rates re-inflate to 7.5%+; origination volume re-collapses; Redfi
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$15.60** | April 17, 2026 (Yahoo Finance) |
+| Live Price | **$15.60** | April 24, 2026 (Yahoo Finance) |
 | 52-Week High | $24.36 | Jan 16, 2026 — platform transformation rally peak |
-| 52-Week Low | $11.08 | New low (was $10.94 prior; verified $11.08 Apr 17) |
+| 52-Week Low | $11.08 | New low (was $10.94 prior; verified $11.08 Apr 24) |
 | % From 52-Wk High | –35.9% | |
 | % Above 52-Wk Low | +40.8% | |
 | Market Cap | ~$40B | ~2.58B diluted shares × $15.60 |
@@ -127,8 +127,8 @@ The bear path: rates re-inflate to 7.5%+; origination volume re-collapses; Redfi
 | Goodwill | $10.6B | Redfin + Mr. Cooper |
 | Senior notes | $10.4B | |
 | Net debt (ex-MSR) | ~$7.7B | |
-| Market cap (Apr 17, 2026) | ~$40B | |
-| Enterprise value (Apr 17, 2026) | ~$48B | Market cap + net debt |
+| Market cap (Apr 24, 2026) | ~$40B | |
+| Enterprise value (Apr 24, 2026) | ~$48B | Market cap + net debt |
 
 ---
 
@@ -257,7 +257,7 @@ Domestic only — RKT has no meaningful international exposure. This is both a c
 
 ## Section 10 — Valuation & Comparable Analysis
 
-### Current Multiples (April 17, 2026, $15.60 / EV ~$48B)
+### Current Multiples (April 24, 2026, $15.60 / EV ~$48B)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
@@ -282,7 +282,7 @@ Domestic only — RKT has no meaningful international exposure. This is both a c
 
 ## Section 11 — Catalyst & Sentiment Tracker
 
-### Live Price & Positioning (April 17, 2026)
+### Live Price & Positioning (April 24, 2026)
 
 - **Price**: $15.60
 - **52-week range**: $11.08 – $24.36
@@ -444,4 +444,4 @@ Primary disclosures underappreciated by media:
 
 ---
 
-*Sources: RKT Q4 2025 earnings press release (Feb 26, 2026); RKT Q4 2025 earnings call transcript; CNBC Squawk Box interview with Varun Krishna (Feb 3, 2026); JPMorgan / Wells Fargo / BTIG analyst reports (Q4 2025 reactions); SEC filings (10-K, 10-Q, 8-K); Yahoo Finance live price (2026-04-17). Prior internal wiki ingest from raw/analyses/RKT_analysis_2026-04-05.html (April 5, 2026).*
+*Sources: RKT Q4 2025 earnings press release (Feb 26, 2026); RKT Q4 2025 earnings call transcript; CNBC Squawk Box interview with Varun Krishna (Feb 3, 2026); JPMorgan / Wells Fargo / BTIG analyst reports (Q4 2025 reactions); SEC filings (10-K, 10-Q, 8-K); Yahoo Finance live price (2026-04-24). Prior internal wiki ingest from raw/analyses/RKT_analysis_2026-04-05.html (April 5, 2026).*

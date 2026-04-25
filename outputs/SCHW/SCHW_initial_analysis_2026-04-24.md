@@ -1,8 +1,8 @@
 # SCHW — The Charles Schwab Corporation
 
 > **Schema**: v2.1
-> **Last Updated**: 2026-04-17
-> **Live Price Verified**: $88.50 at April 17, 2026 (Yahoo Finance)
+> **Last Updated**: 2026-04-24
+> **Live Price Verified**: $88.50 at April 24, 2026 (Yahoo Finance)
 > **Ticker Type**: Financial / brokerage
 
 ---
@@ -48,7 +48,7 @@ The answer hinges on three things: (1) the Fed's terminal rate path (every 25bps
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$88.50** | April 17, 2026 (Yahoo Finance) |
+| Live Price | **$88.50** | April 24, 2026 (Yahoo Finance) |
 | 52-Week High | $107.50 | |
 | 52-Week Low | $79.30 | Recent — counterintuitive given Q1 2026 beat (Apr 16) |
 | % From 52-Wk High | –17.7% | |
@@ -259,7 +259,7 @@ SCHW is a U.S.-domestic business. Geographic mix is not a material variable.
 
 ## Section 10 — Valuation & Comparable Analysis
 
-### Current Multiples (April 17, 2026, $88.50 / ~$159B market cap)
+### Current Multiples (April 24, 2026, $88.50 / ~$159B market cap)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
@@ -278,13 +278,13 @@ SCHW is a U.S.-domestic business. Geographic mix is not a material variable.
 | IBKR | ~22× | Active / institutional trading | ~3.5% |
 | MS (Wealth) | ~15× | Wirehouse / wealth management | Higher |
 
-**Valuation verdict — REVISED post-Q1 2026: ATTRACTIVE.** At $88.50 the stock trades at ~15× FY26E EPS that *management raised above prior $5.70–$5.80 guide*. The combination of a fresh 52-wk low (touched April 17 despite Q1 beat the day prior), a 19% dividend hike, $2.4B Q1 buyback execution, and a Fed-on-hold NIM tailwind is unusual — the market is pricing in rate-cut fears that management's guidance explicitly contradicts. A re-rating to 18–20× on an EPS print of $5.90+ implies $106–118; the prior 52-wk high of $107.50 is consistent with this band.
+**Valuation verdict — REVISED post-Q1 2026: ATTRACTIVE.** At $88.50 the stock trades at ~15× FY26E EPS that *management raised above prior $5.70–$5.80 guide*. The combination of a fresh 52-wk low (touched April 24 despite Q1 beat the day prior), a 19% dividend hike, $2.4B Q1 buyback execution, and a Fed-on-hold NIM tailwind is unusual — the market is pricing in rate-cut fears that management's guidance explicitly contradicts. A re-rating to 18–20× on an EPS print of $5.90+ implies $106–118; the prior 52-wk high of $107.50 is consistent with this band.
 
 ---
 
 ## Section 11 — Catalyst & Sentiment Tracker
 
-### Live Price & Positioning (April 17, 2026)
+### Live Price & Positioning (April 24, 2026)
 
 - **Price**: $88.50
 - **52-week range**: $79.30 – $107.50
@@ -439,4 +439,4 @@ Primary-source disclosures from the April 16 call that mainstream coverage hasn'
 
 ---
 
-*Sources: SCHW Q1 2026 earnings call transcript (Motley Fool, Yahoo Finance, compiled 2026-04-17); SCHW IR press release Q1 2026 (April 16, 2026); pressroom.aboutschwab.com FY2025 full-year results (Jan 2026); content.schwab.com Q4 2025 earnings release; stockanalysis.com (FY2021–FY2024 financials); Yahoo Finance live price (2026-04-17). Prior internal wiki ingest: 2026-04-05 (overview/thesis/financials v1) and 2026-04-17 Q1 changelog.*
+*Sources: SCHW Q1 2026 earnings call transcript (Motley Fool, Yahoo Finance, compiled 2026-04-24); SCHW IR press release Q1 2026 (April 16, 2026); pressroom.aboutschwab.com FY2025 full-year results (Jan 2026); content.schwab.com Q4 2025 earnings release; stockanalysis.com (FY2021–FY2024 financials); Yahoo Finance live price (2026-04-24). Prior internal wiki ingest: 2026-04-05 (overview/thesis/financials v1) and 2026-04-24 Q1 changelog.*

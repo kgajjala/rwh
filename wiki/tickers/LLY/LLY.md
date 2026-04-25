@@ -1,8 +1,8 @@
 # LLY — Eli Lilly and Company
 
 > **Schema**: v2.1
-> **Last Updated**: 2026-04-17
-> **Live Price Verified**: $883.96 at April 17, 2026 (Yahoo Finance)
+> **Last Updated**: 2026-04-24
+> **Live Price Verified**: $883.96 at April 24, 2026 (Yahoo Finance)
 > **Ticker Type**: Large-cap pharma — GLP-1 / incretin franchise dominant
 
 ---
@@ -47,7 +47,7 @@ The bull: tirzepatide has decade+ patent life; oral GLP-1 (orforglipron) extends
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$883.96** | April 17, 2026 (Yahoo Finance) |
+| Live Price | **$883.96** | April 24, 2026 (Yahoo Finance) |
 | 52-Week High | $1,133.95 | |
 | 52-Week Low | $623.78 | |
 | % From 52-Wk High | –22.0% | |
@@ -245,7 +245,7 @@ The bull: tirzepatide has decade+ patent life; oral GLP-1 (orforglipron) extends
 
 ## Section 10 — Valuation & Comparable Analysis
 
-### Current Multiples (April 17, 2026, $883.96 / ~$833B market cap)
+### Current Multiples (April 24, 2026, $883.96 / ~$833B market cap)
 
 | Metric | Value | vs. History | vs. Peers |
 |--------|-------|------------|-----------|
@@ -270,7 +270,7 @@ The bull: tirzepatide has decade+ patent life; oral GLP-1 (orforglipron) extends
 
 ### Live Price & Positioning
 
-- **Price**: $883.96 (Apr 17, 2026; Yahoo Finance)
+- **Price**: $883.96 (Apr 24, 2026; Yahoo Finance)
 - **52-week range**: $623.78 – $1,133.95
 - **% from 52-wk high**: –22.0%
 - **% above 52-wk low**: +41.7%
@@ -416,4 +416,4 @@ The –22% pullback from the $1,134 peak reflects "LLY is priced for perfection;
 
 ---
 
-*Sources: Eli Lilly Q4 2025 / FY2025 earnings release (prnewswire, Feb 2026); LLY IR (orforglipron NDA/MAA submission; retatrutide Phase 3 data); biopharmadive.com, biospace.com, drugdiscoverytrends.com (pipeline coverage); investor.lilly.com; stockanalysis.com (income statement, financial history); Yahoo Finance (live price 2026-04-17 verified via JSON API); analyst consensus aggregators; prior wiki ingest (raw/analyses/).*
+*Sources: Eli Lilly Q4 2025 / FY2025 earnings release (prnewswire, Feb 2026); LLY IR (orforglipron NDA/MAA submission; retatrutide Phase 3 data); biopharmadive.com, biospace.com, drugdiscoverytrends.com (pipeline coverage); investor.lilly.com; stockanalysis.com (income statement, financial history); Yahoo Finance (live price 2026-04-24 verified via JSON API); analyst consensus aggregators; prior wiki ingest (raw/analyses/).*

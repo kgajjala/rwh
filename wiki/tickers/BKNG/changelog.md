@@ -4,7 +4,7 @@
 
 ---
 
-## [2026-04-17] — v2.1 Format Migration (Workflow A re-ingest)
+## [2026-04-24] — v2.1 Format Migration (Workflow A re-ingest)
 
 **Trigger**: User-directed migration of BKNG wiki from v1 (4-file: overview/thesis/financials/changelog) to v2.1 (single consolidated `BKNG.md` + changelog.md) per updated CLAUDE.md schema. Prior v1 files deleted; superseded by `BKNG.md`.
 

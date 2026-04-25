@@ -4,13 +4,13 @@
 
 ---
 
-## [2026-04-17] — v2.1 Schema Migration (Consolidated Wiki Page)
+## [2026-04-24] — v2.1 Schema Migration (Consolidated Wiki Page)
 
 **Trigger**: Wiki schema migration from v1 (4-file format: overview / thesis / financials / changelog) to v2.1 (single consolidated `[TICKER].md` page + changelog).
 
 **Sources reviewed**:
 - Existing v1 files (overview.md, thesis.md, financials.md)
-- Yahoo Finance live price (verified Apr 17, 2026)
+- Yahoo Finance live price (verified Apr 24, 2026)
 - Prior 2026-04-06 initial ingest
 
 ### What Changed

@@ -1,8 +1,8 @@
 # DASH — DoorDash, Inc.
 
 > **Schema**: v2.1
-> **Last Updated**: 2026-04-17
-> **Live Price Verified**: $176.78 at April 17, 2026 (Yahoo Finance; intraday, previous close $187.22 → –5.6% session)
+> **Last Updated**: 2026-04-24
+> **Live Price Verified**: $176.78 at April 24, 2026 (Yahoo Finance; intraday, previous close $187.22 → –5.6% session)
 > **Ticker Type**: Three-sided marketplace
 
 ---
@@ -47,7 +47,7 @@ The answer divides the scenario set: the bull case requires 15% EBITDA margins o
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$176.78** | April 17, 2026 (intraday; Yahoo Finance) |
+| Live Price | **$176.78** | April 24, 2026 (intraday; Yahoo Finance) |
 | Previous Close | $187.22 | Session Δ: –5.6% (stock-specific selloff; broader tape stable) |
 | 52-Week High | $285.50 | October 2025 (post Q3 print) |
 | 52-Week Low | $143.30 | March 2026 |
@@ -209,7 +209,7 @@ The answer divides the scenario set: the bull case requires 15% EBITDA margins o
 
 ## Section 10 — Valuation & Comparable Analysis
 
-### Current Multiples (April 17, 2026, $176.78 / ~$77B market cap)
+### Current Multiples (April 24, 2026, $176.78 / ~$77B market cap)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
@@ -240,7 +240,7 @@ The answer divides the scenario set: the bull case requires 15% EBITDA margins o
 
 ### Live Price & Positioning
 
-- **Price**: $176.78 (Apr 17, 2026, intraday)
+- **Price**: $176.78 (Apr 24, 2026, intraday)
 - **Previous close**: $187.22 (session –5.6%)
 - **52-week range**: $143.30 – $285.50
 - **% from 52-wk high**: –38.1%
@@ -309,7 +309,7 @@ The answer divides the scenario set: the bull case requires 15% EBITDA margins o
 
 ### B — Behavioral: **Moderate**
 
-The –38% from Oct 2025 highs, compounded by an additional –5.6% session on Apr 17, reflects genuine sentiment deterioration. The Q3 2025 miss + "several hundred $M" spend announcement established the pattern: market now prices bad news harshly and discounts good news (Q4 beat got a muted reception). Stanley Tang's April 2 sale at the 52-wk low reinforces pessimism. However — and this is why the signal is *Moderate* rather than *Strong* — DASH had a genuinely elevated starting valuation ($285 at peak = ~45× trailing EBITDA). The selloff is a partial mean reversion from over-valuation, not pure irrational capitulation. The behavioral setup rhymes with BKNG at ~$3,800 more than with RKT at $14.96: real fear, but on a stock that was never deeply mispriced.
+The –38% from Oct 2025 highs, compounded by an additional –5.6% session on Apr 24, reflects genuine sentiment deterioration. The Q3 2025 miss + "several hundred $M" spend announcement established the pattern: market now prices bad news harshly and discounts good news (Q4 beat got a muted reception). Stanley Tang's April 2 sale at the 52-wk low reinforces pessimism. However — and this is why the signal is *Moderate* rather than *Strong* — DASH had a genuinely elevated starting valuation ($285 at peak = ~45× trailing EBITDA). The selloff is a partial mean reversion from over-valuation, not pure irrational capitulation. The behavioral setup rhymes with BKNG at ~$3,800 more than with RKT at $14.96: real fear, but on a stock that was never deeply mispriced.
 
 ### A — Analytical: **Moderate**
 
@@ -334,7 +334,7 @@ Primary-source disclosures underappreciated by media:
 - $5B buyback authorized, $0 executed — no mechanical floor
 - No split, no index inclusion catalyst, no mandatory flow event
 - Stock broke the 100-day moving average and is below the 200-day — trend is negative
-- –5.6% session on Apr 17 suggests continued capitulation without a clear positive technical setup
+- –5.6% session on Apr 24 suggests continued capitulation without a clear positive technical setup
 
 ### BAIT Verdict
 
@@ -414,4 +414,4 @@ Consensus median target of ~$252–278 implies +43–57% upside in ~12–18 mont
 
 ---
 
-*Sources: DoorDash 10-K FY2025 (SEC EDGAR, filed 2026-02-18, CIK 1792789); Q4 2025 press release (IR, 2026-02-18); Q3 2025 earnings call; DoorDash IR news release (2026-04-09, Q1 earnings date); secform4.com / stocktitan.net Form 4 filings (Apr 2026); Yahoo Finance (live price 2026-04-17); MarketBeat, TipRanks, Public.com (analyst consensus); Fintel (short interest); BusinessWire (M&A announcements); prior internal wiki ingest from raw/analyses/DoorDash_Fundamental_Analysis.md.pdf (Mar 2026).*
+*Sources: DoorDash 10-K FY2025 (SEC EDGAR, filed 2026-02-18, CIK 1792789); Q4 2025 press release (IR, 2026-02-18); Q3 2025 earnings call; DoorDash IR news release (2026-04-09, Q1 earnings date); secform4.com / stocktitan.net Form 4 filings (Apr 2026); Yahoo Finance (live price 2026-04-24); MarketBeat, TipRanks, Public.com (analyst consensus); Fintel (short interest); BusinessWire (M&A announcements); prior internal wiki ingest from raw/analyses/DoorDash_Fundamental_Analysis.md.pdf (Mar 2026).*

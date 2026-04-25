@@ -4,15 +4,15 @@ Append-only record of thesis updates. Format defined in CLAUDE.md.
 
 ---
 
-## 2026-04-17 — v2.1 Schema Migration (Consolidated Wiki Page)
+## 2026-04-24 — v2.1 Schema Migration (Consolidated Wiki Page)
 
 **Trigger**: Wiki schema migration from v1 (4-file format: overview / thesis / financials / changelog) to v2.1 (single consolidated `[TICKER].md` page + changelog). Performed concurrently with Q1 2026 earnings absorption.
 
 **Sources reviewed**:
 - Existing v1 files (overview.md, thesis.md, financials.md)
 - raw/transcripts/SCHW_Q1_2026_earnings_call_transcript.md (April 16, 2026 earnings call)
-- Yahoo Finance live price (verified Apr 17, 2026)
-- Prior 2026-04-05 initial ingest + 2026-04-17 Q1 entry
+- Yahoo Finance live price (verified Apr 24, 2026)
+- Prior 2026-04-05 initial ingest + 2026-04-24 Q1 entry
 
 ### What Changed
 - Folded overview/thesis/financials into single `SCHW.md` matching v2.1 DASH.md template structure
@@ -39,7 +39,7 @@ Append-only record of thesis updates. Format defined in CLAUDE.md.
 
 ---
 
-## 2026-04-17 — Q1 2026 Earnings Update
+## 2026-04-24 — Q1 2026 Earnings Update
 
 **Trigger**: SCHW reported Q1 2026 earnings on April 16, 2026 (yesterday). Strong beat on EPS; FY2026 guidance raised materially.
 

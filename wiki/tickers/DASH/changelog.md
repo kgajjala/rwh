@@ -4,12 +4,12 @@
 
 ---
 
-## [2026-04-17] — v2.1 Full Re-Ingest (Workflow A) — Fresh Analysis
+## [2026-04-24] — v2.1 Full Re-Ingest (Workflow A) — Fresh Analysis
 
 **Trigger**: User requested fresh report on DASH under the updated v2.1 schema (position-agnostic, single-page consolidated wiki). Prior v1 multi-file structure (overview.md, thesis.md, financials.md) consolidated and deleted; superseded by single `DASH.md`.
 
 **Sources reviewed**:
-- Yahoo Finance live chart API (live price $176.78, 52-wk $143.30–$285.50; Apr 17, 2026 intraday; previous close $187.22 = –5.6% session)
+- Yahoo Finance live chart API (live price $176.78, 52-wk $143.30–$285.50; Apr 24, 2026 intraday; previous close $187.22 = –5.6% session)
 - MarketBeat, TipRanks, Public.com (analyst consensus: 34 Buy / 10 Hold / 0 Sell; median target ~$252–278)
 - Recent analyst actions: Stifel PT cut $215 → $185 (Apr 10); Bernstein new Buy (Apr 13); MoffettNathanson PT cut $279 → $276 (Apr 14); JPMorgan Buy maintained (Apr 15)
 - secform4.com, stocktitan.net (Form 4 filings): Stanley Tang sold 23,125 @ $150 on Apr 2 (unusual — at 52-wk low); Andy Fang, Keith Yandell, Stanley Tang RSU grants Apr 20 (routine)
@@ -21,7 +21,7 @@
 
 ### What Changed from Prior Entry (2026-04-06)
 
-- **Live price**: Unchanged net ($176 → $176.78) but with violent session (–5.6% on Apr 17 from $187.22)
+- **Live price**: Unchanged net ($176 → $176.78) but with violent session (–5.6% on Apr 24 from $187.22)
 - **52-week high/low**: High unchanged at ~$285 (Oct 2025). Low now $143.30 (set in March 2026) — stock has re-tested lows and recovered modestly
 - **Analyst consensus**: Has meaningfully widened: Stifel now at $185 (effectively "fair value here"), median still $252–278. The dispersion signals genuine analytical disagreement, not consensus conviction
 - **Insider signal**: Stanley Tang's Apr 2 sale at $150 (52-wk low) is a new data point — the cleanest negative insider signal to date. Alfred Lin's prior $100M buy still dominates in dollar terms

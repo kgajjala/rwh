@@ -1,8 +1,8 @@
 # WING — Wingstop Inc.
 
 > **Schema**: v2.1
-> **Last Updated**: 2026-04-17
-> **Live Price Verified**: $189.37 at April 17, 2026 (Yahoo Finance JSON API)
+> **Last Updated**: 2026-04-24
+> **Live Price Verified**: $189.37 at April 24, 2026 (Yahoo Finance JSON API)
 > **Ticker Type**: Franchise royalty (asset-light QSR)
 
 ---
@@ -46,7 +46,7 @@ This is the only question that matters for WING at current prices. If SSS is tra
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$189.37** | April 17, 2026 (Yahoo Finance) |
+| Live Price | **$189.37** | April 24, 2026 (Yahoo Finance) |
 | 52-Week High | $388.14 | Re-test of all-time high earlier in cycle |
 | 52-Week Low | $142.24 | Recent low; current price recovered modestly |
 | % From 52-Wk High | **–51.2%** | Severe drawdown — bigger than prior wiki snapshot |
@@ -213,7 +213,7 @@ Key international markets: UK, France, UAE, Saudi Arabia (new 2025), Netherlands
 
 ## Section 10 — Valuation & Comparable Analysis
 
-### Current Multiples (April 17, 2026, $189.37 / ~$5.5B market cap, ~$6.3B EV)
+### Current Multiples (April 24, 2026, $189.37 / ~$5.5B market cap, ~$6.3B EV)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
@@ -242,7 +242,7 @@ Key international markets: UK, France, UAE, Saudi Arabia (new 2025), Netherlands
 
 ### Live Price & Positioning
 
-- **Price**: $189.37 (April 17, 2026, Yahoo Finance JSON API)
+- **Price**: $189.37 (April 24, 2026, Yahoo Finance JSON API)
 - **52-week range**: $142.24 – $388.14
 - **% from 52-wk high**: **–51.2%** (significant drawdown — even larger than the prior wiki's snapshot)
 - **% above 52-wk low**: +33.2% (recovered modestly off the lows)
@@ -394,4 +394,4 @@ The SSS decline is the single most-covered topic in QSR sell-side. There is litt
 
 ---
 
-*Sources: stockanalysis.com (income statement); ir.wingstop.com FY2025 release (Feb 2026, prnewswire.com); Wingstop FY2025 system metrics; franchisetimes.com (international expansion); 1851franchise.com (unit economics); ainvest.com; Yahoo Finance JSON API (live price 2026-04-17). Prior wiki snapshot: 2026-04-05 ingest (Tranche 1 entry at $152.51).*
+*Sources: stockanalysis.com (income statement); ir.wingstop.com FY2025 release (Feb 2026, prnewswire.com); Wingstop FY2025 system metrics; franchisetimes.com (international expansion); 1851franchise.com (unit economics); ainvest.com; Yahoo Finance JSON API (live price 2026-04-24). Prior wiki snapshot: 2026-04-05 ingest (Tranche 1 entry at $152.51).*

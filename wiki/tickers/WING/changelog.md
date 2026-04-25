@@ -4,12 +4,12 @@
 
 ---
 
-## [2026-04-17] — v2.1 Schema Migration + Price Refresh (Workflow A consolidation)
+## [2026-04-24] — v2.1 Schema Migration + Price Refresh (Workflow A consolidation)
 
 **Trigger**: Migration of WING wiki from v1 (4-file: overview/thesis/financials/changelog) to v2.1 (single consolidated `WING.md` + `changelog.md`). Triggered by user request as part of batch v2.1 rollout. Legacy v1 files (overview.md, thesis.md, financials.md) deleted; content folded into `WING.md`. Live price refreshed.
 
 **Sources reviewed**:
-- Yahoo Finance JSON API (live price $189.37; 52-wk $142.24–$388.14; April 17, 2026)
+- Yahoo Finance JSON API (live price $189.37; 52-wk $142.24–$388.14; April 24, 2026)
 - Prior wiki v1 files (overview.md, thesis.md, financials.md, changelog.md from 2026-04-05 ingest)
 - ir.wingstop.com FY2025 release (Feb 2026, prnewswire.com); stockanalysis.com (income statement); franchisetimes.com / 1851franchise.com (international + unit economics)
 

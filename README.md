@@ -26,15 +26,5 @@ BKNG · LLY · WING · UNH · SCHW
 - **Moneyball** — Probability-weighted scenario scoring
 - **15-Section thesis** — Full bottoms-up equity analysis framework
 
-## Quick Start (Claude Code)
 
-Open this folder in Claude Code and say:
-> "Read CLAUDE.md and import the analyses from raw/analyses/ to populate the wiki."
 
-## Scheduled Updates
-
-Weekly lint: `cron` job defined in `scripts/lint.sh` (see setup instructions in CLAUDE.md)
-
----
-
-*This is a private repo. See `kg-life-wiki` (separate repo) for personal/non-investment content.*

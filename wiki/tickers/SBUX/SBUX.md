@@ -2,6 +2,7 @@
 
 > **Schema**: v2.2
 > **Last Updated**: 2026-04-24
+> **Status**: Active
 > **Live Price Verified**: $98.67 at April 24, 2026 (Yahoo Finance JSON API)
 > **Ticker Type**: Consumer staples / global retail (specialty coffee, multi-unit franchise + company-operated hybrid)
 

@@ -2,6 +2,7 @@
 
 > **Schema**: v2.2
 > **Last Updated**: 2026-04-24
+> **Status**: Active
 > **Live Price Verified**: ~$247 at April 24, 2026 (Yahoo Finance / 24/7 Wall St cross-check; trading near top of 1-yr range)
 > **Ticker Type**: Capital-light platform / hyperscaler / e-commerce mega-cap
 

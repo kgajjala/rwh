@@ -2,6 +2,7 @@
 
 > **Schema**: v2.2
 > **Last Updated**: 2026-04-24
+> **Status**: Active
 > **Live Price Verified**: $376.30 at April 24, 2026 (Yahoo Finance; April 24 close)
 > **Ticker Type**: Auto OEM + Energy storage + AI/robotaxi optionality (multi-modal: capital-intensive auto core + capital-light software/AI optionality layer)
 

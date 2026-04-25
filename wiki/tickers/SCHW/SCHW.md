@@ -2,6 +2,7 @@
 
 > **Schema**: v2.1
 > **Last Updated**: 2026-04-24
+> **Status**: Active
 > **Live Price Verified**: $88.50 at April 24, 2026 (Yahoo Finance)
 > **Ticker Type**: Financial / brokerage
 

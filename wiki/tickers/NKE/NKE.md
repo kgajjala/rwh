@@ -2,6 +2,7 @@
 
 > **Schema**: v2.2
 > **Last Updated**: 2026-04-24
+> **Status**: Active
 > **Live Price Verified**: $44.69 at April 24, 2026 (Yahoo Finance JSON API; near multi-year low)
 > **Ticker Type**: Consumer staples / global branded apparel-footwear
 

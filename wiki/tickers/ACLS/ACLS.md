@@ -2,6 +2,7 @@
 
 > **Schema**: v2.2
 > **Last Updated**: 2026-04-24
+> **Status**: Active
 > **Live Price Verified**: $143.13 at April 24, 2026 (Yahoo Finance JSON API; near 52-wk high of $147.94)
 > **Ticker Type**: Semiconductor capital equipment (ion implantation specialist)
 

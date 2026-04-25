@@ -2,6 +2,7 @@
 
 > **Schema**: v2.1
 > **Last Updated**: 2026-04-24
+> **Status**: Active
 > **Live Price Verified**: $176.78 at April 24, 2026 (Yahoo Finance; intraday, previous close $187.22 → –5.6% session)
 > **Ticker Type**: Three-sided marketplace
 

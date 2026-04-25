@@ -3,8 +3,9 @@
 Master catalog of all wiki pages. Updated by the LLM agent on every ingest or
 substantial wiki change. Each entry: link, one-line summary, last updated, status.
 
-**Schema**: v2.4 — single consolidated `[TICKER].md` per ticker (legacy v1
+**Schema**: v2.5 — single consolidated `[TICKER].md` per ticker (legacy v1
 overview/thesis/financials files have been folded in and deleted). Position-agnostic.
+Active / Paused status governs weekly cron coverage (Core Rule #15).
 
 ---
 
@@ -12,42 +13,42 @@ overview/thesis/financials files have been folded in and deleted). Position-agno
 
 *Alphabetical. 34 tickers covered.*
 
-| Ticker | Company | Moat | Conviction | Last Updated | Status |
-|--------|---------|------|-----------|--------------|--------|
-| [ABNB](tickers/ABNB/ABNB.md) | Airbnb | Wide | Medium | 2026-04-24 | v2.4 ingest — Watch / Hold; attractive entry $120–130 |
-| [ACLS](tickers/ACLS/ACLS.md) | Axcelis Technologies | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch / Hold; momentum-late |
-| [ADBE](tickers/ADBE/ADBE.md) | Adobe | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate / Add |
-| [AMZN](tickers/AMZN/AMZN.md) | Amazon | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate / Hold-Add |
-| [BKNG](tickers/BKNG/BKNG.md) | Booking Holdings | Wide | High | 2026-04-24 | v2.1 — Triple BAIT (B+A-Strong); Initiate / Hold-Add |
-| [CELH](tickers/CELH/CELH.md) | Celsius Holdings | Narrow | Medium | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate small / Hold-Add |
-| [CPNG](tickers/CPNG/CPNG.md) | Coupang | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT (B+A-Strong); Initiate / Add modestly |
-| [DASH](tickers/DASH/DASH.md) | DoorDash | Narrow | Medium | 2026-04-24 | v2.1 — Double BAIT (all Moderate); Watch / Hold; entry $140-155 |
-| [DELL](tickers/DELL/DELL.md) | Dell Technologies | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch (consensus < spot); insider selling |
-| [EBAY](tickers/EBAY/EBAY.md) | eBay | Narrow | Medium | 2026-04-24 | v2.4 ingest — Watch / selective Initiate / Hold |
-| [FIG](tickers/FIG/FIG.md) | Figma | Narrow-Emerging Wide | Medium | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate (small, contrarian) / Hold-Add |
-| [INTU](tickers/INTU/INTU.md) | Intuit | Wide | High | 2026-04-24 | v2.4 ingest — Initiate / Add post-AI-fear drawdown |
-| [KGS](tickers/KGS/KGS.md) | Kodiak Gas Services | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch / Hold; near 52-wk high |
-| [LLY](tickers/LLY/LLY.md) | Eli Lilly | Wide | High | 2026-04-24 | v2.1 — Triple BAIT (A+I-Strong); Initiate measured / Hold-Add on pullback |
-| [LNTH](tickers/LNTH/LNTH.md) | Lantheus Holdings | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Binary 2026 PDUFA event-setup; Watch / Hold |
-| [LULU](tickers/LULU/LULU.md) | Lululemon Athletica | Wide | Medium | 2026-04-24 | v2.4 ingest — Watch / Initiate <$135 / Hold; new CEO Sept 2026 |
-| [MP](tickers/MP/MP.md) | MP Materials | Narrow-Strategic | Medium | 2026-04-24 | v2.4 ingest — DoD offtake + price floor; Initiate / Hold-Add |
-| [MSFT](tickers/MSFT/MSFT.md) | Microsoft | Wide | High | 2026-04-24 | v2.4 ingest — **Quadruple BAIT** (cleanest mega-cap); Initiate / Hold-Add |
-| [NFLX](tickers/NFLX/NFLX.md) | Netflix | Wide | High | 2026-04-24 | v2.4 ingest — Initiate (small, scaled) post-Q2-guide selloff |
-| [NKE](tickers/NKE/NKE.md) | Nike | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT; CEO bought $1M; Initiate / Add at 12-yr low |
-| [ONON](tickers/ONON/ONON.md) | On Holding | Wide | High | 2026-04-24 | v2.4 ingest — Initiate / Add; +23% c-c at 63% gross margin |
-| [PG](tickers/PG/PG.md) | Procter & Gamble | Wide (under pressure) | Medium | 2026-04-24 | v2.1 — Q3 FY26 earnings Apr 24 = binary; Watch / Hold pre-print |
-| [RH](tickers/RH/RH.md) | RH (Restoration Hardware) | Narrow | Medium | 2026-04-24 | v2.4 ingest — Deep cyclical trough; Watch / selective Initiate / Hold |
-| [RIVN](tickers/RIVN/RIVN.md) | Rivian Automotive | Narrow-Emerging | Low-Medium | 2026-04-24 | v2.4 ingest — Watch / small Initiate; R2 production started Apr 22 |
-| [RKT](tickers/RKT/RKT.md) | Rocket Companies | Narrow-Emerging Wide | Medium | 2026-04-24 | v2.1 — Double BAIT (B+A); Initiate Spec. / Hold-Add; Q1 print Apr 30 |
-| [SBUX](tickers/SBUX/SBUX.md) | Starbucks | Wide | Medium | 2026-04-24 | v2.4 ingest — Niccol turnaround mid-stride; Watch / Hold pre-Apr-28 print |
-| [SCHW](tickers/SCHW/SCHW.md) | Charles Schwab | Narrow-Wide | High | 2026-04-24 | **v2.1 + Q1 2026 beat** — STRENGTHENED; Triple BAIT (B+A+I-Strong); Initiate / Add (post-beat 52-wk low) |
-| [SHOP](tickers/SHOP/SHOP.md) | Shopify | Wide | High | 2026-04-24 | v2.1 — STRENGTHENED; Triple+ BAIT; Initiate / Add-Hold |
-| [SN](tickers/SN/SN.md) | SharkNinja | Narrow | Medium-High | 2026-04-24 | v2.4 ingest — Initiate; FY26 +10–11% sales guide |
-| [TREX](tickers/TREX/TREX.md) | Trex Company | Narrow | Medium | 2026-04-24 | v2.4 ingest — Initiate / Hold; housing-cyclical trough + buyback |
-| [TSLA](tickers/TSLA/TSLA.md) | Tesla | Narrow-Wide | Medium | 2026-04-24 | v2.4 ingest — Hold / Watch; coin-flip risk-reward; Cybercab launched Apr 24 |
-| [UNH](tickers/UNH/UNH.md) | UnitedHealth Group | Wide | High | 2026-04-24 | **v2.3 + Q1 2026 BEAT** — STRENGTHENED; Quadruple BAIT (B-compressed); Initiate / Add |
-| [WING](tickers/WING/WING.md) | Wingstop | Narrow | Medium | 2026-04-24 | v2.1 — Asymmetry compressed at recovery; Watch / Hold pre-Q1 SSS Apr 29 |
-| [ZG](tickers/ZG/ZG.md) | Zillow Group | Wide | High | 2026-04-24 | v2.4 ingest — Initiate / Add; mispriced by Rocket-Redfin narrative |
+| Ticker | Status | Company | Moat | Conviction | Last Updated | Summary |
+|--------|--------|---------|------|-----------|--------------|---------|
+| [ABNB](tickers/ABNB/ABNB.md) | Active | Airbnb | Wide | Medium | 2026-04-24 | v2.4 ingest — Watch / Hold; attractive entry $120–130 |
+| [ACLS](tickers/ACLS/ACLS.md) | Active | Axcelis Technologies | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch / Hold; momentum-late |
+| [ADBE](tickers/ADBE/ADBE.md) | Active | Adobe | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate / Add |
+| [AMZN](tickers/AMZN/AMZN.md) | Active | Amazon | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate / Hold-Add |
+| [BKNG](tickers/BKNG/BKNG.md) | Active | Booking Holdings | Wide | High | 2026-04-24 | v2.1 — Triple BAIT (B+A-Strong); Initiate / Hold-Add |
+| [CELH](tickers/CELH/CELH.md) | Active | Celsius Holdings | Narrow | Medium | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate small / Hold-Add |
+| [CPNG](tickers/CPNG/CPNG.md) | Active | Coupang | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT (B+A-Strong); Initiate / Add modestly |
+| [DASH](tickers/DASH/DASH.md) | Active | DoorDash | Narrow | Medium | 2026-04-24 | v2.1 — Double BAIT (all Moderate); Watch / Hold; entry $140-155 |
+| [DELL](tickers/DELL/DELL.md) | Active | Dell Technologies | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch (consensus < spot); insider selling |
+| [EBAY](tickers/EBAY/EBAY.md) | Active | eBay | Narrow | Medium | 2026-04-24 | v2.4 ingest — Watch / selective Initiate / Hold |
+| [FIG](tickers/FIG/FIG.md) | Active | Figma | Narrow-Emerging Wide | Medium | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate (small, contrarian) / Hold-Add |
+| [INTU](tickers/INTU/INTU.md) | Active | Intuit | Wide | High | 2026-04-24 | v2.4 ingest — Initiate / Add post-AI-fear drawdown |
+| [KGS](tickers/KGS/KGS.md) | Active | Kodiak Gas Services | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch / Hold; near 52-wk high |
+| [LLY](tickers/LLY/LLY.md) | Active | Eli Lilly | Wide | High | 2026-04-24 | v2.1 — Triple BAIT (A+I-Strong); Initiate measured / Hold-Add on pullback |
+| [LNTH](tickers/LNTH/LNTH.md) | Active | Lantheus Holdings | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Binary 2026 PDUFA event-setup; Watch / Hold |
+| [LULU](tickers/LULU/LULU.md) | Active | Lululemon Athletica | Wide | Medium | 2026-04-24 | v2.4 ingest — Watch / Initiate <$135 / Hold; new CEO Sept 2026 |
+| [MP](tickers/MP/MP.md) | Active | MP Materials | Narrow-Strategic | Medium | 2026-04-24 | v2.4 ingest — DoD offtake + price floor; Initiate / Hold-Add |
+| [MSFT](tickers/MSFT/MSFT.md) | Active | Microsoft | Wide | High | 2026-04-24 | v2.4 ingest — **Quadruple BAIT** (cleanest mega-cap); Initiate / Hold-Add |
+| [NFLX](tickers/NFLX/NFLX.md) | Active | Netflix | Wide | High | 2026-04-24 | v2.4 ingest — Initiate (small, scaled) post-Q2-guide selloff |
+| [NKE](tickers/NKE/NKE.md) | Active | Nike | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT; CEO bought $1M; Initiate / Add at 12-yr low |
+| [ONON](tickers/ONON/ONON.md) | Active | On Holding | Wide | High | 2026-04-24 | v2.4 ingest — Initiate / Add; +23% c-c at 63% gross margin |
+| [PG](tickers/PG/PG.md) | Active | Procter & Gamble | Wide (under pressure) | Medium | 2026-04-24 | v2.1 — Q3 FY26 earnings Apr 24 = binary; Watch / Hold pre-print |
+| [RH](tickers/RH/RH.md) | Active | RH (Restoration Hardware) | Narrow | Medium | 2026-04-24 | v2.4 ingest — Deep cyclical trough; Watch / selective Initiate / Hold |
+| [RIVN](tickers/RIVN/RIVN.md) | Active | Rivian Automotive | Narrow-Emerging | Low-Medium | 2026-04-24 | v2.4 ingest — Watch / small Initiate; R2 production started Apr 22 |
+| [RKT](tickers/RKT/RKT.md) | Active | Rocket Companies | Narrow-Emerging Wide | Medium | 2026-04-24 | v2.1 — Double BAIT (B+A); Initiate Spec. / Hold-Add; Q1 print Apr 30 |
+| [SBUX](tickers/SBUX/SBUX.md) | Active | Starbucks | Wide | Medium | 2026-04-24 | v2.4 ingest — Niccol turnaround mid-stride; Watch / Hold pre-Apr-28 print |
+| [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Narrow-Wide | High | 2026-04-24 | **v2.1 + Q1 2026 beat** — STRENGTHENED; Triple BAIT (B+A+I-Strong); Initiate / Add (post-beat 52-wk low) |
+| [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide | High | 2026-04-24 | v2.1 — STRENGTHENED; Triple+ BAIT; Initiate / Add-Hold |
+| [SN](tickers/SN/SN.md) | Active | SharkNinja | Narrow | Medium-High | 2026-04-24 | v2.4 ingest — Initiate; FY26 +10–11% sales guide |
+| [TREX](tickers/TREX/TREX.md) | Active | Trex Company | Narrow | Medium | 2026-04-24 | v2.4 ingest — Initiate / Hold; housing-cyclical trough + buyback |
+| [TSLA](tickers/TSLA/TSLA.md) | Active | Tesla | Narrow-Wide | Medium | 2026-04-24 | v2.4 ingest — Hold / Watch; coin-flip risk-reward; Cybercab launched Apr 24 |
+| [UNH](tickers/UNH/UNH.md) | Active | UnitedHealth Group | Wide | High | 2026-04-24 | **v2.3 + Q1 2026 BEAT** — STRENGTHENED; Quadruple BAIT (B-compressed); Initiate / Add |
+| [WING](tickers/WING/WING.md) | Active | Wingstop | Narrow | Medium | 2026-04-24 | v2.1 — Asymmetry compressed at recovery; Watch / Hold pre-Q1 SSS Apr 29 |
+| [ZG](tickers/ZG/ZG.md) | Active | Zillow Group | Wide | High | 2026-04-24 | v2.4 ingest — Initiate / Add; mispriced by Rocket-Redfin narrative |
 
 ---
 

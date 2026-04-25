@@ -1,4 +1,4 @@
-# CLAUDE.md — kg-invest-wiki Schema (v2.2)
+# CLAUDE.md — kg-invest-wiki Schema (v2.3)
 
 This is the instruction file for the LLM agent that maintains this wiki.
 **Read this file at the start of every session before making any changes to `wiki/`, `raw/`, or `outputs/`.**
@@ -13,7 +13,7 @@ session starts from the latest synthesis, not a blank page.
 
 - **Owner**: Karthik G
 - **Started**: April 2026
-- **Schema version**: v2.2 (April 2026)
+- **Schema version**: v2.3 (April 2026)
 - **Model**: Karpathy LLM Wiki pattern, adapted
 
 ### What this wiki is *not*
@@ -311,14 +311,35 @@ Check for any event from the **Meaningful Events List** below. Sources:
 
 ### Step 3a — If material events exist
 1. Fetch and store the new raw material under `raw/[TICKER]/<subfolder>/`.
-2. Update the affected sections of `[TICKER].md` (the single wiki page).
-   Typical update surface: Section 2 financial tables, Section 11 Catalyst &
-   Sentiment Tracker, Section 13/14 scenarios + PW EV if targets shifted.
-3. Update Section 15 (Recommendation) if the action verb or price-zone
-   thresholds moved.
-4. Append a `changelog.md` entry using the standard format below.
-5. Update `wiki/index.md` last-updated date.
-6. Update `wiki/watchlist.md` ranking if attractiveness changed.
+2. Update **all affected sections** of `[TICKER].md` (the single wiki page).
+   For an **earnings event**, the *mandatory* update surface is broader than
+   just Sections 11 + 15. Walk through every section in this checklist and
+   refresh anything the new data invalidates:
+
+   | Section | When to refresh on earnings/material event |
+   |---------|--------------------------------------------|
+   | 2 — Annual Financial Metrics | **Always** on earnings: add the new quarter row + roll TTM figures |
+   | 3 — Geographic Revenue Mix | Refresh if segment data was disclosed |
+   | 6 — Management & Leadership | Refresh on management commentary, capital-allocation changes |
+   | 7 — Strategic Growth Initiatives | Refresh on new strategic disclosures |
+   | **8 — Key Risks** | **Always** scan: any risk that the new data resolves should be marked `~~struck through~~` with **DE-RISKED [date]**; new risks the print surfaces should be added; existing risk *Notes* columns should be refreshed if "Watch [event X]" was the resolved event |
+   | 9 — Industry-Specific Macro Analysis | Refresh on regulatory or sector developments |
+   | 10 — Valuation & Comparable Analysis | **Always** on earnings: re-compute multiples on new EPS/FCF; refresh the Assessment paragraph if the trough-vs-normalized framing shifted |
+   | **11 — Catalyst & Sentiment Tracker** | **Always**: refresh price, analyst consensus, recent actions, insider activity, recent news, upcoming catalysts. Move delivered events from "Upcoming" to "Delivered ✅" |
+   | 12 — BAIT Framework | Refresh any B/A/I/T justification paragraph that the new data alters (e.g., if the analytical edge cited a metric that has now been disclosed) |
+   | 13 — Bull/Bear/Base Cases | Refresh assumptions and price targets if scenarios shifted; adjust probabilities if the event materially de-risks one branch |
+   | 14 — PW EV | Recompute if Section 13 changed |
+   | **15 — Recommendation & Bottom Line** | **Always** review: refresh thesis sentence, non-holder/holder verbs, entry/trim/exit zones, **and especially the thesis-break triggers** (mark resolved triggers as DE-RISKED and add new ones the event surfaced) |
+
+   Sections 1, 4, 5 rarely change on a single earnings event — refresh only on
+   true strategic pivots, business-model changes, or moat-altering events.
+3. Append a `changelog.md` entry using the standard format below. The
+   `What Changed` block must mirror the section refreshes performed (one
+   bullet per refreshed section is good practice).
+4. Update `wiki/index.md` last-updated date and any summary-row fields
+   that moved (price, BAIT, recommendation).
+5. Update `wiki/watchlist.md` ranking, earnings calendar, and
+   price-targets table if attractiveness changed.
 
 ### Step 3b — If no material events (quiet week)
 1. Write a `[YYYY-MM-DD] — No Material Events` changelog entry containing a
@@ -572,3 +593,21 @@ version (v3, v4, ...). Minor edits within a version are fine without bump.
 - The weekly cron routine `kg-invest-wiki-weekly` was created on
   2026-04-24 to fire every Friday at 22:00 UTC (6pm EDT / 5pm EST).
   Routine ID: `trig_01R1X9aCDwHQDfUmkSii1bWb`.
+
+### v2.3 changelog (April 2026 — full update surface for material events)
+- **Expanded Workflow B Step 3a "update surface" from 3 sections to a
+  full 11-section checklist.** The prior schema only mandated refreshing
+  Sections 2, 11, 13/14, 15 on material events. This caused stale
+  Section 8 (Key Risks) entries on UNH after the Q1 2026 earnings beat
+  (the row "MLR stays > 88% in 2026 — Watch Q1 2026 MLR closely" was
+  not updated when Q1 MCR printed at 83.9%, well below the 88%
+  threshold).
+- **New mandate**: For an earnings event, walk through Sections 2, 3, 6,
+  7, 8, 9, 10, 11, 12, 13, 14, 15 and refresh anything the new data
+  invalidates. Sections 8 and 10 are now flagged as "always scan" surfaces.
+  Strike-through (`~~text~~ DE-RISKED [date]`) is the prescribed pattern
+  for retired risks and triggers — preserves history while clarifying
+  current state.
+- **Changelog entries should mirror section refreshes** — one bullet per
+  refreshed section in the `What Changed` block, so reviewers can audit
+  whether the full surface was walked.

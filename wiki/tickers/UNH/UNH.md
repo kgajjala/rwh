@@ -220,7 +220,8 @@ UNH is U.S.-centric. Material geographic breakdowns are by *product segment* (co
 
 | Risk | Impact | Probability | Notes |
 |------|--------|-------------|-------|
-| MLR stays > 88% in 2026 (no normalization) | High | Medium | Watch Q1 2026 MLR closely |
+| ~~MLR stays > 88% in 2026 (no normalization)~~ — **DE-RISKED 2026-04-21** | ~~High~~ | ~~Medium~~ | Q1 2026 MCR printed **83.9%** (vs. 84.8% Q1 2025), well below the 88% concern threshold. Risk reframed below. |
+| MLR sequential reversion: Q2 2026 MCR > 87% (Q1 was seasonal one-off) | High | Low-Medium | Q1 2026 print at 83.9% confirmed recovery trajectory — but full-year MLR depends on Q2/Q3 holding the gain. Watch late-July Q2 print. |
 | DOJ antitrust action forces Optum divestiture | Very High | Low | Investigation ongoing; timeline unclear |
 | Medicaid enrollment / contract losses | High | Medium | States rebidding contracts |
 | Optum Health structural losses persist | High | Medium | 2026 "reset" may not complete in one year |
@@ -250,23 +251,24 @@ UNH is U.S.-centric. Material geographic breakdowns are by *product segment* (co
 | Metric | Value | Notes |
 |--------|-------|-------|
 | P/E TTM | ~27× | Trough EPS $13.23 distorts ratio |
-| P/E (FY2026E ~$20) | ~18× | [Analyst consensus reconstructing] |
-| P/E (Normalized ~$25–28) | ~13–14× | Deep discount if MLR normalizes |
+| **P/E (FY2026E adj $18.25 — management-raised guide post-Q1)** | **~19×** | **Management-committed, post-Q1 raise (was >$17.75)** |
+| P/E (FY2026E GAAP $17.35) | ~20× | Per management guide |
+| P/E (Normalized ~$25–28) | ~13–14× | Deep discount if MLR normalizes durably |
 | P/FCF (FY2025) | ~20× | $16B FCF |
 | Dividend Yield | ~2.4% | $8.40 annual |
-| Historical P/E avg | 18–22× | Current at lower end on normalized |
+| Historical P/E avg | 18–22× | Currently in-band on FY26 adj guide |
 
 ### Peer Comparison
 
 | Company | P/E (2026E) | MLR | Risk |
 |---------|-------------|-----|------|
-| **UNH** | ~14× normalized | 89.1% (recovering) | High near-term, wide moat |
+| **UNH** | ~19× FY26 adj guide / ~14× normalized | 83.9% Q1 2026 (recovering from 89.1% FY25) | Moderating near-term, wide moat |
 | CNC (Centene) | ~10× | ~88% | Similar MLR pressure |
 | ELV (Elevance) | ~12× | ~87% | Less diversified |
 | HUM (Humana) | N/M (losses) | ~92%+ | Worse position than UNH |
 | CI (Cigna) | ~12× | ~84% | Cleaner MLR profile |
 
-**Assessment**: **Discounted on normalized earnings**, expensive on trough TTM. The market is pricing partial recovery — the $355 price implies the market expects ~$20 FY2026E EPS at an 18× multiple, or normalization to $25–28 at a more compressed multiple. Either way, the gap between trough and normalized is the central valuation question. The $16B FCF at trough provides a genuine floor: dividend is safe, buybacks resumable.
+**Assessment (post Q1 2026 print)**: **Reasonable on FY26 management-raised guide; discounted on normalized earnings.** The Q1 2026 print + raised guide moves UNH from "trough multiple distortion" to a clearer ~19× FY26 adj EPS valuation. The $16B FCF at trough provides a genuine floor: dividend is safe, buybacks of $2B+ committed through end-Q2 2026. The remaining valuation gap (~14× normalized $25–28 vs. ~19× FY26 $18.25) reflects market uncertainty on durability — Q2/Q3 MCR confirmation is the gate.
 
 ---
 
@@ -338,11 +340,11 @@ The peak-to-trough drawdown ($606 → $234 = –61% in ~12 months) was a textboo
 
 ### A — Analytical: **Strong**
 
-Key analytical edges:
-- **Trough vs. normalized earnings**: Consensus is starting to model normalization but is still anchored to $13–18 EPS rather than the $25–28 normalized scenario
+Key analytical edges (post Q1 2026 print):
+- **FY26 vs. normalized earnings**: Management has raised FY26 adj EPS guide to **>$18.25** (post-Q1) — consensus has updated. The remaining analytical edge is the gap from current $18.25 to normalized $25–28 by FY27 if Q2/Q3 confirms.
 - **MA member-exit math**: 1.3–1.4M proactive MA exits structurally improve the remaining cohort risk profile — bullish for FY2026–2027 MLR; widely reported as negative (membership decline) but mechanically positive
-- **FCF floor**: $16B FCF at trough = 5% FCF yield at $355; supports continued dividend + buyback resumption
-- **Sensitivity leverage**: 100bps MLR improvement = ~$4–5B EBIT — large operating leverage on the recovery
+- **FCF floor**: $16B FCF at trough = 5% FCF yield at $355; supports continued dividend + $2B+ buyback execution committed through end-Q2 2026
+- **Sensitivity leverage**: 100bps MLR improvement = ~$4–5B EBIT — large operating leverage on the recovery, partially captured in Q1's –90bps YoY MCR
 
 ### I — Informational: **Strong**
 
@@ -371,22 +373,26 @@ Primary-source disclosures underappreciated:
 *All scenarios are 24-month price targets. Probabilities sum to 100%.*
 
 ### Bull Case — $500–$550 (+41–55% from $355) — **Probability: 30%**
-- MLR normalizes to 85.5% by Q3 2026; FY2026E EPS ~$22–24; FY2027E ~$28–30
+- Q1 MCR of 83.9% extends through Q2/Q3; FY2026 actual MCR averages ~84–85% (better than 86–87% guide implies)
+- FY2026 actual adj EPS comes in $19.50+ (above raised $18.25 guide)
+- FY2027E EPS reaches $25–28 on durable margin recovery
 - Optum Health restructuring accelerates; returns to $4–5B earnings by 2027
 - DOJ investigation resolves without forced divestiture
 - Multiple re-rates to 19–20× FY2027E $28 → ~$540
 
 ### Base Case — $400–$430 (+13–21% from $355) — **Probability: 50%**
-- MLR improves to 87% by year-end 2026; FY2026E EPS ~$18–20
+- Q1 MCR of 83.9% holds Q2/Q3 with mild seasonal up-creep; FY2026 MCR ~85–86% (in line with raised guide)
+- FY2026 adj EPS finishes ~$18.25–$19.50 (consistent with raised guide)
 - Optum Health stabilizes at ~$3–4B adj. earnings
 - DOJ investigation drags without resolution
 - Multiple at 18–19× FY2026E $19 → ~$360, plus dividend (~$17 over 2 years) → ~$415 total return
 
 ### Bear Case — $250–$300 (–15% to –30% from $355) — **Probability: 20%**
-- MLR remains > 88% in 2026; earnings guidance suspended again
+- Q1 MCR of 83.9% proves seasonal — Q2/Q3 reverts to >87%; FY2026 MCR averages 87.5%+
+- FY2026 adj EPS guide is cut back below the raised $18.25
 - DOJ announces formal antitrust action; vertical integration risk premium expands sharply
-- Optum Health continues to drag (FY2026 adj. < $1B)
-- Multiple compresses to 14× on FY2026E ~$15 → ~$210, plus dividend → ~$280
+- Optum Health continues to drag (FY2026 adj. < $2B)
+- Multiple compresses to 13–14× on cut FY2026E ~$15–17 → ~$210–240, plus dividend → ~$275
 
 ---
 

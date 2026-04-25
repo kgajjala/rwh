@@ -24,7 +24,7 @@
 | 5 | SCHW | Medium | Double | 2:1 (~+17% EV, 18-mo) | Initiate / Hold — attractive at $88–$96 | Q1 2026 NIM + rate outlook (April 2026) |
 | 6 | RKT | Medium | Double (B+A) | 2.5:1 (~+51% PW EV, 1-3yr) | Initiate (speculative) — attractive at $14–$16 | Q1 2026 earnings (April 30, 2026) |
 | 7 | SHOP | High | Triple (B+A+I) | 1.8:1 (~+79% PW EV, 18-mo) | Initiate (speculative) — attractive at $115–$125 | Q1 2026 earnings (~May 2026) |
-| 8 | DASH | Low-Medium | Double (B+A) | 1.2:1 (–26% PW EV 5-yr) | Watch — better entry at $140–$150 | Q1 2026 earnings (~May 2026) |
+| 8 | DASH | Low-Medium | Double (B+A+I, all Moderate) | –26% 5-yr PW EV; +43–57% to median analyst target 12–18mo | **Non-holder: Watch** (entry $140–155) / **Holder: Hold** | Q1 2026 earnings May 6, 2026 (post-close) |
 | 9 | PG | Medium | Weak (no overlap) | 1.1:1 (~+7% PW EV, 3-yr) | Watch / Conditional | Q3 FY2026 earnings (April 24) |
 
 **Ranking rationale**:
@@ -49,7 +49,7 @@
 | SCHW | Q1 2026 earnings (~April 2026) | NIM trend + sweep balance rebuild | Re-rate to 22-25x; buyback signal | Rate-cut risk realization |
 | RKT | Q1 2026 earnings (April 30, 2026) | **Adj revenue ≥ $2.6B + EBITDA run-rate** | Thesis confirming; 5th consecutive beat | Below $2.4B on no external shock = thesis break |
 | SHOP | Q1 2026 earnings (~May 2026) | **Revenue growth ≥ +25% + gross margin stable** | Thesis continuing | Growth <20% + margins compressed = cautionary |
-| DASH | Q1 2026 earnings (~May 2026) | **Adj EBITDA ≥ $675M + H2 margin improvement commentary** | Base case tracking | Below $650M or no H2 guidance = thesis weakening |
+| DASH | Q1 2026 earnings **May 6, 2026 (post-close)** | **Adj EBITDA ≥ $675M + H2 margin improvement commentary + FY26 guide intact** | Thesis tracking; re-rating potential to $250 median target | Below $650M on no external shock, or H2 pacing walkback = thesis weakening |
 | PG | Q3 FY2026 earnings (April 24, 2026) | **Organic sales growth ≥ 2% + tariff on track** | Shows stabilization | Further guidance cut or dividend concern = thesis break |
 
 ---
@@ -65,7 +65,7 @@
 | SCHW | $93.77 | $70 (20%) | $110 (50%) | $137 (30%) | $110 | +17% |
 | RKT | $14.96 | $9 (20%) | $22 (55%) | $35 (25%) | $22.65 | +51% |
 | SHOP | $117–121 | $113 (15%) | $193 (45%) | $252 (30%) + $325 (10%) | ~$216 | +79% |
-| DASH | $176 | $50 (20%) | $110 (50%) | $215 (30%) | ~$130 | –26% (5-yr scenario) |
+| DASH | $176.78 | $50 (20%) | $110 (50%) | $215 (30%) | ~$130 | –26% (5-yr terminal); +43–57% to $252–$278 analyst median (12–18mo) |
 | PG | $143.35 | $125 (30%) | $160 (45%) | $177.50 (25%) | ~$154 | +7% |
 
 *All price targets are 12-24 month horizons except noted. UNH targets 24-month. RKT targets 1-3 year. DASH targets 5-year. SHOP targets 18-month.*

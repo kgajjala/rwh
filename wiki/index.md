@@ -16,14 +16,14 @@ substantial wiki change. Each entry: link, one-line summary, last updated, statu
 | [SCHW](tickers/SCHW/overview.md) | Charles Schwab | Narrow-Wide | Medium | 2026-04-05 | Active — full thesis compiled |
 | [RKT](tickers/RKT/overview.md) | Rocket Companies | Narrow-Emerging Wide | Medium | 2026-04-06 | Active — full thesis compiled; FCF/segment detail pending 10-K |
 | [SHOP](tickers/SHOP/overview.md) | Shopify | Wide | High | 2026-04-06 | Active — full thesis compiled; AI/checkout monetization tracking |
-| [DASH](tickers/DASH/overview.md) | DoorDash | Narrow | Medium | 2026-04-06 | Active — full thesis compiled; Watch position, better entry <$140 |
+| [DASH](tickers/DASH/DASH.md) | DoorDash | Narrow | Medium | 2026-04-17 | **v2.1 consolidated** — re-ingested with fresh data + live price; Watch; attractive $140–155 |
 | [PG](tickers/PG/overview.md) | Procter & Gamble | Wide (under pressure) | Medium | 2026-04-06 | Active — full thesis compiled; Watch/Conditional pending Q3 FY2026 |
 
 ---
 
 ## Ticker Summary
 
-| Ticker | Price (4/5/26) | vs. 52-wk High | FCF Yield | P/E Fwd | BAIT | Verdict |
+| Ticker | Price (as of) | vs. 52-wk High | FCF Yield | P/E Fwd | BAIT | Recommendation (non-holder / holder) |
 |--------|---------------|---------------|-----------|---------|------|---------|
 | BKNG | $4,194 (~$168 post-split) | –28% | ~6.8% | ~15.7x | Triple | Buy |
 | LLY | $935.58 | –18% | — (capex-heavy) | ~27x | Triple | Buy |
@@ -32,7 +32,7 @@ substantial wiki change. Each entry: link, one-line summary, last updated, statu
 | SCHW | $93.77 | –13% | — | ~17.5x | Double | Buy/Hold |
 | RKT | $14.96 | –38.5% | — | ~13-17x fwd EBITDA | Double (B+A) | Buy (Speculative) |
 | SHOP | $117–121 | –20% from ATH | ~8% (positive FCF) | ~7x trailing revenue | Triple (B+A+I) | Buy (Speculative) |
-| DASH | $176 | –38% from 52-wk high | — | ~28x trailing EBITDA | Double (B+A) | Watch / Cautious Starter |
+| DASH | $176.78 (4/17/26) | –38.1% | — (~2.3% FCF yield) | ~26× trailing EBITDA / ~21× fwd | Double (B+A+I, all Moderate) | **Non-holder: Watch** / **Holder: Hold** (entry $140–155) |
 | PG | $143.35 | –18% from 52-wk high | ~2.94% dividend yield | ~20x forward P/E | Weak | Watch / Conditional |
 
 ---

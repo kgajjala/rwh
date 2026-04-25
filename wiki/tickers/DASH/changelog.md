@@ -4,6 +4,64 @@
 
 ---
 
+## [2026-04-17] — v2.1 Full Re-Ingest (Workflow A) — Fresh Analysis
+
+**Trigger**: User requested fresh report on DASH under the updated v2.1 schema (position-agnostic, single-page consolidated wiki). Prior v1 multi-file structure (overview.md, thesis.md, financials.md) consolidated and deleted; superseded by single `DASH.md`.
+
+**Sources reviewed**:
+- Yahoo Finance live chart API (live price $176.78, 52-wk $143.30–$285.50; Apr 17, 2026 intraday; previous close $187.22 = –5.6% session)
+- MarketBeat, TipRanks, Public.com (analyst consensus: 34 Buy / 10 Hold / 0 Sell; median target ~$252–278)
+- Recent analyst actions: Stifel PT cut $215 → $185 (Apr 10); Bernstein new Buy (Apr 13); MoffettNathanson PT cut $279 → $276 (Apr 14); JPMorgan Buy maintained (Apr 15)
+- secform4.com, stocktitan.net (Form 4 filings): Stanley Tang sold 23,125 @ $150 on Apr 2 (unusual — at 52-wk low); Andy Fang, Keith Yandell, Stanley Tang RSU grants Apr 20 (routine)
+- Fintel (short interest): 3.45% of float, ~13.17M shares; peer avg 11.07% (DASH is under-shorted)
+- DoorDash IR (Q1 2026 earnings date: May 6, 2026 post-close; BusinessWire 2026-04-09)
+- DoorDash 10-K FY2025 filed Feb 18, 2026 (SEC EDGAR CIK 1792789; 31,400+ employees, 40+ countries, 9M+ Dashers earned >$20B in 2025)
+- Q4 2025 / FY2025 results: Revenue $3.96B Q4 / $13.72B FY; Adj EBITDA $780M Q4 / $2.78B FY; GAAP NI $213M Q4 / $935M FY; orders 903M Q4 (+32%); MAU 56M; subs 35M
+- Prior wiki ingest (raw/analyses/DoorDash_Fundamental_Analysis.md.pdf, Mar 2026)
+
+### What Changed from Prior Entry (2026-04-06)
+
+- **Live price**: Unchanged net ($176 → $176.78) but with violent session (–5.6% on Apr 17 from $187.22)
+- **52-week high/low**: High unchanged at ~$285 (Oct 2025). Low now $143.30 (set in March 2026) — stock has re-tested lows and recovered modestly
+- **Analyst consensus**: Has meaningfully widened: Stifel now at $185 (effectively "fair value here"), median still $252–278. The dispersion signals genuine analytical disagreement, not consensus conviction
+- **Insider signal**: Stanley Tang's Apr 2 sale at $150 (52-wk low) is a new data point — the cleanest negative insider signal to date. Alfred Lin's prior $100M buy still dominates in dollar terms
+- **Q1 2026 earnings confirmed**: May 6, 2026 post-close
+- **Short interest added**: 3.45% of float — notably under-shorted vs. 11% peer average. Reframes the behavioral setup from "bears piled in" to "longs capitulating"
+- **Schema change**: Consolidated from 4 files (overview/thesis/financials/changelog) to 2 files (DASH.md + changelog.md) per v2.1 CLAUDE.md. No substantive thesis change — format migration only.
+
+### Thesis Status
+- **Overall**: **Unchanged** — same core thesis, refreshed data. Stock is *interesting* but not a high-conviction buy at $176.78
+- **BAIT delta**:
+  - B: Moderate (unchanged; now reinforced by Tang insider sale and –5.6% session)
+  - A: Moderate (unchanged)
+  - I: Moderate (unchanged; reinforced by new insider data)
+  - T: Weak (unchanged; no new mechanical catalyst)
+  - Overall: Double overlap (B+A+I, all Moderate). Conviction Low-Moderate.
+- **Price target delta (5-yr scenarios)**: Bull $215 (30%) unchanged | Base $110 (50%) unchanged | Bear $50 (20%) unchanged. PW EV ~$130 (5-yr) — still below current $176.78
+- **Catalyst & Sentiment delta**: Analyst target dispersion widened ($185 – $360). Short interest confirmed low. Stanley Tang insider sale at lows added to the watchlist.
+
+### Recommendation
+- **For a non-holder**: **Watch** — initiate only in $140–155 attractive entry zone. At $176.78 the 5-year PW EV ($130) is below spot; inadequate compensation for execution + integration + regulatory risk. Tactical trade on May 6 earnings beat is possible but sizing should reflect binary-outcome risk.
+- **For a current holder**: **Hold** — do not add, do not exit pre-print. Exiting at –38% off highs forfeits the re-rating optionality on a clear H2 re-acceleration print. Add only if price drops into $140–155 AND thesis remains intact.
+
+**Attractive entry zone**: $140 – $155
+**Trim zone**: $245 – $275
+**Exit / avoid zone**: >$300
+
+**Thesis-break triggers**:
+1. Q1 2026 adj EBITDA < $650M absent external shock
+2. Full-year 2026 adj EBITDA guide implies H2 < 55% when refreshed at Q2
+3. U.S. market share falls below 58% for two consecutive quarters
+4. Gig-worker reclassification legislation advances at state or federal level
+5. Advertising revenue growth <25% YoY for two consecutive quarters
+6. Deliveroo FY2026 adj EBITDA < $140M (30% below $200M target)
+7. New commission cap legislation in a top-10 U.S. metro
+8. Tony Xu founder departure
+
+**Next review trigger**: **Q1 2026 earnings — May 6, 2026 (post-close)**. Items to check: (1) adj EBITDA vs. $675–775M guide, (2) H2 pacing commentary + any FY guide update, (3) Deliveroo contribution toward $200M FY target, (4) advertising revenue growth rate, (5) grocery unit economics timeline.
+
+---
+
 ## [2026-04-06] — Initial Ingest (from raw/analyses/DoorDash_Fundamental_Analysis.md.pdf)
 
 **Trigger**: User requested DASH ingest from raw analysis PDF (analysis date: 2026-03-02).

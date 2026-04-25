@@ -80,3 +80,13 @@
 | Gig worker reclassification (federal AB5) | DASH unit economics (existential) | Any federal legislative movement = DASH thesis-break risk |
 | Tariff path (consumer goods) | PG margins; tariff-driven inflation broadly | PG-specific guidance + cross-cutting effect on consumer spending |
 | AI agent commerce protocols | SHOP UCP / Agentic Storefronts narrative | Open standard adoption + checkout share data |
+
+---
+
+## Paused Tickers
+
+*Per Core Rule #15 (v2.5): tickers in this section are excluded from the
+Conviction Ranking and the Friday weekly cron until resumed via
+`resume [TICKER]`. Paused pages are frozen at their pre-pause state.*
+
+*None currently paused.*

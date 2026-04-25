@@ -2,6 +2,7 @@
 
 > **Schema**: v2.1
 > **Last Updated**: 2026-04-24
+> **Status**: Active
 > **Live Price Verified**: $148.18 at April 24, 2026 (Yahoo Finance JSON API)
 > **Ticker Type**: Consumer staples (capital-light branded goods)
 

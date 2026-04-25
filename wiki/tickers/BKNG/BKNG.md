@@ -2,6 +2,7 @@
 
 > **Schema**: v2.1
 > **Last Updated**: 2026-04-24
+> **Status**: Active
 > **Live Price Verified**: $180.25 at April 24, 2026 (Yahoo Finance; post-25-for-1 split effective Apr 2, 2026)
 > **Ticker Type**: Capital-light global travel platform (OTA)
 

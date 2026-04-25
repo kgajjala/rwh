@@ -2,6 +2,7 @@
 
 > **Schema**: v2.2
 > **Last Updated**: 2026-04-24
+> **Status**: Active
 > **Live Price Verified**: $36.25 at April 24, 2026 (Yahoo Finance; previous close $44.76; deep drawdown reflects post-Q4-2025 guidance reset + tariff/FX overhang)
 > **Ticker Type**: Premium consumer brand / DTC + wholesale apparel-footwear
 

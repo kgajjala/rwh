@@ -2,6 +2,7 @@
 
 > **Schema**: v2.2
 > **Last Updated**: 2026-04-24
+> **Status**: Active
 > **Live Price Verified**: $35.25 at April 24, 2026 (Yahoo Finance; pulled back from late-2025 highs)
 > **Ticker Type**: Consumer staples — branded beverages (energy/functional)
 

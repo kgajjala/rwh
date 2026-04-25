@@ -2,6 +2,7 @@
 
 > **Schema**: v2.2
 > **Last Updated**: 2026-04-24
+> **Status**: Active
 > **Live Price Verified**: $41.90 at April 24, 2026 (Yahoo Finance; previous close $59.13; reflects post-Q4 2025 sell-off + housing/R&R cycle weakness)
 > **Ticker Type**: Building products / housing-cyclical industrial
 

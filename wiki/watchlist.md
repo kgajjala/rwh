@@ -14,19 +14,19 @@
 |------|--------|-----------|--------------|-----------------------------|--------------------------------------|---------------|
 | 1 | SCHW | High | Triple (B+A+I-Strong) | PW EV $107 vs. $88.50 = +21% (18mo) | **Initiate** / **Add** (post-beat 52-wk low) | Q2 2026 + FY26 formal guide refresh (~July) |
 | 2 | SHOP | High | Triple+ (B+A-Strong, I, T-Mod) | PW EV $212 vs. $125.83 = +68% (3yr); ~5:1 R/R | **Initiate** / **Add-Hold** | Q1 2026 earnings (~May 2026) |
-| 3 | UNH | Medium-High | Quadruple (B+A+I-Strong, T-Mod) | PW EV $420 vs. $354.92 = +18% (24mo) | **Watch** (entry $300-340) / **Hold-Add** | Q1 2026 earnings (~April-May 2026) |
-| 4 | LLY | High | Triple (A+I-Strong, B-Mod, T-Weak) | PW EV $1,037.50 vs. $883.96 = +17.4% (18mo) | **Initiate measured** / **Hold-Add on pullback** | Orforglipron FDA + Q1 2026 earnings |
+| 3 | UNH | **High (post-Q1 beat)** | Quadruple → B compressed; A+I-Strong preserved | PW EV $420 vs. $354.92 = +18% (24mo); Q1 BEAT confirms recovery on accelerated timing | **Initiate / Add** (Q1 2026 BEAT Apr 21; FY26 EPS guide raised >$18.25) | **Q2 2026 earnings (~late July)** |
+| 4 | LLY | High | Triple (A+I-Strong, B-Mod, T-Weak) | PW EV $1,037.50 vs. $883.96 = +17.4% (18mo) | **Initiate measured** / **Hold-Add on pullback** | Q1 2026 earnings April 30, 2026 (CONFIRMED) |
 | 5 | RKT | Medium | Double (B+A; B-Strong, A-Mod-Strong) | PW EV $22.65 vs. $15.60 = +45% (2-3yr) | **Initiate (Speculative)** / **Hold / Add on weakness** | Q1 2026 earnings April 30, 2026 |
 | 6 | BKNG | High | Triple (B+A-Strong, I+T-Mod) | PW EV $195.50 vs. $180.25 = +8.5% (18mo) | **Initiate** / **Hold-Add** | Q1 2026 earnings (~May 2026) |
 | 7 | DASH | Low-Medium | Double (B+A+I, all Moderate) | PW EV $130 vs. $176.78 = –26% (5yr); +43-57% to median analyst target (12-18mo) | **Watch** (entry $140-155) / **Hold** | Q1 2026 earnings May 6, 2026 |
-| 8 | WING | Medium (was Triple; compressed at recovery) | Triple (lower conviction) | PW EV $199 vs. $189.37 = +5% (compressed) | **Watch** (initiate at $140-160 or post-print) / **Hold** | Q1 2026 SSS print (late Apr/early May) |
+| 8 | WING | Medium (was Triple; compressed at recovery) | Triple (lower conviction) | PW EV $199 vs. $189.37 = +5% (compressed); thesis-break trigger TECHNICALLY ACTIVATED by Q3+Q4 2025 SSS <-5% but already priced in | **Watch** (initiate at $140-160 or post-Q1 inflection) / **Hold** through Apr 29 print | **Q1 2026 SSS print Apr 29, 2026 (CONFIRMED)** |
 | 9 | PG | Medium | Weak (no overlap) | PW EV $154 vs. $148.18 = +4% price + 3% div ≈ +7% total | **Watch** / **Hold** pre-print | **Q3 FY2026 earnings April 24, 2026 (binary)** |
 
 **Ranking rationale notes**:
 - **SCHW vaulted to #1**: Q1 2026 print on April 16 was a clear beat with FY26 EPS guide raised >$5.80; counterintuitively, stock printed a *new 52-wk low at $79.30* the day after. This is the cleanest behavioral mispricing setup in the watchlist.
 - **SHOP at #2 (was #7)**: Recovery from $88 low to $125 + Agentic Storefronts default-on + $2B buyback authorization since v1. Triple-overlap BAIT preserved through the recovery.
-- **UNH at #3 (was #1)**: Recovery is materially playing out (+28% from $277 prior entry); asymmetry has compressed but the Quadruple BAIT verdict is still intact.
-- **WING dropped to #8 (was #4)**: Stock up +24% from $152.51 to $189.37; asymmetry compressed dramatically. Q1 SSS print is now binary — second consecutive negative print would activate the previously-defined thesis-break trigger.
+- **UNH at #3 (post-Q1 beat)**: Q1 2026 print on April 21 was a +9.7% adj EPS beat ($7.23 vs $6.59); FY26 EPS guide raised to >$18.25 (was >$17.75); MCR 83.9% (–90bps YoY) confirms the recovery thesis. Stock jumped +9.3% post-print. Recommendation upgraded from Watch to Initiate / Add.
+- **WING at #8**: Q4 2025 SSS at –5.8% (worse than the –3.3% full-year average reported in v1); Q3 was –5.6%. Two consecutive Q below –5% TECHNICALLY activates the thesis-break trigger. But Citi upgraded to Buy with $230 target on H2 2026 recovery thesis. Q1 print Apr 29 is now the dominant binary catalyst.
 - **DASH at #7**: Stock-specific selloff (–5.6% session on Apr 24) + Stanley Tang sale at 52-wk low + Stifel cut to $185 reinforces the cautious stance. Better entry exists at $140-155.
 
 ---
@@ -37,12 +37,12 @@
 |--------|-------------------|---------------|-------------------|-------------------|
 | **PG** | **Q3 FY2026 earnings April 24, 2026** | **Organic sales growth ≥ 2% + tariff on track** | Show stabilization; multiple re-expansion | Further guidance cut or dividend concern = thesis break |
 | RKT | Q1 2026 earnings April 30, 2026 | Adj revenue ≥ $2.6B + EBITDA run-rate | 5th consecutive beat; re-rates toward $20+ | Below $2.4B without external shock = thesis break |
-| WING | Q1 2026 SSS print (late Apr/early May) | Domestic SSS direction | Inflection / positive print | Second consecutive negative print = thesis break |
+| **WING** | **Q1 2026 SSS print Apr 29, 2026 (CONFIRMED)** | Q1 SSS sequential vs. Q4 –5.8% | Inflection / sequential improvement = thesis re-rated toward Citi $230 | Q1 SSS < –7% = Exit reassessment |
 | DASH | Q1 2026 earnings May 6, 2026 (post-close) | Adj EBITDA ≥ $675M + H2 margin commentary + FY26 guide intact | Re-rating potential to $250 median target | <$650M on no external shock = thesis weakening |
 | SHOP | Q1 2026 earnings (~May 2026) | Revenue growth ≥ +25% + gross margin stable | Thesis continuing | Growth <20% + margins compressed = cautionary |
 | BKNG | Q1 2026 earnings (~May 2026) | Connected Trip % of transactions | Re-rate toward 20× EV/EBITDA | SSS concern; AI disintermediation narrative |
-| UNH | Q1 2026 earnings (~April-May 2026) | Medical Loss Ratio | Multiple expansion catalyst | Thesis-delaying; reassess size |
-| LLY | Q1 2026 earnings (~April-May 2026) | Zepbound + Mounjaro trajectory | Confirm guidance path | Miss → thesis delay |
+| **UNH** | ~~Q1 2026 earnings~~ ✅ **DELIVERED 2026-04-21 (BEAT)** | **Q2 2026 earnings ~late July** | Q2 MCR vs. Q1 83.9% — does recovery extend? | MCR ≤84% = re-rating extends to bull case | MCR >87% = Q1 was seasonal, partial reassessment |
+| LLY | **Q1 2026 earnings April 30, 2026 (CONFIRMED, 6 days)** | Mounjaro+Zepbound vs. $36.5B FY25 base; Foundayo early Rx trends | Confirm $80–83B FY26 path | Miss / guide cut = thesis delay |
 | LLY | Orforglipron FDA approval (2026) | Priority review timeline | Re-rate; oral GLP-1 TAM expansion | Delay → narrative re-ignition |
 | SCHW | Q2 2026 + FY26 formal guidance refresh (~July 2026) | EPS guide above $5.80 floor + NIM trajectory | Multiple expansion to $110+ | Guide held flat = re-base expectations |
 

@@ -4,6 +4,35 @@
 
 ---
 
+## [2026-04-24] — Pre-Q1 Date Confirmation
+
+**Trigger**: Post-v2.1-migration data refresh in advance of LLY Q1 2026 earnings, which is now confirmed for **April 30, 2026** (6 days from this entry). Pre-print landscape check.
+
+**Sources reviewed**:
+- Tradingview / Zacks pre-earnings preview
+- Yahoo Finance / Morningstar Q1 2026 expectations roundup
+- BioPharmaDive, BioSpace pipeline coverage
+
+### What Changed
+- **Q1 2026 earnings date confirmed**: April 30, 2026 (v2.1 migration had "late Apr / early May" as best estimate; now firm)
+- **Consensus expectations**: Q1 revenue ~$17.6B; EPS ~$7.33 [Analyst consensus]
+- **Bull-thesis reaffirmed by management commentary**: FY2026 revenue guide of $80–83B; tirzepatide (Mounjaro + Zepbound) generated $36.5B combined sales in 2025 = ~56% of total revenue
+- **Foundayo (oral GLP-1)**: Management expected to discuss early prescription trends; $1.7B in Foundayo sales expected for FY2026 — a key new pipeline data point
+- **No price change** since v2.1 migration ($883.96)
+
+### Thesis Status
+- **Overall**: **Unchanged** — pre-print catalyst landscape consistent with v2.1 thesis
+- **BAIT delta**: No change; Triple (A+I-Strong, B-Mod, T-Weak) preserved
+- **Price target delta**: Unchanged (Bull $1,300 / Base $1,015 / Bear $700; PW EV $1,037.50 = +17.4%)
+
+### Recommendation
+- **For a non-holder**: **Initiate measured / Watch on pullback** (unchanged) — at $884 the stock is at –22% drawdown but Q1 print is 6 days away; smaller starter position appropriate vs. waiting for $750–$850 zone post-print
+- **For a current holder**: **Hold / Add on pullback** (unchanged) — Q1 print should confirm the $80–83B FY trajectory; do not add aggressively pre-print
+
+**Next review trigger**: **Q1 2026 earnings — April 30, 2026 (CONFIRMED)**. Items to check post-print: (1) revenue tracking vs. $80–83B FY guide, (2) tirzepatide volume vs. price split, (3) Foundayo early prescription trends, (4) orforglipron FDA review status update, (5) manufacturing capex pace, (6) any FY guidance refresh.
+
+---
+
 ## [2026-04-24] — v2.1 Format Migration (Workflow A re-ingest)
 
 **Trigger**: User-directed migration of LLY wiki from v1 (4-file: overview/thesis/financials/changelog) to v2.1 (single consolidated `LLY.md` + changelog.md) per updated CLAUDE.md schema. Prior v1 files deleted; superseded by `LLY.md`.

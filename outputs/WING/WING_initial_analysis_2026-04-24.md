@@ -390,7 +390,7 @@ The SSS decline is the single most-covered topic in QSR sell-side. There is litt
 - International AUVs compressing further (signals that international TAM thesis is shakier than expected)
 - CEO Skipworth departure or any management discontinuity
 
-**Next review trigger**: **Q1 2026 earnings — expected late April / early May 2026**. This is the single most important data point for the thesis. Specific items to check: (1) domestic SSS print vs. flat-to-LSD guide, (2) net new unit pace vs. 465–510 guide, (3) franchisee margin commentary, (4) advertising-fund ROI commentary, (5) any update to 2026 SSS trajectory expectations.
+**Next review trigger**: **Q1 2026 earnings — expected April 29, 2026**. This is the single most important data point for the thesis. Specific items to check: (1) domestic SSS print vs. flat-to-LSD guide, (2) net new unit pace vs. 465–510 guide, (3) franchisee margin commentary, (4) advertising-fund ROI commentary, (5) any update to 2026 SSS trajectory expectations.
 
 ---
 

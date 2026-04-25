@@ -64,7 +64,7 @@ The bull: tirzepatide has decade+ patent life; oral GLP-1 (orforglipron) extends
 | PEG (FY2026E) | ~0.5× | 26× / 50% EPS growth |
 | Tirzepatide FY2025 Revenue | ~$40B | ~61% of total revenue |
 | U.S. Manufacturing Commitment | $50B+ | Multi-year build-out |
-| Q1 2026 Earnings Date | Late April / Early May 2026 | Hard catalyst |
+| Q1 2026 Earnings Date | April 30, 2026 (CONFIRMED) | Hard catalyst |
 
 ---
 
@@ -394,7 +394,7 @@ The –22% pullback from the $1,134 peak reflects "LLY is priced for perfection;
 
 **For a non-holder**: **Initiate** at $883.96 with a measured starter; **Add** aggressively in the $750–$850 zone if reached. The triple-overlap BAIT signal (A-Strong + I-Strong + B-Moderate) and ~+17% 18-month PW EV justify entry. The orforglipron approval is a near-binary upside catalyst that's not fully priced.
 
-**For a current holder**: **Hold** at $884 — do not trim into a –22% drawdown that doesn't break thesis. **Add** on any pullback into $750–$850 (Tranche 2 zone). Q1 2026 earnings (late Apr / early May) is the next confirmation point on $80–83B revenue and orforglipron timing.
+**For a current holder**: **Hold** at $884 — do not trim into a –22% drawdown that doesn't break thesis. **Add** on any pullback into $750–$850 (Tranche 2 zone). Q1 2026 earnings (April 30, 2026 — confirmed) is the next confirmation point on $80–83B revenue and orforglipron timing.
 
 **Attractive entry zone**: **$750 – $850** (rationale: ~22–24× FY2026E EPS; below current 26×; provides margin of safety on oral GLP-1 competition narrative)
 
@@ -412,7 +412,7 @@ The –22% pullback from the $1,134 peak reflects "LLY is priced for perfection;
 - Retatrutide Phase 3 efficacy disappointment (weight loss <20%)
 - David Ricks CEO departure
 
-**Next review trigger**: **Q1 2026 earnings (late April / early May 2026)**. Items to check: (1) revenue tracking vs. $80–83B FY guide, (2) tirzepatide volume vs. price split, (3) Zepbound formulary expansion progress, (4) orforglipron FDA review status, (5) manufacturing capex pace and capacity utilization, (6) any Kisunla ramp data.
+**Next review trigger**: **Q1 2026 earnings (April 30, 2026)**. Items to check: (1) revenue tracking vs. $80–83B FY guide, (2) tirzepatide volume vs. price split, (3) Zepbound formulary expansion progress, (4) orforglipron FDA review status, (5) manufacturing capex pace and capacity utilization, (6) any Kisunla ramp data.
 
 ---
 

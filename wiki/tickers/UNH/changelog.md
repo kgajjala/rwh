@@ -4,6 +4,53 @@
 
 ---
 
+## [2026-04-24] — Q1 2026 Earnings Update (post-print refresh, 3 days after print)
+
+**Trigger**: UNH reported Q1 2026 earnings on **April 21, 2026** — three days before this changelog entry. Big beat with raised FY2026 guidance.
+
+**Sources reviewed**:
+- UnitedHealth Group press release "Reports First Quarter 2026 Results" (2026-04-21)
+- CNBC, Seeking Alpha, BusinessWire coverage
+- Yahoo Finance JSON chart API (UNH 5-day price action)
+
+### What Changed
+- **Q1 2026 results**:
+  - Revenue $111.7B (+2% YoY)
+  - **Adj EPS $7.23 vs. $6.59 consensus = +9.7% beat**
+  - GAAP EPS $6.90 | Operating earnings $9.0B | Net margin 5.6%
+  - Operating cash flow $8.9B (1.4× net income)
+  - **MCR 83.9% vs. 84.8% Q1 2025** — meaningful improvement (the metric the bull thesis required)
+  - Debt-to-capital 42.9%
+- **FY2026 guidance raised**: Adj EPS now **>$18.25** (was >$17.75); GAAP EPS >$17.35
+- **Capital management**: $2B+ buybacks committed through end of Q2 2026
+- **Stock reaction**: Pre-print Apr 20 close $324.63 → 5 sessions later Apr 24 close $354.92 = **+9.3% post-print and holding gains**; small intraday volatility but no give-back
+
+### Thesis Status
+- **Overall**: **STRENGTHENED** — Q1 print decisively closes the binary "is MLR recoverable" question. Recovery thesis is now confirmed on accelerated timing.
+- **BAIT delta**:
+  - B: Strong → Moderate (behavioral mispricing partially corrected by +28% appreciation since prior $277 entry + the +9.3% post-print pop)
+  - A: Strong → Strong (the bridge from $13.23 trough EPS to $18.25+ FY26 is management-committed, not just modeled)
+  - I: Strong → Strong (Q1 disclosures confirm Optum normalization trajectory)
+  - T: Moderate → Moderate (unchanged)
+  - **Overall: Quadruple-overlap preserved but B compressed; conviction Medium-High**
+- **Price target delta**: Bull/Base/Bear weights unchanged; thesis-break trigger "Q1 reported MLR > 89.5%" has been **DE-RISKED** (actual 83.9%)
+- **Catalyst & Sentiment delta**: Q1 line moved from "Upcoming" → "DELIVERED ✅"; Q2 2026 earnings (late July) is now the next hard catalyst
+
+### Recommendation
+- **For a non-holder**: **Initiate / Watch on pullback** (upgraded from "Watch / Initiate selectively"). At $355 the stock is reasonably priced post-confirmation; the $300–$340 attractive entry zone is unlikely to re-print absent unrelated macro shock or DOJ escalation.
+- **For a current holder**: **Hold / Add on dips** (unchanged). Q1 print confirms thesis. Add aggressively only into a sub-$320 dip.
+
+**Updated thesis-break triggers** (post Q1):
+1. DOJ files formal antitrust complaint seeking Optum divestiture (still live tail risk)
+2. Hemsley resignation or Board instability
+3. **Q2 2026 MCR re-expansion to >87%** (signals Q1 was seasonal/one-off)
+4. Optum Health FY2026 adj. earnings < $2B
+5. Sequential MCR worsening for 2 consecutive quarters
+
+**Next review trigger**: **Q2 2026 earnings — late July 2026**. Sequential MCR confirmation gate.
+
+---
+
 ## [2026-04-24] — v2.1 Schema Migration + Recovery-in-Progress Refresh
 
 **Trigger**: Migration of UNH wiki from v1 (4-file: overview/thesis/financials/changelog) to v2.1 (single consolidated `UNH.md` + `changelog.md`). Triggered by user request as part of batch v2.1 rollout. Legacy v1 files deleted; content folded into `UNH.md`. Live price refreshed — recovery has materially advanced since prior ingest.

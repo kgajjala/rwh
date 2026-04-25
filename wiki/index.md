@@ -15,7 +15,7 @@ overview/thesis/financials files have been folded in and deleted).
 | [BKNG](tickers/BKNG/BKNG.md) | Booking Holdings | Wide | High | 2026-04-24 | v2.1 — Triple BAIT (B+A-Strong); Initiate / Hold-Add |
 | [LLY](tickers/LLY/LLY.md) | Eli Lilly | Wide | High | 2026-04-24 | v2.1 — Triple BAIT (A+I-Strong); Initiate measured / Hold-Add on pullback |
 | [WING](tickers/WING/WING.md) | Wingstop | Narrow | Medium | 2026-04-24 | v2.1 — Asymmetry compressed at recovery; Watch / Hold pre-Q1 SSS |
-| [UNH](tickers/UNH/UNH.md) | UnitedHealth Group | Wide | Medium-High | 2026-04-24 | v2.1 — Quadruple BAIT preserved; recovery underway; Watch / Hold-Add |
+| [UNH](tickers/UNH/UNH.md) | UnitedHealth Group | Wide | High | 2026-04-24 | **v2.1 + Q1 2026 BEAT (Apr 21)** — STRENGTHENED; MCR 83.9%, Adj EPS $7.23 vs. $6.59 cons.; FY26 EPS guide raised >$18.25; **Initiate / Add** |
 | [SCHW](tickers/SCHW/SCHW.md) | Charles Schwab | Narrow-Wide | High | 2026-04-24 | **v2.1 + Q1 2026 beat** — STRENGTHENED; Triple BAIT (B+A+I-Strong); Initiate / Add (post-beat 52-wk low) |
 | [RKT](tickers/RKT/RKT.md) | Rocket Companies | Narrow-Emerging Wide | Medium | 2026-04-24 | v2.1 — Double BAIT (B+A); Initiate Spec. / Hold-Add; Q1 print Apr 30 |
 | [SHOP](tickers/SHOP/SHOP.md) | Shopify | Wide | High | 2026-04-24 | v2.1 — STRENGTHENED; Triple+ BAIT; Initiate / Add-Hold |
@@ -31,7 +31,7 @@ overview/thesis/financials files have been folded in and deleted).
 | BKNG | $180.25 | –22.8% (post-split) | +19.7% | Triple (B+A-Strong) | Initiate / Hold-Add |
 | LLY | $883.96 | –22.0% | +41.7% | Triple (A+I-Strong) | Initiate measured / Hold-Add on pullback |
 | WING | $189.37 | –51.2% | +33.1% | Triple (lower conviction) | Watch / Hold pre-Q1 SSS |
-| UNH | $354.92 | –16.4% | +51.3% | Quadruple (B+A+I-Strong, T-Mod) | Watch / Hold-Add (selective $300-340) |
+| UNH | $354.92 | –16.4% | +51.3% | Quadruple → B compressed post-print; A+I-Strong preserved | **Initiate / Add** (post-Q1 beat; FY26 EPS >$18.25 confirmed) |
 | SCHW | $88.50 | –17.7% | +11.6% | Triple (B+A+I-Strong) | **Initiate** / **Add** (post-beat new 52-wk low) |
 | RKT | $15.60 | –35.9% | +40.8% | Double (B+A) | Initiate Spec. / Hold-Add on weakness |
 | SHOP | $125.83 | –30.9% | +42.8% | Triple+ (B+A-Strong+I+T-Mod) | Initiate / Add-Hold |

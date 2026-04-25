@@ -249,10 +249,24 @@ Key international markets: UK, France, UAE, Saudi Arabia (new 2025), Netherlands
 - **Market cap**: ~$5.5B
 - **EV**: ~$6.3B
 
-### Critical Context — Thesis-Break Trigger May Already Be Active
+### Critical Context — Thesis-Break Trigger HAS Already Been Activated
 
-The prior wiki defined a thesis-break trigger of **two consecutive quarters of SSS < –5%**. The FY2025 full-year domestic SSS print of –3.3% has not yet crossed that threshold, BUT:
-- The –51% drawdown from $388 (vs. the prior wiki's –61% off peak measured from $388 to a then-$152 entry) suggests the market has *not* re-rated higher meaningfully
+The prior wiki defined a thesis-break trigger of **two consecutive quarters of SSS < –5%**. **CRITICAL CORRECTION (2026-04-24)**: Fresh data check reveals the –3.3% in prior wiki was the **full-year FY2025 number**, but the **quarterly decomposition is**:
+
+| Quarter | Domestic SSS |
+|---------|--------------|
+| Q1 2025 | +0.5% |
+| Q2 2025 | –1.9% |
+| Q3 2025 | **–5.6%** |
+| Q4 2025 | **–5.8%** |
+| FY2025 (full year) | –3.3% |
+
+**Both Q3 AND Q4 2025 printed worse than –5%** — meeting the previously-defined thesis-break trigger on a strict reading. However, the trigger was framed in v1 as "would force re-rating toward Reduce / Exit" — and that re-rating has already occurred (stock –51% from peak; –22% since prior wiki's $152 entry to today's $189 is recovery, not further breakdown). The market is pricing this in.
+
+Sell-side reaction: **Citi upgraded WING to Buy with a $230 target**, citing "second-half 2026 recovery comes into view" — analysts are bridging through the Q1/Q2 2026 trough rather than capitulating. Q1 2026 print on **April 29** is the binary catalyst: (a) further deterioration vs. Q4's –5.8% = Exit reassessment; (b) sequential improvement / inflection toward FY26 guide of "flat to LSD growth" = re-rating toward $230.
+
+Other contextual notes:
+- The –51% drawdown from $388 has compressed from the prior wiki's view of asymmetric value at $152
 - The market is pricing in a worse-than-guidance Q1 2026 SSS print (i.e., consensus is implicitly bearish)
 - A Q1 2026 print of –5% or worse would explicitly activate the thesis-break trigger and warrant an Exit-side reassessment
 
@@ -390,7 +404,7 @@ The SSS decline is the single most-covered topic in QSR sell-side. There is litt
 - International AUVs compressing further (signals that international TAM thesis is shakier than expected)
 - CEO Skipworth departure or any management discontinuity
 
-**Next review trigger**: **Q1 2026 earnings — expected late April / early May 2026**. This is the single most important data point for the thesis. Specific items to check: (1) domestic SSS print vs. flat-to-LSD guide, (2) net new unit pace vs. 465–510 guide, (3) franchisee margin commentary, (4) advertising-fund ROI commentary, (5) any update to 2026 SSS trajectory expectations.
+**Next review trigger**: **Q1 2026 earnings — expected April 29, 2026**. This is the single most important data point for the thesis. Specific items to check: (1) domestic SSS print vs. flat-to-LSD guide, (2) net new unit pace vs. 465–510 guide, (3) franchisee margin commentary, (4) advertising-fund ROI commentary, (5) any update to 2026 SSS trajectory expectations.
 
 ---
 

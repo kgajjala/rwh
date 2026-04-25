@@ -4,6 +4,49 @@
 
 ---
 
+## [2026-04-24] — Pre-Q1 Refresh: Quarterly SSS Decomposition + Citi Upgrade + Date Confirmation
+
+**Trigger**: Post-v2.1-migration data refresh in advance of WING Q1 2026 earnings on **April 29, 2026** (5 days from this entry). Two material data corrections discovered.
+
+**Sources reviewed**:
+- WING IR Q4 2025 / FY2025 release (Feb 18, 2026)
+- Yahoo Finance article: "Wingstop Upgraded to Buy by Citi With $230 Target as Second-Half Recovery Comes Into View"
+- MarketBeat WING earnings calendar (Q1 2026 confirmed for April 29, 2026)
+- Stocktitan SEC-filings 8-K reports
+- Motley Fool transcripts
+
+### What Changed
+- **Quarterly SSS decomposition discovered**: The –3.3% in v1/v2.1 wiki was the *full-year* FY2025 number. Quarterly breakdown:
+  - Q1 2025: +0.5%
+  - Q2 2025: –1.9%
+  - Q3 2025: **–5.6%**
+  - Q4 2025: **–5.8%**
+  - **CRITICAL**: Both Q3 AND Q4 2025 printed below –5%, **technically activating the previously-defined thesis-break trigger** ("two consecutive quarters of SSS < –5%")
+- **Citi analyst upgrade**: WING upgraded to Buy with **$230 price target** on "second-half 2026 recovery comes into view" thesis — sell-side bridging through trough, not capitulating
+- **Q1 2026 earnings date confirmed**: April 29, 2026 (was guided as "late April / early May" in v2.1 migration; now firm)
+- **No price change** since v2.1 migration ($189.37 unchanged)
+
+### Thesis Status
+- **Overall**: **Unchanged but with material new context** — Trigger has been activated on a strict reading, but the market has already re-rated (–51% from peak). Citi upgrade suggests sell-side is bridging the trough rather than throwing in the towel. The recommendation framework already reflected this risk; the new data sharpens but doesn't break the thesis.
+- **BAIT delta**: No change; Triple (lower conviction) preserved
+- **Price target delta**: Unchanged (Bull $280/Base $200/Bear $130)
+- **Catalyst & Sentiment delta**: Citi $230 target added to consensus; Q1 2026 print upgraded from "late Apr / early May" to "April 29 (5 days)"
+
+### Recommendation
+- **For a non-holder**: **Watch / continue waiting** — Q1 print on April 29 is binary. Initiate only if (a) price drops to $140–160 PRE-print on macro selloff, OR (b) Q1 print shows sequential improvement vs. Q4's –5.8%, OR (c) management commentary confirms FY26 guide of flat-to-LSD growth is achievable.
+- **For a current holder**: **Hold through April 29** — exit pre-print only if position is oversized; trim into any rip above $230 (Citi target) absent confirmed inflection.
+
+**Updated thesis-break triggers**:
+1. Q1 2026 SSS < –7% (further deceleration vs. Q4's –5.8%)
+2. FY2026 guidance reduced below "flat" (current guide: flat to LSD growth)
+3. Net unit growth slowdown to <12% YoY (signal of franchisee distress)
+4. AUV decline >5% YoY in Q1
+5. (DE-LISTED): "Two consecutive quarters of SSS < –5%" — already activated by Q3/Q4 2025; market has already re-rated
+
+**Next review trigger**: **Q1 2026 earnings — April 29, 2026 (post-close, expected)**. The single dominant catalyst.
+
+---
+
 ## [2026-04-24] — v2.1 Schema Migration + Price Refresh (Workflow A consolidation)
 
 **Trigger**: Migration of WING wiki from v1 (4-file: overview/thesis/financials/changelog) to v2.1 (single consolidated `WING.md` + `changelog.md`). Triggered by user request as part of batch v2.1 rollout. Legacy v1 files (overview.md, thesis.md, financials.md) deleted; content folded into `WING.md`. Live price refreshed.

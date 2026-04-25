@@ -4,6 +4,28 @@
 
 ---
 
+## [2026-04-25] — Risk/Reward Precision Fix (Summary + Section 14 + Section 15 + Watchlist)
+
+**Trigger**: User audit caught that the Summary line cited "~5:1 risk/reward" but the page's own Section 13 scenarios (Bear $113 –10%, Bull $252 +100%) imply **~10:1** by standard headline R/R math (upside % / downside %), or **~15:1** including the Bull+ $325 tail (+158%).
+
+**Root cause**: The "5:1" figure was anchored to the **$85 thesis-break alert level** (Section 11) — a stop-loss-style downside of ~32% — rather than the modeled Bear case at $113. Using the thesis-break floor as the downside is a defensible alternative framing but was inconsistent with the rest of the page (which is built on the Section 13 scenario set). The figure also propagated into the watchlist Price Targets table which used a different 3-scenario set (Bear $90 / Base $200 / Bull $300, PW EV $208) instead of the canonical 4-scenario SHOP.md Section 13 (PW EV $212).
+
+### What Changed
+- **SHOP.md Summary** (line 22): "~5:1 risk/reward" → "**~10:1 risk/reward** (Bull $252 / Bear $113 per Section 13; rises to ~15:1 with the Bull+ $325 tail)" with a brief note explaining the prior $85-thesis-break-floor anchor.
+- **SHOP.md Section 14 Interpretation**: Rewrote risk/reward sentence to compute the headline ratio (10:1) explicitly from Section 13 scenarios + show the alternative ($85 anchor) calculation for transparency (~3:1 to ~5:1).
+- **SHOP.md Section 15 "For a non-holder"**: "~5:1 risk/reward" → "~10:1 risk/reward Bull-vs-Bear per Section 13 scenarios".
+- **wiki/watchlist.md Conviction Ranking SHOP row**: Updated R/R figure to reflect Section 13 canonical scenarios.
+- **wiki/watchlist.md Price Targets Summary SHOP row**: Harmonized 3-scenario representation to match canonical 4-scenario PW EV — Bear $113 (15%) / Base $193 (45%) / Bull blend $270 (40%, weighted average of $252/$325). Math reconciles: $113×15% + $193×45% + $270×40% = $211.80 ≈ $212. ✓
+
+### Audit findings on other tickers
+- **BRK.B 2.8:1 R/R verified consistent**: Bull $650 (+38.5%) / Bear $405 (–13.7%) = 2.81 ✓ — correctly computed against Section 13 scenarios.
+- **Suggestion for future schema refinement**: Add a "Risk/Reward Calculation Discipline" guideline ensuring the R/R ratio cited in Summary, Section 14, and watchlist all anchor to the same Section 13 scenario set. Not bumping schema for this micro-rule; flagging as a v2.8 candidate.
+
+### Thesis Status
+- **Overall**: Unchanged — this is a precision/consistency fix, not a thesis revision. The corrected ~10:1 framing is *more bullish* than the prior 5:1 (since it accurately reflects the modeled scenarios) but PW EV and recommendations are unchanged.
+
+---
+
 ## [2026-04-25] — v2.7 Primary-Source Enrichment (5-Year 10-Ks + Pattern B Quarterly Letters)
 
 **Trigger**: First Workflow B refresh under CLAUDE.md v2.7 (5-year 10-K baseline + Pattern B quarterly-letter substitution). SHOP used as the test case to validate that v2.7 mechanics work on a Pattern B publisher (Tobi Lütke does not write Buffett-style standalone annual letters; Shopify publishes quarterly letters with each earnings release).

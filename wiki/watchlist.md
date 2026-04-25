@@ -13,7 +13,7 @@
 | Rank | Ticker | Conviction | BAIT Overlap | Asymmetry (PW EV vs. price) | Recommendation (non-holder / holder) | Next Catalyst |
 |------|--------|-----------|--------------|-----------------------------|--------------------------------------|---------------|
 | 1 | SCHW | High | Triple (B+A+I-Strong) | PW EV $107 vs. $88.50 = +21% (18mo) | **Initiate** / **Add** (post-beat 52-wk low) | Q2 2026 + FY26 formal guide refresh (~July) |
-| 2 | SHOP | High | Triple+ (B+A-Strong, I, T-Mod) | PW EV $212 vs. $125.83 = +68% (3yr); ~5:1 R/R | **Initiate** / **Add-Hold** | Q1 2026 earnings (~May 2026) |
+| 2 | SHOP | High | Triple+ (B+A-Strong, I, T-Mod) | PW EV $212 vs. $125.83 = +68% (3yr); ~10:1 R/R (Bull $252 / Bear $113 per Section 13; ~15:1 with Bull+ tail) | **Initiate** / **Add-Hold** | Q1 2026 earnings (~May 2026) |
 | 3 | UNH | **High (post-Q1 beat)** | Quadruple → B compressed; A+I-Strong preserved | PW EV $420 vs. $354.92 = +18% (24mo); Q1 BEAT confirms recovery on accelerated timing | **Initiate / Add** (Q1 2026 BEAT Apr 21; FY26 EPS guide raised >$18.25) | **Q2 2026 earnings (~late July)** |
 | 4 | LLY | High | Triple (A+I-Strong, B-Mod, T-Weak) | PW EV $1,037.50 vs. $883.96 = +17.4% (18mo) | **Initiate measured** / **Hold-Add on pullback** | Q1 2026 earnings April 30, 2026 (CONFIRMED) |
 | 5 | RKT | Medium | Double (B+A; B-Strong, A-Mod-Strong) | PW EV $22.65 vs. $15.60 = +45% (2-3yr) | **Initiate (Speculative)** / **Hold / Add on weakness** | Q1 2026 earnings April 30, 2026 |
@@ -62,7 +62,7 @@
 | UNH | $354.92 | $260 (25%) | $410 (45%) | $550 (30%) | ~$420 | +18% (24mo) |
 | SCHW | $88.50 | $70 (20%) | $108 (50%) | $130 (30%) | ~$107 | +21% (18mo) |
 | RKT | $15.60 | $9 (20%) | $22 (55%) | $35 (25%) | ~$22.65 | +45% (2-3yr) |
-| SHOP | $125.83 | $90 (20%) | $200 (50%) | $300 (30%) | ~$212 | +68% (3yr); ~5:1 R/R |
+| SHOP | $125.83 | $113 (15%) | $193 (45%) | $270 blend (40%) | ~$212 | +68% (3yr); ~10:1 R/R Bull-vs-Bear |
 | DASH | $176.78 | $50 (20%) | $110 (50%) | $215 (30%) | ~$130 | –26% (5yr terminal); +43-57% to analyst median (12-18mo) |
 | PG | $148.18 | $125 (30%) | $160 (45%) | $177.50 (25%) | ~$154 | +7% total (price + dividend, 3yr) |
 

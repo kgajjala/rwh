@@ -19,7 +19,7 @@
 - 📅 **Next catalyst**: **Q1 2026 earnings — ~May 2026**. Tests low-30s% revenue guide; first quarter with Agentic Storefronts default-on.
 - ⚠️ **Top risk**: Revenue deceleration <20% (Low-Moderate prob, High impact) — 84× P/E does not survive sub-20%.
 - ⚠️ **Second risk**: Multiple compression on broad SaaS reset (Moderate prob, High impact).
-- 🟢 **BAIT verdict**: **Triple overlap (B+A+I)** — Conviction **Moderate-High**. PW EV ~$212 (3-yr) implies +68% / ~19%/yr; ~5:1 risk/reward.
+- 🟢 **BAIT verdict**: **Triple overlap (B+A+I)** — Conviction **Moderate-High**. PW EV ~$212 (3-yr) implies +68% / ~19%/yr; **~10:1 risk/reward** (Bull $252 / Bear $113 per Section 13; rises to ~15:1 with the Bull+ $325 tail). The prior "~5:1 R/R" framing in some surfaces was anchored to the $85 thesis-break floor rather than the modeled Bear case — corrected per the Section 13 scenario set.
 - 📈 **Primary-source signal (5-year Tobi Lütke + 5-year 10-K Item 1A arc, per CLAUDE.md v2.7 Rules #19+#20)**: The **first-ever $2B buyback** authorized at the $125–135 zone (Feb 2026) is the cleanest possible Tobi-Lütke intrinsic-value signal in 11 years of public-company history (Shopify never bought back stock 2015–2025). The April 2025 *"AI is non-optional"* memo + UCP open-standard framing make Shopify the *creator* of agentic commerce, not the disruption target. The 5-year Item 1A arc shows AI risk language **added in FY2023 10-K → upgraded to platform-strategic in FY2024 → execution risk in FY2025** — a healthy worldview-shift trajectory that aggregator data missed.
 
 ---
@@ -536,7 +536,7 @@ Underappreciated primary-source data:
 |--------------|-------|--------------|-----------|
 | $125.83 | $212 | **+68%** | ~+19%/yr |
 
-**Interpretation**: PW EV of ~$212 vs. spot $125.83 = +68% upside over 3 years (~19%/yr). Asymmetry is favorable: Bull/Bull+ combined probability 40% offers +100% to +158%; Bear (15% probability) implies –10%. Risk/reward roughly **5:1 favorable**, marginally less attractive than at the $117 trough but still compelling.
+**Interpretation**: PW EV of ~$212 vs. spot $125.83 = +68% upside over 3 years (~19%/yr). Asymmetry is favorable: Bull/Bull+ combined probability 40% offers +100% to +158%; Bear (15% probability) implies –10%. **Headline risk/reward ratio = +100% / 10% = ~10:1** (Bull vs. Bear); rises to **~15.8:1** comparing the Bull+ tail (+158%) against the Bear (–10%). If anchored instead to the $85 thesis-break alert level (a stop-loss-style downside of ~32%), the ratio is closer to ~3:1 to ~5:1 — a more conservative framing some investors prefer. Either way the asymmetry is favorable, and marginally less attractive than at the $117 trough but still compelling.
 
 ---
 
@@ -544,7 +544,7 @@ Underappreciated primary-source data:
 
 **Thesis in one sentence**: Shopify is the dominant independent commerce-infrastructure platform with widening switching costs, accelerating revenue growth (+30% at $11.6B scale), $2B FCF, the first-ever buyback, and a first-mover position in agentic AI commerce that the market has *partially* re-rated from disruption-fear pricing — recovery from $88 to $126 leaves room for another 50%+ if Q1 2026 confirms low-30s% growth.
 
-**For a non-holder**: 🟢 **Initiate** at $125.83 — current price sits at the upper edge of the attractive entry zone. Asymmetry is favorable (PW EV $212, ~+68% over 3 years; ~5:1 risk/reward). The stronger setup would be a drawback to $100–$110, but waiting for it forfeits the Q1 2026 catalyst optionality.
+**For a non-holder**: 🟢 **Initiate** at $125.83 — current price sits at the upper edge of the attractive entry zone. Asymmetry is favorable (PW EV $212, ~+68% over 3 years; ~10:1 risk/reward Bull-vs-Bear per Section 13 scenarios). The stronger setup would be a drawback to $100–$110, but waiting for it forfeits the Q1 2026 catalyst optionality.
 
 **For a current holder**: 🟢 **Add / Hold** — no reason to trim at $126 with PW EV ~$212. Add aggressively on any drawback toward $100–$110. The thesis has *strengthened* since the v1 ingest at $117–121: the Q4 FY2025 print confirmed +30% growth, the $2B buyback was authorized, and the recovery off $88 demonstrated that the Bear case (revenue deceleration to 12–15%) is not appearing in operating data.
 

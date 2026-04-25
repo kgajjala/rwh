@@ -284,6 +284,78 @@ kg-invest-wiki/
       framework, succession-discount mispricing, operational
       quantification not present in any prior letter). Aggregator
       summaries flattened these distinctions; the letters did not.
+20. **10-K MD&A and Risk Factors are required primary sources**.
+    The 10-K is fetched in Workflow A Step 2 and is the most
+    authoritative single document for understanding the business,
+    its segments, its risks, and management's own framing of
+    operating performance. Fetching alone is insufficient — the
+    10-K must be *synthesized*, with verbatim segment commentary
+    and Risk Factors quotes integrated into the relevant sections
+    of the wiki page. Aggregators (stockanalysis.com, Macrotrends,
+    Yahoo Finance) parse the 10-K but flatten the management
+    commentary; the 10-K MD&A explains *why* numbers moved, not
+    just what they were.
+    - **Required integration map** (which 10-K Item feeds which
+      wiki section):
+
+      | 10-K Item | Wiki Section(s) | What to extract |
+      |---|---|---|
+      | Item 1 (Business) | §1 (Why Exist), §4 (Revenue Mix) | Founding insight, segment definitions, business-model description |
+      | Item 1A (Risk Factors) | **§8 (Key Risks)** | Verbatim risk-factor language for the highest-impact 6–8 risks; flag any *new* risks added vs. prior 10-K |
+      | Item 7 (MD&A) | **§2 (Financial Metrics), §5 (Moat), §9 (Macro)** | Segment-level revenue/earnings driver commentary; competitive dynamics; macro sensitivity language |
+      | Item 7A (Market Risk) | §8 (Key Risks), §9 (Macro) | Quantified rate, FX, commodity sensitivities |
+      | Item 8 (Statements & Notes) | §2, §4, §10 (Valuation) | Segment data tables, contingencies, debt structure, share count detail |
+      | Item 15 / DEF 14A | §6 (Management) | Exec comp, board, insider ownership |
+
+    - **Synthesis pattern in §2**: Add a `### Primary Source: 10-K
+      Segment Detail (FY[N])` subsection (analogous to the
+      shareholder-letter pattern in §6) containing a segment table
+      and 3–5 bullets of MD&A-derived insight that the headline
+      numbers do not convey on their own. Direct quotes from the
+      MD&A are encouraged. Example pattern from BRK.B v2.6: BNSF
+      operating margin +250bps to 34.5% with the *"lower operating
+      expenses from improved operating efficiencies, lower
+      litigation accruals, and a lower effective income tax rate"*
+      MD&A explanation — that commentary changes the read from
+      "BNSF was up" to "BNSF margin expansion is structurally
+      cost-discipline-driven and repeatable."
+    - **Synthesis pattern in §8**: Risk Factors should not be a
+      generic list invented by the agent. Each row in the
+      Impact × Probability × Priced-In table must be supported
+      either by an Item 1A risk-factor quote, by management
+      commentary in MD&A, or by an external primary source
+      (regulator, court filing). Risks that exist *only* in
+      analyst speculation but are not surfaced anywhere in the
+      10-K should be tagged `*[Analyst speculation]*` so the
+      reader can weigh them differently.
+    - **Year-over-year comparison**: When the new fiscal year's
+      10-K is fetched in an incremental run, *diff against the
+      prior year's 10-K Item 1A* — newly-added Risk Factors are
+      management's clearest signal that something material has
+      changed (often before it shows up in earnings). Any *added*
+      risk factors should drive a §8 update with a `[NEW in
+      FY[N] 10-K]` tag in the Notes column.
+    - **Workflow B (incremental)**: A new 10-K filing (typically
+      Feb–March each year) is already a Meaningful Event (the
+      "Earnings: 10-K filing" entry in the list below). Step 3a
+      must include §2 segment-detail refresh + §8 Risk Factors
+      diff against prior year + §5 / §9 MD&A update where
+      relevant.
+    - **Source preference**: Direct fetch from
+      `[company]/[year]ar/[year]ar.pdf` or SEC EDGAR HTML version
+      of the 10-K > intermediate analyst summaries (e.g.
+      Stansberry, Insurance Business, Morningstar) > aggregator
+      summaries. PDF binary parsing is unreliable; if the PDF
+      fetch returns binary, fall back to the SEC EDGAR HTML
+      version or to high-quality analyst summaries that explicitly
+      quote the 10-K. Always cite the 10-K as the underlying
+      source, even when working from an intermediate.
+    - **Rationale**: Added in v2.6 alongside Rule #19 after the
+      BRK.B ingest revealed that 10-K MD&A segment commentary
+      (BNSF margin drivers, BHE PacifiCorp wildfire reserve
+      normalization, GEICO ad-spend framing) was materially more
+      informative than aggregator data. Aggregators report the
+      *what*; 10-K MD&A explains the *why*.
 
 ---
 
@@ -437,16 +509,33 @@ Do not fabricate filings. If something is unavailable, log the gap and move on.
 Compile from the raw set, not from prior media summaries. Cite primary source for
 every material claim. Tag estimates explicitly.
 
-**Shareholder letter integration** (per Core Rule #19): Section 7
-(Recent Management Commentary) MUST quote each of the last 5 letters
-verbatim, mapped to investment relevance. When the letters reveal a
-multi-year framework arc — capital allocation philosophy, succession
-messaging, segment-level emphasis evolution — add a "5-Year [Topic]
-Arc" subsection or table that traces the chronology. The arc is
-analytically valuable because it surfaces continuity vs. inflection
-that single-letter readings miss. Sections 5 (Moat) and 6 (Management)
-should also pull verbatim quotes when the letters specifically address
-moat sources, executive endorsements, or capital-allocation discipline.
+**Shareholder letter integration** (per Core Rule #19): Section 6
+(Management & Leadership) MUST contain a `### Recent Management
+Commentary — Primary Source Synthesis` subsection that quotes each
+of the last 5 letters verbatim, mapped to investment relevance. When
+the letters reveal a multi-year framework arc — capital allocation
+philosophy, succession messaging, segment-level emphasis evolution —
+add a "5-Year [Topic] Arc" subsection or table that traces the
+chronology. Sections 5 (Moat) and 6 (Management) should also pull
+verbatim quotes when the letters specifically address moat sources,
+executive endorsements, or capital-allocation discipline.
+
+**10-K MD&A and Risk Factors integration** (per Core Rule #20):
+Read Item 1A (Risk Factors) and Item 7 (MD&A) directly — do not
+rely on aggregator summaries for narrative content. (a) Section 2
+gets a `### Primary Source: 10-K Segment Detail (FY[N])` subsection
+with verbatim MD&A commentary explaining segment drivers — *why*
+numbers moved, not just *what* they were. (b) Section 8 (Key Risks)
+must derive each risk from a 10-K Item 1A risk factor or MD&A
+commentary; rows that come from analyst speculation get an
+`*[Analyst speculation]*` tag. (c) When a new 10-K is filed in
+Workflow B, *diff Item 1A* against the prior year's 10-K — newly
+added risk factors are management's clearest signal of material
+change and must drive a Section 8 update with a `[NEW in FY[N]
+10-K]` tag. (d) If the 10-K PDF returns binary (common for large
+PDFs via WebFetch), fall back to SEC EDGAR HTML version or
+high-quality analyst summaries that explicitly quote the 10-K —
+always cite the 10-K as the underlying source.
 
 ### Step 5 — Write wiki files
 - `wiki/tickers/[TICKER]/[TICKER].md` — single consolidated wiki page. Required structure:
@@ -994,7 +1083,7 @@ version (v3, v4, ...). Minor edits within a version are fine without bump.
   citations and added Summary sections to all 34 ticker pages
   without re-fetching primary sources or recomputing analysis.
 
-### v2.6 changelog (April 2026 — annual shareholder letters as required primary source)
+### v2.6 changelog (April 2026 — primary-source synthesis depth: shareholder letters + 10-K MD&A)
 - **Added Core Rule #19: Annual shareholder letters are required
   primary sources.** Every Workflow A ingest must fetch and
   synthesize the **last 5 annual shareholder letters** (CEO/founder
@@ -1011,6 +1100,24 @@ version (v3, v4, ...). Minor edits within a version are fine without bump.
   present in any prior letter — *"each percentage point of margin
   improvement = ~$230M of incremental cash flow"* from Abel's
   FY2025 letter). Aggregator summaries flattened these distinctions.
+- **Added Core Rule #20: 10-K MD&A and Risk Factors are required
+  primary sources.** Fetching the 10-K alone (already required since
+  v1) is insufficient — the 10-K must be *synthesized*, with
+  verbatim Item 1A (Risk Factors) and Item 7 (MD&A) commentary
+  integrated into the relevant sections. Specifically: §2 gets a
+  `### Primary Source: 10-K Segment Detail (FY[N])` subsection;
+  §8 (Key Risks) derives each row from Item 1A or MD&A (analyst
+  speculation tagged `*[Analyst speculation]*`); §5 / §9 pull MD&A
+  competitive-dynamics and macro-sensitivity language. **Workflow B
+  must diff Item 1A year-over-year** — newly-added risk factors are
+  management's earliest signal of material change and drive §8
+  updates with `[NEW in FY[N] 10-K]` tags. PDF fetch failures fall
+  back to SEC EDGAR HTML or analyst summaries that quote the 10-K
+  directly. Rationale: the BRK.B ingest revealed that 10-K MD&A
+  commentary (BNSF margin drivers, BHE PacifiCorp wildfire reserve
+  normalization, GEICO intentional ad-spend framing) was materially
+  more informative than aggregator data — aggregators report *what*
+  moved, the 10-K MD&A explains *why*.
 - **New raw subfolder**: `raw/[TICKER]/shareholder-letters/`. Files
   named by *fiscal year covered* (not publication year), e.g.
   `2024_letter.pdf` for Buffett's letter published Feb 2025

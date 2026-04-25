@@ -51,7 +51,7 @@ Three observable proofs over the next 12–24 months will answer:
 
 | Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
 |---|---|---|---|---|---|
-| Revenue ($B) | 276.2 | 302.0 | 364.5 | 371.4 | 371.4 |
+| Revenue ($B) | 276.2 | 302.0 | 364.5 | 371.43 | 371.44 |
 | **Operating Earnings ($B)** | **27.6** | 30.9 | 37.4 | **47.4** | **44.5** |
 | Operating Earnings YoY | — | +12% | +21% | +27% | –6% |
 | Net Earnings ($B, GAAP — incl. mark-to-market) | 89.9 | (22.8) | 96.2 | 89.0 | 67.0 |

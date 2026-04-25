@@ -116,8 +116,8 @@ Source: [Berkshire 2025 Annual Report](https://www.berkshirehathaway.com/2025ar/
 
 | Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026E |
 |---|---|---|---|---|---|---|
-| Revenue ($B) | 276.2 | 302.0 | 364.5 | 371.4 | 371.4 | ~378–385 |
-| Revenue Growth YoY % | +12.5% | +9.4% | +20.7% | +1.9% | 0.0% | +2–4% |
+| Revenue ($B) | 276.2 | 302.0 | 364.5 | 371.43 | 371.44 | ~378–385 |
+| Revenue Growth YoY % | +12.5% | +9.4% | +20.7% | +1.9% | ~0.0% (+$11M) | +2–4% |
 | Operating Income (GAAP) ($B) | 36.6 | 39.9 | 48.3 | 60.9 | 58.0 | *[Estimate]* ~55–60 |
 | **Operating Earnings (BRK Adj.) ($B)** | **27.6** | 30.9 | 37.4 | **47.4** | **44.5** | *[Mgmt]* not guided |
 | Operating Earnings Growth % | — | +12% | +21% | +27% | –6% | — |

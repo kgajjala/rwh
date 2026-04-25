@@ -3,7 +3,7 @@
 *Position-agnostic per v2.1 schema (Core Rule #3): no portfolio allocation, no target %, no form (stock/options) splits. This file is pure analysis.*
 
 *Updated by LLM agent after each full thesis cycle, earnings update, or v2.x schema migration.*
-*Last updated: 2026-04-24*
+*Last updated: 2026-04-25 (BRK.B added via Workflow A initial ingest).*
 *Prices verified via Yahoo Finance JSON API on 2026-04-24.*
 
 ---
@@ -18,16 +18,18 @@
 | 4 | LLY | High | Triple (A+I-Strong, B-Mod, T-Weak) | PW EV $1,037.50 vs. $883.96 = +17.4% (18mo) | **Initiate measured** / **Hold-Add on pullback** | Q1 2026 earnings April 30, 2026 (CONFIRMED) |
 | 5 | RKT | Medium | Double (B+A; B-Strong, A-Mod-Strong) | PW EV $22.65 vs. $15.60 = +45% (2-3yr) | **Initiate (Speculative)** / **Hold / Add on weakness** | Q1 2026 earnings April 30, 2026 |
 | 6 | BKNG | High | Triple (B+A-Strong, I+T-Mod) | PW EV $195.50 vs. $180.25 = +8.5% (18mo) | **Initiate** / **Hold-Add** | Q1 2026 earnings (~May 2026) |
-| 7 | DASH | Low-Medium | Double (B+A+I, all Moderate) | PW EV $130 vs. $176.78 = –26% (5yr); +43-57% to median analyst target (12-18mo) | **Watch** (entry $140-155) / **Hold** | Q1 2026 earnings May 6, 2026 |
-| 8 | WING | Medium (was Triple; compressed at recovery) | Triple (lower conviction) | PW EV $199 vs. $189.37 = +5% (compressed); thesis-break trigger TECHNICALLY ACTIVATED by Q3+Q4 2025 SSS <-5% but already priced in | **Watch** (initiate at $140-160 or post-Q1 inflection) / **Hold** through Apr 29 print | **Q1 2026 SSS print Apr 29, 2026 (CONFIRMED)** |
-| 9 | PG | Medium | Weak (no overlap) | PW EV $154 vs. $148.18 = +4% price + 3% div ≈ +7% total | **Watch** / **Hold** pre-print | **Q3 FY2026 earnings April 24, 2026 (binary)** |
+| 7 | BRK.B | Medium-High | Triple (B+I-Strong, A-Mod) | PW EV $543 vs. $469.32 = +15.7% (3yr); +6–7%/yr total incl. buyback uplift; ~2.8:1 R/R | **Initiate (small/scaled)** / **Hold-Add** (Abel's Mar 4 buyback at zone = soft floor) | **Annual Mtg + Q1 2026 earnings May 3, 2026** |
+| 8 | DASH | Low-Medium | Double (B+A+I, all Moderate) | PW EV $130 vs. $176.78 = –26% (5yr); +43-57% to median analyst target (12-18mo) | **Watch** (entry $140-155) / **Hold** | Q1 2026 earnings May 6, 2026 |
+| 9 | WING | Medium (was Triple; compressed at recovery) | Triple (lower conviction) | PW EV $199 vs. $189.37 = +5% (compressed); thesis-break trigger TECHNICALLY ACTIVATED by Q3+Q4 2025 SSS <-5% but already priced in | **Watch** (initiate at $140-160 or post-Q1 inflection) / **Hold** through Apr 29 print | **Q1 2026 SSS print Apr 29, 2026 (CONFIRMED)** |
+| 10 | PG | Medium | Weak (no overlap) | PW EV $154 vs. $148.18 = +4% price + 3% div ≈ +7% total | **Watch** / **Hold** pre-print | **Q3 FY2026 earnings April 24, 2026 (binary)** |
 
 **Ranking rationale notes**:
 - **SCHW vaulted to #1**: Q1 2026 print on April 16 was a clear beat with FY26 EPS guide raised >$5.80; counterintuitively, stock printed a *new 52-wk low at $79.30* the day after. This is the cleanest behavioral mispricing setup in the watchlist.
 - **SHOP at #2 (was #7)**: Recovery from $88 low to $125 + Agentic Storefronts default-on + $2B buyback authorization since v1. Triple-overlap BAIT preserved through the recovery.
 - **UNH at #3 (post-Q1 beat)**: Q1 2026 print on April 21 was a +9.7% adj EPS beat ($7.23 vs $6.59); FY26 EPS guide raised to >$18.25 (was >$17.75); MCR 83.9% (–90bps YoY) confirms the recovery thesis. Stock jumped +9.3% post-print. Recommendation upgraded from Watch to Initiate / Add.
-- **WING at #8**: Q4 2025 SSS at –5.8% (worse than the –3.3% full-year average reported in v1); Q3 was –5.6%. Two consecutive Q below –5% TECHNICALLY activates the thesis-break trigger. But Citi upgraded to Buy with $230 target on H2 2026 recovery thesis. Q1 print Apr 29 is now the dominant binary catalyst.
-- **DASH at #7**: Stock-specific selloff (–5.6% session on Apr 24) + Stanley Tang sale at 52-wk low + Stifel cut to $185 reinforces the cautious stance. Better entry exists at $140-155.
+- **WING at #9** (was #8): Q4 2025 SSS at –5.8% (worse than the –3.3% full-year average reported in v1); Q3 was –5.6%. Two consecutive Q below –5% TECHNICALLY activates the thesis-break trigger. But Citi upgraded to Buy with $230 target on H2 2026 recovery thesis. Q1 print Apr 29 is now the dominant binary catalyst.
+- **DASH at #8** (was #7): Stock-specific selloff (–5.6% session on Apr 24) + Stanley Tang sale at 52-wk low + Stifel cut to $185 reinforces the cautious stance. Better entry exists at $140-155.
+- **BRK.B at #7 (NEW, 2026-04-25)**: Initial ingest under Workflow A. $1.01T fortress at –13.4% from 52-wk high while operating earnings doubled 2021–2025; Greg Abel's first buyback since May 2024 (March 4, 2026) at ~$465–490 zone signals soft floor at current price. Triple BAIT (B+I-Strong, A-Moderate). Annual meeting + Q1 2026 earnings May 3 is dominant near-term catalyst.
 
 ---
 
@@ -45,6 +47,7 @@
 | LLY | **Q1 2026 earnings April 30, 2026 (CONFIRMED, 6 days)** | Mounjaro+Zepbound vs. $36.5B FY25 base; Foundayo early Rx trends | Confirm $80–83B FY26 path | Miss / guide cut = thesis delay |
 | LLY | Orforglipron FDA approval (2026) | Priority review timeline | Re-rate; oral GLP-1 TAM expansion | Delay → narrative re-ignition |
 | SCHW | Q2 2026 + FY26 formal guidance refresh (~July 2026) | EPS guide above $5.80 floor + NIM trajectory | Multiple expansion to $110+ | Guide held flat = re-base expectations |
+| **BRK.B** | **Annual Mtg + Q1 2026 earnings May 3, 2026** | Abel buyback cadence; cash deployment commentary; Q1 operating earnings vs. $11–13B trend | Buyback ≥ $5B in Q1 + GEICO stable = succession discount narrows | Buyback near zero + cash > $400B = "trapped capital" narrative validated |
 
 ---
 
@@ -53,6 +56,7 @@
 | Ticker | Current Price | Bear (prob) | Base (prob) | Bull (prob) | PW Expected Value | Upside |
 |--------|--------------|-------------|-------------|-------------|-------------------|--------|
 | BKNG | $180.25 | $135 (20%) | $190 (50%) | $250 (30%) | ~$195.50 | +8.5% (18mo) |
+| BRK.B | $469.32 | $405 (25%) | $550 (45%) | $650 (30%) | ~$543 | +15.7% (3yr); +6–7%/yr total |
 | LLY | $883.96 | $700 (20%) | $1,015 (50%) | $1,300 (30%) | ~$1,037.50 | +17.4% (18mo) |
 | WING | $189.37 | $130 (25%) | $200 (50%) | $280 (25%) | ~$199 | +5% (compressed) |
 | UNH | $354.92 | $260 (25%) | $410 (45%) | $550 (30%) | ~$420 | +18% (24mo) |

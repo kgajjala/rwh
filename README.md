@@ -32,6 +32,7 @@ Schema and operating rules live in [`CLAUDE.md`](CLAUDE.md).
 | [ADBE](wiki/tickers/ADBE/ADBE.md) | Active | 2026-04-24 | High-conviction asymmetric setup at $245.44 (–42% from high) — sub-11× FY26E NGAAP P/E + 9% FCF yield + AI-first ARR tripled YoY = "great business at a fair price"; Triple-overlap BAIT; PW EV $348 (+42%). **Initiate / Add**. |
 | [AMZN](wiki/tickers/AMZN/AMZN.md) | Active | 2026-04-24 | Three-pillar Wide-moat mega-cap mid-cycle in $200B/yr AI capex bet; Triple BAIT; PW EV ~$310 (+26% / ~8%/yr); April 29 Q1 FY26 print is the binary catalyst. **Initiate / Hold-Add**. |
 | [BKNG](wiki/tickers/BKNG/BKNG.md) | Active | 2026-04-24 | Wide-moat global travel platform post-25-for-1 split (~$180); Triple BAIT (B+A-Strong); FCF compounder with the Connected Trip reinvestment thesis intact. **Initiate / Hold-Add**. |
+| [BRK.B](wiki/tickers/BRK.B/BRK.B.md) | Active | 2026-04-25 | Wide-moat $1.01T fortress at $469.32 (–13.4% from high, near 52-wk low); first post-Buffett year under Greg Abel (CEO Jan 2026); $373B cash + $176B float; **first buyback since May 2024 resumed Mar 4, 2026** at this zone — credible soft floor. Triple BAIT (B+I-Strong, A-Mod); PW EV ~$543 (+15.7% over 3yr). **Initiate (small/scaled) / Hold-Add**. |
 | [CELH](wiki/tickers/CELH/CELH.md) | Active | 2026-04-24 | Three-brand functional energy (CELSIUS + Alani Nu + Rockstar via PepsiCo) at $35.25 (–47% drawdown); Triple BAIT (B Strong + A/T Mod); event-driven into May 11 Q1; PW EV ~$52 (+47% / ~14%/yr). **Initiate small / Hold-Add**. |
 | [CPNG](wiki/tickers/CPNG/CPNG.md) | Active | 2026-04-24 | Wide-moat Korean e-commerce + logistics at $20.58 (–40% drawdown); cleanest Triple BAIT (B+A Strong + I/T Mod); PW EV ~$28 (+36% / ~11%/yr); May 12 Q1 print on Korea margin is the catalyst. **Initiate / Add modestly**. |
 | [DASH](wiki/tickers/DASH/DASH.md) | Active | 2026-04-24 | Dominant U.S. food-delivery + emerging local-commerce platform at $176.78 (–38% from $285 peak); 5-year PW EV ($130) sits below spot but +43–57% to 12–18mo analyst median. **Watch / Hold; attractive entry $140–155**. |
@@ -62,7 +63,7 @@ Schema and operating rules live in [`CLAUDE.md`](CLAUDE.md).
 | [WING](wiki/tickers/WING/WING.md) | Active | 2026-04-24 | Asset-light franchise QSR at $189 (–51% from $388 peak); Q3 (–5.6%) + Q4 2025 (–5.8%) SSS technically activated the prior thesis-break trigger, but Citi upgraded to $230 on H2 recovery. Q1 print April 29 = binary. **Watch / Hold**. |
 | [ZG](wiki/tickers/ZG/ZG.md) | Active | 2026-04-24 | Dominant U.S. real-estate marketplace at $45.63, mispriced by Rocket-Redfin narrative while Mortgages +39% / Rentals +45%; PW EV $69 (+51%). **Initiate / Add**. |
 
-*34 tickers above. Last refresh: 2026-04-24 (initial 9 + 25-ticker batch ingest).*
+*35 tickers above. Last refresh: 2026-04-25 (BRK.B initial ingest under Workflow A).*
 
 ## Frameworks Used
 

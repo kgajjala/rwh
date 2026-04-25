@@ -11,7 +11,7 @@ Active / Paused status governs weekly cron coverage (Core Rule #15).
 
 ## Tickers
 
-*Alphabetical. 34 tickers covered.*
+*Alphabetical. 35 tickers covered.*
 
 | Ticker | Status | Company | Moat | Conviction | Last Updated | Summary |
 |--------|--------|---------|------|-----------|--------------|---------|
@@ -20,6 +20,7 @@ Active / Paused status governs weekly cron coverage (Core Rule #15).
 | [ADBE](tickers/ADBE/ADBE.md) | Active | Adobe | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate / Add |
 | [AMZN](tickers/AMZN/AMZN.md) | Active | Amazon | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate / Hold-Add |
 | [BKNG](tickers/BKNG/BKNG.md) | Active | Booking Holdings | Wide | High | 2026-04-24 | v2.1 — Triple BAIT (B+A-Strong); Initiate / Hold-Add |
+| [BRK.B](tickers/BRK.B/BRK.B.md) | Active | Berkshire Hathaway | Wide | Medium-High | 2026-04-25 | v2.5 ingest — Triple BAIT (B+I-Strong); Initiate (small/scaled) / Hold-Add; Abel succession discount |
 | [CELH](tickers/CELH/CELH.md) | Active | Celsius Holdings | Narrow | Medium | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate small / Hold-Add |
 | [CPNG](tickers/CPNG/CPNG.md) | Active | Coupang | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT (B+A-Strong); Initiate / Add modestly |
 | [DASH](tickers/DASH/DASH.md) | Active | DoorDash | Narrow | Medium | 2026-04-24 | v2.1 — Double BAIT (all Moderate); Watch / Hold; entry $140-155 |
@@ -61,6 +62,7 @@ Active / Paused status governs weekly cron coverage (Core Rule #15).
 | ADBE | $245.44 | –42% | Triple | Initiate / Add |
 | AMZN | ~$247 | mid-range | Triple | Initiate / Hold-Add |
 | BKNG | $180.25 (post-split) | –22.8% | Triple (B+A-Strong) | Initiate / Hold-Add |
+| BRK.B | $469.32 | –13.4% (52-wk low band) | Triple (B+I-Strong, A-Mod) | **Initiate (small/scaled) / Hold-Add** (Abel succession discount; March buyback at zone) |
 | CELH | $35.25 | –47% | Triple (B-Strong) | Initiate small / Hold-Add |
 | CPNG | $20.58 | –40% | Triple (B+A-Strong) | Initiate / Add modestly |
 | DASH | $176.78 | –38.1% | Double (all Mod) | Watch / Hold (entry $140-155) |
@@ -135,4 +137,4 @@ Active / Paused status governs weekly cron coverage (Core Rule #15).
 
 ---
 
-*Last full index refresh: 2026-04-24 (v2.4 schema bump + 25-ticker batch ingest = 34 tickers total)*
+*Last full index refresh: 2026-04-25 (BRK.B Workflow A initial ingest = 35 tickers total)*

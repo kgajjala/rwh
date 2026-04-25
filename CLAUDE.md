@@ -1,4 +1,4 @@
-# CLAUDE.md — kg-invest-wiki Schema (v2.3)
+# CLAUDE.md — kg-invest-wiki Schema (v2.4)
 
 This is the instruction file for the LLM agent that maintains this wiki.
 **Read this file at the start of every session before making any changes to `wiki/`, `raw/`, or `outputs/`.**
@@ -13,7 +13,7 @@ session starts from the latest synthesis, not a blank page.
 
 - **Owner**: Karthik G
 - **Started**: April 2026
-- **Schema version**: v2.3 (April 2026)
+- **Schema version**: v2.4 (April 2026)
 - **Model**: Karpathy LLM Wiki pattern, adapted
 
 ### What this wiki is *not*
@@ -109,6 +109,35 @@ kg-invest-wiki/
     to `wiki/summaries.md` (the index of cross-ticker weekly summaries) so
     that the Markdown table at the top stays in reverse-chronological order
     and links to each new `outputs/weekly/YYYY-MM-DD_weekly_summary.md`.
+14. **Maintain the README ticker table**. The `## Tickers Covered` table in
+    `README.md` is the top-level entry point for the wiki. It must be kept
+    in sync — every ticker `add`, every Workflow B `material update`, and
+    every ticker `removal` must update this table in the same commit:
+    - **Order**: alphabetical by ticker symbol (case-sensitive; A → Z).
+    - **Columns** (exactly three): `Ticker` | `Last Updated` | `Punchline`.
+    - **Ticker** column: a relative Markdown link to the ticker page —
+      `[TICKER](wiki/tickers/TICKER/TICKER.md)`.
+    - **Last Updated** column: ISO date `YYYY-MM-DD` — the date of the most
+      recent material update to that ticker's `[TICKER].md` (NOT the date
+      the row in this table was last touched, and NOT the date of a quiet
+      week — only material updates bump this).
+    - **Punchline** column: 1–2 sentences synthesizing the latest thesis
+      state (typically pulled from Section 15's `Thesis in one sentence`
+      plus the action verb pair). Should communicate "what is this ticker
+      and what's the read right now" to a reader who's never seen it.
+      Update on every material thesis change; preserve verbatim during
+      quiet weeks.
+    - **Quiet weeks**: do NOT update the `Last Updated` date or the
+      `Punchline` for tickers with no material events. The table is a
+      snapshot of the latest substantive state, not run-cadence.
+    - **Add**: when ingesting a new ticker under Workflow A, insert the
+      new row in correct alphabetical position in the same commit.
+    - **Remove**: if a ticker is removed (delisted, divested, or
+      explicitly retired), delete the row in the same commit; preserve
+      the historical changelog and last `[TICKER].md` snapshot in git
+      history but the README should reflect current coverage only.
+    - **Counter line**: the line directly below the table that begins
+      `*N tickers above.*` (or similar) must reflect the current count.
 
 ---
 
@@ -611,3 +640,15 @@ version (v3, v4, ...). Minor edits within a version are fine without bump.
 - **Changelog entries should mirror section refreshes** — one bullet per
   refreshed section in the `What Changed` block, so reviewers can audit
   whether the full surface was walked.
+
+### v2.4 changelog (April 2026 — README ticker table maintenance)
+- **Added Core Rule #14: Maintain the README ticker table.** The
+  `## Tickers Covered` table in `README.md` is the top-level entry
+  point for the wiki — alphabetical, with three columns
+  (`Ticker` | `Last Updated` | `Punchline`). Every Workflow A ingest,
+  Workflow B material update, and ticker removal must update this table
+  in the same commit. Quiet weeks do NOT update the row (the table
+  reflects the latest substantive thesis state, not run cadence).
+- The weekly cron routine prompt was updated to include README ticker
+  table maintenance as a mandatory cross-cutting refresh step (alongside
+  index.md, watchlist.md, summaries.md).

@@ -1,65 +1,42 @@
 # NKE — NIKE, Inc.
 
-> **Schema**: v2.5
-> **Last Updated**: 2026-04-25
+> **Schema**: v2.9
+> **Last Updated**: 2026-04-26
 > **Status**: Active
-> **Live Price Verified**: **$44.69** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/NKE); near multi-year low)
-> **Ticker Type**: Consumer staples / global branded apparel-footwear
+> **Live Price Verified**: **$44.69** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/NKE); near 12-year low)
+> **Ticker Type**: Global branded athletic footwear & apparel (consumer discretionary)
 
 ---
 
 ## Summary
 
-- 🟢 **Thesis**: Wide-moat global brand at a 12-year low ($44.69) with the highest dividend yield in 20+ years (3.6%), CEO Elliott Hill's $1M open-market purchase signaling personal conviction in his "Win Now" turnaround, and the first North American re-acceleration signal (+3% Q3 revenue).
-- 🟢 **For a non-holder: Initiate** at $44.69 — asymmetry, dividend yield floor, and Hill insider buy together justify a position.
-- 🟢 **For a current holder: Add** — incremental purchases below $48 are rational given 3.6% yield + +14%/yr PW EV. Trim only into $70–85 zone after multi-quarter turnaround confirmation.
-- 🎯 **Attractive entry zone**: **$40 – $48** (3.5%+ dividend yield + 12–14× FY28E EPS; aligned with Hill's $44 buy).
-- 🎯 **Trim zone**: **$70 – $85** (~22–25× FY28E EPS; full turnaround priced).
-- 📉 **Price action**: $44.69, **–44.3% from 52-wk high** ($80.17), +6.2% above 52-wk low ($42.09) — 12-year low territory.
-- 📅 **Next catalyst**: **Q4 FY2026 earnings — late June 2026 (TBD)**. Tests revenue down 2–4% guide; first Hill-era FY27 guide.
-- ⚠️ **Top risk**: Tariff escalation (Vietnam, China, SE Asia footwear) — critical impact, 50% prob; 130bps GM hit in Q3 already.
-- ⚠️ **Second risk**: China revenue deterioration accelerates beyond –20% (high impact, 40% prob) — structural; local brand competition.
-- 🟢 **BAIT verdict**: **Triple overlap (B Strong + A Moderate-Strong + I Moderate; T weak)** — Conviction **Moderate-High**. Textbook behavioral-mispricing-meets-improving-fundamentals if Hill turnaround is real; PW EV ~$60.50 + ~11% cumulative dividend = ~14%/yr total return; CEO Hill bought $1M at $44 (April 14, 2026).
+- 🟢 **Thesis**: Wide-moat global brand at a 12-year low ($44.69) trading at the highest dividend yield in 20+ years (3.67%), with CEO Elliott Hill's $1M open-market purchase signaling personal conviction in his "Win Now" turnaround and the first North America re-acceleration signal in Q3 FY2026 (+3% revenue, +6% footwear).
+- 🟡 **Moat**: **Wide but actively tested** — brand + athlete partnerships + scale are intact; China is in structural decline and DTC over-pivot has cost wholesale relationships that are being repaired.
+- 🟢 **For a non-holder: Initiate** at $44.69 — asymmetry, dividend floor, and CEO insider buy justify a position. Entry zone $40–48.
+- 🟢 **For a current holder: Add** — incremental below $48 rational given 3.67% yield + ~14%/yr PW EV. Trim only $70–85 after multi-quarter turnaround confirmation.
+- 🎯 **Entry zone**: **$40–$48** (3.5%+ yield + 12–14× FY28E EPS; Hill bought at $44).
+- 🎯 **Trim zone**: **$70–$85** (~22–25× FY28E EPS; full turnaround priced).
+- 📉 **Price action**: $44.69, **–44.3% from 52-wk high** ($80.17), +6.2% above 52-wk low ($42.09).
+- 📅 **Next catalyst**: **Q4 FY2026 earnings — late June 2026 (TBD)**. Tests revenue down 2–4% guide; first Hill-era FY27 full-year guide.
+- ⚠️ **Top risk**: Tariff escalation on Vietnam / SE Asia sourcing — critical, 50% prob, partially pricing in (130 bps GM hit in Q3 FY2026); further escalation not fully priced.
+- ⚠️ **Second risk**: China structural deterioration accelerates beyond –20% — high, 40% prob; local brands (Anta, Li Ning) gaining systemically.
+- 🟢 **BAIT verdict**: **Triple overlap (B Strong + A Moderate-Strong + I Moderate; T Weak)** — Conviction **Moderate-High**. PW EV ~$60.50 + ~11% cumulative dividend = ~14%/yr total return over 3 years; R/R ~3.6:1 (Bull +101% / Bear –28%).
 
 ---
 
 ## Business Overview
 
-NIKE, Inc. (NYSE: NKE) is the world's largest athletic footwear and apparel brand, with FY2026 trailing revenue around **$45–47B** [Estimate]. The business is divided into two reporting segments: **Nike Direct** (digital + Nike-owned stores) and **Wholesale** (specialty retail, sporting goods, department stores, mass). Geographically, the company reports four primary regions: **North America, EMEA, Greater China, and APLA**, plus the Converse subsidiary.
+NIKE, Inc. (NYSE: NKE) is the world's largest athletic footwear and apparel brand, founded in 1964 (as Blue Ribbon Sports by Phil Knight and Bill Bowerman) on the insight that performance-focused athletic footwear sold at scale with breakthrough athlete marketing could dominate a nascent category. Today Nike is a $46.3B revenue enterprise operating across four NIKE Brand geographic segments — **North America, EMEA, Greater China, APLA** — plus the **Converse** subsidiary.
 
-Q3 FY2026 (quarter ending Feb 28, 2026, reported March 31, 2026) revenue was **$11.3B (flat YoY reported, –3% currency-neutral)**, with **Wholesale +5%** and **Nike Direct –4%**, gross margin **–130 bps to 40.2%**, net income **$520M (–35%)**, diluted EPS **$0.35 (–35%)** ([Nike IR, 2026-03-31](https://investors.nike.com/investors/news-events-and-reports/default.aspx)). Q4 FY2026 guidance is for **revenue down 2–4%** and **Greater China down ~20%** ([Q3 FY26 earnings call, Matt Friend CFO](https://investors.nike.com/investors/news-events-and-reports/default.aspx)). The stock fell 9% after-hours and crashed to a fresh **multi-year low** ($47.85 first; subsequent lows in mid-April).
+The revenue model has two primary channels: **Wholesale** (specialty retailers, sporting goods, department stores, mass) at ~56% of NIKE Brand revenues in FY2025 ($25.9B), and **Nike Direct** (owned stores + digital) at ~41% ($18.8B). A three-year Direct-first over-pivot (FY2021–2023) damaged wholesale relationships and left inventory imbalances that are being corrected under CEO **Elliott Hill** (CEO since October 2024, 32-year Nike veteran). Hill's **"Win Now"** strategy re-centers the business on wholesale re-engagement, sport-specific innovation, inventory cleanup, and athlete-first marketing. Q3 FY2026 (ending February 28, 2026) showed the first North America re-acceleration: +3% revenue, +6% footwear, wholesale +5%. China and Nike Direct remain in deep contraction, providing the central thesis tension.
 
-The investment narrative is the **Elliott Hill turnaround**. Hill (a 32-year Nike veteran who left in 2020 and was recalled as CEO in October 2024) is running the **"Win Now"** strategy — re-prioritizing wholesale relationships, restoring innovation cadence, fixing inventory health, and re-engaging sport-specific consumers. North America showed early signs (Q3: revenue +3%, footwear +6%); China and Nike Direct remain in deep contraction. **CEO Elliott Hill bought $1M+ in stock April 14, 2026** and Tim Cook (Apple CEO, sometimes referenced as a Nike director) made a public-disclosed $1M buy as well ([Daily Political, 2026-04-17](https://www.dailypolitical.com/?s=nike+hill)).
-
----
-
-## Moat Assessment
-
-**Wide** — global brand among the strongest in consumer; multi-decade athlete + sport partnerships; manufacturing scale; retail relationships. The moat has been *eroded* by 2021–2024 strategy missteps (over-DTC, lifestyle over performance, inventory glut) but remains structurally intact.
-
-**Sources**:
-- **Brand**: One of the most valuable consumer brands globally; Nike + Jordan are top-tier sport/lifestyle marks
-- **Athlete + sport partnerships**: Multi-decade NBA/NFL/MLB/Olympic + LeBron, Jordan, KD, Kobe (estate), Caitlin Clark, Mbappé, etc.
-- **R&D / innovation**: Vaporfly / Alphafly running platform; Air, Zoom, React cushioning systems
-- **Manufacturing scale**: Largest contract-manufacturing volumes in athletic; cost / negotiation advantage
-- **Wholesale + retail relationships**: Foot Locker, Dick's, JD Sports, regional partners — being repaired post-DTC pivot
-- **Inventory + supply chain**: Largest in industry; leveraged scale moat
-
-**Vulnerabilities**:
-- **China structural decline**: Q4 FY26 expected –20%; Anta, Li Ning, on-trend local brands gaining share
-- **Tariff exposure**: U.S. tariffs on Vietnam / China / SE Asia footwear directly hit gross margin (Q3 had 130bps GM compression partly tariff-driven)
-- **Innovation lag**: 2022–2024 product pipeline was thin; Hill's mandate is to re-energize
-- **DTC overshoot**: 2020–2023 pivot to Direct alienated wholesale partners; correction underway but slow
-- **On / Hoka / New Balance**: Performance running share gains; on tracking and recovery
-- **Lifestyle-fashion volatility**: Dunks, Air Force 1, Jordan retros have run hot/cold; lifestyle revenue is fashion-cycle exposed
+Hill made a **$1,000,108 open-market stock purchase on April 14, 2026** — one of the clearest insider signals available, buying his own turnaround at a 12-year price low.
 
 ---
 
 ## Pivotal Investment Question
 
-> Is Elliott Hill's "Win Now" turnaround real and gaining traction (North America +3% in Q3 is the early evidence) — and does Nike's brand + scale moat let it absorb the China structural headwind, tariff cost pressures, and inventory cleanup over 18–24 months while emerging with re-accelerating EPS by FY2027–2028 to support a $44.69 entry on a 3-year basis?
-
-The Q4 FY26 print (~late June 2026) and the FY27 guide will be the key tests.
+> Can Elliott Hill execute "Win Now" — restore wholesale relationships, re-energize the product pipeline, and manage tariff and China headwinds — to drive FY2027 EPS recovery toward $2.40–2.80 and FY2028 toward $3.00+, supporting the $44.69 entry on a 3-year basis? The late-June 2026 Q4 FY2026 print and the first full-year FY2027 guide are the critical evidence tests.
 
 ---
 
@@ -67,205 +44,286 @@ The Q4 FY26 print (~late June 2026) and the FY27 guide will be the key tests.
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$44.69** | April 24, 2026 (Yahoo Finance JSON API) |
+| Live Price | **$44.69** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/NKE)) |
 | 52-Week High | $80.17 | 2025 |
-| 52-Week Low | $42.09 | April 2026 (12-year low territory) |
-| % From 52-Wk High | –44.3% | Severe drawdown |
-| % Above 52-Wk Low | +6.2% | Near lows |
-| Q3 FY2026 Revenue | $11.3B | Flat reported, –3% currency-neutral |
-| Q3 FY2026 EPS | $0.35 | –35% YoY |
-| Q3 FY2026 Gross Margin | 40.2% | –130 bps YoY |
-| Q3 FY2026 Net Income | $520M | –35% YoY |
-| Q4 FY2026 Revenue Guide | Down 2–4% | [Management guidance] |
-| Q4 FY2026 China Guide | Down ~20% | [Management guidance] |
-| Dividend (Annualized) | ~$1.60 | [Estimate based on recent quarterly] |
-| Dividend Yield | ~3.6% | At $44.69 |
-| Market Cap | ~$66B | [Estimate, ~1.48B diluted shares] |
-| Median Analyst PT | $66.85 | ([stockanalysis.com](https://stockanalysis.com/stocks/nke/forecast/) aggregator) |
-| High PT | $92 (BMO Mar 2025) | |
-| Low PT | $23 (BNP Paribas Apr 2026) | |
-| **Q4 FY2026 Earnings** | **Late June 2026** (TBD) | Hard catalyst |
+| 52-Week Low | $42.09 | April 2026 |
+| % From 52-Wk High | –44.3% | 12-year low territory |
+| % Above 52-Wk Low | +6.2% | Near multi-year lows |
+| Market Cap | ~$66.2B | 1.48B diluted shares × $44.69 |
+| Enterprise Value | ~$69.7B | ~$3.5B net debt (FY2025: debt $11.0B, cash $7.5B) |
+| FY2025 Revenue | $46.3B | Fiscal year ended May 31, 2025 |
+| FY2025 EPS | $2.16 | –42% vs FY2024 $3.73 |
+| FY2025 FCF | $3.3B | Capex $430M |
+| TTM EPS | ~$1.51 | Q4 FY2025 + Q1–Q3 FY2026 actuals |
+| P/E (TTM) | ~29.6× | Based on TTM $1.51 |
+| Forward P/E (FY2026E) | ~27.3× | Consensus FY2026E EPS ~$1.64 |
+| Dividend (Annual) | $1.64 | 22+ consecutive years of increases |
+| Dividend Yield | **3.67%** | Highest in 20+ years |
+| Short Interest | 4.78% of float | 56.1M shares; 3.56 days-to-cover ([Fintel](https://fintel.io/ss/us/nke)) |
+| Analyst Consensus | Buy (mixed) | 5 Strong Buy + 7 Buy + 13 Hold + 1 Sell (26 analysts) |
+| Median Analyst PT | $58 | ([stockanalysis.com](https://stockanalysis.com/stocks/nke/forecast/)) |
 
 ---
 
-## Section 1 — Why Does This Company Exist? + Pivotal Investment Question
+## Section 1 — Annual Financial Metrics
 
-**Founding insight (Phil Knight, Bill Bowerman, 1964 as Blue Ribbon Sports → Nike 1971)**: Athletic footwear was an undeveloped category dominated by European generalists. By focusing on performance running shoes (Bowerman's coaching insight) and signing breakthrough athletes (Steve Prefontaine, Michael Jordan), an upstart could build the category-defining brand. Combined with offshore manufacturing scale and aggressive marketing, Nike could compound brand equity for decades.
+*Nike's fiscal year ends May 31. FY2026 = June 1, 2025 – May 31, 2026.*
 
-**Today**: Nike is the dominant global athletic brand. The current question is whether brand equity + scale can absorb a multi-quarter operational reset (under-investment in product, China decline, tariff costs, DTC over-pivot reversal) and emerge with FY27+ earnings power that supports the entry valuation.
+### Revenue, Gross Margin, Operating Income, Net Income, EPS
 
-**Pivotal question (restated)**: Can Elliott Hill execute "Win Now" — fix wholesale, re-energize product, manage tariff/China headwinds — to drive FY27 EPS recovery toward $3.00+ vs. trailing FY26 EPS likely in the $1.80–2.00 zone?
+| Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+|--------|--------|--------|--------|--------|--------|
+| Revenue | $44.5B | $46.7B | $51.2B | $51.4B | $46.3B |
+| YoY Growth | — | +5% | +10% | 0% | –10% |
+| Gross Margin | 44.82% | 45.98% | 43.52% | 44.56% | 42.73% |
+| Operating Margin | 15.58% | 14.29% | 11.55% | 12.29% | 7.99% |
+| Net Income | $5.7B | $6.0B | $5.1B | $5.7B | $3.2B |
+| EPS (Diluted) | $3.56 | $3.75 | $3.23 | $3.73 | $2.16 |
+| FCF | $6.0B | $4.4B | $4.9B | $6.6B | $3.3B |
+| Share Buybacks | $0.6B | $4.0B | $5.5B | $4.3B | $3.0B |
+| Dividends Paid | $1.6B | $1.8B | $2.0B | $2.2B | $2.3B |
 
----
+*Sources: [stockanalysis.com NKE financials](https://stockanalysis.com/stocks/nke/financials/); [Nike FY2025 10-K (filed 2025-07-17)](https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm)*
 
-## Section 2 — Annual Financial Metrics
+**Thesis-relevant trend**: FY2022 peak margins (45.98% gross, 14.29% operating) represent the high-water mark — driven by pandemic-era demand surge + DTC mix-shift premium. FY2023–FY2025 margin compression reflects the DTC over-pivot unwind (lower ASP from excess inventory + discounting), China structural decline, and tariff headwinds. FY2025 operating margin (7.99%) is near trough; the recovery thesis requires gross margin to rebuild toward 43–44% as Hill's inventory discipline takes hold and demand creation reinvestment drives ASP recovery.
 
-*Note: Nike's fiscal year ends late May. FY2026 = year ending May 31, 2026.*
+### Primary Source: FY2025 10-K Segment Detail
 
-### Revenue, Operating Income, EPS
+From Nike's [FY2025 10-K MD&A](https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm):
 
-| Metric | FY2023 | FY2024 | FY2025 | FY2026E [Estimate] |
-|--------|--------|--------|--------|-------------------|
-| Revenue | $51.2B | $51.4B | ~$48–49B [Estimate] | ~$45–47B [Estimate] |
-| YoY Growth | — | +0.4% | –5% | –4 to –6% |
-| Gross Margin | 44.6% | 44.6% | ~43% [Estimate] | ~41% [Estimate] |
-| Operating Margin | 11.6% | 11.8% | ~9% [Estimate] | ~7–8% [Estimate] |
-| Net Income | $5.1B | $5.7B | ~$3.5B [Estimate] | ~$2.7–3.0B [Estimate] |
-| Diluted EPS | $3.23 | $3.73 | ~$2.30 [Estimate] | ~$1.80–2.00 [Estimate] |
-| Dividend / Share | ~$1.36 | ~$1.46 | ~$1.55 | ~$1.60 [Estimate] |
+**Revenue by Channel (FY2025 vs FY2024 vs FY2023, $M):**
 
-### Quarterly Trajectory (Recent)
+| Channel | FY2023 | FY2024 | FY2025 | FY25 YoY |
+|---------|--------|--------|--------|----------|
+| Wholesale | $27,397 | $27,758 | $25,883 | –7% |
+| Nike Direct | $21,308 | $21,519 | $18,783 | –13% |
+| — Digital | — | $12,100 | $9,600 | –21% |
+| — Stores | — | ~$9,419 | ~$9,183 | –3% |
+| Converse | $2,427 | $2,082 | $1,692 | –19% |
+| NIKE Brand Total | $48,763 | $49,322 | $44,714 | –9% |
+| Total (incl. Corp) | $51,217 | $51,362 | $46,309 | –10% |
 
-| Quarter | Revenue | Gross Margin | EPS | Comment |
-|---------|---------|-------------|-----|---------|
-| Q1 FY2026 | ~$11.7B [Estimate] | ~42% [Estimate] | ~$0.55 [Estimate] | — |
-| Q2 FY2026 | ~$12.4B [Estimate] | ~41% [Estimate] | ~$0.60 [Estimate] | — |
-| Q3 FY2026 | $11.3B (flat reported) | 40.2% (–130 bps) | $0.35 (–35%) | Wholesale +5%, Direct –4%; NA +3% (encouraging); China deep negative ([Nike IR 2026-03-31](https://investors.nike.com/investors/news-events-and-reports/default.aspx)) |
-| Q4 FY2026E | Down 2–4% guide | TBD | TBD | China expected –20% [Mgmt guidance] |
+**Revenue by Product (FY2025 vs FY2024, $M):**
 
----
+| Product | FY2024 | FY2025 | YoY |
+|---------|--------|--------|-----|
+| Footwear | $33,427 | $29,510 | –12% |
+| Apparel | $13,775 | $12,965 | –6% |
+| Equipment | $2,075 | $2,191 | +6% |
 
-## Section 3 — Geographic Revenue Mix
+**10-K MD&A Gross Margin Commentary (FY2025):** Gross margin declined 190 bps to 42.73%, driven by: lower average selling price (–180 bps) from higher discounts and channel mix; higher inventory obsolescence reserves (–90 bps combined with other costs); Converse dilution (–20 bps); FX (–10 bps). Partially offset by: lower product costs (+80 bps) and lower logistics (+20 bps). The MD&A clarifies that the ASP decline was *not* a consumer-demand problem — it was a self-inflicted channel-mix and discounting issue from the DTC over-pivot, which Hill's wholesale restoration should reverse.
 
-*Approximate FY2025 / FY2026 split:*
+### FY2026 Quarterly Progress (Actuals Q1–Q3)
 
-| Region | Approx. Share | Recent Trend |
-|--------|---------------|--------------|
-| North America | ~42% | Q3 FY26 +3% (early Hill turnaround signal) |
-| EMEA | ~27% | Mixed; below trend |
-| Greater China | ~14% | Deep decline; Q4 guide –20% |
-| APLA (Asia Pacific & Latin America) | ~14% | Decelerating |
-| Converse | ~3% | Slowing |
+| Quarter | Period End | Revenue | Gross Margin | Op Income | EPS |
+|---------|-----------|---------|-------------|-----------|-----|
+| Q4 FY2025 | May 31, 2025 | $11,097M | 40.27% | $321M | $0.14 |
+| Q1 FY2026 | Aug 31, 2025 | $11,720M | 42.18% | $927M | $0.49 |
+| Q2 FY2026 | Nov 30, 2025 | $12,427M | 40.60% | $1,006M | $0.53 |
+| Q3 FY2026 | Feb 28, 2026 | $11,279M | 40.16% | $553M | $0.35 |
+| Q4 FY2026E | May 31, 2026 | Down 2–4% guide | — | — | — |
 
-**Forward-looking**: North America is the swing variable for the turnaround thesis; Q3 FY26 +3% revenue / +6% footwear is the most important early signal. Greater China is the principal drag and is structurally challenged by domestic brand competition (Anta, Li Ning).
+*Sources: [stockanalysis.com NKE quarterly](https://stockanalysis.com/stocks/nke/financials/?p=quarterly); [Nike IR Q3 FY2026 press release](https://investors.nike.com/investors/news-events-and-reports/default.aspx)*
 
----
-
-## Section 4 — Revenue Mix & Business Model
-
-| Stream | Approx. Share | Characteristic |
-|--------|--------------|----------------|
-| Wholesale (sporting goods, specialty, department, mass) | ~57% [Estimate] | Re-emphasized under Hill; Q3 +5% |
-| Nike Direct (digital + owned stores) | ~40% [Estimate] | Q3 –4%; over-pivoted previously |
-| Converse | ~3% | |
-
-**By product**: Footwear ~67%, Apparel ~28%, Equipment ~5% [Estimate].
-
-**Capital allocation**:
-- **Buyback**: Long-running; modest pace currently as cash is conserved
-- **Dividend**: 22+ consecutive years of increases; current ~$1.60 annualized
-- **Capex**: Modest; mostly digital and DC infrastructure
-- **R&D / marketing**: Heavy "demand creation" spend; key Hill-era reinvestment
+**Q3 FY2026 decomposition (key signals):**
+- North America: +3% revenue, +6% footwear, wholesale +5% — **first meaningful NA re-acceleration**
+- Greater China: expected down ~20% in Q4 FY2026 [Management guidance]
+- Nike Direct: –4% overall, digital still contracting
+- Gross margin 40.16% (–130 bps YoY from 41.49%) — tariff headwinds and continuing inventory cleanup
 
 ---
 
-## Section 5 — Competitive Moat
+## Section 2 — Revenue Mix & Geographic Split
 
-**Rating: Wide** — but actively being *defended*, not coasted on.
+### Channel Mix
+
+| Channel | FY2025 Share | FY2024 Share | Trend |
+|---------|-------------|-------------|-------|
+| Wholesale | ~58% NIKE Brand | ~56% | Re-accelerating (Hill) |
+| Nike Direct | ~42% NIKE Brand | ~44% | Contracting (over-pivot reversal) |
+| — Digital | ~21% NIKE Brand | ~25% | –21% YoY; peak-to-trough correction |
+| — Stores | ~21% NIKE Brand | ~19% | Stable; comparable –1% |
+| Converse | ~4% total | ~4% | Secular decline |
+
+**Product Mix**: Footwear 64% / Apparel 28% / Equipment 5% / Converse 4% (FY2025 approximation).
+
+**By consumer**: Men's 52% / Women's 22% / Kids' 13% / Jordan Brand 16% / Others –3% (FY2025).
+
+### Geographic Segment Revenue (FY2025 10-K)
+
+| Region | FY2025 Revenue | FY2024 Revenue | YoY | FY2025 Gross Margin |
+|--------|---------------|---------------|-----|---------------------|
+| North America | $19,572M | $21,396M | –9% (–8% CN) | 43.5% (–90 bps) |
+| EMEA | ~$12,100M [Estimate] | ~$13,500M [Estimate] | ~–10% (–9% CN) | Est. declining |
+| Greater China | ~$6,700M [Estimate] | ~$7,600M [Estimate] | –12% (–12% CN) | –420 bps [10-K] |
+| APLA | ~$6,300M [Estimate] | ~$6,500M [Estimate] | –3% (–3% CN) | Declining |
+| Converse | $1,692M | $2,082M | –19% | — |
+
+*North America and FY2025 product figures are from [Nike FY2025 10-K](https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm). Regional totals for EMEA, China, APLA are estimates derived from totals minus North America and Converse.*
+
+**Segment EBIT (FY2025 vs FY2024, from 10-K):**
+- Greater China EBIT: $1,602M vs $2,309M = **–31%**; gross margin contraction ~420 bps from FX + inventory obsolescence
+- APLA EBIT: $1,527M vs $1,885M = **–19%**; revenue –3% CN with Southeast Asia & India and Korea weak
+- EMEA: EBIT declined significantly (estimated –49% from 10-K text) driven by gross margin contraction ~380 bps from lower ASP + logistics costs
+- North America: Gross profit $8,516M vs $9,497M = **–10%**; GM 43.5% vs 44.4%
+
+### Forward-Looking Revenue Shifts
+
+The Hill thesis is sequenced as: North America re-acceleration (Q3 FY2026: early ✅) → EMEA stabilization → Greater China floor (structurally hardest; Q4 FY2026 guide –20% still deteriorating). The revenue recovery path requires wholesale normalization in NA + EMEA before China can contribute.
+
+---
+
+## Section 3 — Competitive Moat & Landscape
+
+**Rating: Wide** — but the moat is under *active stress*, not passive accumulation.
 
 | Source | Strength | Evidence |
 |--------|----------|---------|
-| Brand | Strong | Top-5 global consumer brand by most measures |
-| Athlete + sport partnerships | Strong | Multi-decade NBA, NFL, soccer, Olympic |
-| Scale + supply chain | Strong | Largest in athletic; cost advantages |
-| Innovation R&D platform | Moderate | Was lagging 2022–2024; Hill's mandate to re-energize |
-| Wholesale relationships | Moderate (recovering) | Damaged by DTC pivot; being repaired |
-| China brand equity | Eroding | Local brands gaining; structural headwind |
+| Brand equity | **Strong** | Top-5 global consumer brand; Nike + Jordan marks anchor sport and street culture |
+| Athlete + sport partnerships | **Strong** | Multi-decade NBA, NFL, soccer, Olympic agreements; LeBron, Jordan estate, Caitlin Clark, Mbappé — exclusive or near-exclusive multi-year deals |
+| Scale + supply chain | **Strong** | Largest contract-manufacturing volumes in athletic; negotiating leverage with Vietnam/Indonesia/China factories |
+| Innovation R&D platform | **Moderate** | Vaporfly/Alphafly in running; Air Zoom React in basketball; but 2022–2024 pipeline was deliberately thinned by prior management |
+| Wholesale + retail relationships | **Moderate — recovering** | Damaged by 2020–2023 DTC pivot; Foot Locker, Dick's, JD Sports relationships being repaired; Q3 FY2026 wholesale +5% is the first repair evidence |
+| China brand equity | **Weakening** | Local brands gaining on national pride sentiment + competitive price/performance |
+
+**Moat vulnerabilities:**
+- China structural decline driven by Anta, Li Ning, and government-aligned purchasing preferences — unlikely to reverse fully
+- Performance running segment ceded share to On and Hoka while Nike focused on lifestyle/retro SKUs
+- DTC over-pivot created "Nike everywhere = Nike nowhere" brand dilution (Hill's own framing)
+
+### Competitive Landscape
+
+| Competitor | Est. Global Share | Moat / Threat Vector | Notes |
+|-----------|-----------------|---------------------|-------|
+| **Adidas** (ADDYY) | ~12–14% global athletic | Heritage brand, Yeezy unwinding; recovering premium positioning | More lifestyle-dependent than Nike; own DTC struggles; less sport-specific depth |
+| **On Holding** (ONON) | ~2–3% (running); growing fast | Premium performance running; Swiss engineering + Roger Federer endorsement | Fastest-growing premium brand; winning $200+ running shoe buyers; Nike's core performance-running threat |
+| **Deckers (Hoka brand)** | ~1–2%; growing fast | Ultra-running + walking comfort crossover; healthcare/professional buyer base | Hospital staff + everyday comfort buyer — less competitive in sport-specific Nike categories |
+| **New Balance** | ~4–5% (private) | Heritage US manufacturing story + celebrity collabs (Joe Fresh Goods, Teddy Santis) | Winning lifestyle + performance credibility simultaneously; strongest challenger in the US |
+| **Puma** | ~5–6% | Football/soccer + luxury crossover | Less direct to Nike's core athletic base |
+| **Under Armour** (UA) | ~3–4% US | Performance compression + team sports | Structurally struggling; not a primary Nike threat |
+| **Anta Sports** (China) | ~15–16% China sportswear | National brand champion + government alignment + aggressive price/performance | Nike's primary structural threat in China; now larger than Nike in China by some metrics |
+| **Li Ning** (China) | ~7–8% China | Chinese heritage brand + Olympics halo | Growing, especially post-2022 national pride tailwind |
+
+**How Nike's moat differs**: Nike's structural advantage vs. every competitor is the depth of **sport-specific athlete and cultural IP** — the Jordan Brand alone generates ~$7.3B revenue (FY2025, down –16%), which is larger than any single competitor's total US athletic revenue. No competitor has the breadth of Nike's elite athlete relationships (NBA, NFL, soccer, Olympics) combined with Jordan-level cultural permanence. On/Hoka are winning performance running but do not have cultural-embedding comparable to Nike at the NBA or Jordan levels. Anta is winning in China but has no credible global cultural presence.
+
+**Honest tail risk**: On Holding is the competitor most likely to permanently take 2–3 points of global performance-running share — its multi-year moat is being built in the $200+ segment where Nike has historically extracted premium pricing. If On achieves Nike-like endorser depth while sustaining current revenue growth, the threat escalates materially.
 
 ---
 
-## Section 6 — Management & Leadership
+## Section 4 — Management & Leadership
 
-**Elliott Hill (CEO since October 2024)**: 32-year Nike veteran (1988–2020); came out of retirement to lead the turnaround. "Win Now" strategy emphasizes (a) wholesale re-engagement, (b) sport-specific innovation, (c) inventory cleanup, (d) athlete-first marketing. **Bought $1,000,108 of stock April 14, 2026** ([Daily Political 2026-04-17](https://www.dailypolitical.com/?s=nike+hill); [SEC Form 4](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000320187&type=4)) — a strong personal-conviction signal at a multi-year low.
+**Elliott Hill (CEO since October 2024)**
+32-year Nike veteran (1988–2020). Held President – Consumer and Marketplace before retiring in 2020. Recalled by the Board in October 2024 to replace John Donahoe following three years of accelerating revenue and market share decline. Hill's experience spans retail development, European markets, US wholesale, and global commercial/marketing — precisely the skillset needed to repair wholesale relationships and reinvigorate sport-specific storytelling.
 
-**Matt Friend (CFO)**: Long-tenured; managed the inventory cleanup and tariff communication. Q3 FY26 commentary on Q4 –20% China was direct and credible.
+**Matt Friend (CFO since 2020)**
+Joined Nike in 2009. Has managed the balance sheet through the DTC build-out, restructuring charges, and now the turnaround. Q3 FY2026 guidance communication (–20% China) was direct and credible.
 
-**Capital allocation track record**:
-- **Dividend**: 22+ years of consecutive increases (S&P Aristocrat-track)
-- **Buyback**: Cumulative tens of $B; pace moderated during turnaround
-- **Hill's stock purchase**: Material insider buying near multi-year low — strong alignment signal
+**Capital allocation track record:**
+- **Dividend**: 22+ consecutive years of increases; current $1.64/yr annualized; consistent even during FY2025 earnings compression — signals board commitment to the Dividend Aristocrat track
+- **Buybacks**: Aggressive FY2022–FY2024 ($5.5B, $4.3B); moderated in FY2025 ($3.0B) as cash was conserved for turnaround reinvestment; $2.3B returned in dividends each of FY2024 and FY2025
+- **Hill's open-market purchase**: $1,000,108 in NKE stock on April 14, 2026 ([Daily Political 2026-04-17](https://www.dailypolitical.com/?s=nike+hill); [SEC Form 4](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000320187&type=4)) — material conviction signal; Hill is personally putting capital behind his own turnaround at a 12-year price low
+
+### Recent Management Commentary — Primary Source Synthesis
+
+Nike is a **Pattern C** company for shareholder letters — no standalone annual CEO letter is published. The DEF 14A proxy contains only a brief governance-focused note from Executive Chairman **Mark Parker** (July 2025): *"Elliott Hill brings the right combination of experience, skills and attributes to guide Nike during this period. His global and industry expertise as well as deep-rooted passion for sport and for Nike make him the ideal fit. With his senior leadership team set, the Board believes that Elliott and the team are well-positioned to support the company's Win Now actions."* ([Nike DEF 14A FY2025, filed 2025-07-17](https://www.sec.gov/Archives/edgar/data/320187/000032018725000048/nke-20250717.htm))
+
+The primary management voice is the earnings call. Key Hill commentary from **Q3 FY2026 earnings call (March 31, 2026)**:
+
+- **On North America**: "*North America plus 3 revenue in the quarter, footwear plus 6 — this is what we expected when we re-engaged wholesale partners and returned to sport-specific storytelling. It's early, but it confirms the direction.*" [link pending — Q3 FY2026 earnings call transcript; paraphrase from news coverage via [Nike IR](https://investors.nike.com/investors/news-events-and-reports/default.aspx)]
+- **On China**: Matt Friend (CFO) guided China down ~20% in Q4, citing "continued structural pressures from local competition and consumer preference shifts" — language that is deliberately honest about the structural (not cyclical) nature of the China decline
+- **On tariffs**: Hill and Friend flagged 130 bps of gross margin headwind from tariffs in Q3, with further escalation risk in Q4 FY2026 and FY2027
+
+#### Multi-Year Management Philosophy Arc (FY2021–FY2025)
+
+Nike had no detailed annual shareholder letters during this period. The management philosophy shift is tracked through 10-K MD&A language evolution:
+
+- **FY2021–FY2023 (Donahoe era)**: MD&A language emphasized "Consumer Direct Acceleration" — digital-first, DTC-first, wholesale de-emphasis as a premium-protection strategy. Risk factors added language about "managing channel mix shift" and "digital investment requirements"
+- **FY2024 (Donahoe → Hill transition)**: MD&A language added "rebalancing" and "wholesale re-engagement" language; restructuring charges of $524M disclosed; risk factors added CEO transition risk explicitly
+- **FY2025 (Hill era, first full fiscal year)**: MD&A framed the decline as intentional cleanup ("strategic pricing actions," "inventory obsolescence reserves") rather than demand destruction. Demand creation expense +9% — Hill is reinvesting in sport marketing. Wholesale revenues still down 7% but on a trajectory of improvement in NA (Q3 FY2026 wholesale +5% came after the FY2025 10-K was filed)
 
 ---
 
-## Section 7 — Strategic Growth Initiatives
+## Section 5 — Strategic Growth Initiatives
 
-1. **Win Now strategy**: Re-prioritize wholesale, restore innovation cadence, fix inventory health.
-2. **North America re-acceleration**: Q3 FY26 +3% revenue / +6% footwear is the early signal.
-3. **Sport-specific innovation**: Running (vs. On / Hoka), basketball, soccer — return to performance-led storytelling.
-4. **China stabilization**: Currently the biggest drag; long-dated recovery vs. Anta / Li Ning.
-5. **Tariff mitigation**: Sourcing diversification, pricing actions, supply chain restructuring.
-6. **Inventory cleanup**: Q3 commentary noted progress; cleaner inventory → margin recovery.
-7. **Brand reinvigoration**: Marketing spend re-prioritized to sport authenticity vs. lifestyle-fashion noise.
+1. **Wholesale re-engagement ("Win Now" core pillar)**: Restoring Foot Locker, Dick's, JD Sports, regional specialty partner relationships; Q3 FY2026 wholesale +5% is the first sustained evidence
+2. **Sport-specific innovation pipeline**: Running (vs. On/Hoka), basketball, soccer — reclaiming performance-led brand equity after lifestyle/retro over-indexing in 2021–2024; Vaporfly/Alphafly re-investment underway
+3. **North America re-acceleration**: The most important 12-month swing variable; Q3 FY2026 +3% revenue / +6% footwear is the early signal but two consecutive positive quarters are needed to confirm trend
+4. **Inventory and gross margin normalization**: Cleanup from excess inventory is progressing; fewer clearance sales → ASP recovery → gross margin rebound (Hill's path to 44%+ GM recovery)
+5. **Demand creation reinvestment**: FY2025 demand creation up 9% to $4.7B — Hill is spending back toward sport-marketing authenticity (events, athlete storytelling) vs. digital performance advertising
+6. **China stabilization**: Most difficult and longest-dated initiative; Q4 FY2026 guide of –20% means the bottom has not yet been established; realistic ask is flat-to-declining stabilization in FY2027, not recovery
+7. **Tariff mitigation**: Sourcing diversification away from China and Vietnam concentration; pricing actions where possible; supply chain restructuring is multi-year
 
 ---
 
-## Section 8 — Key Risks
+## Section 6 — Key Risks
+
+*Materiality-filtered: includes only risks materially differentiated from peers, not yet priced, tied to thesis-break triggers, or tied to specific large discretionary investments.*
 
 | Risk | Impact | Probability | Notes |
 |------|--------|-------------|-------|
-| Tariff escalation (Vietnam, China, SE Asia footwear) | Critical | 50% | Already 130bps GM hit in Q3; further escalation possible |
-| China revenue deterioration accelerates beyond –20% | High | 40% | Structural; local brand competition |
-| Recession / consumer discretionary slowdown | High | 30% | $100+ sneakers are elastic |
-| Q4 FY26 print misses revenue down 2–4% guide | High | 30% | Single-quarter risk |
-| Hill turnaround takes longer than 18 months | High | 50% | Wholesale repair is slow; product cycle is 12–24 months |
-| FY27 guide disappoints on June 2026 print | High | 35% | Could trigger another leg down |
-| Dividend cut (would devastate sentiment) | Medium | 10% | Aristocrat-track but not impossible if FY27 EPS deteriorates |
-| On / Hoka / New Balance share gain continues | Medium | 50% | Performance running competition |
-| Inventory step-up / write-down | Medium | 25% | Cleanup is in progress; further hits possible |
+| Tariff escalation (Vietnam, China, SE Asia footwear) | ⚠️ Critical | 50% | 130 bps GM hit already in Q3 FY2026; ~50% of footwear sourced from Vietnam; not fully priced in — further escalation would require sourcing restructuring adding cost and time |
+| China structural decline accelerates beyond –20% | High | 40% | Anta has exceeded Nike in China by some metrics; Li Ning growing on national pride; local brands improving quality fast; not a cyclical problem |
+| Hill turnaround takes longer than 24 months | High | 50% | Wholesale repair is relationship-based and slow; product innovation cycle is 18–24 months; FY2027 guide will be the first real test |
+| FY2027 earnings guide disappoints on June 2026 print | High | 35% | Consensus pricing in ~22% EPS growth; if the guide implies slower recovery, another –10 to –20% down-move is possible |
+| On Holding / Hoka performance-running share gain | Medium | 55% | On is structurally winning the $200+ running segment; less a near-term crisis, more a margin-of-safety erosion over 5 years |
+| Dividend cut | Medium | 10% | Aristocrat-track with $1.6B/yr cash cost; sustainable through FY2027E if FCF holds ~$3B+; a cut would be devastating to sentiment beyond fundamentals |
+| Recession / consumer discretionary slowdown | Medium | 30% | $150+ sneakers are elastic; not priced in to current multiple |
+
+**5-Year Risk Factor Evolution (Synthesis)**: Nike's Item 1A risk landscape shifted materially across FY2021–FY2025. The DTC-channel concentration risk — added implicitly through the "NIKE Direct investment requirements" risk factor — proved predictive: over-investment in digital and owned retail created the channel imbalance that FY2023–FY2025 is unwinding. Tariff/import duty risk gained significant emphasis from FY2022 onward as US-China trade tensions escalated; by FY2025, the risk factor language explicitly cited Vietnam and Southeast Asian sourcing concentration as a tariff exposure. The FY2024 10-K added CEO transition risk explicitly for the first time. The overall arc: risks that were theoretical in FY2021 (channel over-concentration, tariff escalation, China competition) all crystallized simultaneously — which explains the magnitude of the earnings decline but also suggests that the reset is real and the worst may be behind.
 
 ---
 
-## Section 9 — Industry-Specific Macro Analysis
+## Section 7 — Industry-Specific Macro Analysis
 
-**Global athletic footwear + apparel TAM**: ~$400B and growing low-mid single digits. Nike has ~25–30% global share; the addressable market is mature in developed markets and growth-driven in emerging markets.
+**Global TAM**: Athletic footwear + apparel combined TAM estimated at ~$400B and growing low-to-mid single digits annually. Nike at ~24% global athletic footwear share is the dominant incumbent. The category has bifurcated:
+- **Performance-led** (On, Hoka, New Balance): gaining share in the $150–250+ segment
+- **Lifestyle-fashion** (Nike Jordan, Adidas): cyclical; heavily dependent on cultural moment
+- **Value-tier** (Skechers, mass channel): stable share, insulated from premium volatility
 
-**Structural dynamics**: The category has bifurcated into (a) performance-led brands (On, Hoka, New Balance — gaining share), (b) lifestyle-fashion-led (Adidas, Nike's lifestyle SKUs — cyclical), and (c) value-led (Skechers, mass channel). Nike's mandate under Hill is to reclaim performance leadership while not abandoning the much larger lifestyle revenue base.
+**Tariff environment**: U.S. tariffs on imports from Vietnam (>50% of Nike footwear sourcing), China, and Indonesia have been a 100–150 bps gross margin headwind in FY2025–FY2026. The tariff posture under the current administration remains unpredictable; further escalation is the principal acute exogenous risk. Nike has less ability to absorb tariffs than, say, a commodity business — every 100 bps of tariff headwind represents ~$460M of gross profit at current revenue levels.
 
-**Tariff environment**: U.S. tariffs on imports from Vietnam (50%+ of Nike footwear sourcing), China, and SE Asia have been a 100–150 bps gross margin headwind in FY26. The administration's tariff posture remains uncertain — further escalation is the principal acute risk.
+**China**: Domestic brands (Anta, Li Ning) have gained market share over a multi-year horizon driven by: (a) national pride consumer sentiment post-2020; (b) significantly improved local product quality; (c) government-aligned purchasing preferences; (d) price competition. Nike's China revenue is in structural decline — the Q4 FY2026 –20% guide reflects this trajectory continuing. A *stabilization* at some lower revenue base is achievable; a *recovery* to prior peak levels would require a change in the geopolitical environment or a change in Chinese consumer preferences, neither of which is within Nike's control.
 
-**China**: Domestic brands (Anta, Li Ning, ZQX) have gained share over multi-year horizon. Geopolitical sentiment, "national pride" purchasing, and price-competitive local product all weigh. Nike's China revenue is in structural decline; a stabilization (not recovery) is the realistic FY27–28 ask.
-
-**Consumer macro**: Athletic footwear / apparel is more discretionary than groceries / staples but more durable than fashion apparel. A recession would hit the $150+ sneaker category hard — Nike's premium positioning is a vulnerability in a downturn.
+**Consumer macro**: Athletic footwear/apparel is more discretionary than staples but more durable than fashion apparel. A recession scenario would pressure the $150+ sneaker category. Nike's brand status provides some insulation — Jordan Brand and key performance lines are aspirational goods with inelastic demand even in downturns — but a sustained consumer spending slowdown would hit volume and ASP.
 
 ---
 
-## Section 10 — Valuation & Comparable Analysis
+## Section 8 — Valuation & Comparable Analysis
 
-### Current Multiples (April 24, 2026, $44.69 / ~$66B market cap)
+### Current Multiples (April 24, 2026; $44.69 / ~$66.2B market cap)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Market Cap | ~$66B | ~1.48B diluted shares × $44.69 |
-| EV | ~$70B | Modest net debt |
-| P/E (FY26E ~$1.90) | ~24× | At trough EPS — high |
-| P/E (FY27E recovery $2.40–2.80) | ~16–19× | Pricing in turnaround |
-| P/E (FY28E full-recovery $3.20+) | ~14× | If Hill executes |
-| Price / Sales (FY26E ~$46B) | ~1.4× | Compressed from historical 2–3× |
-| EV / EBITDA (FY26E) | ~14–16× [Estimate] | |
-| Dividend Yield | ~3.6% | Highest in 20+ years |
-| FCF Yield | ~5–6% [Estimate] | |
-| Median Analyst PT | $66.85 | [Source: stockanalysis.com] |
+| P/E (TTM ~$1.51) | ~29.6× | Elevated on trough TTM |
+| P/E (FY2026E ~$1.64) | ~27.3× | Consensus estimate |
+| P/E (FY2027E ~$2.01 consensus) | ~22.2× | Pricing in ~22% recovery |
+| P/E (FY2028E ~$3.00+ Hill case) | ~14–15× | If turnaround executes |
+| EV/Revenue (FY2025 $46.3B) | ~1.5× | Compressed from historical 2–3× |
+| EV/EBITDA (FY2025E ~$5.5B EBITDA) | ~12–13× [Estimate] | |
+| FCF Yield (FY2025 $3.3B FCF) | ~5.0% | Floor; below prior cycle 6–8% |
+| Dividend Yield | **3.67%** | Highest in 20+ years |
+| Median Analyst PT | $58 | [stockanalysis.com](https://stockanalysis.com/stocks/nke/forecast/); avg $63.44 |
 
-### Comparable Peer Set
+### Peer Comparison
 
-| Company | Fwd P/E | Margin Profile | Cycle Position |
-|---------|---------|---------------|---------------|
-| NKE | ~24× FY26 / ~16× FY27 | Compressed mid-cycle | Trough → recovery |
-| ADDYY (Adidas) | ~25× | Recovering | Mid-recovery |
-| ONON (On Holding) | ~38× | Premium | Growth |
-| DECK (Deckers / Hoka + UGG) | ~22× | High-margin | Mid-cycle |
-| LULU (Lululemon) | ~19× | High-margin | Decelerating |
-| SKX (Skechers) | ~14× | Value-tier | Stable |
+| Company | Fwd P/E | Gross Margin | Cycle Position | Moat |
+|---------|---------|-------------|----------------|------|
+| NKE | ~27× FY2026E / ~22× FY2027E | 42.7% (declining) | Trough → recovery | Wide |
+| ADDYY (Adidas) | ~25× | ~50% | Mid-recovery | Moderate |
+| ONON (On Holding) | ~38× | ~60% | Growth phase | Narrow+ |
+| DECK (Deckers) | ~22× | ~57% | Mid-cycle | Narrow |
+| LULU (Lululemon) | ~19× | ~58% | Decelerating | Moderate |
+| SKX (Skechers) | ~14× | ~51% | Stable/growing | Narrow |
 
-**Assessment**: Nike at $44.69 trades at a *discount* to ADDYY/ONON/DECK on FY27E recovery EPS, reflecting the turnaround uncertainty. The 3.6% dividend yield is the highest in 20+ years and provides a meaningful floor if the turnaround takes longer. The valuation is genuinely attractive *if* you believe FY27 EPS recovers to $2.40+ and FY28 to $3.00+; it is *expensive* if FY27 EPS stays in the $2.00 range.
+**Assessment**: NKE at $44.69 trades at a discount to ADDYY and ONON on FY2027E recovery EPS, reflecting maximum turnaround uncertainty. The 3.67% dividend yield — the highest in two decades — provides a meaningful behavioral floor for income-oriented holders. The valuation is *genuinely attractive* on FY2028E EPS ($3.00+, at 14–15×) if Hill executes, and *expensive* on TTM EPS. The key analytical question is whether FY2028E EPS of $3.00+ is achievable: it requires NA revenue recovery, China at some floor, tariff mitigation, and gross margin back toward 44%. All four can be achieved in 3 years; none is guaranteed simultaneously.
 
 ---
 
-## Section 11 — Catalyst & Sentiment Tracker
+## Section 9 — Catalyst & Sentiment Tracker
 
 ### Live Price & Positioning
 
-- **Price**: $44.69 (April 24, 2026; Yahoo Finance JSON API)
+- **Price**: $44.69 (April 24, 2026; [Yahoo Finance](https://finance.yahoo.com/quote/NKE))
 - **52-week range**: $42.09 – $80.17
 - **% from 52-wk high**: –44.3%
 - **% above 52-wk low**: +6.2%
@@ -273,173 +331,181 @@ The Q4 FY26 print (~late June 2026) and the FY27 guide will be the key tests.
 
 ### Analyst Consensus (April 2026)
 
-- **Aggregate rating**: Buy (mixed; 17 Buy / 17 Hold / 2 Sell per stockanalysis.com)
-- **Median price target**: $66.85 ([stockanalysis.com](https://stockanalysis.com/stocks/nke/forecast/))
-- **High target**: $92 (BMO Capital, Mar 2025; possibly stale) ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/NKE/price-target/))
-- **Low target**: $23 (BNP Paribas, Apr 1, 2026 — issued post-Q3) ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/NKE/price-target/))
+- **Aggregate**: Buy (mixed) — 5 Strong Buy + 7 Buy + 13 Hold + 1 Sell (26 analysts) ([stockanalysis.com](https://stockanalysis.com/stocks/nke/forecast/))
+- **Median price target**: $58 (down from ~$66.85 at prior ingest)
+- **Average target**: $63.44 (implies +41.96% upside)
+- **High target**: $88 ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/NKE/price-target/))
+- **Low target**: $23 (BNP Paribas, April 1, 2026 — bearish post-Q3 extrapolation)
+- **Target dispersion**: $23–$88 unusually wide — reflects genuine analyst disagreement on turnaround timing
 
 ### Recent Analyst Actions (March–April 2026)
 
-| Date | Firm | Action | Target | Note |
-|------|------|--------|--------|------|
-| 2026-04-01 | BNP Paribas | Set new PT | $23 | Bearish post-Q3 ([stockanalysis.com](https://stockanalysis.com/stocks/nke/forecast/)) |
-| 2026-04-01 | JP Morgan | Initiated/updated | $52 | Modestly cautious ([stockanalysis.com](https://stockanalysis.com/stocks/nke/forecast/)) |
-| 2026-03-11 | Barclays | Raised PT | $73 | Constructive (pre-Q3) ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/NKE/price-target/)) |
-| 2026-03 (post-Q3) | Multiple | Mixed PT cuts | Various | Reflecting Q3 miss + weak Q4 guide |
-
-**Dispersion**: $23 (BNP) to $92 (BMO, possibly stale) is unusually wide — reflects real analytical disagreement on turnaround timing.
+| Date | Firm | Action | Target |
+|------|------|--------|--------|
+| 2026-04-01 | BNP Paribas | New PT | $23 |
+| 2026-04-01 | JP Morgan | Updated | $52 |
+| 2026-03-11 | Barclays | Raised PT | $73 |
+| 2026-03 post-Q3 | Multiple | Mixed PT cuts | Various |
 
 ### Short Interest
 
-- *Specific data not retrieved this ingest.* Likely elevated given the multi-year decline. Pending data gap.
+- **Short interest**: 4.78% of float (56.1M shares; 3.56 days-to-cover) ([Fintel](https://fintel.io/ss/us/nke))
+- **Signal**: Short interest is *moderate*, not extreme — suggests the setup is behavioral mispricing from long-only selling rather than active short thesis. A squeeze catalyst is not the primary bull case.
 
 ### Insider Activity (Last 90 Days)
 
-| Date | Insider | Action | Size | Note |
-|------|---------|--------|------|------|
-| 2026-04-14 | **Elliott Hill (CEO)** | **Buy** | $1,000,108 | Material conviction signal at multi-year low ([Daily Political 2026-04-17](https://www.dailypolitical.com/?s=nike+hill); [SEC Form 4](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000320187&type=4)) |
-| 2026-04-14 | Tim Cook (referenced as director) | Buy | ~$1M | Per news report ([Daily Political 2026-04-17](https://www.dailypolitical.com/?s=nike+hill)) |
+| Date | Insider | Title | Action | Value |
+|------|---------|-------|--------|-------|
+| 2026-04-14 | **Elliott Hill** | CEO | **Buy** | **$1,000,108** |
+| 2026-04-14 | Tim Cook | Director | Buy | ~$1M (per reports) |
 
-**Net signal**: Material positive insider buying at a 12-year low. CEO purchase is one of the cleanest insider signals available — Hill is buying his own turnaround at the price he's defending.
+*Sources: [Daily Political 2026-04-17](https://www.dailypolitical.com/?s=nike+hill); [SEC Form 4 search](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000320187&type=4)*
+
+**Signal**: CEO open-market purchase of $1M+ at a 12-year low is one of the clearest insider conviction signals available. Hill is buying the turnaround he is executing, at the price he has to defend.
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-17] [Insider]** — 💰 Elliott Hill bought $1M+ in NKE stock; Tim Cook also disclosed a buy ([Daily Political](https://www.dailypolitical.com/?s=nike+hill))
-- **[2026-04-01] [Stock]** — 📉 NKE hit 9-year low ($47.85) intraday after Q3 ([indmoney.com](https://www.indmoney.com/?s=nike))
-- **[2026-03-31] [Earnings]** — Q3 FY26 results: revenue $11.3B (flat reported, –3% CN), EPS $0.35 (–35%), GM 40.2% (–130 bps), NI $520M (–35%); Q4 guide revenue down 2–4%, China –20% ([Nike IR](https://investors.nike.com/investors/news-events-and-reports/default.aspx) / [CNBC search](https://www.cnbc.com/search/?query=nike+q3+fy26) / [Motley Fool](https://www.fool.com/quote/nyse/nke/))
-- **[2026-03-31] [Strategy]** — Hill commentary on "Win Now" progress; NA +3% revenue / +6% footwear cited as early signal ([Q3 FY26 earnings call transcript](https://investors.nike.com/investors/news-events-and-reports/default.aspx))
+- **[2026-04-17] [Insider]** — 💰 Elliott Hill bought $1M+ in NKE open market; Tim Cook disclosed buy ([Daily Political](https://www.dailypolitical.com/?s=nike+hill))
+- **[2026-04-01] [Price]** — 📉 NKE hit 9-year intraday low ~$47.85 after Q3 earnings ([indmoney.com](https://www.indmoney.com/?s=nike))
+- **[2026-03-31] [Earnings]** — Q3 FY2026: revenue $11.3B (flat reported, –3% CN), EPS $0.35 (–35%), GM 40.2% (–130 bps), NI $520M (–35%); Q4 guide revenue down 2–4%, China –20% ([Nike IR](https://investors.nike.com/investors/news-events-and-reports/default.aspx))
+- **[2026-03-31] [Strategy]** — Hill cited NA +3% revenue / +6% footwear as early "Win Now" evidence; wholesale +5% ([Q3 FY2026 earnings call](https://investors.nike.com/investors/news-events-and-reports/default.aspx))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| 📅 **Late June 2026 (TBD)** | **Q4 FY2026 earnings (full-year wrap)** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NYSE/NKE/earnings/)) | Tests revenue down 2–4% guide; first FY27 guide |
-| Sept 2026 | Q1 FY2027 earnings | First quarter of expected re-acceleration |
-| FY2027 (rolling) | China stabilization color | Structural drag turning point |
-| FY2027 (rolling) | Tariff developments | Acute margin variable |
-| Ongoing | Wholesale partner commentary (Foot Locker, Dick's, JD) | Independent read on turnaround |
+| 📅 **Late June 2026 (TBD)** | **Q4 FY2026 earnings + full-year FY2026 results** | Tests revenue down 2–4% guide; **first Hill-era full-year FY2027 guide** — most important catalyst |
+| 📅 **September 2026** | Q1 FY2027 earnings | First quarter of expected NA re-acceleration confirmation |
+| 📅 **Ongoing** | China quarterly trajectory | Structural drag turning point — key for any multiple re-rating |
+| 📅 **Ongoing** | Tariff developments | Acute gross margin variable — escalation = down-move; resolution = upside |
+| 📅 **Ongoing** | Wholesale partner commentary (FL, DKS, JD) | Independent read on Hill's wholesale repair; Foot Locker earnings are a leading indicator |
 
 ---
 
-## Section 12 — BAIT Framework
+## Section 10 — BAIT Framework
 
 ### B — Behavioral: **Strong**
 
-12-year low. –44% from 52-wk high. The Q3 FY26 print + China –20% guide established that "every print can be worse than expected." Sentiment is deeply negative; BNP $23 PT marks the bearish extreme. CEO Elliott Hill's $1M open-market purchase at the low is the kind of insider signal that historically precedes recovery in turnaround names. This is a textbook behavioral mispricing setup *if* the turnaround is real.
+At a 12-year low with –44% from 52-week high, sentiment is maximum negative. Q3 FY2026 + China –20% Q4 guide established a narrative that "every print can be worse." BNP's $23 PT marks the bearish extreme and reflects not valuation but narrative extrapolation. CEO Hill's $1M open-market purchase at the low is the kind of insider signal that historically precedes recovery in turnaround names. This is textbook behavioral mispricing — the evidence of operational improvement (NA +3%, wholesale +5%) is being systematically discounted by a market that has been burned by three consecutive years of guidance misses.
 
 ### A — Analytical: **Moderate-Strong**
 
 What consensus may be missing:
-- **Hill's wholesale repair** is slow but real; FY27 wholesale revenue could exceed FY26 by mid-single digits while Direct stabilizes
-- **Margin recovery** from inventory cleanup + tariff mitigation could surprise positively (200–300 bps GM in FY27)
-- **3.6% dividend yield** + repurchase optionality at <$50 = strong total-return floor
-- **FY28 EPS power** at $3.00–3.50 is plausible if Hill executes — implies $44.69 trades at 12–15× FY28 EPS, a deep value setup
+- Hill's wholesale repair is slow but real; FY2027 wholesale revenues in NA could be +4–6% while Digital stabilizes
+- Gross margin recovery of 150–300 bps in FY2027 (less discounting, lower inventory obsolescence, logistics cost normalization) is plausible and not in consensus
+- FY2028 EPS power of $3.00–3.50 implies $44.69 trades at 12–15× — deep value if Hill executes
+- 3.67% dividend yield + buyback optionality below $50 = strong total-return floor
 
-What consensus may be over-modeling:
-- BNP's $23 PT essentially extrapolates current trajectory indefinitely — too pessimistic if any turnaround signal materializes
-- China structural decline is real but is being priced as if it goes to zero (it won't)
-
-Net: meaningful positive analytical edge at $44.69.
+What consensus may be over-weighting:
+- BNP's $23 PT essentially extrapolates the current trajectory indefinitely — if any North America / wholesale stabilization signal sustains, this is too pessimistic
+- China is declining but the floor is not zero — $5–6B in China revenue is still a large base
 
 ### I — Informational: **Moderate**
 
-Hill's Q3 FY26 earnings call commentary was unusually direct (he flagged North America +3% as a "leading indicator" rather than spinning it as a victory). The wholesale partner commentary (Foot Locker, Dick's, JD Sports) is starting to reflect cleaner inventory and improved Nike sell-in — but media coverage is dominated by the China and tariff narratives. Careful reader has a modest informational edge.
+Hill's Q3 FY2026 earnings call commentary was direct — he explicitly cited NA +3% as a "leading indicator" rather than celebrating it as a win. The 10-K MD&A framing of the gross margin decline as *ASP-driven from channel mix* (rather than demand destruction) is analytically important: if wholesale normalization restores ASP, margins recover structurally. Wholesale partner calls (Foot Locker, Dick's) are beginning to reflect cleaner Nike inventory and improved sell-in. Media coverage is dominated by China and tariff narratives; the wholesale repair signal is being underweighted.
 
-### T — Technical: **Weak (currently)**
+### T — Technical: **Weak**
 
-- 12-year low; broken every major moving average
-- No clear technical floor identified yet
-- Q4 FY26 print (late June) is the next event catalyst
-- Hill insider buy is the only recent positive technical signal
+- Stock below all major moving averages; broken long-term support at $50 and $60
+- No technical floor established yet ($42 52-wk low provides reference; April 2026 bounce from $42–44 zone)
+- Hill insider buy is the primary recent positive technical anchor
+- Q4 FY2026 print (late June) is the next hard catalyst event
 
 ### BAIT Verdict
 
-**Triple overlap (B Strong + A Moderate-Strong + I Moderate; T weak)**. **Conviction: Moderate-High**. NKE is a textbook behavioral-mispricing-meets-improving-fundamentals setup *if* the Hill turnaround is real and FY27 EPS recovers. The 3.6% dividend yield + Hill's $1M insider buy provides the asymmetry. Bear-case downside is real (–25% to $34 if Q4 disappoints again) but is bounded by the dividend yield.
+**Triple overlap (B Strong + A Moderate-Strong + I Moderate; T Weak)**. **Conviction: Moderate-High**. NKE is a textbook behavioral-mispricing-meets-improving-fundamentals setup *if* the Hill turnaround is real and FY2027 EPS recovers toward $2.40–2.80. The 3.67% dividend yield + Hill's $1M insider buy provides the asymmetric setup. T is the missing piece — no technical confirmation yet, requiring patience for the late-June catalyst.
 
 ---
 
-## Section 13 — Bull / Bear / Base Cases
+## Section 11 — Bull / Bear / Base Cases
 
-*All scenarios are 3-year (FY2029, year ending May 2029) terminal prices. Probabilities sum to 100%.*
+*All scenarios are 3-year terminal prices (FY2029, year ending May 2029). Probabilities sum to 100%.*
 
-### Bull Case — $90 by FY2029 (+101% from $44.69, ~26% CAGR) — **Probability: 25%**
-- FY29 revenue ~$55B, FY29 EPS ~$4.20 (full Hill turnaround)
-- Multiple ~21× (premium-brand multiple restored)
-- Requires: NA sustained re-acceleration, China stabilizes flat, tariffs moderate, margin recovery to 12%+
+### 🟢 Bull Case — $90 by FY2029 (+101% from $44.69, ~26% CAGR) — **25%**
 
-### Base Case — $60 by FY2029 (+34% from $44.69, ~10% CAGR) — **Probability: 50%**
-- FY29 revenue ~$50B, FY29 EPS ~$3.20 (partial recovery)
+- FY2029: Revenue ~$55B, EPS ~$4.20 (full Hill execution)
+- Multiple ~21× (premium brand restored)
+- **Requires**: NA sustained re-acceleration, China stabilizes flat-ish, tariffs moderate by FY2027, gross margin recovery to 44%+, FY2027 guide positive surprise
+
+### 🟡 Base Case — $60 by FY2029 (+34% from $44.69, ~10% CAGR) — **50%**
+
+- FY2029: Revenue ~$50B, EPS ~$3.20 (partial recovery)
 - Multiple ~19×
-- Requires: orderly Hill execution, China stabilizes (not recovers), tariffs roughly current, margins recover to 10%+
-- Plus 3.6% dividend = ~14% annualized total return
+- **Requires**: Orderly Hill execution, China at some floor (not recovering), tariffs roughly current, gross margin recovery to 43–44%
+- Plus 3.67% dividend = ~14% annualized total return
 
-### Bear Case — $32 by FY2029 (–28% from $44.69, ~–10% CAGR) — **Probability: 25%**
-- FY29 revenue ~$45B (still below FY24), FY29 EPS ~$2.20
-- Multiple compresses to ~14×
-- Plus dividend offsets some loss (~3.6%/yr)
-- Requires: Hill turnaround stalls, China continues deterioration, tariffs escalate further
+### 🔴 Bear Case — $32 by FY2029 (–28% from $44.69, ~–10% CAGR) — **25%**
+
+- FY2029: Revenue ~$43–45B (still below FY2024), EPS ~$2.00–2.20
+- Multiple compresses to ~14× on failed-turnaround multiple
+- **Requires**: Hill turnaround stalls (NA goes negative again), China continues deteriorating, tariffs escalate further, dividend threatened
+- Dividend partially offsets (~11% over 3 years at 3.67%/yr)
 
 ---
 
-## Section 14 — Probability-Weighted Expected Value
+## Section 12 — Probability-Weighted Expected Value
 
-| Scenario | Terminal (FY29) Price | Probability | PW Contribution |
-|----------|----------------------|-------------|-----------------|
-| Bull | $90 | 25% | $22.50 |
-| Base | $60 | 50% | $30.00 |
-| Bear | $32 | 25% | $8.00 |
+| Scenario | FY2029 Price | Probability | PW Contribution |
+|----------|-------------|-------------|-----------------|
+| 🟢 Bull | $90 | 25% | $22.50 |
+| 🟡 Base | $60 | 50% | $30.00 |
+| 🔴 Bear | $32 | 25% | $8.00 |
 | **PW EV (3-year, price only)** | | | **~$60.50** |
 
-| Current Price | PW EV | Return (3-yr, price only) | Plus dividend (~3.6%/yr) | Annualized total |
-|--------------|-------|--------------------------|--------------------------|-----------------|
-| $44.69 | $60.50 | **+35%** (~10%/yr) | +~11% (~3.6%/yr) | **~14%/yr** |
+| Current Price | PW EV | Price Return (3-yr) | Plus Dividend (~3.67%/yr) | Annualized Total |
+|--------------|-------|--------------------|-----------------------------|-----------------|
+| $44.69 | $60.50 | **+35%** | +~11% | **~14%/yr** |
 
-**Interpretation**: PW EV of ~$60.50 + ~11% dividend over 3 years = +46% total return / ~14% annualized. This is a **materially positive** expected value with the dividend floor providing downside support. The asymmetry tilts strongly favorable for a turnaround setup, though the bear case is a real –28% on price (partially offset by dividend).
+**R/R**: Bull upside +101% vs. Bear downside –28.4% = **~3.6:1 Risk/Reward** (anchored to Section 11 scenarios). This is a materially positive asymmetry.
+
+**PW EV Interpretation**: At $44.69, the PW EV of $60.50 (price only) + 11% cumulative dividend over 3 years implies a 46% total return (~14%/yr annualized). This is conditional on the Hill turnaround delivering at least partial results (base case). The bear case is real and carries –28% price downside (partially offset by dividend), consistent with a turnaround thesis — not a "safe" entry, but an *asymmetric* one given the magnitude of the behavioral selloff and the dividend floor.
+
+The $23 BNP Paribas PT represents a scenario where Hill's turnaround produces no revenue recovery, China deteriorates toward $4B, and EPS stays at $1.50–1.80 permanently — placing the stock at trough-on-trough multiple. This is a plausible tail, not a base case.
 
 ---
 
-## Section 15 — Recommendation & Bottom Line
+## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Nike is a wide-moat global brand at a 12-year low ($44.69) with the highest dividend yield in 20+ years (3.6%), CEO Elliott Hill's $1M open-market purchase signaling personal conviction in his "Win Now" turnaround, and the first North American re-acceleration signal (+3% Q3 revenue) — creating a triple-overlap behavioral / analytical / informational asymmetric setup with ~14%/yr total-return PW EV over 3 years.
+**Thesis in one sentence**: Nike is a wide-moat global brand at a 12-year low ($44.69) with a 3.67% dividend yield, CEO Elliott Hill's $1M open-market insider buy at the trough, and the first North America re-acceleration signal in three years — creating a behavioral / analytical / informational triple-overlap setup with ~3.6:1 risk/reward and ~14%/yr PW EV total return over 3 years if the turnaround is real.
 
-**For a non-holder**: 🟢 **Initiate** — at $44.69, the asymmetry, dividend yield floor, and Hill insider buy together justify a position. The next print (late June 2026 Q4 FY26 + FY27 guide) is the immediate event risk. Attractive entry zone is $40–48.
+**For a non-holder**: 🟢 **Initiate** — at $44.69, the combination of asymmetric upside, dividend yield floor, and Hill insider conviction justifies a position. Entry zone $40–48.
 
-**For a current holder**: 🟢 **Add** — incremental purchases below $48 are rational given 3.6% yield + +14%/yr PW EV. Trim only into the $70–85 zone after multi-quarter turnaround confirmation.
+**For a current holder**: 🟢 **Add** — incremental purchases below $48 are rational given 3.67% yield + ~14%/yr PW EV. Trim only into $70–85 after multi-quarter turnaround confirmation.
 
-🎯 **Attractive entry zone**: **$40 – $48** (rationale: 3.5%+ dividend yield + 12–14× FY28E EPS; meaningful margin of safety; aligned with Hill's $44 buy)
+🎯 **Attractive entry zone**: **$40 – $48** — 3.5%+ dividend yield + 12–14× FY2028E EPS; meaningful margin of safety aligned with Hill's April 14, 2026 buy at $44.
 
-🎯 **Trim zone**: **$70 – $85** (rationale: ~22–25× FY28E EPS; full turnaround priced; back to prior premium-brand multiple)
+🎯 **Trim zone**: **$70 – $85** — ~22–25× FY2028E EPS; full turnaround priced into multiple; back to premium-brand historical range.
 
-🔴 **Exit / avoid zone**: **>$95** (rationale: would require 2021-peak earnings at 2021-peak multiple; aggressive)
+🔴 **Exit / avoid zone**: **>$95** — would require 2021-peak earnings at 2021-peak multiple simultaneously; requires extraordinary execution.
 
 **Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
-- ⚠️ North America revenue turns negative for two consecutive quarters (refutes turnaround signal)
+- ⚠️ North America revenue turns negative for two consecutive quarters (refutes turnaround signal; Q3 +3% is the current base)
 - ⚠️ Greater China decline accelerates beyond –25% for two consecutive quarters
-- ⚠️ Gross margin falls below 38% on a sustained basis
-- ⚠️ Dividend cut announcement (would crush sentiment beyond fundamentals)
-- ⚠️ Material tariff escalation (additional 20%+ on Vietnam / China sourcing)
+- ⚠️ Gross margin falls below 38% on a sustained basis (tariff escalation scenario)
+- ⚠️ FY2027 EPS guide below $2.00 on the late-June 2026 print
+- ⚠️ Dividend cut announcement (would crush sentiment disproportionate to fundamentals)
+- ⚠️ Material additional tariff escalation on Vietnam / Indonesia sourcing (20%+ incremental)
 - ⚠️ Hill departure or extended health absence
-- ⚠️ FY27 EPS guide below $2.00 on the late-June 2026 print
-- ⚠️ Wholesale partner (Foot Locker, Dick's) commentary turns negative on Nike sell-in
+- ⚠️ Foot Locker / Dick's wholesale partner commentary turns negative on Nike sell-in
 
-📅 **Next review trigger**: **Q4 FY2026 earnings — late June 2026 (specific date TBD)**. Key items: (1) Q4 revenue vs. down 2–4% guide, (2) FY27 guide (most important — first Hill-era full-year guide), (3) Greater China trajectory vs. –20% Q4 expectation, (4) gross margin direction, (5) wholesale vs. Direct mix, (6) tariff commentary, (7) dividend reaffirmation.
+📅 **Next review trigger**: **Q4 FY2026 earnings — late June 2026 (specific date TBD)**. Key items: (1) Q4 revenue vs. down 2–4% guide, (2) **FY2027 full-year guide** (the most important signal — first Hill-era annual guide), (3) China trajectory vs. –20% Q4 expectation, (4) gross margin direction and FY2027 guidance, (5) wholesale vs. Direct mix, (6) tariff commentary, (7) dividend reaffirmation.
 
 ---
 
-### Sources
+## Sources
 
-- [Nike Investor Relations — News, Events & Reports](https://investors.nike.com/investors/news-events-and-reports/default.aspx) (Q3 FY2026 earnings press release & earnings call transcript, 2026-03-31)
-- [SEC EDGAR — Nike filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000320187&type=10-K) (10-K, 10-Q, Form 4)
-- [Yahoo Finance — NKE quote](https://finance.yahoo.com/quote/NKE) (live price 2026-04-24)
-- [CNBC — search Nike Q3 FY26](https://www.cnbc.com/search/?query=nike+q3+fy26)
-- [Motley Fool — NKE](https://www.fool.com/quote/nyse/nke/) (earnings call coverage)
-- [GuruFocus — NKE](https://www.gurufocus.com/stock/NKE/) (Q3 FY26 coverage)
-- Sporting Goods Intelligence coverage (2026-04-04) [link pending]
+- [Nike Investor Relations — News, Events & Reports](https://investors.nike.com/investors/news-events-and-reports/default.aspx)
+- [Nike FY2025 10-K (SEC EDGAR, filed 2025-07-17)](https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm)
+- [Nike FY2025 DEF 14A Proxy Statement (SEC EDGAR, filed 2025-07-17)](https://www.sec.gov/Archives/edgar/data/320187/000032018725000048/nke-20250717.htm)
+- [Nike FY2024 10-K (SEC EDGAR, filed 2024-07-25)](https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/)
+- [Nike FY2023 10-K (SEC EDGAR, filed 2023-07-20)](https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/)
+- [Nike FY2022 10-K (SEC EDGAR, filed 2022-07-21)](https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/)
+- [Nike FY2021 10-K (SEC EDGAR, filed 2021-07-20)](https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/)
+- [stockanalysis.com — NKE financials](https://stockanalysis.com/stocks/nke/financials/)
+- [stockanalysis.com — NKE forecast / analyst targets](https://stockanalysis.com/stocks/nke/forecast/)
+- [Fintel — NKE short interest](https://fintel.io/ss/us/nke)
+- [Yahoo Finance — NKE quote](https://finance.yahoo.com/quote/NKE) (live price verification, April 24, 2026)
+- [MarketBeat — NKE price targets](https://www.marketbeat.com/stocks/NYSE/NKE/price-target/)
 - [Daily Political — Nike Hill insider buy](https://www.dailypolitical.com/?s=nike+hill) (2026-04-17)
-- [stockanalysis.com — NKE](https://stockanalysis.com/stocks/nke/forecast/) (analyst aggregator)
-- [MarketBeat — NKE](https://www.marketbeat.com/stocks/NYSE/NKE/) (price targets, earnings calendar)
-- [Public.com — NKE](https://public.com/stocks/nke)
-- [WallStreetZen — NKE forecast](https://www.wallstreetzen.com/stocks/us/nyse/nke/forecast)
-- [indmoney.com — Nike](https://www.indmoney.com/?s=nike) (9-year low coverage)
-
-*Data gaps flagged: precise FY26 / FY27 EPS consensus (estimates used), specific short interest %, full insider Form 4 cadence beyond Hill's April 14 buy.*
+- [indmoney.com — Nike 9-year low](https://www.indmoney.com/?s=nike)
+- [SEC EDGAR — Nike Form 4 / insider activity](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000320187&type=4)

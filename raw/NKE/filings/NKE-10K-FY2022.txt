@@ -1,0 +1,2 @@
+Source: SEC EDGAR 10-K for Nike FY2022 (fiscal year ended May 31, 2022)
+Retrieved: 2026-04-26 via SEC EDGAR HTML

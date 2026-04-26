@@ -4,6 +4,66 @@
 
 ---
 
+## [2026-04-26] — v2.8 Refactor (alignment with canonical CLAUDE.md v2.8 schema)
+
+**Trigger**: Wiki-wide v2.8 retrofit pass. The 2026-04-25 entry combined v2.7+v2.8+v2.9 in one pass and adopted a 13-section consolidation that goes beyond the canonical CLAUDE.md v2.8 15-section schema. This pass realigns the page with the canonical v2.8 structure used across the rest of the wiki (matching SHOP gold-standard).
+
+**Sources reviewed**: [Yahoo Finance — DASH live price](https://finance.yahoo.com/quote/DASH) (verified $176.78); existing primary-source set from 2026-04-25 ingest (Tony Xu IPO letter, FY2022/FY2024/FY2025 quarterly letters, Q4 2025 transcript, FY2024/FY2025 10-Ks).
+
+### What Changed
+- **Schema header**: v2.9 → **v2.8**; Last Updated → **2026-04-26**; Status: Active.
+- **Section structure restored to canonical 15-section schema** (per CLAUDE.md v2.8). Previous v2.9 13-section consolidation reverted:
+  - §1 (Why Exist + Pivotal Question) — restored as combined section per CLAUDE.md v2.8 table
+  - §2 (Annual Financial Metrics), §3 (Geographic Revenue Mix), §4 (Revenue Mix & Business Model) — re-split (was merged into v2.9 §2)
+  - §5 (Competitive Moat) — Competitive Landscape subsection retained per Rule #24; moat sources, vulnerabilities, peer table, differentiation, tail-risk all live here
+  - §6 (Management) — Recent Management Commentary subsection retained with 5-Year Strategic Framework Arc (Rule #21 carve-out preserved)
+  - §7 (Strategic Growth), §8 (Key Risks), §9 (Macro), §10 (Valuation), §11 (Catalyst & Sentiment), §12 (BAIT), §13 (Bull/Bear/Base), §14 (PW EV), §15 (Recommendation) — restored to canonical numbering
+- **Summary**: Refreshed to surface explicit R/R ~1.0:1 at current price per Rule #26 (anchored to §13 Bull $215 vs. Bear $50 from $176.78). Moat verdict bullet preserved.
+- **§5 Competitive Landscape**: Preserved comprehensive landscape per Rule #24 — US share table (DoorDash 60–67%, Uber Eats 22–25%, Grubhub 7–10%, Instacart, Amazon Fresh) + international landscape table by region + 4 evidence-backed differentiators + Instacart tail-risk read.
+- **§8 Key Risks**: Materiality filter preserved per Rule #25 — gig-worker reclassification (*not priced in*), Deliveroo integration (*partially priced*), Instacart cross-category (*not priced in*), commission caps, ad plateau, margin disappointment, recession. 5-Year Risk Factor Evolution Arc kept as 1-paragraph synthesis (Rule #21).
+- **§14 PW EV**: Added explicit R/R section anchoring to §13 Bull/Bear midpoints per Rule #26 (~1.0:3.3 unfavorable at $176.78; inverts to ~1.4:1 favorable below $155). Watchlist ties to canonical §13.
+- **Date stamps**: Live price tagged Apr 24, 2026 close (verified flat through Apr 25–26 weekend on Yahoo Finance). All header dates now 2026-04-26.
+- **Output discipline (Rule #22)**: No CLAUDE.md self-references in page body; no retrospective language; tables time-in-columns / metrics-in-rows; bullets used for data-dense sentences.
+
+### Thesis Status
+- **Overall**: **Unchanged**. PW EV $130, Double BAIT (B+A+I), Low–Moderate conviction, Watch / Hold (entry $140–155) all preserved. The v2.8 alignment refactor is a structural / numbering refinement, not a thesis revision. Substantive analytical content (Competitive Landscape, materiality-filtered risks, Strategic Framework Arc, R/R math) carried forward intact.
+- **Price target delta**: None. Bull $215 / Base $110 / Bear $50 unchanged. PW EV $130 unchanged.
+
+### Recommendation
+- **For a non-holder**: 🟡 **Watch** at $176.78 — initiate at $140–155 entry zone.
+- **For a current holder**: 🟡 **Hold** — do not add, do not exit pre-print.
+
+**Next review trigger**: 📅 **May 6, 2026 — Q1 2026 earnings (post-close)**. First print under Deliveroo full consolidation; H2 2026 grocery/retail commentary will set the FY2026 thesis test.
+
+---
+
+## [2026-04-25] — v2.7+v2.8+v2.9 Combined Refactor (5-yr 10-Ks + Pattern B letters + synthesis discipline + structural consolidation)
+
+**Trigger**: DASH selected as the second ticker (after SHOP) to validate the v2.9 13-section structure on a different business model. Combined application of v2.7 (5-year 10-K + Pattern B quarterly letter baselines), v2.8 (synthesis-over-transcription, ticker-page output discipline, materiality filter, competitive landscape integration), and v2.9 (15 → 13 section consolidation) in one pass.
+
+### What Changed
+- **Schema header bumped** from v2.6 → v2.9 (skipped v2.7+v2.8 individual stamps; one pass).
+- **Summary**: Added Moat verdict bullet (Narrow); existing primary-source signal bullet preserved with cleaner phrasing.
+- **Business Overview**: Bullet-ified extensively. Replaced 2 text-heavy paragraphs with structured bullets covering scale, geographic footprint, revenue model, and 2025 transformation summary. Added explicit founding-insight context that was previously buried in Section 1.
+- **Standalone "Moat Assessment" block** between Business Overview and Pivotal Question: REMOVED (Rule #23). All moat content now lives in new Section 3 only.
+- **Section 1 (Why Does This Company Exist? + Pivotal Investment Question)**: REMOVED per Rule #23 (v2.9). Founding insight folded into Business Overview; Pivotal Question retained as a header subsection.
+- **Sections 3 + 4 merged into new Section 2 ("Revenue Mix & Geographic Split")** per v2.9 — single section with revenue streams table + key operating leverage commentary + multi-year geographic split table (FY2022–FY2026E) showing the international % step-change from 12% → 28-30% post-Deliveroo full year.
+- **Section 3 (Competitive Moat & Landscape)**: New combined section per Rule #24. Moat sources table + new comprehensive Competitive Landscape subsection with US food-delivery share table (DoorDash 60-67%, Uber Eats 22-25%, Grubhub 7-10%, Instacart, Amazon Fresh) + International landscape table by region (Wolt + Deliveroo positioning vs. Just Eat, Uber Eats, Talabat, foodpanda, Meituan, Coupang Eats, etc.) + 4 evidence-backed differentiators of DASH's moat vs. peers + tail-risk read flagging Instacart cross-category escalation as the under-priced competitor risk.
+- **Section 6 (Key Risks, was Section 8)**: Restructured per v2.8 Rule #25 materiality filter. Removed 7 universal corporate boilerplate rows (quarterly fluctuation, profitability sustainability, growth deceleration, systems failures, merchant dependency, third-party reliance, generic founder dependency). Renamed `Source` column → `Priced In?` column with explicit Partially / Yes / Not flagging per row. Added 2 new rows per Rule #25(d): "Multi-billion-dollar Deliveroo + SevenRooms integration with uncertain outcome" (Partially priced — Wolt precedent provides mitigation) and "Instacart cross-category escalation" (Not priced in — could acquire/partner with restaurant-delivery player). 5-Year Risk Factor Evolution Arc collapsed from table to 1-paragraph synthesis per Rule #21.
+- **Sections renumbered**: old 5-15 → new 3-13.
+- **Removed all "Per CLAUDE.md v2.X Core Rule #N" lines** from page body per Rule #22 (Section 2 segment detail subsection, Section 4 RMC subsection, Section 6 risks intro, Sources). Light references retained in changelog only.
+- **Cross-references updated**: "Section 8 risk" → "Section 6 risk"; "see Section 11" → "see Section 9".
+- **Recent Quarterly Trend table**: was already in time-in-columns / metrics-in-rows format from prior v2.6 ingest — no change needed for orientation.
+
+### Thesis Status
+- **Overall**: Unchanged. PW EV $130, Double BAIT, Low-Moderate conviction, Watch / Hold (entry $140-155) all preserved. The v2.9 refactor is a structural / quality refinement, not a thesis revision.
+- **New analytical edge surfaced** by Competitive Landscape subsection: explicit framing of DASH as the only delivery platform building horizontally across food + grocery + retail + restaurant CRM simultaneously — Uber Eats is rides-led, Grubhub is restaurant-only, Instacart is grocery-only. The vertical-depth differentiator is the cleanest moat argument and is implicit in consensus models but not articulated.
+- **Materiality-filtered Section 6** elevated 2 risks consensus does not assign material probability to: Deliveroo integration (Wolt precedent provides mitigation) and Instacart cross-category escalation. Both should be tracked actively.
+
+**Next review trigger**: 📅 **May 6, 2026 — Q1 2026 earnings (post-close)**. First print under Deliveroo full consolidation; H2 2026 grocery/retail commentary will set the FY2026 thesis test.
+
+---
+
 ## [2026-04-25] — v2.6 Primary-Source Enrichment (5 Letters + 10-K MD&A)
 
 **Trigger**: First Workflow B refresh after CLAUDE.md v2.6 schema bump (Core Rules #19 + #20). DASH used as the test case to validate that v2.6's primary-source synthesis depth requirements work on a non-Berkshire ticker with a different management voice (Tony Xu) and a different document mix (single-segment marketplace vs. holding company).

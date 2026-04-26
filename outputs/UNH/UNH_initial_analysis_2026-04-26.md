@@ -1,3 +1,13 @@
+# UNH — UnitedHealth Group v2.9 Schema Retrofit Analysis
+
+> **Output type**: Polished single-document analysis (mirrors wiki page state)
+> **Generated**: 2026-04-26
+> **Source page**: `wiki/tickers/UNH/UNH.md`
+> **Retrofit pass**: v2.5 → v2.9 (structural — 13-section schema, moat+landscape consolidation, materiality-filtered risks, R/R discipline)
+> **Prior output**: `outputs/UNH/UNH_initial_analysis_2026-04-24.md` (Q1 2026 post-print refresh under v2.5)
+
+---
+
 # UNH — UnitedHealth Group Incorporated
 
 > **Schema**: v2.9

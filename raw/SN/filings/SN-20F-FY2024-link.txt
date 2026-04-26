@@ -1,0 +1,14 @@
+SharkNinja, Inc. — FY2024 Annual Report on Form 20-F
+Filed: 2025-03-31 (covers FY ending 2024-12-31)
+SEC EDGAR HTML: https://www.sec.gov/Archives/edgar/data/1957132/000195713225000006/sharkninja-20241231.htm
+CIK: 0001957132
+Note: SN is a Cayman-incorporated foreign private issuer; files Form 20-F (not 10-K).
+
+Public history (post-spin from JS Global, July 2023):
+- FY2023 20-F (covering year ending 2023-12-31)
+- FY2024 20-F (filed Mar 2025, covering year ending 2024-12-31)
+- FY2025 20-F expected ~March 2026 (Q4 2025 results released Feb 11 2026 via 6-K)
+
+Direct fetch of 20-F HTML returned 403 (SEC EDGAR rate-limit / UA block); fall back to
+press releases + earnings transcripts + IR press releases per CLAUDE.md fallback policy.
+[link pending] full 20-F HTML text extraction.

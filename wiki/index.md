@@ -3,9 +3,13 @@
 Master catalog of all wiki pages. Updated by the LLM agent on every ingest or
 substantial wiki change. Each entry: link, one-line summary, last updated, status.
 
-**Schema**: v2.5 — single consolidated `[TICKER].md` per ticker (legacy v1
-overview/thesis/financials files have been folded in and deleted). Position-agnostic.
-Active / Paused status governs weekly cron coverage (Core Rule #15).
+**Schema**: v2.9 (current) — 13-section thesis structure. 22 tickers retrofitted
+to v2.9 on 2026-04-26 (RIVN, NFLX, INTU, KGS, LLY, LNTH, LULU, MP, MSFT, NKE,
+ONON, PG, RH, RKT, SBUX, SCHW, SN, TREX, TSLA, UNH, WING, ZG); SHOP and DASH at
+v2.9 from earlier sessions. 11 tickers preserved at v2.8 per user direction
+(ABNB, ACLS, ADBE, AMZN, BKNG, BRK.B, CELH, CPNG, DELL, EBAY, FIG). Single
+consolidated `[TICKER].md` per ticker. Position-agnostic. Active / Paused status
+governs weekly cron coverage (Core Rule #15).
 
 ---
 
@@ -27,35 +31,35 @@ Active / Paused status governs weekly cron coverage (Core Rule #15).
 | [DELL](tickers/DELL/DELL.md) | Active | Dell Technologies | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch (consensus < spot); insider selling |
 | [EBAY](tickers/EBAY/EBAY.md) | Active | eBay | Narrow | Medium | 2026-04-24 | v2.4 ingest — Watch / selective Initiate / Hold |
 | [FIG](tickers/FIG/FIG.md) | Active | Figma | Narrow-Emerging Wide | Medium | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate (small, contrarian) / Hold-Add |
-| [INTU](tickers/INTU/INTU.md) | Active | Intuit | Wide | High | 2026-04-24 | v2.4 ingest — Initiate / Add post-AI-fear drawdown |
-| [KGS](tickers/KGS/KGS.md) | Active | Kodiak Gas Services | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch / Hold; near 52-wk high |
-| [LLY](tickers/LLY/LLY.md) | Active | Eli Lilly | Wide | High | 2026-04-24 | v2.1 — Triple BAIT (A+I-Strong); Initiate measured / Hold-Add on pullback |
-| [LNTH](tickers/LNTH/LNTH.md) | Active | Lantheus Holdings | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Binary 2026 PDUFA event-setup; Watch / Hold |
-| [LULU](tickers/LULU/LULU.md) | Active | Lululemon Athletica | Wide | Medium | 2026-04-24 | v2.4 ingest — Watch / Initiate <$135 / Hold; new CEO Sept 2026 |
-| [MP](tickers/MP/MP.md) | Active | MP Materials | Narrow-Strategic | Medium | 2026-04-24 | v2.4 ingest — DoD offtake + price floor; Initiate / Hold-Add |
-| [MSFT](tickers/MSFT/MSFT.md) | Active | Microsoft | Wide | High | 2026-04-24 | v2.4 ingest — **Quadruple BAIT** (cleanest mega-cap); Initiate / Hold-Add |
-| [NFLX](tickers/NFLX/NFLX.md) | Active | Netflix | Wide | High | 2026-04-24 | v2.4 ingest — Initiate (small, scaled) post-Q2-guide selloff |
-| [NKE](tickers/NKE/NKE.md) | Active | Nike | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT; CEO bought $1M; Initiate / Add at 12-yr low |
-| [ONON](tickers/ONON/ONON.md) | Active | On Holding | Wide | High | 2026-04-24 | v2.4 ingest — Initiate / Add; +23% c-c at 63% gross margin |
-| [PG](tickers/PG/PG.md) | Active | Procter & Gamble | Wide (under pressure) | Medium | 2026-04-24 | v2.1 — Q3 FY26 earnings Apr 24 = binary; Watch / Hold pre-print |
-| [RH](tickers/RH/RH.md) | Active | RH (Restoration Hardware) | Narrow | Medium | 2026-04-24 | v2.4 ingest — Deep cyclical trough; Watch / selective Initiate / Hold |
-| [RIVN](tickers/RIVN/RIVN.md) | Active | Rivian Automotive | Narrow-Emerging | Low-Medium | 2026-04-24 | v2.4 ingest — Watch / small Initiate; R2 production started Apr 22 |
-| [RKT](tickers/RKT/RKT.md) | Active | Rocket Companies | Narrow-Emerging Wide | Medium | 2026-04-24 | v2.1 — Double BAIT (B+A); Initiate Spec. / Hold-Add; Q1 print Apr 30 |
-| [SBUX](tickers/SBUX/SBUX.md) | Active | Starbucks | Wide | Medium | 2026-04-24 | v2.4 ingest — Niccol turnaround mid-stride; Watch / Hold pre-Apr-28 print |
-| [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Narrow-Wide | High | 2026-04-24 | **v2.1 + Q1 2026 beat** — STRENGTHENED; Triple BAIT (B+A+I-Strong); Initiate / Add (post-beat 52-wk low) |
+| [INTU](tickers/INTU/INTU.md) | Active | Intuit | Wide | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT; 17× FY26E NGAAP at decade-low; Initiate / Add |
+| [KGS](tickers/KGS/KGS.md) | Active | Kodiak Gas Services | Narrow | Low-Moderate | 2026-04-26 | v2.9 — Double BAIT (A+I+T Mod); R/R ~1:1 at 52-wk high; Watch / Hold |
+| [LLY](tickers/LLY/LLY.md) | Active | Eli Lilly | Wide | High | 2026-04-26 | v2.9 — Triple BAIT (A+I-Strong); orforglipron approved Apr 1; Initiate / Hold-Add on pullback |
+| [LNTH](tickers/LNTH/LNTH.md) | Active | Lantheus Holdings | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (A+I Mod); binary 2026 PDUFA event-setup; Watch / Hold |
+| [LULU](tickers/LULU/LULU.md) | Active | Lululemon Athletica | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (B-Strong + A-Mod); Watch / Initiate <$135 / Hold; ex-Nike CEO Sept 2026 |
+| [MP](tickers/MP/MP.md) | Active | MP Materials | Wide-Strategic | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT (A+I-Strong); DoD floor + Apple/GM offtakes; Initiate / Hold-Add |
+| [MSFT](tickers/MSFT/MSFT.md) | Active | Microsoft | Wide | High | 2026-04-26 | v2.9 — **Quadruple BAIT** (B+A+T-Strong, I-Mod); Initiate / Add; Q3 Apr 29 binary |
+| [NFLX](tickers/NFLX/NFLX.md) | Active | Netflix | Wide & Widening | Moderate | 2026-04-26 | v2.9 — Triple BAIT (B+A+I-Mod); FY26 op-margin 31.5%; Initiate (small, scaled); entry $80–88 |
+| [NKE](tickers/NKE/NKE.md) | Active | Nike | Wide | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT; CEO Hill $1M buy; 3.67% yield 20-yr high; Initiate / Add at 12-yr low |
+| [ONON](tickers/ONON/ONON.md) | Active | On Holding | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (B-Strong + A-Mod); +23% c-c at 62.8% GM; Initiate / Add |
+| [PG](tickers/PG/PG.md) | Active | Procter & Gamble | Wide (cyclical pressure) | Moderate | 2026-04-26 | v2.9 — Q3 FY26 print delivered first co-wide volume growth in over a year; Watch / Hold |
+| [RH](tickers/RH/RH.md) | Active | RH (Restoration Hardware) | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (B-Strong, T-Mod via 35.6% short); deep cyclical trough; Watch / selective Initiate |
+| [RIVN](tickers/RIVN/RIVN.md) | Active | Rivian Automotive | Narrow | Moderate | 2026-04-26 | v2.9 — Triple BAIT (Mod); R2 production live Apr 22; Watch / small Initiate; Q1 Apr 30 |
+| [RKT](tickers/RKT/RKT.md) | Active | Rocket Companies | Narrow-Emerging Wide | Moderate | 2026-04-26 | v2.9 — Double BAIT (B+A); R/R ~3:1; Initiate Spec. / Hold-Add; Q1 May 7 |
+| [SBUX](tickers/SBUX/SBUX.md) | Active | Starbucks | Wide | Low-Moderate | 2026-04-26 | v2.9 — Single BAIT (A-Mod); Boyu China JV close de-risks overhang; Watch / Hold; Q2 Apr 28 |
+| [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Wide & Widening | High | 2026-04-26 | v2.9 — Triple BAIT (B+A+I-Strong); Q1 BEAT, FY26 guide raised >$5.80; Initiate / Add |
 | [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide & Widening | High | 2026-04-25 | v2.9 13-section refactor — Section 1 retired, Sections 3+4 merged; competitive landscape (Shopify 30% US, 3× Wix global); first-ever $2B buyback; Initiate / Add-Hold |
-| [SN](tickers/SN/SN.md) | Active | SharkNinja | Narrow | Medium-High | 2026-04-24 | v2.4 ingest — Initiate; FY26 +10–11% sales guide |
-| [TREX](tickers/TREX/TREX.md) | Active | Trex Company | Narrow | Medium | 2026-04-24 | v2.4 ingest — Initiate / Hold; housing-cyclical trough + buyback |
-| [TSLA](tickers/TSLA/TSLA.md) | Active | Tesla | Narrow-Wide | Medium | 2026-04-24 | v2.4 ingest — Hold / Watch; coin-flip risk-reward; Cybercab launched Apr 24 |
-| [UNH](tickers/UNH/UNH.md) | Active | UnitedHealth Group | Wide | High | 2026-04-24 | **v2.3 + Q1 2026 BEAT** — STRENGTHENED; Quadruple BAIT (B-compressed); Initiate / Add |
-| [WING](tickers/WING/WING.md) | Active | Wingstop | Narrow | Medium | 2026-04-24 | v2.1 — Asymmetry compressed at recovery; Watch / Hold pre-Q1 SSS Apr 29 |
-| [ZG](tickers/ZG/ZG.md) | Active | Zillow Group | Wide | High | 2026-04-24 | v2.4 ingest — Initiate / Add; mispriced by Rocket-Redfin narrative |
+| [SN](tickers/SN/SN.md) | Active | SharkNinja | Narrow & Widening | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT; +24% (FY24) at 17%+ adj EBITDA; tariff overhang largely de-risked; Initiate |
+| [TREX](tickers/TREX/TREX.md) | Active | Trex Company | Narrow & Widening | Moderate | 2026-04-26 | v2.9 — Double BAIT (B+A Mod); housing-cyclical trough + $200M buyback; Initiate (patient) / Hold |
+| [TSLA](tickers/TSLA/TSLA.md) | Active | Tesla | Narrow auto + Optional Wide autonomy | Moderate | 2026-04-26 | v2.9 — Quadruple BAIT (Mod); R/R ~1.4:1 not asymmetric; Hold / Watch; entry $280–320 |
+| [UNH](tickers/UNH/UNH.md) | Active | UnitedHealth Group | Wide | High | 2026-04-26 | v2.9 — Quadruple BAIT (B-compressed); Q1 2026 BEAT confirms MLR recovery; FY26 guide >$18.25; Initiate / Add |
+| [WING](tickers/WING/WING.md) | Active | Wingstop | Narrow | Moderate | 2026-04-26 | v2.9 — Triple BAIT (B-Strong, A+T Mod); $300M buyback through trough; Watch / Hold; Q1 SSS Apr 29 binary |
+| [ZG](tickers/ZG/ZG.md) | Active | Zillow Group | Wide consumer / Narrow agent | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT (B+A Strong, I-Mod); super-app pivot working; Initiate / Add |
 
 ---
 
 ## Ticker Summary
 
-| Ticker | Price (4/24/26) | vs. 52-wk High | BAIT | Recommendation (non-holder / holder) |
+| Ticker | Price (4/24–4/26/26) | vs. 52-wk High | BAIT | Recommendation (non-holder / holder) |
 |--------|-----------------|----------------|------|--------------------------------------|
 | ABNB | $142.82 | near high | Single (B-Mod) | Watch / Hold; entry $120–130 |
 | ACLS | $143 | near high (+186% TTM) | Single (A-Mod) | Watch / Hold |
@@ -69,29 +73,29 @@ Active / Paused status governs weekly cron coverage (Core Rule #15).
 | DELL | $214.65 | near high | Single | Watch (insider selling) |
 | EBAY | $97.94 | –8.8% | Single | Watch / selective Initiate / Hold |
 | FIG | $17.47 | –88% (post-IPO) | Triple (B+A+I) | Initiate (small, contrarian) / Hold-Add |
-| INTU | $395.95 | –51% | Triple (B-Strong) | Initiate / Add |
-| KGS | $62.16 | near high (+83% 6mo) | Single (A only) | Watch / Hold |
-| LLY | $883.96 | –22.0% | Triple (A+I-Strong) | Initiate measured / Hold-Add on pullback |
-| LNTH | $84.33 | –22.6% | Single (binary event) | Watch / Hold |
-| LULU | $143.80 | –58% (52-wk low) | Single | Watch / Initiate <$135 / Hold |
-| MP | $60.73 | mid-range | Triple (strategic) | Initiate / Hold-Add |
-| MSFT | $432.92 | –22% | **Quadruple (B/A/T-Strong)** | Initiate / Hold-Add |
-| NFLX | $93.24 (post-split) | –30% | Double | Initiate (small, scaled) |
-| NKE | $44.69 | –44% (12-yr low) | Triple | Initiate / Add |
-| ONON | $36.25 | mid-range | Triple | Initiate / Add |
-| PG | $148.18 | –13.3% | Weak | Watch / Hold pre-Q3 FY26 (Apr 24) |
-| RH | $137.51 | –46.5% | Single | Watch / selective Initiate / Hold |
-| RIVN | $16.95 | mid-range | Single (squeeze setup) | Watch / small Initiate |
-| RKT | $15.60 | –35.9% | Double (B+A) | Initiate Spec. / Hold-Add on weakness |
-| SBUX | $98.67 | –3% | Single (binary print Apr 28) | Watch / Hold |
-| SCHW | $88.50 | –17.7% | Triple (B+A+I-Strong) | **Initiate / Add** (post-beat new 52-wk low) |
+| INTU | $395.95 | –51% | Triple (B+A-Strong, I-Mod) | Initiate / Add; entry $340–420 |
+| KGS | $65.98 | –0.3% (52-wk high) | Double (A+I+T-Mod) | Watch / Hold; entry $50–55 |
+| LLY | $883.96 | –22.0% | Triple (A+I-Strong, B-Mod) | Initiate / Hold-Add on pullback; entry $750–850 |
+| LNTH | $82.91 | –22.6% | Double (A+I-Mod, binary) | Watch / Hold; entry $65–78 |
+| LULU | $143.80 | –57.7% (52-wk low) | Double (B-Strong + A-Mod) | Watch / Initiate <$135 / Hold |
+| MP | $60.73 | –39% from high | Triple (A+I-Strong, B-Mod) | Initiate / Hold-Add; entry $48–62 |
+| MSFT | $424.62 | –23.5% | **Quadruple (B+A+T-Strong, I-Mod)** | Initiate / Hold-Add; entry $380–440 |
+| NFLX | $93.24 (post-split) | –30.5% | Triple (B+A+I-Mod) | Initiate (small, scaled); entry $80–88 |
+| NKE | $44.69 | –44.3% (12-yr low) | Triple (B-Strong, A-Mod-Strong) | Initiate / Add; entry $40–48 |
+| ONON | $36.25 | –40.8% | Double (B-Strong + A-Mod) | Initiate / Add; entry $31–40 |
+| PG | $148.18 | –13.3% | Low-Moderate (post-Q3 print) | Watch / Hold; entry $135–148 |
+| RH | $137.51 | –46.5% | Double (B-Strong, T-Mod via 35.6% short) | Watch / selective Initiate; entry $110–135 |
+| RIVN | $16.54 | –27% from high | Triple (B+A+I-Mod, T-Mod) | Watch / small Initiate; entry $12–14 |
+| RKT | $15.60 | –35.9% | Double (B+A-Mod-Strong) | Initiate Spec. / Hold-Add; entry $11–14 |
+| SBUX | $98.67 | –5.9% | Single (A-Mod) | Watch / Hold; entry $85–92; Q2 Apr 28 binary |
+| SCHW | $91.71 | –14.7% | Triple-Strong (B+A+I), Mod T | **Initiate / Add**; entry $80–93 |
 | SHOP | $125.83 | –30.9% | Triple+ (B+A-Strong+I+T-Mod) | **Initiate / Add-Hold** — v2.7 5-yr 10-K + Pattern B letter arc STRENGTHENED |
-| SN | $115.74 | –14% | Double | Initiate |
-| TREX | $41.90 | mid-range | Triple | Initiate / Hold |
-| TSLA | $376.30 | –25% | Single (coin-flip) | Hold / Watch |
-| UNH | $354.92 | –16.4% | Quadruple (B-compressed; A+I-Strong) | **Initiate / Add** (post-Q1 beat; FY26 EPS >$18.25) |
-| WING | $189.37 | –51.2% | Triple (lower conv.) | Watch / Hold pre-Q1 SSS Apr 29 |
-| ZG | $45.63 | mid-range | Triple | Initiate / Add |
+| SN | $115.74 | –13.6% | Triple (A-Mod-Strong; B+I+T-Mod) | Initiate; entry $95–105 |
+| TREX | $41.90 | –39% | Double (B+A-Mod) | Initiate (patient) / Hold; entry $30–42 |
+| TSLA | $376.30 | –24.6% | Quadruple-Mod (B+A+I+T) | Hold / Watch; entry $280–320 |
+| UNH | $354.92 | –16.3% | Quadruple (B-compressed; A+I-Strong, T-Mod) | **Initiate / Add** (post-Q1 BEAT; FY26 EPS >$18.25) |
+| WING | $189.37 | –51% | Triple (B-Strong, A+T-Mod) | Watch / Hold; Q1 SSS Apr 29 binary |
+| ZG | $45.41 | –51.6% | Triple (B+A-Strong, I-Mod) | Initiate / Add; entry $38–50 |
 
 ---
 
@@ -137,4 +141,4 @@ Active / Paused status governs weekly cron coverage (Core Rule #15).
 
 ---
 
-*Last full index refresh: 2026-04-25 (BRK.B Workflow A initial ingest = 35 tickers total)*
+*Last full index refresh: 2026-04-26 (v2.9 retrofit batch — 22 tickers updated to v2.9; SHOP & DASH at v2.9 from prior session; 11 tickers preserved at v2.8 = 35 tickers total)*

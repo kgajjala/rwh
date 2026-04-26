@@ -1,3 +1,9 @@
+# TREX — Trex Company, Inc. — v2.9 Initial Analysis
+
+*Generated 2026-04-26 as the v2.9 retrofit polished report. Mirrors `wiki/tickers/TREX/TREX.md` at v2.9.*
+
+---
+
 # TREX — Trex Company, Inc.
 
 > **Schema**: v2.9

@@ -4,6 +4,48 @@ Append-only record of thesis updates. Format defined in CLAUDE.md.
 
 ---
 
+## 2026-04-26 — v2.9 Schema Retrofit (13-section structure + primary-source synthesis depth)
+
+**Trigger**: Schema migration from v2.5 → v2.9. Per CLAUDE.md v2.9 Core Rules:
+- 13-section structure (old §1 Why-Exist + Pivotal Question moved to header subsections; old §3 + §4 merged into new §2 Revenue Mix & Geographic Split)
+- Primary-source synthesis depth (Rule #19 — Pattern C 5-year letters; Rule #20 — 5 years of 10-Ks; Rule #21 — synthesis over transcription; Rule #25 — risk materiality filter)
+- Moat consolidation in §3 with mandatory Competitive Landscape subsection (Rule #23 + #24)
+- R/R discipline anchored to §11 Bull/Bear (Rule #26)
+
+**Sources reviewed (newly fetched)**:
+- 5 annual 10-Ks: [FY2021](../../raw/SCHW/filings/SCHW-10K-FY2021.htm), [FY2022](../../raw/SCHW/filings/SCHW-10K-FY2022.htm), [FY2023](../../raw/SCHW/filings/SCHW-10K-FY2023.htm), [FY2024](../../raw/SCHW/filings/SCHW-10K-FY2024.htm), [FY2025](../../raw/SCHW/filings/SCHW-10K-FY2025.htm) (all SEC EDGAR HTML)
+- 6 annual report PDFs (Pattern C — chairman/CEO letters in annual-report front matter): [2020](../../raw/SCHW/shareholder-letters/2020_letter.pdf), [2021](../../raw/SCHW/shareholder-letters/2021_letter.pdf), [2022](../../raw/SCHW/shareholder-letters/2022_letter.pdf), [2023](../../raw/SCHW/shareholder-letters/2023_letter.pdf), [2024](../../raw/SCHW/shareholder-letters/2024_letter.pdf), [2025](../../raw/SCHW/shareholder-letters/2025_letter.pdf)
+- [2024 CEO Letter (web)](https://www.aboutschwab.com/annual-report-2024/ceo-letter) — Wurster *"Through Clients' Eyes"* framing
+- [2024 Co-Chairman Letter (web)](https://www.aboutschwab.com/annual-report-2024/co-chairman-letter) — Bettinger succession framing
+- [Q1 2026 Earnings Call Transcript (Apr 16, 2026)](https://www.fool.com/earnings/call-transcripts/2026/04/16/schwab-schw-q1-2026-earnings-call-transcript/)
+- Yahoo Finance live price (verified Apr 22, 2026 close: $91.71)
+
+### What Changed
+- **Header**: Schema bumped v2.5 → v2.9; live price refreshed $88.50 → $91.71; 52-wk range updated $79.30–$107.50 → $77.51–$107.50.
+- **Structure**: Migrated from 15-section to v2.9 13-section template. Old standalone "Moat Assessment" block retired (moat consolidated in §3 per Rule #23). Old §1/§3/§4 collapsed per v2.9 schema.
+- **§3 Competitive Moat & Landscape**: Added mandatory Competitive Landscape subsection with named peers (Fidelity, Vanguard, HOOD, IBKR, ETOR, LPL, BNY Pershing, MS, BAC, GS, JPM Self-Directed, TROW). Moat verdict upgraded from "Narrow-Wide" to **"Wide and Widening"** post-TDA + post-cash-sorting funding-mix repair.
+- **§4 Management — Recent Management Commentary**: New subsection synthesizing 5 years of chairman/CEO letters + Q1 2026 call. 5-Year Strategic Framework Arc table traces TDA close → cash-sorting → recovery → Wurster monetization-layer pivot.
+- **§6 Key Risks**: Applied Rule #25 materiality filter — kept rate-cut/NIM, cash-sorting tail, Fidelity/Vanguard, JPMorgan, HOOD, PFOF, AUM, Basel III; dropped boilerplate. Added "not yet priced in" tags on rate-cut and JPMorgan risks. Replaced multi-row Risk Factor evolution table with 2–4 sentence synthesis paragraph (Rule #21).
+- **§8 Valuation**: Refreshed multiples on $91.71 spot — P/E FY26E ~15.7×; expanded peer comp to include LPL, TROW.
+- **§9 Catalyst & Sentiment**: Updated next earnings to July 16, 2026; live-price snapshot refreshed; analyst 1-yr target $115.
+- **§11 Bull/Bear/Base + §12 PW EV**: Refreshed 18-month scenarios on new spot. Bull $130 / Base $108 / Bear $72; PW EV ~$107 = +17% return. **R/R 2:1 anchored to §11 Bull/Bear midpoints per Rule #26**.
+- **§13 Recommendation**: Entry zone refined to $80–$93 (was $79–$92). Recommendation verbs unchanged (Initiate / Add) — Q1 2026 thesis still strengthened.
+- **Summary section**: refreshed with v2.9 emoji discipline; 10 bullets including primary-source signal callout.
+
+### Thesis Status
+- **Overall**: Unchanged-Strengthened (vs. prior v2.5 entry). Q1 2026 thesis still intact; v2.9 retrofit *adds* primary-source depth (5-yr letter arc, 5-yr 10-K diff, competitive-landscape table) but does not change the recommendation verbs.
+- **BAIT delta**: Unchanged (Triple-Strong B+A+I, Moderate T).
+- **Price target delta**: Bull $130 (unchanged) / Base $108 (unchanged) / Bear $72 (was $70 — small lift to reflect $2.4B/quarter buyback floor).
+- **Catalyst & Sentiment delta**: Next earnings date refined to July 16, 2026 (was "~July 2026").
+
+### Recommendation
+- **For a non-holder**: 🟢 Initiate at $91.71 — multiple ~15.7× FY26E EPS sits below historical 17–20× band.
+- **For a current holder**: 🟢 Add — Q1 2026 print structurally strengthened thesis; fresh 52-wk low at $77.51 is a counterintuitive setup for adding.
+
+**Next review trigger**: Q2 2026 earnings + FY26 formal guide refresh, July 16, 2026 (est.).
+
+---
+
 ## 2026-04-24 — v2.1 Schema Migration (Consolidated Wiki Page)
 
 **Trigger**: Wiki schema migration from v1 (4-file format: overview / thesis / financials / changelog) to v2.1 (single consolidated `[TICKER].md` page + changelog). Performed concurrently with Q1 2026 earnings absorption.

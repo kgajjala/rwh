@@ -1,68 +1,39 @@
 # LNTH — Lantheus Holdings, Inc.
 
-> **Schema**: v2.5
-> **Last Updated**: 2026-04-25
-> **Status**: Active
-> **Live Price Verified**: **$84.33** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/LNTH))
-> **Ticker Type**: Pharma / radiopharmaceutical (specialty diagnostics)
+**Schema**: v2.9
+**Last Updated**: 2026-04-26
+**Status**: Active
+**Live Price Verified**: **$82.91** on 2026-04-26 via [web search / MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/LNTH/)
+**Ticker Type**: Pharma / Radiopharmaceutical
 
 ---
 
 ## Summary
 
-- 🟡 **Thesis**: PYLARIFY-concentrated PET radiodiagnostics franchise (**Narrow moat**) transitioning through a –6 to –9% FY26 revenue trough with three 2026 FDA decisions and a next-gen PSMA launch that collectively determine whether FY27 reinflects or extends the decline.
-- 🟡 **For a non-holder: Watch** at $84.33 — wait for PDUFA outcomes through summer 2026 or a deeper drawdown to $65–75.
-- 🟡 **For a current holder: Hold** — FY26 trough is largely priced; summer 2026 catalysts are binary but skew positive. Add only on weakness toward $70.
-- 🎯 **Attractive entry zone**: **$65 – $78** (~14× FY26E adj EPS; below recent trough).
-- 🎯 **Trim zone**: **$110 – $130** (would price in clean PDUFA sweep + next-gen PSMA success).
-- 📉 **Price action**: $84.33, **–22.6% from 52-wk high** ($108.91), **+78.5% above 52-wk low** ($47.25).
-- 📅 **Next catalyst**: **Q1 2026 earnings (early May 2026, est.)** + **LNTH-2501 PDUFA decision (June 2026)** + **MK-6240 PDUFA (Aug 13, 2026)**.
-- ⚠️ **Top risk**: PYLARIFY price erosion exceeds –10% (high impact, 35% prob) — bear thesis core; rising short interest (~8.89%) signals real bear conviction on commoditization.
-- ⚠️ **Second risk**: FDA rejection on any of 3 PDUFAs (critical per asset, 20% prob each).
-- 🟡 **BAIT verdict**: **Single-to-double overlap (A + I both Moderate)** — Conviction **Moderate**. Event-driven (3 PDUFAs in 2026) more than valuation-driven; PW EV ~$99 (3-yr) implies +17% / ~+5.4%/yr.
+- 🟡 **Thesis**: Lantheus is a PYLARIFY-concentrated PET radiodiagnostic franchise navigating a structural FY26 revenue trough (–6 to –9%) driven by PSMA pricing competition and the SPECT divestiture — with a portfolio of three 2026 FDA events and a next-gen PSMA + RLT pipeline that collectively determine whether FY27 reinflects or extends the decline.
+- 🟡 **Moat verdict**: **Narrow** — first-mover PSMA PET scale + radiopharmaceutical distribution network + physician workflow stickiness, but PYLARIFY pricing is structurally eroding as Posluma and Illuccix/Gozellix compete on dose price; not an unbreachable moat.
+- 🟡 **For a non-holder: Watch** at $82.91 — wait for LNTH-2501 PDUFA (June 29, 2026) or MK-6240 PDUFA (Aug 13, 2026) to reduce binary risk, or add into a drawdown to $65–75.
+- 🟡 **For a current holder: Hold** — FY26 trough is largely priced; binary catalysts through August 2026 skew positive; add only on weakness to ~$70.
+- 🎯 **Attractive entry zone**: **$65 – $78** (~13–14× FY26E adj EPS; improved bear-case asymmetry vs. current).
+- 🎯 **Trim zone**: **$110 – $130** (prices in clean PDUFA sweep + next-gen PSMA uptake before FY27 financial confirmation).
+- ⚠️ **Top risk**: PYLARIFY price erosion worse than –10% (structural commoditization, 35% prob, not fully priced).
+- ⚠️ **Second risk**: CEO vacancy + securities class action litigation overhang (management credibility / disclosure risk, not yet priced).
+- 📅 **Next catalyst**: **Q1 2026 earnings — May 7, 2026 (8:00 a.m. ET)**. First PYLARIFY-under-pressure quarter and first post-SPECT-divestiture print.
+- 🟡 **BAIT verdict**: **Double overlap (A + I, both Moderate)** — conviction **Moderate**. Event-driven binary (2 PDUFAs + CEO search + litigation overhang) more than valuation-driven; PW EV ~$96 implies +16% over 3 years (~+5% annualized) — modest asymmetry.
 
 ---
 
 ## Business Overview
 
-Lantheus Holdings (NASDAQ: LNTH) is a leading radiopharmaceutical and medical-imaging company specializing in PSMA PET diagnostics for prostate cancer, with an expanding pipeline in PET radiodiagnostics for neuroendocrine tumors and Alzheimer's disease. The flagship product is **PYLARIFY** (piflufolastat F-18), the market-leading PSMA-targeted PET imaging agent for prostate cancer — which generated $989.1M in FY2025 revenue (–6.5% YoY) ([Lantheus Q4 2025 release, 2026-02-26](https://investor.lantheus.com/news-releases)). PYLARIFY accounts for roughly 64% of total Lantheus revenue.
+Lantheus Holdings (NASDAQ: LNTH) is the U.S. market leader in PSMA-targeted PET imaging for prostate cancer, with an expanding platform in PET radiodiagnostics for neuroendocrine tumors and Alzheimer's disease and a nascent radioligand therapy (RLT) pipeline. Its flagship product, **PYLARIFY** (piflufolastat F 18), is the #1-ordered PSMA PET imaging agent in the U.S., generating $989.1M in FY2025 revenue (–6.5% YoY after hitting blockbuster status at $1.06B in FY2024). The company completed a strategic transformation in 2025–2026: divesting its legacy SPECT business (to SHINE Technologies, effective January 1, 2026) and acquiring Life Molecular Imaging (Neuraceq amyloid PET, Alzheimer's) and Evergreen Theragnostics (OCTEVY NET diagnostic + RLT manufacturing/CDMO + LNTH-2503 lutetium-177 CCK2R therapeutic), reorienting toward a fully integrated PET-pure radiopharmaceutical platform.
 
-FY2025 total revenue was $1.54B, with Q4 2025 revenue of $406.8M and adjusted EPS of $1.67 (a beat). However, FY2026 guidance disappointed: revenue $1.4–1.45B (–6 to –9% YoY) and adjusted EPS $5.00–5.25 — reflecting an expected 8–10% PYLARIFY decline driven by competitive pricing pressure (multiple new PSMA agents entering the market).
-
-The company is at a **strategic inflection point** with three FDA decisions in 2026:
-1. **New PSMA PET formulation** (F-18, NDA accepted Aug 2025; PDUFA goal Mar 6, 2026 — outcome to verify in raw filings)
-2. **LNTH-2501 (gallium-68 edotreotide)** for SSTR+ neuroendocrine tumor PET imaging — PDUFA target Mar 29, 2026, **extended to June 2026** ([GeneOnline](https://www.geneonline.com/?s=lantheus) / FDA notice)
-3. **MK-6240** F-18 tau PET imaging agent for Alzheimer's evaluation — PDUFA Aug 13, 2026
-
-Plus a strategic shift: the company is transitioning from a SPECT-imaging legacy + PET diagnostics franchise toward a pure PET radiodiagnostics platform (announced SPECT business sale exploration). The thesis pivots on whether the PET pipeline (new PYLARIFY formulation + LNTH-2501 + MK-6240, plus the longer-dated PSMA next-gen launch in late 2026) offsets the PYLARIFY commoditization.
-
----
-
-## Moat Assessment
-
-**Narrow** — first-mover advantage in PSMA PET, established radiology customer relationships, and complex radiopharmaceutical manufacturing/distribution; vulnerable to generic-style PSMA price erosion.
-
-**Sources**:
-- **PYLARIFY first-mover scale**: Largest PSMA PET network in the US; established workflows in major academic and community urology / radiation oncology centers
-- **Radiopharmaceutical distribution moat**: Half-life-driven manufacturing requires regional cyclotron + radiopharmacy network; Lantheus has built this at scale
-- **PET pipeline depth**: LNTH-2501, MK-6240 (with Cerveau/Eli Lilly), next-gen PSMA — multi-year sequence
-- **Manufacturing know-how**: Radiopharmaceutical production is regulatory + technical barrier
-- **Cardiolite / SPECT legacy cash flow**: Funds R&D pipeline (now under strategic review)
-
-**Vulnerabilities**:
-- **PYLARIFY pricing pressure**: New PSMA PET entrants (Novartis Pluvicto/Locametz adjacency, Curium, Telix's Illuccix) directly commoditize the PET diagnostic
-- **Single-product concentration**: PYLARIFY ~64% of revenue; concentration risk is acute
-- **Reimbursement / TPT exposure**: Hospital TPT (Transitional Pass-Through) reimbursement timeline creates payer-driven price ceiling
-- **FDA outcome dependency**: Three PDUFA dates in 2026 — pipeline failures would materially weaken thesis
-- **Competition from radioligand therapeutics adjacencies**: Pluvicto's growth could pull diagnostic volume to non-Lantheus PSMA agents
+FY2025 total revenue was $1.54B (+0.5% YoY; organic growth muted by PYLARIFY pricing pressure). FY2026 guidance of $1.4–1.45B reflects an expected –8 to –10% PYLARIFY decline driven by competitive pricing from Posluma (Blue Earth/Bracco) and Illuccix/Gozellix (Telix). Three FDA decisions in 2026 are the catalysts that determine whether the thesis inflects: **PYLARIFY TruVu** (approved March 6, 2026 — a manufacturing/distribution capacity upgrade), **LNTH-2501** (PDUFA June 29, 2026 — NET PET diagnostic), and **MK-6240** (PDUFA August 13, 2026 — tau PET for Alzheimer's). Leadership is in flux: CEO Brian Markison retired effective December 31, 2025; former CEO Mary Anne Heino serves as interim CEO while a permanent successor search is underway.
 
 ---
 
 ## Pivotal Investment Question
 
-> Can Lantheus's PET pipeline (new PYLARIFY formulation + LNTH-2501 + MK-6240) and the strategic pivot to PET-pure offset the structural –8 to –10% PYLARIFY revenue decline through 2027, returning the company to growth in 2027–2028 — or is PYLARIFY's commoditization the start of a multi-year erosion that the pipeline cannot offset in time?
-
-The 2026 setup features near-term revenue compression (FY26 guide –6 to –9%) followed by a potential 2027 inflection if all three FDA approvals land and the next-gen PSMA launches successfully in late 2026. The stock at $84.33 is –22.6% from the 52-wk high of $108.91 and ~78% above the $47.25 low — implying the market views the 2026 trough as already partially priced.
+> Can Lantheus's PET pipeline (PYLARIFY TruVu commercial ramp + LNTH-2501 + MK-6240 + next-gen PSMA late 2026) and the strategic pivot to a fully integrated PET/RLT platform offset the structural –8 to –10% PYLARIFY revenue decline through 2027, returning the company to sustainable growth in 2027–2028 — or does PYLARIFY's commoditization represent the leading edge of a multi-year erosion that the pipeline cannot offset in time, compounded by a CEO gap and unresolved litigation?
 
 ---
 
@@ -70,363 +41,449 @@ The 2026 setup features near-term revenue compression (FY26 guide –6 to –9%)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$84.33** | April 24, 2026 (Yahoo Finance) |
+| Live Price | **$82.91** | 2026-04-26 ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/LNTH/)) |
 | 52-Week High | $108.91 | |
 | 52-Week Low | $47.25 | |
-| % From 52-Wk High | –22.6% | |
-| % Above 52-Wk Low | +78.5% | Off the 2025 lows |
-| Market Cap | ~$5.7B | ~67–68M diluted shares × $84 [Estimate] |
-| FY2025 Revenue | $1.54B | |
-| FY2025 Q4 Revenue | $406.8M | Q4 beat |
+| % From 52-Wk High | –23.9% | |
+| % Above 52-Wk Low | +75.4% | Off 2025 lows |
+| Market Cap | ~$5.31B | ~64M diluted shares × $82.91 ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/LNTH/)) |
+| FY2025 Revenue | $1,541.6M | [Lantheus Q4 2025 PR](https://www.globenewswire.com/news-release/2026/02/26/3245408/0/en/Lantheus-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html) |
 | FY2025 PYLARIFY Revenue | $989.1M | –6.5% YoY |
-| FY2025 Adj EPS (Q4) | $1.67 | Beat |
+| FY2025 DEFINITY Revenue | ~$302M | Cardiac ultrasound contrast |
+| FY2025 Neuraceq Revenue | ~$85M (partial yr) | Acquired via Life Molecular Imaging |
+| FY2025 Adj EPS | $6.08 | Full year; Q4 adj EPS $1.67 |
+| FY2025 FCF | $354M | [stockanalysis.com](https://stockanalysis.com/stocks/lnth/financials/) |
 | FY2026 Rev Guide | $1.4–1.45B | –6 to –9% YoY |
 | FY2026 Adj EPS Guide | $5.00–5.25 | |
-| FY2026 PYLARIFY Outlook | –8 to –10% | Volume +LSD; price erosion |
-| Short Interest | ~8.89% of float | 4.68M shares; rising ([Fintel](https://fintel.io/ss/us/lnth) / [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/LNTH/short-interest/), Apr 2026) |
-| Analyst Consensus Target | $83–98 | Buy consensus, 5 analysts |
-| Truist PT (Apr 2026) | $98 (raised from $89) | Recent upgrade |
-| Mizuho PT (Apr 2026) | $95 (raised from $85) | Recent upgrade |
-| FDA PDUFA #1 | Mar 6, 2026 (new PYLARIFY F-18) | Outcome to verify |
-| FDA PDUFA #2 | June 2026 (LNTH-2501; extended from Mar 29) | |
-| FDA PDUFA #3 | Aug 13, 2026 (MK-6240 tau PET) | |
+| Analyst Consensus | **Strong Buy** (11 Buy / 2 Hold / 0 Sell) | Median target ~$83–91 ([stockanalysis.com](https://stockanalysis.com/stocks/lnth/forecast/)) |
+| Short Interest | ~8.89% of float | 4.68M shares; rising ([MarketBeat — LNTH short](https://www.marketbeat.com/stocks/NASDAQ/LNTH/short-interest/)) |
+| Q1 2026 Earnings | **May 7, 2026** | 8:00 a.m. ET ([StockTitan](https://www.stocktitan.net/news/LNTH/lantheus-to-host-first-quarter-2026-earnings-conference-call-and-2zbgrwlpfvsk.html)) |
 
 ---
 
-## Section 1 — Why Does This Company Exist? + Pivotal Investment Question
+## Section 1 — Annual Financial Metrics
 
-**Founding insight**: Lantheus traces back to a Bristol-Myers Squibb medical-imaging spinout (2008) and later acquired Progenics Pharmaceuticals (2020), which brought PYLARIFY (piflufolastat F-18) into the portfolio. The investment insight: PSMA-targeted PET imaging would replace conventional bone scans + CT for prostate cancer staging — a structural diagnostic upgrade. PYLARIFY ($989M peak) validated the bet.
+### Annual Trend (FY2021–FY2025)
 
-**Today**: Lantheus is the U.S. leader in PSMA PET imaging with established cyclotron + radiopharmacy infrastructure. The challenge is that being first-mover in a category creates a target — multiple competitors are now in or entering PSMA PET, compressing pricing.
+| Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 |
+|--------|--------|--------|--------|--------|--------|
+| Revenue | $425M | $935M | $1,296M | $1,534M | $1,542M |
+| YoY Growth | — | +120% | +39% | +18% | +0.5% |
+| Gross Profit | $188M | $582M | $710M | $988M | $942M |
+| Gross Margin | 44.2% | 62.2% | 54.8% | 64.4% | 61.1% |
+| Operating Income | –$61M | $36M | $365M | $457M | $311M |
+| Net Income (GAAP) | –$71M | $28M | $327M | $312M | $234M |
+| EPS Diluted (GAAP) | –$1.06 | $0.40 | $4.65 | $4.36 | $3.41 |
+| Free Cash Flow | $42M | $263M | $259M | $493M | $354M |
+| PYLARIFY Revenue | N/M | ~$502M | ~$852M | ~$1,057M | $989M |
+| DEFINITY Revenue | ~$220M | ~$245M | ~$275M | ~$318M | ~$302M |
 
-**Pivotal question**: Is the 2026 trough a pause-before-inflection (with 3 PDUFA decisions, a new PYLARIFY formulation late 2026, and SPECT divestiture pivoting LNTH to a PET-pure compounder) or the leading edge of multi-year commoditization that the pipeline cannot timely offset?
+*Sources: [stockanalysis.com — LNTH financials](https://stockanalysis.com/stocks/lnth/financials/); [Lantheus Q4 2025 PR](https://www.globenewswire.com/news-release/2026/02/26/3245408/0/en/Lantheus-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html); [Lantheus Q4 2024 PR](https://lantheusholdings.gcs-web.com/news-releases/news-release-details/lantheus-reports-fourth-quarter-and-full-year-2024-financial). FY2021–FY2022 PYLARIFY/DEFINITY split: [Estimate] from segment reporting.*
 
----
+**Key themes from multi-year arc**:
+- The FY2021→FY2024 revenue quadrupling was driven almost entirely by PYLARIFY's adoption curve in PSMA PET imaging — a structural diagnostic upgrade cycle from bone scans + CT.
+- FY2025 marks the inflection point: PYLARIFY peaked at ~$1.06B in FY2024, then declined 6.5% in FY2025 as Posluma pricing pressure and CMS reimbursement resets began. FY2026 guidance implies a further –8 to –10% PYLARIFY decline.
+- Gross margin compressed from 64.4% (FY2024) to 61.1% (FY2025) as PYLARIFY price erosion outpaced volume growth; ongoing compression expected in FY2026.
+- FCF was $493M in FY2024 (peak); declined to $354M in FY2025 as the company funded the Life Molecular Imaging and Evergreen acquisitions and absorbed integration costs. FCF trajectory is a key watch metric.
+- Operating income compression from $457M (FY2024) to $311M (FY2025) reflects both PYLARIFY pricing headwinds and acquisition-related amortization.
 
-## Section 2 — Annual Financial Metrics
+### Recent Quarters
 
-| Metric | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 Guide |
-|--------|--------|--------|--------|--------|--------------|
-| Revenue | $0.93B | $1.30B | $1.50B | $1.54B | $1.4–1.45B |
-| YoY Growth | +119% | +40% | +15% | +3% | –6 to –9% |
-| PYLARIFY Revenue | ~$0.50B | ~$0.92B | ~$1.06B | $0.99B | –8 to –10% |
-| Adjusted EPS | ~$3.50 | ~$5.50 | ~$6.50–7.00 | ~$6.30+ [Est.] | $5.00–5.25 |
+| Metric | Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 |
+|--------|---------|---------|---------|---------|
+| Revenue | $372.8M | $378.1M | $384.0M | $406.8M |
+| Gross Profit | $237.7M | $241.0M | $222.4M | $240.9M |
+| Operating Income | $102.1M | $88.0M | $43.6M | $77.2M |
+| Net Income (GAAP) | $73.0M | $78.8M | $27.8M | $54.1M |
+| EPS Diluted (GAAP) | $1.02 | $1.12 | $0.41 | $0.82 |
 
-[FY2022–FY2024 figures partially estimated from peer trackers / aggregator data — to be refreshed against 10-K once raw/ is populated.]
+*Source: [stockanalysis.com — LNTH quarterly](https://stockanalysis.com/stocks/lnth/financials/?p=quarterly)*
 
-The FY26 guide implies the **first revenue decline in company history outside of pre-PYLARIFY years**. Adjusted EPS compresses correspondingly. The investment thesis hinges on FY27 inflection.
-
----
-
-## Section 3 — Geographic Revenue Mix
-
-| Region | FY2025 (est.) |
-|--------|---------------|
-| United States | ~95%+ |
-| International | ~5% (small; Wolt/Curium-style partnerships in EU) |
-
-**Forward-looking**: Lantheus is structurally a U.S. business — PYLARIFY's distribution model (regional cyclotron + radiopharmacy) is fundamentally U.S.-centric. International expansion is via partnership rather than direct. Geographic mix is not a meaningful thesis lever.
-
----
-
-## Section 4 — Revenue Mix & Business Model
-
-| Stream | FY2025 Mix | Margin Profile | Direction |
-|--------|------------|---------------|-----------|
-| PYLARIFY (PSMA PET) | ~64% | High | Declining (–8 to –10% in FY26) |
-| DEFINITY (cardiac ultrasound contrast) | ~20% | High | Stable to growing |
-| TechneLite (SPECT generator — under strategic review) | ~10% | Lower | Likely divested |
-| Other / Pipeline | ~6% | Mixed | Growing |
-
-**Business model**: Specialty pharmaceutical with radiopharmaceutical distribution. Manufacturing is regional and time-sensitive (F-18 half-life ~110 minutes; Ga-68 ~68 minutes). Sells direct to imaging centers, hospitals, and academic medical centers. Reimbursement is heavily dependent on Medicare TPT and private payer codes.
-
-**Key margin lever**: PYLARIFY pricing per dose is the dominant revenue variable. Volume is growing (low-single-digit) but price erosion from competition is the headwind.
+**Notable**: Q3 2025 operating income compressed to $43.6M (vs. $134M in Q3 2024) — this was the quarter following the guidance cut and reflected the full pricing-pressure impact plus M&A integration costs. Q4 2025 partially recovered. The FY2026 comp will be against these weakened quarters.
 
 ---
 
-## Section 5 — Competitive Moat
+## Section 2 — Revenue Mix & Geographic Split
 
-**Rating: Narrow**. First-mover and distribution scale are real but not unbreachable.
+### Product Revenue Mix (FY2025)
 
-| Source | Strength | Evidence |
-|--------|----------|---------|
-| PYLARIFY first-mover scale | Strong but eroding | Largest PSMA PET network US |
-| Radiopharmaceutical manufacturing/logistics | Strong | Regional cyclotron + radiopharmacy buildout |
-| Pipeline depth (PET) | Moderate | LNTH-2501, MK-6240, next-gen PSMA |
-| Customer relationships (urology, radiation oncology) | Moderate | Established workflows |
-| DEFINITY franchise | Stable | Cardiac contrast monopoly-like |
+| Product | FY2025 Revenue | % of Total | YoY | Direction |
+|---------|---------------|-----------|-----|-----------|
+| PYLARIFY (PSMA PET F-18) | $989.1M | 64.1% | –6.5% | Declining (–8 to –10% guided FY26) |
+| DEFINITY (cardiac ultrasound contrast) | ~$302M | 19.6% | ~–5% (est.) | Stable; modest headwind from prior-year opportunistic sales |
+| Neuraceq (amyloid beta PET, AD) | ~$85M | ~5.5% | N/M (partial yr, acquired Q2 2025) | Growing with Leqembi/Kisunla ecosystem |
+| OCTEVY / pipeline | Minimal | <1% | N/M | Pre-revenue; LNTH-2501 pending PDUFA |
+| SPECT (divested Jan 1, 2026) | Included in FY2025 | ~10% FY25 | — | Divested — no FY2026 contribution |
+
+*Sources: [Lantheus Q4 2025 PR](https://www.globenewswire.com/news-release/2026/02/26/3245408/0/en/Lantheus-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html); DEFINITY and SPECT figures [Estimate] based on quarterly disclosures.*
+
+### Geographic Split
+
+| Region | FY2025 (est.) | Notes |
+|--------|---------------|-------|
+| United States | ~92–94% | PYLARIFY, DEFINITY, Neuraceq all U.S.-primary |
+| International | ~6–8% | Neuraceq EU/international footprint; Life Molecular Imaging had EU commercial presence |
+
+LNTH is structurally a U.S.-first business. The Life Molecular Imaging acquisition introduced international commercial infrastructure (Neuraceq is approved in EU, US, and select markets), but the dominant revenue driver remains the U.S. PYLARIFY franchise. Geographic diversification is not a near-term thesis lever — the thesis turns on U.S. PSMA PET dynamics and pipeline FDA timelines.
+
+### Forward Revenue Shifts
+
+The FY2026–FY2028 revenue composition is undergoing a structural shift:
+- **PYLARIFY** shrinks from 64% to likely 55–60% as pricing headwinds persist and TruVu cannibalization is partial.
+- **PYLARIFY TruVu** (approved March 6, 2026): new larger-batch formulation launching Q4 2026; expected to expand geographic reach. Near-term revenue contribution minimal until commercial ramp in 2027.
+- **Neuraceq + amyloid PET**: growing as Leqembi/Kisunla (approved anti-amyloid therapies) drive companion diagnostic demand. Currently ~$85M; could scale to $150–200M by FY2027 if adoption accelerates.
+- **LNTH-2501 (SSTR+ NET PET)**: pending June 29, 2026 PDUFA; if approved, commercial launch H2 2026 targeting a ~$300M market.
+- **MK-6240 (tau PET, AD)**: pending August 13, 2026 PDUFA; ties into AD therapy monitoring market. Market size uncertain (~$300–500M+ long-term if tau monitoring becomes standard of care).
+- **LNTH-2503 / RLT pipeline**: pre-revenue Phase 1; Evergreen CDMO provides manufacturing foundation for future RLT development.
+
+---
+
+## Section 3 — Competitive Moat & Landscape
+
+**Moat Rating: Narrow**
+
+LNTH built a genuine first-mover advantage in PSMA PET: largest cyclotron + radiopharmacy network in the U.S., established workflows in academic and community oncology centers, and brand recognition among urologists and radiation oncologists. However, the PSMA PET category has attracted well-capitalized competitors with FDA-approved PSMA agents, and the core moat source — PYLARIFY's pricing premium — is now structurally under pressure.
+
+| Moat Source | Strength | Evidence |
+|-------------|----------|---------|
+| PSMA PET first-mover scale | Strong but eroding | #1-ordered PSMA agent; established in >3,000 U.S. sites |
+| Radiopharmaceutical distribution infrastructure | Strong | Regional cyclotron + radiopharmacy network; F-18 110-min half-life requires local manufacturing |
+| Physician workflow stickiness | Moderate | Established ordering patterns and tech support; switching has friction but is not high |
+| PET pipeline depth (LNTH-2501, MK-6240, TruVu) | Moderate | 3 near-term catalysts + RLT pipeline |
+| DEFINITY cardiac ultrasound franchise | Moderate-strong | Near-monopoly in cardiac contrast; stable cash generator |
+| Neuraceq / amyloid PET (AD) | Growing | Acquired infrastructure; benefits from anti-amyloid therapy growth |
 
 **Vulnerabilities**:
-- Multiple PSMA PET competitors at scale (Telix Illuccix, Curium PYLCLARI, Novartis adjacencies)
-- Price erosion likely structural, not cyclical
-- PDUFA outcome dependency for pipeline thesis
-- Reimbursement timeline pressures from CMS / MAC determinations
+- PYLARIFY pricing is not contractually protected from competitors offering lower doses prices; Blue Earth's Posluma and Telix's Illuccix/Gozellix have been active on pricing.
+- Manufacturing moat is replicated over time — Telix and Curium have built U.S. distribution networks.
+- No revenue-generating RLT product yet — Lantheus is a pure diagnostic play while competitors (Novartis Pluvicto, Eli Lilly/POINT) own the therapy side.
+- CEO vacancy is an execution risk at a critical pivot.
+
+### Competitive Landscape
+
+| Competitor | Key Asset(s) | Moat / Threat Vector | Market Position |
+|------------|-------------|----------------------|-----------------|
+| **Blue Earth Diagnostics (Bracco)** | Posluma (flotufolastat F-18) | FDA-approved PSMA PET; aggressively pricing below PYLARIFY; maintained pass-through status until Sept 30, 2026 — a significant near-term pricing lever | Major near-term threat; Posluma's pass-through status enables pricing below PYLARIFY TPT reset level. "Loss of market share" directly attributed to Posluma by management. ([Seeking Alpha — LNTH risks](https://seekingalpha.com/article/4798553-lantheus-stock-seems-worth-very-real-risks)) |
+| **Telix Pharmaceuticals (ASX: TLX)** | Illuccix + Gozellix (two approved PSMA agents) | Two-product PSMA PET platform; Q4 2025 PSMA franchise revenue US$161M with volume +3% — profitable and growing | Growing ~30%+ YoY; adding Gozellix creates Telix as a dual-agent competitor. Gozellix commercial launch in U.S. underway. ([FNArena — Telix](https://fnarena.com/index.php/2026/01/22/focus-on-telix-guidance-post-annus-horribilis/)) |
+| **Curium** | PSMA-1007 (F-18 PSMA, EU-approved; U.S. filing in progress) | EU market leader; U.S. entry could accelerate pricing pressure | EU threat primarily; U.S. NDA underway. Adds another entrant to U.S. PSMA PET market. |
+| **Novartis** | Locametz (Ga-68 PSMA-11, FDA-approved), Pluvicto (PSMA RLT) | FDA-approved companion diagnostic + approved PSMA therapy — most complete theranostic pair | Novartis's integration of diagnostic + therapeutic (Pluvicto + Locametz) creates a formidable paired-solution offer to oncology practices. Does not directly compete on price but pulls diagnostic volume to Locametz. |
+| **Eli Lilly (POINT Biopharma acquisition)** | PNT2002 (Ga-68 PSMA, pending FDA) | Well-capitalized pharma backing of pipeline PSMA agent | PNT2002 filing pending; FDA approval would add another competitor in 2026–2027 timeframe. |
+
+**How LNTH differs**: LNTH's moat is distribution scale and physician familiarity, not exclusivity. PYLARIFY TruVu's larger batch sizes and broader geographic reach are the strongest near-term moat extension. The deeper differentiation is the multi-product platform (PSMA + NET + tau + amyloid + RLT pipeline) vs. single-product PSMA competitors — a portfolio-of-radiodiagnostics thesis that is not fully valued at current prices but requires successful pipeline execution.
+
+The most dangerous competitor near-term is Posluma because its TPT reimbursement pass-through status (extended to Sept 30, 2026) creates a structural pricing advantage — Posluma can be reimbursed at a level above the bundled rate that applies to PYLARIFY in some settings, giving hospitals a financial incentive to switch. This dynamic is the primary driver of PYLARIFY's projected –8 to –10% net revenue decline in FY2026.
 
 ---
 
-## Section 6 — Management & Leadership
+## Section 4 — Management & Leadership
 
-**Brian Markison (CEO since 2024)**: Stepped in following Mary Anne Heino's departure. Industry veteran (former CEO Fougera, former Bristol-Myers exec). Tasked with executing the PET pivot + SPECT divestiture + pipeline launches.
+**Interim CEO — Mary Anne Heino** (Executive Chairperson, effective Nov 7, 2025; interim CEO since Jan 1, 2026):
+Heino was Lantheus CEO from 2015 to 2024 and oversaw the original PYLARIFY acquisition and commercial launch — the most value-creating period in company history. She was elevated from Chair to interim CEO when Brian Markison retired. The board has initiated a formal CEO search; as of Q4 2025 earnings (Feb 2026), Heino described the search as "successfully progressing." The CEO vacancy is a material execution risk at a strategic inflection point — the 2026 pipeline launch schedule (TruVu, LNTH-2501, MK-6240) requires clear commercial leadership.
 
-**Robert Marshall (CFO)**: Drives FY26 guide framing.
+**Former CEO — Brian Markison** (CEO March 2024–Dec 31, 2025; Chair from 2013):
+Markison oversaw the strategic transformation — Evergreen and Life Molecular acquisitions, SPECT divestiture, and the NDA filings for LNTH-2501 and MK-6240. He agreed to serve as strategic advisor through at least March 31, 2026. The acquisitions he structured position Lantheus as a platform, but the PYLARIFY revenue miss in 2025 and securities class action filing (see §6) raise questions about guidance discipline under his tenure.
 
-**Capital allocation**:
-- **Buybacks**: Modest historical activity; capacity exists from FCF generation
-- **M&A**: Bolt-on partnerships (e.g., Cerveau / Lilly partnership for MK-6240)
-- **R&D**: Increasing — pipeline-funding priority over short-term margin
-- **Strategic divestiture**: SPECT business sale expected to free capital for PET focus
+**CFO — Paul Blanchfield** (since 2023): Drives FY26 guide framing. No notable red flags from public commentary; standard conservative guidance posture.
 
-**Insider activity**: Recent activity dominated by routine PSU vesting and tax-withholding — not material directional signal. Daniel Niedzwiecki small disposition Apr 17, 2026 at $83.82 was tax-related ([StockTitan](https://www.stocktitan.net/news/LNTH/) / [SEC Form 4](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001712463&type=4)). CFO and other officers similar pattern. **No notable open-market insider buys** at recent lows — modest weakness in BAIT.
+**Capital allocation track record**:
+- **Acquisitions**: Evergreen Theragnostics ($250M upfront + up to $752.5M in milestones, closed April 2025) — OCTEVY + RLT manufacturing + LNTH-2503. Life Molecular Imaging (undisclosed; closed Q2 2025) — Neuraceq amyloid PET. Meilleur Technologies (smaller; AI dosimetry precision). These acquisitions total $500M+ in upfront capital deployed in ~12 months. Execution risk is real.
+- **SPECT divestiture**: Sold to SHINE Technologies effective January 1, 2026 — proceeds undisclosed publicly but freed the North Billerica campus SPECT capacity. Capital recycling from a declining legacy business into PET growth is strategically sound.
+- **Buybacks**: Minimal. The company has prioritized acquisition spend over buybacks. No buyback authorization at current depressed prices — a mild negative signal.
+- **R&D**: Increasing — Evergreen CDMO infrastructure, LNTH-2503 Phase 1 initiation, OCTEVY development.
 
----
+### Recent Management Commentary — Primary Source Synthesis
 
-## Section 7 — Strategic Growth Initiatives
+Lantheus does not publish standalone annual shareholder letters (Pattern C). Commentary here synthesizes from annual reports, earnings calls, and DEF 14A filings.
 
-1. **New PYLARIFY F-18 formulation** (PDUFA Mar 6, 2026 — outcome to verify): Improved logistics, potentially extends franchise life
-2. **LNTH-2501 (gallium-68 edotreotide)**: SSTR+ NET PET diagnostic; PDUFA June 2026 (extended). Addresses neuroendocrine tumor market
-3. **MK-6240 tau PET (with Cerveau/Lilly)**: Alzheimer's diagnostic; PDUFA Aug 13, 2026; ties into amyloid PET / anti-amyloid therapy ecosystem
-4. **Next-gen PSMA PET launch (late 2026)**: Material 2027 revenue contributor — the central pipeline bet
-5. **SPECT divestiture**: Frees capital + strategic focus
-6. **Therapeutics partnerships**: Companion diagnostic role to radioligand therapies
+**From the FY2024 10-K / annual report (Brian Markison, CEO letter)**:
+CEO Markison described 2024 as *"a groundbreaking year for Lantheus, as our radiodiagnostic, PYLARIFY, reached blockbuster status, and we enhanced our radiopharmaceutical leadership."* The strategic vision was framed as building *"an end-to-end radiopharmaceutical platform"* — diagnostics, therapeutics, and manufacturing. He committed to *"grow our commercial portfolio, advance several early- and late-stage clinical assets, expand our pipeline and end-to-end capabilities."* The two acquisitions (Life Molecular, Evergreen) and the SPECT divestiture were presented as the operational expression of this strategy. *(Source: [Lantheus Q4 2024 PR / annual commentary](https://lantheusholdings.gcs-web.com/news-releases/news-release-details/lantheus-reports-fourth-quarter-and-full-year-2024-financial); FY2024 10-K [link pending — SEC EDGAR])*
 
----
+**From the Q4 2025 earnings call (Mary Anne Heino, interim CEO)**:
+The PYLARIFY TruVu approval on March 6, 2026 was described as a "meaningful milestone" for manufacturing scale. Heino's tone on the CEO search is measured optimism: *"successfully progressing"* and the board is *"pleased with the candidates."* The SPECT divestiture's clean execution (effective Jan 1, 2026, to SHINE) was flagged as a milestone in the PET pivot. *(Source: [Lantheus Q4 2025 earnings call transcript](https://finance.yahoo.com/news/lantheus-lnth-q4-2025-earnings-195852869.html))*
 
-## Section 8 — Key Risks
-
-| Risk | Impact | Probability | Notes |
-|------|--------|-------------|-------|
-| PYLARIFY price erosion exceeds –10% | High | 35% | Bear thesis core |
-| FDA rejection on any PDUFA | Critical (per pipeline) | 20% (per asset) | Three decisions in 2026 |
-| Pluvicto / radioligand cannibalization | Medium | 25% | Therapeutic adjacency dynamic |
-| Reimbursement compression (TPT, MAC) | High | 30% | Payer-driven structural |
-| Single-product concentration | High | (structural) | PYLARIFY ~64% of revenue |
-| New PYLARIFY launch underwhelms | Medium | 25% | Erodes pipeline thesis |
-| MK-6240 demand slow (AD market lag) | Medium | 35% | AD diagnostic adoption uncertain |
-| SPECT divestiture below expectations | Low | 30% | Capital allocation outcome |
-| Manufacturing disruption (cyclotron) | Medium | 10% | Operational tail risk |
+**Investment relevance of management arc**: The shift from Heino (commercial-led, PYLARIFY launch) → Markison (M&A-led, platform-building) → Heino-interim (stabilization, CEO search) reflects the company's pivot from growth-execution to strategic repositioning. The key management question for the investment thesis: can the incoming permanent CEO execute a multi-product commercial ramp (TruVu, LNTH-2501, MK-6240) while managing PYLARIFY pricing headwinds — essentially a harder challenge than what Markison faced in 2024?
 
 ---
 
-## Section 9 — Industry-Specific Macro Analysis
+## Section 5 — Strategic Growth Initiatives
 
-**TAM**: PSMA PET imaging US market ~$1.5B (mature); SSTR+ NET PET ~$300M; tau PET ~$500M+ (emerging with anti-amyloid therapies). Total addressable PET radiodiagnostic market ~$3–5B near-term, expanding with new theranostic indications.
+**1. PYLARIFY TruVu commercial ramp (Q4 2026 launch)**
+FDA-approved March 6, 2026. TruVu is a next-generation formulation that enables larger batch sizes and broader geographic distribution — addressing the supply-side constraint that has limited PYLARIFY's penetration in markets without nearby cyclotrons. Commercial launch expected Q4 2026 with phased geographic rollout. Near-term revenue contribution is incremental (replaces some standard PYLARIFY units); the strategic value is franchise extension and manufacturing efficiency. *(Source: [Lantheus PYLARIFY TruVu approval PR](https://www.globenewswire.com/news-release/2026/03/06/3251298/0/en/Lantheus-Announces-FDA-Approval-of-PYLARIFY-TruVu-piflufolastat-F-18-Injection.html))*
 
-**Structural dynamics**: PET imaging is replacing SPECT in multiple oncology and neurology indications. Theranostics (radioligand therapy + diagnostic pair) is the major secular driver — every approved RLT (Pluvicto, Lutathera, etc.) drives diagnostic demand. Lantheus is positioned as a radiodiagnostic pure-play in this ecosystem.
+**2. LNTH-2501 (gallium-68 edotreotide) — NET PET diagnostic (PDUFA June 29, 2026)**
+PET imaging agent targeting somatostatin receptor-positive (SSTR+) neuroendocrine tumors. Filed via 505(b)(2) pathway relying on multiple published Ga-68 edotreotide studies. FDA granted a three-month PDUFA extension (from March 29 to June 29, 2026) for manufacturing information review — not related to efficacy or safety. If approved, this would make Lantheus a two-indication PET leader, adding a NET PET diagnostic to the PSMA PET franchise. Addressable market ~$300M in the U.S. *(Sources: [Lantheus LNTH-2501 PDUFA extension PR](https://lantheusholdings.gcs-web.com/news-releases/news-release-details/lantheus-announces-three-month-extension-pdufa-date-lnth-2501-ga); [GeneOnline](https://www.geneonline.com/fda-extends-pdufa-date-for-lantheus-lnth-2501-diagnostic-imaging-kit-to-june-2026/))*
 
-**Regulatory environment**: FDA has been favorable to radiopharmaceutical innovation; CMS reimbursement (TPT) has been generally supportive but with periodic resets that introduce volatility. Three PDUFAs in 2026 are the near-term regulatory cluster.
+**3. MK-6240 (F-18 tau PET imaging) — Alzheimer's diagnostic (PDUFA August 13, 2026)**
+Tau neurofibrillary tangle PET imaging for Alzheimer's disease staging and monitoring. NDA accepted; fast-track designated; supported by two Phase 3 pivotal trials meeting co-primary endpoints. Strategic tie-in: the FDA approvals of Leqembi (Biogen/Eisai) and Kisunla (Eli Lilly) — anti-amyloid therapies requiring patient monitoring — create a companion diagnostic demand pull for both amyloid PET (Neuraceq) and tau PET (MK-6240). Lantheus owns both sides of the AD diagnostic equation post-Life Molecular Imaging acquisition. Addressable tau PET market could be $300–500M+ in the U.S. if monitoring becomes standard of care. *(Source: [Lantheus MK-6240 NDA acceptance PR](https://lantheusholdings.gcs-web.com/news-releases/news-release-details/lantheus-announces-fda-acceptance-new-drug-application-mk-6240))*
 
-**Competitive intensity**: PSMA PET specifically is the most competitive subsegment — Telix Illuccix, Curium PYLCLARI (in EU; entering US), Novartis Locametz, Blue Earth Diagnostics POSLUMA. Pricing erosion is real and structural.
+**4. Neuraceq (amyloid beta PET) + Alzheimer's platform**
+Acquired via Life Molecular Imaging (Q2 2025). Neuraceq is globally approved for amyloid PET imaging. With Leqembi/Kisunla now approved, amyloid PET serves as both a diagnostic eligibility gate and a monitoring tool — an annuity-like demand stream tied to anti-amyloid therapy administration. Lantheus's ownership of both Neuraceq (amyloid) and MK-6240 (tau) creates a differentiated AD diagnostic platform.
+
+**5. RLT pipeline — LNTH-2503 + Evergreen CDMO**
+LNTH-2503 is a lutetium-177 (Lu-177) RLT targeting CCK2R, acquired via Evergreen. Phase 1 therapeutic study authorized by EMA in small cell lung cancer; U.S. Phase 1 initiation expected 2025–2026. The Evergreen CDMO also generates revenue as a manufacturing partner for other RLT programs — building infrastructure while Phase 1 data matures. Long-dated optionality; not in the near-term thesis.
+
+**6. Precision dosimetry and AI (Meilleur Technologies acquisition)**
+Acquired Meilleur Technologies (AI-based radiation dosimetry optimization). Positions Lantheus in the emerging precision dosimetry space — a value-add layer for RLT administration that could differentiate LNTH's therapeutic programs and CDMO services.
 
 ---
 
-## Section 10 — Valuation & Comparable Analysis
+## Section 6 — Key Risks
 
-### Current Multiples (April 24, 2026, $84.33 / ~$5.7B market cap)
+| Risk | Impact | Probability | Priced In? | Notes |
+|------|--------|-------------|-----------|-------|
+| ⚠️ PYLARIFY price erosion exceeds –10% in FY2026 | High | 35% | Partially | Posluma pass-through status (to Sept 30, 2026) enables a structural pricing advantage; CMS reimbursement reset ongoing. Bear thesis core. Thesis-break trigger: FY2026 PYLARIFY net revenue decline >–12%. |
+| ⚠️ FDA rejection of LNTH-2501 or MK-6240 | High (per asset) | 20% each | Partially | Each PDUFA is binary. LNTH-2501's manufacturing extension is a yellow flag; MK-6240 has Fast Track + two Phase 3 pivotals — lower rejection probability. Combined risk is meaningful given two events. |
+| ⚠️ CEO vacancy / governance gap | High | Ongoing | Not priced in | No permanent CEO after Markison's retirement; Heino is interim. At a critical commercial launch period (TruVu Q4 2026, LNTH-2501 H2 2026, MK-6240 H2 2026), leadership continuity matters. Market has not materially discounted this. |
+| ⚠️ Securities class action litigation | Medium-High | Ongoing | Not priced in | Multiple firms filed class actions alleging failure to disclose PYLARIFY pricing/competitive dynamics accurately (class period Feb–Aug 2025). Resolution timeline unclear; settlement could be material. Disclosure credibility overhang affects management trust. ([GlobeNewswire — class action](https://www.globenewswire.com/news-release/2025/11/04/3180375/0/en/Lantheus-Holdings-Inc-Sued-for-Securities-Law-Violations-Contact-the-DJS-Law-Group-to-Discuss-Your-Rights-LNTH.html)) |
+| ⚠️ Acquisition integration risk | Medium | 25% | Partially | Three acquisitions in 12 months ($500M+ capex): Evergreen + Life Molecular + Meilleur. Each has integration complexity; combined execution risk is non-trivial. |
+| PYLARIFY commoditization structural (not cyclical) | High | 40% (long-term) | Partially | Multiple approved PSMA agents; Curium U.S. entry pending; Eli Lilly/POINT NDA pending. PYLARIFY may never regain its pricing premium. Thesis-break: if FY2027 PYLARIFY revenue does not stabilize after TruVu + new pricing contracts. |
+| MK-6240 / AD diagnostic adoption slower than expected | Medium | 35% | Partially | Anti-amyloid therapy rollout (Leqembi, Kisunla) is slower than expected — PET adoption as a monitoring tool lags therapeutic penetration. |
+
+**5-Year Risk Factor Evolution (FY2020–FY2025 synthesis)**: Lantheus's risk profile shifted dramatically during this period. Pre-PYLARIFY (FY2020–FY2021), the primary risks were radiotracer concentration in Cardiolite/TechneLite (legacy SPECT) and Progenics acquisition integration (PYLARIFY was then in late-stage trials). As PYLARIFY scaled (FY2022–FY2024), the company's 10-K Item 1A language increasingly flagged competitive PSMA market entry and reimbursement volatility — risks that materialized exactly as signaled. The emergence of litigation risk in FY2025 represents a new category — disclosure and governance quality — not present in prior 10-Ks. The multi-acquisition strategy in FY2025 introduced integration and capital allocation risk that the pre-blockbuster 10-Ks did not contemplate. The pattern across five years is a company whose risk disclosures tracked real operational transitions accurately, but whose guidance discipline in FY2025 was called into question by the class action.
+
+---
+
+## Section 7 — Industry-Specific Macro Analysis
+
+**Nuclear medicine / radiopharmaceuticals TAM**: The global radiopharmaceutical market was ~$6.5–7B in 2024 and is growing at ~9–12% CAGR through 2030, driven by theranostics (RLT) and PET diagnostic expansion. U.S. PSMA PET imaging alone is a ~$1.5B market (now mature at first-gen agents); SSTR+ NET PET ~$300M; tau PET for AD ~$300–500M (emerging); amyloid PET ~$500M+ (growing with anti-amyloid therapy). Total U.S. PET radiodiagnostic market is $3–5B near-term and expanding. *([Estimate] based on product market sizes)*
+
+**FDA regulatory environment**: The FDA has been broadly supportive of radiopharmaceutical innovation — PYLARIFY, Pluvicto, Lutathera, Posluma, Locametz all approved in recent years. The 505(b)(2) pathway (used by LNTH-2501) accelerates approvals by relying on published safety/efficacy data. Fast Track designation (MK-6240) signals FDA engagement. The manufacturing extension for LNTH-2501 is not an efficacy concern per the FDA. No systemic regulatory headwinds identified.
+
+**CMS reimbursement dynamics**: The most company-specific macro risk. CMS transitioned PYLARIFY reimbursement from average selling price (ASP)-based to mean unit cost (MUC)-based for ~20% of patients in CY2025 — this directly compressed PYLARIFY's net revenue per dose. The "Transitional Pass-Through" (TPT) reimbursement status for Posluma (extended to September 30, 2026) creates a temporary but material price advantage for Blue Earth's agent. PYLARIFY's TPT period has ended, and the CMS bundle rate is lower. When Posluma's TPT expires, pricing dynamics should normalize — but the transition period is the FY2026 headwind.
+
+**Isotope supply chain**: Lantheus manufactures PYLARIFY using F-18 (produced via cyclotron); LNTH-2501 uses Ga-68 (produced via generator or cyclotron). Both isotopes are supply-constrained at scale. TruVu's larger batch sizes address F-18 supply efficiency. Lu-177 (for LNTH-2503 and future RLTs) is a supply-chain consideration — Evergreen's CDMO provides manufacturing depth. No acute supply-chain disruption currently, but isotope availability is a structural constraint on the pace of RLT adoption across the industry.
+
+**Theranostics secular trend**: Every approved RLT (Pluvicto for PSMA+ prostate cancer, Lutathera for SSTR+ NETs) creates a companion diagnostic demand pull — patients must be PET-imaged before and during therapy. This is the secular driver for LNTH's diagnostic portfolio. Lantheus does not own a commercial RLT product, which means it benefits from theranostic adoption via diagnostic volume but does not capture the higher-margin therapeutic economics. The RLT pipeline (LNTH-2503) is the long-dated optionality to change this.
+
+---
+
+## Section 8 — Valuation & Comparable Analysis
+
+### Current Multiples (2026-04-26, $82.91 / ~$5.31B market cap)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| EV / FY25 Revenue | ~3.7× | Net cash position helps |
-| EV / FY26E Revenue | ~3.9× | Accounts for revenue decline |
-| P/E TTM | ~13–14× | Vs. specialty pharma 16–22× |
-| P/E FY26E | ~16.5× | $5.00–5.25 guide midpoint |
-| FCF Yield | ~6–7% | [Estimate] |
-| Analyst Median Target | $83–$98 | Recent Truist/Mizuho upgrades to $98/$95 |
+| EV / FY25 Revenue | ~3.5× | Net cash position modest after acquisitions |
+| EV / FY26E Revenue | ~3.7–3.9× | FY26E revenue $1.4–1.45B midpoint |
+| P/E GAAP (FY25) | ~24× | $3.41 GAAP EPS; elevated by amortization |
+| P/E Adj (FY26E) | ~16× | $5.00–5.25 guidance midpoint |
+| FCF Yield (FY25) | ~6.7% | $354M FCF / $5.31B market cap |
+| EV/EBITDA (FY26E) | ~12–14× | [Estimate] |
 
-### Comparable Peer Set
+*Source: market cap from [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/LNTH/); revenue from guidance; EPS from FY2025 actual + FY2026 guidance.*
 
-| Company | Description | FY26E P/E | Growth |
-|---------|------------|-----------|--------|
-| LNTH | PET radiodiagnostics | ~16.5× | –6 to –9% |
-| TLX (Telix) | Radiopharmaceutical | ~25× | +30%+ |
-| BMY | Big pharma | ~9× | LSD |
-| BHVN (Biohaven) | Specialty | n/m | n/a |
-| ISRG | Med-tech device | ~50× | +15% |
-| Curium (private) | PSMA competitor | n/a | n/a |
+### Peer Comparison
 
-**Assessment**: LNTH trades at a meaningful discount to specialty-pharma peers reflecting the FY26 revenue decline. The Buffett-lens question is whether the pipeline + PET pivot earns back a normal mid-cycle multiple (~18× normalized EPS) by FY27. At $84.33 vs. analyst median $83–98, the stock is fairly priced to consensus but cheap if 2027 inflection materializes.
+| Company | Description | FY26E P/E (adj) | Revenue Growth | Key Risk |
+|---------|------------|-----------------|----------------|---------|
+| **LNTH** | PET radiodiagnostics + early RLT | ~16× | –6 to –9% | PYLARIFY commoditization |
+| **Telix (TLX)** | Radiopharmaceutical (diagnostic + therapeutic) | ~25× | +30%+ | Execution at scale |
+| **Lantheus (LNTH) vs. specialty pharma avg** | — | 16–22× typical | Varies | — |
+| **Novartis (NVS)** | Big pharma incl. Pluvicto | ~10× | LSD | Large-cap |
+| **Bracco (private)** | Blue Earth parent | N/A | — | — |
+
+**Assessment**: At ~16× FY26E adj EPS and ~6.7% FCF yield, LNTH is trading at a discount to specialty pharma peers (typically 18–22×) and a steep discount to growth-oriented radiopharmaceutical peers like Telix. The discount is justified by: (1) revenue declining in FY2026, (2) CEO vacancy, (3) litigation overhang, and (4) binary PDUFA outcomes. The central valuation question is whether FY2027 re-acceleration is real — if PYLARIFY stabilizes and LNTH-2501 + MK-6240 ramp, normalized adj EPS of $6.50–7.00 in FY2027 at 18× = $117–126, representing meaningful upside from $82.91.
+
+**Fair price range**: $75–95 at current visibility (reflects FY26 trough fairly). Above $110 prices in FY27 inflection — requires pipeline execution evidence not yet available.
 
 ---
 
-## Section 11 — Catalyst & Sentiment Tracker
+## Section 9 — Catalyst & Sentiment Tracker
 
-### Live Price & Positioning
+### Live Price & Positioning (2026-04-26)
 
-- **Price**: $84.33 (Apr 24, 2026)
+- **Price**: $82.91 ([web search — MarketBeat/Investing.com](https://www.marketbeat.com/stocks/NASDAQ/LNTH/))
 - **52-week range**: $47.25 – $108.91
-- **% from 52-wk high**: –22.6%
-- **% above 52-wk low**: +78.5%
-- **Market cap**: ~$5.7B
+- **% from 52-wk high**: –23.9%
+- **% above 52-wk low**: +75.4%
+- **Market cap**: ~$5.31B
 
 ### Analyst Consensus (April 2026)
 
-- **Aggregate rating**: **Buy** (5 covering analysts)
-- **Median price target**: $83.20 (avg per stockanalysis); recent upgrades to $95–98
-- **High/low**: $98 (Truist) / $80s (low end)
-- **Implied upside**: roughly flat to +16% to broad consensus; +13–16% to recent Truist/Mizuho upgrades
-
-### Recent Analyst Actions (April 2026)
-
-| Date | Firm | Action | Target | Note |
-|------|------|--------|--------|------|
-| 2026-04 | Truist | PT raised | $89 → $98 | Bullish on pipeline + new PYLARIFY |
-| 2026-04 | Mizuho | PT raised | $85 → $95 | Constructive setup |
+- **Rating**: **Strong Buy** — 11 Buy / 2 Hold / 0 Sell (13 analysts) ([stockanalysis.com — LNTH forecast](https://stockanalysis.com/stocks/lnth/forecast/))
+- **Median price target**: ~$83.33–91.00 (range: $76–$114)
+- **High target**: $114; **Low target**: $76
+- **Consensus EPS FY2026**: $5.40 (company guides $5.00–5.25)
+- **Recent upgrades**: Truist raised target $89 → $98 (April 2026); Mizuho raised $85 → $95 (April 2026)
 
 ### Short Interest
 
-- **Latest**: ~8.89% of float (4.68M shares, up from 4.45M)
-- **Trend**: **Rising** — bears have added into the FY26 trough setup
-- **Days to cover**: moderate
-- ([MarketBeat — LNTH](https://www.marketbeat.com/stocks/NASDAQ/LNTH/short-interest/) / [Fintel](https://fintel.io/ss/us/lnth), April 2026)
-
-The 8.89% short interest is meaningfully elevated vs. specialty pharma peer averages (~3–5%) and is rising — indicates real short-side conviction on PYLARIFY commoditization.
+- **Latest**: ~8.89% of float (4.68M shares, up from 4.45M) ([MarketBeat — LNTH short interest](https://www.marketbeat.com/stocks/NASDAQ/LNTH/short-interest/))
+- **Trend**: Rising — bear-side conviction on PYLARIFY commoditization and CEO gap
+- **Days to cover**: Moderate (~3–5 days [Estimate])
+- The 8.89% short is elevated vs. specialty pharma peer averages (~3–5%) and rising — a real, not speculative, bearish signal.
 
 ### Insider Activity (Last 90 Days)
 
-- Routine PSU vesting + tax-withholding dispositions only
-- Daniel Niedzwiecki: small tax disposition Apr 17, 2026 at $83.82
-- CFO and other officers: similar pattern
-- **No open-market insider buys** at recent lows or before PDUFAs — neutral-to-mildly-bearish signal
+- **Routine PSU vesting dispositions only** — no open-market buys or sells.
+- Daniel Niedzwiecki (Chief Commercial Officer): 1,911 shares tax-withholding disposition on April 17, 2026 at $83.82 — post-disposition held 117,465 shares. Non-directional. ([StockTitan — LNTH Form 4](https://www.stocktitan.net/sec-filings/LNTH/form-4-lantheus-holdings-inc-insider-trading-activity-ea818ab503d9.html))
+- No open-market insider buys at the current $80–85 range or during the 2025 drawdown. This is a mild negative signal — management has not demonstrated conviction at the lows.
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-17] [Insider]** — Niedzwiecki small tax-related share disposition ([SEC Form 4](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001712463&type=4))
-- **[2026-04 (various)] [Analyst]** — Truist + Mizuho PT raises ([MarketBeat — LNTH](https://www.marketbeat.com/stocks/NASDAQ/LNTH/price-target/))
-- **[2026-02-26] [Earnings]** — Q4 2025 results: $406.8M revenue, adj EPS $1.67 beat; FY26 guide $1.4–1.45B / $5.00–5.25 EPS ([StockTitan](https://www.stocktitan.net/news/LNTH/))
-- **[2026-03] [Strategic]** — SPECT business sale exploration disclosure ([Quiver Quantitative](https://www.quiverquant.com/stock/LNTH))
-- **[2025-08] [Regulatory]** — FDA accepted NDA for new PYLARIFY F-18 formulation; PDUFA Mar 6, 2026 ([Lantheus IR](https://investor.lantheus.com/news-releases) / [GlobeNewswire](https://www.globenewswire.com/news-feed/organization/Lantheus%2520Holdings%252C%2520Inc..html))
+- **[2026-04-23] [Earnings call notice]** — Q1 2026 earnings call scheduled for May 7, 2026 at 8:00 a.m. ET ([StockTitan](https://www.stocktitan.net/news/LNTH/lantheus-to-host-first-quarter-2026-earnings-conference-call-and-2zbgrwlpfvsk.html))
+- **[2026-04] [Analyst]** — Truist PT raised $89 → $98; Mizuho raised $85 → $95 ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/LNTH/price-target/))
+- **[2026-04-17] [Insider]** — CCO Niedzwiecki tax-withholding disposition of 1,911 shares at $83.82 ([StockTitan Form 4](https://www.stocktitan.net/sec-filings/LNTH/form-4-lantheus-holdings-inc-insider-trading-activity-ea818ab503d9.html))
+- **[2026-03-06] [Regulatory]** — FDA approved PYLARIFY TruVu (piflufolastat F 18) — new larger-batch formulation; commercial launch expected Q4 2026 ([Lantheus PR](https://lantheusholdings.gcs-web.com/news-releases/news-release-details/lantheus-announces-fda-approval-pylarify-truvutm-piflufolastat-f); [GlobeNewswire](https://www.globenewswire.com/news-release/2026/03/06/3251298/0/en/Lantheus-Announces-FDA-Approval-of-PYLARIFY-TruVu-piflufolastat-F-18-Injection.html)) ✅
+- **[2026-02-26] [Earnings]** — Q4 2025 results: $406.8M revenue, adj EPS $1.67 (beat); FY26 guide $1.4–1.45B / $5.00–5.25; PYLARIFY –6.5% FY2025 ([Lantheus Q4 2025 PR](https://www.globenewswire.com/news-release/2026/02/26/3245408/0/en/Lantheus-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html))
+- **[2026-01-02] [Strategic]** — SPECT business sale to SHINE Technologies completed effective January 1, 2026; TechneLite, NEUROLITE, Xenon, Cardiolite, and associated North Billerica facilities transferred ([GlobeNewswire — Evergreen](https://www.globenewswire.com/news-release/2025/04/01/3053408/0/en/Lantheus-Completes-Acquisition-of-Evergreen-Theragnostics.html))
+- **[2025-11-06] [Leadership]** — Brian Markison to retire Dec 31, 2025; Mary Anne Heino appointed Executive Chairperson + interim CEO; CEO search initiated ([Lantheus leadership transition PR](https://lantheusholdings.gcs-web.com/news-releases/news-release-details/lantheus-announces-leadership-transition-plan))
+- **[2025-10–11] [Litigation]** — Securities class action lawsuits filed alleging LNTH misled investors on PYLARIFY pricing power and competitive dynamics (class period Feb–Aug 2025) ([GlobeNewswire — DJS Law](https://www.globenewswire.com/news-release/2025/11/04/3180375/0/en/Lantheus-Holdings-Inc-Sued-for-Securities-Law-Violations-Contact-the-DJS-Law-Group-to-Discuss-Your-Rights-LNTH.html))
 
 ### Upcoming Catalysts
 
-| Date | Event | Why It Matters |
-|------|-------|---------------|
-| 📅 **~Mar 6, 2026 (PASSED — outcome to verify)** | **New PYLARIFY F-18 PDUFA** | Extension of franchise life |
-| 📅 **June 2026** | **LNTH-2501 PDUFA (extended)** | NET PET diagnostic launch |
-| 📅 **Aug 13, 2026** | **MK-6240 PDUFA (tau PET)** | AD diagnostic; ties to anti-amyloid therapy ecosystem |
-| 📅 Late 2026 | **Next-gen PSMA PET launch** | Material 2027 revenue contributor |
-| 📅 Q1 2026 earnings (early May 2026, est.) | Earnings ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NASDAQ/LNTH/earnings/)) | First PYLARIFY decline quarter |
-| Ongoing | SPECT divestiture announcement | Capital structure pivot |
+| Date | Event | Significance |
+|------|-------|-------------|
+| 📅 **May 7, 2026** | **Q1 2026 earnings** (8:00 a.m. ET) | First PYLARIFY-under-pressure quarter and first post-SPECT-divestiture print; watch PYLARIFY revenue trajectory vs. FY26 –8 to –10% guide |
+| 📅 **June 29, 2026** | **LNTH-2501 PDUFA** (NET PET diagnostic) | Binary FDA decision; approval would add NET PET commercial revenue in H2 2026 |
+| 📅 **August 13, 2026** | **MK-6240 PDUFA** (tau PET / AD) | Binary FDA decision; approval ties LNTH into AD therapy monitoring ecosystem with Neuraceq + MK-6240 |
+| 📅 **Q4 2026** | **PYLARIFY TruVu commercial launch** | Geographic expansion + batch-size efficiency; franchise life extension |
+| 📅 Ongoing | **CEO search resolution** | Permanent CEO appointment removes governance overhang and resets execution credibility |
+| 📅 **Sept 30, 2026** | **Posluma TPT status expiration** | When Posluma loses pass-through reimbursement advantage, PYLARIFY pricing competition should partially normalize |
 
 ---
 
-## Section 12 — BAIT Framework
+## Section 10 — BAIT Framework
 
 ### B — Behavioral: **Moderate**
 
-LNTH at –22.6% from 52-wk high reflects digestion of FY26 guidance light. Sentiment is cautious-but-not-distressed. The stock is well off its 2025 lows ($47), suggesting much of the bear case is already priced. Rising short interest (~8.89%, up from ~7.6%) signals bear-side conviction on commoditization. Behavioral signal is real but not extreme.
+LNTH at –23.9% from the 52-week high reflects the market's digestion of the FY26 guidance miss, CEO departure, and litigation news. The $47.25 52-week low in 2025 (post-August guidance cut) represents the peak fear print — a –57% decline from the prior high. Current price of $82.91 represents a partial recovery, suggesting the market views the trough as somewhat priced. Rising short interest (~8.89%) signals genuine bear-side conviction on PYLARIFY commoditization, not just noise. Behavioral edge is real but moderate — not an extreme-fear setup that would create a high-conviction entry.
 
 ### A — Analytical: **Moderate**
 
-Edges:
-- Three PDUFA decisions in 2026 are individually binary and collectively pipeline-defining
-- New PYLARIFY F-18 formulation extends franchise life (under-modeled)
-- 2027 inflection setup is not in the FY26 print — earnings power normalizes
-- ~$5.7B market cap for $1.4B+ revenue + 30%+ adj EBITDA margin is structurally cheap if pipeline lands
+Edges the market may be underweighting:
+- **PYLARIFY TruVu timing optionality**: Approved March 6, 2026; commercial launch Q4 2026. Larger batch sizes could partially offset net price compression through volume gains in underserved geographies. Not in current consensus models.
+- **MK-6240 + Neuraceq AD platform value**: If MK-6240 is approved August 2026, Lantheus will own both amyloid and tau PET diagnostics — a complete AD monitoring platform tied to the fastest-growing therapy category in medicine. This strategic position is not fully reflected in current EV/revenue multiples.
+- **Posluma TPT expiration (Sept 30, 2026)**: When Posluma loses its reimbursement advantage, PYLARIFY pricing dynamics could partially recover in Q4 2026. This is a discrete date-anchored inflection that is underappreciated.
+- **FY2027 normalized earnings power**: At $82.91 and pipeline success, FY2027 adj EPS of $6.50–7.00 at 18× = $117–126 — 40–50% upside from current. Consensus is anchored on FY2026 trough, not the FY2027 normalized print.
 
-Limits: Single-product concentration (PYLARIFY 64%) makes any execution miss costly. Pipeline assets are smaller individually — none replaces PYLARIFY at full scale.
+Limits: Litigation risk is genuinely uncalibrated; CEO vacancy is a real execution constraint; and a PDUFA miss (especially on LNTH-2501) would force downward revision of the pipeline thesis.
 
 ### I — Informational: **Moderate**
 
-Underappreciated:
-- LNTH-2501 PDUFA extension to June 2026 (FDA timeline drift creates short-term overhang)
-- MK-6240's strategic tie-in with anti-amyloid AD therapy adoption — under-tracked vs. AD therapeutic stocks
-- SPECT divestiture optionality
-- Truist + Mizuho upgrades in April — primary research notes signaling pipeline confidence
+Primary-source edges:
+- LNTH-2501 extension was "manufacturing-related, not efficacy-related" per the FDA notice — a nuance that reduces the rejection probability vs. the market's surface read of "FDA extended = red flag."
+- MK-6240 Fast Track + two Phase 3 pivotals with co-primary endpoint success: strong regulatory positioning underappreciated relative to peers with single pivotal or Phase 2 data.
+- Neuraceq (amyloid PET) acquired via Life Molecular Imaging is growing with Leqembi/Kisunla anti-amyloid therapy prescriptions — a compounding demand pull that most LNTH analysis focuses on PYLARIFY while missing.
+- PYLARIFY TruVu approval was *ahead of schedule* vs. the original PDUFA (March 6 met on time) — a rare positive execution signal vs. the FY2025 guidance-miss narrative.
 
-### T — Technical: **Weak → Moderate**
+### T — Technical: **Weak**
 
-- Stock chopping in $75–95 range; not in clear trend
-- No mechanical buyer / no buyback acceleration
-- PDUFA dates create binary technical setups — not classic momentum/flow
-- Rising short interest = bearish technical positioning
+- Stock trading in a $75–95 range; no clear trend direction.
+- No buyback program or institutional mechanical buyer evident.
+- PDUFA events create discrete binary technical setups — not sustained momentum.
+- Rising short interest = bearish technical positioning; a PDUFA approval could trigger a squeeze but is not a sustained driver.
+- Overall: technical profile supports patience, not urgency.
 
 ### BAIT Verdict
 
-**Single-to-double overlap (A + I both Moderate)**. Conviction: **Moderate**. The setup is event-driven (3 PDUFAs in 2026) rather than valuation-driven. The asymmetry comes from binary FDA outcomes — a clean sweep on all three would re-rate; a miss on any could compress the multiple further. Suitable for investors with patience for binary-outcome volatility through August 2026.
+**Double overlap (A + I, both Moderate).** Conviction: **Moderate**. The setup is event-driven binary through August 2026 — two PDUFAs (LNTH-2501 + MK-6240) are the thesis-defining events, not valuation-driven compounding. The best-positioned entry point is either before the LNTH-2501 PDUFA with improved asymmetry (at $65–75) or after a PDUFA approval that reduces binary risk. A clean approval sweep on both PDUFAs plus Posluma TPT expiration in September would create a triple-catalyst re-rating window in Q3–Q4 2026.
 
 ---
 
-## Section 13 — Bull / Bear / Base Cases
+## Section 11 — Bull / Bear / Base Cases
 
-*All scenarios are 3-year (calendar 2029) terminal prices. Probabilities sum to 100%.*
+*All scenarios are 3-year terminal (calendar 2028/2029). Probabilities sum to 100%.*
 
-### Bull Case — $145 by 2029 (+72% from $84.33, ~20% CAGR) — **Probability: 30%**
-- All three 2026 PDUFAs approved
-- Next-gen PSMA launches successfully late 2026; FY27 returns to growth
-- LNTH-2501 + MK-6240 ramp to $400M+ combined by FY29
-- FY29 revenue $1.85B, adj EPS ~$8, multiple 18× = $145
-- Requires: pipeline execution + tau PET adoption + PYLARIFY franchise stabilization
+### Bull Case — $140 by 2028 (+69% from $82.91, ~24% CAGR) — **Probability: 25%**
 
-### Base Case — $95 by 2029 (+13% from $84.33, ~4% CAGR) — **Probability: 45%**
-- 2 of 3 PDUFAs approved; mixed pipeline launches
-- PYLARIFY decline stabilizes after FY26
-- FY29 revenue $1.55B, adj EPS ~$6, multiple 16× = $95
-- Requires: steady execution, no major missteps
+- LNTH-2501 and MK-6240 both approved; commercial ramps reach $150M+ combined by FY2028
+- PYLARIFY stabilizes in FY2027 as TruVu drives volume + Posluma TPT expiry normalizes pricing; FY2027 PYLARIFY net revenue –2 to 0%
+- Neuraceq + MK-6240 AD platform scales to $200M+ by FY2028 with Leqembi/Kisunla rollout
+- New permanent CEO installed H1 2026; execution credibility restored
+- Litigation settled for manageable amount ($50–100M); removes overhang
+- FY2028 adj EPS ~$8.50; 16.5× = ~$140
 
-### Bear Case — $50 by 2029 (–41% from $84.33, ~–16% CAGR) — **Probability: 25%**
-- PYLARIFY commoditization continues –10%/yr through FY28
-- Pipeline launches underwhelm (lower-than-expected uptake)
-- FY29 revenue $1.20B, adj EPS ~$4, multiple 12.5× = $50
-- Requires: PDUFA failure(s), competitive intensification, AD diagnostic uptake slow
+### Base Case — $95 by 2028 (+15% from $82.91, ~7% CAGR) — **Probability: 50%**
+
+- One of two PDUFAs approved (most likely LNTH-2501); MK-6240 delayed or slower ramp
+- PYLARIFY continues to decline in FY2027 at –5%; DEFINITY stable; Neuraceq growing
+- CEO search resolved but commercial execution takes time; modest re-rating
+- FY2028 adj EPS ~$6.50; 14.5× = ~$94
+
+### Bear Case — $45 by 2028 (–46% from $82.91, ~–23% CAGR) — **Probability: 25%**
+
+- Both PDUFAs rejected or significantly delayed
+- PYLARIFY commoditization worsens to –12 to –15%/yr as additional PSMA competitors enter
+- Litigation settlement is large ($200M+) and CEO search drags into 2027
+- Neuraceq / AD platform adopts more slowly than expected
+- FY2028 adj EPS ~$3.50; 13× = ~$45
 
 ---
 
-## Section 14 — Probability-Weighted Expected Value
+## Section 12 — Probability-Weighted Expected Value
 
-| Scenario | Terminal (2029) Price | Probability | PW Contribution |
-|----------|----------------------|-------------|-----------------|
-| Bull | $145 | 30% | $43.50 |
-| Base | $95 | 45% | $42.75 |
-| Bear | $50 | 25% | $12.50 |
-| **PW EV (3-year)** | | | **~$99** |
+| Scenario | Terminal (2028) Price | Probability | PW Contribution |
+|----------|-----------------------|-------------|-----------------|
+| Bull | $140 | 25% | $35.00 |
+| Base | $95 | 50% | $47.50 |
+| Bear | $45 | 25% | $11.25 |
+| **PW EV (3-year)** | | | **~$94** |
 
 | Current Price | PW EV | Return (3-yr) | Annualized |
 |--------------|-------|--------------|-----------|
-| $84.33 | $99 | **+17%** | ~+5.4%/yr |
+| $82.91 | $94 | **+13%** | ~+4.3%/yr |
 
-**Interpretation**: PW EV of $99 sits ~17% above spot — a modest asymmetry. The bear case is non-trivial (–41% over 3 years if commoditization deepens). This is a binary-event setup more than a compounder thesis — better positioned via 2026 PDUFA outcomes than via patient buy-and-hold.
+**R/R**: Bull case +69% upside vs. Bear case –46% downside = **~1.5:1 R/R** (Bull / Bear ratio). Modest but positive. The asymmetry is not compelling at current prices for a pure buy-and-hold thesis. However, the binary PDUFA structure means the R/R improves sharply after positive catalysts: a clean LNTH-2501 approval in June would raise the base-case probability and lower the bear-case weight.
+
+**Stop-loss / thesis-break anchored view**: Using $65 (bottom of entry zone) as the thesis-break anchor, the downside from entry zone is –16% vs. Bull case +115% — a 7:1 stop-loss R/R that is significantly more attractive, supporting a scale-in approach rather than full position at spot.
+
+**Horizon**: 3 years (2028 terminal). The inflection point is FY2027; by end-2028, the pipeline contribution should be clear and PYLARIFY stabilization (or continued decline) will be obvious.
 
 ---
 
-## Section 15 — Recommendation & Bottom Line
+## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Lantheus is a PYLARIFY-concentrated PET radiodiagnostics franchise transitioning through a –6 to –9% FY26 revenue trough with three 2026 FDA decisions and a next-gen PSMA launch that collectively determine whether FY27 reinflects or extends the decline; current $84 reflects a mix of fair value and binary optionality.
+**Thesis in one sentence**: Lantheus is a PYLARIFY-concentrated PET radiodiagnostic franchise at a structural trough — navigating pricing headwinds, a CEO vacancy, and litigation overhang — with three 2026 FDA events and an AD diagnostic platform that collectively determine whether FY2027 returns to growth or extends the decline; at $82.91 the risk/reward is modest and event-driven rather than valuation-driven.
 
-**For a non-holder**: 🟡 **Watch** at $84.33. Wait for one of: (a) PDUFA outcomes through summer 2026 (LNTH-2501 in June, MK-6240 in August) to reduce binary risk, or (b) a deeper drawdown into the $65–75 zone that improves asymmetry. The current price largely reflects consensus.
+**For a non-holder**: 🟡 **Watch** at $82.91 — initiate only on (a) a drawdown into $65–78 that improves asymmetry meaningfully, or (b) confirmation of LNTH-2501 approval (June 29) which would reduce binary risk and support a higher base-case probability.
 
-**For a current holder**: 🟡 **Hold**. The FY26 trough is largely priced; the pipeline catalysts in summer 2026 are binary but skew positive. Add only on weakness toward $70.
+**For a current holder**: 🟡 **Hold** — the FY26 trough and PDUFA binary events are largely priced at $82.91. Do not add at current price; add on weakness toward $70 before June PDUFA. The PYLARIFY TruVu approval (March 2026) and the two remaining PDUFAs provide a sequenced catalyst path through August 2026.
 
-🎯 **Attractive entry zone**: **$65 – $78** (rationale: ~14× FY26E adj EPS; below recent trough; improved bear-case asymmetry)
+🎯 **Attractive entry zone**: **$65 – $78** (rationale: ~13–14× FY26E adj EPS; bear-case limited at $45 over 3 years; improved R/R vs. current; captures pre-PDUFA optionality cheaply)
 
-🎯 **Trim zone**: **$110 – $130** (rationale: would already price in clean PDUFA sweep + next-gen PSMA launch success; pre-FY27 inflection skepticism remains)
+🎯 **Trim zone**: **$110 – $130** (rationale: prices in PDUFA clean sweep + PYLARIFY stabilization; pre-FY2027 financial confirmation; multiples reach 17–20× normalized EPS)
 
-🔴 **Exit / avoid zone**: **>$140** (rationale: full re-rate to bull-case multiple + pipeline success — not yet supported by visible 2027 financial data)
+🔴 **Exit / avoid zone**: **>$140** (rationale: full re-rate to bull-case valuation before FY2027 actuals confirm — not yet supported by financial evidence)
 
 **Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Avoid):
-- ⚠️ Any 2026 PDUFA rejection
-- ⚠️ PYLARIFY revenue decline in FY26 worse than –12% YoY (vs. –8 to –10% guide)
-- ⚠️ New PYLARIFY F-18 formulation launches but uptake materially below expectation
-- ⚠️ LNTH-2501 launch (post-June 2026) tracks <$50M annualized run-rate by Q4 2026
-- ⚠️ Major competitive entry below current PSMA pricing >15%
-- ⚠️ SPECT divestiture proceeds materially below expectation
-- ⚠️ Insider selling cluster (>$5M aggregate in 90 days)
+- ⚠️ **PYLARIFY net revenue decline in FY2026 worse than –12%** (vs. –8 to –10% guide) — signals commoditization is accelerating beyond management's visibility
+- ⚠️ **Both LNTH-2501 and MK-6240 PDUFA rejections** — pipeline thesis collapses
+- ⚠️ **LNTH-2501 approval but launch tracks <$40M annualized by Q4 2026** — adoption slower than addressable market suggests
+- ⚠️ **CEO search unresolved past Q3 2026** — governance gap at a critical commercial execution window
+- ⚠️ **Litigation settlement >$200M** — material capital impact + shareholder dilution
+- ⚠️ **New PSMA PET competitor (Curium U.S. or Eli Lilly/POINT) approved with material pricing below PYLARIFY TruVu** — additional competitive layer accelerates price erosion
+- ⚠️ **Insider cluster sell >$3M aggregate in 90 days** — management conviction signal
 
-📅 **Next review trigger**: **Q1 2026 earnings (early May 2026, est.)** + **LNTH-2501 PDUFA decision (June 2026)**. Key items: (1) Q1 PYLARIFY revenue trajectory vs. FY26 –8 to –10% guide, (2) any update on new PYLARIFY F-18 formulation launch (assuming Mar 6 PDUFA approval), (3) commentary on next-gen PSMA timeline, (4) SPECT divestiture progress.
+📅 **Next review trigger**: **Q1 2026 earnings — May 7, 2026**. Key watch items:
+1. PYLARIFY Q1 net revenue vs. –8 to –10% FY2026 guide (trajectory-setting)
+2. CEO search update — any timeline or candidate commentary
+3. LNTH-2501 commercial readiness commentary (assuming June 29 PDUFA on track)
+4. Neuraceq / AD platform Q1 contribution (first full quarter post-acquisition)
+5. Litigation update — any preliminary settlement discussions or timeline
 
 ---
 
 ### Sources
 
-- [Lantheus Investor Relations](https://investor.lantheus.com/news-releases) (Q4 2025 / FY2025 earnings, 2026-02-26; FY2026 guidance; PDUFA notices)
-- [SEC EDGAR — Lantheus filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001712463&type=10-K) (10-K, 10-Q, Form 4)
-- [Yahoo Finance — LNTH quote](https://finance.yahoo.com/quote/LNTH) (live price 2026-04-24)
-- [MarketBeat — LNTH](https://www.marketbeat.com/stocks/NASDAQ/LNTH/) (analyst consensus, short interest, April 2026)
-- [TipRanks — LNTH](https://www.tipranks.com/stocks/lnth) (analyst consensus)
-- Truist + Mizuho PT updates (April 2026) [link pending]
-- FDA PDUFA notices ([GeneOnline](https://www.geneonline.com/?s=lantheus), [OncLive](https://www.onclive.com/search?query=lantheus))
-- [StockTitan — LNTH](https://www.stocktitan.net/news/LNTH/) (SEC Form 4 April 2026 insider activity, Q4 2025 release)
-- [Quiver Quantitative — LNTH](https://www.quiverquant.com/stock/LNTH) (SPECT divestiture)
-- [Seeking Alpha — LNTH](https://seekingalpha.com/symbol/LNTH) (FY2026 guidance summary)
-- [Investing.com — LNTH](https://www.investing.com/equities/lantheus-holdings-inc-earnings) (earnings call transcript 2026-02-26)
-- [GlobeNewswire — Lantheus](https://www.globenewswire.com/news-feed/organization/Lantheus%2520Holdings%252C%2520Inc..html)
-- [Fintel — LNTH short](https://fintel.io/ss/us/lnth)
-- Merlintrader 2026 outlook [link pending]
+- [Lantheus Q4 2025 & FY2025 PR — GlobeNewswire](https://www.globenewswire.com/news-release/2026/02/26/3245408/0/en/Lantheus-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Provides-Business-Update.html)
+- [Lantheus Q4 2024 & FY2024 PR — Lantheus IR](https://lantheusholdings.gcs-web.com/news-releases/news-release-details/lantheus-reports-fourth-quarter-and-full-year-2024-financial)
+- [Lantheus Q4 2025 earnings call transcript — Yahoo Finance](https://finance.yahoo.com/news/lantheus-lnth-q4-2025-earnings-195852869.html)
+- [PYLARIFY TruVu FDA approval PR — GlobeNewswire](https://www.globenewswire.com/news-release/2026/03/06/3251298/0/en/Lantheus-Announces-FDA-Approval-of-PYLARIFY-TruVu-piflufolastat-F-18-Injection.html)
+- [LNTH-2501 PDUFA extension PR — Lantheus IR](https://lantheusholdings.gcs-web.com/news-releases/news-release-details/lantheus-announces-three-month-extension-pdufa-date-lnth-2501-ga)
+- [GeneOnline — LNTH-2501 extension](https://www.geneonline.com/fda-extends-pdufa-date-for-lantheus-lnth-2501-diagnostic-imaging-kit-to-june-2026/)
+- [MK-6240 NDA acceptance PR — Lantheus IR](https://lantheusholdings.gcs-web.com/news-releases/news-release-details/lantheus-announces-fda-acceptance-new-drug-application-mk-6240)
+- [StockTitan — MK-6240 PDUFA Aug 13](https://www.stocktitan.net/news/LNTH/lantheus-announces-fda-acceptance-of-new-drug-application-for-mk-joz1555jdyb9.html)
+- [Evergreen Theragnostics acquisition PR — GlobeNewswire](https://www.globenewswire.com/news-release/2025/01/28/3016192/0/en/Lantheus-to-Acquire-Evergreen-Theragnostics-for-Upfront-Payment-of-250-Million-to-Drive-Strategic-Evolution-into-Fully-Integrated-Radiopharmaceutical-Leader.html)
+- [Lantheus leadership transition PR](https://lantheusholdings.gcs-web.com/news-releases/news-release-details/lantheus-announces-leadership-transition-plan)
+- [Securities class action — GlobeNewswire / DJS Law](https://www.globenewswire.com/news-release/2025/11/04/3180375/0/en/Lantheus-Holdings-Inc-Sued-for-Securities-Law-Violations-Contact-the-DJS-Law-Group-to-Discuss-Your-Rights-LNTH.html)
+- [Lantheus Q1 2026 earnings call announcement — StockTitan](https://www.stocktitan.net/news/LNTH/lantheus-to-host-first-quarter-2026-earnings-conference-call-and-2zbgrwlpfvsk.html)
+- [stockanalysis.com — LNTH financials](https://stockanalysis.com/stocks/lnth/financials/)
+- [stockanalysis.com — LNTH forecast / consensus](https://stockanalysis.com/stocks/lnth/forecast/)
+- [MarketBeat — LNTH short interest](https://www.marketbeat.com/stocks/NASDAQ/LNTH/short-interest/)
+- [MarketBeat — LNTH analyst targets](https://www.marketbeat.com/stocks/NASDAQ/LNTH/price-target/)
+- [StockTitan — LNTH Form 4 CCO disposition](https://www.stocktitan.net/sec-filings/LNTH/form-4-lantheus-holdings-inc-insider-trading-activity-ea818ab503d9.html)
+- [SEC EDGAR — Lantheus filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001712463&type=10-K)
+- [Seeking Alpha — LNTH competitive risks](https://seekingalpha.com/article/4798553-lantheus-stock-seems-worth-very-real-risks)
+- [FNArena — Telix PSMA franchise](https://fnarena.com/index.php/2026/01/22/focus-on-telix-guidance-post-annus-horribilis/)
+- [Radiology Business — Telix Gozellix US launch](https://radiologybusiness.com/topics/medical-imaging/nuclear-medicine/radiopharma-firm-telix-launches-new-prostate-cancer-imaging-agent-gozellix-us)

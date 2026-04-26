@@ -1,0 +1,2 @@
+Source: SEC EDGAR 10-K for Nike FY2023 (fiscal year ended May 31, 2023)
+Retrieved: 2026-04-26 via SEC EDGAR HTML

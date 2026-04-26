@@ -1,6 +1,6 @@
 # DASH — DoorDash, Inc.
 
-> **Schema**: v2.6
+> **Schema**: v2.9
 > **Last Updated**: 2026-04-25
 > **Status**: Active
 > **Live Price Verified**: **$176.78** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/DASH); intraday, previous close $187.22 → –5.6% session)
@@ -19,36 +19,41 @@
 - 📅 **Next catalyst**: **Q1 2026 earnings — May 6, 2026 (post-close)**. First full quarter with Deliveroo consolidated; $675–775M adj EBITDA guide.
 - ⚠️ **Top risk**: Gig-worker reclassification (AB5-federal) — critical impact, 15% prob; would destroy variable-cost Dasher model.
 - ⚠️ **Second risk**: Margin disappointment vs. guidance (30% prob, medium impact); integration failure across Wolt+Deliveroo+SevenRooms (20% prob, high impact).
+- 🟡 **Moat verdict**: **Narrow** — three-sided marketplace network effects + 60–67% U.S. share dominance + DashPass/Wolt+ subscriber stickiness (35M members), but low consumer switching costs + commodity-like core service + Uber Eats bundling threat + gig-worker regulatory tail risk.
 - 🟡 **BAIT verdict**: **Double overlap** (B + A + I, all Moderate; T Weak) — Conviction **Low-Moderate**. Consensus median target $252–278 implies +43–57% upside but PW EV $130 sits below current price.
-- 📈 **Primary-source signal (5-yr letter arc + 10-K MD&A)**: Tony Xu's [FY2025 letter](https://ir.doordash.com/news/news-details/2026/DoorDash-Releases-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx) frames the Deliveroo + Wolt + DoorDash unification as *"a massive and expensive undertaking"* — explicit FY2026 expectation-setting. **Wolt-precedent execution** (now profitable contributor, articulated in [FY2022 letter](https://www.sec.gov/Archives/edgar/data/1792789/000162828023003889/dashq42022ex991.htm)) lowers Section 8 integration-risk probability from 20% → 12–15%. Deliveroo *"growing much faster at the same profit contribution we expected"* per Q4 call; H2 2026 grocery/retail unit-economics inflection (per CFO Inukonda) is the dominant 2026 catalyst.
+- 📈 **Primary-source signal**: Tony Xu's [FY2025 letter](https://ir.doordash.com/news/news-details/2026/DoorDash-Releases-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx) frames the Deliveroo + Wolt + DoorDash unification as *"a massive and expensive undertaking"* — explicit FY2026 expectation-setting. **Wolt-precedent execution** (now profitable contributor, articulated in [FY2022 letter](https://www.sec.gov/Archives/edgar/data/1792789/000162828023003889/dashq42022ex991.htm)) lowers integration-risk probability from 20% → 12–15%. Deliveroo *"growing much faster at the same profit contribution we expected"* per Q4 call; H2 2026 grocery/retail unit-economics inflection (per CFO Inukonda) is the dominant 2026 catalyst.
 
 ---
 
 ## Business Overview
 
-DoorDash (NASDAQ: DASH) is the largest U.S. food delivery and local-commerce marketplace, operating a three-sided platform that connects consumers, merchants (restaurants, grocers, retailers), and delivery drivers ("Dashers"). As of FY2025, it generated $13.72B in revenue, $100B+ in gross order value (GOV), and delivered its first sustained year of GAAP profitability ($935M net income). The company operates in 40+ countries, largely via its 2022 acquisition of Wolt and the 2025 acquisition of Deliveroo (closed October 2, 2025 for ~$3.9B). The 2025 SevenRooms acquisition (~$1.2B) extends DoorDash into restaurant CRM / reservations — deepening its merchant wedge beyond delivery.
+DoorDash (NASDAQ: DASH) is the largest U.S. food-delivery and local-commerce marketplace, operating a three-sided platform connecting consumers, merchants (restaurants, grocers, retailers), and delivery drivers ("Dashers"). Founded by Tony Xu (Stanford, 2013) on the insight that local-commerce logistics was fragmented, expensive, and slow — and that a three-sided marketplace with an AI logistics engine could commoditize delivery, expanding the addressable market from ~$30B (food delivery) to >$1T (local convenience: groceries, retail, alcohol, pharmacy, restaurant tech).
 
-Revenue is a mix of (a) marketplace commissions (15–30% of order value), (b) consumer fees (delivery, service, small-order), (c) advertising (merchant promoted listings — the fastest-growing and highest-margin layer), (d) white-label logistics (DoorDash Drive / Wolt Drive), and (e) SaaS (SevenRooms). Subscription plans (DashPass / Wolt+ / Deliveroo Plus) hit 35M members at year-end 2025; monthly active users hit 56M.
+**Scale (FY2025)**:
+- **$13.72B revenue** (+28% YoY)
+- **~$100B GOV** (pro-forma incl. Deliveroo partial year); Q4 2025 alone: $29.7B (+39%)
+- **2.58B+ orders FY**; Q4 2025: 903M (+32%)
+- First sustained year of GAAP profitability: **$935M net income** (vs. $123M FY2024 = 7.6× growth)
+- **$2.78B Adj EBITDA** (+52% YoY; ~20.3% margin); ~$1.8B FCF
+- **56M MAUs** (Dec 2025); **35M subscribers** across DashPass + Wolt+ + Deliveroo Plus (+59% YoY)
+- ~30K employees globally
 
----
+**Geographic footprint** (post-Deliveroo close Oct 2, 2025):
+- US: original market; 60–67% share of U.S. food-delivery
+- International: ~40+ countries via Wolt (2022 acquisition) + Deliveroo (2025; UK + Belgium + France + Italy + Ireland + Kuwait + Qatar + Singapore + UAE)
+- ~1B people addressable
 
-## Moat Assessment
+**Revenue model** (5 streams):
+- Marketplace commissions (15–30% of order value) — largest stream
+- Consumer fees (delivery, service, small-order)
+- Advertising (merchant promoted listings) — **fastest-growing, highest-margin layer**; Amazon-flywheel analog
+- White-label logistics (DoorDash Drive / Wolt Drive)
+- SaaS (SevenRooms restaurant CRM, acquired 2025 for ~$1.2B)
 
-**Narrow** — network effects plus scale; requires continuous reinvestment to defend.
-
-**Sources**:
-- **Three-sided flywheel**: 56M MAU + 590K merchants + 9M+ Dashers in 2025 = largest consumer base, most selection, fastest delivery
-- **U.S. market share dominance**: 60–67% (3× Uber Eats, 6× Grubhub); stable and marginally widening since 2020
-- **DashPass subscription**: 35M members across brands drive higher frequency + stickiness (Prime-effect analog)
-- **"Deep Red" AI logistics**: Proprietary ETA, routing, and Dasher-matching; operational advantage hard to replicate without years of data
-- **Advertising**: High-margin layer growing in scale — Amazon flywheel analog
-
-**Vulnerabilities**:
-- Low consumer switching costs; multi-homing across apps is routine
-- Uber Eats + Uber One bundling (rides + delivery, 46M subs) is a credible alternative, especially in NYC/LA
-- Commodity-like core service — food arrives identically regardless of app
-- Gig-worker regulatory risk (AB5-style federal reclassification) is existential to unit economics
-- Munger concern: DASH has never faced a well-capitalized, sustained price war
+**2025 transformation**: Three M&A actions reframed DoorDash from "U.S. food-delivery #1" to "global local-commerce platform":
+- **Deliveroo $3.9B all-cash** (closed Sep 30, 2025) — UK-anchored international expansion
+- **SevenRooms $1.2B** — extends merchant wedge from delivery into restaurant CRM/reservations
+- Q4 2025 reported as DASH's first quarter under combined entity
 
 ---
 
@@ -86,17 +91,7 @@ The answer divides the scenario set: the bull case requires 15% EBITDA margins o
 
 ---
 
-## Section 1 — Why Does This Company Exist? + Pivotal Investment Question
-
-**Founding insight (Tony Xu, 2013)**: Local-commerce logistics was fragmented, expensive, and slow. Restaurants wanted delivery revenue but had no economic path to build it. Consumers wanted convenience but faced unreliable service. Drivers wanted flexible work. A three-sided marketplace with an AI logistics engine could commoditize local delivery, expanding the addressable market of food delivery from ~$30B to >$300B and opening the broader $1T+ local-convenience TAM (groceries, retail, alcohol, pharmacy).
-
-**Today**: DASH is the dominant U.S. food-delivery marketplace, the largest non-restaurant delivery platform, and — post-Wolt + Deliveroo — a global platform covering ~1B people across 40+ countries. SevenRooms extends the wedge into restaurant CRM and reservations.
-
-**Pivotal question**: Is the advertising + international + autonomous-delivery thesis real enough to justify a 28× trailing EBITDA multiple, or is this a dominant-but-commodified business whose "fair price" is closer to $120–140 (15–18× 2026 EBITDA) — the range a Buffett/Munger lens would demand?
-
----
-
-## Section 2 — Annual Financial Metrics
+## Section 1 — Annual Financial Metrics
 
 ### Revenue, EBITDA, and Net Income
 
@@ -122,7 +117,7 @@ The answer divides the scenario set: the bull case requires 15% EBITDA margins o
 
 ### Primary Source: 10-K Segment Detail (FY2025)
 
-Pulled directly from the [DoorDash FY2025 10-K (filed Feb 18, 2026; SEC accession 0001792789-26-000013)](https://ir.doordash.com/financials/sec-filings/default.aspx) and [StockTitan summary](https://www.stocktitan.net/sec-filings/DASH/10-k-door-dash-inc-files-annual-report-16ce41338de6.html). Per CLAUDE.md v2.6 Core Rule #20.
+Pulled directly from the [DoorDash FY2025 10-K (filed Feb 18, 2026; SEC accession 0001792789-26-000013)](https://ir.doordash.com/financials/sec-filings/default.aspx) and [StockTitan summary](https://www.stocktitan.net/sec-filings/DASH/10-k-door-dash-inc-files-annual-report-16ce41338de6.html).
 
 **FY2025 reportable segments (per 10-K)**: DoorDash reports as a single operating segment but discloses category-level data in MD&A:
 
@@ -154,54 +149,91 @@ Pulled directly from the [DoorDash FY2025 10-K (filed Feb 18, 2026; SEC accessio
 
 ---
 
-## Section 3 — Geographic Revenue Mix
+## Section 2 — Revenue Mix & Geographic Split
 
-| Region | FY2022 | FY2023 | FY2024 | FY2025E |
-|--------|--------|--------|--------|---------|
-| United States | $6.25B | $7.78B | $9.40B | ~$11.3–11.5B |
-| International | $0.33B | $0.85B | $1.32B | ~$2.2–2.4B |
-| US % of total | ~95% | ~90% | ~88% | ~82–84% |
-| Intl % of total | ~5% | ~10% | ~12% | ~16–18% |
-
-**Forward-looking**: Full-year Deliveroo in FY2026 (~£2.0B / $2.5B standalone) pushes international toward 25–30% of revenue. Combined Wolt + Deliveroo covers ~1B people across 40+ countries. The question is margins: Europe has tougher labor regulation, lower average order values, and scales more slowly than the U.S. Management is targeting ~$200M adj EBITDA from Deliveroo in FY2026 (Q1 2026 cut to <$25M pro-rata due to investment phasing).
-
----
-
-## Section 4 — Revenue Mix & Business Model
+### Revenue streams (FY2025)
 
 | Stream | Share (est.) | Characteristic |
 |--------|-------------|----------------|
 | Marketplace commissions (15–30% of order value) | ~65–70% | Core engine; tied to GOV |
 | Consumer fees (delivery, service, small-order) | ~15–20% | DashPass offsets meaningfully |
-| Advertising (promoted listings, sponsored placements) | ~5–10% | Highest-margin, fastest-growing |
-| White-label logistics (Drive) | ~3–5% | Margin-accretive, counter-cyclical |
-| SaaS (SevenRooms) | small | Acquired 2025; merchant stickiness play |
+| Advertising (promoted listings, sponsored placements) | ~5–10% | **Highest-margin, fastest-growing** |
+| White-label logistics (DoorDash Drive / Wolt Drive) | ~3–5% | Margin-accretive, counter-cyclical |
+| SaaS (SevenRooms restaurant CRM) | small | Acquired 2025; merchant stickiness play |
 
 **Key operating leverage**: Adjusted EBITDA margin as % of GOV was ~2.5% in FY2025; management targets 4–5% long-term. The bridge is primarily advertising monetization + Deliveroo/Wolt scale + autonomous delivery unit economics.
 
+### Geographic split (multi-year)
+
+| Region | FY2022 | FY2023 | FY2024 | FY2025E | FY2026E (post-Deliveroo full year) |
+|--------|--------|--------|--------|---------|-----------------------------------|
+| United States | $6.25B | $7.78B | $9.40B | ~$11.3–11.5B | ~$13B (+15%) |
+| International | $0.33B | $0.85B | $1.32B | ~$2.2–2.4B | ~$5–5.5B (incl. Deliveroo full year) |
+| US % of total | ~95% | ~90% | ~88% | ~82–84% | ~70–72% |
+| Intl % of total | ~5% | ~10% | ~12% | ~16–18% | ~28–30% |
+
+**Forward-looking**: Full-year Deliveroo in FY2026 (~£2.0B / $2.5B standalone) pushes international toward **25–30% of revenue** — a step-change vs. FY2025's ~17%. Combined Wolt + Deliveroo covers ~1B people across 40+ countries. The execution question is margins: Europe has tougher labor regulation, lower average order values, and scales more slowly than the U.S. Management is targeting **~$200M adj EBITDA from Deliveroo in FY2026** (Q1 2026 contribution cut to <$25M pro-rata due to investment phasing).
+
 ---
 
-## Section 5 — Competitive Moat
+## Section 3 — Competitive Moat & Landscape
 
-**Rating: Narrow**. Network effects + scale, but not switching-costs-and-IP.
+**Rating: Narrow** — three-sided network effects + scale, but not switching-costs-and-IP. Requires continuous reinvestment to defend.
+
+### Moat sources
 
 | Source | Strength | Evidence |
 |--------|----------|---------|
-| Three-sided network effect | Strong | 56M MAU + 590K merchants + 9M+ Dashers — largest U.S. by wide margin |
-| U.S. market share | Strong | 60–67%; 3× Uber Eats; widening since 2020 |
-| DashPass subscription | Moderate | 35M subs; higher order frequency, lower churn |
-| AI logistics (Deep Red) | Moderate | Multi-year ETA and dispatch data advantage |
-| Advertising | Moderate (growing) | High-margin flywheel; Amazon analog; underappreciated runway |
+| Three-sided network effect | Strong | 56M MAU + 590K merchants + 9M+ Dashers in 2025 — largest U.S. consumer/merchant/Dasher base by wide margin |
+| U.S. market share dominance | Strong | 60–67% (3× Uber Eats, 6× Grubhub); stable and marginally widening since 2020 |
+| DashPass / Wolt+ / Deliveroo Plus subscription | Moderate-Strong | **35M subscribers** (+59% YoY); ~30% of US MAUs ordering outside restaurants; higher order frequency + lower churn |
+| AI logistics ("Deep Red") | Moderate | Proprietary ETA, routing, Dasher-matching; multi-year operational advantage hard to replicate without years of data |
+| Advertising flywheel | Moderate (growing) | Highest-margin layer; Amazon-flywheel analog; underappreciated runway |
 
-**Vulnerabilities**:
-- Consumer multi-homing is the norm — true lock-in is limited
-- Uber One bundling is a real threat in urban cores
-- AB5-style gig-worker reclassification at the federal level would destroy current unit economics
-- NYC (15%) and SF (20%) commission caps are precedents; national cap would compress take rate
+### Competitive Landscape
+
+**U.S. food-delivery share (post-2024 stabilization)**:
+
+| Platform | US food-delivery share | Key positioning | Moat read |
+|----------|------------------------|-----------------|-----------|
+| **DoorDash** | **60–67%** (#1, widening) | Three-sided marketplace; broadest restaurant + grocery coverage; DashPass at 30% of US MAU | Narrow but durable — share has *widened* despite Uber bundling |
+| Uber Eats | ~22–25% (#2) | Bundled with Uber One (rides + delivery; ~46M subs total) — primary structural threat to DASH | Narrow — bundling is real but fragments per category; weaker on grocery |
+| Grubhub | ~7–10% (#3, declining) | Just Eat-owned; reduced US investment | None — losing share quarter after quarter; not a strategic threat |
+| Instacart | n/d (grocery-focused) | Dominant in grocery delivery (~50%+ US grocery delivery share) | Narrow — direct overlap on DASH's New Verticals push; threatens DASH grocery margin recovery |
+| Amazon Fresh / Whole Foods Delivery | n/d | Vertically-integrated grocery; not a marketplace play | None as direct DASH competitor; structural macro threat to grocery New Vertical |
+
+**International landscape** (DoorDash via Wolt + Deliveroo):
+
+| Region | DASH (Wolt + Deliveroo) | Local incumbent | Threat read |
+|--------|-------------------------|-----------------|-------------|
+| Northern Europe (Finland, Denmark, Sweden, Germany) | Wolt #1 in most markets | Limited | Strong — Wolt is regional incumbent |
+| UK + Ireland | Deliveroo #1 / #2 | Just Eat (#1 in UK); Uber Eats | Moderate — UK is duopolistic; Deliveroo's ~30% share defended |
+| Western Europe (France, Italy, Belgium) | Deliveroo presence | Just Eat, Uber Eats | Mixed — fragmented competitive set; integration cost is the question |
+| Middle East (UAE, Kuwait, Qatar) | Deliveroo #1 / #2 | Talabat (Delivery Hero), Careem | Moderate — region-by-region |
+| Singapore | Deliveroo presence | foodpanda (Delivery Hero), Grab | Weak — DASH is sub-scale in SE Asia |
+| Latin America | None | iFood (Brazil), Rappi | None — DASH absent from LatAm |
+| **China / Korea / SE Asia ex-SG** | None | Meituan (China), Coupang Eats (Korea), Grab/foodpanda | None — geographies DASH does not address |
+
+*Sources: Bloomberg Second Measure US share data; [DoorDash Q4 2025 letter](https://ir.doordash.com/news/news-details/2026/DoorDash-Releases-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx); [Deliveroo regional footprint](https://about.doordash.com/en-us/news/teamupdate).*
+
+### How DoorDash's moat differs from competitors
+
+1. **Scale-driven Dasher density** — DoorDash's 9M+ Dashers create the lowest delivery times + highest reliability, which compounds with consumer choice + merchant willingness to pay full-rate commission. Uber Eats can match individual cities but not the cross-category scale. **Evidence**: U.S. share has widened from ~60% to 67% during 2022–2025 *despite* aggressive Uber One bundling.
+2. **DashPass / Wolt+ / Deliveroo Plus consolidated subscription scale** — 35M combined subscribers post-Deliveroo close gives DASH the largest delivery-subscription base globally outside Amazon Prime. Drives 30% of US MAUs to order outside restaurants; this is the foundation of the New Verticals (grocery/retail/alcohol) thesis. **Evidence**: subscriber growth +59% YoY in 2025; Q4 record.
+3. **Wolt-precedent integration playbook** — DoorDash has now executed one major international integration successfully (Wolt 2022 → profitable contributor by FY2025). This materially de-risks the Deliveroo integration vs. peers like Uber Eats (Postmates integration was rocky). **Evidence**: Tony Xu's Q4 2025 framing that Deliveroo is *"growing much faster at the same profit contribution we expected"* at the 5-month mark.
+4. **Vertical depth (grocery/retail/restaurant CRM)** — DoorDash is the only major delivery platform building horizontally into restaurant CRM (SevenRooms) + grocery/retail + alcohol simultaneously. Uber Eats is rides-led; Grubhub is restaurant-only; Instacart is grocery-only. **Evidence**: H2 2026 grocery/retail unit-economics inflection (per CFO Inukonda) is the dominant 2026 catalyst.
+
+### Vulnerabilities + tail-risk read
+
+- **Consumer multi-homing is the norm** — true lock-in is limited; subscription stickiness is the only meaningful switching cost
+- **Uber One bundling threat** is real in urban cores (NYC/LA/Chicago); Uber One has 46M subs (rides + delivery combined)
+- **Gig-worker regulatory risk**: AB5-style federal reclassification would destroy current unit economics. Mitigated by [CA Supreme Court Prop 22 ruling July 2024](https://www.capradio.org/articles/2024/07/25/doordash-uber-and-other-gig-work-companies-can-classify-workers-as-contractors-ca-supreme-court-rules/), but not eliminated
+- **Commission cap regulation**: NYC 15% / SF 20% commission caps are precedents; national cap would compress take rate
+- **Tail-risk competitor**: **Instacart** — dominant in grocery delivery and could escalate cross-category if it acquires/partners with a restaurant-delivery player. Currently sub-scale in restaurants but well-capitalized.
 
 ---
 
-## Section 6 — Management & Leadership
+## Section 4 — Management & Leadership
 
 **Tony Xu (Co-founder, CEO)**: Long-duration thinker. Willing to sacrifice near-term earnings for platform breadth (Q3 2025 "several hundred million" 2026 investment announcement triggered the 17% selloff). Sold ~$218M in trailing 6 months via routine 10b5-1 plans — large in absolute $ but consistent program. Not a red flag in isolation.
 
@@ -218,7 +250,7 @@ Pulled directly from the [DoorDash FY2025 10-K (filed Feb 18, 2026; SEC accessio
 
 ### Recent Management Commentary — Primary Source Synthesis (Last 5 Letters + IPO Letter)
 
-This subsection synthesizes 6 years of Tony Xu's primary-source CEO communication: the IPO letter (Dec 2020) plus annual shareholder letters covering FY2021–FY2025. Letters are the most authoritative primary source for understanding Tony Xu's framework — they are unfiltered, archived, and have driven DoorDash's culture since founding. Per CLAUDE.md v2.6 Core Rule #19. Letters are accessible via [DoorDash IR](https://ir.doordash.com/financials/sec-filings/default.aspx) and SEC EDGAR.
+This subsection synthesizes 6 years of Tony Xu's primary-source CEO communication: the IPO letter (Dec 2020) plus quarterly shareholder letters covering FY2021–FY2025 (DoorDash publishes quarterly letters with each earnings release; Q4 letters serve as the annual-equivalent). Letters are the most authoritative primary source for understanding Tony Xu's framework — unfiltered, archived, and have driven DoorDash's culture since founding. Letters are accessible via [DoorDash IR](https://ir.doordash.com/financials/sec-filings/default.aspx) and SEC EDGAR.
 
 #### Verbatim quotes mapped to investment relevance
 
@@ -263,12 +295,12 @@ This subsection synthesizes 6 years of Tony Xu's primary-source CEO communicatio
 
 **What this means for the thesis**:
 - The Tony Xu framework + M&A track record + explicit 2026 expectation-setting *materially reduces* the integration-risk discount the market is currently applying. The –38% drawdown is more time-discount than fundamental-deterioration.
-- The Section 8 risk *"Integration failure (Wolt + Deliveroo + SevenRooms simultaneously)"* deserves a probability re-think: Wolt is now a successful precedent, not just a hypothetical, lowering the conjunctive failure probability from ~20% toward 12–15%.
+- The Section 6 risk *"Multi-billion-dollar Deliveroo + SevenRooms integration with uncertain outcome"* deserves a probability re-think: Wolt is now a successful precedent, not just a hypothetical, lowering the conjunctive failure probability from ~20% toward 12–15%.
 - The bull case timing aligns with H2 2026 → FY2027 rather than 2026; sets the pacing for Add-on conviction.
 
 ---
 
-## Section 7 — Strategic Growth Initiatives
+## Section 5 — Strategic Growth Initiatives
 
 1. **International expansion via Deliveroo**: ~$200M adj EBITDA target for FY2026 (Q1 pacing below plan due to investment). Combined with Wolt covers ~1B people in 40+ countries.
 2. **Advertising monetization**: High-margin, scale-dependent. Amazon-style flywheel is the single largest long-term margin lever.
@@ -279,33 +311,30 @@ This subsection synthesizes 6 years of Tony Xu's primary-source CEO communicatio
 
 ---
 
-## Section 8 — Key Risks
+## Section 6 — Key Risks
 
-Per CLAUDE.md v2.6 Core Rule #20: rows derived from verbatim FY2025 10-K Item 1A Risk Factors language are sourced explicitly. Rows tagged `*[Analyst speculation]*` are agent-derived and not present in 10-K. Italics in the Notes column = direct 10-K quote. **[NEW in FY2025 10-K]** flags risks added vs. FY2024 10-K (acquisition-integration risk became materially more prominent post-Deliveroo).
+Filtered for risks that are DASH-specific, materially differentiated from peers, not yet priced into the multiple, OR tied to a specific thesis-break trigger / large discretionary investment. Universal corporate boilerplate (generic earnings volatility, generic third-party reliance, generic founder dependency, generic systems failures) is excluded as un-actionable.
 
-| Risk | Impact | Probability | Source | Notes |
-|------|--------|-------------|--------|-------|
-| ⚠️ **Gig-worker reclassification (AB5-federal or international)** | **Critical** | 15% | 10-K Item 1A | *"If Dashers that utilize our platform as independent contractors are reclassified as employees under U.S. federal or state law, or the laws of other jurisdictions in which we operate, it could have an adverse effect that is material to our business, financial condition, and results of operations."* Mitigant: [CA Supreme Court upheld Prop 22 in July 2024](https://www.capradio.org/articles/2024/07/25/doordash-uber-and-other-gig-work-companies-can-classify-workers-as-contractors-ca-supreme-court-rules/); MA pending ballot initiative. Federal NLRB framework remains the tail risk. |
-| ⚠️ **Integration failure across Wolt + Deliveroo + SevenRooms + unified tech stack** **[NEW emphasis in FY2025 10-K]** | High | 15–20% | 10-K Item 1A | *"If we are unable to make acquisitions and investments, or successfully integrate acquisitions into our business, our business, financial condition, and results of operations could be adversely affected."* Materially elevated post-$5.1B 2025 M&A. Wolt is a *positive* precedent (now profitable) — lowers conjunctive failure probability vs. the v2.5 ingest's 20% estimate. |
-| Intense competition (Uber Eats, Grubhub, Instacart, Amazon) | High | 30% | 10-K Item 1A | *"We face intense competition and if we are unable to compete effectively, our business, financial condition, and results of operations could be adversely affected."* Uber Eats + Uber One bundling is the structural #1 competitive concern; Amazon is a tail risk for grocery. |
-| Merchant retention failure | Medium | 20% | 10-K Item 1A | *"If we fail to retain our existing merchants and consumers or acquire new merchants and consumers in a cost-effective manner, our revenue, revenue growth, and margins may decrease..."* Linked to commission caps + competitive pricing pressure. |
-| Dasher acquisition / retention failure | Medium | 20% | 10-K Item 1A | *"If we fail to cost-effectively attract and retain Dashers or to increase the use of our platform by existing Dashers..."* Q4 2025 saw "higher Dasher costs per order" guidance for Q1 2026 — a leading indicator worth monitoring. |
-| Quarterly results fluctuation | Medium | High | 10-K Item 1A | *"We expect our results of operations to fluctuate on a quarterly and annual basis due to a number of factors..."* Already evidenced by Q3 2025 EPS miss (–17% next-day) and Q4 EBITDA-vs-EPS divergence. |
-| Profitability sustainability | Medium | 15% | 10-K Item 1A | *"We have a history of net losses, we anticipate increasing expenses in the future, and we may not be able to consistently maintain or increase profitability in the future."* FY2024 was first profitable year; FY2025 7.6× growth is encouraging but not yet "consistent." |
-| Growth deceleration | Medium | 25% | 10-K Item 1A | *"Our business may not continue to grow on pace with historical rates."* US Marketplace approaching saturation (60–67% share); growth must come from international + New Verticals. |
-| Systems failures / technology infrastructure | Medium | 15% | 10-K Item 1A | *"Systems failures and resulting interruptions in the availability of our websites, mobile applications, technology infrastructure, or platform could adversely affect our business..."* Heightened during 2026 unified-tech-stack consolidation. |
-| Merchant dependency / pricing power | Low-Medium | 15% | 10-K Item 1A | *"We rely on merchants on our platform for many aspects of our business, and to the extent they fail to adequately maintain their service levels or materially increase the prices they charge consumers on our platform..."* Concentration risk is moderate; chain restaurants increasingly insist on first-party apps. |
-| Fee cap regulation (NYC/SF precedent → other cities) | Medium | 35% | *[Analyst speculation]* | Not a top-tier 10-K Item 1A line item but referenced in MD&A. NYC 15% / SF 20% caps already in effect; national movement is the tail risk. |
-| Consumer discretionary slowdown / recession | High | 25% | *[Analyst speculation]* | Not in 10-K Risk Factors top-10 explicitly. Order frequency is elastic to real disposable income. |
-| Advertising growth plateau | Medium | 20% | *[Analyst speculation]* | Not in 10-K Risk Factors. Would kill the primary margin-expansion thesis. Watch ad take rate quarterly. |
-| Tony Xu / founder departure | Medium | 10% | *[Analyst speculation]* | Not in 10-K Risk Factors. Founder-led execution is core to thesis; no signals currently. |
-| Margin disappointment vs. guidance | Medium | 30% | *[Analyst speculation]* | Pattern established in 2025 (Q3 invest → sell). Mitigated by Tony Xu's explicit FY2026 expectation-setting in the FY2025 letter. |
+| Risk | Impact | Probability | Priced In? | Notes |
+|------|--------|-------------|------------|-------|
+| ⚠️ **Gig-worker reclassification (AB5-federal or international)** | Critical | 15% | Partially | Would destroy variable-cost Dasher model. Mitigant: [CA Supreme Court upheld Prop 22 in July 2024](https://www.capradio.org/articles/2024/07/25/doordash-uber-and-other-gig-work-companies-can-classify-workers-as-contractors-ca-supreme-court-rules/); MA pending ballot initiative. Federal NLRB framework remains the existential tail risk; not priced into the current multiple. |
+| ⚠️ **Multi-billion-dollar Deliveroo + SevenRooms integration with uncertain outcome** | High | 15–20% | Partially | $5.1B 2025 M&A + multi-year unified tech-stack consolidation = a Rule #25(d) "large discretionary investment with uncertain ROI." Wolt 2022 integration is positive precedent (now profitable contributor) — meaningfully de-risks vs. the v2.5 ingest's 20% estimate. **Watch**: Deliveroo $200M FY2026 EBITDA target; H2 grocery/retail unit-economics. |
+| ⚠️ **Uber Eats + Uber One bundling escalation** | Medium-High | 30% | Partially | Uber One has 46M subs (rides + delivery); structural threat to DashPass economics. Mitigated by DASH's 67% share *widening* in 2024-2025 despite Uber bundling. Re-rate trigger if DASH share drops below 60% for 2 consecutive Q's. |
+| ⚠️ Instacart cross-category escalation | Medium | 15% | Not priced in | Instacart dominates grocery delivery (~50%+); could acquire/partner with a restaurant-delivery player to build a 2-sided competitive set. Not in consensus models. If Instacart announces M&A in restaurants, DASH grocery margin recovery thesis (H2 2026) is delayed. |
+| ⚠️ Commission cap regulation (NYC 15%, SF 20% → national) | Medium | 35% | Partially | NYC/SF precedent; national cap would compress take rate by 200-400bps. Material to bull-case margin path. Watch state legislative cycles. |
+| Advertising growth plateau | Medium | 20% | Not priced in | Would kill the primary margin-expansion thesis. Consensus assumes ad take-rate continues to expand toward Amazon-flywheel levels. If ad revenue growth decelerates below 30% for 2 consecutive Q's, base case multiple compresses. |
+| Margin disappointment vs. Q1 2026 guide | Medium | 30% | Partially | Pattern established in 2025 (Q3 invest → 17% sell). Mitigated by Tony Xu's explicit FY2026 expectation-setting (*"slightly higher than 2025, excluding Deliveroo"*) in the FY2025 letter. Q1 print May 6 is the binary catalyst. |
+| Consumer discretionary slowdown / recession | Medium-High | 25% | Yes | Order frequency is elastic to real disposable income. Largely priced into the –38% drawdown from 52-wk high. |
 
-**Highest-impact / least-priced**: The **Deliveroo integration risk** (newly material) is the dominant 2026 watch item; it is partially priced in (–38% drawdown is largely integration discount). Wolt-precedent execution provides meaningful downside mitigation. **Gig-worker reclassification** remains the existential tail risk but is well-known and partially mitigated by Prop 22 precedent.
+**Thesis-break trigger (composite)**: 2 consecutive quarters of (a) US share decline below 60% AND (b) Adj EBITDA margin compression vs. prior period, OR (c) Deliveroo FY2026 EBITDA tracking <$100M (vs. $200M target). Price alert at **$143** (52-wk low retest) for thesis reassessment.
+
+### Risk Factor Evolution — multi-year synthesis
+
+The single material insight from reading 5 years of 10-K Item 1A diffs (FY2020 → FY2025): the FY2025 10-K added explicit acquisition-integration risk language at materially elevated emphasis vs. FY2024 — a direct reflection of the $5.1B Deliveroo + SevenRooms M&A burst. Management's risk framing converted from "competition + worker classification" (FY2020-2024) to "competition + worker classification + integration + tech-stack consolidation execution" (FY2025). The FY2025 framing is *honest expectation-setting*, not panic — Tony Xu's parallel "massive and expensive undertaking" letter language is internally consistent. Investors who diff'd FY2024 vs. FY2025 10-Ks had clean primary-source confirmation that 2026 EBITDA dilution is integration cost, not deteriorating economics.
 
 ---
 
-## Section 9 — Industry-Specific Macro Analysis
+## Section 7 — Industry-Specific Macro Analysis
 
 **U.S. food delivery TAM**: ~$120–150B; DASH at 60–67% share on $100B+ GOV is approaching saturation in core category. Growth must come from (a) local-convenience expansion (grocery/retail/pharmacy/alcohol → $1T+ TAM) and (b) international.
 
@@ -317,7 +346,7 @@ Per CLAUDE.md v2.6 Core Rule #20: rows derived from verbatim FY2025 10-K Item 1A
 
 ---
 
-## Section 10 — Valuation & Comparable Analysis
+## Section 8 — Valuation & Comparable Analysis
 
 ### Current Multiples (April 24, 2026, $176.78 / ~$77B market cap)
 
@@ -329,7 +358,7 @@ Per CLAUDE.md v2.6 Core Rule #20: rows derived from verbatim FY2025 10-K Item 1A
 | P/E GAAP (FY2025) | ~82× | $935M net income |
 | P/E GAAP (FY2026E) | ~53× | ~$3.34 consensus EPS |
 | Price/FCF | ~43× | $1.8B FCF |
-| Analyst Consensus Target | $252–278 median | Wide dispersion; see Section 11 |
+| Analyst Consensus Target | $252–278 median | Wide dispersion; see Section 9 |
 | "Buffett fair price" | $120–140 | 12–14× 2025 EBITDA, 15–18× 2026 EBITDA |
 
 ### Comparable Peer Set
@@ -346,7 +375,7 @@ Per CLAUDE.md v2.6 Core Rule #20: rows derived from verbatim FY2025 10-K Item 1A
 
 ---
 
-## Section 11 — Catalyst & Sentiment Tracker
+## Section 9 — Catalyst & Sentiment Tracker
 
 ### Live Price & Positioning
 
@@ -415,7 +444,7 @@ Per CLAUDE.md v2.6 Core Rule #20: rows derived from verbatim FY2025 10-K Item 1A
 
 ---
 
-## Section 12 — BAIT Framework
+## Section 10 — BAIT Framework
 
 ### B — Behavioral: **Moderate**
 
@@ -452,7 +481,7 @@ Primary-source disclosures underappreciated by media:
 
 ---
 
-## Section 13 — Bull / Bear / Base Cases
+## Section 11 — Bull / Bear / Base Cases
 
 *All scenarios are 5-year (2030) terminal prices. Probabilities sum to 100%.*
 
@@ -477,7 +506,7 @@ Primary-source disclosures underappreciated by media:
 
 ---
 
-## Section 14 — Probability-Weighted Expected Value
+## Section 12 — Probability-Weighted Expected Value
 
 | Scenario | Terminal (2030) Price | Probability | PW Contribution |
 |----------|----------------------|-------------|-----------------|
@@ -496,7 +525,7 @@ Consensus median target of ~$252–278 implies +43–57% upside in ~12–18 mont
 
 ---
 
-## Section 15 — Recommendation & Bottom Line
+## Section 13 — Recommendation & Bottom Line
 
 **Thesis in one sentence**: DoorDash is the dominant U.S. local-commerce marketplace with credible advertising + international + autonomous margin-expansion optionality, but at ~26× trailing EBITDA the multiple already prices in aggressive execution; Buffett-lens fair value is $120–140 and the 5-year PW EV sits below the current price even after the –38% selloff.
 
@@ -526,13 +555,13 @@ Consensus median target of ~$252–278 implies +43–57% upside in ~12–18 mont
 
 ### Sources
 
-**Primary sources (per CLAUDE.md v2.6 Rules #19 + #20)**:
+**Primary sources**:
 - [DoorDash 10-K FY2024 (HTML)](https://www.sec.gov/Archives/edgar/data/1792789/000162828025005715/dash-20241231.htm) — Item 1A Risk Factors and Item 7 MD&A
 - [DoorDash 10-K FY2025 (filed Feb 18, 2026; SEC accession 0001792789-26-000013)](https://ir.doordash.com/financials/sec-filings/default.aspx) — Item 1A Risk Factors and Item 7 MD&A
 - [DoorDash IR — SEC filings index](https://ir.doordash.com/financials/sec-filings/default.aspx)
 - [SEC EDGAR — DoorDash filings (CIK 0001792789)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001792789&type=10-K)
 
-**Tony Xu shareholder letters (per CLAUDE.md v2.6 Rule #19 — last 5 letters)**:
+**Tony Xu shareholder communications** (Pattern B: quarterly letters since IPO; 5-year baseline):
 - [Tony Xu IPO Letter / S-1 (Dec 2020)](https://www.sec.gov/Archives/edgar/data/1792789/000119312520292381/d752207ds1.htm) — founding mission
 - [Tony Xu FY2022 Letter (Feb 16, 2023)](https://www.sec.gov/Archives/edgar/data/1792789/000162828023003889/dashq42022ex991.htm) — Wolt acquisition rationale
 - [Tony Xu FY2024 Letter (Feb 11, 2025)](https://www.sec.gov/Archives/edgar/data/1792789/000162828025004877/dashq42024ex992-shareholde.htm) — 4-principle framework articulation; first GAAP-positive year

@@ -1,4 +1,4 @@
-# CLAUDE.md — kg-invest-wiki Schema (v2.8)
+# CLAUDE.md — kg-invest-wiki Schema (v2.9)
 
 This is the instruction file for the LLM agent that maintains this wiki.
 **Read this file at the start of every session before making any changes to `wiki/`, `raw/`, or `outputs/`.**
@@ -13,7 +13,7 @@ session starts from the latest synthesis, not a blank page.
 
 - **Owner**: Karthik G
 - **Started**: April 2026
-- **Schema version**: v2.8 (April 2026)
+- **Schema version**: v2.9 (April 2026)
 - **Model**: Karpathy LLM Wiki pattern, adapted
 
 ### What this wiki is *not*
@@ -125,7 +125,7 @@ kg-invest-wiki/
       the row in this table was last touched, and NOT the date of a quiet
       week — only material updates bump this).
     - **Punchline** column: 1–2 sentences synthesizing the latest thesis
-      state (typically pulled from Section 15's `Thesis in one sentence`
+      state (typically pulled from Section 13's `Thesis in one sentence`
       plus the action verb pair). Should communicate "what is this ticker
       and what's the read right now" to a reader who's never seen it.
       Update on every material thesis change; preserve verbatim during
@@ -191,21 +191,21 @@ kg-invest-wiki/
     Do not sprinkle emoji decoratively — each glyph below carries a
     specific meaning:
     - 🟢 **Bullish / Strengthened thesis / Initiate / Add** — Section
-      11 status, changelog "Strengthened", Section 15 action verbs
+      9 status, changelog "Strengthened", Section 13 action verbs
     - 🔴 **Bearish / Weakened thesis / Exit / Avoid** — same surfaces
     - 🟡 **Neutral / Unchanged / Hold / Watch** — same surfaces
-    - ⚠️ **Material risk or warning** — Section 8 high-impact rows,
-      thesis-break triggers in Section 15
+    - ⚠️ **Material risk or warning** — Section 6 high-impact rows,
+      thesis-break triggers in Section 13
     - ✅ **De-risked / resolved / delivered catalyst** — pair with
       the `~~struck-through~~` pattern from v2.3
     - 📅 **Date-anchored upcoming catalyst** — earnings dates, FDA
-      decisions, shareholder meetings in Section 11 "Upcoming"
+      decisions, shareholder meetings in Section 9 "Upcoming"
     - 💰 **Capital allocation / buyback / dividend event**
     - 📈 / 📉 **Notable price or metric move** (sparing — only when
       magnitude is the point)
-    - 🎯 **Price target / entry zone / trim zone** in Section 15
+    - 🎯 **Price target / entry zone / trim zone** in Section 13
     - **Bold** the punchline of each section's first paragraph and
-      the action-verb line in Section 15. **Bold** key numbers in
+      the action-verb line in Section 13. **Bold** key numbers in
       tables only when they carry the thesis (an MLR print, a Korea
       op-margin delta) — not every number.
     - *Italics* for source attributions inside paragraphs and for
@@ -219,7 +219,7 @@ kg-invest-wiki/
     section (literal heading — not "Section 0 — Summary") containing
     **up to 10 bullets** distilled from the rest of the page. The
     Summary is a synthesis, not new analysis — every bullet must be
-    supported by content already in Sections 1–15.
+    supported by content already in Sections 1–13.
     - Bullets should cover (pick the 10 most thesis-relevant):
       thesis sentence, moat verdict, pivotal question, recommendation
       verbs (non-holder / holder), entry/trim zones, BAIT verdict,
@@ -228,7 +228,7 @@ kg-invest-wiki/
     - Use the emoji vocabulary from Rule #17 to make signals scannable.
     - Refresh on every material update (Workflow B Step 3a) — list
       `Summary` as a refreshed section in the changelog `What Changed`
-      block whenever Section 15 or Section 11 changed.
+      block whenever Section 13 or Section 9 changed.
 19. **Annual shareholder letters are required primary sources**.
     Every Workflow A ingest MUST fetch and synthesize **the last 5
     fiscal years of CEO/founder shareholder letters**. **Letters
@@ -534,56 +534,64 @@ kg-invest-wiki/
       Multi-year evolution evidence remains valuable; the bulk
       table format does not.
 
-26. **Risk/Reward calculation discipline** (added v2.8). The R/R
-    figure cited in the Summary, Section 14 (PW EV Interpretation),
-    and `wiki/watchlist.md` (Conviction Ranking + Price Targets
-    Summary) MUST anchor to the **same Section 13 scenario set**
-    on the ticker page. Discrepancies cause reader confusion (and
-    were the trigger for this rule, after the v2.7 SHOP page cited
-    "5:1" in surfaces while the page's Section 13 implied "10:1").
-    - **Standard convention**: R/R = (Bull case % upside) ÷ (Bear
-      case % downside) using midpoint or named scenario prices vs.
-      current verified live price. Higher = more favorable.
+26. **Risk/Reward calculation discipline** (added v2.8; section
+    numbers updated v2.9). The R/R figure cited in the Summary,
+    Section 12 (PW EV Interpretation), and `wiki/watchlist.md`
+    (Conviction Ranking + Price Targets Summary) MUST anchor to
+    the **same Section 11 scenario set** on the ticker page.
+    - **Standard convention**: R/R = (Bull case % upside) ÷
+      (Bear case % downside) using midpoint or named scenario
+      prices vs. current verified live price. Higher = more
+      favorable.
     - **Multiple Bull tiers (e.g., Bull + Bull+)**: state both
-      explicitly — e.g., *"~10:1 R/R (Bull / Bear), rises to ~15:1
-      with the Bull+ tail."* Don't average them silently.
-    - **Stop-loss / thesis-break-anchored R/R** (using the §11
-      thesis-break alert price as the downside) is acceptable as
-      a *secondary* framing in the Section 14 Interpretation
+      explicitly — e.g., *"~10:1 R/R (Bull / Bear), rises to
+      ~15:1 with the Bull+ tail."* Don't average them silently.
+    - **Stop-loss / thesis-break-anchored R/R** (using the §9
+      thesis-break alert price as the downside) is acceptable
+      as a *secondary* framing in the Section 12 Interpretation
       paragraph for transparency, but the *headline* R/R figure
-      must always be the Section 13 Bull-vs-Bear ratio.
+      must always be the Section 11 Bull-vs-Bear ratio.
     - **Watchlist Price Targets table**: when the 3-column
       template requires collapsing a 4-scenario set, blend the
       top tiers (Bull + Bull+) into a single "Bull blend" row by
       probability-weighted average so the PW EV reconciles to
-      the canonical Section 13 number. Don't substitute a
+      the canonical Section 11 number. Don't substitute a
       different scenario set.
 
 ---
 
-## Investment Framework — 15-Section Thesis Structure
+## Investment Framework — 13-Section Thesis Structure
 
-Every ticker's `thesis.md` follows this structure:
+Every ticker's `thesis.md` follows this structure. The page header
+block (Schema / Last Updated / Status / Live Price), Summary
+section, Business Overview, Pivotal Investment Question, and
+Key Stats Snapshot precede Section 1.
 
 | # | Section | Purpose |
 |---|---------|---------|
-| 1 | Why Does This Company Exist? + Pivotal Investment Question | Founding insight + the one question the thesis turns on |
-| 2 | Annual Financial Metrics | 4–6 year trend + recent quarters |
-| 3 | Geographic Revenue Mix | Region table + forward-looking shifts |
-| 4 | Revenue Mix & Business Model | Revenue streams, unit economics, business-model evolution |
-| 5 | Competitive Moat | Wide / Narrow / None + sources + vulnerabilities |
-| 6 | Management & Leadership | CEO/CFO assessment + capital allocation track record |
-| 7 | Strategic Growth Initiatives | The growth vectors that justify forward multiples |
-| 8 | Key Risks | Impact × Probability table |
-| 9 | Industry-Specific Macro Analysis | TAM, structural dynamics, regulatory environment |
-| 10 | Valuation & Comparable Analysis | Multiples, peer set, "fair price" range |
-| 11 | **Catalyst & Sentiment Tracker** | **(NEW)** Analyst ratings, short interest, options skew, insider activity, recent news, upcoming events |
-| 12 | BAIT Framework | Behavioral / Analytical / Informational / Technical lenses |
-| 13 | Bull / Bear / Base Cases | Scenario price targets with explicit probabilities summing to 100% |
-| 14 | Probability-Weighted Expected Value | PW EV vs. current price; horizon stated |
-| 15 | **Recommendation & Bottom Line** | **(REVISED)** Action verb (Initiate / Add / Reduce / Exit / Hold / Avoid), price-level rationale, thesis-break triggers, next review trigger |
+| 1 | Annual Financial Metrics | 4–6 year trend + recent quarters; primary 10-K segment detail |
+| 2 | Revenue Mix & Geographic Split | Revenue streams + business model + region table + forward-looking shifts |
+| 3 | Competitive Moat & Landscape | Wide / Narrow / None + sources + vulnerabilities + named competitors with market share + how-this-company-differs evidence |
+| 4 | Management & Leadership | CEO/CFO assessment + capital allocation track record + Recent Management Commentary subsection (per Rule #19) |
+| 5 | Strategic Growth Initiatives | The growth vectors that justify forward multiples |
+| 6 | Key Risks | Materiality-filtered Impact × Probability × Priced-In table (per Rule #25) |
+| 7 | Industry-Specific Macro Analysis | TAM, structural dynamics, regulatory environment |
+| 8 | Valuation & Comparable Analysis | Multiples, peer set, "fair price" range |
+| 9 | **Catalyst & Sentiment Tracker** | Analyst ratings, short interest, options skew, insider activity, recent news, upcoming events |
+| 10 | BAIT Framework | Behavioral / Analytical / Informational / Technical lenses |
+| 11 | Bull / Bear / Base Cases | Scenario price targets with explicit probabilities summing to 100% |
+| 12 | Probability-Weighted Expected Value | PW EV vs. current price; horizon stated; R/R per Rule #26 |
+| 13 | **Recommendation & Bottom Line** | Action verb (Initiate / Add / Reduce / Exit / Hold / Avoid), price-level rationale, thesis-break triggers, next review trigger |
 
-### Section 11 — Catalyst & Sentiment Tracker (detail)
+**Retired in v2.9**: Section 1 ("Why Does This Company Exist? +
+Pivotal Investment Question") was duplicative of the Business
+Overview + Pivotal Investment Question header subsections that
+already precede the numbered sections. Section 3 ("Geographic
+Revenue Mix") and Section 4 ("Revenue Mix & Business Model") were
+merged into the new Section 2 since both cover revenue
+composition.
+
+### Section 9 — Catalyst & Sentiment Tracker (detail)
 
 This is the surface that drives weekly incrementals. Standardized fields:
 
@@ -600,7 +608,7 @@ This is the surface that drives weekly incrementals. Standardized fields:
 - **Upcoming catalysts**: earnings date, shareholder meeting, FDA/regulatory date,
   product launch, contract decision — anything date-anchored.
 
-### Section 15 — Recommendation & Bottom Line (detail)
+### Section 13 — Recommendation & Bottom Line (detail)
 
 Required structure:
 
@@ -626,7 +634,7 @@ Required structure:
 
 ## BAIT Framework (Mauboussin)
 
-Section 12 of every thesis. Four lenses:
+Section 10 of every thesis. Four lenses:
 
 - **B — Behavioral**: Identifiable sentiment / fear driving mispricing? Empirically
   supported by operating data, or narrative-only?
@@ -645,7 +653,7 @@ Full detail in `wiki/frameworks/bait.md`.
 
 ## Moneyball Probability Scoring
 
-Section 13 / 14 of every thesis. All scenario price targets carry explicit
+Section 11 / 12 of every thesis. All scenario price targets carry explicit
 probabilities summing to 100%.
 
 Example: Bull $X (30%) + Base $Y (50%) + Bear $Z (20%) = weighted EV of $W.
@@ -757,7 +765,7 @@ the underlying source.
   4. **Moat Assessment** (Wide / Narrow / None + sources + vulnerabilities)
   5. **Pivotal Investment Question** (the one question the thesis turns on)
   6. **Key Stats Snapshot** (price, market cap, EV, FY revenue, FCF, key operating metrics)
-  7. **Sections 1–15** of the 15-section thesis structure (financial tables embedded inline in Sections 2, 3, 10, 14 — do not duplicate elsewhere)
+  7. **Sections 1–13** of the 13-section thesis structure (financial tables embedded inline in Sections 1, 2, 8, 12 — do not duplicate elsewhere)
 - `wiki/tickers/[TICKER]/changelog.md` — initial entry "v2 Initial Ingest"
 
 If legacy `overview.md`, `thesis.md`, `financials.md` files exist for this
@@ -811,25 +819,26 @@ Check for any event from the **Meaningful Events List** below. Sources:
 1. Fetch and store the new raw material under `raw/[TICKER]/<subfolder>/`.
 2. Update **all affected sections** of `[TICKER].md` (the single wiki page).
    For an **earnings event**, the *mandatory* update surface is broader than
-   just Sections 11 + 15. Walk through every section in this checklist and
-   refresh anything the new data invalidates:
+   just Sections 9 + 13. Walk through every section in this checklist and
+   refresh anything the new data invalidates (per v2.9 13-section structure):
 
    | Section | When to refresh on earnings/material event |
    |---------|--------------------------------------------|
-   | 2 — Annual Financial Metrics | **Always** on earnings: add the new quarter row + roll TTM figures |
-   | 3 — Geographic Revenue Mix | Refresh if segment data was disclosed |
-   | 6 — Management & Leadership | Refresh on management commentary, capital-allocation changes |
-   | 7 — Strategic Growth Initiatives | Refresh on new strategic disclosures |
-   | **8 — Key Risks** | **Always** scan: any risk that the new data resolves should be marked `~~struck through~~` with **DE-RISKED [date]**; new risks the print surfaces should be added; existing risk *Notes* columns should be refreshed if "Watch [event X]" was the resolved event |
-   | 9 — Industry-Specific Macro Analysis | Refresh on regulatory or sector developments |
-   | 10 — Valuation & Comparable Analysis | **Always** on earnings: re-compute multiples on new EPS/FCF; refresh the Assessment paragraph if the trough-vs-normalized framing shifted |
-   | **11 — Catalyst & Sentiment Tracker** | **Always**: refresh price, analyst consensus, recent actions, insider activity, recent news, upcoming catalysts. Move delivered events from "Upcoming" to "Delivered ✅" |
-   | 12 — BAIT Framework | Refresh any B/A/I/T justification paragraph that the new data alters (e.g., if the analytical edge cited a metric that has now been disclosed) |
-   | 13 — Bull/Bear/Base Cases | Refresh assumptions and price targets if scenarios shifted; adjust probabilities if the event materially de-risks one branch |
-   | 14 — PW EV | Recompute if Section 13 changed |
-   | **15 — Recommendation & Bottom Line** | **Always** review: refresh thesis sentence, non-holder/holder verbs, entry/trim/exit zones, **and especially the thesis-break triggers** (mark resolved triggers as DE-RISKED and add new ones the event surfaced) |
+   | 1 — Annual Financial Metrics | **Always** on earnings: add the new quarter row + roll TTM figures |
+   | 2 — Revenue Mix & Geographic Split | Refresh if segment / geographic data was disclosed |
+   | 3 — Competitive Moat & Landscape | Refresh on competitor moves, market share shifts, moat-altering events |
+   | 4 — Management & Leadership | Refresh on management commentary, capital-allocation changes; update RMC subsection if a new shareholder letter was published |
+   | 5 — Strategic Growth Initiatives | Refresh on new strategic disclosures |
+   | **6 — Key Risks** | **Always** scan: any risk that the new data resolves should be marked `~~struck through~~` with **DE-RISKED [date]**; new risks should be added with the materiality filter (Rule #25) applied; risk Notes refreshed if "Watch [event X]" was the resolved event |
+   | 7 — Industry-Specific Macro Analysis | Refresh on regulatory or sector developments |
+   | 8 — Valuation & Comparable Analysis | **Always** on earnings: re-compute multiples on new EPS/FCF; refresh Assessment paragraph if trough-vs-normalized framing shifted |
+   | **9 — Catalyst & Sentiment Tracker** | **Always**: refresh price, analyst consensus, recent actions, insider activity, recent news, upcoming catalysts. Move delivered events from "Upcoming" to "Delivered ✅" |
+   | 10 — BAIT Framework | Refresh any B/A/I/T justification paragraph that the new data alters |
+   | 11 — Bull/Bear/Base Cases | Refresh assumptions and price targets if scenarios shifted; adjust probabilities if the event materially de-risks one branch |
+   | 12 — PW EV | Recompute if Section 11 changed; verify R/R figure (Rule #26) |
+   | **13 — Recommendation & Bottom Line** | **Always** review: refresh thesis sentence, non-holder/holder verbs, entry/trim/exit zones, **thesis-break triggers** (mark resolved triggers as DE-RISKED, add new ones the event surfaced) |
 
-   Sections 1, 4, 5 rarely change on a single earnings event — refresh only on
+   Sections 2, 3 rarely change on a single earnings event — refresh only on
    true strategic pivots, business-model changes, or moat-altering events.
 3. Append a `changelog.md` entry using the standard format below. The
    `What Changed` block must mirror the section refreshes performed (one
@@ -928,10 +937,11 @@ the thesis is faithfully brought current, not just price-stamped.
    - Note any management changes, M&A, regulatory actions, dividend or
      buyback authorizations during the window.
 5. **Apply the full Workflow B Step 3a section-refresh checklist** —
-   walk all 11 sections (2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15) and
-   refresh anything the accumulated window data invalidates. Section 11
-   must explicitly enumerate each earnings print in the window, in
-   chronological order, before settling on the current state.
+   walk all 13 sections per the v2.9 structure and refresh anything
+   the accumulated window data invalidates. Section 9 (Catalyst &
+   Sentiment Tracker) must explicitly enumerate each earnings print
+   in the window, in chronological order, before settling on the
+   current state.
 6. In `[TICKER].md` header, change `**Status**:` back to `**Status**: Active`
    and bump `**Last Updated**` to today.
 7. Append a changelog entry:
@@ -1482,3 +1492,39 @@ common across v2.6/v2.7 enrichments. v2.8 codifies the corrections.
 - **Pending application**: SHOP refactor under v2.8 happens in
   the same session. The other 31 tickers (32 minus SHOP) need
   the v2.6+v2.7+v2.8 retrofit batch.
+
+### v2.9 changelog (April 2026 — section consolidation: 15 → 13 sections)
+
+User review of the v2.8 SHOP output identified two structural
+duplications: Section 1 ("Why Does This Company Exist? + Pivotal
+Investment Question") was redundant with the Business Overview +
+Pivotal Investment Question header subsections, and Section 3
+("Geographic Revenue Mix") + Section 4 ("Revenue Mix & Business
+Model") covered the same conceptual ground (revenue composition).
+
+- **Section 1 retired.** Founding insight content lives in
+  Business Overview (header subsection); the Pivotal Investment
+  Question is its own header subsection between Moat verdict and
+  Key Stats Snapshot.
+- **Sections 3 + 4 merged into new Section 2 ("Revenue Mix &
+  Geographic Split")** covering revenue streams + business model
+  + geographic split + forward-looking shifts in one place.
+- **Sections renumbered**: old 5–15 → new 3–13. The 13-section
+  structure is the new canonical layout. Cross-references in all
+  Core Rules (#14, #17, #18, #20, #25, #26, #19) updated to the
+  new numbering. Workflow A Step 5 file structure and Workflow B
+  Step 3a section-refresh checklist updated.
+- **Cross-section references that changed** (most thesis-relevant):
+  - Bull/Bear/Base scenarios: was Section 13 → now Section 11
+  - PW EV: was Section 14 → now Section 12
+  - Recommendation & Bottom Line: was Section 15 → now Section 13
+  - Catalyst & Sentiment Tracker: was Section 11 → now Section 9
+  - BAIT Framework: was Section 12 → now Section 10
+  - Key Risks: was Section 8 → now Section 6
+  - Competitive Moat & Landscape: was Section 5 → now Section 3
+  - Management & Leadership: was Section 6 → now Section 4
+- **Application**: SHOP and DASH both refactored under v2.9 in
+  the same session as the schema bump. The 30 remaining tickers
+  need v2.6+v2.7+v2.8+v2.9 retrofit (the structural renumbering
+  is the most disruptive piece — recommend one-pass per ticker
+  applying all four schema versions together).

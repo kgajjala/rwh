@@ -4,6 +4,35 @@
 
 ---
 
+## [2026-04-25] — v2.9 Structural Consolidation (15 → 13 sections)
+
+**Trigger**: User feedback after v2.8 SHOP review identified two structural duplications: Section 1 ("Why Does This Company Exist? + Pivotal Investment Question") was redundant with the Business Overview + Pivotal Investment Question header subsections, and Section 3 ("Geographic Revenue Mix") + Section 4 ("Revenue Mix & Business Model") covered the same conceptual ground.
+
+### What Changed
+- **Schema header bumped to v2.9.**
+- **Section 1 (Why Does This Company Exist? + Pivotal Investment Question)**: REMOVED. Founding insight content now lives in Business Overview header subsection (where it already was); Pivotal Investment Question is its own header subsection.
+- **Sections 3 + 4 merged into new Section 2 ("Revenue Mix & Geographic Split")** — single section covering revenue streams + business model + geographic split + forward-looking shifts. New Section 2 leads with revenue streams table (with gross margins per stream) + Q4 2025 unit-economics detail + new Agentic Plan wedge, then geographic split table (with YoY growth column added) + forward trajectory paragraph.
+- **Sections renumbered**: old 5–15 → new 3–13.
+  - Section 5 (Competitive Moat & Landscape) → **Section 3**
+  - Section 6 (Management & Leadership) → Section 4
+  - Section 7 (Strategic Growth Initiatives) → Section 5
+  - Section 8 (Key Risks) → Section 6
+  - Section 9 (Industry-Specific Macro) → Section 7
+  - Section 10 (Valuation) → Section 8
+  - Section 11 (Catalyst & Sentiment Tracker) → **Section 9**
+  - Section 12 (BAIT Framework) → **Section 10**
+  - Section 13 (Bull/Bear/Base) → **Section 11**
+  - Section 14 (PW EV) → **Section 12**
+  - Section 15 (Recommendation & Bottom Line) → **Section 13**
+- **Cross-references updated**: "per Section 7" → "per Section 5" for Strategic Growth Initiatives reference in Section 1.
+
+### Thesis Status
+- **Overall**: Unchanged. Pure structural consolidation; no thesis revision. PW EV $212, ~10:1 R/R, Triple BAIT, Moderate-High conviction, Initiate / Add-Hold all preserved.
+
+**Next review trigger**: 📅 Q1 2026 earnings (~May 2026). First quarter with Agentic Storefronts default-on.
+
+---
+
 ## [2026-04-25] — v2.8 Refactor (Synthesis discipline + page output quality)
 
 **Trigger**: User review of v2.7 SHOP output surfaced 7 quality issues (across micro and macro feedback). Codified into CLAUDE.md v2.8 with 6 new Core Rules; SHOP refactored as the test application.

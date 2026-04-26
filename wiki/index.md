@@ -23,7 +23,7 @@ Active / Paused status governs weekly cron coverage (Core Rule #15).
 | [BRK.B](tickers/BRK.B/BRK.B.md) | Active | Berkshire Hathaway | Wide | Medium-High | 2026-04-25 | v2.5 ingest — Triple BAIT (B+I-Strong); Initiate (small/scaled) / Hold-Add; Abel succession discount |
 | [CELH](tickers/CELH/CELH.md) | Active | Celsius Holdings | Narrow | Medium | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate small / Hold-Add |
 | [CPNG](tickers/CPNG/CPNG.md) | Active | Coupang | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT (B+A-Strong); Initiate / Add modestly |
-| [DASH](tickers/DASH/DASH.md) | Active | DoorDash | Narrow | Medium | 2026-04-25 | v2.6 enrichment — 5-letter arc + 10-K MD&A confirms thesis; STRENGTHENED; Watch / Hold (Add <$155) |
+| [DASH](tickers/DASH/DASH.md) | Active | DoorDash | Narrow | Medium | 2026-04-25 | v2.9 13-section refactor + competitive landscape (DASH 60-67% US, 3× Uber Eats; international Wolt+Deliveroo footprint); Wolt-precedent integration de-risks Deliveroo; Watch / Hold (Add <$155) |
 | [DELL](tickers/DELL/DELL.md) | Active | Dell Technologies | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch (consensus < spot); insider selling |
 | [EBAY](tickers/EBAY/EBAY.md) | Active | eBay | Narrow | Medium | 2026-04-24 | v2.4 ingest — Watch / selective Initiate / Hold |
 | [FIG](tickers/FIG/FIG.md) | Active | Figma | Narrow-Emerging Wide | Medium | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate (small, contrarian) / Hold-Add |
@@ -43,7 +43,7 @@ Active / Paused status governs weekly cron coverage (Core Rule #15).
 | [RKT](tickers/RKT/RKT.md) | Active | Rocket Companies | Narrow-Emerging Wide | Medium | 2026-04-24 | v2.1 — Double BAIT (B+A); Initiate Spec. / Hold-Add; Q1 print Apr 30 |
 | [SBUX](tickers/SBUX/SBUX.md) | Active | Starbucks | Wide | Medium | 2026-04-24 | v2.4 ingest — Niccol turnaround mid-stride; Watch / Hold pre-Apr-28 print |
 | [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Narrow-Wide | High | 2026-04-24 | **v2.1 + Q1 2026 beat** — STRENGTHENED; Triple BAIT (B+A+I-Strong); Initiate / Add (post-beat 52-wk low) |
-| [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide & Widening | High | 2026-04-25 | v2.8 refactor — competitive landscape (Shopify 30% US, 3× Wix global) + materiality-filtered risks; first-ever $2B buyback signal; Initiate / Add-Hold |
+| [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide & Widening | High | 2026-04-25 | v2.9 13-section refactor — Section 1 retired, Sections 3+4 merged; competitive landscape (Shopify 30% US, 3× Wix global); first-ever $2B buyback; Initiate / Add-Hold |
 | [SN](tickers/SN/SN.md) | Active | SharkNinja | Narrow | Medium-High | 2026-04-24 | v2.4 ingest — Initiate; FY26 +10–11% sales guide |
 | [TREX](tickers/TREX/TREX.md) | Active | Trex Company | Narrow | Medium | 2026-04-24 | v2.4 ingest — Initiate / Hold; housing-cyclical trough + buyback |
 | [TSLA](tickers/TSLA/TSLA.md) | Active | Tesla | Narrow-Wide | Medium | 2026-04-24 | v2.4 ingest — Hold / Watch; coin-flip risk-reward; Cybercab launched Apr 24 |

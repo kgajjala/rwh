@@ -1,6 +1,6 @@
 # SHOP — Shopify Inc.
 
-> **Schema**: v2.8
+> **Schema**: v2.9
 > **Last Updated**: 2026-04-25
 > **Status**: Active
 > **Live Price Verified**: **$125.83** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/SHOP))
@@ -87,19 +87,7 @@ The market priced the *disruption* scenario through Q4 2025/Q1 2026 (drove the s
 
 ---
 
-## Section 1 — Why Does This Company Exist? + Pivotal Investment Question
-
-**Founding insight (Tobias Lütke, 2004–2006)**: There was no adequate internet platform for an entrepreneur to sell snowboards online. So Lütke built one. That store became Shopify. The mission has been consistent for two decades: provide essential internet infrastructure for retail businesses of any size, lowering the barrier to entrepreneurship.
-
-**Today**: World's largest independent e-commerce platform. Millions of merchants in 175+ countries. $378B GMV in 2025. 14%+ U.S. e-commerce share. Platform-of-platforms spanning online stores, POS, payments, shipping, capital, lending, B2B wholesale, and AI commerce infrastructure.
-
-**In Buffett terms**: Shopify is the toll booth on entrepreneurial commerce. Subscription fee + percentage of every transaction. No inventory, no warehouses, no retail risk.
-
-**Pivotal question**: Does AI disrupt or amplify the platform? At $125.83 (recovered from $88, still 31% off highs), the market is pricing *partial* disruption — the cleanest read is that primary data (UCP, OpenAI retreat, AI-order growth) increasingly supports the amplification thesis, but the re-rating is incomplete.
-
----
-
-## Section 2 — Annual Financial Metrics
+## Section 1 — Annual Financial Metrics
 
 ### Revenue, GMV & Attach Rate
 
@@ -170,43 +158,43 @@ Pulled directly from the [Shopify FY2024 10-K (SEC HTML)](https://www.sec.gov/Ar
 **What this changes vs. aggregator-only data**:
 - **The 5-year segment evolution shows Merchant Solutions accelerating** (FY2021 +26% → FY2024 +25% → FY2025 ~+30%) while Subscription Solutions also accelerated (FY2022 +11% → FY2025 ~+25%). Both lines accelerating simultaneously is rare — most platform companies see one line lift the other. This is the strongest signal that the "TCP/IP of commerce" narrative is real, not narrative.
 - **Plus MRR % of total moving from ~12% in 2021 to 34% in 2025** is the cleanest disclosure of the enterprise migration secular trend. At this rate, Plus could reach 50% of total by 2027 — fundamentally changing the SHOP investor framework from "SMB SaaS at scale" to "enterprise commerce platform with SMB tail."
-- **EMEA growing from ~25% to 31% of revenue over 4 years** is a structural growth trajectory the consensus narrative under-weights. Europe GMV +49% in 2025 specifically, per Section 7.
+- **EMEA growing from ~25% to 31% of revenue over 4 years** is a structural growth trajectory the consensus narrative under-weights. Europe GMV +49% in 2025 specifically, per Section 5.
 
 ---
 
-## Section 3 — Geographic Revenue Mix
+## Section 2 — Revenue Mix & Geographic Split
 
-| Region | FY2025 Share |
-|--------|-------------|
-| United States | ~63% |
-| EMEA | ~21% |
-| APAC | ~10% |
-| Canada | ~5% |
-| LatAm | ~1% |
-
-International revenue grew +36% in FY2025 (vs. +33% FY2024 — accelerating). Nearly half of merchant base is outside North America. Europe GMV +49% YoY. Payments launched in 16 new regions in 2025. Forward expectation: international gradually compresses U.S. share toward ~55–58% by 2028.
-
----
-
-## Section 4 — Revenue Mix & Business Model
+### Revenue streams (FY2025)
 
 | Stream | FY2025 ($B) | % of Revenue | Gross Margin | Key Driver |
 |--------|------------|-------------|--------------|------------|
-| Merchant Solutions | ~$8.4 | ~73% | 36.8% | Payments (+38% GPV), shipping, capital, Shop Campaigns (2× revenue) |
+| Merchant Solutions | ~$8.4 | ~73% | 36.8% | Payments (+38% GPV), shipping, capital, Shop Campaigns (revenue 2×) |
 | Subscription Solutions | ~$3.2 | ~27% | 81% | SaaS plans, Plus upgrades (34% of MRR), enterprise wins |
 | **Total** | **$11.56** | **100%** | **48.2% blended** | |
 
-**Q4 2025 details**:
-- Shopify Payments GPV $84B (+38% YoY)
-- Payments penetration 68% of GMV (up from 64%)
-- Shop Pay GMV growth +62% YoY
-- MRR ~$210M, +15% YoY; Plus MRR is 34% of total
+**Q4 2025 unit-economics detail**:
+- Shopify Payments GPV $84B (+38% YoY); penetration 68% of GMV (up from 64%)
+- Shop Pay GMV growth +62% YoY (consumer-side network effect compounding)
+- MRR ~$210M (+15% YoY); Plus MRR is 34% of total
+- Shop Campaigns advertising revenue doubled in 2025
 
-**New 2026 wedge — Agentic Plan**: Shopify is opening Catalog to non-Shopify brands via a standalone "Agentic Plan." Brands can list products in Catalog and access AI commerce channels (ChatGPT, Gemini, Copilot) without migrating their full store. Expands addressable merchant base materially; not yet in any analyst model.
+**New 2026 wedge — Agentic Plan**: Shopify is opening Catalog to non-Shopify brands via a standalone "Agentic Plan." Brands can list products in Catalog and access AI commerce channels (ChatGPT, Gemini, Copilot) without migrating their full storefront. Expands addressable merchant base materially; not yet in any analyst model.
+
+### Geographic split (FY2025)
+
+| Region | FY2025 Share | YoY Growth | Notes |
+|--------|-------------|-----------|-------|
+| United States | ~63% | n/d | 30% US e-commerce platform share (Statista) |
+| EMEA | ~21% | +49% Europe GMV | UK is largest European market; Payments launched in 16 new regions in 2025 |
+| APAC | ~10% | +18.5% projected | $699M annual revenue; clearest international expansion lever |
+| Canada | ~5% | n/d | Home market; mature |
+| LatAm | ~1% | n/d | Brazil leads; localized payments + Portuguese support |
+
+**Forward trajectory**: International revenue grew +36% in FY2025 (vs. +33% FY2024 — *accelerating*). Nearly half of merchant base is outside North America. Forward expectation: international gradually compresses U.S. share from ~63% toward ~55–58% by 2028 as APAC + EMEA outgrow North America.
 
 ---
 
-## Section 5 — Competitive Moat & Landscape
+## Section 3 — Competitive Moat & Landscape
 
 **Rating: Wide and Widening** — switching costs + network effects + first-mover position as the AI-commerce standard-setter.
 
@@ -256,7 +244,7 @@ International revenue grew +36% in FY2025 (vs. +33% FY2024 — accelerating). Ne
 
 ---
 
-## Section 6 — Management & Leadership
+## Section 4 — Management & Leadership
 
 **Tobias Lütke (Founder/CEO)**: Founder-owner. Controls 40% voting via dual-class + Founder Share. Pre-arranged 10b5-1 plan to sell ~2M Class A shares through Dec 2026 (routine; consistent with prior plans). Retains 77.75M Class B shares. Long-duration thinker; has refused to abandon platform-purity for short-term margin.
 
@@ -316,7 +304,7 @@ This subsection synthesizes Tobi Lütke's primary-source CEO communication. Shop
 
 ---
 
-## Section 7 — Strategic Growth Initiatives
+## Section 5 — Strategic Growth Initiatives
 
 1. **Universal Commerce Protocol (UCP)**: Open standard for AI agent commerce. Co-developed with Google; endorsed by Visa, Mastercard, Stripe, Adyen, AmEx, Target, Walmart, Etsy, Wayfair, 20+ others. Supports REST, MCP, A2A, AP2 protocols. The "TCP/IP of commerce."
 2. **Agentic Storefronts**: Activated by default for ALL Shopify stores late March 2026 across ChatGPT, Google AI Mode, Gemini, Copilot. AI traffic up 7×, AI-attributed orders up 11–15× since Jan 2025.
@@ -328,7 +316,7 @@ This subsection synthesizes Tobi Lütke's primary-source CEO communication. Shop
 
 ---
 
-## Section 8 — Key Risks
+## Section 6 — Key Risks
 
 Filtered for risks that are Shopify-specific, materially differentiated from peers, not yet priced into the 84× multiple, OR tied to a specific thesis-break trigger. Universal corporate boilerplate (generic earnings volatility, generic payments regulation, generic cyber, third-party reliance, founder dependency) is excluded as un-actionable.
 
@@ -350,7 +338,7 @@ The single material insight from reading 5 years of 10-K Item 1A diffs (FY2020 �
 
 ---
 
-## Section 9 — Industry-Specific Macro Analysis
+## Section 7 — Industry-Specific Macro Analysis
 
 **E-Commerce Landscape (2025–2026)**:
 
@@ -367,7 +355,7 @@ The single material insight from reading 5 years of 10-K Item 1A diffs (FY2020 �
 
 ---
 
-## Section 10 — Valuation & Comparable Analysis
+## Section 8 — Valuation & Comparable Analysis
 
 ### Current Multiples (April 24, 2026, $125.83 / ~$163B market cap)
 
@@ -401,7 +389,7 @@ Consensus 2027 EPS ~$2.40. At 80× forward P/E → ~$192. To reach $252 requires
 
 ---
 
-## Section 11 — Catalyst & Sentiment Tracker
+## Section 9 — Catalyst & Sentiment Tracker
 
 ### Live Price & Positioning
 
@@ -461,7 +449,7 @@ The stock fell from $182 (early 2025) to $88 (recent low) — a 52% drawdown dri
 
 ---
 
-## Section 12 — BAIT Framework
+## Section 10 — BAIT Framework
 
 ### B — Behavioral: **Moderate** (was Strong at $117–121 trough)
 
@@ -499,7 +487,7 @@ Underappreciated primary-source data:
 
 ---
 
-## Section 13 — Bull / Bear / Base Cases
+## Section 11 — Bull / Bear / Base Cases
 
 *All scenarios are 3-year (2028E EPS basis) terminal prices. Probabilities sum to 100%.*
 
@@ -536,7 +524,7 @@ Underappreciated primary-source data:
 
 ---
 
-## Section 14 — Probability-Weighted Expected Value
+## Section 12 — Probability-Weighted Expected Value
 
 | Scenario | Price | Probability | Weighted Contribution |
 |----------|-------|-------------|----------------------|
@@ -554,7 +542,7 @@ Underappreciated primary-source data:
 
 ---
 
-## Section 15 — Recommendation & Bottom Line
+## Section 13 — Recommendation & Bottom Line
 
 **Thesis in one sentence**: Shopify is the dominant independent commerce-infrastructure platform with widening switching costs, accelerating revenue growth (+30% at $11.6B scale), $2B FCF, the first-ever buyback, and a first-mover position in agentic AI commerce that the market has *partially* re-rated from disruption-fear pricing — recovery from $88 to $126 leaves room for another 50%+ if Q1 2026 confirms low-30s% growth.
 

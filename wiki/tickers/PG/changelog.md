@@ -4,6 +4,59 @@
 
 ---
 
+## [2026-04-26] — v2.9 Retrofit + Q3 FY2026 Earnings Integration
+
+**Trigger**: Schema migration from v2.5 (15-section structure) to v2.9 (13-section structure) + integration of Q3 FY2026 earnings results (released April 24, 2026 pre-market — beat on revenue and GAAP EPS; first volume growth in over a year).
+
+**Sources reviewed**:
+- [P&G Q3 FY2026 Press Release](https://us.pg.com/newsroom/news-releases/PG-Announces-Fiscal-Year-2026-Third-Quarter-Results/) — GAAP EPS $1.63 vs. $1.56 est; organic +3%; net sales $21.2B (+7%)
+- [P&G FY2025 Annual Report — Introduction](https://us.pg.com/annualreport2025/introduction-and-fy-results/) — Moeller's final CEO letter; FY2025 organic +2%, core EPS +4%
+- [stockanalysis.com — PG financials](https://stockanalysis.com/stocks/pg/financials/) — 5-year annual + 8-quarter data
+- [stockanalysis.com — PG forecast](https://stockanalysis.com/stocks/pg/forecast/) — analyst consensus, rating actions
+- [Fintel — PG short interest + insider](https://fintel.io/ss/us/pg) — 1.19% short float; 14 insider sells (0 buys) in 6 months
+- [Yahoo Finance — PG quote](https://finance.yahoo.com/quote/PG) — $148.18 April 24, 2026 close
+- raw/PG/press-releases/2026-04-Q3-results.txt (local)
+- raw/PG/shareholder-letters/2025_letter.txt (local)
+
+### What Changed
+
+- **Schema**: v2.5 → v2.9; 15 sections → 13 sections. Section 1 (Why Exist) retired; Sections 3+4 merged into new Section 2 (Revenue Mix & Geographic Split); sections renumbered throughout.
+- **Header**: Updated to v2.9, Last Updated 2026-04-26; removed stale Q3 pre-earnings notice.
+- **Summary**: Refreshed for post-Q3 thesis state; updated moat verdict, recommendation verbs, BAIT verdict, next catalyst.
+- **Business Overview**: Added Q3 FY2026 context (Jejurikar's second print, first volume growth in >1 year).
+- **Pivotal Investment Question**: Updated to post-Q3 framing — question now shifts from binary "will volume return?" to "can Jejurikar sustain volume recovery into Q4/FY2027?"
+- **Section 1 (Annual Financial Metrics)**: Added 8-quarter trend table; 5-year annual table with gross/operating margins; time-in-columns format per v2.9.
+- **Section 2 (Revenue Mix & Geographic Split)**: New section merging old §3+§4; added Q3 FY2026 segment data table; geographic split; forward mix shifts.
+- **Section 3 (Competitive Moat & Landscape)**: Added mandatory Competitive Landscape subsection (Rule #24) with 6 named peers, market share, P/E, and how-PG-differs analysis; removed standalone Moat Assessment block.
+- **Section 4 (Management & Leadership)**: Added Recent Management Commentary subsection (Rule #19) with FY2025 Moeller letter verbatim quotes + 5-year strategic arc synthesis; added Q3 Jejurikar quotes; added Moeller $28M insider sales disclosure.
+- **Section 5 (Strategic Growth Initiatives)**: From old §7; updated with Q3 Jejurikar commentary.
+- **Section 6 (Key Risks)**: Applied Rule #25 materiality filter; removed generic boilerplate; added gross-margin compression as standalone risk ("not fully priced"); risk factor evolution as synthesis paragraph (Rule #21) replacing table.
+- **Section 8 (Valuation)**: Updated multiples with TTM data; refreshed peer P/E table; downside/upside scenario valuations.
+- **Section 9 (Catalyst & Sentiment)**: Fully refreshed with Q3 FY2026 delivered (✅), post-Q3 analyst target cuts, insider activity disclosure; upcoming catalysts updated to Q4 FY2026.
+- **Section 10 (BAIT)**: Updated post-Q3; B and I both moved from Weak-Moderate to Moderate; overall signal upgraded from "Weak" to "Low-Moderate."
+- **Section 11 (Bull/Bear/Base)**: Probabilities updated post-Q3: Bull 25%→30%, Bear 30%→20%; price ranges maintained.
+- **Section 12 (PW EV)**: Recomputed: PW EV ~$159 vs. $148.18 = +7.3% price + 3% dividend = ~10.3% total return; R/R 1.4:1.
+- **Section 13 (Recommendation)**: Updated to post-Q3 recommendation; resolved triggers marked ✅ DE-RISKED; updated thesis-break triggers.
+
+### Thesis Status
+- **Overall**: 🟡 **Cautiously Strengthened** — Q3 FY2026 volume growth is the first genuine positive signal in 6 quarters. Not yet enough for a conviction buy, but structural-deterioration bear case is weaker.
+- **BAIT delta**: B Moderate → Moderate-Strong; I Weak-Moderate → Moderate; A Weak-Moderate → Moderate; T unchanged Weak. Overall: Weak → Low-Moderate
+- **Price target delta**: Bull $170–185 (25%) → $175–185 (30%) | Base $155–165 (50%) unchanged | Bear $120–130 (30%) → (20%)
+- **PW EV delta**: ~$154 → ~$159 (+$5 on reduced bear probability)
+- **R/R**: ~1.3:1 → ~1.4:1
+
+### Recommendation
+- **For a non-holder**: 🟡 Watch / Initiate small at $140–$148 — first confirmation print received; entry zone attractive near 52-wk lows; Q4 FY2026 is the next conviction-building event
+- **For a current holder**: 🟡 Hold — volume recovery supports thesis floor; add on dips below $145; trim at $170–180
+
+**Attractive entry zone**: $135–$148
+**Trim zone**: $170–$180
+**Exit / avoid zone**: >$185
+
+**Next review trigger**: Q4 FY2026 earnings — late July 2026
+
+---
+
 ## [2026-04-24] — v2.1 Migration (Workflow A) — Single-Page Consolidation + Pre-Earnings Refresh
 
 **Trigger**: Schema migration from v1 (4-file structure: overview/thesis/financials/changelog) to v2.1 (single consolidated `PG.md` + `changelog.md`). Live price refreshed and recommendation framework updated to highlight the **April 24, 2026 (Q3 FY2026) earnings print — TODAY (pre-market)** as the dominant binary catalyst.

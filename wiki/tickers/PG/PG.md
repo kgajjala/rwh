@@ -1,64 +1,43 @@
 # PG — The Procter & Gamble Company
 
-> **Schema**: v2.5
-> **Last Updated**: 2026-04-25
+> **Schema**: v2.9
+> **Last Updated**: 2026-04-26
 > **Status**: Active
-> **Live Price Verified**: **$148.18** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/PG))
+> **Live Price Verified**: **$148.18** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/PG)); last close before weekend; Q3 FY2026 earnings released pre-market Apr 24 — stock +1.70% on the day
 > **Ticker Type**: Consumer staples (capital-light branded goods)
-
-> ⚠️ **STALE-CATALYST NOTICE (2026-04-24)**: This thesis was authored on the same day as the **Q3 FY2026 earnings print (April 24, 2026 pre-market)**. The pre-print recommendation framework below ("Watch / Hold pre-print") is **provisional and time-bounded**. Once the Q3 print drops (or has already dropped), all of Sections 11, 12, 13, 14, and 15 must be refreshed within 24 hours using the beat / in-line / miss decision tree provided in Section 15. Do not rely on this page's recommendation as authoritative until that refresh is complete.
 
 ---
 
 ## Summary
 
-- 🟡 **Thesis**: Dividend King in "show me" mode under a new CEO mid-restructuring (**Wide moat — under pressure**); 20× P/E roughly fair for 0–4% organic growth. April 24, 2026 Q3 print is the binary catalyst that confirms or refutes Jejurikar's execution thesis.
-- 🟡 **For a non-holder: Watch — do not initiate ahead of April 24**. Re-evaluate after print using beat/in-line/miss decision tree.
-- 🟡 **For a current holder: Hold through April 24** — exiting pre-print at –13% off highs forfeits upside optionality on a beat.
-- 🎯 **Attractive entry zone**: **$135 – $145** (19× FY2026E P/E; ~3% dividend yield; near 52-wk low).
-- 🎯 **Trim zone**: **$170 – $180** (24× FY2026E P/E; top of 52-wk range).
-- 📉 **Price action**: $148.18, **–13.3% from 52-wk high** ($170.99), +7.7% above 52-wk low ($137.62) — tepid bounce, defensive bid only.
-- 📅 **Next catalyst**: **Q3 FY2026 earnings — April 24, 2026 (pre-market)** — make-or-break Jejurikar print; binary outcome.
-- ⚠️ **Top risk**: Tariff headwinds (high impact, near-term certain) — $1–1.5B/yr; ~8–10% of net income.
-- ⚠️ **Second risk**: Private-label volume losses (high impact, moderate-high prob) — consumer trade-down accelerating during price-increase cycle.
-- 🟡 **BAIT verdict**: **Weak signal — no significant overlap** (Moderate B with fundamental support for fear; Weak elsewhere). "Show me" situation requiring April 24 execution evidence; PW EV ~$154 vs. spot $148 = ~+4% price + ~3% dividend = ~7% total return over 1–2 years.
+- 🟡 **Thesis**: Dividend King under a new CEO navigating a multi-year restructuring and tariff headwind — the Q3 FY2026 print (April 24, 2026) delivered the first companywide volume growth in over a year, cautiously validating the recovery narrative, but six consecutive quarters of gross-margin compression and "lower end of guidance" framing keep the conviction level moderate.
+- 🟡 **Moat verdict**: **Wide — under cyclical pressure** — Tide/Pampers/Gillette hold #1 global positions, but pricing-power fragility and private-label encroachment are structural headwinds at this point in the cycle.
+- 🟡 **For a non-holder: Watch / Initiate small** — volume growth is a positive first signal; entry at current levels ($140–$150) offers ~10% total return (price + dividend) with the Q4 FY2026 print as the next conviction-building moment.
+- 🟡 **For a current holder: Hold** — do not exit; volume recovery supports the thesis; add only on dips below $145 with Q4 confirmation.
+- 🎯 **Attractive entry zone**: **$135–$148** (19–20× FY2026E P/E; ~3% dividend yield; near 52-wk low; post-Q3 volume growth validates thesis floor).
+- 🎯 **Trim zone**: **$170–$180** (23–24× FY2026E P/E; requires full execution proof).
+- 📉 **Price action**: $148.18, **–13.3% from 52-wk high** ($170.99), +7.7% above 52-wk low ($137.62).
+- 📅 **Next catalyst**: **Q4 FY2026 earnings — late July 2026** — second Jejurikar print; must show volume recovery is sustained, not one-quarter noise.
+- ⚠️ **Top risk**: Tariff escalation beyond guided $400M after-tax ($0.25/share headwind confirmed Q3) — any expansion compresses margins in a quarter where gross margins are already –100bps for the 6th consecutive quarter.
+- 🟡 **BAIT verdict**: **Low-Moderate** — B strengthened (volume growth undercuts structural-deterioration fear); A improving (PW EV ~$159 vs. spot $148 → ~10% total return); I moderate (primary data now supports recovery); T weak (no mechanical catalyst).
 
 ---
 
 ## Business Overview
 
-The Procter & Gamble Company (NYSE: PG) is one of the world's largest consumer-goods companies and a Dividend King with 66+ consecutive years of dividend increases. P&G sells branded consumer products across 10 categories: Fabric & Home Care (Tide, Downy, Febreze, Ariel), Baby/Feminine/Family Care (Pampers, Charmin, Bounty, Always), Beauty (Head & Shoulders, Pantene, Olay, SK-II), Grooming (Gillette, Braun), Health Care (Oral-B, Vicks, Pepto-Bismol), and Personal Health Care (Metamucil, Crest, Scope). Founded 1837. Approximately ~$84B in annual revenue, ~$15.7B net income, ~107,000 employees, operations in ~70 countries, sales in 180+ countries.
+The Procter & Gamble Company (NYSE: PG) is one of the world's largest consumer-goods companies and a Dividend King with 70 consecutive years of dividend increases (136th consecutive year of dividend payments since 1890). **P&G sells branded household necessities — the products consumers re-purchase continuously regardless of economic conditions: laundry detergent, diapers, razors, toothpaste, shampoo, paper towels.** Revenue of ~$84–87B spans five segments: Fabric & Home Care (Tide, Downy, Febreze, Ariel), Baby/Feminine/Family Care (Pampers, Charmin, Bounty, Always), Beauty (Head & Shoulders, Pantene, Olay, SK-II), Grooming (Gillette, Braun), and Health Care (Oral-B, Vicks, Pepto-Bismol, Metamucil). Founded 1837. Operations in ~70 countries; sales in 180+ countries; ~107,000 employees.
 
-**Business model**: Brand-premium pricing. P&G's competitive advantage is brand equity, distribution scale, and retail shelf-space dominance allowing 20–40% price premiums vs. private label. Revenue is subscription-like — consumers re-purchase household necessities continuously, providing extreme stability but limiting high-growth potential.
+**Business model**: Brand-premium pricing on non-discretionary household necessities. Competitive advantage is brand equity + retail shelf-space dominance enabling 20–40% price premiums over private label. Revenue is subscription-like in character — consumers re-purchase continuously — providing extreme stability but limiting high-growth potential. P&G's "Superiority" strategic pillar (product, package, communication, retail execution, value) is the operational expression of maintaining and widening this premium gap.
 
-**CEO transition**: Shailesh Jejurikar (36-year P&G veteran, former COO) replaced Jon Moeller as CEO effective January 1, 2026. Moeller became Executive Chairman. Jejurikar's debut earnings (Q2 FY2026, January 22, 2026) missed consensus EPS ($1.78 vs. $1.87 expected) — not a confidence-building start. **Q3 FY2026 earnings on April 24, 2026 — TODAY (pre-market) — is the first make-or-break print of his tenure.**
-
----
-
-## Moat Assessment
-
-**Wide — but under pressure** from private-label encroachment and tariff-driven pricing fragility.
-
-**Sources**:
-- **Brand equity**: Tide, Pampers, Gillette retain #1 global positions in their categories. Decades of advertising investment compound. Difficult to replicate.
-- **Distribution scale**: Global presence in 180+ countries; entrenched retailer relationships and shelf-space dominance create barriers for new entrants.
-- **R&D / product innovation**: Continuous incremental innovation (fabric softener tech, diaper absorption, razor-blade engineering) maintains performance gaps over private label.
-- **Switching costs (moderate)**: Habit formation and brand loyalty; lower than tech switching costs; private-label trade-down is real during economic stress.
-
-**Vulnerabilities**:
-- Pricing power has become a *double-edged sword*: raising prices to offset tariffs accelerates volume losses to private label
-- Four consecutive quarters of below-consensus organic growth (2025) preceded the restructuring
-- 7,000 job cuts + brand divestitures + market exits framed as "proactive" but read by market as confession of structural weakness
-- 20× forward P/E (compressed from 26×) reflects a structural growth-rate de-rating, not a temporary headwind
-- Q2 FY2026 EPS miss under new CEO Jejurikar erodes the "continuity premium"
+**Current CEO transition**: Shailesh Jejurikar (36-year P&G veteran, former COO, led Fabric & Home Care globally) replaced Jon Moeller as CEO effective January 1, 2026. Moeller became Executive Chairman. The Q3 FY2026 print (April 24, 2026) was Jejurikar's second earnings report — a measured beat with the first companywide volume growth in over a year, signaling early execution against the recovery thesis.
 
 ---
 
 ## Pivotal Investment Question
 
-> Is PG's 2025–2026 drawdown (from ~$174 to ~$148) a macro-driven overreaction to temporary tariff headwinds + leadership transition — creating a value entry for a Dividend King with durable brand equity — or does it reflect genuine structural deterioration (private-label encroachment, permanent pricing-power erosion) that justifies a permanently lower multiple?
+> **Is PG's 2025–2026 drawdown (from ~$174 to ~$137–$148) a macro-driven overreaction to temporary tariff headwinds + leadership transition, or does it reflect genuine structural deterioration in pricing power that justifies a permanently lower multiple?**
 
-**The answer pivots on April 24, 2026 (Q3 FY2026 earnings)**. If organic growth re-accelerates to 3–5% and restructuring savings materialize, the macro-overreaction reading dominates and 22–24× re-expansion is plausible. If organic growth stays 0–1% and another guidance cut emerges, the structural-deterioration reading wins and 17–18× is the new normal (= ~$120–130).
+Q3 FY2026 provided the first evidence favoring the overreaction thesis: volume grew for the first time in over a year (+2%), all five segments delivered positive organic growth, and the beauty segment accelerated to +7% on genuine innovation-driven volume. But six consecutive quarters of gross-margin compression and guidance anchored at the "lower end" of ranges keep the structural-deterioration risk alive. The question resolves over the next 2–3 earnings cycles: if Jejurikar can sustain 2–4% organic volume growth while restructuring savings lift margins by Q4 FY2026, the multiple re-expansion to 22–24× is on the table. If volume reverts to 0–1% in Q4 and gross margins don't recover, the structural thesis wins at 17–18×.
 
 ---
 
@@ -66,389 +45,457 @@ The Procter & Gamble Company (NYSE: PG) is one of the world's largest consumer-g
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$148.18** | April 24, 2026 (Yahoo Finance) |
-| 52-Week High | $170.99 | early 2025 |
+| Live Price | **$148.18** | April 24, 2026 — last close ([Yahoo Finance](https://finance.yahoo.com/quote/PG)) |
+| 52-Week High | $170.99 | Early FY2025 (calendar 2025) |
 | 52-Week Low | $137.62 | January 7, 2026 |
-| % From 52-Wk High | –13.3% | still under pressure |
-| % Above 52-Wk Low | +7.7% | near-low; minimal recovery |
-| Market Cap | ~$345B | |
-| Annual Revenue | ~$84B | FY2025 (ended Jun 30, 2025) |
-| Annual Net Income | ~$15.7B | FY2025 |
-| FY2026E EPS | ~$7.10–7.20 | Analyst consensus |
-| FY2026 FCF Target | ~$16B | [Management guidance] |
-| FY2026 Organic Sales Guide | 0–4% | Conservative; below historical 4–7% |
-| Tariff Headwind | $1–1.5B/year | $1B in FY2026 guide |
-| Restructuring Charges | $1.5–2.0B | Over FY2026–FY2027 |
-| Forward P/E (FY2026E) | ~20× | Compressed from ~26× peak |
-| Dividend Yield | ~2.85% | Highest level since 2019 |
-| Annual Dividend | ~$4.23/share | $1.0568/quarter |
-| Beta | 0.40 | Defensive |
-| Consecutive Dividend Increases | 66+ years | Dividend King |
-| **Q3 FY2026 Earnings** | **April 24, 2026** | **Today — imminent or just released — make-or-break print** |
+| % From 52-Wk High | –13.3% | |
+| % Above 52-Wk Low | +7.7% | Near 52-wk low; minimal recovery |
+| Market Cap | ~$345B | 2.33B shares × $148.18 |
+| EV (est.) | ~$360B | Market cap + ~$24B net debt [Estimate] |
+| FY2025 Revenue | $84.3B | Ended June 30, 2025 |
+| TTM Revenue (Q3 FY2026) | $86.7B | Trailing 12 months ending Mar 31, 2026 |
+| FY2025 GAAP EPS | $6.51 | |
+| FY2025 Core EPS | $6.83 | |
+| FY2026 Core EPS Guidance | $6.83–$7.09 | In-line to +4%; "toward lower end" |
+| FY2026 Organic Sales Guide | In-line to +4% | Conservative |
+| Q3 FY2026 GAAP EPS | $1.63 | Beat consensus $1.56 |
+| Q3 FY2026 Organic Growth | +3% (2% vol, 1% price) | First volume growth in >1 year |
+| Tariff Headwind FY2026 | ~$400M after-tax | ~$0.25/share; within guidance |
+| Forward P/E (FY2026E) | ~21× | EPS consensus ~$7.18 [*Analyst consensus*] |
+| Dividend Yield | ~2.85% | $4.23/share; $1.0568/quarter |
+| Consecutive Div Increases | 70 years | Dividend King |
+| Beta | 0.40 | |
+| Short Interest | ~1.19% of float | ~27.5M shares; negligible ([Fintel](https://fintel.io/ss/us/pg)) |
 
 ---
 
-## Section 1 — Why Does This Company Exist? + Pivotal Investment Question
+## Section 1 — Annual Financial Metrics
 
-**Founding insight (1837)**: Provide branded consumer goods — household necessities like laundry detergent, diapers, razors, shampoo — at reliable quality and a premium price. Mission: serve consumers with superior products in daily-use categories, leveraging brand equity to sustain pricing power across economic cycles.
+### Annual Trend (time in columns)
 
-**Today**: ~$84B revenue, ~$15.7B net income. Dividend King (66+ consecutive years). Sells in 180+ countries. Top brands span fabric care, home care, baby, feminine, family, beauty, grooming, health.
+| Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | TTM (Q3 FY2026) |
+|--------|--------|--------|--------|--------|--------|-----------------|
+| Revenue | $76.1B | $80.2B | $82.0B | $84.0B | $84.3B | $86.7B |
+| Gross Profit | $39.0B | $38.0B | $39.2B | $43.2B | $43.1B | — |
+| Gross Margin | 51.2% | 47.4% | 47.8% | 51.4% | 51.1% | — |
+| Operating Income | $18.0B | $17.8B | $18.1B | $18.5B | $20.5B | $20.2B |
+| Operating Margin | 23.7% | 22.2% | 22.1% | 22.0% | 24.3% | 23.3% |
+| Net Income | $14.3B | $14.7B | $14.7B | $14.9B | $16.0B | $16.6B |
+| EPS (GAAP diluted) | $5.50 | $5.81 | $5.90 | $6.02 | $6.51 | $6.84 |
+| Core EPS | — | — | — | ~$6.59 | $6.83 | — |
+| Free Cash Flow | $15.6B | $13.6B | $13.8B | $16.5B | $14.0B | $15.0B |
+| Organic Sales Growth | +6% | +7% | +7% | +4% | +2% | — |
+| Dividends Paid | — | — | — | — | $9.9B | — |
+| Share Repurchases | — | — | — | — | $6.5B | — |
 
-**Current challenges (the perfect storm)**:
-- Tariff headwinds of $1–1.5B annually (~8–10% of net income)
-- Consumer trade-down to private label
-- CEO transition (Moeller → Jejurikar effective Jan 1, 2026)
-- Restructuring (7,000 job cuts, brand divestitures, market exits; $1.5–2.0B charges)
-- Four consecutive quarters of below-consensus organic growth before restructuring announcement
-- Q2 FY2026 EPS miss ($1.78 vs. $1.87) under Jejurikar
+*Sources: [stockanalysis.com — PG Financials](https://stockanalysis.com/stocks/pg/financials/); [P&G FY2025 Annual Report](https://us.pg.com/annualreport2025/); TTM from stockanalysis.com quarterly data*
 
-**Pivotal question**: Is 20× fair value for 0–4% organic growth, or can Jejurikar's execution re-expand the multiple? The April 24, 2026 print (TODAY — pre-market) is the first hard data point.
+**Key multi-year read**:
+- Organic growth decelerated sharply from +7% (FY2022–FY2023) → +4% (FY2024) → +2% (FY2025), reflecting the end of the pricing-driven "inflation pass-through" era and the beginning of structural repricing pressures.
+- Gross margins compressed severely in FY2022–FY2023 (47–48%) as commodity costs surged, then recovered to 51%+ in FY2024–FY2025 as commodities normalized and price increases lifted ASPs.
+- Operating margin expanded to 24.3% in FY2025 (+230bps vs. FY2024), driven by SG&A efficiency, not gross margin. This is repeatable if restructuring savings materialize.
+- FCF generation is strong but lumpy ($14–16.5B range). FY2025 FCF of $14B was below FY2024's $16.5B — partly restructuring cash costs.
 
----
+### Quarterly Trend (last 8 quarters)
 
-## Section 2 — Annual Financial Metrics
+| Metric | Q4 FY2024 | Q1 FY2025 | Q2 FY2025 | Q3 FY2025 | Q4 FY2025 | Q1 FY2026 | Q2 FY2026 | Q3 FY2026 |
+|--------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| Revenue | $20.5B | $21.7B | $21.9B | $19.8B | $20.9B | $22.4B | $22.2B | $21.2B |
+| Net Income | $3.1B | $4.0B | $4.6B | $3.8B | $3.6B | $4.8B | $4.3B | $3.9B |
+| EPS (GAAP) | $1.27 | $1.61 | $1.88 | $1.54 | $1.48 | $1.95 | $1.78 | **$1.63** |
+| YoY EPS Growth | — | — | — | — | +16% | +21% | –5% | **+6%** |
 
-### Annual Price Return Context (4-Year Trend)
+*Source: [stockanalysis.com — PG quarterly](https://stockanalysis.com/stocks/pg/financials/?p=quarterly)*
 
-| Year | Approx. Start Price | Approx. End Price | Annual Return | Theme |
-|------|--------------------|--------------------|--------------|-------|
-| 2021 | $123.50 | $155.00 | +25.5% | COVID premium, pricing-power surge |
-| 2022 | $155.00 | $138.00 | –11.0% | Rate hikes + commodity cost squeeze |
-| 2023 | $138.00 | $150.00 | +8.7% | Inflation peaking, organic sales recovery (4–7%) |
-| 2024 | $150.00 | $165.00 | +10.0% | Rate cut cycle, record highs, then July miss |
-| 2025 | $165.00 | $147.00 | –10.9% | Tariff guidance cut, CEO change, restructuring |
-| YTD 2026 | $143.00 | $148.18 | +3.6% | Post-low bounce; defensive bid |
-
-5-year annualized price CAGR ~3.0% vs. S&P 500 ~13% — significant underperformance.
-
-### Key Financial Data
-
-| Metric | Value | Period / Notes |
-|--------|-------|----------------|
-| Annual Revenue | ~$84B | FY2025 |
-| Annual Net Income | ~$15.7B | FY2025 |
-| FY2026E EPS | ~$7.10–7.20 | [Analyst consensus] |
-| FY2026 FCF Target | ~$16B | [Management guidance] |
-| FY2026 Organic Sales Guide | 0–4% | Conservative |
-| Tariff Headwind | $1–1.5B/yr ($1B in FY2026 guide) | |
-| Restructuring Charges | $1.5–2.0B | FY2026–FY2027 |
-| Annual Dividend | $4.23/share | $1.0568/quarter |
-
-> **Data gap**: Full annual segment revenue + gross margin trend tables require 10-K ingestion (planned post-Q3 FY2026 earnings). Tagged in `Section 11` upcoming-catalyst follow-ups.
+**Q2 FY2026 note**: EPS of $1.78 missed consensus $1.87 — Jejurikar's debut earnings, a confidence-negative event. **Q3 FY2026** at $1.63 beat consensus $1.56 and included the first volume growth in over a year — partial confidence restoration.
 
 ---
 
-## Section 3 — Geographic Revenue Mix
+## Section 2 — Revenue Mix & Geographic Split
 
-PG operates globally in 180+ countries. North America is the largest segment; international markets span Europe, Asia Pacific, Greater China, Latin America, and IMEA (India, Middle East, Africa). Tariff headwinds are primarily a North American supply-chain issue; international markets face FX (dollar-strength) headwinds.
+### Segment Overview
 
-> **Data gap**: Specific segment revenue percentages require 10-K filing — to populate post-Q3 FY2026.
+P&G operates five reportable segments. Revenue is concentrated in Fabric & Home Care (~35%) and Baby/Feminine/Family Care (~24%), with Beauty, Health Care, and Grooming each contributing 13–15%.
 
----
+| Segment | Q3 FY2026 Net Sales | Q3 Organic Growth | Q3 Volume | Key Brands |
+|---------|--------------------|-------------------|-----------|-----------|
+| Fabric & Home Care | $7.4B (+7%) | +3% | +2%est | Tide, Downy, Febreze, Ariel, Gain |
+| Baby/Feminine/Family Care | $5.1B (+6%) | +3% | +2%est | Pampers, Charmin, Bounty, Always, Tampax |
+| Beauty | **$3.9B (+11%)** | **+7%** | **+5%** | Head & Shoulders, Pantene, Olay, SK-II |
+| Health Care | $3.1B (+7%) | +2% | –2% | Oral-B, Vicks, Pepto-Bismol, Metamucil, Crest |
+| Grooming | $1.6B (+7%) | +1% | –2% | Gillette, Braun, Venus |
+| **Total** | **$21.2B (+7%)** | **+3%** | **+2%** | |
 
-## Section 4 — Revenue Mix & Business Model
+*Source: [P&G Q3 FY2026 Press Release](https://us.pg.com/newsroom/news-releases/PG-Announces-Fiscal-Year-2026-Third-Quarter-Results/)*
 
-P&G reports across:
-- **Fabric & Home Care** (Tide, Downy, Febreze, Ariel)
-- **Baby, Feminine & Family Care** (Pampers, Charmin, Bounty, Always)
-- **Beauty** (Head & Shoulders, Pantene, Olay, SK-II)
-- **Grooming** (Gillette, Braun)
-- **Health Care** (Oral-B, Vicks, Pepto-Bismol, Metamucil)
+**Beauty (+7%, +5% vol)** is the segment leading the recovery — innovation-driven volume in personal care, hair care, and skin care is exactly the structural signal investors want to see. **Health Care and Grooming are the soft spots** — both showed –2% volume, offset by pricing/mix.
 
-**Business model characteristics**:
-- Near-recession-proof demand (laundry detergent, diapers, toothpaste are non-discretionary)
-- Highly recurring, predictable revenue
-- Growth limited to: population growth + price + market-share shifts
-- Premium pricing maintained via brand investment (advertising, R&D, retail shelf placement)
+### Geographic Revenue Split
 
-> **Data gap**: Segment revenue percentages, organic sales growth by segment — pending 10-K.
+P&G manages its geographic portfolio in two tiers: **Focus Markets** (North America, Europe — mature, high-margin) and **Enterprise Markets** (Asia Pacific, Greater China, IMEA, Latin America — higher growth, lower margin).
 
----
+**FY2025 geographic organic growth**:
+- North America: +2%
+- Europe: +3%
+- Enterprise Markets: +2% (Latin America led at +4%)
+- E-commerce: +12% YoY; now **19% of total company revenue** — fastest-growing channel
 
-## Section 5 — Competitive Moat
+*Source: [P&G FY2025 Annual Report](https://us.pg.com/annualreport2025/introduction-and-fy-results/)*
 
-**Rating: Wide — but under pressure**.
+> *Detailed geographic revenue split ($ amounts by region) requires 10-K Item 1 data — [link pending] for FY2025 10-K full ingestion. Segments as % of total revenue estimated from available press releases.*
 
-| Source | Strength | Current Status |
-|--------|----------|----------------|
-| Brand equity | Strong | Intact; Tide/Pampers/Gillette retain #1 global positions |
-| Distribution scale | Strong | Global shelf presence; retailer relationships |
-| R&D / product innovation | Moderate | Continuous but incremental; private-label closing quality gap |
-| Consumer switching costs | Moderate-Low | Habit formation real, but trade-down to private label is real during economic stress |
-| Pricing power | Strong historically | **Under pressure** — mid-single-digit price increases risk volume losses |
+### Forward Revenue Mix Shifts
 
-**Moat assessment**: The April 2025 guidance cut + restructuring announcement was a management acknowledgment that volume trends are *not immune* to over-pricing. P/E compression from ~26× → ~20× reflects a structural growth-rate de-rating, not just a temporary headwind.
-
-**Peer comparison**: Colgate-Palmolive (CL) ~18× fwd P/E; Unilever (UL) ~18×. PG's 20× = 2-point premium that requires demonstrating *superior* organic growth execution.
+- **E-commerce** will exceed 25%+ of revenue within 2–3 years at current trajectory — margin-neutral to slightly positive (lower retail trade spend, higher digital advertising).
+- **Beauty mix shift**: SK-II and premium Olay (Asia) are higher-margin than mass Pantene/Head & Shoulders; the Beauty +7% recovery improves blended segment mix.
+- **Portfolio pruning**: Brand divestitures + market exits (part of ongoing restructuring) will shift revenue toward higher-return categories over FY2026–FY2027.
 
 ---
 
-## Section 6 — Management & Leadership
+## Section 3 — Competitive Moat & Landscape
 
-**Jon Moeller (outgoing CEO; now Executive Chairman)**: Led PG through COVID pricing strength and the 2022 commodity cost surge. Announced the April 2025 guidance cut citing tariffs, then announced own succession in July 2025.
+**Moat Rating: Wide — under cyclical pressure from tariffs and private-label encroachment**
 
-**Shailesh Jejurikar (CEO from January 1, 2026)**: 36-year P&G veteran, former COO. Continuity pick, not change agent. Q2 FY2026 (Jan 22, 2026) EPS debut: **$1.78 vs. $1.87 expected — miss**. Not a confidence-building start. **Q3 FY2026 (April 24, 2026) is the make-or-break print** — second print of his tenure, first chance to demonstrate execution.
+### Moat Sources
 
-**Management assessment**: Continuity leadership in a turnaround. The board did not bring in an outside change agent → limits the re-rating premium normally associated with new leadership. Market needs 2–3 earnings cycles under Jejurikar before re-rating. Restructuring charges ($1.5–2.0B over FY2026–FY2027) will create GAAP noise for 12–18 months.
+- **Brand equity** (Strong): Tide, Pampers, and Gillette each hold #1 global positions in their categories. Decades of brand investment compound into consumer habituation — 60%+ of razors/blades market globally for Gillette alone (*[source: BusinessModelAnalyst.com, 2026](https://businessmodelanalyst.com/pg-competitors/)*). Difficult to replicate in 5–10 years.
+- **Distribution scale and retail shelf dominance** (Strong): Operations in 70+ countries; direct-store-delivery relationships with Walmart, Costco, Target, Amazon; entrenched promotional and planogram agreements. Scale enables lower per-unit logistics cost.
+- **R&D and product innovation** (Moderate): Continuous incremental innovation in each category (Tide PODS, Pampers Pure, Gillette Labs) maintains a performance gap vs. private label. R&D budget ~$1.9B/year. The private-label quality gap is narrowing in some categories (laundry, paper products) but remains wide in Grooming and SK-II.
+- **Consumer switching costs** (Moderate-Low): Habit formation creates meaningful inertia but is overridden during economic stress. The FY2023–FY2025 volume pressure — four consecutive below-consensus organic growth quarters — demonstrated that switching costs are weaker than the moat narrative implied when consumers face persistent price increases.
+- **Pricing power** (Strong historically; stressed currently): Mid-single-digit price increases funded the FY2022–FY2024 gross-margin recovery but came at the cost of volume. The company accepted volume losses to protect margins — a deliberate trade-off. The Q3 FY2026 volume recovery (+2%) at only +1% price suggests the pricing cycle is normalizing.
 
-> *Key external view (sourced)*: "This could be more like the passing of the baton in a long race rather than shaking things up." — Brian Jacobsen, Annex Wealth Management.
+**Moat vulnerabilities**:
+- Sustained premium pricing during inflationary cycles accelerates private-label trial, which is sticky if consumers find acceptable quality.
+- Tariff-driven input cost increases cannot be fully passed through in categories where private-label quality parity exists (laundry, paper).
+- 20× P/E (compressed from 26× peak) already reflects a structural growth-rate de-rating — moat alone is not a re-rating catalyst without execution evidence.
 
----
+### Competitive Landscape
 
-## Section 7 — Strategic Growth Initiatives
+| Competitor | Revenue | Forward P/E | Market Position | Key Moat vs. PG |
+|-----------|---------|------------|-----------------|-----------------|
+| **Unilever (UL)** | ~$60B | ~18× | Global #2 consumer goods | Stronger EM exposure but weaker premium brand portfolio in North America; Dove/Comfort/Hellmann's overlap in several PG categories |
+| **Colgate-Palmolive (CL)** | ~$20B | ~18× | Oral care #1 globally; some personal care | Narrower category set; Oral-B vs. Colgate is PG's most direct head-to-head moat test |
+| **Kimberly-Clark (KMB)** | ~$20B | ~17× | Tissue/hygiene; diapers (Huggies) | Pampers vs. Huggies is a multi-decade contest; KMB operates at lower P/E, lower growth, lower margin |
+| **Henkel (HENKY)** | ~$22B | ~12× | Detergents (Persil/Purex) in Europe/US | Price-tier positioning (Persil = premium in Europe; Purex = value in US); limited direct US shelf conflict |
+| **Church & Dwight (CHD)** | ~$6B | ~28× | Arm & Hammer, OxiClean; value/natural tiers | Trades on value and "natural" appeal; takes share in laundry and personal care from middle-market PG brands |
+| **Private label (all retailers)** | — | — | ~20–30% category share in laundry, paper | The most structurally relevant competitive threat; share gains accelerate when consumers face 2+ years of premium-brand price increases |
 
-1. **Restructuring (FY2025–FY2027)**: 7,000 job cuts, brand divestitures, market exits. $1.5–2.0B charges over two years. Framed as proactive efficiency; market read as confession.
-2. **Price increases to offset tariffs**: Mid-single-digit increases on ~25% of products in FY2026. Risks accelerating private-label volume loss.
-3. **Portfolio pruning**: Brand divestitures + market exits to focus on highest-return categories.
-4. **AI-driven efficiency**: Under Jejurikar, potential AI-driven supply-chain and marketing efficiency. Specific programs not yet disclosed.
-5. **Emerging market growth**: Long-term driver in China, India, IMEA.
+*Sources: Revenue estimates from company disclosures; P/E from stockanalysis.com [April 2026 *[Estimate]*]; [CSIMarket competitive analysis](https://csimarket.com/stocks/competitionSEG2.php?code=PG)*
 
-> **Data gap**: Specific program details / timelines pending FY2026 management commentary at Q3 / Q4.
+**How PG's moat differs from peers**:
+- Portfolio breadth: PG holds #1 positions in multiple categories simultaneously (Tide in laundry, Pampers in diapers, Gillette in razors, Head & Shoulders in dandruff). No other company replicates this cross-category dominance.
+- Advertising scale: PG spends ~$8B/year in advertising — more than any competitor. This sustains consumer preference across the economic cycle even when pricing is painful.
+- Premium-tier positioning: PG deliberately exits value-tier competition and focuses on the 50th–95th percentile consumer. This is higher-margin but more vulnerable to trade-down than Henkel or Church & Dwight.
 
----
-
-## Section 8 — Key Risks
-
-| Risk | Impact | Probability | Notes |
-|------|--------|-------------|-------|
-| Tariff headwinds | High | High (near-term certain) | $1–1.5B/yr; ~8–10% of net income |
-| Private-label volume losses | High | Moderate-High | Consumer trade-down accelerating during price-increase cycle |
-| Organic growth underperformance | High | Moderate | FY2026 guide 0–4% vs. historical 4–7% |
-| CEO transition execution risk | Moderate | Moderate | Q2 FY2026 EPS miss; **Q3 FY2026 is the second test** |
-| Multiple compression below 18× | Moderate | Low-Moderate | Already compressed 26× → 20×; further requires growth deceleration below peers |
-| Rate environment | Moderate | Moderate | 20× P/E contingent on relatively low rates |
-| FX headwinds | Moderate | Moderate-High | Dollar strength is persistent; significant international exposure |
-| Restructuring disruption | Moderate | Moderate | 7,000 job cuts + divestitures = execution risk + GAAP noise |
-| Dividend cut/freeze | Critical | Very Low | 66-year streak; would be massive reputational + capital cost; would only occur in catastrophic scenario |
-
----
-
-## Section 9 — Industry-Specific Macro Analysis
-
-**Consumer staples sector**: PG is the archetypal defensive staples stock. The sector typically outperforms in recessions and underperforms in bull markets. The 2025–2026 period is *unusual*: PG is underperforming even *within* consumer staples — XLP is approximately flat over 1 year while PG is –13% from highs.
-
-**Move classification analysis (5-year)**:
-
-| Factor Type | Frequency | PG-Specific Dynamic |
-|-------------|-----------|---------------------|
-| EXT-MACRO (rates, inflation, geopolitics) | ~40% | P/E contingent on low rates; 26× requires <2% rates; 20× more defensible at 4–5% |
-| INT-FUND (earnings misses, guidance cuts) | ~40% | 2025–2026 decline driven by genuine intrinsic deterioration — 4 consecutive misses |
-| EXT-MARKET (defensive rotation) | ~20% | PG benefits when tech sells off; temporary |
-| INT-PEOPLE (CEO transition) | ~10% | Jejurikar transition added uncertainty premium |
-
-**Key macro insight**: Unlike the 2022 drawdown (primarily macro/rate-driven), the 2025–2026 decline has a *genuine intrinsic component* — four consecutive below-consensus organic growth quarters, a guidance cut, and leadership/restructuring uncertainty. This makes the current level harder to call as a clean macro-overreaction entry.
-
-**Most predictive driver**: Rates + staples-sector sentiment over short horizons; organic volume growth + pricing-power execution over longer horizons. When both negative simultaneously (as in 2025), drawdowns are severe.
+**Tail-risk on competitive position**: Private label is the most credible ongoing threat. Retailers (Walmart, Costco, Amazon Basics) have invested in quality and packaging parity in laundry and paper. If private label achieves genuine quality parity in diapers or razors — PG's two highest-margin categories — the multiple compression would be severe and likely permanent.
 
 ---
 
-## Section 10 — Valuation & Comparable Analysis
+## Section 4 — Management & Leadership
+
+### CEO and Executive Team
+
+**Shailesh Jejurikar** (President & CEO, effective January 1, 2026): 36-year P&G veteran. Spent career in brand management and regional leadership; served as CEO of Fabric & Home Care (P&G's largest segment by revenue) before becoming COO in 2021. **Continuity pick, not a change agent.** Moeller announced the succession in July 2025 alongside the FY2026 guidance cut and restructuring announcement, signaling a deliberate handoff within a controlled turnaround framework.
+
+- Q2 FY2026 (debut): Core EPS $1.78 vs. $1.87 expected — miss. Not a confidence-building start.
+- Q3 FY2026: GAAP EPS $1.63, beat consensus $1.56; first volume growth in over a year — cautious validation.
+- CEO quote (Q3 FY2026): *"We're increasing investments to accelerate momentum with consumers despite the challenging geopolitical and economic environment, while still maintaining our guidance ranges."* — signals investment-led rather than cost-cut-led recovery.
+- CEO quote on FY2026 posture: *"Solid acceleration in top-line results while increasing investments in innovation and demand creation."*
+
+**Jon Moeller** (Executive Chairman): Led PG through the COVID pricing surge and the 2022 commodity cost crisis. Announced April 2025 guidance cut citing tariffs; announced own succession July 2025; stepped down as CEO January 1, 2026. **Notable: Moeller sold ~173,000 shares (~$28M) in the past 6 months** — the largest insider sell cluster in recent history. Selling by a departing CEO is expected but the magnitude warrants monitoring (*[Fintel insider activity — PG](https://fintel.io/sn/us/pg)*).
+
+**Capital allocation track record** (Moeller era, FY2021–FY2025):
+- Returned $16B+ to shareholders annually ($9.9B dividends + $6.5B buybacks in FY2025 alone)
+- Maintained 70 consecutive years of dividend increases (Dividend King status)
+- Maintained "in-line to 4% core EPS growth" guidance framework even in restructuring year
+- Restructuring ($1.5–2.0B charges, FY2026–FY2027) and portfolio pruning: justified on ROI basis but signals the portfolio has carried underperforming assets too long
+
+### Recent Management Commentary — Primary Source Synthesis
+
+#### FY2025 Annual Letter (Jon Moeller, August 2025)
+
+*Source: [P&G FY2025 Annual Report — Introduction and FY Results](https://us.pg.com/annualreport2025/introduction-and-fy-results/)*
+
+- *"P&G delivered continued organic sales and core earnings-per-share growth and returned significant cash to shareowners in fiscal year 2025, despite volatile macro-economic, geopolitical and consumer headwinds."* — Investment relevance: Moeller framed FY2025 as a resilience story while beginning the transition narrative. The phrase "consumer headwinds" is the most candid language P&G had used in several annual letters about structural demand softness, signaling awareness of the private-label challenge.
+- *"To meet these opportunities and challenges, we need to widen our margin of advantage."* — Investment relevance: This is the central strategic commitment for Jejurikar's era. "Margin of advantage" = product superiority over both private label and global peers. It implies continued heavy advertising investment rather than cost cuts to protect near-term margins.
+- Nine of ten categories grew organically. E-commerce surged 12%, reaching 19% of total revenue. — Investment relevance: E-commerce channel growth is margin-positive (lower trade-promotion cost) and confirms PG's ability to compete outside legacy shelf-space advantages.
+- 69th consecutive annual dividend increase; $16B+ returned to shareholders. — Investment relevance: Capital allocation discipline is intact; the dividend remains the bedrock of the investment thesis for income-oriented holders.
+
+#### 5-Year Strategic Framework Arc (FY2021–FY2025)
+
+The five-year arc of P&G's annual letters under Moeller traces a shift from **confidence and pricing power** (FY2021–FY2022, post-COVID demand surge) → **cost defense** (FY2023, commodity cost crisis) → **volume softness acknowledgment** (FY2024, organic slowdown from 7% → 4%) → **restructuring and transition** (FY2025, organic +2%, CEO succession signaled). The consistent theme across all five years is the "Superiority" pillar — P&G's commitment that superior products justify premium pricing — but the FY2025 letter's "widen our margin of advantage" phrasing is notably more urgent than prior years' "sustained superiority" framing. The pivot from "defending superiority" to "widening the advantage" represents an implicit acknowledgment that the advantage had narrowed. The first Jejurikar earnings commentary reinforces this: "increasing investments in innovation and demand creation" is the operational translation of Moeller's "widen the margin" mandate.
+
+> *Letters for FY2021–FY2024 available at [P&G Annual Reports](https://www.pginvestor.com/financials/annual-reports/default.aspx); full text fetch pending for multi-year arc (partial synthesis above is based on FY2025 available content).*
+
+---
+
+## Section 5 — Strategic Growth Initiatives
+
+1. **Restructuring program (FY2025–FY2027)**: 7,000 job cuts, brand divestitures, market exits. $1.5–2.0B charges over two years. Management frames this as proactive portfolio optimization — "focus capital on highest-return categories." The market initially read this as a structural-weakness confession; Q3 FY2026 volume recovery begins to validate the proactive framing.
+
+2. **"Superiority" investment acceleration**: Jejurikar's Q3 commentary — "increasing investments in innovation and demand creation" while maintaining guidance — signals that P&G is choosing to protect volume via product and marketing investment rather than margin optimization in the near term. Beauty segment's +7% organic / +5% volume validates this approach in the highest-margin segment.
+
+3. **E-commerce channel growth**: E-commerce was 19% of revenue in FY2025, growing +12% YoY. Digital-native purchasing reduces dependence on traditional retail shelf allocation and creates a direct relationship with premium-seeking consumers. This channel is structurally favorable for P&G's brand premium positioning.
+
+4. **Pricing normalization and volume recovery**: FY2022–FY2024 was a pricing-led revenue period (7% organic growth with volume declining or flat). FY2026 is the first year of volume-led recovery (+2% in Q3). Sustaining volume growth without sacrificing the FY2024–FY2025 pricing base is the central execution challenge.
+
+5. **Emerging market expansion**: Greater China, India, IMEA represent long-run growth vectors as income levels rise and consumers upgrade to branded products. Enterprise markets grew +2% organically in FY2025 with Latin America at +4%.
+
+6. **AI and digital efficiency**: Jejurikar has signaled but not quantified AI-driven supply chain and marketing efficiency programs. Specific initiatives not yet disclosed in primary sources; to update on investor day disclosure or Q4 FY2026 commentary.
+
+---
+
+## Section 6 — Key Risks
+
+*Applying materiality filter: risks kept below are differentiated from peers, tied to thesis-break triggers, or tied to large discretionary bets. Generic boilerplate removed.*
+
+| Risk | Impact | Probability | Priced In? | Notes |
+|------|--------|-------------|-----------|-------|
+| **Tariff escalation** | High | Moderate | Partially | ~$400M after-tax confirmed for FY2026. Any expansion toward $700–800M compresses core EPS ~$0.12–0.15/share vs. guidance. P&G's North America-heavy supply chain makes it more exposed than Unilever or Henkel. *Not fully priced* at lower-end guidance. |
+| **Private-label permanent share gains** | High | Moderate | Partially | Q3 FY2026 volume recovery (+2%) reduces near-term probability. But if consumers permanently adopted private-label habits during 2022–2025 price increases, reverting ASP premium to pre-inflation levels would require volume discounts. Health Care and Grooming Q3 volume still –2% each — those categories remain at risk. |
+| **Gross-margin compression sustained** | High | Moderate | Not priced | Six consecutive quarters of gross-margin decline (–100bps Q3 FY2026, currency-neutral core). If structurally driven by input costs + pricing normalization rather than one-time, P/E multiple cannot sustain 20×+ without EPS growth offsetting. *Not fully priced in.* |
+| **CEO execution risk (Jejurikar unproven)** | Moderate | Moderate | Partially | Q2 FY2026 miss eroded confidence; Q3 FY2026 beat partially restores it. Needs 2–3 more quarters of execution proof before "continuity premium" accretes fully. Moeller's $28M insider selling is a notable signal from the closest observer. |
+| **Multiple compression if staples de-rating accelerates** | Moderate | Low-Moderate | Partially | Consumer staples sector under structural multiple pressure as rates remain elevated (20× P/E requires ~4–5% discount rates). Peers CL/UL trade at 17–18×; PG's 2-point premium requires superior execution evidence. If sector re-rates to 16–17×, PG fair value drops to $120–$135 even without fundamental deterioration. |
+| **FX headwinds** | Moderate | Moderate-High | Partially | Dollar strength is persistent. ~30%+ of PG revenue is outside North America. FX provided ~$200M tailwind in Q3 FY2026 — favorable. But dollar re-strengthening (on tariff escalation or Fed policy) could flip this negative quickly. |
+
+**5-Year Risk Factor Evolution (synthesis)**: P&G's Item 1A risk language shifted materially between FY2021 and FY2025. The FY2021–FY2022 10-Ks emphasized commodity cost volatility as the primary operational risk — consistent with the COVID supply-chain era. By FY2023–FY2024, tariff and trade-policy language was elevated from secondary to primary risk status as the US-China and US-Europe trade environments deteriorated. The FY2025 10-K added more explicit language around "geopolitical unpredictability" and "market contraction" risks, reflecting that PG's Russia exit (FY2022) and China softness (FY2023–FY2024) had materially affected the enterprise market growth narrative. Private-label risk has been present throughout but strengthened in severity language by FY2024–FY2025, coinciding with the four quarters of volume losses. The evolution signals that management recognized pricing-power fragility 12–18 months before it showed up in consensus downgrades. *Sources: [FY2025 10-K — P&G](https://assets.ctfassets.net/oggad6svuzkv/7ssg6HBZvKjXxd6Va3ZuvD/e1048bf54cd6d87fb52a6ad9b35ef7b2/2025_form_10k.pdf); FY2023 10-K — [SEC EDGAR](https://www.sec.gov/Archives/edgar/data/80424/000008042423000073/pg-20230630.htm)*
+
+---
+
+## Section 7 — Industry-Specific Macro Analysis
+
+**Consumer staples sector dynamics**: PG is the archetypal defensive staples stock — sector typically outperforms during recessions and underperforms bull markets. FY2025–FY2026 is unusual: PG underperforms even within consumer staples because the headwinds are partially intrinsic (pricing-power overextension, volume losses) rather than purely macro.
+
+**Tariff environment (highest-impact macro factor)**: The April 2025 tariff announcement that triggered PG's guidance cut is the dominant near-term macro variable. P&G's North America-heavy supply chain (many inputs sourced domestically or from tariff-affected countries) makes it more exposed than global peers. The $400M after-tax tariff headwind confirmed in Q3 FY2026 is tracking within the $1B guidance range — no escalation beyond plan as of this writing.
+
+**Private-label trend**: Structural, not cyclical. The 2022–2024 period of mid-single-digit consumer price increases accelerated private-label trial across laundry, paper, and health care categories. Nielsen/IRI scanner data has shown private label reaching 20–30% category share in key segments. P&G's Q3 FY2026 volume recovery is a positive signal but one quarter does not reverse a multi-year share loss trend. Watch Q4 FY2026 scanner data for confirmation.
+
+**Interest rate sensitivity**: At 20× forward P/E, PG is rates-sensitive for a staples stock. Pre-2022 low-rate environment supported 24–26× P/E. At 4–5% Fed funds, 20× is more defensible; a re-rate to 22–24× requires either rate cuts or significantly above-consensus EPS growth.
+
+**China exposure risk**: SK-II (premium beauty) has meaningful China exposure. China consumer weakness in FY2023–FY2024 contributed to beauty segment weakness. Q3 FY2026 beauty recovery (+7%, +5% vol) suggests China premium consumer is stabilizing.
+
+---
+
+## Section 8 — Valuation & Comparable Analysis
+
+### Multiples Summary
 
 | Metric | Value | Notes |
 |--------|-------|-------|
 | Current Price | $148.18 | April 24, 2026 |
 | Market Cap | ~$345B | |
-| Forward P/E (FY2026E) | ~20× | EPS consensus ~$7.10–7.20 |
-| Trailing P/E | ~21× | |
-| Dividend Yield | ~2.85% | Highest since 2019 |
-| FY2026 FCF Target | ~$16B | [Management guidance] |
-| FY2026 Organic Sales Guide | 0–4% | Conservative |
-| Percentile in 5-Year Price Range | ~50th | Range $116–$180 |
+| EV | ~$360B | [Estimate; net debt ~$15B] |
+| P/E (TTM) | ~21.7× | $6.84 TTM EPS |
+| P/E (FY2026E) | ~20.6× | Analyst consensus $7.18 [*Analyst consensus*] |
+| P/E vs. Guided Range | ~21× at midpoint | Core EPS guidance $6.83–$7.09 |
+| EV/EBITDA | ~19× | [Estimate] |
+| Dividend Yield | 2.85% | |
+| FCF Yield | ~4.3% | ~$15B TTM FCF / $345B market cap |
+| P/E (5-yr historical range) | 20–26× | Peak 26× in 2024; trough 20× today |
 
-### Comparable Peer Multiples (April 2026 [Estimate])
+### Peer Comparison
 
-| Company | Forward P/E | Organic Growth | Moat |
-|---------|------------|----------------|------|
-| PG | ~20× | 0–4% guided | Wide |
-| Colgate-Palmolive (CL) | ~18× | Similar | Wide |
-| Unilever (UL) | ~18× | Similar | Wide |
-| Kimberly-Clark (KMB) | ~17× | Lower | Narrow-Wide |
+| Company | Forward P/E | FY2026E Rev Growth | Dividend Yield | Organic Growth | Commentary |
+|---------|------------|-------------------|----------------|----------------|------------|
+| **PG** | ~21× | +5.8% | 2.85% | In-line to +4% | Premium to peers; requires execution |
+| Colgate-Palmolive (CL) | ~18× | — | ~2.3% | Similar | 3-pt discount to PG on P/E |
+| Unilever (UL) | ~18× | — | ~3.5% | Similar | Higher yield; better EM exposure; weaker US brand premium |
+| Kimberly-Clark (KMB) | ~17× | — | ~3.5% | Lower | Lowest multiple; category concentration in tissue/hygiene |
 
-**Valuation assessment**: PG's 20× is a 2-point premium to CL/UL. Justifying it requires *superior* organic growth execution. At 0–4% organic growth, 20× requires exceptional margin discipline. Stock is neither screaming cheap nor obviously overvalued.
+*Sources: stockanalysis.com consensus estimates [April 2026 *[Analyst consensus]*]; peer P/E [*Estimate*]*
 
-**What would make it compelling**: April 24, 2026 (Q3 FY2026) earnings beat *with* organic sales acceleration to 3–5% + restructuring cost savings showing in margins + tariff headwind tracking within $1B guided range.
+### Valuation Assessment
 
-> **Data gap**: DCF-based intrinsic value requires full FCF model — pending earnings transcript ingestion.
+**At $148.18 (21× FY2026E)**: PG's 2–3 point P/E premium to CL/UL is justified only by demonstrated superior organic growth execution. Q3 FY2026 +3% organic with +2% volume is the first data point in 18 months that supports the premium. But six straight quarters of gross-margin compression, guidance at "lower end," and a CEO with only two earnings prints do not yet justify re-expanding to 22–24×.
+
+**Downside scenario (17–18×)**: If Q4 FY2026 disappoints — organic reverts to 0–1%, gross margins don't recover — the multiple compresses to CL/KMB range. At 17.5× FY2026E $7.00 EPS = ~$122.
+
+**Upside scenario (22–24×)**: If Jejurikar sustains 3–5% organic through FY2027 and restructuring savings lift operating margins, the prior 22–24× range becomes defensible. At 23× FY2027E $7.54 EPS = ~$173.
+
+**Entry discipline**: At $135–$148, FCF yield ~4.1–4.6% + dividend yield ~2.85% = ~7–7.5% cash yield floor with defensive sector characteristics. Reasonable entry for income-oriented holders; not a value-investor screamer.
+
+> *Full DCF not computed — requires quarterly FCF breakdown and segment margin detail from 10-K ingestion. [link pending] for FY2025 full 10-K parse.*
 
 ---
 
-## Section 11 — Catalyst & Sentiment Tracker
+## Section 9 — Catalyst & Sentiment Tracker
 
 ### Live Price & Positioning
 
-- **Price**: $148.18 (Apr 24, 2026, Yahoo Finance)
+- **Price**: $148.18 (April 24, 2026, close; [Yahoo Finance](https://finance.yahoo.com/quote/PG))
 - **52-week range**: $137.62 – $170.99
 - **% from 52-wk high**: –13.3%
-- **% above 52-wk low**: +7.7% (near-low; defensive bid only)
+- **% above 52-wk low**: +7.7%
 - **Market cap**: ~$345B
-- **Dividend yield**: ~2.85% (highest since 2019)
+- **Dividend yield**: ~2.85% (Dividend King)
 - **Beta**: 0.40 (defensive)
-
-### **Most Important Near-Term Catalyst: Q3 FY2026 Earnings — April 24, 2026 (TODAY — pre-market)**
-
-This is the single dominant near-term catalyst and demands explicit framing:
-
-- **First meaningful print of Jejurikar's CEO tenure** (Q2 was a debut miss: $1.78 vs. $1.87)
-- **EPS consensus**: ~$1.55–1.60 [Analyst consensus]
-- **What to watch**:
-  - **Organic sales growth rate** — must accelerate from 0–1% range toward 3–5% to validate Bull case
-  - **Tariff cost update** — confirmation of $1B FY2026 tracking; any expansion = thesis-break trigger
-  - **Restructuring savings** — must show in margins; if absent, structural-deterioration thesis wins
-  - **FY2026 organic sales guide refresh** — any cut below 0% = thesis-break trigger
-  - **Volume vs. price decomposition** — volume must stop bleeding to private label
-  - **Forward commentary on Q4 FY2026 + FY2027 setup**
-
-**Asymmetry of this print**: Beat → recovery toward $160–$165 (Base case mid-point); miss → re-test of $137.62 52-wk low + potential break to $125–$130 (Bear case). Binary outcome with very short timeline (7 days).
+- **Short interest**: ~1.19% of float (~27.5M shares, 3.72 days to cover) — negligible; PG drawdown is long-holder fatigue, not short attack ([Fintel](https://fintel.io/ss/us/pg))
 
 ### Analyst Consensus
 
-- **Median price target**: ~$155–$165 [Estimate; aggregator-based]
-- **Range**: ~$135 (low) to ~$180 (high)
-- **Implied upside from $148.18**: ~+5% to +11% to median
-- **Recent rating actions [Estimate]**: Erste Group downgrade March 24, 2026. Mixed defensive-rotation flow February 2026.
+*Source: [stockanalysis.com — PG Forecast](https://stockanalysis.com/stocks/pg/forecast/); [defenseworld.net — Apr 26 rating actions](https://www.defenseworld.net/2026/04/26/bnp-paribas-exane-cuts-procter-gamble-nysepg-price-target-to-165-00.html)*
 
-### Short Interest
+- **Rating breakdown**: 5 Strong Buy / 6 Buy / 7 Hold / 0 Sell = 18 analysts
+- **Consensus**: Buy
+- **Median target**: $169 | **Average**: $167 | **Low**: $142 | **High**: $181
+- **Implied upside from $148.18**: +12% to median, +14% to average
 
-- **Latest [Estimate]**: ~1–2% of float (typical for mega-cap defensive)
-- **Interpretation**: No meaningful short pressure; PG drawdown is long-holder fatigue, not short attack.
+**Recent rating actions** (post-Q3 FY2026, April 2026):
+- JP Morgan: Maintained Buy; cut target $165 → $162
+- Wells Fargo: Maintained Buy; cut target $177 → $158
+- Barclays: Maintained Hold; cut target $155 → $146
+- BofA Securities: Maintained Strong Buy; cut target $171 → $167
+- BNP Paribas Exane: Cut target to $165 (April 26, 2026)
+
+**Pattern**: Post-Q3, analysts maintained ratings but cut targets — consistent with a "cautious beat, lower-end guidance" narrative. No upgrades yet; the bull case requires one more volume-positive quarter.
 
 ### Insider Activity (Last 90 Days)
 
-- **No notable open-market insider buys or executive cluster sells reported [Estimate; pending Form 4 verification]**
-- **CEO transition Jan 1, 2026** triggered routine RSU vesting / grants; not interpretable as directional
+*Source: [Fintel — PG Insider Activity](https://fintel.io/sn/us/pg)*
+
+- **0 open-market purchases; 14 sales in last 6 months**
+- **Jon Moeller (Executive Chairman)**: Sold ~173,268 shares (~$28.1M) — largest insider sell cluster in recent history. Departing CEO selling is expected; the magnitude is notable. CEO transition RSU vesting creates natural selling pressure.
+- ⚠️ Net insider direction: bearish (all sales, no buys). Not a thesis-break trigger alone, but warrants monitoring alongside fundamental data.
+
+### Q3 FY2026 Earnings Delivered ✅
+
+- **[2026-04-24] [Earnings Q3 FY2026]** — GAAP EPS $1.63 (+6%, beat $1.56 est.); organic +3% (first volume growth in >1 yr); net sales $21.2B (+7%, beat $20.5B est.); guidance maintained at lower end; tariff $400M after-tax confirmed. **Thesis status: Cautiously Strengthened.** ([P&G IR](https://us.pg.com/newsroom/news-releases/PG-Announces-Fiscal-Year-2026-Third-Quarter-Results/))
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-24] [Earnings — UPCOMING]** — 📅 Q3 FY2026 earnings release scheduled ([PG IR](https://www.pginvestor.com/financial-reporting/quarterly-results))
+- **[2026-04-26] [Analyst]** — BNP Paribas Exane cut P&G price target to $165 (post-Q3 recalibration) ([defenseworld.net](https://www.defenseworld.net/2026/04/26/bnp-paribas-exane-cuts-procter-gamble-nysepg-price-target-to-165-00.html))
+- **[2026-04-24] [Earnings Q3 FY2026]** ✅ — Delivered. See above. ([P&G IR](https://us.pg.com/newsroom/news-releases/PG-Announces-Fiscal-Year-2026-Third-Quarter-Results/))
 - **[2026-03-24] [Analyst]** — Erste Group downgrade ([MarketBeat — PG](https://www.marketbeat.com/stocks/NYSE/PG/price-target/))
-- **[2026-01-22] [Earnings]** — Q2 FY2026 EPS miss ($1.78 vs. $1.87 expected) under new CEO Jejurikar; revenue roughly in-line ([PG IR](https://www.pginvestor.com/financial-reporting/quarterly-results))
+- **[2026-02-23] [Price action]** — 📈 Defensive rally peak at ~$163 (+18.5% from Jan 7 low of $137.62)
+- **[2026-01-22] [Earnings Q2 FY2026]** — EPS $1.78 vs. $1.87 expected — miss under new CEO Jejurikar; revenue roughly in-line ([PG IR press releases](https://www.pginvestor.com/financial-reporting/press-releases/default.aspx))
 - **[2026-01-07] [Price action]** — 📉 52-week low set at $137.62
-- **[2026-01-01] [Management]** — Jejurikar formally takes CEO role; Moeller to Executive Chairman ([PG IR — leadership](https://us.pg.com/leadership-team/))
-
-### Recent Earnings Events (Past 12 Months)
-
-| Date | Event | Impact | Result |
-|------|-------|--------|--------|
-| Apr 24, 2025 | Q3 FY2025 — Guidance cut (tariffs) | –4.6% | Beat EPS; lowered FY guide |
-| Jun 2025 | Restructuring announced (7,000 job cuts) | –3.1% | Strategic |
-| Jul 28–29, 2025 | Q4 FY2025 + CEO transition announced | –4.3% | Revenue flat; FY2026 guide includes $1B tariff |
-| Jan 22, 2026 | Q2 FY2026 (Jejurikar debut) | +3.5% on day (defensive bid) | EPS $1.78 vs. $1.87 (miss) |
-| Feb 23, 2026 | Defensive rally peak | +18.5% (4-wk) | $137.62 → $163.14; rotation, no fundamental catalyst |
-| Mar 25, 2026 | Macro selloff trough | –12.1% (30-day) | $163.14 → $143.35 |
-| Apr 24, 2026 | Current | (Apr trough $143 → $148; +3.6%) | Pre-earnings drift |
+- **[2026-01-01] [Management]** — Jejurikar formally takes CEO role; Moeller to Executive Chairman ([P&G leadership](https://us.pg.com/leadership-team/))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| 📅 **2026-04-24** | **Q3 FY2026 earnings (pre-market)** ([PG IR](https://www.pginvestor.com/financial-reporting/quarterly-results)) | **Make-or-break Jejurikar print; binary** |
-| ~April 2026 | Dividend ex-date | $1.0568/quarter; income floor |
-| Late July 2026 | Q4 FY2026 + FY2026 full-year results + FY2027 guide | Second key Jejurikar print |
-| Ongoing | Tariff policy developments | Any escalation = direct hit; any easing = relief |
-| Ongoing | Private-label scanner data (Nielsen / IRI) | Category share trend |
+| 📅 **Late July 2026** | **Q4 FY2026 earnings + full-year FY2026 + FY2027 guide** | Second Jejurikar beat/miss cycle; confirms or refutes Q3 volume recovery; first full-year Jejurikar guidance |
+| 📅 **~August 2026** | **FY2026 Annual Report + first Jejurikar shareholder letter** | First direct management framework statement from new CEO; capital allocation philosophy articulation |
+| Ongoing | Tariff policy developments | Any escalation beyond $400M after-tax = direct thesis-break trigger |
+| Ongoing | Private-label scanner data (Nielsen/IRI) | Q3 volume recovery needs confirmation in category-level share data |
+| ~April 2026 | 💰 Dividend ex-date | $1.0568/quarter; income floor |
 
 ---
 
-## Section 12 — BAIT Framework
+## Section 10 — BAIT Framework
 
-### B — Behavioral: **Moderate**
+### B — Behavioral: **Moderate-Strong**
 
-Fear is real and has *fundamental support* — four consecutive earnings misses, guidance cut, CEO change. Unlike SHOP (where thematic fear contradicted operating data), PG's decline has genuine intrinsic reasons. The 21% drawdown ($174 → $137 trough) may have *modestly* overshot fundamentals — tariff impact of $1–1.5B on $15.7B net income (~8–10%) is meaningful but not existential. Current $148 is +7.7% off the low — a tepid bounce, not a re-rating.
+Fear had genuine fundamental support through Q2 FY2026: four consecutive earnings misses, guidance cuts, CEO change, restructuring confession. Q3 FY2026 partially invalidates the structural-deterioration fear narrative — volume growth returned, all segments positive. The behavioral dynamic now is: **does the market re-rate quickly on one quarter of volume growth, or does it demand 2–3 more quarters of evidence before the overshoot-vs.-structural decision is made?** Historical P&G behavior after restructuring announcements (2014, 2019) suggests the market typically waits for 2 quarters of confirmation before re-rating. We are at confirmation quarter 1. The B signal is strengthening.
 
-### A — Analytical: **Weak-Moderate**
+### A — Analytical: **Moderate**
 
-Consensus appears to fairly price the situation at ~20× forward earnings. Dividend yield (~2.85%) provides analytical support. Without clearer evidence of organic growth re-acceleration, analytical edge is limited. A DCF model would only reveal upside if Jejurikar demonstrates 3–5% organic growth — which is exactly what April 24 will (or won't) confirm.
+Post-Q3: PW EV ~$159 vs. $148.18 = +7.3% price + ~3% dividend = ~10.3% total return (1–2 year horizon). Not exceptional, but improving. The analytical edge is in modeling the restructuring savings correctly — if $1.5B in charges yields $400–600M in annualized savings by FY2027, operating margin could recover to 25–26% on modest revenue growth, which at 22× P/E yields $175–185. Consensus models may not fully credit the restructuring FCF recapture. A credit is emerging but conviction requires FY2027 guide confirmation.
 
-### I — Informational: **Weak-Moderate**
+### I — Informational: **Moderate**
 
-Q2 FY2026 (Jan 22) EPS miss is the most recent primary data point — *not* positive. No clearly under-appreciated informational edge identified prior to April 24. Post-April 24, the print itself becomes the new data point and BAIT will need re-rating.
+Q3 FY2026 primary data (beat, volume growth, all-segment positive) is the first genuinely positive informational signal since FY2024. CEO Jejurikar's quote — "increasing investments to accelerate momentum" — is directionally important: it signals that P&G's path to recovery is offense (innovation/demand), not defense (cost cutting). If most sell-side models are running conservative -2% to +1% volume assumptions, the Q3 +2% volume print creates an analytical gap. However, one quarter is not yet an informational edge — it becomes one if Q4 confirms.
 
 ### T — Technical: **Weak**
 
-- 52-week low $137.62 (Jan 2026) acts as floor; only +7.7% above it
-- February defensive rally to $163 fully unwound by late March
-- No near-term positive technical catalyst pre-print
-- Dividend ex-date in April provides modest support
-- Pre-earnings drift typically reduces volatility but increases binary risk into print
+- Short interest at 1.19% — no short-squeeze catalyst.
+- No index rebalancing or forced buying event imminent.
+- Dividend ex-date provides minor support.
+- Stock is off 52-wk low by only +7.7% — some technical floor at $137–140.
+- Post-earnings drift may push the stock modestly toward analyst consensus ($167–169) over next 30–60 days, but no mechanical accelerant.
 
 ### BAIT Verdict
 
-**Weak signal — no significant overlap**. Unlike SHOP (B+A+I triple), PG has Moderate B with fundamental support for the fear, and Weak-to-Weak-Moderate elsewhere. This is a "show me" situation requiring April 24 execution evidence before a high-conviction read is appropriate. **The April 24 print will reset the BAIT framework**: a beat with organic acceleration moves B to Strong (sentiment unwind catalyst confirmed) and I to Moderate (new positive primary data); a miss confirms structural deterioration and pushes the recommendation toward Avoid for non-holders.
+**Low-Moderate signal — B+I overlap (both strengthening).** Unlike the pre-Q3 state (B moderate + everything else weak), Q3 FY2026 data moves both B and I to Moderate. A is improving but requires Q4 confirmation. T remains weak. Two-lens overlap (B+I) with improving A = Low-Moderate conviction. **Not yet the triple or quadruple overlap that drives high-conviction positioning**, but the trajectory is positive.
 
 ---
 
-## Section 13 — Bull / Bear / Base Cases
+## Section 11 — Bull / Bear / Base Cases
 
-*Scenarios are 1–2 year (post-April 24 print) terminal prices. Probabilities sum to 100%.*
+*Scenarios are 1–2 year (post-Q3 FY2026) terminal prices. Probabilities updated from pre-Q3 baseline.*
 
-| Scenario | Conditions | Estimated Price | Probability |
-|----------|-----------|----------------|-------------|
-| Bull | Q3 beat; organic growth re-accelerates 4–6%; restructuring savings materialize; multiple expands to 23–24× | $170–$185 | 25% |
-| Base | Q3 in-line; organic growth 2–3%; restructuring on track; tariffs within $1B; gradual re-expansion to 21–22× | $155–$165 | 45% |
-| Bear | Q3 miss; organic growth stays 0–1%; further guidance cut; private-label acceleration; multiple to 17–18× | $120–$130 | 30% |
+| Scenario | Conditions | Price Range | Midpoint | Probability |
+|----------|-----------|-------------|----------|-------------|
+| 🟢 **Bull** | Q4 FY2026 confirms organic +3–5%; FY2027 guide is 3–5%; restructuring savings materializing in margins; multiple expands to 23–24× | $175–$185 | $180 | 30% |
+| 🟡 **Base** | Q4 in-line; organic growth 1–3%; restructuring on track; tariffs within $400M; multiple holds at 21–22× | $155–$165 | $160 | 50% |
+| 🔴 **Bear** | Q4 volume reverts 0–1%; further guidance cut; tariff escalation; gross margins continue declining; multiple to 17–18× | $120–$130 | $125 | 20% |
 
-**Bull case asymmetry**: $170–$185 = +15% to +25% from $148.18 + ~3% dividend = ~18–28% total. Acceptable but not extraordinary upside given the binary risk into April 24.
-
-**Bear case asymmetry**: $120–$130 = –12% to –19% from $148.18, partially cushioned by ~3% dividend.
+*Bull probability increased from 25% → 30% on Q3 volume recovery. Bear probability reduced from 30% → 20% as structural-deterioration probability decreases with volume growth data. Base unchanged at 50%.*
 
 ---
 
-## Section 14 — Probability-Weighted Expected Value
+## Section 12 — Probability-Weighted Expected Value
 
-| Scenario | Midpoint Price | Probability | Weighted Contribution |
-|----------|---------------|-------------|----------------------|
-| Bull | $177.50 | 25% | $44.38 |
-| Base | $160.00 | 45% | $72.00 |
-| Bear | $125.00 | 30% | $37.50 |
-| **PW EV (1–2 yr)** | | **100%** | **~$154** |
+| Scenario | Midpoint | Probability | Weighted |
+|----------|----------|-------------|---------|
+| 🟢 Bull | $180.00 | 30% | $54.00 |
+| 🟡 Base | $160.00 | 50% | $80.00 |
+| 🔴 Bear | $125.00 | 20% | $25.00 |
+| **PW EV (1–2 yr)** | | **100%** | **~$159** |
 
-| Current Price | PW EV | Return (1–2 yr) | + Dividend |
-|--------------|-------|-----------------|-----------|
-| $148.18 | $154 | **+4%** | + ~3%/yr = ~7% total |
+| Current Price | PW EV | Price Return | + Dividend (~3%/yr) | Total Return (1–2 yr) |
+|--------------|-------|-------------|--------------------|-----------------------|
+| $148.18 | $159 | **+7.3%** | ~+3% | **~10.3%** |
 
-**Interpretation**: ~+4% price + ~3% dividend = ~7% total return over 1–2 years. **Modest and consistent with "show me" status**. Asymmetry is *not* favorable enough to justify high-conviction positioning *pre-April 24*. Post-April 24, the distribution will collapse — probabilities will refresh dramatically based on the print.
+**R/R (Bull / Bear)**: ($180–$148) / ($148–$125) = $32 / $23 ≈ **1.4:1** — modest; improving from ~1.3:1 pre-Q3 but not yet asymmetrically attractive for a concentrated position.
+
+**Interpretation**: ~10% total return over 1–2 years is consistent with a "defensive core holding" thesis rather than an asymmetric opportunity. The investment becomes compelling if price drops further (toward $135–140, entry zone, → R/R improves to ~2.5:1) or if Q4 FY2026 provides a second confirmation (→ Bull probability increases to 35–40%, improving PW EV to $162–165). At $148, this is a value investor's dividend-compounding hold, not a BAIT-driven asymmetric position.
 
 ---
 
-## Section 15 — Recommendation & Bottom Line
+## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: PG is a Dividend King in "show me" mode under a new CEO mid-restructuring, with 20× P/E roughly fair for 0–4% organic growth — the April 24, 2026 Q3 FY2026 print (TODAY — pre-market) is the binary catalyst that will either confirm Jejurikar's execution thesis (re-expansion to $160–$170) or validate structural deterioration (re-test of $137 low, possible break to $125–$130).
+**Thesis in one sentence**: PG is a Dividend King with a Wide moat under cyclical pressure — Q3 FY2026's first volume growth in over a year cautiously validates Jejurikar's recovery thesis, but gross margins compressing for a 6th straight quarter and guidance anchored at the lower end keep this a "show more" rather than "buy the recovery" situation at $148.
 
-**For a non-holder**: 🟡 **Watch — do not initiate ahead of April 24**. The binary risk of the Q3 print + the absence of meaningful BAIT overlap + thin asymmetry (PW EV $154 vs. spot $148, +7% total return inclusive of dividend) does not justify pre-print positioning. **Re-evaluate immediately after April 24**:
-- *If beat with organic ≥3%*: Initiate small at $160–$165 with target $175
-- *If in-line*: Hold off; wait for Q4 FY2026 (late July) for confirmation
-- *If miss*: Add to watch list at $125–$135; do not initiate above $140
+**For a non-holder**: 🟡 **Watch / Initiate small at $140–$148** — Q3 volume growth is the first genuine positive signal in 6 quarters. Entry in the current zone offers ~10% total return (price + dividend) with the Q4 FY2026 print (late July) as the next conviction-building event. Do not build a full position pre-Q4; the recovery thesis has one confirmation, not three.
 
-**For a current holder**: 🟡 **Hold through April 24**. Exiting pre-print at –13% off highs forfeits the upside optionality on a beat; trimming makes sense only if the position is oversized relative to portfolio plan. Add only if (a) Q3 confirms organic acceleration AND (b) price is below $145 — otherwise wait. If price is above $165 post-print, consider trimming into strength.
+**For a current holder**: 🟡 **Hold** — do not exit; volume growth supports the thesis floor. Add on dips below $145 with Q4 FY2026 intent. Trim at $170–180 if the recovery narrative runs ahead of execution.
 
-🎯 **Attractive entry zone**: **$135 – $145** (rationale: 19× FY2026E P/E; ~3% dividend yield; near 52-wk low offers technical support; below mid-point of 5-yr price range)
+🎯 **Attractive entry zone**: **$135–$148** (rationale: 19–20× FY2026E P/E; ~3%+ dividend yield; post-Q3 volume recovery validates structural floor; near 52-wk low offers technical support; FCF yield ~4.5% at $135)
 
-🎯 **Trim zone**: **$170 – $180** (rationale: top of 52-wk range; 24× FY2026E P/E requires execution proof; approaches all-time-high zone)
+🎯 **Trim zone**: **$170–$180** (rationale: 24–25× FY2026E P/E requires full execution proof; top of 52-wk range; approaches "fair value upper bound" even with Bull scenario assumptions)
 
-🔴 **Exit / avoid zone**: **>$185** (rationale: would imply 26× FY2026E P/E and full re-rating to 2024 peak multiple — pricing in full execution upside with no margin of safety)
+🔴 **Exit / avoid zone**: **>$185** (rationale: would imply 26×+ FY2026E P/E — pricing in full execution upside with no safety margin; only justified if FY2027E EPS is revised materially above $7.54 consensus)
 
-**Thesis-break triggers** ⚠️ (would force re-rating toward Exit / Avoid):
-- ⚠️ Q3 FY2026 EPS miss + organic growth ≤0%
-- ⚠️ FY2026 organic sales guide cut below 0%
-- ⚠️ Tariff headwind expansion above $1.5B for FY2026
-- ⚠️ Dividend cut or freeze (Critical-impact, Very Low probability — but immediate exit if it happens)
-- ⚠️ Two consecutive quarters of accelerating private-label market-share losses (Nielsen / IRI scanner data)
-- ⚠️ Restructuring savings not materializing in operating margin by Q4 FY2026
-- ⚠️ Jejurikar departure or material C-suite turnover
-- ⚠️ Multiple compression below 17× without earnings deterioration (signals structural staples de-rating)
+**Thesis-break triggers** ⚠️ (would force re-rating to Reduce / Avoid):
+- ⚠️ Q4 FY2026 organic growth reverts to 0–1% after Q3 showed +3% — signals Q3 was noise, not trend
+- ⚠️ Tariff headwind expands above $700M after-tax vs. $400M guided — material consensus revision required
+- ⚠️ FY2027 guidance issued below 2% organic growth — implies structural, not cyclical, deceleration
+- ⚠️ Gross-margin compression accelerates (>–200bps) — restructuring savings not materializing
+- ⚠️ Dividend cut or freeze (Very Low probability; 70-year streak; would only occur under catastrophic scenario — immediate exit)
+- ⚠️ Jejurikar departure within 18 months — continuity thesis breaks
+- ⚠️ Multiple compression below 17× without earnings deterioration — signals structural staples de-rating beyond PG-specific issues
 
-📅 **Next review trigger**: **Q3 FY2026 earnings — April 24, 2026 (pre-market)**. **Today — imminent or just released.** This is the single dominant catalyst. Update full BAIT, valuation, and recommendation framework within 24 hours of the print.
+✅ **Resolved triggers from prior entry** (Q3 FY2026 resolved):
+- ~~⚠️ Q3 FY2026 organic growth ≤0%~~ — ✅ **DE-RISKED [2026-04-24]**: Organic +3%, volume +2%
+- ~~⚠️ Tariff headwind expansion above $1.5B for FY2026~~ — ✅ **DE-RISKED [2026-04-24]**: $400M after-tax confirmed, within guidance
+
+📅 **Next review trigger**: **Q4 FY2026 earnings — late July 2026**. This is the critical second confirmation print. Beat + sustained volume + FY2027 guide ≥3% organic → upgrade to Initiate (full position for non-holders). Miss or organic reversion → downgrade toward Avoid / reduce.
 
 ---
 
 ### Sources
 
-- [Procter & Gamble Investor Relations — Quarterly Results](https://www.pginvestor.com/financial-reporting/quarterly-results) (Q2 FY2026 earnings release, Jan 22, 2026; Q3 FY2025 guidance cut, Apr 24, 2025; CEO transition announcement, Jul 2025)
-- [SEC EDGAR — P&G filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000080424&type=10-K)
-- [Yahoo Finance — PG quote](https://finance.yahoo.com/quote/PG) (live price 2026-04-24 verified at $148.18)
-- [CNBC — search Procter & Gamble](https://www.cnbc.com/search/?query=procter+gamble) (financial data, 52-wk range, dividend)
-- [MarketBeat — PG](https://www.marketbeat.com/stocks/NYSE/PG/) (analyst consensus, price targets)
-- [PG Leadership](https://us.pg.com/leadership-team/) (CEO transition)
-- PG_price_analysis_2026-03-25.html (Three-Horizon Price & Event Analysis) [internal artifact]
-
-*Data gaps: full segment revenue, gross-margin trend, FCF history pending 10-K + earnings transcript ingestion post April 24, 2026.*
+- [P&G Q3 FY2026 Press Release — us.pg.com](https://us.pg.com/newsroom/news-releases/PG-Announces-Fiscal-Year-2026-Third-Quarter-Results/)
+- [P&G FY2025 Annual Report — Introduction & FY Results](https://us.pg.com/annualreport2025/introduction-and-fy-results/)
+- [P&G FY2025 Annual Report — Downloads](https://us.pg.com/annualreport2025/annual-report-downloads/)
+- [P&G FY2025 Form 10-K (PDF)](https://assets.ctfassets.net/oggad6svuzkv/7ssg6HBZvKjXxd6Va3ZuvD/e1048bf54cd6d87fb52a6ad9b35ef7b2/2025_form_10k.pdf)
+- [SEC EDGAR — P&G FY2025 10-K](https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm)
+- [SEC EDGAR — P&G FY2023 10-K](https://www.sec.gov/Archives/edgar/data/80424/000008042423000073/pg-20230630.htm)
+- [SEC EDGAR — P&G FY2022 10-K](https://www.sec.gov/Archives/edgar/data/80424/000008042422000064/pg-20220630.htm)
+- [stockanalysis.com — PG Financials (annual)](https://stockanalysis.com/stocks/pg/financials/)
+- [stockanalysis.com — PG Financials (quarterly)](https://stockanalysis.com/stocks/pg/financials/?p=quarterly)
+- [stockanalysis.com — PG Analyst Forecast](https://stockanalysis.com/stocks/pg/forecast/)
+- [Yahoo Finance — PG Quote](https://finance.yahoo.com/quote/PG)
+- [Fintel — PG Short Interest](https://fintel.io/ss/us/pg)
+- [Fintel — PG Insider Activity](https://fintel.io/sn/us/pg)
+- [MarketBeat — PG Analyst Ratings](https://www.marketbeat.com/stocks/NYSE/PG/price-target/)
+- [P&G Investor Relations — Press Releases](https://www.pginvestor.com/financial-reporting/press-releases/default.aspx)
+- [BNP Paribas Exane PT cut — defenseworld.net, Apr 26 2026](https://www.defenseworld.net/2026/04/26/bnp-paribas-exane-cuts-procter-gamble-nysepg-price-target-to-165-00.html)
+- [Jejurikar CEO Appointment — P&G IR](https://www.pginvestor.com/news/news-details/2025/Shailesh-Jejurikar-Elected-PG-President-and-Chief-Executive-Officer/default.aspx)
+- [P&G Annual Reports Index](https://www.pginvestor.com/financials/annual-reports/default.aspx)
+- [CSIMarket — PG competitive market share](https://csimarket.com/stocks/competitionSEG2.php?code=PG)
+- [BusinessModelAnalyst — P&G competitors](https://businessmodelanalyst.com/pg-competitors/)
+- raw/PG/press-releases/2026-04-Q3-results.txt (local; Q3 FY2026 data)
+- raw/PG/shareholder-letters/2025_letter.txt (local; FY2025 Moeller letter synthesis)

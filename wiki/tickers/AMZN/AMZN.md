@@ -1,64 +1,54 @@
 # AMZN — Amazon.com, Inc.
 
-> **Schema**: v2.5
-> **Last Updated**: 2026-04-25
+> **Schema**: v2.8
+> **Last Updated**: 2026-04-26
 > **Status**: Active
-> **Live Price Verified**: **~$247** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/AMZN) / [24/7 Wall St](https://247wallst.com/?s=Amazon) cross-check; trading near top of 1-yr range)
+> **Live Price Verified**: **$255.08** at April 23, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/AMZN))
 > **Ticker Type**: Capital-light platform / hyperscaler / e-commerce mega-cap
 
 ---
 
 ## Summary
 
-- 🟢 **Thesis**: Three-pillar Wide-moat mega-cap (AWS, advertising, marketplace logistics) mid-cycle in a generational AI infrastructure bet ($200B FY26 capex); ~$247 / 32× FY26E P/E offers Moderate BAIT setup ahead of Q1 FY26 print.
-- 🟢 **For a non-holder: Initiate** at $247 — quality-at-a-fair-price; three-pillar moat wider than index average; AI optionality underwritten by AWS scale.
-- 🟡 **For a current holder: Hold / Add modestly into Q1**. Drawdown risk into print is bounded (~–8% based on Q4 2025 precedent); upside on clean AWS beat meaningful.
-- 🎯 **Attractive entry zone**: **$210 – $235** (~28–30× FY26E P/E; aligns with mid-2025 lows).
-- 🎯 **Trim zone**: **$310 – $340** (top of analyst target band; ~36–40× FY26E P/E).
-- 📈 **Price action**: ~$247, **–6% from 52-wk high** (~$264), +38% above 52-wk low (~$179) — near highs.
-- 📅 **Next catalyst**: **Q1 FY26 earnings — April 29, 2026 (post-close)**. First print of $200B capex year.
-- ⚠️ **Top risk**: AI capex ROIC disappoints (35% prob, high impact) — $200B/yr is enormous; payback math debated.
-- ⚠️ **Second risk**: Q1 FY26 print misses guide (25% prob, high impact); AWS share loss to Azure on AI (30% prob, medium).
-- 🟡 **BAIT verdict**: **Triple overlap** (A Moderate-Strong + I Moderate + T Moderate; B only Moderate) — Conviction **Moderate**. KeyBanc raised PT to $325 / BofA $298 ahead of print ([24/7 Wall St](https://247wallst.com/?s=Amazon)).
+- 🟢 **Thesis**: Three-pillar Wide-moat mega-cap (AWS + advertising + marketplace logistics) **6 days ahead of the Q1 FY26 print** that begins validating the largest discretionary capex bet in corporate history (~$200B FY26 vs. $83B FY24); at **$255 / ~36× FY25 P/E** the market has substantially re-rated since the post-Q4 selloff and the bar is now "execution."
+- 🟢 **Moat verdict**: **Wide and Reinforcing** — AWS scale + custom silicon (Trainium2 at 30–40% better price-performance, *FY24 letter*), Prime ecosystem (200M+ members, 90%+ retention), three-pillar logistics network, advertising platform with first-party purchase data, marketplace network effects.
+- 🟡 **For a non-holder: Initiate (small) / Watch** — quality-at-fair-price set up but stock is +3% from 52-wk high and Q1 print is the binary moment; preferred entry is a pullback to $220–235.
+- 🟡 **For a current holder: Hold** — let Q1 print resolve before adding; trim only if AMZN gaps materially above $310 without earnings re-rate.
+- 🎯 **Attractive entry zone**: **$210 – $235** (~28–32× FY25 EPS; below mid-2025 lows).
+- 🎯 **Trim zone**: **$310 – $340** (top of analyst target band; Bull case partially priced).
+- 📈 **Price action**: $255.08, **–1.4% from 52-wk high** ($258.79), +43% above 52-wk low ($178.85) — near highs into print.
+- 📅 **Next catalyst**: 📅 **Q1 FY26 earnings — April 29, 2026 (post-close)**. Consensus rev $177.2B (+13%); EPS $1.63; AWS ~$36.8B (~+22%); UBS bull case +38% AWS.
+- ⚠️ **Top risk**: AI capex ROIC slips — $200B/yr is 4× FY23 capex with multi-year payback; **explicit thesis-break trigger if FY26 capex revised up >$250B without commensurate AWS AI revenue acceleration**.
+- ⚠️ **Second risk**: AWS share loss to Azure on AI workloads (Synergy data shows AWS at ~30% vs. peak 33%); not yet priced in to current 36× multiple.
+- 🟢 **BAIT verdict**: **Triple overlap (A Moderate-Strong + I Moderate + T Moderate)** — Conviction **Moderate**. PW EV ~$310 (3-yr) = +22% / ~7%/yr; **~3.5:1 R/R** (Bull $400 / Bear $170, anchored to §13).
+- 📈 **Primary-source signal**: Jassy's *FY25 letter* line **"We're not investing approximately $200 billion in capex in 2026 on a hunch... We already have customer commitments for a substantial portion of it"** is the cleanest demand-anchored capex-justification statement in 4 years of letters; Trainium4 reservations 18 months ahead of broad availability is the leading-indicator validation point.
 
 ---
 
 ## Business Overview
 
-Amazon (NASDAQ: AMZN) is the largest U.S. e-commerce retailer, the largest cloud infrastructure provider in the world (AWS), and a top-tier digital advertising platform — a three-pillar mega-cap that produced **~$675–700B in FY2025 revenue** [consensus est.; FY25 not yet fully reported] and is currently building toward **~$200B in FY2026 capital expenditures** to accelerate AI infrastructure. The company also operates Prime Video, MGM Studios, Kuiper (low-earth-orbit satellites), Zoox (autonomous robotaxis), and a growing healthcare footprint (One Medical, Amazon Pharmacy).
+Amazon (NASDAQ: AMZN) operates three durable Wide-moat franchises stitched together by a customer-obsession operating culture: **(1) the world's largest e-commerce retail + marketplace** (~$420B+ FY25 revenue across 1P retail, 3P seller services, subscriptions, and physical stores); **(2) AWS**, the world's largest cloud-infrastructure platform at **~$130B FY25 revenue** with **+24% Q4 YoY growth ("fastest in 13 quarters")** and **~$15B AI revenue run rate in Q1 2026** ([FY25 letter](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2025-letter-to-shareholders)); and **(3) advertising** at ~$60–70B run rate growing 20%+ YoY, now the third-largest digital ad business behind Google and Meta. Optionality stacks on top: Kuiper LEO satellites, Zoox robotaxis, Amazon Pharmacy / One Medical, MGM Studios, and the Anthropic partnership ($8B+ invested).
 
-**Q4 FY25 (calendar Q4 2025) results** ([AMZN Q4 press release, Feb 2026](https://ir.aboutamazon.com/news-release/default.aspx)): revenue $213.4B (+14% YoY) beat consensus $211.5B; EPS $1.95 vs. $1.97 estimate; AWS revenue **$35.6B at +24% YoY** — AWS's "fastest growth in 13 quarters" per CEO Andy Jassy; operating income $25.0B (~11.7% margin). Notably, the stock fell **–8% on the print** because management raised the 2026 capex outlook to ~$200B (vs. $80B in 2024), reigniting concerns about AI-spending-vs.-payback.
+**FY2025 results** ([Q4 8-K](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000002/amzn-20251231xex991.htm)):
 
-The strategic pivot is fundamental: Amazon is committing $200B/year to AI infrastructure (custom Trainium/Inferentia chips, NVIDIA GPUs, hyperscale data centers, low-earth-orbit Kuiper satellites, AI software stack, Anthropic partnership). Bulls argue this is the same generational bet that built AWS in 2007–2015. Bears argue the spend cycle is too aggressive and ROIC will compress. Q1 2026 earnings on April 29, 2026 (5 days from this writeup) will be the first formal print to start validating the thesis.
+- Revenue **$716.9B** (+12% YoY)
+- Operating income **$80.0B** (11.2% margin) — vs. $68.6B FY24
+- Net income **$77.7B**; EPS (diluted) **$7.17**
+- AWS revenue ~$130B; **AWS op income $45.6B** vs. $39.8B FY24
+- North America segment op income **$29.6B** vs. $25.0B FY24
+- International segment op income **$4.7B** vs. $3.8B FY24
+- FCF compressed to **$7.7B** (vs. $32.9B FY24) — AI capex absorbing it
+- Q4 capex announcement: **~$200B FY26 capex** (vs. $83B FY24, $52.7B FY23)
 
----
-
-## Moat Assessment
-
-**Wide** — among the widest in the entire equity universe. Three reinforcing moats.
-
-**Sources**:
-- **AWS scale + switching costs**: ~$130B FY25 ARR cloud business; multi-year customer commitments; switching off AWS is operationally prohibitive for most enterprise tenants. Custom silicon (Trainium2/Inferentia2) creates further lock-in via cost-per-token advantage.
-- **Prime ecosystem**: ~200M+ Prime members globally; 90%+ retention; bundling (Prime shipping + Video + Music + Pharmacy + Whole Foods discounts) is hard for any competitor to replicate
-- **Logistics network**: 1,500+ U.S. fulfillment / delivery facilities; same-day / next-day capabilities at scale that no peer (Walmart, Target, Shopify+third-party) can match for breadth × speed
-- **Advertising platform**: ~$60–70B run rate; second- or third-largest digital ad business globally, with Amazon's first-party purchase data being uniquely valuable
-- **Marketplace network effect**: 60%+ of e-commerce GMV is third-party sellers; sellers can't ignore Amazon's customer base
-- **Custom silicon + AI vertical integration**: Trainium ($20B+ chip business per Jassy 2026 commentary), Bedrock (managed AI service), Anthropic partnership ($8B+ invested) — vertical AI advantage growing
-
-**Vulnerabilities**:
-- **AI capex cycle ROIC**: $200B/year capex; payback math is the #1 active debate
-- **Antitrust scrutiny (FTC, EU)**: ongoing structural concerns about marketplace bundling
-- **Walmart in retail**: WMT has executed strongly on omnichannel; e-commerce growth narrowed gap
-- **Microsoft Azure / Google Cloud**: AWS market share has slipped from 33% peak to ~30%; competitors are competitive on AI workloads
-- **Tariff / trade policy**: 2026 tariff dynamics raise import cost basis in retail ([Capital.com forecast Mar 2026](https://capital.com/amazon-stock-price-forecast))
+The strategic frame is unambiguous from primary sources. Jassy's *FY24 letter*: *"If your mission is to make customers' lives better and easier every day, and you believe every customer experience will be reinvented by AI, you're going to invest deeply and broadly in AI."* The *FY25 letter* removes any ambiguity about the 2026 cycle: *"We're not going to be conservative in how we play this — we're investing to be the meaningful leader."*
 
 ---
 
 ## Pivotal Investment Question
 
-> Is Amazon's $200B/year AI capex cycle the next-decade analog of the 2007–2015 AWS capex bet — i.e., does it generate a multi-trillion-dollar incremental AI-as-a-service business that justifies a higher trillion-dollar valuation by 2030 — or has the AI build-out already exceeded sustainable economic-payback assumptions, in which case AMZN compresses on multiple as ROIC declines?
+> **Is the $200B FY26 AI-infrastructure capex the next-decade analog of the 2007–2015 AWS capex bet — generating a multi-trillion-dollar AI-as-a-service business that justifies a $4T+ valuation by 2030 — or has the build-out exceeded sustainable demand assumptions, in which case AMZN compresses on multiple as ROIC declines?**
 
-The answer determines whether AMZN re-rates toward $325 (KeyBanc bull) within 18 months or compresses back toward $200 (the early-2026 lows) on a slower-than-hoped AI monetization curve.
+The market is currently leaning toward "this is the AWS bet, again" (stock +43% off 52-wk low, –1.4% from high, 36× FY25 P/E). Primary-source signals supporting that read: **Trainium4 reservations 18 months ahead of broad availability** ([FY25 letter](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2025-letter-to-shareholders)); **AWS AI revenue run rate $15B in Q1 2026** (Jassy April 9 commentary); UBS forecasting +38% AWS growth in 2026 vs. Street ~26%. Counter-signals: AWS share has slipped from ~33% to ~30% (Synergy Research), Azure AI services growth has outpaced AWS in recent quarters, and the FCF compression to $7.7B FY25 is the steepest in 4 years. The April 29 Q1 print is the first hard validation point.
 
 ---
 
@@ -66,282 +56,387 @@ The answer determines whether AMZN re-rates toward $325 (KeyBanc bull) within 18
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **~$247** | April 24, 2026 ([24/7 Wall St](https://247wallst.com/?s=Amazon) / [Yahoo Finance](https://finance.yahoo.com/quote/AMZN) cross-check) |
-| 52-Week Range (1-yr) | ~$179 – $264 | Yahoo Finance chart |
-| % From 52-Wk High | ~–6% | |
-| % Above 52-Wk Low | ~+38% | |
-| Market Cap | ~$2.6T | [Estimate] ~10.5B diluted shares × $247 |
-| Q4 FY25 Revenue | $213.4B | +14% YoY; beat $211.5B consensus |
-| Q4 FY25 Operating Income | $25.0B | 11.7% margin |
-| Q4 FY25 EPS | $1.95 | vs. $1.97 estimate |
-| Q4 FY25 AWS Revenue | $35.6B | +24% YoY; "fastest in 13 quarters" |
-| AWS AI Revenue Run Rate | $15B | Per Jassy ([Q4 2025 call — AMZN IR](https://ir.aboutamazon.com/news-release/default.aspx)) |
-| Trainium / Custom Chips | $20B+ run rate | Per Jassy commentary |
-| FY2026 Capex Guide | ~$200B | Up from $80B in 2024 |
-| Q1 FY26 Revenue Guide | $173.5–178.5B | Consensus $175.5B |
-| Q1 FY26 Op Income Guide | $16.5–21.5B | Consensus $22.2B (high end of guide) |
-| Analyst Target (BofA) | $298 | Raised from $275 (Apr 2026) |
-| Analyst Target (KeyBanc) | $325 | Raised from $285 (Apr 2026) |
-| **Q1 FY26 Earnings Date** | **April 29, 2026** | **Hard catalyst, 5 days out** |
+| Live Price | **$255.08** | April 23, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/AMZN)) |
+| 52-Week Range | $178.85 – $258.79 | Yahoo Finance |
+| % From 52-Wk High | –1.4% | Near top of range |
+| % Above 52-Wk Low | +42.6% | |
+| Market Cap | ~$2.74T | Yahoo Finance |
+| Avg Daily Volume | ~51.5M shares | |
+| P/E (TTM) | 35.58 | Yahoo Finance |
+| EPS (TTM) | $7.17 | FY25 GAAP |
+| FY25 Revenue | $716.9B | +12% YoY |
+| FY25 Op Income | $80.0B | 11.2% margin |
+| FY25 AWS Op Income | $45.6B | vs. $39.8B FY24 |
+| FY25 Capex | ~$100B [Estimate] | Up from $83B FY24 |
+| **FY26 Capex Guide** | **~$200B** | Up from $83B FY24; central debate |
+| Q1 FY26 Rev Consensus | $177.2B | +13% YoY |
+| Q1 FY26 EPS Consensus | $1.63 | +2.5% YoY |
+| Q1 FY26 AWS Consensus | ~$36.8B | ~+22%; UBS bull +38% |
+| Aggregate Analyst Rating | Strong Buy (42 Buys / 3 Holds) | Avg PT $286 ([TipRanks](https://www.tipranks.com/stocks/amzn)) |
+| BMO PT | $315 (raised from $310) | ([TipRanks](https://www.tipranks.com/news/top-bofa-analyst-lifts-amazon-amzn-stock-price-target-ahead-of-q1-earnings-heres-why)) |
+| KeyBanc PT | $325 | (Apr 2026) |
+| BofA PT | $298 | (Apr 2026) |
+| **Q1 FY26 Earnings Date** | **April 29, 2026** | **Hard catalyst, 3 days out** |
 
 ---
 
-## Section 1 — Why Does This Company Exist? + Pivotal Investment Question
+## Section 1 — Why Does This Company Exist?
 
-**Founding insight (Jeff Bezos, 1994)**: The internet would commoditize selection and price discovery in retail. A company that obsessed over customer experience (selection, price, convenience) and ploughed every dollar of profit back into expanding capability would compound value at rates traditional businesses could not. The 2002–2006 AWS pivot extended the framework to cloud infrastructure: Amazon was already operating internet-scale infrastructure for itself; productizing it for external developers turned a cost center into the most profitable cloud business in history.
+**Founding insight (Jeff Bezos, 1994)**: The internet would commoditize selection and price discovery in retail. A company obsessed with customer experience (selection, price, convenience) and ploughing every dollar of profit back into capability expansion would compound at rates traditional businesses could not.
 
-**Today**: Amazon is ~$700B revenue across e-commerce ($420B+), AWS ($130B+), advertising ($65B+), subscriptions ($45B), physical stores ($22B), and other (Kuiper, devices, healthcare, AI). The AI build-out is the third generational bet — capex of ~$200B/year for 2026, much of it for AI infrastructure (chips, data centers, software stack, satellite connectivity).
+**The 2002–2006 AWS pivot** extended the framework — Amazon was already running internet-scale infrastructure for itself; productizing it became the most profitable cloud business in history.
 
-**Pivotal question**: Does the AI capex cycle (a) generate a multi-hundred-billion incremental AI-services business that justifies $3T+ market cap by 2030, or (b) over-spend ahead of demand and compress ROIC even if revenue grows acceptably?
+**Today (2026)**: Amazon is mid-flight in the **third generational bet**: AI infrastructure (chips, data centers, software stack, satellite connectivity), with $200B/yr capex going to where the next decade of compute demand will live. Bezos's *2020 final letter* succession messaging — *"Andy is brilliant and has the highest of high standards. I guarantee you that Andy won't let the universe make us typical"* — has been operationalized: Jassy executed the post-COVID retail rationalization (27,000 corp-role cuts, [FY22 letter](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2022-letter-to-shareholders)), led the AWS reacceleration thesis, and has now committed the company to the AI-infrastructure cycle.
 
 ---
 
 ## Section 2 — Annual Financial Metrics
 
-| Metric | FY2022 | FY2023 | FY2024 | FY2025 | FY2026E (consensus) |
-|--------|--------|--------|--------|--------|---------------------|
-| Revenue | $514B | $574.8B | $638B | ~$700B [Estimate] | ~$770–790B [consensus] |
-| YoY Growth | +9% | +12% | +11% | ~+10% | ~+11% |
-| Operating Income | $12.2B | $36.9B | $68.6B | ~$95B [Estimate] | ~$110–120B [consensus] |
-| Op Margin | 2.4% | 6.4% | 10.8% | ~13.5% | ~14% |
-| AWS Revenue | $80B | $90.8B | $107.6B | ~$130B | ~$160B |
-| AWS Op Income | $22.8B | $24.6B | $39.8B | ~$45B [Estimate] | ~$55B+ |
-| Capex | $63B | $48B | $77.7B | ~$100B [Estimate] | ~$200B (guide) |
-| FCF | –$11.6B | $35.5B | $32.9B | ~$30B [Estimate] | sharply negative until AI capex normalizes |
+| Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026E |
+|--------|--------|--------|--------|--------|--------|---------|
+| Revenue | $469.8B | $514.0B | $574.8B | $638.0B | **$716.9B** | ~$790B [consensus] |
+| YoY Growth | — | +9% | +12% | +11% | **+12%** | ~+10% |
+| Operating Income | $24.9B | $12.2B | $36.9B | $68.6B | **$80.0B** | ~$95B [consensus] |
+| Op Margin | 5.3% | 2.4% | 6.4% | 10.8% | **11.2%** | ~12% |
+| AWS Revenue | $62.2B | $80.1B | $90.8B | $107.6B | ~$130B | ~$160B |
+| AWS Op Income | $18.5B | $22.8B | $24.6B | $39.8B | **$45.6B** | ~$55B |
+| North America Op Income | $7.3B | –$2.8B | $14.9B | $25.0B | **$29.6B** | ~$33B |
+| International Op Income | –$0.9B | –$7.7B | –$2.7B | $3.8B | **$4.7B** | ~$6B |
+| Capex | $61B | $63.6B | $52.7B | $83.0B | ~$100B [est] | **~$200B (guide)** |
+| FCF | –$14.7B | –$16.9B | $32.2B | $32.9B | **$7.7B** | likely negative |
+| EPS (Diluted) | $3.24 | –$0.27 | $2.90 | $5.53 | **$7.17** | ~$8.00 [consensus] |
+| Shares Outstanding | 10.18B | 10.24B | 10.38B | 10.59B | 10.73B | ~10.85B |
 
-*Note: FY25 figures are best-estimate; full FY25 not yet reported. Q4 FY25 disclosed Feb 2026 = $213.4B revenue. ([AMZN Q4 FY25 press release, Feb 2026](https://ir.aboutamazon.com/news-release/default.aspx); [Futurum analysis](https://futurumgroup.com/?s=Amazon+AWS))*
+*Sources: [stockanalysis.com](https://www.stockanalysis.com/stocks/amzn/financials/) (FY21–25), [Q4 FY25 8-K](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000002/amzn-20251231xex991.htm), 10-K segment data via SEC EDGAR.*
 
-### Recent Quarter
+### Recent Quarter (Q4 FY25)
 
-| Quarter | Revenue | Op Income | AWS Rev | AWS Growth | Notes |
-|---------|---------|-----------|---------|-----------|-------|
-| Q3 FY25 | ~$159B (est.) | — | — | +20.2% | "Largest growth in 11 quarters" — re-acceleration narrative begins ([Futurum](https://futurumgroup.com/?s=Amazon+AWS)) |
-| Q4 FY25 | $213.4B (+14%) | $25.0B (11.7%) | $35.6B | +24% | "Fastest in 13 quarters"; stock –8% on $200B capex guide ([AMZN PR](https://ir.aboutamazon.com/news-release/default.aspx), [CNBC](https://www.cnbc.com/quotes/AMZN)) |
-| Q1 FY26 (guide) | $173.5–178.5B | $16.5–21.5B | — | — | Print: April 29, 2026 |
+| Metric | Value | YoY |
+|--------|-------|-----|
+| Revenue | $213.4B | +14% |
+| Operating Income | $25.0B (11.7% margin) | — |
+| EPS | $1.95 | (vs. $1.97 cons.) |
+| AWS Revenue | $35.6B | +24% ("fastest in 13 quarters") |
+| Stock reaction | –8% | on $200B FY26 capex guide |
+
+### Primary Source: 10-K Segment Detail (FY2024 + multi-year MD&A)
+
+The 5-year segment evolution (FY21 → FY25) tells a clean story that aggregator headlines flatten:
+
+- **AWS op income trajectory**: $18.5B → $22.8B → $24.6B → $39.8B → $45.6B. The **FY24 step-change (+62% YoY)** was the "cost optimization attenuating" inflection Jassy flagged in the *FY23 letter*: *"By the end of 2023, we saw cost optimization attenuating, new deals accelerating, customers renewing at larger commitments over longer time periods."* AWS op margin expanded from ~24% (FY22) to ~37% (FY24) on operating leverage as the customer-optimization cycle ended.
+- **North America: structural turn**. NA op income went **–$2.8B (FY22) → +$29.6B (FY25)** — a **+$32B swing in 3 years**. Drivers from MD&A: regionalization of fulfillment (sub-day delivery without cost penalty), advertising operating leverage (~50% margins on $60–70B run rate), and per-unit cost-to-serve declining for the first time since 2018 ([FY23 letter](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2023-letter-to-shareholders): *"In 2023, for the first time since 2018, we reduced our cost to serve on a per unit basis globally"*).
+- **International: profitability inflection**. Intl op income went **–$7.7B (FY22) → +$4.7B (FY25)** — first time profitable at scale; same regionalization playbook applied to UK / EU / India / Brazil.
+- **Capex acceleration**: $52.7B (FY23) → $83B (FY24) → ~$100B (FY25) → **$200B (FY26 guide)** — a 4× acceleration over 3 years. The FY25 letter's framing: *"We only start monetizing this capital investment many months after we spend the capital, and over many years — which leads to attractive long-term FCF and ROIC"* ([FY24 letter](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2024-letter-to-shareholders)).
+
+The MD&A read changes the thesis from "Amazon is spending more on AI" to "Amazon's three-segment op income engine just printed +$45B in 3 years and is being entirely re-deployed into AI infrastructure with disclosed multi-year customer commitments."
 
 ---
 
 ## Section 3 — Geographic Revenue Mix
 
-| Segment | FY2024 (est.) | Notes |
-|---------|---------------|-------|
-| North America (e-commerce, advertising, physical stores) | ~$390B (~61%) | Core retail + ads |
-| International (e-commerce in EU, JP, IN, BR, AU, etc.) | ~$140B (~22%) | Lower margin; growing |
-| AWS (global) | ~$108B (~17%) | Highest margin segment |
+| Segment | FY2024 Rev | FY2024 Op Inc | FY2025 Rev | FY2025 Op Inc | Notes |
+|---------|------------|---------------|------------|---------------|-------|
+| North America | ~$390B (~61%) | $25.0B | ~$435B (~61%) | **$29.6B** | Retail + ads + Prime + physical stores |
+| International | ~$140B (~22%) | $3.8B | ~$152B (~21%) | **$4.7B** | Profitable for first time at scale |
+| AWS (global) | $107.6B (~17%) | $39.8B | ~$130B (~18%) | **$45.6B** | Highest-margin segment |
 
-**Forward-looking**: AWS share of revenue and operating income will continue rising through 2026 as the AI workload mix accelerates. International e-commerce remains growth-positive but lower-margin; India and Brazil are notable expansion fronts. Tariff risk from 2026 trade policy primarily affects the North America retail segment.
+**Forward-looking**: AWS revenue and op-income share will continue rising through 2026 as AI workload mix accelerates. India and Brazil are the highest-incremental-growth international fronts. Tariff risk (2026 trade policy) primarily impacts the NA retail segment — Capital.com flagged this as a base-case headwind.
 
 ---
 
 ## Section 4 — Revenue Mix & Business Model
 
-| Stream | FY24 Approx Mix | Operating Margin Profile |
+| Stream | FY25 Approx Mix | Operating Margin Profile |
 |--------|----------------|--------------------------|
-| Online stores (1P retail) | ~38% | Low (<3%); volume-driven |
-| Third-party seller services (3P marketplace + FBA) | ~24% | Mid-teens |
-| AWS (cloud) | ~17% | High (35%+) |
-| Advertising services | ~10% | Very high (50%+ est.) |
+| Online stores (1P retail) | ~38% | Low single digit |
+| 3P seller services (FBA + commission) | ~24% | Mid-teens |
+| AWS | ~18% | ~35% |
+| Advertising services | ~10% | ~50%+ [Estimate] |
 | Subscription services (Prime, Music, etc.) | ~7% | Embedded value |
-| Physical stores (Whole Foods, Fresh) | ~3% | Low single-digit |
-| Other (Kuiper, devices, etc.) | ~1% | Currently negative |
+| Physical stores (Whole Foods, Fresh) | ~3% | Low single digit |
+| Other (Kuiper, devices, healthcare) | ~1% | Currently negative |
 
-**Operating-leverage profile**: Operating income mix is very different from revenue mix — AWS contributes ~50% of total op income at ~17% of revenue; advertising likely ~25% at ~10% of revenue. Thus the consolidated multiple should weight the high-margin segments heavily — a key bull-case lens.
+**Operating-leverage signature**: Op income mix differs sharply from revenue mix. AWS contributes ~57% of total op income on ~18% of revenue. Advertising at ~10% of revenue likely contributes ~25% of op income. The implication for valuation: a sum-of-the-parts lens on AWS + Ads alone supports much of the current $2.74T market cap, with retail effectively free.
 
-**Business-model evolution**: 1P retail (1995–2005) → 3P marketplace + Prime (2005–2015) → AWS dominance (2015–2025) → AI infrastructure / vertical AI / Kuiper / autonomous (2025–2035).
+**Business-model evolution arc**:
+- **1P retail** (1995–2005)
+- **3P marketplace + Prime** (2005–2015)
+- **AWS dominance** (2015–2025)
+- **AI infrastructure / vertical AI / Kuiper / autonomous** (2025–2035 — current bet)
 
 ---
 
 ## Section 5 — Competitive Moat
 
-**Rating: Wide**. Multi-pillar; among the strongest in equities.
+**Rating: Wide and Reinforcing.** Among the strongest in U.S. equities — three pillars (AWS, advertising, marketplace+logistics) each individually category-leading.
 
 | Source | Strength | Evidence |
 |--------|----------|----------|
-| AWS scale + switching costs | Strong (Wide) | $130B ARR; multi-year customer commitments; custom-silicon lock-in |
-| Prime ecosystem | Strong (Wide) | 200M+ members; 90%+ retention; bundling complexity unmatched |
-| Logistics + fulfillment network | Strong (Wide) | Cap-light competitors cannot replicate same-day/next-day breadth |
-| Marketplace network effects | Strong | 3P sellers + 1P retail flywheel |
-| Advertising platform | Strong (growing) | First-party purchase data; closed-loop attribution |
-| Custom silicon (Trainium/Inferentia) | Moderate (growing) | Cost-per-token advantage vs. NVIDIA-only stacks |
-| Data + ML capability | Strong | Decade+ of recommendation, supply-chain optimization, Alexa, Bedrock |
+| AWS scale + switching costs | Wide | $130B FY25 ARR; multi-year customer commitments; switching off AWS is operationally prohibitive for most enterprise tenants |
+| Custom silicon (Trainium2/Inferentia2/Trainium4) | Widening | 30–40% better price-performance vs. GPU-only stacks (FY24 letter); Trainium4 reservations placed 18 months ahead of GA (FY25 letter) |
+| Prime ecosystem | Wide | 200M+ members; 90%+ retention; bundling (shipping + Video + Music + Pharmacy + Whole Foods) is unmatched |
+| Logistics + fulfillment network | Wide | 1,500+ U.S. fulfillment / delivery facilities; per-unit cost-to-serve declining for first time since 2018 |
+| Advertising platform | Widening | $60–70B run rate; first-party purchase data uniquely valuable; closed-loop attribution |
+| Marketplace network effects | Wide | 60%+ of e-commerce GMV is 3P sellers; sellers cannot ignore Amazon's customer base |
 
 **Vulnerabilities**:
-- AI capex ROIC (the active debate)
-- AWS market share at ~30% has slipped from peak ~33%; AZURE and GCP gaining on AI workloads
-- Antitrust (FTC litigation pending); EU Digital Markets Act constraints
-- Tariff and trade policy headwinds (Capital.com flagged this Mar 2026)
-- Founder-mode dilution: Bezos transitioned to executive chair; Jassy leads; cultural execution risk over multi-decade horizon
+- AI capex ROIC (the active debate; tied to Section 8 thesis-break trigger)
+- AWS share at ~30% slipped from ~33% peak; Azure leads on Copilot-pull AI workloads
+- FTC litigation (filed 2023) — slow-moving but structural risk
+- Tariff / trade policy headwinds on retail (Capital.com flagged Mar 2026)
+
+### Competitive Landscape
+
+Amazon is unique in U.S. equities in that it competes across **four distinct competitor sets simultaneously** (retail, cloud, advertising, logistics). The moat differs by pillar.
+
+**Retail (e-commerce + omnichannel)**:
+
+| Peer | Market Share / Scale | Moat / Threat Vector |
+|------|---------------------|---------------------|
+| **Walmart (WMT)** | ~$650B revenue; #1 U.S. retail; $100B+ U.S. e-commerce | Strongest direct threat in NA — omnichannel + grocery scale + Walmart+ subscription; e-commerce growth has narrowed AMZN's lead |
+| **Costco (COST)** | ~$260B revenue; membership warehouse | Different model (in-store-anchored membership); not a direct e-commerce threat |
+| **Target (TGT)** | ~$110B revenue | Niche apparel/home positioning; not a structural threat |
+| **Shopify (SHOP)** | $11.6B platform revenue; $378B GMV across merchants | Indirect — enables independent merchants; Shopify+merchant ecosystem effectively counter-positions AMZN's marketplace |
+| **Temu / Shein (PDD / private)** | $50B+ combined U.S. GMV (est.) | Low-price aggregator threat at the long-tail; AMZN responding with Haul |
+| **MercadoLibre (MELI)** | ~$20B revenue; LatAm leader | International category leader; AMZN trailing in LatAm |
+
+**Cloud (IaaS / PaaS)**:
+
+| Peer | Market Share | Moat / Threat Vector |
+|------|-------------|---------------------|
+| **AWS** | ~30% (down from 33% peak) | Service breadth, custom silicon, ecosystem |
+| **Microsoft Azure** | ~25% (rising) | Copilot-pull AI demand; enterprise Office 365 cross-sell; OpenAI partnership |
+| **Google Cloud (GCP)** | ~12% (rising) | Gemini AI + TPU silicon; weaker enterprise sales motion |
+| **Oracle Cloud (OCI)** | ~3% | Niche; benefiting from OpenAI / TikTok deals; punching above weight |
+| **Alibaba Cloud** | ~5% global, dominant in China | China-only relevance |
+
+**Advertising**:
+
+| Peer | Digital Ad Revenue (run rate) | Moat / Threat Vector |
+|------|------------------------------|---------------------|
+| **Google (GOOGL)** | $300B+ | Search + YouTube; intent-data leader |
+| **Meta (META)** | $170B+ | Social + interest-data leader |
+| **Amazon Ads** | $60–70B (growing 20%+) | First-party purchase data; closed-loop attribution unique to AMZN |
+| **TikTok / ByteDance** | $30B+ U.S. (est.) | Short-form video; Gen Z reach; regulatory risk |
+
+**Logistics**:
+
+| Peer | Scale | Moat / Threat Vector |
+|------|-------|---------------------|
+| **FedEx (FDX)** | ~$90B revenue | B2B parcel; AMZN reduced reliance |
+| **UPS** | ~$95B revenue | Same |
+| **USPS** | $80B+ | Last-mile rural; AMZN partner/competitor |
+| **Amazon Logistics** | Internal cost center, exists at hyperscale | Same-day / next-day breadth × speed unmatched |
+
+**How Amazon's moat differs**: The cross-pillar reinforcement is the differentiator. **Prime data feeds advertising** (closed-loop attribution); **logistics scale subsidizes retail margin** (per-unit cost-to-serve declining); **AWS profits subsidize retail capex** (the historical pattern); **Trainium custom silicon** lowers AI cost-per-token, which lowers Bedrock pricing, which pulls AI workloads to AWS. No single peer competes across more than two pillars; only Microsoft (Azure + advertising) comes close, and Microsoft has no retail/marketplace/logistics franchise.
+
+**Honest tail-risk read**: Microsoft is well-capitalized, currently winning AI workloads on Copilot pull, and could escalate further if OpenAI continues to cluster on Azure. AWS share trend (33% → 30%) is the cleanest real-time vulnerability indicator. **Q1 FY26 AWS growth rate vs. Azure growth rate is the single most important data point on April 29.**
 
 ---
 
 ## Section 6 — Management & Leadership
 
-**CEO**: Andy Jassy — Bezos's hand-picked successor, former AWS chief. Track record on AWS is exceptional. As CEO since 2021, Jassy navigated the post-COVID retail re-balancing, drove cost discipline (massive 2022–2023 layoffs, fulfillment network rationalization), and engineered the AWS re-acceleration in 2025–2026. Q4 2025 capex announcement of $200B was explicit communication that he is willing to bet the company on AI.
+**CEO**: Andy Jassy — Bezos-designated successor, former AWS chief. As CEO since 2021, he navigated the post-COVID retail re-balancing, drove cost discipline (27,000 corporate role cuts, [FY22 letter](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2022-letter-to-shareholders)), engineered the FY24 AWS reacceleration, and has now committed the company to the $200B FY26 AI infrastructure cycle.
 
-**Bezos** remains executive chair and ~9% shareholder; not in day-to-day operations but cultural anchor.
+**Founder**: Jeff Bezos — Executive Chair, ~9% shareholder. Out of day-to-day operations but the cultural anchor; Bezos's *2020 final letter* succession line — *"Andy is brilliant and has the highest of high standards. I guarantee you that Andy won't let the universe make us typical"* — was the explicit blessing.
 
-**CFO**: Brian Olsavsky — long-tenured and credible.
+**CFO**: Brian Olsavsky — long-tenured, credible.
 
 **Capital allocation track record**:
-- **AWS**: ~$300B+ cumulative reinvested over 2007–2025; built world's most profitable cloud
-- **Logistics**: ~$200B+ cumulative; built unparalleled network
-- **AI capex**: ~$200B FY26 guide; the bet of the next decade
+- **AWS**: ~$300B+ cumulative reinvestment 2007–2025; built the most profitable cloud business in history
+- **Logistics**: ~$200B+ cumulative; built unparalleled fulfillment network
+- **AI capex**: ~$200B FY26 guide — the bet of the next decade
 - **Buybacks**: Modest historically; $10B authorization (low priority)
 - **Dividend**: None
-- **M&A**: MGM ($8.45B, 2022), One Medical ($3.9B, 2023), iRobot (terminated), Anthropic ($8B+ investment); track record is mixed — MGM/One Medical underperforming early; Anthropic looking strong
+- **M&A**: MGM ($8.45B, 2022), One Medical ($3.9B, 2023), iRobot (terminated by EU), Anthropic ($8B+ investment); mixed track record — Anthropic looking strongest
 
-**Insider activity**: Bezos has executed a large 10b5-1 trading plan (~$13B in 2024–2025); routine and pre-announced. Other insider activity is typical RSU-vesting selling.
+**Insider activity (last 90 days)**: Bezos has executed routine 10b5-1 plan sales (~$13B 2024–2025); pre-announced and not interpretive. Other insider activity is RSU-vesting routine.
+
+### Recent Management Commentary — Primary Source Synthesis
+
+#### Verbatim quotes mapped to investment relevance
+
+- 🟢 *"We're not investing approximately $200 billion in capex in 2026 on a hunch... We already have customer commitments for a substantial portion of it"* ([FY25 letter](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2025-letter-to-shareholders)) — **Investment relevance**: This is the single most important sentence Jassy has written in 4 years. It explicitly anchors capex to disclosed-but-not-quantified customer demand commitments, which is the response to the bear case that capex is supply-driven speculation.
+- 🟢 *"A significant chunk of Trainium4, which is still about 18 months from broad availability, has already been reserved"* ([FY25 letter](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2025-letter-to-shareholders)) — **Relevance**: Forward-reservation evidence is the cleanest leading indicator that custom silicon has demand pull, not just push.
+- 🟡 *"AWS's AI revenue run rate is over $15 billion in Q1 2026 (nearly 260 times larger)"* (Jassy April 9, 2026 commentary) — **Relevance**: Disclosed AI revenue scale; Street under-models this.
+- 🟢 *"Trainium2 chips offer 30-40% better price-performance than the current GPU-powered compute instances generally available today"* ([FY24 letter](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2024-letter-to-shareholders)) — **Relevance**: Specific quantified moat statement — the cost-per-token advantage.
+- 🟡 *"By the end of 2023, we saw cost optimization attenuating, new deals accelerating, customers renewing at larger commitments over longer time periods"* ([FY23 letter](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2023-letter-to-shareholders)) — **Relevance**: The exact early signal of the AWS reacceleration that drove FY24 op income +62%; Jassy's framing was 6+ months ahead of the print.
+- 🟢 *"In 2023, for the first time since 2018, we reduced our cost to serve on a per unit basis globally"* ([FY23 letter](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2023-letter-to-shareholders)) — **Relevance**: Inflection point on retail margin structure — the FY23 → FY25 NA op income +$15B is the operationalization.
+- 🟡 *"It remains Day 1"* ([FY20 final Bezos letter](https://www.aboutamazon.com/news/company-news/2020-letter-to-shareholders)) — **Relevance**: Cultural continuity anchor; Jassy's *FY25 letter* explicitly references the 1997 letter — *"What's written there is as true today as it was in 1997"* — closing the cultural-continuity loop.
+
+#### 5-Year Capital Allocation Arc (FY2020 Bezos final → FY2025 Jassy fourth)
+
+| Letter (FY) | Author | Capital Allocation Frame | Key Quote |
+|---|---|---|---|
+| FY20 | Bezos (final) | Day 1 + customer-obsession + succession blessing | *"It remains Day 1."* / *"Andy won't let the universe make us typical."* |
+| FY21 | Jassy (first) | Iterative innovation; COVID-era fulfillment doubled in 24 months | *"Iterative innovation creates magic for customers."* |
+| FY22 | Jassy | **Restraint cycle** — 27,000 corporate role cuts; AWS sales helping customers optimize spend | *"We took a deep look across the company, business by business, invention by invention."* |
+| FY23 | Jassy | **Reacceleration signal** — cost optimization attenuating; cost-to-serve down for first time since 2018 | *"...new deals accelerating, customers renewing at larger commitments..."* |
+| FY24 | Jassy | **AI build-out announced** — Trainium2 quantified; AWS AI multi-billion run rate | *"We only start monetizing this capital investment many months after we spend the capital, and over many years..."* |
+| FY25 | Jassy | **$200B FY26 capex anchored to customer commitments** — Trainium4 18-mo reservations | *"We're not investing approximately $200 billion in capex in 2026 on a hunch."* |
+
+The arc reveals a deliberate cadence: restraint (FY22) → reaccel signal (FY23) → AI build-out (FY24) → demand-anchored mega-capex (FY25). Each year's letter validated the next year's print before the print happened. This is an unusually high-fidelity letter arc and is the strongest single argument for trusting the FY26 capex bet.
 
 ---
 
 ## Section 7 — Strategic Growth Initiatives
 
-1. **AWS AI infrastructure**: $200B FY26 capex; targeting $600B annual sales by 2036 per Jassy commentary ([Q4 2025 call — AMZN IR](https://ir.aboutamazon.com/news-release/default.aspx))
-2. **Custom silicon (Trainium / Inferentia)**: $20B run rate; cost-per-token advantage; differentiator vs. NVIDIA-stack-only competitors
-3. **Anthropic partnership**: $8B+ invested; Claude on AWS; deep AI model strategic position
-4. **Advertising scale-up**: $60–70B run rate growing >20% YoY; high-margin
-5. **Prime Video / MGM monetization**: Ad-supported tier; sports rights (NFL Thursday Night, NBA)
-6. **Kuiper (low-earth-orbit satellites)**: Multi-billion-dollar initial deployment; broadband-as-a-service; competitor to Starlink
-7. **Healthcare**: One Medical + Amazon Pharmacy + RxPass
-8. **Robotics / Zoox**: Autonomous robotaxis (Zoox); fulfillment robotics (already 750K+ robots)
-9. **International e-commerce**: India, Brazil expansion
+1. **AWS AI infrastructure** — $200B FY26 capex; $15B AI run rate Q1 2026; targeting "meaningful leader" position
+2. **Custom silicon (Trainium2/4, Inferentia2)** — $20B+ run rate; Trainium4 18-mo-forward reservations placed
+3. **Anthropic partnership** — $8B+ invested; Claude on AWS; deepest external AI model partnership of any hyperscaler
+4. **Advertising scale-up** — $60–70B run rate growing >20% YoY; ~50% op margin
+5. **Prime Video / MGM monetization** — Ad-supported tier; sports rights (NFL Thursday Night, UEFA Champions League EU per FY24 letter)
+6. **Kuiper LEO satellites** — Multi-billion-dollar deployment underway; Starlink competitor
+7. **Healthcare** — One Medical + Amazon Pharmacy + RxPass; long-fuse optionality
+8. **Robotics / Zoox** — Autonomous robotaxis; 750K+ fulfillment robots already deployed
+9. **International e-commerce** — India, Brazil; first year of profitable Intl segment scale (FY25)
 
 ---
 
 ## Section 8 — Key Risks
 
+Material risks only, per Rule #25 — boilerplate ("we may not retain key personnel," "cyber-attacks may harm our business," "our results may fluctuate") dropped.
+
 | Risk | Impact | Probability | Notes |
 |------|--------|-------------|-------|
-| AI capex ROIC disappoints | High | 35% | $200B/yr is enormous; payback math is debated |
-| AWS share loss to AZURE on AI | Medium | 30% | MSFT has Copilot demand pull |
-| Q1 FY26 (April 29) print misses guide | High | 25% | First test of AI investment narrative |
-| Tariff / trade policy headwinds | Medium | 50% | 2026 dynamics already flagged |
-| Antitrust action (FTC, EU DMA) | Medium | 35% | Structural cases progressing |
-| Recession / consumer slowdown | Medium | 25% | Retail margin compression risk |
-| Anthropic strategic disruption | Low | 15% | Anthropic could pivot toward GCP or independence |
-| Founder-mode erosion / cultural drift | Low | 15% | Long-horizon risk; Jassy executing well |
+| ⚠️ AI capex ROIC disappoints (large discretionary investment) | High | 30% | $200B FY26 is 4× FY23; multi-year payback; **not yet priced in to current 36× multiple**. Tied to thesis-break trigger. (Rule #25(d)) |
+| ⚠️ AWS share loss to Azure on AI workloads | High | 35% | AWS at ~30% vs. peak 33%; Azure leading on Copilot pull; **not priced in** at 36× P/E. (Rule #25(b), differentiated from peers) |
+| ⚠️ Q1 FY26 print misses guide / Q2 guide weak | High | 25% | First validation point of $200B capex bet; Q4 FY25 print drew –8% reaction on guide-up |
+| ⚠️ Tariff / trade policy headwinds on retail | Medium | 50% | 2026 dynamics flagged ([Capital.com](https://capital.com/amazon-stock-price-forecast)); compresses NA retail margin |
+| ⚠️ FTC structural remedy ordered (marketplace separation) | High | 15% | Slow-moving but tail risk; would force divestiture |
+| ⚠️ EU DMA / DSA tightening | Medium | 35% | Manageable but cost; pre-priced |
+| ⚠️ Anthropic strategic disruption (pivot to GCP / independence) | Medium | 15% | Anthropic could renegotiate; AMZN's $8B stake mitigates |
+| ⚠️ Recession / consumer slowdown | Medium | 25% | Retail margin compression; AWS optimization cycle redux |
+
+**5-Year Risk Factor Evolution synthesis** (FY20 → FY24 10-Ks): Across the 5-year window, three risk-factor categories materially shifted in management's framing. **(1) AI / generative AI** appeared as a discrete risk-factor category in the FY23 10-K and was elevated to a top-tier risk in FY24 — 1–2 years ahead of where most peer 10-Ks added comparable language. **(2) Antitrust / regulatory** language broadened in FY22–FY23 to reflect the FTC suit (2023) and EU DMA. **(3) Capex / data-center concentration** language was added in FY24 explicitly tying infrastructure spend to demand-realization risk — the first time AMZN itself flagged the capex-ROIC question in its own risk factors. Removed/de-emphasized over the window: COVID-era logistics overcapacity language (peaked FY21–22, removed by FY24). The implication for the thesis: Amazon's own management has been the earliest signal of the capex-ROIC debate, having added the Item 1A language in FY24 before the market began stress-testing it.
 
 ---
 
 ## Section 9 — Industry-Specific Macro Analysis
 
-**Cloud TAM**: Global cloud infrastructure market ~$300B+ in 2025; projected ~$800B–1T by 2030 with AI-as-a-service emerging as dominant new layer. AWS at ~30% share of IaaS/PaaS market.
+**Cloud TAM**: Global cloud infrastructure ~$300B in 2025; projected $800B–1T by 2030 with AI-as-a-service the dominant new layer. AWS at ~30% of IaaS/PaaS.
 
-**E-commerce TAM**: Global e-commerce ~$6.5T retail GMV; Amazon at ~$700B+ retail GMV (1P+3P) = ~10% global share. U.S. e-commerce share of total retail ~22% and rising.
+**E-commerce TAM**: Global e-commerce ~$6.5T retail GMV; Amazon at ~$700B (1P+3P) ≈ ~10% global share. U.S. e-commerce share of total retail ~22% and rising. Per *FY25 letter*: *"Roughly 80% of global retail sales still happens in physical stores. That will change."*
 
-**Digital advertising TAM**: ~$650B globally; Amazon at ~$70B run rate = top-3 platform behind Google, Meta.
+**Digital advertising TAM**: ~$650B globally; Amazon ~$70B run rate = top-3 platform.
 
-**Structural drivers (AI as new vertical)**:
-1. **AI compute demand inflection**: Hyperscaler capex is being pulled forward by 18–24 months
-2. **Custom silicon economics**: Vertical integration on chips matters at hyperscale
-3. **Enterprise AI adoption**: ~10% penetration; structural multi-year ramp ahead
-4. **Sovereign AI**: Government / regional AI infrastructure demand emerging
+**Structural drivers**:
+1. AI compute demand inflection — hyperscaler capex pulled forward 18–24 months
+2. Custom silicon economics — vertical integration matters at hyperscale
+3. Enterprise AI adoption ~10% penetration; multi-year ramp ahead
+4. Sovereign AI — government / regional AI infrastructure demand emerging
 
-**Regulatory environment**: FTC v. Amazon (filed 2023) — slow-moving; uncertain impact. EU DMA and DSA — manageable but cost. State-level retail / labor regulation — incremental.
+**Regulatory environment**: FTC v. Amazon (2023, ongoing) — slow-moving, structural-remedy tail. EU DMA / DSA — manageable cost. State-level retail/labor regulation — incremental.
 
 ---
 
 ## Section 10 — Valuation & Comparable Analysis
 
-### Current Multiples (April 24, 2026, ~$247 / ~$2.6T market cap)
+### Current Multiples (April 23, 2026 close, $255.08 / ~$2.74T market cap)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| EV / Revenue (FY2025E) | ~3.7× | $700B revenue |
-| EV / Revenue (FY2026E) | ~3.4× | $770B consensus |
-| EV / EBITDA (FY2026E) | ~17× | [Estimate]; cloud-heavy mix |
-| P/E (FY2025E) | ~38× | [Estimate] |
-| P/E (FY2026E) | ~32× | Consensus |
-| FCF Yield | ~1% | Very low; AI capex compressing FCF |
-| AWS standalone EV/Revenue | ~10–12× | If you take $2T of EV implied for AWS |
-| AWS standalone EV/Op Income | ~30–40× | If $45–50B FY25 op income |
+| EV / Revenue (FY25) | ~3.7× | $716.9B revenue |
+| EV / Revenue (FY26E) | ~3.3× | $790B consensus |
+| EV / EBITDA (FY26E) | ~17× | [Estimate] |
+| P/E (TTM) | 35.6× | [Yahoo](https://finance.yahoo.com/quote/AMZN) |
+| P/E (FY26E) | ~32× | $8.00 EPS consensus |
+| FCF Yield | ~0.3% | $7.7B FCF / $2.74T market cap; AI capex compressing |
+| AWS implied EV | ~$1.5–2T | At 30–40× FY25 op income $45.6B |
+| Ads implied EV | ~$300–400B | At 20× FY26E op income |
 
 ### Peer Comparison
 
-| Company | EV/Revenue (NTM) | EV/EBITDA (NTM) | Notes |
-|---------|------------------|-----------------|-------|
-| AMZN | ~3.4× | ~17× | Three-pillar mega-cap |
-| MSFT | ~10× | ~22× | Cloud + productivity + gaming |
-| GOOGL | ~5× | ~14× | Search + cloud + YouTube |
-| WMT | ~0.9× | ~17× | Retail-only comp |
-| BABA | ~1.5× | ~10× | China e-commerce + cloud |
+| Company | EV/Revenue (NTM) | EV/EBITDA (NTM) | P/E (NTM) | Notes |
+|---------|------------------|-----------------|-----------|-------|
+| AMZN | ~3.3× | ~17× | ~32× | Three-pillar mega-cap |
+| MSFT | ~10× | ~22× | ~32× | Cloud + productivity + Copilot |
+| GOOGL | ~5× | ~14× | ~22× | Search + cloud + YouTube |
+| WMT | ~0.9× | ~17× | ~30× | Retail-only comp |
+| BABA | ~1.5× | ~10× | ~13× | China e-commerce + cloud |
 
-**Assessment**: AMZN trades at the lowest NTM EV/Revenue of the U.S. mega-cap-tech set, reflecting (a) heavy retail mix, (b) AI capex weighing on FCF, (c) market debate about ROIC. Bull camp (KeyBanc $325, BofA $298) views the AI capex as accretive multi-year. Bear camp focuses on FCF compression. The asymmetry: even if FCF is poor in 2026, segment-of-the-sum-of-the-parts (AWS at $1.5–2T standalone + Ads at $300–400B + Retail at $300–500B) implies upside vs. $2.6T total market cap.
+**Assessment**: AMZN trades at the lowest NTM EV/Revenue of the U.S. mega-cap-tech peer set, reflecting (a) heavy retail mix dilution, (b) AI capex weighing on FCF, (c) market debate about ROIC. Sum-of-the-parts: **AWS at $1.5–2T standalone + Ads at $300–400B + Retail+Other at $300–500B** aggregates to $2.1–2.9T, bracketing the $2.74T market cap. The asymmetry comes from optionality: if AWS AI revenue prints UBS's +38% trajectory rather than Street's +26%, AWS standalone re-rates to $2.5T+ and the whole edifice repositions higher.
 
 ---
 
 ## Section 11 — Catalyst & Sentiment Tracker
 
 ### Live Price & Positioning
-- **Price**: ~$247 (Apr 24, 2026; [24/7 Wall St](https://247wallst.com/?s=Amazon))
-- **52-week range**: ~$179 – $264
-- **% from 52-wk high**: ~–6%
-- **% above 52-wk low**: ~+38%
-- **Market cap**: ~$2.6T
+- **Price**: $255.08 (April 23, 2026 close; [Yahoo Finance](https://finance.yahoo.com/quote/AMZN))
+- **52-week range**: $178.85 – $258.79
+- **% from 52-wk high**: –1.4%
+- **% above 52-wk low**: +42.6%
+- **Market cap**: ~$2.74T
 
 ### Analyst Consensus
-- **Aggregate rating**: 🟢 Strong Buy / Overweight (broad sell-side)
-- **BofA**: $298 (raised from $275, April 2026)
-- **KeyBanc**: $325 (raised from $285, April 2026)
-- **Implied upside to KeyBanc target**: +32%
+- **Aggregate rating**: 🟢 **Strong Buy** (42 Buys / 3 Holds; [TipRanks](https://www.tipranks.com/stocks/amzn))
+- **Average PT**: ~$286 (~+12% upside)
+- **High PT**: $325 (KeyBanc)
+- **Low PT**: ~$240
+- **UBS thesis (cited as bull anchor)**: AWS +38% growth in 2026 vs. Street ~26%
 
-### Recent Analyst Actions
+### Recent Analyst Actions (last 90 days)
+
 | Date | Firm | Action | Target |
 |------|------|--------|--------|
+| 2026-04 (mid-late) | BMO | 🟢 PT raised | $310 → $315 ([TipRanks](https://www.tipranks.com/news/top-bofa-analyst-lifts-amazon-amzn-stock-price-target-ahead-of-q1-earnings-heres-why)) |
 | 2026-04-20 | KeyBanc | 🟢 PT raised | $285 → $325 |
 | 2026-04-20 | Bank of America | 🟢 PT raised | $275 → $298 |
-| 2026-04 (mid) | Morningstar | Pre-earnings preview / fair-value note ([Morningstar](https://www.morningstar.com/stocks/xnas/amzn/quote)) | — |
+| 2026-04 | TD Cowen | Bullish reiteration on AWS AI ([TipRanks](https://www.tipranks.com/news/amazon-amzn-q1-earnings-td-cowen-analyst-sees-ai-driving-aws-growth)) | — |
+| 2026-04 | Morgan Stanley | Bullish — AWS AI workload migrations entering acceleration phase | — |
 
 ### Short Interest
-Specific April 2026 short interest data not surfaced in search; AMZN historically runs <1% of float short — typical for mega-cap. Not a meaningful signal.
+AMZN historically <1% of float short — typical mega-cap; not a meaningful signal. April 2026 specific data not surfaced.
 
 ### Insider Activity (Last 90 Days)
-- Bezos has executed routine 10b5-1 plan sales (~$13B over 2024–2025); pre-announced; not interpretive
+- Bezos 10b5-1 plan sales (~$13B over 2024–2025); pre-announced; not interpretive
 - Other insider activity is RSU-vesting routine
 
 ### Recent Corporate News (Last 90 Days)
-- **[2026-04-20] [Analyst]** — KeyBanc PT $285 → $325; BofA PT $275 → $298 ([24/7 Wall St](https://247wallst.com/?s=Amazon))
-- **[2026-02-05] [Earnings]** — Q4 FY25: rev $213.4B (+14%); EPS $1.95 vs. $1.97 cons; AWS $35.6B (+24%); op income $25.0B; **2026 capex guide $200B**; stock –8% on print ([CNBC](https://www.cnbc.com/quotes/AMZN), [Futurum](https://futurumgroup.com/?s=Amazon+AWS))
-- 💰 **[2026-02-05] [Capital]** — $200B FY26 capex guide announced (vs. $77.7B FY24) ([AMZN IR](https://ir.aboutamazon.com/news-release/default.aspx))
-- **[2025 (Q3)] [Earnings]** — Q3 FY25: AWS re-accelerated to +20.2% YoY ("largest in 11 quarters") ([Futurum](https://futurumgroup.com/?s=Amazon+AWS))
-- **[Ongoing] [AI]** — Anthropic partnership deepening; Trainium2/Inferentia2 deployment [link pending]
+
+- 📅 **[2026-04-09]** Jassy disclosure: AWS AI run rate >$15B in Q1 2026 ([FY25 letter context](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2025-letter-to-shareholders))
+- 🟢 **[2026-04 mid-late]** BMO PT $310 → $315; UBS reiterates +38% AWS 2026 thesis
+- 🟢 **[2026-04-20]** KeyBanc PT $285 → $325; BofA PT $275 → $298 ([TipRanks](https://www.tipranks.com/news/top-bofa-analyst-lifts-amazon-amzn-stock-price-target-ahead-of-q1-earnings-heres-why))
+- 📈 **[2026-04 mid]** FY25 shareholder letter published ([aboutamazon.com](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2025-letter-to-shareholders)) — anchors $200B capex to customer commitments
+- 💰 **[2026-02-05]** Q4 FY25 print: rev $213.4B (+14%); AWS $35.6B (+24%); EPS $1.95; **$200B FY26 capex guide**; stock –8% on print ([SEC 8-K](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000002/amzn-20251231xex991.htm))
 
 ### Upcoming Catalysts
+
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| 📅 **2026-04-29** (post-close) | **Q1 FY26 earnings** | First print of $200B capex year; AWS growth rate; AI revenue commentary |
-| Q2 FY26 (~Aug) | Q2 FY26 earnings | Capex pacing; AI monetization run-rate |
-| Ongoing | AWS re:Invent late 2026 | Major AI product / chip announcements |
-| Ongoing | Trainium adoption / customer wins | Custom silicon validation |
+| 📅 **2026-04-29 (post-close)** | **Q1 FY26 earnings** | First print of $200B capex year; AWS YoY growth (Street ~+22% / UBS +38%); AI revenue commentary; Q2 guide |
+| ~Aug 2026 | Q2 FY26 earnings | Capex pacing; AI monetization run-rate |
+| ~Late 2026 | AWS re:Invent | Major AI product / chip / customer announcements |
+| Ongoing | Trainium adoption / customer wins | Custom silicon validation; FY25 letter teased "significant chunk" of Trainium4 reserved |
 | Ongoing | Kuiper deployment milestones | New revenue stream signal |
-| Ongoing | FTC litigation timeline | Regulatory overhang |
+| Ongoing | FTC litigation timeline | Regulatory overhang; structural remedy is tail risk |
 
 ---
 
 ## Section 12 — BAIT Framework
 
 ### B — Behavioral: **Moderate**
-Stock is –6% from 52-wk high — not capitulated. The –8% post-Q4 selloff in Feb 2026 reflected genuine fear about $200B capex but the stock has since recovered most of that. There's no clean behavioral mispricing; investors are oscillating between "AI bull" and "ROIC bear."
+Stock is **–1.4% from 52-wk high** — not capitulated, no fear-driven mispricing. The Feb 2026 –8% post-Q4 selloff has fully recovered. Investors are oscillating between "AI bull" (UBS +38% AWS thesis) and "ROIC bear" (Q1 print as referendum). No cleanly identifiable behavioral edge at $255.
 
 ### A — Analytical: **Moderate-Strong**
-- **Sum-of-the-parts**: AWS at 30× FY26E op income = ~$1.6T standalone; Ads at 20× FY26E op income = ~$300B; remainder of company free → vs. $2.6T total market cap, the math is reasonable but not deeply mispriced
-- **AI revenue not in models**: Most sell-side numbers under-model AWS AI revenue ($15B run rate growing at 80%+ disclosed by Jassy); could surprise on growth rate
-- **Trainium standalone**: $20B run rate; if priced like NVDA at 10× revenue → $200B implicit value → not in any analyst's price target
-- **FCF normalization**: Once AI capex peaks (likely 2027–2028), FCF mechanics improve dramatically
+- **Sum-of-the-parts**: AWS at 30× FY25 op income ≈ $1.6T; Ads at 20× FY26E op income ≈ $300B; remainder ~$300–500B → ~$2.1–2.9T vs. $2.74T market cap. Math brackets price.
+- **Street under-modeling AWS AI**: $15B run rate growing 80%+; UBS bull case +38% AWS 2026 vs. Street 26% is the cleanest disagreement
+- **Trainium standalone**: $20B run rate; if priced like NVDA at 10× revenue → $200B implicit; not in any sell-side PT
+- **FCF normalization**: Once AI capex peaks (likely 2027–2028), FCF mechanics improve materially — not in current models
 
 ### I — Informational: **Moderate**
-- Q4 FY25 transcript (Feb 2026) is the single most-quoted source for AI metrics ($15B AWS AI run rate, $20B chips, $600B 2036 sales projection)
-- Most coverage focuses on top-line; segment dynamics (especially AWS AI, ads) are under-discussed
-- Public Trainium adoption commentary is sparse but inferable from hyperscaler capex disclosures
+- *FY25 letter* anchors $200B capex to disclosed customer commitments + Trainium4 18-mo-forward reservations — primary-source info that aggregator coverage flattens
+- 5-year letter arc (FY20 Bezos → FY25 Jassy fourth) shows unusually high signal-to-noise — each letter has front-run the next year's print
+- Q1 2026 AWS AI run rate disclosure ($15B, April 9 commentary) is referenced widely but the +260× multiple framing in the FY25 letter has not been quantified into PTs
 
 ### T — Technical: **Moderate**
-- Trading near 52-wk high, post Q4 recovery
-- Strong momentum into Q1 FY26 print (April 29)
-- Analyst PT cluster upgrades (KeyBanc, BofA) ahead of print = setup for re-rating
+- Trading near 52-wk high into a hard catalyst — momentum positive, but no margin-of-safety
+- Analyst PT cluster upgrades (KeyBanc, BofA, BMO) ahead of print = setup for re-rating
 - Buyback minimal; no mechanical floor
+- Q4 precedent: –8% on guide-up; Q1 reaction asymmetry depends on whether $200B is reaffirmed or revised
 
 ### BAIT Verdict
-**Triple overlap (A Moderate-Strong + I Moderate + T Moderate)**. Behavioral is only Moderate. The setup is constructive ahead of April 29 print. Conviction: **Moderate**.
+**Triple overlap (A Mod-Strong + I Moderate + T Moderate)**. Behavioral only Moderate (no fear setup at all-time-high-adjacent levels). Conviction: **Moderate**. The setup favors patience for a pullback to $220–235 over chasing the print at $255.
 
 ---
 
@@ -349,31 +444,34 @@ Stock is –6% from 52-wk high — not capitulated. The –8% post-Q4 selloff in
 
 *All scenarios are 3-year (2029) terminal prices. Probabilities sum to 100%.*
 
-### Bull Case — $400 by 2029 (+62% from $247, ~17% CAGR) — **Probability: 35%**
-- AWS at $250B+ revenue (35%+ AI) by 2029; op margin 38%
-- Advertising at $130B+; op margin 50%
-- Retail op margin 6%+
-- Consolidated op income ~$220B; 26× P/E on $20+ EPS
+### 🟢 Bull Case — $400 by 2029 (+57% from $255, ~16% CAGR) — **Probability: 35%**
+- AWS at $260B+ revenue (40%+ AI mix) by 2029; op margin 38%+
+- UBS +38% 2026 AWS trajectory validated → multiple expansion to ~36× P/E
+- Advertising at $130B+; op margin 50%+
+- North America retail op margin 7%+; International op margin 4%+
+- Consolidated FY29 op income ~$220B; ~26× P/E on $20+ EPS
 - AI capex peaks 2027 and rolls off; FCF recovers to $90B+ annual
 
-### Base Case — $290 by 2029 (+17%, ~5% CAGR) — **Probability: 50%**
-- AWS at $200B revenue; AI growth solid but not explosive
-- Advertising $100B; op margin 45%
-- Op income ~$180B; ~22× P/E
-- FCF recovers but capex stays elevated
+### 🟡 Base Case — $290 by 2029 (+14%, ~4.5% CAGR) — **Probability: 50%**
+- AWS at $200–220B revenue; AI growth solid but not +38%
+- Advertising $100–110B; op margin 45%
+- FY29 op income ~$180B; ~22× P/E on ~$13 EPS
+- FCF recovers but capex stays elevated through 2027–2028
+- Street trajectory; modest re-rating
 
-### Bear Case — $170 by 2029 (–31%, ~–11% CAGR) — **Probability: 15%**
-- AWS share loss to AZURE accelerates; growth slows to mid-teens
-- AI capex never produces commensurate revenue; FCF stays compressed
+### 🔴 Bear Case — $170 by 2029 (–33%, ~–13% CAGR) — **Probability: 15%**
+- AWS share loss to Azure accelerates; AWS growth slows to mid-teens
+- AI capex ROIC compresses; FY26 $200B doesn't generate commensurate revenue
 - Retail margin compresses on tariffs / consumer weakness
 - Multiple compresses to ~18× on $9–10 EPS
+- FTC structural remedy or material EU action adds left-tail
 
 ---
 
 ## Section 14 — Probability-Weighted Expected Value
 
-| Scenario | Terminal (2029) Price | Probability | PW Contribution |
-|----------|----------------------|-------------|-----------------|
+| Scenario | 2029 Price | Probability | PW Contribution |
+|----------|-----------|-------------|-----------------|
 | Bull | $400 | 35% | $140.00 |
 | Base | $290 | 50% | $145.00 |
 | Bear | $170 | 15% | $25.50 |
@@ -381,48 +479,56 @@ Stock is –6% from 52-wk high — not capitulated. The –8% post-Q4 selloff in
 
 | Current Price | PW EV | Return (3-yr) | Annualized |
 |--------------|-------|--------------|-----------|
-| ~$247 | ~$310 | **+26%** | ~8%/yr |
+| **$255.08** | ~$310 | **+22%** | **~7%/yr** |
 
-**Interpretation**: Modest positive expected return; ~8%/yr is decent for a mega-cap with sub-1% FCF yield. Not asymmetric. The Q1 FY26 print on April 29 will materially shift these probabilities — a clean beat re-rates toward Bull weighting; a miss compresses toward Base/Bear.
+**Interpretation**: Modest positive expected return; ~7%/yr is below the bar for asymmetric mega-cap setups. **Bull/Bear R/R = (+57%) / (–33%) ≈ 1.7:1** (anchored to §13 midpoints, per Rule #26). Not a fat-pitch setup at $255 — the asymmetry compresses materially vs. the Feb 2026 lows where the same scenario set would have produced ~3:1 R/R. The Q1 FY26 print on April 29 is the clean re-rating event: a clean AWS beat (closer to UBS +38% than Street +22%) shifts probabilities toward Bull weighting; a miss compresses toward Base/Bear.
 
 ---
 
 ## Section 15 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Amazon is the only U.S. mega-cap with three durable Wide-moat businesses (AWS, advertising, marketplace logistics) currently mid-cycle in a generational AI infrastructure bet ($200B FY26 capex); at ~$247 and 32× FY26E P/E it offers Moderate BAIT setup ahead of the April 29 Q1 FY26 print, with PW EV of ~$310 (3-yr) implying ~8%/yr expected return.
+**Thesis in one sentence**: Amazon is the only U.S. mega-cap with three durable Wide-moat businesses (AWS, advertising, marketplace logistics) currently mid-flight in a $200B/yr AI infrastructure bet that Jassy's *FY25 letter* explicitly anchored to customer commitments; at $255 / 36× FY25 P/E the market has substantially re-rated since the Feb 2026 lows and the Q1 FY26 print on April 29 is the binary validation event.
 
-**For a non-holder**: 🟢 **Initiate** at $247 — quality-at-a-fair-price set up. The three-pillar moat is wider than the index average; AI optionality is underwritten by AWS scale. Q1 FY26 print on April 29 is a near-term re-rating event. Buyers who want margin-of-safety can wait for a pullback toward $220–230, but the PW EV setup supports initiating at current levels.
+**For a non-holder**: 🟡 **Initiate (small) / Watch** — quality-at-fair-price still exists but margin-of-safety is thin. The three-pillar moat is wider than the index average and AI optionality is underwritten by AWS scale; however, the stock is –1.4% from 52-wk high with the Q1 print 3 days away. Preferred entry: pullback to $220–235 (~28–32× FY25 EPS).
 
-**For a current holder**: 🟡 **Hold / Add modestly into Q1**. Drawdown risk into the print is bounded (~–8% based on Q4 2025 precedent); upside on a clean AWS beat is meaningful. Trim only if AMZN exceeds ~10% of book or trades through $310 without an underlying earnings re-rate.
+**For a current holder**: 🟡 **Hold** — let Q1 print resolve before adding. Drawdown risk into the print is bounded (~–8% per Q4 precedent); upside on a clean AWS beat is meaningful. Trim only if AMZN gaps materially above $310 without earnings re-rate.
 
-🎯 **Attractive entry zone**: **$210 – $235** (rationale: ~28–30× FY26E P/E; aligns with mid-2025 lows; meaningful pullback creates margin-of-safety vs. AI capex execution risk)
+🎯 **Attractive entry zone**: **$210 – $235** (rationale: ~28–32× FY25 P/E; aligns with mid-2025 lows; meaningful pullback creates margin-of-safety vs. AI capex execution risk)
 
-🎯 **Trim zone**: **$310 – $340** (rationale: top of analyst target band; ~36–40× FY26E P/E; bull case partially priced)
+🎯 **Trim zone**: **$310 – $340** (rationale: top of analyst target band; ~36–40× FY25 P/E; Bull case partially priced)
 
-🔴 **Exit / avoid zone**: **>$370** (rationale: bull case fully priced; requires $400+ 2029 outcome to justify; little margin for capex disappointment)
+🔴 **Exit / avoid zone**: **>$370** (rationale: Bull case fully priced; requires $400+ 2029 outcome to justify; little margin for capex disappointment)
 
 **Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
+
 - ⚠️ AWS YoY revenue growth decelerates below +18% for two consecutive quarters
-- ⚠️ Trainium adoption stalls (no new major customer wins announced through 2026)
-- ⚠️ AI capex run-rate raised above $250B without commensurate AWS AI revenue acceleration
-- ⚠️ AWS market share data (Synergy Research, Canalys) shows >100 bps share loss to AZURE for 2 consecutive quarters
+- ⚠️ FY26 capex revised up >$250B without commensurate AWS AI revenue acceleration (signals supply-driven over-investment)
+- ⚠️ AWS market share data (Synergy, Canalys) shows >100 bps share loss to Azure for 2 consecutive quarters
+- ⚠️ Trainium adoption stalls (no new major customer wins announced through 2026; Trainium4 reservation pipeline retreats)
 - ⚠️ FTC structural remedy ordered (e.g., marketplace separation)
 - ⚠️ Advertising revenue growth decelerates below +15%
-- ⚠️ FY26 capex revised down >10% (would signal demand weakness)
+- ⚠️ FY26 capex revised down >10% (signals demand weakness)
 
-📅 **Next review trigger**: **Q1 FY26 earnings — April 29, 2026 (post-close)**. Key items: (1) AWS YoY growth (consensus ~+22–24%), (2) AI revenue / Trainium commentary, (3) Q2 FY26 op income guide vs. Street, (4) capex pacing and any FY26 guide refinement, (5) Advertising growth rate.
+📅 **Next review trigger**: **Q1 FY26 earnings — April 29, 2026 (post-close)**. Key items: (1) AWS YoY growth (Street ~+22%, UBS bull +38%); (2) AWS AI revenue / Trainium commentary; (3) Q2 FY26 op income guide vs. Street; (4) FY26 capex affirmation vs. revision; (5) advertising growth rate; (6) North America operating margin trajectory.
 
 ---
 
 ### Sources
 
-- [Amazon Investor Relations](https://ir.aboutamazon.com/news-release/default.aspx) (Q4 FY25 earnings press release, 2026-02-05; Q4 FY25 earnings call transcript)
-- [SEC EDGAR — Amazon filings (CIK 0001018724)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018724&type=10-K) (Q3 FY25 ex-99.1, 10-K)
-- [Yahoo Finance — AMZN quote](https://finance.yahoo.com/quote/AMZN) (live price 2026-04-24, Q4 transcript)
-- [CNBC — AMZN](https://www.cnbc.com/quotes/AMZN) (Amazon Q4 earnings report 2025, 2026-02-05)
-- [Futurum Group — Amazon coverage](https://futurumgroup.com/?s=Amazon+AWS) (quarterly analysis pieces, FY25)
-- [Morningstar — AMZN](https://www.morningstar.com/stocks/xnas/amzn/quote) (pre-Q1 FY26 preview)
-- [24/7 Wall St — Amazon](https://247wallst.com/?s=Amazon) (BofA + KeyBanc Double Upgrade, 2026-04-20)
-- [Capital.com — Amazon forecast](https://capital.com/amazon-stock-price-forecast) (tariff forecast, 2026-03-30)
-- S&P Global big-tech earnings preview [link pending]
-- Northwise Project Amazon 2030 forecast [link pending]
+- [Amazon Investor Relations](https://ir.aboutamazon.com/sec-filings/default.aspx) (SEC filings landing)
+- [Yahoo Finance — AMZN](https://finance.yahoo.com/quote/AMZN) (live price, Apr 23 2026 close)
+- [Q4 FY25 8-K (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000002/amzn-20251231xex991.htm)
+- [FY2024 10-K (SEC EDGAR HTML)](https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/amzn-20241231.htm)
+- [FY2023 10-K (SEC EDGAR HTML)](https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/amzn-20231231.htm)
+- [Andy Jassy FY2025 Shareholder Letter](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2025-letter-to-shareholders)
+- [Andy Jassy FY2024 Shareholder Letter](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2024-letter-to-shareholders)
+- [Andy Jassy FY2023 Shareholder Letter](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2023-letter-to-shareholders)
+- [Andy Jassy FY2022 Shareholder Letter](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2022-letter-to-shareholders)
+- [Andy Jassy FY2021 Shareholder Letter](https://www.aboutamazon.com/news/company-news/2021-letter-to-shareholders)
+- [Jeff Bezos FY2020 Shareholder Letter (final)](https://www.aboutamazon.com/news/company-news/2020-letter-to-shareholders)
+- [Bezos Original 1997 Letter](https://www.aboutamazon.com/news/company-news/amazons-original-1997-letter-to-shareholders)
+- [stockanalysis.com — AMZN financials](https://www.stockanalysis.com/stocks/amzn/financials/) (5-year financials)
+- [TipRanks — AMZN](https://www.tipranks.com/stocks/amzn) (analyst consensus)
+- [TradingKey — Amazon Q1 2026 Earnings Preview](https://www.tradingkey.com/analysis/stocks/us-stocks/261823532-amazon-q1-2026-earnings-report-preview-tradingkey)
+- [Capital.com — AMZN forecast](https://capital.com/amazon-stock-price-forecast) (tariff Mar 2026)
+- [Morningstar — AMZN](https://www.morningstar.com/stocks/xnas/amzn/quote)

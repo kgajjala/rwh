@@ -1,5 +1,40 @@
 # BRK.B — Changelog
 
+## [2026-04-26] — v2.8 Refactor (synthesis discipline + page output quality)
+
+**Trigger**: Apply CLAUDE.md v2.8 schema (Core Rules 21–26) to BRK.B page. No new earnings event; this is a quality refactor of the v2.6 primary-source synthesis baseline established 2026-04-25.
+
+**Sources reviewed**:
+- [Yahoo Finance — BRK-B](https://finance.yahoo.com/quote/BRK-B) — live price re-verified at $469.32 (Apr 24 close; after-hours $471.00)
+- No new primary-source filings or letters since 2026-04-25 baseline (next earnings/letter event is May 3, 2026)
+
+### What Changed
+- **Header**: Schema v2.5 → **v2.8**; Last Updated 2026-04-25 → **2026-04-26**.
+- **Summary**: Tightened to 10 emoji-tagged bullets including a one-line moat verdict ("Wide and structurally peerless") per Rule #23. R/R now stated as ~2.8:1 anchored to Section 13 Bull/Bear midpoints (Rule #26).
+- **Standalone "Moat Assessment" block REMOVED** between Business Overview and Pivotal Question (Rule #23). All moat detail consolidated into Section 5 only.
+- **Section 2** (Annual Financial Metrics): Broadened "Primary Source: 10-K Segment Detail" subsection from FY2025-only single-year to **multi-year MD&A** (FY2023 → FY2025) with time-in-columns table per Rule #22. Multi-year synthesis preserved as 4-bullet prose, not row-by-row source extracts.
+- **Section 5** (Competitive Moat): Added new `### Competitive Landscape` subsection per Rule #24. For BRK.B specifically, calls out structural uniqueness ("no direct comparable in U.S. public markets") with a tight 4-row analogue table (Markel, Fairfax, Loews, large-cap bank insurance peers) framing what's similar / what's different. Tail-risk read confirms BRK's competitive risks are *internal* (succession, cash drag, GEICO) not external.
+- **Section 8** (Key Risks): Applied Rule #25 materiality filter — dropped boilerplate (rate-cut compression, equity-portfolio mark-to-market, generic Apple-stake risk) and kept the 7 risks that are differentiated for BRK, not fully priced, or tied to a thesis-break trigger. Each row now has explicit "Differentiated" / "Not fully priced" / "Tied to thesis-break trigger" notes. **Replaced any prior 5-Year Risk Factor Evolution table with a 3-sentence synthesis paragraph** (Rule #21) covering PacifiCorp wildfire language escalation FY2020 → FY2024, succession-execution risk formalization FY2023–FY2024, and GEICO competitive lag handled via MD&A not Item 1A.
+- **Section 6** (RMC + 5-Year Capital Allocation Arc): **Letter arc table preserved** (the multi-year strategic context is the analytical edge; preserved per Rule #21 explicit carve-out). Verbatim Buffett/Abel quotes consolidated; investment-relevance bullets retained.
+- **Sections 11, 13, 14, 15**: Light refresh — May 3 meeting now "7 days away" (vs. "1 week away"); Section 14 Interpretation now explicitly states R/R ~2.8:1 anchored to Section 13 (Rule #26). No price/scenario changes — primary-source baseline unchanged since 2026-04-25.
+- **Output discipline (Rule #22)**: Removed "Per CLAUDE.md v2.6 Core Rule #19" self-reference from Section 6 RMC subsection. No retrospective / "corrected from" language. Tables verified time-in-columns / metrics-in-rows where applicable.
+- **Sources & Citations** section retained.
+
+### Thesis Status
+- **Overall**: 🟡 **Unchanged** — this is a presentation refactor, not a thesis update. Underlying primary-source synthesis from 2026-04-25 v2.6 enrichment remains the baseline.
+- **BAIT lens**: Unchanged — Triple BAIT (B+I-Strong, A-Moderate).
+- **Price target**: Unchanged — PW EV ~$543 over 3yr; R/R ~2.8:1 (Bull $650 / Bear $405 vs. spot $469.32).
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate (small/scaled)** — unchanged.
+- **For a current holder**: 🟢 **Hold-Add** — unchanged.
+
+**Next review trigger**: 📅 **May 3, 2026** — Annual Shareholder Meeting + Q1 2026 earnings (Abel's first as CEO). Material-event update per Workflow B Step 3a expected that weekend.
+
+**Note on raw/ folder**: Primary source PDFs cited throughout (5 letters, 10-K, 10-Q, press releases) are referenced via canonical URLs at berkshirehathaway.com and SEC EDGAR; local `raw/BRK.B/{shareholder-letters,filings,...}` mirroring is a pending follow-up gap from the v2.6 ingest and does not block synthesis since URL citations are stable.
+
+---
+
 ## [2026-04-25] — v2.6 Primary-Source Enrichment (10-K + 6 Shareholder Letters)
 
 **Trigger**: User request to incorporate primary-source data from the actual SEC 10-K and the last 5+ years of annual shareholder letters into the analysis.

@@ -4,6 +4,59 @@
 
 ---
 
+## [2026-04-26] — v2.9 Schema Retrofit + Thesis-Strengthening Event (Foundayo FDA Approval)
+
+**Trigger**: Schema retrofit applying v2.9 structure (13-section consolidation, competitive landscape, synthesis discipline, materiality filter) combined with material thesis update for Foundayo (orforglipron) FDA approval (April 1, 2026) — not reflected in prior v2.1 wiki entry.
+**Sources reviewed**:
+- [stockanalysis.com — LLY financials](https://stockanalysis.com/stocks/lly/financials/) — FY2021–FY2025 income statement, cash flow
+- [stockanalysis.com — LLY quarterly](https://stockanalysis.com/stocks/lly/financials/?p=quarterly) — Q1 2024–Q4 2025 quarterly data
+- [stockanalysis.com — LLY forecast](https://stockanalysis.com/stocks/lly/forecast/) — analyst consensus (Strong Buy, median $1,250)
+- [stockanalysis.com — NVO forecast](https://stockanalysis.com/stocks/nvo/forecast/) — Novo competitive deterioration (FY2026 –5.6% revenue)
+- [Fintel — LLY short interest](https://fintel.io/ss/us/lly) — 0.91% float, 3.29 days to cover
+- [PRNewswire — Eli Lilly](https://www.prnewswire.com/news/eli-lilly-and-company/) — Q4 2025 earnings, Foundayo approval, pipeline, M&A
+- Prior wiki entries (v2.1 migration 2026-04-24; initial ingest 2026-04-05)
+- SEC EDGAR (403 during session — 10-K direct synthesis pending; sourced from earnings releases)
+
+### What Changed
+
+- **Header**: Schema version updated to v2.9; Last Updated bumped to 2026-04-26
+- **Summary**: Refreshed emoji bullets; added Foundayo approval ✅; updated PW EV to ~$1,183; updated recommendation
+- **§1 (Annual Financial Metrics)**: FCF now populated ($9.0B FY2025, OCF $16.8B – CapEx $7.8B — was "pending"); Q4 2025 EPS corrected to $7.39 diluted (was estimated $5.32); full quarterly table Q1 2024–Q4 2025 added; multi-year CapEx table added showing $1.3B→$7.8B trajectory; 10-K segment detail subsection added (partial, from earnings release; SEC EDGAR 403)
+- **§2 (Revenue Mix & Geographic Split)**: Merged former §3 (Geographic) + §4 (Revenue Mix) per v2.9; forward-looking mix shifts updated with Foundayo $1.7B FY2026E management guide
+- **§3 (Competitive Moat & Landscape)**: Standalone Moat Assessment block retired; full moat detail in §3; **Competitive Landscape subsection added** with named peers (Novo, Viking, Roche, Structure, Pfizer abandoned), market share, and evidence of LLY's moat differentiation; NVO FY2026 –5.6% revenue decline highlighted as corroborating evidence of tirzepatide market share capture
+- **§4 (Management & Leadership)**: Renumbered from §6; **RMC (Recent Management Commentary) subsection added** with verbatim quotes from Q4 2025 earnings, Foundayo approval announcement, and $3.5B Pennsylvania facility; multi-year capital allocation arc table added
+- **§5 (Strategic Growth Initiatives)**: Renumbered from §7; updated with new M&A (Kelonia, Orna, Centessa) and Foundayo commercial launch underway
+- **§6 (Key Risks)**: Renumbered from §8; **materiality filter applied** (Rule v2.8 #25) — generic boilerplate dropped; 5-Year Risk Factor Evolution Arc replaced with synthesis paragraph; "Orforglipron CRL" thesis-break trigger marked **DE-RISKED ✅**
+- **§7 (Industry-Specific Macro)**: Renumbered from §9
+- **§8 (Valuation)**: Renumbered from §10; NVO peer comparison updated (forward P/E 12.28, Hold consensus) to reflect competitive deterioration
+- **§9 (Catalyst & Sentiment Tracker)**: Renumbered from §11; refreshed with: analyst consensus updated to median $1,250 (was $1,000–$1,050); HSBC downgrade to Sell (March 17, 2026) noted; short interest 0.91%; Foundayo approval and launch noted; all new M&A and pipeline events added; Upcoming Catalysts table updated
+- **§10 (BAIT)**: Renumbered from §12; I-signal upgraded to "approved → execution phase"; triple-overlap conviction maintained
+- **§11 (Bull/Bear/Base)**: Renumbered from §13; scenarios updated — Bear probability reduced to 15% (from 20%) with floor held at $700; Bull target raised to $1,500 (from $1,300) on Foundayo approval; Base raised to $1,100 (from $1,015)
+- **§12 (PW EV)**: Renumbered from §14; PW EV updated to ~$1,180 (was $1,037.50); R/R ~3.4:1 per Rule #26 anchored to §11
+- **§13 (Recommendation)**: Renumbered from §15; orforglipron CRL trigger struck through ✅; Foundayo launch tracking trigger added; urgency of initiation increased given approval delivered
+
+### Thesis Status
+
+- **Overall**: 🟢 **Strengthened** (vs. prior entry 2026-04-24)
+- **Key drivers of strengthening**:
+  - Foundayo FDA approval (April 1, 2026) — prior wiki's "single biggest binary catalyst" delivered ✅
+  - FCF $9.0B FY2025 (was "pending" — actually strong; manufacturing capex not destroying FCF)
+  - Q4 2025 EPS $7.39 (was estimated $5.32 — significant beat)
+  - Analyst median target $1,250 (vs. prior $1,000–$1,050 — consensus has upgraded materially)
+  - Novo competitive deterioration (NVO guiding –5.6% FY2026 revenue) confirms tirzepatide share gain
+- **BAIT delta**: A-Strong (unchanged); I-Strong (upgraded: catalyst pending → delivered → execution phase); B-Moderate (unchanged); T-Weak (unchanged). Triple-overlap maintained.
+- **Price target delta**: Bull $1,300 → $1,500 | Base $1,015 → $1,100 | Bear $700 → $700 (floor held). PW EV ~$1,037 → ~$1,180.
+- **R/R**: ~2.0:1 (prior) → ~3.4:1 (updated)
+
+### Recommendation
+
+- **For a non-holder**: 🟢 **Initiate** — Foundayo approval upgrades entry urgency; $884 is –22% from peak with fundamentals strengthened. Add aggressively at $750–$850 if reached.
+- **For a current holder**: 🟡 **Hold** at $884 — do not trim. Add on pullback.
+
+**Next review trigger**: **Q1 2026 earnings — April 30, 2026**. Primary checks: (1) revenue tracking vs. $80–83B FY guide, (2) Foundayo first-month prescription volume and formulary access, (3) tirzepatide volume/price split, (4) manufacturing capex pace, (5) retatrutide timeline update.
+
+---
+
 ## [2026-04-24] — Pre-Q1 Date Confirmation
 
 **Trigger**: Post-v2.1-migration data refresh in advance of LLY Q1 2026 earnings, which is now confirmed for **April 30, 2026** (6 days from this entry). Pre-print landscape check.

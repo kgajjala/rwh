@@ -4,6 +4,56 @@
 
 ---
 
+## [2026-04-26] — v2.9 Schema Retrofit
+
+**Trigger**: Apply CLAUDE.md v2.9 schema retrofit to UNH (single-ticker serial run).
+v2.9 retired old §1, merged old §3+§4 into new §2, and codified Rules #19/#20/#23/#24/#25/#26
+(primary-source synthesis discipline, moat+competitive-landscape consolidation, risk-factor
+materiality filter, R/R calculation discipline anchored to §11 scenarios).
+
+**Sources reviewed**:
+- [UnitedHealth Group Q1 2026 PR (2026-04-21)](https://www.unitedhealthgroup.com/newsroom/2026/2026-04-21-uhg-reports-first-quarter-2026-results.html)
+- [Q1 2026 transcript (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/04/21/unitedhealth-unh-q1-2026-earnings-transcript/)
+- [Yahoo Finance](https://finance.yahoo.com/quote/UNH) — live price verification 2026-04-25
+- [FY2024 10-K (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/731766/000073176625000063/unh-20241231.htm)
+- [SEC EDGAR — UNH filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000731766&type=10-K) (HTTP 403 during retrofit; deeper enumeration deferred)
+- raw/UNH/press-releases/2026-04-21-Q1-2026-results.md (newly created summary)
+
+### What Changed (structural — v2.9 retrofit)
+- **Header**: Schema v2.5 → **v2.9**, Last Updated → 2026-04-26, live price re-verified at $354.92.
+- **Summary**: refreshed to v2.9 emoji-tagged ≤10-bullet format; added moat one-liner, R/R per Rule #26, primary-source signal bullet.
+- **Moat Assessment standalone block**: ✅ retired per Rule #23. Moat detail consolidated into new §3 (Competitive Moat & Landscape).
+- **Old §1 (Why Does This Company Exist)**: ✅ retired per v2.9 — content folded into Business Overview and Pivotal Investment Question header subsections.
+- **Old §3 (Geographic) + §4 (Revenue Mix)**: ✅ merged into new §2 (Revenue Mix & Geographic Split) per v2.9.
+- **§3 Competitive Moat & Landscape**: ✅ NEW per Rule #24 — added Competitive Landscape subsection with named peers (ELV, HUM, CI, CVS, CNC, MOH; PBM peer-set; care-delivery + health-tech peer-sets) with market positioning + 1–2 sentence threat-vector read each + explicit framing of how UNH's tri-leg moat differs (cross-payer Optum revenue, structural-not-bolt-on integration) + tail-risk read.
+- **§4 Management & Leadership**: refreshed RMC subsection per Rule #19; added Multi-year Strategic-Framework Arc table (Hemsley era 1 → Witty era → crisis interregnum → Hemsley era 2). Pattern C handling — Chairman/CEO letters in annual-report front-matter tagged [link pending] for next-pass backfill (raw/UNH/shareholder-letters/_FETCH_STATUS.md created).
+- **§5 Strategic Growth Initiatives**: refined to 9 vectors with explicit proof-points.
+- **§6 Key Risks**: ✅ Rule #25 materiality filter applied — dropped boilerplate (generic earnings fluctuation, generic cyber, generic key-personnel); kept risks differentiated from peers, not priced in (DOJ tail risk explicitly flagged "not priced in"), or tied to thesis-break triggers. **5-Year Risk Factor Evolution table → synthesis paragraph** per Rule #21.
+- **§8 Valuation**: peer table expanded to 6 peers; added market caps; added explicit fair-price range.
+- **§9 Catalyst & Sentiment**: refreshed live-price line, 1-yr median target ($386.08 per Yahoo), short-interest narrative; preserved Q1 2026 event entry.
+- **§10 BAIT**: preserved Quadruple-overlap verdict; tightened justifications.
+- **§11 Bull/Bear/Base**: midpoints unchanged ($525 / $415 / $275); probabilities unchanged (30 / 50 / 20).
+- **§12 PW EV**: ✅ Rule #26 R/R calculation discipline applied — explicit Bull/Bear midpoint anchor, R/R 2.1:1 documented; secondary stop-loss-anchored R/R 3.7:1 framed as secondary per rule.
+- **§13 Recommendation**: structure preserved; thesis-break triggers refreshed.
+
+### Thesis Status
+- **Overall**: **Unchanged** vs. 2026-04-24 entry — Q1 2026 print remains the dominant recent event; live price essentially flat ($354.92 vs. $354.92 prior). v2.9 retrofit is **structural** (schema discipline + synthesis depth + competitive landscape + R/R discipline), not directional.
+- **BAIT delta**: Unchanged Quadruple overlap (B/A/I-Strong, T-Moderate). Conviction High.
+- **Price target delta**: Bull $525 / Base $415 / Bear $275 — unchanged. PW EV ~$420 — unchanged. R/R 2.1:1 (now anchored to §11 midpoints per Rule #26).
+- **Catalyst & Sentiment delta**: Q2 2026 earnings (late July) is the next hard gate.
+
+### Recommendation
+- **For a non-holder**: 🟢 Initiate / Watch on pullback — defensible at $355 (PW EV $420; +18% / 24mo); patient buyers wait sub-$340.
+- **For a current holder**: 🟢 Hold / Add on dips — Q1 print confirms thesis; trim only above $470.
+
+**Next review trigger**: **Q2 2026 earnings — late July 2026** (sequential MCR confirmation; Optum Health quarterly trajectory; FY26 guide refresh; DOJ status).
+
+### Open backfill items ([link pending])
+- FY2020–FY2024 annual-report Chairman/CEO letters (Pattern C) — verbatim quotes for §4 RMC.
+- Full FY2025 10-K direct download (SEC HTTP 403 during retrofit) — multi-year Item 1A diff for §6 evolution paragraph.
+
+---
+
 ## [2026-04-24] — Q1 2026 Earnings Update (post-print refresh, 3 days after print)
 
 **Trigger**: UNH reported Q1 2026 earnings on **April 21, 2026** — three days before this changelog entry. Big beat with raised FY2026 guidance.

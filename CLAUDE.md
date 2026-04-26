@@ -1,4 +1,4 @@
-# CLAUDE.md — kg-invest-wiki Schema (v2.7)
+# CLAUDE.md — kg-invest-wiki Schema (v2.8)
 
 This is the instruction file for the LLM agent that maintains this wiki.
 **Read this file at the start of every session before making any changes to `wiki/`, `raw/`, or `outputs/`.**
@@ -13,7 +13,7 @@ session starts from the latest synthesis, not a blank page.
 
 - **Owner**: Karthik G
 - **Started**: April 2026
-- **Schema version**: v2.7 (April 2026)
+- **Schema version**: v2.8 (April 2026)
 - **Model**: Karpathy LLM Wiki pattern, adapted
 
 ### What this wiki is *not*
@@ -405,6 +405,159 @@ kg-invest-wiki/
       normalization, GEICO ad-spend framing) was materially more
       informative than aggregator data. Aggregators report the
       *what*; 10-K MD&A explains the *why*.
+
+21. **Synthesis over transcription** (added v2.8). Primary sources
+    (letters, 10-Ks, transcripts) inform analysis; the agent's
+    synthesis is the deliverable, not the primary-source extracts.
+    - Verbatim quotes are valuable only when they are the most
+      efficient way to convey a specific insight that paraphrase
+      would weaken (e.g., a CEO's exact framing language, a 10-K
+      Item 1A risk that surfaces a leading indicator, a specific
+      quantified target). When agent paraphrase conveys the same
+      insight more concisely, prefer paraphrase.
+    - Multi-row chronological tables of source extracts (e.g., the
+      "5-Year Risk Factor Evolution Arc table" originally added in
+      v2.7) often add bulk without analytical edge. **Replace such
+      tables with a 2–4 sentence synthesis paragraph** that names
+      what genuinely changed and what it implies for the thesis.
+      The 5-Year Strategic Framework Arc table for letters in §6
+      is preserved (the multi-year strategic context is the
+      analytical edge), but the parallel Risk Factor table is
+      retired in favor of a short paragraph.
+    - Heuristic: if a table has 5+ rows where each row is mostly
+      a primary-source quote with minimal cross-row analytical
+      structure, collapse it into prose.
+
+22. **Ticker-page output discipline** (added v2.8). The wiki page
+    is what the user reads; it must stand alone without exposing
+    the agent's internal schema mechanics.
+    - **No CLAUDE.md self-references in ticker page bodies**. Lines
+      like *"Per CLAUDE.md v2.X Core Rule #N"*, *"per the v2.6
+      Pattern B"*, etc. must NOT appear in `wiki/tickers/[TICKER]/[TICKER].md`
+      or `outputs/[TICKER]/*.md`. Schema enforcement is internal
+      and lives in this CLAUDE.md file. Light references in
+      `wiki/tickers/[TICKER]/changelog.md` are acceptable since
+      changelog is the audit trail.
+    - **No retrospective / "corrected from" / "prior framing"
+      language in ticker page bodies**. Git history is the audit
+      trail. The page should reflect the *current* state cleanly.
+      Acceptable in changelog entries; unacceptable in the page.
+    - **Table orientation discipline**: time in columns, metrics in
+      rows. Apply consistently across annual financial metrics,
+      quarterly trend, segment, valuation, peer-comparison, and
+      catalyst tables. The exception is small (≤4-row) summary
+      tables like the Bull/Bear/Base scenarios where a one-row-per-
+      scenario layout is more readable.
+    - **Bullet-point preference for data-dense sentences**. When a
+      sentence contains 3+ distinct data points (numbers, dates,
+      named entities, ratios), break into bullets. Prose is fine
+      for narrative exposition; bullets win when the reader needs
+      to scan or compare.
+
+23. **Section consolidation: Moat + Competitive Landscape live in
+    Section 5 only** (added v2.8). The earlier "Moat Assessment"
+    standalone block between Business Overview and Pivotal Question
+    is **retired** as redundant.
+    - **Summary section** keeps a one-line moat verdict (e.g.,
+      *"Wide and Widening — switching costs + network effects +
+      AI-standard-setter"*).
+    - **Section 5 (Competitive Moat)** holds all moat detail —
+      sources, vulnerabilities, AND the new mandatory `### Competitive
+      Landscape` subsection (per Core Rule #24 below).
+    - The Header / Key Stats Snapshot stays as is. No content
+      duplication between the Summary verdict line and Section 5.
+
+24. **Competitive landscape integration in Section 5** (added v2.8).
+    Moat without competitor context is incomplete. Section 5 must
+    include a `### Competitive Landscape` subsection, formatted to
+    enable direct comparison and answer the question *"how is this
+    company's moat different from competitors and what evidence
+    supports it?"*
+    - **Required content (when competitors exist)**:
+      1. Named direct competitors (US + international where
+         relevant) with **market share** and a 1–2 sentence read
+         on each peer's moat / threat vector.
+      2. Explicit framing of how *this company's* moat differs —
+         what it has that competitors don't, and what evidence
+         supports the differentiator (e.g., cross-border revenue
+         growth as evidence of international moat; switching-cost
+         retention metric as evidence of platform stickiness).
+      3. Honest tail-risk read on competitive position (e.g., is
+         there a peer that is well-capitalized, currently losing,
+         and could escalate?).
+    - **Apply judgment by ticker**: not every ticker has direct
+      competitors. **Berkshire Hathaway** has no peer comparison —
+      a one-line note explaining structural uniqueness is enough.
+      **Sin-stock or franchise-royalty businesses** with narrow
+      peer sets get a tight 2-row table. **Software / consumer /
+      retail** typically warrant a fuller table.
+    - **Source preference**: Statista, Built With, market-research
+      reports, peer 10-Ks (for revenue / share figures), trade
+      press. Cite each market share figure.
+
+25. **Risk Factor materiality filter** (added v2.8). Modifies and
+    supplements Core Rule #20 (which mandated 10-K Item 1A risk
+    integration). The Section 8 risk table must focus on **risks
+    that are material to the investment decision**, not catalog every
+    Item 1A line item.
+    - **Drop**: universal corporate boilerplate that applies to
+      every public company in the same line of work. Examples:
+      - "Revenue could fluctuate and miss expectations" (every
+        company)
+      - "We are subject to payments-related regulation" (every
+        company processing payments)
+      - "Cyber-attacks could harm our business" (every digital
+        company)
+      - "We rely on third-party providers" (every SaaS company)
+      - "We may not retain key personnel" (every company)
+    - **Keep** risks that are at least one of:
+      - **(a) Materially differentiated from peers** — the risk
+        is meaningfully more severe for this company than for its
+        competitors (e.g., gig-worker reclassification is more
+        severe for DASH/UBER than for SHOP).
+      - **(b) Not yet priced into the multiple** — the market has
+        not yet discounted this. **Explicitly state "not priced
+        in"** in the Notes column when this is the case; it is
+        actionable analytical information.
+      - **(c) Tied to a specific thesis-break trigger** — the
+        risk maps to a quantified condition the page commits to
+        monitor (e.g., "Q1 SSS < –7%" or "MLR > 88% sustained").
+      - **(d) Tied to a specific large discretionary investment**
+        where outcomes are uncertain (e.g., a $5B AI capex
+        commitment with no proven ROI; a multi-year tech-stack
+        unification project; a multi-billion-dollar acquisition
+        currently being integrated).
+    - **5-Year Risk Factor Evolution Arc**: Per Rule #21, drop
+      the chronological table and replace with a tight synthesis
+      paragraph (2–4 sentences) that names what genuinely changed
+      across the 5-year window and what it implies for the thesis.
+      Multi-year evolution evidence remains valuable; the bulk
+      table format does not.
+
+26. **Risk/Reward calculation discipline** (added v2.8). The R/R
+    figure cited in the Summary, Section 14 (PW EV Interpretation),
+    and `wiki/watchlist.md` (Conviction Ranking + Price Targets
+    Summary) MUST anchor to the **same Section 13 scenario set**
+    on the ticker page. Discrepancies cause reader confusion (and
+    were the trigger for this rule, after the v2.7 SHOP page cited
+    "5:1" in surfaces while the page's Section 13 implied "10:1").
+    - **Standard convention**: R/R = (Bull case % upside) ÷ (Bear
+      case % downside) using midpoint or named scenario prices vs.
+      current verified live price. Higher = more favorable.
+    - **Multiple Bull tiers (e.g., Bull + Bull+)**: state both
+      explicitly — e.g., *"~10:1 R/R (Bull / Bear), rises to ~15:1
+      with the Bull+ tail."* Don't average them silently.
+    - **Stop-loss / thesis-break-anchored R/R** (using the §11
+      thesis-break alert price as the downside) is acceptable as
+      a *secondary* framing in the Section 14 Interpretation
+      paragraph for transparency, but the *headline* R/R figure
+      must always be the Section 13 Bull-vs-Bear ratio.
+    - **Watchlist Price Targets table**: when the 3-column
+      template requires collapsing a 4-scenario set, blend the
+      top tiers (Bull + Bull+) into a single "Bull blend" row by
+      probability-weighted average so the PW EV reconciles to
+      the canonical Section 13 number. Don't substitute a
+      different scenario set.
 
 ---
 
@@ -1273,3 +1426,59 @@ version (v3, v4, ...). Minor edits within a version are fine without bump.
   primary-source synthesis retrofit. BRK.B (v2.6 source ingest),
   DASH (v2.6), SHOP (v2.7) are the three completed examples.
   Batch retrofit approach (5–7 parallel agents) recommended.
+
+### v2.8 changelog (April 2026 — synthesis discipline + page output quality)
+
+User review of the v2.7 SHOP output surfaced several quality issues
+common across v2.6/v2.7 enrichments. v2.8 codifies the corrections.
+
+- **Added Core Rule #21: Synthesis over transcription.** Primary
+  sources are inputs, not outputs. Verbatim quotes are valuable
+  only when paraphrase would weaken the insight. Multi-row
+  chronological tables of source extracts (like the v2.7 "5-Year
+  Risk Factor Evolution Arc" table) typically add bulk without
+  edge — replace with 2–4 sentence synthesis paragraphs.
+- **Added Core Rule #22: Ticker-page output discipline.** Three
+  conventions:
+  - No CLAUDE.md self-references (*"Per CLAUDE.md v2.X Core Rule #N"*)
+    in ticker page bodies. Schema enforcement is internal; light
+    references in changelog entries are fine.
+  - No retrospective / *"corrected from"* / *"prior framing"*
+    language in pages. Git history is the audit trail.
+  - Table orientation discipline: time in columns, metrics in
+    rows. Bullet-point preference for sentences with 3+ data points.
+- **Added Core Rule #23: Section consolidation — moat lives in
+  Section 5 only.** The standalone "Moat Assessment" block between
+  Business Overview and Pivotal Question is retired. Summary keeps
+  a one-line moat verdict; all detail lives in Section 5.
+- **Added Core Rule #24: Competitive landscape integration in
+  Section 5.** Moat without competitor context is incomplete.
+  Section 5 must include a `### Competitive Landscape` subsection
+  with named peers + market share + 1–2 sentence read on each
+  peer's moat / threat vector + explicit framing of how this
+  company's moat differs and what evidence supports it. Apply
+  judgment by ticker — Berkshire has no peer comparison; Shopify
+  / DoorDash / Coupang warrant fuller tables.
+- **Added Core Rule #25: Risk Factor materiality filter.**
+  Modifies/supplements Rule #20. Drop universal corporate
+  boilerplate (every-company risks like generic earnings
+  fluctuation, generic payments regulation, generic cyber).
+  Keep risks that are: (a) materially differentiated from peers,
+  (b) not yet priced into the multiple — *and explicitly state
+  "not priced in"* in the Notes column when so, (c) tied to a
+  specific thesis-break trigger, OR (d) tied to a specific
+  large discretionary investment with uncertain outcomes (e.g.
+  multi-billion-dollar capex bet, in-flight integration).
+  5-Year Risk Factor Evolution Arc collapsed from table to
+  synthesis paragraph (per Rule #21).
+- **Added Core Rule #26: Risk/Reward calculation discipline.**
+  R/R figures cited in Summary, Section 14, and watchlist must
+  anchor to the same Section 13 scenario set on the ticker page.
+  Standard convention: Bull / Bear from §13 midpoints. Multiple
+  Bull tiers stated explicitly. Watchlist 3-column Price Targets
+  template collapses 4-scenario sets via probability-weighted
+  Bull blend so PW EV reconciles to the canonical Section 13
+  number.
+- **Pending application**: SHOP refactor under v2.8 happens in
+  the same session. The other 31 tickers (32 minus SHOP) need
+  the v2.6+v2.7+v2.8 retrofit batch.

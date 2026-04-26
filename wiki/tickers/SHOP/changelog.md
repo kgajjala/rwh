@@ -4,6 +4,40 @@
 
 ---
 
+## [2026-04-25] — v2.8 Refactor (Synthesis discipline + page output quality)
+
+**Trigger**: User review of v2.7 SHOP output surfaced 7 quality issues (across micro and macro feedback). Codified into CLAUDE.md v2.8 with 6 new Core Rules; SHOP refactored as the test application.
+
+### What Changed
+- **Schema header bumped to v2.8.**
+- **Summary** — removed retrospective "prior 5:1 R/R framing was anchored to..." sentence (git history is the audit trail; pages reflect current state cleanly). Restructured the BAIT verdict bullet + Primary-source signal bullet for tightness. Added a new **Moat verdict** bullet with the 1-line summary; all moat detail now lives in Section 5 only.
+- **Business Overview** — bullet-ified. Replaced two text-heavy paragraphs with structured bullets covering: what Shopify is/isn't, scale (FY2025 metrics), revenue mix, geographic mix (per Shopify regional data), and recent enterprise wins. Sentences carrying 3+ data points are now bulleted for scannability.
+- **Standalone "Moat Assessment" block** between Business Overview and Pivotal Question — **removed**. Was duplicative with Section 5. Summary keeps the 1-line moat verdict; all moat detail lives in Section 5.
+- **Section 5** — renamed to "Competitive Moat & Landscape." Added new `### Competitive Landscape` subsection with:
+  - US e-commerce platform market share table (Shopify 30%, Wix 23%, Squarespace 16%, WooCommerce 14%, Adobe Commerce 8–9%, BigCommerce 0.3%, Amazon Buy with Prime context)
+  - International peer landscape (EMEA / Asia Pacific / Latin America with regional market share data)
+  - Explicit "How Shopify's moat differs from competitors" with 4 evidence-backed differentiators (full-stack vs. point solutions; independence; AI standard-setter; international greenfield)
+  - Honest tail-risk read on competitive position
+- **Section 8 (Key Risks)** — restructured per Rule #25 materiality filter:
+  - Removed 5 universal-corporate-boilerplate rows (generic earnings volatility, generic payments regulation, generic cyber, generic third-party reliance, generic founder dependency) — applies to all companies in the line of work, not actionable.
+  - Renamed `Source` column → `Priced In?` column. Each row explicitly flags whether the risk is partially / not / yes priced into the multiple — actionable analytical information.
+  - **Added new row**: "Multi-billion-dollar AI / UCP / Agentic Storefronts investment with uncertain ROI" tagged as **Not priced in** — captures the v2.8 Rule #25(d) "large discretionary investment" risk type that prior versions missed.
+  - **Added new row**: "Amazon Buy with Prime escalation" as **Not priced in** — captures a competitor risk consensus does not assign material probability to.
+  - Composite thesis-break signal added: 2 consecutive Q at <20% growth + declining GM + UCP adoption stalling.
+- **5-Year Risk Factor Evolution Arc table** — **removed** per Rule #21 (synthesis over transcription). Replaced with a tight 1-paragraph "Risk Factor Evolution — multi-year synthesis" subsection that captures the single material insight (the FY2023 Item 1A AI-risk addition as a 12-month leading indicator of Agentic Storefronts).
+- **Section 14 Interpretation** — cleaned retrospective language; kept the 10:1 headline ratio + secondary 3:1–5:1 framing for transparency.
+- **Section 12 (BAIT Verdict)** — removed retrospective "the prior $117–121" reference; kept the analytical content cleanly.
+- **All "Per CLAUDE.md v2.X Core Rule #N" lines removed** from the page body per Rule #22. Schema enforcement is internal; light references retained in changelog only.
+- **Recent Quarterly Trend table** — re-oriented to time-in-columns / metrics-in-rows format for consistency with the annual financial metrics table per Rule #22.
+
+### Thesis Status
+- **Overall**: Unchanged thesis. The v2.8 refactor is a presentation/quality refinement, not a thesis revision. PW EV $212, ~10:1 R/R, Triple BAIT (Moderate-High conviction), and recommendations are unchanged.
+- **New analytical edge surfaced**: The Competitive Landscape subsection makes Shopify's relative moat scale visible (3× larger than Wix globally; ~$700M Asia Pacific revenue with 18.5% growth as the clearest international expansion lever). This was implicit before and is now explicit.
+
+**Next review trigger**: 📅 Q1 2026 earnings (~May 2026). First quarter with Agentic Storefronts default-on across all stores.
+
+---
+
 ## [2026-04-25] — Risk/Reward Precision Fix (Summary + Section 14 + Section 15 + Watchlist)
 
 **Trigger**: User audit caught that the Summary line cited "~5:1 risk/reward" but the page's own Section 13 scenarios (Bear $113 –10%, Bull $252 +100%) imply **~10:1** by standard headline R/R math (upside % / downside %), or **~15:1** including the Bull+ $325 tail (+158%).

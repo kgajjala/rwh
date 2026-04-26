@@ -1,6 +1,6 @@
 # SHOP — Shopify Inc.
 
-> **Schema**: v2.7
+> **Schema**: v2.8
 > **Last Updated**: 2026-04-25
 > **Status**: Active
 > **Live Price Verified**: **$125.83** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/SHOP))
@@ -19,34 +19,39 @@
 - 📅 **Next catalyst**: **Q1 2026 earnings — ~May 2026**. Tests low-30s% revenue guide; first quarter with Agentic Storefronts default-on.
 - ⚠️ **Top risk**: Revenue deceleration <20% (Low-Moderate prob, High impact) — 84× P/E does not survive sub-20%.
 - ⚠️ **Second risk**: Multiple compression on broad SaaS reset (Moderate prob, High impact).
-- 🟢 **BAIT verdict**: **Triple overlap (B+A+I)** — Conviction **Moderate-High**. PW EV ~$212 (3-yr) implies +68% / ~19%/yr; **~10:1 risk/reward** (Bull $252 / Bear $113 per Section 13; rises to ~15:1 with the Bull+ $325 tail). The prior "~5:1 R/R" framing in some surfaces was anchored to the $85 thesis-break floor rather than the modeled Bear case — corrected per the Section 13 scenario set.
-- 📈 **Primary-source signal (5-year Tobi Lütke + 5-year 10-K Item 1A arc, per CLAUDE.md v2.7 Rules #19+#20)**: The **first-ever $2B buyback** authorized at the $125–135 zone (Feb 2026) is the cleanest possible Tobi-Lütke intrinsic-value signal in 11 years of public-company history (Shopify never bought back stock 2015–2025). The April 2025 *"AI is non-optional"* memo + UCP open-standard framing make Shopify the *creator* of agentic commerce, not the disruption target. The 5-year Item 1A arc shows AI risk language **added in FY2023 10-K → upgraded to platform-strategic in FY2024 → execution risk in FY2025** — a healthy worldview-shift trajectory that aggregator data missed.
+- 🟢 **Moat verdict**: **Wide and Widening** — switching costs (integrated stack: store + payments + POS + shipping + lending + ads + AI storefronts) + network effects (875M+ shoppers, Shop Pay) + first-mover position as the AI-commerce standard-setter (UCP co-developed with Google, OpenAI's Instant Checkout retreat).
+- 🟢 **BAIT verdict**: **Triple overlap (B+A+I)** — Conviction **Moderate-High**. PW EV ~$212 (3-yr) = +68% / ~19%/yr; **~10:1 risk/reward** (Bull $252 / Bear $113), rises to ~15:1 with the Bull+ $325 tail.
+- 📈 **Primary-source signal**: The **first-ever $2B buyback** authorized at the $125–135 zone (Feb 2026) is the cleanest Tobi-Lütke intrinsic-value signal in 11 years as a public company — Shopify never repurchased stock 2015–2025. Combined with the April 2025 *"AI is non-optional"* internal memo + the Universal Commerce Protocol (UCP) open-standard launch, Shopify is positioned as the *creator* of agentic AI commerce, not the disruption target. AI-attributed orders +11–15× since Jan 2025; AI traffic +7× — the early evidence supports the thesis.
 
 ---
 
 ## Business Overview
 
-Shopify Inc. (NASDAQ/TSX: SHOP) is the world's largest independent e-commerce platform, founded in 2006 by Tobias Lütke after he tried to sell snowboards online and could not find an adequate platform. Shopify provides the essential internet infrastructure for retail businesses of any size: online storefronts, POS hardware, payments (Shopify Payments / Shop Pay), shipping, capital/lending, B2B wholesale, and — increasingly — the connective tissue between merchants and AI agents via the Universal Commerce Protocol (UCP). It powers millions of merchants in 175+ countries, processed $378B in GMV in FY2025, and commands 14%+ U.S. e-commerce share.
+Shopify Inc. (NASDAQ/TSX: SHOP) is the world's largest independent e-commerce platform, founded in 2006 by Tobias Lütke after he tried to sell snowboards online and could not find an adequate platform. The mission has been consistent: provide essential internet infrastructure for retail businesses of any size, lowering the barrier to entrepreneurship.
 
-Revenue splits between **Merchant Solutions** (~73% of FY2025 revenue: payments, shipping, capital, advertising) and **Subscription Solutions** (~27%: SaaS plans, Plus enterprise upgrades). Shopify owns no inventory, runs no warehouses, and carries no retail risk — pure platform economics. Recent enterprise wins include General Motors, L'Oréal, Estée Lauder, Sonos, Keurig Dr. Pepper, and Amer Sports (Wilson, Salomon).
+**What Shopify is** (and is not):
+- Provides the integrated stack for online merchants: storefronts, POS hardware, payments (Shopify Payments / Shop Pay), shipping, capital/lending, B2B wholesale, ads, and — increasingly — the connective tissue between merchants and AI agents via the Universal Commerce Protocol (UCP)
+- Owns no inventory, runs no warehouses, carries no retail risk — pure platform economics
+- Independent (not Amazon-owned), open-standard-oriented (UCP is co-developed with Google), and merchant-aligned (does not compete with merchants)
 
----
+**Scale (FY2025)**:
+- **$11.6B revenue** (+30% YoY) at $11B+ scale
+- **$378B GMV** (+29% YoY); $124B in Q4 alone (+31%)
+- Merchants in **175+ countries**; **875M+ unique shoppers** transacted via Shop Pay
+- **42M MAUs** transacted in Q4
+- 11+ consecutive quarters of **25%+ revenue growth (ex-logistics)** — among the fastest-growing large-cap technology companies globally
 
-## Moat Assessment
+**Revenue mix** (FY2025):
+- **Merchant Solutions** ~73% — payments (68% of GMV penetration), shipping, capital, Shop Campaigns advertising (revenue doubled in 2025)
+- **Subscription Solutions** ~27% — SaaS plans, Plus enterprise upgrades
 
-**Wide and Widening** — switching costs + network effects + emerging AI-commerce standard-setter position.
+**Geographic mix** (Shopify merchant distribution per [Shopify regional data](https://redstagfulfillment.com/shopify-market-share/)):
+- North America: **54% of merchants** (US is the dominant market)
+- EMEA: **25%** (UK is the largest European market)
+- Asia Pacific: **14%** (~$699M annual revenue; 18.5% projected growth — clearest international expansion opportunity)
+- Latin America: **5%** (Brazil leads; localized payments + Portuguese support)
 
-**Sources**:
-- **Switching costs (primary)**: Online store + payments + POS + shipping + lending + advertising + AI storefronts are fully integrated. 11+ consecutive quarters of 25%+ revenue growth (ex-logistics) demonstrates retention durability at enterprise scale.
-- **Platform network effects**: 875M+ unique shoppers; Shop Pay creates consumer-side lock-in; Shop App native GMV grew +94% YoY in 2025.
-- **Data / AI advantage**: $378B GMV across millions of merchants — one of the most diverse commerce datasets globally. Powers Catalog's specialized LLMs and Sidekick.
-- **First-mover in agentic commerce**: Universal Commerce Protocol (UCP) co-developed with Google, endorsed by Visa, Mastercard, Stripe, Adyen, AmEx, Target, Walmart, Etsy, Wayfair, and 20+ others. OpenAI's retreat from "Instant Checkout" (only ~30 merchants successfully onboarded; routes traffic to Shopify storefronts instead) is the cleanest validation of fulfillment complexity flowing *through* Shopify, not around it.
-
-**Vulnerabilities**:
-- High valuation multiple is the moat's tax — any growth deceleration below 20% would compress 84× P/E violently
-- Amazon Buy with Prime is a credible — if narrow — competitive alternative for some merchants
-- Macro / tariff exposure on cross-border SMB merchants (de minimis removal)
-- Dual-class governance (Lütke 40% voting via Founder Share) is feature-now, risk-later
+**Recent enterprise wins** (2024–2025): General Motors, L'Oréal, Estée Lauder, Sonos, Keurig Dr. Pepper, Amer Sports (Wilson, Salomon), Spanx, Glossier, Vuori — Plus enterprise plan now ~34% of total Plus MRR. The 2024–2025 enterprise migration is genuinely category-expansion, not strategy drift; the platform was built for merchant variation from day one.
 
 ---
 
@@ -129,20 +134,18 @@ The market priced the *disruption* scenario through Q4 2025/Q1 2026 (drove the s
 
 ### Recent Quarterly Trend
 
-| Quarter | Revenue | Growth YoY | GMV | FCF Margin |
-|---------|---------|------------|-----|------------|
-| Q4 2024 | $2.81B | +31% | $94.5B | 22% |
-| Q1 2025 | $2.36B | +27% | $74.8B | 15% |
-| Q2 2025 | $2.70B | +31% | $87.8B | 16% |
-| Q3 2025 | $2.84B | +32% | $92.0B | 18% |
-| Q4 2025 | $3.67B | +31% | $123.8B | 19.5% |
-| **FY2025** | **$11.56B** | **+30%** | **$378B** | **17%** |
+| Metric | Q4 2024 | Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 | **FY2025** |
+|--------|---------|---------|---------|---------|---------|----------|
+| Revenue | $2.81B | $2.36B | $2.70B | $2.84B | $3.67B | **$11.56B** |
+| Growth YoY | +31% | +27% | +31% | +32% | +31% | **+30%** |
+| GMV | $94.5B | $74.8B | $87.8B | $92.0B | $123.8B | **$378B** |
+| FCF Margin | 22% | 15% | 16% | 18% | 19.5% | **17%** |
 
 11 consecutive quarters of 25%+ revenue growth (ex-logistics). 5-year revenue CAGR ~31.6% at $11.6B scale — among the fastest-growing large-cap technology companies globally.
 
 ### Primary Source: 5-Year 10-K Segment Detail (FY2021–FY2025)
 
-Pulled directly from the [Shopify FY2024 10-K (SEC HTML)](https://www.sec.gov/Archives/edgar/data/1594805/000159480525000039/shop-20241231.htm) and [FY2025 10-K (filed Feb 11, 2026)](https://www.stocktitan.net/sec-filings/SHOP/10-k-shopify-inc-files-annual-report-b62a5b66c76b.html). Per CLAUDE.md v2.6 Core Rule #20 — multi-year 10-K MD&A synthesis.
+Pulled directly from the [Shopify FY2024 10-K (SEC HTML)](https://www.sec.gov/Archives/edgar/data/1594805/000159480525000039/shop-20241231.htm) and [FY2025 10-K (filed Feb 11, 2026)](https://www.stocktitan.net/sec-filings/SHOP/10-k-shopify-inc-files-annual-report-b62a5b66c76b.html).
 
 **Multi-year segment evolution** (from 10-K Item 7 MD&A):
 
@@ -203,20 +206,53 @@ International revenue grew +36% in FY2025 (vs. +33% FY2024 — accelerating). Ne
 
 ---
 
-## Section 5 — Competitive Moat
+## Section 5 — Competitive Moat & Landscape
 
-**Rating: Wide and Widening**.
+**Rating: Wide and Widening** — switching costs + network effects + first-mover position as the AI-commerce standard-setter.
+
+### Moat Sources
 
 | Source | Strength | Evidence |
 |--------|----------|---------|
-| Switching costs | Primary | Full-stack integration; 11+ Q of 25%+ growth; GM/L'Oréal/Estée Lauder migrations signal enterprise stickiness |
-| Platform network effects | Strong | 875M+ unique shoppers; Shop Pay; Shop App native GMV +94% |
-| Data / AI advantage | Growing | $378B GMV dataset → Catalog LLMs + Sidekick |
-| Agentic commerce first-mover | Emerging | UCP co-developed with Google; 20+ endorsers across payments + retail |
+| Switching costs | Primary | Full-stack integration (store + payments + POS + shipping + lending + ads + AI storefronts); 11+ Q of 25%+ revenue growth; GM/L'Oréal/Estée Lauder/Sonos enterprise migrations signal stickiness at scale |
+| Platform network effects | Strong | 875M+ unique shoppers transacted via Shop Pay; Shop App native GMV +94% YoY; consumer-side lock-in via saved checkout |
+| Data / AI advantage | Growing | $378B GMV dataset → Catalog specialized LLMs and Sidekick AI assistant; one of the most diverse commerce datasets globally |
+| Agentic commerce first-mover | Emerging → Strategic | UCP co-developed with Google; 20+ endorsers across payments (Visa/Mastercard/Stripe/Adyen/AmEx) + retail (Target/Walmart/Etsy/Wayfair) |
 
-**OpenAI Instant Checkout retreat as moat validation**: OpenAI abandoned native checkout after only ~30 Shopify merchants were successfully onboarded; revised model routes users to Shopify merchant storefronts. This is the cleanest single piece of primary-source validation that fulfillment complexity flows *through* Shopify, not around it.
+**OpenAI Instant Checkout retreat as moat validation**: OpenAI abandoned native AI checkout after only ~30 Shopify merchants were successfully onboarded; revised model routes users to Shopify merchant storefronts. The cleanest single piece of primary-source validation that fulfillment complexity flows *through* Shopify, not around it.
 
-**Vulnerabilities**: 84× P/E is the moat's tax — any deceleration below 20% growth compresses violently. Amazon Buy with Prime is a real but narrow competitive alternative. Lütke's dual-class control is feature-now, governance-risk-later.
+**Vulnerabilities**:
+- 84× P/E is the moat's tax — any deceleration below 20% growth compresses violently
+- Lütke's dual-class control (40% voting via Founder Share) is feature-now, governance-risk-later
+- Cross-border SMB exposure to tariff regimes (de minimis removal pressure)
+
+### Competitive Landscape
+
+| Platform | US e-commerce platform share | Global share | Positioning | Moat read |
+|---|---|---|---|---|
+| **Shopify** | **~30%** (US #1) | **~10.3%** (global #2) | Independent platform; full-stack integrated | Wide & Widening — primary differentiator vs. all peers below |
+| Wix Stores | ~23% | ~4.3% | SMB / template-driven; international (Brazil, France, India, Germany, Japan strength) | Narrow — design-first; weaker payments/POS/lending stack; ~3× smaller globally |
+| Squarespace | ~16% | n/d | Long-tail SMB; aesthetic-led | Narrow — minimal commerce-infrastructure depth; not pursuing enterprise |
+| WooCommerce (WordPress plugin) | ~14% (US Checkout share) | **~33–39%** (by site count globally) | Open-source plugin; long-tail SMB | None — most stores are tiny or inactive; pricing is free but operational cost is high; not a strategic competitor at enterprise scale |
+| Adobe Commerce (Magento) | ~8–9% | n/d | Mid-market / enterprise; bundled with Adobe Experience Cloud | Narrow — strong for Adobe-shop enterprises; smaller dev community than Shopify Plus |
+| BigCommerce | ~0.3% | n/d | Mid-market positioning | Narrow — losing share; sub-scale R&D spend vs. Shopify |
+| Amazon Buy with Prime | n/d (marketplace, not platform) | n/d | Bundles Prime fulfillment to non-Amazon storefronts | Real but narrow — only competitive for merchants willing to share customer data with Amazon; structural competitor not direct platform peer |
+
+*Sources: [Statista US e-commerce platforms 2025](https://www.statista.com/statistics/950591/united-states-ecommerce-platforms-market-share/), [Shopify regional data via Red Stag](https://redstagfulfillment.com/shopify-market-share/), [Demand Sage Shopify market share](https://www.demandsage.com/shopify-market-share/).*
+
+**International peer landscape** (regional):
+- **EMEA**: Shopify 25% of merchants (UK is ~23% European share). Wix has stronger non-English-market presence (Brazil, France, Germany). No regional incumbent dominates Europe — fragmented competitive set works in Shopify's favor.
+- **Asia Pacific**: Shopify 14% of merchants ($699M revenue); +18.5% projected growth = clearest international expansion opportunity. Regional incumbents (Coupang in Korea, Sea/Shopee in SE Asia, Lazada/Tokopedia) are *marketplaces*, not commerce-platforms — different layer of stack, less direct competition.
+- **Latin America**: 5% of Shopify merchants (Brazil leads). Mercado Libre dominates the LatAm marketplace layer; Shopify's platform play is complementary rather than directly competitive.
+
+### How Shopify's moat differs from competitors (and what evidence supports it)
+
+1. **Full-stack integration vs. point solutions** — Wix is design-first, BigCommerce is mid-market-focused, Adobe Commerce is enterprise-bundled-with-Adobe. Only Shopify has the complete merchant stack (store + payments at 68% GMV penetration + POS + shipping + lending + ads + AI). **Evidence**: 11+ consecutive quarters of 25%+ revenue growth at $11.6B scale — sustained at this scale only because the full stack creates switching costs that compound with merchant size.
+2. **Independence from a parent ecosystem** — Adobe Commerce is captive to Adobe; Amazon Buy with Prime is captive to Amazon's data layer; Squarespace is captive to its template ecosystem. Shopify is independent and merchant-aligned (does not compete with merchants the way Amazon does). **Evidence**: Enterprise migrations (GM, L'Oréal, Sonos) of formerly-Amazon-curious brands; brands explicitly chose Shopify for control of customer data + brand experience.
+3. **AI-commerce standard-setter, not standard-taker** — Wix and BigCommerce will *adopt* whatever AI commerce standards emerge. Shopify is *defining* the standard via UCP. **Evidence**: UCP endorsed by Visa, Mastercard, Stripe, Adyen, AmEx (the entire payments rail layer) + Target, Walmart, Etsy, Wayfair (the retail breadth) — competitors don't have this convening power.
+4. **International growth is greenfield, not zero-sum** — Shopify's international expansion in Asia and EMEA is into markets where no platform-layer incumbent exists (only marketplaces, which are a different stack layer). **Evidence**: Q2 2025 EMEA GMV growth +42% YoY despite the region being only 25% of merchants.
+
+**Tail-risk read on competitive position**: Amazon is the only well-capitalized competitor that could plausibly escalate (Buy with Prime is the wedge). Wix and BigCommerce are sub-scale and structurally cannot match Shopify's R&D spend on the integrated stack. The 2025 OpenAI Instant Checkout retreat suggests the AI-platform layer is *not* a near-term direct disintermediation threat — agentic-commerce surfaces are converging on Shopify-as-fulfillment.
 
 ---
 
@@ -238,7 +274,7 @@ International revenue grew +36% in FY2025 (vs. +33% FY2024 — accelerating). Ne
 
 ### Recent Management Commentary — Primary Source Synthesis (IPO Letter + 5 Years of Quarterly Letters + AI Memo)
 
-This subsection synthesizes Tobi Lütke's primary-source CEO communication. *Note on source structure*: Shopify does not publish Buffett-style standalone annual letters. Instead, it publishes quarterly shareholder letters with each earnings release, plus the [2015 IPO Prospectus Letter](https://shopifyinvestors.com/past-letters/2015-letter/default.aspx) (the founding mission document) and occasional internal/external memos (the April 2025 "AI is non-optional" memo being the most thesis-relevant). For the 5-year baseline, Q4 letters (covering full-year results) serve as the annual-letter equivalent. Per CLAUDE.md v2.6 Core Rule #19.
+This subsection synthesizes Tobi Lütke's primary-source CEO communication. Shopify does not publish Buffett-style standalone annual letters; instead it publishes quarterly shareholder letters with each earnings release, plus the [2015 IPO Prospectus Letter](https://shopifyinvestors.com/past-letters/2015-letter/default.aspx) (the founding mission document) and occasional memos (the April 2025 "AI is non-optional" memo being the most thesis-relevant). Q4 letters covering full-year results serve as the annual-letter equivalent for the 5-year baseline.
 
 #### Verbatim quotes mapped to investment relevance
 
@@ -294,45 +330,23 @@ This subsection synthesizes Tobi Lütke's primary-source CEO communication. *Not
 
 ## Section 8 — Key Risks
 
-Per CLAUDE.md v2.7 Core Rule #20: rows derived from verbatim 10-K Item 1A Risk Factors language are sourced explicitly to the [Shopify FY2024 10-K](https://www.sec.gov/Archives/edgar/data/1594805/000159480525000039/shop-20241231.htm) or the [FY2025 10-K (filed Feb 11, 2026)](https://www.stocktitan.net/sec-filings/SHOP/10-k-shopify-inc-files-annual-report-b62a5b66c76b.html). Rows tagged `*[Analyst speculation]*` are agent-derived and not present in 10-K. Italics in the Notes column = direct 10-K quote. **[NEW in FY[N] 10-K]** flags risks added vs. prior year.
+Filtered for risks that are Shopify-specific, materially differentiated from peers, not yet priced into the 84× multiple, OR tied to a specific thesis-break trigger. Universal corporate boilerplate (generic earnings volatility, generic payments regulation, generic cyber, third-party reliance, founder dependency) is excluded as un-actionable.
 
-| Risk | Impact | Probability | Source | Notes |
-|------|--------|-------------|--------|-------|
-| ⚠️ **Revenue deceleration <20%** | High | Low–Moderate | 10-K Item 1A | *"Our revenue and operating results could fluctuate, and if we fail to meet the expectations of analysts or investors, our share price and the value of your investment could decline."* Primary thesis-break; 84× P/E does not survive sub-20%. |
-| Gross margin pressure (mix shift Subscription → Merchant Solutions) | Moderate | High | 10-K Item 7 MD&A | Merchant Solutions (~73% of revenue) growing faster than higher-margin Subscription Solutions; structural and accepted. *"We may not be able to maintain or increase our gross profit margins"* per Item 1A. |
-| ⚠️ **AI disruption to SaaS pricing / agentic-commerce competition** **[NEW emphasis in FY2024–2025 10-Ks]** | High | Low | 10-K Item 1A | *"The development of new technologies, including artificial intelligence, may significantly impact the e-commerce industry... If we fail to successfully integrate AI into our platform... our competitive position could be harmed."* Mitigant: Shopify is on the *creation* side of AI commerce (UCP, Agentic Storefronts), not the disruption-target side. |
-| Macro / tariff / SMB weakness (de minimis removal, recession) | Moderate | Moderate | 10-K Item 1A + Item 7A | *"If economic conditions deteriorate, demand for our merchants' products could decline, which could materially adversely affect our business."* Acute SMB exposure. |
-| ⚠️ Multiple compression (broad SaaS reset) | High | Moderate | *[Analyst speculation]* | Not a 10-K Item 1A line item — market-driven risk. At ~85× fwd P/E, any broad SaaS reset weighs regardless of fundamentals. |
-| Cybersecurity breach / merchant-data exposure | High | Low–Medium | 10-K Item 1A | *"Cyber-attacks, security incidents, or breaches of our security measures... could result in a material loss of confidence in our platform."* Heightened given UCP cross-platform integrations. |
-| Payments & financial services regulation | Medium | Medium | 10-K Item 1A | *"We are subject to extensive and evolving payments-related regulation... If we fail to comply, we could face significant fines, penalties, or restrictions."* Shopify Payments penetration at 68% of GMV makes this material. |
-| International expansion + currency risk | Medium | Medium | 10-K Item 1A + Item 7A | *"Our growth depends in part on our international expansion. Our results may be impacted by foreign currency fluctuations."* ~30% of GMV outside North America. |
-| Tobi Lütke / founder dependency | Medium | Low | 10-K Item 1A | *"We depend on our senior management team... If we lose their services, our business could be harmed."* Lütke retains super-voting Class B; succession not yet articulated. |
-| Reliance on third-party services (AWS, Google, Apple) | Medium | Low | 10-K Item 1A | *"We rely on third-party providers... interruption could materially adversely affect our business."* Standard SaaS dependency risk. |
-| Competition (Amazon Buy with Prime, Adobe, BigCommerce, WooCommerce) | Moderate | Moderate | 10-K Item 1A | *"We face significant competition... If we are unable to compete effectively, our business... could be adversely affected."* Real but narrow; lacks merchant-platform breadth and AI positioning. |
-| CEO 10b5-1 stock sales | Low | Certain | DEF 14A / Form 4 | ~2M shares through Dec 2026; pre-arranged 10b5-1; Lütke retains 77.75M Class B + super-voting control. Routine, not a signal. |
+| Risk | Impact | Probability | Priced In? | Notes |
+|------|--------|-------------|------------|-------|
+| ⚠️ **Revenue growth decelerates below 20%** | High | Low–Moderate | Partially | Primary thesis-break trigger. 84× P/E does not survive sub-20% growth — would compress to 50–55× even with no fundamental change. **Watch**: 2 consecutive quarters at <20% revenue growth (ex-FX) = re-rate to base/bear case. Currently +30% FY2025; ample headroom. |
+| ⚠️ **Multi-billion-dollar AI / UCP / Agentic Storefronts investment with uncertain ROI** | High | Moderate | Not priced in | The 2025–2026 unified AI commerce build (Catalog LLMs, Sidekick, UCP standard, Agentic Storefronts default-on) is a multi-year capex bet where standard-setter wins are not guaranteed. Aggregator data underweights the spend; consensus assumes successful monetization. If UCP fails to become the de facto standard within 18–24 months, the bull case (+158% Bull+ scenario) is invalidated. |
+| ⚠️ **Multiple compression on broad SaaS reset** | High | Moderate | Partially | Market-driven, not Shopify-specific. At ~85× fwd P/E, any peer-group reset weighs regardless of fundamentals. Beta 3.23 amplifies. |
+| ⚠️ **Amazon Buy with Prime escalation** | Moderate | Low–Moderate | Not priced in | Amazon is the only well-capitalized competitor with the customer base + logistics to credibly attack Shopify's full-stack value prop. Currently narrow (only competitive for merchants willing to share data with Amazon), but Amazon could subsidize for years. Consensus models do not assign material probability to this; if BWP gains 5%+ US merchant share by 2027, base-case multiple compresses 15–20%. |
+| Macro / tariff / SMB weakness (de minimis removal) | Moderate | Moderate | Partially | Cross-border SMB merchants are exposed to evolving tariff regimes. Recession would compress GMV growth temporarily but not break the platform thesis. |
+| Gross margin pressure (Merchant Solutions mix shift) | Moderate | High | Yes | Merchant Solutions (~73% of revenue, lower GM than Subscription) growing faster than Subscription. Structural and accepted; consensus models reflect this. |
+| Lütke dual-class governance (40% voting via Founder Share) | Medium | Low (near-term) | Yes | Feature-now (founder-aligned, long-duration), governance-risk-later. Routine 10b5-1 sales (~2M shares through Dec 2026) are not a signal — pre-arranged. Lütke retains 77.75M Class B + super-voting control. |
 
-**Thesis-break signal**: Two consecutive quarters of sub-20% revenue growth + declining margins. Price alert at $85 (re-test of 52-wk low) for thesis reassessment.
+**Thesis-break signal (composite)**: Two consecutive quarters of sub-20% revenue growth + declining gross margins + UCP adoption stalling among the top 10 endorsers. Price alert at **$85** (re-test of 52-wk low) for thesis reassessment.
 
-### 5-Year Risk Factor Evolution Arc (FY2020 → FY2025)
+### Risk Factor Evolution — multi-year synthesis
 
-Per CLAUDE.md v2.7 Core Rule #20. Tracks which Item 1A risk factors were **added**, **materially upgraded in emphasis**, or **removed** across the 5-year 10-K baseline. New risks in Item 1A are management's earliest worldview-shift signal — often appearing 1–2 years before they impact earnings.
-
-| Year (10-K) | Risk Factor change | Signal interpretation |
-|---|---|---|
-| **FY2020 10-K** (filed Feb 2021) | **[ADDED]**: COVID-related demand volatility risk; Fulfillment Network operational risks | Set baseline — pandemic + Fulfillment Network were the dominant risk frames |
-| **FY2021 10-K** (filed Feb 2022) | **[UPGRADED]**: Macro normalization risk from "potential" to "elevated"; Fulfillment Network capacity scaling risk | Prefigured the 2022 over-investment correction Tobi later publicly apologized for |
-| **FY2022 10-K** (filed Feb 2023) | **[REMOVED]**: Fulfillment Network operational risk (post-divestiture); **[ADDED]**: Restructuring + workforce reduction risk | The restructuring/divestiture risks were *post-action* disclosures, not predictive — Item 1A typically lags executive decisions for divestitures |
-| **FY2023 10-K** (filed Feb 2024) | **[ADDED]**: AI / generative AI competitive risk; international taxation regime shifts | **First explicit mention of generative AI as a competitive risk** — appeared 1 year before Agentic Storefronts launch (2025) and 2 years before UCP standardization (2026). Classic Item 1A leading indicator. |
-| **FY2024 10-K** (filed Feb 2025) | **[UPGRADED]**: AI risk from "competitive" to "platform-strategic"; UCP-related cross-platform interoperability risk added; payments regulation language expanded | Shows management converting AI from defensive concern to offensive strategy frame — corresponds with the April 2025 "AI is non-optional" memo |
-| **FY2025 10-K** (filed Feb 11, 2026) | **[ADDED]**: Agentic AI commerce risk explicitly enumerated (channel disintermediation, AI-platform concentration); UCP-standard adoption execution risk; cyber/data risk upgraded for cross-platform integrations | Item 1A now reflects the post-Agentic Storefronts world; risks are *execution-of-AI-strategy* type (positive sign) rather than *AI-disrupts-our-business* type |
-
-**Three observations from the 5-year Risk Factor arc**:
-
-1. **The 2023 Item 1A AI-risk addition (1 year before Agentic Storefronts launch) is the cleanest example of management's worldview-shift signaling.** Aggregator risk summaries in 2023 did not flag AI as a material Shopify-specific risk; the 10-K Item 1A did. Investors who read the 10-K diff between FY2022 and FY2023 had a 12+ month lead on the AI thesis vs. those who relied on aggregator data.
-
-2. **The arc shows a healthy *evolution* — risks transition from "X disrupts us" to "we are executing X" framing.** AI moved from competitive risk (FY2023) → platform-strategic (FY2024) → execution risk (FY2025). This is the *positive* trajectory: management is taking ownership of the AI direction rather than being a passive risk-taker. Compare to peers like BigCommerce or Wix, where 2025 10-Ks still frame AI primarily as competitive disruption.
-
-3. **The Fulfillment Network risk lifecycle (added FY2020 → upgraded FY2021 → removed FY2022 post-divestiture) is a useful *negative-precedent* for evaluating ongoing risks.** When Item 1A *upgrades* a risk's emphasis (as with Fulfillment Network in FY2021), it often precedes management action. The current FY2025 elevation of cyber/data risk (cross-platform UCP integrations) and payments regulation language warrant attention as 2026–2027 watch items — they may presage management action on those fronts.
+The single material insight from reading 5 years of 10-K Item 1A diffs (FY2020 → FY2025): **Shopify added explicit generative-AI competitive risk language to Item 1A in the FY2023 10-K — one year before Agentic Storefronts launched in 2025 and two years before UCP standardization in February 2026.** The risk language then *evolved* across FY2024 (upgraded from "competitive" to "platform-strategic") and FY2025 (re-cast as "execution risk" of the AI strategy). This is a healthy progression — management converted AI from defensive concern to offensive strategy frame, mirroring the April 2025 "AI is non-optional" memo. Compare to peers like BigCommerce and Wix, whose FY2025 10-Ks still frame AI primarily as a disruption threat. The diff is a clean leading indicator that aggregator risk summaries missed.
 
 ---
 
@@ -481,7 +495,7 @@ Underappreciated primary-source data:
 
 ### BAIT Verdict
 
-**Triple overlap (B + A + I) — recovered conviction**. The Behavioral signal has moderated post-recovery (from Strong → Moderate); Analytical and Informational signals remain Moderate-Strong; Technical is Moderate. Conviction: **Moderate-High**. The cleanest entry zone has moved up from the prior $117–121 to **$110–125** — current price sits at the *upper edge* of the attractive entry zone. A drawback to $100–$110 on broad-market weakness would re-create a Strong-conviction setup; the current price is a defensible-but-not-fat entry.
+**Triple overlap (B + A + I)** — Conviction **Moderate-High**. Behavioral signal moderated post-recovery (Strong → Moderate); Analytical and Informational signals remain Moderate-Strong; Technical is Moderate. Cleanest entry zone is **$110–125** — current price sits at the upper edge. A drawback to $100–$110 on broad-market weakness would re-create a Strong-conviction setup; the current price is a defensible-but-not-fat entry.
 
 ---
 
@@ -536,7 +550,7 @@ Underappreciated primary-source data:
 |--------------|-------|--------------|-----------|
 | $125.83 | $212 | **+68%** | ~+19%/yr |
 
-**Interpretation**: PW EV of ~$212 vs. spot $125.83 = +68% upside over 3 years (~19%/yr). Asymmetry is favorable: Bull/Bull+ combined probability 40% offers +100% to +158%; Bear (15% probability) implies –10%. **Headline risk/reward ratio = +100% / 10% = ~10:1** (Bull vs. Bear); rises to **~15.8:1** comparing the Bull+ tail (+158%) against the Bear (–10%). If anchored instead to the $85 thesis-break alert level (a stop-loss-style downside of ~32%), the ratio is closer to ~3:1 to ~5:1 — a more conservative framing some investors prefer. Either way the asymmetry is favorable, and marginally less attractive than at the $117 trough but still compelling.
+**Interpretation**: PW EV of ~$212 vs. spot $125.83 = +68% upside over 3 years (~19%/yr). Asymmetry is favorable: Bull/Bull+ combined probability 40% offers +100% to +158%; Bear (15% probability) implies –10%. **Headline risk/reward ratio = +100% / 10% = ~10:1** (Bull vs. Bear); rises to **~15.8:1** comparing the Bull+ tail (+158%) against the Bear (–10%). A more conservative secondary framing (using the $85 thesis-break alert as the downside anchor instead of the modeled Bear) yields ~3:1 to ~5:1.
 
 ---
 
@@ -544,7 +558,7 @@ Underappreciated primary-source data:
 
 **Thesis in one sentence**: Shopify is the dominant independent commerce-infrastructure platform with widening switching costs, accelerating revenue growth (+30% at $11.6B scale), $2B FCF, the first-ever buyback, and a first-mover position in agentic AI commerce that the market has *partially* re-rated from disruption-fear pricing — recovery from $88 to $126 leaves room for another 50%+ if Q1 2026 confirms low-30s% growth.
 
-**For a non-holder**: 🟢 **Initiate** at $125.83 — current price sits at the upper edge of the attractive entry zone. Asymmetry is favorable (PW EV $212, ~+68% over 3 years; ~10:1 risk/reward Bull-vs-Bear per Section 13 scenarios). The stronger setup would be a drawback to $100–$110, but waiting for it forfeits the Q1 2026 catalyst optionality.
+**For a non-holder**: 🟢 **Initiate** at $125.83 — current price sits at the upper edge of the attractive entry zone. Asymmetry is favorable (PW EV $212, ~+68% over 3 years; ~10:1 R/R Bull-vs-Bear). The stronger setup would be a drawback to $100–$110, but waiting for it forfeits the Q1 2026 catalyst optionality.
 
 **For a current holder**: 🟢 **Add / Hold** — no reason to trim at $126 with PW EV ~$212. Add aggressively on any drawback toward $100–$110. The thesis has *strengthened* since the v1 ingest at $117–121: the Q4 FY2025 print confirmed +30% growth, the $2B buyback was authorized, and the recovery off $88 demonstrated that the Bear case (revenue deceleration to 12–15%) is not appearing in operating data.
 
@@ -569,13 +583,13 @@ Underappreciated primary-source data:
 
 ### Sources
 
-**Primary sources (per CLAUDE.md v2.7 Rules #19 + #20)**:
+**Primary sources**:
 - [Shopify FY2024 10-K (HTML)](https://www.sec.gov/Archives/edgar/data/1594805/000159480525000039/shop-20241231.htm) — Item 1A Risk Factors and Item 7 MD&A
 - [Shopify FY2025 10-K (filed Feb 11, 2026; SEC HTML)](https://www.stocktitan.net/sec-filings/SHOP/10-k-shopify-inc-files-annual-report-b62a5b66c76b.html) — Item 1A + MD&A
 - [Shopify FY2023, FY2022, FY2021, FY2020 10-Ks via SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001594805&type=10-K) — 5-year baseline for Risk Factor evolution arc
 - [Shopify IR — SEC filings index](https://investors.shopify.com/financial-information/sec-filings/default.aspx)
 
-**Tobi Lütke shareholder communications (per CLAUDE.md v2.7 Rule #19 — Pattern B: quarterly letters)**:
+**Tobi Lütke shareholder communications** (Pattern B: quarterly letters since IPO):
 - [Tobi Lütke 2015 IPO Prospectus Letter](https://shopifyinvestors.com/past-letters/2015-letter/default.aspx) — founding mission
 - [Shopify Q4 FY2025 Letter / Earnings Release (Feb 11, 2026)](https://www.shopify.com/news/shopify-q4-2025-financial-results) — first $2B buyback authorization
 - [Shopify Q4 2025 Earnings Call Transcript (Feb 11, 2026)](https://www.fool.com/earnings/call-transcripts/2026/02/11/shopify-shop-q4-2025-earnings-call-transcript/) — UCP, Agentic Storefronts, "TCP/IP of commerce"

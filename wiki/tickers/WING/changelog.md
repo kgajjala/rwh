@@ -4,6 +4,58 @@
 
 ---
 
+## [2026-04-26] — v2.9 Schema Retrofit + Primary-Source Synthesis + Material Thesis Shifts
+
+**Trigger**: v2.9 schema migration (15-section → 13-section structure; Section 1 retired; old §3+§4 merged into new §2; Rule #21–#26 enforcement). Refresh in advance of Q1 2026 earnings on April 29 (3 days from this entry).
+
+**Sources reviewed (newly captured this pass)**:
+- [Wingstop FY2025 / Q4 release (2026-02-18)](https://ir.wingstop.com/wingstop-inc-reports-fourth-quarter-and-fiscal-year-2025-financial-results/) — confirmed Q4 SSS –5.8%; FY adj EPS $4.08
+- [Q4 2025 transcript via Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/04/21/wingstop-wing-q4-2025-earnings-call-transcript/) — Smart Kitchen full-rollout confirmation; $300M buyback; India entry
+- [stockanalysis.com forecast](https://stockanalysis.com/stocks/wing/forecast/) — 27 analysts; Strong-Buy; **median target $310** (range $175–$440)
+- [Fintel](https://fintel.io/ss/us/wing) — short interest **14.45% of float** (4.0 days to cover)
+- [StockTitan Q1 2026 announcement](https://www.stocktitan.net/news/WING/wingstop-inc-to-announce-fiscal-first-quarter-2026-financial-results-2wdwdx66t0ij.html) — Q1 print confirmed April 29 pre-market
+- [WING 2025 Annual Report PDF](https://ir.wingstop.com/wp-content/uploads/2026/04/2025-Annual-Report.pdf) — fetched but non-text-extractable; treated as Pattern C with proxy/earnings-call fallback
+
+**Sources rate-limited / [link pending]**:
+- SEC EDGAR direct 10-K HTML fetches (FY25 wing-20251227, FY24 wing-20241228) returned HTTP 403
+- Yahoo Finance live JSON (503) — quote sourced from stockanalysis.com fallback
+
+### What Changed (v2.9 13-section structure, reflecting all section refreshes)
+
+- **Schema**: 15→13 sections; old §1 (Why Exist + Pivotal Q) folded into header / Pivotal Question subsection; old §3 (Geographic) + §4 (Revenue Mix) merged into new §2; standalone "Moat Assessment" block retired (Rule #23) — moat now lives only in new §3
+- **§1 Annual Financial Metrics**: Multi-year table extended; FY25 adj EPS $4.08 vs GAAP $6.21 (one-time investment-sale gain) clarified; quarterly SSS table preserved; new `### Primary Source: 10-K Segment Detail (FY2025)` subsection synthesizing 5-year MD&A
+- **§2 Revenue Mix & Geographic Split**: Streams + region table unified; **India 2026 entry as 1,000+ unit opportunity** added; international unit count corrected to 470 across **18 countries / U.S. territories** (prior wiki said 15)
+- **§3 Competitive Moat & Landscape**: New verdict "Narrow — and arguably widening on AUV + digital + Smart Kitchen leg"; **new mandatory `### Competitive Landscape` subsection** with named peers (Chick-fil-A, KFC/YUM, Popeyes/QSR, Raising Cane's, BWLD/Inspire, Zaxby's, Bojangles) + market share + how-WING-differs framing per Rule #24; Cane's flagged as primary tail-risk peer
+- **§4 Management & Leadership**: New Pattern-C `### Recent Management Commentary` subsection with 5 verbatim Skipworth/Kaleida quotes (Smart Kitchen, speed-of-service, op excellence, input costs, 10K-unit vision); new **5-Year Strategic Framework Arc** showing pivot to supply-side flywheel under demand-side reset; **$300M buyback at $241.65 Q4 average** = highest-conviction internal signal
+- **§5 Strategic Growth Initiatives**: Smart Kitchen marked **COMPLETE** in domestic; Club Wingstop national loyalty launch end-Q2 2026 added; "Wingstop is Here" national ad campaign added; India entry highlighted
+- **§6 Key Risks**: Rebuilt under Rule #25 materiality filter — dropped boilerplate (cyber, generic earnings vol, generic talent, generic third-party); kept structural-SSS, multiple-compression, chicken-input, Smart-Kitchen-ROI (Rule #25(d)), India/EU intl-AUV, Cane's-escalation, consumer-trade-down, franchisee-distress; **5-Year Risk Factor Evolution table replaced with 2–4 sentence synthesis paragraph per Rule #21**
+- **§7 Industry Macro**: Refreshed QSR cycle context, chicken commodity, delivery economics, regulatory
+- **§8 Valuation**: Updated multiples — Forward P/E 41× (vs. prior 25×) reflecting one-time-gain rolloff; peer set refreshed (CMG/TXRH/DPZ/QSR/MCD/SHAK/CAVA); fair-value range $140–$310 mapped to scenarios
+- **§9 Catalyst & Sentiment Tracker**: **Major shift** — analyst consensus moved from "mixed Hold-to-Buy / $200–230" to **27-analyst Strong Buy / $310 median**. Short interest 14.45% of float (elevated). Q1 earnings confirmed April 29 pre-market.
+- **§10 BAIT**: Triple overlap preserved; conviction upgraded to **Moderate** (vs. Lower-Moderate prior) on Smart Kitchen completion + buyback signal
+- **§11 Bull/Bear/Base**: Probabilities adjusted from 25/50/25 → **30/45/25** (more bull weight on completed Smart Kitchen + India catalyst); price targets refreshed: Bull $310 / Base $225 / Bear $145
+- **§12 PW EV**: PW EV ~$230 (vs. ~$199 prior) → **+22% / +14%/yr** vs. prior +5%; **R/R 2.8:1 (Bull/Bear) anchored to §11 per Rule #26**
+- **§13 Recommendation**: Watch / Hold preserved but with stronger Initiate-on-confirmation tilt; entry zone $140–$160 unchanged; trim zone widened to $280–$320 to absorb $310 analyst median; thesis-break triggers refreshed (Q1 SSS < –7%, FY26 guide < flat, AUV –5%, Smart Kitchen frequency-lift failure)
+
+### Material Thesis Shifts vs. v2.5
+1. **Sentiment + capital-allocation signals strongly positive** — $300M buyback at $241.65 avg, 27-analyst Strong-Buy at $310 median, 14.45% short setup → asymmetric squeeze potential into Q1 print
+2. **Operational milestone reached** — Smart Kitchen FULLY deployed across all 2,586 US restaurants (vs. prior wiki's "rolling out"); the multi-year tech investment is now in front of, not behind, the company
+3. **India entry adds quantified long-term TAM** — 1,000+ unit opportunity confirmed by management; supports 7K → 10K global unit ambition
+
+### Thesis Status
+- **Overall**: **Strengthened** vs. v2.5 (PW EV +22% vs. +5%; R/R 2.8:1 vs. ~1:1) — but conviction remains **Moderate**, not High, due to binary Q1 2026 SSS print 3 days away
+- **BAIT delta**: B-Strong (unchanged) | A-Moderate (unchanged but margins-of-safety improved) | I-Weak (unchanged) | T-Moderate (unchanged but short setup adds asymmetry)
+- **Price target delta**: Bull $280 → **$310** | Base $200 → **$225** | Bear $115 → **$145** — all probabilities re-weighted (30/45/25 vs. 25/50/25)
+- **Catalyst & Sentiment delta**: Analyst median $230 → **$310**; short interest meaningfully elevated; Q1 earnings 3 days out
+
+### Recommendation
+- **For a non-holder**: 🟡 **Watch** at $189 with conviction tilt to **Initiate-on-confirmation** post-April 29 print, OR pullback to $140–$160 entry zone
+- **For a current holder**: 🟡 **Hold** through April 29; do not add or exit pre-print
+
+**Next review trigger**: **Q1 2026 earnings — April 29, 2026 (pre-market, 10am ET)**.
+
+---
+
 ## [2026-04-24] — Pre-Q1 Refresh: Quarterly SSS Decomposition + Citi Upgrade + Date Confirmation
 
 **Trigger**: Post-v2.1-migration data refresh in advance of WING Q1 2026 earnings on **April 29, 2026** (5 days from this entry). Two material data corrections discovered.

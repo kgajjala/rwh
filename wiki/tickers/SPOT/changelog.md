@@ -6,14 +6,14 @@ Append-only. Most recent entry first.
 
 ## [2026-04-28] — Section 1 Addition: Ad-Supported Revenue Multi-Year Stall + 2026 Re-Inflection Test
 
-**Trigger**: User question on whether Q1 2026 ad revenue (€385M, –5% reported / +3% c.c.) shrank from Q1 2025 surfaced a multi-year deceleration story (FY2022 +22% → FY2025 ~+2%) that the original §1 MD&A read did not address. Follow-up question asked what evidence supports management's "late-FY2026 re-inflection" claim and whether 2026 ad revenue should grow vs. 2025.
+**Trigger**: User question on whether Q1 2026 ad revenue (€385M, –5% reported / +3% c.c.) shrank from Q1 2025 surfaced a multi-year deceleration story (FY2022 +22% → FY2025 ≈+2%) that the original §1 MD&A read did not address. Follow-up question asked what evidence supports management's "late-FY2026 re-inflection" claim and whether 2026 ad revenue should grow vs. 2025.
 
 ### What Changed
 - **Section 1 — New subsection "Ad-Supported Revenue: Multi-Year Stall and 2026 Re-Inflection Test"**: Added 5-year table showing Y/Y deceleration (+22% → +14% → +10% → +2%); flagged that ad business is currently neither a revenue-growth nor a margin engine, only a customer-acquisition funnel.
 - **Supporting-arguments framework**: Four-row evidence table rating each leg of management's re-inflection thesis (🟢 Strong: Magnite SSP partnership, AAX exchange; 🟡 Moderate: industry podcast ad-spend recovery cycle; 🔴 Weakening: Joe Rogan / podcast content moat as YouTube takes share).
 - **Counter-arguments**: Four-point list (CPM-capped music inventory, programmatic transition ARPU dilution, continued FX, macro ad-budget risk).
-- **Quantified 2026 scenarios**: Bull ~€2.05B (+8%) / Base ~€1.95B (+3%) / Bear ~€1.85B (flat) — reported basis.
-- **Investment implication**: Even Bull case = ~€21M incremental gross profit at 13% GM, not thesis-defining vs. Premium gross profit base ~€5B; ad business is an engagement watch-item, not a margin contributor.
+- **Quantified 2026 scenarios**: Bull ≈€2.05B (+8%) / Base ≈€1.95B (+3%) / Bear ≈€1.85B (flat) — reported basis.
+- **Investment implication**: Even Bull case = ≈€21M incremental gross profit at 13% GM, not thesis-defining vs. Premium gross profit base ≈€5B; ad business is an engagement watch-item, not a margin contributor.
 
 ### Thesis Status
 - **Overall**: Unchanged (refinement provides analytical depth on a flagged trajectory, doesn't change scenarios or recommendation).
@@ -29,7 +29,7 @@ Append-only. Most recent entry first.
 **Trigger**: User question on ingest-day output flagged that the original Section 2 explanation of the 13.0% Ad-Supported gross margin was incomplete — citing mid-roll inventory caps and podcast rev-share without naming the dominant driver (label royalty pass-through) or contrasting against content-ownership ad businesses (NFLX/YouTube/Meta).
 
 ### What Changed
-- **Section 2 — Business Model**: Expanded the Ad-Supported bullet from a 2-clause sentence into a structural breakdown covering (a) label royalty pass-through mechanics (per-stream floor applies to free tier at same absolute cost as Premium, but against far lower revenue per listening hour), (b) explicit contrast vs. NFLX (~60–80%+ ad-tier GM via fixed-content amortization), YouTube/Meta (UGC content cost ≈ 0), (c) investment implication that Ad-Supported is best modeled as a subsidized Premium-conversion funnel rather than a high-margin ad business, and (d) why the label renegotiation cycle compresses ad GM disproportionately.
+- **Section 2 — Business Model**: Expanded the Ad-Supported bullet from a 2-clause sentence into a structural breakdown covering (a) label royalty pass-through mechanics (per-stream floor applies to free tier at same absolute cost as Premium, but against far lower revenue per listening hour), (b) explicit contrast vs. NFLX (≈60–80%+ ad-tier GM via fixed-content amortization), YouTube/Meta (UGC content cost ≈ 0), (c) investment implication that Ad-Supported is best modeled as a subsidized Premium-conversion funnel rather than a high-margin ad business, and (d) why the label renegotiation cycle compresses ad GM disproportionately.
 
 ### Thesis Status
 - **Overall**: Unchanged (refinement is structural framing of an already-flagged risk, not new information).
@@ -80,7 +80,7 @@ Append-only. Most recent entry first.
 - **Catalyst & Sentiment delta**: N/A (initial)
 
 ### Recommendation
-- **For a non-holder**: 🟢 Watch / Initiate at $400–450 — Q1 2026 reset creates first attractive entry in 12 months; FY2026E ~25x EV/FCF reasonable for wide-moat compounder
+- **For a non-holder**: 🟢 Watch / Initiate at $400–450 — Q1 2026 reset creates first attractive entry in 12 months; FY2026E ≈25x EV/FCF reasonable for wide-moat compounder
 - **For a current holder**: 🟡 Hold — thesis intact; today's –13% is Street-expectations recalibration, not structural break
 
 **Next review trigger**: Q2 2026 earnings (late July 2026) — first full read on Music Pro contribution, NA Premium subscriber recovery, ad-supported gross-margin trajectory.

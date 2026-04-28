@@ -4,6 +4,22 @@ Append-only. Most recent entry first.
 
 ---
 
+## [2026-04-28] — Section 2 Refinement: Ad-Supported Gross Margin Structural Explanation
+
+**Trigger**: User question on ingest-day output flagged that the original Section 2 explanation of the 13.0% Ad-Supported gross margin was incomplete — citing mid-roll inventory caps and podcast rev-share without naming the dominant driver (label royalty pass-through) or contrasting against content-ownership ad businesses (NFLX/YouTube/Meta).
+
+### What Changed
+- **Section 2 — Business Model**: Expanded the Ad-Supported bullet from a 2-clause sentence into a structural breakdown covering (a) label royalty pass-through mechanics (per-stream floor applies to free tier at same absolute cost as Premium, but against far lower revenue per listening hour), (b) explicit contrast vs. NFLX (~60–80%+ ad-tier GM via fixed-content amortization), YouTube/Meta (UGC content cost ≈ 0), (c) investment implication that Ad-Supported is best modeled as a subsidized Premium-conversion funnel rather than a high-margin ad business, and (d) why the label renegotiation cycle compresses ad GM disproportionately.
+
+### Thesis Status
+- **Overall**: Unchanged (refinement is structural framing of an already-flagged risk, not new information).
+- Section 6 risk row "Label royalty step-up cycle 2026–2028" remains the dominant not-priced-in risk; this refinement strengthens the *mechanism* explanation without changing the row.
+- **Price target delta**: None.
+
+**Next review trigger**: Q2 2026 print or any UMG / Sony / WMG earnings commentary on streaming royalty negotiations.
+
+---
+
 ## [2026-04-28] — v2.9 Initial Ingest
 
 **Trigger**: New ticker added under Workflow A (Mode A: Full Analysis). Ingest coincided with same-day Q1 2026 earnings release (2026-04-28), which was incorporated as the most recent material event.

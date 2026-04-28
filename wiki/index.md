@@ -15,7 +15,7 @@ governs weekly cron coverage (Core Rule #15).
 
 ## Tickers
 
-*Alphabetical. 35 tickers covered.*
+*Alphabetical. 36 tickers covered.*
 
 | Ticker | Status | Company | Moat | Conviction | Last Updated | Summary |
 |--------|--------|---------|------|-----------|--------------|---------|
@@ -49,6 +49,7 @@ governs weekly cron coverage (Core Rule #15).
 | [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Wide & Widening | High | 2026-04-26 | v2.9 — Triple BAIT (B+A+I-Strong); Q1 BEAT, FY26 guide raised >$5.80; Initiate / Add |
 | [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide & Widening | High | 2026-04-25 | v2.9 13-section refactor — Section 1 retired, Sections 3+4 merged; competitive landscape (Shopify 30% US, 3× Wix global); first-ever $2B buyback; Initiate / Add-Hold |
 | [SN](tickers/SN/SN.md) | Active | SharkNinja | Narrow & Widening | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT; +24% (FY24) at 17%+ adj EBITDA; tariff overhang largely de-risked; Initiate |
+| [SPOT](tickers/SPOT/SPOT.md) | Active | Spotify Technology | Wide & Widening | Moderate-High | 2026-04-28 | v2.9 ingest — 2 Strong / 2 Mod BAIT; FY25 op-inc +61% / FCF €2.87B; today's –13% on Q1 2026 op-guide miss = first attractive entry in 12mo; Watch / Initiate $400–450; Hold |
 | [TREX](tickers/TREX/TREX.md) | Active | Trex Company | Narrow & Widening | Moderate | 2026-04-26 | v2.9 — Double BAIT (B+A Mod); housing-cyclical trough + $200M buyback; Initiate (patient) / Hold |
 | [TSLA](tickers/TSLA/TSLA.md) | Active | Tesla | Narrow auto + Optional Wide autonomy | Moderate | 2026-04-26 | v2.9 — Quadruple BAIT (Mod); R/R ~1.4:1 not asymmetric; Hold / Watch; entry $280–320 |
 | [UNH](tickers/UNH/UNH.md) | Active | UnitedHealth Group | Wide | High | 2026-04-26 | v2.9 — Quadruple BAIT (B-compressed); Q1 2026 BEAT confirms MLR recovery; FY26 guide >$18.25; Initiate / Add |
@@ -91,6 +92,7 @@ governs weekly cron coverage (Core Rule #15).
 | SCHW | $91.71 | –14.7% | Triple-Strong (B+A+I), Mod T | **Initiate / Add**; entry $80–93 |
 | SHOP | $125.83 | –30.9% | Triple+ (B+A-Strong+I+T-Mod) | **Initiate / Add-Hold** — v2.7 5-yr 10-K + Pattern B letter arc STRENGTHENED |
 | SN | $115.74 | –13.6% | Triple (A-Mod-Strong; B+I+T-Mod) | Initiate; entry $95–105 |
+| SPOT | $429.00 | –45.4% | Double-Strong (A-Mod-Strong, T-Weak-Mod, B+I-Mod) | Watch / Initiate $400–450; Hold |
 | TREX | $41.90 | –39% | Double (B+A-Mod) | Initiate (patient) / Hold; entry $30–42 |
 | TSLA | $376.30 | –24.6% | Quadruple-Mod (B+A+I+T) | Hold / Watch; entry $280–320 |
 | UNH | $354.92 | –16.3% | Quadruple (B-compressed; A+I-Strong, T-Mod) | **Initiate / Add** (post-Q1 BEAT; FY26 EPS >$18.25) |
@@ -141,4 +143,4 @@ governs weekly cron coverage (Core Rule #15).
 
 ---
 
-*Last full index refresh: 2026-04-26 (v2.9 retrofit batch — 22 tickers updated to v2.9; SHOP & DASH at v2.9 from prior session; 11 tickers preserved at v2.8 = 35 tickers total)*
+*Last full index refresh: 2026-04-28 (SPOT initial v2.9 ingest added; prior 2026-04-26 v2.9 retrofit batch covered 22 tickers; SHOP & DASH at v2.9 from prior session; 11 tickers preserved at v2.8 = 36 tickers total)*

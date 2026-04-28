@@ -3,7 +3,7 @@
 *Position-agnostic per v2.1 schema (Core Rule #3): no portfolio allocation, no target %, no form (stock/options) splits. This file is pure analysis.*
 
 *Updated by LLM agent after each full thesis cycle, earnings update, or v2.x schema migration.*
-*Last updated: 2026-04-26 (v2.9 retrofit batch — 22 tickers refreshed; conviction ranking re-sorted on Conviction × asymmetry × catalyst proximity).*
+*Last updated: 2026-04-28 (SPOT initial v2.9 ingest added at rank 14b; prior 2026-04-26 v2.9 retrofit batch covered 22 tickers; conviction ranking re-sorted on Conviction × asymmetry × catalyst proximity).*
 *Prices verified via Yahoo Finance on 2026-04-24 (Friday close); reflects most recent verified state for each ticker page.*
 
 ---
@@ -26,6 +26,7 @@
 | 12 | SN | Moderate-High | Triple (A-Mod-Strong, B+I+T-Mod) | PW EV $144 vs. $115.74 = +24% (3yr); analyst median +28% | **Initiate**; entry $95–105 | Q1 2026 — early May 2026 |
 | 13 | BKNG | High | Triple (B+A-Strong, I+T-Mod) | PW EV $195.50 vs. $180.25 = +8.5% (18mo) | **Initiate** / **Hold-Add** | Q1 2026 (~May 2026) |
 | 14 | BRK.B | Moderate-High | Triple (B+I-Strong, A-Mod) | PW EV $543 vs. $469.32 = +15.7% (3yr); ~2.8:1 R/R | **Initiate (small/scaled)** / **Hold-Add** | Annual Mtg + Q1 2026 — May 3, 2026 |
+| 14b | SPOT | Moderate-High (post-Q1-print reset) | Double-Mod-Strong (A-Mod-Strong, T-Weak-Mod, B+I-Mod) | PW EV $540 vs. $429 = +26% (12mo); R/R ~3.2:1 (Bull $620 / Bear $370) | **Watch / Initiate $400–450** / **Hold** | Q2 2026 — late July 2026 |
 | 15 | RKT | Moderate | Double (B+A; B-Strong, A-Mod-Strong) | PW EV $22.65 vs. $15.60 = +45% (2-3yr); R/R ~3:1 | **Initiate (Speculative)** / **Hold / Add on weakness** | Q1 2026 — May 7, 2026 |
 | 16 | CPNG | High | Triple (B+A-Strong, I+T-Mod) | PW EV ~$28 vs. $20.58 = +36% (3yr / ~11%/yr) | **Initiate** / **Add modestly** | Q1 2026 — May 12, 2026 |
 | 17 | NFLX | Moderate | Triple (B+A+I-Mod) | PW EV $119.50 vs. $93.24 = +28% (3yr); R/R ~2.4:1 | **Initiate (small, scaled)**; entry $80–88 | Q2 2026 — mid-July 2026 (est.) |
@@ -84,6 +85,7 @@
 | Early June (est.) | RH | Q1 FY2026 earnings | First print under weak guide (–2 to –4% rev) | Guide-floor confirmed | Trough deepens; entry zone reached |
 | Early June (est.) | LULU | Q1 FY26 earnings | Comps; new CEO transition prep | NA stabilization signal | Margin pressure escalates |
 | ~July 16, 2026 | SCHW | Q2 2026 earnings | EPS guide above $5.80 floor + NIM trajectory | Multiple expansion to $110+ | Guide held flat = re-base |
+| Late July 2026 | SPOT | Q2 2026 earnings | Music Pro initial contribution where launched; NA Premium subs recovery; ad-supported GM trajectory | Op-inc beats €630M guide; NA Premium re-accelerates | NA Premium subs decline >2% sequentially = thesis-break trigger |
 
 ---
 
@@ -121,8 +123,9 @@
 | ACLS | $143.13 | $80 (20%) | $150 (50%) | $215 (30%) | ~$155.50 | +9% (3yr); R/R ~1.1:1 |
 | ABNB | $142.82 | $95 (20%) | $160 (50%) | $210 (30%) | ~$162 | +13% (3yr); R/R ~3.4:1 |
 | SBUX | $98.67 | $80 (25%) | $120 (50%) | $160 (25%) | ~$117 | +18% + 2.5% div (3yr) |
+| SPOT | $429.00 | $370 (15%) | $500 (40%) | $660 blend (40%) | ~$540 | +26% (12mo); R/R ~3.2:1 |
 
-*Horizons noted in last column. Targets refreshed 2026-04-26 for v2.9 batch.*
+*Horizons noted in last column. Targets refreshed 2026-04-28 for SPOT initial ingest; prior 2026-04-26 v2.9 batch covered other tickers. SPOT Bull blend = (Bull $620 × 25% + Bull+ $750 × 15%) / 40% = $669.*
 
 ---
 

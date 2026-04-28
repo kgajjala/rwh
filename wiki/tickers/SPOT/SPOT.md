@@ -85,6 +85,47 @@ The FY2025 20-F ([SEC EDGAR](https://content.edgar-online.com/ExternalLink/EDGAR
 
 Multi-year MD&A reads: FY2022–FY2023 was the *content overinvestment* era (peak operating losses, podcast write-downs Q4 2023). FY2024 was the *cost discipline* inflection. FY2025 was the *operating leverage compounding* phase — gross profit grew +18% on revenue +10% reported / +13% c.c., a clean operating-leverage signal.
 
+### Ad-Supported Revenue: Multi-Year Stall and 2026 Re-Inflection Test
+
+The annual ad-supported line is the most concerning trajectory in the P&L and warrants its own read:
+
+| FY | Ad revenue (€M) | Y/Y reported |
+|---|---|---|
+| FY2021 | 1,208 | — |
+| FY2022 | 1,476 | +22% |
+| FY2023 | 1,681 | +14% |
+| FY2024 | 1,855 | +10% |
+| FY2025 | ~1,890 | **~+2%** |
+| Q1 2026 | 385 | **–5% reported / +3% c.c.** |
+
+Growth decelerated from +22% in FY2022 to ~+2% in FY2025 — essentially flat for two years running. Q1 2026 reported decline is FX-driven (constant-currency +3%), but the underlying business is clearly *not* compounding at the rate management's strategic narrative implies. ⚠️ **This stall, combined with the structurally low gross margin explained in §2, means the ad business is currently neither a revenue-growth engine nor a margin engine** — it is a customer-acquisition funnel that happens to monetize.
+
+**Should ad revenue grow in 2026 vs. FY2025?** **🟡 Likely yes, but mid-single-digits c.c. is the realistic bar — not a full re-acceleration to the +10–14% of FY2023–FY2024.** Management's claim of "late-FY2026 re-inflection" rests on four supporting threads, of which two are well-evidenced and two are speculative:
+
+| Supporting argument | Evidence quality | What it implies |
+|---|---|---|
+| **🟢 Magnite SSP partnership for programmatic music + podcast inventory** (announced 2024, full ramp 2025–2026) | **Strong** — programmatic typically grows 30–50% Y/Y once integrated, unlocks DSP-side demand that direct sales teams cannot reach. Public Magnite earnings commentary has called Spotify integration a 2026 contributor. | +mid-single-digit % uplift to FY2026 ad line |
+| **🟢 Spotify Ad Exchange (AAX) launched 2024** | **Strong** — first real-time bidding exchange for music inventory specifically; expands the addressable demand pool from direct-sold buyers to the broader programmatic ecosystem. | Compounds the Magnite effect |
+| **🟡 Industry podcast ad-spend cyclical recovery** ([IAB / Magna Global 2026 forecasts](https://www.iab.com/) project podcast ad spend +12–15% in 2026 after a 2023–2024 trough) | **Moderate** — sector forecasts are directionally credible but Spotify's share within the cycle depends on SPAN execution; not a guaranteed lift. | +low-single-digits if cycle holds |
+| **🔴 Joe Rogan / podcast content moat** | **Weakening** — Rogan re-signed in 2024 *non-exclusively*, and YouTube is increasingly the primary podcast distribution surface. SPAN volume could be ceiling-bound by content drift to YouTube. | Net headwind to podcast ad ARPU |
+
+**Counter-arguments that could keep 2026 ad revenue flat-to-down**:
+
+1. **Music ad inventory is structurally CPM-capped** — free-tier music listening doesn't grow if Premium successfully converts the engaged users (which is the whole point of the freemium funnel). The inventory base is a side-effect of Premium-conversion failure, not a strategic priority.
+2. **Programmatic transition is GM-positive but ARPU-dilutive** during the transition window — late-2026 should see CPMs stabilize, but H1 2026 will likely show continued ad-CPM pressure.
+3. **Continued FX headwind** if EUR stays strong vs. USD — adds 300–500bps of *reported* drag even if c.c. growth re-accelerates.
+4. **Macro ad budget cuts** if 2H 2026 macro softens — historically ad budgets are the first line item cut.
+
+**Realistic 2026 ad revenue scenarios** (rough modeling):
+
+| Scenario | FY2026 ad revenue | vs. FY2025 reported | Implied condition |
+|---|---|---|---|
+| 🟢 Bull | ~€2.05B | +8% | Magnite + AAX work as advertised, podcast cycle delivers +12% lift, FX neutral |
+| 🟡 Base | ~€1.95B | +3% | Magnite delivers, podcast cycle modest, FX –300bps drag |
+| 🔴 Bear | ~€1.85B | flat | Programmatic transition friction extends, podcast share losses to YouTube continue, FX drag persists |
+
+**Investment implication**: The structural answer to *"does the ad business matter to the SPOT thesis?"* is **less than the headline suggests**. Even a Bull case adds ~€160M to ad revenue at ~13% GM = ~€21M of incremental gross profit — meaningful but not thesis-defining against a Premium gross profit base of ~€5B. The ad business is a watch-item for **engagement signal** (free-tier MAU monetization) rather than for **margin contribution**, and the §2 structural framing applies: this is a Premium-conversion funnel that monetizes, not an ad business in the NFLX/YouTube/Meta sense.
+
 ---
 
 ## Section 2 — Revenue Mix & Geographic Split

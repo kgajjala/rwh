@@ -4,6 +4,26 @@ Append-only. Most recent entry first.
 
 ---
 
+## [2026-04-28] — Section 1 Addition: Ad-Supported Revenue Multi-Year Stall + 2026 Re-Inflection Test
+
+**Trigger**: User question on whether Q1 2026 ad revenue (€385M, –5% reported / +3% c.c.) shrank from Q1 2025 surfaced a multi-year deceleration story (FY2022 +22% → FY2025 ~+2%) that the original §1 MD&A read did not address. Follow-up question asked what evidence supports management's "late-FY2026 re-inflection" claim and whether 2026 ad revenue should grow vs. 2025.
+
+### What Changed
+- **Section 1 — New subsection "Ad-Supported Revenue: Multi-Year Stall and 2026 Re-Inflection Test"**: Added 5-year table showing Y/Y deceleration (+22% → +14% → +10% → +2%); flagged that ad business is currently neither a revenue-growth nor a margin engine, only a customer-acquisition funnel.
+- **Supporting-arguments framework**: Four-row evidence table rating each leg of management's re-inflection thesis (🟢 Strong: Magnite SSP partnership, AAX exchange; 🟡 Moderate: industry podcast ad-spend recovery cycle; 🔴 Weakening: Joe Rogan / podcast content moat as YouTube takes share).
+- **Counter-arguments**: Four-point list (CPM-capped music inventory, programmatic transition ARPU dilution, continued FX, macro ad-budget risk).
+- **Quantified 2026 scenarios**: Bull ~€2.05B (+8%) / Base ~€1.95B (+3%) / Bear ~€1.85B (flat) — reported basis.
+- **Investment implication**: Even Bull case = ~€21M incremental gross profit at 13% GM, not thesis-defining vs. Premium gross profit base ~€5B; ad business is an engagement watch-item, not a margin contributor.
+
+### Thesis Status
+- **Overall**: Unchanged (refinement provides analytical depth on a flagged trajectory, doesn't change scenarios or recommendation).
+- **Section 11 / 12 PW EV**: No change. Ad revenue trajectory was already implicitly captured in the FY2026 €19B revenue assumption.
+- **Watch-item added**: H2 2026 ad-revenue acceleration becomes a useful late-2026 thesis-validation signal — if Bull case plays out, supports the operating-leverage compounding narrative; if Bear case, suggests structural ad-business cap and increases pressure on Music Pro to carry the ARPU narrative alone.
+
+**Next review trigger**: Q2 2026 earnings (late July 2026) — first read on Magnite/AAX ramp + post-podcast-cycle inflection; Q3/Q4 2026 should show the claimed "late-FY2026 re-inflection."
+
+---
+
 ## [2026-04-28] — Section 2 Refinement: Ad-Supported Gross Margin Structural Explanation
 
 **Trigger**: User question on ingest-day output flagged that the original Section 2 explanation of the 13.0% Ad-Supported gross margin was incomplete — citing mid-roll inventory caps and podcast rev-share without naming the dominant driver (label royalty pass-through) or contrasting against content-ownership ad businesses (NFLX/YouTube/Meta).

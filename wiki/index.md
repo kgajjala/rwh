@@ -45,14 +45,14 @@ governs weekly cron coverage (Core Rule #15).
 | [RH](tickers/RH/RH.md) | Active | RH (Restoration Hardware) | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (B-Strong, T-Mod via 35.6% short); deep cyclical trough; Watch / selective Initiate |
 | [RIVN](tickers/RIVN/RIVN.md) | Active | Rivian Automotive | Narrow | Moderate | 2026-04-26 | v2.9 — Triple BAIT (Mod); R2 production live Apr 22; Watch / small Initiate; Q1 Apr 30 |
 | [RKT](tickers/RKT/RKT.md) | Active | Rocket Companies | Narrow-Emerging Wide | Moderate | 2026-04-26 | v2.9 — Double BAIT (B+A); R/R ~3:1; Initiate Spec. / Hold-Add; Q1 May 7 |
-| [SBUX](tickers/SBUX/SBUX.md) | Active | Starbucks | Wide | Low-Moderate | 2026-04-26 | v2.9 — Single BAIT (A-Mod); Boyu China JV close de-risks overhang; Watch / Hold; Q2 Apr 28 |
+| [SBUX](tickers/SBUX/SBUX.md) | Active | Starbucks | Wide | Moderate | 2026-04-28 | Q2 FY26 turnaround confirmed — US comp +7.1% / txns +4.3% / op margin +110 bps; FY26 guide raised to ≥5%/$2.25–$2.45; 🟢 Initiate-on-dip / Hold |
 | [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Wide & Widening | High | 2026-04-26 | v2.9 — Triple BAIT (B+A+I-Strong); Q1 BEAT, FY26 guide raised >$5.80; Initiate / Add |
 | [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide & Widening | High | 2026-04-25 | v2.9 13-section refactor — Section 1 retired, Sections 3+4 merged; competitive landscape (Shopify 30% US, 3× Wix global); first-ever $2B buyback; Initiate / Add-Hold |
 | [SN](tickers/SN/SN.md) | Active | SharkNinja | Narrow & Widening | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT; +24% (FY24) at 17%+ adj EBITDA; tariff overhang largely de-risked; Initiate |
 | [SPOT](tickers/SPOT/SPOT.md) | Active | Spotify Technology | Wide & Widening | Moderate-High | 2026-04-28 | v2.9 ingest — 2 Strong / 2 Mod BAIT; FY25 op-inc +61% / FCF €2.87B; today's –13% on Q1 2026 op-guide miss = first attractive entry in 12mo; Watch / Initiate $400–450; Hold |
 | [TREX](tickers/TREX/TREX.md) | Active | Trex Company | Narrow & Widening | Moderate | 2026-04-26 | v2.9 — Double BAIT (B+A Mod); housing-cyclical trough + $200M buyback; Initiate (patient) / Hold |
 | [TSLA](tickers/TSLA/TSLA.md) | Active | Tesla | Narrow auto + Optional Wide autonomy | Moderate | 2026-04-26 | v2.9 — Quadruple BAIT (Mod); R/R ~1.4:1 not asymmetric; Hold / Watch; entry $280–320 |
-| [UNH](tickers/UNH/UNH.md) | Active | UnitedHealth Group | Wide | High | 2026-04-26 | v2.9 — Quadruple BAIT (B-compressed); Q1 2026 BEAT confirms MLR recovery; FY26 guide >$18.25; Initiate / Add |
+| [UNH](tickers/UNH/UNH.md) | Active | UnitedHealth Group | Wide | High | 2026-04-28 | v2.9 — Quadruple BAIT; Q1 BEAT + **CMS 2027 MA Final Rate ≈+2% (2026-04-28)** = double de-risk; ≈$368 (+14% week); Initiate / Add |
 | [WING](tickers/WING/WING.md) | Active | Wingstop | Narrow | Moderate | 2026-04-26 | v2.9 — Triple BAIT (B-Strong, A+T Mod); $300M buyback through trough; Watch / Hold; Q1 SSS Apr 29 binary |
 | [ZG](tickers/ZG/ZG.md) | Active | Zillow Group | Wide consumer / Narrow agent | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT (B+A Strong, I-Mod); super-app pivot working; Initiate / Add |
 
@@ -88,14 +88,14 @@ governs weekly cron coverage (Core Rule #15).
 | RH | $137.51 | –46.5% | Double (B-Strong, T-Mod via 35.6% short) | Watch / selective Initiate; entry $110–135 |
 | RIVN | $16.54 | –27% from high | Triple (B+A+I-Mod, T-Mod) | Watch / small Initiate; entry $12–14 |
 | RKT | $15.60 | –35.9% | Double (B+A-Mod-Strong) | Initiate Spec. / Hold-Add; entry $11–14 |
-| SBUX | $98.67 | –5.9% | Single (A-Mod) | Watch / Hold; entry $85–92; Q2 Apr 28 binary |
+| SBUX | $97.28 (AH $102.68 +5.5%) | flat (AH near 52w high) | Double (A+I Mod-Strong) | 🟢 Initiate-on-dip / Hold (Add on dip); entry $90–97 |
 | SCHW | $91.71 | –14.7% | Triple-Strong (B+A+I), Mod T | **Initiate / Add**; entry $80–93 |
 | SHOP | $125.83 | –30.9% | Triple+ (B+A-Strong+I+T-Mod) | **Initiate / Add-Hold** — v2.7 5-yr 10-K + Pattern B letter arc STRENGTHENED |
 | SN | $115.74 | –13.6% | Triple (A-Mod-Strong; B+I+T-Mod) | Initiate; entry $95–105 |
 | SPOT | $429.00 | –45.4% | Double-Strong (A-Mod-Strong, T-Weak-Mod, B+I-Mod) | Watch / Initiate $400–450; Hold |
 | TREX | $41.90 | –39% | Double (B+A-Mod) | Initiate (patient) / Hold; entry $30–42 |
 | TSLA | $376.30 | –24.6% | Quadruple-Mod (B+A+I+T) | Hold / Watch; entry $280–320 |
-| UNH | $354.92 | –16.3% | Quadruple (B-compressed; A+I-Strong, T-Mod) | **Initiate / Add** (post-Q1 BEAT; FY26 EPS >$18.25) |
+| UNH | ≈$368 | ≈–13% | Quadruple (B-compressed; A+I-Strong, T-Mod) | **Initiate / Add** (Q1 BEAT + CMS 2027 MA Final Rate ≈+2% double de-risk) |
 | WING | $189.37 | –51% | Triple (B-Strong, A+T-Mod) | Watch / Hold; Q1 SSS Apr 29 binary |
 | ZG | $45.41 | –51.6% | Triple (B+A-Strong, I-Mod) | Initiate / Add; entry $38–50 |
 

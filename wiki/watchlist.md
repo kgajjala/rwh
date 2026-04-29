@@ -14,7 +14,7 @@
 |------|--------|-----------|--------------|-----------------------------|--------------------------------------|---------------|
 | 1 | SCHW | High | Triple-Strong (B+A+I), Mod T | PW EV $108 vs. $91.71 = +18% (18mo) | **Initiate** / **Add** (post-Q1-beat 52-wk low) | Q2 2026 — July 16, 2026 |
 | 2 | SHOP | High | Triple+ (B+A-Strong, I, T-Mod) | PW EV $212 vs. $125.83 = +68% (3yr); ~10:1 R/R (Bull $252 / Bear $113); ~15:1 with Bull+ tail | **Initiate** / **Add-Hold** | Q1 2026 (~May 2026) |
-| 3 | UNH | High (post-Q1 BEAT) | Quadruple (B-compressed, A+I-Strong, T-Mod) | PW EV $415 vs. $354.92 = +17% (24mo) | **Initiate / Add** (FY26 EPS guide raised >$18.25) | Q2 2026 (~late July) |
+| 3 | UNH | High (Q1 BEAT + CMS 2027 rate de-risk) | Quadruple (B-compressed, A-widened, I-Strong, T-Mod) | PW EV ~$447 vs. ≈$368 = +21% (24mo); R/R ~2.1:1 | **Initiate / Add** (FY26 >$18.25 + 2027 MA rate ≈+2%) | Q2 2026 (~late July) |
 | 4 | MSFT | High (event-driven) | **Quadruple (B+A+T-Strong, I-Mod)** | PW EV ~$565 vs. $424.62 = +33% (3yr / ~10%/yr) | **Initiate** / **Hold-Add**; entry $380–440 | **Q3 FY26 — April 29, 2026 (binary)** |
 | 5 | AMZN | Moderate-High (event-driven) | Triple (A-Mod-Strong + I + T Mod) | PW EV ~$310 vs. $255.08 = +22% (3yr / ~7%/yr); R/R ~3.5:1 | **Initiate (small)** / **Hold**; entry $210–235 | **Q1 FY26 — April 29, 2026 (binary)** |
 | 6 | LLY | High | Triple (A+I-Strong, B-Mod) | PW EV ~$1,183 vs. $883.96 = +34% (18mo / ~22%/yr) | **Initiate measured** / **Hold-Add on pullback**; entry $750–850 | Q1 2026 — April 30, 2026 |
@@ -42,7 +42,7 @@
 | 27 | LULU | Moderate | Double (B-Strong + A-Mod) | PW EV $192 vs. $143.80 = +34% (3yr / ~10.2%/yr) | **Watch / Initiate <$135 / Hold** | Q1 FY26 — early June 2026 |
 | 28 | EBAY | Moderate | Single | Modest +17% PW EV | **Watch / selective Initiate / Hold** | Q1 2026 (~May) |
 | 29 | TSLA | Moderate | Quadruple-Mod (B+A+I+T) | PW EV ~$393 vs. $376.30 ≈ flat; R/R ~1.4:1 | **Hold / Watch**; entry $280–320 | Q2 2026 — July 22, 2026 (est.) |
-| 30 | SBUX | Low-Moderate | Single (A-Mod) | PW EV $117 vs. $98.67 = +18% (3yr); + 2.5% div | **Watch / Hold**; entry $85–92 | **Q2 FY26 — April 28, 2026 (binary)** |
+| 30 | SBUX | Moderate | Double (A+I Mod-Strong) | PW EV ~$132 vs. $97.28 = +36% / ~11%/yr (3yr); + 2.5% div; R/R ~3.2:1 | 🟢 **Initiate-on-dip / Hold (Add on dip)**; entry $90–97 | Q3 FY26 — late July 2026 |
 | 31 | KGS | Low-Moderate | Double (A+I+T-Mod) | PW EV ~$72 vs. $65.98 = +9% + 3% div ≈ +7%/yr; R/R ~1:1 | **Watch / Hold**; entry $50–55 | Q1 — May 11, 2026 |
 | 32 | DASH | Low-Moderate | Double (B+A+I, all Moderate) | PW EV $130 vs. $176.78 = –26% (5yr); +43-57% to median analyst (12-18mo) | **Watch (entry $140-155)** / **Hold** | Q1 2026 — May 6, 2026 |
 | 33 | DELL | Low-Moderate | Single | PW EV $229 ≈ flat; insider selling | **Watch** | Q1 FY27 (~May 2026) |
@@ -63,7 +63,8 @@
 
 | Date | Ticker | Event | Key Watch Item | Signal If Positive | Signal If Negative |
 |------|--------|-------|---------------|-------------------|-------------------|
-| **Apr 28, 2026** | **SBUX** | **Q2 FY26 earnings (binary)** | U.S. transaction comp (must be ≥0% to confirm Q1 inflection) | Multi-quarter inflection confirmed; multiple expansion | Q1 was noise; thesis weakens |
+| ~~Apr 28, 2026~~ ✅ **DELIVERED** | **SBUX** | **Q2 FY26 earnings — turnaround confirmed** | U.S. txns +4.3%, comp +7.1%, op margin +110 bps; FY26 guide raised to ≥5%/$2.25–$2.45 | ✅ Multi-quarter inflection confirmed; AH +5.5% | n/a — beat |
+| **Late July 2026** | **SBUX** | **Q3 FY26 earnings** | U.S. transactions stay positive on tougher comp; op-margin walk extends | Duration validation; multiple holds premium | Single-Q wobble; entry zone re-opens |
 | **Apr 29, 2026** | **MSFT** | **Q3 FY26 earnings (binary)** | Azure growth ≥ +33% YoY; AI capex payback commentary | Re-rate toward $565 PW EV | Re-test March lows |
 | **Apr 29, 2026** | **AMZN** | **Q1 FY26 earnings (binary)** | AWS growth (~+22% cons.); FY26 capex guide vs. ~$200B | AWS >+25% confirms Trainium thesis | AWS <+18% or capex >$250B = thesis-break |
 | **Apr 29, 2026** | **WING** | **Q1 2026 SSS print (binary)** | Q1 SSS sequential vs. Q4 –5.8% | Inflection / sequential improvement → re-rate toward Citi $230 | Q1 SSS < –7% = Exit reassessment |
@@ -97,7 +98,7 @@
 | BRK.B | $469.32 | $405 (25%) | $550 (45%) | $650 (30%) | ~$543 | +15.7% (3yr) |
 | LLY | $883.96 | $700 (20%) | $1,015 (50%) | $1,300 (30%) | ~$1,037.50 → ~$1,183 (post-orforglipron) | +17.4% to +34% (18mo) |
 | WING | $189.37 | $130 (25%) | $200 (50%) | $280 (25%) | ~$215 | +14% (18mo) |
-| UNH | $354.92 | $260 (25%) | $410 (45%) | $550 (30%) | ~$415 | +17% (24mo) |
+| UNH | ≈$368 | $285 (15%) | $430 (50%) | $540 (35%) | ~$447 | +21% (24mo) |
 | SCHW | $91.71 | $70 (20%) | $108 (50%) | $130 (30%) | ~$108 | +18% (18mo) |
 | RKT | $15.60 | $9 (20%) | $22 (55%) | $35 (25%) | ~$22.65 | +45% (2-3yr) |
 | SHOP | $125.83 | $113 (15%) | $193 (45%) | $270 blend (40%) | ~$212 | +68% (3yr); ~10:1 R/R |
@@ -122,7 +123,7 @@
 | KGS | $65.98 | $48 (25%) | $72 (50%) | $90 (25%) | ~$72 | +9% + 3% div |
 | ACLS | $143.13 | $80 (20%) | $150 (50%) | $215 (30%) | ~$155.50 | +9% (3yr); R/R ~1.1:1 |
 | ABNB | $142.82 | $95 (20%) | $160 (50%) | $210 (30%) | ~$162 | +13% (3yr); R/R ~3.4:1 |
-| SBUX | $98.67 | $80 (25%) | $120 (50%) | $160 (25%) | ~$117 | +18% + 2.5% div (3yr) |
+| SBUX | $97.28 | $78 (15%) | $125 (45%) | $160 (40%) | ~$132 | +36% + 2.5% div (3yr) |
 | SPOT | $429.00 | $370 (15%) | $500 (40%) | $660 blend (40%) | ~$540 | +26% (12mo); R/R ~3.2:1 |
 
 *Horizons noted in last column. Targets refreshed 2026-04-28 for SPOT initial ingest; prior 2026-04-26 v2.9 batch covered other tickers. SPOT Bull blend = (Bull $620 × 25% + Bull+ $750 × 15%) / 40% = $669.*

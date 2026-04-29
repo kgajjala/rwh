@@ -3,7 +3,7 @@
 *Position-agnostic per v2.1 schema (Core Rule #3): no portfolio allocation, no target %, no form (stock/options) splits. This file is pure analysis.*
 
 *Updated by LLM agent after each full thesis cycle, earnings update, or v2.x schema migration.*
-*Last updated: 2026-04-28 (UNH refreshed on CMS 2027 MA Final Rate Notice ≈+2% + post-Q1 rally to ≈$368; SBUX refreshed earlier same day; SPOT initial v2.9 ingest added at rank 14b; prior 2026-04-26 v2.9 retrofit batch covered 22 tickers; conviction ranking re-sorted on Conviction × asymmetry × catalyst proximity).*
+*Last updated: 2026-04-29 (HOOD v2.12 initial ingest added at rank 19b; WING demoted post Q1 FY26 thesis-break trigger activation — conviction Moderate → Lower-Moderate, verbs flipped to Watch / Reduce on bounce).*
 *Prices verified via Yahoo Finance on 2026-04-24 (Friday close); reflects most recent verified state for each ticker page.*
 
 ---
@@ -32,11 +32,12 @@
 | 17 | NFLX | Moderate | Triple (B+A+I-Mod) | PW EV $119.50 vs. $93.24 = +28% (3yr); R/R ~2.4:1 | **Initiate (small, scaled)**; entry $80–88 | Q2 2026 — mid-July 2026 (est.) |
 | 18 | RIVN | Moderate | Triple (B+A+I-Mod, T-Mod) | PW EV ~$18.50 vs. $16.54 = +12% (2yr); R/R ~3.4:1 | **Watch / small Initiate**; entry $12–14 | Q1 2026 — April 30, 2026 |
 | 19 | TREX | Moderate | Double (B+A-Mod) | PW EV $57 vs. $41.90 = +36% (3yr / ~11%/yr); R/R ~3.6:1 | **Initiate (patient)** / **Hold**; entry $30–42 | Q1 2026 — early May 2026 |
+| 19b | HOOD | Moderate | Double (B+A-Mod) | PW EV ~$108 vs. $84.71 = +27% (18mo / ~17%/yr); R/R ~2.4:1 | **Initiate** / **Hold (Add <$80)**; entry $70–85 | Q2 2026 — late July 2026 |
 | 20 | RH | Moderate | Double (B-Strong, T-Mod via 35.6% short) | PW EV $208 vs. $137.51 = +51% (4yr / ~11%/yr); R/R ~3.4:1 | **Watch / selective Initiate**; add aggressively below $115 | Q1 FY2026 — early June 2026 |
 | 21 | CELH | Moderate | Triple (B-Strong, A+T-Mod) | PW EV ~$52 vs. $35.25 = +47% (3yr / ~14%/yr) | **Initiate small** / **Hold-Add**; entry-event-driven | Q1 — May 11, 2026 |
 | 22 | ONON | Moderate | Double (B-Strong + A-Mod) | PW EV $53 vs. $36.25 = +46% (3yr); analyst median $60 | **Initiate** / **Add**; entry $31–40 | Q1 2026 — May 12, 2026 |
 | 23 | FIG | Moderate | Triple (B+A+I) | PW EV +64% (3yr) at $17.47 (post-IPO) | **Initiate (small, contrarian)** / **Hold-Add** | Earnings (~May 2026 est.) |
-| 24 | WING | Moderate | Triple (B-Strong, A+T-Mod) | PW EV ~$215 vs. $189.37 = +14% (18mo / ~9%/yr); R/R ~3:1 | **Watch / Hold** pre-print | **Q1 SSS — April 29, 2026 (binary)** |
+| 24 | WING | **Lower-Moderate** (post-Q1 thesis-break) | Triple (B-Strong, A-Mod, **T-Weak**) | PW EV ~$185 vs. $165.64 = +12% (18mo / ~7.5%/yr); R/R ~3:1 (improves at lower entry) | **Watch / Reduce on bounce >$180**; entry $135–150 | Q2 2026 — late July 2026 |
 | 25 | ABNB | Moderate | Single (B-Mod) | PW EV $162 vs. $142.82 = +13% (3yr / ~4.5%/yr); R/R ~3.4:1 | **Watch / Hold**; entry $120–130 | Q1 2026 — May 7, 2026 |
 | 26 | LNTH | Moderate | Double (A+I-Mod, binary) | PW EV ~$96 vs. $82.91 = +16% (3yr / ~5%/yr) | **Watch / Hold**; entry $65–78 | Q1 — May 7, 2026; LNTH-2501 PDUFA June 29 |
 | 27 | LULU | Moderate | Double (B-Strong + A-Mod) | PW EV $192 vs. $143.80 = +34% (3yr / ~10.2%/yr) | **Watch / Initiate <$135 / Hold** | Q1 FY26 — early June 2026 |
@@ -67,7 +68,9 @@
 | **Late July 2026** | **SBUX** | **Q3 FY26 earnings** | U.S. transactions stay positive on tougher comp; op-margin walk extends | Duration validation; multiple holds premium | Single-Q wobble; entry zone re-opens |
 | **Apr 29, 2026** | **MSFT** | **Q3 FY26 earnings (binary)** | Azure growth ≥ +33% YoY; AI capex payback commentary | Re-rate toward $565 PW EV | Re-test March lows |
 | **Apr 29, 2026** | **AMZN** | **Q1 FY26 earnings (binary)** | AWS growth (~+22% cons.); FY26 capex guide vs. ~$200B | AWS >+25% confirms Trainium thesis | AWS <+18% or capex >$250B = thesis-break |
-| **Apr 29, 2026** | **WING** | **Q1 2026 SSS print (binary)** | Q1 SSS sequential vs. Q4 –5.8% | Inflection / sequential improvement → re-rate toward Citi $230 | Q1 SSS < –7% = Exit reassessment |
+| ~~Apr 29, 2026~~ ✅ **DELIVERED** | **WING** | **Q1 2026 SSS print — thesis-break activated** | Q1 dom SSS **–8.7%** (worse than –7% trigger); FY26 guide cut to LSD-decline; stock –12.5% to $165 | n/a | Trigger fired; verbs flipped to Watch / Reduce on bounce |
+| **Late July 2026** | **WING** | **Q2 2026 earnings (next read)** | Q2 SSS — does –8.7% extend or stabilize | Sequential improvement re-opens cyclical thesis | Sustained decline confirms structural concern |
+| **Late July 2026** | **HOOD** | **Q2 2026 earnings** | Crypto rev recovery; NII / Gold / Rothera continuing to absorb crypto cyclicality; S&P 500 inclusion flow update | Multi-stream diversification confirmed; re-rate toward $108+ PW EV | Crypto weakness without offset = thesis weakening |
 | Apr 30, 2026 | LLY | Q1 2026 earnings | Mounjaro+Zepbound vs. $36.5B FY25 base; Foundayo early Rx | $80–83B FY26 path confirmed | Miss / guide cut = thesis delay |
 | Apr 30, 2026 | RIVN | Q1 2026 earnings | Cash balance, R2 ramp pace, VW JV update, FY26 reaffirmation | R2 production on track; cash >$5B | R2 slips; dilution risk emerges |
 | Apr 30, 2026 | RKT | Q1 2026 earnings | Adj revenue ≥ $2.6B + EBITDA run-rate | 5th consecutive beat; re-rates toward $20+ | Below $2.4B without external shock = thesis break |
@@ -97,7 +100,8 @@
 | BKNG | $180.25 | $135 (20%) | $190 (50%) | $250 (30%) | ~$195.50 | +8.5% (18mo) |
 | BRK.B | $469.32 | $405 (25%) | $550 (45%) | $650 (30%) | ~$543 | +15.7% (3yr) |
 | LLY | $883.96 | $700 (20%) | $1,015 (50%) | $1,300 (30%) | ~$1,037.50 → ~$1,183 (post-orforglipron) | +17.4% to +34% (18mo) |
-| WING | $189.37 | $130 (25%) | $200 (50%) | $280 (25%) | ~$215 | +14% (18mo) |
+| WING | $165.64 | $130 (35%) | $190 (45%) | $270 (20%) | ~$185 | +12% (18mo) |
+| HOOD | $84.71 | $55 (25%) | $105 (45%) | $155 (30%) | ~$108 | +27% (18mo); R/R ~2.4:1 |
 | UNH | ≈$368 | $285 (15%) | $430 (50%) | $540 (35%) | ~$447 | +21% (24mo) |
 | SCHW | $91.71 | $70 (20%) | $108 (50%) | $130 (30%) | ~$108 | +18% (18mo) |
 | RKT | $15.60 | $9 (20%) | $22 (55%) | $35 (25%) | ~$22.65 | +45% (2-3yr) |

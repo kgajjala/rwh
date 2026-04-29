@@ -15,7 +15,7 @@ governs weekly cron coverage (Core Rule #15).
 
 ## Tickers
 
-*Alphabetical. 36 tickers covered.*
+*Alphabetical. 37 tickers covered.*
 
 | Ticker | Status | Company | Moat | Conviction | Last Updated | Summary |
 |--------|--------|---------|------|-----------|--------------|---------|
@@ -31,6 +31,7 @@ governs weekly cron coverage (Core Rule #15).
 | [DELL](tickers/DELL/DELL.md) | Active | Dell Technologies | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch (consensus < spot); insider selling |
 | [EBAY](tickers/EBAY/EBAY.md) | Active | eBay | Narrow | Medium | 2026-04-24 | v2.4 ingest — Watch / selective Initiate / Hold |
 | [FIG](tickers/FIG/FIG.md) | Active | Figma | Narrow-Emerging Wide | Medium | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate (small, contrarian) / Hold-Add |
+| [HOOD](tickers/HOOD/HOOD.md) | Active | Robinhood Markets, Inc. | Narrow-and-Widening | Moderate | 2026-04-29 | v2.12 ingest — Financial super-app: brokerage + crypto + retirement + RIA custody (TradePMR) + prediction markets (Rothera) + Bitstamp. FY25 rev +52% / NI $1.9B; Q1 2026 +15% rev with crypto –47% offset by NII +24% / event contracts +320% / Gold +36%. Initiate / Hold (Add <$80) |
 | [INTU](tickers/INTU/INTU.md) | Active | Intuit | Wide | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT; 17× FY26E NGAAP at decade-low; Initiate / Add |
 | [KGS](tickers/KGS/KGS.md) | Active | Kodiak Gas Services | Narrow | Low-Moderate | 2026-04-26 | v2.9 — Double BAIT (A+I+T Mod); R/R ~1:1 at 52-wk high; Watch / Hold |
 | [LLY](tickers/LLY/LLY.md) | Active | Eli Lilly | Wide | High | 2026-04-26 | v2.9 — Triple BAIT (A+I-Strong); orforglipron approved Apr 1; Initiate / Hold-Add on pullback |
@@ -53,7 +54,7 @@ governs weekly cron coverage (Core Rule #15).
 | [TREX](tickers/TREX/TREX.md) | Active | Trex Company | Narrow & Widening | Moderate | 2026-04-26 | v2.9 — Double BAIT (B+A Mod); housing-cyclical trough + $200M buyback; Initiate (patient) / Hold |
 | [TSLA](tickers/TSLA/TSLA.md) | Active | Tesla | Narrow auto + Optional Wide autonomy | Moderate | 2026-04-26 | v2.9 — Quadruple BAIT (Mod); R/R ~1.4:1 not asymmetric; Hold / Watch; entry $280–320 |
 | [UNH](tickers/UNH/UNH.md) | Active | UnitedHealth Group | Wide | High | 2026-04-28 | v2.9 — Quadruple BAIT; Q1 BEAT + **CMS 2027 MA Final Rate ≈+2% (2026-04-28)** = double de-risk; ≈$368 (+14% week); Initiate / Add |
-| [WING](tickers/WING/WING.md) | Active | Wingstop | Narrow | Moderate | 2026-04-26 | v2.9 — Triple BAIT (B-Strong, A+T Mod); $300M buyback through trough; Watch / Hold; Q1 SSS Apr 29 binary |
+| [WING](tickers/WING/WING.md) | Active | Wingstop | Narrow | Lower-Moderate | 2026-04-29 | Q1 FY26 SSS –8.7% broke –7% thesis-break trigger; FY26 guide cut. EBITDA/EPS held. Watch / Reduce on bounce |
 | [ZG](tickers/ZG/ZG.md) | Active | Zillow Group | Wide consumer / Narrow agent | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT (B+A Strong, I-Mod); super-app pivot working; Initiate / Add |
 
 ---
@@ -74,6 +75,7 @@ governs weekly cron coverage (Core Rule #15).
 | DELL | $214.65 | near high | Single | Watch (insider selling) |
 | EBAY | $97.94 | –8.8% | Single | Watch / selective Initiate / Hold |
 | FIG | $17.47 | –88% (post-IPO) | Triple (B+A+I) | Initiate (small, contrarian) / Hold-Add |
+| HOOD | $84.71 | –45.0% | Double (B+A Mod) | Initiate / Hold (Add <$80) |
 | INTU | $395.95 | –51% | Triple (B+A-Strong, I-Mod) | Initiate / Add; entry $340–420 |
 | KGS | $65.98 | –0.3% (52-wk high) | Double (A+I+T-Mod) | Watch / Hold; entry $50–55 |
 | LLY | $883.96 | –22.0% | Triple (A+I-Strong, B-Mod) | Initiate / Hold-Add on pullback; entry $750–850 |
@@ -96,7 +98,7 @@ governs weekly cron coverage (Core Rule #15).
 | TREX | $41.90 | –39% | Double (B+A-Mod) | Initiate (patient) / Hold; entry $30–42 |
 | TSLA | $376.30 | –24.6% | Quadruple-Mod (B+A+I+T) | Hold / Watch; entry $280–320 |
 | UNH | ≈$368 | ≈–13% | Quadruple (B-compressed; A+I-Strong, T-Mod) | **Initiate / Add** (Q1 BEAT + CMS 2027 MA Final Rate ≈+2% double de-risk) |
-| WING | $189.37 | –51% | Triple (B-Strong, A+T-Mod) | Watch / Hold; Q1 SSS Apr 29 binary |
+| WING | $165.64 | –57% | Triple (B-Strong, A-Mod, T-Weak) | Watch / Reduce on bounce >$180; entry $135–150 |
 | ZG | $45.41 | –51.6% | Triple (B+A-Strong, I-Mod) | Initiate / Add; entry $38–50 |
 
 ---
@@ -143,4 +145,4 @@ governs weekly cron coverage (Core Rule #15).
 
 ---
 
-*Last full index refresh: 2026-04-28 (SPOT initial v2.9 ingest added; prior 2026-04-26 v2.9 retrofit batch covered 22 tickers; SHOP & DASH at v2.9 from prior session; 11 tickers preserved at v2.8 = 36 tickers total)*
+*Last full index refresh: 2026-04-29 (HOOD v2.12 initial ingest added; WING refreshed for Q1 FY26 earnings — thesis-break trigger activated; 37 tickers total)*

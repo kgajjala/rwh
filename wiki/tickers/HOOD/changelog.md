@@ -4,6 +4,47 @@
 
 ---
 
+## [2026-04-29] — Post-Q1 Price Reset & Earnings Call Refresh
+
+**Trigger**: HOOD fell –14.35% intraday to $70.29 on 2026-04-29 following Q1 2026 earnings (reported 2026-04-28 after close). Q1 missed consensus on revenue ($1.07B vs. $1.14B est.) and EPS ($0.38 vs. $0.39–$0.42 est.). Management stated on the call that April crypto volumes are "about similar to Q1," removing hope of near-term sequential crypto recovery and driving sell-side EPS estimate cuts of 10–26%. Price reset from $84.71 (ingest) to $70.29 places the stock at the lower bound of the prior entry zone, materially improving R/R.
+
+**Sources reviewed**:
+- [stockanalysis.com — HOOD live price](https://stockanalysis.com/stocks/hood/) ($70.29, –14.35%, mkt cap $63.3B)
+- [Motley Fool — Q1 2026 earnings call transcript](https://www.fool.com/earnings/call-transcripts/2026/04/28/robinhood-hood-q1-2026-earnings-transcript/)
+- [Investing.com — KBW PT cut to $65 post-Q1](https://investing.com/news/analyst-ratings/robinhood-shares-see-price-target-cut-to-65-by-kbw-on-earnings-miss-93CH-4645658)
+- [Stocktwits — post-Q1 analyst summary (Barclays $82, Bernstein $130, Citizens $155)](https://stocktwits.com/news-articles/markets/cryptocurrency/hood-stock-falls-after-target-cuts-on-q1-miss-shares-already-bottomed/cZBAb8fRe3A)
+- [Yahoo Finance — analyst story shift](https://finance.yahoo.com/markets/stocks/articles/robinhood-hood-story-shifting-analysts-200400976.html)
+- [Coindesk — HOOD post-earnings reaction](https://www.coindesk.com/markets/2026/04/28/robinhood-stock-shrugs-off-a-47-crash-in-crypto-revenue-thanks-to-a-massive-surge-in-event-betting)
+- [parameter.io — April 2026 PT wave](https://parameter.io/robinhood-hood-stock-faces-wave-of-analyst-price-target-reductions-in-april-2026/)
+- Local: [Q1 2026 earnings call transcript](../../../raw/HOOD/transcripts/2026-04-28-Q1-2026-earnings-call.md) *(newly created this session)*
+- Local: [Q1 2026 press release](../../../raw/HOOD/press-releases/2026-04-28-Q1-2026-results.md)
+
+### What Changed
+
+- **Header / Live Price**: Updated from $84.71 (April 24 close) → $70.29 (April 29 intraday post-Q1 reaction); –14.35% session; market cap $63.3B
+- **§0 Summary**: Refreshed price reference, entry zone, R/R framing, analyst action bullets, BAIT conviction upgrade (Moderate → Moderate-High at $70); non-holder verb unchanged (Initiate); holder verb upgraded from Hold → Add
+- **Key Stats Snapshot**: New price, day change, % from high (–45% → –54.3%), market cap ($76.3B → $63.3B), analyst consensus updated post-Q1
+- **§9 Catalyst & Sentiment**: Full post-Q1 analyst action table (KBW $65, Barclays $82, Bernstein $130 held, Citizens $155 held, Compass Point $107); pre-earnings April wave documented; reaction narrative added; upcoming catalyst list updated (Rothera JV Q2, dividend tracker May, Canada crypto mid-2026)
+- **§10 BAIT**: T lens upgraded Weak → Weak-to-Moderate (defined risk at $70 / Tenev sell band exhausted); B lens upgraded Moderate → Moderate-Strong (behavioral overreaction amplitude higher at $70); overall conviction Moderate → Moderate-High
+- **§11 Bull/Bear/Base**: Scenarios and probabilities **unchanged** (see rationale footnote added to §11 — Q1 call confirmed structural narrative; crypto "similar to Q1 in April" is near-term, not secular)
+- **§12 PW EV**: Recomputed vs. new spot: PW EV ~$108 unchanged; implied return +54% / ~31%/yr (vs. +27%); R/R ≈5.5:1 Bull/Bear (vs. ~2.4:1 at $84.71)
+- **§13 Recommendation**: Non-holder: Initiate (unchanged verb, stronger rationale at $70); Holder: **Add** (upgraded from Hold); entry zone updated $70–85 → $65–80; thesis-break trigger #2 refined (Q2 is the watch point for 2-consecutive-quarter test)
+- **Transcript**: Saved new file `raw/HOOD/transcripts/2026-04-28-Q1-2026-earnings-call.md` with synthesized call content
+
+### Thesis Status
+- **Overall**: 🟢 **Strengthened** (vs. earlier-today ingest baseline) — the $14 price reset at unchanged fundamentals improves R/R from ~2.4:1 to ≈5.5:1. Q1 call surfaced incremental positive disclosures (margin book +93% YoY, Gold card $15B annualized spend, Rothera April $3B second-highest month) not fully captured in the press release.
+- **BAIT delta**: T: Weak → Weak-to-Moderate; B: Moderate → Moderate-Strong; overall conviction Moderate → Moderate-High
+- **Price target delta**: Bull $155 / Base $105 / Bear $55 — unchanged | PW EV ~$108 — unchanged | R/R ~2.4:1 → ≈5.5:1 at new spot
+- **Catalyst & Sentiment delta**: Post-Q1 sell-side PT cuts (KBW $65, Barclays $82); Bernstein held $130, Citizens held $155 — split creates opportunity; April crypto "about similar to Q1" is near-term headwind for Q2 consensus
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate** — scale in $65–80 range; PW EV ~$108 implies +54% / ≈5.5:1 R/R
+- **For a current holder**: 🟢 **Add** *(upgraded from Hold)* — $70 is at lower entry zone bound; thesis confirmed by Q1 call incremental disclosures
+
+**Next review trigger**: 📅 **Q2 2026 earnings (late July 2026)** — crypto sequential recovery or further deterioration; Rothera JV first live quarter; Gold card $100M ARR pace; NII with full margin-book contribution; Trump Accounts revenue offset.
+
+---
+
 ## [2026-04-29] — v2 Initial Ingest
 
 **Trigger**: First-run ingest under Workflow A. Q1 2026 earnings reported 2026-04-28 (revenue $1.07B +15%, EPS $0.38, net deposits $17.7B record); page captures FY25 ($4.5B / $1.9B / $2.05 EPS), Q1 2026 print, and 2025–2026 strategic transformation (Bitstamp + TradePMR + S&P 500 + Rothera + Trump Accounts).

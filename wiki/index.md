@@ -31,7 +31,7 @@ governs weekly cron coverage (Core Rule #15).
 | [DELL](tickers/DELL/DELL.md) | Active | Dell Technologies | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch (consensus < spot); insider selling |
 | [EBAY](tickers/EBAY/EBAY.md) | Active | eBay | Narrow | Medium | 2026-04-24 | v2.4 ingest — Watch / selective Initiate / Hold |
 | [FIG](tickers/FIG/FIG.md) | Active | Figma | Narrow-Emerging Wide | Medium | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate (small, contrarian) / Hold-Add |
-| [HOOD](tickers/HOOD/HOOD.md) | Active | Robinhood Markets, Inc. | Narrow-and-Widening | Moderate | 2026-04-29 | v2.12 ingest — Financial super-app: brokerage + crypto + retirement + RIA custody (TradePMR) + prediction markets (Rothera) + Bitstamp. FY25 rev +52% / NI $1.9B; Q1 2026 +15% rev with crypto –47% offset by NII +24% / event contracts +320% / Gold +36%. Initiate / Hold (Add <$80) |
+| [HOOD](tickers/HOOD/HOOD.md) | Active | Robinhood Markets, Inc. | Narrow-and-Widening | Moderate-High | 2026-04-29 | Post-Q1 reset to $70.29 (–14% session) — Q1 call confirmed structural diversification (margin book +93%, Gold card $15B annualized spend, Rothera April $3B second-highest month); crypto "about similar to Q1" in April removes near-term recovery. R/R ≈5.5:1 at $70; PW EV ~$108 (+54%). **Initiate / Add** at $65–80 |
 | [INTU](tickers/INTU/INTU.md) | Active | Intuit | Wide | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT; 17× FY26E NGAAP at decade-low; Initiate / Add |
 | [KGS](tickers/KGS/KGS.md) | Active | Kodiak Gas Services | Narrow | Low-Moderate | 2026-04-26 | v2.9 — Double BAIT (A+I+T Mod); R/R ~1:1 at 52-wk high; Watch / Hold |
 | [LLY](tickers/LLY/LLY.md) | Active | Eli Lilly | Wide | High | 2026-04-26 | v2.9 — Triple BAIT (A+I-Strong); orforglipron approved Apr 1; Initiate / Hold-Add on pullback |
@@ -75,7 +75,7 @@ governs weekly cron coverage (Core Rule #15).
 | DELL | $214.65 | near high | Single | Watch (insider selling) |
 | EBAY | $97.94 | –8.8% | Single | Watch / selective Initiate / Hold |
 | FIG | $17.47 | –88% (post-IPO) | Triple (B+A+I) | Initiate (small, contrarian) / Hold-Add |
-| HOOD | $84.71 | –45.0% | Double (B+A Mod) | Initiate / Hold (Add <$80) |
+| HOOD | **$70.29** (–14.35% Apr 29) | **–54.3%** | Double (B+A Mod-Strong) | **Initiate / Add** at $65–80; R/R ≈5.5:1 |
 | INTU | $395.95 | –51% | Triple (B+A-Strong, I-Mod) | Initiate / Add; entry $340–420 |
 | KGS | $65.98 | –0.3% (52-wk high) | Double (A+I+T-Mod) | Watch / Hold; entry $50–55 |
 | LLY | $883.96 | –22.0% | Triple (A+I-Strong, B-Mod) | Initiate / Hold-Add on pullback; entry $750–850 |

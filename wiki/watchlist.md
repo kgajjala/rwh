@@ -3,8 +3,8 @@
 *Position-agnostic per v2.1 schema (Core Rule #3): no portfolio allocation, no target %, no form (stock/options) splits. This file is pure analysis.*
 
 *Updated by LLM agent after each full thesis cycle, earnings update, or v2.x schema migration.*
-*Last updated: 2026-04-29 (HOOD v2.12 initial ingest added at rank 19b; WING demoted post Q1 FY26 thesis-break trigger activation — conviction Moderate → Lower-Moderate, verbs flipped to Watch / Reduce on bounce).*
-*Prices verified via Yahoo Finance on 2026-04-24 (Friday close); reflects most recent verified state for each ticker page.*
+*Last updated: 2026-04-29 (HOOD post-Q1 price reset $84.71 → $70.29 –14% session; conviction upgraded Moderate → Moderate-High; verbs upgraded Hold → Add; R/R improves ~2.4:1 → ≈5.5:1; WING demoted post Q1 FY26 thesis-break trigger activation).*
+*HOOD price $70.29 verified via [stockanalysis.com](https://stockanalysis.com/stocks/hood/) on 2026-04-29 intraday. All other tickers at 2026-04-24/26/28 verified closes.*
 
 ---
 
@@ -32,7 +32,7 @@
 | 17 | NFLX | Moderate | Triple (B+A+I-Mod) | PW EV $119.50 vs. $93.24 = +28% (3yr); R/R ~2.4:1 | **Initiate (small, scaled)**; entry $80–88 | Q2 2026 — mid-July 2026 (est.) |
 | 18 | RIVN | Moderate | Triple (B+A+I-Mod, T-Mod) | PW EV ~$18.50 vs. $16.54 = +12% (2yr); R/R ~3.4:1 | **Watch / small Initiate**; entry $12–14 | Q1 2026 — April 30, 2026 |
 | 19 | TREX | Moderate | Double (B+A-Mod) | PW EV $57 vs. $41.90 = +36% (3yr / ~11%/yr); R/R ~3.6:1 | **Initiate (patient)** / **Hold**; entry $30–42 | Q1 2026 — early May 2026 |
-| 19b | HOOD | Moderate | Double (B+A-Mod) | PW EV ~$108 vs. $84.71 = +27% (18mo / ~17%/yr); R/R ~2.4:1 | **Initiate** / **Hold (Add <$80)**; entry $70–85 | Q2 2026 — late July 2026 |
+| 19b | HOOD | **Moderate-High** | Double (B+A-Mod-Strong) | PW EV ~$108 vs. **$70.29** = **+54%** (18mo / ~31%/yr); R/R **≈5.5:1** | **Initiate / Add**; entry **$65–80** | Q2 2026 — late July 2026 |
 | 20 | RH | Moderate | Double (B-Strong, T-Mod via 35.6% short) | PW EV $208 vs. $137.51 = +51% (4yr / ~11%/yr); R/R ~3.4:1 | **Watch / selective Initiate**; add aggressively below $115 | Q1 FY2026 — early June 2026 |
 | 21 | CELH | Moderate | Triple (B-Strong, A+T-Mod) | PW EV ~$52 vs. $35.25 = +47% (3yr / ~14%/yr) | **Initiate small** / **Hold-Add**; entry-event-driven | Q1 — May 11, 2026 |
 | 22 | ONON | Moderate | Double (B-Strong + A-Mod) | PW EV $53 vs. $36.25 = +46% (3yr); analyst median $60 | **Initiate** / **Add**; entry $31–40 | Q1 2026 — May 12, 2026 |
@@ -101,7 +101,7 @@
 | BRK.B | $469.32 | $405 (25%) | $550 (45%) | $650 (30%) | ~$543 | +15.7% (3yr) |
 | LLY | $883.96 | $700 (20%) | $1,015 (50%) | $1,300 (30%) | ~$1,037.50 → ~$1,183 (post-orforglipron) | +17.4% to +34% (18mo) |
 | WING | $165.64 | $130 (35%) | $190 (45%) | $270 (20%) | ~$185 | +12% (18mo) |
-| HOOD | $84.71 | $55 (25%) | $105 (45%) | $155 (30%) | ~$108 | +27% (18mo); R/R ~2.4:1 |
+| HOOD | **$70.29** | $55 (25%) | $105 (45%) | $155 (30%) | ~$108 | **+54%** (18mo); R/R **≈5.5:1** |
 | UNH | ≈$368 | $285 (15%) | $430 (50%) | $540 (35%) | ~$447 | +21% (24mo) |
 | SCHW | $91.71 | $70 (20%) | $108 (50%) | $130 (30%) | ~$108 | +18% (18mo) |
 | RKT | $15.60 | $9 (20%) | $22 (55%) | $35 (25%) | ~$22.65 | +45% (2-3yr) |

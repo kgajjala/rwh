@@ -3,24 +3,24 @@
 > **Schema**: v2.12
 > **Last Updated**: 2026-04-29
 > **Status**: Active
-> **Live Price Verified**: **$84.71** at April 24, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/HOOD); after-hours $84.75; previous close $83.54 → +1.40% session)
+> **Live Price Verified**: **$70.29** intraday April 29, 2026 (–14.35% / –$11.78 on post-Q1 earnings reaction; prior close $84.71 April 24, 2026); verified via [stockanalysis.com](https://stockanalysis.com/stocks/hood/)
 > **Ticker Type**: Financial / brokerage with crypto + retirement + lending overlay (asset super-app aspirant)
 
 ---
 
 ## Summary
 
-- 🟢 **Thesis**: Robinhood is no longer a meme-era PFOF brokerage — FY2025 delivered **$4.5B revenue (+52%)**, **$2.5B adj EBITDA (+76%)**, **$1.9B net income**, S&P 500 inclusion, and Bitstamp/TradePMR consolidations. Q1 2026 (reported 2026-04-28) confirmed the structural model: **transaction revenue +7%, net interest +24%, event-contracts +320%, Gold +36%** — and crypto –47% revealed dependency that the rest of the franchise now offsets. Active-trader dominance + Gold subscription + retirement + RIA-custody (TradePMR) + prediction markets (Rothera) + Bitstamp = a multi-revenue-stream financial super-app, not a transaction shop.
-- 🟢 **For a non-holder: Initiate** at $84.71 — the post-Q1 sell-off (–45% from $153.86 high) reflects crypto-revenue cyclicality, but the *non-crypto* franchise grew structurally. Multiple at ~21× FY26E adj EPS ($4.00 [Estimate]) is below historical fintech-platform norms.
-- 🟡 **For a current holder: Hold (Add on weakness)** — thesis intact; volatility is structural (5Y beta 2.46), but the franchise is genuinely deeper than 2021.
-- 🎯 **Attractive entry zone**: **$70 – $85** (post-crypto-drawdown band; 17–21× FY26E adj EPS).
-- 🎯 **Trim zone**: **$130 – $160** (32–40× FY26E EPS; requires full credit for tokenization + Trump Accounts + international monetization).
-- 📉 **Price action**: **$84.71, –45% from 52-wk high $153.86** (Q4 2025 / early 2026 peak), +86% above 52-wk low $45.56. JP Morgan PT cut $113 → $92 on 2026-04-23 (Neutral); Mizuho raised $105 → $115 on 2026-04-20 (Outperform) — split sentiment.
-- 📅 **Next catalyst**: **Q2 2026 earnings (late July 2026)** — first read on Bitstamp run-rate, Rothera scaling, Gold attach durability past 4.3M.
-- ⚠️ **Top risk**: **Crypto revenue cyclicality** — Q1 2026 crypto –47% YoY in a quarter where total platform assets fell from $324B to $307B. Crypto remains 22% of transaction revenue; bear-cycle drawdowns will repeat. *Partially priced in* at $84.71.
-- ⚠️ **Second risk**: **PFOF regulatory tail** — SEC Dec 2022 equity-market-structure proposals (Reg Best Ex, auction rule) remain unfinalized but live; transaction-based revenue is 58% of total. *Not fully priced in* — equity / option PFOF rule changes would force model re-rating.
-- 🟢 **Moat verdict**: **Narrow-and-Widening** — brand + UX lock-in with the active-trader cohort + Gold subscription stickiness + Bitstamp infrastructure + TradePMR custody position. Not yet at SCHW's scale moat, but increasing optionality.
-- 🟢 **BAIT verdict**: **Two-overlap (B + A Moderate; T Weak post-drawdown; I Moderate)** — Conviction **Moderate**. PW EV ~$112 (18-mo); R/R **~3.4:1** (Bull / Bear) anchored to §11.
+- 🟢 **Thesis**: Robinhood is no longer a meme-era PFOF brokerage — FY2025 delivered **$4.5B revenue (+52%)**, **$2.5B adj EBITDA (+76%)**, **$1.9B net income**, S&P 500 inclusion, and Bitstamp/TradePMR consolidations. Q1 2026 (reported 2026-04-28) confirmed structural diversification: **transaction revenue +7%, NII +24%, event-contracts +320%, Gold +36%** — crypto –47% was offset by the non-crypto franchise. Multi-stream model (NII 34% / options 24% / event contracts 14% / Gold+other 8%) is proving out through-cycle.
+- 🟢 **For a non-holder: Initiate** — at **$70.29** (post-Q1 sell-off, –54% from $153.86 high) the stock trades at ~17–18× revised FY26E adj EPS; at or below the lower end of the entry zone. Risk/reward strengthens materially vs. $84.71 ingest price.
+- 🟢 **For a current holder: Add** — $70 is the low end of the prior entry zone ($70–85); thesis intact; Q1 call confirmed NII structural growth (margin book +93% YoY), Gold credit card at $15B annualized spend, Rothera April volumes $3B second-highest. Price-level warrants upgrading from Hold to Add.
+- 🎯 **Attractive entry zone**: **$65 – $80** (updated; ~16–20× revised FY26E adj EPS ≈$3.50–3.75 [Estimate] post sell-side cuts).
+- 🎯 **Trim zone**: **$130 – $160** (32–40× FY26E adj EPS; full credit for Rothera + tokenization + Trump Accounts).
+- 📉 **Price action**: **$70.29, –14.35% session on 2026-04-29** (post-Q1 earnings reaction); **–54.3% from 52-wk high $153.86**; +54.3% above 52-wk low $45.56. Post-Q1 analyst actions: KBW $75→$65 (Market Perform), Barclays $89→$82 (Overweight), Bernstein held $130 (Outperform), Citizens held $155 (Outperform), Compass Point ≈$107 (Buy).
+- 📅 **Next catalyst**: **Q2 2026 earnings (late July 2026)** — first read on Rothera durability post-launch, Bitstamp full-quarter contribution, crypto recovery (or lack thereof: April "similar to Q1"), Gold card $100M ARR milestone.
+- ⚠️ **Top risk**: **Crypto revenue no near-term recovery** — management signaled April crypto volumes "about similar to Q1" on the call. Q2 will not show sequential improvement in crypto. Sell-side cutting FY26E EPS ≈10–26%.
+- ⚠️ **Second risk**: **PFOF regulatory tail** — SEC proposals remain live; transaction revenue 58% of total. *Not priced in.*
+- 🟢 **Moat verdict**: **Narrow-and-Widening** — brand + UX + Gold stickiness + Bitstamp licenses + TradePMR custody. Not yet SCHW scale, but widening optionality.
+- 🟢 **BAIT verdict**: **Two-overlap (B + A Moderate; I Moderate; T Moderate—improving at $70)** — Conviction **Moderate-High** at $70 vs. Moderate at $84. PW EV ~$108 (18-mo); R/R **≈2.9:1** (Bull $155 / Bear $55) at $70.29 per §11/§12.
 
 ---
 
@@ -68,18 +68,18 @@ The answer hinges on three things: **(1) revenue diversification** — has the 2
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$84.71** | April 24, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/HOOD)) |
-| After-hours | $84.75 | +0.05% |
-| Previous Close | $83.54 | Session Δ: +1.40% |
+| Live Price | **$70.29** | April 29, 2026 intraday ([stockanalysis.com](https://stockanalysis.com/stocks/hood/)) |
+| Day Change | –$11.78 (–14.35%) | Post-Q1 earnings reaction |
+| Prior Close | $84.71 | April 24, 2026 |
 | 52-Week High | $153.86 | Q4 2025 / early 2026 peak |
 | 52-Week Low | $45.56 | Mid-2025 |
-| % From 52-Wk High | **–45.0%** | Material drawdown |
-| % Above 52-Wk Low | +85.9% | |
-| Market Cap | ~$76.3B | |
+| % From 52-Wk High | **–54.3%** | Material drawdown |
+| % Above 52-Wk Low | +54.3% | |
+| Market Cap | ~$63.3B | At $70.29 ([stockanalysis.com](https://stockanalysis.com/stocks/hood/)) |
 | Shares Outstanding | ~898.8M | Class A + B |
 | Beta (5Y) | **2.46** | High |
-| 1-Year Analyst Target | $101.15 (avg) / $122 (median) | [Yahoo Finance](https://finance.yahoo.com/quote/HOOD); [TipRanks](https://www.tipranks.com/stocks/hood/forecast) |
-| Analyst Buy/Hold/Sell | 19 / 5 / 2 | TipRanks (Apr 2026) |
+| 1-Year Analyst Target | $109.7 (avg pre-Q1 cuts) | [public.com](https://public.com/stocks/hood/forecast-price-target); cuts in progress post-print |
+| Analyst Buy/Hold/Sell | ≈22 Buy consensus (Apr 29) | Post-print consensus; KBW Market Perform, others Buy/Overweight |
 | FY2025 Revenue | $4.5B | +52% YoY |
 | FY2025 Net Income | $1.9B | vs. $1.4B FY24 (incl. $424M one-time) |
 | FY2025 Adj EBITDA | $2.5B | +76% |
@@ -311,45 +311,57 @@ At $84.71 / ~21× FY26E adj EPS, HOOD trades **below the historical fintech-plat
 
 ## Section 9 — Catalyst & Sentiment Tracker
 
-### Live price (Apr 24, 2026 close)
-- **$84.71**, +1.40% session
-- 52-wk range $45.56 – $153.86 → **–45% from high**, +86% from low
+### Live price (Apr 29, 2026 intraday — post-Q1 reaction)
+- **$70.29**, –14.35% session (–$11.78), intraday range $68–$72 [Estimate based on –14% move from $84.71 close]
+- 52-wk range $45.56 – $153.86 → **–54.3% from high**, +54.3% from low
+- Source: [stockanalysis.com](https://stockanalysis.com/stocks/hood/) | market cap $63.3B
+- **Reaction narrative**: Q1 2026 missed consensus on both revenue ($1.07B vs. $1.14B est.) and EPS ($0.38 vs. $0.39–$0.42 est.); crypto revenue –47% + April crypto volumes "about similar to Q1" (per management call) removed hope of near-term sequential recovery. Sell-side cut FY26E EPS estimates ≈10–26%.
 
-### Analyst consensus (Apr 2026)
-- **Buy 19 / Hold 5 / Sell 2** ([TipRanks](https://www.tipranks.com/stocks/hood/forecast))
-- Median PT: **$122** (TipRanks, 31 analysts) | Avg PT $109.7 ([public.com](https://public.com/stocks/hood/forecast-price-target)) | Avg PT $105 ([stockanalysis.com](https://stockanalysis.com/stocks/hood/forecast/))
-- Yahoo Finance avg PT $101.15
-- **Recent rating actions**:
-  - 2026-04-23 — JP Morgan (Worthington): **Neutral, PT cut $113 → $92**
-  - 2026-04-20 — Mizuho (Dolev): **Outperform, PT raised $105 → $115**
+### Analyst consensus (Apr 29, 2026 — post-Q1 print)
+- **≈22 Buy consensus** (per Investing.com aggregation; shifting as models are updated)
+- **Post-earnings price target actions** (April 28–29, 2026):
+  - **KBW** (Keefe Bruyette): **Market Perform, PT cut $75 → $65** — citing EPS miss + higher tax rate; FY26E EPS cut –26%
+  - **Barclays**: **Overweight, PT cut $89 → $82** — acknowledged Q1 miss; April trends improving
+  - **Bernstein** (Chhugani): **Outperform, PT held $130** — "weak Q1 already factored in"; margin book +93% and Gold +36% highlighted
+  - **Citizens**: **Market Outperform, PT held $155** — most bullish on Street
+  - **Compass Point**: **Buy, PT ≈$107** — modestly lower take-rate adjustment
+- **Earlier April rating actions (pre-earnings)**:
+  - 2026-04-23 — JP Morgan: Neutral, PT cut $113 → $92
+  - 2026-04-06 — Mizuho: Outperform, PT cut $110 → $105
+  - 2026-04-06 — Jefferies: Buy, PT cut $88 → $84
+  - 2026-04-02 — Compass Point: Buy, PT cut $127 → $108
+  - 2026-04-02 — Needham: Buy, PT cut $100 → $90
+  - 2026-04-01 — Wolfe Research: Outperform, PT cut $115 → $81 (most aggressive pre-print)
+  - 2026-03-26 — Goldman Sachs: Buy, PT cut $102 → $91
+- Source: [parameter.io — April 2026 PT changes](https://parameter.io/robinhood-hood-stock-faces-wave-of-analyst-price-target-reductions-in-april-2026/) | [Investing.com — KBW post-Q1](https://investing.com/news/analyst-ratings/robinhood-shares-see-price-target-cut-to-65-by-kbw-on-earnings-miss-93CH-4645658) | [Stocktwits — post-Q1 analyst summary](https://stocktwits.com/news-articles/markets/cryptocurrency/hood-stock-falls-after-target-cuts-on-q1-miss-shares-already-bottomed/cZBAb8fRe3A)
 
 ### Short interest
-- **3.71% of float** (33.46M shares); DTC 1.9
-- Below peer-group avg (~6%); not a contrarian setup
+- **3.71% of float** (33.46M shares); DTC 1.9 (prior to Apr 29 reaction; next update mid-May)
+- Below peer-group avg (~6%); not a contrarian short-squeeze setup
 - Source: [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/HOOD/short-interest/)
 
 ### Insider activity (last 90 days)
-- **2026-04-06 — Vlad Tenev (CEO)**: sold 375K Class A @ $69.53–70.12 = **~$26.19M** under 10b5-1 plan adopted 2025-09-05
-- 5-year pattern: 50 sells / 0 buys (Tenev). One-directional.
+- **2026-04-06 — Vlad Tenev (CEO)**: sold 375K Class A @ $69.53–70.12 = **~$26.19M** under 10b5-1 plan adopted 2025-09-05. Note: Tenev's 10b5-1 sell band overlaps exactly with today's post-print low (~$70) — no incremental purchase signal from CEO even at the intraday lows.
+- 5-year pattern: 50 sells / 0 buys (Tenev). One-directional. Governance negative.
 - Source: [Investing.com Form 4 recap](https://www.investing.com/news/insider-trading-news/tenev-robinhood-ceo-sells-26m-in-hood-stock-93CH-4604131)
 
 ### Recent corporate news (last 90 days)
-- 2026-04-28 — **Q1 2026 earnings**: Rev $1.07B (+15%), EPS $0.38 (+3%), net deposits $17.7B record. [Stocktitan](https://www.stocktitan.net/news/HOOD/robinhood-reports-first-quarter-2026-bc56vvjdeq05.html) | [Motley Fool transcript](https://www.fool.com/earnings/call-transcripts/2026/04/28/robinhood-hood-q1-2026-earnings-transcript/) | local: `raw/HOOD/press-releases/2026-04-28-Q1-2026-results.md`
+- 2026-04-29 — **Post-Q1 sell-off**: HOOD –14.35% intraday to $70.29; KBW $65 target / Barclays $82 / Bernstein held $130. [Coindesk](https://www.coindesk.com/markets/2026/04/28/robinhood-stock-shrugs-off-a-47-crash-in-crypto-revenue-thanks-to-a-massive-surge-in-event-betting) | [Yahoo Finance — analyst recap](https://finance.yahoo.com/markets/stocks/articles/robinhood-hood-story-shifting-analysts-200400976.html)
+- 2026-04-28 — **Q1 2026 earnings call**: Rev $1.07B (+15%), EPS $0.38 (+3%), net deposits $17.7B (record), adj EBITDA $534M (+14%). April crypto volumes "similar to Q1." Rothera JV with Susquehanna launches Q2. Gold card pace: 1M+ / $100M ARR this year. Opex guide raised $100M (Trump Accounts). [Motley Fool transcript](https://www.fool.com/earnings/call-transcripts/2026/04/28/robinhood-hood-q1-2026-earnings-transcript/) | local: [Q1 2026 earnings call](../../../raw/HOOD/transcripts/2026-04-28-Q1-2026-earnings-call.md) | local: [Q1 2026 PR](../../../raw/HOOD/press-releases/2026-04-28-Q1-2026-results.md)
 - 2026-04-23 — JP Morgan PT cut $113 → $92 (Neutral)
-- 2026-04-20 — Mizuho PT raised $105 → $115 (Outperform)
-- 2026-04-06 — Tenev $26M insider sale (10b5-1 plan)
-- 2026-Q1 — Rothera prediction-markets exchange launch (vertically integrated)
-- 2026-Q1 — Trump Accounts public-sector partnership announced; 5.5M signups
+- 2026-04-06 — Tenev $26M insider sale (10b5-1 plan); Mizuho PT cut $110 → $105 (Outperform)
+- 2026-Q1 — Rothera prediction-markets JV with Susquehanna (Q2 2026 live); Trump Accounts 5.5M signups
 - 2025-09-22 — **S&P 500 inclusion effective** ([CNBC](https://www.cnbc.com/2025/09/08/robinhood-shares-soar-14percent-after-getting-long-sought-addition-to-sp-500.html))
 - 2025-06-02 — **Bitstamp acquisition closed** ($200M; [CNBC](https://www.cnbc.com/2025/06/02/robinhood-bitstamp-crypto.html))
 - 2025-02-26 — **TradePMR acquisition closed** ($300M)
 
 ### Upcoming catalysts
-- **📅 Q2 2026 earnings — late July 2026** (est.) — first read on Bitstamp full-quarter run-rate, Rothera scaling beyond Q1, Gold attach durability past 4.3M
-- 📅 SEC PFOF rulemaking — open-ended; possible 2026 movement
-- 📅 Crypto Canada launch — 2026
+- **📅 Q2 2026 earnings — late July 2026** — first read on Rothera exchange live-quarter volumes, Bitstamp full-quarter contribution, crypto Q2 vs. Q1, Gold card $100M ARR milestone, NII path under deposit growth
+- 📅 Product events — May / July / fall 2026 (management signaled AI product disclosures at upcoming events)
+- 📅 Dividend tracker — live "this month" (May 2026; 17-day faster payout than competitors)
+- 📅 Canada crypto launch — mid-2026 (via WonderFi)
 - 📅 Singapore regulatory in-principle → final license
-- 📅 EU tokenization rollout milestones
+- 📅 SEC PFOF rulemaking — open-ended; possible 2026 movement
 
 ---
 
@@ -357,12 +369,12 @@ At $84.71 / ~21× FY26E adj EPS, HOOD trades **below the historical fintech-plat
 
 | Lens | Rating | Justification |
 |------|--------|---------------|
-| **B — Behavioral** | 🟢 **Moderate** | Crypto-revenue-driven sell-off (–45% from high) reflects *recency bias* — investors over-extrapolating crypto Q1 weakness despite NII / Gold / event-contracts compounding. Beta 2.46 amplifies retail recency-driven selling. JPM PT cut $113 → $92 immediately post-earnings is contrarian-friendly. |
-| **A — Analytical** | 🟢 **Moderate** | Multi-stream model genuinely diversified vs. 2021 (transaction 58% vs. 77%); NII 34% pillar; Gold annuity layer; FY25 +52% rev / +76% adj EBITDA growth at scale is rare. Multiple ~21× FY26E vs. peer set 20–25× and own historical 30×+ implies analytical mispricing if thesis holds. |
-| **I — Informational** | 🟡 **Moderate** | Q1 2026 print just dropped (2026-04-28); model-refresh cycle 5–10 trading days. Bitstamp + Rothera economics still under-modeled by sell-side. Prediction-markets is genuinely informational-edge territory (few analysts know how to model a vertically integrated event-contracts exchange). |
-| **T — Technical** | 🔴 **Weak** | –45% drawdown; broken multiple support levels; 5Y beta 2.46 elevated. Not yet base-building; momentum deteriorated. Mitigant: $45.56 52-wk low was mid-2025 — the low is older than the drawdown. |
+| **B — Behavioral** | 🟢 **Moderate-Strong** | –14.35% single-session sell-off on a *preannounced* Q1 miss (crypto –47% was known heading into print) amplified by beta 2.46. Market is punishing the quarterly snapshot when the structural story (NII +24%, Gold +36%, Rothera $3B April month, margin book +93% YoY) is unchanged. Bernstein: "weak Q1 already factored in." Classic over-extrapolation of a cyclical crypto quarter. At $70, Tenev's 10b5-1 sell band has been absorbed — downside pressure from scheduled insider sales is mechanically exhausted near this level. |
+| **A — Analytical** | 🟢 **Moderate** | At ~17–18× revised FY26E adj EPS (≈$3.50–3.75 [Estimate] post sell-side cuts), HOOD trades below the historical fintech-platform average (25–30×). Gold credit card at $15B annualized spend and $100M ARR pace, margin book +93% YoY, Rothera April $3B second-highest month — these are incremental disclosures from the Q1 call *not* in the initial press release that confirm the structural diversification narrative. The analytical mispricing is wider at $70 than at $84. |
+| **I — Informational** | 🟡 **Moderate** | Q1 2026 print + transcript just digested (2026-04-28/29). Sell-side model-refresh cycle 5–10 trading days. Bitstamp and Rothera JV economics still under-modeled. April crypto "about similar to Q1" was a negative surprise for Q2 consensus; partially absorbed in the sell-off. Informational edge: few analysts understand the economics of a vertically integrated event-contracts exchange (Rothera JV with Susquehanna). |
+| **T — Technical** | 🟡 **Weak-to-Moderate** *(improved from Weak)* | –54% from $153.86 high; broken multiple support levels. However, at $70 the stock is re-testing the Tenev 10b5-1 sell band ($69.53–70.12) which formed a natural support cluster. $45.56 52-wk low provides a floor that makes the Bear case ($55) only –22% from here. Momentum is poor but the technical setup is better at $70 than $85 — a defined risk level now exists. |
 
-**BAIT verdict**: 🟢 **Two-overlap (B + A; I Moderate; T Weak)** — Conviction **Moderate**. Better setup than a pure-momentum chase; clear analytical pricing edge if NII + Gold + Rothera durability assumption holds. Technical lens flags need to scale in vs. all-at-once.
+**BAIT verdict**: 🟢 **Two-overlap (B Moderate-Strong + A Moderate; I Moderate; T Weak-to-Moderate)** — Conviction upgraded from **Moderate → Moderate-High** at $70 vs. Moderate at $84. The $70 price point increases behavioral mispricing amplitude, narrows the downside to Bear case, and widens the Bull upside — all three improving at the new spot. Technical lens is improving but not yet base-building; scale-in framing still applies.
 
 ---
 
@@ -376,21 +388,23 @@ At $84.71 / ~21× FY26E adj EPS, HOOD trades **below the historical fintech-plat
 
 Probabilities sum to 100%. PT bands map to §8 fair-value ranges.
 
+*Note (2026-04-29 post-Q1 update)*: Scenarios and probabilities are **unchanged** from the initial ingest. Rationale: (1) The Q1 call did not change the structural investment thesis — NII +24%, Gold +36%, and Rothera April $3B second-highest month confirm the durability layer is compounding. (2) Crypto "about similar to Q1" in April is a near-term miss, not a secular change — the Bear case already assumes a 2022-style engagement contraction. (3) Sell-side EPS estimate cuts of 10–26% (KBW: –26%) are partially absorbed in the $15 price drop; they would need to be severe and sustained to alter scenario endpoints, not just Q1 miss. Scenarios will be re-evaluated at Q2 2026 earnings if crypto continues deteriorating without NII/Gold offset.
+
 ---
 
 ## Section 12 — Probability-Weighted Expected Value
 
-**PW EV** = 0.30 × $155 + 0.45 × $105 + 0.25 × $55 = **$46.50 + $47.25 + $13.75 = ~$107.50** (rounded **~$108**, conservatively **~$112** including modest dividend-equivalent buyback offset)
+**PW EV** (§11 scenarios unchanged — see rationale in §11 footnote) = 0.30 × $155 + 0.45 × $105 + 0.25 × $55 = **$46.50 + $47.25 + $13.75 = ~$107.50** (rounded **~$108**)
 
 | Anchor | Value |
 |--------|-------|
-| Live price | $84.71 |
+| Live price (Apr 29, 2026) | **$70.29** |
 | PW EV (18-mo) | **~$108** |
-| Implied return | **+27% / ~17%/yr** |
-| R/R (Bull / Bear) | ($155 – $84.71) / ($84.71 – $55) = $70.29 / $29.71 = **~2.4:1** |
-| Bull-vs-Bear PW-tilt | (0.30 × $155 + 0.25 × $55) / current = OK if 0.30 > 0.25 |
+| Implied return | **+54% / ~31%/yr** (vs. +27% at $84.71 ingest) |
+| R/R (Bull / Bear) — §11 anchored | ($155 – $70.29) / ($70.29 – $55) = $84.71 / $15.29 = **≈5.5:1** |
+| R/R — §8 fair-value zones (secondary framing) | ($145 – $70.29) / ($70.29 – $57.50) = $74.71 / $12.79 = **≈5.8:1** |
 
-**R/R Interpretation**: ~2.4:1 R/R using §11 Bull/Bear targets at the headline level. Fair-value-anchored R/R using §8 zones ($130–160 Bull-mid $145, $50–65 Bear-mid $57.5) = ($145 – $84.71) / ($84.71 – $57.50) = $60.29 / $27.21 = **~2.2:1** — internally consistent. Asymmetry favors longs at $84.71.
+**R/R Interpretation**: R/R improves dramatically from ~2.4:1 at $84.71 to ≈5.5:1 at $70.29 — anchored to the same §11 Bull $155 / Bear $55 scenario set per Rule #26. The asymmetry at $70 is the strongest since the ingest. Bear case ($55) is only –22% from current; Bull ($155) is +120%. PW EV implies +54% / ~31%/yr over 18 months at the new spot.
 
 ---
 
@@ -398,22 +412,22 @@ Probabilities sum to 100%. PT bands map to §8 fair-value ranges.
 
 **Thesis in one sentence**: Robinhood has structurally transformed from a 2021-era PFOF-concentrated retail brokerage into a multi-stream financial super-app (NII 34% / options 24% / event contracts 14% / crypto 13% / equities 8% / Gold-and-other 8%) compounding adj EBITDA at 75%+ and now trading at ~21× FY26E adj EPS post-crypto-driven 45% drawdown — an asymmetric setup if the durability layers (Gold, NII, Rothera, retirement) absorb crypto cyclicality through-cycle.
 
-**For a non-holder**: 🟢 **Initiate** — at $84.71 the multiple discounts crypto cyclicality + PFOF tail-risk; non-crypto franchise growth (NII +24%, Gold +36%, event contracts +320%, equities +46%) is structural. PW EV ~$108 implies +27% / ~17%/yr.
+**For a non-holder**: 🟢 **Initiate** — at **$70.29** the post-Q1 sell-off brings the stock to the low end of the prior entry zone; PW EV ~$108 implies +54% / ~31%/yr over 18 months; R/R ≈5.5:1 (Bull $155 / Bear $55). Non-crypto franchise growth structural; at ~17–18× revised FY26E adj EPS this is below fintech-platform norms. Scale in — technical trend is down; use $65–75 range, not all at once.
 
-**For a current holder**: 🟡 **Hold (Add on weakness below $80)** — thesis intact; Q1 2026 confirmed diversification. Add tranches on technical-only weakness toward $70–75 zone.
+**For a current holder**: 🟢 **Add** *(upgraded from Hold)* — $70 is at the lower bound of the prior entry zone ($70–85); thesis unchanged by Q1 call; the incremental call disclosures (margin book +93%, Gold card $15B annualized spend, Rothera April $3B second-highest month) confirm structural compounding. The prior "Add below $80" verb is now operative and strengthening. Scale in toward $65 if weakness continues.
 
-**🎯 Attractive entry zone**: **$70 – $85** (17–21× FY26E adj EPS; below sell-side avg PT $105–122; aligns with Tenev's 10b5-1 sell band $69–70)
-**🎯 Trim zone**: **$130 – $160** (32–40× FY26E adj EPS; full Rothera/tokenization/Trump credit)
-**🔴 Exit / avoid zone**: **>$165** (40×+ on FY26E; bull-case-priced-in; revisit only if FY27E adj EPS visibility supports >$5.00)
+**🎯 Attractive entry zone**: **$65 – $80** *(updated from $70–85)* — ~16–20× revised FY26E adj EPS ≈$3.50–3.75 [Estimate] post sell-side cuts; Bernstein $130 target implies +85% from $70; KBW's $65 floor defines the Bear-case-priced-in zone.
+**🎯 Trim zone**: **$130 – $160** (32–40× FY26E adj EPS; full Rothera/tokenization/Trump credit — unchanged)
+**🔴 Exit / avoid zone**: **>$165** (40×+ on FY26E; revisit only if FY27E adj EPS visibility supports >$5.00 — unchanged)
 
 **Thesis-break triggers** (would force re-rating):
 - ⚠️ **Binding SEC PFOF auction rule** affecting equities + options PFOF (would compress 30–50% of transaction-rev unit economics)
-- ⚠️ **Crypto revenue down >50% YoY for 2 consecutive quarters** combined with Bitstamp run-rate <$200M annualized (would invalidate diversification narrative)
+- ⚠️ **Crypto revenue down >50% YoY for 2 consecutive quarters** combined with Bitstamp run-rate <$200M annualized (would invalidate diversification narrative; Q1 2026 crypto –47% is the first quarter; Q2 is the watch point)
 - ⚠️ **Gold subscriber growth flat or declining for 2 consecutive quarters** (would invalidate annuity-layer thesis)
-- ⚠️ **Net deposits growth annualized rate falls below 10% for 2 consecutive quarters** (would invalidate engagement durability)
-- ⚠️ **CEO-led insider buy of >$5M on weakness** would *strengthen* thesis (currently pattern is one-sided sells)
+- ⚠️ **Net deposits growth annualized rate falls below 10% for 2 consecutive quarters** (would invalidate engagement durability; Q1 2026 = 22% — well above trigger)
+- ⚠️ **CEO-led insider buy of >$5M on weakness** would *strengthen* thesis (currently pattern is one-sided sells; $70 intraday low did not trigger a buy)
 
-**Next review trigger**: 📅 **Q2 2026 earnings (late July 2026)** — first full quarter of Bitstamp consolidation, Rothera durability test post-Q1 +320%, Gold attach beyond 4.3M, NII trajectory. If JPM-style revisions (PT $92 Neutral) prove right, Bear case dominates; if Mizuho-style (PT $115 Outperform) prove right, Base/Bull dominates.
+**Next review trigger**: 📅 **Q2 2026 earnings (late July 2026)** — the definitive read on: (1) crypto sequential recovery or further deterioration; (2) Rothera exchange live volumes (JV launches Q2); (3) Gold card $100M ARR pace; (4) NII path with full margin-book growth contribution; (5) Trump Accounts opex contribution and revenue offset. If Q2 crypto is down >50% again without NII/Gold offset, revisit Bear case probability.
 
 ---
 

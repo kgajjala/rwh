@@ -4,6 +4,62 @@
 
 ---
 
+## [2026-04-29] — Earnings Q1 FY26 — Thesis-Break Trigger Activated
+
+**Trigger**: Q1 2026 earnings released pre-market 2026-04-29. Domestic SSS printed **-8.7%**, materially worse than Q4 2025's -5.8% and **below the -7% thesis-break trigger** the wiki page committed to. FY2026 guide cut from "flat to LSD" to "low-single-digit DECLINE." Stock -4.24% intraday; -12.5% post-print vs. $189.37 pre-print close.
+
+**Sources reviewed**:
+- [StockStory — Q1 CY2026 sales below estimates summary](https://stockstory.org/us/stocks/nasdaq/wing/news/earnings/wingstop-nasdaqwing-reports-sales-below-analyst-estimates-in-q1-cy2026-earnings-stock-drops)
+- [StockTitan 8-K aggregator — Q1 2026 detailed financials](https://www.stocktitan.net/sec-filings/WING/8-k-wingstop-inc-reports-material-event-bbdd3422e711.html)
+- [Quiver Quantitative — Q1 2026 release](https://www.quiverquant.com/news/WINGSTOP+%28%24WING%29+Releases+Q1+2026+Earnings)
+- [TradingView — Q1'26 EPS estimate $1.03](https://www.tradingview.com/news/tradingview:cb2b073a21b59:0-wing-q1-26-earnings-eps-estimate-is-1-03-usd/)
+- [Yahoo Finance — RBC cautious post-print](https://finance.yahoo.com/markets/stocks/articles/rbc-capital-cautious-wingstop-wing-160336402.html)
+- [stockanalysis.com — live price $165.64 (-4.24%)](https://stockanalysis.com/stocks/wing/)
+- Local notes: [raw/WING/press-releases/2026-04-29_Q1-2026-results-notes.md](../../../raw/WING/press-releases/2026-04-29_Q1-2026-results-notes.md)
+- [link pending] — direct ir.wingstop.com Q1 2026 PR URL (returned 404 on initial fetch)
+
+### Q1 2026 Headline Numbers
+
+| Metric | Q1 2026 | YoY | vs. Estimate |
+|---|---|---|---|
+| Revenue | $183.7M | +7.4% | **MISS** ($192.9M est) |
+| **Domestic SSS** | **-8.7%** | (-920 bps vs. Q1 25 +0.5%) | Below guide ("flat to LSD") |
+| Adj EBITDA | $65.4M | +9.9% | beat |
+| **Adj EPS** | **$1.18** | +28% | **BEAT 15%** ($1.03 est) |
+| GAAP EPS | $1.08 | — | — |
+| Net new units | 97 (67 dom + 33 intl - 3 close) | +17% YoY total → 3,153 units | in-line |
+| Domestic AUV | $2.0M | -5% (from $2.1M) | — |
+| Digital mix | 72.5% | — | — |
+| Buyback | 374,324 sh @ $208.08 avg ($77.9M) | — | $313.4M auth remaining |
+
+**FY2026 guide change**: Domestic SSS cut from "flat to LSD" to **"low-single-digit DECLINE"**; global unit growth 15–16% reaffirmed; SG&A $146–149M; net interest ~$43M.
+
+### What Changed (vs. v2.9 baseline 2026-04-26)
+- **Header / Live Price**: $189.37 → **$165.64** (-12.5%); schema bumped to v2.12; Last Updated 2026-04-29
+- **Summary (§0)**: Refreshed with bearish Q1 read; thesis-break trigger callout; verbs flipped Watch / Reduce
+- **Key Stats**: Q1 2026 row added; AUV downward revision noted; buyback line refreshed; market cap $5.17B → $4.53B
+- **§1 Annual Financial Metrics**: New Q1 2026 row added to quarterly trajectory table — -8.7% SSS, $183.7M revenue, $65.4M adj EBITDA, $1.18 adj EPS, 97 net new units
+- **§6 Key Risks**: "Q1 SSS thesis-break" risk re-cast as **REALIZED [2026-04-29]**; new "Q2/Q3 deepens" risk added at Medium-High probability; multiple-compression risk probability raised
+- **§9 Catalyst & Sentiment Tracker**: Full refresh — price, drawdown deepened to -57%, post-print -12.5%; Q1 print added to recent news as 🔴 lead item; Q1 buyback noted ($208 avg); analyst section flagged for forthcoming target revisions; squeeze-setup callout marked "did NOT trigger"; Upcoming catalysts: Q1 ✅ DELIVERED, Q2 late-July promoted to dominant catalyst
+- **§10 BAIT**: T-Moderate downgraded to **T-Weak** (broken below support; squeeze setup failed); overall conviction **Lower-Moderate** (was Moderate)
+- **§11 Bull/Bear/Base**: Probabilities re-weighted **20/45/35** (was 30/45/25); Bull target $310 → $270; Base $225 → $190; Bear $145 → $130
+- **§12 PW EV**: Recomputed to **~$185** (was ~$230) → +12% / +8%/yr (vs. prior +22% / +14%/yr); R/R refreshed to **3.0:1** at $165 entry (mechanical improvement off lower price), but distribution of outcomes shifted against bull
+- **§13 Recommendation**: Thesis sentence rewritten; verbs flipped to **Watch (non-holder) / Reduce on bounce (current holder)**; entry zone lowered $140–$160 → **$135–$150**; trim zone lowered $280–$320 → **$220–$260**; thesis-break triggers refreshed (Q1 trigger marked ✅ TRIGGERED; Q2 -7%-or-worse promoted to primary)
+
+### Thesis Status
+- **Overall**: 🔴 **Weakened** — Q1 SSS print broke the page's defined -7% thesis-break trigger; FY26 guide explicitly cut. Cyclical-vs-structural debate moved from "leans cyclical" to "genuinely contested." The 22-year SSS-positive streak that anchored the cyclical-reset framing is now too far in the rear-view to function as the dominant prior.
+- **BAIT delta**: B-Strong (unchanged) | A-Moderate (unchanged — EBITDA +9.9% / EPS +28% confirm asset-light resilience) | I-Weak (unchanged) | T-Moderate → **T-Weak**
+- **Price target delta**: Bull $310 → **$270** | Base $225 → **$190** | Bear $145 → **$130**; probabilities 30/45/25 → **20/45/35**
+- **Catalyst & Sentiment delta**: Q1 print delivered bearish; squeeze setup did not trigger; analyst targets pending downward revision (RBC first cautious note); Q2 late-July is the new dominant catalyst
+
+### Recommendation
+- **For a non-holder**: 🟡 **Watch** — wait for Q2 print (late July) for sequential SSS inflection confirmation, OR pullback to **$135–$150** entry zone. Avoid the $165–$180 dead zone.
+- **For a current holder**: 🔴 **Reduce on bounce above $180** — thesis-break trigger activated; size down to a residual; hold residual through Q2 print to reassess.
+
+**Next review trigger**: **Q2 2026 earnings — late July 2026 (estimated)**. The single dominant variable: does sequential SSS improve from -8.7% trough or extend / deepen?
+
+---
+
 ## [2026-04-26] — v2.9 Schema Retrofit + Primary-Source Synthesis + Material Thesis Shifts
 
 **Trigger**: v2.9 schema migration (15-section → 13-section structure; Section 1 retired; old §3+§4 merged into new §2; Rule #21–#26 enforcement). Refresh in advance of Q1 2026 earnings on April 29 (3 days from this entry).

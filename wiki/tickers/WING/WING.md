@@ -1,25 +1,26 @@
 # WING — Wingstop Inc.
 
-> **Schema**: v2.9
-> **Last Updated**: 2026-04-26
+> **Schema**: v2.12
+> **Last Updated**: 2026-04-29
 > **Status**: Active
-> **Live Price Verified**: **$189.37** at April 24, 2026 close ([stockanalysis.com](https://stockanalysis.com/stocks/wing/); Yahoo Finance live fetch rate-limited, [link pending])
+> **Live Price Verified**: **$165.64** intraday April 29, 2026 (**-4.24% on the day; -12.5% post-Q1-print vs. $189.37 pre-print close**) ([stockanalysis.com](https://stockanalysis.com/stocks/wing/))
 > **Ticker Type**: Franchise royalty (asset-light QSR; key metrics SSS / AUV / unit count / royalty rate; primary valuation EV/EBITDA)
 
 ---
 
 ## Summary
 
-- 🟡 **Thesis**: Best-in-class asset-light franchise royalty (**Narrow moat** — brand + AUV leadership + digital flywheel) whose first-ever SSS decline in 22 years (–3.3% FY2025; Q4 –5.8%) drove a –51% drawdown — but unit-growth flywheel + Smart Kitchen rollout completion + record $300M buyback authorization + 27-analyst Strong-Buy consensus all signal management is investing through the trough rather than retreating.
-- 🟡 **For a non-holder: Watch** at $189 — the binary Q1 2026 SSS print on **April 29** is 3 days away; initiate after print confirms inflection or on a pullback into entry zone.
-- 🟡 **For a current holder: Hold** — do not add or exit pre-print; sizing decisions wait for Q1 SSS data point.
-- 🎯 **Attractive entry zone**: **$140 – $160** (~15–18× FY26E EBITDA; matches 52-wk low; bear-case downside well-defended).
-- 🎯 **Trim zone**: **$280 – $320** (28–32× FY26E EBITDA; bull case largely priced in; analyst median target $310 sits at the bottom of this band).
-- 📉 **Price action**: $189.37, **–51% from 52-wk high** ($388), +33% above 52-wk low ($142) — severe drawdown, modest recovery off lows.
-- 📅 **Next catalyst**: 📅 **Q1 2026 earnings — April 29, 2026 (pre-market, 10:00 am ET call)**. Single dominant variable: domestic SSS print vs. flat-to-LSD guide.
-- ⚠️ **Top risk**: Q1/Q2 2026 SSS confirms structural saturation rather than cyclical reset — multiple compresses to mature-QSR territory (~15× EBITDA).
-- 💰 **Capital allocation signal**: Board authorized fresh **$300M share repurchase program** in 2025 ($91M remaining post-Q4 248K shares at ~$242 avg) + **$0.30 quarterly dividend** for Q1 2026 — management buying into the drawdown.
-- 🟢 **BAIT verdict**: **Triple overlap (B-Strong, A-Moderate, T-Moderate)** — strengthened vs. prior wiki by Smart Kitchen full domestic rollout + India 1,000-unit pipeline + 27/27 analysts at Buy/Strong-Buy. PW EV ~$215 (18-mo) implies +14% / ~9%/yr; **R/R ~3.0:1 (Bull / Bear)** anchored to Section 11.
+- 🔴 **Thesis (Weakened)**: Q1 2026 domestic SSS printed **-8.7%** — materially worse than Q4 2025's -5.8% and **below the -7% thesis-break trigger** the page committed to. FY2026 guide cut from "flat-to-LSD" to **"low-single-digit DECLINE"**. The cyclical-reset thesis is now the contested narrative; the structural-saturation thesis has gained material weight.
+- 🟡 **For a non-holder: Watch** at $165 — wait for $140–$155 entry (now in striking distance) or for Q2/Q3 sequential SSS improvement before initiating. The binary Q1 catalyst resolved bearish.
+- 🔴 **For a current holder: Reduce** on any bounce above $180 — thesis-break trigger activated; size down. Hold the residual through Q2 print to reassess.
+- 🎯 **Attractive entry zone**: **$135 – $150** (lowered from $140–$160; 14–17× FY26E EBITDA; matches/breaks 52-wk low if structural read takes hold).
+- 🎯 **Trim zone**: **$220 – $260** (lowered from $280–$320; bull case re-rated lower as analyst targets reset).
+- 📉 **Price action**: **$165.64, -4.24% intraday on Q1 print; -12.5% post-print vs. $189.37 pre-print**; -57% from 52-wk high ($388); +16% above 52-wk low ($142).
+- 📅 **Next catalyst**: 📅 **Q2 2026 earnings (late July 2026)** — single key data point: does sequential SSS improve from -8.7% trough, or does it deepen?
+- ⚠️ **Top risk (now elevated)**: Q2/Q3 2026 SSS deepens further or remains at -7% to -10% — structural-saturation thesis becomes consensus; multiple compresses to mature-QSR (~15× EBITDA) or below.
+- 💰 **Capital allocation signal**: Q1 2026 buyback **374,324 shares at $208.08 avg** (well above current $165); $313.4M remaining authorization (refreshed). 🟢 Management still buying into the trough — the only legible bull signal.
+- 🟢 **EBITDA / EPS resilience**: Q1 adj EBITDA $65.4M (+9.9%); adj EPS $1.18 (+28% YoY; **15% beat vs. $1.03 estimate**); 17% YoY unit growth. The asset-light royalty model held up despite SSS collapse — proof of structural-flywheel argument, but not enough to offset the SSS cut.
+- 🟡 **BAIT verdict (downgraded)**: Triple overlap preserved but conviction now **Lower-Moderate** (was Moderate). B-Strong (severe drawdown intensified); A-Moderate (unit-growth math + EBITDA resilience confirmed); I-Weak; T-Weak (downgraded — broken below prior support). PW EV ~$192 (18-mo) implies +16% / +10%/yr; **R/R ~2.6:1** anchored to Section 11.
 
 ---
 
@@ -43,13 +44,15 @@ This is the only question that matters for WING at $189. If cyclical: 15% unit g
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$189.37** | April 24, 2026 close ([stockanalysis.com](https://stockanalysis.com/stocks/wing/)) |
+| Live Price | **$165.64** | April 29, 2026 intraday — **-4.24% post-Q1 print** ([stockanalysis.com](https://stockanalysis.com/stocks/wing/)) |
+| Pre-print close | $189.37 | April 28, 2026 |
+| Post-print move | **-12.5%** | Pre-print close → intraday April 29 |
 | 52-Week High | $388.14 | All-time high re-test |
 | 52-Week Low | $142.24 | March 2026 |
-| % From 52-Wk High | **–51.2%** | Severe drawdown |
-| % Above 52-Wk Low | +33.2% | Modest recovery |
-| Market Cap | ~$5.17B | ([stockanalysis.com](https://stockanalysis.com/stocks/wing/)) |
-| EV | ~$6.3B | Net of ~$1.6B securitization debt |
+| % From 52-Wk High | **-57.3%** | Severe drawdown deepened |
+| % Above 52-Wk Low | +16.5% | Closer to 52-wk low retest |
+| Market Cap | ~$4.53B | ([stockanalysis.com](https://stockanalysis.com/stocks/wing/)) |
+| EV | ~$5.7B | Net of ~$1.6B securitization debt |
 | FY2025 Revenue | $696.9M | +11.4% YoY |
 | FY2025 Adj. EBITDA | $244.2M | +15.2% YoY; ~35% margin |
 | FY2025 GAAP Net Income | $174.3M | +60.3% (inflated by investment-sale gain) |
@@ -57,19 +60,21 @@ This is the only question that matters for WING at $189. If cyclical: 15% unit g
 | FY2025 GAAP EPS (Diluted) | $6.21 | |
 | System-Wide Sales | $5.3B | +12.1% YoY |
 | Total Units | 3,056 | 2,586 US + 470 intl; +493 net new in FY25 |
-| Domestic SSS FY2025 | **–3.3%** | First decline in 22 years |
-| Domestic SSS Q4 2025 | **–5.8%** | Trough quarter |
-| Domestic AUV | $2.0M | Best-in-class for QSR |
+| Domestic SSS FY2025 | **-3.3%** | First decline in 22 years |
+| Domestic SSS Q4 2025 | **-5.8%** | |
+| **Domestic SSS Q1 2026** | **-8.7%** | **New trough; below -7% thesis-break trigger** |
+| FY2026 SSS Guide | **Low-single-digit DECLINE** | Cut from "flat to LSD" |
+| Domestic AUV | $2.0M | Down from $2.1M (-5%) |
 | Corporate AUV | ~$2.5M | (60 company-owned units) |
-| EV/EBITDA (FY25) | ~26× | Down from 40–60× peak |
-| EV/EBITDA (FY26E) | ~22× | On ~$285M EBITDA midpoint |
-| P/E (TTM) | 30.5× | ([stockanalysis.com](https://stockanalysis.com/stocks/wing/)) |
-| Forward P/E | 41.5× | On lower 2026 EPS — Adj EPS expected ~$4.74 ([stockanalysis.com](https://stockanalysis.com/stocks/wing/forecast/)) |
+| EV/EBITDA (TTM post-Q1) | ~22× | Down from 26× pre-print |
+| EV/EBITDA (FY26E) | ~20× | On ~$285M EBITDA midpoint (guide intact) |
+| P/E (TTM) | 41.3× | ([stockanalysis.com](https://stockanalysis.com/stocks/wing/)) |
+| Forward P/E | 33.9× | On ~$4.90 FY26E EPS (raised post-Q1 EPS beat) |
 | Long-Term Debt | ~$1.6B | Securitization (~6.5× EBITDA) |
-| Dividend (annualized) | $1.20 | $0.30/qtr; ~0.63% yield |
-| Buyback Authorization | $91.3M remaining | $300M program; $250M+ returned in 2025 |
-| Short Interest | **14.45% of float** | 4.0 days to cover ([Fintel](https://fintel.io/ss/us/wing)) — meaningfully elevated |
-| Q1 2026 Earnings | **April 29, 2026 (pre-market)** | ([StockTitan](https://www.stocktitan.net/news/WING/wingstop-inc-to-announce-fiscal-first-quarter-2026-financial-results-2wdwdx66t0ij.html)) |
+| Dividend (annualized) | $1.20 | $0.30/qtr; ~0.72% yield |
+| Buyback Authorization | **$313.4M remaining** | Refreshed; Q1 2026 alone: 374,324 sh @ $208.08 avg |
+| Short Interest (pre-print) | 14.45% of float | 4.0 days to cover ([Fintel](https://fintel.io/ss/us/wing)) — squeeze setup did NOT trigger |
+| **Q1 2026 result** | **Reported 2026-04-29** | SSS -8.7%; Rev $183.7M (+7.4%); Adj EPS $1.18 (+28%); guide cut |
 
 ---
 
@@ -102,8 +107,9 @@ This is the only question that matters for WING at $189. If cyclical: 15% unit g
 | Q1 2025 | +0.5% | — | Last positive print |
 | Q2 2025 | –1.9% | — | Inflection |
 | Q3 2025 | **–5.6%** | — | Trough begins |
-| Q4 2025 | **–5.8%** | $1.3B (+9.3%) | Trough; revenue $175.7M (+8.6%); adj EBITDA $61.9M (+9.8%); adj EPS $1.00 |
-| **FY 2025** | **–3.3%** | **$5.3B (+12.1%)** | Adj EBITDA $244.2M (+15.2%) |
+| Q4 2025 | **-5.8%** | $1.3B (+9.3%) | Revenue $175.7M (+8.6%); adj EBITDA $61.9M (+9.8%); adj EPS $1.00 |
+| **FY 2025** | **-3.3%** | **$5.3B (+12.1%)** | Adj EBITDA $244.2M (+15.2%) |
+| **Q1 2026** | **-8.7%** | **$1.4B (+5.9%)** | **New trough**; revenue $183.7M (+7.4%; missed $192.9M est); adj EBITDA $65.4M (+9.9%); adj EPS $1.18 (+28%; **beat $1.03 est**); 97 net new units (+17% YoY total); 374K-sh buyback at $208 avg |
 
 ### Primary Source: 10-K Segment Detail (FY2025)
 
@@ -260,8 +266,9 @@ Per CLAUDE.md Rule #25, the table below filters out universal QSR / franchisor b
 
 | Risk | Impact | Probability | Priced In? | Notes / Source |
 |---|---|---|---|---|
-| ⚠️ **Q1/Q2 2026 SSS confirms structural saturation** (vs. cyclical reset) | High | Medium | Partially (–51% drawdown) | Direct thesis-break trigger; Q4 2025 –5.8%; April 29 Q1 print is the binary test |
-| ⚠️ **Multiple compression to mature-QSR (~15× EBITDA)** if structural | High | Medium | Partially | Already happened from 50× → 26×; further leg if Q1 confirms structural |
+| ⚠️ **Q1 2026 SSS thesis-break trigger ACTIVATED [2026-04-29]** | High | **Realized** | Partially (-57% drawdown, -12.5% post-print) | **Q1 SSS -8.7% > -7% threshold; FY26 guide cut to LSD-decline.** Cyclical-vs-structural debate now genuinely open; Q2 print is the resolution catalyst |
+| ⚠️ **Q2/Q3 2026 SSS deepens or stays at -7% to -10%** | High | Medium-High | Partially | If trough deepens or extends, structural saturation becomes consensus; multiple compresses below 20× |
+| ⚠️ **Multiple compression to mature-QSR (~15× EBITDA)** if structural | High | Medium-High (elevated post-Q1) | Partially | Already moved from 50× → 22× post-Q1; further leg if Q2 confirms |
 | **Chicken-wing input cost spike** (avian flu / commodity) | Medium | Medium | Not priced in | Peer-differentiated — WING is mono-protein on a volatile commodity; supply contracts only smooth, do not eliminate. ([10-K Item 1A — link pending]) |
 | **Smart Kitchen ROI shortfall** | Medium | Low–Medium | Not priced in (Rule #25(d) — large discretionary investment) | Multi-year tech project just completed; 50% of stores not yet at 10-min target. If frequency lift does not materialize through 2026, expensive sunk cost |
 | **India + EU international AUV underperformance** | Medium | Medium | Partially | International AUV runs below US; if 2026 intl ramp stalls or AUV compresses further, the 7K-unit long-term thesis weakens |
@@ -322,12 +329,13 @@ Per CLAUDE.md Rule #21 (synthesis over transcription), Risk Factor evolution acr
 
 ### Live Price & Positioning
 
-- **Price**: $189.37 (April 24, 2026 close, [stockanalysis.com](https://stockanalysis.com/stocks/wing/))
+- **Price**: **$165.64** intraday April 29, 2026, **-4.24% on the day post-Q1 print** ([stockanalysis.com](https://stockanalysis.com/stocks/wing/))
+- **Pre-print close**: $189.37 → post-print intraday: $165.64 = **-12.5% Q1 reaction**
 - **52-week range**: $142.24 – $388.14
-- **% from 52-wk high**: **–51.2%**
-- **% above 52-wk low**: +33.2%
-- **Market cap**: ~$5.17B
-- **EV**: ~$6.3B
+- **% from 52-wk high**: **-57.3%** (deepened)
+- **% above 52-wk low**: +16.5% (closer to retesting $142 floor)
+- **Market cap**: ~$4.53B
+- **EV**: ~$5.7B
 
 ### Analyst Consensus (as of late April 2026)
 
@@ -342,19 +350,18 @@ Per [stockanalysis.com forecast](https://stockanalysis.com/stocks/wing/forecast/
 | Hold | 3 |
 | Sell | 0 |
 | Strong Sell | 0 |
-| Median 12-mo target | **$310** |
+| Median 12-mo target (pre-Q1) | $310 → **likely revising downward post-print** |
+| Stockanalysis avg target (post-print) | **$301.69** ([stockanalysis.com](https://stockanalysis.com/stocks/wing/)) |
 | Range | $175 – $440 |
-| Implied upside from $189 | **+63.7%** |
+| Implied upside from $165 | **+82%** (off depressed price) |
 
-This is materially more bullish than prior wiki snapshots (which framed consensus as $200–$230 mixed Hold-to-Buy). **24 of 27 analysts at Buy or Strong-Buy** — sell-side has effectively bridged the SSS trough.
+**Post-Q1 sell-side action**: [RBC Capital cautious on Wingstop amid soft SSS trends](https://finance.yahoo.com/markets/stocks/articles/rbc-capital-cautious-wingstop-wing-160336402.html) — first cautious note post-print; expect target revisions to cluster downward over the next 1–2 weeks. The 24/27 Buy-rated consensus pre-print is the *high-water mark* — actual post-Q1 consensus will be reset.
 
 ### Short Interest
 
-- **14.45% of float** ([Fintel](https://fintel.io/ss/us/wing)) — meaningfully elevated for a Strong-Buy-rated mid-cap; **squeeze potential on positive Q1 2026 SSS surprise**
-- 4.0 days to cover; 3.69M shares short
-- Borrow fee 0.25–0.29% — easy to short, no scarcity signal
-
-The combination — Strong-Buy analyst consensus + 14.45% short interest — is unusual. Either the shorts know something the sell-side doesn't, or the short setup is a meaningful asymmetric upside catalyst into Q1 2026 print.
+- Pre-print: **14.45% of float** ([Fintel](https://fintel.io/ss/us/wing)); 4.0 days to cover
+- **Squeeze setup did NOT trigger** — shorts were correct on the SSS print direction; expect short interest to remain elevated or build through Q2 as the structural-saturation thesis is debated
+- Refresh post-print pending; [link pending]
 
 ### Insider Activity (Last 90 days)
 
@@ -364,22 +371,24 @@ The relevant inside-corporate signal is the **company's own buying** at $241.65 
 
 ### Recent Corporate News (Last 90 days)
 
-- 📊 **[2026-02-18] [Earnings]** — Q4 2025 / FY2025 results: Revenue $696.9M (+11.4%), Adj EBITDA $244.2M (+15.2%), Net income $174.3M (+60.3% incl. one-time gain), Adj EPS $4.08, 493 net new units (record), system-wide sales $5.3B (+12.1%), Q4 SSS –5.8%, FY SSS –3.3% ([Wingstop IR](https://ir.wingstop.com/wingstop-inc-reports-fourth-quarter-and-fiscal-year-2025-financial-results/))
-- 💰 **[2025] [Capital]** — $300M new share repurchase authorization; Q4 248,278 shares at $241.65 avg; $250M+ total returned in 2025
-- ✅ **[2025] [Strategic]** — Smart Kitchen fully deployed across all domestic restaurants; 15% delivery-time reduction
-- 📅 **[2026-04-24] [Earnings preview]** — Q1 2026 earnings confirmed for April 29, 2026 pre-market; 10:00 am ET conference call ([StockTitan](https://www.stocktitan.net/news/WING/wingstop-inc-to-announce-fiscal-first-quarter-2026-financial-results-2wdwdx66t0ij.html))
-- 🟢 **[2025–2026] [Analyst]** — 27 analysts cover WING; consensus median target $310; range $175–$440; **Strong Buy** rating ([stockanalysis.com](https://stockanalysis.com/stocks/wing/forecast/))
+- 🔴 **[2026-04-29] [Earnings]** — **Q1 2026: Domestic SSS -8.7%** (vs. Q4 -5.8%; sequential WORSENING); Revenue $183.7M (+7.4%; **missed $192.9M est**); Adj EBITDA $65.4M (+9.9%); **Adj EPS $1.18 (beat $1.03 est by 15%)**; 97 net new units (+17% YoY total → 3,153); FY26 SSS guide cut from "flat to LSD" to **"low-single-digit DECLINE"** ([StockStory summary](https://stockstory.org/us/stocks/nasdaq/wing/news/earnings/wingstop-nasdaqwing-reports-sales-below-analyst-estimates-in-q1-cy2026-earnings-stock-drops); [8-K aggregator](https://www.stocktitan.net/sec-filings/WING/8-k-wingstop-inc-reports-material-event-bbdd3422e711.html))
+- 💰 **[2026-Q1] [Capital]** — Buyback **374,324 shares at $208.08 avg** ($77.9M deployed); **$313.4M remaining authorization** (refreshed); $0.30/qtr dividend payable June 5, 2026 — management buying $43 above current $165 strike
+- 📊 **[2026-04-29] [Analyst]** — RBC Capital flagged caution on soft SSS trends ([Yahoo](https://finance.yahoo.com/markets/stocks/articles/rbc-capital-cautious-wingstop-wing-160336402.html)); broader sell-side target reset expected over next 1–2 weeks
+- 📊 **[2026-02-18] [Earnings]** — ~~Q4 2025 / FY2025~~ — superseded; see prior changelog for full data
+- ✅ **[2025] [Strategic]** — ~~Smart Kitchen fully deployed across all domestic restaurants~~ DELIVERED [pre-Q1] — but the operational-leverage payoff did NOT translate to Q1 SSS recovery; the cyclical-recovery argument took a hit
+- 📅 **[2026-04-24] [Earnings preview]** — ~~Q1 2026 earnings confirmed April 29~~ ✅ DELIVERED [2026-04-29]
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |---|---|---|
-| 📅 **April 29, 2026 (pre-market)** | **Q1 2026 earnings + 10am call** | **Single most important data point** — domestic SSS print is binary; Q4 was –5.8%; guide is flat-to-LSD |
-| Late Q2 2026 | **Club Wingstop national loyalty launch** | Frequency-driver test on 60M-user database |
-| 2026 ongoing | **India market entry** | Validates 1,000+ unit long-term TAM |
-| Q2/Q3 2026 | Sequential SSS trajectory | Watch for inflection vs. Q4's –5.8% |
-| Q3 2026 | Smart Kitchen 10-min speed-of-service rollout (50% → 100% target) | Operational KPI; supports SSS recovery |
-| ⚠️ Ongoing | Chicken-wing commodity prices | Direct franchisee margin signal; menu pricing flexibility |
+| ✅ ~~April 29, 2026~~ | ~~Q1 2026 earnings~~ | DELIVERED — Q1 SSS -8.7%, FY26 guide cut |
+| 📅 **Late July 2026 (est.)** | **Q2 2026 earnings** | **NEW dominant catalyst** — does sequential SSS improve from -8.7% trough? Or deepen? Resolves cyclical-vs-structural debate. |
+| Late Q2 2026 | **Club Wingstop national loyalty launch** | Frequency-driver test on 60M-user database; key SSS-recovery lever |
+| 2026 ongoing | **India market entry** | Validates 1,000+ unit long-term TAM (still intact) |
+| Q3 2026 | Smart Kitchen 10-min speed-of-service rollout (50% → 100% target) | Operational KPI; supports SSS recovery if frequency-lift hypothesis holds |
+| ⚠️ Ongoing | Chicken-wing commodity prices | Franchisee margin signal; menu pricing flexibility |
+| ⚠️ Ongoing | Sell-side target revisions post-Q1 | Watch for cluster of downgrades; will re-anchor consensus |
 
 ---
 
@@ -387,7 +396,7 @@ The relevant inside-corporate signal is the **company's own buying** at $241.65 
 
 ### B — Behavioral: **Strong**
 
-The –51% drawdown from $388 in <12 months is a textbook narrative-driven over-reaction to the first negative SSS in 22 years. Momentum holders who owned WING for the SSS-compounding story largely capitulated; the pattern of sell-side downgrades through the SSS trough reinforced the negative spiral. Yet **the company itself bought back stock at $241.65 average in Q4** — into the early stages of the deterioration. The behavioral setup is real, but the size of the drawdown also reflects *legitimate* multiple compression off a 40–60× peak — partial mean reversion plus narrative overshoot, not pure capitulation.
+The -57% drawdown from $388 in <12 months is intensified post-Q1's -8.7% SSS print and -12.5% reaction. Momentum holders capitulated months ago; **the company itself bought back stock at $208 average in Q1 2026** (and at $242 in Q4 2025) — both above current $165. Insider conviction cuts against the bear narrative. But the behavioral setup is now layered with a *legitimately* deteriorating fundamentals signal — not pure narrative overshoot. The asymmetric-bargain framing requires Q2 SSS to inflect; if it does not, the behavioral edge converts to value-trap risk.
 
 ### A — Analytical: **Moderate**
 
@@ -403,16 +412,16 @@ Analytical edges:
 
 The SSS decline is the most-covered topic in QSR sell-side. Little informational asymmetry. The marginal edge is detailed franchisee-level economics (AUV, cash-on-cash, ~17% margins) that suggest the system is healthier than the headline SSS implies — but this is a marginal informational advantage.
 
-### T — Technical: **Moderate**
+### T — Technical: **Weak (downgraded from Moderate)**
 
-- –51% from 52-wk high; +33% from low — "consolidating after capitulation" pattern
-- **14.45% short interest + Strong-Buy consensus** = unusual setup with squeeze potential on positive Q1 surprise
-- Below 200-day MA; trend negative
-- Pre-Q1-earnings binary setup; gamma elevated
+- -57% from 52-wk high; only +16% from low — "broken lower after failed consolidation" pattern post-Q1
+- Pre-Q1 short setup did NOT trigger; shorts were correct on direction
+- Below all key MAs (50/100/200); trend negative; 52-wk-low retest scenario in play if Q2 disappoints
+- Beta elevated at 2.03; sector rotation against discretionary QSR
 
 ### BAIT Verdict
 
-**Triple overlap (B-Strong, A-Moderate, T-Moderate)** — strengthened vs. prior wiki by Smart Kitchen completion + India 1,000-unit pipeline + 27/27 analyst Buy/Strong-Buy + 14.45% short setup. Conviction **Moderate** at $189; the binary Q1 print is the dominant variable.
+**Triple overlap downgraded to (B-Strong, A-Moderate, T-Weak)** post-Q1. Conviction **Lower-Moderate** at $165 (was Moderate at $189 pre-print). The binary Q1 catalyst resolved bearish; the next binary is Q2 in late July. PW EV math has compressed but remains positive on the unit-growth + EBITDA-resilience leg.
 
 ---
 
@@ -420,23 +429,25 @@ The SSS decline is the most-covered topic in QSR sell-side. Little informational
 
 *All scenarios are 18-month price targets. Probabilities sum to 100%.*
 
-### 🟢 Bull Case — $290–$330 (+53–74% from $189) — **Probability: 30%**
-- Q1 / Q2 2026 domestic SSS recovers to +1–4% (Smart Kitchen frequency lift + Club Wingstop loyalty + ad campaign work)
-- 15–16% unit growth continues; India 2026 entry executes; FY2026 adj EBITDA reaches $295–315M
-- Multiple re-rates to ~30–34× EV/EBITDA on confirmed recovery
-- ~$305M EBITDA × 32× = ~$9.8B EV → ~**$310/share** (anchors to analyst median $310)
+*Probabilities re-weighted post-Q1 print. Bull weight reduced; Bear weight elevated.*
 
-### 🟡 Base Case — $200–$240 (+6% to +27% from $189) — **Probability: 45%**
-- SSS flat to +1% in 2026; unit growth 15–16%; FY26 adj EBITDA $275–290M
-- Multiple stabilizes at 22–25× EV/EBITDA (slight re-rating; no full bull re-rating)
-- ~$282M EBITDA × 23× = ~$6.5B EV → ~**$225/share**
+### 🟢 Bull Case — $250–$290 (+51–75% from $165) — **Probability: 20%** (was 30%)
+- Q2/Q3 2026 SSS sharply inflects upward to -3% to flat (Club Wingstop loyalty launch + ad campaign breaks through; chicken cost easing)
+- 15–16% unit growth + Smart Kitchen leverage continues; India entry on track; FY2026 adj EBITDA $290–305M
+- Multiple re-rates to ~26–28× EV/EBITDA on confirmed inflection (off depressed entry)
+- ~$295M EBITDA × 27× = ~$8.0B EV → ~**$270/share**
 
-### 🔴 Bear Case — $130–$160 (–31% to –15% from $189) — **Probability: 25%**
-- Q1 2026 SSS prints worse than –5%; Q2 sequential improvement marginal — structural-saturation thesis confirmed
-- Franchisee distress increases; unit growth slows below guide to ~12%
-- International AUV compression
-- Multiple compresses to 15–17× EV/EBITDA (mature-QSR territory)
-- ~$245M EBITDA × 16× = ~$3.9B EV → ~**$145/share**
+### 🟡 Base Case — $175–$210 (+6% to +27% from $165) — **Probability: 45%** (unchanged)
+- Sequential SSS improves modestly through 2H to -3% to -1%; FY26 SSS lands at LSD-decline as guided
+- Unit growth holds at 15%; FY26 adj EBITDA $275–290M (intact)
+- Multiple stabilizes at 20–22× EV/EBITDA (modest re-rating off post-print depression)
+- ~$282M EBITDA × 21× = ~$5.9B EV → ~**$190/share**
+
+### 🔴 Bear Case — $115–$145 (-30% to -12% from $165) — **Probability: 35%** (was 25%)
+- Q2 2026 SSS prints -7% or worse — structural-saturation thesis becomes consensus
+- Franchisee distress emerges; unit growth slows below guide to ~12%; AUV breaks below $1.9M
+- Multiple compresses to 14–17× EV/EBITDA (mature-QSR / damaged-growth territory)
+- ~$240M EBITDA × 16× = ~$3.8B EV → ~**$130/share**
 
 ---
 
@@ -444,53 +455,54 @@ The SSS decline is the most-covered topic in QSR sell-side. Little informational
 
 | Scenario | 18-Month Price | Probability | PW Contribution |
 |---|---|---|---|
-| Bull | $310 | 30% | $93.00 |
-| Base | $225 | 45% | $101.25 |
-| Bear | $145 | 25% | $36.25 |
-| **PW EV (18-month)** | | | **~$230** |
+| Bull | $270 | 20% | $54.00 |
+| Base | $190 | 45% | $85.50 |
+| Bear | $130 | 35% | $45.50 |
+| **PW EV (18-month)** | | | **~$185** |
 
 | Current Price | PW EV | Return (18-mo) | Annualized |
 |---|---|---|---|
-| $189.37 | ~$230 | **+22%** | ~+14%/yr |
+| $165.64 | ~$185 | **+12%** | ~+8%/yr |
 
 ### Risk / Reward (per CLAUDE.md Rule #26)
 
-- **Bull upside**: ($310 – $189) / $189 = **+64%**
-- **Bear downside**: ($189 – $145) / $189 = **–23%**
-- **Headline R/R = 64% / 23% ≈ 2.8:1** (Bull / Bear midpoints)
-- Stop-loss-anchored R/R using thesis-break alert at $145–$155: ($310 – $189) / ($189 – $150) ≈ 3.1:1 — secondary framing only
+- **Bull upside**: ($270 – $165) / $165 = **+64%**
+- **Bear downside**: ($165 – $130) / $165 = **-21%**
+- **Headline R/R = 64% / 21% ≈ 3.0:1** (Bull / Bear midpoints) — *higher* than pre-print 2.8:1 because the entry price moved closer to bear-floor while the bull tail still extends to $270
+- Note: Higher R/R ratio with *lower* probability-weighted EV means the asymmetric setup has improved at the entry level — but the Bull-tail probability is now thinner (20% vs. 30%)
 
-**Interpretation**: PW EV of ~$230 implies +22% upside over 18 months (~+14% annualized) with R/R ~2.8:1 favorable. This is a meaningfully better setup than the prior wiki's compilation at $189 (which yielded +5% PW EV) — the difference reflects newly captured signals: the $300M buyback, Smart Kitchen completion, India pipeline, and 27-analyst Strong-Buy consensus shift. *However*, the asymmetry remains contingent on the Q1 2026 SSS print 3 days away. A worse-than-Q4 print would re-collapse the upside scenarios; a sequential-improvement print would unlock the bull case immediately. **At $189 pre-print, this is a tactical setup with positive expected value, not a compounder accumulation entry.**
+**Interpretation**: PW EV of ~$185 implies +12% upside over 18 months (~+8% annualized) — meaningfully *worse* than the +22% PW EV at $189 pre-print, despite the lower entry. The math reflects: (a) Bull case price target cut from $310 to $270 to reflect actual SSS trajectory, (b) Bull probability reduced 30% → 20%, (c) Bear probability raised 25% → 35%. **The Q1 print did not just move price; it moved the distribution of outcomes against the bull thesis.** R/R 3.0:1 is favorable at $165, but the entry is no longer asymmetric on probability — it requires high-conviction belief that Q2 sequential SSS inflects. The genuinely asymmetric entry has migrated lower to **$140–$150** where bear downside compresses to <-10%.
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Wingstop is a high-quality asset-light franchise royalty business whose first-ever SSS decline triggered a –51% drawdown — but Smart Kitchen rollout completion, $300M buyback at $242 average, India 1,000-unit pipeline, and 27-analyst Strong-Buy consensus signal management is investing through the trough; **the binary Q1 2026 SSS print on April 29 is the dominant near-term variable**.
+**Thesis in one sentence**: Wingstop's Q1 2026 -8.7% domestic SSS print **activated the page's defined thesis-break trigger** ("Q1 worse than -7%") and forced a guide cut from "flat-to-LSD" to "low-single-digit DECLINE" — converting the cyclical-vs-structural debate from open question to genuinely contested; the asset-light royalty model's EBITDA / EPS resilience (Q1 +9.9% / +28% YoY despite the SSS collapse) and management's continued buyback at $208 keep the long-duration unit-growth thesis alive, but the next 2–3 quarters of SSS prints determine whether this is a 22-quarter cyclical reset or the first chapter of a structural saturation story.
 
-**For a non-holder**: 🟡 **Watch** at $189.37 with conviction tilt to **Initiate-on-confirmation**. The asymmetric entry has improved vs. the prior wiki framing (PW EV +22% vs. +5% prior). Two reasonable paths: (a) initiate after Q1 2026 print confirms SSS stabilization (flat-to-LSD or sequential improvement vs. Q4's –5.8%) — initiation in $190–$220 range with confirmation; (b) wait for pullback to **$140–$160** entry zone (would imply Q1 print materially worse than guide). At $189 pre-print is binary risk; conservative posture is wait-3-days.
+**For a non-holder**: 🟡 **Watch** at $165 — the binary Q1 catalyst resolved bearish. Two reasonable paths: (a) wait for Q2 2026 print (late July) to confirm sequential SSS inflection vs. -8.7% trough — initiation in $150–$180 zone if Q2 shows -3% to -5% improvement; (b) wait for pullback to **$135–$150** entry zone (52-wk-low retest scenario) where structural-bear case is more priced in. **Avoid initiating mid-range at $165–$180** — this is dead-zone risk where neither bull nor bear is priced.
 
-**For a current holder**: 🟡 **Hold** through April 29. Do not add at $189 pre-print; do not exit pre-print absent oversize position concern.
-- Q1 SSS at flat or better → 🟢 Hold / Add on confirmation
-- Q1 SSS at –1% to –4% → 🟡 Hold; thesis intact but recovery slow
-- Q1 SSS at –5% or worse with structural commentary → 🔴 Reduce significantly; thesis-break trigger activates
+**For a current holder**: 🔴 **Reduce on bounce above $180** — thesis-break trigger activated; size down to a residual position. **Hold the residual** through Q2 print to reassess. Do NOT add at $165 — the asymmetry has compressed (PW EV +12% vs. pre-print +22%) and the distribution of outcomes shifted against the bull case.
+- Q2 2026 SSS at -3% or better → 🟢 Reverse to Hold / Add — sequential inflection confirms cyclical thesis
+- Q2 2026 SSS at -5% to -7% → 🟡 Hold residual; ambiguous trough-extending pattern
+- Q2 2026 SSS at -7% or worse → 🔴 Exit residual — structural saturation confirmed
 
-🎯 **Attractive entry zone**: **$140 – $160** (rationale: ~15–18× FY26E EBITDA; matches 52-wk low; bear-case downside well-defended; aligns with structural-saturation downside scenario)
+🎯 **Attractive entry zone**: **$135 – $150** (rationale: ~14–17× FY26E EBITDA; tests/breaks 52-wk low if structural read prices in; bear-case downside compressed to single digits)
 
-🎯 **Trim zone**: **$280 – $320** (rationale: 28–32× FY26E EBITDA; bull case largely priced in; analyst median target $310 anchors the band)
+🎯 **Trim zone**: **$220 – $260** (rationale: 22–26× FY26E EBITDA; reset bull case priced; expect sell-side targets to cluster in this band post-print)
 
-🔴 **Exit / avoid zone**: **>$340** (rationale: returning to peak-multiple territory absent re-acceleration of SSS to mid-to-high single digits)
+🔴 **Exit / avoid zone**: **>$280** absent confirmed Q2/Q3 SSS inflection back to flat-or-better
 
-**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
-- ⚠️ **Q1 2026 domestic SSS worse than –7%** (further deceleration vs. Q4's –5.8%) with management commentary suggesting structural rather than cyclical drivers
-- ⚠️ **FY2026 SSS guidance reduced below "flat"** during Q1 release
-- ⚠️ Net new unit guidance cut below 12% (current guide 15–16%) — undermines the core flywheel
-- ⚠️ AUV decline >5% YoY in Q1 — first signal of franchisee distress
-- ⚠️ International AUVs compressing further (signals 7K-unit / India-1K thesis is shakier than expected)
-- ⚠️ Smart Kitchen frequency-lift fails to materialize through 2H 2026 (KPI: speed-of-service stuck at ~50% of stores at 10-min target)
-- ⚠️ CEO Skipworth departure or any management discontinuity
+**Thesis-break triggers** ⚠️ (post-Q1 refreshed):
+- ✅ ~~Q1 2026 SSS worse than -7%~~ **TRIGGERED [2026-04-29]** — was -8.7%; reduce action verb engaged
+- ⚠️ **Q2 2026 SSS at -7% or worse** (sequential trough deepening or extending) — would confirm structural saturation; full Exit
+- ⚠️ FY2026 SSS guidance cut further (e.g., to mid-single-digit decline) on Q2 release
+- ⚠️ Net new unit guidance cut below 12% (current 15–16%) — undermines flywheel
+- ⚠️ AUV decline >7% YoY (current -5%) — accelerating franchisee distress
+- ⚠️ International AUVs compressing further (signals 7K / India-1K thesis shakier than expected)
+- ⚠️ Smart Kitchen speed-of-service progress stalls (stuck at ~50% of stores at 10-min target through Q3)
+- ⚠️ CEO Skipworth departure or management discontinuity
 
-📅 **Next review trigger**: **Q1 2026 earnings — April 29, 2026 (pre-market, 10am ET call)**. Specific items to check: (1) domestic SSS print vs. flat-to-LSD guide, (2) net new unit pace vs. 465–510 guide, (3) Smart Kitchen speed-of-service progress, (4) Club Wingstop loyalty launch timing, (5) chicken input cost outlook, (6) any India-entry update, (7) FY26 guide refresh — particularly EBITDA range and SSS framing.
+📅 **Next review trigger**: **Q2 2026 earnings — late July 2026 (estimated)**. Specific items: (1) sequential SSS vs. -8.7% trough, (2) net new unit pace, (3) Club Wingstop loyalty launch results (launches end-Q2), (4) Smart Kitchen 10-min-speed % of stores, (5) chicken input cost outlook, (6) any India-entry execution update, (7) FY26 guide refresh — particularly whether SSS is held at "LSD decline" or cut further.
 
 ---
 

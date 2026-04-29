@@ -10,17 +10,23 @@
 
 ## Summary
 
-- 🟢 **Thesis**: Robinhood is no longer a meme-era PFOF brokerage — FY2025 delivered **$4.5B revenue (+52%)**, **$2.5B adj EBITDA (+76%)**, **$1.9B net income**, S&P 500 inclusion, and Bitstamp/TradePMR consolidations. Q1 2026 (reported 2026-04-28) confirmed structural diversification: **transaction revenue +7%, NII +24%, event-contracts +320%, Gold +36%** — crypto –47% was offset by the non-crypto franchise. Multi-stream model (NII 34% / options 24% / event contracts 14% / Gold+other 8%) is proving out through-cycle.
-- 🟢 **For a non-holder: Initiate** — at **$70.29** (post-Q1 sell-off, –54% from $153.86 high) the stock trades at ~17–18× revised FY26E adj EPS; at or below the lower end of the entry zone. Risk/reward strengthens materially vs. $84.71 ingest price.
-- 🟢 **For a current holder: Add** — $70 is the low end of the prior entry zone ($70–85); thesis intact; Q1 call confirmed NII structural growth (margin book +93% YoY), Gold credit card at $15B annualized spend, Rothera April volumes $3B second-highest. Price-level warrants upgrading from Hold to Add.
-- 🎯 **Attractive entry zone**: **$65 – $80** (updated; ~16–20× revised FY26E adj EPS ≈$3.50–3.75 [Estimate] post sell-side cuts).
-- 🎯 **Trim zone**: **$130 – $160** (32–40× FY26E adj EPS; full credit for Rothera + tokenization + Trump Accounts).
-- 📉 **Price action**: **$70.29, –14.35% session on 2026-04-29** (post-Q1 earnings reaction); **–54.3% from 52-wk high $153.86**; +54.3% above 52-wk low $45.56. Post-Q1 analyst actions: KBW $75→$65 (Market Perform), Barclays $89→$82 (Overweight), Bernstein held $130 (Outperform), Citizens held $155 (Outperform), Compass Point ≈$107 (Buy).
-- 📅 **Next catalyst**: **Q2 2026 earnings (late July 2026)** — first read on Rothera durability post-launch, Bitstamp full-quarter contribution, crypto recovery (or lack thereof: April "similar to Q1"), Gold card $100M ARR milestone.
-- ⚠️ **Top risk**: **Crypto revenue no near-term recovery** — management signaled April crypto volumes "about similar to Q1" on the call. Q2 will not show sequential improvement in crypto. Sell-side cutting FY26E EPS ≈10–26%.
-- ⚠️ **Second risk**: **PFOF regulatory tail** — SEC proposals remain live; transaction revenue 58% of total. *Not priced in.*
-- 🟢 **Moat verdict**: **Narrow-and-Widening** — brand + UX + Gold stickiness + Bitstamp licenses + TradePMR custody. Not yet SCHW scale, but widening optionality.
-- 🟢 **BAIT verdict**: **Two-overlap (B + A Moderate; I Moderate; T Moderate—improving at $70)** — Conviction **Moderate-High** at $70 vs. Moderate at $84. PW EV ~$108 (18-mo); R/R **≈2.9:1** (Bull $155 / Bear $55) at $70.29 per §11/§12.
+**Thesis** — Multi-stream financial super-app post-2021 transformation; non-crypto franchise (NII, Gold, event contracts, retirement) absorbing crypto cyclicality as designed. Q1 2026 print + intraday reset to $70 brings R/R from ~2.4:1 → **≈5.5:1**.
+
+🟢 **Non-holder: Initiate** ($65–80)  ·  🟢 **Holder: Add** (upgraded from Hold)
+
+| 52-wk range | Now | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|
+| $45.56 — $153.86 | **$70.29** (23rd %ile) | $65–80 | $105 / $108 | $130–160 | $155 | **5.5:1** |
+
+| BAIT | Moat | FY26E P/E | FCF yield | Short int. | Next catalyst |
+|---|---|---|---|---|---|
+| 2-overlap (B+A Mod), **Mod-High** | Narrow & widening | ~21× | ~3.5% [est] | 3.7% | 📅 Q2 — late July 2026 |
+
+**🟢 Why** — (1) Diversification working in real time: Q1 NII +24%, event contracts +320%, Gold +36% absorbed crypto –47%. (2) Q1 call disclosed margin book +93% YoY and Gold credit card $100M-ARR pace ($15B annualized spend) — non-crypto growth engines compounding. (3) $70 sits at the entry-zone floor (23rd %ile of 52-wk range); R/R ≈5.5:1 is class-leading.
+
+**⚠️ Why not** — (1) April crypto volumes "about similar to Q1" per Tenev — no Q2 sequential recovery signal. (2) CEO Tenev 50 sells / 0 buys over 5 yrs incl. $26M sale Apr 6, 2026 (governance negative). (3) PFOF rule risk explicitly **not priced in**; 58% of revenue is transaction-revenue exposed.
+
+**📅 Next read** — Q2 2026 earnings, late July. Watch: crypto sequential, Rothera durability post +320% (Susquehanna JV launch Q2), Gold attach beyond 4.3M, NII trajectory under current rate path.
 
 ---
 

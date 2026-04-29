@@ -10,18 +10,23 @@
 
 ## Summary
 
-- 🟢 **Thesis: Strengthened — turnaround confirmed.** Q2 FY2026 (Apr 28) printed **+7.1% U.S. comp / +4.3% U.S. transactions / +6.2% global comp / +2.6% international (first time all 10 markets positive in 9 quarters)** with op margin **+110 bps to 9.4%** and adj EPS $0.50 vs. $0.44 cons. Niccol called this *"the turn in our turnaround."* FY26 guide raised: comp ≥5% (from ≥3%), adj EPS **$2.25–$2.45** (from $2.15–$2.40).
-- ✅ **Two-quarter U.S. transaction trend confirmed** (Q1 FY26 +3% → Q2 FY26 +4.3%). Growth came **with reduced discounting** — i.e., structural traffic, not promotional sugar.
-- 🟢 **For a non-holder: Initiate-on-dip** — turnaround thesis materially de-risked. Initiate at $90–95 zone post-print; aggressive add at $85–92.
-- 🟢 **For a current holder: Hold (Add on dip)** — Niccol thesis confirmed; China overhang already resolved (Apr 9 Boyu close). Add only on retracement to entry zone.
-- 🎯 **Attractive entry zone**: **$90 – $97** (~38–41× FY26 raised-guide midpoint $2.35; cluster around analyst PT $102).
-- 🎯 **Trim zone**: **$120 – $130** (top of analyst PT band post-revision; ~50–55× FY26 mid).
-- 📈 **Price action**: intraday $97.28; **after-hours $102.68 (+5.55%)** on Q2 print; would re-test 52-wk high $104.82.
-- 📅 **Next catalyst**: **Q3 FY2026 earnings — late July 2026**. Test: does U.S. transaction trend hold third quarter; does op-margin recovery cadence confirm.
-- ⚠️ **Top risk now**: H2 FY26 beat-bar tightened by raised guide — disappointment vs. ≥5% comp / $2.25–$2.45 EPS now triggers more downside than the prior less-demanding guide. Partly priced in via after-hours move.
-- ⚠️ **Niccol-key-person risk**: 5% prob, Critical impact — turnaround validation makes Niccol *more* valuable, raising the disruption risk if he departs.
-- 🟢 **Moat verdict**: **Wide and re-sharpening** — Niccol playbook empirically working (transaction-driven comp + reduced discounting + restored seating).
-- 🟢 **BAIT verdict**: **A + I now Moderate-to-Strong** (turnaround thesis empirically supported, sell-side still catching up to raised guide). Conviction upgraded to **Moderate**. PW EV ~$128 (3-yr) vs. spot $97.28 = **+32% / ~10%/yr + 2.5% dividend ≈ ~12% total annualized**. R/R **~2.5:1** (Bull / Bear midpoints).
+**Thesis** — Niccol turnaround empirically confirmed: Q2 FY26 (Apr 28) printed +7.1% U.S. comp / +4.3% U.S. transactions / +6.2% global with op margin +110 bps; FY26 guide raised. Two consecutive quarters of U.S. txn growth **with reduced discounting** = structural traffic, not promo sugar.
+
+🟢 **Non-holder: Initiate-on-dip** ($90–97)  ·  🟡 **Holder: Hold (Add on dip)**
+
+| 52-wk range | Now | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|
+| $75.50 — $104.82 | **$97.28** (74th %ile · AH $102.68) | $90–97 | $125 / $128 | $120–130 | $160 | **~2.5:1** |
+
+| BAIT | Moat | FY26E P/E | Div yield | China JV | Next catalyst |
+|---|---|---|---|---|---|
+| Double (A+I Mod-Strong), **Moderate** | Wide & re-sharpening | ~41× | 2.55% | ✅ closed Apr 9 | 📅 Q3 FY26 — late July 2026 |
+
+**🟢 Why** — (1) Two-quarter U.S. transaction trend confirmed (Q1 +3% → Q2 +4.3%) with reduced discounting; growth = structural traffic, not promo sugar. (2) Niccol called Q2 *"the turn in our turnaround"*; FY26 guide raised — comp ≥5% (from ≥3%), adj EPS $2.25–$2.45 (from $2.15–$2.40). (3) China overhang resolved Apr 9 (Boyu JV $13B EV close); op margin +110 bps to 9.4%; all 10 international markets positive — first time in 9 quarters.
+
+**⚠️ Why not** — (1) ~41× raised mid-guide vs. historical 25–28× — premium tightens beat-bar; H2 disappointment now triggers larger downside than pre-print. (2) Niccol key-person risk magnified by turnaround validation — departure forces re-rate. (3) Stock at 74th %ile of 52-wk range; AH +5.55% already captured upside; entry zone barely below spot.
+
+**📅 Next read** — Q3 FY26 print, late July 2026. Watch: U.S. transaction trend extending to a third quarter; op-margin recovery cadence; international second-derivative.
 
 ---
 

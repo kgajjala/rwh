@@ -3,7 +3,7 @@
 *Position-agnostic per v2.1 schema (Core Rule #3): no portfolio allocation, no target %, no form (stock/options) splits. This file is pure analysis.*
 
 *Updated by LLM agent after each full thesis cycle, earnings update, or v2.x schema migration.*
-*Last updated: 2026-04-28 (SPOT initial v2.9 ingest added at rank 14b; prior 2026-04-26 v2.9 retrofit batch covered 22 tickers; conviction ranking re-sorted on Conviction × asymmetry × catalyst proximity).*
+*Last updated: 2026-04-28 (UNH refreshed on CMS 2027 MA Final Rate Notice ≈+2% + post-Q1 rally to ≈$368; SBUX refreshed earlier same day; SPOT initial v2.9 ingest added at rank 14b; prior 2026-04-26 v2.9 retrofit batch covered 22 tickers; conviction ranking re-sorted on Conviction × asymmetry × catalyst proximity).*
 *Prices verified via Yahoo Finance on 2026-04-24 (Friday close); reflects most recent verified state for each ticker page.*
 
 ---

@@ -4,6 +4,48 @@
 
 ---
 
+## [2026-04-28] — CMS 2027 MA Final Rate Notice ≈+2% — largest §6 overhang DE-RISKED; +4% rally to ≈$368
+
+**Trigger**: Two material events since 2026-04-26 baseline:
+1. **CMS 2027 Medicare Advantage Final Rate Notice finalized at ≈+2% average rate increase** (April 2026) — above bearish-flat sell-side baseline; multi-billion-dollar FY2027 EBIT tailwind for the MA cohort.
+2. **Sustained post-Q1 rally**: UNH +≈4% intraday on 2026-04-28 to ≈$368, post-Q1 cumulative ≈+14% in one week ($323 → ≈$368). Sector commentary frames Q1 MCR 83.9% as durable utilization-driven, not just reserve development; CMS rate notice is the second leg.
+
+**Sources reviewed**:
+- [CMS — Medicare Advantage Rates & Statistics](https://www.cms.gov/medicare/payment/medicare-advantage-rates-statistics) (CMS landing page; canonical 2027 Final Rate Notice PDF link backfill pending)
+- [raw/UNH/regulatory/2026-04-CMS-2027-MA-Final-Rate-Notice.md](../../../raw/UNH/regulatory/2026-04-CMS-2027-MA-Final-Rate-Notice.md) — newly created markdown summary
+- [Yahoo Finance — UNH](https://finance.yahoo.com/quote/UNH) (live verification: previous close $354.69 on Apr 27, 2026; pre-market $356.68 +0.56%; intraday Apr 28 ≈$368)
+- [UnitedHealth Group Q1 2026 PR (2026-04-21)](https://www.unitedhealthgroup.com/newsroom/2026/2026-04-21-uhg-reports-first-quarter-2026-results.html) — context for the rally
+- [24/7 Wall St — UNH/HUM April rally](https://247wallst.com/investing/2026/04/28/unitedhealth-and-humana-soar-in-april-which-healthcare-stock-is-winning-and-why/) (HTTP 403 during fetch — backfill pending)
+- [Quiver Quant — UNH 2026 outlook](https://www.quiverquant.com/news/UnitedHealth+Group+Stock+(UNH)+Opinions+on+Recent+Price+Surge+and+2026+Outlook)
+
+### What Changed
+- **Header**: Last Updated → 2026-04-28; Live Price → ≈$368 (+≈4% session); 52-wk high refreshed to $421.75; market cap ≈$334B.
+- **Summary**: refreshed; lead bullet now combines Q1 confirmation + CMS rate de-risk; added explicit "✅ Major de-risk (2026-04-28)" bullet quantifying ~$2–4B incremental FY27 EBIT.
+- **Business Overview**: appended sentence on the 2026-04-28 CMS rate finalization.
+- **Key Stats Snapshot**: price/cap/52-wk fields refreshed; rebound math added.
+- **§6 Key Risks**: row "CMS V28 MA risk-adjustment phase-in / 2027 MA rate cycle uncertainty" marked `~~struck~~ ✅ DE-RISKED 2026-04-28` with link to raw notes.
+- **§7 Industry Macro**: FY2027 MA rate bullet refreshed from "phase-in completes — dominant macro risk" → "✅ FINALIZED 2026-04-28 at ≈+2%" with sensitivity math.
+- **§8 Valuation**: multiples re-computed at ≈$368/$334B; FY27E normalized EPS anchor lifted from $25–28 → $26–29 on rate tailwind; fair-price ranges raised: base $400–430→$410–440, bull $500–550→$510–560.
+- **§9 Catalyst & Sentiment**: live price/52-wk/market cap refreshed; added 2026-04-28 CMS rate notice + price action news bullets at top of Recent Corporate News; CMS 2027 rate notice moved Upcoming → Delivered ✅.
+- **§10 BAIT (Analytical)**: refreshed — FY27 normalization gap "widened" by +2% rate notice; FCF yield ~4.8% at ≈$368.
+- **§11 Bull/Bear/Base**: probabilities shifted Bull 30%→**35%**, Bear 20%→**15%**, Base 50% unchanged. Midpoints lifted: Bull $525→$540, Base $415→$430, Bear $275→$285.
+- **§12 PW EV**: recomputed — PW EV $420→**$447**; +21% / 24mo at ≈$368; R/R 2.1:1 preserved on lifted absolute base.
+- **§13 Recommendation**: thesis sentence refreshed; entry zone $300–$340→$310–$345; trim zone $470–$520→$480–$530; thesis-break trigger "MA rate cycle adverse cut" marked DE-RISKED 2026-04-28 alongside the prior Q1 MLR de-risk.
+
+### Thesis Status
+- **Overall**: **STRENGTHENED** — second material de-risk in 7 days. Q1 closed the recoverability question; the CMS rate notice closes the 2027 macro question. DOJ tail risk and Q2 sequential MCR remain the live unresolved variables.
+- **BAIT delta**: Quadruple overlap maintained (B-Strong/A-Strong/I-Strong/T-Moderate). A (Analytical) edge widened on the FY27 normalization gap; B (Behavioral) edge compressed further as the price has rallied.
+- **Price target delta**: Bull $525→$540 | Base $415→$430 | Bear $275→$285. PW EV $420→$447.
+- **Catalyst & Sentiment delta**: short interest continues to bleed; Goldman Sachs and others raised targets post-Q1; CMS rate notice removes the largest macro overhang on the cohort.
+
+### Recommendation
+- **For a non-holder**: 🟢 Initiate / Watch on pullback — ≈$368 still defensible (PW EV ~$447, +21% / 24mo); patient buyers wait sub-$345.
+- **For a current holder**: 🟢 Hold / Add on dips — both Q1 + CMS rate confirm thesis; trim only above $480.
+
+**Next review trigger**: **Q2 2026 earnings — late July 2026** (sequential MCR; FY26 guide refresh; Optum Health quarterly trajectory; DOJ status).
+
+---
+
 ## [2026-04-26] — v2.9 Schema Retrofit
 
 **Trigger**: Apply CLAUDE.md v2.9 schema retrofit to UNH (single-ticker serial run).

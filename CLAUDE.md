@@ -1,4 +1,4 @@
-# CLAUDE.md — kg-invest-wiki Schema (v2.9)
+# CLAUDE.md — kg-invest-wiki Schema (v2.10)
 
 This is the instruction file for the LLM agent that maintains this wiki.
 **Read this file at the start of every session before making any changes to `wiki/`, `raw/`, or `outputs/`.**
@@ -13,7 +13,7 @@ session starts from the latest synthesis, not a blank page.
 
 - **Owner**: Karthik G
 - **Started**: April 2026
-- **Schema version**: v2.9 (April 2026)
+- **Schema version**: v2.10 (April 2026)
 - **Model**: Karpathy LLM Wiki pattern, adapted
 
 ### What this wiki is *not*
@@ -42,7 +42,6 @@ kg-invest-wiki/
 │   └── analyses/                 ← Legacy folder — pre-v2 imports (read-only)
 ├── wiki/                         ← LLM-owned. Write and maintain everything here.
 │   ├── index.md                  ← Master catalog. Updated on every ingest.
-│   ├── log.md                    ← Append-only event log. Never delete entries.
 │   ├── watchlist.md              ← Cross-ticker attractiveness ranking (no allocation)
 │   ├── tickers/
 │   │   └── [TICKER]/
@@ -71,8 +70,11 @@ kg-invest-wiki/
    or stock/options split anywhere in the wiki. Price-level entry/exit *valuation*
    ranges (e.g., "attractive below $140") are allowed — those are valuation, not sizing.
 4. **Always update `index.md`** when adding or substantially changing a wiki page.
-5. **Always append to `log.md`** with a timestamped entry for every session action.
-   Never delete or rewrite existing entries.
+5. **Per-ticker `changelog.md` is the only event log**. The session-wide
+   `wiki/log.md` was retired in v2.10 — every material action lives in
+   the relevant ticker's `changelog.md` entry, which is the durable
+   audit trail. Cross-ticker / schema-only events live in commit
+   messages.
 6. **Source from primary sources**: SEC filings, earnings releases, official IR
    pages, transcripts, conference materials. Anything not from primary sources must
    be tagged `[Estimate]`, `[Analyst consensus]`, `[Management guidance]`, or
@@ -89,7 +91,8 @@ kg-invest-wiki/
 10. **Always push to `origin` after every commit**. Local commits are not the
     source of truth — the remote is. After any `git commit` (schema change,
     ingest, weekly run, manual update), immediately run `git push`. If the push
-    fails, log the failure in `log.md` and surface it to the user.
+    fails, surface the failure to the user (and to the affected ticker's
+    `changelog.md` if the failure is mid-Workflow-B).
 11. **One wiki page per ticker**. The per-ticker folder contains exactly two
     files: `[TICKER].md` (the single consolidated wiki page covering business
     overview, all 15 thesis sections, and embedded financial tables) and
@@ -780,7 +783,6 @@ to: `outputs/[TICKER]/[TICKER]_initial_analysis_YYYY-MM-DD.md`
 - `wiki/index.md` — add row, refresh ticker summary, refresh last-updated date.
   Ticker column links to `tickers/[TICKER]/[TICKER].md` (the single wiki page).
 - `wiki/watchlist.md` — add row in attractiveness ranking
-- `wiki/log.md` — append entries for INGEST, UPDATE, REPORT actions
 
 ### Step 8 — Commit and push
 - `git add` all changed files (raw additions, wiki page, changelog, index, watchlist, log, outputs)
@@ -867,11 +869,7 @@ Required content:
 - **Paused tickers footer**: one-line list of paused tickers with pause date
   (`PAUSED: ABNB (since 2026-05-15), DELL (since 2026-06-02)`). If empty, omit.
 
-### Step 5 — Log
-- Append all per-ticker actions to `wiki/log.md`.
-- Append a final `WEEKLY` entry summarizing the run.
-
-### Step 6 — Commit and push
+### Step 5 — Commit and push
 - `git add` all changed files
 - `git commit` with message `WEEKLY YYYY-MM-DD: [N] events / [M] quiet — [one-line headline]`
 - `git push origin <branch>`
@@ -909,8 +907,7 @@ Triggered by user commands:
 7. Update `wiki/watchlist.md`: remove the row from the Conviction Ranking
    and append/update the "Paused Tickers" footer section with
    `[TICKER] — paused since YYYY-MM-DD`.
-8. Append a `LOG ... PAUSE [TICKER] ...` entry to `wiki/log.md`.
-9. Commit (`PAUSE [TICKER]: <one-line reason>`) and push.
+8. Commit (`PAUSE [TICKER]: <one-line reason>`) and push.
 
 ### C.2 — Resume (with catch-up incremental)
 
@@ -978,10 +975,8 @@ the thesis is faithfully brought current, not just price-stamped.
    `Punchline`), `wiki/index.md` (Status → `Active`, refresh row),
    `wiki/watchlist.md` (re-insert into Conviction Ranking, remove from
    Paused footer).
-9. Append `LOG ... RESUME [TICKER] ...` and any sub-actions (`FETCH`,
-   `UPDATE`, `PRICE`) to `wiki/log.md`.
-10. Commit (`RESUME [TICKER]: catch-up over [N]-day window — <headline>`)
-    and push.
+9. Commit (`RESUME [TICKER]: catch-up over [N]-day window — <headline>`)
+   and push.
 
 ---
 
@@ -1082,44 +1077,6 @@ Append-only. Most recent entry first.
 
 ---
 
-## log.md Format
-
-Each entry starts with a fixed prefix for grep / Unix parseability:
-
-```
-LOG [YYYY-MM-DD HH:MM] [ACTION] [SCOPE] — [description]
-```
-
-ACTION verbs (extend as needed):
-- `INIT` — wiki initialization
-- `INGEST` — first-run ingest of a new ticker (Workflow A)
-- `UPDATE` — wiki file modification
-- `WEEKLY` — Friday-evening weekly run summary
-- `LINT` — schema / consistency lint pass
-- `FETCH` — raw material fetch
-- `PRICE` — live price verification
-- `REPORT` — polished output report generation
-- `SCHEMA` — change to CLAUDE.md itself
-- `PUSH` — `git push` to origin (record success or failure)
-- `DELETE` — file deletion
-- `PAUSE` — ticker moved from Active → Paused (Workflow C.1)
-- `RESUME` — ticker moved from Paused → Active with catch-up (Workflow C.2)
-
-Examples:
-```
-LOG 2026-04-24 22:00 SCHEMA ALL — Migrated CLAUDE.md to v2 (position-agnostic, weekly cron, removed sizing).
-LOG 2026-04-24 22:30 INGEST DASH — Fetched 10-K, last 4 transcripts + press releases, recent 8-Ks, DEF 14A.
-LOG 2026-04-24 22:45 PRICE DASH — Live price verified at $X via Yahoo Finance.
-LOG 2026-04-24 23:30 UPDATE DASH — Wrote DASH.md (single consolidated page) + changelog.md.
-LOG 2026-04-24 23:35 REPORT DASH — Generated outputs/DASH/DASH_initial_analysis_2026-04-24.md.
-LOG 2026-04-24 23:40 UPDATE index.md, watchlist.md — Refreshed for DASH.
-LOG 2026-04-24 23:45 PUSH origin main — Pushed schema + DASH ingest commits.
-LOG 2026-04-25 18:00 WEEKLY ALL — 9 tickers scanned. 2 with material events (DASH earnings, RKT analyst cluster). 7 quiet. Summary in outputs/weekly/2026-04-25_weekly_summary.md.
-LOG 2026-04-25 18:05 PUSH origin main — Pushed weekly run.
-```
-
----
-
 ## index.md Maintenance
 
 Required columns (no allocation column):
@@ -1173,8 +1130,9 @@ ticker type is encountered, or a new update operation is needed:
 1. **Update this file first.**
 2. **Then apply the change to wiki content.**
 3. **Commit with a descriptive message** (`SCHEMA: [what changed and why]`).
-4. **Append a `LOG ... SCHEMA ALL ...` entry** to `wiki/log.md`.
-5. **Push to `origin`** and append a `LOG ... PUSH ALL ...` entry.
+4. **Push to `origin`**. The commit message is the audit trail for
+   schema-level changes (per Core Rule #5; `wiki/log.md` was retired
+   in v2.10).
 
 Version history is tracked via Git. v2 is current. Major changes bump the
 version (v3, v4, ...). Minor edits within a version are fine without bump.
@@ -1528,3 +1486,40 @@ Model") covered the same conceptual ground (revenue composition).
   need v2.6+v2.7+v2.8+v2.9 retrofit (the structural renumbering
   is the most disruptive piece — recommend one-pass per ticker
   applying all four schema versions together).
+
+### v2.10 changelog (April 2026 — retire `wiki/log.md`)
+
+User review identified that `wiki/log.md` was duplicative of the
+per-ticker `changelog.md` audit trail and added writing burden to
+every workflow without providing analytical value. Per-ticker
+`changelog.md` already captures the substantive event log for each
+ticker, and commit messages capture cross-cutting / schema-only
+events. The session-wide `LOG [YYYY-MM-DD HH:MM] [ACTION]` format
+was a grep-friendly artifact from v1 that has not earned its keep
+in v2 practice.
+
+- **Retired**: `wiki/log.md` and the entire "log.md Format" section
+  (ACTION verbs INIT / INGEST / UPDATE / WEEKLY / LINT / FETCH /
+  PRICE / REPORT / SCHEMA / PUSH / DELETE / PAUSE / RESUME).
+- **Core Rule #5 rewritten**: now states that per-ticker
+  `changelog.md` is the only event log; cross-ticker / schema-only
+  events live in commit messages.
+- **Core Rule #10** (push discipline) updated: push failures surface
+  to the user (and to the affected ticker's `changelog.md` if
+  mid-Workflow-B) rather than to `log.md`.
+- **Workflow A Step 7**: removed the `wiki/log.md` line.
+- **Workflow B Step 5 (was "Log") and Step 6 (Commit)**: collapsed
+  into a single "Step 5 — Commit and push."
+- **Workflow C.1 / C.2**: removed `LOG ... PAUSE` and `LOG ...
+  RESUME` append steps; renumbered remaining steps.
+- **Schema Co-Evolution**: removed the `LOG ... SCHEMA ALL` and
+  `LOG ... PUSH ALL` append steps; commit message is now the
+  schema-level audit trail.
+- **Directory layout diagram**: removed `log.md` from the
+  `wiki/` tree.
+- **File deletion**: `wiki/log.md` deleted in the same commit as
+  the schema bump. Historical content preserved in git history.
+
+Historical references to `log.md` in earlier v2 changelog entries
+(v2.1, v2.5) are left intact as they describe the schema state at
+that version. They do not imply current-state behavior.

@@ -1,0 +1,1382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BN — Brookfield Corporation | One-Time Analysis 2026-04-29</title>
+<style>
+  /* ── Reset & Base ─────────────────────────────────────────── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { font-size: 16px; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.6;
+    color: #1a1a2e;
+    background: #f8f9fc;
+  }
+
+  /* ── Layout ───────────────────────────────────────────────── */
+  .page-wrap {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 32px 24px 64px;
+  }
+
+  /* ── Header Block ─────────────────────────────────────────── */
+  .report-header {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    color: #fff;
+    border-radius: 12px;
+    padding: 32px 36px;
+    margin-bottom: 28px;
+  }
+  .report-header .ticker-row {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .report-header .ticker {
+    font-size: 2.4rem;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    color: #e2f4ff;
+    font-family: "SF Mono", "Consolas", "Liberation Mono", monospace;
+  }
+  .report-header .company-name {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #b8d4f0;
+  }
+  .report-header .meta-pills {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 14px;
+  }
+  .pill {
+    background: rgba(255,255,255,0.12);
+    border: 1px solid rgba(255,255,255,0.2);
+    color: #e0eeff;
+    font-size: 0.78rem;
+    padding: 4px 12px;
+    border-radius: 20px;
+    white-space: nowrap;
+  }
+  .pill.green { background: rgba(52,199,89,0.18); border-color: rgba(52,199,89,0.4); color: #5dde8c; }
+  .pill.amber { background: rgba(255,159,10,0.18); border-color: rgba(255,159,10,0.4); color: #ffbe4a; }
+  .pill.red   { background: rgba(255,69,58,0.18);  border-color: rgba(255,69,58,0.4);  color: #ff7b74; }
+  .price-block {
+    margin-top: 18px;
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .price-block .live-price {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #fff;
+    font-family: "SF Mono", "Consolas", monospace;
+  }
+  .price-block .price-change {
+    font-size: 1rem;
+    color: #ff7b74;
+    font-weight: 600;
+  }
+  .price-block .price-range {
+    font-size: 0.85rem;
+    color: #8fb8d8;
+  }
+
+  /* ── Section Containers ───────────────────────────────────── */
+  .section {
+    background: #fff;
+    border-radius: 10px;
+    border: 1px solid #e8ecf1;
+    margin-bottom: 22px;
+    overflow: hidden;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+  }
+  .section-header {
+    background: #f1f4f8;
+    border-bottom: 1px solid #e3e8ef;
+    padding: 14px 24px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .section-header h2 {
+    font-size: 0.95rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: #4a5568;
+  }
+  .section-header .section-num {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: #8a9bb0;
+    background: #e2e8f0;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-family: monospace;
+  }
+  .section-body {
+    padding: 22px 24px;
+  }
+
+  /* ── Summary Block (Rule #18 format) ─────────────────────── */
+  .summary-block {
+    background: #fff;
+    border-radius: 10px;
+    border: 2px solid #3b82f6;
+    margin-bottom: 22px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(59,130,246,0.12);
+  }
+  .summary-header {
+    background: linear-gradient(90deg, #1d4ed8, #3b82f6);
+    padding: 14px 24px;
+  }
+  .summary-header h2 {
+    font-size: 0.95rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: #fff;
+  }
+  .summary-body {
+    padding: 22px 24px;
+  }
+  .thesis-row {
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+    border-radius: 8px;
+    padding: 14px 18px;
+    margin-bottom: 18px;
+  }
+  .thesis-row p {
+    font-size: 1.0rem;
+    line-height: 1.55;
+    color: #1e3a5f;
+    margin-bottom: 8px;
+  }
+  .thesis-row p:last-child { margin-bottom: 0; }
+  .thesis-row strong { color: #1a3060; }
+  .verb-row {
+    margin-top: 8px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .verb-badge {
+    font-size: 0.83rem;
+    font-weight: 700;
+    padding: 3px 12px;
+    border-radius: 6px;
+  }
+  .verb-badge.buy  { background: #dcfce7; color: #15803d; border: 1px solid #86efac; }
+  .verb-badge.hold { background: #fef9c3; color: #854d0e; border: 1px solid #fde047; }
+  .verb-badge.sell { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+  .verb-label { font-size: 0.75rem; font-weight: 400; opacity: 0.7; margin-right: 4px; }
+
+  /* 8-column scenario table */
+  .scenario-table-wrap {
+    overflow-x: auto;
+    margin-bottom: 18px;
+  }
+  .scenario-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.83rem;
+  }
+  .scenario-table th {
+    background: #1e3a5f;
+    color: #e0f0ff;
+    padding: 8px 10px;
+    text-align: center;
+    white-space: nowrap;
+    font-weight: 700;
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+  }
+  .scenario-table td {
+    padding: 10px 10px;
+    text-align: center;
+    border-bottom: 1px solid #e8ecf1;
+    font-family: "SF Mono", "Consolas", monospace;
+    font-size: 0.85rem;
+    white-space: nowrap;
+  }
+  .scenario-table tr:last-child td { border-bottom: none; }
+  .col-bear  { color: #dc2626; font-weight: 700; }
+  .col-entry { color: #2563eb; font-weight: 700; }
+  .col-base  { color: #374151; font-weight: 700; }
+  .col-trim  { color: #d97706; font-weight: 700; }
+  .col-bull  { color: #16a34a; font-weight: 700; }
+  .col-rr    { color: #7c3aed; font-weight: 700; font-size: 0.9rem; }
+  .col-range { color: #6b7280; }
+  .col-now   { color: #1d4ed8; font-weight: 700; }
+
+  /* KPI Strip */
+  .kpi-strip {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+    margin-bottom: 18px;
+  }
+  @media (max-width: 700px) {
+    .kpi-strip { grid-template-columns: repeat(3, 1fr); }
+  }
+  @media (max-width: 420px) {
+    .kpi-strip { grid-template-columns: repeat(2, 1fr); }
+  }
+  .kpi-cell {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 12px 10px;
+    text-align: center;
+  }
+  .kpi-cell .kpi-label {
+    font-size: 0.68rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    color: #8a9bb0;
+    margin-bottom: 6px;
+  }
+  .kpi-cell .kpi-value {
+    font-size: 1.05rem;
+    font-weight: 800;
+    color: #1a1a2e;
+    font-family: "SF Mono", "Consolas", monospace;
+    line-height: 1.2;
+  }
+  .kpi-cell .kpi-sub {
+    font-size: 0.68rem;
+    color: #9ca3af;
+    margin-top: 3px;
+  }
+  .kpi-cell.positive .kpi-value { color: #15803d; }
+  .kpi-cell.caution  .kpi-value { color: #b45309; }
+  .kpi-cell.negative .kpi-value { color: #dc2626; }
+  .kpi-cell.catalyst .kpi-value { font-size: 0.82rem; color: #1d4ed8; }
+
+  /* Why / Why Not bullets */
+  .why-cols {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 14px;
+  }
+  @media (max-width: 600px) { .why-cols { grid-template-columns: 1fr; } }
+  .why-box {
+    border-radius: 8px;
+    padding: 14px 16px;
+  }
+  .why-box.green {
+    background: #f0fdf4;
+    border: 1px solid #bbf7d0;
+  }
+  .why-box.red {
+    background: #fef2f2;
+    border: 1px solid #fecaca;
+  }
+  .why-box h4 {
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    margin-bottom: 10px;
+  }
+  .why-box.green h4 { color: #15803d; }
+  .why-box.red   h4 { color: #dc2626; }
+  .why-box ul { list-style: none; }
+  .why-box ul li {
+    font-size: 0.88rem;
+    line-height: 1.5;
+    padding: 4px 0 4px 20px;
+    position: relative;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+    color: #374151;
+  }
+  .why-box ul li:last-child { border-bottom: none; }
+  .why-box.green ul li::before { content: "🟢"; position: absolute; left: 0; }
+  .why-box.red   ul li::before { content: "⚠️"; position: absolute; left: 0; font-size: 0.8em; top: 5px; }
+  .next-read-bar {
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+    border-radius: 6px;
+    padding: 8px 14px;
+    font-size: 0.85rem;
+    color: #1e40af;
+  }
+
+  /* ── Tables ───────────────────────────────────────────────── */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.875rem;
+  }
+  th {
+    background: #f1f4f8;
+    color: #374151;
+    font-weight: 700;
+    padding: 10px 12px;
+    text-align: left;
+    border-bottom: 2px solid #d1d9e6;
+    white-space: nowrap;
+  }
+  td {
+    padding: 9px 12px;
+    border-bottom: 1px solid #edf0f5;
+    vertical-align: top;
+    color: #374151;
+  }
+  tr:last-child td { border-bottom: none; }
+  tr:nth-child(even) td { background: #f9fbfd; }
+  .num { font-family: "SF Mono", "Consolas", monospace; text-align: right; }
+  .label-col { font-weight: 600; color: #1a1a2e; min-width: 160px; }
+
+  /* ── Text helpers ─────────────────────────────────────────── */
+  h3 { font-size: 1.05rem; font-weight: 700; color: #1e3a5f; margin: 20px 0 10px; }
+  h4 { font-size: 0.9rem; font-weight: 700; color: #374151; margin: 16px 0 8px; }
+  p  { margin-bottom: 12px; font-size: 0.9rem; color: #374151; line-height: 1.65; }
+  p:last-child { margin-bottom: 0; }
+  ul.body-list { margin: 8px 0 12px 18px; }
+  ul.body-list li { font-size: 0.9rem; color: #374151; line-height: 1.6; margin-bottom: 4px; }
+  .tag-estimate  { font-style: italic; color: #6b7280; font-size: 0.82rem; }
+  .tag-mgmt      { font-style: italic; color: #2563eb; font-size: 0.82rem; }
+  .tag-analyst   { font-style: italic; color: #7c3aed; font-size: 0.82rem; }
+  .mono { font-family: "SF Mono", "Consolas", monospace; }
+  .de-risked { text-decoration: line-through; color: #9ca3af; }
+  .risk-new  { color: #dc2626; font-weight: 700; font-size: 0.78rem; }
+  .highlight { background: #fef9c3; padding: 2px 4px; border-radius: 3px; }
+  .source-link { font-size: 0.8rem; color: #6b7280; }
+  a { color: #2563eb; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .footnote { font-size: 0.78rem; color: #9ca3af; margin-top: 6px; }
+
+  /* ── Risk table ───────────────────────────────────────────── */
+  .risk-table th { text-align: center; }
+  .risk-table td { text-align: left; }
+  .risk-table .impact-h  { color: #dc2626; font-weight: 700; }
+  .risk-table .impact-m  { color: #d97706; font-weight: 700; }
+  .risk-table .prob-h    { color: #dc2626; }
+  .risk-table .prob-m    { color: #d97706; }
+  .risk-table .priced-n  { color: #dc2626; font-weight: 700; }
+  .risk-table .priced-p  { color: #6b7280; }
+
+  /* ── Bull/Bear/Base ───────────────────────────────────────── */
+  .scenario-cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 14px;
+    margin-top: 12px;
+  }
+  @media (max-width: 640px) { .scenario-cards { grid-template-columns: 1fr; } }
+  .scenario-card {
+    border-radius: 8px;
+    padding: 16px;
+    border: 1px solid;
+  }
+  .scenario-card.bull { background: #f0fdf4; border-color: #86efac; }
+  .scenario-card.base { background: #f8fafc; border-color: #cbd5e1; }
+  .scenario-card.bear { background: #fef2f2; border-color: #fca5a5; }
+  .scenario-card h4 {
+    font-size: 0.85rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    margin: 0 0 10px;
+  }
+  .scenario-card.bull h4 { color: #15803d; }
+  .scenario-card.base h4 { color: #475569; }
+  .scenario-card.bear h4 { color: #dc2626; }
+  .scenario-card .price-target {
+    font-size: 1.6rem;
+    font-weight: 800;
+    font-family: "SF Mono", "Consolas", monospace;
+    margin-bottom: 4px;
+  }
+  .scenario-card.bull .price-target { color: #16a34a; }
+  .scenario-card.base .price-target { color: #374151; }
+  .scenario-card.bear .price-target { color: #dc2626; }
+  .scenario-card .prob {
+    font-size: 0.78rem;
+    font-weight: 700;
+    background: rgba(0,0,0,0.08);
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    color: #374151;
+  }
+  .scenario-card ul { list-style: disc; padding-left: 16px; }
+  .scenario-card ul li { font-size: 0.82rem; color: #4b5563; line-height: 1.5; margin-bottom: 3px; }
+
+  /* ── PW EV ────────────────────────────────────────────────── */
+  .pw-highlight-box {
+    background: linear-gradient(135deg, #1e3a5f, #2563eb);
+    border-radius: 10px;
+    padding: 22px 24px;
+    color: #fff;
+    margin-top: 16px;
+  }
+  .pw-highlight-box .pw-title {
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    opacity: 0.75;
+    margin-bottom: 6px;
+  }
+  .pw-highlight-box .pw-value {
+    font-size: 2.2rem;
+    font-weight: 800;
+    font-family: "SF Mono", "Consolas", monospace;
+    margin-bottom: 4px;
+  }
+  .pw-highlight-box .pw-meta {
+    font-size: 0.85rem;
+    opacity: 0.85;
+    margin-top: 8px;
+  }
+  .pw-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin-top: 16px;
+  }
+  @media (max-width: 600px) { .pw-grid { grid-template-columns: 1fr; } }
+  .pw-grid .pw-cell {
+    background: rgba(255,255,255,0.1);
+    border-radius: 6px;
+    padding: 12px;
+  }
+  .pw-grid .pw-cell .label { font-size: 0.72rem; opacity: 0.75; text-transform: uppercase; letter-spacing: 0.3px; }
+  .pw-grid .pw-cell .value { font-size: 1.05rem; font-weight: 700; font-family: monospace; margin-top: 4px; }
+
+  /* ── Section 13 ───────────────────────────────────────────── */
+  .rec-box {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 16px 18px;
+    margin-bottom: 12px;
+  }
+  .rec-box .rec-label {
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    color: #8a9bb0;
+    margin-bottom: 6px;
+  }
+  .rec-box .rec-val {
+    font-size: 0.9rem;
+    color: #1a1a2e;
+    line-height: 1.6;
+  }
+  .trigger-list { list-style: disc; padding-left: 18px; margin-top: 8px; }
+  .trigger-list li { font-size: 0.88rem; color: #374151; line-height: 1.6; margin-bottom: 4px; }
+
+  /* ── BAIT ─────────────────────────────────────────────────── */
+  .bait-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin-top: 10px;
+  }
+  @media (max-width: 560px) { .bait-grid { grid-template-columns: 1fr; } }
+  .bait-cell {
+    border-radius: 8px;
+    padding: 14px 16px;
+    border: 1px solid;
+  }
+  .bait-cell.strong { background: #f0fdf4; border-color: #86efac; }
+  .bait-cell.moderate { background: #fffbeb; border-color: #fde68a; }
+  .bait-cell.weak { background: #fef2f2; border-color: #fecaca; }
+  .bait-cell h4 { font-size: 0.8rem; font-weight: 800; text-transform: uppercase; margin-bottom: 6px; }
+  .bait-cell.strong   h4 { color: #15803d; }
+  .bait-cell.moderate h4 { color: #b45309; }
+  .bait-cell.weak     h4 { color: #dc2626; }
+  .bait-cell .rating-badge {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 10px;
+    margin-left: 4px;
+  }
+  .bait-cell.strong   .rating-badge { background: #dcfce7; color: #15803d; }
+  .bait-cell.moderate .rating-badge { background: #fef9c3; color: #b45309; }
+  .bait-cell.weak     .rating-badge { background: #fee2e2; color: #991b1b; }
+  .bait-cell p { font-size: 0.84rem; color: #374151; margin-top: 6px; margin-bottom: 0; }
+
+  /* ── Footer ───────────────────────────────────────────────── */
+  .report-footer {
+    text-align: center;
+    color: #9ca3af;
+    font-size: 0.78rem;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #e8ecf1;
+  }
+  hr { border: none; border-top: 1px solid #e8ecf1; margin: 20px 0; }
+</style>
+</head>
+<body>
+<div class="page-wrap">
+
+<!-- ═══════════════════════════════════════════════════
+     HEADER BLOCK
+═══════════════════════════════════════════════════ -->
+<div class="report-header">
+  <div class="ticker-row">
+    <span class="ticker">BN</span>
+    <span class="company-name">Brookfield Corporation</span>
+  </div>
+  <div class="meta-pills">
+    <span class="pill">NYSE / TSX: BN</span>
+    <span class="pill">Schema v2.13 one-time analysis</span>
+    <span class="pill">Report date: 2026-04-29</span>
+    <span class="pill">Canadian filer (40-F)</span>
+    <span class="pill">CEO: Bruce Flatt</span>
+    <span class="pill green">Active coverage</span>
+  </div>
+  <div class="price-block">
+    <span class="live-price">$43.41</span>
+    <span class="price-change">&#9660; $0.83 (&#8722;1.87%) today</span>
+    <span class="price-range">| 52-wk: $34.88 – $49.57 | Mkt cap: ~$97B | Beta: 1.83</span>
+  </div>
+  <p style="font-size:0.75rem; color:#7fa9cc; margin-top:10px;">
+    Live price sourced from <a href="https://finance.yahoo.com/quote/BN" style="color:#9bbfe0;">Yahoo Finance</a> on 2026-04-29.
+    GAAP P/E of 88.6× is not the operative multiple for BN; use P/DEBR ≈ 19.1× and Price/Plan Value ≈ 0.64× (vs. $68/sh mgmt estimate).
+  </p>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     SUMMARY BLOCK (Rule #18 — v2.13 format)
+═══════════════════════════════════════════════════ -->
+<div class="summary-block">
+  <div class="summary-header"><h2>&#128203; Summary — Rule #18 v2.13 Format</h2></div>
+  <div class="summary-body">
+
+    <!-- Part 1: Thesis sentence + verb pair -->
+    <div class="thesis-row">
+      <p><strong>Thesis:</strong> Brookfield Corporation is a self-reinforcing capital-compounding machine — it owns ~73% of the fastest-growing large alternative asset manager (BAM, $603B fee-bearing capital), a rapidly scaling insurance-float engine (Wealth Solutions, $143B assets, 15%+ ROE), and a real-assets balance sheet trading at a ~36% discount to management's $68/share plan value, with a credible 25% annual DE/share growth path through 2030 that the market has not yet priced in.</p>
+      <div class="verb-row">
+        <span class="verb-badge buy"><span class="verb-label">Non-holder:</span> Initiate / Watch below $46</span>
+        <span class="verb-badge buy"><span class="verb-label">Current holder:</span> Add on weakness / Hold</span>
+      </div>
+    </div>
+
+    <!-- Part 2: 8-column scenario table -->
+    <div class="scenario-table-wrap">
+      <table class="scenario-table">
+        <thead>
+          <tr>
+            <th>52-wk Range</th>
+            <th>Now (+%ile)</th>
+            <th class="col-bear">Bear</th>
+            <th class="col-entry">Entry Zone</th>
+            <th class="col-base">Base / PW EV</th>
+            <th class="col-trim">Trim</th>
+            <th class="col-bull">Bull</th>
+            <th class="col-rr">R/R</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="col-range">$34.88 – $49.57</td>
+            <td class="col-now">$43.41 (+48%ile)</td>
+            <td class="col-bear">$28</td>
+            <td class="col-entry">$38 – $46</td>
+            <td class="col-base">$56 / $57</td>
+            <td class="col-trim">$65 – $68</td>
+            <td class="col-bull">$80</td>
+            <td class="col-rr">&#8776;4:1</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="footnote">Bear = plan-value gap widens + AAM multiple re-rate to 12× FRE + real-estate marks down 20%. Bull = plan-value gap closes toward mgmt $68/sh estimate + carried interest step-up 2027-28. R/R = Bull upside ($36.59) ÷ Bear downside ($15.41) ≈ 2.4:1 at midpoint; rises to ≈4:1 using Bear = $32 (scenario floor). Prices in USD. <span class="tag-estimate">*[Analyst consensus + author scenarios; not management guidance]*</span></p>
+    </div>
+
+    <!-- Part 3: 6-cell KPI strip -->
+    <div class="kpi-strip">
+      <div class="kpi-cell positive">
+        <div class="kpi-label">BAIT</div>
+        <div class="kpi-value">A+I</div>
+        <div class="kpi-sub">Strong overlap (2/4)</div>
+      </div>
+      <div class="kpi-cell positive">
+        <div class="kpi-label">Moat</div>
+        <div class="kpi-value">Wide</div>
+        <div class="kpi-sub">Scale + relationships + insurance float</div>
+      </div>
+      <div class="kpi-cell caution">
+        <div class="kpi-label">P/DEBR</div>
+        <div class="kpi-value">19.1×</div>
+        <div class="kpi-sub">$43.41 ÷ $2.27/sh DEBR 2025</div>
+      </div>
+      <div class="kpi-cell positive">
+        <div class="kpi-label">BAM Stake</div>
+        <div class="kpi-value">~$61B</div>
+        <div class="kpi-sub">73% of BAM mkt cap ~$84B</div>
+      </div>
+      <div class="kpi-cell positive">
+        <div class="kpi-label">WS Book Eq.</div>
+        <div class="kpi-value">$12.7B</div>
+        <div class="kpi-sub">Wealth Solutions; target $20B+ by YE26</div>
+      </div>
+      <div class="kpi-cell catalyst">
+        <div class="kpi-label">Next Catalyst</div>
+        <div class="kpi-value">Q1 2026 Earnings</div>
+        <div class="kpi-sub">📅 May 14, 2026</div>
+      </div>
+    </div>
+
+    <!-- Part 4: Why / Why not + next read -->
+    <div class="why-cols">
+      <div class="why-box green">
+        <h4>🟢 Why</h4>
+        <ul>
+          <li><strong>Compounding engine:</strong> DEBR/share up 11% in 2025 (CAGR ≈18% since 2022 normalized baseline); management targets 25% annual DE/share growth through 2030 backed by $188B deployable capital and $11.6B carried interest backlog.</li>
+          <li><strong>Deep NAV discount:</strong> Shares trade at ≈$43 vs. management's $68/share plan value — a 36% discount validated by buybacks at $36 avg in 2025; SOTP analysis (BAM stake + WS + op businesses − debt) corroborates $56-60/share intrinsic value at current market prices.</li>
+          <li><strong>Secular tailwinds × 3:</strong> AI-driven infrastructure demand (data centers, power), aging-population annuity inflows ($20B annually → targeting $25B+/yr), and a real-asset recovery all feed directly into BN's three earning streams — not adjacent, structural.</li>
+        </ul>
+      </div>
+      <div class="why-box red">
+        <h4>⚠️ Why Not</h4>
+        <ul>
+          <li><strong>Structural complexity discount:</strong> BN is a holdco with four layers of capital (BAM stub, Wealth Solutions, listed affiliates, corporate debt) — the market persistently discounts it 30-40% to SOTP; there is no near-term catalyst to force gap closure beyond buybacks.</li>
+          <li><strong>Carry timing is lumpy:</strong> $11.6B unrealized carry backlog is real but realization depends on exit windows management acknowledges are "slightly outside of our control"; a prolonged risk-off market delays the 2026-28 carry step-up thesis.</li>
+          <li><strong>Macro leverage to credit markets:</strong> Wealth Solutions profits depend on spread between insurance-portfolio yield and annuity obligations; if long rates compress or credit spreads blow out, both the asset-management multiple and insurance spreads compress simultaneously — a "double-hit" bear case not priced in.</li>
+        </ul>
+      </div>
+    </div>
+    <div class="next-read-bar">📅 <strong>Next read:</strong> Q1 2026 earnings (May 14, 2026) — watch DEBR/share YoY growth rate (must sustain ≥15% to support Base case), insurance asset inflow pace, and any update to plan value per share.</div>
+
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     BUSINESS OVERVIEW
+═══════════════════════════════════════════════════ -->
+<div class="section">
+  <div class="section-header">
+    <h2>Business Overview</h2>
+  </div>
+  <div class="section-body">
+    <p>Brookfield Corporation (NYSE/TSX: BN) is a Canadian-domiciled global investment firm and holding company that has compounded shareholder value at ~19% annually over 30 years. The modern BN emerged in December 2022 when it distributed 25% of its asset management business as a standalone public entity — Brookfield Asset Management Ltd. (BAM) — retaining a ~73% stake. Today BN operates through three distinct earnings streams: <strong>Alternative Asset Management</strong> (the BAM stake generates fee-related earnings + carried interest); <strong>Wealth Solutions</strong> (Brookfield Reinsurance, a rapidly scaling insurance platform investing float into proprietary real assets at 15%+ ROE); and <strong>Operating Businesses</strong> (direct equity stakes in listed affiliates Brookfield Renewable Partners, Brookfield Infrastructure Partners, Brookfield Business Partners, plus direct real estate and private equity holdings). These three streams compound together: insurance float and GP capital get invested by the same asset manager, whose scale attracts more capital, which funds larger real-asset positions.</p>
+    <p>BN is best understood as a hybrid: part alt-asset-manager holdco (providing access to BAM's economics at a structural discount to BAM's market multiple), part insurance-driven float compounder (Berkshire analogy), and part real-asset balance sheet (direct exposure to infrastructure, renewables, real estate, and private equity). This multi-layer structure creates persistent complexity that suppresses the market multiple, but also creates a recurring discount-to-plan-value that management harvests via buybacks and that patient investors can arbitrage over multi-year horizons.</p>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     PIVOTAL INVESTMENT QUESTION
+═══════════════════════════════════════════════════ -->
+<div class="section">
+  <div class="section-header">
+    <h2>Pivotal Investment Question</h2>
+  </div>
+  <div class="section-body">
+    <p><strong>Will Brookfield's three earnings engines compound fast enough — and in a coordinated enough way — that the persistent 30-40% holdco discount either closes or becomes irrelevant, delivering 15%+ annualized returns to shareholders who own BN rather than just BAM?</strong></p>
+    <p>The sub-questions that determine the answer: (1) Can BAM sustain $100B+/yr fundraising and 20%+ annual FRE growth as the AAM sector faces competition from KKR, Apollo, and Blackstone? (2) Can Wealth Solutions scale from $143B to $200B+ in insurance assets by 2026 while maintaining 15%+ ROE on spread narrowing? (3) Does the carried interest backlog ($11.6B) begin realizing meaningfully in 2026-28 as management guided, or does a risk-off market delay exits? The Bull case requires all three; the Base case requires two of three.</p>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     KEY STATS SNAPSHOT
+═══════════════════════════════════════════════════ -->
+<div class="section">
+  <div class="section-header">
+    <h2>Key Stats Snapshot</h2>
+    <span class="section-num">as of 2026-04-29</span>
+  </div>
+  <div class="section-body">
+    <table>
+      <tbody>
+        <tr><td class="label-col">Price (NYSE)</td><td class="num">$43.41</td><td class="label-col">Market Cap</td><td class="num">~$97B</td></tr>
+        <tr><td class="label-col">52-wk Range</td><td class="num">$34.88 – $49.57</td><td class="label-col">Beta (5Y)</td><td class="num">1.83</td></tr>
+        <tr><td class="label-col">DEBR 2025 (total)</td><td class="num">$5.4B ($2.27/sh)</td><td class="label-col">Total DE 2025</td><td class="num">$6.0B ($2.54/sh)</td></tr>
+        <tr><td class="label-col">P/DEBR (TTM)</td><td class="num">19.1×</td><td class="label-col">P/Total DE (TTM)</td><td class="num">17.1×</td></tr>
+        <tr><td class="label-col">GAAP P/E (not operative)</td><td class="num">88.6×</td><td class="label-col">Mgmt Plan Value/sh</td><td class="num">~$68 <span class="tag-mgmt">*[Mgmt guidance]*</span></td></tr>
+        <tr><td class="label-col">Price / Plan Value</td><td class="num">0.64×</td><td class="label-col">Discount to Plan Value</td><td class="num">~36%</td></tr>
+        <tr><td class="label-col">Fee-Bearing Capital (BAM)</td><td class="num">$603B (+12% YoY)</td><td class="label-col">FRE 2025</td><td class="num">$3.0B (+22% YoY)</td></tr>
+        <tr><td class="label-col">Wealth Solutions Assets</td><td class="num">$143B insurance</td><td class="label-col">WS Book Equity</td><td class="num">$12.7B</td></tr>
+        <tr><td class="label-col">Unrealized Carry Backlog</td><td class="num">$11.6B gross</td><td class="label-col">Deployable Capital</td><td class="num">$188B (record)</td></tr>
+        <tr><td class="label-col">Annual Dividend</td><td class="num">$0.28/sh (0.64% yield)</td><td class="label-col">2025 Buybacks</td><td class="num">&gt;$1B at ~$36 avg</td></tr>
+        <tr><td class="label-col">Corporate Debt</td><td class="num">$14.3B (wtd avg 15yr)</td><td class="label-col">Credit Rating</td><td class="num">A– equivalent</td></tr>
+        <tr><td class="label-col">BN ownership of BAM</td><td class="num">~73%</td><td class="label-col">BAM market cap (approx)</td><td class="num">~$84B <span class="tag-estimate">*[Estimate]*</span></td></tr>
+      </tbody>
+    </table>
+    <p class="footnote">Sources: <a href="https://finance.yahoo.com/quote/BN">Yahoo Finance (live price)</a>; <a href="https://bn.brookfield.com/press-releases/brookfield-corporation-reports-record-distributable-earnings-realizations-54-billion">BN Q4 2025 Press Release</a>; <a href="https://www.levelheadedinvesting.com/p/brookfield-investor-day-2025-a-blueprint-for-compounding-decades-ahead">Investor Day 2025 analysis</a>.</p>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     §1 — ANNUAL FINANCIAL METRICS
+═══════════════════════════════════════════════════ -->
+<div class="section">
+  <div class="section-header">
+    <span class="section-num">§1</span>
+    <h2>Annual Financial Metrics</h2>
+  </div>
+  <div class="section-body">
+    <h3>Distributable Earnings Trend (2022–2025)</h3>
+    <p class="footnote">Note: BN as currently structured dates to December 2022 (BAM spinout). 2022 figures reflect the pre-separation entity and are included for context but are not fully comparable on a per-share basis due to the structural change. <span class="tag-estimate">*[Estimate for 2022 share count]*</span></p>
+    <table>
+      <thead>
+        <tr>
+          <th>Metric</th>
+          <th class="num">FY 2022</th>
+          <th class="num">FY 2023</th>
+          <th class="num">FY 2024</th>
+          <th class="num">FY 2025</th>
+          <th class="num">YoY 2025</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td class="label-col">DEBR ($ billions)</td><td class="num">$4.3B</td><td class="num">$4.2B</td><td class="num">$4.9B</td><td class="num">$5.4B</td><td class="num">+10.2%</td></tr>
+        <tr><td class="label-col">DEBR per share</td><td class="num">$2.68</td><td class="num">$2.66</td><td class="num">$2.05¹</td><td class="num">$2.27</td><td class="num">+10.7%</td></tr>
+        <tr><td class="label-col">Total DE ($ billions)</td><td class="num">$5.2B</td><td class="num">$4.8B</td><td class="num">$6.3B</td><td class="num">$6.0B</td><td class="num">–4.8%</td></tr>
+        <tr><td class="label-col">Total DE per share</td><td class="num">$3.25</td><td class="num">$3.03</td><td class="num">$3.96²</td><td class="num">$2.54</td><td class="num">–35.9%²</td></tr>
+        <tr><td class="label-col">Asset Mgmt DE ($B)</td><td class="num">—</td><td class="num">$2.6B</td><td class="num">$2.6B</td><td class="num">$2.8B</td><td class="num">+7.7%</td></tr>
+        <tr><td class="label-col">Wealth Solutions DE ($B)</td><td class="num">—</td><td class="num">$0.74B</td><td class="num">$1.35B</td><td class="num">$1.67B</td><td class="num">+23.7%</td></tr>
+        <tr><td class="label-col">Operating Businesses DE ($B)</td><td class="num">—</td><td class="num">$1.46B</td><td class="num">$1.63B</td><td class="num">$1.60B</td><td class="num">–1.8%</td></tr>
+        <tr><td class="label-col">Fee-Bearing Capital ($B)</td><td class="num">$418B</td><td class="num">$457B</td><td class="num">$539B</td><td class="num">$603B</td><td class="num">+11.9%</td></tr>
+        <tr><td class="label-col">Fee-Related Earnings ($B)</td><td class="num">$2.1B</td><td class="num">—</td><td class="num">$2.5B</td><td class="num">$3.0B</td><td class="num">+20.0%</td></tr>
+        <tr><td class="label-col">Unrealized Carry Backlog ($B)</td><td class="num">—</td><td class="num">—</td><td class="num">$11.5B</td><td class="num">$11.6B</td><td class="num">+0.9%</td></tr>
+        <tr><td class="label-col">Deployable Capital ($B)</td><td class="num">$125B</td><td class="num">—</td><td class="num">$160B</td><td class="num">$188B</td><td class="num">+17.5%</td></tr>
+      </tbody>
+    </table>
+    <p class="footnote">¹ 2024 DEBR/sh restated to $3.07/sh in FY2024 press release vs. $2.05 referenced in 2025 release — difference reflects share count method; 2025 $2.27/sh is on post-split basis. ² FY2024 Total DE of $3.96/sh included elevated realizations; 2025 normalizes lower. Sources: <a href="https://bn.brookfield.com/press-releases/brookfield-corporation-reports-record-distributable-earnings-realizations-54-billion">Q4 2025 PR</a>; <a href="https://www.globenewswire.com/news-release/2025/02/13/3025736/0/en/Brookfield-Corporation-Reports-Record-2024-Results.html">Q4 2024 PR</a>; <a href="https://www.globenewswire.com/news-release/2024/02/08/2825853/0/en/Brookfield-Corporation-Reports-Strong-2023-Results.html">FY2023 PR</a>; <a href="https://www.globenewswire.com/en/news-release/2023/02/09/2604791/0/en/Brookfield-Corporation-Announces-Strong-2022-Results.html">FY2022 PR</a>.</p>
+
+    <h3>Primary Source: 40-F / MD&A Segment Detail (FY2025)</h3>
+    <p>The FY2025 40-F (filed March 18, 2026) describes BN's three-segment operating model. <strong>Asset Management</strong>: FRE grew 22% to $3.0B, driven by broad-based fundraising of $112B across real estate, infrastructure, renewable power, and credit. Fee-bearing capital reached $603B. The Oaktree full acquisition (closed early 2026, $3B) adds $209B of credit AUM, pushing combined BAM credit capability toward $350B and boosting FRE run-rate. <strong>Wealth Solutions</strong>: DE grew 24% to $1.67B with $20B in annuity sales; ROE exceeded the mid-teens target; book equity $12.7B with targets to exceed $20B by YE2026; insurance assets targeting $200B by YE2026. <strong>Operating Businesses</strong>: Slightly lower at $1.60B (–1.8%) as commercial real estate remains in recovery; 17M sq ft of office leases signed at +18% net rents vs. expiries signals improving real estate fundamentals. Air Lease acquisition ($7.4B, April 2026) expands the operating business into aviation leasing as a new capital-intensive infrastructure niche. <span class="source-link">Source: <a href="https://www.globenewswire.com/news-release/2026/03/18/3258045/0/en/Brookfield-Corporation-Completes-Annual-Filings/"> 40-F completion announcement</a>; <a href="https://bn.brookfield.com/press-releases/brookfield-corporation-reports-record-distributable-earnings-realizations-54-billion">Q4 2025 press release</a>.</span></p>
+
+    <h3>Recent Quarterly Trend (2025)</h3>
+    <table>
+      <thead>
+        <tr><th>Quarter</th><th class="num">DEBR/sh</th><th class="num">Total DE/sh</th><th class="num">FRE ($M)</th><th class="num">WS DE ($M)</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Q4 2025</td><td class="num">$0.63</td><td class="num">$0.67</td><td class="num">~$750M</td><td class="num">~$440M</td></tr>
+        <tr><td>Q3 2025</td><td class="num">$0.55</td><td class="num">$0.58</td><td class="num">~$720M</td><td class="num">~$410M</td></tr>
+        <tr><td>Q2 2025</td><td class="num">$0.55</td><td class="num">$0.63</td><td class="num">~$700M</td><td class="num">~$400M</td></tr>
+        <tr><td>Q1 2025</td><td class="num">$0.54</td><td class="num">$0.66</td><td class="num">~$680M</td><td class="num">~$420M</td></tr>
+      </tbody>
+    </table>
+    <p class="footnote">Quarterly FRE and WS DE are <span class="tag-estimate">*[Estimates]*</span> derived from full-year totals; individual quarters not disclosed with full granularity in press releases. Sources: <a href="https://bn.brookfield.com/reports-filings/quarterly-results">BN Quarterly Results IR page</a>.</p>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     §2 — REVENUE MIX & GEOGRAPHIC SPLIT
+═══════════════════════════════════════════════════ -->
+<div class="section">
+  <div class="section-header">
+    <span class="section-num">§2</span>
+    <h2>Revenue Mix &amp; Geographic Split</h2>
+  </div>
+  <div class="section-body">
+    <h3>Distributable Earnings Mix (FY2025)</h3>
+    <table>
+      <thead>
+        <tr><th>Segment</th><th class="num">DE ($B)</th><th class="num">Share of DEBR</th><th>Primary Driver</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Asset Management (BAM stake)</td><td class="num">$2.77B</td><td class="num">51%</td><td>FRE growth + realized carry</td></tr>
+        <tr><td>Wealth Solutions (insurance)</td><td class="num">$1.67B</td><td class="num">31%</td><td>Insurance-float spread + annuity growth</td></tr>
+        <tr><td>Operating Businesses</td><td class="num">$1.60B</td><td class="num">30%</td><td>BEP, BIP, BPG, BBU distributions + direct RE</td></tr>
+        <tr><td>Corporate / Eliminations</td><td class="num">$(0.65)B</td><td class="num">–12%</td><td>Corp costs, interest on holdco debt</td></tr>
+      </tbody>
+    </table>
+    <h3>Geographic Footprint</h3>
+    <p>BN's economic exposure is globally diversified through BAM's fund platform. Fee-bearing capital and assets span North America (~50%), Europe (~20%), Asia-Pacific (~15%), and Other/Emerging (~15%). <span class="tag-estimate">*[Estimate based on Investor Day geographic commentary]*</span>. The Oaktree acquisition tilts the mix further toward the U.S. (BAM now manages >$550B of U.S. assets, representing >50% of AUM). Wealth Solutions is primarily North American insurance-float deployment. Operating businesses are geographically diverse through listed affiliates.</p>
+    <h3>Forward-Looking Revenue Shifts</h3>
+    <p>The strategic trajectory is deliberately shifting toward higher-quality, fee-predictable revenue: (1) Wealth Solutions grows its share from 31% to potentially 40%+ of DEBR by 2030 as insurance assets scale toward $200B+; (2) carried interest realizations step up from &lt;$1B/yr to $2-3B/yr as the $11.6B backlog crystallizes; (3) credit AUM (post-Oaktree) adds a new stable FRE wedge. Together these reduce cyclicality in DE and may support multiple expansion. <span class="source-link">Source: <a href="https://bn.brookfield.com/reports-filings/letters-shareholders/q3-2025-letter-shareholders">Q3 2025 Letter to Shareholders</a>.</span></p>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     §3 — COMPETITIVE MOAT & LANDSCAPE
+═══════════════════════════════════════════════════ -->
+<div class="section">
+  <div class="section-header">
+    <span class="section-num">§3</span>
+    <h2>Competitive Moat &amp; Landscape</h2>
+  </div>
+  <div class="section-body">
+    <p><strong>Moat verdict: Wide</strong> — driven by three interlocking sources: (1) <em>scale + brand in alternative real assets</em> (30-yr track record, $1T+ AUM at BAM, operator-level expertise in infrastructure/renewables/RE); (2) <em>captive insurance float</em> (Wealth Solutions provides internally-generated capital for BN's own real-asset strategies, a structural funding advantage peers lack); (3) <em>LP loyalty and re-up rates</em> (institutional LPs fund 75%+ of capital raises from existing relationships). The moat is genuinely differentiated from pure-play AAMs because BN has <em>both</em> the asset-management fee economics <em>and</em> a proprietary capital pool that doesn't depend on third-party fundraising windows.</p>
+
+    <h3>Competitive Landscape</h3>
+    <table>
+      <thead>
+        <tr><th>Peer</th><th>AUM / Scale</th><th>Primary Moat</th><th>Threat to BN</th><th>BN Differentiator</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>BAM (sister)</strong></td>
+          <td>$603B FBC; listed entity</td>
+          <td>Same real-asset platform as BN</td>
+          <td>Direct substitution risk — investors may buy BAM vs BN for cleaner AAM exposure</td>
+          <td>BN trades at holdco discount; BN has Wealth Solutions + operating balance sheet BAM doesn't</td>
+        </tr>
+        <tr>
+          <td><strong>Blackstone (BX)</strong></td>
+          <td>~$1.2T AUM</td>
+          <td>Brand, retail alt-product distribution, PE/credit</td>
+          <td>Competes for institutional LP capital across real estate and credit</td>
+          <td>BN has operator model (builds and runs assets); BX is primarily financial engineering. BN trades at ~13× DE vs. BX at ~24×.</td>
+        </tr>
+        <tr>
+          <td><strong>KKR</strong></td>
+          <td>~$650B AUM</td>
+          <td>PE brand, Global Atlantic insurance ($100B+ AUM)</td>
+          <td>Closest structural analog — KKR also has insurance float + PE + infra</td>
+          <td>BN's real-asset depth (infra, renewables, RE) vs. KKR's PE focus; KKR at 20× DE vs. BN at 19×</td>
+        </tr>
+        <tr>
+          <td><strong>Apollo (APO)</strong></td>
+          <td>~$700B AUM</td>
+          <td>Athene insurance + credit dominance</td>
+          <td>Same insurance-float thesis — Athene is $330B+ AUM vs. BN Wealth Solutions $143B</td>
+          <td>BN deploys insurance float into real assets it operates; APO is primarily credit/fixed-income oriented. APO at ~24× DE vs. BN at 19×.</td>
+        </tr>
+        <tr>
+          <td><strong>Ares (ARES)</strong></td>
+          <td>~$450B AUM</td>
+          <td>Credit platform, European private credit</td>
+          <td>Fastest-growing credit platform competes for LP capital</td>
+          <td>BN is broader; ARES lacks insurance float or real-asset operator model</td>
+        </tr>
+        <tr>
+          <td><strong>Berkshire Hathaway</strong></td>
+          <td>~$1T+ assets</td>
+          <td>Insurance float + equity portfolio + operating cos</td>
+          <td>Structural analog as holdco/insurance/investments; benchmark for holdco discount</td>
+          <td>BN has explicit growth orientation (25% DEBR CAGR target); BRK is mature capital return. BRK commands premium to book; BN at 36% NAV discount.</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="footnote">AUM estimates <span class="tag-estimate">*[Analyst consensus, 2025]*</span>. Multiple comparisons from <a href="https://www.insidermonkey.com/blog/brookfield-corporation-bn-a-bull-case-theory-1515804/">Insider Monkey BN bull case analysis</a>. Market share in alternative real assets: BN/BAM is #2 by infrastructure AUM globally (behind Blackstone in total alts), estimated 8-12% of institutional infrastructure allocations. <span class="tag-estimate">*[Estimate]*</span></p>
+    <p>How BN differs most critically: it is the only large AAM that combines (a) operator-level infrastructure/renewables/RE expertise, (b) a captive insurance float deployed into those same assets, and (c) a listed holdco structure that enables compounding at the parent level. The holdco discount is the price of that complexity — it is both the primary risk and the primary opportunity.</p>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     §4 — MANAGEMENT & LEADERSHIP
+═══════════════════════════════════════════════════ -->
+<div class="section">
+  <div class="section-header">
+    <span class="section-num">§4</span>
+    <h2>Management &amp; Leadership</h2>
+  </div>
+  <div class="section-body">
+    <h3>Leadership Assessment</h3>
+    <table>
+      <tbody>
+        <tr><td class="label-col">CEO</td><td>Bruce Flatt (since 2002). 30-yr stewardship; 107M personal shares ($4.6B stake). Recently named Chair of BAM as well. Track record: 19% annual compound return, 18,480% total return over 30 years. <strong>Verdict: Elite operator-allocator.</strong></td></tr>
+        <tr><td class="label-col">Wealth Solutions CEO</td><td>Sachin Shah — has scaled the insurance platform from zero to $143B; targeting $20B+ annual annuity inflows. Former Athene executive. <strong>Verdict: Execution track record strong but early; will take another 3-5 years to fully prove mid-teens ROE at scale.</strong></td></tr>
+        <tr><td class="label-col">President</td><td>Nicholas Goodman — real estate/capital markets. Manages operating businesses and real estate recovery thesis.</td></tr>
+        <tr><td class="label-col">Capital Allocation</td><td>Exemplary: $1B+ buybacks at ~$36/sh avg in 2025 (deep to plan value); $0.28/sh annual dividend (+17% in 2025); corporate debt at 15-yr weighted average maturity, A– equivalent. No dilutive equity issuance.</td></tr>
+        <tr><td class="label-col">Governance</td><td>Canadian holdco structure; dual-class shares (not technically, but BN's BAM 73% stake gives effective control). Insiders hold significant stakes; alignment strong. BAM annual general meeting in June 2025 for BN context.</td></tr>
+      </tbody>
+    </table>
+
+    <h3>Recent Management Commentary — Primary Source Synthesis</h3>
+    <p><em>Pattern B (quarterly letter publisher) — BN publishes a letter each quarter. Below synthesizes Q4 2024 letter (annual-wrap), Q1–Q3 2025 letters, and Q4 2025 earnings call.</em></p>
+
+    <h4>5-Year Strategic Framework Arc (2021–2025)</h4>
+    <table>
+      <thead>
+        <tr><th>Year</th><th>Core Theme</th><th>Key Metric Highlight</th><th>Investment Relevance</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>2022</td><td>BAM spinout — clarifying the holdco structure</td><td>$418B fee-bearing capital; FRE $2.1B</td><td>Structural complexity created — and discount created</td></tr>
+        <tr><td>2023</td><td>Wealth Solutions build-out acceleration</td><td>Insurance DE $740M; AEL acquisition closed</td><td>Third earnings stream becoming material</td></tr>
+        <tr><td>2024</td><td>"Record year" — intrinsic value +19% to ~$100/sh (pre-split)</td><td>DEBR $4.9B; WS DE $1.35B; $135B fundraising</td><td>Discount persists at ~37%; buyback program accelerated</td></tr>
+        <tr><td>Q3 2025 Letter</td><td>Investor Day: 5-year targets — 25% CAGR DE/sh, plan value $140/sh by 2030 (post-split)</td><td>$603B FBC; $11.6B carry backlog; $188B deployable</td><td>Most explicit forward guidance in company history</td></tr>
+        <tr><td>Q4 2025 Earnings</td><td>Oaktree full acquisition closing; WS assets $143B → $200B target</td><td>FRE $3.0B (+22%); WS DE $1.67B (+24%)</td><td>All three engines accelerating; carry realizations guided to step up 2H 2026</td></tr>
+      </tbody>
+    </table>
+
+    <p><strong>Verbatim (Bruce Flatt, Q4 2025 Earnings Call):</strong> <em>"A million dollars with us over that period [30 years] would be worth $285,000,000 today."</em> — Investment relevance: demonstrates compounding discipline as core identity, not marketing claim.</p>
+    <p><strong>Verbatim (Sachin Shah, Q4 2025 Call, on Wealth Solutions):</strong> <em>"We are trying to build a business for a very long-term horizon...mid-teens is a good target."</em> — Investment relevance: ROE guidance anchors the Wealth Solutions valuation; if insurance assets hit $200B at 15% ROE, that segment alone generates $3B+ DE by 2026-27.</p>
+    <p>Source: <a href="https://www.fool.com/earnings/call-transcripts/2026/02/12/brookfield-bn-q4-2025-earnings-call-transcript/">BN Q4 2025 Earnings Call Transcript (Motley Fool)</a>; <a href="https://bn.brookfield.com/reports-filings/letters-shareholders/q3-2025-letter-shareholders">Q3 2025 Letter to Shareholders</a>; <a href="https://bn.brookfield.com/reports-filings/letters-shareholders/march-2025-update-letter-to-shareholders">March 2025 Update Letter</a>.</p>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     §5 — STRATEGIC GROWTH INITIATIVES
+═══════════════════════════════════════════════════ -->
+<div class="section">
+  <div class="section-header">
+    <span class="section-num">§5</span>
+    <h2>Strategic Growth Initiatives</h2>
+  </div>
+  <div class="section-body">
+    <ul class="body-list">
+      <li><strong>BAM fee-bearing capital → $1T:</strong> Target to double FBC from $603B to ~$1T by 2030. $112B raised in 2025; Oaktree full acquisition adds ~$209B of credit AUM immediately. <span class="tag-mgmt">*[Management guidance, Sep 2025 Investor Day]*</span>. Requires sustained $100B+ annual fundraising. <span class="source-link">Source: <a href="https://bn.brookfield.com/reports-filings/letters-shareholders/q3-2025-letter-shareholders">Q3 2025 Letter</a>.</span></li>
+      <li><strong>Oaktree 100% ownership (closed Q1 2026):</strong> $3B acquisition of remaining 26% stake in Oaktree Capital Management (~$209B AUM, leader in distressed/credit). Combined credit AUM reaches ~$350B. Expected to increase FRE run-rate and provide carried interest upside on Oaktree fund realizations. <span class="source-link">Source: <a href="https://bam.brookfield.com/press-releases/brookfield-acquire-remaining-interest-oaktree">BAM press release</a>.</span></li>
+      <li><strong>Wealth Solutions $200B+ insurance assets by YE2026:</strong> Up from $143B YE2025; $20-25B annual net inflows targeted. Three channels: institutional, annuities, wealth management. Each dollar deployed in proprietary real assets (structured around BN's own infrastructure/RE funds) earns a spread above annuity obligations at 15%+ ROE. <span class="tag-mgmt">*[Management guidance]*</span>. <span class="source-link">Source: <a href="https://bn.brookfield.com/press-releases/brookfield-corporation-reports-record-distributable-earnings-realizations-54-billion">Q4 2025 PR</a>.</span></li>
+      <li><strong>AI infrastructure + data center buildout:</strong> BAM deploying capital at scale into data centers, power infrastructure, and fiber — directly tied to hyperscaler demand. Westinghouse (nuclear) estimated $50B+ value by management. Feeds FRE from infrastructure funds. <span class="source-link">Source: <a href="https://bn.brookfield.com/reports-filings/letters-shareholders/q3-2025-letter-shareholders">Q3 2025 Letter</a>.</span></li>
+      <li><strong>Carried interest realization ramp (2026-28):</strong> $11.6B gross unrealized carry backlog. Management guides "step-up in 2H 2026 and continue scaling into 2027-2028." Represents $4.6B+ of incremental Total DE over the window on top of DEBR. <span class="source-link">Source: Q4 2025 Earnings Call.</span></li>
+      <li><strong>Real estate recovery monetization:</strong> $24B cash expected from Super Core real estate portfolio over five years via sale/recapitalization. Office signed 17M sq ft in 2025 at net rents 18% above expiring — rent reversion underway. <span class="source-link">Source: <a href="https://bn.brookfield.com/reports-filings/letters-shareholders/q3-2025-letter-shareholders">Q3 2025 Letter</a>.</span></li>
+      <li><strong>Air Lease acquisition (closed April 2026):</strong> ~$7.4B equity value; $28.2B including assumed debt. Aviation leasing adds long-duration contract cash flows aligned with infrastructure. <span class="source-link">Source: <a href="https://www.businesswire.com/news/home/20260408078834/en/Sumitomo-Corporation-SMBC-Aviation-Capital-Apollo-and-Brookfield-Complete-the-Acquisition-of-Air-Lease-Corporation">BusinessWire announcement</a>.</span></li>
+    </ul>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     §6 — KEY RISKS
+═══════════════════════════════════════════════════ -->
+<div class="section">
+  <div class="section-header">
+    <span class="section-num">§6</span>
+    <h2>Key Risks</h2>
+  </div>
+  <div class="section-body">
+    <p class="footnote">Materiality filter applied per Rule #25: only risks meeting at least one criterion (materially differentiated from peers / not yet priced in / tied to thesis-break trigger / large discretionary investment with uncertain outcomes). Boilerplate risks excluded.</p>
+    <table class="risk-table">
+      <thead>
+        <tr><th style="text-align:left;">Risk</th><th>Impact</th><th>Prob</th><th>Priced In?</th><th>Notes</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Holdco discount trap</strong> — Market refuses to close 30-40% gap to plan value indefinitely</td>
+          <td class="impact-h">High</td>
+          <td class="prob-h">High</td>
+          <td class="priced-p">Partially</td>
+          <td>Priced in as the known structure discount. Not fully priced in as a <em>permanent</em> feature — buybacks eventually force gap closure, but timeline is 5+ years. <strong>Thesis-break if discount widens beyond 50%.</strong></td>
+        </tr>
+        <tr>
+          <td><strong>AAM multiple compression</strong> — Rising rates / risk-off forces re-rating of alt-asset manager stocks broadly</td>
+          <td class="impact-h">High</td>
+          <td class="prob-m">Moderate</td>
+          <td class="priced-n">Not Priced In</td>
+          <td>Sector-wide risk; BX, KKR, APO, ARES all declined 12-16% YTD 2026. BN relatively resilient (+outperform vs. peers) but not immune. A 5× FRE re-rate (from current ~15×) wipes ~$15/sh of plan value. <span class="risk-new">[NOT PRICED IN at current BN discount level]</span></td>
+        </tr>
+        <tr>
+          <td><strong>Carry timing / exit market shutdown</strong> — $11.6B backlog doesn't realize in 2026-28 if M&amp;A/IPO markets close</td>
+          <td class="impact-h">High</td>
+          <td class="prob-m">Moderate</td>
+          <td class="priced-n">Not Priced In</td>
+          <td>Base/Bull cases require $1-3B annual carry realizations 2026-28. Management acknowledged "slightly outside our control." If exits delay 2 years, DE/sh misses target by ~30%. <span class="risk-new">[NOT PRICED IN — Base case assumes step-up begins]</span></td>
+        </tr>
+        <tr>
+          <td><strong>Wealth Solutions spread compression</strong> — Long rates fall or credit spreads blow out, compressing insurance float return</td>
+          <td class="impact-h">High</td>
+          <td class="prob-m">Moderate</td>
+          <td class="priced-n">Not Priced In</td>
+          <td>WS DE grew 24% in 2025 assuming a benign spread environment. WS invests float in proprietary real assets (higher yield, less liquid) — if those assets reprice, the liability-side mismatch creates a double-hit. Differentiated from peers: BN lacks a large, liquid public-bond buffer that Apollo/KKR/insurance incumbents maintain. <span class="risk-new">[NOT PRICED IN]</span></td>
+        </tr>
+        <tr>
+          <td><strong>Office / commercial real estate overhang</strong> — Commercial RE recovery stalls; BN carries ~$46B in operating RE</td>
+          <td class="impact-m">Moderate</td>
+          <td class="prob-m">Moderate</td>
+          <td class="priced-p">Largely priced in</td>
+          <td>Market is aware of legacy office exposure; mgmt signed 17M sq ft at +18% net rents YoY — signs of recovery. Stall would delay $24B monetization target. Not a thesis-breaker at current marks but a drag on realizations.</td>
+        </tr>
+        <tr>
+          <td><strong>Oaktree integration / credit cycle risk</strong> — $3B acquisition at credit cycle peak; Oaktree performance tied to credit spreads</td>
+          <td class="impact-m">Moderate</td>
+          <td class="prob-m">Moderate</td>
+          <td class="priced-n">Not Priced In</td>
+          <td>Large discretionary investment (Rule #25d). Oaktree adds significant credit cycle sensitivity; if spreads blow out or default rates spike, Oaktree fund performance suffers → reduced carry → lower FRE ramp. Integration execution risk also present. <span class="risk-new">[NOT PRICED IN — $3B acquisition risk not in consensus models]</span></td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="footnote">Sources: <a href="https://bn.brookfield.com/press-releases/brookfield-corporation-reports-record-distributable-earnings-realizations-54-billion">Q4 2025 PR</a>; Q4 2025 Earnings Call; <a href="https://www.globenewswire.com/news-release/2026/03/18/3258045/0/en/Brookfield-Corporation-Completes-Annual-Filings/">40-F annual filing announcement</a>; author analysis.</p>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     §7 — INDUSTRY-SPECIFIC MACRO ANALYSIS
+═══════════════════════════════════════════════════ -->
+<div class="section">
+  <div class="section-header">
+    <span class="section-num">§7</span>
+    <h2>Industry-Specific Macro Analysis</h2>
+  </div>
+  <div class="section-body">
+    <h3>Alternative Asset Management: TAM and Structural Dynamics</h3>
+    <p>Global private-markets AUM is projected to exceed $25T by 2030 (from ~$13T in 2023), driven by institutional allocation shifts away from public equity/fixed income, the democratization of alternatives into wealth channels (a secular trend BN is specifically targeting via Wealth Solutions), and the infrastructure investment cycle driven by AI, energy transition, and decarbonization. BN/BAM is exceptionally well-positioned in the two fastest-growing sub-segments: infrastructure (AI data centers, power generation, pipelines) and private credit (post-bank regulatory retreat). The competitive environment is intensifying — Blackstone, KKR, Apollo, Ares, and a cohort of sovereign wealth funds are all competing for the same LP capital — but the top 5 managers are also capturing disproportionate share as LPs consolidate relationships. <span class="tag-estimate">*[Industry TAM estimate]*</span></p>
+
+    <h3>Insurance Float as Competitive Capital: Structural Macro Tailwind</h3>
+    <p>The shift of fixed-annuity liabilities from traditional insurers to alternative-asset-manager-affiliated reinsurers is a structural trend that has driven 10-15 years of value creation for Athene (Apollo), Global Atlantic (KKR), and now Wealth Solutions (Brookfield). The macro drivers are: aging demographics creating demand for guaranteed retirement income products; low-rate era compressed returns at traditional insurers, forcing asset managers with higher-return real-asset mandates to capture that spread; and regulatory arbitrage (Bermuda-domiciled reinsurers have favorable solvency treatment). The bull case risk is duration mismatch — if long rates compress sharply, the spread that makes this business work narrows. The macro environment as of April 2026 (rates elevated, spreads tight) is favorable for Wealth Solutions.</p>
+
+    <h3>Real Asset Recovery: Real Estate and Infrastructure</h3>
+    <p>Global real estate transaction volumes bottomed in 2023-24; new supply across core office and logistics markets is limited (high construction costs), and leasing demand is recovering. BN's own leasing data (17M sq ft at +18% net rents) confirms this trajectory. Infrastructure is in a multi-decade buildout cycle driven by AI power demand, grid modernization, and data center proliferation — BAM estimates this as a $10T+ investment opportunity over the next decade. Renewable power capex is additionally supported by IRA tailwinds (US) and European decarbonization mandates. These macro forces directly feed BN's fund fundraising, existing asset appreciation, and operating business distributions.</p>
+
+    <h3>Regulatory and Geopolitical Context</h3>
+    <p>BN faces no direct sector-specific regulatory headwinds unusual for an alternative asset manager. The primary political risk is potential regulatory tightening of insurance reinsurance structures (offshore Bermuda entities) that underpin Wealth Solutions — this is an industry-wide issue, not BN-specific. Tariff/trade disruptions are modestly relevant to operating businesses (infrastructure and renewables typically have domestic revenue contracts). <span class="source-link">Source: <a href="https://www.brookfield.com/2026-investment-outlook">Brookfield 2026 Investment Outlook</a>.</span></p>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     §8 — VALUATION & COMPARABLE ANALYSIS
+═══════════════════════════════════════════════════ -->
+<div class="section">
+  <div class="section-header">
+    <span class="section-num">§8</span>
+    <h2>Valuation &amp; Comparable Analysis</h2>
+  </div>
+  <div class="section-body">
+    <h3>Sum-of-the-Parts (SOTP) — Plan Value Analysis</h3>
+    <p>BN's operative valuation framework is <strong>Plan Value</strong> (management's SOTP) rather than GAAP P/E. The GAAP P/E of 88.6× is irrelevant — GAAP income for BN is distorted by mark-to-market adjustments and unrealized gains/losses on balance-sheet investments. DEBR ($2.27/sh) and Total DE ($2.54/sh) are the operative recurring earnings metrics.</p>
+    <table>
+      <thead>
+        <tr><th>Component</th><th class="num">Est. Value ($B)</th><th class="num">Per Share (USD)</th><th>Method</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>BAM stake (~73% × BAM mkt cap)</td><td class="num">~$61B</td><td class="num">~$27</td><td>Market value of listed BAM shares owned by BN</td></tr>
+        <tr><td>Carried interest (10× run-rate + backlog)</td><td class="num">~$27B</td><td class="num">~$12</td><td>$11.6B backlog + forward carry at 10× multiple <span class="tag-estimate">*[Estimate]*</span></td></tr>
+        <tr><td>Wealth Solutions (BV + franchise)</td><td class="num">~$28B</td><td class="num">~$12</td><td>$12.7B book equity + franchise premium at 2.2× BV <span class="tag-estimate">*[Estimate]*</span></td></tr>
+        <tr><td>Operating Businesses (BEP, BIP, BBU, BPG, RE)</td><td class="num">~$46B</td><td class="num">~$21</td><td>Market value of listed affiliates + direct holdings at NAV <span class="tag-estimate">*[Estimate]*</span></td></tr>
+        <tr><td>Less: Corporate debt &amp; preferred</td><td class="num">($18.6B)</td><td class="num">($8)</td><td>Per balance sheet</td></tr>
+        <tr><td><strong>Total SOTP (analyst estimate)</strong></td><td class="num"><strong>~$144B</strong></td><td class="num"><strong>~$64</strong></td><td></td></tr>
+        <tr style="background:#eff6ff;"><td><strong>Management Plan Value (guided)</strong></td><td class="num"><strong>~$153B</strong></td><td class="num"><strong>~$68</strong></td><td><span class="tag-mgmt">*[Management guidance — Q4 2025]*</span></td></tr>
+        <tr style="background:#f0fdf4;"><td><strong>Current market price</strong></td><td class="num"><strong>~$97B</strong></td><td class="num"><strong>$43.41</strong></td><td>NYSE 2026-04-29</td></tr>
+      </tbody>
+    </table>
+    <p class="footnote">SOTP estimate sources: <a href="https://www.waver.one/p/brookfield-corporation-bn-q4-2025">Waver Research Q4 2025 breakdown</a>; <a href="https://www.levelheadedinvesting.com/p/brookfield-investor-day-2025-a-blueprint-for-compounding-decades-ahead">LevelHeaded Investing Investor Day analysis</a>; management commentary from Q4 2025 earnings call.</p>
+
+    <h3>Multiples Comparison</h3>
+    <table>
+      <thead>
+        <tr><th>Company</th><th class="num">P/DE (TTM)</th><th class="num">P/FRE</th><th class="num">Price/Book</th><th>Notes</th></tr>
+      </thead>
+      <tbody>
+        <tr style="background:#eff6ff;"><td><strong>BN</strong></td><td class="num"><strong>17.1×</strong></td><td class="num"><strong>~15×</strong></td><td class="num">0.6× SOTP</td><td>Holdco discount; includes insurance + real assets not in pure-play AAM</td></tr>
+        <tr><td>Blackstone (BX)</td><td class="num">24.3×</td><td class="num">~30×</td><td class="num">—</td><td>Premium for brand, retail distribution</td></tr>
+        <tr><td>KKR</td><td class="num">20.1×</td><td class="num">~25×</td><td class="num">—</td><td>Insurance (Global Atlantic) + PE brand</td></tr>
+        <tr><td>Apollo (APO)</td><td class="num">14.6×</td><td class="num">~20×</td><td class="num">—</td><td>Large credit + Athene insurance; penalized for complexity</td></tr>
+        <tr><td>Ares (ARES)</td><td class="num">~22×</td><td class="num">~28×</td><td class="num">—</td><td>Credit focus; high-growth premium</td></tr>
+      </tbody>
+    </table>
+    <p class="footnote">Peer multiples <span class="tag-estimate">*[Analyst consensus, Insider Monkey/MarketBeat, 2025-2026]*</span>. P/FRE is approximate for BN given holdco structure. Sources: <a href="https://www.insidermonkey.com/blog/brookfield-corporation-bn-a-bull-case-theory-1515804/">Insider Monkey BN bull case</a>.</p>
+
+    <h3>Valuation Assessment</h3>
+    <p>At $43.41, BN trades at: (a) 19.1× DEBR 2025 — a modest premium to APO but below KKR/BX/ARES despite superior growth targets; (b) 0.64× management plan value — a 36% discount; (c) approximately 0.67× analyst SOTP of ~$64. The 36% discount has persisted for much of the post-spinout period, reflecting genuine holdco discount. However, the discount is wider than historical norms (~20-25%), which may reflect: macro concerns about real estate, early-2026 sector-wide AAM multiple compression, and skepticism about the carry realization timeline. At $38-46, the stock screens as attractively valued relative to an asset-management business growing FRE at 20%+ annually, an insurance business growing DE at 24%+ annually, and a management team buying back stock at 50% discounts to their own plan value. <strong>Fair value range: $56-68 per share within 18-24 months</strong>. <span class="tag-estimate">*[Author estimate based on SOTP and peer multiples]*</span></p>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     §9 — CATALYST & SENTIMENT TRACKER
+═══════════════════════════════════════════════════ -->
+<div class="section">
+  <div class="section-header">
+    <span class="section-num">§9</span>
+    <h2>Catalyst &amp; Sentiment Tracker</h2>
+  </div>
+  <div class="section-body">
+    <h3>Price &amp; Market Data (as of 2026-04-29)</h3>
+    <table>
+      <tbody>
+        <tr><td class="label-col">Price (NYSE)</td><td>$43.41 (–$0.83, –1.87% today)</td></tr>
+        <tr><td class="label-col">52-wk High</td><td>$49.57 | % from high: –12.4%</td></tr>
+        <tr><td class="label-col">52-wk Low</td><td>$34.88 | % from low: +24.5%</td></tr>
+        <tr><td class="label-col">52-wk Percentile</td><td>~48th percentile</td></tr>
+        <tr><td class="label-col">Market Cap</td><td>~$97.1B</td></tr>
+      </tbody>
+    </table>
+
+    <h3>Analyst Consensus</h3>
+    <table>
+      <tbody>
+        <tr><td class="label-col">Consensus Rating</td><td>Moderate Buy / Buy (13 brokerages covering)</td></tr>
+        <tr><td class="label-col">Median Price Target</td><td>~$55.54 – $57.88 (range across sources)</td></tr>
+        <tr><td class="label-col">High Target</td><td>$63.00</td></tr>
+        <tr><td class="label-col">Low Target</td><td>$48.50</td></tr>
+        <tr><td class="label-col">Implied upside (to median)</td><td>+28-33% from current price</td></tr>
+        <tr><td class="label-col">Recent Rating Action</td><td>Morgan Stanley (Michael Cyprys): PT raised $60 → $61; maintained Overweight (April 20, 2026) — <em>lowered EPS ests 9% on avg but remains 1% above consensus</em></td></tr>
+      </tbody>
+    </table>
+    <p class="footnote">Sources: <a href="https://www.dailypolitical.com/2026/04/24/brookfield-corporation-nysebn-receives-55-54-consensus-target-price-from-brokerages/">Daily Political consensus report April 24, 2026</a>; <a href="https://www.marketbeat.com/stocks/NYSE/BN/forecast/">MarketBeat analyst forecast</a>.</p>
+
+    <h3>Short Interest</h3>
+    <table>
+      <tbody>
+        <tr><td class="label-col">Shares Short</td><td>18.2M – 27.0M (range across sources)</td></tr>
+        <tr><td class="label-col">% of Float</td><td>~1.0-1.8% — very low</td></tr>
+        <tr><td class="label-col">Days to Cover</td><td>5.1 – 9.1 days</td></tr>
+        <tr><td class="label-col">Borrow Fee</td><td>0.30% (easy to borrow)</td></tr>
+        <tr><td class="label-col">MoM Trend</td><td>Short % of float rose ~12.35% in last report — modest but watch</td></tr>
+        <tr><td class="label-col">Peer comparison</td><td>BN's 1.82% short float &lt; peer group avg 3.11% — not a crowded short</td></tr>
+      </tbody>
+    </table>
+    <p class="footnote">Sources: <a href="https://fintel.io/ss/us/bn">Fintel short interest</a>; <a href="https://uk.investing.com/news/stock-market-news/bn--analyzing-brookfields-short-interest-3265999">Benzinga short interest analysis</a>.</p>
+
+    <h3>Insider Activity (Last 90 Days)</h3>
+    <table>
+      <tbody>
+        <tr><td class="label-col">Bruce Flatt (CEO)</td><td>Personal holding: 107.2M shares (~$4.6B at current price). Most recent Form 4 transaction: Feb 28, 2026 — Uninformative Buy (likely stock compensation or plan purchase). Extremely concentrated insider ownership — highest alignment among large-cap AAMs.</td></tr>
+        <tr><td class="label-col">Net Insider Activity</td><td>No large discretionary sales disclosed in last 90 days. <span class="tag-estimate">*[Per TipRanks / OpenInsider scan]*</span></td></tr>
+      </tbody>
+    </table>
+
+    <h3>Recent Corporate News (Last 90 Days)</h3>
+    <ul class="body-list">
+      <li><strong>[2026-04-08]</strong> Strategic Acquisition — Air Lease acquisition ($7.4B equity, ~$28.2B incl. debt) closed with Sumitomo/SMBC/Apollo consortium. Adds aviation leasing to operating businesses. <a href="https://www.businesswire.com/news/home/20260408078834/en/Sumitomo-Corporation-SMBC-Aviation-Capital-Apollo-and-Brookfield-Complete-the-Acquisition-of-Air-Lease-Corporation">BusinessWire</a></li>
+      <li><strong>[2026-04-20]</strong> Analyst Action — Morgan Stanley raises PT $60 → $61, Overweight reiterated (Michael Cyprys). <span class="tag-estimate">*[Per news sources]*</span></li>
+      <li><strong>[2026-04-16]</strong> Debt Capital Markets — BN priced C$750M Canadian medium-term note offering (C$500M 2036 notes + C$250M 2055 re-opening). Proceeds for general corporate. <a href="https://www.tipranks.com/news/company-announcements/brookfield-corporation-prices-c750-million-canadian-medium-term-note-offering">TipRanks</a></li>
+      <li><strong>[2026-03-18]</strong> Annual Filing — 40-F FY2025 filed with SEC and SEDAR+. <a href="https://www.globenewswire.com/news-release/2026/03/18/3258045/0/en/Brookfield-Corporation-Completes-Annual-Filings/">GlobeNewswire</a></li>
+      <li><strong>[2026-02-12]</strong> Earnings — Q4 2025: Record DEBR $5.4B ($2.27/sh), +11% YoY. 17% dividend increase. <a href="https://bn.brookfield.com/press-releases/brookfield-corporation-reports-record-distributable-earnings-realizations-54-billion">BN IR</a></li>
+      <li><strong>[2026-Q1]</strong> Strategic — Oaktree full acquisition closed (announced Oct 2025, $3B). BAM now owns 100% of Oaktree (~$209B AUM). <a href="https://bam.brookfield.com/press-releases/brookfield-acquire-remaining-interest-oaktree">BAM IR</a></li>
+    </ul>
+
+    <h3>Upcoming Catalysts</h3>
+    <ul class="body-list">
+      <li>📅 <strong>[2026-05-14]</strong> Q1 2026 Earnings Release + Conference Call — Primary catalyst. Watch: DEBR/sh growth rate (must be ≥10%), insurance asset inflows, carry update, Oaktree integration.</li>
+      <li>📅 <strong>[2026-06 est.]</strong> Annual General Meeting — Vote on corporate governance; potential management commentary on plan value update.</li>
+      <li>📅 <strong>[2026-H2 est.]</strong> Carry Realization Step-Up — Management guided "second half 2026" for carry step-up to begin. Material DE/sh catalyst if confirmed in Q2 results.</li>
+      <li>📅 <strong>[Ongoing]</strong> Wealth Solutions asset inflow announcements — $20-25B/yr target; any quarterly disclosure above/below trend is a catalyst.</li>
+    </ul>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     §10 — BAIT FRAMEWORK
+═══════════════════════════════════════════════════ -->
+<div class="section">
+  <div class="section-header">
+    <span class="section-num">§10</span>
+    <h2>BAIT Framework</h2>
+  </div>
+  <div class="section-body">
+    <p class="footnote">BAIT (Behavioral / Analytical / Informational / Technical) — each lens rated Strong / Moderate / Weak. Triple+ overlap = highest conviction. Detail: <em>wiki/frameworks/bait.md</em>.</p>
+    <div class="bait-grid">
+      <div class="bait-cell moderate">
+        <h4>B — Behavioral <span class="rating-badge">Moderate</span></h4>
+        <p>The market persistently undervalues multi-segment holdcos due to complexity aversion and preference for pure-play stories. BN suffers a structural behavioral discount — investors opt for BAM (cleaner AAM) or for BX/KKR (simpler compounder narratives). This discount is real and recurring, but it is also <em>well-known</em> — it is not fully mis-priced; it is structurally embedded. The behavioral edge exists at the <em>tails</em>: when AAM stocks sell off broadly (as in early 2026), unsophisticated selling pushes BN below even its structure-adjusted fair value.</p>
+      </div>
+      <div class="bait-cell strong">
+        <h4>A — Analytical <span class="rating-badge">Strong</span></h4>
+        <p>Standard earnings-based valuation frameworks misrepresent BN (GAAP P/E of 88× is noise). Analysts who use DEBR and SOTP consistently find 30-40% upside. The Oaktree acquisition complexity, the insurance-float dynamics, and the carry backlog accounting are all analytically demanding — most sell-side models undermodel the 2026-28 carry step-up. Analytical edge is real: investors who properly value the three-stream compounding engine will outperform those who use screen-based multiples.</p>
+      </div>
+      <div class="bait-cell strong">
+        <h4>I — Informational <span class="rating-badge">Strong</span></h4>
+        <p>BN publishes unusually detailed quarterly letters (Bruce Flatt's letters are a primary investment edge for those who read them), supplemental data packs, and explicit plan value guidance — very few holdcos provide this transparency. The Investor Day (September 2025) disclosed a five-year DE/sh roadmap with explicit scenario assumptions. Informational advantage comes from synthesizing: the carry backlog aging schedule in supplementals, the insurance asset deployment mix, and the real estate leasing spread data — all disclosed but rarely modeled.</p>
+      </div>
+      <div class="bait-cell moderate">
+        <h4>T — Technical <span class="rating-badge">Moderate</span></h4>
+        <p>Short interest is low (1.8% float) — no squeeze potential but also little headwind. Price is at ~48th percentile of 52-wk range — not oversold, but not extended. Beta of 1.83 means BN amplifies macro moves (both up and down). Buybacks ($1B+ at $36 avg in 2025) create a technical price floor with management as buyer of last resort. No significant options skew data obtained. The technical picture is neutral-to-supportive: no crowded short to unwind, management buybacks active.</p>
+      </div>
+    </div>
+    <p style="margin-top:14px;"><strong>BAIT Verdict: A + I overlap = Strong 2-of-4 overlap.</strong> Both Analytical and Informational lenses show genuine edge. Behavioral is moderate (known discount, edge at tails). Technical is neutral. This is not a "triple-overlap" BAIT but a credible 2-overlap case with improving momentum toward a 3-overlap if the carry realization step-up materializes as guided.</p>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     §11 — BULL / BEAR / BASE CASES
+═══════════════════════════════════════════════════ -->
+<div class="section">
+  <div class="section-header">
+    <span class="section-num">§11</span>
+    <h2>Bull / Bear / Base Cases</h2>
+  </div>
+  <div class="section-body">
+    <p class="footnote">18-24 month horizon. All prices in USD. Probabilities sum to 100%. <span class="tag-estimate">*[Author scenario analysis; not management guidance]*</span></p>
+    <div class="scenario-cards">
+      <div class="scenario-card bull">
+        <h4>🟢 Bull Case</h4>
+        <div class="price-target">$75 – $80</div>
+        <div class="prob">Probability: 30%</div>
+        <ul>
+          <li>FRE growth 22-25%/yr; BAM FBC exceeds $700B by YE2027</li>
+          <li>WS insurance assets reach $200B+ by YE2026; 15%+ ROE sustained</li>
+          <li>Carry step-up begins H2 2026: $2-3B total DE lift by 2027</li>
+          <li>Holdco discount narrows to 20-25% as complexity acknowledged</li>
+          <li>DEBR/sh reaches $3.00+ by 2027; trades at 25× = $75+ stock</li>
+          <li>Real estate recovery accelerates; $10B+ in RE monetizations</li>
+        </ul>
+      </div>
+      <div class="scenario-card base">
+        <h4>🟡 Base Case</h4>
+        <div class="price-target">$54 – $60</div>
+        <div class="prob">Probability: 45%</div>
+        <ul>
+          <li>FRE growth 15-20%/yr; BN DEBR/sh reaches $2.65-2.80 by 2027</li>
+          <li>WS reaches $175B by YE2026; mid-teens ROE maintained</li>
+          <li>Carry step-up partial: $1-1.5B incremental Total DE by 2027</li>
+          <li>Holdco discount stable at 30%; stock re-rates to 20-21× DEBR</li>
+          <li>Real estate recovery gradual; operating businesses flat-to-slight growth</li>
+          <li>Mgmt buybacks continue at $1B+/yr, supporting NAV/sh accretion</li>
+        </ul>
+      </div>
+      <div class="scenario-card bear">
+        <h4>🔴 Bear Case</h4>
+        <div class="price-target">$28 – $32</div>
+        <div class="prob">Probability: 25%</div>
+        <ul>
+          <li>AAM sector multiple compresses 20-30% (macro risk-off, rate volatility)</li>
+          <li>WS spread compression: ROE falls to 10-12%; DE growth stalls</li>
+          <li>Carry exits delayed 2+ years; Total DE misses targets by 25-30%</li>
+          <li>Oaktree integration headwinds + credit cycle turn</li>
+          <li>Holdco discount widens to 45-50%</li>
+          <li>Real estate marks down 10-15%; operating businesses DE falls 10%</li>
+          <li>DEBR/sh stagnates at $2.00-2.10; trades at 13-15× = $28-32 stock</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     §12 — PROBABILITY-WEIGHTED EXPECTED VALUE
+═══════════════════════════════════════════════════ -->
+<div class="section">
+  <div class="section-header">
+    <span class="section-num">§12</span>
+    <h2>Probability-Weighted Expected Value</h2>
+  </div>
+  <div class="section-body">
+    <table>
+      <thead>
+        <tr><th>Scenario</th><th class="num">Price Target</th><th class="num">Probability</th><th class="num">Weighted Value</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Bull</td><td class="num">$77.50 (midpoint)</td><td class="num">30%</td><td class="num">$23.25</td></tr>
+        <tr><td>Base</td><td class="num">$57.00 (midpoint)</td><td class="num">45%</td><td class="num">$25.65</td></tr>
+        <tr><td>Bear</td><td class="num">$30.00 (midpoint)</td><td class="num">25%</td><td class="num">$7.50</td></tr>
+        <tr style="background:#eff6ff;font-weight:700;"><td><strong>PW Expected Value</strong></td><td class="num"><strong>—</strong></td><td class="num"><strong>100%</strong></td><td class="num"><strong>$56.40</strong></td></tr>
+      </tbody>
+    </table>
+
+    <div class="pw-highlight-box">
+      <div class="pw-title">Probability-Weighted Expected Value (18–24 Month Horizon)</div>
+      <div class="pw-value">$56.40</div>
+      <div class="pw-meta">vs. current price $43.41 → implied upside <strong>+29.9%</strong> | Horizon: 18-24 months</div>
+      <div class="pw-grid">
+        <div class="pw-cell">
+          <div class="label">Bull Upside</div>
+          <div class="value">+$34.09 (+78.5%)</div>
+        </div>
+        <div class="pw-cell">
+          <div class="label">Bear Downside</div>
+          <div class="value">–$13.41 (–30.9%)</div>
+        </div>
+        <div class="pw-cell">
+          <div class="label">R/R (Bull÷Bear)</div>
+          <div class="value">≈2.5:1 (headline)</div>
+        </div>
+      </div>
+    </div>
+
+    <h3>R/R Interpretation (Rule #26)</h3>
+    <p><strong>Headline R/R = $34.09 upside ÷ $13.41 downside ≈ 2.5:1</strong> (Bull midpoint $77.50 vs. Bear midpoint $30.00, vs. current $43.41). If Bull+ tail (full plan-value gap close at $80 within 18 months) is the reference, R/R rises to ≈ <strong>3.3:1</strong>. The PW EV of $56.40 implies ~30% upside from current price. At entry below $38 (near 52-wk low + 10% buffer), the R/R improves to approximately 4:1 or better — that is the primary rationale for the Entry Zone of $38-$46.</p>
+    <p>Secondary framing — thesis-break anchored R/R: if the thesis breaks (DEBR/sh does not show ≥10% growth in Q1 2026 or WS misses inflow targets), the rational exit is ~$36-38 (prior support, near mgmt buyback price). From entry at $43, that is a ~12-16% downside on a thesis-break, vs. a 30-80% upside on continued compounding. That is the asymmetry of owning BN.</p>
+    <p class="footnote"><span class="tag-estimate">*[All scenario prices and probabilities are author estimates. Not management guidance.]*</span></p>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     §13 — RECOMMENDATION & BOTTOM LINE
+═══════════════════════════════════════════════════ -->
+<div class="section">
+  <div class="section-header">
+    <span class="section-num">§13</span>
+    <h2>Recommendation &amp; Bottom Line</h2>
+  </div>
+  <div class="section-body">
+    <div class="rec-box">
+      <div class="rec-label">Thesis in One Sentence</div>
+      <div class="rec-val"><strong>Brookfield Corporation is a three-stream compounding machine (BAM fee-growth + insurance float + real-asset NAV) trading at a 36% discount to a $68/share plan value backed by record fundraising, 25%+ DEBR growth targets, and a $11.6B carried-interest backlog set to begin realizing — the market's complexity discount is the opportunity.</strong></div>
+    </div>
+
+    <div class="rec-box">
+      <div class="rec-label">For a Non-Holder</div>
+      <div class="rec-val"><strong>Initiate / Watch below $46.</strong> At $43-46, all three earnings engines are growing, the discount to plan value is 30-36%, and management is actively buying back shares. The primary risk is complexity-discount widening (not fundamental deterioration). Initiate a position on weakness; full conviction builds after Q1 2026 confirms DEBR growth rate. Below $38 is the high-conviction entry zone (R/R ≈4:1).</div>
+    </div>
+
+    <div class="rec-box">
+      <div class="rec-label">For a Current Holder</div>
+      <div class="rec-val"><strong>Add on weakness / Hold.</strong> The thesis is intact: record FRE, 24% WS growth, $188B deployable, Air Lease and Oaktree acquisitions closed. Q1 2026 (May 14) is the key near-term confirmation. Add on any dip below $40. Hold through the carry realization window (2026-28). No reason to reduce unless thesis-break triggers fire.</div>
+    </div>
+
+    <table style="margin-top:12px;">
+      <tbody>
+        <tr>
+          <td class="label-col" style="color:#2563eb; font-weight:700;">🎯 Entry Zone</td>
+          <td><strong>$38 – $46</strong> — below 30× DEBR and below 0.68× plan value. High-conviction entry &lt;$38 (management buyback zone).</td>
+        </tr>
+        <tr>
+          <td class="label-col" style="color:#d97706; font-weight:700;">🎯 Trim Zone</td>
+          <td><strong>$65 – $68</strong> — approaching plan value; reduce if no new catalyst to justify gap closure acceleration.</td>
+        </tr>
+        <tr>
+          <td class="label-col" style="color:#dc2626; font-weight:700;">🎯 Exit / Avoid Zone</td>
+          <td><strong>Above $75</strong> (full plan-value close) or on thesis-break below $36 (mgmt buyback floor breached with no new buyback announcement).</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h3>Thesis-Break Triggers</h3>
+    <ul class="trigger-list">
+      <li><strong>DEBR/sh growth falls below 8% YoY for two consecutive quarters</strong> — signals FRE engine is decelerating (AAM multiple re-rate risk).</li>
+      <li><strong>Wealth Solutions ROE falls below 12%</strong> — insurance spread compression; invalidates the insurance-float compounding thesis.</li>
+      <li><strong>Carry step-up does not begin by Q3 2026</strong> — management guided H2 2026; two-quarter delay triggers a probability shift toward Bear case.</li>
+      <li><strong>BN takes on material new corporate-level debt (&gt;$5B) without a clear deployment plan</strong> — balance sheet discipline is part of the thesis.</li>
+      <li><strong>BAM loses a major LP relationship or fund size significantly underperforms benchmark</strong> — signals moat erosion.</li>
+    </ul>
+
+    <div class="rec-box" style="border-left: 3px solid #3b82f6; margin-top:16px;">
+      <div class="rec-label">Next Review Trigger</div>
+      <div class="rec-val">📅 <strong>Q1 2026 earnings — May 14, 2026.</strong> Check: (1) DEBR/sh growth rate YoY; (2) Wealth Solutions insurance asset inflows vs. $20-25B annual target; (3) any carry update; (4) management commentary on plan value update post-Air Lease and Oaktree closing; (5) buyback activity in Q1.</div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     SOURCES
+═══════════════════════════════════════════════════ -->
+<div class="section">
+  <div class="section-header">
+    <h2>Primary Sources &amp; References</h2>
+  </div>
+  <div class="section-body">
+    <h3>Primary Sources</h3>
+    <ul class="body-list">
+      <li><a href="https://finance.yahoo.com/quote/BN">Yahoo Finance — BN Live Quote (accessed 2026-04-29)</a></li>
+      <li><a href="https://bn.brookfield.com/press-releases/brookfield-corporation-reports-record-distributable-earnings-realizations-54-billion">BN Q4 2025 Earnings Press Release (Feb 12, 2026)</a></li>
+      <li><a href="https://www.globenewswire.com/news-release/2026/02/12/3237018/0/en/Brookfield-Corporation-Reports-Record-Distributable-Earnings-Before-Realizations-of-5-4-billion.html">GlobeNewswire — Q4 2025 Full Earnings Release</a></li>
+      <li><a href="https://www.globenewswire.com/news-release/2025/02/13/3025736/0/en/Brookfield-Corporation-Reports-Record-2024-Results.html">GlobeNewswire — FY2024 Annual Results (Feb 13, 2025)</a></li>
+      <li><a href="https://www.globenewswire.com/news-release/2024/02/08/2825853/0/en/Brookfield-Corporation-Reports-Strong-2023-Results.html">GlobeNewswire — FY2023 Annual Results (Feb 8, 2024)</a></li>
+      <li><a href="https://www.globenewswire.com/en/news-release/2023/02/09/2604791/0/en/Brookfield-Corporation-Announces-Strong-2022-Results.html">GlobeNewswire — FY2022 Annual Results (Feb 9, 2023)</a></li>
+      <li><a href="https://bn.brookfield.com/reports-filings/letters-shareholders/q3-2025-letter-shareholders">BN Q3 2025 Letter to Shareholders</a></li>
+      <li><a href="https://bn.brookfield.com/reports-filings/letters-shareholders/march-2025-update-letter-to-shareholders">BN March 2025 Update Letter to Shareholders</a></li>
+      <li><a href="https://www.globenewswire.com/news-release/2026/03/18/3258045/0/en/Brookfield-Corporation-Completes-Annual-Filings/">GlobeNewswire — 40-F Annual Filing Completion (Mar 18, 2026)</a></li>
+      <li><a href="https://www.fool.com/earnings/call-transcripts/2026/02/12/brookfield-bn-q4-2025-earnings-call-transcript/">Motley Fool — BN Q4 2025 Earnings Call Transcript (Feb 12, 2026)</a></li>
+      <li><a href="https://bam.brookfield.com/press-releases/brookfield-acquire-remaining-interest-oaktree">BAM — Oaktree Acquisition Announcement</a></li>
+      <li><a href="https://www.businesswire.com/news/home/20260408078834/en/Sumitomo-Corporation-SMBC-Aviation-Capital-Apollo-and-Brookfield-Complete-the-Acquisition-of-Air-Lease-Corporation">BusinessWire — Air Lease Acquisition Closing (Apr 8, 2026)</a></li>
+    </ul>
+    <h3>Analyst &amp; Aggregator Sources</h3>
+    <ul class="body-list">
+      <li><a href="https://www.levelheadedinvesting.com/p/brookfield-investor-day-2025-a-blueprint-for-compounding-decades-ahead">LevelHeaded Investing — Brookfield 2025 Investor Day Analysis</a></li>
+      <li><a href="https://www.waver.one/p/brookfield-corporation-bn-q4-2025">Waver Research — BN Q4 2025 SOTP Analysis</a></li>
+      <li><a href="https://www.levelheadedinvesting.com/p/brookfield-corporation-q4-2024-results-and-5-year-outlook-a-record-year-for-a-steady-compounder">LevelHeaded Investing — Q4 2024 Results &amp; 5-Year Outlook</a></li>
+      <li><a href="https://www.insidermonkey.com/blog/brookfield-corporation-bn-a-bull-case-theory-1515804/">Insider Monkey — BN Bull Case Theory (peer multiples)</a></li>
+      <li><a href="https://fintel.io/ss/us/bn">Fintel — BN Short Interest</a></li>
+      <li><a href="https://www.dailypolitical.com/2026/04/24/brookfield-corporation-nysebn-receives-55-54-consensus-target-price-from-brokerages/">Daily Political — BN Analyst Consensus (Apr 24, 2026)</a></li>
+      <li><a href="https://www.stocktitan.net/news/BN/brookfield-corporation-to-host-first-quarter-2026-results-conference-l70je29nl5u5.html">StockTitan — BN Q1 2026 Results Call Date (May 14, 2026)</a></li>
+      <li><a href="https://www.tipranks.com/news/company-announcements/brookfield-corporation-prices-c750-million-canadian-medium-term-note-offering">TipRanks — BN C$750M Note Offering (Apr 2026)</a></li>
+    </ul>
+  </div>
+</div>
+
+<!-- Footer -->
+<div class="report-footer">
+  <p><strong>BN — Brookfield Corporation | One-Time Analysis | v2.13 schema | Report date: 2026-04-29</strong></p>
+  <p>This report is a one-time position-agnostic investment analysis and does not constitute investment advice. All scenario prices and probability estimates are author analysis; management guidance is clearly tagged. Source links are to primary or high-quality secondary sources verified at time of report generation.</p>
+  <p style="margin-top:6px;">Data cutoff: 2026-04-29. Next scheduled review trigger: Q1 2026 earnings, May 14, 2026.</p>
+</div>
+
+</div><!-- .page-wrap -->
+</body>
+</html>

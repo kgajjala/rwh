@@ -99,7 +99,11 @@ kg-invest-wiki/
     | 🎯 | Price target / entry zone / trim zone |
 
     **Bold** punchlines and thesis-carrying numbers only. *Italics* for source attributions and meta-tags (*[Estimate]*). No HTML `<span style>` — GitHub render gaps. No hex colors.
-18. **Summary section at the top of every ticker page**. `[TICKER].md` opens (after the header block, before Business Overview) with a `## Summary` section of **≤10 bullets** distilled from Sections 1–13 — not new analysis. Cover (pick most relevant): thesis sentence, moat verdict, pivotal question, recommendation verbs (non-holder / holder), entry/trim zones, BAIT verdict, next catalyst with date, top 1–2 risks, valuation anchor, price action. Use Rule #17 emoji. Refresh whenever Section 13 or Section 9 changes.
+18. **Summary block** — `[TICKER].md` opens with a `## Summary` (after header, before Business Overview) in 4 fixed parts. Refresh whenever §13 or §9 changes. **Lazy migration**: apply on the next material update (Workflow B / weekly cron); do not backfill untouched tickers.
+    1. **Thesis + verbs** — 1–2-sentence thesis, then verb line: `🟢 Non-holder: <verb> · 🟡 Holder: <verb>`.
+    2. **Scenario table** (8 cols): `52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R`. Percentile = LLM judgment. R/R per Rule #26.
+    3. **KPI strip** (6 cells): slot 1 BAIT, slot 2 Moat, slot 3 FY26E P/E (or asset-class-appropriate primary multiple), slots 4–5 ticker-relevant (FCF yld / Div yld / Short int. / JV-or-M&A / segment KPI / FX, etc.), slot 6 Next catalyst.
+    4. **Why / Why not / Next read** — 3 🟢 Why bullets + 3 ⚠️ Why not bullets, **one bullet per line**, then a single `📅 Next read:` line.
 19. **Annual shareholder letters are required primary sources**. Every Workflow A ingest fetches and synthesizes 5 fiscal years of CEO/founder letters; letters take precedence over third-party summaries. Three patterns:
 
     | Pattern | When | Fetch |

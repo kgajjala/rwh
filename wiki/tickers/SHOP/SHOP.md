@@ -1,27 +1,40 @@
 # SHOP — Shopify Inc.
 
-> **Schema**: v2.9
-> **Last Updated**: 2026-04-25
+> **Schema**: v2.13
+> **Last Updated**: 2026-04-29
 > **Status**: Active
-> **Live Price Verified**: **$125.83** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/SHOP))
+> **Live Price Verified**: **$121.26** at April 29, 2026 intraday (–0.65% session) ([stockanalysis.com](https://stockanalysis.com/stocks/shop/))
 > **Ticker Type**: Capital-light platform / commerce infrastructure
 
 ---
 
 ## Summary
 
-- 🟢 **Thesis**: World's largest independent commerce-infrastructure platform (**Wide and Widening moat**) at ~85× FY26E EPS — accelerating revenue (+30% at $11.6B scale), $2B FCF, first-ever buyback, first-mover in agentic AI commerce; market is mid-flight on re-rating from $88 trough.
-- 🟢 **For a non-holder: Initiate** at $125.83 — current price at upper edge of attractive entry zone; PW EV $212 (~+68% over 3 yr).
-- 🟢 **For a current holder: Add / Hold** — no reason to trim; add aggressively on any drawback toward $100–$110.
-- 🎯 **Attractive entry zone**: **$100 – $125** (60–80× FY26E P/E; below DCF intrinsic $180–220).
-- 🎯 **Trim zone**: **$185 – $220** (top of analyst range; approaches DCF intrinsic mid-point).
-- 📈 **Price action**: $125.83, **–30.9% from 52-wk high** ($182.19), +42.8% above 52-wk low ($88.14) — strong recovery off low.
-- 📅 **Next catalyst**: **Q1 2026 earnings — ~May 2026**. Tests low-30s% revenue guide; first quarter with Agentic Storefronts default-on.
-- ⚠️ **Top risk**: Revenue deceleration <20% (Low-Moderate prob, High impact) — 84× P/E does not survive sub-20%.
-- ⚠️ **Second risk**: Multiple compression on broad SaaS reset (Moderate prob, High impact).
-- 🟢 **Moat verdict**: **Wide and Widening** — switching costs (integrated stack: store + payments + POS + shipping + lending + ads + AI storefronts) + network effects (875M+ shoppers, Shop Pay) + first-mover position as the AI-commerce standard-setter (UCP co-developed with Google, OpenAI's Instant Checkout retreat).
-- 🟢 **BAIT verdict**: **Triple overlap (B+A+I)** — Conviction **Moderate-High**. PW EV ~$212 (3-yr) = +68% / ~19%/yr; **~10:1 risk/reward** (Bull $252 / Bear $113), rises to ~15:1 with the Bull+ $325 tail.
-- 📈 **Primary-source signal**: The **first-ever $2B buyback** authorized at the $125–135 zone (Feb 2026) is the cleanest Tobi-Lütke intrinsic-value signal in 11 years as a public company — Shopify never repurchased stock 2015–2025. Combined with the April 2025 *"AI is non-optional"* internal memo + the Universal Commerce Protocol (UCP) open-standard launch, Shopify is positioned as the *creator* of agentic AI commerce, not the disruption target. AI-attributed orders +11–15× since Jan 2025; AI traffic +7× — the early evidence supports the thesis.
+**Thesis** — World's largest independent commerce-infrastructure platform (Wide & Widening moat); revenue accelerating (+30% at $11.6B scale), $2B FCF, first-ever buyback, first-mover in agentic AI commerce. Market mid-flight on re-rating from $88 trough; ~$121 sits inside entry zone with class-leading R/R.
+
+🟢 **Non-holder: Initiate** ($100–125)  ·  🟢 **Holder: Add / Hold** (add aggressively on $100–110 drawback)
+
+| 52-wk range | Now | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|---|
+| $88.14 — $182.19 | **$121.26** (35th %ile) | $113 (3-yr) | $100–125 | $193 / $212 | $185–220 | $252 (Bull+ $325) | **~15.8:1** (rises to ~24:1 with Bull+ tail) |
+
+| BAIT | Moat | FY26E P/E | $2B buyback | AI orders | Next catalyst |
+|---|---|---|---|---|---|
+| Triple (B+A+I), **Moderate-High** | Wide & Widening | ~85× | First-ever (Feb 2026) | +11–15× since Jan 2025 | 📅 Q1 — ~May 2026 |
+
+**🟢 Why**
+
+- First-ever $2B buyback authorized at $125–135 zone (Feb 2026) — cleanest Tobi-Lütke intrinsic-value signal in 11 yrs as a public company; SHOP never repurchased stock 2015–2025.
+- AI thesis showing tangible early proof: AI-attributed orders **+11–15× since Jan 2025**, AI traffic **+7×**; Universal Commerce Protocol (UCP) co-developed with Google + OpenAI's Instant Checkout retreat positions SHOP as *creator* of agentic AI commerce, not the disruption target.
+- Triple BAIT (B+A+I); revenue accelerating (+30% at $11.6B scale); $2B FCF; PW EV $212 (+68%, 3-yr / ~19%/yr); R/R ~15.8:1 — class-leading among Active tickers.
+
+**⚠️ Why not**
+
+- Revenue deceleration <20% (Low-Moderate prob, High impact) — ~85× FY26E P/E does not survive sub-20% growth. Q1 print May 2026 is binary.
+- Multiple compression on broad SaaS reset (Moderate prob, High impact) — premium-to-peers multiple is path-dependent on rate environment.
+- Amazon Buy with Prime could gain material GMV over time; AI tools could commoditize e-commerce subscription pricing on a 5+ year horizon.
+
+**📅 Next read** — Q1 2026 earnings, ~May 2026. Watch: low-30s% revenue guide, first quarter with Agentic Storefronts default-on, attach-rate trajectory, international + B2B mix, UCP adoption signals.
 
 ---
 

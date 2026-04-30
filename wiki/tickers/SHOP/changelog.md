@@ -4,6 +4,31 @@
 
 ---
 
+## [2026-04-29] — Schema v2.13 Summary migration + price refresh
+
+**Trigger**: Manual format migration to v2.13 Rule #18 Summary block (4-part structure: thesis+verbs · 8-col scenario table · 6-cell KPI strip · 3+3 Why/Why-not bullets one-per-line). Live price re-verified.
+
+**Sources reviewed**: [stockanalysis.com — SHOP live quote](https://stockanalysis.com/stocks/shop/) (intraday 2026-04-29).
+
+### What Changed
+- Header: Schema v2.9 → v2.13; Last Updated 2026-04-25 → 2026-04-29; live price $125.83 (4/24) → **$121.26 (4/29, –0.65% session)**.
+- §0 Summary: rebuilt in v2.13 4-block structure. Scenario table surfaces R/R explicitly per Rule #26 — **~15.8:1 at spot** anchored to §11 Bull $252 / Bear $113 (3-yr terminals), rises to ~24:1 incl. Bull+ $325 tail. KPI strip slots 4–5 carry $2B first-ever buyback + AI orders +11–15× since Jan 2025 — most thesis-relevant signals for SHOP.
+- No section content (§1–§13) altered — pure format migration plus price-line refresh. Thesis, scenarios, recommendation, and zones unchanged from 2026-04-25 baseline.
+
+### Thesis Status
+- **Overall**: Unchanged. Initiate (non-holder, $100–125 entry) / Add-Hold (current holder).
+- **BAIT delta**: Unchanged — Triple overlap (B+A+I), Conviction Moderate-High.
+- **Price target delta**: Unchanged — Bull $252 / Base $193 / Bear $113 (3-yr); Bull+ $325 tail; PW EV ~$212.
+- **Catalyst & Sentiment delta**: Price drifted from $125.83 (4/24) → $121.26 (4/29) = –3.6% over 5 sessions; sits inside entry zone. R/R *improved* mechanically at lower spot.
+
+### Recommendation
+- **For a non-holder**: 🟢 Initiate — entry $100–125 unchanged; spot now mid-zone.
+- **For a current holder**: 🟢 Add-Hold — add aggressively on $100–110 drawback.
+
+**Next review trigger**: Q1 2026 earnings — ~May 2026. Hard catalyst.
+
+---
+
 ## [2026-04-25] — v2.9 Structural Consolidation (15 → 13 sections)
 
 **Trigger**: User feedback after v2.8 SHOP review identified two structural duplications: Section 1 ("Why Does This Company Exist? + Pivotal Investment Question") was redundant with the Business Overview + Pivotal Investment Question header subsections, and Section 3 ("Geographic Revenue Mix") + Section 4 ("Revenue Mix & Business Model") covered the same conceptual ground.

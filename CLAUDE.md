@@ -1,4 +1,4 @@
-# CLAUDE.md — kg-invest-wiki Schema (v2.12)
+# CLAUDE.md — kg-invest-wiki Schema (v2.14)
 
 Instruction file for the LLM agent that maintains this wiki. **Read this file at the start of every session before modifying `wiki/`, `raw/`, or `outputs/`.**
 
@@ -10,7 +10,7 @@ A personal, position-agnostic investment knowledge base maintained by an LLM age
 
 - **Owner**: Karthik G
 - **Started**: April 2026
-- **Schema version**: v2.12 (April 2026)
+- **Schema version**: v2.14 (April 2026)
 - **Model**: Karpathy LLM Wiki pattern, adapted
 
 ### What this wiki is *not*
@@ -141,11 +141,16 @@ kg-invest-wiki/
       - (c) **Tied to a specific thesis-break trigger** — a quantified condition the page commits to monitor.
       - (d) **Tied to a specific large discretionary investment** with uncertain outcomes (multi-billion capex bet, in-flight integration).
     - 5-Year Risk Factor Evolution Arc collapsed to a 2–4 sentence synthesis paragraph (per Rule #21).
-26. **Risk/Reward calculation discipline**. R/R cited in Summary, §12 (PW EV Interpretation), and `watchlist.md` MUST anchor to the *same §11 scenario set*.
-    - **Standard**: R/R = (Bull % upside) ÷ (Bear % downside) using midpoint or named scenario prices vs. current verified live price. Higher = more favorable.
-    - **Multiple Bull tiers** (Bull + Bull+): state both, e.g., *"≈10:1 R/R (Bull / Bear), rises to ≈15:1 with Bull+ tail."* Don't average silently.
-    - **Stop-loss / thesis-break-anchored R/R** is acceptable as a *secondary* framing in §12; the *headline* R/R is always §11 Bull-vs-Bear.
+26. **Valuation discipline — one 5-year forward lens**.
+    - **Horizon**: §11 scenarios always use a 5-year terminal horizon. Bull/Base/Bear (+ optional Bull+) probabilities sum to 100%.
+    - **PW EV is the sole buy/sell anchor**. §13 zones derive mechanically from §12 PW EV:
+      - **Entry** = price ≤ PW EV − MoS (typ. 15–25% discount)
+      - **Trim** = PW EV < price < Bull
+      - **Exit / avoid** = price ≥ Bull
+    - **R/R** = (Bull % upside) ÷ (Bear % downside) vs. current spot, anchored to the §11 scenario set. Cite consistently in Summary, §12, watchlist.md. Multiple Bull tiers — state both (e.g., *"~10:1 Bull/Bear, rises to ~15:1 with Bull+ tail"*).
     - **Watchlist 3-column collapse**: blend Bull + Bull+ via probability-weighted average so PW EV reconciles to the canonical §11 number.
+
+    Consensus analyst targets and 12–18-month re-rating math are *inputs* to scenario probabilities — never anchors for §13 zones. **Lazy migration**: apply on next material update (Workflow B); do not backfill.
 
 ---
 
@@ -165,8 +170,8 @@ The page header block (Schema / Last Updated / Status / Live Price), Summary, Bu
 | 8 | Valuation & Comparable Analysis | Multiples, peer set, "fair price" range |
 | 9 | **Catalyst & Sentiment Tracker** | Analyst ratings, short interest, options skew, insider activity, news, upcoming events |
 | 10 | BAIT Framework | Behavioral / Analytical / Informational / Technical lenses |
-| 11 | Bull / Bear / Base Cases | Scenario price targets with explicit probabilities summing to 100% |
-| 12 | Probability-Weighted Expected Value | PW EV vs. current price; horizon stated; R/R per Rule #26 |
+| 11 | Bull / Bear / Base Cases | 5-year terminal scenario price targets per Rule #26 |
+| 12 | Probability-Weighted Expected Value | PW EV vs. current price per Rule #26 |
 | 13 | **Recommendation & Bottom Line** | Action verb + price-level rationale + thesis-break triggers + next review trigger |
 
 ### Section 9 — Catalyst & Sentiment Tracker (detail)
@@ -205,7 +210,7 @@ Drives weekly incrementals. Standardized fields:
 ## Frameworks (one-line index)
 
 - **BAIT** (Mauboussin) — Section 10. Four lenses (Behavioral / Analytical / Informational / Technical), each rated Strong / Moderate / Weak. Triple+ overlap = highest conviction. Detail: `wiki/frameworks/bait.md`.
-- **Moneyball** — Sections 11/12. Bull/Base/Bear price targets with explicit probabilities summing to 100%; PW EV vs. current price with horizon. Detail: `wiki/frameworks/moneyball.md`.
+- **Moneyball** — Sections 11/12. 5-year terminal Bull/Base/Bear scenarios; PW EV per Rule #26. Detail: `wiki/frameworks/moneyball.md`.
 - **Asset Type Rules** — Per-asset-class key metrics + valuation primary (capital-light platform, three-sided marketplace, franchise royalty, financial/brokerage, pharma, managed care, mortgage, consumer staples, etc.). Detail: `wiki/frameworks/asset-types.md`.
 
 ---
@@ -506,4 +511,4 @@ Browse evolution:
 - `git log -p CLAUDE.md` — full diffs
 - `git blame CLAUDE.md` — per-line attribution
 
-Each `SCHEMA: vX.Y — ...` commit body captures the *rationale*, not just the *what* — that body is the durable record. v2.12 (April 2026) is current. Major changes bump the version; minor edits within a version do not.
+Each `SCHEMA: vX.Y — ...` commit body captures the *rationale*, not just the *what* — that body is the durable record. v2.14 (April 2026) is current. Major changes bump the version; minor edits within a version do not.

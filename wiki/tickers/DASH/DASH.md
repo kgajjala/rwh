@@ -10,13 +10,13 @@
 
 ## Summary
 
-**Thesis** — Dominant U.S. local-commerce marketplace (Narrow moat, 60–67% share) with credible advertising + international + autonomous margin-expansion optionality, but the multiple already prices aggressive execution; 5-yr terminal PW EV sits *below* current price even after the –41% drawdown from $285.
+**Thesis** — Dominant U.S. local-commerce marketplace (Narrow moat, 60–67% share) with credible advertising + international + autonomous margin-expansion optionality — but 5-yr PW EV $130 sits 23% *below* spot $169.33. Stock in **Trim zone** per Rule #26; no margin of safety at current price.
 
-🟡 **Non-holder: Watch** (entry $140–155)  ·  🟡 **Holder: Hold** (do not add, do not exit pre-Q1)
+🔴 **Non-holder: Avoid** (Watch <$110)  ·  🔴 **Holder: Reduce** (spot in Trim zone)
 
 | 52-wk range | Now | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|---|
-| $143.30 — $285.50 | **$169.33** (18th %ile) | $50 (5-yr) | $140–155 | $110 / $130 | $245–275 | $215 (5-yr) | **~0.4:1** |
+| $143.30 — $285.50 | **$169.33** (18th %ile) | $50 (5-yr) | $98–110 | $110 / $130 | $130–215 | $215 (5-yr) | **~0.4:1** |
 
 | BAIT | Moat | EV/EBITDA TTM | US share | Subscribers | Next catalyst |
 |---|---|---|---|---|---|
@@ -24,17 +24,17 @@
 
 **🟢 Why**
 
-- Q1 2026 print May 6 is binary — first full quarter with Deliveroo consolidated; $675–775M adj EBITDA guide; H2 2026 grocery/retail unit-economics inflection (per CFO Inukonda) is the dominant 2026 catalyst.
-- Wolt-precedent execution (now a profitable contributor) lowers Deliveroo integration-risk probability from 20% → 12–15%; Tony Xu's [FY2025 letter](https://ir.doordash.com/news/news-details/2026/DoorDash-Releases-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx) explicit on the *"massive and expensive undertaking"* framing.
-- SBC guide halving from $2.6B → $1.3–1.4B FY26 = meaningful earnings-quality improvement; $5B untouched buyback as tail-risk floor; consensus median target $252–278 implies +50–65% 12–18mo re-rate optionality.
+- Dominant U.S. local-commerce marketplace (60–67% share, 3× Uber Eats); first sustained year of GAAP profitability ($935M FY25 NI, 7.6× growth); $2.78B Adj EBITDA at +52%.
+- SBC guide halving from $2.6B → $1.3–1.4B FY26 = meaningful earnings-quality improvement; $5B untouched buyback as tail-risk floor.
+- Wolt-precedent execution (now a profitable contributor) lowers Deliveroo integration-risk probability from 20% → 12–15%; H2 2026 grocery/retail unit-economics inflection (per CFO Inukonda) is the dominant 2026 catalyst.
 
 **⚠️ Why not**
 
-- 5-yr PW EV $130 sits ~23% *below* current $169 — terminal economics don't validate current multiple even after –41% drawdown. Bull/Bear R/R ≈0.4:1 at spot.
+- **5-yr PW EV $130 sits 23% below spot $169.33** — stock in §13 Trim zone per Rule #26. R/R ~0.4:1 (Bull $215 / Bear $50) at spot is unfavorable; would need to drop into $98–110 entry zone to clear MoS.
 - Gig-worker reclassification (AB5-federal) — critical impact, 15% prob; would destroy variable-cost Dasher model. **Not priced in** (per Rule #25).
 - Three-way integration risk (Wolt + Deliveroo + SevenRooms simultaneously) + ad-monetization plateau risk vs. Amazon analog + Instacart cross-category escalation.
 
-**📅 Next read** — Q1 2026 earnings, May 6 post-close. Watch: adj EBITDA vs. $675–775M guide, H2 pacing commentary, Deliveroo run-rate toward $200M FY target, advertising rev growth >25% YoY, US share defense vs. Uber Eats.
+**📅 Next read** — Q1 2026 earnings, May 6 post-close. Watch: adj EBITDA vs. $675–775M, H2 pacing, Deliveroo run-rate, ad-rev growth >25%. A massive positive surprise lifting Base/Bull would raise PW EV; absent that, the trim discipline holds.
 
 ---
 
@@ -530,27 +530,27 @@ Primary-source disclosures underappreciated by media:
 
 | Current Price | PW EV | Return (5-yr) | Annualized |
 |--------------|-------|--------------|-----------|
-| $176.78 | $130 | **–26%** | ~–6%/yr |
+| $169.33 | $130 | **–23%** | ~–5%/yr |
 
-**Interpretation**: On a 5-year Buffett/Munger lens, DASH is *modestly overvalued* even after the –38% drawdown from $285. The stock would need to re-rate higher than $177 within 1–2 years (which is *plausible* on H2 earnings execution) but terminal-year economics don't validate the current multiple. The trade, if taken, is a tactical bet on H2 re-acceleration, not a compound-forever thesis.
+**Interpretation** (per Rule #26 single 5-yr lens): DASH at $169.33 trades **23% above** PW EV $130 — sits firmly in the §13 **Trim zone** ($130 < price < Bull $215). R/R **~0.4:1** (Bull $215 / Bear $50) at spot is unfavorable. Entry zone re-derives mechanically: ≤ PW EV − MoS = **$98–$110** (15–25% discount).
 
-Consensus median target of ~$252–278 implies +43–57% upside in ~12–18 months. This is the gap between 1–2 year re-rating potential and 5-year terminal value — the "trade vs. hold" divergence is wider than usual for DASH.
+Consensus median target $252–278 is an *input* to scenario probabilities (informs Bull case), never an anchor for entry. The "tactical re-rating" framing previously used here (12–18-month consensus target chase) is incompatible with Rule #26 and has been retired.
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: DoorDash is the dominant U.S. local-commerce marketplace with credible advertising + international + autonomous margin-expansion optionality, but at ~26× trailing EBITDA the multiple already prices in aggressive execution; Buffett-lens fair value is $120–140 and the 5-year PW EV sits below the current price even after the –38% selloff.
+**Thesis in one sentence**: DoorDash is the dominant U.S. local-commerce marketplace with credible advertising + international + autonomous margin-expansion optionality, but the 5-year PW EV ($130) sits 23% *below* spot ($169.33) — stock is in the Trim zone per Rule #26.
 
-**For a non-holder**: 🟡 **Watch** at $176.78. Initiate only if price drops into the **$140–155 attractive entry zone**, where Buffett-lens fair value becomes the floor and asymmetry tilts favorable. At current prices the 5-year PW EV of $130 is below spot — inadequate compensation for execution risk, integration risk (Wolt + Deliveroo + SevenRooms simultaneously), and regulatory tail risk.
+**For a non-holder**: 🔴 **Avoid** at $169.33. Watch for a drop into the **$98–$110 entry zone** (PW EV $130 minus 15–25% MoS). Spot above PW EV offers no margin of safety; bull-case re-rating to $250+ requires 5-yr execution that's already partially in the Bull-case probability weight, not a delta worth chasing.
 
-**For a current holder**: 🟡 **Hold** — do not add, do not exit. The Q1 2026 print on May 6 is a hard catalyst that will either confirm the H2 re-acceleration thesis (hold, possibly add on beat) or weaken it (reduce toward target size). Exiting pre-print at 38% off the high is asymmetric — you crystallize the loss and forfeit the re-rating optionality on consensus upgrades. The $5B untouched buyback is a tail-risk mitigant (downside floor from potential capital-return pivot).
+**For a current holder**: 🔴 **Reduce** — spot in Trim zone ($130 < $169.33 < Bull $215). Lighten size on bounces. The Q1 2026 print on May 6 could shift the read: a meaningful Base/Bull probability re-weight (e.g., H2 inflection delivers + ad-rev sustains >25%) would lift PW EV; absent that, the trim discipline holds.
 
-🎯 **Attractive entry zone**: **$140 – $155** (rationale: 15–18× 2026E Adj EBITDA; aligns with Buffett fair-value zone; below Stifel's $185 bear case target)
+🎯 **Attractive entry zone**: **$98 – $110** (PW EV $130 − 15–25% MoS per Rule #26)
 
-🎯 **Trim zone**: **$245 – $275** (rationale: top of analyst consensus band; 22–24× 2026E Adj EBITDA re-rate would already be priced; further upside becomes story-dependent)
+🎯 **Trim zone**: **$130 – $215** (PW EV < spot < Bull; spot $169.33 currently here)
 
-🔴 **Exit / avoid zone**: **>$300** (rationale: 2025-peak valuation required pricing in all three of advertising + international + autonomous successfully; the prior $285 top proved unsustainable)
+🔴 **Exit / avoid zone**: **≥ $215** (≥ Bull case; structural cap exceeded)
 
 **Thesis-break triggers** ⚠️ (would force re-rating toward Exit / Avoid):
 - ⚠️ Q1 2026 adj EBITDA < $650M absent an external shock of clear magnitude

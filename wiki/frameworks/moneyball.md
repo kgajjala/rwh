@@ -14,9 +14,7 @@ Expected Return     = (EV − Current Price) / Current Price × 100%
 Asymmetry Ratio     = Bull Upside % / Bear Downside %
 ```
 
-A position is compelling when:
-- Expected Return > 20% over the thesis horizon, AND
-- Asymmetry Ratio > 2:1 (upside is at least 2x the downside)
+A position is compelling when **current price ≤ PW EV − margin of safety** (typ. 15–25% discount to PW EV) per CLAUDE.md Rule #26. Asymmetry Ratio > 2:1 is a useful secondary check but not the primary buy/sell anchor.
 
 ---
 
@@ -48,9 +46,9 @@ A position is compelling when:
 ```
 | Scenario | Price Target | Time Horizon | Key Assumptions | Probability |
 |----------|-------------|--------------|-----------------|-------------|
-| 🐂 Bull  | $X          | 18 months    | [2-3 bullets]   | X%          |
-| Base     | $Y          | 18 months    | [2-3 bullets]   | Y%          |
-| 🐻 Bear  | $Z          | 18 months    | [2-3 bullets]   | Z%          |
+| 🐂 Bull  | $X          | 5 years      | [2-3 bullets]   | X%          |
+| Base     | $Y          | 5 years      | [2-3 bullets]   | Y%          |
+| 🐻 Bear  | $Z          | 5 years      | [2-3 bullets]   | Z%          |
 
 Expected Value: $W
 Current Price: $P

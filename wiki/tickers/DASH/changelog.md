@@ -4,6 +4,35 @@
 
 ---
 
+## [2026-04-29] — Schema v2.14 valuation lens correction (verbs flip Watch/Hold → Avoid/Reduce)
+
+**Trigger**: Schema v2.14 (Rule #26 extension) mandates a single 5-year forward PW EV lens with mechanical zone derivation (Entry ≤ PW EV − MoS; Trim = PW EV < spot < Bull; Exit ≥ Bull). DASH was the trigger case — prior write-up's "Attractive entry zone $140–155" sat *above* PW EV $130, an internally incoherent dual-lens framing (5-yr PW EV vs. 12–18-mo trader re-rating).
+
+**Sources reviewed**: CLAUDE.md Rule #26 (extended in same commit); §11 scenarios unchanged.
+
+### What Changed
+- §0 Summary scenario table: Entry $140–155 → **$98–110**; Trim $245–275 → **$130–215**.
+- §0 Summary verbs: 🟡 Watch / 🟡 Hold → 🔴 **Avoid (Watch <$110) / 🔴 Reduce**.
+- §0 Why bullets restructured — leads with structural strengths (US dominance, GAAP profitability, SBC discipline) rather than near-term catalyst chase.
+- §0 Why-not bullets: explicit "PW EV $130 below spot, stock in Trim zone" as the headline objection.
+- §12 Interpretation: rewritten on Rule #26 single-lens basis. Removed "tactical re-rating" / "trade vs. hold divergence" framings — incompatible with v2.14.
+- §13 verbs flipped: Non-holder Watch → **Avoid** (Watch <$110); Holder Hold → **Reduce**. Entry zone $140–155 → **$98–110** (PW EV − 15-25% MoS); Trim zone $245–275 → **$130–215** (PW EV < spot < Bull); Exit zone >$300 → **≥$215** (≥ Bull).
+- §11 scenarios unchanged (Bull $215 / Base $110 / Bear $50, 5-yr terminal; PW EV $130) — already on the correct horizon.
+
+### Thesis Status
+- **Overall**: 🔴 **Weakened** — not on business fundamentals (Q1 2026 print May 6 still ahead) but on valuation discipline. Prior framing concealed that DASH at $169 offers no MoS. Re-rating to ≥ entry zone requires stock to drop ~35% OR Base/Bull case to lift materially.
+- **BAIT delta**: Unchanged — Double (B+A+I Mod, T Weak), Conviction Low-Moderate.
+- **Price target delta**: §11 scenarios unchanged. PW EV $130 unchanged.
+- **Catalyst & Sentiment delta**: Unchanged.
+
+### Recommendation
+- **For a non-holder**: 🔴 **Avoid** at $169.33; Watch for entry below $110.
+- **For a current holder**: 🔴 **Reduce** — spot in Trim zone per Rule #26; lighten on bounces. Q1 print May 6 could shift the read materially in either direction.
+
+**Next review trigger**: Q1 2026 earnings — May 6, 2026 (post-close). Hard catalyst.
+
+---
+
 ## [2026-04-29] — Schema v2.13 Summary migration + price refresh
 
 **Trigger**: Manual format migration to v2.13 Rule #18 Summary block (4-part structure: thesis+verbs · 8-col scenario table · 6-cell KPI strip · 3+3 Why/Why-not bullets one-per-line). Live price re-verified.

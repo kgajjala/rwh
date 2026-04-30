@@ -1,27 +1,40 @@
 # DASH — DoorDash, Inc.
 
-> **Schema**: v2.9
-> **Last Updated**: 2026-04-25
+> **Schema**: v2.13
+> **Last Updated**: 2026-04-29
 > **Status**: Active
-> **Live Price Verified**: **$176.78** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/DASH); intraday, previous close $187.22 → –5.6% session)
+> **Live Price Verified**: **$169.33** at April 29, 2026 intraday (–1.54% session) ([stockanalysis.com](https://stockanalysis.com/stocks/dash/))
 > **Ticker Type**: Three-sided marketplace
 
 ---
 
 ## Summary
 
-- 🟡 **Thesis**: Dominant U.S. local-commerce marketplace (Narrow moat, 60–67% share) with credible advertising + international + autonomous margin-expansion optionality, but ~26× trailing EBITDA already prices aggressive execution; Buffett-lens fair value $120–140.
-- 🟡 **For a non-holder: Watch** at $176.78 — initiate only on drop into entry zone where asymmetry tilts favorable.
-- 🟡 **For a current holder: Hold** — do not add, do not exit. Q1 2026 print on May 6 is hard catalyst.
-- 🎯 **Attractive entry zone**: **$140 – $155** (15–18× 2026E Adj EBITDA; Buffett fair-value zone).
-- 🎯 **Trim zone**: **$245 – $275** (top of analyst consensus band; 22–24× 2026E Adj EBITDA re-rate).
-- 📉 **Price action**: $176.78, **–38% from 52-wk high** ($285.50), +23% above 52-wk low ($143.30); –5.6% session Apr 24.
-- 📅 **Next catalyst**: **Q1 2026 earnings — May 6, 2026 (post-close)**. First full quarter with Deliveroo consolidated; $675–775M adj EBITDA guide.
-- ⚠️ **Top risk**: Gig-worker reclassification (AB5-federal) — critical impact, 15% prob; would destroy variable-cost Dasher model.
-- ⚠️ **Second risk**: Margin disappointment vs. guidance (30% prob, medium impact); integration failure across Wolt+Deliveroo+SevenRooms (20% prob, high impact).
-- 🟡 **Moat verdict**: **Narrow** — three-sided marketplace network effects + 60–67% U.S. share dominance + DashPass/Wolt+ subscriber stickiness (35M members), but low consumer switching costs + commodity-like core service + Uber Eats bundling threat + gig-worker regulatory tail risk.
-- 🟡 **BAIT verdict**: **Double overlap** (B + A + I, all Moderate; T Weak) — Conviction **Low-Moderate**. Consensus median target $252–278 implies +43–57% upside but PW EV $130 sits below current price.
-- 📈 **Primary-source signal**: Tony Xu's [FY2025 letter](https://ir.doordash.com/news/news-details/2026/DoorDash-Releases-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx) frames the Deliveroo + Wolt + DoorDash unification as *"a massive and expensive undertaking"* — explicit FY2026 expectation-setting. **Wolt-precedent execution** (now profitable contributor, articulated in [FY2022 letter](https://www.sec.gov/Archives/edgar/data/1792789/000162828023003889/dashq42022ex991.htm)) lowers integration-risk probability from 20% → 12–15%. Deliveroo *"growing much faster at the same profit contribution we expected"* per Q4 call; H2 2026 grocery/retail unit-economics inflection (per CFO Inukonda) is the dominant 2026 catalyst.
+**Thesis** — Dominant U.S. local-commerce marketplace (Narrow moat, 60–67% share) with credible advertising + international + autonomous margin-expansion optionality, but the multiple already prices aggressive execution; 5-yr terminal PW EV sits *below* current price even after the –41% drawdown from $285.
+
+🟡 **Non-holder: Watch** (entry $140–155)  ·  🟡 **Holder: Hold** (do not add, do not exit pre-Q1)
+
+| 52-wk range | Now | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|---|
+| $143.30 — $285.50 | **$169.33** (18th %ile) | $50 (5-yr) | $140–155 | $110 / $130 | $245–275 | $215 (5-yr) | **~0.4:1** |
+
+| BAIT | Moat | EV/EBITDA TTM | US share | Subscribers | Next catalyst |
+|---|---|---|---|---|---|
+| Double (B+A+I Mod, T Weak), **Low-Mod** | Narrow | ~26× | 60–67% (3× Uber Eats) | 35M (+59% YoY) | 📅 Q1 — May 6, 2026 (binary) |
+
+**🟢 Why**
+
+- Q1 2026 print May 6 is binary — first full quarter with Deliveroo consolidated; $675–775M adj EBITDA guide; H2 2026 grocery/retail unit-economics inflection (per CFO Inukonda) is the dominant 2026 catalyst.
+- Wolt-precedent execution (now a profitable contributor) lowers Deliveroo integration-risk probability from 20% → 12–15%; Tony Xu's [FY2025 letter](https://ir.doordash.com/news/news-details/2026/DoorDash-Releases-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx) explicit on the *"massive and expensive undertaking"* framing.
+- SBC guide halving from $2.6B → $1.3–1.4B FY26 = meaningful earnings-quality improvement; $5B untouched buyback as tail-risk floor; consensus median target $252–278 implies +50–65% 12–18mo re-rate optionality.
+
+**⚠️ Why not**
+
+- 5-yr PW EV $130 sits ~23% *below* current $169 — terminal economics don't validate current multiple even after –41% drawdown. Bull/Bear R/R ≈0.4:1 at spot.
+- Gig-worker reclassification (AB5-federal) — critical impact, 15% prob; would destroy variable-cost Dasher model. **Not priced in** (per Rule #25).
+- Three-way integration risk (Wolt + Deliveroo + SevenRooms simultaneously) + ad-monetization plateau risk vs. Amazon analog + Instacart cross-category escalation.
+
+**📅 Next read** — Q1 2026 earnings, May 6 post-close. Watch: adj EBITDA vs. $675–775M guide, H2 pacing commentary, Deliveroo run-rate toward $200M FY target, advertising rev growth >25% YoY, US share defense vs. Uber Eats.
 
 ---
 

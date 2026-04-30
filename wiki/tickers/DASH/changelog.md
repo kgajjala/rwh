@@ -4,6 +4,31 @@
 
 ---
 
+## [2026-04-29] — Schema v2.13 Summary migration + price refresh
+
+**Trigger**: Manual format migration to v2.13 Rule #18 Summary block (4-part structure: thesis+verbs · 8-col scenario table · 6-cell KPI strip · 3+3 Why/Why-not bullets one-per-line). Live price re-verified.
+
+**Sources reviewed**: [stockanalysis.com — DASH live quote](https://stockanalysis.com/stocks/dash/) (intraday 2026-04-29).
+
+### What Changed
+- Header: Schema v2.9 → v2.13; Last Updated 2026-04-25 → 2026-04-29; live price $176.78 (4/24) → **$169.33 (4/29, –1.54% session)**.
+- §0 Summary: rebuilt in v2.13 4-block structure. Scenario table surfaces R/R explicitly (~0.4:1 at spot, anchored to §11 Bull $215 / Bear $50 5-yr terminals per Rule #26). KPI strip slots 4–5 carry US share (60–67%) + subscriber base (35M, +59%) — most thesis-relevant for a three-sided marketplace.
+- No section content (§1–§13) altered — pure format migration plus price-line refresh. Thesis, scenarios, recommendation, and zones all unchanged from 2026-04-25 baseline.
+
+### Thesis Status
+- **Overall**: Unchanged. Watch (non-holder, $140–155 entry) / Hold (current holder).
+- **BAIT delta**: Unchanged — Double overlap (B+A+I Mod, T Weak), Conviction Low-Moderate.
+- **Price target delta**: Unchanged — Bull $215 / Base $110 / Bear $50 (5-yr terminals); PW EV ~$130.
+- **Catalyst & Sentiment delta**: Price drifted from $176.78 (4/24) → $169.33 (4/29) = –4.2% over 5 sessions; not material on its own.
+
+### Recommendation
+- **For a non-holder**: 🟡 Watch — entry $140–155 unchanged.
+- **For a current holder**: 🟡 Hold — pre-Q1 (May 6) discipline unchanged.
+
+**Next review trigger**: Q1 2026 earnings — May 6, 2026 (post-close). Hard catalyst.
+
+---
+
 ## [2026-04-25] — v2.7+v2.8+v2.9 Combined Refactor (5-yr 10-Ks + Pattern B letters + synthesis discipline + structural consolidation)
 
 **Trigger**: DASH selected as the second ticker (after SHOP) to validate the v2.9 13-section structure on a different business model. Combined application of v2.7 (5-year 10-K + Pattern B quarterly letter baselines), v2.8 (synthesis-over-transcription, ticker-page output discipline, materiality filter, competitive landscape integration), and v2.9 (15 → 13 section consolidation) in one pass.

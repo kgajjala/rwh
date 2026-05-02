@@ -4,6 +4,42 @@
 
 ---
 
+## [2026-05-01] — Earnings Q1 FY2026
+
+**Trigger**: Q1 FY2026 print released April 29, 2026 (post-close) — clean operating beat across all three pillars; stock to fresh ATH $265.06 by Apr 30 close.
+
+**Sources reviewed**:
+- [Amazon Q1 2026 PR (IR)](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-First-Quarter-Results/)
+- [Q1 2026 earnings call transcript (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/04/29/amazon-amzn-q1-2026-earnings-call-transcript/)
+- [CNBC Q1 2026 recap](https://www.cnbc.com/2026/04/29/amazon-amzn-q1-earnings-report-2026.html)
+- [Yahoo Finance live price](https://finance.yahoo.com/quote/AMZN) — $265.06 at Apr 30, 2026 close (fresh ATH); 52-wk $178.85–$268.00
+
+### What Changed
+
+- **Header**: Last Updated 2026-04-26 → **2026-05-01**; Live Price $255.08 (Apr 23) → **$265.06 (Apr 30, fresh ATH)**
+- **Summary (§0)**: Refreshed under Rule #18 4-part structure — thesis line updated to reflect Q1 print; verb line 🟡 Watch / 🟡 Hold; scenario table updated (Now $265.06 ~99th %ile, PW EV $322, R/R 1.4:1); KPI strip updated (FY26E P/E ~33×, AWS Op Margin Q1 ~37%, Q1 Capex $43.2B, Next Catalyst Q2 FY26); Why/Why-not refreshed
+- **Key Stats Snapshot**: Live price + market cap (~$2.85T) + Q1 actuals replacing Q1 consensus rows; added Q2 FY26 guide row; analyst PT row preserved (cluster updates pending)
+- **§11 Catalyst & Sentiment Tracker**: New "Q1 FY2026 Earnings (DELIVERED ✅)" subsection with full print metrics; Recent News prepended with Q1 entry; Upcoming Catalysts table — Q1 row ~~struck~~ DELIVERED ✅ with print summary; Q2 FY26 (~late-July) elevated to next anchor
+- **§13 Bull/Bear/Base**: Probabilities shifted Bull 35%→**40%**, Base 50%→**45%**, Bear unchanged 15% (AWS +28% / EPS +70% beat shifted mass toward Bull); Base price $290 → **$300**; Bull/Bear targets unchanged; CAGR math re-anchored to $265 spot
+- **§14 PW EV**: **$310 → $322**; Return +22% / 7%/yr → +21% / 6.6%/yr at higher spot; **R/R 1.7:1 → 1.4:1**
+- **§15 Recommendation**: Non-holder verb **Initiate (small) / Watch → Watch** (multiple has caught up to operating thesis); Holder **Hold** unchanged; entry zone $210–235 → **$220–245** (slight upshift on PW EV step); trim zone $310–340 → **$325–355**; exit zone >$370 → **≥$400** (anchored to Bull); next review trigger updated to Q2 FY26 print (~late-July) with new key items (capex pacing, AWS hold above +25%)
+
+### Thesis Status
+
+- **Overall**: 🟢 **Strengthened operationally** — AWS +28% (fastest in 15 quarters), EPS +70% beat, ad +24%, Q2 guide brackets Street; demand-side validation of $200B capex bet. **Asymmetry compressed** as multiple rerated to fresh ATH.
+- **BAIT delta**: Triple overlap retained; Analytical edge slightly strengthened on Q1 validation; Behavioral remains weak (no fear setup at ATH). Conviction Moderate (unchanged).
+- **Price target delta**: Bull $400 unchanged | Base $290 → **$300** | Bear $170 unchanged | **PW EV $310 → $322**
+- **Catalyst & Sentiment delta**: Q1 print binary resolved with clean beat; AWS share-loss-to-Azure bear case partially counter-pressed (single quarter, watch sustainability)
+
+### Recommendation
+
+- **For a non-holder**: 🟡 **Watch** (was Initiate-small/Watch) — operating thesis confirmed but multiple has caught up; preferred entry $220–245 on any 10–15% pullback
+- **For a current holder**: 🟡 **Hold** (unchanged) — let operating thesis continue to compound; trim only above $325 without commensurate re-rate
+
+**Next review trigger**: 📅 **Q2 FY26 earnings — late-July 2026 (post-close)**. Key items: AWS YoY growth (does +28% Q1 hold above +25%), capex pacing vs. ~$200B FY26 frame, Q3 op income guide, advertising sustainability (+24% Q1), NA op margin, Trainium4 reservation pipeline.
+
+---
+
 ## [2026-04-26] — v2.6+v2.7+v2.8 Retrofit (Primary-Source Synthesis Refresh)
 
 **Trigger**: Schema retrofit batch under v2.8. Brings AMZN page to current schema (Rules #19, #20, #21, #22, #23, #24, #25, #26).

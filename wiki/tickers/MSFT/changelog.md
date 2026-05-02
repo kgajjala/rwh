@@ -4,6 +4,42 @@
 
 ---
 
+## [2026-05-01] — Earnings Q3 FY26 — Azure +40% / EPS +23% beat; $190B FY26 capex guide drove −5–6% sell-off; Q3 thesis-break DE-RISKED; PW EV $520→$499
+
+**Trigger**: Q3 FY26 earnings released April 29, 2026 (post-close). Operating beat clean; FY26 capex guide of ~$190B (vs. ~$80–90B Street est.) drove a −5–6% post-print sell-off to ≈$414.42.
+
+**Sources reviewed**:
+- [MSFT IR Q3 FY26 PR](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q3/press-release-webcast)
+- [CNBC — MSFT Q3 2026](https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html)
+- [24/7 Wall St — capex analysis](https://247wallst.com/investing/2026/04/30/the-incredible-number-hiding-in-microsofts-earnings-report/)
+- [Yahoo Finance — MSFT live price](https://finance.yahoo.com/quote/MSFT)
+
+### What Changed
+- **Header**: Last Updated 2026-04-26 → 2026-05-01; Live Price $424.62 → $414.42 (Apr 30 close)
+- **Summary (§0)**: Refreshed to Rule #18 4-part — Q3 thesis-break DE-RISKED ✅; verbs updated to 🟢 Hold/Add below $420; R/R 1.7:1; PW EV $499; next read = Q4 FY26 (~late July 2026)
+- **Key Stats**: Price $414.42; market cap $3.08T; FY26E P/E ~24.5×; added FY26 Capex Guide ~$190B row; Q3 FY26 Earnings row marked Delivered ✅
+- **§1 (Annual Financial Metrics)**: Added Q3 FY26 quarter row — rev $82.9B (+18%), op income $38.4B (+20%), GAAP NI $31.8B (+23%), EPS $4.27 (+23%), Azure +40%; replaced "expected" line with delivered-print synthesis flagging $190B capex guide
+- **§8 (Valuation)**: Recomputed multiples at $414.42 (P/E ~24.5×, EV/Rev FY26E ~9.3×); added FY26 Capex Guide row; refreshed valuation assessment to incorporate capex-discipline gating
+- **§9 (Catalyst & Sentiment)**: Live price refresh; Q3 FY26 entry added to Recent News with full print details; Q3 catalyst struck through and marked DELIVERED ✅; Upcoming Catalysts now anchored on Q4 FY26 (~late July)
+- **§10 (BAIT — T lens)**: Refreshed for post-print price action — derate framed as capex-driven, not operating-driven; no longer event-compressed; verdict retains Quadruple overlap with capex-discipline gating commentary
+- **§11 (Bull/Bear/Base)**: Bull retained at $650 (probability 30%→27%); Base trimmed $530→$510 (50% retained); Bear retained at $300 (probability 20%→23%); bear-case input strengthened on $190B capex disclosure
+- **§12 (PW EV)**: $520 → **$499** (Bull 0.27·650 + Base 0.50·510 + Bear 0.23·300 = $499.50); R/R 1.8:1 → **~1.7:1**; expected return ~14.5%/yr
+- **§13 (Recommendation)**: Holder verb changed Add<$440/Hold → 🟢 **Hold/Add below $420**; entry zone $380–$440 → **<$420**; trim $640–720 → **$620–700**; exit >$750 → **>$720**; Q3 thesis-break trigger ~~struck~~ DE-RISKED ✅; FY27 capex trigger threshold recalibrated $100B → $200B (post-$190B FY26 baseline); next review trigger = Q4 FY26 (~late July 2026)
+
+### Thesis Status
+- **Overall**: **Unchanged** net — operating thesis Strengthened (Azure +40% above consensus; EPS +23%); bear-case capex-discipline input Strengthened ($190B FY26 guide vs. $80–90B Street est.). Net: thesis durable, asymmetry compressed modestly.
+- **BAIT delta**: Quadruple overlap (B/A/I/T = S/S/M/S) retained; T-lens refreshed for post-print derate
+- **Price target delta**: Bull $650 (unchanged) | Base $530 → $510 | Bear $300 (unchanged); PW EV **$520 → $499**
+- **Catalyst & Sentiment delta**: Q3 FY26 catalyst delivered ✅; next hard catalyst gap widens to ~late July (Q4 FY26)
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate** — entry zone <$420 captures the post-print derate; PW EV $499 implies ~14.5%/yr expected return
+- **For a current holder**: 🟢 **Hold / Add below $420** — operating thesis intact; capex digestion is the gating constraint, not the thesis. Trim only on re-rating to >$620 without confirmed Azure AI revenue acceleration or FY27 capex deceleration
+
+**Next review trigger**: Q4 FY26 earnings + FY27 guide — late July 2026. Critical disclosures: FY27 capex pacing (does $190B persist?), Azure growth durability, Copilot seat ramp.
+
+---
+
 ## [2026-04-26] — v2.9 Schema Retrofit
 
 **Trigger**: Schema upgrade from v2.5 to v2.9 (13-section structure). Applied as part of batch retrofit.

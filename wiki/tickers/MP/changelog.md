@@ -4,6 +4,37 @@
 
 ---
 
+## [2026-05-01] — Analyst Action Cluster + Rally (Wedbush OP $90 reiterated; MS PT $71→$62; price $60.73→$66.04; R/R 2.1:1 → 1.7:1; verb Hold/Add → Hold)
+
+**Trigger**: Analyst-action cluster Apr 27–28 (Wedbush Outperform $90 reiterated; Morgan Stanley PT cut $71→$62 with Overweight reaffirmed) + +6.9% session Apr 27 to ~$64.92, settling $66.04 by Apr 30; ahead of May 7 Q1 2026 earnings.
+
+**Sources reviewed**:
+- [Stockstotrade — MP recap Apr 27](https://stockstotrade.com/news/mp-materials-corp-mp-news-2026_04_27/)
+- [Investing.com — Wedbush Outperform $90 note](https://www.investing.com/news/analyst-ratings/wedbush-initiates-mp-materials-stock-with-outperform-rating-93CH-4623144)
+- [Yahoo Finance — MP quote](https://finance.yahoo.com/quote/MP) (Apr 30 close $66.04)
+
+### What Changed
+- **Header**: Last Updated 2026-04-26 → 2026-05-01; Live Price ~$60.73 → $66.04 (Apr 30 close)
+- **Summary (Rule #18)**: Refreshed scenario table (Now $66.04, R/R 1.7:1) + KPI strip + Why/Why-not bullets; verbs updated to Initiate on dips $52–62 / Hold
+- **§9 Catalyst & Sentiment Tracker**: Refreshed Live Price + 52-wk %, market cap; added [2026-04-28] Wedbush reiteration + Morgan Stanley PT $71→$62 to Recent Actions and Recent Corporate News; preserved May 7 Q1 catalyst
+- **§11 Bull/Bear/Base**: Spot anchor refreshed ($60.73 → $66.04) — Bull +97%, Base +24%, Bear –58%; scenario prices and probabilities unchanged
+- **§12 PW EV**: Unchanged at $80.50; new R/R = 1.7:1 (was 2.1:1) at spot $66.04; +22% upside (was +33%)
+- **§13 Recommendation**: Non-holder Initiate → **Initiate on dips $52–62**; holder **Hold/Add → Hold**; entry zone $48–62 → **$52–62**; trim zone $95–110 → **$92–108**; thesis sentence + zones refreshed; thesis-break triggers preserved
+
+### Thesis Status
+- **Overall**: **Unchanged** — price-only move; PW EV $80.50 unchanged; DoD floor / Magnetics ramp / 10X execution thesis intact
+- **BAIT delta**: Unchanged (Triple overlap)
+- **Price target delta**: Bull $130 (unchanged) | Base $82 (unchanged) | Bear $28 (unchanged); R/R compressed 2.1:1 → 1.7:1 from spot rally
+- **Catalyst & Sentiment delta**: Wedbush OP $90 reiteration adds conviction; Morgan Stanley PT cut $71→$62 (OW reaffirmed) is a modest valuation reset, not a thesis change
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate on dips $52–62** — at $66 the +22% PW EV upside no longer justifies an at-market initiation; wait for entry zone re-test or Q1 catalyst-driven dislocation
+- **For a current holder**: 🟡 **Hold** (was Hold/Add) — entry zone discipline matters at compressed R/R; do not chase
+
+**Next review trigger**: **Q1 2026 earnings — May 7, 2026 (post-close, 5pm ET)** — first full PPA quarter, GM Ultium magnet ramp print, 10X construction update, balance sheet cash burn
+
+---
+
 ## [2026-04-26] — v2.9 Schema Retrofit
 
 **Trigger**: Schema migration from v2.5 (15-section) to v2.9 (13-section); live data refresh; primary source fetch for shareholder letter pattern classification, 10-K context, and recent Q4 2025 + 10X news.

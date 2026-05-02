@@ -1,21 +1,21 @@
 # WING — Wingstop Inc.
 
 > **Schema**: v2.12
-> **Last Updated**: 2026-04-29
+> **Last Updated**: 2026-05-01
 > **Status**: Active
-> **Live Price Verified**: **$165.64** intraday April 29, 2026 (**-4.24% on the day; -12.5% post-Q1-print vs. $189.37 pre-print close**) ([stockanalysis.com](https://stockanalysis.com/stocks/wing/))
+> **Live Price Verified**: **$171** (Apr 30 2026 close, [Yahoo Finance](https://finance.yahoo.com/quote/WING)) — **+3.2% recovery off post-Q1 intraday low of $165.64**; still **-12% vs. $189.37 pre-print close**
 > **Ticker Type**: Franchise royalty (asset-light QSR; key metrics SSS / AUV / unit count / royalty rate; primary valuation EV/EBITDA)
 
 ---
 
 ## Summary
 
-- 🔴 **Thesis (Weakened)**: Q1 2026 domestic SSS printed **-8.7%** — materially worse than Q4 2025's -5.8% and **below the -7% thesis-break trigger** the page committed to. FY2026 guide cut from "flat-to-LSD" to **"low-single-digit DECLINE"**. The cyclical-reset thesis is now the contested narrative; the structural-saturation thesis has gained material weight.
-- 🟡 **For a non-holder: Watch** at $165 — wait for $140–$155 entry (now in striking distance) or for Q2/Q3 sequential SSS improvement before initiating. The binary Q1 catalyst resolved bearish.
+- 🔴 **Thesis (Weakened — confirmed by 5-firm post-Q1 analyst cluster 2026-04-29 → 2026-05-01)**: Q1 2026 domestic SSS printed **-8.7%** — materially worse than Q4 2025's -5.8% and **below the -7% thesis-break trigger** the page committed to. FY2026 guide cut from "flat-to-LSD" to **"low-single-digit DECLINE"**. **5 firms reset within 48 hours**: Goldman Buy→Neutral $190 (headline downgrade), TD Cowen Hold $175, Mizuho $310→$280, BMO $280→$200, Wells Fargo $200 — consensus center-of-gravity reset to **$190–$200**, aligning with the page's already-cut §11 Base of $190.
+- 🟡 **For a non-holder: Watch** at $171 — wait for $140–$155 entry or for Q2/Q3 sequential SSS improvement before initiating. The binary Q1 catalyst resolved bearish; analyst cluster confirms.
 - 🔴 **For a current holder: Reduce** on any bounce above $180 — thesis-break trigger activated; size down. Hold the residual through Q2 print to reassess.
 - 🎯 **Attractive entry zone**: **$135 – $150** (lowered from $140–$160; 14–17× FY26E EBITDA; matches/breaks 52-wk low if structural read takes hold).
 - 🎯 **Trim zone**: **$220 – $260** (lowered from $280–$320; bull case re-rated lower as analyst targets reset).
-- 📉 **Price action**: **$165.64, -4.24% intraday on Q1 print; -12.5% post-print vs. $189.37 pre-print**; -57% from 52-wk high ($388); +16% above 52-wk low ($142).
+- 📉 **Price action**: **$171 (Apr 30 close)**, +3.2% off post-Q1 intraday low of $165.64; still -12% vs. $189.37 pre-print; -56% from 52-wk high ($388); +20% above 52-wk low ($142).
 - 📅 **Next catalyst**: 📅 **Q2 2026 earnings (late July 2026)** — single key data point: does sequential SSS improve from -8.7% trough, or does it deepen?
 - ⚠️ **Top risk (now elevated)**: Q2/Q3 2026 SSS deepens further or remains at -7% to -10% — structural-saturation thesis becomes consensus; multiple compresses to mature-QSR (~15× EBITDA) or below.
 - 💰 **Capital allocation signal**: Q1 2026 buyback **374,324 shares at $208.08 avg** (well above current $165); $313.4M remaining authorization (refreshed). 🟢 Management still buying into the trough — the only legible bull signal.
@@ -329,33 +329,36 @@ Per CLAUDE.md Rule #21 (synthesis over transcription), Risk Factor evolution acr
 
 ### Live Price & Positioning
 
-- **Price**: **$165.64** intraday April 29, 2026, **-4.24% on the day post-Q1 print** ([stockanalysis.com](https://stockanalysis.com/stocks/wing/))
-- **Pre-print close**: $189.37 → post-print intraday: $165.64 = **-12.5% Q1 reaction**
+- **Price**: **$171** (Apr 30 2026 close, [Yahoo Finance](https://finance.yahoo.com/quote/WING)) — **+3.2% recovery off post-Q1 intraday low of $165.64**
+- **Pre-print close**: $189.37 → post-print intraday low $165.64 → Apr 30 close $171 = **-9.7% net Q1 reaction** (from -12.5% intraday trough)
 - **52-week range**: $142.24 – $388.14
-- **% from 52-wk high**: **-57.3%** (deepened)
-- **% above 52-wk low**: +16.5% (closer to retesting $142 floor)
-- **Market cap**: ~$4.53B
-- **EV**: ~$5.7B
+- **% from 52-wk high**: **-55.9%**
+- **% above 52-wk low**: +20.2%
+- **Market cap**: ~$4.68B
+- **EV**: ~$5.85B
 
-### Analyst Consensus (as of late April 2026)
+### Analyst Consensus (refreshed 2026-05-01 post-Q1 cluster)
 
-Per [stockanalysis.com forecast](https://stockanalysis.com/stocks/wing/forecast/):
+**5-firm post-Q1 cluster confirmed within 48 hours** — consensus center-of-gravity reset to **$190–$200**, aligned with §11 Base of $190:
 
-| Metric | Value |
-|---|---|
-| Coverage | **27 analysts** |
-| Consensus rating | **Strong Buy** |
-| Strong Buy | 13 |
-| Buy | 11 |
-| Hold | 3 |
-| Sell | 0 |
-| Strong Sell | 0 |
-| Median 12-mo target (pre-Q1) | $310 → **likely revising downward post-print** |
-| Stockanalysis avg target (post-print) | **$301.69** ([stockanalysis.com](https://stockanalysis.com/stocks/wing/)) |
-| Range | $175 – $440 |
-| Implied upside from $165 | **+82%** (off depressed price) |
+| Firm | Action (post-Q1) | New PT | Prior PT | Source |
+|---|---|---|---|---|
+| **Goldman Sachs** | **Buy → Neutral (downgrade — headline)** | **$190** | (prior Buy) | [Investing.com](https://www.investing.com/news/analyst-ratings/goldman-cuts-wingstop-rating) |
+| TD Cowen | Hold (initiated/maintained) | $175 | — | post-Q1 cluster |
+| Mizuho | PT cut | $280 | $310 | post-Q1 cluster |
+| **BMO** | PT cut | **$200** | $280 | [Investing.com](https://www.investing.com/news/analyst-ratings/bmo-pt-cut-200-wing) |
+| Wells Fargo | PT set | $200 | — | post-Q1 cluster |
+| RBC Capital | Cautious note (Apr 29) | — | — | [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/rbc-capital-cautious-wingstop-wing-160336402.html) |
 
-**Post-Q1 sell-side action**: [RBC Capital cautious on Wingstop amid soft SSS trends](https://finance.yahoo.com/markets/stocks/articles/rbc-capital-cautious-wingstop-wing-160336402.html) — first cautious note post-print; expect target revisions to cluster downward over the next 1–2 weeks. The 24/27 Buy-rated consensus pre-print is the *high-water mark* — actual post-Q1 consensus will be reset.
+| Metric | Pre-Q1 | Post-Q1 (refreshed) |
+|---|---|---|
+| Coverage | 27 analysts | 27+ analysts |
+| Consensus rating | Strong Buy | **Buy / Hold-leaning** (downgraded from Strong Buy on Goldman cut) |
+| Median 12-mo target | $310 | **~$190–$200** (center-of-gravity post-cluster) |
+| Range | $175 – $440 | **$175 – ~$280** (high tail compressed) |
+| Implied upside from $171 | n/a | **+11% to +17%** at cluster median |
+
+**Read**: The cluster confirms the page's already-applied 2026-04-29 thesis-break read. Sell-side reset *to* — not below — the page's Base of $190 means consensus is now aligned with the cyclical-trough scenario; further cuts would require Q2 SSS to deepen vs. -8.7% trough.
 
 ### Short Interest
 
@@ -371,6 +374,7 @@ The relevant inside-corporate signal is the **company's own buying** at $241.65 
 
 ### Recent Corporate News (Last 90 days)
 
+- 🔴 **[2026-04-29 → 2026-05-01] [Analyst cluster]** — **5-firm post-Q1 reset within 48hr**: Goldman Buy→Neutral $190 (headline downgrade); TD Cowen Hold $175; Mizuho $310→$280; BMO $280→$200 ([Investing.com](https://www.investing.com/news/analyst-ratings/bmo-pt-cut-200-wing)); Wells Fargo $200; Goldman cut ([Investing.com](https://www.investing.com/news/analyst-ratings/goldman-cuts-wingstop-rating)). **Consensus center-of-gravity reset to $190–$200**, aligning with §11 Base. Stock recovered to $171 (+3.2% off intraday low) as the reset matched, did not undercut, the page's already-applied bear read.
 - 🔴 **[2026-04-29] [Earnings]** — **Q1 2026: Domestic SSS -8.7%** (vs. Q4 -5.8%; sequential WORSENING); Revenue $183.7M (+7.4%; **missed $192.9M est**); Adj EBITDA $65.4M (+9.9%); **Adj EPS $1.18 (beat $1.03 est by 15%)**; 97 net new units (+17% YoY total → 3,153); FY26 SSS guide cut from "flat to LSD" to **"low-single-digit DECLINE"** ([StockStory summary](https://stockstory.org/us/stocks/nasdaq/wing/news/earnings/wingstop-nasdaqwing-reports-sales-below-analyst-estimates-in-q1-cy2026-earnings-stock-drops); [8-K aggregator](https://www.stocktitan.net/sec-filings/WING/8-k-wingstop-inc-reports-material-event-bbdd3422e711.html))
 - 💰 **[2026-Q1] [Capital]** — Buyback **374,324 shares at $208.08 avg** ($77.9M deployed); **$313.4M remaining authorization** (refreshed); $0.30/qtr dividend payable June 5, 2026 — management buying $43 above current $165 strike
 - 📊 **[2026-04-29] [Analyst]** — RBC Capital flagged caution on soft SSS trends ([Yahoo](https://finance.yahoo.com/markets/stocks/articles/rbc-capital-cautious-wingstop-wing-160336402.html)); broader sell-side target reset expected over next 1–2 weeks

@@ -4,6 +4,43 @@
 
 ---
 
+## [2026-05-01] — Earnings Q1 2026 — beat + 4-firm PT-raise cluster; R/R compresses 1.2:1 → 1.0:1; trim floor $120→$115
+
+**Trigger**: Q1 2026 earnings (Apr 29, post-close) — beat across rev / GMV / NGAAP EPS — followed by 4-firm PT-raise cluster on Apr 30. Stock +5.7% to $103.48 (–3.6% from 52-wk high $107.34).
+
+**Sources reviewed**:
+- [Q1 2026 PR (StockTitan)](https://www.stocktitan.net/news/EBAY/e-bay-inc-reports-first-quarter-2026-ocl9fic0so92.html)
+- [Q1 2026 transcript (Investing.com)](https://www.investing.com/news/transcripts/earnings-call-transcript-ebay-q1-2026-earnings-beat-expectations-stock-rises-93CH-4647423)
+- [UBS PT $96 → $110 (Yahoo)](https://finance.yahoo.com/markets/stocks/articles/ubs-raises-ebay-price-target-152957772.html)
+- Yahoo Finance live price endpoint (2026-04-30 close)
+
+### What Changed (sections refreshed)
+
+- **Header**: Last Updated 2026-04-26 → 2026-05-01; Live Price $97.94 → $103.48 (Apr 30 close).
+- **Summary (§0)**: Refreshed to v2.8 Rule #18 4-part — Q1 print noted; verbs Hold / partial Trim into $115+; scenario table with R/R 1.0:1; KPI strip refreshed.
+- **Key Stats**: Live price + 52-wk %, market cap (~$46.4B), Q1 2026 actuals row added (replaces Q1 guide row), Q2 2026 deceleration row added, Depop close row added.
+- **§11 Catalyst & Sentiment**: Live price + sentiment refreshed; 4-firm PT-raise cluster table; Recent Corporate News updated with Q1 print + Depop close timeline; Q1 print moved to Delivered ✅; Upcoming Catalysts now leads with Q2 2026 (~late July) + Depop end-Q3 2026.
+- **§12 BAIT**: B refreshed (constructive-to-mildly-euphoric post-rerate); T refreshed (at 52-wk highs, next gate Q2 print).
+- **§13 Bull/Bear/Base**: Spot anchor $97.94 → $103.48; Bull/Base/Bear price targets unchanged ($145/$115/$60); Bull % and Bear % recomputed → R/R 1.2:1 → 1.0:1; Base case rationale updated to incorporate Q2 guide deceleration.
+- **§14 PW EV**: PW EV ~$113 unchanged (scenario prices + probabilities preserved); spot $103.48 → upside compresses to +9% / ~+3%/yr; R/R 1.0:1 framing aligned with Rule #26.
+- **§15 Recommendation**: Thesis sentence rewritten to incorporate Q1 confirmation + R/R compression; non-holder verb preserved (Watch / selective Initiate); holder verb Hold → **Hold / partial Trim into $115+**; trim zone floor $120 → **$115**; exit zone tightened >$155 → >$145; new thesis-break triggers added (Q2 reversal beyond guide; Depop close slip); Next review trigger updated to Q2 2026 (~late July).
+
+### Thesis Status
+
+- **Overall**: 🟢 **Strengthened operationally** (Q1 confirmation), 🟡 **Unchanged net** (rerate to 52-wk highs offsets operational improvement); R/R 1.2:1 → 1.0:1.
+- **BAIT delta**: A unchanged (Moderate); B unchanged (Weak); I unchanged (Weak); T unchanged (Moderate; gate moved to Q2 print). Verdict still Low-Moderate Conviction.
+- **Price target delta**: Bull $145 (unchanged) | Base $115 (unchanged) | Bear $60 (unchanged). PW EV ~$113 (unchanged). Spot anchor $97.94 → $103.48 → R/R 1.2:1 → 1.0:1.
+- **Catalyst & Sentiment delta**: Q1 beat delivered ✅; 4-firm PT-raise cluster (Goldman $88→$100, Stifel $94→$98, UBS $96→$110, Evercore raised); analyst median ~$97 → ~$103 (at-spot post-rerate); Depop $1.2B close on track end-Q3 2026.
+
+### Recommendation
+
+- **For a non-holder**: 🟡 Watch / selective Initiate — at $103.48 the stock is at post-print analyst median; small starter reasonable on combined ~6% yield, but asymmetry thin; wait for $78–90 entry zone or a Q2 print confirming Q1 was not a one-off.
+- **For a current holder**: 🟡 **Hold / partial Trim into $115+** — capital return + Q1 confirmation support position; post-print rerate compressed R/R, so partial-trim discipline above $115 is the right exposure-management response (trim floor $120 → $115).
+
+**Next review trigger**: Q2 2026 earnings, ~late July 2026 (Q2 guide deceleration test + Depop close progress).
+
+---
+
 ## [2026-04-26] — v2.6+v2.7+v2.8 Retrofit (Primary-source synthesis depth + page-output discipline)
 
 **Trigger**: Schema retrofit pass applying CLAUDE.md v2.6 (Rules #19–#20: shareholder-letter + 10-K MD&A primary-source synthesis), v2.7 (5-year 10-K + letter baselines, quarterly-letter Pattern B substitution), and v2.8 (Rules #21–#26: synthesis over transcription, output discipline, moat consolidation, competitive-landscape integration, risk-factor materiality filter, R/R discipline). EBAY was on v2.5 and was missing the multi-year primary-source baselines.

@@ -1,9 +1,9 @@
 # SPOT — Spotify Technology S.A.
 
 **Schema**: v2.9
-**Last Updated**: 2026-04-28
+**Last Updated**: 2026-05-01
 **Status**: Active
-**Live Price**: $429.00 (intraday, –13.48% on Q1 2026 print, [Yahoo Finance](https://finance.yahoo.com/quote/SPOT))
+**Live Price**: $442.54 (Apr 30 2026 close, [Yahoo Finance](https://finance.yahoo.com/quote/SPOT))
 
 ---
 
@@ -18,7 +18,7 @@
 - 📅 **Next catalyst**: Q2 2026 earnings late July 2026 (test of Music Pro pricing, Premium ARPU constant-currency trajectory, audiobook contribution).
 - ⚠️ **Top risks**: (1) **Label royalty step-up cycle 2026–2028** — UMG public position projects 20–30% of subs upgrading to a higher tier, capturing surplus that is *not yet priced in*; (2) **FX translation drag** — EUR-reporting / USD-pricing mismatch produces ≈670bps headwind in Q1 2026.
 - ✅ **De-risked**: Profitability inflection durable (4 consecutive quarters of double-digit op-margin), FCF/share growth, succession executed cleanly (Ek → Norström/Söderström co-CEOs Jan 2026).
-- 📈 **Key valuation anchor**: ≈25–28x FY2026E EV/FCF, ≈32x fwd P/E at $429. PW EV ≈$540 → ≈26% upside, R/R ≈3.5:1 (Bull / Bear from §11).
+- 📈 **Key valuation anchor**: ≈25–28x FY2026E EV/FCF, ≈32x fwd P/E at $442.54. PW EV ≈$540 → ≈22% upside, R/R ≈3.0:1 (Bull / Bear from §11). *Post-Q1 Street cluster (Apr 29–May 1): 9 firms cut targets; median reset ≈$668 → ≈$607; Buy consensus retained; all revised PTs remain above spot.*
 
 ---
 
@@ -38,7 +38,7 @@ If yes: FCF compounds at 25–30%/year off the FY2025 €2.87B base, justifying 
 
 | Metric | Value | As of |
 |---|---|---|
-| Live Price | $429.00 | 2026-04-28 intraday |
+| Live Price | $442.54 | 2026-04-30 close |
 | 52-week Range | $405.00 – $785.00 | [Yahoo Finance](https://finance.yahoo.com/quote/SPOT) |
 | Market Cap | $88.3B | 2026-04-28 |
 | Cash & ST Investments | €8.8B | Q1 2026 |
@@ -297,12 +297,28 @@ The five-year arc: from *content overinvestment* → *cost discipline* → *oper
 
 ## Section 9 — Catalyst & Sentiment Tracker
 
-**Live price + 52-wk range**: $429.00 intraday, –13.48% on the day, –45% from 52-wk high $785, +6% from 52-wk low $405. ([Yahoo Finance](https://finance.yahoo.com/quote/SPOT) as of 2026-04-28).
+**Live price + 52-wk range**: $442.54 (Apr 30 2026 close, +3.2% from $429.00 post-print level), –43.6% from 52-wk high $785, +9.3% from 52-wk low $405. ([Yahoo Finance](https://finance.yahoo.com/quote/SPOT)).
 
-**Analyst consensus** (as of 2026-04-27, [MarketBeat](https://www.marketbeat.com/stocks/NYSE/SPOT/forecast/) / [TipRanks](https://www.tipranks.com/stocks/spot/forecast)):
-- 35 Buy / 7 Hold / 0 Sell (out of 42 covering)
-- Median price target ≈$668 (range $420 – $797)
-- *Implied ≈55% upside from current price; expect downward target revisions in next 1–2 weeks given today's print*
+**Analyst consensus** (post-Q1 cluster, as of 2026-05-01, [MarketBeat](https://www.marketbeat.com/stocks/NYSE/SPOT/forecast/) / [TipRanks](https://www.tipranks.com/stocks/spot/forecast)):
+- Buy consensus retained — Buy/Hold ratio largely intact post-cluster
+- **Median price target reset ≈$668 → ≈$607** following 9-firm post-Q1 cluster (Apr 29 – May 1)
+- All revised targets remain above current spot $442.54 — implied ≈37% median upside
+- **Post-Q1 analyst cluster (Apr 29 – May 1, 2026)** — 9 Street firms revised targets within 48 hours of the Q1 print; the cluster is the dominant Section 9 event of this update:
+
+  | Firm | Action | New PT | Notes |
+  |---|---|---|---|
+  | Morgan Stanley | Cut | $590 | Reset post-Q1 op-income guide miss |
+  | Goldman Sachs | Cut | $600 | Buy maintained |
+  | JPMorgan | Cut | $600 | OW maintained |
+  | Guggenheim | Cut | $565 | Lowest of mainstream cluster |
+  | Citizens | Cut | $600 | |
+  | Barclays | Cut | $600 → $500 | Largest delta in cluster |
+  | KeyBanc | Cut | $680 | Highest revised PT (still Buy) |
+  | UBS | Cut | $735 | Above-cluster outlier (Buy retained) |
+  | Canaccord | Cut | $720 | Above-cluster outlier |
+  | Rosenblatt | **Upgrade** | — | Sole contrarian — flagged risk/reward asymmetry at sub-$450 spot |
+
+  *Sources*: [24/7 Wall St — Wall Street slashes Spotify targets](https://247wallst.com/investing/2026/04/29/wall-street-slashes-spotify-price-targets-after-q1-miss-is-the-subscriber-story-cracking/); [Yahoo Finance — analyst cluster recap](https://finance.yahoo.com/markets/stocks/articles/wall-street-slashes-spotify-price-152236740.html).
 
 **Short interest**: ≈3.3–4.2% of float (≈6.5M shares short, [MarketBeat](https://www.marketbeat.com/stocks/NYSE/SPOT/short-interest/)). Modest. No squeeze setup.
 
@@ -311,6 +327,7 @@ The five-year arc: from *content overinvestment* → *cost discipline* → *oper
 - Daniel Ek personal sales since mid-2023 cumulative ≈$751M+. Pattern is consistent quarterly — not signal-bearing.
 
 **Recent corporate news (last 90 days)**:
+- 📊 [2026-04-29 → 2026-05-01] **Post-Q1 analyst cluster** — 9 firms cut PTs in 48 hours (Morgan Stanley, Goldman, JPM, Guggenheim, Citizens, Barclays, KeyBanc, UBS, Canaccord); Rosenblatt contrarian upgrade. Median reset ≈$668 → ≈$607. Buy consensus retained; all revised PTs above spot. [24/7 Wall St](https://247wallst.com/investing/2026/04/29/wall-street-slashes-spotify-price-targets-after-q1-miss-is-the-subscriber-story-cracking/) · [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/wall-street-slashes-spotify-price-152236740.html).
 - 📅 [2026-04-28] Q1 2026 earnings — Revenue €4.53B (+14% c.c.), Op. inc. €715M (+40% Y/Y), MAU 761M, Premium 293M; **Q2 2026 op-inc. guide €630M missed consensus ≈€684M**, Premium guide 299M missed ≈302M. Stock –13.48% intraday. [Variety](https://variety.com/2026/music/news/spotify-q1-2026-earnings-revenue-total-premium-subscribers-1236731842/).
 - 💰 [2026-04-15] AGM approved 10M-share buyback authorization over 5 years. [Globe and Mail](https://www.theglobeandmail.com/investing/markets/stocks/SPOT/pressreleases/616016/spotify-sets-april-15-2026-agm-seeks-approval-for-10-millionshare-buyback-mandate/).
 - [2026-02-10] Q4 2025 earnings — FY2025 revenue €17.19B, FCF €2.87B. [Spotify newsroom](https://newsroom.spotify.com/2026-02-10/spotify-q4-2025-earnings/).

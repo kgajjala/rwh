@@ -4,6 +4,41 @@
 
 ---
 
+## [2026-05-01] — Earnings Q1 2026 — rev +56%, Mounjaro +125%, EPS +25% beat; FY26 guide raised; PW EV $1,180→$1,264
+
+**Trigger**: Q1 2026 earnings print on April 30, 2026 — clean beat across the board with raised FY26 guidance.
+**Sources reviewed**:
+- [Lilly Q1 2026 PR — raises full-year guidance](https://investor.lilly.com/news-releases/news-release-details/lilly-reports-first-quarter-2026-financial-results-raises-full)
+- [Q1 2026 transcript (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/04/30/eli-lilly-lly-q1-2026-earnings-transcript/)
+- [CNBC Q1 2026 coverage](https://www.cnbc.com/2026/04/30/eli-lilly-lly-earnings-q1-2026.html)
+
+### What Changed
+- **Header**: Last Updated → 2026-05-01; Live Price → $974.39 (Apr 30, 2026 close, Yahoo Finance)
+- **Summary** (Rule #18 4-part refreshed): scenario table to PW EV $1,264 / R/R 2.9:1; KPI strip; Why / Why not / Next read = Q2 2026 (late-July)
+- **Key Stats**: Q1 2026 rev $19.8B / EPS $8.55 / Mounjaro $8.66B added; raised FY26E rev $82–85B / EPS $35.50–$37.00; market cap to ~$872B; P/E (FY26E) ~26.9× on $36.25 mid; PEG ~0.46× on raised growth
+- **§1**: Q1 2026 row added to quarterly table (rev $19.8B, EPS $8.55, +56% YoY)
+- **§8 Valuation**: re-computed multiples on raised FY26 EPS midpoint $36.25; PEG ~0.46×; fair-price range lifted to $950–$1,100
+- **§9 Catalyst & Sentiment Tracker**: live price + 52-wk %iles refreshed; Q1 print added to Recent News with linked PR / transcript / CNBC; Apr 30 Q1 row in Upcoming Catalysts marked DELIVERED ✅; Q2 2026 (late-July) added as next
+- **§10 BAIT**: A and I lenses refreshed with Q1 confirmation datapoints
+- **§11 Bull/Bear/Base**: re-anchored on raised FY26 guide — Bull $1,500→$1,600 (35%); Base $1,100→$1,250 (50%); Bear $700→$750 (15%)
+- **§12 PW EV**: $1,180 → **$1,264**; R/R 3.4:1 → **2.9:1**
+- **§13 Recommendation**: holder verb 🟡 Hold → 🟢 Hold/Add; entry $750–850 → $830–900; trim $1,250–1,400 → $1,300–1,500; exit >$1,500 → >$1,600; new DE-RISKED ✅ trigger added (Q1 revenue floor); next review trigger now Q2 2026 (late-July)
+
+### Thesis Status
+- **Overall**: 🟢 **Strengthened** (Q1 confirmed franchise trajectory and forced FY26 guide higher)
+- **BAIT delta**: A-Strong (raised numbers replace narrative); I-Strong (Q1 print delivered → Q2 launch quarter next signal); B-Moderate; T-Weak. Triple-overlap maintained.
+- **Price target delta**: Bull $1,500 → $1,600 | Base $1,100 → $1,250 | Bear $700 → $750. PW EV $1,180 → $1,264.
+- **Catalyst & Sentiment delta**: Q1 print delivered (✅); Q2 2026 (late-July) becomes next hard catalyst; analyst-target post-Q1 cluster expected but not yet reflected in pre-print median $1,250
+- **R/R**: 3.4:1 → 2.9:1 (compressed by +10.2% session move on print)
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate** at $974 — Q1 confirmed thesis with raised numbers; ~2.9:1 R/R still favorable; add aggressively in $830–900 if reached
+- **For a current holder**: 🟢 **Hold / Add** at $974 (verb upgrade from 🟡 Hold) — do not chase above $1,300; add on pullback into $830–900
+
+**Next review trigger**: **Q2 2026 earnings — late-July 2026**. Foundayo first full launch quarter; sustainability of raised FY26 trajectory.
+
+---
+
 ## [2026-04-26] — v2.9 Schema Retrofit + Thesis-Strengthening Event (Foundayo FDA Approval)
 
 **Trigger**: Schema retrofit applying v2.9 structure (13-section consolidation, competitive landscape, synthesis discipline, materiality filter) combined with material thesis update for Foundayo (orforglipron) FDA approval (April 1, 2026) — not reflected in prior v2.1 wiki entry.

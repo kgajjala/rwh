@@ -1,25 +1,38 @@
 # BKNG — Booking Holdings Inc.
 
 > **Schema**: v2.8
-> **Last Updated**: 2026-04-26
+> **Last Updated**: 2026-05-01
 > **Status**: Active
-> **Live Price Verified**: **$180.25** at April 24, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/BKNG); [stockanalysis.com](https://stockanalysis.com/stocks/bkng/)) — post-25-for-1 split effective April 2, 2026
+> **Live Price Verified**: **$168.36** at April 30, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/BKNG); [stockanalysis.com](https://stockanalysis.com/stocks/bkng/)) — post-25-for-1 split effective April 2, 2026
 > **Ticker Type**: Capital-light global travel platform (OTA / capital-light marketplace)
 
 ---
 
 ## Summary
 
-- 🟢 **Thesis**: World's dominant OTA — $26.9B revenue, $9.1B FCF, ~37% adj-EBITDA margin, 1.235B annual room nights — at **<16× FY26E P/E** and **~6.4% FCF yield**. Market is pricing AI-disintermediation impairment the data does not yet support; Wide-moat compounder at a Narrow-moat multiple.
-- 🟢 **Moat verdict**: **Wide** — two-sided network (3M+ properties × 1.235B room nights) + scale-driven marketing CAC + 25-year SEO moat on Booking.com + Genius/payment-rail switching costs + emerging fintech float from merchant-mix shift (25% → 70% in 4 years).
-- 🟢 **For a non-holder: Initiate** at $180.25 — Triple-overlap BAIT, sub-0.5× PEG, $6B/yr buyback floor, 25-for-1 split mechanical retail tailwind.
-- 🟢 **For a current holder: Add** on pullback into $155–$170; **Hold** at current $180.
-- 🎯 **Attractive entry zone**: **$155 – $175** (~13× FY26E P/E; 52-wk-low retest band).
-- 🎯 **Trim zone**: **$235 – $260** (20× EV/EBITDA re-rate; top of analyst target band).
-- 📉 **Price action**: $180.25, **–22.8% from 52-wk high** ($233.58), +19.7% above 52-wk low ($150.62) — drawdown band.
-- 📅 **Next catalyst**: 📅 **Q1 2026 earnings — Tuesday April 28, 2026** ([StockTitan](https://www.stocktitan.net/news/BKNG/booking-holdings-to-webcast-first-quarter-2026-financial-results-on-ilcbg7yxgllv.html)). First post-split print; tests Q1 guide (room nights +5–7%, revenue +14–16%, EBITDA +10–14%) and $700M reinvestment progress.
-- ⚠️ **Top risk** (not fully priced in tail): Connected-Trip attach stalls + measurable AI-agent intercept of EU bookings — would invalidate the AI-amplifier thesis.
-- 🟢 **BAIT verdict**: **Triple overlap (B-Strong + A-Strong + I-Moderate + T-Moderate)** — Conviction **High**. PW EV ~$195 (18-mo) = +8.5%; 3-yr range $245–$295 = +35–65%. **~3.5:1 R/R** (Bull $245 / Bear $110, Section 13).
+**Thesis**: World's dominant OTA generating $9B+ FCF at ~37% adj-EBITDA margin, trading at **<16× FY26E P/E** and **~6.8% FCF yield** after a Q2 guide cut on Iran/Hormuz travel disruption (assumed through end-June). Q1 2026 beat (rev $5.53B +16%, EPS $1.14), capital allocation stepped up (**$3.6B Q1 buyback ≈ $14B annualized vs. prior $6B/yr cadence**) — Wide-moat compounder at a Narrow-moat multiple, entry zone reached.
+
+🟢 Non-holder: **Initiate** · 🟢 Holder: **Add**
+
+| 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|---|
+| $150.62 – $233.58 | $168.36 (~22%ile) | $110 | $150–$170 | $200 / **$192** | $230–$255 | $245 | **~3.7:1** |
+
+| BAIT | Moat | FY26E P/E | FCF Yield | $14B annualized buyback | Next catalyst |
+|---|---|---|---|---|---|
+| Triple (B-S/A-S/I-M/T-M) | Wide | ~15.7× | ~6.8% | ~10% float retire/yr | Q2 2026 (late July) |
+
+🟢 **Why bullish**:
+- Q1 beat-and-cut tape: revenue +16%, EPS $1.14 beat — operating engine intact; only Q2 guide cut (room nights +2–4%) on geopolitical assumption, not structural demand
+- **$3.6B Q1 buyback alone ≈ 60% of FY25 full-year cadence** — capital-allocation step-up at –28% drawdown is the strongest stewardship signal in 5 years
+- Entry zone reached ($168.36 now in $150–$170 band); R/R widened to ~3.7:1; PW EV $192 vs. spot = +14% with positive skew
+
+⚠️ **Why not**:
+- Iran/Hormuz disruption may persist past end-June Q2 assumption — Q3 guide risk if Hormuz traffic remains constrained into late summer
+- AI-agent intercept thesis-break risk unchanged; Q1 print didn't materially de-risk the long-term disintermediation debate
+- Reported revenue exposed to EUR/USD reversal (~90% non-US revenue); a stronger USD into 2H26 compresses headline growth
+
+📅 **Next read**: Q2 2026 earnings — late July 2026 (tests whether Hormuz disruption remained Q2-contained).
 
 ---
 
@@ -47,11 +60,14 @@ The fear: AI assistants (ChatGPT, Google AI Overviews, Perplexity) become the tr
 
 | Metric | Value | Notes |
 |---|---|---|
-| Live Price | **$180.25** | April 24, 2026 close (post-25-for-1 split) |
+| Live Price | **$168.36** | April 30, 2026 close (post-25-for-1 split) |
 | 52-Week High / Low | $233.58 / $150.62 | Post-split |
-| % From 52-Wk High | **–22.8%** | Drawdown band |
-| Market Cap | ~$140.3B | 778M post-split shares ([stockanalysis.com](https://stockanalysis.com/stocks/bkng/)) |
-| EV | ~$140B | Net debt ~$0; large operating cash + offsetting debt |
+| % From 52-Wk High | **–27.9%** | Entry-zone band |
+| Market Cap | ~$131B | ~778M post-split shares (pre-Q1 buyback retire) ([stockanalysis.com](https://stockanalysis.com/stocks/bkng/)) |
+| EV | ~$131B | Net debt ~$0 |
+| Q1 2026 Revenue | $5.53B | +16% YoY (beat) |
+| Q1 2026 EPS | $1.14 | Beat |
+| Q1 2026 Buyback | **$3.6B** | ~$14B annualized vs. prior $6B/yr cadence |
 | FY2025 Revenue | $26.92B | +13% YoY |
 | FY2025 Adj EBITDA | ~$9.9B | ~37% margin |
 | FY2025 FCF | $9.09B | 33.7% FCF margin; FCF/NI ~1.7× |
@@ -63,9 +79,9 @@ The fear: AI assistants (ChatGPT, Google AI Overviews, Perplexity) become the tr
 | Forward P/E (FY26E) | **~16.9×** | Below 3-yr avg |
 | EV/EBITDA (TTM) | ~13.3× | Below quality-peer median |
 | FCF Yield | ~6.4% | Attractive vs. quality compounders |
-| Median Analyst PT | $234.42 | 31 analysts; +30% upside ([stockanalysis.com](https://stockanalysis.com/stocks/bkng/)) |
-| Dividend | $1.68 | 0.93% yield (initiated 2024) |
-| Q1 2026 Earnings | **April 28, 2026** | Hard catalyst (2 days) |
+| Median Analyst PT | $234.42 | 31 analysts; +39% upside ([stockanalysis.com](https://stockanalysis.com/stocks/bkng/)) |
+| Dividend | $1.68 | ~1.0% yield (initiated 2024) |
+| Q2 2026 Earnings | **late July 2026** | Next confirmation point on Hormuz/ME duration |
 
 ---
 
@@ -358,19 +374,19 @@ Across the FY2020 → FY2024 10-K Item 1A windows, the most material risk-factor
 ## Section 11 — Catalyst & Sentiment Tracker
 
 ### Live Price & Positioning
-- **Price**: $180.25 (April 24, 2026 close; post-25-for-1 split)
+- **Price**: $168.36 (April 30, 2026 close; post-25-for-1 split) — **–6.6% WoW** from $180.25 on Q2 guide cut
 - **52-week range**: $150.62 – $233.58
-- **% from 52-wk high**: –22.8%
-- **% above 52-wk low**: +19.7%
-- **Market cap**: ~$140.3B
-- **Shares outstanding**: 778.17M ([stockanalysis.com](https://stockanalysis.com/stocks/bkng/))
+- **% from 52-wk high**: –27.9% (entry-zone band)
+- **% above 52-wk low**: +11.8%
+- **Market cap**: ~$131B
+- **Shares outstanding**: ~778M (pre-Q1 retire) ([stockanalysis.com](https://stockanalysis.com/stocks/bkng/))
 - **25-for-1 stock split**: effective April 2, 2026; split-adjusted trading from April 6, 2026
 
-### Analyst Consensus (mid-late April 2026)
+### Analyst Consensus (early May 2026, post-Q1)
 - **Aggregate rating**: 🟢 **Buy** (31 analysts; majority Buy/Strong Buy)
 - **Median PT**: **$234.42** post-split; high $280; low $155
-- **Implied upside from $180.25**: +30% to median; +55% to high
-- 24/7 Wall St. price target $257.28 ([article](https://247wallst.com/investing/2026/04/20/wall-streets-ratings-on-booking-stock-align-with-our-257-28-price-target/))
+- **Implied upside from $168.36**: +39% to median; +66% to high
+- Post-Q1 PT revisions modest; consensus reads guide cut as Hormuz-contained, not structural
 
 ### Recent Analyst Actions (last 90 days)
 - Multiple firms re-based PTs to post-split numbers in early April 2026
@@ -382,23 +398,23 @@ Across the FY2020 → FY2024 10-K Item 1A windows, the most material risk-factor
 
 ### Insider Activity (last 90 days)
 - Routine 10b5-1 sales by named executives; no unusual clustering
-- Buyback program continuing at ~$6B/yr run-rate (~4% annual float retire)
+- **Buyback acceleration**: $3.6B repurchased in Q1 2026 alone (~$14B annualized vs. prior $6B/yr cadence) — capital-allocation step-up at –28% drawdown is the strongest stewardship signal in 5 years
 - Glenn Fogel **voluntary pay cut in 2025** ([Skift](https://skift.com/2026/04/14/booking-ceo-glenn-fogel-took-pay-cut-in-2025-after-2-big-years/)) — stewardship-positive
 
 ### Recent Corporate News (last 90 days)
+- ✅ **[2026-04-28] [Earnings]** — **Q1 2026: revenue $5.53B (+16%), EPS $1.14 — beat**; Q2 guide cut (room nights +2–4% vs. Q1 +6%) on assumed Iran/ME travel disruption through end-June; **$3.6B Q1 buyback** (~$14B annualized) ([BKNG Q1 2026 PR](https://s201.q4cdn.com/865305287/files/doc_financials/2026/q1/Q1-2026-BKNG-Earnings-Release.pdf); [transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/04/28/booking-bkng-q1-2026-earnings-transcript/); [Benzinga — Hormuz/guide cut](https://www.benzinga.com/markets/equities/26/04/52127365/booking-holdings-bkng-q1-2026-earnings-hormuz-crisis-guidance-cut)) ✅ **Delivered**
 - 💰 **[2026-04-02] [Capital]** — 25-for-1 stock split effective; split-adjusted trading from Apr 6 ([BKNG IR](https://www.bookingholdings.com/news/))
 - ⚠️ **[2026-04 (mid)] [Regulatory]** — Italian competition authority investigation into Booking.com commercial practices; data-access incident confirmed ([stockanalysis.com](https://stockanalysis.com/stocks/bkng/))
 - **[2026-04 (mid)] [Strategic]** — OpenTable acquired Canadian reservation platform **Libro**; Connected Trip restaurant-vertical extension
-- **[2026-02-18] [Earnings]** — Q4 2025 / FY2025 results: revenue $26.9B (+13%), FCF $9.1B, merchant mix 70%, airline tickets 68M (+37%), attractions +80%; **$700M 2026 reinvestment framework introduced** ([Motley Fool transcript](https://www.fool.com/earnings/call-transcripts/2026/02/18/booking-holdings-bkng-earnings-transcript/))
+- **[2026-02-18] [Earnings]** — Q4 2025 / FY2025 results: revenue $26.9B (+13%), FCF $9.1B, merchant mix 70%; **$700M 2026 reinvestment framework introduced** ([Motley Fool transcript](https://www.fool.com/earnings/call-transcripts/2026/02/18/booking-holdings-bkng-earnings-transcript/))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |---|---|---|
-| 📅 **Tuesday, April 28, 2026** | **Q1 2026 earnings** | First post-split print; tests Q1 guide (room nights +5–7%, revenue +14–16%, EBITDA +10–14%); Connected Trip %, merchant mix, AI product KPIs, $700M reinvestment progress |
-| Q3 2026 (Aug) | Q2 earnings | Full-year track on $400M incremental revenue + $300M EBITDA from $700M spend |
+| 📅 **Late July 2026** | **Q2 2026 earnings** | Tests whether Iran/Hormuz disruption stayed Q2-contained per management's end-June assumption; first read on $700M reinvestment full-year revenue/EBITDA build |
 | Ongoing | Connected Trip transactions % | Leading thesis-confirmation KPI; mid-teens by year-end 2026 = base case validation |
-| Ongoing | Buyback + dividend cadence | ~$6B/yr buyback floor + dividend |
+| Ongoing | Buyback cadence | If Q1's $14B annualized pace continues, ~10% float retire/yr (vs. prior 4%) — a regime change |
 | H2 2026 | Index rebalancing post-split | Potential institutional flow shift |
 | Ongoing | EU/Italian antitrust outcomes | Asymmetric — could constrain or empower Google Hotels |
 
@@ -437,20 +453,23 @@ Primary-source disclosures underappreciated by media:
 
 *All scenarios are 18-month price targets (post-split). Probabilities sum to 100%.*
 
-### 🟢 Bull Case — $245 (+36% from $180.25) — **Probability: 30%**
+### 🟢 Bull Case — $245 (+45% from $168.36) — **Probability: 30%**
+- Hormuz/ME disruption resolves within Q2 as guided; Q3+Q4 room-night growth re-accelerates to 7–9%
 - Connected Trip reaches 20%+ of transactions by end-2026; multiple re-rates to 20× EV/EBITDA
-- AI integration drives room-night growth re-acceleration to 11–12%
+- AI integration drives room-night growth re-acceleration to 11–12% in 2027
 - Merchant mix hits 75%; take rate expands to 15.5%
-- $700M reinvestment delivers ahead of $400M revenue / $300M EBITDA framework
-- FY2026E adj. EBITDA ~$12B × 20× EV/EBITDA / ~778M shares ≈ $245
+- **$14B annualized buyback pace persists** → ~10% float retire compounds the EPS line
+- FY2026E adj. EBITDA ~$12B × 20× EV/EBITDA / shrinking share count ≈ $245
 
-### 🟡 Base Case — $200 (+11% from $180.25) — **Probability: 50%**
-- Room nights grow 8–9%; revenue +11–12%; adj. EBITDA ~$11B
+### 🟡 Base Case — $200 (+19% from $168.36) — **Probability: 50%**
+- Hormuz disruption Q2-contained; FY26 room nights +5–6% (vs. pre-cut +7–8%); revenue +10–11%; adj. EBITDA ~$10.7B
 - AI remains manageable risk; Connected Trip progresses to mid-teens % of transactions
 - Merchant mix grinds to 73–75%
+- **Capital allocation step-up improves the Base** — sustained $10–14B/yr buyback adds 200–400bps of EPS growth not previously modeled
 - Multiple holds at ~15× EV/EBITDA → ~$200 post-split
 
-### 🔴 Bear Case — $110 (–39% from $180.25) — **Probability: 20%**
+### 🔴 Bear Case — $110 (–35% from $168.36) — **Probability: 20%**
+- Hormuz/ME disruption persists past Q3 2026; Q3 guide also cut
 - Google/AI assistants demonstrably reduce OTA traffic 15%+ in 2026–2027 (a *measurable* intercept)
 - Room-night growth falls below 5%; management cuts $700M reinvestment framework
 - Macro recession cuts global travel spend 20%
@@ -465,47 +484,51 @@ Primary-source disclosures underappreciated by media:
 | Bull | $245 | 30% | $73.50 |
 | Base | $200 | 50% | $100.00 |
 | Bear | $110 | 20% | $22.00 |
-| **PW EV (18-mo)** | | | **~$195.50** |
+| **PW EV (18-mo)** | | | **~$192** |
+
+*(Lightly under $195.50 prior PW EV after refining Base for Hormuz-cut FY26 EBITDA path; Bull/Bear price points unchanged.)*
 
 | Current Price | PW EV | Return (18-mo) | Annualized |
 |---|---|---|---|
-| $180.25 | $195.50 | **+8.5%** | ~+5.7%/yr |
+| $168.36 | $192 | **+14%** | ~+9%/yr |
 
-**Interpretation**: Modest expected return on the 18-month base scenario, but the **headline R/R is ~3.5:1 (Bull / Bear)** = +36% upside vs. –39% downside × 30/20 probability split = positive skew. On a 3-year horizon the picture improves materially: Connected Trip scaling + buyback compounding + AI-amplifier confirmation could push the stock toward $280–$320 (multi-year range, +55–78%). The 18-month math is conservative; the multi-year compounding is the real prize. Stop-loss-anchored R/R (using $155 thesis-break alert price as downside): ~2.5:1 — the secondary read.
+**Interpretation**: Q1 print left the long-term thesis unchanged but the price drawdown to $168.36 widened R/R to **~3.7:1 (Bull / Bear)** = +45% upside vs. –35% downside × 30/20 probability split = strongly positive skew (vs. ~3.5:1 pre-print). The 18-month PW EV asymmetry improved from +8.5% to +14% on the lower spot. On a 3-year horizon the picture continues to improve: Connected Trip scaling + the **$14B annualized buyback pace** (if sustained) + AI-amplifier confirmation could push the stock toward $280–$320 (multi-year range, +66–90%).
 
 ---
 
 ## Section 15 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Booking is the world's dominant OTA generating $9B+ FCF at ~37% EBITDA margins, trading at <17× FY26E P/E because the market is pricing AI disintermediation that the data does not yet validate — a Wide-moat compounder at a Narrow-moat multiple, two days from a Q1 print that tests the $700M reinvestment thesis.
+**Thesis in one sentence**: Booking is the world's dominant OTA generating $9B+ FCF at ~37% EBITDA margins, trading at <16× FY26E P/E after a Q2 guide cut on Iran/Hormuz disruption — Wide-moat compounder at a Narrow-moat multiple, with the **$3.6B Q1 buyback (~$14B annualized)** signaling management views the drawdown as a step-change capital-deployment opportunity.
 
-🟢 **For a non-holder: Initiate** at $180.25 — Triple-overlap BAIT (B-Strong + A-Strong + I-Moderate + T-Moderate), Wide moat, sub-0.5× PEG, ~6.4% FCF yield, $6B/yr buyback floor + first-time-ever dividend, 25-for-1 split mechanical retail tailwind. Asymmetry favorable on both 18-month (+8.5% PW EV) and 3-year (+55–78% range) horizons.
+🟢 **For a non-holder: Initiate** at $168.36 — entry-zone reached ($150–$170 band). Triple-overlap BAIT, Wide moat, ~6.8% FCF yield, $14B annualized buyback pace (if sustained = ~10% float retire/yr), R/R ~3.7:1 (Bull $245 / Bear $110).
 
-🟢 **For a current holder: Add** on any pullback into the $155–$170 attractive entry zone; **Hold** at current $180. The 18-month base case implies modest gains; the 3-year compounding picture is the real value. Q1 2026 earnings (April 28) is the next confirmation point on Connected Trip + AI metrics.
+🟢 **For a current holder: Add** at $168.36. The Q2 guide cut is geopolitical (Hormuz/ME), not structural; capital allocation step-up is the key new datapoint. PW EV $192 = +14% on 18 months; 3-year compounding picture materially improved by the buyback acceleration.
 
-🎯 **Attractive entry zone**: **$155 – $175** (rationale: ~13× FY26E P/E; 52-wk-low retest band; provides margin of safety on AI risk).
+🎯 **Attractive entry zone**: **$150 – $170** (rationale: ~13× FY26E P/E; 52-wk-low retest band; current spot $168.36 inside the band).
 
-🎯 **Trim zone**: **$235 – $260** (rationale: 20× EV/EBITDA re-rate; top of analyst target band; bull case largely priced).
+🎯 **Trim zone**: **$230 – $255** (rationale: 19–20× EV/EBITDA re-rate; top of analyst target band; bull case largely priced).
 
-🔴 **Exit / avoid zone**: **>$280** (rationale: multiple expansion beyond bull case requires AI-amplifier proof + Connected Trip at 25%+ — unproven over an 18-month horizon).
+🔴 **Exit / avoid zone**: **>$255** (rationale: multiple expansion beyond bull case requires AI-amplifier proof + Connected Trip at 25%+ + sustained $14B buyback pace — unproven on 18-month horizon).
 
 ⚠️ **Thesis-break triggers** (would force re-rating toward Exit):
-- ⚠️ Room-night growth falls below 5% for two consecutive quarters
+- ⚠️ **Iran/Hormuz/ME travel disruption persisting past Q3 2026** (i.e., Q3 guide also cut on the same disruption assumption) — would shift the Q2 cut from one-time geopolitical to structural ME demand impairment
+- ⚠️ Room-night growth falls below 5% for two consecutive quarters *outside* the Hormuz window
 - ⚠️ Connected Trip transactions stall (no growth, or contraction in attach rate, by Q4 2026)
 - ⚠️ Merchant mix growth stalls below 73% in FY2026
 - ⚠️ Google antitrust resolution that *empowers* Google Hotels direct-booking aggression (not constrains it)
 - ⚠️ Management cuts the $700M 2026 reinvestment framework or abandons the 9/9/15 long-term target
+- ⚠️ **Buyback cadence reverts to <$6B/yr** without a stated capital-allocation reason — would unwind the most important Q1 stewardship signal
 - ⚠️ Glenn Fogel CEO departure
 - ⚠️ A clear, *measurable* AI-agent intercept signal — share loss in EU bookings to ChatGPT/Gemini/Perplexity-routed direct bookings
 - ⚠️ FY2026 EPS guidance withdrawn or guided below post-split equivalent of ~$10/share
 
-📅 **Next review trigger**: 📅 **Q1 2026 earnings — Tuesday April 28, 2026**. Items to check:
-1. Connected Trip transactions % vs. low-double-digit baseline + +30%+ growth rate
-2. Merchant mix trend (target: progressing toward 73–75%)
-3. Room-night growth vs. +5–7% Q1 guide
-4. AI product KPIs (conversion, customer-service cost saves, AI-Trip-Planner usage)
-5. $700M reinvestment progress + any incremental revenue/EBITDA tracker
-6. Any commentary on Italian/EU antitrust posture
+📅 **Next review trigger**: 📅 **Q2 2026 earnings — late July 2026**. Items to check:
+1. Whether Hormuz/ME disruption resolved within Q2 as guided (or extends into Q3)
+2. Q3 room-night guide vs. Q2 +2–4% (re-acceleration = thesis-confirm; further cut = thesis-break trigger)
+3. Q2 buyback pace (does the $14B annualized cadence persist?)
+4. Connected Trip transactions % vs. low-double-digit baseline
+5. Merchant mix trend (target: progressing toward 73–75%)
+6. AI product KPIs + $700M reinvestment progress
 
 ---
 

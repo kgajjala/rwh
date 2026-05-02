@@ -1,26 +1,44 @@
 # RIVN — Rivian Automotive, Inc.
 
 > **Schema**: v2.9
-> **Last Updated**: 2026-04-26
+> **Last Updated**: 2026-05-01
 > **Status**: Active
-> **Live Price Verified**: **$16.54** at April 25, 2026 (intraday; [Yahoo Finance](https://finance.yahoo.com/quote/RIVN); previous close $16.95 → –2.4% session)
+> **Live Price Verified**: **$15.15** at May 1, 2026 (intraday; [Yahoo Finance](https://finance.yahoo.com/quote/RIVN); −8.4% from $16.54 prior close on Q1 print reaction)
 > **Ticker Type**: Pre-scale auto OEM + capital-light software/JV optionality (capital-intensive vehicle business + Volkswagen software JV throwing off high-margin license fees)
 
 ---
 
 ## Summary
 
-- 🟡 **Thesis**: Pre-scale EV OEM (**Narrow moat**) where the FY2025 print revealed a structural mix-shift — software & services (largely VW JV) is now ~30% of revenue at high gross margin, while auto is still cash-burning. R2 just entered production; the next 12 months determine whether RIVN re-rates to $25+ (R2 ramps + JV milestones unlock) or de-rates to <$10 (R2 slips, dilution).
-- 🟡 **For a non-holder: Watch / small Initiate** at $16.54 — wait for the **April 30, 2026 Q1 print** before sizing. Asymmetric setup but binary.
-- 🟡 **For a current holder: Hold** through Q1 — Q1 deliveries already beat (10,365), R2 production started April 22, VW JV unlocked another $1B in March 2026. Do not exit pre-print.
-- 🎯 **Attractive entry zone**: **$12 – $14** (~1× FY26E auto revenue net of cash + JV value; near 52-wk low; cushion against earnings disappointment).
-- 🎯 **Trim zone**: **$22 – $26** (52-wk high band; would price confident R2 ramp + JV on schedule).
-- 📉 **Price action**: $16.54, **–27% from 52-wk high** ($22.69), +43% above 52-wk low ($11.57).
-- 📅 **Next catalyst**: 📅 **Q1 2026 earnings — April 30, 2026 (post-close)** ([MarketBeat earnings cal](https://www.marketbeat.com/stocks/NASDAQ/RIVN/earnings/)). Cash balance, R2 ramp pace, VW JV update, FY26 guide reaffirmation.
-- ⚠️ **Top risk**: R2 ramp slips — Lucid precedent (35% prob, Critical impact). The 20–25K R2 deliveries embedded in 2026 guide is the load-bearing assumption.
-- ⚠️ **Second risk**: Cash burn forces dilutive raise sub-$15 (25% prob, Critical impact); FY2026 EBITDA guide of **–$2.10B to –$1.80B** + capex of **$1.95–2.05B** = ~$4B 2026 cash consumption against the $6.1B Dec-2025 cash position, partially offset by ~$1B VW JV milestone tranche unlocked March 2026.
-- 🟡 **BAIT verdict**: **Triple lens** (B + A + I Moderate, T Moderate). Conviction **Moderate**. PW EV ~$18.50 (2-yr) implies ~+12% / ~6%/yr; **R/R ~3.4:1** (Bull +93% vs Bear –58%) anchored to §11 midpoints. Bimodal distribution.
-- 💰 **Primary-source signal**: McDonough Q4 2025 call: *"We expect that both R2 and our overall automotive gross profit will be positive as we exit 2026"* ([Investing.com transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-rivian-q4-2025-earnings-beat-forecasts-stock-surges-93CH-4504716)) — first explicit positive-GM-by-exit-2026 commitment; this is the cleanest thesis-test management has put on the table.
+**Thesis (1–2 sentences)**: Q1 2026 print (Apr 30) delivered a clean EPS beat (−$0.33 vs. −$0.63 Street), R2 saleable status with employee deliveries underway, AND a $4.5B DOE loan for a Georgia plant (capacity raised 50% to 300K, total US footprint 515K) plus $2.55B confirmed VW + Uber 2026 capital — collectively pushing liquidity to ~$8B and materially de-risking the dilution tail; market focus has rotated from cash-burn to R2 demand, but the asymmetry is now stronger at lower spot.
+
+🟡 Non-holder: **Watch** · 🟡 Holder: **Hold**
+
+### Scenario Table
+
+| 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|---|
+| $11.57 – $22.69 | $15.15 (~32%ile) | $7 | $12–14 | $19 / **$21.10** | $22–26 | $32 | **2.1:1** |
+
+### KPI Strip
+
+| BAIT | Moat | FY26E EV/Rev | Liquidity | Short Int. | Next Catalyst |
+|---|---|---|---|---|---|
+| Triple lens (Mod) | Narrow | ~1.4× | ~$8B (post-DOE + $2.55B confirmed) | 13.55% float | Q2 2026 earnings (Aug) |
+
+### Why / Why not / Next read
+
+🟢 **Why bullish**:
+- Q1 EPS beat ~$0.30 vs. Street; deliveries 10,365 / production 10,236 — execution intact
+- DOE $4.5B loan + $2.55B VW + Uber 2026 capital → ~$8B liquidity → dilution risk DE-RISKED
+- R2 saleable status reached; employee deliveries underway; customer launch on schedule
+
+⚠️ **Why not**:
+- Stock −8% on the print as focus rotated to R2 demand commentary — early softness signal
+- Auto segment still loss-making; positive auto GM by exit-2026 commitment still pending evidence
+- Georgia plant capacity bump to 300K raises execution surface area; 515K US footprint is ambitious
+
+📅 **Next read**: **Q2 2026 earnings (~early August)** — first quarter with R2 customer deliveries booking; cash trajectory post-DOE drawdown; VW JV cadence.
 
 ---
 
@@ -46,26 +64,30 @@ The bull case requires: (a) R2 deliveries hitting 20K+ in 2026 at improving GM, 
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$16.54** | April 25, 2026 intraday ([Yahoo Finance](https://finance.yahoo.com/quote/RIVN)) |
-| Previous Close | $16.95 | –2.4% session |
+| Live Price | **$15.15** | May 1, 2026 intraday ([Yahoo Finance](https://finance.yahoo.com/quote/RIVN)) |
+| Previous Close | $16.54 | −8.4% session post-Q1 print |
 | 52-Week High | $22.69 | |
 | 52-Week Low | $11.57 | |
-| % From 52-Wk High | –27.1% | |
-| % Above 52-Wk Low | +42.9% | |
-| Market Cap | ~$20.5B | ~1.24B diluted shares |
+| % From 52-Wk High | –33.2% | |
+| % Above 52-Wk Low | +30.9% | |
+| Market Cap | ~$18.8B | ~1.24B diluted shares |
 | Avg Daily Volume | 28.8M | High retail engagement |
-| Cash + ST Investments (YE 2025) | **$6.1B** | Per [Q4 2025 call](https://www.investing.com/news/transcripts/earnings-call-transcript-rivian-q4-2025-earnings-beat-forecasts-stock-surges-93CH-4504716) |
+| Cash + Liquidity (post-Q1) | **~$8B** | $4.5B DOE loan + $2.55B confirmed VW + Uber 2026 capital + balance sheet cash |
+| Q1 2026 Revenue | **$1.4B** (+11% YoY) | Q1 print Apr 30 |
+| Q1 2026 Gross Profit | +$119M (~9% GM) | |
+| Q1 2026 EPS | **−$0.33** vs. −$0.63 Street | ~$0.30 beat |
+| Q1 2026 Adj EBITDA | −$472M | |
 | FY2025 Revenue | **$5.29B** (+8% YoY) | Auto $3.83B / Software & Services $1.56B |
 | FY2025 Gross Profit | **+$144M** | First positive year (vs. –$1.2B FY2024) |
-| FY2025 Deliveries | 42,247 | (42,284 produced) |
-| Q1 2026 Deliveries | 10,365 (+19% YoY) | Beat consensus 9,678 |
+| Q1 2026 Deliveries | 10,365 / Production 10,236 | Deliveries > production |
 | FY2026 Delivery Guide | **62K – 67K** | Includes 20–25K R2 units |
 | FY2026 Adj EBITDA Guide | **–$2.10B to –$1.80B** | Continued investment cycle |
 | FY2026 Capex Guide | **$1.95B – $2.05B** | R2 tooling + Normal expansion |
-| VW JV Total | up to $5.8B by 2027 | Milestone-gated; $1B unlocked March 2026 |
+| DOE Loan | **$4.5B** for Georgia plant | Capacity 200K → **300K** (+50%); total US footprint **515K** |
+| VW JV Total | up to $5.8B by 2027 | Milestone-gated; cumulative tranches >$2B |
 | Short Interest | ~13.55% of float (141.96M sh) | High; days-to-cover 5.49 |
-| Next Earnings | **2026-04-30 (post-close)** | Q1 full financial release |
-| R2 Production Status | Started **April 22, 2026** | Performance AWD Launch $57,990; deliveries spring 2026 |
+| Next Earnings | **~Aug 2026** (Q2) | First quarter with R2 customer deliveries booking |
+| R2 Production Status | **Saleable** as of Q1 2026 print | Employee deliveries underway; customer launch H1 2026 |
 
 ---
 
@@ -93,7 +115,7 @@ The bull case requires: (a) R2 deliveries hitting 20K+ in 2026 at improving GM, 
 |---------|---------|------------|------------|------|
 | Q3 2025 | ~$1.1B | ~10K | ~10K | Pre-Q4 ramp |
 | Q4 2025 | **$1.29B** | 10,974 | 9,745 | Auto $839M / S&S $447M (+108% YoY) |
-| Q1 2026 | TBD (Apr 30) | 10,236 | **10,365** | Deliveries > production for first time; FY guide reaffirmed |
+| Q1 2026 | **$1.4B** (+11% YoY) | 10,236 | **10,365** | GP +$119M (~9% GM); EPS −$0.33 vs. −$0.63 Street (~$0.30 beat); Adj EBITDA −$472M; R2 saleable; **$4.5B DOE loan** + $2.55B VW + Uber 2026 capital → ~$8B liquidity |
 
 ### Primary Source: 10-K Segment Detail (FY2025)
 
@@ -216,8 +238,9 @@ Materiality-filtered table — universal corporate boilerplate (generic cyber, g
 
 | Risk | Impact | Probability | Priced In? | Notes |
 |------|--------|-------------|------------|-------|
-| ⚠️ R2 ramp slips into Q1 2027 or auto GM stays negative through 2026 exit | **Critical** | 35% | Partially | Lucid precedent. Tied to thesis-break trigger §13. McDonough's "positive auto GM by exit-2026" commitment is the single sharpest test. Differentiated risk vs. peers (Tesla, GM are scaled). |
-| ⚠️ Cash burn forces dilutive equity raise sub-$15 | **Critical** | 25% | Partially | $6.1B cash → ~$3B EOY 2026 *[Estimate]* before JV tranches. Each missed JV milestone tightens the runway. **Large discretionary investment risk** (R2 + capex + JV deliverables = ~$4B 2026 spend). |
+| ⚠️ **R2 demand softness — early customer pull weaker than 20–25K 2026 embedded** | **Critical** | 35% | **Not priced in** | **NEW / ELEVATED [2026-05-01]**: Q1 print rotated market focus from cash-burn to R2 demand commentary. Per Rule #25(b), explicitly *not priced in* — consensus still models 20–25K 2026 R2 deliveries. First customer-delivery quarter (Q2 2026) is the first hard read. |
+| ⚠️ R2 ramp slips into Q1 2027 or auto GM stays negative through 2026 exit | **Critical** | 30% | Partially | Lucid precedent. Tied to thesis-break trigger §13. McDonough's "positive auto GM by exit-2026" commitment is the single sharpest test. Differentiated risk vs. peers (Tesla, GM are scaled). R2 saleable status reached Q1 2026 — execution side de-risked vs. demand side. |
+| ~~⚠️ Cash burn forces dilutive equity raise sub-$15~~ ✅ **DE-RISKED [2026-05-01]** | ~~Critical~~ | ~~25%~~ | — | **DE-RISKED**: Q1 2026 print disclosed **$4.5B DOE loan** for Georgia plant + **$2.55B confirmed VW + Uber 2026 capital** → ~$8B total liquidity. Multi-year runway through R2 ramp + R3 launch without dilutive raise barring extreme demand miss. |
 | ⚠️ VW JV milestone delay (>2 quarters) on ID.Golf software handoff | **High** | 25% | **Not priced in** | Each tranche is ~$1B. A delay both stretches cash runway AND re-rates the moat narrative. The market currently treats the JV tranches as near-certain. |
 | ⚠️ Federal EV credit further reduced or eliminated | High | 55% | Partially | Already partial cuts in 2025; further cuts likely under current administration. R2 at $57,990 Performance / ~$45K standard sits at the buyer-elastic price tier. |
 | ⚠️ Recession compresses premium EV demand (R1 segment) | High | 30% | Yes | R1T/R1S are $80K+ vehicles; demand inelastic in mild downturn but breaks in severe. R2 at $57K is more defensible. |
@@ -286,12 +309,12 @@ Implication: at $16.54, the market is pricing the auto business at roughly its s
 
 ### Live Price & Positioning
 
-- **Price**: **$16.54** (April 25, 2026 intraday)
-- **Previous close**: $16.95 (–2.4% session)
+- **Price**: **$15.15** (May 1, 2026 intraday)
+- **Previous close**: $16.54 (−8.4% session post-Q1 print)
 - **52-week range**: $11.57 – $22.69
-- **% from 52-wk high**: –27.1%
-- **% above 52-wk low**: +42.9%
-- **Market cap**: ~$20.5B
+- **% from 52-wk high**: –33.2%
+- **% above 52-wk low**: +30.9%
+- **Market cap**: ~$18.8B
 - **Avg volume**: 28.8M
 
 ### Analyst Consensus (as of April 25, 2026)
@@ -317,7 +340,8 @@ Implication: at $16.54, the market is pricing the auto business at roughly its s
 
 ### Recent Corporate News (Last 90 Days)
 
-- 📅 **[2026-04-22] [Operational]** — R2 production officially started at Normal, IL — five days after EF-1 tornado hit Building 2 ([Electrek](https://electrek.co/2026/04/22/rivian-r2-starts-production-tornado-deliveries-spring/), [CNBC](https://www.cnbc.com/2026/04/22/rivian-r2-ev.html)). Performance AWD Launch $57,990; deliveries spring 2026.
+- ✅ **[2026-04-30] [Earnings — Delivered]** — **Q1 2026 print**: rev $1.4B (+11% YoY), GP $119M (~9%), **EPS −$0.33 vs. −$0.63 Street (~$0.30 beat)**, Adj EBITDA −$472M, deliveries 10,365 / production 10,236. **R2 saleable status reached** — employee deliveries underway. **$4.5B DOE loan** announced for Georgia plant (capacity raised 50% to 300K, total US footprint 515K). **$2.55B confirmed VW + Uber 2026 capital** → ~$8B liquidity. Stock −8% on session as focus shifted from cash-burn to R2 demand. ([Q1 2026 transcript](https://www.fool.com/earnings/call-transcripts/2026/04/30/rivian-rivn-q1-2026-earnings-call-transcript/), [8-K](https://www.stocktitan.net/sec-filings/RIVN/8-k-rivian-automotive-inc-de-reports-material-event-29c5ad6aa96b.html), [Stock Market Today May 1](https://www.fool.com/coverage/stock-market-today/2026/05/01/stock-market-today-may-1-rivian-falls-after-investors-focus-on-cash-burn-despite-beating-q1-expectations/))
+- ✅ **[2026-04-22] [Operational — Delivered]** — R2 production officially started at Normal, IL — five days after EF-1 tornado hit Building 2 ([Electrek](https://electrek.co/2026/04/22/rivian-r2-starts-production-tornado-deliveries-spring/), [CNBC](https://www.cnbc.com/2026/04/22/rivian-r2-ev.html)). Performance AWD Launch $57,990; deliveries spring 2026.
 - 💰 **[2026-03-27] [Strategic]** — VW JV unlocked another **$1B milestone tranche** ([Electrek JV milestone](https://electrek.co/2026/03/27/volkswagen-groups-joint-venture-with-rivian-hits-latest-milestone-unlocking-another-1b-for-the-ev-automaker/)). Brings cumulative tranches received past $2B of the $5.8B total.
 - **[2026-04-02] [Operational]** — Q1 2026 production/delivery release: 10,236 / **10,365** ([Rivian newsroom](https://rivian.com/newsroom/article/rivian-releases-q1-2026-production-and-delivery-figures)); FY guide reaffirmed at 62–67K.
 - **[2026-Q1]** — U.S. sales reportedly down 26% YoY in some metro markets per third-party tracking ([techi.com](https://www.techi.com/rivian-stock-r2-launch-vw-deal/)) — concerning if confirmed in earnings.
@@ -327,7 +351,8 @@ Implication: at $16.54, the market is pricing the auto business at roughly its s
 
 | Date | Event | Why It Matters |
 |------|-------|----------------|
-| 📅 **2026-04-30** (post-close) | **Q1 2026 full earnings** ([MarketBeat](https://www.marketbeat.com/instant-alerts/rivian-automotive-rivn-projected-to-post-quarterly-earnings-on-thursday-2026-04-23/)) | Cash burn pace; R2 commentary; VW JV update; FY guide reaffirmation |
+| ~~📅 2026-04-30~~ ✅ **Delivered** | ~~Q1 2026 full earnings~~ | EPS beat ~$0.30; R2 saleable; $4.5B DOE loan; ~$8B liquidity; stock −8% on R2 demand focus |
+| 📅 **~Aug 2026** | **Q2 2026 earnings** | First quarter with R2 customer deliveries booking; cash trajectory post-DOE; VW JV cadence — primary thesis-test for R2 demand |
 | Spring 2026 | First R2 customer deliveries | Volume validation |
 | Q3 2026 | R2 production rate test (target >1,000/wk) | Ramp slope confirmation |
 | H2 2026 | VW JV ID.Golf software milestone | License-fee revenue trigger |
@@ -376,25 +401,25 @@ Implication: at $16.54, the market is pricing the auto business at roughly its s
 
 *All scenarios are 2-year (end-2027) terminal prices. Probabilities sum to 100%.*
 
-### Bull Case — $32 by 2027 (+93%, ~39% CAGR) — **Probability: 30%**
+### Bull Case — $32 by 2027 (+111% from $15.15, ~45% CAGR) — **Probability: 30%**
 - 2026 deliveries 67K (top of guide); 2027 ~110K (R2 ramp full + R3 launch begins)
 - Auto GM positive exiting 2026 (per McDonough); R2 GM ~5–7% at scale
 - VW JV all milestones hit through 2027; software & services revenue ~$3B at ~40% GM
 - ID.Golf launches successfully on Rivian arch in 2027; expands JV addressable market
 - ~$26B EV (1.7× FY27E rev of $15B + JV premium) → ~$32/share
 
-### Base Case — $19 by 2027 (+15%, ~7% CAGR) — **Probability: 50%**
+### Base Case — $19 by 2027 (+25% from $15.15, ~12% CAGR) — **Probability: 55%**
 - 2026 deliveries 60K (slight miss to guide low end); 2027 ~80K
 - Auto GM ~breakeven exiting 2026 (slips slightly from McDonough commitment)
 - VW JV mostly on schedule; one minor milestone slip
 - Software & services revenue ~$2.5B at ~35% GM
 - Re-rates to ~1.1× FY27 sales of $13B → ~$19/share
 
-### Bear Case — $7 by 2027 (–58%, ~–35% CAGR) — **Probability: 20%**
-- R2 ramp slips materially into Q1 2027; auto GM negative through 2026
-- $2–3B dilutive raise required at sub-$15 (significant share count expansion to ~1.4–1.5B)
+### Bear Case — $7 by 2027 (–54% from $15.15, ~–32% CAGR) — **Probability: 15%**
+- R2 demand softness — early customer pull weaker than 20–25K 2026 embedded; auto GM stays negative through 2026
 - VW JV milestone delay >2 quarters
 - Re-rates to <0.8× sales → ~$7/share
+- *Note*: dilutive-raise leg of the bear case removed post-Q1 2026 — DOE $4.5B + $2.55B confirmed VW + Uber 2026 capital → ~$8B liquidity. Bear thesis is now demand-driven, not funding-driven. Probability cut 20% → 15%.
 
 ---
 
@@ -403,48 +428,49 @@ Implication: at $16.54, the market is pricing the auto business at roughly its s
 | Scenario | Terminal (2027) Price | Probability | PW Contribution |
 |----------|----------------------|-------------|-----------------|
 | Bull | $32 | 30% | $9.60 |
-| Base | $19 | 50% | $9.50 |
-| Bear | $7 | 20% | $1.40 |
-| **PW EV (2-year)** | | | **~$20.50** |
+| Base | $19 | 55% | $10.45 |
+| Bear | $7 | 15% | $1.05 |
+| **PW EV (2-year)** | | | **~$21.10** |
 
 | Current Price | PW EV | Return (2-yr) | Annualized |
 |---------------|-------|---------------|------------|
-| $16.54 | $20.50 | **+24%** | ~+11%/yr |
+| $15.15 | $21.10 | **+39%** | ~+18%/yr |
 
 ### Risk/Reward (per Rule #26)
 
-- **Headline R/R** (Bull / Bear, anchored to §11 midpoints): (+93%) / (–58%) = **~1.6:1**
-- **Stop-loss-anchored R/R** (Bull / thesis-break trigger ~$12): (+93%) / (–27%) = **~3.4:1** *(secondary framing)*
+- **Headline R/R** (Bull +111% / Bear –54%, anchored to §11 midpoints vs. $15.15 spot): **~2.1:1** (was ~1.6:1 at $16.54)
+- **Stop-loss-anchored R/R** (Bull / thesis-break trigger ~$12): (+111%) / (–21%) = **~5.3:1** *(secondary framing)*
 
-**Interpretation**: Modestly positive PW EV (+24% over 2 years, ~11%/yr). The headline Bull-vs-Bear R/R of ~1.6:1 is unattractive by typical asymmetric-setup standards — this is because the bear case loss (–58%) is severe relative to the bull case (+93%). The **stop-loss-anchored R/R of 3.4:1** is more flattering because the thesis-break triggers (cash position <$3.5B without a funding plan; R2 GM negative at >5K cumulative deliveries) crystallize earlier than the terminal bear-case price target. **The setup is favorable for sized risk-managed exposure with discipline to exit on thesis-break, not for buy-and-hold conviction sizing**. Distribution remains genuinely bimodal — average outcome is modestly positive, but the variance is wide.
+**Interpretation**: PW EV $21.10 (was $20.50) reflects the post-Q1 2026 probability shift — Bear cut 20%→15% on dilution risk DE-RISKED (DOE $4.5B + $2.55B confirmed VW + Uber 2026 capital → ~$8B liquidity), Base raised 50%→55% on Q1 EPS beat + R2 saleable + capacity expansion to 515K US footprint. Lower spot ($15.15 vs. $16.54) compounds the asymmetry — headline R/R 1.6:1 → 2.1:1. The bear case is now demand-driven (R2 customer pull) rather than funding-driven, which is structurally a more recoverable thesis-break. Distribution remains bimodal but the bear tail is genuinely thinner.
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Rivian at $16.54 trades roughly at sum-of-the-parts conservative case (auto + VW JV + cash), with R2 production now active, McDonough's positive-auto-GM-by-exit-2026 commitment as the single sharpest thesis-test, and the under-appreciated FY2025 software & services inflection ($1.56B revenue / +222% YoY) reframing the company from "EV pickup OEM" to "auto + IP licensing platform" — making this a tactically interesting binary setup with PW EV ~$20.50 (+24% / 2-yr) but real dilution-tail risk if R2 ramps slowly.
+**Thesis in one sentence**: Q1 2026 print delivered a $0.30 EPS beat, R2 saleable status with employee deliveries underway, AND a $4.5B DOE loan + $2.55B confirmed VW + Uber 2026 capital → ~$8B liquidity that materially de-risks the dilution tail; market focus has rotated from cash-burn (now resolved) to R2 demand (now the load-bearing question), and at $15.15 the asymmetry is stronger (PW EV $21.10, R/R ~2.1:1) with a structurally thinner — and more recoverable — bear case.
 
-🟡 **For a non-holder**: **Watch / small Initiate** at $16.54 — ideally wait for the **April 30 earnings print** before sizing meaningfully. Initiating small ahead of earnings is acceptable for the asymmetric setup; otherwise wait for Q1 confirmation. Attractive entry zone is **$12–14** if a pre-earnings or post-disappointment selloff materializes.
+🟡 **For a non-holder**: **Watch** at $15.15 — Q1 print resolved the funding question but introduced an early R2-demand question; wait for Q2 2026 print (~Aug) for first hard read on customer pull. Attractive entry zone is **$12–14** if a Q2 demand-disappointment selloff materializes.
 
-🟡 **For a current holder**: **Hold** through earnings. Q1 deliveries already beat consensus; R2 already in production; VW JV unlocked another $1B in March; do not exit pre-print at –54% from 2024 highs.
+🟡 **For a current holder**: **Hold**. Q1 EPS beat + R2 saleable + DOE loan + ~$8B liquidity all support not exiting on the −8% session reaction. Stronger asymmetry from lower spot + thinner bear tail.
 
-🎯 **Attractive entry zone**: **$12 – $14** (rationale: ~1× FY26E revenue net of cash + JV implied value; near $11.57 52-wk low; provides cushion against a Q1 disappointment or interim dilutive raise concern)
+🎯 **Attractive entry zone**: **$12 – $14** (rationale: ~1× FY26E revenue net of expanded cash + JV implied value; near $11.57 52-wk low; provides cushion against a Q2 R2-demand disappointment)
 
-🎯 **Trim zone**: **$22 – $26** (rationale: 52-wk high band; would price confident R2 ramp + JV on schedule + sustained S&S momentum; bull case ceiling for 2026)
+🎯 **Trim zone**: **$22 – $26** (rationale: 52-wk high band; would price confident R2 ramp + JV on schedule + sustained S&S momentum)
 
-🔴 **Exit / avoid zone**: **>$32** (rationale: would require fully priced 2027 bull case ahead of its evidence; not the right setup absent multi-quarter R2 + JV proof)
+🔴 **Exit / avoid zone**: **>$32** (rationale: would require fully priced 2027 bull case ahead of its evidence)
 
 ⚠️ **Thesis-break triggers** (would force re-rating toward Reduce / Exit):
-- ⚠️ Q1 2026 earnings reveal cash position <$5B without clear funding plan AND VW JV milestone delay
+- ⚠️ **Q2 2026 R2 customer-delivery cadence implies <15K 2026 R2 units** (vs. 20–25K embedded) — the new top-of-stack risk
 - ⚠️ FY2026 delivery guide cut below 60K
 - ⚠️ R2 production rate at end-Q3 2026 below 1,000 units/week
 - ⚠️ Auto gross margin disclosed negative at >5K cumulative R2 deliveries (breaks McDonough's exit-2026 positive-GM commitment)
 - ⚠️ VW JV milestone delayed >2 quarters
-- ⚠️ Equity raise announced sub-$15
 - ⚠️ Federal EV credit fully eliminated without offset
-- ⚠️ Software & Services revenue growth decelerates to <50% YoY (would weaken the IP-licensing platform narrative)
+- ⚠️ Software & Services revenue growth decelerates to <50% YoY
+- ~~⚠️ Equity raise announced sub-$15~~ ✅ **DE-RISKED [2026-05-01]**: $4.5B DOE loan + $2.55B confirmed VW + Uber 2026 capital → ~$8B liquidity; multi-year runway absent extreme demand miss.
+- ~~⚠️ Q1 2026 earnings reveal cash position <$5B without clear funding plan~~ ✅ **DE-RISKED [2026-05-01]**: ~$8B liquidity confirmed.
 
-📅 **Next review trigger**: **Q1 2026 earnings — April 30, 2026 (post-close)**. Key items: (1) cash balance and quarterly burn pace, (2) R2 production schedule + early units + GM commentary, (3) VW JV revenue + next milestone timing, (4) FY26 guide reaffirmation, (5) software & services revenue trajectory, (6) any commentary on funding adequacy through R2 maturity.
+📅 **Next review trigger**: **Q2 2026 earnings (~early August 2026)**. Key items: (1) **R2 customer delivery cadence + early demand commentary** (the new dominant question), (2) cash trajectory post-DOE drawdown, (3) VW JV revenue + next milestone timing, (4) FY26 guide reaffirmation, (5) Georgia plant construction/timeline progress, (6) software & services revenue trajectory.
 
 ---
 

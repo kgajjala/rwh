@@ -1,26 +1,41 @@
 # MSFT — Microsoft Corporation
 
 > **Schema**: v2.9
-> **Last Updated**: 2026-04-26
+> **Last Updated**: 2026-05-01
 > **Status**: Active
-> **Live Price Verified**: **$424.62** at April 24, 2026 close ([stockanalysis.com](https://stockanalysis.com/stocks/msft/); [Finviz](https://finviz.com/quote.ashx?t=MSFT))
+> **Live Price Verified**: **$414.42** at April 30, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/MSFT))
 > **Ticker Type**: Capital-light platform (enterprise software + hyperscaler + AI)
 
 ---
 
 ## Summary
 
-- 🟢 **Thesis**: Deepest-moat mega-cap (productivity + cloud + AI + gaming — **Wide moat**) at –23.5% from 52-week high on AI capex anxiety; ~25× FY26E P/E with 15%+ revenue growth, 46% operating margins, and $77B+ FCF; Quadruple BAIT setup heading into Q3 FY26 earnings (April 29, 2026).
-- 🟢 **For a non-holder: Initiate** — entry zone $380–$440 offers wide-moat quality at a meaningful discount with AI optionality; PW EV ~$565 (3-yr) implies ~10%/yr return.
-- 🟢 **For a current holder: Add** below $440 if cost basis is above current; otherwise **Hold**.
-- 🎯 **Attractive entry zone**: **$380 – $440** (~23–27× FY26E P/E; AI capex worry priced in; aligns with March 2026 lows).
-- 🎯 **Trim zone**: **$640 – $720** (~38–43× FY26E P/E; bull case fully priced).
-- 📉 **Price action**: $424.62, **–23.5% from 52-wk high** ($555.45), +19.2% above 52-wk low ($356.28).
-- 📅 **Next catalyst**: **Q3 FY26 earnings — April 29, 2026 (post-close, 2:30pm PT)** — resolves AI capex / payback debate; Azure growth print is the binary.
-- ⚠️ **Top risk**: AI capex ROIC disappoints — $80B+ FY26 capex with contested payback timeline; not fully priced in.
-- ⚠️ **Second risk**: Azure growth deceleration below +33% or Q3 FY26 miss would re-test lows.
-- 🟢 **Moat verdict**: **Wide** — multi-pillar: M365 productivity lock-in + Azure scale ($75B ARR) + OpenAI commercial partnership + 100M+ GitHub developers + Active Directory identity dominance. No credible single-year displacement threat.
-- 🟢 **BAIT verdict**: **Quadruple overlap (B Strong + A Strong + I Moderate + T Strong)** — Conviction **High (event-driven; April 29 binary print)**. Analyst consensus avg target $573.51 implies +35% upside; PW EV ~$565 sits just above current on 3-yr horizon.
+**Thesis (1–2 sentences)**: Deepest-moat mega-cap (productivity + cloud + AI + gaming) printed Q3 FY26 with Azure +40% / EPS +23% — operating thesis confirmed — but the FY26 capex guide of ~$190B (vs. Street ~$80–90B) drove a 5–6% post-print sell-off and strengthened the bear-case capex-discipline input. Q3 binary is now ~~struck~~ DE-RISKED ✅; thesis net Unchanged.
+
+**Verbs**: 🟢 Non-holder: **Initiate** · 🟢 Holder: **Hold / Add below $420**
+
+### Scenario Table
+
+| 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|---|
+| $356.28 – $555.45 | **$414.42** (~29th) | $300 | <$420 | $510 / **$499** | $620–$700 | $650 | **1.7:1** |
+
+### KPI Strip
+
+| BAIT | Moat | FY26E P/E | FCF Yld (TTM) | Azure (Q3 FY26) | Next catalyst |
+|---|---|---|---|---|---|
+| Quadruple (B/A/I/T = S/S/M/S) | Wide | ~24× | ~2.4% | **+40%** | Q4 FY26 (late July 2026) |
+
+### Why / Why Not / Next Read
+
+- 🟢 Azure +40% in Q3 FY26 (above consensus +35–37%) confirms hyperscaler share gains and reverses the mid-year decel scare; commercial RPO of $625B at Q2 FY26 supports forward conversion.
+- 🟢 EPS $4.27 (+23% YoY) on rev $82.9B (+18%) and op income $38.4B (+20%) prove margin durability through the capex ramp.
+- 🟢 Q3 thesis-break trigger ✅ DE-RISKED: Azure stayed well above +30% for the second consecutive quarter; Wide moat intact, ~24× FY26E P/E remains reasonable for the quality.
+- ⚠️ FY26 capex guide ~$190B (vs. ~$80–90B Street est.) was the loudest signal of the week — bear-case "capex compresses FCF without commensurate AI revenue" input materially strengthened.
+- ⚠️ More Personal Computing $13.2B (−1%) — first decline in the segment; PC + Search soft tape adds incremental drag.
+- ⚠️ R/R compresses to ~1.7:1 (from 1.8:1) as PW EV drops $520→$499 on revised bear scenario weight.
+
+📅 **Next read**: Q4 FY26 earnings (late July 2026) — capex pacing for FY27, Azure growth durability, Copilot seat updates.
 
 ---
 
@@ -44,13 +59,13 @@ The bull case is "buy the moat leader at 25× P/E with 15%+ growth, 46% margins,
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$424.62** | April 24, 2026 close ([stockanalysis.com](https://stockanalysis.com/stocks/msft/)) |
+| Live Price | **$414.42** | April 30, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/MSFT)) |
 | 52-Week High | $555.45 | Jan 2026 |
 | 52-Week Low | $356.28 | March 2026 |
-| % From 52-Wk High | –23.5% | Meaningful drawdown on AI capex anxiety |
-| % Above 52-Wk Low | +19.2% | Partial recovery from trough |
-| Market Cap | ~$3.15T | 7.43B diluted shares × $424.62 ([Finviz](https://finviz.com/quote.ashx?t=MSFT)) |
-| EV | ~$3.19T | Market cap + net debt ~$33.9B ([stockanalysis.com balance sheet](https://stockanalysis.com/stocks/msft/financials/balance-sheet/)) |
+| % From 52-Wk High | –25.4% | Meaningful drawdown; deepened on $190B capex guide |
+| % Above 52-Wk Low | +16.3% | Off the trough but post-print sell-off retraced ~half the bounce |
+| Market Cap | ~$3.08T | 7.43B diluted shares × $414.42 |
+| EV | ~$3.11T | Market cap + net debt ~$33.9B ([stockanalysis.com balance sheet](https://stockanalysis.com/stocks/msft/financials/balance-sheet/)) |
 | FY2025 Revenue | $281.7B | +15% YoY |
 | FY2025 Operating Income | $128.5B | +17% YoY; 45.6% op margin |
 | FY2025 FCF | $71.6B | Operating CF $136.2B – capex $64.6B |
@@ -58,7 +73,8 @@ The bull case is "buy the moat leader at 25× P/E with 15%+ growth, 46% margins,
 | FY2026E EPS (consensus) | $16.92 | +24% YoY; [stockanalysis.com](https://stockanalysis.com/stocks/msft/forecast/) |
 | FY2026E Revenue (consensus) | $334.6B | +19% YoY |
 | P/E (trailing) | 26.6× | |
-| P/E (forward FY26E) | ~25× | $424.62 / $16.92 |
+| P/E (forward FY26E) | ~24.5× | $414.42 / $16.92 |
+| FY26 Capex Guide | **~$190B** | Q3 FY26 print (Apr 29 2026); vs. ~$80–90B Street est. |
 | Azure Revenue FY2025 | >$75B | +34% YoY |
 | Azure Growth (Q2 FY26) | +39% | Dec 2025 quarter ([MSFT IR](https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast)) |
 | Azure Growth (Q3 FY25) | +33% | March 2025 quarter (35% constant currency) |
@@ -66,7 +82,7 @@ The bull case is "buy the moat leader at 25× P/E with 15%+ growth, 46% margins,
 | GitHub Copilot Users | 20M+ | End FY2025 |
 | Analyst Avg Target | $573.51 | 34 analysts, 0 Sell; [stockanalysis.com](https://stockanalysis.com/stocks/msft/forecast/) |
 | Short Interest | 1.12% of float | 83.4M shares; 3.37 days-to-cover ([Fintel](https://fintel.io/ss/us/msft)) |
-| Q3 FY26 Earnings Date | **April 29, 2026** | Post-close, 2:30pm PT call |
+| Q3 FY26 Earnings Delivered | **April 29, 2026** ✅ | Rev $82.9B (+18%); EPS $4.27 (+23%); Azure +40% |
 
 ---
 
@@ -102,10 +118,11 @@ The bull case is "buy the moat leader at 25× P/E with 15%+ growth, 46% margins,
 | Q4 FY2025 (Jun '25) | $76.4B | $34.3B | $27.2B | $3.65 | **+39%** |
 | Q1 FY2026 (Sep '25) | $77.7B | $38.0B | $27.7B | $3.72 | **+40%** |
 | Q2 FY2026 (Dec '25) | $81.3B | $38.3B | $38.5B | $5.16 | **+39%** |
+| Q3 FY2026 (Mar '26) | **$82.9B** | **$38.4B** | **$31.8B** | **$4.27** | **+40%** |
 
-*Sources: [MSFT IR Q3 FY2025 PR](https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q3/press-release-webcast); [MSFT IR Q2 FY2026 PR](https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast); [stockanalysis.com quarterly](https://stockanalysis.com/stocks/msft/financials/?p=quarterly)*
+*Sources: [MSFT IR Q3 FY2025 PR](https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q3/press-release-webcast); [MSFT IR Q2 FY2026 PR](https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast); [MSFT IR Q3 FY2026 PR](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q3/press-release-webcast); [stockanalysis.com quarterly](https://stockanalysis.com/stocks/msft/financials/?p=quarterly)*
 
-📅 **Q3 FY2026 results — April 29, 2026 (post-close)**. Consensus expecting ~$68–70B revenue, Azure ~+35–37%.
+✅ **Q3 FY2026 delivered (Apr 29 2026)**: Revenue $82.9B (+18%), op income $38.4B (+20%), GAAP NI $31.8B (+23%), EPS $4.27 (+23%); **Azure +40%** (above consensus +35–37%); More Personal Computing $13.2B (−1%, first segment decline). The segment beat was clean — but management's **FY26 capex guide of ~$190B** (vs. ~$80–90B Street est.) drove a –5–6% post-print sell-off as the buy-side recalibrated FCF compression risk.
 
 ### Primary Source: 10-K Segment Detail
 
@@ -306,17 +323,18 @@ The growth vectors that justify a premium multiple beyond the 15% organic revenu
 
 ## Section 8 — Valuation & Comparable Analysis
 
-### Current Multiples (April 24, 2026 — $424.62 / ~$3.15T market cap / ~$3.19T EV)
+### Current Multiples (April 30, 2026 — $414.42 / ~$3.08T market cap / ~$3.11T EV)
 
 | Multiple | Value | Basis |
 |----------|-------|-------|
-| P/E (trailing, TTM) | 26.6× | $15.98 TTM EPS |
-| P/E (forward, FY26E) | **~25.1×** | $16.92 consensus EPS |
-| EV / Revenue (FY25) | ~11.3× | $281.7B FY25 revenue |
-| EV / Revenue (FY26E) | ~9.5× | $334.6B consensus |
-| EV / FCF (TTM) | ~41× | $77.4B TTM FCF |
-| FCF Yield (TTM) | ~2.4% | $77.4B / $3.15T |
-| Dividend Yield | ~0.86% | $3.64 annual |
+| P/E (trailing, TTM) | ~26× | $15.98 TTM EPS (pre-Q3); refresh once stockanalysis.com rolls Q3 FY26 |
+| P/E (forward, FY26E) | **~24.5×** | $414.42 / $16.92 consensus EPS |
+| EV / Revenue (FY25) | ~11.0× | $281.7B FY25 revenue |
+| EV / Revenue (FY26E) | ~9.3× | $334.6B consensus |
+| EV / FCF (TTM) | ~40× | $77.4B TTM FCF |
+| FCF Yield (TTM) | ~2.5% | $77.4B / $3.08T |
+| Dividend Yield | ~0.88% | $3.64 annual |
+| **FY26 Capex Guide** | **~$190B** | Q3 FY26 print; Street had ~$80–90B; FCF math now contingent on the FY27 deceleration arc |
 
 ### Peer Comparison
 
@@ -329,29 +347,28 @@ The growth vectors that justify a premium multiple beyond the 15% organic revenu
 | CRM | ~28× | ~6× | +8–9% | Pure SaaS; AI agent competition |
 | ORCL | ~22× | ~7× | +10% | Database + OCI cloud growing |
 
-**Valuation assessment**: At 25× FY26E P/E with +19% expected revenue growth and 46% operating margins, MSFT trades at a **PEG of ~1.3×** — reasonable for the widest-moat mega-cap in tech. The compression from January 2026 (>34× P/E at $555+) represents the full absorption of the "AI capex anxiety" discount. The key valuation argument: historical fair-value P/E for MSFT in a growth+moat regime is 28–33×; any resolution of the capex/ROIC debate at the April 29 print should re-rate toward 28–30×, implying $475–$510. The Morgan Stanley $650 target reflects a 2-year bull case re-rating to ~33× on FY27E EPS of ~$19.38.
+**Valuation assessment (post-Q3 FY26)**: At ~24.5× FY26E P/E with +19% expected revenue growth and 46% operating margins, MSFT trades at a **PEG of ~1.3×** — still reasonable for the widest-moat mega-cap in tech. The Q3 print delivered the operating beat (Azure +40%, EPS +23%) but the **$190B FY26 capex guide** materially raises the bar: forward FCF yield could compress meaningfully in FY26 before any FY27 capex deceleration. Historical fair-value P/E for MSFT in a growth+moat regime is 28–33×; the post-print drawdown to ~24.5× reflects the market pricing in capex-discipline risk. A clean re-rating now requires either (a) explicit Azure AI revenue disclosure validating the $190B spend, or (b) FY27 capex guide deceleration. Sell-side $650 targets remain in place but the path is steeper.
 
 ---
 
 ## Section 9 — Catalyst & Sentiment Tracker
 
 ### Live Price & Positioning
-- **Price**: $424.62 (April 24, 2026 close; after-hours $423.88) — [stockanalysis.com](https://stockanalysis.com/stocks/msft/)
-- **52-week range**: $356.28 – $555.45 — [Finviz](https://finviz.com/quote.ashx?t=MSFT)
-- **% from 52-wk high**: –23.5%
-- **% above 52-wk low**: +19.2%
-- **Market cap**: ~$3.15T
+- **Price**: $414.42 (April 30, 2026 close; –5–6% post-print sell-off) — [Yahoo Finance](https://finance.yahoo.com/quote/MSFT)
+- **52-week range**: $356.28 – $555.45
+- **% from 52-wk high**: –25.4%
+- **% above 52-wk low**: +16.3%
+- **Market cap**: ~$3.08T
 
 ### Analyst Consensus
-- **Rating**: Strong Buy (34 analysts; 32 Buy/Strong Buy, 2 Hold, 0 Sell) — [stockanalysis.com](https://stockanalysis.com/stocks/msft/forecast/)
-- **Average price target**: $573.51 (+35% upside from $424.62)
-- **Target range**: $392 (low) – $675 (high)
-- **Recent actions**:
+- **Rating**: Strong Buy retained post-print (refresh pending firm-by-firm cluster)
+- **Average price target**: $570s pre-print; cluster of post-Q3 PT actions still consolidating — Morgan Stanley OW $650 reaffirmed; sell-side broadly supportive on the operating beat with capex caveats
+- **Target range** (pre-print baseline): $392 – $675
 
 | Date | Firm | Action | Target |
 |------|------|--------|--------|
-| 2026-04 | Morgan Stanley | OW reaffirmed | $650 |
-| Various | Multiple firms | Range of Buy reiterations | $500–$635 |
+| 2026-04 (pre-print) | Morgan Stanley | OW reaffirmed | $650 |
+| 2026-04-29/30 | Multiple | Reiterations on operating beat; capex-caveat language added | $500–$650 range |
 
 ### Short Interest
 - **% of float**: 1.12% — essentially no short pressure; not a factor
@@ -366,7 +383,7 @@ The growth vectors that justify a premium multiple beyond the 15% organic revenu
 - No notable open-market buys reported among NEOs in the window
 
 ### Recent Corporate News (Last 90 Days)
-- 📅 **[2026-04-08]** — Microsoft announced Q3 FY26 earnings date: April 29, 2026 ([MSFT IR](https://www.microsoft.com/en-us/Investor))
+- ✅ **[2026-04-29] [Earnings Q3 FY26 — Delivered]** — Revenue $82.9B (+18%); op income $38.4B (+20%); GAAP NI $31.8B (+23%); EPS $4.27 (+23%); **Azure +40%** (above consensus +35–37%); More Personal Computing $13.2B (−1%, first decline). **FY26 capex guide ~$190B** (vs. ~$80–90B Street est.) drove –5–6% post-print sell-off — capex sticker shock dominated the tape ([MSFT IR Q3 FY26 PR](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q3/press-release-webcast); [CNBC](https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html); [24/7 Wall St — capex analysis](https://247wallst.com/investing/2026/04/30/the-incredible-number-hiding-in-microsofts-earnings-report/))
 - **[2026-01-28] [Earnings Q2 FY26]** — Revenue $81.3B (+17%, +15% CC); op income $38.3B (+21%); GAAP NI $38.5B (+60%); Azure +39%; capex $37.5B; commercial RPO $625B (+110%); $12.7B returned to shareholders ([MSFT IR PR Q2 FY26](https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast))
 - **[2025-10] [Earnings Q1 FY26]** — Revenue $77.7B; op income $38.0B; Azure +40% (peak); 15M paid M365 Copilot seats KPI introduced ([MSFT IR Q1 FY26](https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q1/))
 - **[Ongoing]** — OpenAI partnership status / structural negotiations [link pending]
@@ -376,10 +393,10 @@ The growth vectors that justify a premium multiple beyond the 15% organic revenu
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| 📅 **2026-04-29** (post-close, 2:30pm PT) | **Q3 FY26 earnings** ([MSFT IR](https://www.microsoft.com/en-us/Investor)) | Hard binary: Azure growth (consensus ~+35–37%), Copilot seat count (target 18–20M+), capex pacing commentary |
+| ~~2026-04-29~~ ✅ | ~~Q3 FY26 earnings~~ **DELIVERED — Azure +40% beat / $190B FY26 capex guide drove −5–6% sell-off** | Operating beat clean; capex sticker shock the dominant signal |
 | 📅 **May 2026** | **Microsoft Build developer conference** | Major AI/Copilot product + agent announcements; strategy signal |
-| Q4 FY26 (~July 2026) | Q4 FY26 earnings + FY27 guide | Capex pacing; FY27 outlook; first full Azure AI revenue disclosure expected |
-| Ongoing | Commercial RPO conversion | $625B RPO → booked revenue pace is the key forward indicator |
+| 📅 **Q4 FY26 (~late July 2026)** | **Q4 FY26 earnings + FY27 guide** | Capex pacing into FY27 (does $190B persist or decelerate?); first full Azure AI revenue disclosure increasingly expected |
+| Ongoing | Commercial RPO conversion | $625B RPO → booked revenue pace remains the key forward indicator |
 | Ongoing | OpenAI strategic developments | IPO timeline, exclusivity structure, model access terms |
 
 ---
@@ -405,15 +422,15 @@ Microsoft is –23.5% from its January 2026 high at $555, driven by AI capex anx
 
 ### T — Technical: **Strong**
 
-- Trading –23.5% from 52-week high; partial recovery from trough of $356; the bounce from $356 to $424 is a ~19% recovery that has stalled — suggesting the market is waiting for the April 29 catalyst to commit.
-- Strong-Buy consensus + avg $573 target = significant setup for re-rating on a clean print.
-- Q3 FY26 on April 29 is a hard catalyst, 5 days from this writeup — the most compressed catalyst timeline in the wiki.
-- Dividend + buyback yield ~1.8% combined provides mechanical floor.
-- "Most important tech event of 2026" media framing ([Motley Fool](https://www.fool.com/quote/nasdaq/msft/)) magnifies the catalyst impact.
+- Trading –25.4% from 52-week high after the post-Q3 sell-off retraced ~half the bounce off the $356 March low. The –5–6% Apr 29/30 reaction was a capex-driven derate, not an operating-thesis derate — Azure +40% is the strongest growth print in the disclosed quarterly series.
+- Strong-Buy consensus retained; avg PT remains in the $570s pre-print and post-print PT cluster is tilted lower-but-still-supportive (Morgan Stanley OW $650 reaffirmed; capex caveats added across coverage).
+- Q3 binary now ✅ resolved on the operating side; the next hard catalyst is Q4 FY26 (~late July 2026) — wider catalyst gap reduces the T-lens compression that prevailed pre-print.
+- Dividend + buyback yield ~1.8% combined provides mechanical floor; $190B capex guide is the gating constraint on incremental buyback capacity.
+- $414 sits inside the prior $380–$440 entry zone — the technical setup remains constructive but no longer event-compressed.
 
 ### BAIT Verdict
 
-🟢 **Quadruple overlap (B Strong + A Strong + I Moderate + T Strong)**. Among the cleanest BAIT setups in the wiki — possibly the single best mega-cap setup in the current macro environment. The risk is April 29 binary: a miss on Azure (<+33%) or capex escalation above $100B would negate the T-lens and test the behavioral sell-off lows. Conviction: **High (event-driven; 5 days from binary print)**.
+🟢 **Quadruple overlap (B Strong + A Strong + I Moderate + T Strong)** retained post-Q3 print. The April 29 binary resolved favorably on Azure (+40% beat consensus +35–37%) and EPS (+23%); the bear-case "capex compresses FCF" input strengthened on the $190B FY26 guide. Conviction: **High (operating thesis confirmed; capex-discipline gating)**. The setup is no longer event-compressed — Q4 FY26 (~late July) is the next hard test, with the FY27 capex deceleration arc being the central question.
 
 ---
 
@@ -421,28 +438,30 @@ Microsoft is –23.5% from its January 2026 high at $555, driven by AI capex anx
 
 *All scenarios are 12–18 month price targets anchored to the April 29, 2026 Q3 FY26 print and the subsequent 3 quarters. Probabilities sum to 100%.*
 
-### Bull Case — $650 by October 2027 (+53% from $424.62) — **Probability: 30%**
+### Bull Case — $650 by October 2027 (+57% from $414.42) — **Probability: 27%**
 
-- Q3 FY26 print: Azure +37–40%; Copilot seats 18–20M+; capex commentary signals FY27 capex flat or declining as data centers open
-- FY2026 full-year: revenue ~$340B; EPS ~$17.50; op margin holds ~47%
-- FY2027 EPS ~$21; multiple re-rates to 31× as capex peak becomes visible and FCF re-expansion begins
+- Q3 FY26 print ✅ confirmed Azure +40% (above consensus); the bull-case operating ramp is intact
+- Q4 FY26 + FY27 guide: capex pacing decelerates from $190B FY26 toward FY27 mid-$100Bs as data centers open and amortization rolls through; Copilot seats expand toward 25M+
+- FY2027 EPS ~$21; multiple re-rates to 30–31× as capex peak becomes visible and FCF re-expansion begins
 - Azure AI revenue disclosure (a new segment within Intelligent Cloud) would be a standalone re-rating catalyst
-- Morgan Stanley's existing $650 12-month target captures this scenario
+- Morgan Stanley's $650 OW target captures this scenario
 
-### Base Case — $530 by October 2027 (+25% from $424.62) — **Probability: 50%**
+### Base Case — $510 by October 2027 (+23% from $414.42) — **Probability: 50%**
 
-- Q3 FY26: Azure +33–37%; Copilot seats ~17–18M; no capex guidance change
-- FY2026 full-year: revenue ~$335B; EPS ~$17; op margin ~46%
-- FY2027 EPS ~$19.40; multiple ~27× reflecting continued growth with capex uncertainty
+- Q3 FY26 ✅ delivered the operating beat but $190B capex guide raises the bar
+- Azure sustains +33–37% range; Copilot seats ramp ~17–20M; FY27 capex stays elevated near $190B
+- FY2026 full-year: revenue ~$340B; EPS ~$17; op margin ~46% (vs. prior ~47%)
+- FY2027 EPS ~$19; multiple ~27× reflecting continued growth with capex-discipline overhang
 - Includes ~3% cumulative dividend yield over the horizon
 
-### Bear Case — $300 by October 2027 (–29% from $424.62) — **Probability: 20%**
+### Bear Case — $300 by October 2027 (–28% from $414.42) — **Probability: 23%**
 
-- Q3 FY26: Azure <+33%; capex FY27 guide raised to $90B+ without commensurate revenue
+- $190B FY26 capex guide proves to be a floor, not a ceiling — FY27 guide reaches $200B+ without commensurate Azure AI revenue disclosure
 - Azure growth decelerates to +20–25% by FY2027 as hyperscaler competition intensifies; GCP + Anthropic partnership pulls AI workloads
-- FY2027 EPS ~$15 (FCF compressed by capex overrun; buyback paused)
-- Multiple compresses to 20× on deteriorating growth + capital discipline concerns
+- FY2027 EPS ~$15 (FCF compressed by capex overrun; buyback cadence trimmed)
+- Multiple compresses to 20× on deteriorating growth + capital-discipline concerns
 - OpenAI structural change or AI model commoditization adds narrative pressure
+- **Bear-case input strengthened post-Q3** by the $190B capex disclosure — the magnitude is now anchored at a level Street had not modeled
 
 ---
 
@@ -450,49 +469,49 @@ Microsoft is –23.5% from its January 2026 high at $555, driven by AI capex anx
 
 | Scenario | 12–18 Month Target | Probability | PW Contribution |
 |----------|-------------------|-------------|-----------------|
-| Bull | $650 | 30% | $195.00 |
-| Base | $530 | 50% | $265.00 |
-| Bear | $300 | 20% | $60.00 |
-| **PW EV** | | **100%** | **~$520** |
+| Bull | $650 | 27% | $175.50 |
+| Base | $510 | 50% | $255.00 |
+| Bear | $300 | 23% | $69.00 |
+| **PW EV** | | **100%** | **~$499** |
 
 | Current Price | PW EV | Return (ex-div) | + ~2% Cumul Div | Annualized (18m) |
 |--------------|-------|-----------------|-----------------|------------------|
-| $424.62 | ~$520 | +22.5% | +24.5% | ~16%/yr |
+| $414.42 | ~$499 | +20.4% | +22.4% | ~14.5%/yr |
 
-**R/R**: Bull +53% ÷ Bear –29% ≈ **1.8:1**. The asymmetry is moderate rather than exceptional — Microsoft's wide moat limits the downside but the premium multiple limits the R/R ratio compared to more depressed situations. The primary attraction is high-conviction base-case compounding (+25% over 18 months) with meaningful bull-case optionality (+53%) and a floor from the moat quality and buyback program.
+**R/R**: Bull +57% ÷ Bear –28% ≈ **~1.7:1** (was 1.8:1 pre-print). The asymmetry compressed modestly as the bear-case capex input strengthened on the $190B FY26 disclosure. The primary attraction remains high-conviction base-case compounding with bull-case optionality and a floor from the Wide moat + buyback cadence.
 
-**Interpretation**: At $424.62, the PW EV of ~$520 represents a +22.5% expected return over 18 months including moderate probability-weighting of the bear case. The April 29 Q3 FY26 print is a near-term binary: a bull outcome (Azure +37%+) skews the distribution toward the 30% bull case and raises the PW EV toward $545–565 dynamically; a miss (Azure <+33%) collapses the T-lens and tests the $356–380 range.
+**Interpretation**: At $414.42, the PW EV of ~$499 represents a +20% expected return over 18 months. The Q3 FY26 binary resolved favorably on operating metrics (Azure +40%) but the $190B capex guide moved the bear scenario weight modestly higher and trimmed the Base target. Next dynamic re-rating gates on Q4 FY26 (~late July 2026) — a sustained Azure +35%+ print plus any signal of FY27 capex deceleration would re-skew the distribution toward Bull.
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: 🟢 Microsoft is the deepest-moat mega-cap (productivity + cloud + AI + gaming) trading at –23.5% from its highs on AI capex anxiety at ~25× FY26E P/E with 15%+ growth and 46% operating margins, with a Quadruple BAIT setup heading into the April 29, 2026 Q3 FY26 print.
+**Thesis in one sentence**: 🟢 Microsoft remains the deepest-moat mega-cap (productivity + cloud + AI + gaming) at –25% from its highs; Q3 FY26 confirmed the operating thesis (Azure +40% / EPS +23%) but the $190B FY26 capex guide strengthened the bear-case capex-discipline input — net thesis Unchanged at ~24.5× FY26E P/E.
 
-**For a non-holder**: 🟢 **Initiate** — the entry zone $380–$440 offers wide-moat quality at the best discount since 2023; PW EV ~$520 (18m) implies ~16%/yr expected return; stage half pre-print, half post if risk-averse.
+**For a non-holder**: 🟢 **Initiate** — entry zone <$420 captures the post-print derate while the operating beat validates the moat thesis; PW EV ~$499 (18m) implies ~14.5%/yr expected return.
 
-**For a current holder**: 🟢 **Add** below $440 if cost basis is meaningfully above current; otherwise **Hold**. Trim only on re-rating to >$600 without confirmed AI revenue acceleration.
+**For a current holder**: 🟢 **Hold / Add below $420** — the operating thesis is intact; capex digestion is the gating constraint, not the thesis. Trim only on re-rating to >$620 without confirmed Azure AI revenue acceleration or FY27 capex deceleration.
 
-🎯 **Attractive entry zone**: **$380 – $440** (rationale: ~23–27× FY26E P/E; aligns with March 2026 lows; capex/AI worry priced in; meaningful margin of safety on Wide-moat quality)
+🎯 **Attractive entry zone**: **<$420** (rationale: ~24.5× FY26E P/E; post-print derate fully reflects the $190B capex sticker shock; Wide moat margin of safety intact)
 
-🎯 **Trim zone**: **$640 – $720** (rationale: ~38–43× FY26E P/E; bull case AI re-rating fully priced; matches sell-side high-end targets)
+🎯 **Trim zone**: **$620 – $700** (rationale: ~37–41× FY26E P/E; bull case AI re-rating largely priced; matches sell-side high-end targets)
 
-🔴 **Exit / avoid zone**: **>$750** (rationale: >44× FY26E P/E requires bull-case 2027 outcome already priced; little margin for AI capex disappointment)
+🔴 **Exit / avoid zone**: **>$720** (rationale: >43× FY26E P/E requires bull-case 2027 outcome already priced; little margin for any FY27 capex re-escalation)
 
 **Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
-- ⚠️ Azure YoY revenue growth decelerates below **+30%** for two consecutive quarters
-- ⚠️ FY27 capex guidance raised above **$100B** without Azure AI revenue acceleration (>+40%) disclosed alongside it
+- ~~Azure YoY revenue growth decelerates below **+30%** for two consecutive quarters~~ — open
+- ⚠️ **FY27 capex guidance reaches $200B+** without Azure AI revenue acceleration (>+40%) disclosed alongside it *(replaces prior $100B threshold — recalibrated to the $190B FY26 baseline)*
 - ⚠️ Microsoft 365 Copilot paid seat additions decelerate below 2M per quarter for two consecutive quarters
 - ⚠️ OpenAI exclusivity arrangement materially restructured to Microsoft's disadvantage (evidence: non-exclusive model access tier published; or Anthropic models available on Azure at equivalent terms)
 - ⚠️ Operating margin compresses below **43%** for two consecutive quarters
-- ⚠️ Q3 FY26 (April 29) print: Revenue misses by >2% to consensus AND Azure <+33%
+- ~~Q3 FY26 (April 29) print: Revenue misses by >2% to consensus AND Azure <+33%~~ ✅ **DE-RISKED 2026-04-29** — Q3 FY26 delivered revenue $82.9B (+18%) and Azure +40%, well above the trigger thresholds
 
-📅 **Next review trigger**: **Q3 FY26 earnings — April 29, 2026 (post-close, 2:30pm PT)**. Key items to watch:
-1. Azure YoY growth (consensus ~+35–37%)
-2. M365 Copilot paid seat update (target: 18–20M+)
-3. Q4 FY26 capex pacing and any FY27 guidance signals
+📅 **Next review trigger**: **Q4 FY26 earnings — late July 2026**. Key items to watch:
+1. Azure YoY growth durability (sustain +35%+ for the third consecutive quarter)
+2. M365 Copilot paid seat update (next milestone 20M+)
+3. **FY27 capex guide** — does $190B persist, decelerate, or escalate further?
 4. Operating margin trajectory
-5. Commercial RPO trend (if disclosed — should stay above $500B to validate the $625B Q2 FY26 baseline)
+5. Commercial RPO trend (validate the $625B Q2 FY26 baseline)
 6. Any disclosure of standalone Azure AI revenue
 
 ---

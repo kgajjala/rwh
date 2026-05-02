@@ -1,25 +1,36 @@
 # EBAY — eBay Inc.
 
 > **Schema**: v2.8
-> **Last Updated**: 2026-04-26
+> **Last Updated**: 2026-05-01
 > **Status**: Active
-> **Live Price Verified**: **$97.94** at 2026-04-26 ([Yahoo Finance](https://finance.yahoo.com/quote/EBAY))
+> **Live Price Verified**: **$103.48** at 2026-04-30 close ([Yahoo Finance](https://finance.yahoo.com/quote/EBAY))
 > **Ticker Type**: Capital-light platform / two-sided marketplace
 
 ---
 
-## Summary
+**Thesis**: Re-accelerated capital-light marketplace (Narrow but widening moat in cards / luxury / vehicles parts / refurbished) running ~6% combined buyback + dividend yield at ~16× FY26E NGAAP P/E. Q1 2026 beat (rev +19%, GMV +14% FXN, NGAAP EPS $1.66 vs. $1.58 Street) confirmed the Focus-Category inflection but Q2 guide implies 4–6pp FXN deceleration; the post-print 4-firm PT-raise cluster + run to near 52-wk highs has compressed asymmetry to a low-conviction total-return holding.
 
-- 🟡 **Thesis**: Re-accelerated capital-light marketplace (Narrow moat in non-new-in-box / collectibles / vehicles parts) running an aggressive **~6% combined buyback + dividend yield** at ~16× FY26E NGAAP P/E — fair value with modest asymmetry, total-return holding rather than asymmetric setup.
-- 🟢 **Moat verdict**: *Narrow but widening* — focus-category authentication infrastructure (cards, luxury, sneakers, vehicles parts) + long-tail SKU coverage where Amazon/Shopify are structurally weakest.
-- ❓ **Pivotal question**: Is the FY2025 +7% GMV / Q4 +10% reacceleration a durable category-led inflection (focus categories now ~30% of GMV, growing >MSD) — *or* an AI-feature one-off about to be eroded by **agentic-commerce LLMs** (the genuinely new 2025–2026 risk vector that supersedes the legacy "Amazon erosion" narrative)?
-- 🟡 **For a non-holder: Watch / selective Initiate** — at $97.94 the stock is roughly at consensus median target ($96.86).
-- 🟡 **For a current holder: Hold** — capital return + steady reacceleration support position; trim only on rally toward $115+.
-- 🎯 **Attractive entry zone**: **$78 – $90** (~13–15× FY26E NGAAP EPS; combined yield 7%+).
-- 🎯 **Trim zone**: **$120 – $140** (19–22× FY26E NGAAP EPS; sustained reacceleration priced).
-- 📅 **Next catalyst**: **Q1 2026 earnings, early May 2026** — tests $21.5–21.9B GMV / +10–12% FX-neutral guide.
-- ⚠️ **Top risks (materiality-filtered)**: (1) **Agentic-commerce / LLM shopping disintermediation** (not yet priced in), (2) **De minimis tariff exemption removal** (in force from Aug 2025; cross-border GMV at risk; not fully priced), (3) GMV reacceleration fade.
-- 🟡 **BAIT verdict**: A Moderate + T Moderate; B/I Weak — **Conviction Low-Moderate**. R/R **~2.4 : 1** Bull-vs-Bear (per Section 13).
+🟡 Non-holder: Watch / selective Initiate · 🟡 Holder: Hold / partial Trim into $115+
+
+| 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|---|
+| $65.00 – $107.34 | $103.48 (≈92%ile) | $60 | $78–90 | $115 / **~$113** | $115–140 | $145 | **~1.0 : 1** |
+
+| BAIT | Moat | FY26E P/E | FCF Yield | Combined Capital Return | Next catalyst |
+|---|---|---|---|---|---|
+| Low-Moderate | Narrow (widening) | ~16× | ~6–7% | ~5.5–6.3% | Q2 2026 earnings (~late Jul) |
+
+🟢 **Why**:
+- Q1 2026 print confirmed Focus-Category inflection (rev +19%, GMV +14% FXN, NGAAP EPS $1.66 beat $1.58 Street) — strongest growth print in years
+- ~6% combined buyback + dividend yield + share count –34% in 6 yrs — disciplined capital return through any near-term GMV deceleration
+- Active-buyer base inflected positive in FY25 (132M → 134M → 135M); Depop $1.2B acquisition on track to close end-Q3 2026 — strategic Gen Z bolt-on
+
+⚠️ **Why not**:
+- Q2 guide implies 4–6pp FXN GMV deceleration vs. Q1 — single-quarter reacceleration may not extrapolate
+- 4-firm PT-raise cluster (Goldman $88→$100, Stifel $94→$98, UBS $96→$110, Evercore raised) + run to near 52-wk high has compressed R/R to ~1.0:1
+- Agentic-commerce / LLM shopping disintermediation (NEW risk in FY25 10-K) and de minimis exemption removal (US Aug 2025; EU Jul 2026) remain not fully priced
+
+📅 **Next read**: Q2 2026 earnings, ~late July 2026 — tests Q2 deceleration guide + Depop deal close trajectory.
 
 ---
 
@@ -53,26 +64,25 @@ The bull case requires (a) Focus Categories sustain >MSD growth and continue gai
 
 | Metric | Value | Notes |
 |---|---|---|
-| Live Price | **$97.94** | 2026-04-26 ([Yahoo Finance](https://finance.yahoo.com/quote/EBAY)) |
-| 52-Week High | $107.34 | –8.8% from high |
-| 52-Week Low | $65.00 | +50.7% above low |
-| Market Cap | ~$43.9B | [Yahoo Finance](https://finance.yahoo.com/quote/EBAY) |
+| Live Price | **$103.48** | 2026-04-30 close ([Yahoo Finance](https://finance.yahoo.com/quote/EBAY)) |
+| 52-Week High | $107.34 | –3.6% from high |
+| 52-Week Low | $65.00 | +59.2% above low |
+| Market Cap | ~$46.4B | [Yahoo Finance](https://finance.yahoo.com/quote/EBAY) |
 | Shares Outstanding | ~448M | Implied from price/cap |
 | FY2025 Revenue | $11.1B | +8% YoY |
 | FY2025 GMV | ~$80B | +7% YoY |
 | Active Buyers (FY25) | 135M | per [10-K FY2025](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm) |
 | Live Listings (FY25) | 2.5B | per 10-K FY2025 |
 | Focus Categories % GMV | ~30% | per 10-K FY2025; outgrowing core |
-| Q4 2025 Revenue / GMV | $3.0B / $21.2B | +15% / +10% |
-| Q4 2025 NGAAP EPS | $1.41 | |
-| Q1 2026 Revenue Guide | $3.00–3.05B | +13–15% FX-neutral |
-| Q1 2026 GMV Guide | $21.5–21.9B | +10–12% FX-neutral |
-| Q1 2026 NGAAP EPS Guide | $1.53–1.59 | +12–16% YoY |
-| FY2026 GMV Outlook | ~+7% FX-neutral | similar to FY25 |
+| Q1 2026 Revenue / GMV | **$3.09B / $22.2B** | **+19% / +14% FXN** ([Q1 2026 PR](https://www.stocktitan.net/news/EBAY/e-bay-inc-reports-first-quarter-2026-ocl9fic0so92.html)) |
+| Q1 2026 NGAAP EPS | **$1.66** | beat $1.58 Street |
+| Q2 2026 Implied | 4–6pp FXN decel vs. Q1 | per [Q1 2026 transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-ebay-q1-2026-earnings-beat-expectations-stock-rises-93CH-4647423) |
+| Depop Acquisition | **$1.2B; close end-Q3 2026** | strategic Gen Z resale bolt-on |
+| FY2026 GMV Outlook | ~+7% FX-neutral | unchanged framework |
 | Quarterly Dividend | $0.31/share | +7% raise; ~1.27% yield ([Yahoo Finance](https://finance.yahoo.com/quote/EBAY)) |
 | Buyback (Q4 25) | $625M repurchased | $2.0B incremental authorized |
 | Short Interest | ~3.83% of float | rising; [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/EBAY/short-interest/) / [Fintel](https://fintel.io/ss/us/ebay) |
-| Analyst Median PT | $96.86 | at-spot |
+| Analyst Median PT | ~$103 (post Q1) | at-spot after 4-firm raise cluster |
 | TTM P/E | 22.99× | [Yahoo Finance](https://finance.yahoo.com/quote/EBAY) |
 
 ---
@@ -320,26 +330,30 @@ The trough-vs-normalized framing has shifted: this is no longer a "trough multip
 
 ### Live Price & Positioning
 
-- **Price**: $97.94 (2026-04-26)
+- **Price**: $103.48 (2026-04-30 close)
 - **52-week range**: $65.00 – $107.34
-- **% from 52-wk high**: –8.8% (near highs)
-- **% above 52-wk low**: +50.7% (major recovery from 2025 lows)
-- **Market cap**: ~$43.9B
+- **% from 52-wk high**: –3.6% (at highs)
+- **% above 52-wk low**: +59.2%
+- **Market cap**: ~$46.4B
 
-### Analyst Consensus (April 2026)
+### Analyst Consensus (Post Q1 2026)
 
-- 🟡 **Aggregate rating**: Mixed Buy/Hold (mostly Hold consensus per [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/EBAY/))
-- **Median price target**: $96.86 (at-spot)
-- **Range**: $65 – $117 (Morgan Stanley high)
-- **Implied upside**: ~flat to median; +20% to high
-- Sources: [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/EBAY/), [Benzinga](https://www.benzinga.com/quote/EBAY), [TipRanks](https://www.tipranks.com/stocks/ebay/forecast)
+- 🟡 **Aggregate rating**: Mixed Buy/Hold; 4-firm PT-raise cluster post-print
+- **Median price target**: ~$103 (raised in cluster from prior ~$97)
+- **Range**: ~$98 – ~$117
+- **Implied upside**: ~flat to median; ~+13% to UBS high $110+
+- Sources: [UBS PT $110 (Yahoo)](https://finance.yahoo.com/markets/stocks/articles/ubs-raises-ebay-price-target-152957772.html), [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/EBAY/), [Benzinga](https://www.benzinga.com/quote/EBAY), [TipRanks](https://www.tipranks.com/stocks/ebay/forecast)
 
 ### Recent Analyst Actions
 
 | Date | Firm | Action | Target | Note |
 |---|---|---|---|---|
+| 2026-04-30 | Goldman Sachs | 🟢 PT raised | $88 → $100 | +14% |
+| 2026-04-30 | Stifel | 🟢 PT raised | $94 → $98 | +4% |
+| 2026-04-30 | UBS | 🟢 PT raised | $96 → $110 | +15% (high) |
+| 2026-04-30 | Evercore ISI | 🟢 PT raised | (raised) | post-print cluster |
 | 2026-04-21 | Cantor Fitzgerald | 🟡 Neutral; PT raised | $90 → $100 | +11% |
-| 2026-04-10 | Morgan Stanley | 🟢 PT $117 | $117 | +20% implied |
+| 2026-04-10 | Morgan Stanley | 🟢 PT $117 | $117 | high target preserved |
 
 ### Short Interest
 
@@ -355,18 +369,25 @@ The trough-vs-normalized framing has shifted: this is no longer a "trough multip
 
 ### Recent Corporate News (Last 90 Days)
 
+- ✅ **[2026-04-29] [Earnings]** — Q1 2026 beat: revenue **$3.09B (+19%)**, GMV **$22.2B (+14% FXN)**, NGAAP EPS **$1.66** vs. $1.58 Street; Q2 guide implies 4–6pp FXN deceleration ([Q1 2026 PR (StockTitan)](https://www.stocktitan.net/news/EBAY/e-bay-inc-reports-first-quarter-2026-ocl9fic0so92.html); [Q1 2026 transcript (Investing.com)](https://www.investing.com/news/transcripts/earnings-call-transcript-ebay-q1-2026-earnings-beat-expectations-stock-rises-93CH-4647423))
+- 🟢 **[2026-04-30] [Analyst]** — 4-firm PT-raise cluster: Goldman $88→$100, Stifel $94→$98, UBS $96→$110, Evercore raised ([UBS PT $110 (Yahoo)](https://finance.yahoo.com/markets/stocks/articles/ubs-raises-ebay-price-target-152957772.html))
+- **[2026-04-29] [Strategic]** — Depop $1.2B acquisition reaffirmed on track to close end-Q3 2026 (per Q1 transcript)
 - **[2026-02-19] [Earnings]** — Q4 2025 / FY2025 results: revenue +15% Q4, GMV +10%; **$2.0B incremental buyback authorization**; dividend +7% to $0.31/qtr ([Q4 2025 PR](https://www.prnewswire.com/news-releases/ebay-inc-reports-fourth-quarter-and-full-year-2024-results-302386541.html); [10-K FY2025](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm))
 - 🟢 **[2026-04-21] [Analyst]** — Cantor Fitzgerald PT $90 → $100 (Neutral) ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/EBAY/))
 - 🟢 **[2026-04-10] [Analyst]** — Morgan Stanley PT $117 ([Yahoo Finance](https://finance.yahoo.com/quote/EBAY))
 - 💰 **[2026-03-20] [Capital]** — $0.31/share dividend payment ([eBay IR](https://investors.ebayinc.com/financial-information/dividend-history/))
 - **[2025–2026] [Regulatory]** — De minimis exemption ended for all US parcels Aug 29, 2025; EU follows July 2026 ([10-K FY2025 Item 1A](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm))
 
+### Delivered ✅
+
+- ~~Q1 2026 earnings, early May 2026~~ ✅ **DELIVERED 2026-04-29** — beat on rev/GMV/EPS; Q2 guide deceleration noted
+
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |---|---|---|
-| 📅 **Q1 2026 Earnings — early May 2026** | Earnings | Tests $21.5–21.9B GMV / +10–12% FXN guide; first read on de minimis impact |
-| 📅 Q2 2026 Earnings — early Aug 2026 | Earnings | Sustainability of GMV reacceleration; full quarter of post-de-minimis cross-border |
+| 📅 **Q2 2026 Earnings — ~late July 2026** | Earnings | Tests Q2 guide (4–6pp FXN deceleration); full quarter of post-de-minimis cross-border |
+| 📅 End-Q3 2026 | Depop $1.2B acquisition close | Strategic Gen Z resale bolt-on completion |
 | 📅 Spring 2026 | DEF 14A proxy filing | Iannone/Chairman intro letter; comp + governance |
 | Ongoing | Buyback execution pace | $2.0B incremental authorization deployment |
 | 2026 H2 | EU de minimis effective date (July 2026) | Cross-border GMV stress test |
@@ -378,7 +399,7 @@ The trough-vs-normalized framing has shifted: this is no longer a "trough multip
 
 ### B — Behavioral: **Weak**
 
-EBAY at –8.8% from 52-wk high reflects relatively constructive sentiment — not a deep-fear setup. The reacceleration narrative is broadly accepted; the stock has rallied +50% from its 52-wk low. There is no obvious "fear" mispricing here. **Weak**.
+EBAY at –3.6% from 52-wk high after a Q1 beat + 4-firm PT-raise cluster reflects constructive-to-mildly-euphoric sentiment — not a deep-fear setup. The reacceleration narrative is now broadly accepted post-print; the stock has rallied +59% from its 52-wk low. There is no "fear" mispricing here. **Weak**.
 
 ### A — Analytical: **Moderate**
 
@@ -397,11 +418,11 @@ Sell-side coverage is comprehensive; Focus-Category framing is mainstream; AI in
 
 ### T — Technical: **Moderate**
 
-- Stock in clear uptrend; near 52-wk highs
-- Buyback execution provides mechanical floor ($625M/quarter run rate)
+- Stock at 52-wk highs ($103.48; –3.6% from $107.34 high) post Q1 beat
+- Buyback execution provides mechanical floor ($625M+/quarter run rate)
 - Dividend support
 - Rising short interest is a modest contrarian counter-signal
-- No clear momentum catalyst until Q1 2026 print
+- Next momentum catalyst is Q2 2026 print (~late July) — Q2 guide deceleration is the gate
 
 ### BAIT Verdict
 
@@ -411,23 +432,23 @@ Sell-side coverage is comprehensive; Focus-Category framing is mainstream; AI in
 
 ## Section 13 — Bull / Bear / Base Cases
 
-*All scenarios are 3-year (calendar 2029) terminal prices vs. spot $97.94. Probabilities sum to 100%.*
+*All scenarios are 3-year (calendar 2029) terminal prices vs. spot $103.48. Probabilities sum to 100%.*
 
-### 🟢 Bull Case — $145 by 2029 (+48% from $97.94, ~14% CAGR) — **Probability: 30%**
+### 🟢 Bull Case — $145 by 2029 (+40% from $103.48, ~12% CAGR) — **Probability: 30%**
 
 - GMV grows 7–9%/yr through 2029; reaches $98–100B
 - Revenue $14B; non-GAAP EPS ~$8 (buyback-aided; share count to ~370M)
 - Multiple expands to ~18× = $145
-- **Requires**: Focus Categories sustain >+15%, advertising revenue continues outpacing marketplace, AI shopping-agent pilot evolves into defensible distribution, de minimis impact absorbed without sustained GMV deceleration
+- **Requires**: Focus Categories sustain >+15%, Q1 strength carries into H2 2026, advertising revenue continues outpacing marketplace, AI shopping-agent pilot evolves into defensible distribution, de minimis impact absorbed without sustained GMV deceleration
 
-### 🟡 Base Case — $115 by 2029 (+17% from $97.94, ~5.5% CAGR) — **Probability: 50%**
+### 🟡 Base Case — $115 by 2029 (+11% from $103.48, ~3.6% CAGR) — **Probability: 50%**
 
-- GMV grows 4–5%/yr; reaches $93B
+- GMV grows 4–5%/yr (consistent with Q2 2026 guide implying 4–6pp deceleration off Q1's +14% FXN); reaches $93B
 - Revenue $13B; non-GAAP EPS ~$7
 - Multiple ~16× = $115
 - Steady execution; capital return continues; agentic commerce neutral (eBay participates incrementally without dominating)
 
-### 🔴 Bear Case — $60 by 2029 (–39% from $97.94, ~–15% CAGR) — **Probability: 20%**
+### 🔴 Bear Case — $60 by 2029 (–42% from $103.48, ~–17% CAGR) — **Probability: 20%**
 
 - Agentic-commerce disintermediation drives long-tail discovery share loss; GMV decelerates to flat-to-down
 - De minimis tariff impact compounds; cross-border GMV –10–15%
@@ -437,11 +458,11 @@ Sell-side coverage is comprehensive; Focus-Category framing is mainstream; AI in
 
 ### Risk/Reward (per Core Rule #26)
 
-- Bull upside: +48%
-- Bear downside: –39%
-- **Headline R/R = ~1.2 : 1** (Bull % / Bear %) on a 3-year horizon — *not* a high-asymmetry setup. R/R improves to ~2.4 : 1 if measured Bull-vs-Base ($145 vs. $115) — modest asymmetry.
-- Base-vs-Bear R/R = +17% / –39% = **0.4 : 1** — the downside is meaningful if bear case fires.
-- Net read: this is a **low-asymmetry, capital-return holding** rather than a high-conviction asymmetric bet.
+- Bull upside: +40%
+- Bear downside: –42%
+- **Headline R/R = ~1.0 : 1** (Bull % / Bear %) on a 3-year horizon — symmetric, *not* an asymmetric setup. R/R compressed from ~1.2 : 1 prior on the post-print rerate to near-52-wk-highs.
+- Base-vs-Bear R/R = +11% / –42% ≈ **0.3 : 1** — downside is meaningful if bear fires.
+- Net read: post Q1 print + 4-firm PT-raise cluster + run to highs leaves this a **low-asymmetry, capital-return holding with partial-trim discipline above $115**.
 
 ---
 
@@ -456,32 +477,33 @@ Sell-side coverage is comprehensive; Focus-Category framing is mainstream; AI in
 
 | Current Price | PW EV | Return (3-yr) | Annualized |
 |---|---|---|---|
-| $97.94 | ~$113 | **+15%** | ~+5%/yr |
+| $103.48 | ~$113 | **+9%** | ~+3%/yr |
 
 ### Interpretation
 
-PW EV of ~$113 sits ~15% above spot — modest asymmetry. Add ~1.3% dividend yield + ~4–5% net buyback yield → total return base case ~6.5–7%/yr. The total-return picture is decent but not asymmetric. **Headline R/R is ~1.2 : 1 Bull-vs-Bear** on percentage upside/downside, anchored to the Section 13 scenarios per Core Rule #26.
+PW EV of ~$113 sits ~9% above spot — minimal asymmetry post the Q1 rerate. Add ~1.2% dividend yield + ~4–5% net buyback yield → total return base case ~5–6%/yr. The total-return picture is now thin. **Headline R/R is ~1.0 : 1 Bull-vs-Bear** on percentage upside/downside, anchored to the Section 13 scenarios per Core Rule #26 — compressed from ~1.2 : 1 prior on the post-print run.
 
-A secondary R/R framing using the §15 thesis-break alert (~$78 stop) vs. Bull case ($145) yields ~2.4 : 1 — but the canonical figure is the Bull-vs-Bear ratio above. EBAY is best framed as a steady capital-return holding with optionality on the Focus-Category compounding thesis, *if* agentic-commerce risk does not fire.
+EBAY is now best framed as a steady capital-return holding where the bull/bear is roughly symmetric and partial-trim above $115 is the disciplined exposure-management response.
 
 ---
 
 ## Section 15 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: eBay is a re-accelerating capital-light marketplace with durable advantages in Focus Categories (cards, motors P&A, luxury, refurbished, Depop) and an aggressive ~6% combined buyback + dividend yield, trading at ~16× FY26E NGAAP P/E — fair value with modest asymmetry, suitable as a steady total-return holding rather than a high-conviction asymmetric bet, with the agentic-commerce wave as the genuinely new under-priced risk to monitor.
+**Thesis in one sentence**: eBay's Q1 2026 print confirmed the Focus-Category inflection (rev +19%, GMV +14% FXN, NGAAP EPS $1.66 beat) but the post-print 4-firm PT-raise cluster + run to near 52-wk highs has compressed Bull-vs-Bear R/R to ~1.0 : 1 — the stock is now a fair-value, capital-return holding where partial-trim discipline above $115 is appropriate.
 
-**For a non-holder**: 🟡 **Watch / selective Initiate**. At $97.94 the stock is roughly at consensus median target. Combined yield (~6%) makes it a reasonable patient holding, but asymmetry is modest. Wait for either weakness toward $80 or a clear sustained GMV reacceleration print (and an early read on the agentic-commerce risk) before committing fully.
+**For a non-holder**: 🟡 **Watch / selective Initiate**. At $103.48 the stock is at the post-print analyst median (~$103). Combined yield (~6%) makes a small starter reasonable, but asymmetry is now thin. Wait for weakness toward $78–90 entry zone or a Q2 print confirming Q1 strength was not a one-off.
 
-**For a current holder**: 🟡 **Hold**. Capital return + steady reacceleration support the position. Trim only on a rally toward $115+.
+**For a current holder**: 🟡 **Hold / partial Trim into $115+**. Capital return + Q1 confirmation support the position; the post-print rerate has compressed R/R, so a partial-trim discipline above $115 is the right exposure-management response.
 
-🎯 **Attractive entry zone**: **$78 – $90** (rationale: ~13–15× FY26E NGAAP EPS; below recent recovery; combined yield 7%+; meaningful margin of safety against the agentic-commerce + de minimis risk overlay)
+🎯 **Attractive entry zone**: **$78 – $90** (rationale: ~13–15× FY26E NGAAP EPS; combined yield 7%+; meaningful margin of safety against the agentic-commerce + de minimis risk overlay)
 
-🎯 **Trim zone**: **$120 – $140** (rationale: 19–22× FY26E NGAAP EPS; would price in sustained reacceleration without yet de-risking agentic commerce)
+🎯 **Trim zone**: **$115 – $140** (rationale: trim floor moved $120 → $115 to reflect compressed R/R post Q1 rerate; price in this band requires sustained reacceleration evidence not yet in hand for full hold)
 
-🔴 **Exit / avoid zone**: **>$155** (rationale: would price in bull-case GMV growth + multiple expansion; historical precedent suggests these levels are not sustained without category-breakthrough evidence)
+🔴 **Exit / avoid zone**: **>$145** (rationale: at/above bull-case 2029 terminal; would price in full bull GMV growth + multiple expansion before agentic-commerce risk de-risked)
 
 **Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Avoid):
 
+- ⚠️ Q2 2026 GMV growth materially undershoots the implied 4–6pp FXN deceleration (Q1 strength reverses, not just decelerates)
 - ⚠️ GMV growth decelerates below +3% FX-neutral for **two consecutive quarters**
 - ⚠️ AI-search referral traffic to eBay declines >15% YoY (agentic-commerce disintermediation evidence)
 - ⚠️ Cross-border GMV declines >10% YoY (de minimis impact materially worse than guided)
@@ -491,8 +513,9 @@ A secondary R/R framing using the §15 thesis-break alert (~$78 stop) vs. Bull c
 - ⚠️ Major Whatnot or Fanatics breakout in cards/sneakers/collectibles (Focus-Category share loss)
 - ⚠️ Operating margin compression below 24%
 - ⚠️ Buyback pace materially slows (capital allocation pivot)
+- ⚠️ Depop close slips materially past end-Q3 2026
 
-📅 **Next review trigger**: **Q1 2026 earnings, early May 2026**. Key items: (1) GMV vs. $21.5–21.9B guide, (2) revenue vs. $3.00–3.05B guide, (3) Focus Category growth disclosures, (4) advertising / promoted listings growth rate, (5) any commentary on de minimis impact on cross-border GMV, (6) any AI shopping-agent pilot metrics, (7) buyback execution pace.
+📅 **Next review trigger**: **Q2 2026 earnings, ~late July 2026**. Key items: (1) GMV vs. Q2 guide (4–6pp FXN deceleration off Q1's +14%), (2) Focus Category growth durability, (3) advertising / promoted listings growth rate, (4) cross-border GMV (full quarter of post-de-minimis), (5) Depop close progress, (6) any AI shopping-agent pilot metrics, (7) buyback execution pace.
 
 ---
 

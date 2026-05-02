@@ -4,6 +4,34 @@ Append-only. Most recent entry first.
 
 ---
 
+## [2026-05-01] — Post-Q1 Analyst Cluster (Sentiment-Only)
+
+**Trigger**: Post-Q1 2026 print analyst cluster — 9 Street firms revised price targets within the Apr 29 – May 1 window. Median reset ~$668 → ~$607. Buy consensus retained; all revised PTs remain above spot $442.54. Verbs unchanged.
+
+**Sources reviewed**:
+- [24/7 Wall St — Wall Street Slashes Spotify Price Targets After Q1 Miss](https://247wallst.com/investing/2026/04/29/wall-street-slashes-spotify-price-targets-after-q1-miss-is-the-subscriber-story-cracking/)
+- [Yahoo Finance — analyst cluster recap](https://finance.yahoo.com/markets/stocks/articles/wall-street-slashes-spotify-price-152236740.html)
+- [Yahoo Finance live price](https://finance.yahoo.com/quote/SPOT)
+
+### What Changed
+- **Header**: Last Updated 2026-04-28 → 2026-05-01; Live Price $429.00 (intraday post-print) → $442.54 (Apr 30 close, +3.2% recovery)
+- **§0 Summary**: Refreshed valuation-anchor bullet to reflect $442.54 spot, ≈22% upside vs PW EV $540, R/R ≈3.0:1; appended sentence noting 9-firm post-Q1 cluster with median PT reset $668 → $607 and Buy consensus retained
+- **§9 Catalyst & Sentiment Tracker**: Refreshed live price + 52-wk %; rebuilt Analyst Consensus block with the 9-firm cluster table (Morgan Stanley → $590, Goldman → $600, JPM → $600, Guggenheim → $565, Citizens → $600, Barclays $600 → $500, KeyBanc → $680, UBS → $735, Canaccord → $720; Rosenblatt contrarian upgrade); prepended cluster bullet to Recent News while preserving Q1 print, AGM buyback, Q4 2025 print, and CEO transition entries; Upcoming Catalysts unchanged (Q2 2026 late July)
+
+### Thesis Status
+- **Overall**: **Unchanged** — sentiment-only update. No change to fundamentals (§1, §2), moat (§3), management (§4), strategy (§5), risks (§6), industry (§7), valuation framework (§8), BAIT (§10), scenarios (§11), PW EV (§12), or recommendation (§13)
+- **BAIT delta**: None
+- **Price target delta**: §11 scenario set unchanged (Bull+ $750 / Bull $620 / Base $500 / Bear $370 / Bear+ $290); PW EV $540 unchanged. Street median reset is *input* to scenario probabilities, not anchor for §13 zones (Rule #26)
+- **Catalyst & Sentiment delta**: Median Street PT $668 → $607 (–9%); cluster directionally validates the Section 11 Base ($500) sitting below Street median; Rosenblatt contrarian upgrade aligns with §13 non-holder Initiate at $400–450
+
+### Recommendation
+- **For a non-holder**: 🟢 Watch / Initiate at $400–450 — **unchanged**. Spot $442.54 sits inside the entry zone
+- **For a current holder**: 🟡 Hold — **unchanged**
+
+**Next review trigger**: 📅 Q2 2026 earnings (late July 2026) — first full read on Music Pro contribution, NA Premium subscriber recovery, ad-supported gross-margin trajectory.
+
+---
+
 ## [2026-04-28] — Section 1 Addition: Ad-Supported Revenue Multi-Year Stall + 2026 Re-Inflection Test
 
 **Trigger**: User question on whether Q1 2026 ad revenue (€385M, –5% reported / +3% c.c.) shrank from Q1 2025 surfaced a multi-year deceleration story (FY2022 +22% → FY2025 ≈+2%) that the original §1 MD&A read did not address. Follow-up question asked what evidence supports management's "late-FY2026 re-inflection" claim and whether 2026 ad revenue should grow vs. 2025.

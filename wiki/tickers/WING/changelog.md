@@ -4,6 +4,39 @@
 
 ---
 
+## [2026-05-01] — Post-Q1 Analyst Cluster — 5 Firms Within 48hr (Goldman Downgrade Headline)
+
+**Trigger**: 5-firm post-Q1 sell-side cluster confirmed within 48 hours of the 2026-04-29 print. Goldman headline action: **Buy → Neutral, PT $190**. Other firms: TD Cowen Hold $175; Mizuho $310→$280; BMO $280→$200; Wells Fargo PT $200. Consensus center-of-gravity reset to **$190–$200** — aligns with the page's already-cut §11 Base of $190. Stock recovered to $171 (+3.2% off post-print intraday low of $165.64) as the cluster matched, did not undercut, the page's bear read.
+
+**Sources reviewed**:
+- [Goldman Sachs cuts Wingstop rating (Investing.com)](https://www.investing.com/news/analyst-ratings/goldman-cuts-wingstop-rating)
+- [BMO PT cut to $200 (Investing.com)](https://www.investing.com/news/analyst-ratings/bmo-pt-cut-200-wing)
+- [Yahoo Finance — WING quote](https://finance.yahoo.com/quote/WING) (Apr 30 close $171)
+
+### What Changed (vs. 2026-04-29 baseline)
+- **Header / Live Price**: $165.64 → **$171** (Apr 30 close); recovery off post-print intraday low
+- **§0 Summary**: Bullet 1 expanded to flag 5-firm post-Q1 analyst cluster confirmation; consensus center-of-gravity ~$190–$200; verbs unchanged Watch / Reduce on bounce >$180
+- **§9 Catalyst & Sentiment Tracker**:
+  - Live Price block refreshed ($171 Apr 30 close; -56% from 52-wk high; +20% above 52-wk low; market cap ~$4.68B)
+  - Analyst Consensus table fully rebuilt — 5-firm cluster table with new PTs vs. priors; consensus rating downgraded from Strong Buy to Buy / Hold-leaning; median target reset $310 → ~$190–$200
+  - Recent News: new 🔴 lead item for the analyst cluster
+  - Upcoming Catalysts: preserved (Q2 late-July 2026 remains dominant)
+- **NO changes to §11/§12/§13** — cluster confirms the already-applied 2026-04-29 reset; no scenario, PW EV, or recommendation changes warranted
+
+### Thesis Status
+- **Overall**: 🟡 **Unchanged** — already Weakened on 2026-04-29; the analyst cluster *confirms* the page's read. Consensus reset *to* (not below) the §11 Base of $190 indicates sell-side has aligned with the page's cyclical-trough scenario; further cuts would require Q2 SSS to deepen vs. the -8.7% trough.
+- **BAIT delta**: No change — B-Strong | A-Moderate | I-Weak | T-Weak preserved
+- **Price target delta**: None — §11 scenarios unchanged (Bull $270 / Base $190 / Bear $130)
+- **Catalyst & Sentiment delta**: Sell-side consensus formally reset post-print; Goldman Buy→Neutral headline; spot recovered to $171
+
+### Recommendation
+- **For a non-holder**: 🟡 **Watch** at $171 — wait for Q2 print or pullback to **$135–$150** entry zone. Unchanged.
+- **For a current holder**: 🔴 **Reduce on bounce above $180** — unchanged. Spot at $171 is below the trim trigger; hold residual through Q2.
+
+**Next review trigger**: **Q2 2026 earnings — late July 2026 (estimated)**. Cluster reset means Q2 sequential SSS print is now the dominant variable; consensus is anchored to §11 Base, so a beat/miss on Q2 SSS will move the multiple symmetrically.
+
+---
+
 ## [2026-04-29] — Earnings Q1 FY26 — Thesis-Break Trigger Activated
 
 **Trigger**: Q1 2026 earnings released pre-market 2026-04-29. Domestic SSS printed **-8.7%**, materially worse than Q4 2025's -5.8% and **below the -7% thesis-break trigger** the wiki page committed to. FY2026 guide cut from "flat to LSD" to "low-single-digit DECLINE." Stock -4.24% intraday; -12.5% post-print vs. $189.37 pre-print close.

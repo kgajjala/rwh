@@ -3,8 +3,8 @@
 *Position-agnostic per v2.1 schema (Core Rule #3): no portfolio allocation, no target %, no form (stock/options) splits. This file is pure analysis.*
 
 *Updated by LLM agent after each full thesis cycle, earnings update, or v2.x schema migration.*
-*Last updated: 2026-04-29 (HOOD post-Q1 price reset $84.71 → $70.29 –14% session; conviction upgraded Moderate → Moderate-High; verbs upgraded Hold → Add; R/R improves ~2.4:1 → ≈5.5:1; WING demoted post Q1 FY26 thesis-break trigger activation).*
-*HOOD price $70.29 verified via [stockanalysis.com](https://stockanalysis.com/stocks/hood/) on 2026-04-29 intraday. All other tickers at 2026-04-24/26/28 verified closes.*
+*Last updated: 2026-05-01 (Weekly cron — 10 material events: AMZN/MSFT/BKNG/LLY/RIVN Q1 prints; EBAY Q1 + 4-firm PT-raise cluster; SPOT/WING post-Q1 analyst clusters; MP rally + analyst-action cluster; LULU governance/proxy overhang. Quiet for 27 others — see `outputs/weekly/2026-05-01_weekly_summary.md`.).*
+*Prices verified at Apr 30, 2026 close (Yahoo Finance / stockanalysis.com). HOOD held at $70.29 (2026-04-29 intraday baseline). All other unchanged tickers at 2026-04-24/26/28 closes.*
 
 ---
 
@@ -15,33 +15,33 @@
 | 1 | SCHW | High | Triple-Strong (B+A+I), Mod T | PW EV $108 vs. $91.71 = +18% (18mo) | **Initiate** / **Add** (post-Q1-beat 52-wk low) | Q2 2026 — July 16, 2026 |
 | 2 | SHOP | High | Triple+ (B+A-Strong, I, T-Mod) | PW EV $212 vs. $125.83 = +68% (3yr); ~10:1 R/R (Bull $252 / Bear $113); ~15:1 with Bull+ tail | **Initiate** / **Add-Hold** | Q1 2026 (~May 2026) |
 | 3 | UNH | High (Q1 BEAT + CMS 2027 rate de-risk) | Quadruple (B-compressed, A-widened, I-Strong, T-Mod) | PW EV ~$447 vs. ≈$368 = +21% (24mo); R/R ~2.1:1 | **Initiate / Add** (FY26 >$18.25 + 2027 MA rate ≈+2%) | Q2 2026 (~late July) |
-| 4 | MSFT | High (event-driven) | **Quadruple (B+A+T-Strong, I-Mod)** | PW EV ~$565 vs. $424.62 = +33% (3yr / ~10%/yr) | **Initiate** / **Hold-Add**; entry $380–440 | **Q3 FY26 — April 29, 2026 (binary)** |
-| 5 | AMZN | Moderate-High (event-driven) | Triple (A-Mod-Strong + I + T Mod) | PW EV ~$310 vs. $255.08 = +22% (3yr / ~7%/yr); R/R ~3.5:1 | **Initiate (small)** / **Hold**; entry $210–235 | **Q1 FY26 — April 29, 2026 (binary)** |
-| 6 | LLY | High | Triple (A+I-Strong, B-Mod) | PW EV ~$1,183 vs. $883.96 = +34% (18mo / ~22%/yr) | **Initiate measured** / **Hold-Add on pullback**; entry $750–850 | Q1 2026 — April 30, 2026 |
+| 4 | MSFT | High (post-Q3-print) | **Quadruple (B+A+T-Strong, I-Mod)** | PW EV $499 vs. $414.42 = +20% (3yr / ~6.3%/yr); R/R ~1.7:1 — Q3 trigger DE-RISKED ✅; $190B FY26 capex strengthens bear-input | **Initiate** / 🟢 **Hold-Add below $420** | Q4 FY26 — late July 2026 |
+| 5 | AMZN | Moderate-High (post-Q1-print, R/R compressed) | Triple (A-Mod-Strong + I + T Mod) | PW EV $322 vs. $265.06 (ATH) = +22% (3yr / ~7%/yr); R/R ~1.4:1 | **Watch** / **Hold**; entry $220–245 | Q2 FY26 — late July 2026 |
+| 6 | LLY | High | Triple (A+I-Strong, B-Mod) | PW EV $1,264 vs. $974.39 = +30% (18mo / ~19%/yr); R/R ~2.9:1 | **Initiate** / 🟢 **Hold-Add**; entry $830–900 | Q2 2026 — late July 2026 |
 | 7 | INTU | Moderate-High | Triple (B+A-Strong, I-Mod) | PW EV $566 vs. $395.95 = +43% (3yr) | **Initiate** / **Add**; entry $340–420 | Q3 FY26 — May 21, 2026 |
 | 8 | ADBE | High | Triple (B+A-Strong, I-Mod, T-Weak→Mod) | PW EV ~$348 vs. $245.44 = +42% (3yr / ~12.4%/yr); R/R ~3.1:1 | **Initiate** / **Add aggressively below $230** | Q2 FY26 — June 2026 (est.) |
-| 9 | MP | Moderate-High | Triple (A+I-Strong, B-Mod, T-Mod) | PW EV $85 vs. $60.73 = +40% (3yr) | **Initiate** / **Hold-Add**; entry $48–62 | Q1 2026 — May 7, 2026 |
+| 9 | MP | Moderate-High | Triple (A+I-Strong, B-Mod, T-Mod) | PW EV $80.50 vs. $66.04 = +22% (3yr); R/R ~1.7:1 | **Initiate on dips $52–62** / **Hold** | Q1 2026 — May 7, 2026 |
 | 10 | NKE | Moderate-High | Triple (B-Strong, A-Mod-Strong, I-Mod) | PW EV ~$60.50 + 11% cumulative div = ~14%/yr (3yr); R/R ~3.6:1 | **Initiate** / **Add**; entry $40–48 | Q4 FY2026 — late June 2026 |
 | 11 | ZG | Moderate-High | Triple (B+A-Strong, I-Mod) | PW EV ~$68 vs. $45.41 = +50% (3yr); R/R ~3:1 | **Initiate** / **Add**; entry $38–50 | Q1 2026 — early May 2026 |
 | 12 | SN | Moderate-High | Triple (A-Mod-Strong, B+I+T-Mod) | PW EV $144 vs. $115.74 = +24% (3yr); analyst median +28% | **Initiate**; entry $95–105 | Q1 2026 — early May 2026 |
-| 13 | BKNG | High | Triple (B+A-Strong, I+T-Mod) | PW EV $195.50 vs. $180.25 = +8.5% (18mo) | **Initiate** / **Hold-Add** | Q1 2026 (~May 2026) |
+| 13 | BKNG | High (entry-zone reached) | Triple (B+A-Strong, I+T-Mod) | PW EV $192 vs. $168.36 = +14% (18mo); R/R ~3.7:1 — Iran/Hormuz Q2 guide cut + $3.6B Q1 buyback (130% pace step-up) | **Initiate** / **Add** | Q2 2026 — late July 2026 |
 | 14 | BRK.B | Moderate-High | Triple (B+I-Strong, A-Mod) | PW EV $543 vs. $469.32 = +15.7% (3yr); ~2.8:1 R/R | **Initiate (small/scaled)** / **Hold-Add** | Annual Mtg + Q1 2026 — May 3, 2026 |
-| 14b | SPOT | Moderate-High (post-Q1-print reset) | Double-Mod-Strong (A-Mod-Strong, T-Weak-Mod, B+I-Mod) | PW EV $540 vs. $429 = +26% (12mo); R/R ~3.2:1 (Bull $620 / Bear $370) | **Watch / Initiate $400–450** / **Hold** | Q2 2026 — late July 2026 |
+| 14b | SPOT | Moderate-High (post-Q1-print reset; analyst cluster confirmed) | Double-Mod-Strong (A-Mod-Strong, T-Weak-Mod, B+I-Mod) | PW EV $540 vs. $442.54 = +22% (12mo); R/R ~3.0:1 (Bull $620 / Bear $370); 9-firm cluster median $668→$607 — all PTs above spot | **Watch / Initiate $400–450** / **Hold** | Q2 2026 — late July 2026 |
 | 15 | RKT | Moderate | Double (B+A; B-Strong, A-Mod-Strong) | PW EV $22.65 vs. $15.60 = +45% (2-3yr); R/R ~3:1 | **Initiate (Speculative)** / **Hold / Add on weakness** | Q1 2026 — May 7, 2026 |
 | 16 | CPNG | High | Triple (B+A-Strong, I+T-Mod) | PW EV ~$28 vs. $20.58 = +36% (3yr / ~11%/yr) | **Initiate** / **Add modestly** | Q1 2026 — May 12, 2026 |
 | 17 | NFLX | Moderate | Triple (B+A+I-Mod) | PW EV $119.50 vs. $93.24 = +28% (3yr); R/R ~2.4:1 | **Initiate (small, scaled)**; entry $80–88 | Q2 2026 — mid-July 2026 (est.) |
-| 18 | RIVN | Moderate | Triple (B+A+I-Mod, T-Mod) | PW EV ~$18.50 vs. $16.54 = +12% (2yr); R/R ~3.4:1 | **Watch / small Initiate**; entry $12–14 | Q1 2026 — April 30, 2026 |
+| 18 | RIVN | Moderate (Q1-strengthened on liquidity) | Triple (B+A+I-Mod, T-Mod) | PW EV $21.10 vs. $15.15 = +39% (2yr); R/R ~2.1:1 — DOE $4.5B + $2.55B partner capital → ~$8B liquidity DE-RISKS cash-burn; R2 demand newly elevated | **Watch / small Initiate** / **Hold**; entry $12–14 | Q2 2026 — late July 2026 |
 | 19 | TREX | Moderate | Double (B+A-Mod) | PW EV $57 vs. $41.90 = +36% (3yr / ~11%/yr); R/R ~3.6:1 | **Initiate (patient)** / **Hold**; entry $30–42 | Q1 2026 — early May 2026 |
 | 19b | HOOD | **Moderate-High** | Double (B+A-Mod-Strong) | PW EV ~$108 vs. **$70.29** = **+54%** (18mo / ~31%/yr); R/R **≈5.5:1** | **Initiate / Add**; entry **$65–80** | Q2 2026 — late July 2026 |
 | 20 | RH | Moderate | Double (B-Strong, T-Mod via 35.6% short) | PW EV $208 vs. $137.51 = +51% (4yr / ~11%/yr); R/R ~3.4:1 | **Watch / selective Initiate**; add aggressively below $115 | Q1 FY2026 — early June 2026 |
 | 21 | CELH | Moderate | Triple (B-Strong, A+T-Mod) | PW EV ~$52 vs. $35.25 = +47% (3yr / ~14%/yr) | **Initiate small** / **Hold-Add**; entry-event-driven | Q1 — May 11, 2026 |
 | 22 | ONON | Moderate | Double (B-Strong + A-Mod) | PW EV $53 vs. $36.25 = +46% (3yr); analyst median $60 | **Initiate** / **Add**; entry $31–40 | Q1 2026 — May 12, 2026 |
 | 23 | FIG | Moderate | Triple (B+A+I) | PW EV +64% (3yr) at $17.47 (post-IPO) | **Initiate (small, contrarian)** / **Hold-Add** | Earnings (~May 2026 est.) |
-| 24 | WING | **Lower-Moderate** (post-Q1 thesis-break) | Triple (B-Strong, A-Mod, **T-Weak**) | PW EV ~$185 vs. $165.64 = +12% (18mo / ~7.5%/yr); R/R ~3:1 (improves at lower entry) | **Watch / Reduce on bounce >$180**; entry $135–150 | Q2 2026 — late July 2026 |
+| 24 | WING | **Lower-Moderate** (post-Q1 thesis-break + 5-firm cluster confirmed) | Triple (B-Strong, A-Mod, **T-Weak**) | PW EV ~$185 vs. ~$171 = +8% (18mo / ~5%/yr); R/R ~3:1 (improves at lower entry) | **Watch / Reduce on bounce >$180**; entry $135–150 | Q2 2026 — late July 2026 |
 | 25 | ABNB | Moderate | Single (B-Mod) | PW EV $162 vs. $142.82 = +13% (3yr / ~4.5%/yr); R/R ~3.4:1 | **Watch / Hold**; entry $120–130 | Q1 2026 — May 7, 2026 |
 | 26 | LNTH | Moderate | Double (A+I-Mod, binary) | PW EV ~$96 vs. $82.91 = +16% (3yr / ~5%/yr) | **Watch / Hold**; entry $65–78 | Q1 — May 7, 2026; LNTH-2501 PDUFA June 29 |
-| 27 | LULU | Moderate | Double (B-Strong + A-Mod) | PW EV $192 vs. $143.80 = +34% (3yr / ~10.2%/yr) | **Watch / Initiate <$135 / Hold** | Q1 FY26 — early June 2026 |
-| 28 | EBAY | Moderate | Single | Modest +17% PW EV | **Watch / selective Initiate / Hold** | Q1 2026 (~May) |
+| 27 | LULU | Moderate (governance overhang adds) | Double (B-Strong + A-Mod) | PW EV $192 vs. $137.98 (new 52-wk low $136.92) = +39% (3yr / ~12%/yr); R/R ~2.6:1 — Wilson DFAN14A proxy fight + Bracey board appointment | **Watch / Initiate <$135 / Hold** | Q1 FY26 — early June 2026 |
+| 28 | EBAY | Moderate (post-Q1 R/R compressed) | Single | PW EV ~$113 vs. $103.48 = +9% (18mo); R/R ~1.0:1 — Q1 beat + 4-firm PT-raise cluster, but Q2 deceleration | **Watch / selective Initiate / Hold-Trim into $115+**; entry $78–90 | Q2 2026 — late July 2026 |
 | 29 | TSLA | Moderate | Quadruple-Mod (B+A+I+T) | PW EV ~$393 vs. $376.30 ≈ flat; R/R ~1.4:1 | **Hold / Watch**; entry $280–320 | Q2 2026 — July 22, 2026 (est.) |
 | 30 | SBUX | Moderate | Double (A+I Mod-Strong) | PW EV ~$132 vs. $97.28 = +36% / ~11%/yr (3yr); + 2.5% div; R/R ~3.2:1 | 🟢 **Initiate-on-dip / Hold (Add on dip)**; entry $90–97 | Q3 FY26 — late July 2026 |
 | 31 | KGS | Low-Moderate | Double (A+I+T-Mod) | PW EV ~$72 vs. $65.98 = +9% + 3% div ≈ +7%/yr; R/R ~1:1 | **Watch / Hold**; entry $50–55 | Q1 — May 11, 2026 |
@@ -50,7 +50,17 @@
 | 34 | ACLS | Low | Single (T-Strong, A-Mod) | PW EV ~$155 vs. $143 = +9% (3yr / ~3%/yr); R/R ~1.1:1 | **Watch / Hold**; entry $95–115 | Q1 2026 — May 7, 2026 |
 | 35 | PG | Moderate | Low-Moderate (post-Q3 print) | PW EV ~$159 vs. $148.18 = +7% incl. div | **Watch / Hold**; entry $135–148 | Q4 FY2026 — late July 2026 |
 
-**Ranking rationale notes (2026-04-26)**:
+**Ranking rationale notes (2026-05-01 weekly update)**:
+- **Mega-cap AI capex digestion** the cross-portfolio theme. MSFT Q3 FY26 print confirmed Azure +40% (Q3 thesis-break trigger DE-RISKED ✅) but FY26 capex guide ~$190B (vs. ~$80–90B Street est.) drove −5–6% sell-off; PW EV $520→$499; R/R 1.8:1→1.7:1. AMZN Q1 confirmed thesis (AWS +28%, EPS +70% beat) but ATH $265 compressed R/R 3.5:1→1.4:1; verbs Initiate-small → **Watch**. Both stayed High/Moderate-High but moved within tier on R/R compression.
+- **LLY** the cleanest beat (rev +56%, Mounjaro +125%, EPS +25% beat); FY26 guide raised; PW EV $1,180→$1,264; verbs holder 🟡 Hold → 🟢 Hold/Add; R/R 3.4:1→2.9:1.
+- **BKNG entry zone reached** on Iran/Hormuz Q2 guide cut to $168 (–6.6%); $3.6B Q1 buyback (~$14B annualized vs. $6B prior) is unmistakable Fogel response; R/R 3.5:1→3.7:1; verbs holder Hold-Add → **Add**.
+- **RIVN strengthened** on $4.5B DOE loan + R2 saleable + $2.55B partner capital → ~$8B liquidity (cash-burn risk DE-RISKED); R2 demand commentary newly elevated; PW EV $20.50→$21.10; R/R 1.6:1→2.1:1.
+- **EBAY post-Q1 rerate** to $103 + 4-firm PT-raise cluster; R/R compressed 1.2:1→1.0:1; trim floor $120→$115.
+- **MP rally** on Wedbush OP $90 + MS PT $71→$62; R/R 2.1:1→1.7:1; verbs Hold/Add → **Hold**; PW EV unchanged.
+- **SPOT/WING analyst-cluster confirmations** sentiment-only, verbs unchanged. SPOT: 9-firm cluster median $668→$607 but all PTs above spot. WING: 5-firm cluster aligns with §11 Base $190.
+- **LULU governance overhang** (Wilson DFAN14A + Bracey board appointment) adds a non-fundamental risk; verbs unchanged but new thesis-break trigger added; new 52-wk low $136.92.
+
+**Prior rationale notes (2026-04-26)**:
 - **Top tier (1–8) anchored by Q1/Q3 earnings binaries (MSFT, AMZN April 29; LLY April 30) + post-beat re-rate setups (SCHW, UNH).** SHOP retained at #2 on triple-overlap BAIT preserved through the recovery from $88. ADBE re-entered top quartile post v2.8 retrofit on $25B buyback authorization at decade-low multiple.
 - **MP (#9) and NKE (#10)** both surfaced as Triple-overlap BAIT setups with strong primary-source signals (DoD floor + Apple/GM offtakes; CEO Hill $1M open-market buy).
 - **WING #24 (was #9): asymmetry compression continues post-print preview.** Q1 SSS print Apr 29 is binary — favorable inflection moves WING back toward the top quartile.
@@ -66,13 +76,13 @@
 |------|--------|-------|---------------|-------------------|-------------------|
 | ~~Apr 28, 2026~~ ✅ **DELIVERED** | **SBUX** | **Q2 FY26 earnings — turnaround confirmed** | U.S. txns +4.3%, comp +7.1%, op margin +110 bps; FY26 guide raised to ≥5%/$2.25–$2.45 | ✅ Multi-quarter inflection confirmed; AH +5.5% | n/a — beat |
 | **Late July 2026** | **SBUX** | **Q3 FY26 earnings** | U.S. transactions stay positive on tougher comp; op-margin walk extends | Duration validation; multiple holds premium | Single-Q wobble; entry zone re-opens |
-| **Apr 29, 2026** | **MSFT** | **Q3 FY26 earnings (binary)** | Azure growth ≥ +33% YoY; AI capex payback commentary | Re-rate toward $565 PW EV | Re-test March lows |
-| **Apr 29, 2026** | **AMZN** | **Q1 FY26 earnings (binary)** | AWS growth (~+22% cons.); FY26 capex guide vs. ~$200B | AWS >+25% confirms Trainium thesis | AWS <+18% or capex >$250B = thesis-break |
+| ~~Apr 29, 2026~~ ✅ **DELIVERED** | **MSFT** | **Q3 FY26 earnings — Azure +40% beat / $190B capex guide** | Azure +40% above +35–37% cons; EPS $4.27 (+23%); FY26 capex ~$190B vs. $80–90B Street | ✅ Q3 thesis-break trigger DE-RISKED on Azure | Capex sticker-shock drove −5–6% sell-off to $414 |
+| ~~Apr 29, 2026~~ ✅ **DELIVERED** | **AMZN** | **Q1 FY26 earnings — AWS +28% / EPS +70% beat** | AWS $37.6B (+28%, fastest in 15 quarters); EPS $2.78 (+70% beat); ad +24%; capex $43.2B; Q2 guide $194–199B | ✅ Operationally strengthened — fresh ATH $265 | R/R compressed 3.5:1→1.4:1; verbs Initiate-small → Watch |
 | ~~Apr 29, 2026~~ ✅ **DELIVERED** | **WING** | **Q1 2026 SSS print — thesis-break activated** | Q1 dom SSS **–8.7%** (worse than –7% trigger); FY26 guide cut to LSD-decline; stock –12.5% to $165 | n/a | Trigger fired; verbs flipped to Watch / Reduce on bounce |
 | **Late July 2026** | **WING** | **Q2 2026 earnings (next read)** | Q2 SSS — does –8.7% extend or stabilize | Sequential improvement re-opens cyclical thesis | Sustained decline confirms structural concern |
 | **Late July 2026** | **HOOD** | **Q2 2026 earnings** | Crypto rev recovery; NII / Gold / Rothera continuing to absorb crypto cyclicality; S&P 500 inclusion flow update | Multi-stream diversification confirmed; re-rate toward $108+ PW EV | Crypto weakness without offset = thesis weakening |
-| Apr 30, 2026 | LLY | Q1 2026 earnings | Mounjaro+Zepbound vs. $36.5B FY25 base; Foundayo early Rx | $80–83B FY26 path confirmed | Miss / guide cut = thesis delay |
-| Apr 30, 2026 | RIVN | Q1 2026 earnings | Cash balance, R2 ramp pace, VW JV update, FY26 reaffirmation | R2 production on track; cash >$5B | R2 slips; dilution risk emerges |
+| ~~Apr 30, 2026~~ ✅ **DELIVERED** | LLY | Q1 2026 earnings — rev +56% / Mounjaro +125% / EPS +25% beat | Mounjaro $8.66B (+125%); EPS $8.55 vs. $6.85 cons; FY26 guide raised to $82–85B / $35.50–$37 EPS | ✅ FY26 path confirmed +; +10% to $974 | n/a — beat |
+| ~~Apr 30, 2026~~ ✅ **DELIVERED** | RIVN | Q1 2026 earnings — EPS beat + $4.5B DOE loan + R2 saleable | EPS −$0.33 vs. −$0.63 (~$0.30 beat); deliveries 10,365; **$4.5B DOE loan** + $2.55B partner capital → ~$8B liquidity; R2 saleable | ✅ Cash-burn risk DE-RISKED; PW EV $20.50→$21.10 | R2 demand commentary newly elevated; −8% to $15.15 |
 | Apr 30, 2026 | RKT | Q1 2026 earnings | Adj revenue ≥ $2.6B + EBITDA run-rate | 5th consecutive beat; re-rates toward $20+ | Below $2.4B without external shock = thesis break |
 | May 6, 2026 | DASH | Q1 2026 earnings (post-close) | Adj EBITDA ≥ $675M + H2 margin commentary + FY26 guide intact | Re-rating potential to $250 median target | <$650M on no external shock = thesis weakening |
 | May 7, 2026 | ABNB | Q1 2026 earnings | GBV YoY ≥14% + FY26 guide reaffirm | Acceleration confirmed | Drops back to single-digit |

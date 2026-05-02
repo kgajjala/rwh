@@ -4,6 +4,41 @@
 
 ---
 
+## [2026-05-01] — Earnings Q1 2026 — beat-and-cut on Iran/Hormuz; $3.6B Q1 buyback acceleration
+
+**Trigger**: Q1 2026 earnings print Apr 28, 2026. Revenue $5.53B (+16%) and EPS $1.14 beat; **Q2 guide cut** (room nights +2–4% vs. Q1 +6%) on assumed Iran/ME travel disruption through end-June; **$3.6B Q1 buyback** (~$14B annualized vs. prior $6B/yr cadence). Stock –6.6% to $168.36 (Apr 30 close).
+
+**Sources reviewed**:
+- [BKNG Q1 2026 PR (PDF)](https://s201.q4cdn.com/865305287/files/doc_financials/2026/q1/Q1-2026-BKNG-Earnings-Release.pdf)
+- [Q1 2026 transcript (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/04/28/booking-bkng-q1-2026-earnings-transcript/)
+- [Benzinga — Hormuz crisis / guidance cut](https://www.benzinga.com/markets/equities/26/04/52127365/booking-holdings-bkng-q1-2026-earnings-hormuz-crisis-guidance-cut)
+- [Yahoo Finance — BKNG quote](https://finance.yahoo.com/quote/BKNG) (live price 2026-04-30 close: $168.36)
+
+### What Changed
+- **Header**: Last Updated → 2026-05-01; Live Price → $168.36 (Apr 30, 2026 close)
+- **Summary**: Refreshed to Rule #18 4-part format — verbs Initiate / Add; new scenario table with $192 PW EV; new KPI strip with $14B annualized buyback cell; Hormuz overhang bulleted under Why Not
+- **Key Stats**: Spot $168.36; –27.9% from 52-wk high; Q1 line items added (rev $5.53B, EPS $1.14, buyback $3.6B); next catalyst → Q2 (late July)
+- **§11 Catalyst & Sentiment**: Q1 print Delivered ✅ with Hormuz commentary; $3.6B buyback called out as 5-year-high stewardship signal; analyst PT consensus retained ($234.42)
+- **§13 Bull/Bear/Base**: Base FY26 EBITDA refined down (~$10.7B vs. ~$11B) reflecting Hormuz-cut path; capital-allocation step-up added as Base improvement; new Hormuz-persistence path added to Bear
+- **§14 PW EV**: $195.50 → **$192** (refined Base only; Bull/Bear price points unchanged); R/R **3.5:1 → 3.7:1** at lower spot; 18-mo asymmetry +8.5% → +14%
+- **§15 Recommendation**: Holder verb Hold-Add → **Add**; non-holder verb Initiate (entry-zone reached, $168.36 inside $150–$170); entry zone $155–$175 → $150–$170; trim $235–$260 → $230–$255; exit >$280 → >$255; **new thesis-break trigger added** (ME disruption persisting past Q3 2026); buyback-cadence-reversion trigger added; next review = Q2 2026 (late July)
+
+### Thesis Status
+- **Overall**: **Unchanged thesis** — operating engine intact (rev +16%, EPS beat); Q2 cut is geopolitical not structural; capital allocation stepped up
+- **BAIT delta**: Triple overlap intact (B-Strong + A-Strong + I-Moderate + T-Moderate). Conviction **High** unchanged.
+- **Price target delta**: Bull $245 (30%) | Base $200 (50%) | Bear $110 (20%) — price points unchanged. PW EV $195.50 → **$192**. R/R **3.5:1 → 3.7:1** on lower spot.
+- **Catalyst & Sentiment delta**: Q1 print Delivered ✅; new Hormuz/ME overhang flagged; buyback acceleration is the dominant new datapoint.
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate** at $168.36 (entry-zone reached)
+- **For a current holder**: 🟢 **Add** (verb upgrade from Hold-Add)
+
+**Attractive entry zone**: $150 – $170 | **Trim zone**: $230 – $255 | **Exit / avoid zone**: >$255
+
+**Next review trigger**: 📅 **Q2 2026 earnings — late July 2026**. Items: Hormuz/ME resolution within Q2 as guided; Q3 room-night guide vs. Q2 +2–4%; Q2 buyback pace persistence; Connected Trip %, merchant mix, AI KPIs.
+
+---
+
 ## [2026-04-26] — v2.6 + v2.7 + v2.8 Retrofit
 
 **Trigger**: Schema retrofit to apply CLAUDE.md v2.6 (shareholder-letter + 10-K MD&A primary-source synthesis), v2.7 (5-year baselines + quarterly-letter substitution where applicable), and v2.8 (synthesis-over-transcription + page-output discipline + competitive-landscape integration + risk-factor materiality filter + R/R discipline) to BKNG.

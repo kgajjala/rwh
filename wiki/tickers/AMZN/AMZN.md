@@ -1,27 +1,44 @@
 # AMZN — Amazon.com, Inc.
 
 > **Schema**: v2.8
-> **Last Updated**: 2026-04-26
+> **Last Updated**: 2026-05-01
 > **Status**: Active
-> **Live Price Verified**: **$255.08** at April 23, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/AMZN))
+> **Live Price Verified**: **$265.06** at April 30, 2026 close — fresh ATH ([Yahoo Finance](https://finance.yahoo.com/quote/AMZN))
 > **Ticker Type**: Capital-light platform / hyperscaler / e-commerce mega-cap
 
 ---
 
 ## Summary
 
-- 🟢 **Thesis**: Three-pillar Wide-moat mega-cap (AWS + advertising + marketplace logistics) **6 days ahead of the Q1 FY26 print** that begins validating the largest discretionary capex bet in corporate history (~$200B FY26 vs. $83B FY24); at **$255 / ~36× FY25 P/E** the market has substantially re-rated since the post-Q4 selloff and the bar is now "execution."
-- 🟢 **Moat verdict**: **Wide and Reinforcing** — AWS scale + custom silicon (Trainium2 at 30–40% better price-performance, *FY24 letter*), Prime ecosystem (200M+ members, 90%+ retention), three-pillar logistics network, advertising platform with first-party purchase data, marketplace network effects.
-- 🟡 **For a non-holder: Initiate (small) / Watch** — quality-at-fair-price set up but stock is +3% from 52-wk high and Q1 print is the binary moment; preferred entry is a pullback to $220–235.
-- 🟡 **For a current holder: Hold** — let Q1 print resolve before adding; trim only if AMZN gaps materially above $310 without earnings re-rate.
-- 🎯 **Attractive entry zone**: **$210 – $235** (~28–32× FY25 EPS; below mid-2025 lows).
-- 🎯 **Trim zone**: **$310 – $340** (top of analyst target band; Bull case partially priced).
-- 📈 **Price action**: $255.08, **–1.4% from 52-wk high** ($258.79), +43% above 52-wk low ($178.85) — near highs into print.
-- 📅 **Next catalyst**: 📅 **Q1 FY26 earnings — April 29, 2026 (post-close)**. Consensus rev $177.2B (+13%); EPS $1.63; AWS ~$36.8B (~+22%); UBS bull case +38% AWS.
-- ⚠️ **Top risk**: AI capex ROIC slips — $200B/yr is 4× FY23 capex with multi-year payback; **explicit thesis-break trigger if FY26 capex revised up >$250B without commensurate AWS AI revenue acceleration**.
-- ⚠️ **Second risk**: AWS share loss to Azure on AI workloads (Synergy data shows AWS at ~30% vs. peak 33%); not yet priced in to current 36× multiple.
-- 🟢 **BAIT verdict**: **Triple overlap (A Moderate-Strong + I Moderate + T Moderate)** — Conviction **Moderate**. PW EV ~$310 (3-yr) = +22% / ~7%/yr; **~3.5:1 R/R** (Bull $400 / Bear $170, anchored to §13).
-- 📈 **Primary-source signal**: Jassy's *FY25 letter* line **"We're not investing approximately $200 billion in capex in 2026 on a hunch... We already have customer commitments for a substantial portion of it"** is the cleanest demand-anchored capex-justification statement in 4 years of letters; Trainium4 reservations 18 months ahead of broad availability is the leading-indicator validation point.
+**Thesis**: Three-pillar Wide-moat mega-cap (AWS + advertising + marketplace logistics) just delivered the cleanest Q1 print in years — **AWS +28% (fastest in 15 quarters)**, EPS +70% beat, ad +24% — validating the $200B FY26 AI capex bet on the demand side; at **$265 ATH / ~37× FY25 P/E** the operating thesis is strengthened but R/R has compressed to ~1.4:1 as the multiple has caught up to the print.
+
+🟡 Non-holder: **Watch** · 🟡 Holder: **Hold**
+
+### Scenario Table
+
+| 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|---|
+| $178.85 – $268 | $265.06 (~99th) | $170 | $220–235 | $290 / **$322** | $325–355 | $400 | **1.4:1** |
+
+### KPI Strip
+
+| BAIT | Moat | FY26E P/E | AWS Op Margin (Q1) | Capex (Q1) | Next Catalyst |
+|---|---|---|---|---|---|
+| Triple (A-Strong + I-Mod + T-Mod) | Wide & Reinforcing | ~33× ($8/sh) | ~37% | $43.2B | Q2 FY26 (~late-July) |
+
+### Why / Why Not / Next Read
+
+🟢 **Why**:
+- AWS +28% (fastest in 15 quarters) validates demand side of the $200B capex bet; AI run rate scaling fast
+- Q1 EPS $2.78 = +70% beat; advertising $17.24B (+24%) shows ad engine continuing to compound
+- Q2 guide $194–199B / op income $20–24B both bracket Street, no execution wobble
+
+⚠️ **Why not**:
+- Stock at fresh ATH $265 / ~99th %ile of 52-wk range — multiple has rerated to fair-value, no margin-of-safety
+- $43.2B Q1 capex extrapolates to ~$170B+ FY26 run rate; FCF compression continues to bite the bear case
+- R/R compressed 1.7:1 → 1.4:1; better entries available on any 10%+ pullback
+
+📅 **Next read**: Q2 FY26 print (~late-July 2026) — capex pacing vs. $200B FY26 frame, AWS YoY hold above +25%, Q3 op income guide.
 
 ---
 
@@ -56,27 +73,26 @@ The market is currently leaning toward "this is the AWS bet, again" (stock +43% 
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$255.08** | April 23, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/AMZN)) |
-| 52-Week Range | $178.85 – $258.79 | Yahoo Finance |
-| % From 52-Wk High | –1.4% | Near top of range |
-| % Above 52-Wk Low | +42.6% | |
-| Market Cap | ~$2.74T | Yahoo Finance |
+| Live Price | **$265.06** | April 30, 2026 close — fresh ATH ([Yahoo Finance](https://finance.yahoo.com/quote/AMZN)) |
+| 52-Week Range | $178.85 – $268.00 | Yahoo Finance |
+| % From 52-Wk High | ~flat | At/near top of range |
+| % Above 52-Wk Low | +48.2% | |
+| Market Cap | ~$2.85T | $265.06 × ~10.73B sh |
 | Avg Daily Volume | ~51.5M shares | |
-| P/E (TTM) | 35.58 | Yahoo Finance |
+| P/E (TTM) | ~37× | Yahoo Finance |
 | EPS (TTM) | $7.17 | FY25 GAAP |
 | FY25 Revenue | $716.9B | +12% YoY |
 | FY25 Op Income | $80.0B | 11.2% margin |
 | FY25 AWS Op Income | $45.6B | vs. $39.8B FY24 |
-| FY25 Capex | ~$100B [Estimate] | Up from $83B FY24 |
-| **FY26 Capex Guide** | **~$200B** | Up from $83B FY24; central debate |
-| Q1 FY26 Rev Consensus | $177.2B | +13% YoY |
-| Q1 FY26 EPS Consensus | $1.63 | +2.5% YoY |
-| Q1 FY26 AWS Consensus | ~$36.8B | ~+22%; UBS bull +38% |
+| **Q1 FY26 Revenue** | **$181.5B (+17%)** | Beat consensus $177.2B |
+| **Q1 FY26 EPS** | **$2.78** | +70% beat vs. $1.63 cons. |
+| **Q1 FY26 AWS Revenue** | **$37.6B (+28%)** | Fastest growth in 15 quarters |
+| **Q1 FY26 Advertising** | **$17.24B (+24%)** | Continued compounding |
+| **Q1 FY26 Capex** | **$43.2B** | Annualizes ~$170B+ |
+| **Q2 FY26 Guide** | **Rev $194–199B / Op Inc $20–24B** | Brackets Street |
+| **FY26 Capex Frame** | **~$200B** | Central debate; Q1 pace tracks |
 | Aggregate Analyst Rating | Strong Buy (42 Buys / 3 Holds) | Avg PT $286 ([TipRanks](https://www.tipranks.com/stocks/amzn)) |
-| BMO PT | $315 (raised from $310) | ([TipRanks](https://www.tipranks.com/news/top-bofa-analyst-lifts-amazon-amzn-stock-price-target-ahead-of-q1-earnings-heres-why)) |
-| KeyBanc PT | $325 | (Apr 2026) |
-| BofA PT | $298 | (Apr 2026) |
-| **Q1 FY26 Earnings Date** | **April 29, 2026** | **Hard catalyst, 3 days out** |
+| **Next Earnings Date** | **~Late-July 2026 (Q2 FY26)** | **Capex pacing + AWS hold** |
 
 ---
 
@@ -362,18 +378,28 @@ Material risks only, per Rule #25 — boilerplate ("we may not retain key person
 ## Section 11 — Catalyst & Sentiment Tracker
 
 ### Live Price & Positioning
-- **Price**: $255.08 (April 23, 2026 close; [Yahoo Finance](https://finance.yahoo.com/quote/AMZN))
-- **52-week range**: $178.85 – $258.79
-- **% from 52-wk high**: –1.4%
-- **% above 52-wk low**: +42.6%
-- **Market cap**: ~$2.74T
+- **Price**: $265.06 (April 30, 2026 close — fresh ATH; [Yahoo Finance](https://finance.yahoo.com/quote/AMZN))
+- **52-week range**: $178.85 – $268.00
+- **% from 52-wk high**: ~flat
+- **% above 52-wk low**: +48.2%
+- **Market cap**: ~$2.85T
+
+### Q1 FY2026 Earnings (April 29, 2026 — DELIVERED ✅)
+- **Revenue**: **$181.5B (+17% YoY)** — beat consensus $177.2B
+- **AWS revenue**: **$37.6B (+28% YoY)** — *"fastest in 15 quarters"*; AI run rate accelerating
+- **EPS**: **$2.78** — **+70% beat** vs. $1.63 consensus
+- **Advertising**: **$17.24B (+24% YoY)** — continued >20% compounding
+- **Capex (Q1)**: **$43.2B** — annualizes to ~$170B+ run rate; tracks toward FY26 ~$200B frame
+- **Q2 FY26 guide**: revenue **$194–199B** / operating income **$20–24B** — both bracket Street consensus
+- **Stock reaction**: rallied to fresh ATH **$265.06** post-print (+3.9% from prior week's $255.08)
+- **Sources**: [Amazon Q1 2026 PR](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-First-Quarter-Results/) · [Q1 2026 transcript (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/04/29/amazon-amzn-q1-2026-earnings-call-transcript/) · [CNBC Q1 recap](https://www.cnbc.com/2026/04/29/amazon-amzn-q1-earnings-report-2026.html)
 
 ### Analyst Consensus
 - **Aggregate rating**: 🟢 **Strong Buy** (42 Buys / 3 Holds; [TipRanks](https://www.tipranks.com/stocks/amzn))
-- **Average PT**: ~$286 (~+12% upside)
+- **Average PT**: ~$286 (modestly below current spot post-rally; PT cluster updates expected post-print)
 - **High PT**: $325 (KeyBanc)
 - **Low PT**: ~$240
-- **UBS thesis (cited as bull anchor)**: AWS +38% growth in 2026 vs. Street ~26%
+- **UBS thesis (now partly validated)**: AWS +38% 2026 trajectory looks more credible after +28% Q1 print
 
 ### Recent Analyst Actions (last 90 days)
 
@@ -394,6 +420,7 @@ AMZN historically <1% of float short — typical mega-cap; not a meaningful sign
 
 ### Recent Corporate News (Last 90 Days)
 
+- 🟢 **[2026-04-29]** **Q1 FY26 print** — rev $181.5B (+17%) / AWS $37.6B (+28% — *fastest in 15 quarters*) / EPS $2.78 (+70% beat) / ad $17.24B (+24%) / capex $43.2B; Q2 guide $194–199B / op income $20–24B ([Amazon Q1 2026 PR](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-First-Quarter-Results/), [transcript](https://www.fool.com/earnings/call-transcripts/2026/04/29/amazon-amzn-q1-2026-earnings-call-transcript/), [CNBC recap](https://www.cnbc.com/2026/04/29/amazon-amzn-q1-earnings-report-2026.html))
 - 📅 **[2026-04-09]** Jassy disclosure: AWS AI run rate >$15B in Q1 2026 ([FY25 letter context](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2025-letter-to-shareholders))
 - 🟢 **[2026-04 mid-late]** BMO PT $310 → $315; UBS reiterates +38% AWS 2026 thesis
 - 🟢 **[2026-04-20]** KeyBanc PT $285 → $325; BofA PT $275 → $298 ([TipRanks](https://www.tipranks.com/news/top-bofa-analyst-lifts-amazon-amzn-stock-price-target-ahead-of-q1-earnings-heres-why))
@@ -404,8 +431,8 @@ AMZN historically <1% of float short — typical mega-cap; not a meaningful sign
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| 📅 **2026-04-29 (post-close)** | **Q1 FY26 earnings** | First print of $200B capex year; AWS YoY growth (Street ~+22% / UBS +38%); AI revenue commentary; Q2 guide |
-| ~Aug 2026 | Q2 FY26 earnings | Capex pacing; AI monetization run-rate |
+| ~~📅 **2026-04-29 (post-close)** — Q1 FY26 earnings~~ | ~~First print of $200B capex year~~ | ✅ **DELIVERED** — Rev $181.5B (+17%) / AWS +28% / EPS +70% beat / Q2 guide brackets Street |
+| ~Late-July 2026 | **Q2 FY26 earnings** | Capex pacing vs. ~$200B frame; AWS hold above +25%; Q3 op income guide |
 | ~Late 2026 | AWS re:Invent | Major AI product / chip / customer announcements |
 | Ongoing | Trainium adoption / customer wins | Custom silicon validation; FY25 letter teased "significant chunk" of Trainium4 reserved |
 | Ongoing | Kuiper deployment milestones | New revenue stream signal |
@@ -444,24 +471,24 @@ Stock is **–1.4% from 52-wk high** — not capitulated, no fear-driven mispric
 
 *All scenarios are 3-year (2029) terminal prices. Probabilities sum to 100%.*
 
-### 🟢 Bull Case — $400 by 2029 (+57% from $255, ~16% CAGR) — **Probability: 35%**
-- AWS at $260B+ revenue (40%+ AI mix) by 2029; op margin 38%+
-- UBS +38% 2026 AWS trajectory validated → multiple expansion to ~36× P/E
-- Advertising at $130B+; op margin 50%+
+### 🟢 Bull Case — $400 by 2029 (+51% from $265, ~14% CAGR) — **Probability: 40%**
+- AWS at $260B+ revenue (40%+ AI mix) by 2029; op margin 38%+; **Q1 +28% prints ahead of pace**
+- UBS +38% 2026 AWS trajectory tracking — Q1 +28% is the early validation
+- Advertising at $130B+; op margin 50%+; Q1 +24% supports the trajectory
 - North America retail op margin 7%+; International op margin 4%+
 - Consolidated FY29 op income ~$220B; ~26× P/E on $20+ EPS
 - AI capex peaks 2027 and rolls off; FCF recovers to $90B+ annual
 
-### 🟡 Base Case — $290 by 2029 (+14%, ~4.5% CAGR) — **Probability: 50%**
-- AWS at $200–220B revenue; AI growth solid but not +38%
+### 🟡 Base Case — $300 by 2029 (+13%, ~4.2% CAGR) — **Probability: 45%**
+- AWS at $210–230B revenue; AI growth solid, holds above +25%
 - Advertising $100–110B; op margin 45%
-- FY29 op income ~$180B; ~22× P/E on ~$13 EPS
-- FCF recovers but capex stays elevated through 2027–2028
-- Street trajectory; modest re-rating
+- FY29 op income ~$185B; ~22× P/E on ~$13.50 EPS
+- FCF recovers but capex stays elevated through 2027–2028 ($43.2B Q1 pace persists)
+- Modest re-rating; multiple holds ~32–35×
 
-### 🔴 Bear Case — $170 by 2029 (–33%, ~–13% CAGR) — **Probability: 15%**
-- AWS share loss to Azure accelerates; AWS growth slows to mid-teens
-- AI capex ROIC compresses; FY26 $200B doesn't generate commensurate revenue
+### 🔴 Bear Case — $170 by 2029 (–36%, ~–11% CAGR) — **Probability: 15%**
+- AWS share loss to Azure accelerates despite Q1 strength; growth slows to mid-teens by 2027
+- AI capex ROIC compresses; $200B+ FY26 capex doesn't generate commensurate revenue
 - Retail margin compresses on tariffs / consumer weakness
 - Multiple compresses to ~18× on $9–10 EPS
 - FTC structural remedy or material EU action adds left-tail
@@ -472,32 +499,32 @@ Stock is **–1.4% from 52-wk high** — not capitulated, no fear-driven mispric
 
 | Scenario | 2029 Price | Probability | PW Contribution |
 |----------|-----------|-------------|-----------------|
-| Bull | $400 | 35% | $140.00 |
-| Base | $290 | 50% | $145.00 |
+| Bull | $400 | 40% | $160.00 |
+| Base | $300 | 45% | $135.00 |
 | Bear | $170 | 15% | $25.50 |
-| **PW EV (3-yr)** | | | **~$310** |
+| **PW EV (3-yr)** | | | **~$322** |
 
 | Current Price | PW EV | Return (3-yr) | Annualized |
 |--------------|-------|--------------|-----------|
-| **$255.08** | ~$310 | **+22%** | **~7%/yr** |
+| **$265.06** | ~$322 | **+21%** | **~6.6%/yr** |
 
-**Interpretation**: Modest positive expected return; ~7%/yr is below the bar for asymmetric mega-cap setups. **Bull/Bear R/R = (+57%) / (–33%) ≈ 1.7:1** (anchored to §13 midpoints, per Rule #26). Not a fat-pitch setup at $255 — the asymmetry compresses materially vs. the Feb 2026 lows where the same scenario set would have produced ~3:1 R/R. The Q1 FY26 print on April 29 is the clean re-rating event: a clean AWS beat (closer to UBS +38% than Street +22%) shifts probabilities toward Bull weighting; a miss compresses toward Base/Bear.
+**Interpretation**: PW EV stepped up $310 → $322 as Q1 AWS +28% / EPS +70% beat shifted probability mass from Base toward Bull (Bull 35%→40%, Base 50%→45%). Return at fresh ATH spot remains +21% / ~6.6%/yr — operating thesis strengthened, but stock has caught up. **Bull/Bear R/R = (+51%) / (–36%) ≈ 1.4:1** (anchored to §13 midpoints, per Rule #26) — compressed from 1.7:1 prior week. Not a fat-pitch setup at $265 ATH; better entries available on any 10%+ pullback. Next re-rating event: Q2 FY26 print (~late-July) — capex pacing vs. ~$200B frame and AWS hold above +25%.
 
 ---
 
 ## Section 15 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Amazon is the only U.S. mega-cap with three durable Wide-moat businesses (AWS, advertising, marketplace logistics) currently mid-flight in a $200B/yr AI infrastructure bet that Jassy's *FY25 letter* explicitly anchored to customer commitments; at $255 / 36× FY25 P/E the market has substantially re-rated since the Feb 2026 lows and the Q1 FY26 print on April 29 is the binary validation event.
+**Thesis in one sentence**: Amazon is the only U.S. mega-cap with three durable Wide-moat businesses (AWS, advertising, marketplace logistics) and Q1 FY26 just delivered the cleanest validation print in years — AWS +28% (fastest in 15 quarters), EPS +70% beat, ad +24% — strengthening the operating case for the $200B FY26 capex bet, but at $265 ATH / ~37× P/E the stock has caught up and R/R has compressed to ~1.4:1.
 
-**For a non-holder**: 🟡 **Initiate (small) / Watch** — quality-at-fair-price still exists but margin-of-safety is thin. The three-pillar moat is wider than the index average and AI optionality is underwritten by AWS scale; however, the stock is –1.4% from 52-wk high with the Q1 print 3 days away. Preferred entry: pullback to $220–235 (~28–32× FY25 EPS).
+**For a non-holder**: 🟡 **Watch** — Q1 print validated the operating thesis but multiple has rerated to fair-value at fresh ATH. No margin-of-safety at 99th %ile of 52-wk range. Preferred entry: pullback to $220–235 (~28–32× FY25 EPS) on any 15%+ correction; otherwise wait for the Q2 FY26 print to confirm capex pacing.
 
-**For a current holder**: 🟡 **Hold** — let Q1 print resolve before adding. Drawdown risk into the print is bounded (~–8% per Q4 precedent); upside on a clean AWS beat is meaningful. Trim only if AMZN gaps materially above $310 without earnings re-rate.
+**For a current holder**: 🟡 **Hold** — operating thesis strengthened on AWS reaccel; no reason to reduce. Trim only if AMZN gaps materially above $325 without commensurate earnings re-rate.
 
-🎯 **Attractive entry zone**: **$210 – $235** (rationale: ~28–32× FY25 P/E; aligns with mid-2025 lows; meaningful pullback creates margin-of-safety vs. AI capex execution risk)
+🎯 **Attractive entry zone**: **$220 – $245** (rationale: ~28–33× FY25 EPS; ~15%+ pullback from current ATH; PW EV $322 minus ~25–30% MoS)
 
-🎯 **Trim zone**: **$310 – $340** (rationale: top of analyst target band; ~36–40× FY25 P/E; Bull case partially priced)
+🎯 **Trim zone**: **$325 – $355** (rationale: above PW EV $322 toward Bull case; ~45–50× FY25 P/E; Bull partially priced)
 
-🔴 **Exit / avoid zone**: **>$370** (rationale: Bull case fully priced; requires $400+ 2029 outcome to justify; little margin for capex disappointment)
+🔴 **Exit / avoid zone**: **≥$400** (rationale: Bull case 2029 target reached; no margin for execution wobble or capex disappointment)
 
 **Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
 
@@ -509,7 +536,7 @@ Stock is **–1.4% from 52-wk high** — not capitulated, no fear-driven mispric
 - ⚠️ Advertising revenue growth decelerates below +15%
 - ⚠️ FY26 capex revised down >10% (signals demand weakness)
 
-📅 **Next review trigger**: **Q1 FY26 earnings — April 29, 2026 (post-close)**. Key items: (1) AWS YoY growth (Street ~+22%, UBS bull +38%); (2) AWS AI revenue / Trainium commentary; (3) Q2 FY26 op income guide vs. Street; (4) FY26 capex affirmation vs. revision; (5) advertising growth rate; (6) North America operating margin trajectory.
+📅 **Next review trigger**: **Q2 FY26 earnings — late-July 2026 (post-close)**. Key items: (1) AWS YoY growth — does +28% Q1 pace hold above +25%; (2) capex pacing vs. ~$200B FY26 frame ($43.2B Q1 already booked); (3) Q3 FY26 op income guide vs. Street; (4) advertising growth rate (does $17.24B/+24% Q1 sustain); (5) North America operating margin; (6) any update to Trainium4 reservation pipeline.
 
 ---
 

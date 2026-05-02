@@ -4,6 +4,38 @@
 
 ---
 
+## [2026-05-01] — Governance Overhang Adds (Wilson DFAN14A + Bracey Board Appointment)
+
+**Trigger**: Apr 28 board added Esi Eggleston Bracey (ex-Unilever CGMO); Apr 29 Chip Wilson DFAN14A letter to shareholders pressing 3 nominees for the 2026 Annual Meeting; escrow / non-disparagement standoff disclosed; Lululemon countered alleging Wilson aided Alo + Vuori. Stock to new 52-wk low $136.92 intraday.
+
+**Sources reviewed**:
+- [Chip Wilson DFAN14A letter — PRNewswire, Apr 29 2026](https://www.prnewswire.com/news-releases/chip-wilson-issues-letter-to-lululemon-shareholders-302756565.html)
+- [Bracey board appointment — StockTitan, Apr 28 2026](https://www.stocktitan.net/news/LULU/lululemon-announces-appointment-of-esi-eggleston-bracey-to-board-of-my7x1cfe0g5z.html)
+- [WWD — Wilson / Lululemon boardroom battle](https://wwd.com/business-news/business-features/chip-wilson-lululemon-boardroom-battle-1238932315/)
+- [Yahoo Finance — LULU](https://finance.yahoo.com/quote/LULU) (Apr 30 close $137.98; new 52-wk low $136.92)
+
+### What Changed
+- **Header**: Last Updated 2026-04-26 → 2026-05-01; Live Price $143.80 → $137.98 (Apr 30 close); 52-wk low refreshed $141.33 → $136.92
+- **Summary (Rule #18 4-part)**: Refreshed scenario row to spot $137.98 with R/R 2.6:1; thesis sentence adds governance-overhang clause; verbs unchanged (Watch / Initiate <$135 / Hold); Why-not bullet replaced with Wilson proxy fight overhang
+- **§6 Key Risks**: Added new "Governance / Wilson proxy fight" row per Rule #25 (material — tied to thesis-break trigger; not yet priced into multiple). Synthesis includes escrow/non-disparagement standoff and LULU counter-allegation
+- **§9 Catalyst & Sentiment**: Live price/52-wk refreshed to $137.98 / $136.92 low / –59.4% from high; market cap ~$17.4B → ~$16.7B; recent corporate news adds Apr 29 Wilson DFAN14A and Apr 28 Bracey appointment with linked sources; upcoming catalysts adds 2026 Annual Meeting (date TBD) row
+- **§12 PW EV**: PW EV unchanged $192; recomputed return to spot $137.98 (+39.2% / ~+11.6%/yr); R/R 2.3:1 → **2.6:1** (3.7:1 with Bull+ tail)
+- **§13 Recommendation**: Verbs unchanged; non-holder rationale references new governance overhang; entry zone unchanged <$135; **NEW thesis-break trigger added**: "Proxy escalation — any Wilson nominee elected at the 2026 Annual Meeting OR settlement requiring board recomposition that reverses the 2024 strategic plan"
+
+### Thesis Status
+- **Overall**: Unchanged (slightly weaker undertone; non-fundamental governance overhang)
+- **BAIT delta**: No change; Double overlap (B Strong + A Moderate) preserved. B-lens marginally amplified by sentiment (governance noise + new 52-wk low)
+- **Price target delta**: Bull $290 / Base $200 / Bear $80 / **PW EV $192 — all unchanged**. R/R widens 2.3:1 → 2.6:1 on lower spot
+- **Catalyst & Sentiment delta**: Governance event timeline added (Wilson DFAN14A, Bracey appointment); 2026 Annual Meeting elevated to upcoming-catalyst row
+
+### Recommendation
+- **For a non-holder**: 🟡 Watch — bias to Initiate below $135; verb unchanged; sub-$135 entry now ~$3 below spot
+- **For a current holder**: 🟡 Hold — verb unchanged; do not exit on governance noise; PW EV $192 implies +39% upside
+
+**Next review trigger**: Q1 FY26 earnings — early June 2026 (est.); also monitor 2026 Annual Meeting date announcement and any settlement/escalation between Wilson and the Board.
+
+---
+
 ## [2026-04-26] — v2.9 Schema Retrofit
 
 **Trigger**: Schema migration from v2.2 (15-section structure) to v2.9 (13-section structure) — structural renumbering, primary-source synthesis depth, and competitive landscape integration

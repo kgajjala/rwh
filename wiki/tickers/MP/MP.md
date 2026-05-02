@@ -1,26 +1,42 @@
 # MP — MP Materials Corp.
 
 > **Schema**: v2.9
-> **Last Updated**: 2026-04-26
+> **Last Updated**: 2026-05-01
 > **Status**: Active
-> **Live Price Verified**: **~$59–61** (verified 2026-04-26 via [Yahoo Finance](https://finance.yahoo.com/quote/MP) / [CNBC](https://www.cnbc.com/quotes/MP); most recent confirmed close ~$60.73 as of April 24, 2026; April 26 intraday ~$59–61 range per search aggregators)
+> **Live Price Verified**: **$66.04** (Apr 30, 2026 close, [Yahoo Finance](https://finance.yahoo.com/quote/MP); +8.7% from $60.73 prior baseline; +6.9% session Apr 27 to ~$64.92, settling $66.04 by Apr 30)
 > **Ticker Type**: Strategic Minerals / Vertically Integrated Rare Earth + Magnetics
 
 ---
 
 ## Summary
 
-- 🟢 **Thesis**: U.S.'s indispensable rare-earth + magnetics platform (**Wide moat** — geographic + regulatory + capital) with a 10-year DoD-anchored $110/kg NdPr price floor, Apple/GM commercial offtakes, and a mine-to-magnet vertical integration ramp through 2028 via the $1.25B "10X" campus in Northlake, TX.
-- 🟢 **For a non-holder: Initiate** in the $48–62 entry zone — strategic-asset thesis, not a 2026 P/E thesis; PW EV ~$85 (3-yr) = +40% at $60.73.
-- 🟢 **For a current holder: Hold / Add** — incremental adds in $50–62 zone; tolerate fuller-than-usual valuation given asset uniqueness and DoD backstop.
-- 🎯 **Attractive entry zone**: **$48 – $62** (meaningful margin of safety on PW EV $85; DoD floor structurally re-anchors downside).
-- 🎯 **Trim zone**: **$95 – $110** (approaches Wedbush $90 bull case; further requires above-floor NdPr + 10X execution).
-- 📉 **Price action**: ~$60.73, **–39% from 52-wk high** ($100.25 / Oct 2025), **+226% above 52-wk low** ($18.64 / pre-DoD-deal); post-deal consolidation phase.
-- 📅 **Next catalyst**: **Q1 2026 earnings — May 7, 2026 (post-close, 5pm ET)**. First full quarter under DoD-anchored economics; Magnetics commercial ramp print; 10X capex deployment update.
-- ⚠️ **Top risk**: CEO Litinsky open-market sales (300K+ shares April 17–20 at ~$64; 9 sales totaling ~1.23M shares in 6 months) — insider conviction signal deterioration.
-- ⚠️ **Second risk**: Magnetics / 10X ramp execution — $1.25B capex commitment + first-of-kind U.S. scale + 2028 commissioning target = multi-year execution risk.
-- 🟢 **BAIT verdict**: **Triple overlap (A + I Strong + B Moderate; T Moderate)** — Conviction **Moderate-High**. Cleanest "strategic-asset optionality" setup in the wiki; 18.9% short interest provides squeeze potential on positive Q1 print.
-- 💰 **Capital allocation signal**: $225M buyback in FY2024 (8.6% of shares) + $400M DoD preferred investment + $1.25B 10X capex commitment — management aggressively funding the vertical integration thesis while returning capital opportunistically.
+**Thesis**: U.S.'s indispensable rare-earth + magnetics platform (Wide moat — geographic + regulatory + capital) with a 10-year DoD-anchored $110/kg NdPr price floor, Apple/GM commercial offtakes, and a mine-to-magnet vertical integration ramp through 2028 via the $1.25B "10X" campus in Northlake, TX. Rally to $66 compresses asymmetry but PW EV $80.50 unchanged; thesis intact.
+
+🟢 Non-holder: Initiate on dips $52–62 · 🟡 Holder: Hold
+
+### Scenario table
+
+| 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|---|
+| $18.64 – $100.25 | $66.04 (~58%ile) | $28 | $52 – $62 | $82 / $80.50 | $92 – $108 | $130 | **~1.7:1** |
+
+### KPI strip
+
+| BAIT | Moat | EV/EBITDA FY27E | Short int. | DoD floor | Next catalyst |
+|---|---|---|---|---|---|
+| Triple (A+I Strong, B/T Mod) | Wide | ~15–20× | 18.9% float | $110/kg NdPr (10-yr) | Q1 2026 earnings — May 7 |
+
+### Why / Why not / Next read
+
+🟢 DoD partnership ($400M pref + 10-yr $110/kg floor) structurally re-anchors downside; PPA mechanism delivered $51M in Q4 2025 alone.
+🟢 Magnetics commercial launch (Dec 2025) + GM Ultium offtake + Apple supply agreement = anchor demand for 10X campus build.
+🟢 18.9% short interest sets up squeeze potential on positive Q1 print or 10X milestone.
+
+⚠️ CEO Litinsky open-market sales (9 transactions, ~1.23M shares for ~$78M in 6 months; 300K April 17–20 at ~$64) — insider conviction signal deterioration vs. $1.25B corporate commitment.
+⚠️ 10X / Magnetics ramp execution — $1.25B first-of-kind U.S. magnet campus, 2028 commissioning, multi-year execution risk.
+⚠️ Rally to $66 compresses R/R from 2.1:1 → 1.7:1; entry zone discipline matters more.
+
+📅 Next read: **Q1 2026 earnings — May 7, 2026 (post-close)** — first full PPA quarter, GM magnet ramp, 10X construction update.
 
 ---
 
@@ -44,12 +60,12 @@ The setup is unique in the wiki: this is a **strategic-asset re-rating** more th
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **~$60.73** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/MP)); April 26 search aggregators show ~$59–61 range |
+| Live Price | **$66.04** | April 30, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/MP)); +8.7% from $60.73 baseline on Wedbush + MS analyst cluster |
 | 52-Week High | $100.25 | October 14, 2025 (post-DoD deal frenzy) |
 | 52-Week Low | $18.64 | Pre-DoD deal |
-| % From 52-Wk High | –39% | Post-deal consolidation |
-| % Above 52-Wk Low | +226% | DoD-deal re-rating |
-| Market Cap | ~$10.8B | 177.7M diluted shares × ~$60.73 |
+| % From 52-Wk High | –34% | Post-deal consolidation; rallying off baseline |
+| % Above 52-Wk Low | +254% | DoD-deal re-rating |
+| Market Cap | ~$11.7B | 177.7M diluted shares × $66.04 |
 | FY2025 Revenue | $224.4M | +10% YoY |
 | FY2025 NdPr Oxide Production | 2,599 MT | +101% YoY |
 | Q4 2025 Adj. EBITDA | $39.2M | First positive EBITDA quarter |
@@ -282,11 +298,12 @@ MP Materials does not publish a standalone annual shareholder letter (Pattern C 
 
 ### Live Price & Positioning
 
-- **Price**: ~$60.73 (April 24, 2026; April 26 ~$59–61 range) ([Yahoo Finance](https://finance.yahoo.com/quote/MP))
+- **Price**: **$66.04** (April 30, 2026 close; +8.7% from $60.73 baseline) ([Yahoo Finance](https://finance.yahoo.com/quote/MP))
 - **52-week range**: $18.64 – $100.25
-- **% from 52-wk high**: –39%
-- **% above 52-wk low**: +226%
-- **Market cap**: ~$10.8B
+- **% from 52-wk high**: –34%
+- **% above 52-wk low**: +254%
+- **Market cap**: ~$11.7B
+- **Week's price action**: +6.9% session April 27 to ~$64.92 ([Stockstotrade recap](https://stockstotrade.com/news/mp-materials-corp-mp-news-2026_04_27/)); settled $66.04 by April 30 ahead of May 7 Q1 print
 
 ### Analyst Consensus
 
@@ -294,6 +311,8 @@ MP Materials does not publish a standalone annual shareholder letter (Pattern C 
 - **Median target**: $77; **Average**: ~$75–79
 - **Range**: $33 (low) – $112 (high)
 - **Recent actions**:
+  - **[2026-04-28] Wedbush** reiterated **Outperform / $90** PT — "national champion" framing reaffirmed into Q1 print ([Investing.com](https://www.investing.com/news/analyst-ratings/wedbush-initiates-mp-materials-stock-with-outperform-rating-93CH-4623144))
+  - **[2026-04-28] Morgan Stanley** PT cut **$71 → $62**; Overweight reaffirmed — modest valuation reset; rating intact
   - **[2026-04-20]** Wedbush initiated **Outperform / $90** PT — *"Only Real Play on American Rare Earth Independence"* ([Investing.com](https://www.investing.com/news/analyst-ratings/wedbush-initiates-mp-materials-stock-with-outperform-rating-93CH-4623144))
   - **BofA Securities**: Reiterated **Buy / $94** PT
   - **DA Davidson**: Reiterated **Buy / $82** PT
@@ -313,6 +332,7 @@ MP Materials does not publish a standalone annual shareholder letter (Pattern C 
 
 ### Recent Corporate News (Last 90 Days)
 
+- **[2026-04-28] [Analyst]** — Wedbush reiterated **Outperform / $90** PT; Morgan Stanley cut PT $71 → $62 (OW reaffirmed) — analyst-action cluster drove +6.9% session Apr 27 to ~$64.92, settling $66.04 by Apr 30 ([Stockstotrade recap](https://stockstotrade.com/news/mp-materials-corp-mp-news-2026_04_27/); [Investing.com Wedbush note](https://www.investing.com/news/analyst-ratings/wedbush-initiates-mp-materials-stock-with-outperform-rating-93CH-4623144))
 - **[2026-04-20] [Analyst]** — Wedbush initiates **Outperform / $90** PT; "national champion" framing of MP's strategic position ([Investing.com](https://www.investing.com/news/analyst-ratings/wedbush-initiates-mp-materials-stock-with-outperform-rating-93CH-4623144))
 - **[2026-02-26] [10X Announcement]** — MP selects **Northlake, TX** for "10X" magnet campus; $1.25B investment; 1,500+ jobs; >$200M incentive package; 2028 commissioning ([MP IR](https://investors.mpmaterials.com/investor-news/news-details/2026/MP-Materials-Selects-Northlake-Texas-as-the-Site-of-10X-a-New-U-S--Rare-Earth-Magnet-Manufacturing-Campus/default.aspx); [Yahoo Finance article](https://finance.yahoo.com/news/mp-materials-selects-northlake-texas-142500299.html))
 - **[2026-02-26] [Earnings — Q4 2025]** — Q4 2025: Revenue $75M; Adj. EBITDA $39.2M (first positive); Magnetics $21.9M rev / $8.4M EBITDA; PPA $51M; NdPr production 2,599 MT FY (+101% YoY); EPS $0.09 vs. $0.02 expected (+350% beat) ([MP IR press release](https://investors.mpmaterials.com/investor-news/news-details/2026/MP-Materials-Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx); [BusinessWire](https://www.businesswire.com/news/home/20260226593472/en/MP-Materials-Reports-Fourth-Quarter-and-Full-Year-2025-Results))
@@ -372,7 +392,7 @@ The –39% pullback from $100.25 (Oct 2025) reflects post-deal-frenzy normalizat
 
 *All scenarios are 3-year (FY2028) terminal prices. Horizon: FY2026–FY2028. Probabilities sum to 100%.*
 
-### 🟢 Bull Case — $130 by FY2028 (+114% from $60.73, ~29% CAGR) — **Probability: 25%**
+### 🟢 Bull Case — $130 by FY2028 (+97% from $66.04, ~25% CAGR) — **Probability: 25%**
 
 - 10X campus delivers on time (2028) and on budget ($1.25B)
 - Magnetics segment reaches $400M+ revenue by FY2028; $150M+ EBITDA contribution
@@ -381,7 +401,7 @@ The –39% pullback from $100.25 (Oct 2025) reflects post-deal-frenzy normalizat
 - Additional DoD heavy rare-earth contracts (HRE supply chain)
 - Revenue $1.0B+ by FY2028; EBITDA $500M+; multiple 22× = $130 EV/share
 
-### 🟡 Base Case — $82 by FY2028 (+35% from $60.73, ~11% CAGR) — **Probability: 50%**
+### 🟡 Base Case — $82 by FY2028 (+24% from $66.04, ~7% CAGR) — **Probability: 50%**
 
 - 10X progresses but early ramp is slower than 2028 commissioning targets suggest
 - Magnetics segment contributes $200–250M revenue; $80–100M EBITDA by FY2028
@@ -389,7 +409,7 @@ The –39% pullback from $100.25 (Oct 2025) reflects post-deal-frenzy normalizat
 - Saudi JV under construction, not yet contributing
 - Revenue $700–800M; EBITDA $300–350M; multiple 20× = $82 range
 
-### 🔴 Bear Case — $28 by FY2028 (–54% from $60.73, ~–22% CAGR) — **Probability: 25%**
+### 🔴 Bear Case — $28 by FY2028 (–58% from $66.04, ~–25% CAGR) — **Probability: 25%**
 
 - 10X ramp slips significantly (12–18+ month delay); cost overruns require additional equity
 - CEO succession or departure disrupts institutional confidence
@@ -410,25 +430,25 @@ The –39% pullback from $100.25 (Oct 2025) reflects post-deal-frenzy normalizat
 
 | Current Price | PW EV | Return (3-yr) | Annualized |
 |--------------|-------|--------------|-----------|
-| $60.73 | ~$80.50 | **+33%** | ~+10%/yr |
+| $66.04 | ~$80.50 | **+22%** | ~+7%/yr |
 
-**R/R**: Bull case (+114%) ÷ Bear case (–54%) = **~2.1:1 R/R**. Favorable, though not the extreme asymmetry of the pre-DoD-deal era. The DoD floor substantially cushioned the bear case (was –75%+ pre-partnership); the 10X commitment introduced the execution-risk bear case at –54%. Risk/reward remains positive but not overwhelmingly so at current price.
+**R/R**: Bull case (+97%) ÷ Bear case (–58%) = **~1.7:1 R/R** at $66.04 (was ~2.1:1 at $60.73). Asymmetry compressed by the +8.7% rally; DoD floor still cushions downside but the execution-risk bear case at $28 widens in % terms from a higher spot. Risk/reward remains positive but no longer compelling absent further dislocation.
 
-**Interpretation**: At $60.73, PW EV ~$80.50 implies +33% over 3 years (~+10%/yr). This is attractive for a Wide-moat, strategically-positioned compounder — but investors are paying for 2028 execution today. The thesis is not cheap by traditional metrics; it is attractively priced relative to what MP could become if the vertical integration thesis executes. Analyst median ($75–77) is below PW EV — reflecting that many models are conservative on Magnetics ramp. Bull case at 25% weight (vs. prior 30%) reflects the additional execution uncertainty introduced by the $1.25B 10X commitment. Bear case at 25% (vs. prior 20%) reflects elevated CEO insider sales and 10X risk; the floor from the DoD partnership prevents a deeper bear case.
+**Interpretation**: At $66.04, PW EV ~$80.50 implies +22% over 3 years (~+7%/yr). This is attractive for a Wide-moat, strategically-positioned compounder — but investors are paying for 2028 execution today. The thesis is not cheap by traditional metrics; it is attractively priced relative to what MP could become if the vertical integration thesis executes. Analyst median ($75–77) is below PW EV — reflecting that many models are conservative on Magnetics ramp. Bull case at 25% weight (vs. prior 30%) reflects the additional execution uncertainty introduced by the $1.25B 10X commitment. Bear case at 25% (vs. prior 20%) reflects elevated CEO insider sales and 10X risk; the floor from the DoD partnership prevents a deeper bear case.
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: MP Materials is the U.S.'s only scaled rare-earth + magnetics platform — vertically integrated from Mountain Pass mine to sintered NdFeB magnets — with a 10-year DoD $110/kg price floor and Apple/GM offtakes; at ~$60.73 the 3-year PW EV is ~$80.50 (+33%) and the strategic-asset optionality through 2028–2035 via the $1.25B 10X campus supports multi-year compounding if execution delivers.
+**Thesis in one sentence**: MP Materials is the U.S.'s only scaled rare-earth + magnetics platform — vertically integrated from Mountain Pass mine to sintered NdFeB magnets — with a 10-year DoD $110/kg price floor and Apple/GM offtakes; at $66.04 the 3-year PW EV is ~$80.50 (+22%, R/R ~1.7:1) and the strategic-asset optionality through 2028–2035 via the $1.25B 10X campus supports multi-year compounding if execution delivers.
 
-**For a non-holder**: 🟢 **Initiate** — but size appropriately for a thesis-in-execution story. Best entries in the $48–62 zone. Appreciate that this is a 3–5 year compounding thesis, not a 2026 multiple play. Median analyst target ($75–77) provides the near-term anchor; the $90 Wedbush bull case requires 10X progress.
+**For a non-holder**: 🟢 **Initiate on dips $52–62** — strategic-asset thesis intact but rally to $66 compresses asymmetry. Wait for entry zone re-test or material Q1 catalyst-driven dislocation. The $90 Wedbush bull case requires 10X progress; median analyst target ~$77 sits below current spot.
 
-**For a current holder**: 🟢 **Hold / Add** — incremental adds in $50–62 zone are well-rewarded relative to PW EV. Trim above $95–100 as discipline; the strategic-asset case argues for tolerating above-normal valuation. Monitor CEO insider sales (10b5-1 plan) — persistent selling above $64 is a yellow flag worth tracking quarterly.
+**For a current holder**: 🟡 **Hold** (was Hold/Add) — at $66 the +22% PW EV upside no longer justifies adding at the margin; the $52–62 entry zone is now the discipline. Trim above $92–108 as discipline. Monitor CEO insider sales (10b5-1 plan) quarterly.
 
-🎯 **Attractive entry zone**: **$48 – $62** (rationale: meaningful margin of safety on PW EV ~$80; captures DoD-floor cushion on the downside; multiple compression scenario shows support at $45–50)
+🎯 **Attractive entry zone**: **$52 – $62** (rationale: meaningful margin of safety on PW EV ~$80.50; captures DoD-floor cushion on the downside; tightened from $48–62 to reflect baseline drift higher)
 
-🎯 **Trim zone**: **$95 – $110** (rationale: approaching Wedbush $90 bull case; full-value territory on 2028 scenarios; requires continued execution confirmation)
+🎯 **Trim zone**: **$92 – $108** (rationale: approaches and clears Wedbush $90 bull-case anchor; full-value territory on 2028 scenarios; requires continued execution confirmation)
 
 🔴 **Exit / avoid zone**: **>$130** (rationale: prices in full bull case + strategic premium; demands multi-year perfect execution + NdPr above-floor normalization)
 

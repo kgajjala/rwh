@@ -1,25 +1,42 @@
 # LULU — Lululemon Athletica Inc.
 
 **Schema**: v2.9
-**Last Updated**: 2026-04-26
+**Last Updated**: 2026-05-01
 **Status**: Active
-**Live Price Verified**: **$143.80** on 2026-04-26 via [Yahoo Finance](https://finance.yahoo.com/quote/LULU) (prior close; data as of April 24, 2026 — most recent available)
+**Live Price Verified**: **$137.98** on 2026-05-01 via [Yahoo Finance](https://finance.yahoo.com/quote/LULU) (Apr 30, 2026 close; new 52-wk low $136.92 set during session)
 **Ticker Type**: Specialty Apparel / Athletic Lifestyle Retailer
 
 ---
 
 ## Summary
 
-- 🟡 **Thesis**: Lululemon is at a 57.7% drawdown from its $340 peak — either a 2014-style executional trough on a still-premium brand with a 29%-growth China engine and a new incoming CEO, or a structural brand-cycle peak as Vuori/Alo permanently capture premium women's athleisure share and tariffs compress margins below historical norms.
+- 🟡 **Thesis**: Lululemon is at a –59.4% drawdown from its $340 peak — either a 2014-style executional trough on a still-premium brand with a 29%-growth China engine and a new incoming CEO, or a structural brand-cycle peak as Vuori/Alo permanently capture premium women's athleisure share and tariffs compress margins below historical norms. **A new governance overhang (Wilson DFAN14A proxy fight + escrow/non-disparagement standoff) layers on a non-fundamental sentiment drag pre-2026 Annual Meeting.**
 - 🟡 **Moat**: **Narrow** — premium athleisure brand + DTC vertical model + proprietary fabric IP; contested by well-capitalized private competitors; markdown discipline cracks are the moat's leading-edge warning signal.
-- 🟡 **For a non-holder: Watch** at $143.80 — bias to **Initiate** below $135 on visible NA stabilization signal.
-- 🟡 **For a current holder: Hold** — asymmetry has shifted favorably at –58%; add only on weakness toward $130 or after Q1 FY26 confirms guide hold.
-- 🎯 **Attractive entry zone**: **$120 – $140** (~10–11× FY26E EPS; at/below 52-wk low; 1.3× EV/Sales — trough multiple).
-- 🎯 **Trim zone**: **$235 – $275** (19–22× FY26E EPS; mid-cycle re-rating on visible NA inflection).
-- 📅 **Next catalyst**: **Q1 FY26 earnings — early June 2026 (est.)**; **Heidi O'Neill (ex-Nike) starts as CEO September 8, 2026**.
-- ⚠️ **Top risk**: Vuori/Alo permanent share gain in core women's (high impact, ~50% prob) — most cited bear thesis; not yet priced into multiple.
-- ⚠️ **Second risk**: Brand-cycle peak analog (Crocs/Coach) where premium positioning collapses irreversibly (~20% prob, critical impact).
-- 🟡 **BAIT verdict**: **Double overlap (B Strong + A Moderate)** — Conviction **Moderate**. Decade-low P/E (~11.7×) + insider buy at lows + retained China growth constructive; inflection trigger unlikely before Holiday FY26 (January 2027 print). PW EV ~$192 (3-yr) → +34% / ~+10.2%/yr.
+- 🟡 **Verbs**: 🟡 Non-holder: **Watch** (Initiate <$135) · 🟡 Holder: **Hold**.
+
+**Scenario table** *(5-yr terminal per Rule #26; PW EV unchanged $192)*
+
+| 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|---|
+| $136.92 – $340.25 | $137.98 (~1%ile) | $80 | <$135 | $200 / **$192** | $235–275 | $290 | **2.6:1** (3.7:1 w/ Bull+ tail $360) |
+
+**KPI strip**
+
+| BAIT | Moat | FY26E P/E | FCF Yld | Short Int. | Next catalyst |
+|---|---|---|---|---|---|
+| Double (B+A) / Mod | Narrow | ~11.3× | ~5.5% | ~4.54% | Q1 FY26 (early Jun) |
+
+**Why / Why not**
+
+- 🟢 Decade-low P/E ~11.3× on $12.20 FY26E EPS midpoint; EV/Sales ~1.5× a 56–59% gross-margin DTC business
+- 🟢 China Mainland +29% FY25 / +20% FY26 guide, 40% segment op margin — structurally margin-accretive mix shift
+- 🟢 Maestrini interim co-CEO insider buy ~$494K @ ~$151 — strongest constructive insider signal in recent quarters
+
+- ⚠️ Vuori/Alo permanent US premium share capture — ~50% probability; not fully priced in
+- ⚠️ Wilson DFAN14A proxy fight + escrow/non-disparagement standoff overhang into 2026 Annual Meeting; LULU counter-alleges Wilson aided Alo + Vuori
+- ⚠️ Brand-cycle peak (Crocs/Coach analog) ~20% probability — would compress multiple to 8–9× and stock to $80–90
+
+📅 **Next read**: Q1 FY26 earnings — early June 2026 (est.); Heidi O'Neill (ex-Nike) starts as CEO Sep 8, 2026.
 
 ---
 
@@ -256,6 +273,7 @@ The arc reveals a framework that worked brilliantly from 2021–2023 (19–30% g
 | **China Mainland deceleration** | High | 20% | Not priced in | If China growth decelerates below +12%, the sole growth engine breaks. China at +20% is load-bearing for the bull case. Chinese consumer sentiment + geopolitical friction are the key sensitivities. |
 | **Mirror-style capital misallocation** | Low-Medium | 15% | Partially — Mirror write-off already occurred | O'Neill could bring new strategic initiatives that carry similar distraction/capital risk. History matters: LULU has demonstrated willingness to make large non-core bets. |
 | **Americas comp acceleration to –7%+** | Critical | 15% | Not priced in | Would trigger thesis-break. FY2025 Americas comp was –3%; Q4 was –4%. Trajectory matters more than level. |
+| **Governance / Wilson proxy fight** | Medium-High | 30% (proxy noise persists; <10% any nominee elected) | Not priced in | Founder Chip Wilson [DFAN14A letter Apr 29 2026](https://www.prnewswire.com/news-releases/chip-wilson-issues-letter-to-lululemon-shareholders-302756565.html) pressing 3 board nominees for 2026 Annual Meeting; escrow/non-disparagement standoff disclosed; LULU counters alleging Wilson aided Alo + Vuori (per [WWD](https://wwd.com/business-news/business-features/chip-wilson-lululemon-boardroom-battle-1238932315/)). Bracey ([ex-Unilever CGMO appointed Apr 28](https://www.stocktitan.net/news/LULU/lululemon-announces-appointment-of-esi-eggleston-bracey-to-board-of-my7x1cfe0g5z.html)) is incumbent counter-move. Tied to a thesis-break trigger (any Wilson nominee elected, or settlement reversing 2024 strategic plan). |
 
 ### 5-Year Risk Factor Evolution
 
@@ -316,14 +334,14 @@ Comparing the FY2025 and FY2024 10-K Item 1A disclosures reveals two material ad
 
 ### Live Price & Positioning
 
-*Source: [Yahoo Finance — LULU](https://finance.yahoo.com/quote/LULU) (April 24, 2026)*
+*Source: [Yahoo Finance — LULU](https://finance.yahoo.com/quote/LULU) (Apr 30, 2026 close)*
 
-- **Price**: $143.80 (most recent close; +$2.14 / +1.5% session)
-- **52-week range**: $141.33 – $340.25
-- **% from 52-wk high**: –57.7%
-- **% above 52-wk low**: +1.7% (essentially at cycle lows)
-- **Market cap**: ~$17.4B | **EV**: ~$17.35B
-- **Short interest**: 4.54% of float ([Finviz, April 24, 2026](https://finviz.com/quote.ashx?t=LULU))
+- **Price**: $137.98 (−4.0% from $143.80 prior baseline; new 52-wk low $136.92 set during session)
+- **52-week range**: $136.92 – $340.25
+- **% from 52-wk high**: –59.4%
+- **% above 52-wk low**: +0.8% (essentially at cycle lows)
+- **Market cap**: ~$16.7B | **EV**: ~$16.65B
+- **Short interest**: ~4.54% of float ([Finviz](https://finviz.com/quote.ashx?t=LULU))
 
 ### Analyst Consensus (April 2026)
 
@@ -366,6 +384,8 @@ The Maestrini buy is the most actionable insider signal — an interim CEO purch
 
 ### Recent Corporate News (Last 90 Days)
 
+- **[2026-04-29] [Governance]** — ⚠️ Founder Chip Wilson files [DFAN14A letter to shareholders](https://www.prnewswire.com/news-releases/chip-wilson-issues-letter-to-lululemon-shareholders-302756565.html) pressing 3 board nominees for the 2026 Annual Meeting; escrow / non-disparagement standoff disclosed. Lululemon counter-alleges Wilson aided Alo + Vuori (per [WWD coverage](https://wwd.com/business-news/business-features/chip-wilson-lululemon-boardroom-battle-1238932315/)). Stock to new 52-wk low ~$137.
+- **[2026-04-28] [Board]** — [Esi Eggleston Bracey (ex-Unilever CGMO) appointed to board](https://www.stocktitan.net/news/LULU/lululemon-announces-appointment-of-esi-eggleston-bracey-to-board-of-my7x1cfe0g5z.html); read as incumbent counter-move ahead of Wilson proxy push.
 - **[2026-04-23] [Management]** — Heidi O'Neill (ex-Nike) named CEO effective Sep 8, 2026; stock –13% session ([Lululemon press release](https://corporate.lululemon.com/media/press-releases))
 - **[2026-03-17] [Earnings/10-K]** — Q4 FY2025 / FY2025 full-year results; FY2026 guidance issued below consensus ([Lululemon press release](https://corporate.lululemon.com/media/press-releases); [10-K filed SEC EDGAR](https://www.sec.gov/Archives/edgar/data/1397187/000139718726000020/0001397187-26-000020-index.htm))
 - **[2025-12-11] [Management]** — CEO succession plan announced; Calvin McDonald stepping down ([Lululemon press release](https://corporate.lululemon.com/media/press-releases))
@@ -375,6 +395,7 @@ The Maestrini buy is the most actionable insider signal — an interim CEO purch
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
+| 📅 **2026 Annual Meeting (date TBD)** | **Wilson proxy vote** | ⚠️ Vote outcome on Wilson's 3 nominees; settlement-vs.-fight binary; thesis-break trigger if any nominee elected |
 | 📅 **Early June 2026 (est.)** | **Q1 FY26 earnings** | Tests $2.40–2.43B Q1 guide; first print under new tariff regime; NA comp trajectory |
 | 📅 **Sep 8, 2026** | **Heidi O'Neill becomes CEO** | Strategic reset signal; first formal product/strategic communication |
 | 📅 **Early Sep 2026** | Q2 FY26 earnings | Last quarter under interim leadership |
@@ -466,15 +487,15 @@ Underappreciated primary-source disclosures:
 
 | Current Price | PW EV | Return (3-yr) | Annualized CAGR |
 |--------------|-------|--------------|----------------|
-| $143.80 | ~$192 | **+33.5%** | **~+10.1%/yr** |
+| $137.98 | ~$192 | **+39.2%** | **~+11.6%/yr** |
 
 **R/R calculation** (per Rule #26 — anchored to Section 11 Bull / Bear midpoints):
-- Upside (Bull): $290 – $143.80 = +$146.20 / +101.7%
-- Downside (Bear): $143.80 – $80 = $63.80 / –44.4%
-- **Headline R/R: ~2.3:1 (Bull/Bear)**; rises to ~3.5:1 using Bull+ tail ($360 vs. $80)
+- Upside (Bull): $290 – $137.98 = +$152.02 / +110.2%
+- Downside (Bear): $137.98 – $80 = $57.98 / –42.0%
+- **Headline R/R: ~2.6:1 (Bull/Bear)**; rises to ~3.7:1 using Bull+ tail ($360 vs. $80)
 - **At $135 entry** (target initiation zone): R/R improves to ~2.9:1 Bull/Bear
 
-**Interpretation**: PW EV of ~$192 is +33.5% above spot, implying acceptable but not outstanding expected return (+10%/yr) over a 3-year horizon. The R/R of ~2.3:1 reflects a real 25% bear-case probability — this is not a high-asymmetry setup like a typical BAIT 4-overlap situation. The return is reasonable for patient capital, particularly below $135 where R/R improves. The key variable is whether the bear-case probability falls (NA stabilizes) or rises (brand-cycle peak confirmed) — the next 2 quarters of earnings will be the determinant.
+**Interpretation**: PW EV of ~$192 is +39.2% above spot at $138, implying improved expected return (~+11.6%/yr) over a 3-year horizon — asymmetry has marginally widened on the −4% drawdown. The R/R of ~2.6:1 reflects a real 25% bear-case probability plus the new (non-fundamental) governance overhang. The key variable remains whether the bear-case probability falls (NA stabilizes) or rises (brand-cycle peak confirmed) — the next 2 quarters of earnings will be the determinant. Wilson proxy noise is monitor-only unless it escalates to nominee election or settlement reversing the 2024 strategic plan.
 
 ---
 
@@ -482,7 +503,7 @@ Underappreciated primary-source disclosures:
 
 **Thesis in one sentence**: Lululemon's 57% drawdown from peak has created a decade-trough P/E (~11.7×) on a brand with 29% China growth, $17.4B market cap, and a management team with a credible (if uncertain) turnaround plan — but the bear case (permanent Vuori/Alo share capture + tariff structural compression) carries a 25% probability that prevents a high-conviction initiation.
 
-**For a non-holder**: 🟡 **Watch** at $143.80 with bias to **Initiate** below $135. The Maestrini insider buy at ~$151 + decade-low P/E + retained China Mainland growth engine are constructive signals. However, CEO uncertainty (5-month interim before O'Neill starts), declining FY26 EPS ($12.10–12.30 vs. $13.26 in FY25), a real 25% bear-case probability, and an analyst consensus that has been consistently cutting targets argue for discipline. A $130 entry improves the R/R meaningfully and provides a better entry ahead of the Q1 FY26 print. Wait for either (a) clear Americas comp stabilization signal or (b) the stock trading below $130.
+**For a non-holder**: 🟡 **Watch** at $137.98 with bias to **Initiate** below $135. The Maestrini insider buy at ~$151 + decade-low P/E + retained China Mainland growth engine are constructive signals. However, CEO uncertainty (5-month interim before O'Neill starts), declining FY26 EPS ($12.10–12.30 vs. $13.26 in FY25), a real 25% bear-case probability, the new Wilson proxy-fight overhang into the 2026 Annual Meeting, and an analyst consensus that has been consistently cutting targets argue for discipline. A sub-$135 entry improves the R/R meaningfully and provides a better entry ahead of the Q1 FY26 print. Wait for either (a) clear Americas comp stabilization signal or (b) the stock trading below $135.
 
 **For a current holder**: 🟡 **Hold**. Do not exit at –58%; the asymmetry has shifted in your favor. The PW EV of $192 implies meaningful upside even from a below-consensus starting point. Add only on weakness toward $130 or after Q1 FY26 confirms guide hold without downward revision. Trim only on recovery toward $200+ if Americas inflection has not yet shown in the data.
 
@@ -502,6 +523,7 @@ Underappreciated primary-source disclosures:
 - ⚠️ Tariff headwind expands above **$450M** in FY2026 (implies tariff regime escalation beyond current models)
 - ⚠️ Vuori or Alo discloses or reports revenue **>$2.5B** (signals permanent structural share loss)
 - ⚠️ FY2026 full-year EPS guide revised **below $11.00** (implies more than one additional EPS inflection)
+- ⚠️ **Proxy escalation: any Wilson nominee elected at the 2026 Annual Meeting OR settlement requiring board recomposition that reverses the 2024 strategic plan** (would invalidate the O'Neill mandate and Power-of-Three execution path)
 
 📅 **Next review trigger**: **Q1 FY26 earnings — early June 2026 (est.)**. Key items to monitor: (1) Q1 revenue vs. $2.40–2.43B guide; (2) Americas comp rate vs. Q4 FY25's –3%; (3) China comp rate vs. +20% guide; (4) Any FY2026 full-year guide revision; (5) Any commentary from O'Neill on strategic priorities before her formal start; (6) Gross margin trajectory on tariff absorption.
 

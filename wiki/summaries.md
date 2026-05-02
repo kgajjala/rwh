@@ -19,7 +19,7 @@ Manual edits below the table are preserved across runs.
 
 | Date | Material Events | Quiet | Headline | File |
 |------|----------------|-------|----------|------|
-| _no runs yet — routine first fires 2026-05-01_ | | | | |
+| 2026-05-01 | 10 | 27 | LLY +56% rev / MSFT $190B capex / BKNG ME cut / AMZN ATH | [outputs/weekly/2026-05-01_weekly_summary.md](../outputs/weekly/2026-05-01_weekly_summary.md) |
 
 ---
 

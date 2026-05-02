@@ -22,39 +22,39 @@ governs weekly cron coverage (Core Rule #15).
 | [ABNB](tickers/ABNB/ABNB.md) | Active | Airbnb | Wide | Medium | 2026-04-24 | v2.4 ingest — Watch / Hold; attractive entry $120–130 |
 | [ACLS](tickers/ACLS/ACLS.md) | Active | Axcelis Technologies | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch / Hold; momentum-late |
 | [ADBE](tickers/ADBE/ADBE.md) | Active | Adobe | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate / Add |
-| [AMZN](tickers/AMZN/AMZN.md) | Active | Amazon | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate / Hold-Add |
-| [BKNG](tickers/BKNG/BKNG.md) | Active | Booking Holdings | Wide | High | 2026-04-24 | v2.1 — Triple BAIT (B+A-Strong); Initiate / Hold-Add |
+| [AMZN](tickers/AMZN/AMZN.md) | Active | Amazon | Wide | High | 2026-05-01 | Q1 FY26 — AWS +28%, EPS +70% beat; ATH $265; R/R 1.4:1 → Watch / Hold |
+| [BKNG](tickers/BKNG/BKNG.md) | Active | Booking Holdings | Wide | High | 2026-05-01 | Q1 beat-and-cut on Iran/Hormuz; $3.6B Q1 buyback acceleration; Initiate / Add at $168 |
 | [BRK.B](tickers/BRK.B/BRK.B.md) | Active | Berkshire Hathaway | Wide | Medium-High | 2026-04-25 | v2.5 ingest — Triple BAIT (B+I-Strong); Initiate (small/scaled) / Hold-Add; Abel succession discount |
 | [CELH](tickers/CELH/CELH.md) | Active | Celsius Holdings | Narrow | Medium | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate small / Hold-Add |
 | [CPNG](tickers/CPNG/CPNG.md) | Active | Coupang | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT (B+A-Strong); Initiate / Add modestly |
 | [DASH](tickers/DASH/DASH.md) | Active | DoorDash | Narrow | Medium | 2026-04-25 | v2.9 13-section refactor + competitive landscape (DASH 60-67% US, 3× Uber Eats; international Wolt+Deliveroo footprint); Wolt-precedent integration de-risks Deliveroo; Watch / Hold (Add <$155) |
 | [DELL](tickers/DELL/DELL.md) | Active | Dell Technologies | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch (consensus < spot); insider selling |
-| [EBAY](tickers/EBAY/EBAY.md) | Active | eBay | Narrow | Medium | 2026-04-24 | v2.4 ingest — Watch / selective Initiate / Hold |
+| [EBAY](tickers/EBAY/EBAY.md) | Active | eBay | Narrow | Medium | 2026-05-01 | Q1 beat (rev +19%, GMV +14% FXN); R/R 1.0:1; Watch / Hold-Trim into $115+ |
 | [FIG](tickers/FIG/FIG.md) | Active | Figma | Narrow-Emerging Wide | Medium | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate (small, contrarian) / Hold-Add |
 | [HOOD](tickers/HOOD/HOOD.md) | Active | Robinhood Markets, Inc. | Narrow-and-Widening | Moderate-High | 2026-04-29 | Post-Q1 reset to $70.29 (–14% session) — Q1 call confirmed structural diversification (margin book +93%, Gold card $15B annualized spend, Rothera April $3B second-highest month); crypto "about similar to Q1" in April removes near-term recovery. R/R ≈5.5:1 at $70; PW EV ~$108 (+54%). **Initiate / Add** at $65–80 |
 | [INTU](tickers/INTU/INTU.md) | Active | Intuit | Wide | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT; 17× FY26E NGAAP at decade-low; Initiate / Add |
 | [KGS](tickers/KGS/KGS.md) | Active | Kodiak Gas Services | Narrow | Low-Moderate | 2026-04-26 | v2.9 — Double BAIT (A+I+T Mod); R/R ~1:1 at 52-wk high; Watch / Hold |
-| [LLY](tickers/LLY/LLY.md) | Active | Eli Lilly | Wide | High | 2026-04-26 | v2.9 — Triple BAIT (A+I-Strong); orforglipron approved Apr 1; Initiate / Hold-Add on pullback |
+| [LLY](tickers/LLY/LLY.md) | Active | Eli Lilly | Wide | High | 2026-05-01 | Q1 +56% rev / Mounjaro +125% / FY26 guide raised; Triple BAIT; Initiate / Hold-Add at ~$974 |
 | [LNTH](tickers/LNTH/LNTH.md) | Active | Lantheus Holdings | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (A+I Mod); binary 2026 PDUFA event-setup; Watch / Hold |
-| [LULU](tickers/LULU/LULU.md) | Active | Lululemon Athletica | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (B-Strong + A-Mod); Watch / Initiate <$135 / Hold; ex-Nike CEO Sept 2026 |
-| [MP](tickers/MP/MP.md) | Active | MP Materials | Wide-Strategic | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT (A+I-Strong); DoD floor + Apple/GM offtakes; Initiate / Hold-Add |
-| [MSFT](tickers/MSFT/MSFT.md) | Active | Microsoft | Wide | High | 2026-04-26 | v2.9 — **Quadruple BAIT** (B+A+T-Strong, I-Mod); Initiate / Add; Q3 Apr 29 binary |
+| [LULU](tickers/LULU/LULU.md) | Active | Lululemon Athletica | Narrow | Moderate | 2026-05-01 | Wilson DFAN14A proxy fight + Bracey board addition; new 52-wk low ~$138; Watch / Initiate <$135 / Hold |
+| [MP](tickers/MP/MP.md) | Active | MP Materials | Wide-Strategic | Moderate-High | 2026-05-01 | Wedbush OP $90 + MS PT cut cluster; +9% to $66.04; R/R 1.7:1; Initiate dips $52–62 / Hold |
+| [MSFT](tickers/MSFT/MSFT.md) | Active | Microsoft | Wide | High | 2026-05-01 | Q3 FY26 — Azure +40%, EPS +23%; FY26 capex $190B drove –5–6% sell-off to ~$414; Hold/Add <$420 |
 | [NFLX](tickers/NFLX/NFLX.md) | Active | Netflix | Wide & Widening | Moderate | 2026-04-26 | v2.9 — Triple BAIT (B+A+I-Mod); FY26 op-margin 31.5%; Initiate (small, scaled); entry $80–88 |
 | [NKE](tickers/NKE/NKE.md) | Active | Nike | Wide | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT; CEO Hill $1M buy; 3.67% yield 20-yr high; Initiate / Add at 12-yr low |
 | [ONON](tickers/ONON/ONON.md) | Active | On Holding | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (B-Strong + A-Mod); +23% c-c at 62.8% GM; Initiate / Add |
 | [PG](tickers/PG/PG.md) | Active | Procter & Gamble | Wide (cyclical pressure) | Moderate | 2026-04-26 | v2.9 — Q3 FY26 print delivered first co-wide volume growth in over a year; Watch / Hold |
 | [RH](tickers/RH/RH.md) | Active | RH (Restoration Hardware) | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (B-Strong, T-Mod via 35.6% short); deep cyclical trough; Watch / selective Initiate |
-| [RIVN](tickers/RIVN/RIVN.md) | Active | Rivian Automotive | Narrow | Moderate | 2026-04-26 | v2.9 — Triple BAIT (Mod); R2 production live Apr 22; Watch / small Initiate; Q1 Apr 30 |
+| [RIVN](tickers/RIVN/RIVN.md) | Active | Rivian Automotive | Narrow | Moderate | 2026-05-01 | Q1 EPS beat; $4.5B DOE loan + R2 saleable; ~$8B liquidity; PW EV $21.10; Watch / Hold |
 | [RKT](tickers/RKT/RKT.md) | Active | Rocket Companies | Narrow-Emerging Wide | Moderate | 2026-04-26 | v2.9 — Double BAIT (B+A); R/R ~3:1; Initiate Spec. / Hold-Add; Q1 May 7 |
 | [SBUX](tickers/SBUX/SBUX.md) | Active | Starbucks | Wide | Moderate | 2026-04-28 | Q2 FY26 turnaround confirmed — US comp +7.1% / txns +4.3% / op margin +110 bps; FY26 guide raised to ≥5%/$2.25–$2.45; 🟢 Initiate-on-dip / Hold |
 | [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Wide & Widening | High | 2026-04-26 | v2.9 — Triple BAIT (B+A+I-Strong); Q1 BEAT, FY26 guide raised >$5.80; Initiate / Add |
 | [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide & Widening | High | 2026-04-25 | v2.9 13-section refactor — Section 1 retired, Sections 3+4 merged; competitive landscape (Shopify 30% US, 3× Wix global); first-ever $2B buyback; Initiate / Add-Hold |
 | [SN](tickers/SN/SN.md) | Active | SharkNinja | Narrow & Widening | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT; +24% (FY24) at 17%+ adj EBITDA; tariff overhang largely de-risked; Initiate |
-| [SPOT](tickers/SPOT/SPOT.md) | Active | Spotify Technology | Wide & Widening | Moderate-High | 2026-04-28 | v2.9 ingest — 2 Strong / 2 Mod BAIT; FY25 op-inc +61% / FCF €2.87B; today's –13% on Q1 2026 op-guide miss = first attractive entry in 12mo; Watch / Initiate $400–450; Hold |
+| [SPOT](tickers/SPOT/SPOT.md) | Active | Spotify Technology | Wide & Widening | Moderate-High | 2026-05-01 | Post-Q1 6+-firm PT cluster (median $668→$607) compressed upside band; spot $442; PW EV $540 unchanged; Watch / Initiate $400–450 / Hold |
 | [TREX](tickers/TREX/TREX.md) | Active | Trex Company | Narrow & Widening | Moderate | 2026-04-26 | v2.9 — Double BAIT (B+A Mod); housing-cyclical trough + $200M buyback; Initiate (patient) / Hold |
 | [TSLA](tickers/TSLA/TSLA.md) | Active | Tesla | Narrow auto + Optional Wide autonomy | Moderate | 2026-04-26 | v2.9 — Quadruple BAIT (Mod); R/R ~1.4:1 not asymmetric; Hold / Watch; entry $280–320 |
 | [UNH](tickers/UNH/UNH.md) | Active | UnitedHealth Group | Wide | High | 2026-04-28 | v2.9 — Quadruple BAIT; Q1 BEAT + **CMS 2027 MA Final Rate ≈+2% (2026-04-28)** = double de-risk; ≈$368 (+14% week); Initiate / Add |
-| [WING](tickers/WING/WING.md) | Active | Wingstop | Narrow | Lower-Moderate | 2026-04-29 | Q1 FY26 SSS –8.7% broke –7% thesis-break trigger; FY26 guide cut. EBITDA/EPS held. Watch / Reduce on bounce |
+| [WING](tickers/WING/WING.md) | Active | Wingstop | Narrow | Lower-Moderate | 2026-05-01 | 5-firm post-Q1 analyst cluster confirms thesis-weakening (Goldman Buy→Neutral $190); zones unchanged; Watch / Reduce on bounce |
 | [ZG](tickers/ZG/ZG.md) | Active | Zillow Group | Wide consumer / Narrow agent | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT (B+A Strong, I-Mod); super-app pivot working; Initiate / Add |
 
 ---

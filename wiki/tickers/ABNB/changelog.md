@@ -4,6 +4,24 @@
 
 ---
 
+## [2026-05-01] — No Material Events
+
+**Lookback window**: 2026-04-26 → 2026-05-01
+**Sources scanned**: IR, SEC EDGAR, analyst feed, short-interest, insider feed, news
+
+### Snapshot
+- Price: **$140.36** (Δ vs. last entry: **−1.7%** from $142.82) — [WallStreetZen ABNB forecast](https://www.wallstreetzen.com/stocks/us/nasdaq/abnb/stock-forecast)
+- 52-wk range: $110.81 – $147.25 (% from high: **−4.7%**)
+- Short interest: not freshly polled — prior baseline holds
+- Analyst consensus: median target $150.10 across 33 analysts; recent: Tigress Financial / Wells Fargo / Truist all clustered ~$150 in late-March/early-April (already in baseline) — [TIKR Q1 preview](https://www.tikr.com/blog/airbnb-stock-pulls-back-before-earnings-is-210-fair-value-still-possible)
+- News scanned and dismissed:
+  - Q1 print expected May 7, 2026 post-close — pre-print drift; no thesis-changing news in window
+
+**Recommendation**: Unchanged.
+**Next review trigger**: **Q1 2026 earnings — May 7, 2026 post-close** (tests $2.59–2.63B revenue guide / GBV growth low-teens / Experiences scaling; first post-print weekly will absorb).
+
+---
+
 ## [2026-04-26] — v2.6+v2.7+v2.8 Retrofit (Schema Refactor)
 
 **Trigger**: Batch retrofit applying v2.6 (shareholder-letter + 10-K MD&A primary-source synthesis), v2.7 (5-year baselines + Pattern B quarterly-letter substitution), and v2.8 (synthesis discipline, output discipline, moat-section consolidation, competitive-landscape integration, risk-factor materiality filter, R/R discipline). No new earnings event since prior baseline.

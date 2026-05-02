@@ -340,7 +340,17 @@ Implication: at $16.54, the market is pricing the auto business at roughly its s
 
 ### Recent Corporate News (Last 90 Days)
 
-- ✅ **[2026-04-30] [Earnings — Delivered]** — **Q1 2026 print**: rev $1.4B (+11% YoY), GP $119M (~9%), **EPS −$0.33 vs. −$0.63 Street (~$0.30 beat)**, Adj EBITDA −$472M, deliveries 10,365 / production 10,236. **R2 saleable status reached** — employee deliveries underway. **$4.5B DOE loan** announced for Georgia plant (capacity raised 50% to 300K, total US footprint 515K). **$2.55B confirmed VW + Uber 2026 capital** → ~$8B liquidity. Stock −8% on session as focus shifted from cash-burn to R2 demand. ([Q1 2026 transcript](https://www.fool.com/earnings/call-transcripts/2026/04/30/rivian-rivn-q1-2026-earnings-call-transcript/), [8-K](https://www.stocktitan.net/sec-filings/RIVN/8-k-rivian-automotive-inc-de-reports-material-event-29c5ad6aa96b.html), [Stock Market Today May 1](https://www.fool.com/coverage/stock-market-today/2026/05/01/stock-market-today-may-1-rivian-falls-after-investors-focus-on-cash-burn-despite-beating-q1-expectations/))
+- ✅ **[2026-04-30] [Earnings — Delivered] Q1 2026 print** ([Q1 transcript](https://www.fool.com/earnings/call-transcripts/2026/04/30/rivian-rivn-q1-2026-earnings-call-transcript/) · [8-K](https://www.stocktitan.net/sec-filings/RIVN/8-k-rivian-automotive-inc-de-reports-material-event-29c5ad6aa96b.html) · [Stock Market Today May 1](https://www.fool.com/coverage/stock-market-today/2026/05/01/stock-market-today-may-1-rivian-falls-after-investors-focus-on-cash-burn-despite-beating-q1-expectations/)):
+  - Q1 revenue: $1.4B (+11% YoY)
+  - Q1 gross profit: $119M (~9% GM)
+  - Q1 EPS: **−$0.33** (vs. −$0.63 Street — ~$0.30 beat)
+  - Q1 Adj EBITDA: −$472M
+  - Q1 deliveries: 10,365
+  - Q1 production: 10,236
+  - **R2 saleable status reached** — employee deliveries underway
+  - **DOE loan: $4.5B** (Georgia plant; capacity raised 50% to 300K; total US footprint 515K)
+  - **VW + Uber 2026 capital confirmed: $2.55B** → ~$8B total liquidity
+  - Stock reaction: −8% on session as focus shifted from cash-burn to R2 demand
 - ✅ **[2026-04-22] [Operational — Delivered]** — R2 production officially started at Normal, IL — five days after EF-1 tornado hit Building 2 ([Electrek](https://electrek.co/2026/04/22/rivian-r2-starts-production-tornado-deliveries-spring/), [CNBC](https://www.cnbc.com/2026/04/22/rivian-r2-ev.html)). Performance AWD Launch $57,990; deliveries spring 2026.
 - 💰 **[2026-03-27] [Strategic]** — VW JV unlocked another **$1B milestone tranche** ([Electrek JV milestone](https://electrek.co/2026/03/27/volkswagen-groups-joint-venture-with-rivian-hits-latest-milestone-unlocking-another-1b-for-the-ev-automaker/)). Brings cumulative tranches received past $2B of the $5.8B total.
 - **[2026-04-02] [Operational]** — Q1 2026 production/delivery release: 10,236 / **10,365** ([Rivian newsroom](https://rivian.com/newsroom/article/rivian-releases-q1-2026-production-and-delivery-figures)); FY guide reaffirmed at 62–67K.

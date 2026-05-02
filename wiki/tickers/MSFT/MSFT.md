@@ -383,7 +383,14 @@ The growth vectors that justify a premium multiple beyond the 15% organic revenu
 - No notable open-market buys reported among NEOs in the window
 
 ### Recent Corporate News (Last 90 Days)
-- ✅ **[2026-04-29] [Earnings Q3 FY26 — Delivered]** — Revenue $82.9B (+18%); op income $38.4B (+20%); GAAP NI $31.8B (+23%); EPS $4.27 (+23%); **Azure +40%** (above consensus +35–37%); More Personal Computing $13.2B (−1%, first decline). **FY26 capex guide ~$190B** (vs. ~$80–90B Street est.) drove –5–6% post-print sell-off — capex sticker shock dominated the tape ([MSFT IR Q3 FY26 PR](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q3/press-release-webcast); [CNBC](https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html); [24/7 Wall St — capex analysis](https://247wallst.com/investing/2026/04/30/the-incredible-number-hiding-in-microsofts-earnings-report/))
+- ✅ **[2026-04-29] [Earnings — Delivered] Q3 FY26 print** ([MSFT IR Q3 FY26 PR](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q3/press-release-webcast) · [CNBC](https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html) · [24/7 Wall St — capex analysis](https://247wallst.com/investing/2026/04/30/the-incredible-number-hiding-in-microsofts-earnings-report/)):
+  - Q3 revenue: $82.9B (+18% YoY)
+  - Q3 operating income: $38.4B (+20% YoY)
+  - Q3 GAAP net income: $31.8B (+23% YoY)
+  - Q3 EPS: $4.27 (+23% YoY)
+  - Q3 Azure growth: **+40% YoY** (above consensus +35–37%)
+  - Q3 More Personal Computing revenue: $13.2B (−1% YoY — first segment decline)
+  - **FY26 capex guide: ~$190B** (vs. ~$80–90B Street est.) — drove −5–6% post-print sell-off
 - **[2026-01-28] [Earnings Q2 FY26]** — Revenue $81.3B (+17%, +15% CC); op income $38.3B (+21%); GAAP NI $38.5B (+60%); Azure +39%; capex $37.5B; commercial RPO $625B (+110%); $12.7B returned to shareholders ([MSFT IR PR Q2 FY26](https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast))
 - **[2025-10] [Earnings Q1 FY26]** — Revenue $77.7B; op income $38.0B; Azure +40% (peak); 15M paid M365 Copilot seats KPI introduced ([MSFT IR Q1 FY26](https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q1/))
 - **[Ongoing]** — OpenAI partnership status / structural negotiations [link pending]

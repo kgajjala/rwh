@@ -369,7 +369,11 @@ The trough-vs-normalized framing has shifted: this is no longer a "trough multip
 
 ### Recent Corporate News (Last 90 Days)
 
-- ✅ **[2026-04-29] [Earnings]** — Q1 2026 beat: revenue **$3.09B (+19%)**, GMV **$22.2B (+14% FXN)**, NGAAP EPS **$1.66** vs. $1.58 Street; Q2 guide implies 4–6pp FXN deceleration ([Q1 2026 PR (StockTitan)](https://www.stocktitan.net/news/EBAY/e-bay-inc-reports-first-quarter-2026-ocl9fic0so92.html); [Q1 2026 transcript (Investing.com)](https://www.investing.com/news/transcripts/earnings-call-transcript-ebay-q1-2026-earnings-beat-expectations-stock-rises-93CH-4647423))
+- ✅ **[2026-04-29] [Earnings — Delivered] Q1 2026 beat** ([Q1 PR (StockTitan)](https://www.stocktitan.net/news/EBAY/e-bay-inc-reports-first-quarter-2026-ocl9fic0so92.html) · [transcript (Investing.com)](https://www.investing.com/news/transcripts/earnings-call-transcript-ebay-q1-2026-earnings-beat-expectations-stock-rises-93CH-4647423)):
+  - Q1 revenue: **$3.09B (+19% YoY)**
+  - Q1 GMV: **$22.2B (+14% FXN)**
+  - Q1 NGAAP EPS: **$1.66** (vs. $1.58 Street)
+  - Q2 guide: implies 4–6pp FXN deceleration vs. Q1
 - 🟢 **[2026-04-30] [Analyst]** — 4-firm PT-raise cluster: Goldman $88→$100, Stifel $94→$98, UBS $96→$110, Evercore raised ([UBS PT $110 (Yahoo)](https://finance.yahoo.com/markets/stocks/articles/ubs-raises-ebay-price-target-152957772.html))
 - **[2026-04-29] [Strategic]** — Depop $1.2B acquisition reaffirmed on track to close end-Q3 2026 (per Q1 transcript)
 - **[2026-02-19] [Earnings]** — Q4 2025 / FY2025 results: revenue +15% Q4, GMV +10%; **$2.0B incremental buyback authorization**; dividend +7% to $0.31/qtr ([Q4 2025 PR](https://www.prnewswire.com/news-releases/ebay-inc-reports-fourth-quarter-and-full-year-2024-results-302386541.html); [10-K FY2025](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm))

@@ -402,7 +402,11 @@ Across the FY2020 → FY2024 10-K Item 1A windows, the most material risk-factor
 - Glenn Fogel **voluntary pay cut in 2025** ([Skift](https://skift.com/2026/04/14/booking-ceo-glenn-fogel-took-pay-cut-in-2025-after-2-big-years/)) — stewardship-positive
 
 ### Recent Corporate News (last 90 days)
-- ✅ **[2026-04-28] [Earnings]** — **Q1 2026: revenue $5.53B (+16%), EPS $1.14 — beat**; Q2 guide cut (room nights +2–4% vs. Q1 +6%) on assumed Iran/ME travel disruption through end-June; **$3.6B Q1 buyback** (~$14B annualized) ([BKNG Q1 2026 PR](https://s201.q4cdn.com/865305287/files/doc_financials/2026/q1/Q1-2026-BKNG-Earnings-Release.pdf); [transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/04/28/booking-bkng-q1-2026-earnings-transcript/); [Benzinga — Hormuz/guide cut](https://www.benzinga.com/markets/equities/26/04/52127365/booking-holdings-bkng-q1-2026-earnings-hormuz-crisis-guidance-cut)) ✅ **Delivered**
+- ✅ **[2026-04-28] [Earnings — Delivered] Q1 2026** ([Q1 PR](https://s201.q4cdn.com/865305287/files/doc_financials/2026/q1/Q1-2026-BKNG-Earnings-Release.pdf) · [transcript](https://www.fool.com/earnings/call-transcripts/2026/04/28/booking-bkng-q1-2026-earnings-transcript/) · [Benzinga — Hormuz/guide cut](https://www.benzinga.com/markets/equities/26/04/52127365/booking-holdings-bkng-q1-2026-earnings-hormuz-crisis-guidance-cut)):
+  - Q1 revenue: $5.53B (+16% YoY) — beat
+  - Q1 EPS: $1.14 — beat
+  - Q1 buyback: $3.6B (~$14B annualized vs. prior $6B/yr cadence)
+  - Q2 room-night growth guide: +2–4% (cut from Q1 +6%) on assumed Iran/ME travel disruption through end-June
 - 💰 **[2026-04-02] [Capital]** — 25-for-1 stock split effective; split-adjusted trading from Apr 6 ([BKNG IR](https://www.bookingholdings.com/news/))
 - ⚠️ **[2026-04 (mid)] [Regulatory]** — Italian competition authority investigation into Booking.com commercial practices; data-access incident confirmed ([stockanalysis.com](https://stockanalysis.com/stocks/bkng/))
 - **[2026-04 (mid)] [Strategic]** — OpenTable acquired Canadian reservation platform **Libro**; Connected Trip restaurant-vertical extension

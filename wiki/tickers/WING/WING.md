@@ -375,7 +375,13 @@ The relevant inside-corporate signal is the **company's own buying** at $241.65 
 ### Recent Corporate News (Last 90 days)
 
 - 🔴 **[2026-04-29 → 2026-05-01] [Analyst cluster]** — **5-firm post-Q1 reset within 48hr**: Goldman Buy→Neutral $190 (headline downgrade); TD Cowen Hold $175; Mizuho $310→$280; BMO $280→$200 ([Investing.com](https://www.investing.com/news/analyst-ratings/bmo-pt-cut-200-wing)); Wells Fargo $200; Goldman cut ([Investing.com](https://www.investing.com/news/analyst-ratings/goldman-cuts-wingstop-rating)). **Consensus center-of-gravity reset to $190–$200**, aligning with §11 Base. Stock recovered to $171 (+3.2% off intraday low) as the reset matched, did not undercut, the page's already-applied bear read.
-- 🔴 **[2026-04-29] [Earnings]** — **Q1 2026: Domestic SSS -8.7%** (vs. Q4 -5.8%; sequential WORSENING); Revenue $183.7M (+7.4%; **missed $192.9M est**); Adj EBITDA $65.4M (+9.9%); **Adj EPS $1.18 (beat $1.03 est by 15%)**; 97 net new units (+17% YoY total → 3,153); FY26 SSS guide cut from "flat to LSD" to **"low-single-digit DECLINE"** ([StockStory summary](https://stockstory.org/us/stocks/nasdaq/wing/news/earnings/wingstop-nasdaqwing-reports-sales-below-analyst-estimates-in-q1-cy2026-earnings-stock-drops); [8-K aggregator](https://www.stocktitan.net/sec-filings/WING/8-k-wingstop-inc-reports-material-event-bbdd3422e711.html))
+- 🔴 **[2026-04-29] [Earnings] Q1 2026** ([StockStory summary](https://stockstory.org/us/stocks/nasdaq/wing/news/earnings/wingstop-nasdaqwing-reports-sales-below-analyst-estimates-in-q1-cy2026-earnings-stock-drops) · [8-K aggregator](https://www.stocktitan.net/sec-filings/WING/8-k-wingstop-inc-reports-material-event-bbdd3422e711.html)):
+  - Q1 domestic SSS: **−8.7%** (vs. Q4 −5.8% — sequential WORSENING; **breaks the −7% thesis-break trigger**)
+  - Q1 revenue: $183.7M (+7.4% YoY) — missed $192.9M est
+  - Q1 Adj EBITDA: $65.4M (+9.9% YoY)
+  - Q1 Adj EPS: **$1.18** (beat $1.03 est by 15%)
+  - Q1 net new units: 97 (+17% YoY total → 3,153)
+  - FY26 SSS guide: cut from "flat to LSD" to **"low-single-digit DECLINE"**
 - 💰 **[2026-Q1] [Capital]** — Buyback **374,324 shares at $208.08 avg** ($77.9M deployed); **$313.4M remaining authorization** (refreshed); $0.30/qtr dividend payable June 5, 2026 — management buying $43 above current $165 strike
 - 📊 **[2026-04-29] [Analyst]** — RBC Capital flagged caution on soft SSS trends ([Yahoo](https://finance.yahoo.com/markets/stocks/articles/rbc-capital-cautious-wingstop-wing-160336402.html)); broader sell-side target reset expected over next 1–2 weeks
 - 📊 **[2026-02-18] [Earnings]** — ~~Q4 2025 / FY2025~~ — superseded; see prior changelog for full data

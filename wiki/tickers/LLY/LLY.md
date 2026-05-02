@@ -407,7 +407,13 @@ Europe, Japan, and EM are meaningfully behind the U.S. on GLP-1 reimbursement. M
 
 ### Recent Corporate News (last 90 days)
 
-- ✅ **[2026-04-30] [Earnings]** — **Q1 2026 print**: revenue **+56% to $19.8B**, **Mounjaro $8.66B (+125% YoY)**, EPS **$8.55 vs. $6.85 cons (+25% beat)**. **FY26 guide raised to $82–85B revenue / $35.50–$37.00 NGAAP EPS** (from $80–83B / $33.50–$35.00). Stock +10.2% to $974.39 ([LLY Q1 PR](https://investor.lilly.com/news-releases/news-release-details/lilly-reports-first-quarter-2026-financial-results-raises-full); [Q1 transcript (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/04/30/eli-lilly-lly-q1-2026-earnings-transcript/); [CNBC Q1 coverage](https://www.cnbc.com/2026/04/30/eli-lilly-lly-earnings-q1-2026.html))
+- ✅ **[2026-04-30] [Earnings — Delivered] Q1 2026 print** ([LLY Q1 PR](https://investor.lilly.com/news-releases/news-release-details/lilly-reports-first-quarter-2026-financial-results-raises-full) · [transcript (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/04/30/eli-lilly-lly-q1-2026-earnings-transcript/) · [CNBC Q1 coverage](https://www.cnbc.com/2026/04/30/eli-lilly-lly-earnings-q1-2026.html)):
+  - Q1 revenue: **$19.8B (+56% YoY)**
+  - Q1 Mounjaro revenue: **$8.66B (+125% YoY)**
+  - Q1 EPS: **$8.55** (vs. $6.85 cons. — +25% beat)
+  - FY26 revenue guide: **raised to $82–85B** (from $80–83B)
+  - FY26 NGAAP EPS guide: **raised to $35.50–$37.00** (from $33.50–$35.00)
+  - Stock reaction: +10.2% to **$974.39**
 - **[2026-04-20] [M&A]** — 💰 Acquired Kelonia Therapeutics (in vivo CAR-T cell therapies) — pipeline diversification into next-generation oncology modalities ([LLY IR](https://investor.lilly.com/news-releases))
 - ✅ **[2026-04-09] [Drug Launch]** — Foundayo (orforglipron) now available to patients — oral GLP-1 for weight management, any time, no food/water restrictions ([LLY IR](https://investor.lilly.com/news-releases))
 - ✅ **[2026-04-01] [FDA Approval]** — **Foundayo (orforglipron) FDA approved** for chronic weight management — first oral GLP-1 pill for obesity; first-mover competitive advantage established ([LLY IR](https://investor.lilly.com/news-releases))

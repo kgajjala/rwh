@@ -31,7 +31,7 @@
 🟢 **Why**:
 - AWS +28% (fastest in 15 quarters) validates demand side of the $200B capex bet; AI run rate scaling fast
 - Q1 EPS $2.78 = +70% beat; advertising $17.24B (+24%) shows ad engine continuing to compound
-- Q2 guide $194–199B / op income $20–24B both bracket Street, no execution wobble
+- Q2 FY26 revenue guide $194–199B and op income guide $20–24B both bracket Street — no execution wobble
 
 ⚠️ **Why not**:
 - Stock at fresh ATH $265 / ~99th %ile of 52-wk range — multiple has rerated to fair-value, no margin-of-safety
@@ -89,7 +89,8 @@ The market is currently leaning toward "this is the AWS bet, again" (stock +43% 
 | **Q1 FY26 AWS Revenue** | **$37.6B (+28%)** | Fastest growth in 15 quarters |
 | **Q1 FY26 Advertising** | **$17.24B (+24%)** | Continued compounding |
 | **Q1 FY26 Capex** | **$43.2B** | Annualizes ~$170B+ |
-| **Q2 FY26 Guide** | **Rev $194–199B / Op Inc $20–24B** | Brackets Street |
+| **Q2 FY26 Revenue Guide** | **$194–199B** | Brackets Street consensus |
+| **Q2 FY26 Op Income Guide** | **$20–24B** | Brackets Street consensus |
 | **FY26 Capex Frame** | **~$200B** | Central debate; Q1 pace tracks |
 | Aggregate Analyst Rating | Strong Buy (42 Buys / 3 Holds) | Avg PT $286 ([TipRanks](https://www.tipranks.com/stocks/amzn)) |
 | **Next Earnings Date** | **~Late-July 2026 (Q2 FY26)** | **Capex pacing + AWS hold** |
@@ -390,7 +391,8 @@ Material risks only, per Rule #25 — boilerplate ("we may not retain key person
 - **EPS**: **$2.78** — **+70% beat** vs. $1.63 consensus
 - **Advertising**: **$17.24B (+24% YoY)** — continued >20% compounding
 - **Capex (Q1)**: **$43.2B** — annualizes to ~$170B+ run rate; tracks toward FY26 ~$200B frame
-- **Q2 FY26 guide**: revenue **$194–199B** / operating income **$20–24B** — both bracket Street consensus
+- **Q2 FY26 revenue guide**: **$194–199B** — brackets Street consensus
+- **Q2 FY26 operating income guide**: **$20–24B** — brackets Street consensus
 - **Stock reaction**: rallied to fresh ATH **$265.06** post-print (+3.9% from prior week's $255.08)
 - **Sources**: [Amazon Q1 2026 PR](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-First-Quarter-Results/) · [Q1 2026 transcript (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/04/29/amazon-amzn-q1-2026-earnings-call-transcript/) · [CNBC Q1 recap](https://www.cnbc.com/2026/04/29/amazon-amzn-q1-earnings-report-2026.html)
 
@@ -420,7 +422,14 @@ AMZN historically <1% of float short — typical mega-cap; not a meaningful sign
 
 ### Recent Corporate News (Last 90 Days)
 
-- 🟢 **[2026-04-29]** **Q1 FY26 print** — rev $181.5B (+17%) / AWS $37.6B (+28% — *fastest in 15 quarters*) / EPS $2.78 (+70% beat) / ad $17.24B (+24%) / capex $43.2B; Q2 guide $194–199B / op income $20–24B ([Amazon Q1 2026 PR](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-First-Quarter-Results/), [transcript](https://www.fool.com/earnings/call-transcripts/2026/04/29/amazon-amzn-q1-2026-earnings-call-transcript/), [CNBC recap](https://www.cnbc.com/2026/04/29/amazon-amzn-q1-earnings-report-2026.html))
+- 🟢 **[2026-04-29] Q1 FY26 print** ([Amazon PR](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-First-Quarter-Results/) · [transcript](https://www.fool.com/earnings/call-transcripts/2026/04/29/amazon-amzn-q1-2026-earnings-call-transcript/) · [CNBC recap](https://www.cnbc.com/2026/04/29/amazon-amzn-q1-earnings-report-2026.html)):
+  - Q1 revenue: $181.5B (+17% YoY)
+  - Q1 AWS revenue: $37.6B (+28% YoY) — *fastest in 15 quarters*
+  - Q1 EPS: $2.78 (+70% beat vs. $1.63 cons.)
+  - Q1 advertising: $17.24B (+24% YoY)
+  - Q1 capex (cash): $43.2B
+  - Q2 FY26 revenue guide: $194–199B
+  - Q2 FY26 op income guide: $20–24B
 - 📅 **[2026-04-09]** Jassy disclosure: AWS AI run rate >$15B in Q1 2026 ([FY25 letter context](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2025-letter-to-shareholders))
 - 🟢 **[2026-04 mid-late]** BMO PT $310 → $315; UBS reiterates +38% AWS 2026 thesis
 - 🟢 **[2026-04-20]** KeyBanc PT $285 → $325; BofA PT $275 → $298 ([TipRanks](https://www.tipranks.com/news/top-bofa-analyst-lifts-amazon-amzn-stock-price-target-ahead-of-q1-earnings-heres-why))

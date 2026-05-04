@@ -107,9 +107,16 @@ The pivotal question for the next 12–24 months: do agentic-commerce LLMs disin
 | Take Rate (rev/GMV) | 11.9% | 13.2% | 13.8% | 13.8% | ~13.9% | ~14% |
 | GAAP Op Margin | ~25% | ~24% | ~24% | ~25% | ~26% (est.) | — |
 | Non-GAAP EPS | $4.06 | $4.21 | $4.24 | $4.91 | ~$5.50–5.75 *[Estimate]* | $1.53–1.59 |
+| Operating Cash Flow | $2,657M | $2,254M | $2,426M | $2,414M | **$1,959M** | — |
+| Capex | $444M | $449M | $456M | $458M | $525M | — |
+| Free Cash Flow | $2,213M | $1,805M | $1,970M | $1,956M | **$1,434M** | — |
 | Active Buyers | 147M | 134M | 132M | 134M | 135M | — |
 
 **FY2025 was the strongest growth year since the 2021 pandemic comparison cycle** — revenue +8%, GMV +7%, with Focus Categories ~30% of GMV outgrowing the marketplace. Take rate has expanded ~200bps since FY2021 driven by managed payments embedding + advertising scale-up (the highest-margin layer).
+
+⚠️ **FY2025 OCF / FCF stepped down materially** — OCF $2,414M → **$1,959M (–18.8% YoY)**; FCF $1,956M → **$1,434M (–26.7% YoY)** — despite revenue +8% and EPS up to ~$5.50–5.75. Capex stepped up modestly ($458M → $525M, +14.6%) but the bulk of the FCF compression sits in the operating-cash-flow line, suggesting working-capital absorption (likely receivables / payables timing tied to GMV reacceleration + Depop-related deal-prep) rather than a margin issue. **This is a flag worth monitoring on the Q1 / Q2 2026 cash flow statements** — if OCF doesn't recover toward the $2.3–2.5B range alongside the EPS step-up, the FCF-yield thesis weakens. Source: [stockanalysis.com — EBAY cash flow](https://stockanalysis.com/stocks/ebay/financials/cash-flow-statement/), 10-K FY2025.
+
+**FY2026E**: stockanalysis.com analyst consensus does NOT publish OCF / FCF estimates directly. Implied FY2026E OCF range based on consensus FY2026E EPS $6.13 ([stockanalysis.com forecast](https://stockanalysis.com/stocks/ebay/forecast/), 37 analysts) × diluted share count ~460M = NI ~$2.82B; assuming D&A ~$300M, capex ~$550M, and a normalized working-capital build, **FY2026E OCF likely lands $2.3–2.6B and FCF $1.7–2.0B** *[Estimate — derived from consensus EPS, not directly polled]*. The FY2025 OCF trough recovers if working-capital absorption was timing-driven; if structural, the trough extends and forces a re-think of the ~6% FCF yield framing in §13.
 
 ### Primary Source: 10-K Segment Detail (FY2021 → FY2025)
 

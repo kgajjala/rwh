@@ -4,6 +4,69 @@
 
 ---
 
+## [2026-05-05] — Earnings Q1 2026
+
+**Trigger**: Shopify reported Q1 2026 results pre-market May 5, 2026. Revenue and GMV beat consensus; Q2 guidance for high-20s% revenue growth drove –7.9% stock reaction. Full Workflow B Step 3a applied.
+
+**Sources reviewed**:
+- [Shopify Q1 2026 Press Release (GlobeNewswire, May 5, 2026)](https://www.globenewswire.com/news-release/2026/05/05/3287487/0/en/shopify-delivers-again-as-merchants-clear-100-billion-in-q1-gmv.html)
+- [Shopify Q1 2026 Earnings Call Transcript (Motley Fool, May 5, 2026)](https://www.fool.com/earnings/call-transcripts/2026/05/05/shopify-shop-q1-2026-earnings-transcript/)
+- [Seeking Alpha: Shopify Q2 guidance / AI orders (May 5, 2026)](https://seekingalpha.com/news/4585896-shopify-expects-q2-revenue-growth-in-the-high-20s-as-ai-channels-drive-nearly-13x-order)
+- [Bloomberg: Shopify drops on forecast (May 5, 2026)](https://www.bloomberg.com/news/articles/2026-05-05/shopify-drops-as-forecast-suggests-slowing-revenue-growth-pace)
+- [Yahoo Finance — SHOP live quote (May 5, 2026 close)](https://finance.yahoo.com/quote/SHOP)
+
+### What Changed — Q1 2026 Actuals
+
+- Revenue: **$3.17B** (+34% YoY; beat consensus ≈$3.09B)
+- GMV: **$100.7B** (+35% YoY)
+- Gross profit: **$1.546B** (+32% YoY)
+- Gross margin: **49.0%** (flat YoY; no further compression)
+- Operating income: **$382M** (+88% YoY); operating margin **12.0%** (vs. 8.6% Q1 2025)
+- Free cash flow: **$476M** (15% FCF margin; vs. $363M / 15% Q1 2025)
+- Subscription Solutions revenue: **$750M** (+21% YoY)
+- Merchant Solutions revenue: **$2.42B** (+39% YoY)
+- MRR: **$212M** (+17% YoY)
+- Shopify Payments GPV: **$67B** (+41% YoY); penetration **67%** of GMV
+- Shop Pay GMV: **$35B** (+59% YoY); international Shop Pay GMV +70%
+- B2B GMV: **+80% YoY**
+- International GMV: **+45% YoY** (EMEA +48%, +35% constant currency)
+- AI-attributed orders: **+13× YoY** (new buyers via AI at 2× rate of organic search)
+- Sidekick weekly active shops: **+385% YoY**
+- GAAP net loss: **–$581M** (vs. –$682M Q1 2025; miss on net income vs. FactSet EPS estimate)
+
+### What Changed — Q2 2026 Guidance
+
+- Revenue growth guide: **high-20s%** YoY (vs. Q1 actual +34%; management cited FX tailwind fading from >2pt in Q1 to ≈0.5pt in Q2)
+- Gross profit growth guide: **mid-20s%** YoY
+- FCF margin guide: **mid-teens**
+- Operating expenses guide: **35–36% of revenue** (sequential step-up from Q1 12% op margin)
+- SBC (Q2 estimate): **$145M**
+
+### What Changed — Page Sections
+
+- **Header**: Last Updated → 2026-05-05; Live Price → $117.45 (–7.9% May 5 close)
+- **§0 Summary**: Thesis line refreshed to reflect Q1 beat + Q2 guide deceleration; scenario table spot updated to $117.45 (R/R improves to ~11.3:1); KPI strip AI-orders cell updated to +13× Q1 actual; verb line shifted to Watch/Hold given Q2 guide overhang; Why/Why-not bullets refreshed
+- **Key Stats Snapshot**: Full Q1 2026 actuals + Q2 2026 guidance rows added; price/market-cap/multiple lines updated
+- **§1 Annual Financial Metrics**: Quarterly trend table extended with Q1 2026 column (Revenue $3.17B, GMV $100.7B, Gross Margin 49%, Op Margin 12%, FCF Margin 15%, Subscription $750M, Merchant Solutions $2.42B, MRR $212M)
+- **§8 Valuation**: Multiples table and Assessment updated to May 5 price ($117.45); DCF range updated
+- **§9 Catalyst & Sentiment Tracker**: Q1 2026 earnings marked Delivered ✅; full bullet-per-metric Q1 actuals block added; Q2 guidance bullets added; management commentary block added (Finkelstein AI quote, Hoffmeister FX context); upcoming catalysts updated to Q2 August 2026
+- **§12 PW EV**: Spot updated to $117.45; return updated to +80% / ~21%/yr; R/R interpretation updated
+- **§13 Recommendation**: Thesis sentence refreshed; verbs shifted to Watch/Hold; entry zone tightened to $100–120; next review trigger updated to Q2 early August 2026
+
+### Thesis Status
+- **Overall**: 🟡 **Unchanged (mild caution added)** — Q1 operating metrics broadly strengthen the AI-amplification thesis (orders +13×, B2B +80%, international +45%, gross margin stable at 49%). The Q2 guide step-down is partially FX-mechanical (>2pt tailwind in Q1 vs. 0.5pt in Q2). No thesis-break trigger fired. The guide introduces uncertainty about whether sub-30% growth is structural, which warrants a slight caution overlay without exiting.
+- **BAIT delta**: B: Moderate → Moderate (guide-overhang sentiment; stock back near lower-entry territory); A: Moderate-Strong → Moderate-Strong (Q1 metrics confirm AI-commerce amplification thesis; attach-rate resilient at 67% payments penetration); I: Moderate (Sidekick +385%, AI orders +13× — primary-source confirmation of AI traction); T: Moderate (buyback still active; –7.9% selloff may attract value buyers)
+- **Price target delta**: Scenarios unchanged — Bull $252 / Base $193 / Bear $113 / Bull+ $325 / PW EV $212. Spot compression from $126 → $117 improved return to PW EV from +68% → +80%. No scenario rebuild warranted until Q2 data.
+- **Catalyst & Sentiment delta**: Q1 Earnings ✅ Delivered. Stock –7.9%. Next catalyst: Q2 earnings early August 2026.
+
+### Recommendation
+- **For a non-holder**: 🟡 Watch / Initiate on further weakness — cleaner entry at $105–$115; initiating at $117 is defensible (+80% to PW EV) but Q2 guide overhang is real
+- **For a current holder**: 🟡 Hold — add on pull toward $100–$110; no thesis-break trigger fired
+
+**Next review trigger**: Q2 2026 earnings — early August 2026. Key test: does FX-adjusted revenue growth re-accelerate from high-20s toward 30%; operating expenses vs. 35–36% guide; buyback deployment at $113–120 zone.
+
+---
+
 ## [2026-04-29] — Schema v2.13 Summary migration + price refresh
 
 **Trigger**: Manual format migration to v2.13 Rule #18 Summary block (4-part structure: thesis+verbs · 8-col scenario table · 6-cell KPI strip · 3+3 Why/Why-not bullets one-per-line). Live price re-verified.

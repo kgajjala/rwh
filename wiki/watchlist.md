@@ -3,7 +3,8 @@
 *Position-agnostic per v2.1 schema (Core Rule #3): no portfolio allocation, no target %, no form (stock/options) splits. This file is pure analysis.*
 
 *Updated by LLM agent after each full thesis cycle, earnings update, or v2.x schema migration.*
-*Last updated: 2026-05-01 (Weekly cron — 10 material events: AMZN/MSFT/BKNG/LLY/RIVN Q1 prints; EBAY Q1 + 4-firm PT-raise cluster; SPOT/WING post-Q1 analyst clusters; MP rally + analyst-action cluster; LULU governance/proxy overhang. Quiet for 27 others — see `outputs/weekly/2026-05-01_weekly_summary.md`.).*
+*Last updated: 2026-05-06 (UBER Workflow A ingest concurrent with Q1 2026 print — added at #4b: PW EV $195, R/R ~9:1, Initiate / Add at $77 entry zone).*
+*Prior update: 2026-05-01 (Weekly cron — 10 material events: AMZN/MSFT/BKNG/LLY/RIVN Q1 prints; EBAY Q1 + 4-firm PT-raise cluster; SPOT/WING post-Q1 analyst clusters; MP rally + analyst-action cluster; LULU governance/proxy overhang. Quiet for 27 others — see `outputs/weekly/2026-05-01_weekly_summary.md`.).*
 *Prices verified at Apr 30, 2026 close (Yahoo Finance / stockanalysis.com). HOOD held at $70.29 (2026-04-29 intraday baseline). All other unchanged tickers at 2026-04-24/26/28 closes.*
 
 ---
@@ -16,6 +17,7 @@
 | 2 | SHOP | High | Triple+ (B+A-Strong, I, T-Mod) | PW EV $212 vs. $125.83 = +68% (3yr); ~10:1 R/R (Bull $252 / Bear $113); ~15:1 with Bull+ tail | **Initiate** / **Add-Hold** | Q1 2026 (~May 2026) |
 | 3 | UNH | High (Q1 BEAT + CMS 2027 rate de-risk) | Quadruple (B-compressed, A-widened, I-Strong, T-Mod) | PW EV ~$447 vs. ≈$368 = +21% (24mo); R/R ~2.1:1 | **Initiate / Add** (FY26 >$18.25 + 2027 MA rate ≈+2%) | Q2 2026 (~late July) |
 | 4 | MSFT | High (post-Q3-print) | **Quadruple (B+A+T-Strong, I-Mod)** | PW EV $499 vs. $414.42 = +20% (3yr / ~6.3%/yr); R/R ~1.7:1 — Q3 trigger DE-RISKED ✅; $190B FY26 capex strengthens bear-input | **Initiate** / 🟢 **Hold-Add below $420** | Q4 FY26 — late July 2026 |
+| 4b | UBER | **High (Q1 2026 print + entry-zone reached)** | Triple (B+A+I-Strong, T-Mod) | PW EV ~$195 vs. $77.32 = **+153% (5yr / ~20%/yr)**; R/R **~9:1** (Bull $295 +283% / Bear $52 −32%); ~14:1 with Bull+ tail at $400 | **Initiate** / 🟢 **Add** (record $3B Q1 buyback at 52-wk low) | Q2 2026 — early Aug 2026 |
 | 5 | AMZN | Moderate-High (post-Q1-print, R/R compressed) | Triple (A-Mod-Strong + I + T Mod) | PW EV $322 vs. $265.06 (ATH) = +22% (3yr / ~7%/yr); R/R ~1.4:1 | **Watch** / **Hold**; entry $220–245 | Q2 FY26 — late July 2026 |
 | 6 | LLY | High | Triple (A+I-Strong, B-Mod) | PW EV $1,264 vs. $974.39 = +30% (18mo / ~19%/yr); R/R ~2.9:1 | **Initiate** / 🟢 **Hold-Add**; entry $830–900 | Q2 2026 — late July 2026 |
 | 7 | INTU | Moderate-High | Triple (B+A-Strong, I-Mod) | PW EV $566 vs. $395.95 = +43% (3yr) | **Initiate** / **Add**; entry $340–420 | Q3 FY26 — May 21, 2026 |
@@ -131,6 +133,7 @@
 | SN | $115.74 | $85 (25%) | $145 (50%) | $185 (25%) | ~$144 | +24% (3yr) |
 | TREX | $41.90 | $28 (25%) | $55 (50%) | $90 (25%) | ~$57 | +36% (3yr); R/R ~3.6:1 |
 | TSLA | $376.30 | $230 (30%) | $410 (45%) | $580 (25%) | ~$393 | +4% (3yr); R/R ~1.4:1 |
+| UBER | **$77.32** (post-Q1) | $52 (25%) | $195 (45%) | $324 blend (30%) | **~$195** | **+153% (5yr / ~20%/yr); R/R ~9:1**, ~14:1 with Bull+ tail |
 | RH | $137.51 | $60 (25%) | $230 (50%) | $400 (25%) | ~$208 | +51% (4yr); R/R ~3.4:1 |
 | LULU | $143.80 | $115 (30%) | $200 (50%) | $325 (20%) | ~$192 | +34% (3yr) |
 | LNTH | $82.91 | $60 (30%) | $100 (50%) | $150 (20%) | ~$96 | +16% (3yr) |

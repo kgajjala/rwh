@@ -15,7 +15,7 @@ governs weekly cron coverage (Core Rule #15).
 
 ## Tickers
 
-*Alphabetical. 37 tickers covered.*
+*Alphabetical. 38 tickers covered.*
 
 | Ticker | Status | Company | Moat | Conviction | Last Updated | Summary |
 |--------|--------|---------|------|-----------|--------------|---------|
@@ -53,6 +53,7 @@ governs weekly cron coverage (Core Rule #15).
 | [SPOT](tickers/SPOT/SPOT.md) | Active | Spotify Technology | Wide & Widening | Moderate-High | 2026-05-01 | Post-Q1 6+-firm PT cluster (median $668→$607) compressed upside band; spot $442; PW EV $540 unchanged; Watch / Initiate $400–450 / Hold |
 | [TREX](tickers/TREX/TREX.md) | Active | Trex Company | Narrow & Widening | Moderate | 2026-04-26 | v2.9 — Double BAIT (B+A Mod); housing-cyclical trough + $200M buyback; Initiate (patient) / Hold |
 | [TSLA](tickers/TSLA/TSLA.md) | Active | Tesla | Narrow auto + Optional Wide autonomy | Moderate | 2026-04-26 | v2.9 — Quadruple BAIT (Mod); R/R ~1.4:1 not asymmetric; Hold / Watch; entry $280–320 |
+| [UBER](tickers/UBER/UBER.md) | Active | Uber Technologies | Wide (network + brand) | High | 2026-05-06 | **v2.14 ingest** — Q1 2026 print: GB +25%, Adj EBITDA +33%, Q2 GB guide above consensus; +5.93% pre-market to $77; record $3B Q1 buyback at 52-wk-low. Triple BAIT (B+A+I); PW EV $195 (+153% 5yr); R/R ~9:1. **Initiate / Add**; entry <$85 |
 | [UNH](tickers/UNH/UNH.md) | Active | UnitedHealth Group | Wide | High | 2026-04-28 | v2.9 — Quadruple BAIT; Q1 BEAT + **CMS 2027 MA Final Rate ≈+2% (2026-04-28)** = double de-risk; ≈$368 (+14% week); Initiate / Add |
 | [WING](tickers/WING/WING.md) | Active | Wingstop | Narrow | Lower-Moderate | 2026-05-01 | 5-firm post-Q1 analyst cluster confirms thesis-weakening (Goldman Buy→Neutral $190); zones unchanged; Watch / Reduce on bounce |
 | [ZG](tickers/ZG/ZG.md) | Active | Zillow Group | Wide consumer / Narrow agent | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT (B+A Strong, I-Mod); super-app pivot working; Initiate / Add |
@@ -97,6 +98,7 @@ governs weekly cron coverage (Core Rule #15).
 | SPOT | $429.00 | –45.4% | Double-Strong (A-Mod-Strong, T-Weak-Mod, B+I-Mod) | Watch / Initiate $400–450; Hold |
 | TREX | $41.90 | –39% | Double (B+A-Mod) | Initiate (patient) / Hold; entry $30–42 |
 | TSLA | $376.30 | –24.6% | Quadruple-Mod (B+A+I+T) | Hold / Watch; entry $280–320 |
+| UBER | $77.32 (post-Q1) | –24.2% | Triple (B+A+I-Strong, T-Mod) | **Initiate / Add**; entry <$85 |
 | UNH | ≈$368 | ≈–13% | Quadruple (B-compressed; A+I-Strong, T-Mod) | **Initiate / Add** (Q1 BEAT + CMS 2027 MA Final Rate ≈+2% double de-risk) |
 | WING | $165.64 | –57% | Triple (B-Strong, A-Mod, T-Weak) | Watch / Reduce on bounce >$180; entry $135–150 |
 | ZG | $45.41 | –51.6% | Triple (B+A-Strong, I-Mod) | Initiate / Add; entry $38–50 |

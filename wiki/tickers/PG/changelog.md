@@ -4,6 +4,52 @@
 
 ---
 
+## [2026-05-10] — Capital Allocation Event (Dividend Raise) + Schema v2.9 → v2.14 Migration
+
+**Trigger**: (1) P&G declared a +3% quarterly dividend raise on April 14, 2026 ($1.0568 → $1.0885/share), payable May 15, 2026 — a Meaningful Event (capital allocation). (2) Lazy schema migration from v2.9 to v2.14 applied per explicit orchestrator instruction.
+
+**Sources reviewed**:
+- [P&G Dividend Increase 8-K — pginvestor.com](https://www.pginvestor.com/news/news-details/2026/PG-Declares-Dividend-Increase-for-April-2026/default.aspx)
+- [P&G Dividend Increase — us.pg.com](https://us.pg.com/newsroom/news-releases/PG-Declares-Dividend-Increase-for-April-2026/)
+- [Yahoo Finance — PG Quote (May 6, 2026 close)](https://finance.yahoo.com/quote/PG)
+- [stockanalysis.com — PG Forecast (analyst consensus)](https://stockanalysis.com/stocks/pg/forecast/)
+- [Fintel — PG Short Interest](https://fintel.io/ss/us/pg)
+- [Fintel — PG Insider Activity](https://fintel.io/sn/us/pg)
+- No new 10-Q or earnings release in window (Q4 FY2026 expected late July 2026)
+
+### What Changed
+
+- **Header**: Schema v2.9 → v2.14; Last Updated bumped to 2026-05-10; Live Price updated to $147.90 (May 6 close); Dividend yield updated to ≈2.95% ($1.0885/quarter)
+- **Summary**: Full rewrite to v2.14 4-part format (Rule #18) — thesis+verbs line, 5-yr scenario table (8-col), KPI strip (6-cell), Why/Why-not/Next-read bullets
+- **Key Stats Snapshot**: Quarterly dividend updated $1.0568 → $1.0885; yield ≈2.85% → ≈2.95%; short interest updated to 1.18% / 5.42 days to cover; price refreshed; added Core EPS $1.59 for Q3 FY2026
+- **§4 Management**: Added April 2026 dividend raise detail; resolved "dividend freeze during restructuring" as a ✅ DE-RISKED trigger
+- **§5 Strategic Growth**: Added Glad JV dissolution details (Clorox paid $476M for PG's stake; $261M after-tax gain in Q3)
+- **§8 Valuation**: Dividend yield updated to ≈2.95%
+- **§9 Catalyst & Sentiment**: Price, consensus, and analyst actions refreshed (UBS +$172, Wells Fargo +$164, TD Cowen +$150 post-Q3); dividend raise added as ✅ delivered catalyst; May 15 dividend payment added to upcoming catalysts
+- **§10 BAIT**: I (Informational) commentary updated — dividend raise during restructuring year treated as informational signal of FCF confidence
+- **§11 Scenarios**: Updated to explicit 5-year terminal horizon (FY2031E) per Rule #26; Bear midpoint adjusted $125 → $120 on fuller 5-yr terminal framing
+- **§12 PW EV**: Recomputed with updated Bull $185 midpoint → PW EV ≈$159.50; R/R updated to ≈1.3:1 vs. current spot
+- **§13 Recommendation**: Added resolved trigger ✅ DE-RISKED [2026-04-14] for dividend freeze; updated entry/trim/exit zone commentary; exit zone expanded to $185 (matched to Bull midpoint per Rule #26)
+- **Schema migration**: Rule #18 (Summary 4-part block), Rule #23 (moat detail confirmed in §3 only — was already compliant), Rule #24 (Competitive Landscape confirmed present in §3), Rule #25 (§6 materiality filter confirmed), Rule #26 (5-yr terminal horizon applied to §11; PW EV anchors §13 zones; R/R cited in Summary, §12)
+
+### Thesis Status
+- **Overall**: 🟡 **Unchanged** — dividend raise confirms capital-allocation discipline; no new fundamental deterioration; thesis trajectory modestly positive but R/R at current price remains modest
+- **BAIT delta**: I (Informational) ticked marginally higher on dividend raise signal; overall Low-Moderate conviction unchanged
+- **Price target delta**: Bull midpoint $180 → $185 (5-yr terminal re-anchor); Bear midpoint $125 → $120; Base unchanged $160; PW EV ≈$159 → ≈$159.50
+- **R/R**: ≈1.4:1 → ≈1.3:1 (marginally lower as Bear scenario deepened slightly on 5-yr terminal reframe)
+
+### Recommendation
+- **For a non-holder**: 🟡 Watch / Initiate small at $140–$148 — dividend raise + Q3 volume growth = two confirmations; Q4 FY2026 late July is the next conviction-building event
+- **For a current holder**: 🟡 Hold — do not exit; add below $145; trim at $170–$185
+
+**Attractive entry zone**: $135–$148
+**Trim zone**: $170–$185
+**Exit / avoid zone**: >$185
+
+**Next review trigger**: Q4 FY2026 earnings — late July 2026
+
+---
+
 ## [2026-04-26] — v2.9 Retrofit + Q3 FY2026 Earnings Integration
 
 **Trigger**: Schema migration from v2.5 (15-section structure) to v2.9 (13-section structure) + integration of Q3 FY2026 earnings results (released April 24, 2026 pre-market — beat on revenue and GAAP EPS; first volume growth in over a year).

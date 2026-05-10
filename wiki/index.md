@@ -15,13 +15,14 @@ governs weekly cron coverage (Core Rule #15).
 
 ## Tickers
 
-*Alphabetical. 38 tickers covered.*
+*Alphabetical. 40 tickers covered.*
 
 | Ticker | Status | Company | Moat | Conviction | Last Updated | Summary |
 |--------|--------|---------|------|-----------|--------------|---------|
 | [ABNB](tickers/ABNB/ABNB.md) | Active | Airbnb | Wide | Medium | 2026-04-24 | v2.4 ingest — Watch / Hold; attractive entry $120–130 |
 | [ACLS](tickers/ACLS/ACLS.md) | Active | Axcelis Technologies | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch / Hold; momentum-late |
 | [ADBE](tickers/ADBE/ADBE.md) | Active | Adobe | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate / Add |
+| [AMCR](tickers/AMCR/AMCR.md) | Active | Amcor plc | Narrow-and-widening (post-Berry duopoly) | Moderate | 2026-05-10 | **v2.14 ingest** — global packaging at $39.93 / 9.4× FY26E P/E + 6.51% div (51+ yr unbroken); Berry $650M synergy bet; Double BAIT (B+A); PW EV $57 (+43%); R/R ~6:1; Initiate <$44 / Hold |
 | [AMZN](tickers/AMZN/AMZN.md) | Active | Amazon | Wide | High | 2026-05-01 | Q1 FY26 — AWS +28%, EPS +70% beat; ATH $265; R/R 1.4:1 → Watch / Hold |
 | [BKNG](tickers/BKNG/BKNG.md) | Active | Booking Holdings | Wide | High | 2026-05-01 | Q1 beat-and-cut on Iran/Hormuz; $3.6B Q1 buyback acceleration; Initiate / Add at $168 |
 | [BRK.B](tickers/BRK.B/BRK.B.md) | Active | Berkshire Hathaway | Wide | Medium-High | 2026-04-25 | v2.5 ingest — Triple BAIT (B+I-Strong); Initiate (small/scaled) / Hold-Add; Abel succession discount |
@@ -31,6 +32,7 @@ governs weekly cron coverage (Core Rule #15).
 | [DELL](tickers/DELL/DELL.md) | Active | Dell Technologies | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch (consensus < spot); insider selling |
 | [EBAY](tickers/EBAY/EBAY.md) | Active | eBay | Narrow | Medium | 2026-05-01 | Q1 beat (rev +19%, GMV +14% FXN); R/R 1.0:1; Watch / Hold-Trim into $115+ |
 | [FIG](tickers/FIG/FIG.md) | Active | Figma | Narrow-Emerging Wide | Medium | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate (small, contrarian) / Hold-Add |
+| [HD](tickers/HD/HD.md) | Active | The Home Depot | Wide | Moderate-High | 2026-05-10 | **v2.14 ingest** — #1 U.S. home improvement at $321.75 (9th %ile, –24.6% from $426 high); FY2025 rev $164.7B / FCF $12.6B; decade-low multiple + 2.9% div price housing-freeze. Double BAIT (B+A); PW EV $377 (+17%); R/R ~2:1; Initiate <$325 / Hold; Q1 May 19 |
 | [HOOD](tickers/HOOD/HOOD.md) | Active | Robinhood Markets, Inc. | Narrow-and-Widening | Moderate-High | 2026-04-29 | Post-Q1 reset to $70.29 (–14% session) — Q1 call confirmed structural diversification (margin book +93%, Gold card $15B annualized spend, Rothera April $3B second-highest month); crypto "about similar to Q1" in April removes near-term recovery. R/R ≈5.5:1 at $70; PW EV ~$108 (+54%). **Initiate / Add** at $65–80 |
 | [INTU](tickers/INTU/INTU.md) | Active | Intuit | Wide | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT; 17× FY26E NGAAP at decade-low; Initiate / Add |
 | [KGS](tickers/KGS/KGS.md) | Active | Kodiak Gas Services | Narrow | Low-Moderate | 2026-04-26 | v2.9 — Double BAIT (A+I+T Mod); R/R ~1:1 at 52-wk high; Watch / Hold |
@@ -42,7 +44,7 @@ governs weekly cron coverage (Core Rule #15).
 | [NFLX](tickers/NFLX/NFLX.md) | Active | Netflix | Wide & Widening | Moderate | 2026-04-26 | v2.9 — Triple BAIT (B+A+I-Mod); FY26 op-margin 31.5%; Initiate (small, scaled); entry $80–88 |
 | [NKE](tickers/NKE/NKE.md) | Active | Nike | Wide | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT; CEO Hill $1M buy; 3.67% yield 20-yr high; Initiate / Add at 12-yr low |
 | [ONON](tickers/ONON/ONON.md) | Active | On Holding | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (B-Strong + A-Mod); +23% c-c at 62.8% GM; Initiate / Add |
-| [PG](tickers/PG/PG.md) | Active | Procter & Gamble | Wide (cyclical pressure) | Moderate | 2026-04-26 | v2.9 — Q3 FY26 print delivered first co-wide volume growth in over a year; Watch / Hold |
+| [PG](tickers/PG/PG.md) | Active | Procter & Gamble | Wide (cyclical pressure) | Moderate | 2026-05-10 | **v2.14 schema migration** + 70th consecutive div raise (+3% Apr 14 to $1.0885/qtr); $147.90; PW EV $159.50; R/R 1.3:1 at spot, 2.7:1 below $140; Watch / Hold; Initiate <$140 |
 | [RH](tickers/RH/RH.md) | Active | RH (Restoration Hardware) | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (B-Strong, T-Mod via 35.6% short); deep cyclical trough; Watch / selective Initiate |
 | [RIVN](tickers/RIVN/RIVN.md) | Active | Rivian Automotive | Narrow | Moderate | 2026-05-01 | Q1 EPS beat; $4.5B DOE loan + R2 saleable; ~$8B liquidity; PW EV $21.10; Watch / Hold |
 | [RKT](tickers/RKT/RKT.md) | Active | Rocket Companies | Narrow-Emerging Wide | Moderate | 2026-04-26 | v2.9 — Double BAIT (B+A); R/R ~3:1; Initiate Spec. / Hold-Add; Q1 May 7 |
@@ -147,4 +149,4 @@ governs weekly cron coverage (Core Rule #15).
 
 ---
 
-*Last full index refresh: 2026-04-29 (HOOD v2.12 initial ingest added; WING refreshed for Q1 FY26 earnings — thesis-break trigger activated; 37 tickers total)*
+*Last full index refresh: 2026-05-10 (HD + AMCR Workflow A dual-ingest at v2.14 schema; PG Workflow B v2.9 → v2.14 schema migration + Apr 14 div raise; 40 tickers total). Prior: 2026-05-06 (UBER v2.14 initial ingest); 2026-04-29 (HOOD v2.12 initial ingest; WING Q1 FY26 thesis-break trigger).*

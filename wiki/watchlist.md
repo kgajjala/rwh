@@ -3,8 +3,9 @@
 *Position-agnostic per v2.1 schema (Core Rule #3): no portfolio allocation, no target %, no form (stock/options) splits. This file is pure analysis.*
 
 *Updated by LLM agent after each full thesis cycle, earnings update, or v2.x schema migration.*
-*Last updated: 2026-05-06 (UBER Workflow A ingest concurrent with Q1 2026 print — added at #4b: PW EV $195, R/R ~9:1, Initiate / Add at $77 entry zone).*
-*Prior update: 2026-05-01 (Weekly cron — 10 material events: AMZN/MSFT/BKNG/LLY/RIVN Q1 prints; EBAY Q1 + 4-firm PT-raise cluster; SPOT/WING post-Q1 analyst clusters; MP rally + analyst-action cluster; LULU governance/proxy overhang. Quiet for 27 others — see `outputs/weekly/2026-05-01_weekly_summary.md`.).*
+*Last updated: 2026-05-10 (HD + AMCR Workflow A dual-ingest + PG Workflow B v2.9→v2.14 schema migration. HD added at #28b — Double BAIT, PW EV $377 (+17%), R/R ~2:1, Initiate <$325. AMCR added at #19c — Double BAIT, 6.51% div yield 51+ yr unbroken, $650M Berry synergy bet, PW EV $57 (+43%), R/R ~6:1, Initiate <$44. PG row updated to v2.14 + 70th consecutive div raise +3% Apr 14.).*
+*Prior update: 2026-05-06 (UBER Workflow A ingest concurrent with Q1 2026 print — added at #4b: PW EV $195, R/R ~9:1, Initiate / Add at $77 entry zone).*
+*Prior weekly: 2026-05-01 (Weekly cron — 10 material events: AMZN/MSFT/BKNG/LLY/RIVN Q1 prints; EBAY Q1 + 4-firm PT-raise cluster; SPOT/WING post-Q1 analyst clusters; MP rally + analyst-action cluster; LULU governance/proxy overhang. Quiet for 27 others — see `outputs/weekly/2026-05-01_weekly_summary.md`.).*
 *Prices verified at Apr 30, 2026 close (Yahoo Finance / stockanalysis.com). HOOD held at $70.29 (2026-04-29 intraday baseline). All other unchanged tickers at 2026-04-24/26/28 closes.*
 
 ---
@@ -35,6 +36,7 @@
 | 18 | RIVN | Moderate (Q1-strengthened on liquidity) | Triple (B+A+I-Mod, T-Mod) | PW EV $21.10 vs. $15.15 = +39% (2yr); R/R ~2.1:1 — DOE $4.5B + $2.55B partner capital → ~$8B liquidity DE-RISKS cash-burn; R2 demand newly elevated | **Watch / small Initiate** / **Hold**; entry $12–14 | Q2 2026 — late July 2026 |
 | 19 | TREX | Moderate | Double (B+A-Mod) | PW EV $57 vs. $41.90 = +36% (3yr / ~11%/yr); R/R ~3.6:1 | **Initiate (patient)** / **Hold**; entry $30–42 | Q1 2026 — early May 2026 |
 | 19b | HOOD | **Moderate-High** | Double (B+A-Mod-Strong) | PW EV ~$108 vs. **$70.29** = **+54%** (18mo / ~31%/yr); R/R **≈5.5:1** | **Initiate / Add**; entry **$65–80** | Q2 2026 — late July 2026 |
+| 19c | AMCR | Moderate (income-compounder) | Double (B+A) | PW EV $57 vs. $39.93 = **+43%** (5yr) + 6.51% div = ~$70 total-return PW EV; R/R **~6:1** (Bull $85 / Bear $28); short int 7.85% / 9.0 days at 1-yr high | **Initiate <$44 / Hold**; entry $36–44 (6%+ yield) | Q4 FY26 — ~Aug 2026 |
 | 20 | RH | Moderate | Double (B-Strong, T-Mod via 35.6% short) | PW EV $208 vs. $137.51 = +51% (4yr / ~11%/yr); R/R ~3.4:1 | **Watch / selective Initiate**; add aggressively below $115 | Q1 FY2026 — early June 2026 |
 | 21 | CELH | Moderate | Triple (B-Strong, A+T-Mod) | PW EV ~$52 vs. $35.25 = +47% (3yr / ~14%/yr) | **Initiate small** / **Hold-Add**; entry-event-driven | Q1 — May 11, 2026 |
 | 22 | ONON | Moderate | Double (B-Strong + A-Mod) | PW EV $53 vs. $36.25 = +46% (3yr); analyst median $60 | **Initiate** / **Add**; entry $31–40 | Q1 2026 — May 12, 2026 |
@@ -44,13 +46,14 @@
 | 26 | LNTH | Moderate | Double (A+I-Mod, binary) | PW EV ~$96 vs. $82.91 = +16% (3yr / ~5%/yr) | **Watch / Hold**; entry $65–78 | Q1 — May 7, 2026; LNTH-2501 PDUFA June 29 |
 | 27 | LULU | Moderate (governance overhang adds) | Double (B-Strong + A-Mod) | PW EV $192 vs. $137.98 (new 52-wk low $136.92) = +39% (3yr / ~12%/yr); R/R ~2.6:1 — Wilson DFAN14A proxy fight + Bracey board appointment | **Watch / Initiate <$135 / Hold** | Q1 FY26 — early June 2026 |
 | 28 | EBAY | Moderate (post-Q1 R/R compressed) | Single | PW EV ~$113 vs. $103.48 = +9% (18mo); R/R ~1.0:1 — Q1 beat + 4-firm PT-raise cluster, but Q2 deceleration | **Watch / selective Initiate / Hold-Trim into $115+**; entry $78–90 | Q2 2026 — late July 2026 |
+| 28b | HD | Moderate-High (housing-cyclical entry) | Double (B+A) | PW EV $377 vs. $321.75 = **+17%** (5yr / ~6.3%/yr incl. 2.9% div); R/R **~2:1** (Bull $530 / Bear $215); 9th %ile of 52-wk range | **Initiate <$325 / Hold**; entry $295–325 | Q1 FY2026 — May 19, 2026 |
 | 29 | TSLA | Moderate | Quadruple-Mod (B+A+I+T) | PW EV ~$393 vs. $376.30 ≈ flat; R/R ~1.4:1 | **Hold / Watch**; entry $280–320 | Q2 2026 — July 22, 2026 (est.) |
 | 30 | SBUX | Moderate | Double (A+I Mod-Strong) | PW EV ~$132 vs. $97.28 = +36% / ~11%/yr (3yr); + 2.5% div; R/R ~3.2:1 | 🟢 **Initiate-on-dip / Hold (Add on dip)**; entry $90–97 | Q3 FY26 — late July 2026 |
 | 31 | KGS | Low-Moderate | Double (A+I+T-Mod) | PW EV ~$72 vs. $65.98 = +9% + 3% div ≈ +7%/yr; R/R ~1:1 | **Watch / Hold**; entry $50–55 | Q1 — May 11, 2026 |
 | 32 | DASH | Low-Moderate | Double (B+A+I, all Moderate) | PW EV $130 vs. $176.78 = –26% (5yr); +43-57% to median analyst (12-18mo) | **Watch (entry $140-155)** / **Hold** | Q1 2026 — May 6, 2026 |
 | 33 | DELL | Low-Moderate | Single | PW EV $229 ≈ flat; insider selling | **Watch** | Q1 FY27 (~May 2026) |
 | 34 | ACLS | Low | Single (T-Strong, A-Mod) | PW EV ~$155 vs. $143 = +9% (3yr / ~3%/yr); R/R ~1.1:1 | **Watch / Hold**; entry $95–115 | Q1 2026 — May 7, 2026 |
-| 35 | PG | Moderate | Low-Moderate (post-Q3 print) | PW EV ~$159 vs. $148.18 = +7% incl. div | **Watch / Hold**; entry $135–148 | Q4 FY2026 — late July 2026 |
+| 35 | PG | Moderate | Low-Moderate (post-Q3 print + v2.14 migration) | PW EV $159.50 vs. $147.90 = +8% incl. ~3% div; R/R 1.3:1 at spot, **2.7:1 below $140** | **Watch / Hold; Initiate <$140**; entry $135–140 | Q4 FY2026 — late July 2026 |
 
 **Ranking rationale notes (2026-05-01 weekly update)**:
 - **Mega-cap AI capex digestion** the cross-portfolio theme. MSFT Q3 FY26 print confirmed Azure +40% (Q3 thesis-break trigger DE-RISKED ✅) but FY26 capex guide ~$190B (vs. ~$80–90B Street est.) drove −5–6% sell-off; PW EV $520→$499; R/R 1.8:1→1.7:1. AMZN Q1 confirmed thesis (AWS +28%, EPS +70% beat) but ATH $265 compressed R/R 3.5:1→1.4:1; verbs Initiate-small → **Watch**. Both stayed High/Moderate-High but moved within tier on R/R compression.

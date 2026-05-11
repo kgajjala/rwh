@@ -44,7 +44,6 @@
 | 23 | FIG | Moderate (Claude Design overhang) | Triple (B+A+I) | PW EV $28 (5-yr); R/R ~5:1 — Anthropic Claude Design (Apr 17) elevates AI-disruption to named threat; short int 20.67% (+27.5% MoM); Director Reed bought $36.5M @ $24–26 | **Initiate (small, contrarian)** / **Hold** | Q1 — May 14, 2026 |
 | 24 | WING | **Lower-Moderate** (post-Q1 thesis-break + 5-firm cluster confirmed) | Triple (B-Strong, A-Mod, **T-Weak**) | PW EV ~$185 vs. ~$171 = +8% (18mo / ~5%/yr); R/R ~3:1 (improves at lower entry) | **Watch / Reduce on bounce >$180**; entry $135–150 | Q2 2026 — late July 2026 |
 | 25 | ABNB | Moderate (Q1 verb upgrade) | Double (A+T-Mod) | PW EV $189 (5-yr); R/R 5.5:1 — Q1 rev +18% beat / GBV +19% / FCF $1.7B; FY26 raised low-to-mid teens / ≥35% EBITDA; letter quantified cross-sell (25% Experiences→stays; 55% hotel→home) | **Initiate / Hold** (verb upgrade Watch→Initiate); entry $115–130 | May 20 Summer Release; Q2 — Aug 2026 |
-| 26 | LNTH | Moderate (strategic pivot) | Double (A+I-Mod, binary) | PW EV $96 (5-yr); R/R 1.5:1 spot / 3.6:1 entry — Q1 rev $377M beat / EPS $1.46 beat; **narrowing to pure radiodiagnostics, exploring alternatives for radiotherapeutic pipeline ex-PNT2003**; CEO search continues | **Watch / Hold**; entry $65–78 | LNTH-2501 PDUFA June 29; MK-6240 Aug 13 |
 | 27 | LULU | Moderate (governance overhang adds) | Double (B-Strong + A-Mod) | PW EV $192 vs. $137.98 (new 52-wk low $136.92) = +39% (3yr / ~12%/yr); R/R ~2.6:1 — Wilson DFAN14A proxy fight + Bracey board appointment | **Watch / Initiate <$135 / Hold** | Q1 FY26 — early June 2026 |
 | 28 | EBAY | Moderate (post-Q1 R/R compressed) | Single | PW EV ~$113 vs. $103.48 = +9% (18mo); R/R ~1.0:1 — Q1 beat + 4-firm PT-raise cluster, but Q2 deceleration | **Watch / selective Initiate / Hold-Trim into $115+**; entry $78–90 | Q2 2026 — late July 2026 |
 | 28b | HD | Moderate-High (housing-cyclical entry) | Double (B+A) | PW EV $377 vs. $321.75 = **+17%** (5yr / ~6.3%/yr incl. 2.9% div); R/R **~2:1** (Bull $530 / Bear $215); 9th %ile of 52-wk range | **Initiate <$325 / Hold**; entry $295–325 | Q1 FY2026 — May 19, 2026 |
@@ -140,7 +139,6 @@
 | UBER | **$77.32** (post-Q1) | $52 (25%) | $195 (45%) | $324 blend (30%) | **~$195** | **+153% (5yr / ~20%/yr); R/R ~9:1**, ~14:1 with Bull+ tail |
 | RH | $137.51 | $60 (25%) | $230 (50%) | $400 (25%) | ~$208 | +51% (4yr); R/R ~3.4:1 |
 | LULU | $143.80 | $115 (30%) | $200 (50%) | $325 (20%) | ~$192 | +34% (3yr) |
-| LNTH | $82.91 | $60 (30%) | $100 (50%) | $150 (20%) | ~$96 | +16% (3yr) |
 | KGS | $65.98 | $48 (25%) | $72 (50%) | $90 (25%) | ~$72 | +9% + 3% div |
 | ACLS | $143.13 | $80 (20%) | $150 (50%) | $215 (30%) | ~$155.50 | +9% (3yr); R/R ~1.1:1 |
 | ABNB | $142.82 | $95 (20%) | $160 (50%) | $210 (30%) | ~$162 | +13% (3yr); R/R ~3.4:1 |
@@ -178,4 +176,6 @@
 Conviction Ranking and the Friday weekly cron until resumed via
 `resume [TICKER]`. Paused pages are frozen at their pre-pause state.*
 
-*None currently paused.*
+| Ticker | Paused Since | Reason | Frozen Verbs (pre-pause) | Notes |
+|--------|--------------|--------|--------------------------|-------|
+| LNTH | 2026-05-10 | User-directed pause; no longer tracking | Watch / Hold | Pre-pause state: PW EV $96 (5-yr), R/R 1.5:1 spot / 3.6:1 at entry $65–78. Strategic pivot to pure radiodiagnostics under way; LNTH-2501 PDUFA June 29 / MK-6240 Aug 13 binaries unmonitored until resume. |

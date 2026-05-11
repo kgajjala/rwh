@@ -4,6 +4,27 @@
 
 ---
 
+## [2026-05-10] — Paused (Workflow C.1)
+
+**Trigger**: User-directed pause — no longer tracking this ticker.
+**Last Active Baseline**: [2026-05-10 Q1 2026 Earnings + v2.9→v2.14 Schema Migration](#) (same-day entry above, post-pause).
+
+### What Changed
+- Status: Active → **Paused — since 2026-05-10**
+- LNTH removed from `wiki/watchlist.md` Conviction Ranking; added to Paused Tickers footer.
+- `wiki/index.md` Status column → Paused (Last Updated preserved at 2026-05-10 per Workflow C.1 step 5).
+- `README.md` Status column → Paused (Last Updated + Punchline preserved per Workflow C.1 step 5).
+
+### Thesis Status
+- **Overall**: Unchanged at pause-point. Q1 2026 print + strategic narrowing to pure radiodiagnostics already captured in the same-day Workflow B entry. Pivotal binary catalysts (LNTH-2501 PDUFA Jun 29, MK-6240 Aug 13) remain on-record at the pre-pause baseline; coverage frozen until resume.
+
+### Recommendation
+- Wiki page is frozen at pause-point. Page-body recommendations of record (pre-pause): Non-holder Watch · Holder Hold. No further weekly updates will execute until `resume LNTH`.
+
+**Next review trigger**: User-directed `resume LNTH` only. Friday weekly cron will skip this ticker.
+
+---
+
 ## [2026-05-10] — Earnings Q1 2026 + v2.14 Schema Migration
 
 **Trigger**: Q1 2026 earnings (May 7, 2026) — revenue beat, adj EPS beat, guidance reaffirmed, strategic narrowing to radiodiagnostics announced, PNT2003 tentative FDA approval incorporated; v2.14 lazy migration applied.

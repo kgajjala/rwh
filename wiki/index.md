@@ -37,7 +37,7 @@ governs weekly cron coverage (Core Rule #15).
 | [INTU](tickers/INTU/INTU.md) | Active | Intuit | Wide | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT; 17× FY26E NGAAP at decade-low; Initiate / Add |
 | [KGS](tickers/KGS/KGS.md) | Active | Kodiak Gas Services | Narrow | Low-Moderate | 2026-04-26 | v2.9 — Double BAIT (A+I+T Mod); R/R ~1:1 at 52-wk high; Watch / Hold |
 | [LLY](tickers/LLY/LLY.md) | Active | Eli Lilly | Wide | High | 2026-05-01 | Q1 +56% rev / Mounjaro +125% / FY26 guide raised; Triple BAIT; Initiate / Hold-Add at ~$974 |
-| [LNTH](tickers/LNTH/LNTH.md) | Active | Lantheus Holdings | Narrow | Moderate | 2026-05-10 | **v2.9→v2.14** + Q1 rev $377M beat / EPS $1.46 beat; PYLARIFY –6.5% net price; FY26 reaffirmed; **strategic pivot to pure radiodiagnostics — exploring alternatives for radiotherapeutic pipeline**; LNTH-2501 PDUFA Jun 29 / MK-6240 Aug 13; PW EV $96 (5-yr); R/R 1.5:1 spot / 3.6:1 entry; **Watch / Hold**; entry $65–78 |
+| [LNTH](tickers/LNTH/LNTH.md) | Paused | Lantheus Holdings | Narrow | Moderate | 2026-05-10 | **v2.9→v2.14** + Q1 rev $377M beat / EPS $1.46 beat; PYLARIFY –6.5% net price; FY26 reaffirmed; **strategic pivot to pure radiodiagnostics — exploring alternatives for radiotherapeutic pipeline**; LNTH-2501 PDUFA Jun 29 / MK-6240 Aug 13; PW EV $96 (5-yr); R/R 1.5:1 spot / 3.6:1 entry; **Watch / Hold**; entry $65–78 |
 | [LULU](tickers/LULU/LULU.md) | Active | Lululemon Athletica | Narrow | Moderate | 2026-05-01 | Wilson DFAN14A proxy fight + Bracey board addition; new 52-wk low ~$138; Watch / Initiate <$135 / Hold |
 | [MP](tickers/MP/MP.md) | Active | MP Materials | Wide-Strategic | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 huge beat (rev $90.6M +49%, NdPr 917 MT Q1 record, +63% YoY; Magnetics +306%); **10X campus groundbreaking confirmed with full DoW support**; HREE separation commissioning Q2; cash $1.74B; Wedbush PT $90→$100; PW EV $86 (5-yr); R/R 2.5:1; **Initiate dips $55–68 / Hold** |
 | [MSFT](tickers/MSFT/MSFT.md) | Active | Microsoft | Wide | High | 2026-05-01 | Q3 FY26 — Azure +40%, EPS +23%; FY26 capex $190B drove –5–6% sell-off to ~$414; Hold/Add <$420 |
@@ -82,7 +82,7 @@ governs weekly cron coverage (Core Rule #15).
 | INTU | $395.95 | –51% | Triple (B+A-Strong, I-Mod) | Initiate / Add; entry $340–420 |
 | KGS | $65.98 | –0.3% (52-wk high) | Double (A+I+T-Mod) | Watch / Hold; entry $50–55 |
 | LLY | $883.96 | –22.0% | Triple (A+I-Strong, B-Mod) | Initiate / Hold-Add on pullback; entry $750–850 |
-| LNTH | $82.91 | –22.6% | Double (A+I-Mod, binary) | Watch / Hold; entry $65–78 |
+| LNTH | *(Paused 2026-05-10)* | — | — | — |
 | LULU | $143.80 | –57.7% (52-wk low) | Double (B-Strong + A-Mod) | Watch / Initiate <$135 / Hold |
 | MP | $60.73 | –39% from high | Triple (A+I-Strong, B-Mod) | Initiate / Hold-Add; entry $48–62 |
 | MSFT | $424.62 | –23.5% | **Quadruple (B+A+T-Strong, I-Mod)** | Initiate / Hold-Add; entry $380–440 |

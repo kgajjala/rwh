@@ -2,7 +2,7 @@
 
 **Schema**: v2.14
 **Last Updated**: 2026-05-10
-**Status**: Active
+**Status**: Paused — since 2026-05-10
 **Live Price**: **$86.15** on 2026-05-10 — [Yahoo Finance](https://finance.yahoo.com/quote/LNTH/)
 
 ---

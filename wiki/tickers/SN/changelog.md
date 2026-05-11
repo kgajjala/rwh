@@ -4,6 +4,55 @@
 
 ---
 
+## [2026-05-10] — Earnings Q1 2026 + v2.14 Schema Migration
+
+**Trigger**: Q1 2026 earnings reported May 6, 2026 (beat + raise). Lazy migration from v2.9 → v2.14 per user request.
+
+**Sources reviewed**:
+- [SharkNinja Q1 2026 press release](https://ir.sharkninja.com/news/news-details/2026/SharkNinja-Reports-First-Quarter-2026-Results/default.aspx) (May 6, 2026)
+- [Q1 2026 earnings call transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/06/sharkninja-sn-q1-2026-earnings-call-transcript/)
+- [Investing.com Q1 2026 transcript summary](https://www.investing.com/news/transcripts/earnings-call-transcript-sharkninja-beats-q1-2026-earnings-expectations-93CH-4671757)
+- [Yahoo Finance — SN](https://finance.yahoo.com/quote/SN) (live price $111.67, May 9, 2026)
+- [stockanalysis.com forecast + statistics](https://stockanalysis.com/stocks/sn/forecast/) (consensus + short interest)
+- [Canaccord PT raise — Investing.com](https://www.investing.com/news/analyst-ratings/canaccord-raises-sharkninja-stock-price-target-on-q1-expectations-93CH-4656074)
+- [MarketBeat — SN forecast](https://www.marketbeat.com/stocks/NYSE/SN/forecast/) (Oppenheimer PT raise)
+- [stocktitan.net Form 4 / OpenInsider](https://www.stocktitan.net/sec-filings/SN/) (insider activity)
+
+### What Changed
+
+- **Schema header**: v2.9 → v2.14; Last Updated 2026-04-26 → 2026-05-10.
+- **Summary (Rule #18 v2.14)**: Fully rewritten as 4-part block — thesis sentence + verb line, scenario table (5-yr terminal), KPI strip (6 cells), Why/Why not/Next read bullets. Replaced 12-bullet v2.9 blob.
+- **Business Overview**: Updated to reflect Q1 2026 as the current reporting period; added new Q1 products (Shark ChillPill, BlastBoss, Ninja Luxe Café, Crispi); noted "39 total subcategories" as of Q1 2026; updated FY26 guide to raised range.
+- **Pivotal Investment Question**: Updated to reflect tariff de-escalation (SEA 20% → 10%) and Q1 international re-acceleration (+31.6%) as new data points; bear-case pivot from tariff to product-cycle-execution.
+- **Key Stats Snapshot**: Full refresh — price $111.67, 52-wk range updated ($80.69–$133.99), market cap $15.8B, Q1 2026 actuals, raised FY26 guide, short interest updated (4.0%), analyst consensus updated (Strong Buy, median $145, Canaccord $161 high).
+- **§1 Annual Financial Metrics**: Added Q1 2026 column to quarterly table (+15.6% / $235.4M EBITDA / $1.09 EPS / intl +31.6%); updated FY26 guide column to raised +11.5–12.5% / $1.29–1.30B / $6.00–6.10; annual table capex + shares updated.
+- **§4 Management Commentary**: Added Q1 2026 call verbatim quotes (Barrocas tariff-tailwind, international confirmation; Quigley buyback pace / guidance); retained Q4 2025 quotes for arc context.
+- **§5 Strategic Growth Initiatives**: Updated #1 (SEA tariff now 10%); #2 (Mexico + UK Q1 data); #3 (ChillPill + BlastBoss launched, 39 subcategories); #5 (beauty +40.8% Q1); #6 (buyback pace context).
+- **§6 Key Risks**: Removed "tariff escalation" as primary risk; added "GM recovery fails in 2H 2026" as new Medium-High / not-priced-in risk; added "buyback pace de minimis" as Low-Medium / priced risk; re-rated tariff re-escalation to 20% probability (down from 25%) given SEA rate cut.
+- **§8 Valuation**: Refreshed to $111.67 / $15.8B cap; updated multiples (P/E ~18.5×, EV/EBITDA ~12.0×); updated analyst consensus (median $145, high $161 Canaccord, low $101).
+- **§9 Catalyst & Sentiment**: Full refresh — price $111.67, 52-wk range, analyst actions (JPM $144→$146, Canaccord $160→$161, Oppenheimer $140→$145); short interest 4.0% / 5.72M sh; insider table updated (CEO + CLO RSU vest/tax-cover Feb 28); Q1 earnings marked Delivered ✅; upcoming catalysts updated to Q2 ~Aug 2026.
+- **§10 BAIT**: B-lens updated to reflect post-Q1 sell-on-news opportunity; A-lens updated (international re-acceleration and SEA tariff tailwind as new under-modeled analytical edges); I-lens updated with Q1 Mexico/UK details; T-lens updated ($111.67 below prior $115 support).
+- **§11 Scenarios**: Migrated from 3-year (2028) to **5-year (2030E)** terminal per Rule #26. Bull raised from $185 → $210; Bear adjusted from $80 → $75; Base unchanged at $145. Probabilities 30/50/20 unchanged.
+- **§12 PW EV**: Recomputed on 5-yr terminal — PW EV ~$150 vs. $111.67 spot (+34% / ~6%/yr). R/R improved from ~1.9:1 to ≈2.7:1 on 5-yr scenarios. Prior $144 PW EV was on 3-yr basis; noted for continuity.
+- **§13 Recommendation**: Thesis sentence updated; entry zone widened slightly ($95–110 now includes current price at top edge); trim zone extended to $165–210; exit >$210; thesis-break triggers updated (GM-recovery failure added as new primary watch; JS Global secondary now flagged at <$110 = current price; buyback-removal de-prioritized).
+- **Sources**: Added Q1 2026 PR + transcript + analyst action sources.
+
+### Thesis Status
+
+- **Overall**: 🟢 **Strengthened** — Q1 2026 delivered a beat + raise, international re-accelerated above plan (+31.6%), and SEA tariff rates halved. GM –100bps is real but explicable (1H tariff + resin); 2H recovery thesis is now the central watch. No thesis-break triggers activated.
+- **BAIT delta**: A-lens strengthened (international re-acceleration + SEA tariff cut are newly under-modeled); B-lens opportunity opened (post-Q1 sell-on-news). Triple-lens maintained.
+- **Price target delta**: Bull $185 (3-yr) → $210 (5-yr) | Base $145 (unchanged) | Bear $80 (3-yr) → $75 (5-yr) | PW EV $144 (3-yr) → $150 (5-yr)
+- **Catalyst & Sentiment delta**: Q1 2026 earnings delivered (beat + raise); JPM + Canaccord + Oppenheimer raised PTs; short interest up modestly to 4.0%.
+
+### Recommendation
+
+- **For a non-holder**: 🟢 Initiate — at $111.67, post-Q1 sell-off is the entry; PW EV $150 (+34%, ≈2.7:1 R/R). Entry zone $95–110 = at or below current price.
+- **For a current holder**: 🟢 Hold / Add on weakness — below $105 (200DMA) is a Add zone.
+
+**Next review trigger**: Q2 2026 earnings (~Aug 2026). Primary watches: (1) adj GM recovery vs. Q1's 49.2%, (2) international growth pace vs. +31.6%, (3) second 2026 new-category reveal, (4) buyback deployment pace.
+
+---
+
 ## [2026-04-26] — v2.9 Retrofit (Schema Migration + Primary-Source Refresh)
 
 **Trigger**: Single-ticker serial v2.9 retrofit run. Migration from v2.5 (15 sections + standalone Moat block) → v2.9 (13 sections; old §1 retired; old §3 + §4 merged into new §2; Moat consolidated into §3 with mandatory Competitive Landscape per Rule #24).

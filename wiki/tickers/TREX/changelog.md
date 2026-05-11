@@ -4,6 +4,48 @@
 
 ---
 
+## [2026-05-10] — Earnings Q1 2026 + v2.9 → v2.14 Schema Migration
+
+**Trigger**: Q1 2026 earnings printed 2026-05-07 (first print under CEO Zambanini); simultaneous v2.14 lazy migration.
+
+**Sources reviewed**:
+- [Q1 2026 PR — BusinessWire](https://www.businesswire.com/news/home/20260507430582/en/Trex-Company-Reports-Solid-First-Quarter-2026-Results) (2026-05-07)
+- [Q1 2026 earnings call transcript — Insider Monkey](https://www.insidermonkey.com/blog/trex-company-inc-nysetrex-q1-2026-earnings-call-transcript-1757112/) (2026-05-07)
+- [Q1 2026 earnings call transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/09/trex-trex-q1-2026-earnings-transcript/) (2026-05-09)
+- [Yahoo Finance — TREX live quote](https://finance.yahoo.com/quote/TREX) (2026-05-09 close $39.91)
+- [stockanalysis.com — TREX forecast](https://stockanalysis.com/stocks/trex/forecast/) (analyst consensus May 2026)
+- [Benzinga — TREX analyst ratings](https://www.benzinga.com/quote/TREX/analyst-ratings) (Apr–May 2026 actions)
+- [MarketBeat — TREX short interest](https://www.marketbeat.com/stocks/NYSE/TREX/short-interest/)
+- [StockTitan — TREX Form 4](https://www.stocktitan.net/sec-filings/TREX/form-4-trex-co-inc-insider-trading-activity-66d26b6ec4c4.html) (director restricted grant)
+
+### What Changed
+- **Header**: schema bumped to v2.14; Last Updated 2026-05-10; live price updated to $39.91 (post-Q1 close)
+- **Summary**: replaced v2.9 bullet-list with Rule #18 4-part format — thesis + verb line, 5-yr scenario table, KPI strip (6 cells), Why/Why-not/Next-read
+- **Key Stats Snapshot**: fully refreshed for Q1 2026 actuals + Q2 guide + new capex guide + updated analyst consensus + short interest
+- **§1 — Annual Financial Metrics**: added Q1 2026 row ($343M, +1%, GM 40.5%, EPS $0.59 beat $0.08, EBITDA $103M); added GM column to quarterly table
+- **§4 — Management & Leadership**: updated Zambanini from "incoming" to active CEO; added his five Q1 2026 strategic priorities with verbatim quotes; added verbatim channel-inventory and Arkansas-timeline quotes from Q1 call; updated strategic-framework arc table 2026 row
+- **§6 — Key Risks**: Little Rock over-build probability lowered 30% → 20%; "Partially de-risked" noted; D&A headwind split (170–180bps vs. 70–80bps railing mix) explicitly quantified
+- **§8 — Valuation**: multiples refreshed to $39.91 / $4.15B; EV/EBITDA now ≈12.5×
+- **§9 — Catalyst & Sentiment Tracker**: fully refreshed — price, analyst actions (UBS +$1 May 8; Stifel trim; BofA/Barclays maintain bearish), short interest spike to ≈6.5%, Q1 earnings delivered, channel/Arkansas disclosures, Q2 upcoming catalyst; Q1 catalyst moved to "Delivered ✅"
+- **§10 — BAIT**: B + A both upgraded to Moderate-to-Strong on Q1 de-risking; overall conviction upgraded to Moderate-to-High
+- **§11 — Bull/Bear/Base**: horizon extended from 3-yr (FY2028) to 5-yr (FY2031E) per Rule #26; prices revised $85/$60/$28
+- **§12 — PW EV**: recomputed to $58 (5-yr); R/R ≈3.7:1; $39.91 spot gives +45% / ≈7.7%/yr
+- **§13 — Recommendation**: thesis sentence refreshed; FIFO/warranty thesis-break trigger DE-RISKED and struck; new Q2 GM threshold added ($35% sustained); entry/trim/exit zones maintained; next review = Q2 earnings ≈Aug 2026
+- **Sources**: added Q1 2026 PR, transcript (2 sources), Benzinga, MarketBeat short interest, StockTitan Form 4
+
+### Thesis Status
+- **Overall**: **Strengthened** — Q1 2026 print de-risked three items: (1) FIFO/warranty GM noise was transient (GM 40.5%); (2) channel inventory lean (30–40 days) confirms underlying sell-through; (3) Arkansas 2027 regional launch now date-anchored. Short interest spike (1.9% → 6.5%) is a new watch item.
+- **BAIT delta**: B and A both upgraded to Moderate-to-Strong; overall Moderate-to-High (from Moderate)
+- **Price target delta**: Bull $80 → $85 | Base $58 → $60 | Bear $30 → $28; PW EV $57 → $58; horizon extended 3yr → 5yr
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate** — $39.91 is within the $30–$42 entry zone; Q1 de-risking raises conviction vs. prior baseline
+- **For a current holder**: 🟡 **Hold** — add below $37; do not exit post-Q1 bounce
+
+**Next review trigger**: Q2 2026 earnings (≈Aug 2026) — core decking season; revenue vs. $388–403M guide; GM vs. 37.5% FY target; lean-channel sell-through acceleration.
+
+---
+
 ## [2026-04-26] — v2.9 Retrofit (Schema Migration)
 
 **Trigger**: v2.9 schema retrofit — section consolidation (15 → 13 sections), Rule #19 Pattern C letter handling, Rule #21 synthesis-over-transcription, Rule #24 competitive-landscape integration, Rule #25 risk materiality filter, Rule #26 R/R discipline.

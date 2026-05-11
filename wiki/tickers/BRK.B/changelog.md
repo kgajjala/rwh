@@ -1,5 +1,54 @@
 # BRK.B — Changelog
 
+## [2026-05-10] — Q1 2026 Earnings + First Annual Meeting Under Abel + v2.14 Schema Migration
+
+**Trigger**: Q1 2026 earnings released May 2, 2026 (operating earnings +18% YoY to $11.35B; cash record $397B; GEICO –34% YoY; buybacks $235M); Annual Shareholder Meeting May 3, 2026 (Abel's first as CEO); OxyChem acquisition closed Jan 2, 2026. v2.14 lazy migration applied simultaneously.
+
+**Sources reviewed**:
+- [Q1 2026 Press Release (May 2, 2026)](https://www.berkshirehathaway.com/news/may0226.pdf) — primary earnings source
+- [Q1 2026 10-Q](https://www.berkshirehathaway.com/qtrly/1stqtr26.pdf) — segment detail, cash position, buyback disclosure
+- [BusinessWire Q1 2026 Earnings Release](https://www.businesswire.com/news/home/20260502322193/en/Berkshire-Hathaway-Inc.-First-Quarter-2026-Earnings-Release)
+- [Reinsurance News Q1 2026 segment detail](https://www.reinsurancene.ws/berkshire-hathaway-reinsurance-underwriting-earnings-rise-29-to-1-717bn-in-q1-2026/)
+- [OxyChem Acquisition Completion (Jan 2, 2026)](https://www.businesswire.com/news/home/20260102535163/en/Berkshire-Hathaway-Inc.-Completes-Acquisition-of-OxyChem)
+- [CNBC Annual Meeting live coverage](https://www.cnbc.com/2026/05/02/warren-buffett-berkshire-hathaway-annual-meeting-2026-live-updates.html)
+- [Motley Fool annual meeting takeaways](https://www.fool.com/investing/2026/05/04/berkshire-hathaways-first-annual-meeting-under-gre/)
+- [CNBC Abel capital allocation quote](https://www.cnbc.com/video/2026/05/02/greg-abel-our-capital-allocation-approach-is-aligned-with-our-owners-and-shareholders.html)
+- [CNBC post-meeting analyst tepid reaction](https://www.cnbc.com/2026/05/04/berkshire-analysts-were-tepid-after-annual-meeting-what-abel-can-do-to-win-them.html)
+- [Yahoo Finance — BRK-B live price](https://finance.yahoo.com/quote/BRK-B)
+- [MarketBeat analyst consensus](https://www.marketbeat.com/stocks/NYSE/BRK-B/forecast/)
+- [Fintel short interest](https://fintel.io/ss/us/brk.b)
+
+### What Changed
+- **Header**: Schema v2.8 → **v2.14**; Last Updated 2026-04-26 → **2026-05-10**; Live Price updated $469.32 → **$468.85**.
+- **Summary (Rule #18 v2.14 4-part migration)**: Full rewrite from 10-bullet v2.8 format to (1) thesis+verb line, (2) 8-column scenario table (5-yr horizon), (3) 6-cell KPI strip, (4) 3-Why / 3-Why-not / Next-read format. Updated verbs: Non-holder Initiate / Holder Hold (from prior Hold-Add).
+- **Business Overview**: Added OxyChem acquisition ($9.7B, Jan 2, 2026) and updated cash to $397B.
+- **Key Stats Snapshot**: Full refresh — added Q1 2026 operating earnings ($11.35B), Q1 net earnings ($10.1B), Q1 buybacks ($235M), Q1 cash ($397B), Q1 float ($176.9B), OxyChem deal row, updated P/E (13.95× from 15.12×), analyst consensus (≈$520 median), short interest (0.55%).
+- **Section 2 — Quarterly Trend**: Added Q1 2026 column with all segment data (GEICO, BHRG, BHPG, insurance investment income, BNSF, BHE, cash, float, buybacks). Commentary updated for Q1 drivers.
+- **Section 4 — Revenue Mix**: Added OxyChem to MSR segment description.
+- **Section 6 — Management**: Extended "Abel's first months" block to 5 months. Added comprehensive annual meeting coverage (Abel quotes, tone, analyst reaction). Added OxyChem deal as Jan 2 entry.
+- **Section 7 — Strategic Growth Initiatives**: Updated cash-deployment item #5 with Q1 2026 deployment pace ($9.9B total) and Abel's meeting-stated framework.
+- **Section 8 — Key Risks**: Abel cash-deployment risk upgraded (probability Medium → Medium-High; cash hit $397B record). GEICO competitive risk downgraded (priced-in status moved from "Mostly" to "Partially — worsening" after –34% Q1 print). Added OxyChem integration risk row.
+- **Section 10 — Valuation**: Updated to $468.85 spot; cash-adjusted multiple updated ($130/sh net cash → 16× implied P/E); 52-wk high updated to $521.
+- **Section 11 — Catalyst & Sentiment Tracker**: Full refresh. Events delivered (Annual Meeting, Q1 earnings, OxyChem, buyback) logged with dates and links. Upcoming catalysts updated (Q2 2026 earnings, Q1 13F filing, buyback watch, acquisition watch). Analyst consensus updated to ≈$520 median. Short interest: 0.55%.
+- **Section 12 — BAIT**: All four lenses updated for Q1 2026 data. Conviction revised to Medium (from Medium-High) — GEICO miss softens Analytical lens.
+- **Section 13 — Bull/Bear/Base**: Horizon extended to **5-year (FY2030E)** per Rule #26. Scenarios updated for OxyChem baseline, revised GEICO trajectory, updated cash deployment assumptions. Probabilities: Bull 28% / Base 50% / Bear 22% (from 30/45/25). R/R updated to ≈2.7:1.
+- **Section 14 — PW EV**: Recomputed on 5-yr horizon. PW EV ≈**$549** (from $543 on prior 3-yr). R/R ≈2.7:1.
+- **Section 15 — Recommendation**: Full v2.14 template rewrite. Thesis updated. Non-holder verb: **Initiate** (maintained). Holder verb: **Hold** (softened from Hold-Add). Thesis-break triggers updated — first trigger partially triggered (cash crossed $397B); GEICO Q2 2026 watch added. Next review trigger: Q2 2026 earnings (≈August 2026).
+- **Sources**: Added Q1 2026 PR, 10-Q, OxyChem 8-K.
+
+### Thesis Status
+- **Overall**: 🟡 **Unchanged** — Q1 2026 confirms operational continuity (+18% operating earnings) but the GEICO deterioration (–34%) and cash pile growth ($397B record) extend the re-rating timeline. The succession thesis is intact; the deployment catalyst has not yet arrived.
+- **BAIT delta**: B (Behavioral) 🟢 unchanged | A (Analytical) 🟡 softened slightly (GEICO miss) | I (Informational) 🟢 unchanged (OxyChem confirms Abel will deal) | T (Technical) 🟡 unchanged. Overall: still Triple Overlap, conviction Medium.
+- **Price target delta**: Bull $650 (3-yr) → $680 (5-yr) | Base $550 (3-yr) → $545 (5-yr) | Bear $405 (3-yr) → $390 (5-yr) | PW EV $543 → **$549**
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate** — price at $469 remains in Abel's own buyback zone; Q1 confirms continuity. Entry attractive below $490.
+- **For a current holder**: 🟡 **Hold** — GEICO Q1 miss and $397B cash growth soften add conviction; no thesis-break. Watch GEICO Q2 closely.
+
+**Next review trigger**: 📅 Q2 2026 earnings (≈early August 2026) — GEICO trajectory, buyback cadence, OxyChem first full-quarter contribution, any M&A announcement.
+
+---
+
 ## [2026-04-26] — v2.8 Refactor (synthesis discipline + page output quality)
 
 **Trigger**: Apply CLAUDE.md v2.8 schema (Core Rules 21–26) to BRK.B page. No new earnings event; this is a quality refactor of the v2.6 primary-source synthesis baseline established 2026-04-25.

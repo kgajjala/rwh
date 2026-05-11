@@ -1,25 +1,43 @@
 # BRK.B — Berkshire Hathaway Inc. (Class B)
 
-> **Schema**: v2.8
-> **Last Updated**: 2026-04-26
+> **Schema**: v2.14
+> **Last Updated**: 2026-05-10
 > **Status**: Active
-> **Live Price Verified**: **$469.32** at April 24, 2026 close (after-hours $471.00) — [Yahoo Finance](https://finance.yahoo.com/quote/BRK-B)
+> **Live Price Verified**: **$468.85** at 2026-05-10 open — [Yahoo Finance](https://finance.yahoo.com/quote/BRK-B)
 > **Ticker Type**: Diversified holding company (insurance float + operating businesses + equity portfolio)
 
 ---
 
 ## Summary
 
-- 🟡 **Thesis**: Buffett-built fortress now run by Greg Abel (CEO since Jan 1, 2026); ~$1.01T market cap, **$373B cash + Treasuries** (vs. $321B in T-bills alone), $176B insurance float, $274B equity portfolio. Trades at **15.1× TTM EPS** at $469 — first significant drawdown since the post-Buffett-departure regime started.
-- 🟢 **Moat**: **Wide and structurally peerless** — float-economics + permanent capital + 60-yr deal-flow reputation. No direct public-market peer.
-- 🟢 **For a non-holder: Initiate (small/scaled)** at $469.32 — succession-anxiety drawdown is a rare cost-basis opportunity in a >$1T fortress; Abel's cash deployment is the multi-year asymmetric driver.
-- 🟢 **For a current holder: Hold-Add** — the **first buybacks since May 2024 resumed March 4, 2026** at the ~$465–490 zone, functionally setting an Abel-defined floor.
-- 🎯 **Attractive entry zone**: **$455 – $480** (52-wk low band; ~14–15× operating EPS; matches Abel's resumed buyback zone).
-- 🎯 **Trim zone**: **$560 – $620** (~18–19× operating EPS; above 5-yr forward multiple band).
-- 📉 **Price action**: $469.32, **–13.4% from 52-wk high** ($542.07), **+0.9% above 52-wk low** ($455.19) — a counterintuitive drawdown given Buffett-era operating earnings doubled 2021→2025 ($27.6B → $44.5B).
-- 📅 **Next catalyst**: **Annual Shareholder Meeting May 3, 2026** (Abel's first as CEO; Q1 2026 earnings the same weekend).
-- ⚠️ **Top risks**: (1) Cash-deployment paralysis under Abel (cash $373B → $400B+ would validate "trapped capital" narrative — *not fully priced*); (2) GEICO competitive lag vs. Progressive (Q4 2025 +$1.4B intentional ad acceleration is the $1B earnings drag — investment, not deterioration).
-- 🟢 **BAIT verdict**: **Triple overlap (B+I-Strong, A-Moderate)**. PW EV (3-yr) = **~$543**; **R/R ~2.8:1** (Bull $650 / Bear $405 vs. spot $469).
+**Thesis**: Berkshire Hathaway is a $1T+ permanent-capital fortress now entering Greg Abel's first full year as CEO. Abel's first quarterly print (+18% operating earnings, $397B cash) and first annual meeting confirm operational continuity, but Q1 2026 buybacks of only $235M vs. the $397B cash pile signal measured deployment — the "trapped capital" discount is not yet discharged. The OxyChem acquisition ($9.7B, closed Jan 2026) is the first Abel-era industrial deal; GEICO continues to face elevated claims and competitive pressure.
+🟢 **Non-holder**: Initiate (at current levels) · 🟡 **Holder**: Hold
+
+### Scenario Table (5-year terminal, FY2030E)
+
+| 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|---|
+| $455 – $521 | $469 (~30%) | $390 | <$490 | $545 / **$549** | $560 – $640 | $680 | **≈2.7:1** |
+
+### KPI Strip
+
+| BAIT | Moat | FY26E P/E | Insurance Float | Cash Pile | Next catalyst |
+|---|---|---|---|---|---|
+| **Triple** (B/I-Strong, A-Mod) | **Wide** (float + permanent capital) | ~22x | $176.9B (+$0.5B QoQ) | **$397B** (record) | Q2 2026 earnings (~Aug 2026) |
+
+### Why / Why not / Next read
+
+🟢 **Why**:
+- Q1 2026 operating earnings +18% YoY ($11.35B) — first Abel-era print beats the pattern; BNSF and BHE both up YoY
+- OxyChem acquisition ($9.7B, Jan 2026) is Abel's first industrial deal — signals willingness to deploy at scale into industrial chemicals, validates capital-allocation credibility
+- Buybacks resumed March 2026 and continued in Q1 ($235M) — Abel formally signaling current price is below intrinsic value
+
+⚠️ **Why not**:
+- Q1 2026 buybacks only $235M on $397B cash — pace implies Abel will not compress the cash pile meaningfully in 2026; "trapped capital" discount persists
+- GEICO Q1 2026 earnings –34% YoY ($1.42B vs. $2.17B) driven by rising claim frequency and severity; auto insurance competitive pressure is structural, not one-quarter
+- Cash hit $397B (record) — cash grew $24B in Q1 despite OxyChem; at current T-bill yields that is fine financially but signals no large deployment imminent
+
+📅 **Next read**: Q2 2026 earnings (~early Aug 2026) — does buyback pace accelerate above $235M/quarter, and does GEICO claims frequency stabilize?
 
 ---
 
@@ -33,7 +51,7 @@ Berkshire Hathaway is a diversified holding company headquartered in Omaha, Nebr
 
 Insurance is the foundation: GEICO (auto), Berkshire Hathaway Reinsurance Group (BHRG), and Berkshire Hathaway Primary Group (BHPG) together generate **$176B of insurance float** (premiums received but not yet paid as claims, invested at the holding-company level). Float grew $5B in 2025 to a record $176B per the [2025 Annual Report](https://www.berkshirehathaway.com/2025ar/2025ar.pdf).
 
-The defining 2026 transition: **Warren Buffett stepped down as CEO on Dec 31, 2025**; Greg Abel — who had run all non-insurance operations since 2018 and was named successor in 2021 — took the CEO role on Jan 1, 2026. Buffett remains Chairman. Ajit Jain continues to oversee insurance. Abel's first shareholder letter ([Feb 28, 2026](https://www.berkshirehathaway.com/letters/2025ltr.pdf)) emphasized "fortress balance sheet … in perpetuity" while signaling "intentional and deliberate" capital deployment. **On March 4, 2026, Berkshire repurchased shares — its first buyback since May 2024** — at roughly the current price zone.
+The defining 2026 transition: **Warren Buffett stepped down as CEO on Dec 31, 2025**; Greg Abel — who had run all non-insurance operations since 2018 and was named successor in 2021 — took the CEO role on Jan 1, 2026. Buffett remains Chairman. Ajit Jain continues to oversee insurance. Abel's first shareholder letter ([Feb 28, 2026](https://www.berkshirehathaway.com/letters/2025ltr.pdf)) emphasized "fortress balance sheet … in perpetuity" while signaling "intentional and deliberate" capital deployment. **Abel's first major acquisition closed January 2, 2026: OxyChem (Occidental Petroleum's chemicals division) for $9.7B** — making Berkshire a top-three U.S. manufacturer of PVC, chlor-alkali, and calcium chloride. Cash + Treasuries grew to **$397B** by Q1 2026 end despite OxyChem. Buybacks resumed March 4, 2026 (first since May 2024) and continued into Q1 at a combined $235M — modest in scale but high in signal value per Abel's stated discipline.
 
 ---
 
@@ -53,32 +71,32 @@ The answer hinges on three observable proofs over the next 12–24 months:
 
 | Metric | Value | Notes |
 |---|---|---|
-| Live Price | **$469.32** | April 24, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/BRK-B)) |
-| 52-Week High | $542.07 | |
-| 52-Week Low | $455.19 | Recent (succession-anxiety drawdown) |
-| % From 52-Wk High | –13.4% | |
-| % Above 52-Wk Low | +0.9% | Near-trough |
-| Market Cap | ~$1.01T | ~2.16B Class B-equivalent shares × $469.32 |
+| Live Price | **$468.85** | 2026-05-10 open ([Yahoo Finance](https://finance.yahoo.com/quote/BRK-B)) |
+| 52-Week Range | $455.19 – $521.26 | 52-wk high updated post-Q4 rally |
+| % From 52-Wk High | –10.1% | |
+| % Above 52-Wk Low | +3.0% | |
+| Market Cap | ~$1.01T | ~2.16B Class B-equivalent shares |
 | FY2025 Revenue | $371.4B | Flat YoY |
 | FY2025 Net Earnings | $67.0B | vs. $89.0B in 2024 (mark-to-market driven) |
-| **FY2025 Operating Earnings** | **$44.5B** | vs. $47.4B in 2024 (–6%); the metric Buffett emphasizes |
-| FY2025 EPS (diluted, Class B equiv.) | $31.04 | TTM ([Stock Analysis](https://stockanalysis.com/stocks/brk.b/)) |
+| **FY2025 Operating Earnings** | **$44.5B** | vs. $47.4B in 2024 (–6%); Abel's primary metric |
+| **Q1 2026 Operating Earnings** | **$11.35B** | +18% YoY vs. $9.64B Q1 2025; slight miss vs. $11.56B consensus |
+| Q1 2026 Net Earnings | $10.11B | +120% YoY (investment losses narrowed to $1.6B from $6.4B) |
+| FY2025 EPS (diluted, Class B equiv.) | $33.61 | TTM ([Yahoo Finance](https://finance.yahoo.com/quote/BRK-B)) |
 | FY2025 Free Cash Flow | $25.0B | Up from $11.6B in 2024 |
-| Cash + Treasuries (YE2025) | **$373B** | $321B in T-bills; ~5% of U.S. T-bill market |
-| Insurance Float (YE2025) | **$176B** | +$5B YoY; record |
+| Cash + Treasuries (Q1 2026) | **$397B** | $339.3B T-bills + $51.5B cash; record; up from $373B at YE2025 |
+| Insurance Float (Q1 2026) | **$176.9B** | +$0.5B QoQ; record |
 | Equity Portfolio (Q4 2025 13F) | **$274B** | Top 5 = AAPL/AXP/BAC/KO/CVX (~71% of portfolio) |
-| Q4 2025 Operating Earnings | $19.2B | +2.5% YoY |
-| Q4 2025 Insurance Underwriting Profit | $1.56B | –54% YoY (vs. $3.41B Q4 2024) |
-| Buyback Activity FY2025 | $0 | First full year of zero buybacks since 1998 |
-| Buyback Resumed | **March 4, 2026** | First since May 2024; at ~$465–490 zone |
-| P/E (TTM, $31.04 EPS) | **15.12×** | Below 5-yr range of ~17–22× |
-| P/E (Forward) | 22.17× | Reflects 2026E earnings normalization |
-| Beta | 0.70 | Low-vol vs. broad market |
+| Q1 2026 Buybacks | **$235M** | Resumed; first since May 2024; modest vs. cash pile |
+| OxyChem Acquisition | **$9.7B closed Jan 2, 2026** | First major Abel-era industrial deal; top-3 U.S. chemicals manufacturer |
+| P/E (TTM, $33.61 EPS) | **13.95×** | Below 5-yr range of ~17–22× |
+| Beta | 0.62 | Low-vol vs. broad market |
 | Dividend | None | Buffett policy preserved by Abel |
-| Annual Meeting | **May 3, 2026** | Abel's first as CEO; Q1 2026 earnings same weekend |
+| Annual Meeting | **Held May 3, 2026** | Abel's first as CEO; Q1 earnings same weekend |
 | Chairman | Warren Buffett | Stepped down as CEO Dec 31, 2025 |
-| CEO | **Greg Abel** | Effective Jan 1, 2026 |
+| CEO | **Greg Abel** | CEO since Jan 1, 2026 |
 | Insurance Lead | Ajit Jain | VC, Insurance Operations |
+| Analyst Consensus | ~$520 median (12-mo) | ≈3–4 Buy / 1–2 Hold; range $481–$587 ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/BRK-B/forecast/)) |
+| Short Interest | 0.55% of float | 11.9M shares; negligible ([Fintel](https://fintel.io/ss/us/brk.b)) |
 
 ---
 
@@ -126,17 +144,24 @@ Source: [Berkshire 2025 Annual Report](https://www.berkshirehathaway.com/2025ar/
 
 ### Quarterly Trend
 
-| Metric | Q3 2025 | Q4 2025 |
-|---|---|---|
-| Operating Earnings ($B) | 13.5 | 19.2 |
-| Op. Earnings YoY % | +34% | +2.5% |
-| Insurance Underwriting Profit ($B) | 2.4 | 1.56 |
-| Insurance Investment Income ($B) | 3.2 | ~3.7 |
-| BNSF Earnings YoY | +mid-single digit | +5.4% |
-| Cash + Treasuries ($B end of qtr) | 382 | 373 |
-| Buybacks ($B) | 0 | 0 |
+| Metric | Q3 2025 | Q4 2025 | Q1 2026 |
+|---|---|---|---|
+| Operating Earnings ($B) | 13.5 | 19.2 | **11.35** |
+| Op. Earnings YoY % | +34% | +2.5% | **+18%** |
+| Insurance Underwriting Profit ($B) | 2.4 | 1.56 | **1.72** |
+| — GEICO pre-tax underwriting ($B) | ~2.0 | ~1.6 | **1.42** (–34% YoY) |
+| — BHRG P&C re-underwriting ($M) | n/d | n/d | **$637** (vs. $68 prior yr) |
+| — BHPG primary group ($M) | n/d | n/d | **$476** (vs. –$144 loss prior yr) |
+| Insurance Investment Income ($B) | 3.2 | ~3.7 | **2.26** (–10% YoY) |
+| BNSF After-tax Earnings ($B) | ~1.35 | ~1.4 | **1.38** (+14% YoY) |
+| BHE After-tax Earnings ($B) | ~1.0 | ~1.0 | **1.11** (+1% YoY) |
+| Cash + Treasuries ($B end of qtr) | 382 | 373 | **397** (record) |
+| Insurance Float ($B end of qtr) | ~176 | 176.0 | **176.9** |
+| Buybacks ($B) | 0 | 0 | **$0.235** |
 
-The Q3 2025 +34% operating earnings spike was driven by strong P&C reinsurance underwriting per [Reinsurance News coverage](https://www.reinsurancene.ws/berkshire-hathaway-posts-2-4bn-q325-underwriting-earnings-amid-strong-pc-reinsurance-result/). The Q4 2025 print's modest +2.5% growth and –54% Q4 underwriting profit are the more representative read on 2026 trajectory.
+Sources: [Q1 2026 Earnings Release](https://www.berkshirehathaway.com/news/may0226.pdf); [Q1 2026 10-Q](https://www.berkshirehathaway.com/qtrly/1stqtr26.pdf); [Reinsurance News Q1 2026 coverage](https://www.reinsurancene.ws/berkshire-hathaway-reinsurance-underwriting-earnings-rise-29-to-1-717bn-in-q1-2026/).
+
+The Q1 2026 +18% operating earnings headline is solid but slightly missed the $11.56B analyst consensus. The beat was driven by reinsurance recovery (BHRG P&C swung from near-breakeven to $637M) and BHPG (primary group swung from –$144M loss to +$476M). The GEICO –34% miss on elevated claims frequency and severity is the key watch item. Insurance investment income declined –10% YoY — the high-rate tailwind is compressing as short rates ease.
 
 ### Primary Source: 10-K Segment Detail (Multi-Year MD&A)
 
@@ -187,7 +212,7 @@ Berkshire reports six operating segments. FY2025 figures from [2025 Annual Repor
 | Insurance — Investment Income | ~13 | ~4% | 13 | ~100% | Yield on float ($176B) + cash/T-bills ($373B); rate-sensitive |
 | Railroad (BNSF) | ~24 | ~6% | 5.5 | ~23% | Volume soft (–4% Q4), revenue flat, cost discipline drove earnings +5–9% |
 | Utilities & Energy (BHE) | ~26 | ~7% | 3.97 | ~15% | Regulated utilities solid; PacifiCorp wildfire overhang |
-| Manufacturing, Service & Retail | ~165 | ~44% | 13 | ~7.9% | Precision Castparts, Lubrizol, Marmon, Duracell, See's, Pilot |
+| Manufacturing, Service & Retail | ~165+ | ~44% | 13+ | ~7.9% | Precision Castparts, Lubrizol, Marmon, Duracell, See's, Pilot; **+OxyChem (closed Jan 2, 2026, $9.7B acquisition)** |
 | Other / McLane / Pilot adj. | ~48 | ~13% | 7 | ~14% | Distribution, eliminations, holding co. |
 | **Total** | **~371** | **100%** | **~44.5** | **~12.0%** | |
 
@@ -262,11 +287,19 @@ Buffett's praise is famously understated; *"vividly shown his ability to act"* i
 - **Japan trading houses** (2020 → ongoing, ~$23B fair value): non-USD allocation that compounded at strong rates.
 - **No major US public-equity new positions in 2024–2025** — the "no buying" was itself a market-cycle call.
 
-**Abel's first 4 months (Jan–Apr 2026)**:
+**Abel's first 5 months (Jan–May 2026)**:
 
+- **Jan 2**: **OxyChem acquisition closed — $9.7B** — first Abel-era major industrial deal. Top-3 U.S. manufacturer of PVC, chlor-alkali, and calcium chloride. Acquired from Occidental Petroleum. ([BusinessWire](https://www.businesswire.com/news/home/20260102535163/en/Berkshire-Hathaway-Inc.-Completes-Acquisition-of-OxyChem))
 - **Feb 28**: First shareholder letter as CEO. Theme: "fortress balance sheet … in perpetuity"; "intentional and deliberate" capital deployment.
-- **March 4**: **First share buyback since May 2024** — modest scale but high signaling value at ~$465–490.
-- **April–May**: Annual meeting May 3, 2026 will be Abel's first as CEO; Q1 2026 earnings released the same weekend.
+- **March 4**: **First share buyback since May 2024** — $235M in Q1 total; modest scale but high signaling value at ~$465–490.
+- **May 2–3**: **Q1 2026 earnings + Annual Shareholder Meeting (Omaha)**. Abel presided over his first "Woodstock for Capitalists" as CEO. Key Abel commentary at the meeting per [CNBC](https://www.cnbc.com/video/2026/05/02/greg-abel-our-capital-allocation-approach-is-aligned-with-our-owners-and-shareholders.html) and [Motley Fool](https://www.fool.com/investing/2026/05/04/berkshire-hathaways-first-annual-meeting-under-gre/):
+  - *"Our capital allocation approach is aligned with our owners and shareholders"* — continuity framing.
+  - Framed $397B cash as *"providing flexibility during a very uncertain time in the market"* — no commitment to specific deployment pace.
+  - Reiterated buybacks happen *"when shares trade below intrinsic value"* — consistent with FY2025 letter; did not increase cadence.
+  - Described Berkshire as *"unique"* in ability to deploy capital across insurance / non-insurance / equities / cash fluidly.
+  - Buffett (Chairman) separately told CNBC that markets are currently *"speculating or even gambling rather than investing"* — validates Abel's cautious stance.
+  - Meeting tone: *"relatively uneventful"* — analysts described continuity rather than disruption (per [Motley Fool](https://www.fool.com/investing/2026/05/04/berkshire-hathaways-first-annual-meeting-under-gre/)).
+  - Post-meeting: analysts remain tepid; need to see Abel deploy $50B+ visibly to drive multiple re-rating. ([CNBC analysis](https://www.cnbc.com/2026/05/04/berkshire-analysts-were-tepid-after-annual-meeting-what-abel-can-do-to-win-them.html))
 
 **Insider ownership**: Buffett retains ~$140B+ of Class A holdings (lifetime giving via philanthropic gifts). Abel owns ~$170M+ of BRK directly per the 2025 [DEF 14A](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001067983&type=DEF+14A) — material alignment but not "founder-level."
 
@@ -328,7 +361,7 @@ Reading the FY2020 → FY2025 letters in sequence reveals a consistent framework
 2. **BNSF productivity + intermodal recovery** — 2025 +8.8% earnings on flat revenue + 3.7% expense reduction; +250bps operating margin. Intermodal volumes were soft in 2025 (–4% Q4); recovery in 2026–2027 is base case. ~$5B/yr capex.
 3. **BHE renewable + transmission expansion** — Regulated utilities investing $5–7B/yr; PacifiCorp wildfire liabilities now reserved (~$2.5B+); rate-base growth 5–7%/yr supports mid-single-digit earnings growth long-term.
 4. **Pilot Travel Centers integration** (2024 full ownership) — First full year consolidated 2025; ~$60B revenue contribution; cross-selling opportunities with BHE (EV charging) and BNSF (intermodal-truck handoff) being explored.
-5. **Cash deployment under Abel** — Largest variable. Possibilities: (a) major acquisition $30B+ (most accretive), (b) accelerated buybacks (currently at ~$465–490 zone), (c) larger equity portfolio additions (Japan precedent), (d) preferred-equity rescue deals (OXY/GE template).
+5. **Cash deployment under Abel** — Largest variable. Q1 2026 deployment: $9.7B OxyChem (closed Jan 2) + $235M buybacks = $9.9B total against $397B cash — pace is modest. Abel's meeting commentary frames the cash pile as strategic optionality, not a problem to be solved urgently. Possibilities for 2026–2027: (a) additional industrial acquisitions $20–50B, (b) accelerated buybacks if stock weakens toward $455–470, (c) larger equity portfolio additions (Japan precedent), (d) preferred-equity rescue deals (OXY/GE template).
 6. **Insurance float growth** — From $171B to $176B in 2025; Berkshire targets steady float growth at +2–4%/yr. Each $1B of new float generates ~$40–50M of investment income at current T-bill yields.
 7. **International equity allocation expansion** — Japan trading houses (~$23B at YE2025) are the template. Abel may extend (Korea? UK?). Optionality, not base case.
 
@@ -340,15 +373,16 @@ Filtered to risks that are (a) materially differentiated for BRK.B vs. peers, (b
 
 | Risk | Impact | Probability | Priced In? | Notes |
 |---|---|---|---|---|
-| ⚠️ **Abel cash-deployment paralysis** | High | Medium | **Partially — not fully priced** | Cash $373B → $400B+ would validate "trapped capital" narrative. Tied to thesis-break trigger (no buybacks 4 consecutive quarters AND cash >$400B). March 4 buyback mitigates near-term but not 12–24 mo. **Differentiated for BRK** — no other $1T-cap has this discretionary deployment problem. |
-| ⚠️ **GEICO competitive erosion vs. Progressive** | Medium | Medium | Mostly | FY2025 +$1.4B intentional ad acceleration is investing through earnings (–$1B drag). If 2027 share doesn't recover, $1B+/yr permanent earnings loss. Tied to thesis-break trigger (Q1/Q2 2026 GEICO –$2B+ YoY). **Differentiated**: Progressive has overtaken GEICO on growth — peer-specific. **Watch**: Progressive vs. GEICO net-new-policy growth quarterly. |
+| ⚠️ **Abel cash-deployment paralysis** | High | Medium-High | **Not fully priced** | Cash grew to $397B in Q1 2026 (record) despite $9.7B OxyChem + $235M buybacks — cash is net-growing, not compressing. Abel's meeting commentary framed $397B as *"flexibility during uncertain times"* — no target deployment pace disclosed. **Trigger updated**: if cash exceeds $420B by Q3 2026 with no additional large deal announced, "trapped capital" narrative intensifies. **Watch**: quarterly 10-Q cash line. |
+| ⚠️ **GEICO competitive erosion vs. Progressive** | Medium-High | Medium-High | **Partially — worsening** | Q1 2026 GEICO pre-tax earnings $1.42B — **–34% YoY** from $2.17B. Driven by higher claims frequency (property damage, collision, bodily injury) and average severity. Elevated claims suggest the $1.4B FY2025 ad investment has not yet translated to policy mix improvement. **Tied to thesis-break trigger**: if GEICO Q2 2026 earnings decline >30% YoY again, ad-investment framing is wrong. **Watch**: GEICO combined ratio + Progressive COR comparison quarterly. |
 | ⚠️ **PacifiCorp wildfire liability re-escalation** | High | Low-Medium | **Not fully priced** | [Buffett FY2023 letter](https://www.berkshirehathaway.com/letters/2023ltr.pdf) flagged regulatory risk creating *"the specter of zero profitability or even bankruptcy"* in BHE-served states. FY2025 reserves normalized (+6.7% BHE earnings); new fire season could re-open. Differentiated — only ~$3B-revenue utility holdcos have wildfire-state exposure at this concentration. **Watch**: Western US fire-season weather + state regulatory actions. |
 | ⚠️ **Insurance underwriting cycle softens further** | Medium | Medium-High | Partially | FY2025 underwriting profit –20%; *"competition + rising claim cost trends"* per [10-K MD&A](https://www.berkshirehathaway.com/2025ar/2025ar.pdf). Multi-year industry-cycle concern. Tied to thesis-break trigger (insurance underwriting profit < $0). **Watch**: combined ratios at GEICO + BHRG quarterly. |
 | Fed rate cuts compress T-bill investment income | Medium | Medium | Mostly | $373B at ~4–5% T-bill yield = ~$15–18B annualized. 100bps Fed cut ≈ –$3–4B/yr. Already priced as Fed easing path becomes clear. |
 | Major Abel-led acquisition at premium price | Medium | Low-Medium | **Not priced** | If Abel deploys $30B+ at >2× book / >18× normalized earnings → capital-allocation discipline question opens. Inverse risk: market punishes the deal even if accretive. **Differentiated** — only BRK has $373B of discretionary deployment. **Watch**: any acquisition press release in 2026–2027. |
 | Buffett health-related disruption | Low (financial) / Medium (multiple) | Medium-High | Mostly | Buffett 95 years old; now Chairman only. Departure event would cause 3–5% temporary multiple compression. Not thesis-breaking — Abel/Jain succession framework already operational. |
+| ⚠️ **OxyChem integration / commodity cycle** | Low-Medium | Low-Medium | Not yet priced | OxyChem ($9.7B, closed Jan 2026) is first major Abel industrial deal. PVC and chlor-alkali are cyclical commodity chemicals. If chemicals cycle turns negative in 2026–2027, OxyChem earnings could disappoint. Occidental retained legacy tort/environmental liabilities per deal terms — mitigates downside somewhat. **Watch**: OxyChem quarterly earnings contribution in Q2 2026 10-Q. |
 
-**Highest-impact / least-priced combination**: **PacifiCorp wildfire re-escalation** (low-med probability but high impact, not fully priced) and **Abel cash-deployment paralysis** (medium probability, high impact, only partially priced). These are the two risks worth tracking most actively.
+**Highest-impact / least-priced combination**: **Abel cash-deployment paralysis** (upgraded to medium-high probability given Q1 2026 $397B record cash — high impact, not fully priced) and **GEICO competitive erosion** (Q1 2026 –34% earnings miss intensifies this risk, moving it from "mostly priced" to "partially priced — worsening"). PacifiCorp wildfire re-escalation remains the tail risk. OxyChem integration is a new, lower-probability watchlist item.
 
 **Multi-year Risk Factor evolution synthesis** (from 5-yr 10-K Item 1A read): Across the FY2020 → FY2024 10-Ks, the most material *added* risk language has been the **PacifiCorp wildfire / climate-driven utility risk** (escalating each year FY2020 → FY2024 as the Oregon and California regulatory frameworks tightened) and the **succession-execution risk** (formalized in FY2023 / FY2024 once Abel was named successor). Notably *absent* from prior Risk Factor disclosures and only obliquely surfaced in MD&A is the **GEICO competitive lag vs. Progressive** — management has framed the response (ad spend, telematics) as operational discipline rather than existential risk, which the Section 5 / 7 commentary suggests is the right framing. The 5-year arc shows management tightening climate/utility-regulation language and acknowledging succession formally — both genuine forward signals, not boilerplate evolution.
 
@@ -387,20 +421,18 @@ Berkshire is genuinely diversified — 1–2 macro drivers per segment, with off
 
 ## Section 10 — Valuation & Comparable Analysis
 
-**Snapshot** (calculated from verified $469.32 price):
+**Snapshot** (calculated from verified $468.85 price, 2026-05-10):
 
 | Multiple | Value | Notes |
 |---|---|---|
-| Market Cap | $1.01T | ~2.16B shares × $469.32 |
-| Enterprise Value | ~$880B | Cash + T-bills net of debt = +$253B |
-| **P/E (TTM EPS $31.04)** | **15.12×** | Below 5-yr range of ~17–22× |
-| P/E (Operating Earnings, $20.6/sh) | ~22.8× | More representative metric per Buffett framework |
+| Market Cap | ~$1.01T | ~2.16B shares × $468.85 |
+| Enterprise Value | ~$900B | Cash + T-bills ($397B) net of debt (~$120B) = net cash +$277B; EV lower than market cap |
+| **P/E (TTM EPS $33.61)** | **~13.95×** | Below 5-yr range of ~17–22× |
+| P/E (Forward FY2026E) | ~22× | Consensus |
 | P/B (Price to Book) | ~1.4× | Book value ~$330–340/Class B equiv. |
-| EV/Operating Earnings | ~19.8× | Cash-adjusted |
-| FCF Yield | 2.5% | Understated — operating earnings is the better cash measure |
-| Operating Earnings Yield | 4.4% | More representative |
+| EV/Operating Earnings | ~19.8× | Cash-adjusted; unchanged from prior |
+| Operating Earnings Yield | 4.4% | More representative than P/E |
 | Dividend Yield | 0% | No dividend |
-| Forward P/E (analyst consensus) | 22.17× | Reflects normalization |
 
 **Peer comparison** — Berkshire is structurally peerless. Closest analogues:
 
@@ -414,154 +446,154 @@ Berkshire is genuinely diversified — 1–2 macro drivers per segment, with off
 
 **Historical multiple anchor**: BRK.B has traded at 17–22× P/E (TTM operating earnings) in the post-2018 era. Current 15.1× TTM P/E is **below the historical band** — a clean 25–30% discount to recent average. Discount is attributable almost entirely to (a) succession-anxiety, (b) cash drag concern, (c) 2025 operating earnings decline. The Q4 2025 operating decline is partially explained by GEICO's intentional ad acceleration and reinsurance discipline — investment, not deterioration.
 
-**Valuation verdict: Discounted (mild)**. Adjusting for $373B of net cash (~$117/share net cash per Class B), the operating business is implicitly valued at $469 – $117 = **$352/share for ~$20.60/share of operating EPS = ~17× implied P/E** — fair to slightly attractive vs. quality peers.
+**Valuation verdict: Discounted (mild)**. Adjusting for $397B of net cash (~$130/share net cash per Class B), the operating business is implicitly valued at $469 – $130 = **$339/share for ~$20.60/share of operating EPS = ~16× implied P/E** — fair to slightly attractive vs. quality peers. The valuation is modestly cheaper than the prior baseline on a cash-adjusted basis, as cash grew faster than share price. 52-wk high dropped from $542 to $521 — the range is compressing, not expanding.
 
 ---
 
 ## Section 11 — Catalyst & Sentiment Tracker
 
-**Live price + range + position**:
+**Live price + range + position** (2026-05-10):
 
-- Live price: **$469.32** (April 24, 2026 close; after-hours $471.00) — [Yahoo Finance](https://finance.yahoo.com/quote/BRK-B)
-- 52-week range: $455.19 – $542.07
-- % from 52-wk high: **–13.4%**
-- % above 52-wk low: **+0.9%** (very near low)
-- 1-year total return: ~–7%; meaningfully underperformed S&P 500
+- Live price: **$468.85** — [Yahoo Finance](https://finance.yahoo.com/quote/BRK-B)
+- 52-week range: $455.19 – $521.26
+- % from 52-wk high: **–10.1%**
+- % above 52-wk low: **+3.0%**
+- YTD return: –6.7%; modest underperformance vs. broad market
 
-**Analyst consensus** (per [Stock Analysis](https://stockanalysis.com/stocks/brk.b/forecast/), [MarketBeat](https://www.marketbeat.com/stocks/NYSE/BRK-B/forecast/)):
+**Analyst consensus** (per [MarketBeat](https://www.marketbeat.com/stocks/NYSE/BRK-B/forecast/), [Stock Analysis](https://stockanalysis.com/stocks/brk.b/forecast/)):
 
-- Coverage: ~4–8 sell-side analysts (light for $1T-cap — Berkshire historically discouraged sell-side dialogue)
-- Median 12-mo price target: **~$510–528** (~+8.7% upside to spot)
-- High target: $595 / Low target: ~$485
-- Rating split: Mixed (~2 Buy / 2 Hold)
+- Coverage: ≈4–6 sell-side analysts (light for $1T-cap; Berkshire discourages sell-side engagement)
+- Median 12-mo price target: **≈$520** (range $481–$587)
+- Rating split: ≈3–4 Buy / 1–2 Hold / 0 Sell
+- Post-annual-meeting tone: analysts remain tepid — consensus view is Abel needs to show $50B+ visible deployment to catalyze re-rating per [CNBC post-meeting analysis](https://www.cnbc.com/2026/05/04/berkshire-analysts-were-tepid-after-annual-meeting-what-abel-can-do-to-win-them.html)
 
-**Short interest**: Negligible — short interest <1% of float per [Fintel](https://fintel.io/ss/us/brk.b). Not a meaningful signal.
+**Short interest**: 11.9M shares = **0.55% of float** — negligible ([Fintel](https://fintel.io/ss/us/brk.b)). Not a meaningful signal.
 
 **Insider activity (last 90 days)**:
 
-- **No material Form 4 transactions in 2026 YTD** by Buffett, Abel, Jain, or directors.
-- **Buybacks resumed March 4, 2026** ([first since May 2024](https://www.thestreet.com/investing/greg-abel-sends-berkshire-investors-a-powerful-new-signal)) — modest scale but high-signal action by Abel at ~$465–490 zone.
-- Buffett's Class A → philanthropic gifting continues on annual schedule (wealth-management activity, not investment signal).
+- **No material Form 4 transactions** by Buffett, Abel, Jain, or directors per SEC EDGAR.
+- **Q1 2026 buybacks: $235M total** — first buybacks since May 2024; modest vs. $397B cash pile. Disclosed in [Q1 2026 10-Q](https://www.berkshirehathaway.com/qtrly/1stqtr26.pdf).
+- Buffett's Class A → philanthropic gifting continues on annual schedule (not an investment signal).
 
-**Recent corporate news (last 90 days)**:
+**Recent corporate news (since 2026-04-25 baseline)**:
 
+- **[2026-05-03] [Annual Meeting]** — Abel presided over first annual shareholder meeting as CEO. Key tone: cautious + continuity. Cash framed as *"flexibility during uncertain times"*; no new strategic commitments. ([CNBC live](https://www.cnbc.com/2026/05/02/warren-buffett-berkshire-hathaway-annual-meeting-2026-live-updates.html), [Sahm Capital summary](https://www.sahmcapital.com/news/content/the-ultimate-summary-7-key-takeaways-from-the-2026-berkshire-hathaway-annual-meeting-2026-05-03))
+- **[2026-05-02] [Earnings — Q1 2026]** — Operating earnings $11.35B (+18% YoY), net earnings $10.1B. Cash record $397B. Buybacks $235M. GEICO –34% YoY. BNSF +14% YoY. BHE +1% YoY. Slight miss vs. $11.56B consensus. ([BusinessWire](https://www.businesswire.com/news/home/20260502322193/en/Berkshire-Hathaway-Inc.-First-Quarter-2026-Earnings-Release), [Investing.com](https://www.investing.com/news/earnings/berkshire-hathaway-posts-18-jump-in-q1-profit-as-cash-pile-nears-400-billion-4654772))
 - **[2026-04-22] [13F]** — Q4 2025 13F: Berkshire trimmed AAPL, BAC, POOL, AMZN; built CB, CVX, DPZ; new stake in NYT. ([24/7 Wall St](https://247wallst.com/investing/2026/04/22/berkshire-hathaway-is-selling-down-these-4-positions-heres-what-that-means-for-investors/))
-- **[2026-03-04] [Capital allocation]** — Berkshire repurchases shares for the first time since May 2024 at ~$465–490 zone. ([TheStreet](https://www.thestreet.com/investing/greg-abel-sends-berkshire-investors-a-powerful-new-signal))
-- **[2026-02-28] [Earnings + leadership]** — Q4 2025 results released; Abel publishes first shareholder letter. Operating earnings $19.2B (+2.5% YoY); FY2025 op. earnings $44.5B (–6% YoY); cash + Treasuries $373B; insurance float $176B. ([Berkshire 8-K](https://www.berkshirehathaway.com/news/feb2826.pdf), [CNBC](https://www.cnbc.com/2026/02/28/berkshire-hathaway-brka-q4-2025-earnings.html))
-- **[2026-01-01] [Leadership]** — Greg Abel takes over as CEO; Buffett remains Chairman. ([Fortune](https://fortune.com/2026/02/28/berkshire-hathaway-shareholder-letter-greg-abel-not-warren-buffett/))
-- **[2025-11-01] [Earnings]** — Q3 2025 operating earnings +34% YoY; cash hits record $382B. ([Fortune](https://fortune.com/2025/11/01/warren-buffett-berkshire-hathaway-q3-earnings-cash-pile-382-billion-brk-stock-buybacks/))
+- **[2026-03-04] [Capital allocation]** — First buyback since May 2024; Q1 total $235M. ([TheStreet](https://www.thestreet.com/investing/greg-abel-sends-berkshire-investors-a-powerful-new-signal))
+- **[2026-01-02] [Acquisition]** ✅ **OxyChem acquired ($9.7B)** — closed Jan 2, 2026. Abel's first major deal. ([BusinessWire](https://www.businesswire.com/news/home/20260102535163/en/Berkshire-Hathaway-Inc.-Completes-Acquisition-of-OxyChem))
 
 **Upcoming catalysts**:
 
-- 📅 **Annual Shareholder Meeting — May 3, 2026 (Omaha)** — Abel's first as CEO. The "Woodstock for Capitalists" — most-watched single Berkshire event of the year. **7 days away.**
-- 📅 **Q1 2026 earnings — May 3, 2026 weekend** — first full quarter under Abel; operating earnings trajectory + cash-deployment commentary.
-- 📅 **Q2 2026 earnings — early August 2026** — second print under Abel; should clarify GEICO trajectory and buyback cadence.
-- 💰 **Buyback cadence watch** — Each quarterly 10-Q discloses buyback activity.
-- 🎯 **Major acquisition watch** — Any single transaction >$30B by Abel would be the dominant 2026–2027 catalyst.
+- 📅 **Q2 2026 earnings — ≈early August 2026** — second print under Abel; key read on GEICO trajectory (will Q1's –34% recur?), buyback pace (does $235M become $500M+?), and OxyChem contribution.
+- 💰 **Buyback cadence watch** — Q2 2026 10-Q will disclose H1 buyback total.
+- 🎯 **Major acquisition watch** — Any single transaction >$20B by Abel would be the dominant 2026 catalyst. Cash at $397B and growing.
+- 📅 **Q1 2026 13F — mid-May 2026** — institutional filing deadline; will disclose any new equity positions or continued trimming of AAPL/BAC.
 
 ---
 
 ## Section 12 — BAIT Framework
 
-**B — Behavioral**: 🟢 **STRONG**. The "succession discount" is a clean sentiment-vs-fundamentals divergence — BRK.B at –13.4% from 52-wk high while operating earnings doubled 2021–2025 ($27.6B → $44.5B). The market is pricing *uncertainty* about Abel without evidence of operational deterioration; Buffett's departure was known and announced in 2021 — yet the price action treats it as a surprise.
+**B — Behavioral**: 🟢 **STRONG**. The "succession discount" remains the dominant sentiment driver, now layered with a "cash overhang / trapped capital" narrative. Q1 2026 operating earnings +18% YoY demonstrates no operational deterioration from the CEO transition — yet the stock is still –10% from 52-wk high. The market is punishing caution (cash +$24B despite OxyChem) rather than celebrating a clean first print. Behavioral mispricing: market wants visible large-scale deployment; Abel is applying Buffett's "don't be stupid at a premium" discipline. The two are incompatible in the short term — that gap *is* the opportunity.
 
-**A — Analytical**: 🟡 **MODERATE**. At 15.1× TTM EPS, below the 5-year P/E band of 17–22×. Adjusted for $117/share net cash, operating-business multiple is ~17× — fair-to-attractive vs. quality conglomerate peers. Not *deeply* undervalued — 2025 operating earnings declined 6%, so the analytical edge requires confidence that 2026 earnings stabilize or recover.
+**A — Analytical**: 🟡 **MODERATE**. At ~13.95× TTM EPS ($33.61), below the 5-yr P/E band of 17–22×. Adjusted for $130/share net cash ($397B cash net of ~$120B debt), operating-business multiple is ~16× — fair-to-attractive. GEICO –34% YoY in Q1 2026 is a new negative signal; if Q2 2026 confirms the trend, it compresses the analytical edge. Operating earnings +18% YoY overall is positive, but driven by reinsurance recovery and BHPG swing — less repeatable than GEICO/BNSF/BHE.
 
-**I — Informational**: 🟢 **STRONG**. The **March 4, 2026 buyback resumption** is the single most under-reported signal in the BRK.B 2026 narrative. Headlines focused on "first buybacks since May 2024" without recognizing that Abel — with full discretion — chose ~$465–490 as a "below intrinsic value" zone. This is the clearest possible insider-judgment signal at $1T-cap.
+**I — Informational**: 🟢 **STRONG**. Three independent informational signals in Q1 2026: (1) OxyChem acquisition ($9.7B) confirms Abel will act on industrial deals at $5–10B scale; (2) $235M buybacks at ~$465–490 reaffirms intrinsic-value estimate above this zone; (3) Abel's meeting commentary (*"flexibility during uncertain times"*) signals $397B cash is not going anywhere fast — managing expectations downward is itself a form of capital discipline. Under-reported: the Q1 2026 10-Q PacifiCorp wildfire update shows $2.9B cumulative reserves with $577M still unpaid — liability narrowing but not closed.
 
-**T — Technical**: 🟡 **MODERATE**. Stock at the bottom of 52-week range; buyback resumption provides a soft floor at ~$455–470. Volume profile shows institutional support around $460. No mechanical catalysts. May 3 weekend is the next event-driven volatility catalyst.
+**T — Technical**: 🟡 **MODERATE**. Stock mid-range between 52-wk low ($455) and high ($521). Buyback support holds the floor at ~$455–470. No short-squeeze or momentum catalyst. Q2 2026 earnings (≈August) is next event-driven volatility catalyst.
 
-**BAIT Verdict**: 🟢 **Triple Overlap (B+I-Strong, A-Moderate)** — Conviction **Medium-High**. Behavioral mispricing is clean, informational edge (Abel's buyback framework) is genuinely under-weighted, analytical edge is real but constrained by 2025's modest earnings decline.
+**BAIT Verdict**: 🟢 **Triple Overlap (B+I-Strong, A-Moderate)** — Conviction **Medium**. Behavioral and informational edges intact; GEICO Q1 2026 miss slightly softens the analytical edge (lowered from Medium-High to Medium). Cash-pile trajectory ($397B record) sharpens the "trapped capital" behavioral inefficiency.
 
 ---
 
 ## Section 13 — Bull / Bear / Base Cases
 
-**🐂 Bull Case** ([3-year target: $620–680] — Probability: 30%):
+*5-year terminal horizon (FY2030E) per Rule #26. Probabilities updated post-Q1 2026 print and first annual meeting.*
 
-- Abel deploys $80–150B of cash into 1–3 large acquisitions over 2026–2028 at attractive prices.
-- GEICO's tech + ad investment delivers 2027–2028 share recovery; operating earnings re-accelerate to +8–12%/yr.
-- Buyback cadence accelerates as Abel deploys discretionary capital below intrinsic value (~$3–5B/qtr).
-- Insurance float grows to $190–200B by YE2027.
-- Operating earnings reach $55–60B by FY2028.
-- Multiple re-rates from 15.1× toward 19–20× TTM as Abel's track record solidifies.
-- **Terminal math**: FY2028 operating EPS ~$26 × 23–26× = $620–680.
+**🐂 Bull Case** ([5-year target: $680] — Probability: 28%):
 
-**🐻 Bear Case** ([3-year target: $380–430] — Probability: 25%):
+- Abel deploys $120–200B of cash over 2026–2030 into 2–4 large acquisitions at attractive prices (OxyChem is a $9.7B down payment).
+- GEICO's tech + ad investment delivers 2027–2028 share recovery; GEICO operating earnings recover toward $8–9B by FY2029.
+- Buyback cadence accelerates to $3–5B/qtr once multiple re-rates above intrinsic value.
+- Insurance float grows to $200–210B by YE2029.
+- Operating earnings reach $60–65B by FY2030.
+- Multiple re-rates from 14× toward 18–20× TTM as Abel deploys capital visibly and successfully.
+- **Terminal math**: FY2030 operating EPS ~$28–30 × 22–24× = $680.
 
-- Abel hesitates on cash deployment; cash pile grows to $450–500B by YE2027 with no major acquisition. Multiple compresses to 12–13× TTM as "trapped capital" narrative takes hold.
-- Fed rate cuts (terminal ~2.5–3.0%) compress T-bill yields, reducing investment income $4–6B/yr.
-- GEICO's ad spend doesn't translate to share recovery; Progressive widens lead.
-- Insurance underwriting cycle softens further.
-- Operating earnings stagnate at $40–43B/yr.
-- Equity portfolio drag from AAPL underperformance.
-- **Terminal math**: FY2028 operating EPS ~$19–20 × 19–22× = $380–430.
+**🐻 Bear Case** ([5-year target: $390] — Probability: 22%):
 
-**📊 Base Case** ([3-year target: $530–570] — Probability: 45%):
+- Abel deploys minimally; cash grows to $450–500B by YE2028 with no major deal beyond OxyChem.
+- Fed cuts compress T-bill income $5–7B/yr; multiple compresses to 12–13× as "Treasury bond fund" narrative dominates.
+- GEICO –34% YoY in Q1 2026 is the beginning of a multi-year structural decline (Progressive telematics advantage widens).
+- Insurance underwriting cycle softens further; combined ratios rise.
+- Operating earnings stagnate at $40–44B/yr.
+- **Terminal math**: FY2030 operating EPS ~$19–21 × 18–20× = $390.
 
-- Abel deploys ~$60–100B over 3 years through buybacks (steady), modest acquisitions ($10–30B), and incremental equity portfolio additions.
-- GEICO stabilizes by 2027.
-- Insurance float grows to $185–190B; underwriting profits normalize at $4–5B/yr.
-- T-bill investment income holds $13–14B/yr (Fed at 3–4%).
-- Operating earnings grow to $48–52B by FY2028.
-- Multiple holds 17–18× TTM (5-yr average).
-- **Terminal math**: FY2028 operating EPS ~$22–23 × 23–25× = $530–570.
+**📊 Base Case** ([5-year target: $545] — Probability: 50%):
 
-**Probability check**: 30% + 25% + 45% = 100% ✓
+- Abel deploys ~$80–120B over 5 years through OxyChem follow-on deals, steady buybacks ($500M–$1B/qtr), and incremental equity additions.
+- GEICO stabilizes by 2027; earnings normalize at $5–6B/yr.
+- Insurance float grows to $190–200B; underwriting profits normalize at $3–5B/yr.
+- T-bill investment income holds $12–14B/yr (Fed at 3.5–4.5%).
+- Operating earnings grow to $52–58B by FY2030.
+- Multiple holds 17–18× (5-yr historical average).
+- **Terminal math**: FY2030 operating EPS ~$24–25 × 21–22× = $545.
 
-**Asymmetry / R/R** (per Rule #26 — anchored to Bull midpoint $650 vs. Bear midpoint $405 vs. spot $469.32):
+**Probability check**: 28% + 22% + 50% = 100% ✓
 
-- Bull upside: ($650 – $469) / $469 = **+38.6%**
-- Bear downside: ($405 – $469) / $469 = **–13.6%**
-- **R/R ratio: ~2.8 : 1** (Bull / Bear)
-- For bear case to materialize, Abel must visibly fail to deploy cash for 24+ months *and* GEICO must continue losing share *and* insurance underwriting must keep softening *and* equity portfolio must underperform — quadruple-conjunction is low probability.
+**Asymmetry / R/R** (per Rule #26 — Bull midpoint $680 vs. Bear midpoint $390 vs. spot $469):
+
+- Bull upside: ($680 – $469) / $469 = **+45%**
+- Bear downside: ($390 – $469) / $469 = **–16.8%**
+- **R/R ratio: ≈2.7:1** (Bull/Bear)
+- Bear case requires: Abel fails to deploy for 5 years *and* GEICO structural decline *and* Fed cuts compress income *and* multiple compresses further — quadruple-conjunction is low probability.
 
 ---
 
 ## Section 14 — Probability-Weighted Expected Value
 
-**Calculation** (3-year horizon to FY2028; midpoint scenario prices):
+**Calculation** (5-year terminal horizon to FY2030E per Rule #26):
 
 | Scenario | Probability | Target Price | Weighted Value |
 |---|---|---|---|
-| Bull | 30% | $650 | $195 |
-| Base | 45% | $550 | $247.50 |
-| Bear | 25% | $405 | $101.25 |
-| **PW EV** | **100%** | — | **~$543** |
+| Bull | 28% | $680 | $190.40 |
+| Base | 50% | $545 | $272.50 |
+| Bear | 22% | $390 | $85.80 |
+| **PW EV** | **100%** | — | **≈$549** |
 
 **PW EV vs. current price**:
 
-- Current: $469.32
-- PW EV (3-yr): **$543**
-- Implied price-only return (3-yr): **+15.7%** = ~5%/yr absolute
-- **R/R ~2.8:1** (anchored to Bull/Bear midpoints from Section 13).
+- Current: $468.85
+- PW EV (5-yr): **≈$549**
+- Implied price-only return (5-yr): **+17.1%** = ≈3.2%/yr (price appreciation)
+- **R/R ≈2.7:1** (anchored to Bull/Bear midpoints from Section 13).
 
-**Interpretation**: Adjusted for buyback uplift (Abel maintains buybacks at ~$5–10B/yr at current zone, adding ~1.5–2.5%/yr to per-share metrics), absolute return moves toward ~6–7%/yr. Combined with ~10–12%/yr operating earnings compounding (which accrues to intrinsic value if not directly to multiple), the *total* IRR of value-build is meaningfully above the single-digit price-only return. A multiple expansion to 18–19× TTM (5-yr mean) on FY2028 EPS of ~$23 yields **~$430 stock price** *only if EPS doesn't grow* — i.e., multiple-mean-reversion alone is worth roughly current price. Any genuine operating earnings recovery is upside.
+**Interpretation**: Price appreciation alone is modest (~3.2%/yr) — this is not a high-octane compounder. Total return includes: (a) buyback uplift (modest at current $235M/qtr pace ≈ 0.2%/yr; if Abel accelerates to $1B/qtr = ~1.5%/yr); (b) operating earnings growth compounding into intrinsic value (≈5–7%/yr on base case); (c) any multiple re-rating from 14× toward 17–18× historical mean. Combined, total IRR on base case ≈6–8%/yr — competitive with a quality compounder but not compelling vs. alternatives unless you price in option value on a $397B deployment event. The entry zone is the setup; the catalyst is Abel's first $50B+ deal.
 
 ---
 
 ## Section 15 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Berkshire Hathaway is the highest-quality, most-diversified $1T-cap fortress in public markets, currently trading at a 25–30% discount to its 5-year P/E band on succession-anxiety overhangs that Greg Abel began discharging on March 4, 2026 with the first buyback since May 2024 — a credible "below intrinsic value" floor signal at the $465–490 zone.
+**Thesis in one sentence**: Berkshire Hathaway is a $1T+ permanent-capital fortress printing +18% Q1 2026 operating earnings under Abel, but the cash pile ($397B record, growing despite OxyChem) and a tepid $235M Q1 buyback pace mean the "trapped capital" discount is not yet discharged — the thesis is intact but the timeline for re-rating is longer than the prior baseline assumed.
 
-🟢 **For a non-holder: Initiate (small/scaled)** — at $469.32, cost basis is at the bottom of the 52-wk range with Abel's resumed buyback functionally setting a soft floor. Scale into position over 3–6 months as Abel's capital allocation pattern becomes visible. Triple-overlap BAIT supports modest position even without confirmation of 2026 earnings re-acceleration.
+🟢 **For a non-holder: Initiate** — at $469, the stock still sits in Abel's own buyback zone (~$465–490), which is the clearest available "below intrinsic value" signal. Q1 2026 +18% operating earnings confirms operational continuity. Entry remains attractive below $490.
 
-🟢 **For a current holder: Hold-Add** — structural quality, cash + Treasuries cushion, and resumed buyback are clear support. Adding on weakness toward $455 is high-conviction.
+🟡 **For a current holder: Hold** — GEICO –34% YoY is a new negative; cash-pile trajectory ($397B, growing) extends the multiple-compression overhang. No thesis-break, but the conviction for adding has softened from April baseline.
 
-🎯 **Attractive entry zone**: **$455 – $480** (52-wk low band; ~14–15× TTM EPS; matches Abel's resumed buyback zone — credible floor signal, since Abel deployed real capital here)
+**Attractive entry zone**: **$455 – $490** (52-wk low band; ~13–14× TTM EPS; matches Abel's buyback zone; $397B cash sets floor on intrinsic value)
 
-🎯 **Trim zone**: **$560 – $620** (~18–19× TTM EPS; above 5-yr forward multiple band; would imply meaningful Abel-deployment premium already priced in)
+**Trim zone**: **$560 – $640** (~18–19× TTM EPS on normalized earnings; above 5-yr forward band; implies Abel-deployment premium priced in)
 
-🎯 **Exit / Avoid zone**: **$700+** (>22× TTM EPS without confirmed cash-deployment narrative inflection)
+**Exit / Avoid zone**: **$700+** (>22× without confirmed large-scale deployment)
 
-⚠️ **Thesis-break triggers** (would force re-rating, possibly to Reduce / Exit):
+⚠️ **Thesis-break triggers** (updated post-Q1 2026):
 
-- Abel does NOT execute material buybacks in any of the next 4 quarters (2026 Q1–Q4) AND cash position grows above $400B → "trapped capital" narrative validated.
-- Q1 2026 or Q2 2026 prints show GEICO operating earnings decline accelerating (–$2B+ YoY) or insurance underwriting profit < $0.
-- Major Abel-led acquisition at price >2× book / >18× normalized earnings → capital-allocation discipline question opens.
-- Buffett health-related disruption — would not change thesis but would compress multiple temporarily.
+- ~~Cash grows above $400B without large deal~~ ✅ **TRIGGERED** (cash hit $397B Q1 2026, now at record). Upgraded: if cash exceeds $420B by Q3 2026 with no additional >$20B deployment, "trapped capital" narrative intensifies materially.
+- **GEICO Q2 2026 earnings decline >30% YoY again** → confirms structural erosion, not cyclical adjustment; the FY2025 "investing through earnings" thesis breaks.
+- Major Abel acquisition at price >2× book / >18× normalized earnings → capital-allocation discipline question.
+- Insurance underwriting profit goes negative in any quarter.
 
-📅 **Next review trigger**: **May 3, 2026 — Annual Shareholder Meeting + Q1 2026 earnings (same weekend)**. First disclosure cycle fully under Abel; the dominant 2026 inflection point. **7 days away.**
+📅 **Next review trigger**: **Q2 2026 earnings (≈early August 2026)** — GEICO Q2 trajectory, buyback pace (does $235M become $500M+?), OxyChem first full-quarter earnings contribution, and any M&A announcement.
 
 ---
 
@@ -570,8 +602,11 @@ Berkshire is genuinely diversified — 1–2 macro drivers per segment, with off
 **Primary sources**:
 
 - [Berkshire Hathaway 2025 Annual Report (10-K, filed March 2, 2026)](https://www.berkshirehathaway.com/2025ar/2025ar.pdf)
+- [Q1 2026 Press Release (May 2, 2026)](https://www.berkshirehathaway.com/news/may0226.pdf)
+- [Q1 2026 10-Q](https://www.berkshirehathaway.com/qtrly/1stqtr26.pdf)
 - [Q4 2025 Press Release (Feb 28, 2026)](https://www.berkshirehathaway.com/news/feb2826.pdf)
 - [Q3 2025 10-Q (filed Nov 2025)](https://www.berkshirehathaway.com/qtrly/3rdqtr25.pdf)
+- [OxyChem Acquisition Completion 8-K (Jan 2, 2026)](https://berkshirehathaway.com/news/jan0226.pdf)
 - [Berkshire Hathaway Reports & Filings page](https://www.berkshirehathaway.com/reports.html)
 
 **Shareholder letters (5-year baseline + Abel's first)**:

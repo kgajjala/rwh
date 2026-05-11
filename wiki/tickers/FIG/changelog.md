@@ -4,6 +4,60 @@
 
 ---
 
+## [2026-05-10] — Workflow B Weekly Incremental + v2.14 Full Migration
+
+**Trigger**: Weekly incremental (baseline 2026-04-26); full v2.8 → v2.14 schema migration. Q1 2026 earnings not yet reported (confirmed 2026-05-14 post-close). Material events in window: Anthropic Claude Design launch (2026-04-17), FIG –16% in April, short interest +27.5% MoM, BTIG initiation (Hold), insider activity (CEO/CTO sales, Director $36.5M buy), Make kits/attachments product update.
+
+**Sources reviewed**:
+- [Yahoo Finance — FIG live price (2026-05-08)](https://finance.yahoo.com/quote/FIG/) — $20.66, market cap ≈$10.9B, 52-wk range $16.60–$142.92
+- [Figma Q1 2026 earnings announcement date confirmation](https://investor.figma.com/news-events/news/news-details/2026/Figma-to-Announce-First-Quarter-2026-Financial-Results-on-May-14-2026/default.aspx) — confirmed May 14, 2026 post-close
+- [VentureBeat — Claude Design launch (2026-04)](https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma)
+- [Gizmodo — Claude Design / Figma stock –7% (2026-04)](https://gizmodo.com/anthropic-launches-claude-design-figma-stock-immediately-nosedives-2000748071)
+- [Motley Fool — Why Figma fell 16% in April (2026-05-03)](https://www.fool.com/investing/2026/05/03/why-figma-fell-16-in-april/)
+- [MarketBeat short interest (Apr 15, 2026)](https://www.marketbeat.com/stocks/NYSE/FIG/short-interest/) — 20.67% float, +27.5% MoM
+- [StockAnalysis analyst forecast](https://stockanalysis.com/stocks/fig/forecast/) — Hold consensus, median $50.50, 5 Buy / 8 Hold / 0 Sell
+- [MarketBeat insider trades](https://www.marketbeat.com/stocks/NYSE/FIG/insider-trades/) — Field $15M sale; Rasmussen $12M sale; Reed $36.5M buy
+- [StockTitan CTO Form 4 (2026-05-01)](https://www.stocktitan.net/sec-filings/FIG/form-4-figma-inc-insider-trading-activity-cf03a1fbf0a5.html)
+- [Figma release notes — Make kits/attachments (April 2026)](https://www.figma.com/release-notes/)
+- [IndexBox — FIG April 2026 decline context](https://www.indexbox.io/blog/figma-stock-drops-16-in-april-2026-as-ai-competition-fears-intensify/)
+
+### What Changed
+
+- **Header**: Schema v2.8 → **v2.14**; Last Updated 2026-04-26 → **2026-05-10**; Live Price $17.47 (April 24) → **$20.66** (May 8)
+- **Summary** (Rule #18 full 4-part): Rebuilt with thesis line + verb line + Scenario Table (5-yr terminal per Rule #26) + KPI Strip + Why/Why not/Next read. Claude Design added to thesis; verb line: 🟢 Non-holder: Initiate · 🟡 Holder: Hold/Add
+- **Pivotal Question**: Updated to name Claude Design specifically as the most concrete AI threat
+- **Key Stats Snapshot**: Price/mkt cap updated; short interest added (20.7%); analyst consensus added (Hold, 5/8/0); 52-wk low revised to $16.60
+- **§1 (Annual Financial Metrics)**: No new earnings data (Q1 not yet printed); table format preserved
+- **§2 (Revenue Mix & Geographic Split)**: Renamed and merged from prior §3 + §4 per v2.14 schema; forward-looking AI credit regime-shift language added
+- **§3 (Competitive Moat & Landscape)**: Full v2.14 migration — moat standalone block retired (Rule #23); Competitive Landscape table updated with Claude Design as new highest-severity row (Rule #24); moat vulnerability section updated to lead with Claude Design / Krieger departure sequence
+- **§4 (Management & Leadership)**: Krieger departure upgraded from "modest negative signal" to "material negative — governance-level competitive-intent signal"; Director Reed $36.5M buy added; CEO/CTO open-market sales documented
+- **§5 (Strategic Growth Initiatives)**: Make kits/attachments (April 2026) added
+- **§6 (Key Risks)**: AI-native disruption probability upgraded 35% → 45% post-Claude Design; Claude Design named specifically as highest-severity threat; short interest risk row added (binary pre-earnings dynamic); risk factor evolution synthesis updated
+- **§7 (Industry Macro)**: April 2026 sector selloff context added; FIG-specific underperformance vs. S&P noted
+- **§8 (Valuation)**: Multiples updated for $20.66 price (EV/FY26E +6.7× vs. +5.5× prior)
+- **§9 (Catalyst & Sentiment Tracker)**: Full refresh — price/range updated; analyst consensus (Hold, 5/8/0, $50.50 median); BTIG initiation added; RBC/Stifel/WF target cuts documented; short interest 20.67% +27.5% MoM; insider activity (Field $15M sale, Rasmussen $12M sale, Reed $36.5M buy, CTO tax-withhold); Claude Design event documented; Make kits/attachments documented; upcoming catalysts updated
+- **§10 (BAIT)**: BAIT verdict downgraded from Moderate-High → Moderate; T downgraded from Weak-to-Moderate → Weak; A analytical edge noted as narrower post-Claude Design
+- **§11 (Bull/Bear/Base)**: Horizon extended 3-yr → **5-yr** per Rule #26; Bull probability stepped down 30% → 25%; Base stepped up 40% → 45%; terminal prices held; CAGR/return figures recalculated
+- **§12 (PW EV)**: Recomputed for 5-yr horizon — PW EV ≈$28.45 vs. ≈$28.60 (minor shift); 5-yr annualized return 7%/yr vs. 18%/yr prior (horizon extension effect); R/R articulation updated
+- **§13 (Recommendation)**: Entry zone updated to $16–22 (from $15–18) reflecting recovery from $16.60 low; thesis-break triggers updated to include Claude Design enterprise adoption and transcript tone; verb updated to Hold/Add for holder (from Hold/Add on dips — now conditional on dips into $16–18 vs. broader hold)
+- **Section numbering**: Renumbered to match v2.14 schema (§1–§13)
+
+### Thesis Status
+
+- **Overall**: **Weakened** — AI-disruption thesis upgraded from generic fear to named direct competitor (Claude Design); short interest +27.5% MoM confirms professional consensus the risk is real. Fundamentals unchanged (Q1 not yet reported). Recommendation verbs unchanged (Initiate small / Hold-Add) but confidence level reduced.
+- **BAIT delta**: Triple overlap preserved but conviction downgraded from Moderate-High → Moderate. T downgraded Weak-to-Moderate → Weak.
+- **Price target delta**: Bull $55 / Base $28 / Bear $7 (terminal prices unchanged; horizon extended to 5-yr). PW EV ≈$28.45 (≈unchanged). Bull probability 30% → 25%; Base 40% → 45%.
+- **Catalyst & Sentiment delta**: Claude Design (2026-04-17) is the defining event of this cycle. Short interest at 20.67% of float / +27.5% MoM is the most significant technical development. Director Reed $36.5M buy is the primary bullish signal.
+
+### Recommendation
+
+- **For a non-holder**: Initiate (small, contrarian) — entry below $22; explicit recognition AI risk more concrete than at ingest; await Q1 print before adding.
+- **For a current holder**: Hold / Add on conviction — add on dips into $16–18; hold at cost below $20; trim into $35+.
+
+**Next review trigger**: 📅 Q1 2026 earnings — **2026-05-14 post-close**. Key items: (1) revenue vs. $315–317M, (2) NDR ≥125%, (3) Make weekly adoption + AI credit revenue first disclosure, (4) FY26 guide, (5) management commentary on Claude Design, (6) lock-up release dynamics.
+
+---
+
 ## [2026-04-26] — v2.6+v2.7+v2.8 Retrofit — Primary-source synthesis + output discipline pass
 
 **Trigger**: Per CLAUDE.md retrofit batch — apply v2.6 (shareholder-letter + 10-K MD&A primary-source synthesis), v2.7 (5-year baselines / quarterly-letter substitution), and v2.8 (synthesis discipline + ticker-page output discipline + competitive landscape + risk-factor materiality filter + R/R discipline). Sub-5-year coverage acknowledged: Figma IPO'd 2025-07-31, so available primary-source set is one 10-K (FY2025), three quarterly prints (Q2 stub / Q3 / Q4 2025), and the S-1 founder letter — fetched all available since IPO per Rule #19 sub-5-year provision.

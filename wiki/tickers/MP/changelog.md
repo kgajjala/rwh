@@ -4,6 +4,50 @@
 
 ---
 
+## [2026-05-10] — Q1 2026 Earnings + v2.14 Migration (Revenue +49% / NdPr record 917 MT / Adj. EPS $0.03 beat / 10X groundbreaking / HREE commissioning Q2 / R/R 1.7:1 → 2.5:1 / Thesis Strengthened)
+
+**Trigger**: Q1 2026 earnings reported May 7, 2026 (post-close) — revenue $90.6M (+49% YoY), Adj. EPS $0.03 vs. –$0.01 consensus, record NdPr production 917 MT (+63% YoY), 10X groundbreaking confirmed, HREE separation commissioning imminent; Wedbush raised PT $90 → $100 (May 8); CFO Corbett sold 20K shares at $75 (May 8); schema migrated v2.9 → v2.14.
+
+**Sources reviewed**:
+- [MP Q1 2026 press release](https://investors.mpmaterials.com/investor-news/news-details/2026/MP-Materials-Reports-First-Quarter-2026-Results/default.aspx)
+- [Q1 2026 earnings call transcript — Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-mp-materials-q1-2026-strong-earnings-beat-expectations-93CH-4670967)
+- [Q1 2026 slides — Investing.com](https://www.investing.com/news/company-news/mp-materials-q1-2026-slides-record-ndpr-output-drives-earnings-beat-93CH-4671011)
+- [GuruFocus Q1 2026 highlights](https://www.gurufocus.com/news/8847298/mp-materials-corp-mp-q1-2026-earnings-call-highlights-record-ndpr-oxide-production-and-strong-revenue-growth)
+- [MarketBeat analyst consensus](https://www.marketbeat.com/stocks/NYSE/MP/forecast/) — Wedbush $90→$100; Canaccord Genuity $82 initiation
+- [thestockobserver.com — CFO May 8 sale](https://www.thestockobserver.com/2026/05/10/mp-materials-nysemp-stock-price-down-2-2-following-insider-selling/)
+- [Yahoo Finance live price](https://finance.yahoo.com/quote/MP) — $67.43 May 8 close
+- [CSIS China export controls](https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains); [Clark Hill pause analysis](https://www.clarkhill.com/news-events/news/china-hits-pause-on-rare-earth-export-controls-and-what-it-means-for-supply-chains/)
+
+### What Changed
+- **Header**: Schema v2.9 → v2.14; Last Updated 2026-05-01 → 2026-05-10; Live Price $66.04 → $67.43 (May 8 close, AH $68.05)
+- **Summary (Rule #18)**: Full 4-part refresh — thesis updated with Q1 beat + 10X groundbreaking; scenario table updated (Now $67.43, R/R 1.7:1 → 2.5:1, Bull $130→$140, Entry $52–62→$55–68); KPI strip + Why/Why-not bullets refreshed; HREE commissioning added as Why bullet; dual CEO+CFO selling added as ⚠️ bullet; Next catalyst updated to Aug 6 Q2 earnings
+- **§1 Annual Financial Metrics**: Added Q1 2026 column — revenue $90.6M / PPA $42.3M / Adj. EBITDA $36.6M / NdPr production 917 MT / Adj. EPS $0.03 / OCF –$1.9M / Capex $77.4M; quarterly trajectory table updated with Q1 2026 row
+- **§2 Revenue Mix**: Updated to Q1 2026 segment data (Materials $72.2M / $36.7M EBITDA; Magnetics $21.1M / $9.6M EBITDA); added HREE circuit and Apple recycling line to forward shifts; Apple $72M prepayments noted
+- **§3 Competitive Moat + Landscape** (Rule #23/#24): Added USA Rare Earth as named peer (previously absent); added HREE separation as new moat source; updated Lynas scale estimate; expanded "how MP's moat differs" with HREE point; updated Apple prepayments figure in moat sources
+- **§4 Management**: Updated CFO Corbett with May 8 sale (20K shares/$75/$1.5M); added Q1 2026 Litinsky quote ("Your investment is our opportunity"); 10X groundbreaking noted as confirmed
+- **§5 Strategic Growth Initiatives**: Added HREE separation at Mountain Pass as new initiative (Q2 2026 commissioning); updated Apple magnet recycling with "conceptual design completed / engineering advancing / modest H2 2026 deliveries"; updated 10X with Q1 groundbreaking confirmation
+- **§6 Key Risks** (Rule #25): Added dual CEO+CFO selling (updated to include CFO May 8 sale); added China export control suspension / November 2026 reinstatement timeline as explicit risk entry; HREE delay added as thesis-break trigger in §13; updated NdPr below-floor risk with Q2 guided pricing context
+- **§7 Industry Macro**: Added China export control suspension status (Oct 2025 controls suspended to Nov 2026; extraterritorial provisions still looming; NdPr spot near 1M CNY/ton in early 2026); updated with Clark Hill + CSIS citations
+- **§8 Valuation**: Updated multiples to Q1 2026 actuals (consolidated rev+PPA $132.9M); analyst consensus updated to $80.33 median; noted Wedbush $90→$100 and Canaccord $82 initiation
+- **§9 Catalyst & Sentiment Tracker**: Full refresh — price $67.43 / May 8 intraday range $66.51–$76.80; analyst consensus updated (14 Buy + 2 Strong Buy / 1 Sell; median $80.33); added Wedbush $100 + Canaccord $82 actions; CFO Corbett May 8 sale added; Q1 earnings corporate news entry added; upcoming catalysts refreshed (HREE Q2 commissioning, Apple magnet H2 2026, 10X site acquisition, Nov 2026 China export control deadline, Aug 6 Q2 earnings)
+- **§10 BAIT**: A-lens updated with HREE circuit + Apple prepayments + NdPr binding constraint CEO quote; I-lens updated with HREE and November 2026 China timeline as under-publicized insight; T-lens updated with intraday spike/close dynamic; B-lens updated with post-earnings "sell the news" pattern; BAIT verdict updated to note dual CEO+CFO overhang
+- **§11 Bull/Bear/Base** (Rule #26): Horizon extended 3-year → 5-year (FY2028 → FY2031) per v2.14 Rule #26; Bull $130→$140 (HREE + Apple recycling + Saudi JV added to bull case); Base $82→$86 (HREE contribution added); Bear $28 unchanged; probabilities unchanged (25/50/25%)
+- **§12 PW EV**: Recomputed on 5-year horizon — PW EV $80.50→$86 (undiscounted); R/R 1.7:1→2.5:1 at $67.43 (driven by 5-yr horizon extension and Bull $140); added discounted PW EV note ($59–68 at 7–10% discount rate)
+- **§13 Recommendation**: Thesis sentence updated with Q1 data; entry zone $52–62→$55–68 (widened to current spot given operational confirmation); trim zone $92–108→$95–112; exit >$130→>$140; HREE delay added as thesis-break trigger; next review updated to Aug 6 with 8 specific watch items; non-holder Initiate zone discipline updated; holder Hold maintained
+
+### Thesis Status
+- **Overall**: **Strengthened** — Q1 2026 beat confirms DoD PPA economics ($42.3M), record NdPr production trajectory (917 MT = 3,668 MT annualized), and 10X groundbreaking provides first tangible construction milestone. HREE separation commissioning in Q2 is a new incremental revenue stream not in consensus.
+- **BAIT delta**: Analytical edge strengthened (HREE + Apple prepayments + NdPr binding constraint framing); Informational edge strengthened (HREE + China November 2026 deadline); B/T Moderate unchanged; dual CEO+CFO selling is a persistent counterweight
+- **Price target delta**: Bull $130 → $140 (5-yr horizon + HREE) | Base $82 → $86 (5-yr horizon + HREE) | Bear $28 (unchanged) | R/R 1.7:1 → 2.5:1
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate on dips $55–68** — Q1 operational confirmation (record production, 10X groundbreaking, EPS beat) validates thesis; current spot $67.43 is at entry zone top; dips toward $55–62 are highest conviction; R/R ≈2.5:1
+- **For a current holder**: 🟡 **Hold** — maintain position; adds at $55–62 dips; trim above $95–112; monitor CEO/CFO insider sales and HREE commissioning execution
+
+**Next review trigger**: **Q2 2026 earnings — August 6, 2026** — HREE first revenue, Apple magnet initial deliveries, 10X site acquisition milestone, cash burn rate, China export control November deadline approaching
+
+---
+
 ## [2026-05-01] — Analyst Action Cluster + Rally (Wedbush OP $90 reiterated; MS PT $71→$62; price $60.73→$66.04; R/R 2.1:1 → 1.7:1; verb Hold/Add → Hold)
 
 **Trigger**: Analyst-action cluster Apr 27–28 (Wedbush Outperform $90 reiterated; Morgan Stanley PT cut $71→$62 with Overweight reaffirmed) + +6.9% session Apr 27 to ~$64.92, settling $66.04 by Apr 30; ahead of May 7 Q1 2026 earnings.

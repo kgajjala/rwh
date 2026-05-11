@@ -4,6 +4,56 @@
 
 ---
 
+## [2026-05-10] — Earnings Q1 2026 + v2.14 Schema Migration
+
+**Trigger**: Q1 2026 earnings (May 7, 2026) — revenue beat, adj EPS beat, guidance reaffirmed, strategic narrowing to radiodiagnostics announced, PNT2003 tentative FDA approval incorporated; v2.14 lazy migration applied.
+
+**Sources reviewed**:
+- [Lantheus Q1 2026 PR — Lantheus IR](https://lantheusholdings.gcs-web.com/news-releases/news-release-details/lantheus-reports-first-quarter-2026-financial-results-and)
+- [Lantheus Q1 2026 earnings — StockTitan](https://www.stocktitan.net/news/LNTH/lantheus-reports-first-quarter-2026-financial-results-and-provides-4k3lg4029grm.html)
+- [Q1 2026 earnings call transcript — Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-lantheus-holdings-q1-2026-beats-forecasts-stock-rises-93CH-4668275)
+- [Analysts raise forecasts post-Q1 — Benzinga](https://www.benzinga.com/analyst-stock-ratings/price-target/26/05/52414821/these-analysts-raise-their-forecasts-on-lantheus-after-upbeat-q1-results)
+- [PNT2003 tentative approval PR — GlobeNewswire](https://www.globenewswire.com/news-release/2026/03/02/3247398/0/en/Lantheus-Receives-FDA-Tentative-Approval-for-Lutetium-Lu-177-Dotatate-PNT2003-Radioequivalent-to-LUTATHERA.html)
+- [Consensus "Moderate Buy" — Daily Political May 9](https://www.dailypolitical.com/2026/05/09/lantheus-holdings-inc-nasdaqlnth-given-consensus-recommendation-of-moderate-buy-by-brokerages.html)
+- [Yahoo Finance — LNTH live price](https://finance.yahoo.com/quote/LNTH/) (2026-05-10)
+
+### What Changed
+
+- **Header**: Schema v2.9 → v2.14; Last Updated 2026-04-26 → 2026-05-10; live price $82.91 → $86.15
+- **Summary (Rule #18 4-part v2.14)**: Full replacement — Scenario Table added (5-yr terminal FY2030E per Rule #26); KPI Strip added; Why/Why not/Next read bullets added; thesis verbs updated (Watch · Hold unchanged; but now flagged stock near 52-wk high as constraint)
+- **Business Overview**: Added PNT2003 tentative approval (March 2026); added radiotherapeutic strategic narrowing ("value-maximizing alternatives" for LNTH-2503 / Evergreen CDMO); CEO search updated to "small number of highly qualified candidates"
+- **Pivotal Investment Question**: Updated to incorporate strategic narrowing and "diagnostic-only vs. full theranostics platform" question
+- **Key Stats Snapshot**: Updated price, market cap, 52-wk high (now $88.06 vs. $108.91 prior — 52-wk window rolled); all Q1 2026 metrics added
+- **§1 (Annual Financial Metrics)**: Added Q1 2026 column to quarterly table; added Q1 FCF, product revenue breakdown, gross margin Q1 2026; added Q1 2026 notes block
+- **§2 (Revenue Mix)**: Added Q1 2026 product revenue column; updated forward shifts to include PNT2003 commercial launch path (early 2027) and radiotherapeutic review impact
+- **§3 (Competitive Moat & Landscape)**: Refined moat analysis — added "radiotherapeutic review signals retreat from full theranostics vision" as key vulnerability; updated moat table
+- **§4 (Management & Leadership)**: Updated CEO search to "small number of highly qualified candidates" (May 2026); added radiotherapeutic review as capital allocation signal; Q1 2026 call commentary added to RMC subsection
+- **§5 (Strategic Growth Initiatives)**: Added PNT2003 initiative (#4); added radiotherapeutic strategic review (#6) as explicit section; updated LNTH-2501 and MK-6240 with Q1 call updates (MK-6240 used in 17 pharma AD programs pre-approval)
+- **§6 (Key Risks — Rule #25 materiality)**: Added "radiotherapeutic strategic review overhang" as new material risk; lowered PYLARIFY erosion probability to 30% (from 35%) on Q1 volume resilience; added MK-6240 PDUFA separately; de-risked PYLARIFY TruVu and PNT2003 tentative approval with ✅ struck notation
+- **§7 (Industry macro)**: Added PSMA PET market growth deceleration ("low teens" in 2026 vs. "high teens to low 20s" in 2025 per management)
+- **§8 (Valuation)**: Updated price to $86.15 / $5.61B market cap; updated all multiples; updated peer table
+- **§9 (Catalyst & Sentiment Tracker)**: Full refresh — price $86.15, 52-wk high now $88.06, post-Q1 reaction (+3.1%); analyst consensus updated (Moderate Buy 8/3/0, avg $97.29); Citizens JMP $85→$115 and Mizuho $95→$100 added; PNT2003 tentative approval added to news log; radiotherapeutic strategic review added to news log; upcoming catalysts updated (PNT2003 full approval ≈June 2026 added; CEO search and radiotherapeutic review added as ongoing)
+- **§10 (BAIT)**: Behavioral updated — stock near 52-wk high reduces behavioral edge; Analytical updated — Neuraceq running well ahead of consensus, MK-6240 17-program clinical footprint, PNT2003 LUTATHERA market opportunity; BAIT verdict maintained Double (A + I, Moderate)
+- **§11 (Bull/Bear/Base — Rule #26 5-yr)**: Horizon extended to 5-year FY2030E (from 3-year FY2028) per Rule #26; scenarios rebuilt — Bull $155 (25%), Base $100 (50%), Bear $40 (25%); PNT2003 commercialization added to Bull/Base
+- **§12 (PW EV — Rule #26)**: Recomputed on FY2030E terminal; PW EV ≈$99 rounded to $96 (3% overhang discount); R/R ≈1.5:1 at spot; entry-zone R/R analysis added
+- **§13 (Recommendation — Rule #26 anchors)**: Thesis sentence updated for strategic narrowing; entry/trim/exit zones maintained ($65–78 / $120–135 / >$155); two thesis-break triggers de-risked (TruVu ✅, PNT2003 tentative ✅); radiotherapeutic strategic review distressed-sale trigger added; next review trigger updated to LNTH-2501 PDUFA June 29, 2026
+- **Schema migration (v2.9 → v2.14)**: Rule #18 4-part Summary; Rule #23 Moat in §3 only (standalone block removed); Rule #24 Competitive Landscape confirmed in §3; Rule #25 materiality filter re-applied (radiotherapeutic review added as new material risk); Rule #26 5-yr terminal horizon applied to §11/§12
+
+### Thesis Status
+
+- **Overall**: **Strengthened modestly** vs. 2026-04-26 baseline — Q1 beat and PYLARIFY volume resilience (+5.8% doses) validate the volume-offsets-price thesis; Neuraceq stronger than consensus; FY2026 guide reaffirmed. However, strategic narrowing (radiotherapeutic review) reduces the long-term bull-case ceiling from a full theranostics platform premium to a pure radiodiagnostics multiple.
+- **BAIT delta**: Behavioral edge reduced (stock near 52-wk high, not extreme-fear setup); Analytical edge strengthened (Neuraceq run-rate, MK-6240 clinical footprint, PNT2003 near-commercial); Technical remains Weak (near-high price, no buyback)
+- **Price target delta**: Bull $140 → $155 (PNT2003 addition, FY2030 horizon) | Base $95 → $100 (FY2030 horizon) | Bear $45 → $40 (FY2030 horizon + radiotherapeutic review overhang) | PW EV $94 → $96
+
+### Recommendation
+
+- **For a non-holder**: 🟡 Watch — stock near 52-wk high ($88.06) at $86.15 leaves little margin of safety; wait for LNTH-2501 PDUFA (June 29) or pullback to $65–78 entry zone
+- **For a current holder**: 🟡 Hold — Q1 thesis intact; do not add at current near-high price; add on pullback to $70–78
+
+**Next review trigger**: LNTH-2501 PDUFA — June 29, 2026 (binary event; if approved, shift non-holder to Initiate)
+
+---
+
 ## [2026-04-26] — v2.9 Schema Retrofit
 
 **Trigger**: v2.9 schema retrofit — section renumbering (15→13 sections), structural consolidation, shareholder letter pattern identification, material updates from post-v2.2 events (PYLARIFY TruVu approval, SPECT divestiture completion, CEO transition, securities litigation, Evergreen + Life Molecular acquisitions)

@@ -1,40 +1,40 @@
 # DASH — DoorDash, Inc.
 
-> **Schema**: v2.13
-> **Last Updated**: 2026-04-29
+> **Schema**: v2.14
+> **Last Updated**: 2026-05-10
 > **Status**: Active
-> **Live Price Verified**: **$169.33** at April 29, 2026 intraday (–1.54% session) ([stockanalysis.com](https://stockanalysis.com/stocks/dash/))
+> **Live Price Verified**: **$163.93** at May 8, 2026 close (–4.33% session) ([stockanalysis.com](https://stockanalysis.com/stocks/dash/))
 > **Ticker Type**: Three-sided marketplace
 
 ---
 
 ## Summary
 
-**Thesis** — Dominant U.S. local-commerce marketplace (Narrow moat, 60–67% share) with credible advertising + international + autonomous margin-expansion optionality — but 5-yr PW EV $130 sits 23% *below* spot $169.33. Stock in **Trim zone** per Rule #26; no margin of safety at current price.
+**Thesis** — Dominant U.S. local-commerce marketplace (Narrow moat, 60–67% share) compounding into a high-margin local-commerce platform via advertising + international + autonomous optionality. Q1 2026 confirmed above-guide EBITDA ($754M vs. $675–775M guide) + record MAU + Deliveroo reaffirmed at $200M FY2026 target — thesis modestly strengthened. 5-yr PW EV rises to **≈$133** but still 19% below spot $163.93; stock remains in **Trim zone** per Rule #26.
 
-🔴 **Non-holder: Avoid** (Watch <$110)  ·  🔴 **Holder: Reduce** (spot in Trim zone)
+🔴 **Non-holder: Avoid** (Watch <$113)  ·  🔴 **Holder: Reduce** (spot in Trim zone; lighten on bounces)
 
 | 52-wk range | Now | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|---|
-| $143.30 — $285.50 | **$169.33** (18th %ile) | $50 (5-yr) | $98–110 | $110 / $130 | $130–215 | $215 (5-yr) | **~0.4:1** |
+| $143.30 — $285.50 | **$163.93** (15th %ile) | $50 (5-yr) | $100–113 | $110 / $133 | $133–215 | $215 (5-yr) | **≈0.4:1** |
 
 | BAIT | Moat | EV/EBITDA TTM | US share | Subscribers | Next catalyst |
 |---|---|---|---|---|---|
-| Double (B+A+I Mod, T Weak), **Low-Mod** | Narrow | ~26× | 60–67% (3× Uber Eats) | 35M (+59% YoY) | 📅 Q1 — May 6, 2026 (binary) |
+| Double (B+A+I Mod, T Weak), **Low-Mod** | Narrow | ≈24× | 60–67% (3× Uber Eats) | Record MAU + subs (Q1 2026) | 📅 Q2 2026 earnings (early Aug) |
 
 **🟢 Why**
 
-- Dominant U.S. local-commerce marketplace (60–67% share, 3× Uber Eats); first sustained year of GAAP profitability ($935M FY25 NI, 7.6× growth); $2.78B Adj EBITDA at +52%.
-- SBC guide halving from $2.6B → $1.3–1.4B FY26 = meaningful earnings-quality improvement; $5B untouched buyback as tail-risk floor.
-- Wolt-precedent execution (now a profitable contributor) lowers Deliveroo integration-risk probability from 20% → 12–15%; H2 2026 grocery/retail unit-economics inflection (per CFO Inukonda) is the dominant 2026 catalyst.
+- Dominant U.S. local-commerce marketplace (60–67% share, 3× Uber Eats); Q1 2026 EBITDA $754M beat guide; GAAP NI $184M; GOV $31.6B (+37%); record MAU and subscribers.
+- Q2 2026 GOV guide $32.4–33.4B came in well above ≈$28B consensus — management has visibility into demand acceleration; Deliveroo reaffirmed $200M FY2026 EBITDA target.
+- Portfolio pruning (exit Qatar/Singapore/Japan/Uzbekistan Feb 2026) + Deliveroo "highest growth rate in 4 years" + SevenRooms/Deliveroo in-app reservation integration (May 7) = execution tracking ahead of plan.
 
 **⚠️ Why not**
 
-- **5-yr PW EV $130 sits 23% below spot $169.33** — stock in §13 Trim zone per Rule #26. R/R ~0.4:1 (Bull $215 / Bear $50) at spot is unfavorable; would need to drop into $98–110 entry zone to clear MoS.
+- **5-yr PW EV ≈$133 sits 19% below spot $163.93** — stock in §13 Trim zone per Rule #26. R/R ≈0.4:1 (Bull $215 / Bear $50) at spot remains unfavorable; entry zone $100–113 requires further drawdown.
 - Gig-worker reclassification (AB5-federal) — critical impact, 15% prob; would destroy variable-cost Dasher model. **Not priced in** (per Rule #25).
-- Three-way integration risk (Wolt + Deliveroo + SevenRooms simultaneously) + ad-monetization plateau risk vs. Amazon analog + Instacart cross-category escalation.
+- Revenue missed consensus ($4.04B vs. $4.15B est.); Q2 EBITDA guide midpoint $820M slightly missed $830M est.; stock sold off –4.3% May 8 despite AH +12% pop — market skeptical on margin path.
 
-**📅 Next read** — Q1 2026 earnings, May 6 post-close. Watch: adj EBITDA vs. $675–775M, H2 pacing, Deliveroo run-rate, ad-rev growth >25%. A massive positive surprise lifting Base/Bull would raise PW EV; absent that, the trim discipline holds.
+**📅 Next read** — Q2 2026 earnings (early August 2026). Watch: (1) Adj EBITDA vs. $770–870M guide, (2) H2 grocery/retail gross-profit inflection confirmation, (3) Deliveroo quarterly EBITDA run-rate toward $200M FY target, (4) advertising revenue growth rate vs. 25% threshold, (5) any buyback execution.
 
 ---
 
@@ -82,25 +82,30 @@ The answer divides the scenario set: the bull case requires 15% EBITDA margins o
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$176.78** | April 24, 2026 (intraday; [Yahoo Finance](https://finance.yahoo.com/quote/DASH)) |
-| Previous Close | $187.22 | Session Δ: –5.6% (stock-specific selloff; broader tape stable) |
+| Live Price | **$163.93** | May 8, 2026 close ([stockanalysis.com](https://stockanalysis.com/stocks/dash/)) |
+| Previous Session | –4.33% | Post-earnings drift; AH had popped +12% on May 6 |
 | 52-Week High | $285.50 | October 2025 (post Q3 print) |
 | 52-Week Low | $143.30 | March 2026 |
-| % From 52-Wk High | –38.1% | |
-| % Above 52-Wk Low | +23.4% | |
-| Market Cap | ~$77B | ~2.58B diluted shares × $177 (unchanged since prior ingest) |
-| Short Interest | ~3.45% of float | 13.17M shares; peer avg 11.07% |
+| % From 52-Wk High | –42.6% | |
+| % Above 52-Wk Low | +14.4% | |
+| Market Cap | ≈$71–72B | Per [stockanalysis.com](https://stockanalysis.com/stocks/dash/), May 8, 2026 |
+| Short Interest | ≈2.79% of float | 11.15M shares (down from 13.17M = –15% MoM; declining trend) |
+| Q1 2026 Revenue | $4.04B | +33% YoY; missed $4.15B consensus by 2.8% |
+| Q1 2026 Marketplace GOV | $31.6B | +37% YoY; +30% ex-Deliveroo; beat expectations |
+| Q1 2026 Orders | 933M | +27% YoY; record Q1 |
+| Q1 2026 Adj EBITDA | $754M | +28% YoY; **above** $675–775M guide midpoint ($725M) |
+| Q1 2026 GAAP Net Income | $184M | vs. $195M Q1 2025; GAAP profitable for 4th straight quarter |
+| Q1 2026 FCF | $420M | vs. $498M Q1 2025; integration cost still in run-rate |
+| Q1 2026 MAU | New all-time high | Specific figure not disclosed; record DashPass signups |
 | FY2025 Revenue | $13.72B | +28% YoY |
-| FY2025 Adj EBITDA | $2.78B | +52% YoY; ~20.3% of revenue |
-| FY2025 GAAP Net Income | $935M | First profitable year at scale |
-| FY2025 FCF | ~$1.8B | |
-| FY2025 GOV | ~$100B | Pro-forma with Deliveroo partial year |
-| Monthly Active Users | 56M | Dec 2025 |
-| Subscribers (all plans) | 35M | Dec 2025 |
-| Cash & Short-Term Investments | $5.78B | Dec 2025 |
-| SBC (FY2025) | ~$2.6B | ~19% of revenue |
-| SBC Guidance (FY2026) | $1.3–1.4B | Halving — meaningful earnings-quality improvement |
-| Q1 2026 Earnings Date | **May 6, 2026** (post-close) | Hard catalyst |
+| FY2025 Adj EBITDA | $2.78B | +52% YoY; ≈20.3% of revenue |
+| FY2025 GAAP Net Income | $935M | First full profitable year at scale |
+| FY2025 GOV | ≈$100B | Pro-forma with Deliveroo partial year |
+| Cash & Short-Term Investments | $5.78B | Dec 2025 (Q1 2026 not yet disclosed) |
+| SBC Guidance (FY2026) | $1.3–1.4B | Halving from $2.6B FY2025 |
+| Q2 2026 GOV Guidance | $32.4–33.4B | Well above ≈$28B prior consensus |
+| Q2 2026 Adj EBITDA Guidance | $770–870M | Midpoint $820M; $830M consensus = slight miss |
+| Q2 2026 Dasher Gas Relief | >$50M | New one-time cost item disclosed on call |
 
 ---
 
@@ -108,25 +113,27 @@ The answer divides the scenario set: the bull case requires 15% EBITDA margins o
 
 ### Revenue, EBITDA, and Net Income
 
-| Metric | FY2022 | FY2023 | FY2024 | FY2025 | Q1 2026 Guidance |
-|--------|--------|--------|--------|--------|------------------|
-| Revenue | $6.58B | $8.64B | $10.72B | $13.72B | — (GOV $31.0–31.8B) |
-| YoY Growth | — | +31% | +24% | +28% | — |
-| Adj EBITDA | $0.36B | $1.29B | $1.83B | $2.78B | $675–775M |
-| Adj EBITDA Margin | ~5.5% | ~14.9% | ~17.1% | ~20.3% | — |
-| GAAP Net Income | –$1.37B | –$558M | +$123M | +$935M | — |
-| FCF | — | — | ~$1.4B | ~$1.8B | — |
-| SBC | — | — | — | ~$2.6B | (Guidance $1.3–1.4B for FY26) |
+| Metric | FY2022 | FY2023 | FY2024 | FY2025 | Q1 2026A |
+|--------|--------|--------|--------|--------|----------|
+| Revenue | $6.58B | $8.64B | $10.72B | $13.72B | $4.04B (+33% YoY) |
+| YoY Growth | — | +31% | +24% | +28% | +33% |
+| Adj EBITDA | $0.36B | $1.29B | $1.83B | $2.78B | $754M (+28%) |
+| Adj EBITDA Margin (% rev) | ≈5.5% | ≈14.9% | ≈17.1% | ≈20.3% | ≈18.7% |
+| GAAP Net Income | –$1.37B | –$558M | +$123M | +$935M | $184M |
+| FCF | — | — | ≈$1.4B | ≈$1.8B | $420M |
+| SBC | — | — | — | ≈$2.6B | — (FY26 guide: $1.3–1.4B) |
 
 ### Quarterly Trajectory (Recent)
 
-| Quarter | Revenue | Adj EBITDA | GAAP NI | Orders | Comment |
-|---------|---------|-----------|--------|--------|---------|
-| Q3 2025 | $3.45B (+24%) | — | — | — | EPS miss ($0.55 vs. $0.69 cons.); –17% next-day; "several hundred $M" 2026 invest. announcement |
-| Q4 2025 | $3.96B (+38%) | $780M (+38%) | $213M | 903M (+32%) | EBITDA beat guide midpoint; EPS $0.48 vs. $0.59 cons. — mixed |
-| Q1 2026E | — | $675–775M (below $802M cons.) | — | — | Deliveroo invest. drag <$25M vs. $45M in Q4; $20M storm impact; ↑ Dasher cost/order |
+| Quarter | Revenue | GOV | Adj EBITDA | GAAP NI | Orders | Comment |
+|---------|---------|-----|-----------|--------|--------|---------|
+| Q3 2025 | $3.45B (+24%) | — | — | — | — | EPS miss ($0.55 vs. $0.69 cons.); –17% next-day; "several hundred $M" 2026 invest. announcement |
+| Q4 2025 | $3.96B (+38%) | $29.7B (+39%) | $780M (+38%) | $213M | 903M (+32%) | EBITDA beat guide midpoint; EPS $0.48 vs. $0.59 cons. — mixed |
+| Q1 2026A | $4.04B (+33%) | $31.6B (+37%) | **$754M (+28%)** | $184M | 933M (+27%) | **EBITDA above $675–775M guide**; rev miss vs. $4.15B cons.; EPS $0.42 beat $0.37 est.; record MAU; AH +12% then May 8 –4.3% |
 
-**Q1 2026 guidance context**: Management guided Q1 Adj EBITDA of $675–775M (midpoint $725M), which is ~$75M below the then-prevailing consensus. Three drivers: (1) Deliveroo incremental investment cuts contribution from $45M (Q4) to <$25M (Q1), (2) $20M direct impact from severe U.S. storms (Gianna, Fern), (3) sequential increase in Dasher cost per order. Management explicitly guided that H2 2026 will be "significantly stronger" than H1 due to seasonality and phasing of investment — so a Q1 light print is consistent with the FY thesis and not necessarily thesis-breaking.
+**Q1 2026 actuals context**: EBITDA of $754M came in $29M above the guide midpoint ($725M) and $29M above the prior-year comparable — the first upside surprise in three quarters. Three favorable drivers: (1) Deliveroo contribution tracked ahead of the <$25M Q1 estimate, (2) storm impact was contained, (3) gross margin of 51.9% topped estimates. The revenue miss ($4.04B vs. $4.15B) reflects mix and was not flagged by management as a structural issue. Adj EBITDA as % of GOV was 2.4% — slightly below 2.6% in Q1 2025 / Q4 2025, reflecting integration investment still running.
+
+**Q2 2026 guidance context**: GOV guide of $32.4–33.4B came in dramatically above the prior ≈$28B analyst consensus — the single largest forward positive surprise from Q1. Adj EBITDA $770–870M (midpoint $820M) was slightly below the $830M consensus, partly due to a new >$50M Dasher gas-relief cost item disclosed on the call. Management reaffirmed full-year EBITDA trajectory with H2 still expected to be "significantly stronger" than H1.
 
 ### Primary Source: 10-K Segment Detail (FY2025)
 
@@ -336,7 +343,7 @@ Filtered for risks that are DASH-specific, materially differentiated from peers,
 | ⚠️ Instacart cross-category escalation | Medium | 15% | Not priced in | Instacart dominates grocery delivery (~50%+); could acquire/partner with a restaurant-delivery player to build a 2-sided competitive set. Not in consensus models. If Instacart announces M&A in restaurants, DASH grocery margin recovery thesis (H2 2026) is delayed. |
 | ⚠️ Commission cap regulation (NYC 15%, SF 20% → national) | Medium | 35% | Partially | NYC/SF precedent; national cap would compress take rate by 200-400bps. Material to bull-case margin path. Watch state legislative cycles. |
 | Advertising growth plateau | Medium | 20% | Not priced in | Would kill the primary margin-expansion thesis. Consensus assumes ad take-rate continues to expand toward Amazon-flywheel levels. If ad revenue growth decelerates below 30% for 2 consecutive Q's, base case multiple compresses. |
-| Margin disappointment vs. Q1 2026 guide | Medium | 30% | Partially | Pattern established in 2025 (Q3 invest → 17% sell). Mitigated by Tony Xu's explicit FY2026 expectation-setting (*"slightly higher than 2025, excluding Deliveroo"*) in the FY2025 letter. Q1 print May 6 is the binary catalyst. |
+| ✅ ~~Margin disappointment vs. Q1 2026 guide~~ | — | — | DE-RISKED | Q1 2026 printed $754M adj EBITDA, above $675–775M guide midpoint. Pattern of missing guide broken. **Replaced by**: Q2 2026 guide ($770–870M midpoint $820M slightly missed $830M cons.) is the next test. |
 | Consumer discretionary slowdown / recession | Medium-High | 25% | Yes | Order frequency is elastic to real disposable income. Largely priced into the –38% drawdown from 52-wk high. |
 
 **Thesis-break trigger (composite)**: 2 consecutive quarters of (a) US share decline below 60% AND (b) Adj EBITDA margin compression vs. prior period, OR (c) Deliveroo FY2026 EBITDA tracking <$100M (vs. $200M target). Price alert at **$143** (52-wk low retest) for thesis reassessment.
@@ -361,17 +368,17 @@ The single material insight from reading 5 years of 10-K Item 1A diffs (FY2020 �
 
 ## Section 8 — Valuation & Comparable Analysis
 
-### Current Multiples (April 24, 2026, $176.78 / ~$77B market cap)
+### Current Multiples (May 10, 2026, $163.93 / ≈$71B market cap)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| EV / Revenue (FY2025) | ~5.2× | EV net of $5.78B cash, plus small net debt |
-| EV / Adj EBITDA (FY2025) | ~26× | $2.78B EBITDA |
-| EV / Adj EBITDA (FY2026E) | ~21× | ~$3.3–3.5B consensus |
-| P/E GAAP (FY2025) | ~82× | $935M net income |
-| P/E GAAP (FY2026E) | ~53× | ~$3.34 consensus EPS |
-| Price/FCF | ~43× | $1.8B FCF |
-| Analyst Consensus Target | $252–278 median | Wide dispersion; see Section 9 |
+| EV / Revenue (FY2025) | ≈4.7× | EV net of $5.78B cash |
+| EV / Adj EBITDA (FY2025) | ≈24× | $2.78B EBITDA (down from 26× at $177) |
+| EV / Adj EBITDA (FY2026E) | ≈19× | ≈$3.3–3.5B FY2026 consensus EBITDA |
+| P/E GAAP (FY2025) | ≈76× | $935M net income |
+| P/E GAAP (FY2026E) | ≈49× | ≈$3.34 consensus EPS |
+| Price/FCF | ≈40× | $1.8B FY2025 FCF |
+| Analyst Consensus Target | ≈$247.89 avg (post-Q1) | 22 Buy / 7 Hold; range $200 (Wells) – $330 (Truist) |
 | "Buffett fair price" | $120–140 | 12–14× 2025 EBITDA, 15–18× 2026 EBITDA |
 
 ### Comparable Peer Set
@@ -392,68 +399,71 @@ The single material insight from reading 5 years of 10-K Item 1A diffs (FY2020 �
 
 ### Live Price & Positioning
 
-- **Price**: $176.78 (Apr 24, 2026, intraday)
-- **Previous close**: $187.22 (session –5.6%)
+- **Price**: $163.93 (May 8, 2026 close; [stockanalysis.com](https://stockanalysis.com/stocks/dash/))
+- **Session**: –4.33% (post-earnings drift day after +12% AH pop on May 6)
 - **52-week range**: $143.30 – $285.50
-- **% from 52-wk high**: –38.1%
-- **% above 52-wk low**: +23.4%
-- **Market cap**: ~$77B
+- **% from 52-wk high**: –42.6%
+- **% above 52-wk low**: +14.4%
+- **Market cap**: ≈$71–72B
 
-### Analyst Consensus (as of mid-April 2026)
+### Analyst Consensus (as of May 10, 2026, post-Q1)
 
-- **Aggregate rating**: 🟢 Buy (34 Buy / 10 Hold / 0 Sell) ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/DASH/) / [TipRanks](https://www.tipranks.com/stocks/dash/forecast))
-- **Median price target**: $252.50 (range $185 – $360)
-- **Alternate aggregator**: $265–277 median depending on panel
-- **Implied upside from $176.78**: +43% to +57% to median targets
+- **Aggregate rating**: 🟢 Strong Buy (22 Buy / 7 Hold / 0 Sell) ([TipRanks](https://www.tipranks.com/stocks/dash/forecast))
+- **Average price target**: $247.89 (per [TipRanks](https://www.tipranks.com/news/doordash-delivers-q1-earnings-beat-dash-stock-rallies-on-solid-order-guidance))
+- **Implied upside from $163.93**: +51% to average target
+- **Note**: Panel count differs from pre-Q1 (34B/10H vs. 22B/7H) — likely reflects panel rotation/staleness in aggregators; direction is unchanged (Strong Buy consensus intact)
 
-### Recent Analyst Actions (April 2026)
+### Recent Analyst Actions (since April 25 baseline)
 
 | Date | Firm | Action | Target | Note |
 |------|------|--------|--------|------|
-| 2026-04-15 | J.P. Morgan | Maintained Buy | — | Pre-Q1 refresh |
-| 2026-04-14 | MoffettNathanson | PT cut $279 → $276 | $276 | Modest trim; Buy held |
-| 2026-04-13 | Bernstein | New Buy (initiation) | — | Constructive initiation near lows |
-| 2026-04-10 | Stifel | PT cut $215 → $185 | $185 | Notable: new target is at current price ≈ "fair value" range |
+| 2026-05-07 | Goldman Sachs | Maintained Buy | $280 (from $286) | Modest PT trim; bullish on GOV guide |
+| 2026-05-07 | Piper Sandler | Maintained Neutral | $205 (from $220) | GOV beat noted; EBITDA margin path cautious |
+| 2026-05-07 | Bank of America | Reiterated Buy | $272 | Constructive on Deliveroo + ad momentum |
+| 2026-05-07 | Truist | PT cut | $330 (from $340) | Buy maintained; slight trim post-rev miss |
+| 2026-05-07 | Wells Fargo | PT raise | $200 (from $198) | Modest raise; neutral-ish framing |
 
-**Dispersion commentary**: Stifel's $185 represents the bearish extreme — essentially flat-from-here. MoffettNathanson at $276 and consensus >$250 reflect the median. The ~$175 gap between low and high analyst targets is unusually wide and signals real analytical disagreement about the margin-expansion trajectory.
+**Post-Q1 dispersion**: Wells Fargo $200 is the bearish outlier (essentially flat-to-modest downside from spot). Goldman/BofA/Truist cluster at $272–$330 represent the bull case. Piper's Neutral at $205 marks the bear analyst view. The $130 gap between low ($200) and high ($330) targets still reflects genuine disagreement about EBITDA margin path — consistent with the pre-Q1 setup. No analyst cut to Sell.
 
 ### Short Interest
 
-- **Latest**: ~3.45% of float (13.17M shares)
-- **Peer group avg**: 11.07%
-- **Interpretation**: DASH is notably under-shorted vs. peers — the behavioral setup is not "bears piled in," it is "long holders capitulating." That distinction matters for scenario weighting.
+- **Latest**: ≈2.79% of float (11.15M shares; down from 13.17M = **–15% MoM**) ([finviz.com](https://finviz.com/quote.ashx?t=DASH&ta=1&p=d&ty=si))
+- **Days to cover**: ≈3.4 days
+- **Trend**: Declining — short sellers covering, not piling in. Supports the "long capitulation" behavioral thesis over "active short attack."
 
-### Insider Activity (Last 90 Days)
+### Insider Activity (Last 90 Days, updated)
 
 | Date | Insider | Action | Size | Note |
 |------|---------|--------|------|------|
-| 2026-04-02 | Stanley Tang (co-founder, director) | Sell | 23,125 sh @ $150 (~$3.5M) | **Unusual** — sale at 52-wk low |
-| 2026-04-20 | Andy Fang (co-founder, director) | RSU grants | ~26,231 sh | Routine comp |
-| 2026-04-20 | Stanley Tang | RSU grants | ~24,202 sh | Routine comp |
+| 2026-04-20 | Andy Fang (co-founder, director) | RSU grants | ≈26,231 sh | Routine comp |
+| 2026-04-20 | Stanley Tang (co-founder, director) | RSU grants | ≈24,202 sh | Routine comp |
 | 2026-04-20 | Keith Yandell (CBO) | RSU grant | 30,435 sh | Routine comp |
-| Prior | Alfred Lin (a16z director) | Buy | ~$100M | Material positive offset |
-| Trailing 6 mo | Tony Xu (CEO) | Sells via 10b5-1 | ~$218M | Pre-planned; not on news |
+| 2026-04-02 | Stanley Tang (co-founder, director) | Open-market sell | 23,125 sh @ $150 (≈$3.5M) | Sale at 52-wk low — still notable |
+| Prior | Alfred Lin (a16z director) | Buy | ≈$100M | Material positive offset; prior period |
+| Trailing 6 mo | Tony Xu (CEO) | Sells via 10b5-1 | ≈$218M | Pre-planned; not on news |
 
-**Net signal**: The Tang sale at a 52-wk low is the cleanest negative insider signal in the set. Lin's prior $100M buy is the cleanest positive. On balance, insider activity is mixed but Lin's size dominates. Continue to watch Q1/Q2 2026 for any clustering.
+**Net signal** (updated): Insider net selling of ≈$33.2M past 3 months per [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/DASH/insider-trades/), $0 buying in that window. The RSU grants are comp, not directional. Tang's open-market sale at the 52-wk low remains the most unusual signal. Net: mildly negative but Lin's prior $100M buy still offsets directionally. No acceleration in selling post-Q1.
 
-### Recent Corporate News (Last 90 Days)
+### Recent Corporate News (since April 25 baseline)
 
-- **[2026-04-09] [Corporate]** — DoorDash announced Q1 2026 earnings date of May 6, 2026 ([BusinessWire](https://www.businesswire.com/portal/site/home/?ndmViewId=news_view&searchType=news&searchTerm=DoorDash))
-- **[2026-02-18] [Earnings]** — Q4 2025 / FY2025 results. Revenue $3.96B Q4 (+38%), FY $13.72B (+28%); Adj EBITDA $780M Q4, $2.78B FY; GAAP NI $213M Q4, $935M FY; orders 903M Q4 (+32%); exited year at 56M MAU + 35M subs ([DoorDash IR](https://ir.doordash.com/), 10-K)
-- **[2026-02-18] [Filing]** — 10-K filed for FY2025 ([SEC EDGAR, CIK 1792789](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001792789&type=10-K))
-- 💰 **[2025-10-02] [M&A]** — Deliveroo acquisition closed ($3.9B) ([DoorDash IR](https://ir.doordash.com/))
-- 💰 **[2025 (various)] [M&A]** — SevenRooms acquisition closed ($1.2B) ([DoorDash IR](https://ir.doordash.com/))
-- 💰 **[2025-02] [Capital]** — $5B buyback authorization announced ([DoorDash IR](https://ir.doordash.com/))
+- **[2026-05-07] [Product]** — Deliveroo launches in-app reservations powered by SevenRooms — first major cross-platform integration since DoorDash acquired both businesses ([MCA Insight](https://www.mca-insight.com/delivery/deliveroo-launches-in-app-reservations/718563.article))
+- ✅ **[2026-05-06] [Earnings]** — Q1 2026 results: Revenue $4.04B (+33%), GOV $31.6B (+37%), Orders 933M (+27%), Adj EBITDA $754M (+28%, **above guide**), GAAP NI $184M, FCF $420M; record MAU + DashPass subs; EPS $0.42 beat $0.37 est.; revenue missed $4.15B est. ([DoorDash IR](https://ir.doordash.com/news/news-details/2026/DoorDash-Releases-First-Quarter-2026-Financial-Results/default.aspx))
+- **[2026-02-25] [Strategic]** — DoorDash exits Qatar, Singapore, Japan, and Uzbekistan (Deliveroo/Wolt wind-down); portfolio pruning to focus investment on core markets; financial impact described as immaterial ([DoorDash IR](https://ir.doordash.com/news/news-details/2026/DoorDash-to-Wind-Down-Deliveroo-and-Wolt-Operations-in-Four-Countries/default.aspx))
+- **[2026-02-18] [Earnings]** — Q4 2025 / FY2025 results ([DoorDash IR](https://ir.doordash.com/news/news-details/2026/DoorDash-Releases-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx))
+- **[2026-02-18] [Filing]** — FY2025 10-K ([SEC EDGAR, CIK 1792789](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001792789&type=10-K))
+- 💰 **[2025-10-02] [M&A]** — Deliveroo acquisition closed ($3.9B) ([DoorDash IR](https://ir.doordash.com/news/news-details/2025/DoorDash-Completes-Acquisition-of-Deliveroo/default.aspx))
+- 💰 **[2025-02] [Capital]** — $5B buyback authorization; $0 executed as of Q1 2026
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| 📅 **2026-05-06** (post-close) | **Q1 2026 earnings** | First full quarter with Deliveroo consolidated; tests $675–775M adj EBITDA guide; H2 pacing color |
-| Q2 2026 (est. early Aug) | Q2 2026 earnings | Should start showing "H2 significantly stronger" thesis if on track |
-| FY2026 (rolling) | Advertising scale-up disclosures | Primary margin-expansion thesis signal |
-| FY2026 (rolling) | Grocery unit economics (management target: positive by H2 2026) | Second margin-expansion thesis signal |
-| Ongoing | Buyback execution | Any $X billion executed at $170s = meaningful capital-allocation signal |
+| 📅 **Q2 2026 (early Aug)** | **Q2 2026 earnings** | Tests $770–870M adj EBITDA guide; first print where H2 thesis "significantly stronger" should be visible in forward color |
+| 📅 **H2 2026** | Grocery/retail gross profit positivity | Management committed to positive unit economics by H2 2026; the dominant 2026 thesis-confirming catalyst |
+| FY2026 (rolling) | Deliveroo quarterly EBITDA run-rate | Must track toward $200M FY target; Q1 was slightly above plan; Q2–Q3 prints will confirm |
+| FY2026 (rolling) | Advertising revenue growth rate | Primary margin-expansion thesis; must sustain >25% YoY to maintain Base case |
+| Ongoing | Buyback execution | $5B authorized, $0 executed; any execution at sub-$165 = meaningful signal |
+| Ongoing | Agentic commerce product launches | CEO Tony Xu explicitly positioned DASH as uniquely equipped for agentic ordering; watch for product announcements |
 
 ---
 
@@ -461,61 +471,63 @@ The single material insight from reading 5 years of 10-K Item 1A diffs (FY2020 �
 
 ### B — Behavioral: **Moderate**
 
-The –38% from Oct 2025 highs, compounded by an additional –5.6% session on Apr 24, reflects genuine sentiment deterioration. The Q3 2025 miss + "several hundred $M" spend announcement established the pattern: market now prices bad news harshly and discounts good news (Q4 beat got a muted reception). Stanley Tang's April 2 sale at the 52-wk low reinforces pessimism. However — and this is why the signal is *Moderate* rather than *Strong* — DASH had a genuinely elevated starting valuation ($285 at peak = ~45× trailing EBITDA). The selloff is a partial mean reversion from over-valuation, not pure irrational capitulation. The behavioral setup rhymes with BKNG at ~$3,800 more than with RKT at $14.96: real fear, but on a stock that was never deeply mispriced.
+The –42.6% from Oct 2025 highs now reflects a more extended pessimism cycle. Q1's +12% after-hours reaction — followed by a –4.3% drift on May 8 — is the clearest behavioral tell: market is skeptical of the earnings-quality narrative even when EBITDA beats guide. The selloff pattern (punish misses hard, discount beats quickly) that started with Q3 2025 is intact. However, with the stock back near $164 — only $21 above the 52-week low — there is less behavioral overhang to work off. Short interest declining (2.79% vs. 3.45% prior) signals covering, not new short pressure. Behavioral signal: real fear, but less acute overhang than 6 weeks ago.
 
 ### A — Analytical: **Moderate**
 
-Key analytical edges:
-- **SBC halving** ($2.6B → $1.3–1.4B in FY2026) is a major earnings-quality improvement not fully reflected in P/E comparisons that use trailing GAAP
-- **Deliveroo $200M EBITDA target for FY2026** is underweighted in consensus (some analysts still model partial-year conservative)
-- **H2 2026 seasonality + investment phasing** guidance (H2 "significantly stronger" than H1) — market is narrowly focused on Q1 guide
-- **Advertising revenue growth rate** is under-modeled in most sell-side workups
+Q1 updates modestly strengthen the analytical case:
+- **EBITDA above guide** ($754M vs. $725M midpoint) breaks the streak of missed expectations — removes the "always disappoints" narrative risk
+- **Q2 GOV guide dramatically above consensus** ($32.4–33.4B vs. ≈$28B prior consensus) — the clearest forward positive signal; implies volume acceleration is not slowing
+- **SBC halving** ($2.6B → $1.3–1.4B in FY2026) still a major earnings-quality improvement underrepresented in trailing GAAP comparisons
+- **Agentic commerce positioning** (CEO: proprietary physical-world catalog that "cannot be scraped") is a new analytical edge vs. AI-disintermediation bear thesis
 
-*Limits the signal*: DASH's own 5-year PW EV (~$130) from the Buffett lens sits *below* current $177. Analytical work doesn't unambiguously resolve to a "clear mispricing" — it resolves to "need more evidence of H2 re-acceleration to justify the multiple."
+*Limits the signal*: PW EV ≈$133 still below spot $163.93. Revenue missed ($4.04B vs. $4.15B est.) and Q2 EBITDA midpoint slightly missed ($820M vs. $830M est.). Stock is interesting, not unambiguously cheap.
 
 ### I — Informational: **Moderate**
 
-Primary-source disclosures underappreciated by media:
-- Q4 2025 beat the guide midpoint by $20M, and Deliveroo slightly exceeded its $45M contribution target — tracking ahead of plan on the acquisition
-- CFO guidance of H2 2026 being "significantly stronger" than H1
-- Alfred Lin's $100M buy — a sizeable a16z director purchase underreported vs. Xu's larger but routine selling
-- 10-K disclosures around the unified global tech stack investment phasing
+New primary-source signals from Q1 2026:
+- Deliveroo tracking at or above the <$25M Q1 contribution estimate — "highest growth rate in 4 years" (Tony Xu, Q1 2026 call)
+- Grocery/retail: "strongest new consumer attraction in any previous quarter" + gross-profit positivity target H2 2026 unchanged
+- SevenRooms × Deliveroo integration delivered first product (in-app reservations, May 7) — earlier than expected
+- ≈⅔ of DASH code now written by AI — productivity multiplier for tech-stack consolidation timeline
+- Feb 25 exit from Qatar/Singapore/Japan/Uzbekistan is under-covered positive: signals management discipline in cutting sub-scale markets rather than defending sunk cost
 
 ### T — Technical: **Weak**
 
-- $5B buyback authorized, $0 executed — no mechanical floor
+- $5B buyback authorized, $0 executed — still no mechanical floor despite stock near 52-wk low
 - No split, no index inclusion catalyst, no mandatory flow event
-- Stock broke the 100-day moving average and is below the 200-day — trend is negative
-- –5.6% session on Apr 24 suggests continued capitulation without a clear positive technical setup
+- Stock at $163.93 is $20.63 above 52-wk low $143.30 — limited technical support
+- After-hours pop then next-day reversal is a bearish technical pattern (failed breakout)
 
 ### BAIT Verdict
 
-**Double overlap (B + A + I, all Moderate)**. No Strong lens. The signal is real but not clean. Conviction: **Low-Moderate**. The stock is *interesting* but not a high-conviction buy at $177. The "fair value" zone begins at $140–150 (where Stifel's $185 becomes conservative and the Buffett PW EV of $130 becomes the floor of a reasonable range).
+**Double overlap (B + A + I, all Moderate)**. No Strong lens. Conviction remains **Low-Moderate**. The Q1 print improved the analytical case modestly (EBITDA beat, GOV guidance beat) but did not flip conviction to Moderate-High. Stock needs either H2 2026 inflection delivery (grocery/retail unit economics, Deliveroo run-rate) or a further drawdown to sub-$130 to turn the BAIT balance clearly positive.
 
 ---
 
 ## Section 11 — Bull / Bear / Base Cases
 
-*All scenarios are 5-year (2030) terminal prices. Probabilities sum to 100%.*
+*All scenarios are 5-year (2030) terminal prices. Probabilities sum to 100%. Updated post-Q1 2026: Base probability raised 50% → 55% (EBITDA beat + Deliveroo tracking + GOV acceleration); Bear reduced 20% → 15% (Q1 execution removes "always disappoints" narrative); Bull unchanged at 30%.*
 
-### Bull Case — $215 by 2030 (+22% from $176.78, ~4% CAGR) — **Probability: 30%**
-- Revenue $25B by 2030 (CAGR ~13%)
+### Bull Case — $215 by 2030 (+31% from $163.93, ≈6% CAGR) — **Probability: 30%**
+- Revenue $25B by 2030 (CAGR ≈13%)
 - Adj EBITDA margins expand to 15% (advertising + operating leverage + autonomous delivery)
-- EBITDA ~$3.75B × 25× EV/EBITDA
-- Requires: international Wolt+Deliveroo profitability approaches U.S. levels, ad revenue reaches 15%+ of mix, Dot/autonomous reduces Dasher cost-per-order by 10–20%
+- EBITDA ≈$3.75B × 25× EV/EBITDA
+- Requires: Deliveroo + Wolt profitability approaches U.S. levels, ad revenue reaches 15%+ of mix, autonomous delivery reduces Dasher cost-per-order by 10–20%, grocery/retail unit economics positive H2 2026 (first confirmation milestone)
 
-### Base Case — $110 by 2030 (–38% from $176.78, ~–9% CAGR) — **Probability: 50%**
-- Revenue $22B by 2030 (CAGR ~10%)
-- Adj EBITDA margins reach 12% (advertising growth okay but plateaus; international is margin-drag)
-- EBITDA ~$2.64B × 18× EV/EBITDA
-- Requires: steady execution, no major competitive breakthrough, no major regulation
+### Base Case — $110 by 2030 (–33% from $163.93, ≈–7.6% CAGR) — **Probability: 55%**
+- Revenue $22B by 2030 (CAGR ≈10%)
+- Adj EBITDA margins reach 12% (advertising growth adequate but plateaus; Deliveroo is modest contributor; grocery takes longer than H2 2026)
+- EBITDA ≈$2.64B × 18× EV/EBITDA
+- Requires: steady execution, no major competitive breakthrough, no major regulation; Deliveroo contributes $200M+ EBITDA FY2026 (reaffirmed)
 
-### Bear Case — $50 by 2030 (–72% from $176.78, ~–22% CAGR) — **Probability: 20%**
+### Bear Case — $50 by 2030 (–69% from $163.93, ≈–21% CAGR) — **Probability: 15%**
 - Growth slows to mid-single digits as food delivery saturates
-- Margin pressure from regulation (AB5-federal or fee caps) + competition (Uber One)
-- Revenue ~$18B, Adj EBITDA margin 8%, EBITDA ~$1.44B × 15× EV/EBITDA
+- Margin pressure from regulation (AB5-federal or fee caps) + Uber One bundling escalation
+- Revenue ≈$18B, Adj EBITDA margin 8%, EBITDA ≈$1.44B × 15× EV/EBITDA
+- Trigger condition: gig-worker reclassification passes AND/OR Deliveroo FY2026 EBITDA <$100M
 
-**Important caveat**: These are terminal-year (2030) scenarios. 1-to-2-year price action could differ meaningfully if Q1 2026 or H2 2026 earnings confirm the margin-expansion path. A re-rating to consensus $250 is plausible on a clear H2 beat even if the 5-year terminal math doesn't resolve positively.
+**Important caveat**: These are terminal-year (2030) scenarios. 1-to-2-year price action could differ meaningfully if H2 2026 earnings confirm the margin-expansion path. A re-rating to consensus $247–280 is plausible on a clear H2 beat even if the 5-year terminal math doesn't resolve positively.
 
 ---
 
@@ -524,37 +536,39 @@ Primary-source disclosures underappreciated by media:
 | Scenario | Terminal (2030) Price | Probability | PW Contribution |
 |----------|----------------------|-------------|-----------------|
 | Bull | $215 | 30% | $64.50 |
-| Base | $110 | 50% | $55.00 |
-| Bear | $50 | 20% | $10.00 |
-| **PW EV (5-year)** | | | **~$130** |
+| Base | $110 | 55% | $60.50 |
+| Bear | $50 | 15% | $7.50 |
+| **PW EV (5-year)** | | | **≈$132.50 (≈$133)** |
 
 | Current Price | PW EV | Return (5-yr) | Annualized |
 |--------------|-------|--------------|-----------|
-| $169.33 | $130 | **–23%** | ~–5%/yr |
+| $163.93 | $133 | **–19%** | ≈–4%/yr |
 
-**Interpretation** (per Rule #26 single 5-yr lens): DASH at $169.33 trades **23% above** PW EV $130 — sits firmly in the §13 **Trim zone** ($130 < price < Bull $215). R/R **~0.4:1** (Bull $215 / Bear $50) at spot is unfavorable. Entry zone re-derives mechanically: ≤ PW EV − MoS = **$98–$110** (15–25% discount).
+**Interpretation** (per Rule #26 single 5-yr lens): DASH at $163.93 trades **19% above** PW EV $133 — sits in the §13 **Trim zone** ($133 < price < Bull $215). R/R **≈0.4:1** (Bull $215 upside vs. Bear $50 downside from spot $163.93) remains unfavorable. Entry zone re-derives mechanically: ≤ PW EV − MoS = **$100–$113** (15–25% discount from $133 PW EV).
 
-Consensus median target $252–278 is an *input* to scenario probabilities (informs Bull case), never an anchor for entry. The "tactical re-rating" framing previously used here (12–18-month consensus target chase) is incompatible with Rule #26 and has been retired.
+PW EV rose from $130 → $133 post-Q1 due to Bear probability reduction (20% → 15%) offset partially by Base shift (50% → 55%). The change is modest — Q1 removed downside risk more than it added upside probability. The Bull case ($215) is unchanged.
+
+Consensus median target ≈$247.89 is an *input* to scenario probabilities (informs Bull case), never an anchor for entry. The "tactical re-rating" framing previously used here (12–18-month consensus target chase) is incompatible with Rule #26 and has been retired.
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: DoorDash is the dominant U.S. local-commerce marketplace with credible advertising + international + autonomous margin-expansion optionality, but the 5-year PW EV ($130) sits 23% *below* spot ($169.33) — stock is in the Trim zone per Rule #26.
+**Thesis in one sentence**: DoorDash is the dominant U.S. local-commerce marketplace with credible advertising + international + autonomous margin-expansion optionality; Q1 2026 confirmed above-guide EBITDA and Deliveroo on track, but the 5-year PW EV (≈$133) sits 19% below spot ($163.93) — stock remains in the Trim zone per Rule #26, with thesis modestly strengthened.
 
-**For a non-holder**: 🔴 **Avoid** at $169.33. Watch for a drop into the **$98–$110 entry zone** (PW EV $130 minus 15–25% MoS). Spot above PW EV offers no margin of safety; bull-case re-rating to $250+ requires 5-yr execution that's already partially in the Bull-case probability weight, not a delta worth chasing.
+**For a non-holder**: 🔴 **Avoid** at $163.93. Watch for a drop into the **$100–$113 entry zone** (PW EV $133 minus 15–25% MoS). Q1's EBITDA beat and GOV acceleration were positive but did not close the MoS gap; spot is still above PW EV.
 
-**For a current holder**: 🔴 **Reduce** — spot in Trim zone ($130 < $169.33 < Bull $215). Lighten size on bounces. The Q1 2026 print on May 6 could shift the read: a meaningful Base/Bull probability re-weight (e.g., H2 inflection delivers + ad-rev sustains >25%) would lift PW EV; absent that, the trim discipline holds.
+**For a current holder**: 🔴 **Reduce** — spot in Trim zone ($133 < $163.93 < Bull $215). Lighten size on bounces toward $180+. Q1 thesis is modestly strengthened; do not exit fully, but do not add until $100–$113 entry zone.
 
-🎯 **Attractive entry zone**: **$98 – $110** (PW EV $130 − 15–25% MoS per Rule #26)
+🎯 **Attractive entry zone**: **$100 – $113** (PW EV $133 − 15–25% MoS per Rule #26)
 
-🎯 **Trim zone**: **$130 – $215** (PW EV < spot < Bull; spot $169.33 currently here)
+🎯 **Trim zone**: **$133 – $215** (PW EV < spot < Bull; spot $163.93 currently here)
 
 🔴 **Exit / avoid zone**: **≥ $215** (≥ Bull case; structural cap exceeded)
 
 **Thesis-break triggers** ⚠️ (would force re-rating toward Exit / Avoid):
-- ⚠️ Q1 2026 adj EBITDA < $650M absent an external shock of clear magnitude
-- ⚠️ Full-year 2026 adj EBITDA guide implies H2 < 55% of full year when refreshed at Q2
+- ✅ ~~Q1 2026 adj EBITDA < $650M absent an external shock~~ DE-RISKED 2026-05-06: Q1 printed $754M, above $675–775M guide
+- ⚠️ Full-year 2026 adj EBITDA guide implies H2 < 55% of full year when refreshed at Q2 (still live)
 - ⚠️ U.S. market share falls below 58% for two consecutive quarters (Bloomberg Second Measure)
 - ⚠️ Gig-worker reclassification legislation advances materially at state (CA/NY) or federal level
 - ⚠️ Advertising revenue growth decelerates to below 25% YoY for two consecutive quarters
@@ -562,7 +576,7 @@ Consensus median target $252–278 is an *input* to scenario probabilities (info
 - ⚠️ Any new commission cap legislation passes in a top-10 U.S. metro
 - ⚠️ Tony Xu founder departure (not a current signal, but a structural one)
 
-📅 **Next review trigger**: **Q1 2026 earnings — May 6, 2026 (post-close)**. Key items: (1) adj EBITDA vs. $675–775M guide, (2) H2 pacing commentary and any FY guide update, (3) Deliveroo contribution run-rate toward $200M FY target, (4) advertising revenue growth rate, (5) any signal on grocery unit economics timeline.
+📅 **Next review trigger**: **Q2 2026 earnings (early August 2026)**. Key items: (1) adj EBITDA vs. $770–870M guide, (2) any update to FY2026 H2 inflection cadence, (3) Deliveroo quarterly EBITDA run-rate toward $200M FY target, (4) first evidence of grocery/retail gross-profit positivity (H2 target), (5) advertising revenue growth rate, (6) any buyback execution.
 
 ---
 

@@ -1,0 +1,38 @@
+SOURCE: Coupang Q1 2026 Earnings Release
+URL: https://s206.q4cdn.com/919117365/files/doc_financials/2026/q1/2026-Q1_Earnings-Release.pdf
+Filed: 2026-05-05 (8-K, SEC EDGAR CIK 1834584)
+Retrieved: 2026-05-10
+
+KEY FIGURES (extracted via WebFetch + StockTitan 8-K summary):
+- Total net revenues: $8.5B (+8% reported and constant currency)
+- Product Commerce revenues: $7.2B (+4% reported; +5% constant currency)
+- Developing Offerings revenues: $1.3B (+28% reported)
+- Gross profit: $2.3B; gross margin 27.0% (–228 bps YoY)
+- Operating loss: –$242M (vs. +$154M operating profit Q1 2025)
+- Net loss: –$266M (vs. +$107M net income Q1 2025)
+- Diluted EPS: –$0.15 (vs. +$0.06 Q1 2025)
+- Adjusted EBITDA: $29M (vs. $382M Q1 2025); margin 0.3% (vs. 4.8%)
+- Developing Offerings segment EBITDA loss: –$329M
+- Free cash flow: –$110M (quarterly); TTM FCF $301M (vs. $1,025M prior TTM)
+- Active customers: 23.9M (+2% YoY; –3% sequential — incident measurement lag)
+- Q2 2026 guidance: constant currency revenue growth 9–10%; adj EBITDA margin YoY contraction ~300–400 bps
+- FY2026 Developing Offerings EBITDA loss guide: $950M–$1B (unchanged)
+
+WOW MEMBERSHIP (from transcript):
+- ~80% of post-incident WOW membership decline closed by end of April 2026
+- New sign-ups and churn returned to historical stable levels
+
+VOUCHER PROGRAM:
+- $1.2B voucher program; bulk landed Q1 2026 with modest Q2 tail
+- Vouchers netted against revenue (accounting treatment)
+
+TAIWAN:
+- Own last-mile network covers "vast majority" of volume
+- "Cohort retention behavior is reminiscent of what we saw in the early years of Product Commerce in Korea"
+
+FARFETCH: No specific update in transcript (not mentioned)
+
+MANAGEMENT GUIDANCE LANGUAGE:
+- "We expect annual margin expansion to resume next year [2027]"
+- Q2 adj EBITDA margin YoY contraction ~300–400 bps due to fixed-cost underutilization + residual voucher tail
+- Korea Product Commerce monthly growth improved sequentially Jan → Feb → Mar

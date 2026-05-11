@@ -1,25 +1,43 @@
 # TREX — Trex Company, Inc.
 
-> **Schema**: v2.9
-> **Last Updated**: 2026-04-26
-> **Status**: Active
-> **Live Price Verified**: **$41.90** at 2026-04-24 close ([Yahoo Finance](https://finance.yahoo.com/quote/TREX); previous close $42.37; market cap $4.35B; P/E TTM 23.5)
-> **Ticker Type**: Building products / housing-cyclical industrial (composite decking & railing)
+**Schema**: v2.14
+**Last Updated**: 2026-05-10
+**Status**: Active
+**Live Price**: **$39.91** (2026-05-09 close, post-Q1 print; +6.2% on earnings day) — [Yahoo Finance](https://finance.yahoo.com/quote/TREX)
+**Ticker Type**: Building products / housing-cyclical industrial (composite decking & railing)
 
 ---
 
 ## Summary
 
-- 🟡 **Thesis**: Dominant U.S. composite-decking franchise (**Narrow-but-widening moat** — 50–60% composite share, ~14% total-decking share) trading at a housing-cyclical trough (~13× FY26E EV/EBITDA) with a $200M buyback compounding at the bottom. Asymmetric if rates inflect; range-bound if not.
-- 📉 **Price action**: $41.90, **–39% from 52-wk high** ($68.78), +41% above 52-wk low ($29.77). Drawdown reflects post-Q4 sell-off + FY26 GM-headwind guide + cycle skepticism.
-- 🟢 **For a non-holder: Initiate** (patient sizing) — entry zone $30–$42 absorbs the rate-stuck bear case.
-- 🟡 **For a current holder: Hold** — do not sell at trough; **add** below $35.
-- 🎯 **Attractive entry**: **$30–$42** (10–13× FY26E EBITDA). 🎯 **Trim**: **$60–$72** (17–20×).
-- 🟢 **Moat verdict**: *Narrow-and-widening — brand = category-defining; recycled-content cost advantage; distribution density; 76% of total-decking TAM still wood (every 1% conversion = ~$80M in industry composite sales).*
-- 📅 **Next catalyst**: **Q1 2026 earnings — early May 2026** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NYSE/TREX/earnings/)). First print under incoming CEO Adam Zambanini.
-- ⚠️ **Top risk**: Mortgage rates stay 6.5%+ for sustained period — compresses housing turnover and discretionary R&R (peer-differentiated only modestly; AZEK exposed similarly). **Not yet priced in below ~7% rate scenario.**
-- ⚠️ **Second risk**: Little Rock capacity over-build if cycle trough is later/deeper than guided — large discretionary investment with D&A drag already in FY26 (~100bps GM headwind).
-- 🟡 **BAIT verdict**: **Moderate** (B+A Moderate, I/T Weak). PW EV (3-yr) **$57** vs. $41.90 spot = **+36% / ~+11% CAGR**. Bull/Bear R/R **~3.6:1** (per Rule #26, anchored to §11).
+**Thesis**: Trex is the dominant U.S. composite-decking franchise (50–60% composite share, ≈14% total-decking share) at a housing-cyclical trough. Q1 2026 de-risked the setup — EPS $0.59 beat (+$0.08 vs. consensus), GM 40.5% (+100bps vs. plan), channel inventory lean at 30–40 days (vs. 90–120 historical), and Little Rock on track for 2027 regional launch unlocking 200–300bps margin upside. PW EV $58 vs. $39.91 spot (+45% / ≈7.7%/yr CAGR; 5-yr terminal). Rate cycle remains the swing factor.
+🟢 **Non-holder: Initiate** · 🟡 **Holder: Hold** (add below $37)
+
+### Scenario Table (5-year terminal, FY2031E)
+
+| 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|---|
+| $29.77 – $68.78 | $39.91 (~28%) | $28 | <$42 | $60 / **$58** | $65 – $75 | $85 | **≈3.7:1** |
+
+### KPI Strip
+
+| BAIT | Moat | FY26E EV/EBITDA | FCF Yield (FY26E) | Short int. | Next catalyst |
+|---|---|---|---|---|---|
+| **Moderate** (B+A) | **Narrow-widening** | ≈12.5× | ≈5–6% | ≈6.5% of float | Q2 2026 print (≈Aug 2026) |
+
+### Why / Why not / Next read
+
+🟢 **Why**:
+- Q1 2026 GM 40.5% — 100bps above plan; FIFO/warranty noise fully absorbed; Little Rock D&A is the only structural headwind
+- Channel inventory 30–40 days (from 90–120 historically); lean shelves drive Q2/Q3 sell-in recovery; sell-out +6% TTM
+- $200M+ buyback (≈4.5% yield) compounding at trough multiples; Little Rock 2027 launch = free margin call option
+
+⚠️ **Why not**:
+- Mortgage rates 6.5%+ sustained; FY26 guide assumes flat-to-down R&R — a real R&R contraction (–5%+) breaks the guide
+- FY26 GM ≈37.5% guided (250bps full-year headwind: 170–180bps Little Rock D&A + 70–80bps railing mix) vs. FY2024's 41.7% peak
+- Short interest climbed to ≈6.5% of float (from 1.9% prior baseline) — bears building conviction on cycle duration
+
+📅 **Next read**: Q2 2026 earnings (≈Aug 2026) — core decking season print; does lean-channel sell-through confirm a cycle turn? Watch revenue vs. $388–403M guide and GM trajectory.
 
 ---
 
@@ -27,7 +45,7 @@
 
 Trex Company (NYSE: TREX) is the **largest U.S. manufacturer of wood-alternative composite decking and railing**, manufactured from ~95% recycled content (post-industrial polyethylene film + reclaimed hardwood fiber). The "Trex" brand is functionally synonymous with composite decking in the U.S. consumer market and reaches end customers through a hybrid channel: **Home Depot + Lowe's big-box** (a meaningful share of revenue) and a **6,700+ specialty pro-dealer network**. Manufacturing is vertically integrated at Winchester, VA and the new Little Rock, AR facility (which is ramping through 2026 and contributes ~100bps of GM headwind via depreciation in the near term but lowers per-unit cost at full utilization).
 
-FY2025 revenue was ~$1.13B with adjusted EPS of $1.88; the company **guides FY2026 revenue to $1.185B–$1.230B and Adjusted EBITDA to $315M–$340M** ([Q4 2025 PR, BusinessWire, 2026-02-24](https://www.businesswire.com/news/home/20260224569700/en/Trex-Company-Reports-Fourth-Quarter-and-Full-Year-2025-Results)), assuming a flat-to-slightly-down repair-and-remodel (R&R) market. Q4 2025 net sales of $161M came in **$17M above guide midpoint** on stronger-than-expected railing in the back half of Q4. Outgoing CEO Bryan Fairbanks retires in late April 2026; **COO Adam Zambanini becomes CEO**, with stated focus on "execution and disciplined innovation."
+FY2025 revenue was ≈$1.13B with adjusted EPS of $1.88; FY2026 guidance (reaffirmed on Q1 print) is **revenue $1.185B–$1.230B and Adjusted EBITDA $315M–$340M** ([Q4 2025 PR, BusinessWire, 2026-02-24](https://www.businesswire.com/news/home/20260224569700/en/Trex-Company-Reports-Fourth-Quarter-and-Full-Year-2025-Results); [Q1 2026 PR, BusinessWire, 2026-05-07](https://www.businesswire.com/news/home/20260507430582/en/Trex-Company-Reports-Solid-First-Quarter-2026-Results)). Q1 2026 net sales were **$343M (+1% YoY)**, with EPS of $0.59 (beat by $0.08) and GM of 40.5% (100bps above plan). Adam Zambanini (CEO effective late April 2026) delivered his first earnings call on May 7, outlining five strategic priorities: brand loyalty, high-performance innovation, channel optimization, railing cost reduction, and growth enablement through talent and technology.
 
 ---
 
@@ -46,23 +64,25 @@ The answer turns on three sub-questions:
 
 | Metric | Value | Source / Note |
 |--------|-------|---------------|
-| Live Price | **$41.90** | [Yahoo Finance](https://finance.yahoo.com/quote/TREX), 2026-04-24 close |
-| Previous Close | $42.37 | Yahoo |
+| Live Price | **$39.91** | [Yahoo Finance](https://finance.yahoo.com/quote/TREX), 2026-05-09 close |
 | 52-Week Range | $29.77 – $68.78 | Yahoo |
-| % From 52-Wk High | **–39.1%** | Recent post-Q4 sell-off |
-| % Above 52-Wk Low | +40.7% | |
-| Market Cap | $4.35B | ~104M diluted shares |
-| FY2025 Revenue | ~$1.13B | [Q4 2025 PR](https://www.businesswire.com/news/home/20260224569700/en/Trex-Company-Reports-Fourth-Quarter-and-Full-Year-2025-Results) |
-| FY2025 Adj. EPS | $1.88 | Same |
-| FY2026 Revenue Guide | $1.185B–$1.230B (+5–9%) | Same |
-| FY2026 Adj. EBITDA Guide | $315M–$340M (~27% margin) | Same |
-| Q4 2025 Revenue | $161M (–4% YoY; +$17M vs. guide) | Same |
-| Q4 2025 GM | 30.2% (FIFO + warranty pressure) | Same |
-| Buyback | $50M Q4 2025 + $150M new 1H 2026 auth (~4.5% yield) | Same |
-| Short Interest | 1.92% of float (low) | [Fintel](https://fintel.io/ss/us/trex) |
-| P/E TTM | 23.5× | Yahoo |
-| Analyst Consensus Target | $44–$67 (wide dispersion) | [stockanalysis.com](https://stockanalysis.com/stocks/trex/forecast/) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/TREX/forecast/) |
-| Q1 2026 Earnings | Early May 2026 (est.) | First print under CEO Zambanini |
+| % From 52-Wk High | **–42.0%** | Post-Q4 sell-off; partial recovery on Q1 beat |
+| % Above 52-Wk Low | +34.0% | |
+| Market Cap | ≈$4.15B | ≈104M diluted shares |
+| Q1 2026 Revenue | **$343M (+1% YoY)** | [Q1 2026 PR, BusinessWire](https://www.businesswire.com/news/home/20260507430582/en/Trex-Company-Reports-Solid-First-Quarter-2026-Results) |
+| Q1 2026 EPS | **$0.59** (beat by $0.08 vs. $0.51 consensus) | Same |
+| Q1 2026 GM | **40.5%** (100bps above plan) | Same |
+| Q1 2026 Adj. EBITDA | **$103M (+2% YoY)** | Same |
+| FY2025 Revenue | ≈$1.13B | [Q4 2025 PR](https://www.businesswire.com/news/home/20260224569700/en/Trex-Company-Reports-Fourth-Quarter-and-Full-Year-2025-Results) |
+| FY2026 Revenue Guide (reaffirmed) | $1.185B–$1.230B | [Q1 2026 PR](https://www.businesswire.com/news/home/20260507430582/en/Trex-Company-Reports-Solid-First-Quarter-2026-Results) |
+| FY2026 Adj. EBITDA Guide | $315M–$340M (adj. GM ≈37.5%) | Same |
+| FY2026 Capex Guide | **$100M–$120M** (down from $224M in 2025) | Same |
+| Q2 2026 Revenue Guide | **$388M–$403M** | Same |
+| Buyback | $100M ASR completed Q1 + $10M board add | [Q1 2026 transcript, Insider Monkey](https://www.insidermonkey.com/blog/trex-company-inc-nysetrex-q1-2026-earnings-call-transcript-1757112/) |
+| Short Interest | ≈6.5% of float (elevated; up from 1.9%) | [MarketBeat](https://www.marketbeat.com/stocks/NYSE/TREX/short-interest/) |
+| P/E TTM | ≈22.4× | [Yahoo Finance](https://finance.yahoo.com/quote/TREX) |
+| Analyst Consensus | 10 Buy / 5 Hold / 2 Sell; median target $50 | [stockanalysis.com](https://stockanalysis.com/stocks/trex/forecast/) |
+| Q2 2026 Earnings | ≈Aug 2026 | Next major catalyst |
 
 ---
 
@@ -84,13 +104,13 @@ The answer turns on three sub-questions:
 
 ### Recent quarterly trajectory
 
-| Quarter | Revenue | YoY | Notes |
-|---------|---------|-----|-------|
-| Q1 2025 | ~$340M | –9% | Cycle pressure begins |
-| Q2 2025 | ~$345M | +2% | Stabilizing |
-| Q3 2025 | ~$285M | –2% | Decking soft, railing strong |
-| Q4 2025 | $161M | –4% | Beat guide by $17M on railing strength; GM 30.2% (FIFO change + $6M warranty reserve) |
-| Q1 2026E | (May print) | — | First print under Zambanini |
+| Quarter | Revenue | YoY | GM | Notes |
+|---------|---------|-----|----|-------|
+| Q1 2025 | ≈$340M | –9% | — | Cycle pressure begins |
+| Q2 2025 | ≈$345M | +2% | — | Stabilizing |
+| Q3 2025 | ≈$285M | –2% | — | Decking soft, railing strong |
+| Q4 2025 | $161M | –4% | 30.2% | Beat guide by $17M; GM depressed by FIFO change + $6M warranty reserve |
+| **Q1 2026** | **$343M** | **+1%** | **40.5%** | **EPS $0.59 (beat +$0.08); EBITDA $103M (+2%); 100bps above GM plan; guidance reaffirmed** |
 
 ### Primary Source: 10-K Segment Detail (FY2024)
 
@@ -174,7 +194,14 @@ TREX reports **a single residential reportable segment** ("Trex Residential") co
 
 ## Section 4 — Management & Leadership
 
-**Adam Zambanini (incoming CEO, late April 2026)** — promoted from COO, internal continuity choice. Operating-side leader; oversaw Little Rock ramp execution and the dealer-channel expansion. First investor-facing print is Q1 2026 in May. Stated focus: *"execution and disciplined innovation, with continued market-share capture against wood"* ([Q4 2025 transcript, Yahoo Finance](https://finance.yahoo.com/news/trex-company-inc-q4-2025-133000813.html)).
+**Adam Zambanini (CEO, effective late April 2026)** — promoted from COO; internal continuity. Delivered his first earnings call on 2026-05-07. Outlined five long-term strategic priorities ([Q1 2026 transcript, Insider Monkey](https://www.insidermonkey.com/blog/trex-company-inc-nysetrex-q1-2026-earnings-call-transcript-1757112/)):
+1. *"Create an unbreakable bond with our end users — homeowners and pro contractors"*
+2. *"Continued focus on high-performance innovation"*
+3. *"Optimize the channels for growth"*
+4. Lowering railing costs to improve margins
+5. *"Growth enablement"* through culture, technology, and talent investment
+
+**Investment relevance**: priorities 3–4 directly address the two biggest margin levers (channel sell-through acceleration + railing margin dilution) and confirm continuity with Fairbanks-era strategy, not a strategic pivot.
 
 **Bryan Fairbanks (outgoing CEO, retiring late April 2026)** — 7+ years as CEO. Inherited a low-growth recycled-decking business and oversaw (a) the railing strategic pivot, (b) the Little Rock capacity expansion, (c) multiple buyback authorizations, (d) the Trex Outdoor Living adjacency push. Departing at a cyclical trough — neutral signal; not a "fleeing the wreck" departure given internal succession.
 
@@ -198,12 +225,14 @@ TREX reports **a single residential reportable segment** ("Trex Residential") co
 | 2023 | Margin recovery + dealer-channel acceleration | GM rebuilt 35.5% → 38.5%; dealer count ~6,000 → 6,300 |
 | 2024 | Premium-tier mix + Little Rock decision | GM peaks 41.7%; capacity bet locked in for late-cycle |
 | 2025 | **Railing strategic pivot** + Little Rock ramp | "Double railing share by YE 2028"; new products = 24% of sales |
-| 2026 (guide) | **Defensive guidance + buyback aggression** | FY26 +5–9% revenue guide assumes flat-to-down R&R; $200M buyback |
+| 2026 (Q1 print) | **De-risked cycle trough; channel lean; CEO transition** | Q1 EPS beat $0.08; GM 40.5%; channel 30–40 days; Arkansas 2027 target; Zambanini's 5 priorities confirmed continuity |
 
 **Verbatim quotes mapped to investment relevance**:
 - *"Railing is up double digits and continues to drive share gains, while decking is expected to see low single-digit growth"* — [Q4 2025 transcript / IR PR](https://www.businesswire.com/news/home/20260224569700/en/Trex-Company-Reports-Fourth-Quarter-and-Full-Year-2025-Results), 2026-02-24. **Investment relevance**: confirms railing is the lead growth vector; under-modeled by sell-side.
 - *"New products accounted for 24% of full-year 2025 sales"* — same source. **Investment relevance**: high innovation cadence supports premium mix shift; counters the "decking is mature" bear thesis.
 - Zambanini: *"My focus will be on execution and disciplined innovation"* — [Q4 2025 transcript](https://finance.yahoo.com/news/trex-company-inc-q4-2025-133000813.html). **Investment relevance**: continuity language; no strategic-pivot risk in CEO transition.
+- Zambanini on channel: *"Channel inventory is close to 30 to 40 days … national accounts have shifted from historically carrying 90 to 120 days"* — [Q1 2026 transcript, Insider Monkey](https://www.insidermonkey.com/blog/trex-company-inc-nysetrex-q1-2026-earnings-call-transcript-1757112/), 2026-05-07. **Investment relevance**: lean channel is the most direct de-risking of the FY26 guide — restocking demand will flow into Q2/Q3 sell-in without requiring a macro recovery.
+- Zambanini on Arkansas: *"[The facility is] on track for a potential game-changing regional launch in 2027, with broader national deployment expected 2028–2030"* — same source. **Investment relevance**: shifts the Little Rock margin-upside catalyst from "uncertain" to date-anchored; narrows the over-build risk window.
 
 ---
 
@@ -226,7 +255,7 @@ TREX reports **a single residential reportable segment** ("Trex Residential") co
 | Risk | Impact | Probability | Priced-In? | Notes |
 |---|---|---|---|---|
 | ⚠️ **Mortgage rates stay 6.5%+ for sustained period** | High | 50% | Partially (–39% drawdown reflects some) but the 7%+ tail is **not priced in** | Compresses housing turnover and discretionary R&R; peer-differentiated only modestly (AZEK exposed similarly) but TREX's higher ASP makes it more rate-sensitive than mid-tier composite |
-| ⚠️ **Little Rock capacity over-build / sub-utilization** | High | 30% | **Not priced in** as a multi-year fixed-cost drag scenario | Large discretionary investment (Rule #25(d)). If cycle trough extends to FY27+, Little Rock D&A becomes a 200–300bps GM drag rather than ramping into absorption |
+| ⚠️ **Little Rock capacity over-build / sub-utilization** | High | 20% | **Partially de-risked** — 2027 regional-launch timeline now stated | Large discretionary investment (Rule #25(d)). D&A drag quantified at 170–180bps of the 250bps FY26 headwind. If cycle trough extends past FY27, absorption delayed — but 2027 date anchor narrows the tail |
 | ⚠️ **Housing R&R recession deepens beyond guide** | High | 30% | Partially | FY26 guide assumes flat-to-down R&R; LIRA index implies modest deceleration. A real R&R contraction (–5%+) would break the guide |
 | ⚠️ **AZEK accelerates premium-tier share gain** | Medium | 30% | Not priced in below 2pts/qtr | Direct competition; TREX has brand lead but AZEK is well-capitalized and pushing pro channel |
 | **Big-box concentration pricing pressure** | Medium | 30% | Mostly priced in | HD + LOW ~50% of sales — long-known structural; mitigation = dealer-channel growth |
@@ -251,18 +280,18 @@ TREX reports **a single residential reportable segment** ("Trex Residential") co
 
 ## Section 8 — Valuation & Comparable Analysis
 
-### Current multiples (2026-04-24, $41.90 / $4.35B mkt cap)
+### Current multiples (2026-05-09, $39.91 / ≈$4.15B mkt cap)
 
 | Metric | Value | Notes |
 |---|---|---|
-| EV / Revenue (FY2025A) | ~3.9× | |
-| EV / Revenue (FY2026E) | ~3.5× | $1.21B mid |
-| EV / EBITDA (FY2026E) | **~13.0×** | $328M mid |
-| P/E TTM | 23.5× | |
-| P/E Fwd (FY2026E ~$2.00) | ~21× | |
-| FCF Yield (FY2026E) | ~5–6% | |
-| Buyback Yield | ~4.5% | $200M / $4.35B over 12 mo. |
-| Total shareholder yield (FCF + BB) | ~9–10% | |
+| EV / Revenue (FY2025A) | ≈3.7× | |
+| EV / Revenue (FY2026E) | ≈3.4× | $1.208B mid |
+| EV / EBITDA (FY2026E) | **≈12.5×** | $328M mid; slightly more attractive than prior $41.90 snapshot |
+| P/E TTM | ≈22.4× | [Yahoo Finance](https://finance.yahoo.com/quote/TREX) |
+| P/E Fwd (FY2026E ≈$2.05) | ≈19× | |
+| FCF Yield (FY2026E) | ≈5–6% | |
+| Buyback Yield | ≈4.5% | ≈$185M remaining / $4.15B cap |
+| Total shareholder yield (FCF + BB) | ≈9–10% | |
 
 ### Comparable peer set
 
@@ -287,147 +316,155 @@ TREX reports **a single residential reportable segment** ("Trex Residential") co
 
 ### Live price & positioning
 
-- **Price**: $41.90 (2026-04-24 close) — [Yahoo Finance](https://finance.yahoo.com/quote/TREX)
-- **52-wk range**: $29.77 – $68.78 | **% from high: –39.1%** | **% above low: +40.7%**
-- **Market cap**: $4.35B
+- **Price**: **$39.91** (2026-05-09 close; +6.2% on earnings day 2026-05-07) — [Yahoo Finance](https://finance.yahoo.com/quote/TREX)
+- **52-wk range**: $29.77 – $68.78 | **% from high: –42.0%** | **% above low: +34.0%**
+- **Market cap**: ≈$4.15B
 
 ### Analyst consensus
 
-- 🟢 **Aggregate**: Buy / Mixed (panels show ~9 Buy / ~8 Hold / 1 Sell on 18-analyst survey) — [stockanalysis.com](https://stockanalysis.com/stocks/trex/forecast/) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/TREX/forecast/)
-- **Median target**: $44–$67 across panels (wide dispersion reflecting rate-cycle uncertainty)
-- **Range**: $32 (low) – $85 (high)
-- **Recent rating actions**: post-Q4 print, several panels trimmed targets toward the low end of the range; no firm-level downgrade clusters that would constitute a 3+ firm signal.
+- 🟡 **Aggregate**: 10 Buy / 5 Hold / 2 Sell (17-analyst panel) — [stockanalysis.com](https://stockanalysis.com/stocks/trex/forecast/)
+- **Median target**: $50 | **Average**: $49.75 | **High**: $75 | **Low**: $35
+- **Recent rating actions** (Apr–May 2026):
+  - 📅 [2026-05-08] UBS (John Lovallo) — Maintains **Strong Buy**; raises target $58 → **$59** — [Benzinga](https://www.benzinga.com/quote/TREX/analyst-ratings)
+  - [2026-05-05] Stifel — Reiterates **Hold**; trims target $42 → **$40** — same source
+  - [2026-04-20] BofA Securities — Maintains **Underperform**; trims $43 → **$42** — [Investing.com](https://www.investing.com/news/analyst-ratings/trex-stock-rating-downgraded-to-underperform-by-bofa-on-competition-concerns-93CH-4333306)
+  - [2026-04-08] Barclays — Maintains **Underweight**; trims $39 → **$35** — [Benzinga](https://www.benzinga.com/quote/TREX/analyst-ratings)
 
 ### Short interest
 
-- **1.92% of float** — low ([Fintel](https://fintel.io/ss/us/trex)). Bear case held by long-only trimmers, not short-side conviction. No squeeze setup.
+- **≈6.5% of float** — elevated (up from 1.9% at 2026-04-26 baseline) — [MarketBeat](https://www.marketbeat.com/stocks/NYSE/TREX/short-interest/). Bears are increasing conviction on cycle duration even after the Q1 beat. Days to cover: ≈1.1. No squeeze setup, but the short-side buildup is a watch item.
 
 ### Insider activity (last 90 days)
 
-- No notable open-market insider buy or sell clusters.
-- 📅 **CEO transition**: Bryan Fairbanks → Adam Zambanini, late April 2026 (planned, not opportunistic).
+- Director restricted-stock grant: 225 shares at $35.83 ([StockTitan Form 4](https://www.stocktitan.net/sec-filings/TREX/form-4-trex-co-inc-insider-trading-activity-66d26b6ec4c4.html)) — routine compensation, not material.
+- ✅ **CEO transition**: Bryan Fairbanks → Adam Zambanini complete (late April 2026).
+- No open-market insider buy or sell clusters above $1M threshold.
 
-### Recent corporate news (last 90 days)
+### Recent corporate news (since 2026-04-26 baseline)
 
-- 📅 **[2026-02-24] [Earnings]** — Q4 2025 / FY25: Q4 revenue $161M (–4% YoY, +$17M vs. guide); FY adj. EPS $1.88; Q4 GM 30.2% (FIFO change + $6M warranty reserve); FY26 revenue guide $1.185–1.230B; adj. EBITDA $315–340M. ([Trex Q4 2025 PR, BusinessWire](https://www.businesswire.com/news/home/20260224569700/en/Trex-Company-Reports-Fourth-Quarter-and-Full-Year-2025-Results))
-- 💰 **[2026-02-24] [Capital]** — $50M Q4 buyback executed + **$150M new 1H 2026 authorization**. ([Trex IR](https://trexcompanyinc.gcs-web.com/news-releases/news-release-details/trex-company-reports-fourth-quarter-and-full-year-2025-results))
-- **[2026-02-24] [Strategic]** — Railing share doubling by YE 2028 reaffirmed; FY26 GM ~100bps headwind from Little Rock D&A + railing mix. ([Q4 2025 transcript, Yahoo](https://finance.yahoo.com/news/trex-company-inc-q4-2025-133000813.html))
-- **[Late April 2026] [Management]** — CEO Bryan Fairbanks retires; COO Adam Zambanini becomes CEO. ([Trex IR](https://trexcompanyinc.gcs-web.com/news-releases/news-release-details/trex-company-reports-fourth-quarter-and-full-year-2025-results))
+- 📅 **[2026-05-07] [Earnings]** — ✅ **Q1 2026 delivered**: net sales $343M (+1% YoY), EPS $0.59 (beat +$0.08), GM 40.5% (+100bps vs. plan), adj. EBITDA $103M (+2%). FY26 guidance reaffirmed: revenue $1.185–1.230B, adj. EBITDA $315–340M, adj. GM ≈37.5%. Q2 guide: $388–403M. ([Q1 2026 PR, BusinessWire](https://www.businesswire.com/news/home/20260507430582/en/Trex-Company-Reports-Solid-First-Quarter-2026-Results))
+- 💰 **[2026-05-07] [Capital]** — $100M ASR completed in Q1; board authorized additional $10M. Remaining buyback capacity to complete in Q2. ([Q1 2026 transcript, Insider Monkey](https://www.insidermonkey.com/blog/trex-company-inc-nysetrex-q1-2026-earnings-call-transcript-1757112/))
+- **[2026-05-07] [Strategic]** — Channel inventory now 30–40 days (vs. 90–120 historical); sell-out +6% TTM, sell-in +7%. Arkansas facility on track for 2027 regional launch; national deployment 2028–2030. ([Q1 2026 transcript, Insider Monkey](https://www.insidermonkey.com/blog/trex-company-inc-nysetrex-q1-2026-earnings-call-transcript-1757112/))
+- 💰 **[2026-02-24] [Capital]** — $50M Q4 2025 buyback executed + $150M new 1H 2026 authorization. ([Q4 2025 PR, BusinessWire](https://www.businesswire.com/news/home/20260224569700/en/Trex-Company-Reports-Fourth-Quarter-and-Full-Year-2025-Results))
 
 ### Upcoming catalysts
 
 | Date | Event | Why it matters |
 |---|---|---|
-| 📅 **Early May 2026** (est.) | **Q1 2026 earnings** | First print under CEO Zambanini; tests FY26 guide; railing growth rate; Little Rock ramp progress |
-| Late April 2026 | CEO transition formal | Zambanini takes over |
-| Aug 2026 | Q2 2026 earnings | Mid-year guide refresh; covers core decking season |
-| 💰 Ongoing | Buyback execution | $200M over 12 months — meaningful at $4.35B cap |
-| ⚠️ Ongoing | Mortgage rate cycle | Macro swing factor |
-| FY27 | Little Rock at full utilization | Unit-cost / margin leverage point |
+| ✅ **2026-05-07** | **Q1 2026 earnings — Delivered** | EPS beat; GM beat; guidance reaffirmed; CEO priorities laid out |
+| 📅 **≈Aug 2026** | **Q2 2026 earnings** | Core decking season print; lean-channel sell-through test; GM trajectory vs. 37.5% FY guide |
+| 💰 Q2 2026 | Buyback completion | Remaining ≈$60M of $150M authorization |
+| 📅 2027 | Little Rock regional launch | First step of margin-absorption catalyst |
+| ⚠️ Ongoing | Mortgage rate cycle | Key macro swing factor; watch for Fed pivot signals |
 
 ---
 
 ## Section 10 — BAIT Framework
 
-### B — Behavioral: **Moderate**
-The –39% drawdown compresses TREX to a clean housing-cyclical narrative ("rates stay high → R&R weakens → guide cut next") at a moment when management's actual FY26 guide is **+5–9% revenue and ~$330M EBITDA midpoint** — *not* a deep-cycle scenario. The market is pricing the *worse* tail. CEO transition adds modest incremental discount. Classic "throw-baby-with-bathwater" cyclical sentiment if rates inflect; mispricing fades if rates stay 6.5%+ for multi-year.
+### B — Behavioral: **Moderate-to-Strong**
+The –42% drawdown at $39.91 is pricing a sustained rate-stuck R&R recession while Q1 2026 shows GM 40.5% (100bps above plan) and channel inventory at 30–40 days — far healthier internals than the bear-case narrative. Short interest climbing to 6.5% reflects new shorts adding after the Q1 beat, which historically is a contrarian signal in quality cyclicals. Classic "ignore the good quarter, focus on macro" behavioral discount — deepens the opportunity if rates inflect.
 
-### A — Analytical: **Moderate**
-- FY26 guide is realistic, not aggressive (flat-to-down R&R assumption).
-- $200M buyback at trough = ~4.5% yield, meaningful per-share accretion.
-- **Railing doubling by 2028** = ~$100M revenue lift not yet in many sell-side models.
-- Composite-vs-wood ~50bps/yr structural share gain doesn't depend on housing cycle.
-- Little Rock fixed-cost absorption is a 200–300bps margin call option for FY27+.
+### A — Analytical: **Moderate-to-Strong**
+- Q1 2026 GM 40.5% confirms FIFO/warranty noise was transient; Little Rock D&A (170–180bps of the 250bps headwind) is the only remaining structural drag.
+- Channel at 30–40 days (from 90–120 historical) = structural understock; sell-out +6% TTM already above sell-in — restocking will drive Q2/Q3 without macro recovery.
+- Little Rock 2027 regional launch is now a date-anchored catalyst, not a vague "sometime" margin option.
+- $100M ASR completed Q1 at trough prices — accretive per-share compounding.
+- Railing cost-reduction priority (Zambanini #4) addresses the margin-dilution concern head-on.
 
 ### I — Informational: **Weak-to-Moderate**
-Q4 2025 transcript discloses FIFO change + warranty reserve as one-time-ish vs. recurring; Little Rock D&A drag explicitly quantified; new-product = 24% of FY25 sales is an under-cited datapoint. None of this is materially asymmetric — it is well-disclosed.
+Q1 2026 print explicitly quantified the GM headwind composition (170–180bps D&A + 70–80bps railing mix) — removes ambiguity. Channel inventory data (30–40 days vs. 90–120 historical) is a primary-source disclosure not widely parsed by sell-side. None rises to material asymmetric informational edge — well-disclosed.
 
 ### T — Technical: **Weak**
-- Stock in downtrend; $29.77 low needs to hold as floor.
-- 1.92% short interest = no mechanical squeeze setup.
-- Buyback execution provides modest mechanical demand (~4.5%/yr).
-- No index-rebalance / inclusion catalyst in flight.
+- Stock at $39.91, still in longer-term downtrend; +6.2% on earnings day partially reversed by next-day short pressure.
+- Short interest ≈6.5% = elevated but not extreme; no squeeze setup (days-to-cover ≈1.1).
+- Buyback provides mechanical demand floor.
+- No index-event / inclusion catalyst in flight.
 
 ### BAIT Verdict
-**Moderate overlap (B + A both Moderate; I/T Weak)**. Conviction: **Moderate**. The setup is high-quality cyclical value — well-run category leader at trough multiples with a real buyback. Asymmetry depends on rate cycle.
+**Moderate overlap (B + A both Moderate-to-Strong post-Q1; I/T Weak)**. Conviction: **Moderate-to-High** — upgraded one notch on Q1 de-risking. The setup is high-quality cyclical value with a real earnings beat, lean channel, and date-anchored margin catalyst. Asymmetry still depends on rate cycle, but the internal risk-surface has narrowed.
 
 ---
 
 ## Section 11 — Bull / Bear / Base Cases
 
-*All scenarios are 3-year (FY28) terminal prices. Probabilities sum to 100%.*
+*All scenarios are 5-year (FY2031E) terminal prices per Rule #26. Probabilities sum to 100%.*
 
-### Bull — $80 (FY28) — **+91% / ~24% CAGR** — **Probability: 25%**
-- Mortgage rates inflect to <6% by mid-2027; R&R cycle re-accelerates.
-- FY28 revenue $1.50B (CAGR ~10%); adj. EBITDA margin 30% on Little Rock absorption + railing mix → EBITDA ~$450M.
-- Multiple re-rates to 18× EV/EBITDA (mid-cycle); buyback compresses share count ~8–10%.
-- Implies ~17× P/E on $4.70 EPS.
+### Bull — $85 (FY2031E) — **+113% / ≈16% CAGR** — **Probability: 25%**
+- Mortgage rates inflect to <6% by mid-2027; R&R cycle re-accelerates; Little Rock at full national utilization by FY2029.
+- FY2031 revenue ≈$1.70B (≈7% CAGR from FY2026 mid); adj. EBITDA margin 31% on Arkansas absorption + railing cost reduction → EBITDA ≈$530M.
+- Multiple at 17× EV/EBITDA (mid-cycle premium); buyback compresses share count ≈12–15%.
+- Railing doubling by 2028 delivers on schedule; Zambanini priorities 3–4 execute.
 
-### Base — $58 (FY28) — **+38% / ~11% CAGR** — **Probability: 50%**
-- Modest R&R recovery; structural composite share gain continues at ~50bps/yr.
-- FY28 revenue $1.35B (CAGR ~6%); adj. EBITDA ~$375M (margin ~28%).
-- Multiple at 15× EV/EBITDA. Buyback continues; share count down ~6%.
+### Base — $60 (FY2031E) — **+50% / ≈9% CAGR** — **Probability: 50%**
+- Moderate R&R recovery by FY2028; structural composite-vs-wood share gain continues at ≈50bps/yr.
+- FY2031 revenue ≈$1.45B; adj. EBITDA ≈$400M (margin ≈28% with partial Little Rock absorption).
+- Multiple at 15× EV/EBITDA. Buyback continues; share count down ≈8%.
 
-### Bear — $30 (FY28) — **–28% / –10% CAGR** — **Probability: 25%**
-- Multi-year rate-stuck regime (rates 7%+); R&R contracts; Little Rock under-utilized.
-- FY28 revenue plateau ~$1.10B; EBITDA ~$260M (margin compresses to 24% on fixed-cost drag).
+### Bear — $28 (FY2031E) — **–30% / ≈–7% CAGR** — **Probability: 25%**
+- Rates 7%+ for multi-year; R&R contracts; Little Rock sub-utilized through FY2029; railing strategy underdelivers.
+- FY2031 revenue plateau ≈$1.10B; EBITDA ≈$250M (margin 23% on fixed-cost drag).
 - Multiple compresses to 11× EV/EBITDA (value-trap territory).
 
 ---
 
 ## Section 12 — Probability-Weighted Expected Value
 
-| Scenario | FY28 Price | Prob. | PW Contribution |
+| Scenario | FY2031 Price | Prob. | PW Contribution |
 |---|---|---|---|
-| Bull | $80 | 25% | $20.00 |
-| Base | $58 | 50% | $29.00 |
-| Bear | $30 | 25% | $7.50 |
-| **PW EV (3-yr)** | | | **~$57** |
+| Bull | $85 | 25% | $21.25 |
+| Base | $60 | 50% | $30.00 |
+| Bear | $28 | 25% | $7.00 |
+| **PW EV (5-yr)** | | | **≈$58** |
 
-| Spot | PW EV | Return (3-yr) | Annualized |
+| Spot | PW EV | Return (5-yr) | Annualized |
 |---|---|---|---|
-| $41.90 | $57 | **+36%** | **~+11% / yr** |
+| $39.91 | $58 | **+45%** | **≈+7.7% / yr** |
 
 **R/R framing (per Rule #26, anchored to Section 11)**:
-- **Bull / Bear ratio**: ($80–$41.90) / ($41.90–$30) = $38.10 / $11.90 = **~3.2:1**.
-- Probability-adjusted: ($20.00 + $29.00 reward contribution) / $7.50 bear contribution = **~6.5:1 PW reward/risk**.
-- **Headline R/R = ~3.2:1** Bull-vs-Bear at Section 11 midpoints.
-- Stop-loss-anchored secondary R/R using a $35 thesis-break alert price as downside: ($80–$41.90) / ($41.90–$35) = ~5.5:1 — for transparency only; headline anchors to the §11 figure above.
+- **Bull / Bear ratio**: ($85 – $39.91) / ($39.91 – $28) = $45.09 / $11.91 = **≈3.8:1**.
+- Probability-adjusted: ($21.25 + $30.00 reward) / $7.00 bear = **≈7.3:1 PW reward/risk**.
+- **Headline R/R ≈ 3.7:1** (rounded, anchored to §11).
+- Stop-loss at $33 (thesis-break alert) gives secondary R/R: $45.09 / $6.91 ≈ 6.5:1 — for transparency only.
 
-**Interpretation**: PW EV at $57 is +36% above spot (~11%/yr) — constructive but not exceptional. The asymmetry depends meaningfully on the rate cycle. The 3.2:1 Bull/Bear ratio is decent but not outstanding for a cyclical-trough setup; the $200M buyback is what tilts it from "interesting" to "actionable."
+**Interpretation**: PW EV $58 is +45% above $39.91 spot (≈7.7%/yr on a 5-year basis). The 3.7:1 Bull/Bear ratio is solidly above threshold for a high-quality cyclical-trough setup; Q1 2026 de-risking (GM beat, lean channel, date-anchored Arkansas) improves the base-case probability while leaving the bear case structurally unchanged. The $200M+ buyback compounds at the bottom and keeps R/R tilted bullish even in the "rates-stuck" scenario.
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Trex is the dominant U.S. composite-decking franchise (50–60% composite share, ~14% total-decking share) trading at a housing-cyclical trough (~13× FY26E EV/EBITDA) with a real $200M buyback compounding at the bottom — the 3-year PW EV is $57 (+36% / ~11% CAGR; ~3.2:1 Bull/Bear R/R), tilted bullish if rates inflect lower in 12–18 months and tilted neutral if they don't.
+**Thesis in one sentence**: Trex is the dominant U.S. composite-decking franchise (50–60% composite share, ≈14% total-decking share) at a housing-cyclical trough; Q1 2026 de-risked the setup with a GM beat, lean channel (30–40 days), and a date-anchored Arkansas margin catalyst — the 5-year PW EV is $58 (+45% / ≈7.7%/yr; ≈3.7:1 Bull/Bear R/R), tilted bullish if rates inflect and solidly constructive even in the base.
 
-**For a non-holder**: 🟢 **Initiate** at $41.90 — patient sizing. Bull case requires rate-cycle help; without it, returns are moderate. Median analyst target $50–$67 implies +20–60% upside.
+**For a non-holder**: 🟢 **Initiate** at $39.91 — entry is below the $42 upper band; Q1 de-risking raises conviction. Bull case still requires rate-cycle help; even without it, lean channel + buyback compound at base-case ≈7.7%/yr.
 
-**For a current holder**: 🟡 **Hold** — do not exit at trough. Buyback compounding + structural composite-vs-wood share gain + new CEO continuity provide downside support. **Add** below $35.
+**For a current holder**: 🟡 **Hold** — do not exit post-Q1 bounce. Add opportunistically below $37.
 
-🎯 **Attractive entry zone**: **$30 – $42** (rationale: ~10–13× FY26E EBITDA; below historical trough multiple band; absorbs rate-stuck bear case)
+🎯 **Attractive entry zone**: **$30 – $42** (rationale: ≈10–12.5× FY26E EBITDA; absorbs bear case; current price $39.91 is within zone)
 
-🎯 **Trim zone**: **$60 – $72** (rationale: ~17–20× FY26E EBITDA; reaches mid-cycle multiple; further upside requires both rate inflection and railing-doubling delivery)
+🎯 **Trim zone**: **$65 – $75** (rationale: ≈17–20× FY26E EBITDA; reaches mid-cycle multiple; PW EV $58 anchors the base; trim above $65)
 
-🔴 **Exit / avoid zone**: **>$80** (rationale: prior cycle peak band; would price in both rate-cycle help and full railing delivery — leaves no margin of safety)
+🔴 **Exit / avoid zone**: **>$85** (rationale: Bull scenario price; would price in rate inflection + full railing delivery + Arkansas at national scale — no margin of safety)
 
-**Thesis-break triggers** ⚠️ (would force re-rating toward Exit / Avoid):
-- ⚠️ FY26 revenue guide cut below $1.10B (low end + 100bps)
-- ⚠️ Q1 or Q2 2026 GM below 32% sustained (signals structural reset, not transient FIFO/warranty noise)
-- ⚠️ Composite-vs-wood share growth stalls (LIRA index + comp data; <30bps/yr conversion)
+**Thesis-break triggers** ⚠️ (would force re-rating):
+- ⚠️ FY26 revenue guide cut below $1.10B
+- ✅ ~~Q1 or Q2 2026 GM below 32% sustained~~ — DE-RISKED 2026-05-07 (Q1 GM 40.5%; FIFO/warranty noise fully absorbed)
+- ⚠️ Q2 or Q3 2026 GM below 35% sustained (new threshold; tests whether 37.5% FY guide holds)
+- ⚠️ Composite-vs-wood share growth stalls (<30bps/yr conversion)
 - ⚠️ AZEK takes >2pts share in any single quarter
 - ⚠️ Mortgage rates rise to 7.5%+ for sustained period (12+ months)
 - ⚠️ Railing growth stalls below low-double-digits (signals strategy failure)
-- ⚠️ Buyback program suspended (signals cash-flow pressure / capital-allocation pivot)
-- ⚠️ Major warranty / product-quality issue beyond Q4 2025 reserve adjustment
+- ⚠️ Buyback program suspended (signals cash-flow pressure)
+- ⚠️ Arkansas 2027 regional launch delayed materially (signals capacity-absorption thesis break)
 
-📅 **Next review trigger**: **Q1 2026 earnings — early May 2026**. Watch: (1) revenue + FY26 reaffirmation; (2) GM trajectory (does FIFO/warranty noise abate, leaving Little Rock D&A as the only structural drag?); (3) railing growth rate; (4) buyback execution pace; (5) Zambanini's first investor commentary on strategic priorities and Little Rock ramp.
+📅 **Next review trigger**: **Q2 2026 earnings (≈Aug 2026)** — core decking season; watch: (1) revenue vs. $388–403M guide; (2) GM trajectory vs. 37.5% FY guide; (3) channel sell-through velocity (lean-channel restocking confirming or reversing); (4) railing growth rate in peak season; (5) any change in Arkansas 2027 timeline.
 
 ---
 
 ### Sources
 
+- [Trex Q1 2026 PR — BusinessWire](https://www.businesswire.com/news/home/20260507430582/en/Trex-Company-Reports-Solid-First-Quarter-2026-Results) (2026-05-07)
+- [Trex Q1 2026 Earnings Transcript — Insider Monkey](https://www.insidermonkey.com/blog/trex-company-inc-nysetrex-q1-2026-earnings-call-transcript-1757112/) (2026-05-07)
+- [Trex Q1 2026 Earnings Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/09/trex-trex-q1-2026-earnings-transcript/) (2026-05-09)
+- [Trex Q1 2026 Earnings Transcript — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/trex-trex-q1-2026-earnings-182008277.html)
 - [Trex Investor Relations — Q4 2025 PR](https://trexcompanyinc.gcs-web.com/news-releases/news-release-details/trex-company-reports-fourth-quarter-and-full-year-2025-results) (2026-02-24)
 - [BusinessWire — Q4 2025 PR](https://www.businesswire.com/news/home/20260224569700/en/Trex-Company-Reports-Fourth-Quarter-and-Full-Year-2025-Results)
 - [Yahoo Finance — Q4 2025 transcript / earnings call summary](https://finance.yahoo.com/news/trex-company-inc-q4-2025-133000813.html)
@@ -436,8 +473,10 @@ Q4 2025 transcript discloses FIFO change + warranty reserve as one-time-ish vs. 
 - [SEC EDGAR — Trex 10-K filings index](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001069878&type=10-K) — prior-year 10-Ks [link pending — rate-limited]
 - [Yahoo Finance — TREX quote](https://finance.yahoo.com/quote/TREX)
 - [stockanalysis.com — TREX forecast](https://stockanalysis.com/stocks/trex/forecast/)
-- [MarketBeat — TREX](https://www.marketbeat.com/stocks/NYSE/TREX/) (analyst consensus, earnings calendar, short interest)
-- [Fintel — TREX short interest](https://fintel.io/ss/us/trex)
+- [MarketBeat — TREX short interest](https://www.marketbeat.com/stocks/NYSE/TREX/short-interest/)
+- [Benzinga — TREX analyst ratings](https://www.benzinga.com/quote/TREX/analyst-ratings)
+- [Investing.com — BofA Underperform action](https://www.investing.com/news/analyst-ratings/trex-stock-rating-downgraded-to-underperform-by-bofa-on-competition-concerns-93CH-4333306)
 - [Trex Q1 2025 IR deck — wood-conversion thesis (Investing.com)](https://www.investing.com/news/company-news/trex-q1-2025-presentation-slides-market-leader-targets-wood-conversion-for-growth-93CH-4097787)
 - [Grand View Research — U.S. Composite Railing & Decking Market Report](https://www.grandviewresearch.com/industry-analysis/us-composite-railing-decking-market-report)
 - [stockopine.com — From Wood to Composite: Trex's Growth](https://www.stockopine.com/p/from-wood-to-composite-trexs-growth)
+- [StockTitan — TREX Form 4 insider activity](https://www.stocktitan.net/sec-filings/TREX/form-4-trex-co-inc-insider-trading-activity-66d26b6ec4c4.html)

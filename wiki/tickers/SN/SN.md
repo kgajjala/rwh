@@ -1,49 +1,64 @@
 # SN — SharkNinja, Inc.
 
-> **Schema**: v2.9
-> **Last Updated**: 2026-04-26
-> **Status**: Active
-> **Live Price Verified**: **$115.74** at April 24, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/SN); markets closed for the weekend at the time of refresh — Apr 25–26 2026)
-> **Ticker Type**: Consumer products / housewares — asset-lite design + outsourced manufacturing model
+**Schema**: v2.14
+**Last Updated**: 2026-05-10
+**Status**: Active
+**Live Price**: **$111.67** (May 9, 2026 close) — [Yahoo Finance](https://finance.yahoo.com/quote/SN)
 
 ---
 
 ## Summary
 
-- 🟢 **Thesis**: Serial-innovation consumer-products platform (Shark + Ninja) compounding revenue +24% (FY24) / +18% (Q4 25) at expanding 17%+ adj EBITDA margins; supply-chain has *already* been re-engineered so ~100% of US volume can be made outside China — the central tariff overhang is largely de-risked, but the market still discounts the multiple.
-- 🟢 **For a non-holder: Initiate** at $115.74 — preferred; consensus median ~$148 (+28% upside) and PW EV $144 both anchor a favorable 3-yr setup.
-- 🟢 **For a current holder: Hold / Add on weakness** below $105.
-- 🎯 **Attractive entry zone**: **$95 – $105** (~16–17× FY26E EPS; near 200DMA; cushions tariff escalation surprise).
-- 🎯 **Trim zone**: **$160 – $185** (full bull case priced; Jefferies $200 territory).
-- 📈 **Price action**: $115.74, **–13.6% from 52-wk high** ($133.99), +51.4% above 52-wk low ($76.45).
-- 📅 **Next catalyst**: 📅 **Q1 2026 earnings — early May 2026 (est.)** ([MarketBeat earnings calendar](https://www.marketbeat.com/stocks/NYSE/SN/earnings/)). First quarter under FY26 guide; tariff-impact read.
-- ⚠️ **Top risk**: Failed major product launch (CREAMi-class flop) (25% prob, High impact) — model depends on rolling-innovation flywheel.
-- ⚠️ **Second risk**: Tariff escalation beyond 20% blended rate (25% prob, Medium-High impact) — *less central than prior framing because ~100% US volume is now manufacturable outside China*.
-- 🟢 **Moat verdict**: **Narrow but Widening** — innovation cadence + dual-brand equity (Shark, Ninja) + retail-shelf-share + asset-lite ROIC (~25%); competitors (NWL, HELE, IRBT, BRG, COOK) have not matched the launch cadence or category-creation playbook.
-- 💰 **Capital allocation signal**: 🟢 **Inaugural $750M share buyback authorized Feb 2026** — first-ever for SN as a public company; meaningful given ~$16.3B market cap (~4.6% of cap). Cash $777M (+100% YoY). No dividend.
-- 🟢 **BAIT verdict**: **Triple-lens** (A Moderate-Strong; B + I + T Moderate). Conviction **Moderate-High**.
+**Thesis**: SharkNinja is a serial-innovation consumer-products platform compounding revenue at double digits with 17%+ adj EBITDA margins — Q1 2026 delivered +15.6% sales growth and a guidance raise to +11.5–12.5% for FY26, while tariff rates fell (Vietnam/SEA countries to 10% from 20%) and international accelerated to +31.6%. At $111.67 with 5-year PW EV ~$150 (+34%, ≈2.7:1 R/R), the asymmetry remains Initiate-grade.
+🟢 **Non-holder**: Initiate · 🟡 **Holder**: Hold / Add on weakness
+
+### Scenario Table (5-year terminal, FY2030E)
+
+| 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|---|
+| $80.69 – $133.99 | $111.67 (~40%) | $75 | <$110 | $145 / **$150** | $165 – $210 | $210 | **≈2.7:1** |
+
+### KPI Strip
+
+| BAIT | Moat | FY26E P/E | FCF Yield | Short Interest | Next catalyst |
+|---|---|---|---|---|---|
+| **Triple** (A-Strong; B/I/T Moderate) | **Narrow, Widening** | ~18.5× ($111.67 / $6.05 mid) | ~5–6% | 4.0% of shares | Q2 2026 (~Aug 2026) |
+
+### Why / Why not / Next read
+
+🟢 **Why**:
+- Q1 2026 beat + FY26 guide raised (sales to +11.5–12.5%; EPS to $6.00–6.10) even as tariff rates on SEA countries dropped from 20% → 10% — partial benefit flowing through 2H
+- International +31.6% in Q1 (vs. +23.2% in 2H 2025); beauty +40.8% — two-pillar diversification working ahead of schedule
+- Operational supply-chain pivot complete (~100% US volume non-China capable); combined with lower SEA tariff rates, the tariff overhang is structurally receding
+
+⚠️ **Why not**:
+- Adj GM down 100 bps to 49.2% in Q1 — tariff drag (at lower rates, not zero) plus resin-cost pressure; full relief deferred to 2H
+- Buyback pace very modest ($18.5M / 193K shares in Q1) vs. $750M authorization — opportunistic stance leaves capital return as a theoretical rather than near-term floor
+- JS Global (~40%+) secondary overhang unresolved; stock –16.7% from 52-wk high
+
+📅 **Next read**: Q2 2026 earnings (~Aug 2026) — Q2 GM recovery trajectory vs. 1H tariff drag, international mix vs. 40% target, new-category reveal (two 2026 categories: one launched per Q1 call, one TBD), buyback pace acceleration
 
 ---
 
 ## Business Overview
 
-SharkNinja (NYSE: SN) is a global designer and marketer of differentiated consumer products under two flagship brands — **Shark** (cleaning, beauty, home environment) and **Ninja** (cooking, food prep, beverages, outdoor). The company spun off from Hong-Kong-listed JS Global Lifestyle in **July 2023** and trades as a Cayman-incorporated foreign private issuer (files Form 20-F, not 10-K). The model is "asset-lite manufacturing": SN designs and markets, contract manufacturers build. Originally ~70% China-manufactured at IPO, by Q4 2025 management states *"we have the ability to manufacture nearly 100% of our US volume outside of China"* (Mark Barrocas, Q4 2025 call) — a structural re-engineering executed in under three years.
+SharkNinja (NYSE: SN) is a global designer and marketer of differentiated consumer products under two flagship brands — **Shark** (cleaning, beauty, home environment) and **Ninja** (cooking, food prep, beverages, outdoor). The company spun off from Hong-Kong-listed JS Global Lifestyle in **July 2023** and trades as a Cayman-incorporated foreign private issuer (files Form 20-F, not 10-K). The model is "asset-lite manufacturing": SN designs and markets, contract manufacturers build. Originally ~70% China-manufactured at IPO, by Q4 2025 management confirmed *"we have the ability to manufacture nearly 100% of our US volume outside of China"* — a structural re-engineering executed in under three years.
 
 **Brand-level franchise**:
-- **Shark** — cleaning leader (vacuums, steam mops, robot vacuums) since 2003; expanding into **beauty** (FlexStyle hair styler 2022; **TrioGlow skincare** global launch 2025) and home environment (fans, heaters, air purifiers).
-- **Ninja** — kitchen disruptor (blenders, air fryers, multi-cookers); category-creation wins include **CREAMi** (frozen dessert, 2022), **Woodfire** (outdoor pellet grill, 2022), **Slushi** (frozen beverage, 2024), and **Fireside 360** (smokeless fire pit, 2025).
+- **Shark** — cleaning leader (vacuums, steam mops, robot vacuums) since 2003; expanding into **beauty** (FlexStyle hair styler 2022; **TrioGlow skincare** global launch 2025; **ChillPill** personal cooling 2026) and home environment (fans, heaters, air purifiers; **BlastBoss** outdoor air system 2026).
+- **Ninja** — kitchen disruptor (blenders, air fryers, multi-cookers); category-creation wins include **CREAMi** (frozen dessert, 2022), **Woodfire** (outdoor pellet grill, 2022), **Slushi** (frozen beverage, 2024), **Fireside 360** (smokeless fire pit, 2025), and **Luxe Café** espresso machine + **Crispi** (2026). Now at **39 total subcategories**.
 
-**Q4 2025 results** ([SharkNinja Q4 2025 press release](https://newsroom.sharkninja.com/sharkninja-reports-fourth-quarter-and-full-year-2025-results/), Feb 11, 2026; [transcript](https://www.fool.com/earnings/call-transcripts/2026/02/11/sharkninja-sn-q4-2025-earnings-call-transcript/)): Net sales **$2.1B** (+17.6% YoY), domestic +15.7%, international +21.4%; adjusted EBITDA **$395M** (+36%) at 18.8% margin (+250bps); adj diluted EPS **$1.93** vs. $1.40 PY; cash **$777M** (+100% YoY).
+**Q1 2026 results** ([SharkNinja Q1 2026 press release](https://ir.sharkninja.com/news/news-details/2026/SharkNinja-Reports-First-Quarter-2026-Results/default.aspx), May 6, 2026; [transcript](https://www.fool.com/earnings/call-transcripts/2026/05/06/sharkninja-sn-q1-2026-earnings-call-transcript/)): Net sales **$1,412.8M** (+15.6% YoY; +12.7% constant currency), domestic +8.4%, international **+31.6%**; adj EBITDA **$235.4M** (+17.5%) at **16.7% margin**; adj diluted EPS **$1.09** (+25.3%). Tariff headwind: adj GM –100 bps to 49.2% (partially offset by mix and cost efficiencies). Buyback: $18.5M deployed / 193,135 shares repurchased.
 
-**FY2026 guide**: net sales +10–11%; adj EBITDA $1.27–1.28B (+12–13%); adj EPS $5.90–$6.00 (+12–14%); capex $190–210M. Guide *assumes current tariff levels persist* (20% China, 20% Vietnam, 19% Indonesia/Thailand/Malaysia/Cambodia).
+**FY2026 guide (raised post-Q1)**: net sales **+11.5–12.5%** (prior +10–11%); adj EBITDA **$1.29–1.30B** (prior $1.27–1.28B, +13.5–14.5%); adj EPS **$6.00–6.10** (prior $5.90–6.00); capex $190–210M. Guide reflects partial tailwind from tariff-rate reduction (Vietnam/SEA from 20% to 10% effective in 2026), partially offset by resin cost pressures. China tariff rate unchanged.
 
 ---
 
 ## Pivotal Investment Question
 
-> Now that the China-manufacturing-tariff overhang is largely de-risked (≈100% US volume can be made outside China), does SN's rolling-innovation flywheel sustain 10%+ revenue growth and 17%+ adj EBITDA margins through 2028 — extending the dual-brand franchise into beauty, outdoor, personal care, and international (toward 40% of mix) — at which point the ~19× P/E multiple is structurally defensible and bull-case re-rate to 22× drives $185+?
+> With the China-manufacturing-tariff overhang structurally de-risked (≈100% US volume non-China capable + SEA tariff rates now halved to 10%), does SN's rolling-innovation flywheel sustain 10%+ revenue growth and 17%+ adj EBITDA margins through 2028 — extending the dual-brand franchise into beauty, outdoor, personal care, and international (toward 40% of mix) — at which point the ~18–19× P/E multiple is structurally defensible and bull-case re-rate to 22× drives $185+?
 
-The bull case requires (a) FY26 guide holds despite tariff drag in 1H, (b) international >20% / yr, (c) 2 new categories at $300M+ run-rate by 2028, (d) the inaugural $750M buyback gets executed at <$130 average. The bear case is a single failed product cycle (CREAMi-class flop) + JS Global secondary press at <$110 + Amazon channel friction, re-rating the multiple to 14–15×.
+Q1 2026 validates the thesis on international (+31.6%, ahead of plan) and innovation (39 subcategories, beauty +40.8%) but raises the GM recovery question: adj GM at 49.2% (–100 bps) confirms tariff drag was real in 1H even at reduced SEA rates; 2H recovery depends on sourcing mix normalization and resin-cost stabilization. The bear case pivots from pure tariff (mostly resolved) to product-cycle execution: a failed new category + JS Global secondary at <$110 + Amazon channel friction re-rates to 14–15×.
 
 ---
 
@@ -51,31 +66,27 @@ The bull case requires (a) FY26 guide holds despite tariff drag in 1H, (b) inter
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$115.74** | Apr 24, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/SN)) |
-| Previous Close | $114.69 | Session +0.92% |
-| 52-Week High | $133.99 | |
-| 52-Week Low | $76.45 | Spring 2025 tariff scare |
-| % From 52-Wk High | –13.6% | |
-| % Above 52-Wk Low | +51.4% | |
-| Market Cap | ~$16.3B | ~141M ordinary shares |
-| Enterprise Value (est.) | ~$15.9B | $777M cash, modest debt |
-| FY2024 Net Sales | **$5.53B** (+30.0%) | Per [Q4 2024 release](https://newsroom.sharkninja.com/sharkninja-reports-fourth-quarter-and-full-year-2024-results/) |
-| FY2024 Adj EBITDA | **$951.1M** (+32.2%) | 17.2% of adj net sales |
-| FY2025 Net Sales (est.) | ~$6.85B (+24%) | Q4 +17.6% |
-| Q4 2025 Net Sales | $2.1B | +17.6% YoY |
-| Q4 2025 Adj EBITDA | $395M | 18.8% margin (+250bps) |
-| Q4 2025 Adj Diluted EPS | $1.93 | vs $1.40 PY |
-| FY2026 Guide — Sales | +10–11% | |
-| FY2026 Guide — Adj EBITDA | $1.27–1.28B | +12–13% |
-| FY2026 Guide — Adj EPS | $5.90–$6.00 | +12–14% |
-| FY2026 Capex Guide | $190–210M | |
-| FY2026 P/E (adj, mid) | ~19× | $115.74 / $5.95 |
-| Cash & Equivalents | $777M | +100% YoY ([transcript](https://www.fool.com/earnings/call-transcripts/2026/02/11/sharkninja-sn-q4-2025-earnings-call-transcript/)) |
-| Buyback Authorization | **$750M** | Inaugural, authorized Feb 2026 |
-| Short Interest | ~3.7% of float (5.26M sh) | Per [stockanalysis.com](https://stockanalysis.com/stocks/sn/statistics/) — *prior wiki overstated at 9.6%* |
-| Analyst Consensus | Moderate Buy / Strong Buy | 9 Buy / 1–3 Hold / 0 Sell ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/SN/forecast/)) |
-| Median Target | $145.70 – $151.56 | High $200 (Jefferies) / Low $128 (JPM) |
-| Next Earnings | Early May 2026 (est.) | Q1 2026 |
+| Live Price | **$111.67** | May 9, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/SN)) |
+| 52-Week High | $133.99 | –16.7% from high |
+| 52-Week Low | $80.69 | (updated per Yahoo Finance May 2026) |
+| % From 52-Wk High | –16.7% | |
+| % Above 52-Wk Low | +38.4% | |
+| Market Cap | ~$15.8B | ~142M ordinary shares ([Q1 2026 PR](https://ir.sharkninja.com/news/news-details/2026/SharkNinja-Reports-First-Quarter-2026-Results/default.aspx)) |
+| Q1 2026 Net Sales | **$1,412.8M** | +15.6% YoY (+12.7% cc) |
+| Q1 2026 Domestic / Intl | $916M / $497M | +8.4% / +31.6% |
+| Q1 2026 Adj EBITDA | **$235.4M** | +17.5%; 16.7% margin |
+| Q1 2026 Adj GM | 49.2% | –100 bps YoY (tariff + resin) |
+| Q1 2026 Adj Diluted EPS | **$1.09** | +25.3%; beat est. $1.01 |
+| FY2026 Guide — Sales | **+11.5–12.5%** | Raised from +10–11% post-Q1 |
+| FY2026 Guide — Adj EBITDA | **$1.29–1.30B** | +13.5–14.5%; raised |
+| FY2026 Guide — Adj EPS | **$6.00–6.10** | Raised from $5.90–6.00 |
+| FY2026 P/E (adj, mid) | ~18.5× | $111.67 / $6.05 |
+| FY2026 Capex Guide | $190–210M | Unchanged |
+| Buyback Authorization | **$750M** ($18.5M deployed Q1) | 193,135 shares repurchased Q1 2026 |
+| Short Interest | ~4.0% of shares outstanding | 5.72M sh; 2.88 days-to-cover ([stockanalysis.com](https://stockanalysis.com/stocks/sn/statistics/)) |
+| Analyst Consensus | Strong Buy | 7 Buy / 1 Hold / 0 Sell ([stockanalysis.com](https://stockanalysis.com/stocks/sn/forecast/)) |
+| Median Target | $145 | High $161 (Canaccord) / Low $101 |
+| Next Earnings | ~Aug 2026 (est.) | Q2 2026 |
 | JS Global Ownership | ~40%+ | Controlling-shareholder overhang |
 
 ---
@@ -84,29 +95,34 @@ The bull case requires (a) FY26 guide holds despite tariff drag in 1H, (b) inter
 
 ### Annual Trend (time in columns, metrics in rows)
 
-| Metric | FY2022 | FY2023 | FY2024 | FY2025 (est.) | FY2026 Guide |
-|--------|--------|--------|--------|---------------|--------------|
-| Net Sales | $3.7B | $4.25B | **$5.53B** | ~$6.85B | $7.55–7.62B (+10–11%) |
-| YoY Growth | — | +14.7% | **+30.0%** | +24% | +10–11% |
-| Adj GM | ~46% | ~47% | ~48% | ~48% | ~47% (1H tariff drag) |
-| Adj EBITDA | ~$520M | ~$720M | **$951M** | ~$1.13B | $1.27–1.28B |
+| Metric | FY2022 | FY2023 | FY2024 | FY2025 (est.) | FY2026 Guide (raised) |
+|--------|--------|--------|--------|---------------|----------------------|
+| Net Sales | $3.7B | $4.25B | **$5.53B** | ~$6.85B | $7.64–7.71B (+11.5–12.5%) |
+| YoY Growth | — | +14.7% | **+30.0%** | +24% | +11.5–12.5% |
+| Adj GM | ~46% | ~47% | ~48% | ~48% | ~48–49% (2H recovery) |
+| Adj EBITDA | ~$520M | ~$720M | **$951M** | ~$1.13B | $1.29–1.30B |
 | Adj EBITDA Margin | ~14% | ~17% | **17.2%** | ~16.5% | ~17% |
-| Adj Diluted EPS | — | ~$2.85 | ~$4.30 | ~$5.30 | $5.90–6.00 |
+| Adj Diluted EPS | — | ~$2.85 | ~$4.30 | ~$5.30 | $6.00–6.10 |
 | Cash & Equivalents | — | ~$300M | ~$385M | $777M | — |
 | Capex | — | ~$140M | ~$165M | ~$180M | $190–210M |
-| Diluted Shares (M) | ~140 | ~140 | ~141 | ~142 | ~141 (buyback) |
+| Diluted Shares (M) | ~140 | ~140 | ~141 | ~142 | ~143 (buyback pace modest Q1) |
 
-*Sources: [SN Q4 2024 release](https://newsroom.sharkninja.com/sharkninja-reports-fourth-quarter-and-full-year-2024-results/) (FY24 verified $5.53B / $951M); [SN Q4 2025 release](https://newsroom.sharkninja.com/sharkninja-reports-fourth-quarter-and-full-year-2025-results/); FY25 trajectory inferred from Q4 print + qtr cadence. FY22 / FY23 tagged [Estimate] — pre-IPO standalone restatements.*
+*Sources: [SN Q4 2024 release](https://newsroom.sharkninja.com/sharkninja-reports-fourth-quarter-and-full-year-2024-results/) (FY24 verified $5.53B / $951M); [SN Q4 2025 release](https://newsroom.sharkninja.com/sharkninja-reports-fourth-quarter-and-full-year-2025-results/); [SN Q1 2026 release](https://ir.sharkninja.com/news/news-details/2026/SharkNinja-Reports-First-Quarter-2026-Results/default.aspx) (May 6, 2026); FY25 trajectory inferred from Q4 print + qtr cadence. FY22 / FY23 tagged [Estimate] — pre-IPO standalone restatements.*
 
 ### Quarterly Trajectory
 
-| Metric | Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 |
-|--------|---------|---------|---------|---------|
-| Net Sales | ~$1.4B | ~$1.55B | ~$1.78B | **$2.10B** |
-| YoY Growth | +25% | +20% | +22% | **+17.6%** |
-| Adj EBITDA | ~$215M | ~$240M | ~$280M | **$395M** |
-| Adj EPS | ~$1.05 | ~$1.20 | ~$1.25 | **$1.93** |
-| Comment | Strong start | International +20%+ | Holiday pre-build | Tariff drag begins; mix offsets |
+| Metric | Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 | **Q1 2026** |
+|--------|---------|---------|---------|---------|------------|
+| Net Sales | ~$1.4B | ~$1.55B | ~$1.78B | **$2.10B** | **$1,412.8M** |
+| YoY Growth | +25% | +20% | +22% | +17.6% | **+15.6%** (+12.7% cc) |
+| Adj GM | — | — | — | ~49.3% | **49.2%** (–100 bps) |
+| Adj EBITDA | ~$215M | ~$240M | ~$280M | **$395M** | **$235.4M** |
+| Adj EBITDA Margin | — | — | — | 18.8% | **16.7%** |
+| Adj EPS | ~$1.05 | ~$1.20 | ~$1.25 | **$1.93** | **$1.09** (+25.3%) |
+| Domestic / Intl growth | — | — | — | +15.7% / +21.4% | +8.4% / **+31.6%** |
+| Comment | Strong start | Intl +20%+ | Holiday pre-build | Tariff drag begins | Beat; guide raised; GM –100bps tariff/resin |
+
+*Q1 2026 source: [SN Q1 2026 press release](https://ir.sharkninja.com/news/news-details/2026/SharkNinja-Reports-First-Quarter-2026-Results/default.aspx) and [Q1 2026 earnings call transcript](https://www.fool.com/earnings/call-transcripts/2026/05/06/sharkninja-sn-q1-2026-earnings-call-transcript/).*
 
 ### Primary Source: 20-F MD&A — FY2024 (Cross-Year Read)
 
@@ -212,18 +228,23 @@ Named direct peers, market share, and how SN's moat differs:
 
 ### Recent Management Commentary — Primary Source Synthesis
 
-*Pattern note*: SN does not publish a standalone CEO shareholder letter (per Core Rule #19 Pattern C). Sub-5-year coverage applies — SN has been public only since July 2023, so available primary-source management framework comes from quarterly earnings calls, press releases, and 20-F front matter. The most recent Q4 2025 call (Feb 11 2026) is the highest-fidelity recent management framework articulation and is treated as the de facto FY2025 annual letter equivalent.
+*Pattern note*: SN does not publish a standalone CEO shareholder letter (per Core Rule #19 Pattern C). Sub-5-year coverage applies — SN has been public only since July 2023, so available primary-source management framework comes from quarterly earnings calls, press releases, and 20-F front matter. The Q1 2026 call (May 6, 2026) is the latest articulation; it is the primary incremental framework update vs. the Q4 2025 (Feb 11, 2026) call.
 
 #### Verbatim quotes mapped to investment relevance
 
+- 🟢 **Tariff tailwind materializing** — Barrocas, [Q1 2026 call](https://www.fool.com/earnings/call-transcripts/2026/05/06/sharkninja-sn-q1-2026-earnings-call-transcript/) (2026-05-06): *"Tariffs have come down since our last call, you know, that present the benefit to us."*
+  - **Investment relevance**: SEA tariff rates (Vietnam/Indonesia/Thailand/Malaysia/Cambodia) dropped from 20% to 10% between Q4 and Q1 calls. The prior thesis was built on an operationally de-risked scenario at the 20% rate — the rate cut is incremental upside. The 2H GM recovery thesis now has a hard catalyst.
+- 🟢 **International inflection confirmed** — Barrocas, [Q1 2026 call](https://www.fool.com/earnings/call-transcripts/2026/05/06/sharkninja-sn-q1-2026-earnings-call-transcript/): *"Our international growth accelerated to almost 32%, with broad-based strength across geographies."*
+  - **Investment relevance**: +31.6% international in Q1 2026 vs. +21.4% in Q4 2025 — not deceleration but re-acceleration. Mexico transition to direct model cited as "outstanding"; UK 18% growth.
+- 🟡 **Buyback stance** — Quigley, [Q1 2026 call](https://www.fool.com/earnings/call-transcripts/2026/05/06/sharkninja-sn-q1-2026-earnings-call-transcript/): *"We will continue to utilize the authorization opportunistically when we feel it is appropriate while steadfastly reinvesting into the business as our priority."*
+  - **Investment relevance**: $18.5M deployed in Q1 vs. $750M authorization is slow pace (~2.5%). Capital return is real but not a near-term EPS lever. Management prioritizing organic reinvestment.
+- 🟢 **Innovation pipeline expanding** — Barrocas, [Q1 2026 call](https://www.fool.com/earnings/call-transcripts/2026/05/06/sharkninja-sn-q1-2026-earnings-call-transcript/): *"We remain on track to enter another new subcategory in 2026, in line with our goal of adding two per year."*
+  - **Investment relevance**: One new category confirmed launched (ChillPill personal cooling / BlastBoss outdoor air system), one more coming 2H 2026. At 39 total subcategories vs. ~37 at end of FY2025, the expansion cadence is intact.
+
+#### Prior-period (Q4 2025) quotes retained for arc context
+
 - 🟢 **Supply chain pivot** — Barrocas, [Q4 2025 call](https://www.fool.com/earnings/call-transcripts/2026/02/11/sharkninja-sn-q4-2025-earnings-call-transcript/) (2026-02-11): *"Today, we have the ability to manufacture nearly 100% of our US volume outside of China."*
-  - **Investment relevance**: This is the single highest-impact disclosure of the call. Re-frames the central "China tariff overhang" thesis from open-ended risk to managed transition. The market still discounts the multiple as if China dependence were structural — *not priced in*.
-- 🟢 **Capital return discipline** — Barrocas, [Q4 2025 call](https://www.fool.com/earnings/call-transcripts/2026/02/11/sharkninja-sn-q4-2025-earnings-call-transcript/): *"Our board of directors has authorized an inaugural $750 million share repurchase program."*
-  - **Investment relevance**: First explicit framework signal that management is now in capital-return mode (post-spin, post-supply-chain-pivot). $750M vs $16.3B cap = ~4.6%; vs ~$900M FCF run-rate = ~10 months of FCF.
-- 🟡 **Optimization framing** — Barrocas, [Q4 2025 call](https://www.fool.com/earnings/call-transcripts/2026/02/11/sharkninja-sn-q4-2025-earnings-call-transcript/): *"2026 represents our first full year of optimization"* (post-supply-chain transformation completion).
-  - **Investment relevance**: Reads the 10–11% FY26 guide as deliberate digestion, not deceleration. Implies re-acceleration potential 2027+.
-- 🟢 **Innovation engine** — Barrocas, [Q4 2025 call](https://www.fool.com/earnings/call-transcripts/2026/02/11/sharkninja-sn-q4-2025-earnings-call-transcript/): *"We plan to add two more categories to our portfolio in 2026"* + *"at least two new product categories and 25 new products."*
-  - **Investment relevance**: Quantifies the rolling-innovation flywheel that anchors the moat thesis. Two new categories is consistent with the FlexStyle/CREAMi/Woodfire cadence.
+- 🟢 **Optimization framing** — Barrocas, [Q4 2025 call](https://www.fool.com/earnings/call-transcripts/2026/02/11/sharkninja-sn-q4-2025-earnings-call-transcript/): *"2026 represents our first full year of optimization."*
 
 #### Multi-year strategic-framework arc (post-spin)
 
@@ -240,13 +261,13 @@ The arc shows a deliberate progression: identity → scale → resilience → ca
 
 ## Section 5 — Strategic Growth Initiatives
 
-1. **Manufacturing diversification — already executed**: ~100% US volume now manufacturable outside China (Vietnam / Thailand / Indonesia / Cambodia / Malaysia). FY26 1H tariff drag is the residual cost; 2H normalizes.
-2. **International expansion to 40%+**: direct-operator transitions in Nordics, Poland, Benelux done; Spain + Italy 2026; UK growing despite air-fryer cycle drag; Mexico triple-digit. 2H 2025 intl +23.2%.
-3. **Category extension — two more in 2026**: 25 new products; two new categories; recent additions Shark TrioGlow (skincare), Ninja Fireside 360 (smokeless fire pit), Slushi (frozen beverage).
+1. **Manufacturing diversification — already executed**: ~100% US volume now manufacturable outside China (Vietnam / Thailand / Indonesia / Cambodia / Malaysia). SEA tariff rates dropped 20% → 10% in early 2026, providing incremental 2H GM tailwind beyond original thesis.
+2. **International expansion to 40%+**: direct-operator transitions in Nordics, Poland, Benelux done; Spain + Italy in progress 2026; UK +18% Q1 2026; Mexico "outstanding" post-direct-model transition. Q1 2026 intl +31.6% — ahead of "low 20s" CFO target, confirming acceleration.
+3. **Category extension — two in 2026**: Q1 2026 launched Shark **ChillPill** (personal cooling) and Shark **BlastBoss** (outdoor air blaster); SN at 39 total subcategories. Second new category in H2 2026. Ninja **Luxe Café** espresso + **Crispi** driving cooking growth.
 4. **Adventure / outdoor build-out**: Ninja Woodfire + propane grill + Fireside 360 establishing presence in outdoor cooking — direct competition with Traeger (COOK) and Weber.
-5. **Beauty extension**: Shark FlexStyle franchise extending into skincare via TrioGlow — first true cross-category brand transfer beyond cleaning.
-6. **Inaugural $750M buyback**: opportunistic + SBC offset; first capital-return action as a public company.
-7. **Premium tier development**: higher-priced "Pro" SKUs lifting ARM at retail.
+5. **Beauty extension**: Shark FlexStyle + TrioGlow skincare + ChillPill personal cooling — beauty & home environment grew **+40.8% in Q1 2026**, the fastest category in the portfolio.
+6. **Inaugural $750M buyback**: $18.5M deployed in Q1 at opportunistic pace; authorization intact; priority is organic reinvestment per CFO.
+7. **Premium tier development**: higher-priced "Pro" SKUs lifting ARM at retail; Ninja Luxe Café at premium espresso price point.
 
 ---
 
@@ -256,14 +277,14 @@ Materiality-filtered per Core Rule #25 — boilerplate dropped; rows tied to the
 
 | Risk | Impact | Probability | Priced In? | Notes |
 |------|--------|-------------|------------|-------|
-| ⚠️ Failed major product launch (CREAMi-class flop) | High | 25% | Partial | Innovation flywheel is the moat; one missed cycle compresses growth materially. Tied to thesis-break trigger #3 |
-| ⚠️ Tariff escalation pushes blended rate >25% | Medium-High | 25% | Largely priced (52-wk low $76 = tariff-scare bottom) | *Less central than prior framing* — ~100% US volume can now be made outside China. Residual risk: input components still partly Chinese-sourced |
-| ⚠️ JS Global secondary >$1B at <$110 | Medium | 35% | Partial | ~40%+ controlling stake creates supply overhang; tied to thesis-break trigger #4 |
-| ⚠️ Supply-chain transition cost overrun (large discretionary investment per Rule #25(d)) | Medium | 30% | **Not priced in** — market gives no credit for SEA capex success | $190–210M FY26 capex includes tooling for non-China lines; cost overrun hits FY26 GM and FCF |
+| ⚠️ Failed major product launch (CREAMi-class flop) | High | 25% | Partial | Innovation flywheel is the moat; one missed cycle compresses growth materially. Tied to thesis-break trigger #3. **Now primary risk after tariff de-escalation.** |
+| ⚠️ Gross margin recovery fails in 2H 2026 | Medium-High | 30% | **Not fully priced** | Q1 2026 adj GM –100 bps despite SEA tariff rate cut. Resin-cost headwind (Barrocas Q1 call) may offset tariff savings; sustained 2H recovery is the key watch item. |
+| ⚠️ JS Global secondary >$1B at <$110 | Medium | 35% | Partial | ~40%+ controlling stake; secondary at <$110 is a thesis-break trigger given stock now near $111. |
+| ⚠️ Tariff re-escalation (SEA rates back to 20%+) | Medium | 20% | Largely priced | SEA rates now 10% (was 20%); China unchanged elevated. Re-escalation to 20%+ would re-add ~100bps GM drag. *Less probable than prior framing given policy trajectory.* |
 | ⚠️ Amazon channel policy change / private-label pressure | Medium | 30% | Partial | Amazon ~30%+ of revenue; SN-differentiated since few peers have similar concentration |
+| ⚠️ Buyback pace remains de minimis | Low-Medium | 40% | Priced | Only $18.5M of $750M deployed in Q1. "Opportunistic" language signals no urgency. Capital-return thesis is a call option, not a floor. |
 | ⚠️ Dyson premium-tier counterstrike in beauty / cleaning | Medium | 35% | Partial | Dyson is the only peer that can match cadence |
-| Recession compresses discretionary durables | Medium | 25% | Largely priced | 52-wk low captured this scenario |
-| Patent litigation (existing IP suits ongoing) | Low | 25% | Priced | Manageable historic pattern |
+| Recession compresses discretionary durables | Medium | 25% | Largely priced | 52-wk low $80.69 = rough stress test |
 
 ### 5-Year Risk Factor Evolution — Synthesis (Rule #21)
 
@@ -275,7 +296,7 @@ SN has only filed two annual 20-Fs as a standalone (FY2023 and FY2024). The dire
 
 **Small appliance / housewares TAM**: ~$60–80B globally; US ~$25B. SN at ~$6.85B is ~10% US share + growing international — material runway in addressable categories (especially beauty + outdoor + personal care).
 
-**US-China trade-policy regime**: Reciprocal tariffs effective 2025; FY26 baseline = 20% China + 20% Vietnam + 19% Indonesia/Thailand/Malaysia/Cambodia. SN's pre-emptive supply-chain transition means **escalation is far less impactful than 2024-vintage framing implied** — most of the China-exposure tail risk has been engineered out. Rollback would be incremental upside.
+**US-China trade-policy regime**: Q1 2026 update — tariff rates on Vietnam, Indonesia, Thailand, Malaysia, and Cambodia dropped from 20% to 10% (Barrocas, [Q1 2026 call](https://www.fool.com/earnings/call-transcripts/2026/05/06/sharkninja-sn-q1-2026-earnings-call-transcript/)). China rate remains elevated. SN's pre-emptive supply-chain transition means **escalation is far less impactful than 2024-vintage framing implied** — most of the China-exposure tail risk has been engineered out. The SEA rate cut is an incremental 2H 2026 tailwind beyond what was modeled in original guidance. Re-escalation back to 20% for SEA countries is the remaining tail risk (rated 20% probability in §6).
 
 **Consumer macro**: Discretionary durables sensitive to home equity + housing turnover (vacuums) + disposable income (cooking gadgets / gift cycles). Inflation moderation 2025–2026 net supportive.
 
@@ -285,24 +306,24 @@ SN has only filed two annual 20-Fs as a standalone (FY2023 and FY2024). The dire
 
 ## Section 8 — Valuation & Comparable Analysis
 
-### Current Multiples (April 24, 2026, $115.74 / ~$16.3B market cap / ~$15.9B EV)
+### Current Multiples (May 9, 2026, $111.67 / ~$15.8B market cap)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| EV / Revenue (FY26E mid) | ~2.1× | At $7.58B |
-| EV / EBITDA (FY26E mid) | ~12.5× | At $1.275B |
-| P/E Adj (FY26E mid) | ~19.5× | At $5.95 |
-| P/E Adj (FY27E est.) | ~17× | At $6.80 (~+15%) |
+| EV / Revenue (FY26E mid) | ~2.0× | At ~$7.67B raised midpoint |
+| EV / EBITDA (FY26E mid) | ~12.0× | At $1.295B raised midpoint |
+| P/E Adj (FY26E mid) | ~18.5× | At $6.05 raised midpoint |
+| P/E Adj (FY27E est.) | ~16× | At ~$7.00 (~+15% growth assumed) |
 | FCF Yield (est.) | ~5–6% | At ~$0.9B FCF |
-| Analyst Consensus Median | $145.70 – $151.56 | ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/SN/forecast/) / [TipRanks](https://www.tipranks.com/stocks/sn/forecast)) |
-| High / Low Target | $200 (Jefferies) / $128 (JPM) | |
-| Implied Upside (consensus) | +25% to +31% | |
+| Analyst Consensus Median | $145 | ([stockanalysis.com](https://stockanalysis.com/stocks/sn/forecast/)) |
+| High / Low Target | $161 (Canaccord) / $101 (low) | |
+| Implied Upside (consensus) | +30% to median; +44% to high | |
 
 ### Peer Comparable Set (FY2026E)
 
 | Company | Ticker | EV/EBITDA | EBITDA Margin | Growth | Note |
 |---------|--------|-----------|---------------|--------|------|
-| **SN** | SN | **~12.5×** | **17%** | **+10–11%** | Premium justified |
+| **SN** | SN | **~12.0×** | **17%** | **+11.5–12.5%** | Premium justified (guide raised post-Q1) |
 | Helen of Troy | HELE | ~9× | 14% | +3% | Slow-growth comp |
 | Newell Brands | NWL | ~9× | 11% | flat | Legacy |
 | Whirlpool | WHR | ~7× | 9% | flat | Major-appliance, capital-heavy |
@@ -310,40 +331,43 @@ SN has only filed two annual 20-Fs as a standalone (FY2023 and FY2024). The dire
 | Traeger | COOK | ~8× | 12% | +5% | Direct outdoor competitor |
 | Breville | BRG.AX | ~14× | 14% | +8% | Premium cooking |
 
-**Assessment**: SN trades at the top of the comparable peer set on EV/EBITDA, justified by the highest growth + margin combination in the group and the only peer with a credible category-extension playbook. The ~12.5× FY26E EBITDA multiple is *defensible* if FY26 guide holds; *expensive* if any quarter misses on tariff or product execution. Consensus median $148 implies +28% upside.
+**Assessment**: SN trades at the top of the comparable peer set on EV/EBITDA (~12.0×), justified by the highest growth + margin combination in the group and the only peer with a credible category-extension playbook. The ~12.0× FY26E EBITDA multiple is *defensible* given the raised +11.5–12.5% guide; *expensive* only if GM recovery fails in 2H or a product cycle misses. Consensus median $145 implies +30% upside from $111.67. The post-Q1 sell-off has actually improved the entry multiple vs. April.
 
 ---
 
 ## Section 9 — Catalyst & Sentiment Tracker
 
-### Live Price & Positioning
+### Live Price & Positioning (2026-05-10)
 
-- **Price**: $115.74 (Apr 24, 2026 close)
-- **52-week range**: $76.45 – $133.99
-- **% from 52-wk high**: –13.6%
-- **% above 52-wk low**: +51.4%
-- **Market cap**: ~$16.3B
+- **Price**: $111.67 (May 9, 2026 close)
+- **52-week range**: $80.69 – $133.99
+- **% from 52-wk high**: –16.7%
+- **% above 52-wk low**: +38.4%
+- **Market cap**: ~$15.8B
 
-### Analyst Consensus (mid-April 2026)
+### Analyst Consensus (May 2026)
 
-- **Aggregate**: 🟢 Moderate Buy / Strong Buy (~9 Buy, 1–3 Hold, 0 Sell)
-- **Median target**: $145.70 – $151.56 (panel-dependent)
-- **Range**: $128 (JPM) – $200 (Jefferies)
-- **Implied upside from $115.74**: +26% to +31% to median; +73% to high
+- **Aggregate**: 🟢 Strong Buy (7 Buy, 1 Hold, 0 Sell) per [stockanalysis.com](https://stockanalysis.com/stocks/sn/forecast/)
+- **Median target**: $145
+- **Range**: $101 (low) – $161 (Canaccord)
+- **Implied upside from $111.67**: +30% to median; +44% to high
+- *Note: Jefferies high target of $200 appears to have rolled off the panel; current high is Canaccord at $161.*
 
-### Recent Analyst Actions
+### Recent Analyst Actions (since Apr 26, 2026)
 
 | Date | Firm | Action | Target | Note |
 |------|------|--------|--------|------|
+| 2026-05-07 | JPMorgan | PT raised $144 → $146 | $146 | Post-Q1 beat; maintained Buy ([stockanalysis.com](https://stockanalysis.com/stocks/sn/forecast/)) |
+| 2026-05-04 | Canaccord Genuity | PT raised $160 → $161 | $161 | Pre-Q1; maintained Strong Buy ([Investing.com](https://www.investing.com/news/analyst-ratings/canaccord-raises-sharkninja-stock-price-target-on-q1-expectations-93CH-4656074)) |
 | 2026-04-17 | JPMorgan | PT cut $152 → $144 | $144 | Tariff caution `[link pending]` |
-| 2026-Q1 | Jefferies | Reaffirmed Buy | $200 | Bull case |
-| 2026-04-15 | Multiple (consensus refresh) | Moderate Buy | $145.90 | ([stockanalysis.com](https://stockanalysis.com/stocks/sn/forecast/)) |
+| 2026-Q1 | Jefferies | Reaffirmed Buy | $200 | Bull case; target may have lapsed panel |
+| 2026-early-May | Oppenheimer | PT raised $140 → $145 | $145 | Post-Q1 beat ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/SN/forecast/)) |
 
 ### Short Interest
 
-- **Latest**: ~3.7% of float (5.26M shares) per [stockanalysis.com](https://stockanalysis.com/stocks/sn/statistics/)
-- *Prior wiki indicated 9.6% — the 9.6% figure appears to have been a percent-of-float-of-public-float mis-labeling; the cleaner stockanalysis.com figure of 3.7% (% of total shares outstanding) is the conservative read.*
-- **Interpretation**: Modest short interest; not extreme. Does not materially amplify upside on positive Q1.
+- **Latest**: ~4.0% of shares outstanding (5.72M shares); 2.88 days-to-cover per [stockanalysis.com](https://stockanalysis.com/stocks/sn/statistics/)
+- **Trend**: modest uptick vs. prior 3.7% — not alarming; reflects market hedging post-Q1 sell-off
+- **Interpretation**: 🟡 Low/modest. Does not amplify upside materially.
 
 ### Insider Activity (Last 90 Days)
 
@@ -351,26 +375,32 @@ SN has only filed two annual 20-Fs as a standalone (FY2023 and FY2024). The dire
 |------|---------|--------|------|------|
 | 2026-04-16 | Wang Xuning (Chairperson) | RSU vest | 461,334 sh | Equity comp (not open-market) |
 | 2026-03 | Adam Quigley (CFO) | Open-market sale | 2,620 sh @ ~$114.36 | Small; routine |
+| 2026-02-28 | Mark Barrocas (CEO) | RSU vest / tax withhold | 467,909 sh vested; 182,904 withheld | Tax-cover disposal @$122.87; not open-market sell |
 | 2026-02-28 | Neil Shah (CCO) | RSU exercise | 73,016 sh | Routine |
+| 2026-02-28 | Pedro Lopez-Baldrich (CLO) | RSU vest / tax withhold | 43,680 sh vested; 19,581 withheld | Tax-cover @$122.87 |
 
-**Net signal**: 🟡 Neutral — small CFO sale near current price; no clusters of buying or selling. JS Global secondary is the larger latent insider catalyst.
+*Sources: [stocktitan.net Form 4 filings](https://www.stocktitan.net/sec-filings/SN/), [OpenInsider](http://openinsider.com/)*
 
-### Recent Corporate News (Last 90 Days)
+**Net signal**: 🟡 Neutral — all transactions are equity-comp vesting or routine tax-cover disposals; no open-market cluster purchases or sales. JS Global secondary remains the key overhang.
 
-- **[2026-02-11] [Earnings]** — Q4 2025 / FY2025: Q4 Rev $2.1B (+17.6%), Adj EBITDA $395M (+36%, 18.8% margin), Adj EPS $1.93; FY26 guide +10–11%, $1.27–1.28B EBITDA, $5.90–6.00 EPS; **inaugural $750M buyback authorized** ([SN press release](https://newsroom.sharkninja.com/sharkninja-reports-fourth-quarter-and-full-year-2025-results/); [transcript](https://www.fool.com/earnings/call-transcripts/2026/02/11/sharkninja-sn-q4-2025-earnings-call-transcript/))
-- **[2026-Q1 ongoing]** — Manufacturing-out-of-China execution continues; ~100% US-volume non-China capability now achieved
-- **[2026-04-17]** — JPMorgan PT cut to $144 on tariff caution `[link pending]`
+### Recent Corporate News (Since Apr 26, 2026)
+
+- **[2026-05-06] [Earnings]** — ✅ Q1 2026 delivered: Rev $1,412.8M (+15.6%), Adj EBITDA $235.4M (+17.5%, 16.7% margin), Adj EPS $1.09 (+25.3%, beat $1.01 est.); FY26 guide raised to +11.5–12.5% / $6.00–6.10 EPS; Shark ChillPill + BlastBoss launched (now 39 total subcategories); buyback $18.5M deployed. ([SN Q1 2026 press release](https://ir.sharkninja.com/news/news-details/2026/SharkNinja-Reports-First-Quarter-2026-Results/default.aspx); [Q1 transcript](https://www.fool.com/earnings/call-transcripts/2026/05/06/sharkninja-sn-q1-2026-earnings-call-transcript/))
+- **[2026-05-07]** — Stock –2.4% pre-market post-print; closed ~$111.67 vs. ~$113 prior session — modest sell-on-news despite beat + guide raise (likely GM –100bps disappointment + light buyback pace).
+- **[2026-05-07]** — JPMorgan raised PT $144 → $146; Oppenheimer raised PT $140 → $145.
+- **[2026-05-04]** — Canaccord raised PT $160 → $161 ahead of Q1 print.
+- **[Prior] [2026-04-17]** — JPMorgan PT cut $152 → $144 on tariff caution `[link pending]`
+- **[Prior] [2026-02-11]** — Q4 2025 / FY2025: Rev $2.1B (+17.6%), Adj EBITDA $395M (+36%), Adj EPS $1.93; inaugural $750M buyback authorized. ([SN Q4 2025 PR](https://newsroom.sharkninja.com/sharkninja-reports-fourth-quarter-and-full-year-2025-results/))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|----------------|
-| 📅 **Early May 2026** (est.) | **Q1 2026 earnings** ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/SN/earnings/)) | First quarter under FY26 guide; tariff-impact read; buyback execution detail |
-| Aug 2026 (est.) | Q2 2026 earnings | International growth pace; new-category cadence |
-| H2 2026 | Holiday product launch slate | Innovation pipeline confirmation |
-| Late March 2026 (filed) / next due Q1 2027 | FY2025 20-F filing | Risk-factor diff; segment detail |
-| ⚠️ Ongoing | Tariff policy developments | Direct GM 1H impact |
-| Ongoing | JS Global secondary action | Overhang catalyst |
+| 📅 **~Aug 2026** (est.) | **Q2 2026 earnings** | GM recovery pace vs. 1H tariff drag; intl growth vs. 40% mix target; buyback acceleration; new-category reveal #2 |
+| H2 2026 | Holiday product launch slate | Innovation pipeline; SKU count toward 45 subcategories |
+| Q1 2027 (est.) | FY2025 20-F filing / FY2026 filing cycle | Risk-factor diff; segment granularity |
+| ⚠️ Ongoing | Tariff policy developments | SEA rates now 10% (from 20%); China still at elevated level; any reversal is downside risk |
+| Ongoing | JS Global secondary action | Overhang; any block trade <$110 is a thesis-break trigger |
 
 ---
 
@@ -378,136 +408,141 @@ SN has only filed two annual 20-Fs as a standalone (FY2023 and FY2024). The dire
 
 ### B — Behavioral: **Moderate**
 
-–13.6% from 52-wk highs; not severely beaten down. Tariff anxiety created the spring 2025 bottom at $76 (+51% rally since). Sentiment moderately positive — consensus median +28% above spot. No extreme fear; modest skepticism about tariff durability persists despite the operational pivot. **The behavioral mispricing is that the market still partly prices in a worst-case China-tariff scenario that operational reality has already neutralized.**
+–16.7% from 52-wk highs; stock sold off 2.4% pre-market post a beat + guide raise — classic sell-the-news on GM compression (–100 bps adj GM). Sentiment is positive on consensus (+30% upside to median) but the near-term behavioral dynamic is that the market is anchoring on GM miss rather than the guide raise and international re-acceleration. **The residual behavioral edge: market perceives tariff exposure as still present (correct) but underweights that (a) SEA rates are now 10% not 20% and (b) international's +31.6% is well above the "low 20s" CFO target — both are Q2 upside catalysts.**
 
 ### A — Analytical: **Moderate-Strong**
 
-- **Innovation pipeline visibility** — 25+ launches/yr + two new categories in 2026 are not fully modeled bottom-up by sell-side.
-- **Supply-chain-out-of-China** — sell-side models still tag SN as "tariff-exposed"; the ~100% US-volume non-China-capability disclosure is the single highest-impact under-modeled fact.
-- **International margin uplift** — direct-operator transitions in Nordics / Poland / Benelux + Spain / Italy in 2026 lift intl GM in a way not captured by linear sales models.
-- **$750M buyback** — at $16.3B cap, ~4.6%; underweighted in earnings models given near-term tariff overhang.
-- **Free-cash-flow / cash-build** — $777M cash (+100% YoY) implies the buyback can be funded without leverage.
+- **International re-acceleration under-modeled** — Q1 +31.6% vs. "low 20s" CFO guidance; beauty +40.8%. Sell-side models likely assumed mid-20s international for full year.
+- **SEA tariff rate cut** (20% → 10%) is a 2H 2026 GM tailwind not embedded in pre-Q1 models; Q1 GM drag was partly one-time sourcing mix and resin; structural rate is lower.
+- **Two new 2026 categories** not fully valued bottom-up; each historical category-creation (CREAMi, FlexStyle) has delivered $200M+ run-rates within two years.
+- **Buyback optionality** — $731.5M remaining; if management accelerates from Q1's $18.5M pace, EPS accretion is not in consensus.
 
 ### I — Informational: **Moderate**
 
-- Q4 2025 transcript engagement details on category-by-category innovation pipeline.
-- Manufacturing-shift specifics by country / SKU underdiscussed in mainstream coverage.
-- Direct-operator transition cadence (Nordics done, Spain/Italy 2026) underdiscussed.
-- 20-F text full extraction is `[link pending]` — additional informational edge available if 20-F MD&A is fully synthesized in next pass.
+- Q1 2026 transcript details on Mexico direct-model transition ("outstanding") and UK +18% are underdiscussed in aggregator summaries.
+- ChillPill and BlastBoss category-level revenue run-rate disclosure will be a Q2 catalyst.
+- 20-F FY2025 text full extraction still `[link pending]` — potential informational edge on risk-factor and segment granularity.
 
 ### T — Technical: **Moderate**
 
-- Trading near 50DMA; trend intact post-spring 2025 bottom.
-- $128 overhead supply zone (recent JPM target).
-- Modest short interest (~3.7%); does not amplify upside materially.
-- 200DMA support roughly $105 — coincides with the attractive entry zone.
+- Trading $111.67 — below the prior ~$115 support level post-Q1 sell-off.
+- 200DMA support ~$105 — attractive entry zone.
+- Short interest 4.0% of shares; 2.88 days-to-cover; benign.
+- $128–130 overhead supply zone (prior resistance + prior JPM target).
 
 ### BAIT Verdict
 
-🟢 **Triple-lens** (A Moderate-Strong; B + I + T Moderate). Conviction: **Moderate-High**. The strongest single edge is **A** — sell-side has not refreshed models to credit the China-supply-chain pivot. The stock is one of the more attractive risk-rewards in mid-cap consumer products on consensus upside (+28%), with a real but bounded tariff downside.
+🟢 **Triple-lens** (A Moderate-Strong; B Moderate; I Moderate; T Moderate). Conviction: **Moderate-High**. Q1 2026 does not change the A-lens edge materially — sell-side is now somewhat better informed on supply-chain de-risking but still not fully modeling international re-acceleration or SEA tariff tailwind. The B-lens opportunity is the Q1 sell-on-news reaction to a beat-and-raise.
 
 ---
 
 ## Section 11 — Bull / Bear / Base Cases
 
-*All scenarios are 3-year (end-2028) terminal prices. Probabilities sum to 100%.*
+*All scenarios are 5-year terminal (end-2030E). Probabilities sum to 100%. Per Rule #26.*
 
-### 🟢 Bull Case — $185 by 2028 (+60%, ~17% CAGR) — **Probability: 30%**
+### 🟢 Bull Case — $210 by 2030 (+88%, ~14% CAGR) — **Probability: 30%**
 
-- 2028 revenue $9.6B (CAGR ~12%)
-- Adj EBITDA margin 19% ($1.82B)
-- Adj EPS $9.50
-- 19.5× P/E (sustained)
-- $750M buyback executed at <$130 average
-- **Requires**: tariff stable or eased; international 40%+; 2 new $300M+ categories proven; Dyson incursion contained
+- 2030 revenue $11.5B (CAGR ~11%)
+- Adj EBITDA margin 19.5% ($2.24B)
+- Adj EPS $12.00
+- 17.5× P/E (slight compression from current 18.5× on scale)
+- $750M buyback substantially executed; share count ~135M
+- SEA tariff rates stabilize at 10%; GM normalizes to 50%+ by 2028
+- **Requires**: international 40%+ mix achieved by 2027; 4+ new categories at $200M+ run-rate; beauty + outdoor build as durable pillars; Dyson/Amazon disruption contained
 
-### 🟡 Base Case — $145 by 2028 (+25%, ~8% CAGR) — **Probability: 50%**
+### 🟡 Base Case — $145 by 2030 (+30%, ~5.4% CAGR) — **Probability: 50%**
 
-- 2028 revenue $8.7B (CAGR ~8.5%)
-- Adj EBITDA margin 17.5% ($1.52B)
-- Adj EPS $7.50
-- 19× P/E (sustained)
-- **Requires**: steady execution; FY26 guide holds; no major tariff shock; JS Global overhang digested
+- 2030 revenue $9.5B (CAGR ~7%)
+- Adj EBITDA margin 17.5% ($1.66B)
+- Adj EPS $8.50
+- 17× P/E (modest compression)
+- **Requires**: FY26 guide holds (+11.5–12.5%); 2H GM recovery delivers; JS Global overhang digested slowly; innovation cadence ~25 products/yr
 
-### 🔴 Bear Case — $80 by 2028 (–31%, ~–11% CAGR) — **Probability: 20%**
+### 🔴 Bear Case — $75 by 2030 (–33%, ~–8% CAGR) — **Probability: 20%**
 
-- Tariff escalation + product cycle miss + JS Global secondary at low
-- 2028 revenue $7.8B (CAGR ~5%)
-- Adj EBITDA margin 14%
+- Product cycle miss on a next-gen category + GM fails to recover in 2H 2026 + JS Global secondary at <$100
+- 2030 revenue $8.5B (CAGR ~4%)
+- Adj EBITDA margin 13%
 - Adj EPS $5.50
-- 14× P/E (re-rating)
+- 13.5× P/E (re-rating to legacy-appliance peer multiple)
 
 ---
 
 ## Section 12 — Probability-Weighted Expected Value
 
-| Scenario | Terminal (2028) Price | Probability | PW Contribution |
-|----------|----------------------|-------------|-----------------|
-| Bull | $185 | 30% | $55.50 |
+| Scenario | Terminal (2030E) Price | Probability | PW Contribution |
+|----------|------------------------|-------------|-----------------|
+| Bull | $210 | 30% | $63.00 |
 | Base | $145 | 50% | $72.50 |
-| Bear | $80 | 20% | $16.00 |
-| **PW EV (3-yr)** | | | **~$144** |
+| Bear | $75 | 20% | $15.00 |
+| **PW EV (5-yr)** | | | **~$150** |
 
-| Current Price | PW EV | Return (3-yr) | Annualized |
+| Current Price | PW EV | Return (5-yr) | Annualized |
 |---------------|-------|---------------|------------|
-| $115.74 | $144 | **+24%** | ~+7.5%/yr |
+| $111.67 | $150 | **+34%** | ~+6.0%/yr |
 
 ### Risk/Reward Interpretation (per Rule #26)
 
-Anchored to Section 11 Bull / Bear midpoints vs. current $115.74:
+Anchored to Section 11 Bull / Bear terminals vs. current $111.67:
 
-- **Bull upside**: ($185 − $115.74) / $115.74 = **+59.8%**
-- **Bear downside**: ($80 − $115.74) / $115.74 = **–30.9%**
-- **Headline R/R**: **~1.9 : 1** (Bull / Bear), favorable but not extreme
+- **Bull upside**: ($210 − $111.67) / $111.67 = **+88%**
+- **Bear downside**: ($75 − $111.67) / $111.67 = **–33%**
+- **Headline R/R**: **≈2.7:1** (Bull / Bear), favorable
 
-**Interpretation**: ~25% expected upside over 3 years on PW-EV; ~1.9:1 headline R/R. The setup is favorable but not asymmetric in the SHOP / DASH sense — base case is the dominant scenario at 50% probability and only ~+25% return. The case is built on (a) consensus +28% upside, (b) operational China-pivot already executed, (c) inaugural buyback layering capital return on top of compounding.
+**Interpretation**: Q1 2026 updated scenarios: Bull raised (from $185 → $210, 5-yr vs. prior 3-yr; international re-acceleration + SEA tariff tailwind add ~1 yr of additional compounding); Bear raised slightly (from $80 → $75 at 5-yr as GM-recovery-failure risk becomes the dominant bear path rather than China tariff). PW EV ~$150 vs. $111.67 spot = +34% / ~6.0%/yr annualized. R/R improved to ≈2.7:1 from prior 1.9:1 on 3-yr basis. **§13 entry, trim, and exit zones derive mechanically from this PW EV per Rule #26.**
+
+*Note: Prior wiki used 3-year (2028) terminal horizon. Migrated to 5-year (2030E) per Rule #26 v2.14. Prior PW EV was $144 on 3-yr; new PW EV is $150 on 5-yr, directionally consistent.*
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: SharkNinja is a serial-innovation consumer-products platform compounding revenue at 10–24%/year with 17%+ adj EBITDA margins and an inaugural $750M buyback now layered on a manufacturing footprint that has *already* been re-engineered to ~100% non-China for US volume — at $115.74 with consensus median ~$148 (+28%) and 3-year PW EV of $144, the asymmetry is Initiate-grade for non-holders.
+**Thesis in one sentence**: SharkNinja is a serial-innovation consumer-products platform that delivered a Q1 2026 beat-and-raise (+15.6% sales, +31.6% international, FY26 guide raised to +11.5–12.5%) while SEA tariff rates halved (20% → 10%), de-risking the prior central overhang and setting up a 2H GM recovery — at $111.67 with 5-year PW EV ~$150 (+34%) and R/R ≈2.7:1, the setup is Initiate-grade.
 
-**For a non-holder**: 🟢 **Initiate** at $115.74 — preferred. The risk-reward is favorable now; supply-chain pivot is the under-credited fact. Add on weakness in the **$95–105** zone.
+**For a non-holder**: 🟢 **Initiate** at $111.67 — the post-Q1 sell-off (–2.4% pre-market on a beat + raise) is the entry. PW EV of $150 provides +34% over 5 years; entry zone $95–110 is now current. Add meaningfully at $95–105 on further weakness.
 
-**For a current holder**: 🟢 **Hold / Add on weakness**. Below $105 is an Add zone for long-horizon holders. FY26 guide is intact; tariff situation operationally de-risked; buyback is a new floor.
+**For a current holder**: 🟢 **Hold / Add on weakness**. Below $105 is an Add zone aligned to 200DMA. FY26 guide is raised; tariff situation structurally improved; GM recovery is the 2H watch item.
 
-🎯 **Attractive entry zone**: **$95 – $105** (rationale: ~16–17× FY26E EPS; near 200DMA; cushions tariff escalation surprise; aligns with bear-case downside cushioning)
+🎯 **Attractive entry zone**: **$95 – $110** (rationale: ≤PW EV − 27% MoS; ~15–18× FY26E EPS; near 200DMA; cushions GM-recovery-failure scenario; current price $111.67 is at the top edge of this zone)
 
-🎯 **Trim zone**: **$160 – $185** (rationale: prices in full bull case; multi-year P/E expansion to 22×+; near Jefferies $200 territory)
+🎯 **Trim zone**: **$165 – $210** (rationale: approaching Bull case terminal value of $210; P/E expansion toward 20–22× FY26E implies $120–130 in FY26, so $165+ implies re-rate + multi-year compounding = right to take size off)
 
-🔴 **Exit / avoid zone**: **>$200** (rationale: requires 22×+ P/E on FY26E — premium beyond peer comps; not asymmetric)
+🔴 **Exit / avoid zone**: **>$210** (rationale: exceeds 5-yr Bull scenario terminal; requires sustained 22×+ P/E on FY30E — not asymmetric at that price)
 
 **Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
 
-- ⚠️ FY26 guide cut at any quarterly print
+- ⚠️ FY26 guide cut at any quarterly print (raised post-Q1 — any reversal is a break)
+- ⚠️ Q2 2026 adj GM fails to recover — stays at or below 49.2% — signals resin/tariff headwinds are structural, not 1H transient
 - ⚠️ Two consecutive quarters of <8% revenue growth
-- ⚠️ A major product launch (next CREAMi-class) commercial flop
-- ⚠️ JS Global secondary >$1B at <$110
+- ⚠️ A major product launch (next CREAMi-class) commercial flop in H2 2026 slate
+- ⚠️ JS Global secondary >$1B at <$110 (now at the current price — highly relevant trigger)
 - ⚠️ Adj EBITDA margin compresses below 15% in any quarter
 - ⚠️ Amazon channel policy change reducing SN shelf placement materially
-- ⚠️ Tariff escalation pushes blended rate >25% AND management commentary signals operational pivot was insufficient
-- ⚠️ Pause / removal of $750M buyback authorization
+- ⚠️ SEA tariff rates re-escalate back to 20%+ AND management signals insufficient margin offset
+- ~~⚠️ Pause / removal of $750M buyback authorization~~ — reduced priority given Q1 demonstrated pace is opportunistic/slow; not a near-term floor
 
-📅 **Next review trigger**: **Q1 2026 earnings — early May 2026 (estimated)**. Key items: (1) Q1 net sales pace vs. FY26 +10–11% guide, (2) tariff impact on Q1 GM, (3) international growth rate vs. 2H 2025 +23.2%, (4) any FY26 guide refresh, (5) buyback execution detail (price, share count repurchased), (6) commentary on the two new categories slated for 2026.
+📅 **Next review trigger**: **Q2 2026 earnings (~Aug 2026)**. Key items: (1) Q2 adj GM vs. 49.2% Q1 — does 2H recovery begin?, (2) international growth pace vs. Q1's +31.6% and "low 20s" CFO guide — is +31% an aberration or new run-rate?, (3) second new 2026 category announcement, (4) buyback pace acceleration (or lack thereof), (5) any tariff policy developments on China rate.
 
 ---
 
 ### Sources
 
 - [SharkNinja Investor Relations](https://ir.sharkninja.com/) (press releases, board info)
+- [SharkNinja Q1 2026 press release](https://ir.sharkninja.com/news/news-details/2026/SharkNinja-Reports-First-Quarter-2026-Results/default.aspx) (May 6, 2026)
+- [SharkNinja Q1 2026 earnings call transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/06/sharkninja-sn-q1-2026-earnings-call-transcript/)
+- [Investing.com Q1 2026 transcript summary](https://www.investing.com/news/transcripts/earnings-call-transcript-sharkninja-beats-q1-2026-earnings-expectations-93CH-4671757)
 - [SharkNinja Q4 2025 / FY2025 press release](https://newsroom.sharkninja.com/sharkninja-reports-fourth-quarter-and-full-year-2025-results/) (Feb 11, 2026)
 - [SharkNinja Q4 2024 / FY2024 press release](https://newsroom.sharkninja.com/sharkninja-reports-fourth-quarter-and-full-year-2024-results/) (Feb 13, 2025)
 - [SharkNinja Q4 2025 earnings call transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/02/11/sharkninja-sn-q4-2025-earnings-call-transcript/)
 - [SharkNinja FY2024 20-F — SEC EDGAR HTML](https://www.sec.gov/Archives/edgar/data/1957132/000195713225000006/sharkninja-20241231.htm) (`[link pending]` — direct fetch returned 403; key data triangulated from press releases)
-- [Investing.com Q4 2025 transcript summary](https://www.investing.com/news/transcripts/earnings-call-transcript-sharkninja-q4-2025-beats-expectations-with-eps-surprise-93CH-4500469)
-- [Yahoo Finance — SN](https://finance.yahoo.com/quote/SN) (live price 2026-04-24)
-- [stockanalysis.com — SN forecast](https://stockanalysis.com/stocks/sn/forecast/)
-- [stockanalysis.com — SN statistics](https://stockanalysis.com/stocks/sn/statistics/)
+- [Yahoo Finance — SN](https://finance.yahoo.com/quote/SN) (live price 2026-05-09)
+- [stockanalysis.com — SN forecast](https://stockanalysis.com/stocks/sn/forecast/) (analyst consensus May 2026)
+- [stockanalysis.com — SN statistics](https://stockanalysis.com/stocks/sn/statistics/) (short interest May 2026)
 - [MarketBeat — SN](https://www.marketbeat.com/stocks/NYSE/SN/) (analyst consensus, earnings calendar)
-- [TipRanks — SN forecast](https://www.tipranks.com/stocks/sn/forecast)
-- [Fintel — SN](https://fintel.io/s/us/sn)
-- [Daily Political — SN consensus April 15, 2026](https://www.dailypolitical.com/2026/04/15/sharkninja-inc-nysesn-receives-consensus-rating-of-moderate-buy-from-brokerages.html)
+- [Canaccord raises PT — Investing.com](https://www.investing.com/news/analyst-ratings/canaccord-raises-sharkninja-stock-price-target-on-q1-expectations-93CH-4656074)
+- [MarketBeat — SN forecast](https://www.marketbeat.com/stocks/NYSE/SN/forecast/) (Oppenheimer PT raise)
 - JPMorgan PT cut April 17, 2026 `[link pending]`
-- Jefferies Buy reaffirmation `[link pending]`
+- JPMorgan PT raise May 7, 2026 `[link pending]`
+- [stocktitan.net — SN Form 4 filings](https://www.stocktitan.net/sec-filings/SN/) (insider activity)
+- [OpenInsider — SN](http://openinsider.com/) (insider activity)
 - [SEC EDGAR — SharkNinja filings index](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001957132&type=&dateb=&owner=include&count=40)

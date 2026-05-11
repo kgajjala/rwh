@@ -1,32 +1,48 @@
 # RKT — Rocket Companies, Inc.
 
-> **Schema**: v2.9
-> **Last Updated**: 2026-04-26
-> **Status**: Active
-> **Live Price Verified**: **$15.60** at April 24, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/RKT))
-> **Ticker Type**: Mortgage / housing (origination, recapture, gain-on-sale, servicing)
+**Schema**: v2.14
+**Last Updated**: 2026-05-10
+**Status**: Active
+**Live Price**: **$15.69** (May 8, 2026 close; +10.88% on Q1 earnings day) — [Yahoo Finance](https://finance.yahoo.com/quote/RKT)
 
 ---
 
 ## Summary
 
-- 🟢 **Thesis**: Most complete U.S. homeownership super-platform (Redfin search → Rocket origination → Mr. Cooper servicing → AI-driven recapture; **Narrow-to-Emerging-Wide moat**) at ~13–15× FY26E EBITDA — market is pricing the bear case while operating data confirms the bull setup.
-- 🟢 **For a non-holder: Initiate (Speculative)** at $15.60 — Q1 2026 earnings (May 7) is a hard catalyst on what would be a 5th-consecutive beat under the integrated platform.
-- 🟢 **For a current holder: Hold / Add on weakness** — Q1 confirmation likely re-rates toward $20+ (analyst consensus median ~$20–21).
-- 🎯 **Attractive entry zone**: **$11 – $14** (~9–12× FY26E EBITDA on consensus $3.0–3.5B; bear-case downside discounted).
-- 🎯 **Trim zone**: **$24 – $30** (16–18× FY26E EBITDA on bull case; matches Jan 16, 2026 52-wk high).
-- 📉 **Price action**: $15.60, **–35.9% from 52-wk high** ($24.36, Jan 16, 2026), +40.8% above 52-wk low ($11.08).
-- 📅 **Next catalyst**: **Q1 2026 earnings — May 7, 2026 (post-close)**. First full quarter with Mr. Cooper consolidated; tests $2.6–2.8B adj revenue guide.
-- ⚠️ **Top risk**: 30-year mortgage rate re-inflation above 7.5% (~20% prob, Critical) — would collapse origination and stress MSR marks. *Not fully priced in*.
-- ⚠️ **Second risk**: Mr. Cooper / Redfin integration execution on $10.6B combined goodwill (15–20% prob, High) — the bet that funds the entire platform thesis.
-- 💰 **Capital allocation signal**: $14.2B all-stock Mr. Cooper close (Oct 1, 2025) + $1.75B Redfin (Jul 2025) + Up-C collapse (Jun 30, 2025) = three transformational structural changes in a single year; CFO Brian Brown promoted to **President effective Feb 26, 2026** — succession + integration-execution alignment.
-- 🟢 **BAIT verdict**: **Double overlap (B + A)**, Conviction **Moderate**. PW EV ~$22.65 (2–3 yr) implies **+45% / ~13%/yr**; **R/R ≈ 3.0:1** (Bull $35 / Bear $9 from §11 midpoints). Bull case still requires platform-execution proof.
+**Thesis**: Rocket Companies has assembled the only end-to-end U.S. homeownership platform (Redfin search → Rocket origination → Mr. Cooper servicing → AI recapture) and the Q1 2026 print — $738M adj EBITDA, $2.82B adj revenue, GOS ex-correspondent 322bps (highest since 2021), Redfin attach 45% and tracking to 50%, $400M Cooper synergies accelerated to end-2026 (one year ahead) — de-risked all three integration legs simultaneously. Market is still pricing a cyclical-mortgage stub; operating data confirms a platform-EBITDA compounder.
+🟢 **Non-holder**: Add (raised from Initiate) · 🟡 **Holder**: Hold / Add on weakness
+
+### Scenario Table (5-year terminal, FY2028–2030E)
+
+| 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|---|
+| $11.20 – $24.36 | $15.69 (~30%) | $9 | <$16 | $24 / **$25.80** | $28 – $35 | $40 | **~3.6:1** |
+
+### KPI Strip
+
+| BAIT | Moat | FY26E EV/EBITDA | Servicing fee income (Q1 ann.) | Short interest | Next catalyst |
+|---|---|---|---|---|---|
+| **Double** (B + A) | **Narrow-to-Wide** | ~14× | ~$4.3B run-rate | 31.8% float (high; squeeze optionality) | Q2 2026 print (~Aug 2026) |
+
+### Why / Why not / Next read
+
+🟢 **Why**:
+- Q1 2026 GOS ex-correspondent 322bps = highest since 2021; adj EBITDA $738M (+25% QoQ) at 26% margin — margin expansion *before* rate unlock
+- Mr. Cooper $400M expense synergy pulled forward to end-2026 (was end-2027); Redfin attach 45% with "line of sight to 50% already" — both integration legs ahead of schedule simultaneously
+- $300B origination capacity reached with several hundred fewer staff than 2024 — AI operating leverage is structural, not cyclical
+
+⚠️ **Why not**:
+- 30-year mortgage rates still 6.5–7%+; rate re-inflation above 7.5% collapses origination and stresses MSR portfolio — the one scenario where platform thesis breaks
+- 31.8% short float with 65.9M shares short — contrarian squeeze optionality but also signals deep skepticism on integration execution risk
+- Servicing UPB stepped down to $2.1T from $2.7T (run-off + portfolio composition change); watch trajectory
+
+📅 **Next read**: Q2 2026 earnings (~Aug 2026) — Q2 adj rev guide $2.7–2.9B; watch Redfin attach crossing 50%, Cooper synergy quantification, origination volume seasonal uplift, and GOS margin sustainability.
 
 ---
 
 ## Business Overview
 
-Rocket Companies (NYSE: RKT) is the largest U.S. mortgage originator (~25% non-bank origination market share; $130.4B 2025 closed loan origination volume per the [Q4 2025 press release](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx)), the largest U.S. mortgage servicer (~$2.7T servicing portfolio post-Mr.-Cooper close on October 1, 2025), and — following the July 2025 Redfin acquisition — operates the only fully integrated end-to-end U.S. homeownership platform spanning home search (Redfin, ~100M MAU), mortgage origination (Rocket Mortgage), mortgage servicing (Mr. Cooper, Rocket), and personal-finance AI (Rocket Money).
+Rocket Companies (NYSE: RKT) is the largest U.S. mortgage originator (~25% non-bank origination market share; $130.4B 2025 closed loan origination volume per the [Q4 2025 press release](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx)), the largest U.S. mortgage servicer ($2.1T UPB / 9.4M loans as of Q1 2026; was $2.7T at Oct 1, 2025 Cooper close — natural run-off), and — following the July 2025 Redfin acquisition — operates the only fully integrated end-to-end U.S. homeownership platform spanning home search (Redfin, ~100M MAU), mortgage origination (Rocket Mortgage), mortgage servicing (Mr. Cooper, Rocket), and personal-finance AI (Rocket Money).
 
 **Core revenue streams**:
 - **Direct-to-Consumer (DTC) origination** — Gain-on-sale (GOS) income on loans originated through Rocket Mortgage's owned brand and digital funnel; the highest-margin origination channel; FY2024 = $54.8B volume.
@@ -58,35 +74,35 @@ The bear path: 30-year rates re-inflate above 7.5% (tariff-driven); origination 
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$15.60** | April 24, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/RKT)) |
+| Live Price | **$15.69** | May 8, 2026 close; +10.88% on earnings day ([Yahoo Finance](https://finance.yahoo.com/quote/RKT)) |
 | 52-Week High | $24.36 | Jan 16, 2026 — platform-transformation rally peak |
-| 52-Week Low | $11.08 | Recent further weakness; baseline lower than v2.5 baseline |
-| % From 52-Wk High | –35.9% | |
-| % Above 52-Wk Low | +40.8% | |
-| Market Cap | ~$44B | $43.99B intraday Apr 24 ([Yahoo Finance](https://finance.yahoo.com/quote/RKT)); diluted share count expanded materially post-Cooper |
-| Enterprise Value | ~$50B | Market cap + ~$10.4B senior notes – ~$2.7B cash – MSR adjustments |
-| FY2025 Total Revenue (GAAP) | $6.7B | [stockanalysis.com](https://stockanalysis.com/stocks/rkt/financials/) |
-| FY2025 Adjusted Revenue | $6.9B | Above guidance; [Q4 2025 PR](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx) |
-| FY2025 Adjusted Net Income | $628M | $0.28 per diluted share |
-| Q4 2025 Total Revenue | $2.69B | GAAP; [Q4 2025 PR](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx) |
-| Q4 2025 Adjusted Revenue | $2.44B | Above high end of guide |
-| Q4 2025 Adjusted EBITDA | $592M | Annualized run-rate ~$2.37B |
-| Q1 2026 Adj Revenue Guide | $2.6–2.8B | Annualizes to ~$10–11B step-change |
-| FY2025 Origination Volume | $130.4B | +29% YoY (vs. $101.2B FY2024) |
-| FY2025 GOS Margin | 2.83% | [Q4 2025 PR](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx) |
-| Net Client Retention (12-mo) | 97% | Rocket Mortgage; recapture flywheel proof |
-| Purchase Market Share (Q4 2025) | 5.5% | Up from 3.8% prior-year |
-| MSR Balance (FV) | $19.4B | Mark-to-market changes excluded from adj rev |
-| Servicing Portfolio (UPB) | $2.7T | Largest in U.S., post-Mr. Cooper |
-| Goodwill | $10.6B | $1.75B Redfin + ~$8.8B Mr. Cooper |
-| Senior Notes | ~$10.4B | |
-| Cash | ~$2.7B | |
-| Recapture Rate | ~3× industry | Structural advantage |
-| Redfin Mortgage Attach | 40% | Was 27% pre-acq; target 50%+ |
-| AI Conversations / Month | 800K | Rocket Logic |
-| Headcount vs. 2020 (same volume) | ~50% | AI operating leverage |
-| Q1 2026 Earnings Date | **May 7, 2026** (post-close) | Hard catalyst ([StockTitan](https://www.stocktitan.net/news/RKT/rocket-companies-to-announce-first-quarter-2026-results-3l0khc3si1fd.html)) |
-| Up-C Collapse | June 30, 2025 | Now full C-corp; float ~7% → ~35% |
+| 52-Week Low | $11.20 | Updated (was $11.08) |
+| % From 52-Wk High | –35.6% | |
+| % Above 52-Wk Low | +40.1% | |
+| Market Cap | ~$44.4B | May 8, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/RKT)) |
+| Enterprise Value | ~$50B | Market cap + debt – cash; MSR adjustments |
+| Q1 2026 GAAP Revenue | $2.94B | [Q1 2026 PR](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-First-Quarter-2026-Results/default.aspx) |
+| Q1 2026 Adjusted Revenue | **$2.82B** | Above high end of $2.6–2.8B guide ([Q1 2026 PR](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-First-Quarter-2026-Results/default.aspx)) |
+| Q1 2026 Adjusted EBITDA | **$738M** | Margin 26% (vs. 23% Q4 2025); run-rate ~$2.95B |
+| Q1 2026 Adjusted Net Income | $422M | $0.15 adj EPS (vs. $0.12 consensus) |
+| Q1 2026 GAAP Net Income | $297M | GAAP EPS $0.10 |
+| Q1 2026 Closed Loan Volume | $44.7B | ($37.8B ex-correspondent) |
+| Q1 2026 Net Rate Lock Volume | $49.4B | +19% sequential; all channels |
+| Q1 2026 GOS Margin | 2.74% total / **3.22% ex-correspondent** | Ex-corr highest since 2021 |
+| Q1 2026 Servicing Fee Income | $1.083B | Annualizes to ~$4.3B |
+| Servicing Portfolio (UPB) | **$2.1T** | 9.4M loans; stepped down from $2.7T (run-off) |
+| Total Liquidity | $9.4B | Cash $2.7B + facilities |
+| Goodwill | $10.6B | Unchanged; $1.75B Redfin + ~$8.8B Mr. Cooper |
+| Mr. Cooper Synergy Target | **$400M annualized** | Full realization end-2026 (1 year ahead of original 2027 plan) |
+| Origination Capacity | **$300B** | Achieved 2 years ahead of 2027 target; fewer production staff than 2024 |
+| Redfin Mortgage Attach | **~45%** | Up from 40% (Q4 2025); "line of sight to 50% already" |
+| Purchase Market Share | **Gained QoQ + YoY** | No specific % disclosed in Q1 PR; Q4 2025 baseline was 5.5% |
+| FY2025 Origination Volume | $130.4B | Full-year baseline |
+| FY2025 Adjusted Revenue | $6.9B | Full-year baseline |
+| FY2025 GOS Margin | 2.83% | Full-year baseline |
+| Short Interest | 65.9M shares / **31.75% of float** | Apr 15, 2026 report; +15% MoM; 2.5 days-to-cover ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/RKT/short-interest/)) |
+| Q2 2026 Adj Revenue Guide | $2.7–2.9B | [Q1 2026 PR](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-First-Quarter-2026-Results/default.aspx) |
+| Analyst Consensus | 8 Buy / 8 Hold / 0 Sell | Avg PT $20.40; [stockanalysis.com](https://stockanalysis.com/stocks/rkt/forecast/) |
 
 ---
 
@@ -117,7 +133,8 @@ The bear path: 30-year rates re-inflate above 7.5% (tariff-driven); origination 
 | Q2 2025 | — | — | Beat | — | — | Redfin closed end-Jul 2025 |
 | Q3 2025 | — | — | Beat | — | — | Mr. Cooper closed Oct 1, 2025 |
 | Q4 2025 | **$2.44B** | $1.56B | **+$880M** | **$592M** | $68M | First full integrated-platform quarter; Krishna pre-announced "4-yr volume high" on CNBC Squawk Box |
-| Q1 2026E | $2.6–2.8B (guide) | — | TBD | TBD | TBD | Earnings May 7, 2026 |
+| Q1 2026 | **$2.82B** | $2.70B | **+$120M** | **$738M** | $297M | Beat guide high end; GOS ex-corr 322bps (highest since 2021); adj EPS $0.15 vs. $0.12 consensus; "most profitable quarter in 4 years" ([Q1 2026 PR](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-First-Quarter-2026-Results/default.aspx)) |
+| Q2 2026E | $2.7–2.9B (guide) | $2.80B | TBD | TBD | TBD | Q2 expense guide $2.2B (–$60M QoQ) |
 
 ### Balance Sheet (Q4 2025)
 
@@ -276,13 +293,19 @@ RKT is a **Pattern C** filer (per CLAUDE.md Rule #19) — Varun Krishna does not
 
 #### Verbatim quotes mapped to investment relevance
 
-- **[Brian Brown, CFO, Q4 2025 earnings call (Feb 26, 2026)](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx)** — Mr. Cooper synergy framing: *"ahead of the original end-of-2027 target."* → **Investment relevance**: The strongest possible signal that integration is tracking better than the deal-announcement model. If sustained through 2026 prints, the $500M synergy run-rate is realized 12+ months early — meaningful EBITDA pull-forward not in consensus.
+- **[Brian Brown, CFO + President, Q1 2026 earnings call (May 7, 2026)](https://www.fool.com/earnings/call-transcripts/2026/05/07/rocket-rkt-q1-2026-earnings-call-transcript/)** — Redfin attach: *"We have line of sight to 50% attach already. We are hovering around 45%."* → **Investment relevance**: Attach moved 27% → 40% (4 months post-close) → 45% (Q1 2026). The trajectory is accelerating, not plateauing; "line of sight to 50% already" is a pull-forward vs. the 2027 50%+ target.
 
-- **[Varun Krishna, CNBC Squawk Box pre-Q4 (Feb 3, 2026)](https://www.cnbc.com/search/?query=rocket%20companies)** — pre-earnings framing: *"4-year volume high"* — Krishna deliberately pre-announced the volume signal before the print. → **Investment relevance**: Communication style of a CEO who knows the story and wants to control the narrative. The $130.4B FY2025 volume vs. ~$80B trough confirms the framing was accurate, not promotional.
+- **[Varun Krishna, CEO, Q1 2026 earnings call (May 7, 2026)](https://www.fool.com/earnings/call-transcripts/2026/05/07/rocket-rkt-q1-2026-earnings-call-transcript/)** — Cooper synergy: *"We originally guided to 2027 for Mr. Cooper expense synergies and now expect to achieve that in 2026."* → **Investment relevance**: Full $400M synergy run-rate one year ahead of schedule. If delivered, the 2026 EBITDA baseline is materially above consensus.
 
-- **[Q4 2025 PR (Feb 26, 2026)](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx)** — purchase-share gain: *"Purchase market share expanded to 5.5% in Q4 2025, up from 3.8% the year prior."* → **Investment relevance**: 170bps of share gain in 12 months in a flat-to-down origination market. This is the single hardest data point validating the Redfin attach + Rocket Logic + DTC thesis — share is being taken from peers, not just delivered by the cycle.
+- **[Brian Brown, Q1 2026 earnings call (May 7, 2026)](https://www.fool.com/earnings/call-transcripts/2026/05/07/rocket-rkt-q1-2026-earnings-call-transcript/)** — GOS margin: *"Gain-on-sale margin, excluding correspondent, was 322 basis points in the first quarter, our highest since 2021."* → **Investment relevance**: 322bps ex-corr = margin expansion in a flat/unfavorable rate environment. This is an AI + platform structural improvement, not a rate-cycle gift; validates the Rocket Logic moat thesis.
 
-- **FY2024 10-K, Item 1A (Risk Factors) — origination/MSR growth language** ([Rocket FY2024 10-K PDF](https://s205.q4cdn.com/636124780/files/doc_financials/2024/q4/RKT-2024-10-K.pdf)): Risk-factor language flagged that *"if the company does not effectively manage [origination/MSR] growth through deployment of resources including processes, technology and talent, the quality of services could suffer, negatively affecting the brand and operating results."* → **Investment relevance**: This was 10-K Item 1A language *pre-Cooper*. Post-Cooper, the integration challenge is materially larger; this risk has gotten quantitatively bigger (servicing book ~$590B → ~$2.7T) even if it has not been re-scoped in language.
+- **[Brian Brown, Q1 2026 earnings call (May 7, 2026)](https://www.fool.com/earnings/call-transcripts/2026/05/07/rocket-rkt-q1-2026-earnings-call-transcript/)** — origination capacity: *"We now have up to $300 billion of origination capacity with several hundred fewer production team members than we had back in 2024."* → **Investment relevance**: $300B capacity achieved 2 years ahead of 2027 target, with a smaller team. This is the most concrete evidence yet that Rocket Logic AI has fundamentally re-engineered the cost structure.
+
+- **[Varun Krishna, Q1 2026 earnings call (May 7, 2026)](https://www.fool.com/earnings/call-transcripts/2026/05/07/rocket-rkt-q1-2026-earnings-call-transcript/)** — AgenTik: *"AgenTik preapprovals have grown to 10% of all preapprovals, generating more letters with lower officer involvement."* → **Investment relevance**: AI preapproval automation is moving from lab to at-scale. At 10% of all preapprovals, this is no longer a pilot — it's a cost-lever that compounds.
+
+- **[Brian Brown, Q4 2025 earnings call (Feb 26, 2026)](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx)** — Q4 2025 Cooper synergy framing: *"ahead of the original end-of-2027 target."* → **Investment relevance**: The signal that Q1 2026 confirmed: synergy execution is ahead of schedule, not behind.
+
+- **FY2024 10-K, Item 1A** ([Rocket FY2024 10-K PDF](https://s205.q4cdn.com/636124780/files/doc_financials/2024/q4/RKT-2024-10-K.pdf)): *"if the company does not effectively manage [origination/MSR] growth through deployment of resources including processes, technology and talent, the quality of services could suffer."* → **Investment relevance**: Written pre-Cooper with a $590B servicing book; now the book is $2.1T and the servicing operations are being actively integrated. The risk is larger in absolute terms even as Q1 results suggest execution is holding.
 
 #### 5-Year Strategic Framework Arc
 
@@ -306,12 +329,12 @@ RKT is a **Pattern C** filer (per CLAUDE.md Rule #19) — Varun Krishna does not
 
 ## Section 5 — Strategic Growth Initiatives
 
-1. **Mr. Cooper synergy capture** — $500M targeted annual synergy by end-2027; CFO Brown says "ahead of schedule." Cross-selling into ~5.6M Mr. Cooper customers is the largest single revenue growth lever.
-2. **Redfin attach rate ramp** — 27% (pre-acq) → 40% (4 months post) → target 50%+ by 2027. Each +10ppt ≈ ~$500M incremental mortgage revenue annually *[Estimate]*.
-3. **Compass partnership (Feb 2026)** — three-year strategic alliance; listing inventory + agent network; second top-of-funnel beyond Redfin.
-4. **Purchase market share gain** — **5.5% in Q4 2025** (up from 3.8% prior-year); targeting 7–8% by 2027. Each +1ppt ≈ ~$300M incremental revenue *[Estimate]*.
-5. **Rocket Logic AI extension** — Same volume with fewer people as the market normalizes upward = dramatic EBITDA leverage. 50% of 2020 headcount for same volume baseline.
-6. **Servicing recapture monetization** — $2.7T MSR portfolio + 97% net retention = customers stay in the ecosystem through the next rate cycle. Each cycle-turn realization is incremental DTC origination volume from the existing book.
+1. **Mr. Cooper synergy capture** — ✅ **$400M annualized expense synergy; full realization expected end-2026** (one year ahead of original 2027 plan). Q1 2026 confirmed integration tracking. Cross-selling into ~5.6M Mr. Cooper customers is the largest single revenue growth lever.
+2. **Redfin attach rate ramp** — 27% (pre-acq) → 40% (Q4 2025) → **~45% (Q1 2026)**; "line of sight to 50% already" per CFO Brown. Target 50%+ remains; trajectory is accelerating. Each +5ppt from here ≈ ~$250M incremental mortgage revenue annually *[Estimate]*.
+3. **Origination capacity + AI leverage** — **$300B origination capacity achieved 2 years ahead of 2027 target**, with fewer staff than 2024. AgenTik preapprovals at 10% of all preapprovals. GOS ex-correspondent 322bps = highest since 2021. Operating leverage is structural.
+4. **Compass partnership (Feb 2026)** — three-year strategic alliance; listing inventory + agent network; second top-of-funnel beyond Redfin. Ramp ongoing.
+5. **Purchase market share gain** — Q4 2025: 5.5% (up from 3.8% prior-year); Q1 2026: gained QoQ + YoY per management (no specific % disclosed); targeting 7–8% by 2027. Each +1ppt ≈ ~$300M incremental revenue *[Estimate]*.
+6. **Servicing recapture monetization** — $2.1T UPB (9.4M loans) generates $1.083B quarterly servicing fees; counter-cyclical hedge + recapture engine. Servicing UPB stepped down from $2.7T (run-off); watch trajectory for stabilization.
 
 ---
 
@@ -322,13 +345,13 @@ Filter applied per CLAUDE.md Rule #25: dropped universal corporate boilerplate; 
 | Risk | Impact | Probability | Priced In? | Notes |
 |------|--------|-------------|-----------|-------|
 | ⚠️ 30-yr mortgage rate re-inflates above 7.5% (sustained) | Critical | 20% | **Partially priced** | Tariff-driven scenario; would collapse origination volume + impair MSR valuations; RKT impact magnitude is peer-differentiated (highest origination concentration of large non-banks). Ties to §13 thesis-break trigger. |
-| ⚠️ Mr. Cooper integration fails to deliver $500M synergy by end-2027 | High | 15–20% | **Partially priced** | Rule #25(d) — large discretionary investment ($14.2B all-stock, $8.8B goodwill); CFO has flagged "ahead of schedule" so any timeline slippage is now an explicit thesis-break trigger |
-| ⚠️ Redfin integration fails / attach rate plateaus <30% | High | 20% | **Not priced in** | Rule #25(d) — $1.75B + $1.75B goodwill; Glenn Kelman departure adds founder-culture risk; Zillow/Realtor.com brand-strength gap remains |
-| ⚠️ Goodwill impairment ($10.6B combined) | High | 15% | Not priced in (GAAP-only) | Triggered by Cooper or Redfin underperformance vs. deal model; non-cash but confidence-destroying; historical large-deal goodwill impairments produced 15–30% next-day stock moves |
-| ⚠️ Recession-driven MSR delinquency spike | High | 25% | **Not priced in** | Counter-cyclical hedge thesis breaks if servicing portfolio takes large delinquency hit; differentiated risk vs. pure originators (UWMC) which have no MSR exposure |
-| RESPA class-action (Jan 2026) certified with damages > $500M | Medium | 25% | **Not priced in** | Differentiated from peers — alleges *integrated-platform* referral structure; could threaten the ecosystem revenue model |
-| GOS margin compression below 2.0% sustained 2 quarters | Medium | 20% | Partially priced | Ties to §13 thesis-break trigger; would require both rate-shock + competitive escalation |
-| Dan Gilbert super-voting authority used adversely to minority | Medium | 10% | Not priced in | Differentiated governance risk; ties to §13 thesis-break trigger |
+| ⚠️ Mr. Cooper integration fails to deliver $400M synergy by end-2026 | High | **10%** (lowered from 15–20%) | **Partially priced** | Q1 2026 confirmed "ahead of schedule"; synergy target now $400M (vs. original $500M language — confirm on FY2025 10-K); new timeline is end-2026. Any slippage vs. this accelerated timeline is now the explicit thesis-break trigger. |
+| ⚠️ Redfin integration fails / attach rate plateaus <35% | High | **15%** (lowered from 20%) | **Not priced in** | Q1 attach ~45% + "line of sight to 50%" de-risks the plateau-below-30% scenario; new floor risk is plateau below 35%. Glenn Kelman departure (Jan 2026) adds founder-culture risk but attach data contradicts any execution failure so far. |
+| ⚠️ Goodwill impairment ($10.6B combined) | High | 12% | Not priced in (GAAP-only) | Triggered by Cooper or Redfin underperformance vs. deal model; non-cash but confidence-destroying; conditional on integration failing — probability lowered given Q1 data. |
+| ⚠️ Servicing UPB run-off / delinquency spike | High | 20% | **Not priced in** | UPB stepped down $2.7T → $2.1T in one quarter — natural run-off is expected but trajectory must stabilize. Recession-driven delinquency scenario: counter-cyclical hedge thesis breaks if MSR portfolio takes large delinquency hit. Differentiated vs. pure originators (UWMC) which have no MSR exposure. |
+| ⚠️ RESPA class-action (Jan 2026) certified with damages > $500M | Medium | 25% | **Not priced in** | Alleges *integrated-platform* referral structure; no disclosure on Q1 call; could threaten ecosystem revenue model. |
+| GOS margin compression below 2.0% sustained 2 quarters | Medium | 15% | Partially priced | Q1 ex-corr 322bps = highest since 2021 — current trajectory moves *away* from this risk, but a rate-shock scenario could revert. Ties to §13 thesis-break trigger. |
+| Dan Gilbert super-voting authority used adversely to minority | Medium | 10% | Not priced in | Differentiated governance risk; ties to §13 thesis-break trigger. |
 
 ### 5-Year Risk Factor Evolution — Synthesis
 
@@ -368,17 +391,19 @@ Even 50–75bps of rate relief = industry-wide $300–500B+ origination volume i
 
 ## Section 8 — Valuation & Comparable Analysis
 
-### Current Multiples (April 24, 2026, $15.60 / market cap ~$44B / EV ~$50B)
+### Current Multiples (May 8, 2026, $15.69 / market cap ~$44.4B / EV ~$50B)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| EV / Q4 2025 Annualized Adj EBITDA | ~21× | $592M × 4 = $2.37B |
-| EV / FY2026E Adj EBITDA (consensus) | ~14–17× | $3.0–3.5B [Analyst consensus] |
-| EV / FY2026E Adj EBITDA (bull) | ~10–12× | $4.0–5.0B |
-| P/Adj EPS (FY2025 base) | ~56× | $0.28 adj NI per share — distorted by partial-year integration; not a clean read |
-| P/Adj EPS (FY2026E) | ~13–18× | $0.85–$1.20 [Analyst consensus] *[Estimate]* |
-| P/Tangible Book | n/m | MSR fair-value accounting + post-Cooper goodwill-heavy balance sheet distort TBV; not the primary valuation lens |
-| Analyst Consensus PT | ~$20–21 [Analyst consensus] | ~30%+ implied upside |
+| EV / Q1 2026 Annualized Adj EBITDA | ~17× | $738M × 4 = $2.95B run-rate |
+| EV / FY2026E Adj EBITDA (consensus) | ~14–16× | $3.0–3.5B *[Analyst consensus]* |
+| EV / FY2026E Adj EBITDA (bull) | ~10–12× | $4.0–5.0B (Cooper synergy pull-forward adds ~$400M on top of base) |
+| P/Adj EPS (Q1 2026 ann.) | ~26× | $0.15 × 4 = $0.60 annualized; not a clean full-year read given Q2 growth trajectory |
+| P/Adj EPS (FY2026E) | ~15–18× | $0.85–$1.05 *[Analyst consensus, Estimate]* |
+| P/Tangible Book | n/m | MSR fair-value accounting + goodwill-heavy balance sheet distort TBV; not the primary lens |
+| Analyst Consensus PT | $20.40 *[Analyst consensus]* | +30% implied upside from $15.69; [stockanalysis.com](https://stockanalysis.com/stocks/rkt/forecast/) |
+
+**Key Q1 valuation inflection**: Q4 2025 adj EBITDA $592M → Q1 2026 $738M (+25% QoQ) at 26% margin. If the Q2 guide midpoint ($2.80B adj rev) sustains 26% EBITDA margins, Q2 EBITDA ≈ $728M — FY2026 run-rate toward $2.9–3.0B even without Cooper synergy acceleration. At consensus EV ~$50B, that's 17× at the low end — not cheap unless the bull case ($4B+ EBITDA with full synergies) is assigned meaningful probability.
 
 ### Peer Comparison (mortgage / housing asset-type per CLAUDE.md asset-type table — primary lens P/TBV + EV/EBITDA)
 
@@ -396,127 +421,136 @@ Even 50–75bps of rate relief = industry-wide $300–500B+ origination volume i
 
 ## Section 9 — Catalyst & Sentiment Tracker
 
-### Live Price & Positioning (April 24, 2026)
+### Live Price & Positioning (May 8, 2026)
 
-- **Price**: $15.60 (close)
-- **52-week range**: $11.08 – $24.36
-- **% from 52-wk high**: –35.9%
-- **% above 52-wk low**: +40.8%
-- **Market cap**: ~$44B (intraday $43.99B per [Yahoo Finance](https://finance.yahoo.com/quote/RKT))
-- **Setup**: Stock is mid-range (~$13 trading band) heading into Q1 2026 earnings on May 7. The ~13-day window is a hard catalyst.
+- **Price**: $15.69 (May 8, 2026 close; +10.88% on Q1 earnings day)
+- **52-week range**: $11.20 – $24.36
+- **% from 52-wk high**: –35.6%
+- **% above 52-wk low**: +40.1%
+- **Market cap**: ~$44.4B ([Yahoo Finance](https://finance.yahoo.com/quote/RKT))
 
 ### Analyst Consensus
 
-- **Aggregate rating**: 🟡 Hold/Buy mix ([stockanalysis.com](https://stockanalysis.com/stocks/rkt/forecast/) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/RKT/forecast/))
-- **Median PT**: ~$20–21 *[Analyst consensus]*
-- **Implied upside from $15.60**: +28% to +35%
-- **Coverage commentary**: JPMorgan / Wells Fargo / BTIG covered Q4 2025 print constructively; consensus FY2026 adj EBITDA centered $3.0–3.5B; bull camp models above $4B.
+- **Aggregate rating**: 8 Buy / 8 Hold / 0 Sell — consensus "Buy" ([stockanalysis.com](https://stockanalysis.com/stocks/rkt/forecast/))
+- **Average PT**: $20.40 *[Analyst consensus]* — implied upside +30% from $15.69
+- **High PT**: $23 (Stephens, initiated Apr 24, 2026 with Buy)
+- **Recent changes**:
+  - **[2026-04-06]** Barclays (Terry Ma) — upgraded Hold → Buy, PT $22 → $19 ([stockanalysis.com](https://stockanalysis.com/stocks/rkt/forecast/))
+  - **[2026-04-24]** Stephens (Kyle Joseph) — initiated Buy, PT $23 ([stockanalysis.com](https://stockanalysis.com/stocks/rkt/forecast/))
+  - **[Prior]** JPMorgan — PT cut to $16.50 from $24 *[link pending]*
+- **Post-Q1 reaction**: Stock +10.88% on May 8; no analyst actions yet in this session *[watch for post-earnings cluster]*
 
 ### Short Interest
 
-- **Latest**: *[Estimate — verify on next refresh; historically RKT has run mid-to-high teens % of float as a contested-thesis name]* ([Fintel](https://fintel.io/ss/us/rkt) / [MarketBeat](https://www.marketbeat.com/stocks/NYSE/RKT/short-interest/))
-- **Action item**: Refresh short-interest figure with Fintel / NASDAQ data on next weekly run.
+- **Report date**: April 15, 2026
+- **Shares short**: 65.9M (+15.0% from prior period's 57.3M)
+- **% of float**: **31.75%** — materially elevated; up from prior period ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/RKT/short-interest/))
+- **Days-to-cover**: 2.5 days
+- **Trend**: Increasing — 15% MoM growth in short interest; signals persistent bear-camp conviction despite Q4 beat and Q1 beat. High short float creates squeeze optionality on continued upward prints.
 
-### Insider Activity (Last 90 Days)
+### Insider Activity (Last 90 Days — since 2026-02-10)
 
-- No material open-market insider transactions disclosed in the available raw set during the lookback window.
-- Dan Gilbert's super-voting position is structurally fixed; not actively traded.
-- **Action item**: Verify on next refresh via [OpenInsider](http://openinsider.com/screener?s=RKT) / SEC Form 4.
+- **[2026-04-07]** Noah A. Edwards (CAO) — routine tax-withholding disposition, 2,302 Class A shares at $15.03 (~$34.6K); not an open-market sell ([SEC Form 4 via OpenInsider](http://openinsider.com/RKT))
+- **[2026-05-07]** Form 4 filing noted post-earnings *[specific details [link pending] — verify via [OpenInsider](http://openinsider.com/RKT)]*
+- Dan Gilbert's super-voting structure is fixed; no open-market activity.
+- No material open-market buy or sell (>$1M) confirmed in the lookback window.
 
-### Recent Corporate News (Last 90 Days)
+### Recent Corporate News (Since 2026-04-26 Baseline)
 
-- **[2026-02-26]** [Earnings] — Q4 2025 results: total rev $2.69B / adj rev $2.44B (above guide), adj EBITDA $592M, GAAP NI $68M, adj NI $316M. FY2025: adj rev $6.9B, adj NI $628M, $130.4B origination volume, GOS margin 2.83%, purchase share 5.5%. Q1 2026 guide $2.6–2.8B. Brian Brown promoted to President. ([Q4 2025 PR](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx))
-- **[2026-02-26]** [Strategic] — Three-year Compass partnership announced — Compass listing inventory + agent network ([Q4 2025 PR](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx))
-- **[2026-02-03]** [CEO Comm] — Krishna pre-announced "4-year volume high" on CNBC Squawk Box ahead of Q4 print ([CNBC](https://www.cnbc.com/search/?query=rocket%20companies))
-- **[2026-01]** [People] — Glenn Kelman (Redfin CEO) departed; internal successor appointed *[link pending]*
-- **[2026-01]** [Litigation] — RESPA class-action filed alleging illegal referral kickbacks across the integrated platform *[link pending]*
-- **[2025-10-01]** 💰 [M&A] — Mr. Cooper acquisition closed ($14.2B all-stock; 11.0 RKT shares per Mr. Cooper share); $2.7T servicing portfolio incorporated ([Q3 2025 PR](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2025/Rocket-Companies-Announces-Third-Quarter-2025-Results/default.aspx))
-- **[2025-07]** 💰 [M&A] — Redfin acquisition closed ($1.75B all-stock); ~100M MAU search funnel incorporated ([Rocket IR](https://ir.rocketcompanies.com/news-and-events/news-releases))
-- **[2025-06-30]** [Corporate] — Up-C structure collapsed → full C-corp; public float increased from ~7% to ~35% ([SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001805284&type=8-K))
+- **[2026-05-07]** ✅ [Earnings] — Q1 2026 results: adj rev $2.82B (above $2.8B guide top), adj EBITDA $738M (+25% QoQ), GAAP NI $297M, adj NI $422M, adj EPS $0.15 vs. $0.12 consensus. GOS ex-corr 322bps (highest since 2021). Servicing fee income $1.083B. Redfin attach ~45%, "line of sight to 50% already." Mr. Cooper $400M synergies pulled to end-2026. $300B origination capacity 2 years ahead of plan. Q2 guide $2.7–2.9B. ([Q1 2026 PR](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-First-Quarter-2026-Results/default.aspx) · [transcript — The Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/07/rocket-rkt-q1-2026-earnings-call-transcript/) · [HousingWire](https://www.housingwire.com/articles/rocket-q1-2026-earnings/))
+- **[2026-05-07]** [Strategic] — CEO Krishna: "AgenTik preapprovals have grown to 10% of all preapprovals, generating more letters with lower officer involvement." AI-driven preapproval automation extending beyond Rocket Logic conversations. ([Q1 2026 transcript](https://www.fool.com/earnings/call-transcripts/2026/05/07/rocket-rkt-q1-2026-earnings-call-transcript/))
+- **[2026-04-24]** [Analyst] — Stephens initiated Buy, $23 PT ([stockanalysis.com](https://stockanalysis.com/stocks/rkt/forecast/))
+- **[2026-04-06]** [Analyst] — Barclays upgraded Hold → Buy, PT $22 → $19 ([stockanalysis.com](https://stockanalysis.com/stocks/rkt/forecast/))
+
+*For context (pre-baseline events now logged as delivered):*
+- **[2026-02-26]** [Earnings] — Q4 2025: adj rev $2.44B, adj EBITDA $592M, GOS 2.83%, purchase share 5.5%; Q1 guide $2.6–2.8B; Brown → President ([Q4 2025 PR](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx))
+- **[2026-02-26]** [Strategic] — Compass three-year partnership announced ([Q4 2025 PR](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx))
+- **[2026-01]** [Litigation] — RESPA class-action filed *[link pending]*; no Q1 call disclosure on litigation status
+- **[2026-01]** [People] — Glenn Kelman (Redfin CEO) departed *[link pending]*
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| 📅 **2026-05-07** (post-close) | **Q1 2026 earnings** ([StockTitan](https://www.stocktitan.net/news/RKT/rocket-companies-to-announce-first-quarter-2026-results-3l0khc3si1fd.html)) | First full quarter of integrated platform with Cooper consolidated; tests $2.6–2.8B guide; 5th-consecutive-beat watch; first earnings under Brown's CFO+President role |
-| 2026 (rolling) | Mr. Cooper synergy realization milestones | CFO said "ahead of original 2027 target"; any quantified update materially re-rates the thesis |
-| 2026 (rolling) | Redfin attach rate progression | 40% → 50%+ trajectory; each +10ppt ≈ ~$500M incremental revenue *[Estimate]* |
-| ⚠️ 2026 (ongoing) | RESPA class-action certification decision | Tail-risk catalyst; certification + damages > $500M = thesis-break trigger |
-| Ongoing | 30-year mortgage rate path | Each 25bps lower = material origination tailwind; tariff-driven re-inflation = downside catalyst |
-| Ongoing | Compass partnership ramp (3-yr alliance) | Funnel diversification; listing inventory expansion |
+| ✅ **2026-05-07** | **Q1 2026 earnings — Delivered** | Beat guide top; adj EBITDA +25% QoQ; thesis strengthened |
+| 📅 ~Aug 2026 | **Q2 2026 earnings** (date TBA) | Guide: $2.7–2.9B adj rev; watch Redfin attach crossing 50%, Cooper synergy quantification, GOS margin hold |
+| 2026 (rolling) | Mr. Cooper synergy realization confirmation | "Full $400M by end-2026" — one year ahead; any Q3 quantification is the next major re-rating event |
+| 2026 (rolling) | Redfin attach 45% → 50%+ | "Line of sight already" per Brown; each +5ppt ≈ ~$250M incremental revenue *[Estimate]* |
+| ⚠️ 2026 (ongoing) | RESPA class-action certification | Tail-risk; certification + damages > $500M = thesis-break trigger |
+| Ongoing | 30-year mortgage rate path | Rates 6.5–7%+; any sustained move toward 5.75–6.25% = volume unlock; re-inflation above 7.5% = downside scenario |
+| Ongoing | Compass partnership ramp | Funnel diversification; listing inventory + agent network; full ramp = second Redfin-style attach opportunity |
 
 ---
 
 ## Section 10 — BAIT Framework
 
-### B — Behavioral: **Strong**
+### B — Behavioral: **Moderate** (downgraded from Strong)
 
-The –35.9% drawdown from the January 16 peak — and 52-wk low extending to $11.08 — sits against a Q4 2025 print that was a clear beat ($2.44B adj rev vs. $1.56B guide; $592M EBITDA), Krishna's pre-announced strength on CNBC, FY2025 purchase share gain to 5.5%, and a Q1 2026 guide of $2.6–2.8B that annualizes to a $10–11B run-rate. The selloff is attributable to macro anxiety (tariff-driven re-inflation fear, rate uncertainty, Redfin CEO departure, RESPA litigation) — not company-specific operating deterioration. Sentiment is pricing the bear case while operating data confirms the bull setup.
+The Q1 2026 print (+10.88% on earnings day) has partially resolved the prior behavioral overshoot. The stock at $15.69 is still –35.6% from the January 2026 peak, which remains an emotional discount — but the post-beat +11% suggests the behavioral edge is being realized. The ongoing 31.75% short float (65.9M shares, +15% MoM) signals that a large bearish contingent remains, maintaining the squeeze setup if Q2 continues the momentum. Behavioral signal is now "partial realization" rather than "full opportunity."
 
-### A — Analytical: **Moderate-Strong**
+### A — Analytical: **Strong** (upgraded from Moderate-Strong)
 
-Multiple analytical edges:
-- The Up-C collapse June 30, 2025 makes historical EPS comparisons numerically misleading — most analysts haven't cleanly articulated post-collapse pro-forma EPS.
-- MSR fair-value changes distort GAAP revenue by billions; most media summaries cite GAAP, missing the adjusted picture.
-- Q4 2025 adj EBITDA $592M × 4 = $2.37B run-rate; vs. EV ~$50B = ~21× — sounds expensive until a $4–5B 2027 EBITDA scenario is modeled, which compresses to 10–12×.
-- Q1 2026 guide of $2.6–2.8B has the credibility of 4 consecutive quarters of beats.
-- CFO Brown's "synergy ahead of schedule" comment is not in consensus.
-- 5.5% purchase share (vs. 3.8% prior-year) — 170bps of share gain in 12 months — is an *operational* signal that decoupling from the rate cycle is real.
+Q1 2026 delivered three analytical edges simultaneously:
+- GOS ex-correspondent 322bps = highest since 2021, in a rate environment that should not be producing 2021-level margins; this is the AI/platform structural improvement, not a rate gift.
+- $400M Cooper synergies pulled to end-2026 = **$400M EBITDA pull-forward vs. consensus models that assumed 2027 realization**.
+- Redfin attach 45% + "line of sight to 50%" is 1–2 years ahead of deal-announcement projections; each 5ppt = ~$250M incremental revenue.
+- $300B origination capacity with fewer staff vs. 2024 = concrete, quantifiable AI operating leverage that most media missed.
 
-*Limits the signal*: bear case has real fundamental merit (rate sensitivity, $10.6B goodwill, RESPA tail-risk) — analytical work resolves to "asymmetric R/R with real downside," not "clear mispricing."
+*Limits the signal*: GAAP vs. adjusted accounting still creates confusion; the servicing UPB step-down ($2.7T → $2.1T) requires monitoring; rate sensitivity thesis-break is real.
 
 ### I — Informational: **Moderate**
 
-Primary disclosures underappreciated by media:
-1. Krishna's "4-year volume high" Squawk Box pre-announcement (most coverage missed)
-2. CFO Brown's explicit "ahead of original 2027 synergy target" statement on Q4 call
-3. **Brown promoted to CFO + President effective Feb 26, 2026** — succession + integration-execution alignment under-covered
-4. Quantified AI operating leverage (800K conversations/month, 2.5× conversion, 50% of 2020 headcount)
-5. Redfin attach 27% → 40% in 4 months — faster than any analyst projection
-6. Purchase share 3.8% → 5.5% YoY — share gain in a flat market
+Primary disclosures underappreciated by media post-Q1:
+1. "AgenTik preapprovals at 10% of all preapprovals" — new AI metric not in prior guidance or consensus models
+2. Q2 expense guide $2.2B (–$60M QoQ) while maintaining $2.7–2.9B adj rev = implied EBITDA margin expansion path
+3. Servicing UPB $2.7T → $2.1T step-down — the distinction between "portfolio run-off" vs. "loss of servicing" has meaningful EBITDA implications and is under-covered
+4. GOS ex-correspondent 322bps context — most media cited the blended 274bps; the ex-corr figure is the cleaner quality-of-earnings signal
 
-### T — Technical: **Weak-Moderate**
+### T — Technical: **Weak-Moderate** (unchanged)
 
-- No stock split, no index inclusion catalyst, no buyback program (leverage prevents)
-- Dan Gilbert control structure limits buyback optionality
-- Q1 2026 earnings May 7 is a clear ~13-day hard catalyst
-- Up-C collapse increased public float from ~7% to ~35% — institutional ownership should grow as RKT enters the proper C-corp universe; a slow-burn technical tailwind
-- Stock approaching the 52-wk low for the second time = tradeable technical level
+- No buyback program (leverage + Gilbert structure prevents)
+- 31.75% short float creates squeeze optionality on continued positive prints; 2.5 days-to-cover is low — a short squeeze would be violent but short
+- Post-Q1 +10.88% breaks a short-term downtrend; next technical level watch is $17–18 (analyst consensus cluster below median $20.40)
+- Up-C collapse institutional ownership ramp is a slow-burn tailwind; not a near-term catalyst
 
 ### BAIT Verdict
 
-**Double overlap (B + A) — Moderate Conviction**. Meaningful behavioral overselling post-beat plus genuine analytical complexity that obscures earnings power. The signal is less clean than a triple overlap because (1) the bear case has real fundamental merit, (2) technical tailwinds are absent, (3) the informational edge is narrower than the behavioral edge. Behavioral fear is disproportionate (–35.9% on a beat-and-raise quarter); the platform thesis still requires more execution proof to graduate to triple-BAIT status. Conviction should rise materially on a Q1 2026 beat.
+**Double overlap (B + A) — Moderate-to-High Conviction** (upgraded from Moderate). Q1 2026 de-risked the three key integration milestones simultaneously (Cooper synergy, Redfin attach, AI capacity). The analytical edge has strengthened (quantified, ahead-of-schedule proof points). Behavioral edge has partially resolved but the 31.75% short float sustains the overhang-and-squeeze dynamic. The thesis is not yet triple-BAIT (T remains weak; I is moderate) — full graduation to triple-overlap requires Q2 confirmation that margins hold and attach crosses 50%.
 
 ---
 
 ## Section 11 — Bull / Bear / Base Cases
 
-*All scenarios are 2-to-3-year price targets. Probabilities sum to 100%.*
+*All scenarios are 5-year terminal price targets (FY2028–2030E horizon). Probabilities sum to 100%.*
 
-### Bull Case — $35 by 2028 (+125% from $15.60) — **Probability: 25%**
-- Mortgage market grows 25%+ in 2026; Rocket captures disproportionate share via Redfin/Compass funnel
-- Purchase market share reaches 7–8% by 2027 (+1.5–2.5ppt = ~$450–750M incremental revenue)
-- Mr. Cooper synergies fully realized by mid-2026; $500M incremental EBITDA at full run-rate
-- AI-driven margins: 25–30%+ adj EBITDA on $12B+ adj revenue = $3.5–4.5B+ EBITDA by 2027
+### Bull Case — $40 by 2029 (+155% from $15.69) — **Probability: 30%** (raised from 25%)
+
+- Mortgage market grows 25%+ in 2026–2027; Rocket captures disproportionate share via Redfin/Compass funnel
+- Purchase market share reaches 7–8% by 2027; QoQ + YoY share gains confirmed in Q1 2026
+- Mr. Cooper $400M expense synergies fully realized by end-2026 (as guided); revenue synergies follow in 2027
+- AI-driven margins: 28–32%+ adj EBITDA on $12B+ adj revenue = $4.0–5.5B EBITDA by 2028
 - 30-year rates decline to 5.5–5.75%; housing unlock triggers refi wave + purchase acceleration
-- Redfin attach rate 50%+; Compass partnership drives 500K+ additional listing inventory
-- 2028 Adj EBITDA $5.5–7.0B × 16–18× EV → equity ~$30–43/share
+- Redfin attach 50%+ (Brown: "line of sight already"); Compass partnership adds second funnel ramp
+- AgenTik scales beyond 10% preapprovals → further headcount-to-volume efficiency gains
+- 2029 Adj EBITDA $5.5–6.5B × 16–18× EV → equity ~$35–45/share; midpoint **$40**
 
-### Base Case — $22 by 2027 (+41%) — **Probability: 55%**
+### Base Case — $24 by 2028 (+53% from $15.69) — **Probability: 50%** (adjusted from 55%)
+
 - 30-year rates oscillate 6.0–6.75%; housing market gradually unfreezes
-- Mr. Cooper synergies deliver $350–500M by 2026–2027; Redfin meets revenue synergy target
-- Adj EBITDA reaches $3.0–3.5B in 2026 (Q4 run-rate with modest improvement)
-- Goodwill not impaired; GAAP earnings return to clearly positive in 2026
-- Stock re-rates to ~$22 (analyst consensus PT range)
+- Mr. Cooper $400M synergies delivered end-2026 as guided; Redfin attach reaches 50% by 2027
+- Adj EBITDA reaches $3.5–4.0B in 2026–2027 (Q1 run-rate $2.95B + Cooper pull-forward)
+- Goodwill not impaired; GAAP earnings clearly positive through the cycle
+- Stock re-rates to ~$24 (above consensus $20.40 median; consensus reflects backward-looking view of synergy timing)
 
-### Bear Case — $9 by 2027 (–42%) — **Probability: 20%**
+### Bear Case — $9 by 2027 (–43% from $15.69) — **Probability: 20%** (unchanged)
+
 - 30-year rates rise above 7.5% (tariff-driven re-inflation); origination volume collapses
-- 2022–2023 trough replay: GOS margins compress to 2.0–2.3%; revenue falls
-- Redfin integration fails; Zillow dominates AI-powered home search; attach plateaus at 30%
+- 2022–2023 trough replay: GOS margins compress to 2.0–2.3%; adj revenue falls to $8B range
+- Redfin integration fails; Zillow dominates AI-powered home search; attach plateaus at 35%
 - RESPA class-action certified; $500M+ settlement disrupts ecosystem referral model
 - $10.6B goodwill impairment triggers; GAAP devastation despite adjusted metrics
-- Mr. Cooper servicing faces delinquency spike in recession; MSRs impaired
-- 2028 EBITDA ~$1.5B × 12× EV → equity ~$7–10/share
+- Servicing UPB run-off accelerates; delinquency spike in recession; MSR fair values impaired
+- 2027 EBITDA ~$1.5B × 12× EV → equity ~$7–10/share; midpoint **$9**
 
 ---
 
@@ -524,69 +558,69 @@ Primary disclosures underappreciated by media:
 
 | Scenario | Price | Probability | PW Contribution |
 |----------|-------|-------------|-----------------|
-| Bull | $35 | 25% | $8.75 |
-| Base | $22 | 55% | $12.10 |
+| Bull | $40 | 30% | $12.00 |
+| Base | $24 | 50% | $12.00 |
 | Bear | $9 | 20% | $1.80 |
-| **PW EV** | | | **$22.65** |
+| **PW EV** | | | **$25.80** |
 
 | Current Price | PW EV | Return | Horizon |
 |--------------|-------|--------|--------|
-| $15.60 | $22.65 | **+45%** | 2–3 years (~13%/yr) |
+| $15.69 | $25.80 | **+64%** | 3–4 years (~14%/yr) |
 
-**Risk/Reward (per Rule #26)**: Bull / Bear midpoint R/R = ($35 – $15.60) / ($15.60 – $9) = $19.40 / $6.60 = **~2.9:1**. Secondary thesis-break-anchored framing (using §13's $14 entry-zone bottom as downside): ($35 – $15.60) / ($15.60 – $14) = ~12:1, but headline R/R is the §11 ratio. Asymmetry is favorable but not extreme.
+**Risk/Reward (per Rule #26)**: Bull / Bear midpoint R/R = ($40 – $15.69) / ($15.69 – $9) = $24.31 / $6.69 = **≈3.6:1**. Prior baseline was $22.65 PW EV at $15.60 spot (+45%); Q1 2026 results drove the scenario upgrade (Bull raised $35 → $40, Base raised $22 → $24, Bull prob raised 25% → 30%).
 
-**Interpretation**: PW EV $22.65 vs. spot $15.60 = +45% expected return over 2–3 years (~13% annualized). The bull/base scenarios are intact pending Q1 2026 confirmation; the bear scenario is well-defined and quantified. R/R ~2.9:1 on the headline scenario set is consistent with a Speculative-Buy framing — favorable but requiring continued execution proof.
+**Interpretation**: PW EV $25.80 vs. spot $15.69 = +64% expected return over 3–4 years (≈14% annualized). Q1 2026 de-risked both the Cooper integration and Redfin attach legs simultaneously. The bear scenario probability is unchanged (20%) because the rate re-inflation risk and RESPA tail remain. R/R ≈3.6:1 is meaningfully improved from the prior 2.9:1 and is consistent with an Add framing (upgraded from Speculative Initiate).
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Rocket Companies has assembled the most complete homeownership platform in history (search via Redfin + Compass, origination via #1 lender, servicing via #1 servicer, ~50% of 2020 headcount via Rocket Logic AI) at a moment when the housing market is just beginning to unlock after 3 years of rate-induced freeze — at $15.60 the market is pricing the bear case while operating data (5.5% purchase share, $592M Q4 EBITDA, "synergy ahead of schedule") confirms the bull setup.
+**Thesis in one sentence**: Rocket Companies delivered its most profitable quarter in 4 years (Q1 2026: $738M adj EBITDA, 26% margin, GOS ex-corr 322bps highest since 2021) while simultaneously pulling forward the Mr. Cooper $400M synergy target to end-2026 and raising Redfin attach to ~45% with "line of sight to 50% already" — all three integration legs de-risked in a single print, confirming the platform thesis at a stock price that still prices a mortgage-cyclical stub.
 
-**For a non-holder**: 🟢 **Initiate (Speculative)** at $15.60. The setup is favorable but the bear case has real teeth ($10.6B goodwill, rate re-inflation tail risk, RESPA litigation). Q1 2026 earnings May 7 is a hard catalyst — initiating before the print is a tactical bet on a 5th-consecutive beat. Adding into the **$11–14 attractive entry zone** is the higher-asymmetry trade if weakness offers it.
+**For a non-holder**: 🟢 **Add** (raised from Initiate/Speculative). PW EV $25.80 vs. spot $15.69 = +64% / ≈14% annualized. Entry zone broadened; at current price the post-Q1 de-risking makes the thesis clearly asymmetric (R/R ≈3.6:1).
+**For a current holder**: 🟢 **Hold / Add** — Q1 validated the bull setup; add on any macro-driven pullback toward $14; the short-float squeeze dynamic adds upward torque if Q2 continues.
 
-**For a current holder**: 🟢 **Hold / Add on weakness**. Q1 2026 confirmation likely re-rates the stock toward $20+ (analyst consensus). Below $14 the asymmetry is materially attractive. Above $24 (52-wk high) the bull-case execution proof is needed to justify pressing.
+🎯 **Attractive entry zone**: **$13 – $16** (rationale: PW EV $25.80 minus 15–20% MoS = entry discipline up to ≈$22; current $15.69 is inside the entry zone; below $14 is highest asymmetry)
 
-🎯 **Attractive entry zone**: **$11 – $14** (rationale: 9–12× FY26E EBITDA on consensus $3.0–3.5B; bear-case downside fully discounted; near 52-wk low support; valid even if Q1 prints in line vs. beat)
+🎯 **Trim zone**: **$28 – $35** (rationale: approaching Bull-case range; begin trim as PW EV risk/reward narrows; 322bps GOS sustainability and 50%+ Redfin attach must be confirmed before pressing to Bull price)
 
-🎯 **Trim zone**: **$24 – $30** (rationale: 16–18× FY26E EBITDA on bull-case $4.0+B EBITDA; matches January 52-wk high; bull-case re-rating largely priced; further upside requires platform-thesis proof beyond current evidence)
-
-🔴 **Exit / avoid zone**: **>$32** (rationale: requires the full bull case in price — $5B+ EBITDA, attach >50%, full Mr. Cooper synergies, sub-6% rates; asymmetry has fully closed)
+🔴 **Exit / avoid zone**: **>$38** (rationale: approaching Bull-case terminal value — asymmetry has closed; requires full Cooper synergies + 50%+ attach + rate unlock + $5B+ EBITDA to be sustainable at that level)
 
 **Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
-- ⚠️ Q1 2026 adj revenue **<$2.4B** (below guide bottom) absent a clearly external macro shock
-- ⚠️ Redfin attach rate **falls below 30%** in any quarter
-- ⚠️ Mr. Cooper synergy timeline **extends beyond original end-2027 target** (after CFO's "ahead of schedule" framing)
+- ✅ ~~Q1 2026 adj revenue **<$2.4B**~~ — DE-RISKED [2026-05-07]; Q1 actual $2.82B (above guide top)
+- ⚠️ Q2 2026 adj revenue **<$2.5B** (below guide bottom of $2.7B) absent a clearly external macro shock
+- ⚠️ Redfin attach rate **falls below 35%** in any quarter (updated from 30%; attach is now at 45%)
+- ⚠️ Mr. Cooper synergy timeline **slips beyond end-2026** (after Brown's "full $400M by end-2026" framing)
 - ⚠️ RESPA class-action **certified with damages tracking >$500M**
-- ⚠️ GOS margin **<2.0%** for 2 consecutive quarters
+- ⚠️ GOS margin ex-correspondent **<2.5%** for 2 consecutive quarters (updated floor; Q1 was 3.22%)
 - ⚠️ 30-year mortgage rate **breaks above 7.5%** sustained for a quarter (re-inflation scenario)
 - ⚠️ Goodwill impairment of **>$2B** announced
-- ⚠️ Net dollar exodus from servicing portfolio (recapture rate falls below 1.5× industry)
+- ⚠️ Servicing UPB continues declining below $1.8T (signals net portfolio loss, not run-off)
 - ⚠️ Dan Gilbert exercises super-voting authority in a way materially adverse to minority shareholders
 
-📅 **Next review trigger**: **Q1 2026 earnings — May 7, 2026 (post-close).** Key items: (1) adj revenue vs. $2.6–2.8B guide, (2) adj EBITDA run-rate, (3) Redfin attach rate progression, (4) any quantified Mr. Cooper synergy update vs. original 2027 target, (5) GOS margin trend, (6) any commentary on RESPA class action, (7) post-Kelman Redfin integration update, (8) first quarter under Brown's CFO + President role.
+📅 **Next review trigger**: **Q2 2026 earnings (~Aug 2026, date TBA).** Key watch items: (1) adj revenue vs. $2.7–2.9B guide, (2) adj EBITDA margin sustain at 26%+, (3) Redfin attach crossing 50%, (4) Cooper synergy quantification progress vs. end-2026 target, (5) servicing UPB trajectory stabilization, (6) any RESPA class-action update, (7) mortgage rate path and origination volume commentary.
 
 ---
 
 ### Sources
 
-- [Rocket Companies IR — News Releases](https://ir.rocketcompanies.com/news-and-events/news-releases) (Q4 2025 earnings press release, Feb 26, 2026; Q4 2025 earnings call; Compass partnership; Mr. Cooper / Redfin acquisition closes)
+- [Rocket Companies — Q1 2026 PR (May 7, 2026)](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-First-Quarter-2026-Results/default.aspx) — adj rev $2.82B, adj EBITDA $738M, adj EPS $0.15, GOS ex-corr 322bps, Redfin attach ~45%, Q2 guide $2.7–2.9B
+- [Q1 2026 Earnings Call Transcript — The Motley Fool (May 7, 2026)](https://www.fool.com/earnings/call-transcripts/2026/05/07/rocket-rkt-q1-2026-earnings-call-transcript/) — Brown: attach 45% / line of sight 50%; Krishna: synergies pulled to 2026; Brown: $300B capacity; AgenTik 10% of preapprovals
+- [Q1 2026 PR — PRNewswire](https://www.prnewswire.com/news-releases/rocket-companies-announces-first-quarter-2026-results-302766169.html)
+- [Rocket Companies IR — News Releases](https://ir.rocketcompanies.com/news-and-events/news-releases)
 - [Rocket Companies — Q4 2025 PR (Feb 26, 2026)](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2026/Rocket-Companies-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx)
 - [Rocket Companies — Q3 2025 PR (Mr. Cooper close)](https://ir.rocketcompanies.com/news-and-events/press-releases/press-release-details/2025/Rocket-Companies-Announces-Third-Quarter-2025-Results/default.aspx)
 - [Rocket Companies — FY2024 10-K PDF](https://s205.q4cdn.com/636124780/files/doc_financials/2024/q4/RKT-2024-10-K.pdf)
 - [Rocket Companies — Annual reports archive](https://ir.rocketcompanies.com/financials/annual-reports/default.aspx)
-- [Rocket Companies — SEC filings](https://ir.rocketcompanies.com/financials/sec-filings/default.aspx)
 - [SEC EDGAR — Rocket filings (CIK 0001805284)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001805284&type=10-K)
-- [CNBC — Rocket Companies coverage](https://www.cnbc.com/search/?query=rocket%20companies) (Squawk Box interview with Krishna, Feb 3, 2026)
-- [StockTitan — Q1 2026 earnings date confirmation](https://www.stocktitan.net/news/RKT/rocket-companies-to-announce-first-quarter-2026-results-3l0khc3si1fd.html)
-- [Yahoo Finance — RKT quote](https://finance.yahoo.com/quote/RKT) (live price 2026-04-24)
+- [Yahoo Finance — RKT quote](https://finance.yahoo.com/quote/RKT) (live price May 8, 2026: $15.69 / +10.88%)
 - [stockanalysis.com — RKT financials](https://stockanalysis.com/stocks/rkt/financials/)
-- [stockanalysis.com — RKT forecast](https://stockanalysis.com/stocks/rkt/forecast/)
-- [MarketBeat — RKT](https://www.marketbeat.com/stocks/NYSE/RKT/) (earnings calendar, short interest, analyst ratings)
-- [Fintel — RKT short interest](https://fintel.io/ss/us/rkt)
-- [OpenInsider — RKT](http://openinsider.com/screener?s=RKT)
-- [TradingView — RKT 10-K summary](https://www.tradingview.com/news/tradingview:59d61059067fc:0-rocket-companies-inc-sec-10-k-report/)
-- JPMorgan / Wells Fargo / BTIG analyst reports (Q4 2025 reactions) *[link pending]*
+- [stockanalysis.com — RKT forecast / analyst ratings](https://stockanalysis.com/stocks/rkt/forecast/) (8 Buy / 8 Hold / 0 Sell; avg PT $20.40; Barclays upgrade Apr 6; Stephens initiation Apr 24)
+- [MarketBeat — RKT short interest](https://www.marketbeat.com/stocks/NYSE/RKT/short-interest/) (Apr 15 report: 65.9M shares / 31.75% float / +15% MoM)
+- [OpenInsider — RKT Form 4](http://openinsider.com/RKT) (Edwards routine tax-withholding Apr 7, 2026)
+- [HousingWire — Rocket Q1 2026 earnings coverage](https://www.housingwire.com/articles/rocket-q1-2026-earnings/)
+- [Insider Monkey — Q1 2026 transcript](https://www.insidermonkey.com/blog/rocket-companies-inc-nyserkt-q1-2026-earnings-call-transcript-1757137/)
+- JPMorgan PT cut to $16.50 from $24 *[link pending]*
 - 5-year shareholder letter archive (FY2020–FY2024) *[link pending — backfill from annual-reports archive on next pass]*
-- FY2025 10-K (filed Feb–Mar 2026) *[link pending — fetch from SEC EDGAR on next pass]*
+- FY2025 10-K *[link pending — fetch from SEC EDGAR on next pass]*
 - RESPA class-action filing (Jan 2026) *[link pending]*

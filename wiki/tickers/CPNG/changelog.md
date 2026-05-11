@@ -4,6 +4,55 @@
 
 ---
 
+## [2026-05-10] — Q1 2026 Earnings + v2.8→v2.14 Schema Migration
+
+**Trigger**: Q1 2026 earnings printed May 5, 2026 (post-close); 8-K filed May 5, 2026. Stock declined ≈15% to $16.98 by May 10 on deeper EBITDA miss and Q2 margin headwind guidance. Two sell-side downgrades (Citi, Deutsche Bank) on May 6–7.
+
+**Sources reviewed**:
+- [Coupang Q1 2026 8-K (May 5, 2026)](https://www.stocktitan.net/sec-filings/CPNG/8-k-coupang-inc-reports-material-event-e31cba6cbdbf.html) — primary financial figures
+- [Q1 2026 Earnings Release PDF](https://s206.q4cdn.com/919117365/files/doc_financials/2026/q1/2026-Q1_Earnings-Release.pdf)
+- [Q1 2026 Earnings Call Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/05/coupang-cpng-q1-2026-earnings-transcript/)
+- [Q1 2026 Earnings Call Transcript — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/coupang-cpng-q1-2026-earnings-035143906.html)
+- [Yahoo Finance — CPNG live quote](https://finance.yahoo.com/quote/CPNG) (price $16.98, 2026-05-10)
+- [MarketBeat — CPNG analyst ratings](https://www.marketbeat.com/stocks/NYSE/CPNG/forecast/) (4B/5H/2S; median $26.92)
+- [Finviz — CPNG](https://finviz.com/quote.ashx?t=CPNG) (short interest 2.94%; forward P/E 34.85; EV $29.49B)
+- [StockTitan — Greenoaks/Neil Mehta Form 4](https://www.stocktitan.net/sec-filings/CPNG/form-4-coupang-inc-insider-trading-activity-c035d8ad4bac.html) (7.35M shares purchased March 2026)
+- [Investing.com — Morgan Stanley target cut](https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-coupang-stock-price-target-on-margin-outlook-93CH-4663575)
+- Raw files: `raw/CPNG/press-releases/2026-Q1-earnings-release.txt`; `raw/CPNG/transcripts/2026-Q1-earnings-call-transcript.txt`
+
+### What Changed
+
+- **Header**: Schema v2.8 → v2.14; Last Updated 2026-04-26 → 2026-05-10; Live Price $20.51 → $16.98
+- **Summary (Rule #18)**: Rebuilt as full 4-part v2.14 block — Thesis sentence + verb line; Scenario Table (5-yr terminal FY2030E); KPI Strip; Why/Why not/Next read bullets
+- **Key Stats Snapshot**: Added Q1 2026 actuals — $8.5B revenue (+8% CC); Product Commerce $7.2B (+5% CC); DO $1.3B (+28%); gross margin 27.0% (–228 bps); adj EBITDA $29M (0.3%); EPS –$0.15; active customers 23.9M; WOW 80% recovery; Q2 guide +9–10% CC / –300–400 bps EBITDA margin; next earnings Aug 4, 2026
+- **§1 (Annual Financial Metrics)**: Added Q1 2026 to quarterly trend table; updated FY2026E estimates to reflect post-Q1 consensus revision to $37.8B revenue; added FCF row (TTM $301M compressed from $1.025B)
+- **§2 (Revenue Mix)**: Added Q1 2026 segment actuals; updated Taiwan narrative with "cohort retention reminiscent of early Korea" quote
+- **§3 (Competitive Moat & Landscape — Rule #23/24)**: Added Taiwan peers (Shopee, Momo, PChome) and Farfetch peers (Net-a-Porter, Mytheresa); updated AliExpress as explicitly raised in Q1 Q&A; flagged Farfetch silence in Q1 transcript
+- **§4 (Management & Leadership — Rule #19)**: Added Q1 2026 verbatim quotes (Bom Kim, Gaurav Anand); updated RMC synthesis with 2026 "absorb underutilization" framing; added Greenoaks Form 4 as external intrinsic-value reference
+- **§5 (Strategic Growth Initiatives)**: Updated Korea recovery / Taiwan / Farfetch / WOW status from Q1 2026 data
+- **§6 (Key Risks — Rule #25)**: Rebuilt materiality filter — added EBITDA trough extension risk (Developing Offerings, Rule #25(d)); added Farfetch silent deterioration risk ("not priced in"); added CEO governance regulatory review risk; updated AliExpress threat as Q1-Q&A confirmed; dropped resolved/generic items; risk factor evolution condensed to prose per Rule #21
+- **§7 (Industry Macro)**: Minor updates — AliExpress cross-border growing Korean share now confirmed in Q1 Q&A; Taiwan TAM narrative unchanged
+- **§8 (Valuation)**: Updated multiples to $16.98 / $29.5B EV; updated peer table; assessment updated for EBITDA denominator trough compression
+- **§9 (Catalyst & Sentiment Tracker)**: Full refresh — live price $16.98 (–50% from 52-wk high); analyst consensus downgraded to Hold (4B/5H/2S) from prior Strong Buy; added Citi + DB downgrades; Barclays + BofA + MS maintain Buy/Overweight; short interest ≈2.9%; Greenoaks insider buy added; Q1 2026 earnings news added; next earnings catalyst Aug 4, 2026; prior "May 5, 2026" catalyst moved to delivered (no ✅ markup — it's a past event, captured in news)
+- **§10 (BAIT)**: Updated — B (Strong; –50% capitulation, two downgrades); A (Strong; WOW recovery, monthly trajectory, Greenoaks buy reference); I (Moderate; Taiwan cohort quote buried; Farfetch silence is info gap); T (Weak; near 52-wk low, fresh downgrades, 3-month wait for next catalyst). Verdict: Double overlap (B+A)
+- **§11 (Bull/Bear/Base)**: Extended to 5-year terminal (FY2030E) per Rule #26; Bear raised to 25% / $9 (deeper EBITDA trough + Farfetch risk); Base $22 at 45% (FY2030E recovery required); Bull $36 at 22%; Bull+ $48 at 8%
+- **§12 (PW EV)**: Recomputed — PW EV ≈$24 at $16.98; +41% / ≈+7%/yr; R/R ≈2.4:1 Bull/Bear; rises to ≈3.8:1 with Bull+. Entry zone at current price is viable but trough is extended
+- **§13 (Recommendation)**: Updated verb line — non-holder Watch (unchanged), holder Hold (unchanged but entry zone expanded lower to $14–18 from $16–19; Greenoaks $18.40–$18.68 is new reference floor); thesis-break triggers updated — added Farfetch negative YoY growth, stock below $16.74 technical break, WOW recovery plateau below 90%
+
+### Thesis Status
+- **Overall**: 🔴 **Weakened** vs. v2.8 — Q1 EBITDA collapse ($29M vs. $382M prior year) and Q2 guide (–300–400 bps EBITDA YoY) are materially more negative than prior thesis assumed; management deferred margin expansion to 2027; Farfetch absent from transcript. Moat signals (WOW 80% recovery, Taiwan cohort read) are intact but are not near-term earnings catalysts.
+- **BAIT delta**: Double overlap maintained (B+A); T downgraded from Weak-to-Moderate → Weak (two fresh downgrades; near 52-wk low; 3-month wait)
+- **Price target delta**: Bull $36 (unchanged) | Base $22 (unchanged) | Bear $9 (from $11 — deeper trough, Farfetch risk). PW EV $26 (3-yr at $20.51) → $24 (5-yr at $16.98)
+- **Catalyst & Sentiment delta**: Consensus downgraded to Hold (4B/5H/2S) from Strong Buy; Citi + DB downgrades; next catalyst Aug 4, 2026 (was May 5, 2026); Greenoaks 7.35M share purchase at $18.40–$18.68 is new insider signal
+
+### Recommendation
+- **For a non-holder**: 🟡 **Watch** — PW EV +41% / ≈+7%/yr at $16.98 is modestly attractive; entry zone $14–18; small starter position viable for patient holders; wait for Q2 (Aug 4) to confirm Korea trajectory
+- **For a current holder**: 🟡 **Hold** — moat intact; WOW recovery demonstrates structural stickiness; net cash funds all 2026 burn; Greenoaks insider buy at $18.40–$18.68 provides downside reference; do not exit; do not add aggressively until Q2 confirms trajectory
+
+**Next review trigger**: 📅 Q2 2026 earnings — August 4, 2026.
+
+---
+
 ## [2026-04-26] — v2.6+v2.7+v2.8 Retrofit + Q4 2025 Material Update
 
 **Trigger**: Scheduled v2.8 retrofit batch + integration of material Q4 2025 earnings (printed 2026-02-26) + 33M-account data incident + $1.2B voucher charge + Q1 2026 guide-down to +5–10% CC + 2026 Developing Offerings EBITDA loss guide $950M–$1B. The prior v2.5 page predated the Q4 2025 print and substantially mis-stated Q3 2025 figures (recorded $8.5B / $145M op income vs. actual $9.3B / $162M).

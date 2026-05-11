@@ -4,6 +4,52 @@
 
 ---
 
+## [2026-05-10] — Q1 2026 Earnings + v2.14 Schema Migration
+
+**Trigger**: Q1 2026 earnings released May 6, 2026 (post-close). Results reviewed May 10, 2026 under Workflow B. Combined with lazy v2.13 → v2.14 schema migration overlay.
+
+**Sources reviewed**:
+- [DoorDash Q1 2026 Earnings Press Release (May 6, 2026)](https://ir.doordash.com/news/news-details/2026/DoorDash-Releases-First-Quarter-2026-Financial-Results/default.aspx)
+- [DoorDash Q1 2026 Earnings Call Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/06/doordash-dash-q1-2026-earnings-transcript/)
+- [DoorDash Q1 2026 10-Q — StockTitan](https://www.stocktitan.net/sec-filings/DASH/10-q-door-dash-inc-quarterly-earnings-report-08d7260ab854.html)
+- [DoorDash IR — Wind-down of Deliveroo/Wolt in four countries (Feb 25, 2026)](https://ir.doordash.com/news/news-details/2026/DoorDash-to-Wind-Down-Deliveroo-and-Wolt-Operations-in-Four-Countries/default.aspx)
+- [Post-Q1 analyst actions — 247wallst.com](https://247wallst.com/investing/2026/05/07/doordash-just-got-two-price-target-cuts-is-the-q2-gov-beat-enough-to-salvage-the-quarter/)
+- [TipRanks — DASH analyst consensus post-Q1](https://www.tipranks.com/news/doordash-delivers-q1-earnings-beat-dash-stock-rallies-on-solid-order-guidance)
+- [stockanalysis.com — DASH live price May 8, 2026](https://stockanalysis.com/stocks/dash/)
+- [finviz.com — DASH short interest](https://finviz.com/quote.ashx?t=DASH&ta=1&p=d&ty=si)
+- [MarketBeat — DASH insider activity](https://www.marketbeat.com/stocks/NASDAQ/DASH/insider-trades/)
+- [MCA Insight — Deliveroo in-app reservations via SevenRooms (May 7, 2026)](https://www.mca-insight.com/delivery/deliveroo-launches-in-app-reservations/718563.article)
+
+### What Changed
+
+- **§0 Summary**: Full 4-part v2.14 rewrite. Thesis updated with Q1 beat; PW EV updated $130 → $133; entry zone $98–110 → $100–113; verbs unchanged (Avoid / Reduce); Next read updated to Q2 Aug 2026.
+- **Header**: Schema v2.13 → v2.14; Last Updated 2026-04-29 → 2026-05-10; price $169.33 → $163.93 (May 8 close).
+- **Key Stats Snapshot**: Full refresh with Q1 2026 actuals (revenue $4.04B, GOV $31.6B, orders 933M, EBITDA $754M, GAAP NI $184M, FCF $420M, record MAU); Q2 2026 guidance added; short interest updated 3.45% → 2.79%.
+- **§1 Annual Financial Metrics**: Q1 2026 actuals column added to annual table; quarterly table updated with Q1 2026 actuals row; guidance context replaced with actuals context + Q2 guidance context.
+- **§6 Key Risks**: "Margin disappointment vs. Q1 2026 guide" row de-risked (Q1 $754M beat); ✅ struck.
+- **§8 Valuation**: Multiples refreshed to $163.93 / ≈$71B market cap; analyst consensus updated to post-Q1 ($247.89 avg, 22B/7H).
+- **§9 Catalyst & Sentiment Tracker**: Full refresh — price, analyst consensus, post-Q1 analyst actions (Goldman $280 Buy, Piper $205 Neutral, BofA $272 Buy, Truist $330, Wells $200), short interest updated (2.79%), insider activity (net $33.2M sells, $0 buys past 3 mo), news events (Q1 print, Deliveroo country exits, SevenRooms integration), upcoming catalysts.
+- **§10 BAIT**: B/A/I updated post-Q1. Analytical case modestly strengthened (EBITDA beat, GOV guidance beat, agentic commerce positioning). Conviction remains Low-Moderate.
+- **§11 Scenarios**: Probabilities updated — Bear 20% → 15% (Q1 removes "always disappoints" narrative), Base 50% → 55%, Bull 30% unchanged.
+- **§12 PW EV**: Recomputed — $130 → **≈$133** (mechanical result of probability shift). Returns: –23% → –19% (5-yr from spot). Entry zone $98–110 → $100–113.
+- **§13 Recommendation**: Q1 trigger ✅ de-risked; next review trigger updated to Q2 2026 early August; zones updated ($100–$113 entry, $133–215 trim, ≥$215 exit).
+
+### Thesis Status
+
+- **Overall**: 🟢 **Modestly Strengthened** — Q1 EBITDA beat guide for first time in 3 quarters; Deliveroo reaffirmed at $200M FY2026 target and tracking to "highest growth rate in 4 years"; Q2 GOV guide dramatically above prior consensus; Feb 25 portfolio pruning (4-country exit) signals capital discipline. PW EV rises $130 → $133. Fundamental thesis intact; valuation discipline unchanged.
+- **BAIT delta**: All three active lenses (B, A, I) remain Moderate; analytical case modestly improved by Q1 beat. T remains Weak ($0 buyback executed). Conviction: Low-Moderate (unchanged).
+- **Price target delta**: Bull $215 (30%) unchanged | Base $110 (55%, up from 50%) | Bear $50 (15%, down from 20%). **PW EV: $130 → $133**.
+- **Catalyst & Sentiment delta**: Short interest declined 3.45% → 2.79% (–15% MoM); stock AH +12% then settled –4.3% May 8 = classic "pop-and-fade" pattern; analysts maintained Buy consensus with modest PT trims.
+
+### Recommendation
+
+- **For a non-holder**: 🔴 **Avoid** at $163.93; watch for entry below $113.
+- **For a current holder**: 🔴 **Reduce** — spot in Trim zone ($133 < $163.93 < Bull $215); lighten on bounces toward $180+. Q1 thesis modestly strengthened; do not exit fully, but do not add until $100–$113 entry zone.
+
+**Next review trigger**: Q2 2026 earnings — early August 2026. Key watch: adj EBITDA vs. $770–870M guide; first evidence of H2 grocery/retail gross-profit positivity; Deliveroo quarterly run-rate; any buyback execution.
+
+---
+
 ## [2026-04-29] — Schema v2.14 valuation lens correction (verbs flip Watch/Hold → Avoid/Reduce)
 
 **Trigger**: Schema v2.14 (Rule #26 extension) mandates a single 5-year forward PW EV lens with mechanical zone derivation (Entry ≤ PW EV − MoS; Trim = PW EV < spot < Bull; Exit ≥ Bull). DASH was the trigger case — prior write-up's "Attractive entry zone $140–155" sat *above* PW EV $130, an internally incoherent dual-lens framing (5-yr PW EV vs. 12–18-mo trader re-rating).

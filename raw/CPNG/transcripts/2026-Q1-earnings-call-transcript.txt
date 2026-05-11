@@ -1,0 +1,49 @@
+SOURCE: Coupang Q1 2026 Earnings Call Transcript
+Date: 2026-05-05, 5:30 PM ET
+Speakers: Bom Suk Kim (CEO), Gaurav Anand (CFO)
+Transcript source: https://www.fool.com/earnings/call-transcripts/2026/05/05/coupang-cpng-q1-2026-earnings-transcript/
+Secondary: https://finance.yahoo.com/markets/stocks/articles/coupang-cpng-q1-2026-earnings-035143906.html
+Retrieved: 2026-05-10
+
+KEY VERBATIM QUOTES:
+
+Bom Kim on monthly recovery trajectory:
+"Each month since [January] has improved on a year-over-year basis and the pace of improvement strengthened through February and March."
+
+Bom Kim on WOW membership recovery:
+"Through the end of April, we've closed nearly 80% of the decline in WOW memberships that followed the incident."
+
+Bom Kim on not dismantling capacity:
+"We're not going to dismantle [capacity] for temporary disruptions; rather, the company will absorb that temporary underutilization knowing that as growth recovers demand catches up."
+
+Bom Kim on Taiwan cohort behavior:
+"Cohort retention behavior is reminiscent of what we saw in the early years of Product Commerce in Korea."
+
+Bom Kim on Taiwan last-mile:
+"Our own last-mile delivery network...covers the vast majority of our volume and that coverage continues to expand."
+
+Gaurav Anand on WOW metrics:
+"New WOW sign-ups and churn have returned to historical stable levels."
+
+Gaurav Anand on voucher accounting:
+"From an accounting perspective, the vouchers are netted against the revenue. So they did have an impact this quarter on both revenue growth and margins."
+
+Gaurav Anand on Q2 guidance:
+"For Q2, we anticipate consolidated constant currency revenue growth of 9% to 10%."
+"We expect consolidated adjusted EBITDA margin year-over-year contraction of approximately 300 to 400 basis points for Q2."
+
+Gaurav Anand on confidence in recovery:
+"The levels of service and value we are able to consistently provide to customers...give us confidence that the recovery will continue to build through the year."
+
+Bom Kim on margin recovery timeline:
+"We expect annual margin expansion to resume next year [2027]."
+
+ANALYST Q&A TOPICS:
+- Margin recovery timing and 2027 target vs. 2025 levels
+- Competitive Chinese e-commerce entry into Korea (AliExpress/Temu)
+- CEO Bom Kim's designation in Korean governance structures (regulatory review)
+- Taiwan profitability inflection timing
+- WOW membership reactivation pace
+
+NOTE: Farfetch not mentioned in transcript per Motley Fool transcript.
+Active customers: 23.9M (+2% YoY; sequential decline reflects full-quarter measurement of December incident impact)

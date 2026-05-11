@@ -4,6 +4,39 @@
 
 ---
 
+## [2026-05-10] — Post-Q1 Price Drift + Schema v2.13 → v2.14 Confirmation
+
+**Trigger**: Lookback window 2026-05-05 → 2026-05-10. No earnings, 8-K, or strategic events. Continued post-Q1 share-price drift; Oppenheimer maintained Outperform with PT $175 (post-Q1 adjustment); new 52-wk low set in window.
+**Sources reviewed**:
+- [Yahoo Finance — SHOP quote (May 8, 2026)](https://finance.yahoo.com/quote/SHOP/)
+
+### Snapshot (May 8, 2026 close)
+- Price: **$110.51** (–5.9% vs. May 5 post-Q1 close of $117.45)
+- 52-wk range: **$99.01 – $182.19** (new low $99.01 set May 6–8 in window)
+- Percentile: **14th** (was 32nd at May 5)
+- Insider: no Form 4 >$1M in window
+- Analyst: Oppenheimer Outperform / PT $175 maintained; no new ratings cluster
+- News scanned and dismissed: media commentary (Cramer / Motley Fool buy-the-dip pieces) reiterating Q1 print — no new operating data.
+
+### What Changed
+- **Page Summary**: refreshed Live Price ($117.45 → $110.51); 52-wk low ($88.14 → $99.01); percentile (32nd → 14th); R/R re-computed (~11.3:1 → ~13:1); verbs upgraded — non-holder Watch / Initiate-on-weakness → **Initiate** (entry zone reached); holder Hold (add on retest) → **Add on continued weakness <$110**.
+- **Schema**: bumped v2.13 → v2.14. Page structure was already aligned (4-part Summary block, §3 Competitive Landscape present, §6 risks filtered, §11 5-yr terminal). Schema-tag bump confirming compliance — no structural rewrite.
+- **§9 Catalyst & Sentiment**: price + 52-wk range + percentile refreshed.
+- **§13 Recommendation**: entry zone $100–120 fully reached; verb upgrade reflected.
+
+### Thesis Status
+- **Overall**: **Strengthened** (verbs upgraded on entry-zone-reached at unchanged PW EV $212; R/R improved).
+- **BAIT delta**: Triple (B+A+I)-Moderate preserved; Behavioral signal strengthens on new 52-wk low.
+- **Price target delta**: No PW EV revision — Bull $252 / Base $193 / Bear $113 / Bull+ $325 unchanged from May 5 Q1 print.
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate** — spot $110.51 inside attractive entry zone ($100–120); R/R ~13:1; Bull+ tail to $325.
+- **For a current holder**: 🟢 **Add on continued weakness <$110** — thesis intact post-Q1.
+
+**Next review trigger**: Q2 2026 print (early August 2026), or material 8-K/insider activity, or Friday weekly cron.
+
+---
+
 ## [2026-05-05] — Earnings Q1 2026
 
 **Trigger**: Shopify reported Q1 2026 results pre-market May 5, 2026. Revenue and GMV beat consensus; Q2 guidance for high-20s% revenue growth drove –7.9% stock reaction. Full Workflow B Step 3a applied.

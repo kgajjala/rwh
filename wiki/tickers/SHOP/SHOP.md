@@ -1,22 +1,22 @@
 # SHOP — Shopify Inc.
 
-> **Schema**: v2.13
-> **Last Updated**: 2026-05-05
+> **Schema**: v2.14
+> **Last Updated**: 2026-05-10
 > **Status**: Active
-> **Live Price Verified**: **$117.45** at May 5, 2026 close (–7.9% on Q1 2026 earnings day; Q2 guide implied deceleration) ([Yahoo Finance](https://finance.yahoo.com/quote/SHOP))
+> **Live Price Verified**: **$110.51** at May 8, 2026 close (–5.9% further drift from $117.45 May 5 post-Q1 close; new 52-wk low $99.01 set in window) ([Yahoo Finance](https://finance.yahoo.com/quote/SHOP))
 > **Ticker Type**: Capital-light platform / commerce infrastructure
 
 ---
 
 ## Summary
 
-**Thesis** — World's largest independent commerce-infrastructure platform (Wide & Widening moat); Q1 2026 revenue +34% to $3.2B (beat), GMV +35% to $101B (beat), but Q2 guided to high-20s% growth — a step-down the market priced as deceleration (stock –7.9% on the day). At $117 the re-rating remains mid-flight; AI commerce metrics (orders +13×, B2B GMV +80%, international GMV +45%) remain structurally strong; hold/add on pullback.
+**Thesis** — World's largest independent commerce-infrastructure platform (Wide & Widening moat); Q1 2026 revenue +34% to $3.2B (beat), GMV +35% to $101B (beat), but Q2 guided to high-20s% growth — a step-down the market priced as deceleration (–7.9% May 5; continued drift to $110.51 / new 52-wk low $99.01 set May 6–8). Stock now squarely inside entry zone with AI commerce metrics (orders +13×, B2B GMV +80%, international GMV +45%) structurally strong; verb bias upgrades to Initiate.
 
-🟡 **Non-holder: Watch / Initiate on further weakness** ($105–115)  ·  🟡 **Holder: Hold** (add on $100–110 re-test)
+🟢 **Non-holder: Initiate** (entry zone reached)  ·  🟢 **Holder: Add** on continued weakness <$110
 
-| 52-wk range | Now | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
+| 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|---|
-| $88.14 — $182.19 | **$117.45** (32nd %ile) | $113 (3-yr) | $100–120 | $193 / $212 | $185–220 | $252 (Bull+ $325) | **~11.3:1** (rises to ~18:1 with Bull+ tail) |
+| $99.01 — $182.19 | **$110.51** (14th %ile) | $113 (5-yr) | $100–120 | $193 / $212 | $185–220 | $252 (Bull+ $325) | **~13:1** (rises to ~19:1 with Bull+ tail) |
 
 | BAIT | Moat | FY26E P/E | $2B buyback | AI orders (Q1) | Next catalyst |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 
 - Q1 2026 revenue +34% (beat consensus ~$3.09B); GMV +35% to $101B; AI-attributed orders +13× YoY — agentic commerce amplification thesis is showing up in operating data.
 - B2B GMV +80%, international GMV +45% (EMEA +48%), Shop Pay GMV +59% — multiple independent growth vectors compounding simultaneously.
-- $117 spot is inside the attractive entry zone; PW EV ~$212 = +80% over 3 years; Q2 guide deceleration appears FX/seasonality-driven, not structural (management cited Q1 benefited from >2pt FX tailwind vs. Q2 expected 0.5pt).
+- $110.51 spot is squarely inside the attractive entry zone (14th %ile of 52-wk range); PW EV ~$212 = +92% over 5 years; Q2 guide deceleration appears FX/seasonality-driven, not structural (management cited Q1 benefited from >2pt FX tailwind vs. Q2 expected 0.5pt).
 
 **⚠️ Why not**
 

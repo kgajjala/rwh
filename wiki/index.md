@@ -50,7 +50,7 @@ governs weekly cron coverage (Core Rule #15).
 | [RKT](tickers/RKT/RKT.md) | Active | Rocket Companies | Narrow-Emerging Wide | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 most-profitable in 4 yrs — EBITDA $738M (26% margin); **Mr. Cooper $400M synergies pulled 1 yr forward to end-2026**; Redfin attach 45% w/ "line of sight to 50%"; AI capacity $300B 2 yrs early; +10.88% to $15.69; PW EV $25.80 (5-yr); R/R 3.6:1; verb upgrade **Add / Hold-Add** |
 | [SBUX](tickers/SBUX/SBUX.md) | Active | Starbucks | Wide | Moderate | 2026-04-28 | Q2 FY26 turnaround confirmed — US comp +7.1% / txns +4.3% / op margin +110 bps; FY26 guide raised to ≥5%/$2.25–$2.45; 🟢 Initiate-on-dip / Hold |
 | [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Wide & Widening | High | 2026-04-26 | v2.9 — Triple BAIT (B+A+I-Strong); Q1 BEAT, FY26 guide raised >$5.80; Initiate / Add |
-| [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide & Widening | High | 2026-04-25 | v2.9 13-section refactor — Section 1 retired, Sections 3+4 merged; competitive landscape (Shopify 30% US, 3× Wix global); first-ever $2B buyback; Initiate / Add-Hold |
+| [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide & Widening | High | 2026-05-10 | **v2.13→v2.14** + Q1 2026 (May 5) — rev $3.17B (+34%), GMV $100.7B (+35%), FCF $476M (15% margin), AI orders +13× YoY; Q2 guide high-20s drove –7.9% to $117.45; continued drift to $110.51 (May 8) on new 52-wk low $99.01. PW EV $212; R/R ~13:1 (~19:1 w/ Bull+ tail); **Initiate / Add <$110** |
 | [SN](tickers/SN/SN.md) | Active | SharkNinja | Narrow & Widening | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 (May 6) beat-and-raise — rev $1.41B (+15.6%, intl +31.6% accelerating); EBITDA $235M; **FY26 raised** ($1.29–1.30B EBITDA / $6.00–6.10 EPS); SEA tariff 20%→10%; GM –100bps (1H drag, 2H recovery watch); PW EV $150 (5-yr); R/R 2.7:1; **Initiate / Hold-Add weakness**; entry $95–110 |
 | [SPOT](tickers/SPOT/SPOT.md) | Active | Spotify Technology | Wide & Widening | Moderate-High | 2026-05-01 | Post-Q1 6+-firm PT cluster (median $668→$607) compressed upside band; spot $442; PW EV $540 unchanged; Watch / Initiate $400–450 / Hold |
 | [TREX](tickers/TREX/TREX.md) | Active | Trex Company | Narrow & Widening | Moderate | 2026-05-10 | **v2.9→v2.14** + Q1 beat ($343M / $0.59 EPS / GM 40.5% +100bps); FY26 reaffirmed; capex cut $224M→$100–120M; **channel inventory 30–40 days vs. 90–120 historical = thesis-break trigger DE-RISKED ✅**; Arkansas plant 2027; PW EV $58 (5-yr); R/R 3.7:1; **Initiate / Hold (add <$37)** |
@@ -95,7 +95,7 @@ governs weekly cron coverage (Core Rule #15).
 | RKT | $15.60 | –35.9% | Double (B+A-Mod-Strong) | Initiate Spec. / Hold-Add; entry $11–14 |
 | SBUX | $97.28 (AH $102.68 +5.5%) | flat (AH near 52w high) | Double (A+I Mod-Strong) | 🟢 Initiate-on-dip / Hold (Add on dip); entry $90–97 |
 | SCHW | $91.71 | –14.7% | Triple-Strong (B+A+I), Mod T | **Initiate / Add**; entry $80–93 |
-| SHOP | $125.83 | –30.9% | Triple+ (B+A-Strong+I+T-Mod) | **Initiate / Add-Hold** — v2.7 5-yr 10-K + Pattern B letter arc STRENGTHENED |
+| SHOP | $110.51 (May 8) | –39.4% from $182 high | Triple (B+A+I-Mod) | **Initiate / Add <$110** — entry zone reached post-Q1 drift |
 | SN | $115.74 | –13.6% | Triple (A-Mod-Strong; B+I+T-Mod) | Initiate; entry $95–105 |
 | SPOT | $429.00 | –45.4% | Double-Strong (A-Mod-Strong, T-Weak-Mod, B+I-Mod) | Watch / Initiate $400–450; Hold |
 | TREX | $41.90 | –39% | Double (B+A-Mod) | Initiate (patient) / Hold; entry $30–42 |
@@ -149,4 +149,4 @@ governs weekly cron coverage (Core Rule #15).
 
 ---
 
-*Last full index refresh: 2026-05-10 PM (13-ticker Workflow B Q1 2026 cluster + v2.x→v2.14 schema migration: ABNB / ACLS / BRK.B / CELH / CPNG / DASH / FIG / LNTH / MP / RKT / SN / TREX / ZG; 40 tickers total). Prior: 2026-05-10 AM (HD + AMCR Workflow A dual-ingest + PG v2.9→v2.14 migration). Prior: 2026-05-06 (UBER v2.14 initial ingest); 2026-04-29 (HOOD v2.12; WING Q1 thesis-break).*
+*Last full index refresh: 2026-05-10 PM2 (SHOP v2.13→v2.14 + Q1 print cross-cutting propagation + post-Q1 drift to $110.51 with entry-zone-reached verb upgrade; LNTH Paused via Workflow C.1). Earlier 2026-05-10 PM: 13-ticker Workflow B Q1 2026 cluster (ABNB / ACLS / BRK.B / CELH / CPNG / DASH / FIG / LNTH / MP / RKT / SN / TREX / ZG). Earlier 2026-05-10 AM: HD + AMCR Workflow A dual-ingest + PG v2.9→v2.14 migration. 40 tickers total (39 Active / 1 Paused). Prior: 2026-05-06 (UBER v2.14); 2026-04-29 (HOOD v2.12; WING Q1 thesis-break).*

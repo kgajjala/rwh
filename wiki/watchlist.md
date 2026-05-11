@@ -3,7 +3,7 @@
 *Position-agnostic per v2.1 schema (Core Rule #3): no portfolio allocation, no target %, no form (stock/options) splits. This file is pure analysis.*
 
 *Updated by LLM agent after each full thesis cycle, earnings update, or v2.x schema migration.*
-*Last updated: 2026-05-10 PM (13-ticker Workflow B Q1 2026 cluster + v2.x→v2.14 schema migration: ABNB / ACLS / BRK.B / CELH / CPNG / DASH / FIG / LNTH / MP / RKT / SN / TREX / ZG. Key movements within ranks — ABNB verb upgrade Watch→Initiate on cross-sell quantification + FY26 raise; RKT verb upgrade Speculative→Add on Mr. Cooper synergies pulled 1 yr forward; CPNG downgraded to Watch/Hold on Korea margin reset + 2027 expansion defer; BRK.B softened to Initiate/Hold on $397B cash + only $235M Q1 buyback; DASH stays Avoid/Reduce despite first EBITDA-guide-beat in 3 quarters; FIG Anthropic Claude Design competitive shock; LNTH strategic pivot to pure radiodiagnostics; MP / SN / TREX / ZG all beat-and-derisk; CELH mixed.).*
+*Updated: 2026-05-10 PM2 — SHOP refresh (v2.13→v2.14 + Q1 print propagation + post-Q1 drift to $110.51; verbs Initiate / Add <$110; R/R ~13:1) and LNTH pause (Workflow C.1; moved to Paused Tickers footer). Earlier 2026-05-10 PM (13-ticker Workflow B Q1 2026 cluster + v2.x→v2.14 schema migration: ABNB / ACLS / BRK.B / CELH / CPNG / DASH / FIG / LNTH / MP / RKT / SN / TREX / ZG. Key movements within ranks — ABNB verb upgrade Watch→Initiate on cross-sell quantification + FY26 raise; RKT verb upgrade Speculative→Add on Mr. Cooper synergies pulled 1 yr forward; CPNG downgraded to Watch/Hold on Korea margin reset + 2027 expansion defer; BRK.B softened to Initiate/Hold on $397B cash + only $235M Q1 buyback; DASH stays Avoid/Reduce despite first EBITDA-guide-beat in 3 quarters; FIG Anthropic Claude Design competitive shock; LNTH strategic pivot to pure radiodiagnostics; MP / SN / TREX / ZG all beat-and-derisk; CELH mixed.).*
 *Prior 2026-05-10 AM: HD + AMCR Workflow A dual-ingest + PG Workflow B v2.9→v2.14 schema migration. HD added at #28b; AMCR added at #19c; PG row updated.*
 *Prior update: 2026-05-06 (UBER Workflow A ingest concurrent with Q1 2026 print — added at #4b: PW EV $195, R/R ~9:1, Initiate / Add at $77 entry zone).*
 *Prior weekly: 2026-05-01 (Weekly cron — 10 material events: AMZN/MSFT/BKNG/LLY/RIVN Q1 prints; EBAY Q1 + 4-firm PT-raise cluster; SPOT/WING post-Q1 analyst clusters; MP rally + analyst-action cluster; LULU governance/proxy overhang. Quiet for 27 others — see `outputs/weekly/2026-05-01_weekly_summary.md`.).*
@@ -16,7 +16,7 @@
 | Rank | Ticker | Conviction | BAIT Overlap | Asymmetry (PW EV vs. price) | Recommendation (non-holder / holder) | Next Catalyst |
 |------|--------|-----------|--------------|-----------------------------|--------------------------------------|---------------|
 | 1 | SCHW | High | Triple-Strong (B+A+I), Mod T | PW EV $108 vs. $91.71 = +18% (18mo) | **Initiate** / **Add** (post-Q1-beat 52-wk low) | Q2 2026 — July 16, 2026 |
-| 2 | SHOP | High | Triple+ (B+A-Strong, I, T-Mod) | PW EV $212 vs. $125.83 = +68% (3yr); ~10:1 R/R (Bull $252 / Bear $113); ~15:1 with Bull+ tail | **Initiate** / **Add-Hold** | Q1 2026 (~May 2026) |
+| 2 | SHOP | High (post-Q1 entry-zone reached) | Triple (B+A+I-Mod) | PW EV $212 vs. **$110.51** (May 8) = **+92% (5yr / ~14%/yr)**; **R/R ~13:1** (Bull $252 / Bear $113); ~19:1 with Bull+ tail $325. Q1 (May 5) rev +34% / GMV +35% / FCF margin 15% / AI orders +13×; Q2 high-20s guide drove –7.9%; continued drift to new 52-wk low $99.01 in window | 🟢 **Initiate** / 🟢 **Add <$110** | Q2 2026 — early Aug 2026 |
 | 3 | UNH | High (Q1 BEAT + CMS 2027 rate de-risk) | Quadruple (B-compressed, A-widened, I-Strong, T-Mod) | PW EV ~$447 vs. ≈$368 = +21% (24mo); R/R ~2.1:1 | **Initiate / Add** (FY26 >$18.25 + 2027 MA rate ≈+2%) | Q2 2026 (~late July) |
 | 4 | MSFT | High (post-Q3-print) | **Quadruple (B+A+T-Strong, I-Mod)** | PW EV $499 vs. $414.42 = +20% (3yr / ~6.3%/yr); R/R ~1.7:1 — Q3 trigger DE-RISKED ✅; $190B FY26 capex strengthens bear-input | **Initiate** / 🟢 **Hold-Add below $420** | Q4 FY26 — late July 2026 |
 | 4b | UBER | **High (Q1 2026 print + entry-zone reached)** | Triple (B+A+I-Strong, T-Mod) | PW EV ~$195 vs. $77.32 = **+153% (5yr / ~20%/yr)**; R/R **~9:1** (Bull $295 +283% / Bear $52 −32%); ~14:1 with Bull+ tail at $400 | **Initiate** / 🟢 **Add** (record $3B Q1 buyback at 52-wk low) | Q2 2026 — early Aug 2026 |
@@ -120,7 +120,7 @@
 | UNH | ≈$368 | $285 (15%) | $430 (50%) | $540 (35%) | ~$447 | +21% (24mo) |
 | SCHW | $91.71 | $70 (20%) | $108 (50%) | $130 (30%) | ~$108 | +18% (18mo) |
 | RKT | $15.60 | $9 (20%) | $22 (55%) | $35 (25%) | ~$22.65 | +45% (2-3yr) |
-| SHOP | $125.83 | $113 (15%) | $193 (45%) | $270 blend (40%) | ~$212 | +68% (3yr); ~10:1 R/R |
+| SHOP | $110.51 (May 8) | $113 (15%) | $193 (45%) | $270 blend (40%) | ~$212 | +92% (5yr); ~13:1 R/R (~19:1 w/ Bull+ tail $325) |
 | DASH | $176.78 | $50 (20%) | $110 (50%) | $215 (30%) | ~$130 | –26% (5yr); +43-57% to analyst median |
 | PG | $148.18 | $125 (30%) | $160 (45%) | $177.50 (25%) | ~$159 | +7% total (3yr) |
 | MSFT | $424.62 | $360 (20%) | $560 (50%) | $740 (30%) | ~$565 | +33% (3yr / ~10%/yr) |

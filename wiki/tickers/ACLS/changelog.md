@@ -4,6 +4,24 @@
 
 ---
 
+## [2026-05-18] — Paused (Workflow C.1)
+
+**Trigger**: User-directed pause — no longer tracking this ticker.
+**Last Active Baseline**: [2026-05-10 Q1 2026 Earnings + v2.4→v2.14 Schema Migration](#) (entry below).
+
+### What Changed
+- Status: Active → **Paused — since 2026-05-18**
+- ACLS removed from `wiki/watchlist.md` Conviction Ranking; added to Paused Tickers footer.
+- `wiki/index.md` Status column → Paused (Last Updated preserved at 2026-05-10 per Workflow C.1 step 5).
+- `README.md` Status column → Paused (Last Updated + Punchline preserved per Workflow C.1 step 5).
+
+### Thesis Status
+- **Overall**: Unchanged at pause-point. Q1 2026 modest beat + Veeco merger reframe already captured in the same-day Workflow B entry. China SAMR approval (sole Veeco-close gating item) remains on-record at pre-pause baseline; coverage frozen until resume.
+
+**Next review trigger**: Resume on user request (Workflow C.2 catch-up).
+
+---
+
 ## [2026-05-10] — Q1 2026 Earnings + v2.4→v2.14 Schema Migration
 
 **Trigger**: Q1 2026 earnings released May 7, 2026 post-close; Workflow B incremental + lazy v2.14 migration applied.

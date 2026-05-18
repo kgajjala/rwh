@@ -2,7 +2,7 @@
 
 > **Schema**: v2.14
 > **Last Updated**: 2026-05-10
-> **Status**: Active
+> **Status**: Paused — since 2026-05-18
 > **Live Price Verified**: **$163.03** at 2026-05-10 ([Yahoo Finance](https://finance.yahoo.com/quote/ACLS))
 > **Ticker Type**: Semiconductor capital equipment (ion-implantation specialist) — *pending all-stock merger with Veeco (VECO), expected to close 2H 2026 pending China SAMR approval only*
 

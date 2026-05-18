@@ -2,7 +2,7 @@
 
 **Schema**: v2.14
 **Last Updated**: 2026-05-10
-**Status**: Active
+**Status**: Paused — since 2026-05-18
 **Live Price**: **$141.49** (2026-05-08, post-Q1 print; +0.73% day) — [Yahoo Finance](https://finance.yahoo.com/quote/ABNB)
 **Ticker Type**: Capital-light platform / two-sided marketplace (alternative accommodations + experiences + hotels + services)
 

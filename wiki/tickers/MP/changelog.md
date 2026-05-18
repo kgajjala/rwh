@@ -4,6 +4,24 @@
 
 ---
 
+## [2026-05-18] — Paused (Workflow C.1)
+
+**Trigger**: User-directed pause — no longer tracking this ticker.
+**Last Active Baseline**: [2026-05-10 Q1 2026 Earnings + v2.14 Migration](#) (entry below).
+
+### What Changed
+- Status: Active → **Paused — since 2026-05-18**
+- MP removed from `wiki/watchlist.md` Conviction Ranking; added to Paused Tickers footer.
+- `wiki/index.md` Status column → Paused (Last Updated preserved at 2026-05-10 per Workflow C.1 step 5).
+- `README.md` Status column → Paused (Last Updated + Punchline preserved per Workflow C.1 step 5).
+
+### Thesis Status
+- **Overall**: Unchanged at pause-point. Q1 2026 record NdPr print + 10X groundbreaking + improved R/R already captured in the same-day Workflow B entry. Mine-to-magnet ramp through 2028 remains on-record at pre-pause baseline; coverage frozen until resume.
+
+**Next review trigger**: Resume on user request (Workflow C.2 catch-up).
+
+---
+
 ## [2026-05-10] — Q1 2026 Earnings + v2.14 Migration (Revenue +49% / NdPr record 917 MT / Adj. EPS $0.03 beat / 10X groundbreaking / HREE commissioning Q2 / R/R 1.7:1 → 2.5:1 / Thesis Strengthened)
 
 **Trigger**: Q1 2026 earnings reported May 7, 2026 (post-close) — revenue $90.6M (+49% YoY), Adj. EPS $0.03 vs. –$0.01 consensus, record NdPr production 917 MT (+63% YoY), 10X groundbreaking confirmed, HREE separation commissioning imminent; Wedbush raised PT $90 → $100 (May 8); CFO Corbett sold 20K shares at $75 (May 8); schema migrated v2.9 → v2.14.

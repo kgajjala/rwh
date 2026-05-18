@@ -3,7 +3,7 @@
 *Position-agnostic per v2.1 schema (Core Rule #3): no portfolio allocation, no target %, no form (stock/options) splits. This file is pure analysis.*
 
 *Updated by LLM agent after each full thesis cycle, earnings update, or v2.x schema migration.*
-*Updated: 2026-05-10 PM2 — SHOP refresh (v2.13→v2.14 + Q1 print propagation + post-Q1 drift to $110.51; verbs Initiate / Add <$110; R/R ~13:1) and LNTH pause (Workflow C.1; moved to Paused Tickers footer). Earlier 2026-05-10 PM (13-ticker Workflow B Q1 2026 cluster + v2.x→v2.14 schema migration: ABNB / ACLS / BRK.B / CELH / CPNG / DASH / FIG / LNTH / MP / RKT / SN / TREX / ZG. Key movements within ranks — ABNB verb upgrade Watch→Initiate on cross-sell quantification + FY26 raise; RKT verb upgrade Speculative→Add on Mr. Cooper synergies pulled 1 yr forward; CPNG downgraded to Watch/Hold on Korea margin reset + 2027 expansion defer; BRK.B softened to Initiate/Hold on $397B cash + only $235M Q1 buyback; DASH stays Avoid/Reduce despite first EBITDA-guide-beat in 3 quarters; FIG Anthropic Claude Design competitive shock; LNTH strategic pivot to pure radiodiagnostics; MP / SN / TREX / ZG all beat-and-derisk; CELH mixed.).*
+*Updated: 2026-05-18 — ABNB / ACLS / MP paused (Workflow C.1, user-directed; removed from Conviction Ranking + Price Targets Summary, moved to Paused Tickers footer). Prior 2026-05-10 PM2 — SHOP refresh (v2.13→v2.14 + Q1 print propagation + post-Q1 drift to $110.51; verbs Initiate / Add <$110; R/R ~13:1) and LNTH pause (Workflow C.1; moved to Paused Tickers footer). Earlier 2026-05-10 PM (13-ticker Workflow B Q1 2026 cluster + v2.x→v2.14 schema migration: ABNB / ACLS / BRK.B / CELH / CPNG / DASH / FIG / LNTH / MP / RKT / SN / TREX / ZG. Key movements within ranks — ABNB verb upgrade Watch→Initiate on cross-sell quantification + FY26 raise; RKT verb upgrade Speculative→Add on Mr. Cooper synergies pulled 1 yr forward; CPNG downgraded to Watch/Hold on Korea margin reset + 2027 expansion defer; BRK.B softened to Initiate/Hold on $397B cash + only $235M Q1 buyback; DASH stays Avoid/Reduce despite first EBITDA-guide-beat in 3 quarters; FIG Anthropic Claude Design competitive shock; LNTH strategic pivot to pure radiodiagnostics; MP / SN / TREX / ZG all beat-and-derisk; CELH mixed.).*
 *Prior 2026-05-10 AM: HD + AMCR Workflow A dual-ingest + PG Workflow B v2.9→v2.14 schema migration. HD added at #28b; AMCR added at #19c; PG row updated.*
 *Prior update: 2026-05-06 (UBER Workflow A ingest concurrent with Q1 2026 print — added at #4b: PW EV $195, R/R ~9:1, Initiate / Add at $77 entry zone).*
 *Prior weekly: 2026-05-01 (Weekly cron — 10 material events: AMZN/MSFT/BKNG/LLY/RIVN Q1 prints; EBAY Q1 + 4-firm PT-raise cluster; SPOT/WING post-Q1 analyst clusters; MP rally + analyst-action cluster; LULU governance/proxy overhang. Quiet for 27 others — see `outputs/weekly/2026-05-01_weekly_summary.md`.).*
@@ -24,7 +24,6 @@
 | 6 | LLY | High | Triple (A+I-Strong, B-Mod) | PW EV $1,264 vs. $974.39 = +30% (18mo / ~19%/yr); R/R ~2.9:1 | **Initiate** / 🟢 **Hold-Add**; entry $830–900 | Q2 2026 — late July 2026 |
 | 7 | INTU | Moderate-High | Triple (B+A-Strong, I-Mod) | PW EV $566 vs. $395.95 = +43% (3yr) | **Initiate** / **Add**; entry $340–420 | Q3 FY26 — May 21, 2026 |
 | 8 | ADBE | High | Triple (B+A-Strong, I-Mod, T-Weak→Mod) | PW EV ~$348 vs. $245.44 = +42% (3yr / ~12.4%/yr); R/R ~3.1:1 | **Initiate** / **Add aggressively below $230** | Q2 FY26 — June 2026 (est.) |
-| 9 | MP | Moderate-High (Q1 huge beat) | Triple (A+I-Strong, B-Mod, T-Mod) | PW EV $86 (5-yr); R/R ~2.5:1 — Q1 NdPr record 917 MT (+63% YoY), 10X groundbreaking confirmed, HREE Q2 commissioning | **Initiate on dips $55–68** / **Hold** | Q2 2026 — Aug 2026 |
 | 10 | NKE | Moderate-High | Triple (B-Strong, A-Mod-Strong, I-Mod) | PW EV ~$60.50 + 11% cumulative div = ~14%/yr (3yr); R/R ~3.6:1 | **Initiate** / **Add**; entry $40–48 | Q4 FY2026 — late June 2026 |
 | 11 | ZG | Moderate (post-Q1; FTC overhang) | Triple (B+A-Strong, I-Mod) | PW EV $75 (5-yr); R/R ~4:1 — Q1 beat-and-buyback ($626M record) + Showcase 4.3%; FTC motion-to-dismiss DENIED May 7 escalates risk | **Initiate <$50** / **Hold (selective add $38–45)** | Q2 2026 — early Aug 2026 |
 | 12 | SN | Moderate-High (Q1 beat-and-raise) | Triple (A-Mod-Strong, B+I+T-Mod) | PW EV $150 (5-yr); R/R 2.7:1 — Q1 (May 6) +15.6% rev / intl +31.6% accelerating; FY26 raised; SEA tariff 20%→10% | **Initiate / Hold-Add weakness**; entry $95–110 | Q2 2026 — Aug 2026 |
@@ -43,7 +42,6 @@
 | 22 | ONON | Moderate | Double (B-Strong + A-Mod) | PW EV $53 vs. $36.25 = +46% (3yr); analyst median $60 | **Initiate** / **Add**; entry $31–40 | Q1 2026 — May 12, 2026 |
 | 23 | FIG | Moderate (Claude Design overhang) | Triple (B+A+I) | PW EV $28 (5-yr); R/R ~5:1 — Anthropic Claude Design (Apr 17) elevates AI-disruption to named threat; short int 20.67% (+27.5% MoM); Director Reed bought $36.5M @ $24–26 | **Initiate (small, contrarian)** / **Hold** | Q1 — May 14, 2026 |
 | 24 | WING | **Lower-Moderate** (post-Q1 thesis-break + 5-firm cluster confirmed) | Triple (B-Strong, A-Mod, **T-Weak**) | PW EV ~$185 vs. ~$171 = +8% (18mo / ~5%/yr); R/R ~3:1 (improves at lower entry) | **Watch / Reduce on bounce >$180**; entry $135–150 | Q2 2026 — late July 2026 |
-| 25 | ABNB | Moderate (Q1 verb upgrade) | Double (A+T-Mod) | PW EV $189 (5-yr); R/R 5.5:1 — Q1 rev +18% beat / GBV +19% / FCF $1.7B; FY26 raised low-to-mid teens / ≥35% EBITDA; letter quantified cross-sell (25% Experiences→stays; 55% hotel→home) | **Initiate / Hold** (verb upgrade Watch→Initiate); entry $115–130 | May 20 Summer Release; Q2 — Aug 2026 |
 | 27 | LULU | Moderate (governance overhang adds) | Double (B-Strong + A-Mod) | PW EV $192 vs. $137.98 (new 52-wk low $136.92) = +39% (3yr / ~12%/yr); R/R ~2.6:1 — Wilson DFAN14A proxy fight + Bracey board appointment | **Watch / Initiate <$135 / Hold** | Q1 FY26 — early June 2026 |
 | 28 | EBAY | Moderate (post-Q1 R/R compressed) | Single | PW EV ~$113 vs. $103.48 = +9% (18mo); R/R ~1.0:1 — Q1 beat + 4-firm PT-raise cluster, but Q2 deceleration | **Watch / selective Initiate / Hold-Trim into $115+**; entry $78–90 | Q2 2026 — late July 2026 |
 | 28b | HD | Moderate-High (housing-cyclical entry) | Double (B+A) | PW EV $377 vs. $321.75 = **+17%** (5yr / ~6.3%/yr incl. 2.9% div); R/R **~2:1** (Bull $530 / Bear $215); 9th %ile of 52-wk range | **Initiate <$325 / Hold**; entry $295–325 | Q1 FY2026 — May 19, 2026 |
@@ -52,7 +50,6 @@
 | 31 | KGS | Low-Moderate | Double (A+I+T-Mod) | PW EV ~$72 vs. $65.98 = +9% + 3% div ≈ +7%/yr; R/R ~1:1 | **Watch / Hold**; entry $50–55 | Q1 — May 11, 2026 |
 | 32 | DASH | Lower-Moderate (post-Q1 EBITDA-guide-beat thesis-mod-strengthened) | Double (B+A+I, Mod) | PW EV $133 (5-yr); R/R **0.4:1** — Q1 EPS beat / rev miss; EBITDA $754M first guide beat in 3 quarters; Q2 GOV $32.4–33.4B vs. ~$28B consensus; Deliveroo "highest growth in 4 yrs" | **Avoid / Reduce**; Watch <$113 | Q2 2026 — Aug 2026 |
 | 33 | DELL | Low-Moderate | Single | PW EV $229 ≈ flat; insider selling | **Watch** | Q1 FY27 (~May 2026) |
-| 34 | ACLS | Low-Moderate (post-Q1) | Double (A-Mod-Strong, T-Mod) | PW EV $180 (5-yr); R/R ~2:1 spot / ~3:1 entry — Q1 beat ($199M / $0.72 EPS); Q2 guide above ($205M / $0.90); FY26 reaffirmed; B. Riley PT $150→$180; Veeco merger awaits China SAMR | **Watch / Hold**; entry $95–115 | Q2 2026 — Aug 2026 |
 | 35 | PG | Moderate | Low-Moderate (post-Q3 print + v2.14 migration) | PW EV $159.50 vs. $147.90 = +8% incl. ~3% div; R/R 1.3:1 at spot, **2.7:1 below $140** | **Watch / Hold; Initiate <$140**; entry $135–140 | Q4 FY2026 — late July 2026 |
 
 **Ranking rationale notes (2026-05-01 weekly update)**:
@@ -129,7 +126,6 @@
 | INTU | $395.95 | $300 (20%) | $560 (50%) | $800 (30%) | ~$566 | +43% (3yr) |
 | NFLX | $93.24 | $70 (25%) | $115 (50%) | $160 (25%) | ~$119.50 | +28% (3yr); R/R ~2.4:1 |
 | RIVN | $16.54 | $7 (25%) | $18 (50%) | $32 (25%) | ~$18.50 | +12% (2yr); R/R ~3.4:1 |
-| MP | $60.73 | $35 (20%) | $80 (50%) | $135 (30%) | ~$85 | +40% (3yr) |
 | NKE | $44.69 | $32 (25%) | $58 (50%) | $90 (25%) | ~$60.50 + 11% div = ~14%/yr | R/R ~3.6:1 |
 | ONON | $36.25 | $26 (25%) | $50 (50%) | $80 (25%) | ~$53 | +46% (3yr) |
 | ZG | $45.41 | $32 (20%) | $65 (50%) | $115 (30%) | ~$68 | +50% (3yr); R/R ~3:1 |
@@ -140,8 +136,6 @@
 | RH | $137.51 | $60 (25%) | $230 (50%) | $400 (25%) | ~$208 | +51% (4yr); R/R ~3.4:1 |
 | LULU | $143.80 | $115 (30%) | $200 (50%) | $325 (20%) | ~$192 | +34% (3yr) |
 | KGS | $65.98 | $48 (25%) | $72 (50%) | $90 (25%) | ~$72 | +9% + 3% div |
-| ACLS | $143.13 | $80 (20%) | $150 (50%) | $215 (30%) | ~$155.50 | +9% (3yr); R/R ~1.1:1 |
-| ABNB | $142.82 | $95 (20%) | $160 (50%) | $210 (30%) | ~$162 | +13% (3yr); R/R ~3.4:1 |
 | SBUX | $97.28 | $78 (15%) | $125 (45%) | $160 (40%) | ~$132 | +36% + 2.5% div (3yr) |
 | SPOT | $429.00 | $370 (15%) | $500 (40%) | $660 blend (40%) | ~$540 | +26% (12mo); R/R ~3.2:1 |
 
@@ -178,4 +172,7 @@ Conviction Ranking and the Friday weekly cron until resumed via
 
 | Ticker | Paused Since | Reason | Frozen Verbs (pre-pause) | Notes |
 |--------|--------------|--------|--------------------------|-------|
+| ABNB | 2026-05-18 | User-directed pause; no longer tracking | Initiate / Hold | Pre-pause state: PW EV $189 (5-yr), R/R 5.5:1; entry $115–130. Q1 2026 beat-and-raise + cross-sell quantified; May 20 Summer Release optionality unmonitored until resume. |
+| ACLS | 2026-05-18 | User-directed pause; no longer tracking | Watch / Hold | Pre-pause state: PW EV $180 (5-yr), R/R ~2:1 spot / ~3:1 entry $95–115. Q1 beat + Q2 guide above; Veeco merger awaiting China SAMR — unmonitored until resume. |
 | LNTH | 2026-05-10 | User-directed pause; no longer tracking | Watch / Hold | Pre-pause state: PW EV $96 (5-yr), R/R 1.5:1 spot / 3.6:1 at entry $65–78. Strategic pivot to pure radiodiagnostics under way; LNTH-2501 PDUFA June 29 / MK-6240 Aug 13 binaries unmonitored until resume. |
+| MP | 2026-05-18 | User-directed pause; no longer tracking | Initiate dips $55–68 / Hold | Pre-pause state: PW EV $86 (5-yr), R/R 2.5:1. Q1 huge beat (NdPr 917 MT record +63% YoY) + 10X groundbreaking; mine-to-magnet ramp through 2028 unmonitored until resume. |

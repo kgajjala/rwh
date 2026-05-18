@@ -9,7 +9,8 @@ ONON, PG, RH, RKT, SBUX, SCHW, SN, TREX, TSLA, UNH, WING, ZG); SHOP and DASH at
 v2.9 from earlier sessions. 11 tickers preserved at v2.8 per user direction
 (ABNB, ACLS, ADBE, AMZN, BKNG, BRK.B, CELH, CPNG, DELL, EBAY, FIG). Single
 consolidated `[TICKER].md` per ticker. Position-agnostic. Active / Paused status
-governs weekly cron coverage (Core Rule #15).
+governs weekly cron coverage (Core Rule #15). 4 tickers Paused as of
+2026-05-18 (ABNB, ACLS, LNTH, MP — user-directed, Workflow C.1).
 
 ---
 
@@ -19,8 +20,8 @@ governs weekly cron coverage (Core Rule #15).
 
 | Ticker | Status | Company | Moat | Conviction | Last Updated | Summary |
 |--------|--------|---------|------|-----------|--------------|---------|
-| [ABNB](tickers/ABNB/ABNB.md) | Active | Airbnb | Wide | Moderate | 2026-05-10 | **v2.4→v2.14** + Q1 2026 — rev +18% beat, GBV +19%, FCF $1.7B, FY26 raised; cross-sell quantified; verb upgrade Watch→**Initiate**; PW EV $189 (5-yr); R/R 5.5:1 |
-| [ACLS](tickers/ACLS/ACLS.md) | Active | Axcelis Technologies | Narrow | Low-Moderate | 2026-05-10 | **v2.4→v2.14** + Q1 beat ($199M / $0.72 EPS) + Q2 guide above; FY26 reaffirmed; B. Riley PT $150→$180; PW EV $180 (5-yr); R/R ~2:1; **Watch / Hold**; entry $95–115 |
+| [ABNB](tickers/ABNB/ABNB.md) | Paused | Airbnb | Wide | Moderate | 2026-05-10 | **v2.4→v2.14** + Q1 2026 — rev +18% beat, GBV +19%, FCF $1.7B, FY26 raised; cross-sell quantified; verb upgrade Watch→**Initiate**; PW EV $189 (5-yr); R/R 5.5:1 |
+| [ACLS](tickers/ACLS/ACLS.md) | Paused | Axcelis Technologies | Narrow | Low-Moderate | 2026-05-10 | **v2.4→v2.14** + Q1 beat ($199M / $0.72 EPS) + Q2 guide above; FY26 reaffirmed; B. Riley PT $150→$180; PW EV $180 (5-yr); R/R ~2:1; **Watch / Hold**; entry $95–115 |
 | [ADBE](tickers/ADBE/ADBE.md) | Active | Adobe | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate / Add |
 | [AMCR](tickers/AMCR/AMCR.md) | Active | Amcor plc | Narrow-and-widening (post-Berry duopoly) | Moderate | 2026-05-10 | **v2.14 ingest** — global packaging at $39.93 / 9.4× FY26E P/E + 6.51% div (51+ yr unbroken); Berry $650M synergy bet; Double BAIT (B+A); PW EV $57 (+43%); R/R ~6:1; Initiate <$44 / Hold |
 | [AMZN](tickers/AMZN/AMZN.md) | Active | Amazon | Wide | High | 2026-05-01 | Q1 FY26 — AWS +28%, EPS +70% beat; ATH $265; R/R 1.4:1 → Watch / Hold |
@@ -39,7 +40,7 @@ governs weekly cron coverage (Core Rule #15).
 | [LLY](tickers/LLY/LLY.md) | Active | Eli Lilly | Wide | High | 2026-05-01 | Q1 +56% rev / Mounjaro +125% / FY26 guide raised; Triple BAIT; Initiate / Hold-Add at ~$974 |
 | [LNTH](tickers/LNTH/LNTH.md) | Paused | Lantheus Holdings | Narrow | Moderate | 2026-05-10 | **v2.9→v2.14** + Q1 rev $377M beat / EPS $1.46 beat; PYLARIFY –6.5% net price; FY26 reaffirmed; **strategic pivot to pure radiodiagnostics — exploring alternatives for radiotherapeutic pipeline**; LNTH-2501 PDUFA Jun 29 / MK-6240 Aug 13; PW EV $96 (5-yr); R/R 1.5:1 spot / 3.6:1 entry; **Watch / Hold**; entry $65–78 |
 | [LULU](tickers/LULU/LULU.md) | Active | Lululemon Athletica | Narrow | Moderate | 2026-05-01 | Wilson DFAN14A proxy fight + Bracey board addition; new 52-wk low ~$138; Watch / Initiate <$135 / Hold |
-| [MP](tickers/MP/MP.md) | Active | MP Materials | Wide-Strategic | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 huge beat (rev $90.6M +49%, NdPr 917 MT Q1 record, +63% YoY; Magnetics +306%); **10X campus groundbreaking confirmed with full DoW support**; HREE separation commissioning Q2; cash $1.74B; Wedbush PT $90→$100; PW EV $86 (5-yr); R/R 2.5:1; **Initiate dips $55–68 / Hold** |
+| [MP](tickers/MP/MP.md) | Paused | MP Materials | Wide-Strategic | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 huge beat (rev $90.6M +49%, NdPr 917 MT Q1 record, +63% YoY; Magnetics +306%); **10X campus groundbreaking confirmed with full DoW support**; HREE separation commissioning Q2; cash $1.74B; Wedbush PT $90→$100; PW EV $86 (5-yr); R/R 2.5:1; **Initiate dips $55–68 / Hold** |
 | [MSFT](tickers/MSFT/MSFT.md) | Active | Microsoft | Wide | High | 2026-05-01 | Q3 FY26 — Azure +40%, EPS +23%; FY26 capex $190B drove –5–6% sell-off to ~$414; Hold/Add <$420 |
 | [NFLX](tickers/NFLX/NFLX.md) | Active | Netflix | Wide & Widening | Moderate | 2026-04-26 | v2.9 — Triple BAIT (B+A+I-Mod); FY26 op-margin 31.5%; Initiate (small, scaled); entry $80–88 |
 | [NKE](tickers/NKE/NKE.md) | Active | Nike | Wide | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT; CEO Hill $1M buy; 3.67% yield 20-yr high; Initiate / Add at 12-yr low |
@@ -66,8 +67,8 @@ governs weekly cron coverage (Core Rule #15).
 
 | Ticker | Price (4/24–4/26/26) | vs. 52-wk High | BAIT | Recommendation (non-holder / holder) |
 |--------|-----------------|----------------|------|--------------------------------------|
-| ABNB | $142.82 | near high | Single (B-Mod) | Watch / Hold; entry $120–130 |
-| ACLS | $143 | near high (+186% TTM) | Single (A-Mod) | Watch / Hold |
+| ABNB | *(Paused 2026-05-18)* | — | — | — |
+| ACLS | *(Paused 2026-05-18)* | — | — | — |
 | ADBE | $245.44 | –42% | Triple | Initiate / Add |
 | AMZN | ~$247 | mid-range | Triple | Initiate / Hold-Add |
 | BKNG | $180.25 (post-split) | –22.8% | Triple (B+A-Strong) | Initiate / Hold-Add |
@@ -84,7 +85,7 @@ governs weekly cron coverage (Core Rule #15).
 | LLY | $883.96 | –22.0% | Triple (A+I-Strong, B-Mod) | Initiate / Hold-Add on pullback; entry $750–850 |
 | LNTH | *(Paused 2026-05-10)* | — | — | — |
 | LULU | $143.80 | –57.7% (52-wk low) | Double (B-Strong + A-Mod) | Watch / Initiate <$135 / Hold |
-| MP | $60.73 | –39% from high | Triple (A+I-Strong, B-Mod) | Initiate / Hold-Add; entry $48–62 |
+| MP | *(Paused 2026-05-18)* | — | — | — |
 | MSFT | $424.62 | –23.5% | **Quadruple (B+A+T-Strong, I-Mod)** | Initiate / Hold-Add; entry $380–440 |
 | NFLX | $93.24 (post-split) | –30.5% | Triple (B+A+I-Mod) | Initiate (small, scaled); entry $80–88 |
 | NKE | $44.69 | –44.3% (12-yr low) | Triple (B-Strong, A-Mod-Strong) | Initiate / Add; entry $40–48 |

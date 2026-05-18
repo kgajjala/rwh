@@ -1,16 +1,16 @@
 # RIVN — Rivian Automotive, Inc.
 
-> **Schema**: v2.9
-> **Last Updated**: 2026-05-01
+> **Schema**: v2.14
+> **Last Updated**: 2026-05-18
 > **Status**: Active
-> **Live Price Verified**: **$15.15** at May 1, 2026 (intraday; [Yahoo Finance](https://finance.yahoo.com/quote/RIVN); −8.4% from $16.54 prior close on Q1 print reaction)
+> **Live Price Verified**: **$13.79** at May 15, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/RIVN), corroborated [StockAnalysis](https://stockanalysis.com/stocks/RIVN/); −5.0% session on May 15 capacity-cut + mixed-shelf news; **−9.0% from the $15.15 May-1 baseline** and **−16.6% from the $16.54 pre-Q1-print close**)
 > **Ticker Type**: Pre-scale auto OEM + capital-light software/JV optionality (capital-intensive vehicle business + Volkswagen software JV throwing off high-margin license fees)
 
 ---
 
 ## Summary
 
-**Thesis (1–2 sentences)**: Q1 2026 print (Apr 30) delivered a clean EPS beat (−$0.33 vs. −$0.63 Street), R2 saleable status with employee deliveries underway, AND a $4.5B DOE loan for a Georgia plant (capacity raised 50% to 300K, total US footprint 515K) plus $2.55B confirmed VW + Uber 2026 capital — collectively pushing liquidity to ~$8B and materially de-risking the dilution tail; market focus has rotated from cash-burn to R2 demand, but the asymmetry is now stronger at lower spot.
+**Thesis (1–2 sentences)**: The Q1 2026 EPS beat and R2 saleable status remain intact, but the May 15 disclosures — Georgia capacity cut 400K→300K, DOE loan renegotiated **down** $6.57B→$4.5B with only one phase funded, R2-Georgia slipped to **late 2028**, and a fresh automatic mixed-shelf (S-3) — re-opened the dilution/financing question that the May-1 narrative had treated as resolved. **Share count is up ~50% since the Nov-2021 IPO (~850M→~1.28B)**, with VW now the largest holder at 15.9% via milestone-gated equity tranches and ~$2.5B of contingent VW capital plus a $3.2B convertible stack and ~$800M/yr SBC still ahead — dilution is a real, ongoing cost but a *priced-and-understood* one (the auto-business-near-zero valuation already embeds it), not a thesis-breaker.
 
 🟡 Non-holder: **Watch** · 🟡 Holder: **Hold**
 
@@ -18,27 +18,27 @@
 
 | 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|---|
-| $11.57 – $22.69 | $15.15 (~32%ile) | $7 | $12–14 | $19 / **$21.10** | $22–26 | $32 | **2.1:1** |
+| $11.57 – $22.69 | $13.79 (~20%ile) | $7 | $11–13 | $18 / **$19.90** | $22–26 | $30 | **2.4:1** |
 
 ### KPI Strip
 
-| BAIT | Moat | FY26E EV/Rev | Liquidity | Short Int. | Next Catalyst |
+| BAIT | Moat | FY26E EV/Rev | Dilution since IPO | Short Int. | Next Catalyst |
 |---|---|---|---|---|---|
-| Triple lens (Mod) | Narrow | ~1.4× | ~$8B (post-DOE + $2.55B confirmed) | 13.55% float | Q2 2026 earnings (Aug) |
+| Triple lens (Mod) | Narrow | ~1.4× | **~+50% (~850M→~1.28B sh)** | ~13% float *[carry]* | Q2 2026 earnings (Aug) |
 
 ### Why / Why not / Next read
 
 🟢 **Why bullish**:
 - Q1 EPS beat ~$0.30 vs. Street; deliveries 10,365 / production 10,236 — execution intact
-- DOE $4.5B loan + $2.55B VW + Uber 2026 capital → ~$8B liquidity → dilution risk DE-RISKED
-- R2 saleable status reached; employee deliveries underway; customer launch on schedule
+- VW now largest shareholder (15.9%) — milestone tranches are validation, not distress dilution
+- R2 saleable status reached; employee deliveries underway; ~$8B liquidity even post-DOE renegotiation
 
 ⚠️ **Why not**:
-- Stock −8% on the print as focus rotated to R2 demand commentary — early softness signal
+- May 15 mixed-shelf + DOE loan cut + Georgia capacity 400K→300K + R2-Georgia slip to 2028 — financing/dilution overhang re-opened
+- Share count **+50% since IPO**; ~$3.2B converts + ~$2.5B contingent VW + ~$800M/yr SBC still ahead
 - Auto segment still loss-making; positive auto GM by exit-2026 commitment still pending evidence
-- Georgia plant capacity bump to 300K raises execution surface area; 515K US footprint is ambitious
 
-📅 **Next read**: **Q2 2026 earnings (~early August)** — first quarter with R2 customer deliveries booking; cash trajectory post-DOE drawdown; VW JV cadence.
+📅 **Next read**: **Q2 2026 earnings (~early August)** — first quarter with R2 customer deliveries booking; cash trajectory post-DOE drawdown; VW JV cadence; any S-3 takedown.
 
 ---
 
@@ -64,13 +64,15 @@ The bull case requires: (a) R2 deliveries hitting 20K+ in 2026 at improving GM, 
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$15.15** | May 1, 2026 intraday ([Yahoo Finance](https://finance.yahoo.com/quote/RIVN)) |
-| Previous Close | $16.54 | −8.4% session post-Q1 print |
+| Live Price | **$13.79** | May 15, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/RIVN) / [StockAnalysis](https://stockanalysis.com/stocks/RIVN/)) |
+| Previous Close | $14.52 | −5.0% session on May 15 capacity-cut + mixed-shelf news |
+| Move vs. baselines | −9.0% vs. $15.15 (May 1) · −16.6% vs. $16.54 (pre-print) | |
 | 52-Week High | $22.69 | |
 | 52-Week Low | $11.57 | |
-| % From 52-Wk High | –33.2% | |
-| % Above 52-Wk Low | +30.9% | |
-| Market Cap | ~$18.8B | ~1.24B diluted shares |
+| % From 52-Wk High | –39.2% | |
+| % Above 52-Wk Low | +19.2% | |
+| Market Cap | ~$17.65B | ~1.28B shares ([StockAnalysis](https://stockanalysis.com/stocks/RIVN/)) |
+| Shares Out / Dilution since IPO | ~1.28B / **~+50%** | IPO ~850M (Nov 2021) → ~1.28B (May 2026); see §6 Dilution deep-dive |
 | Avg Daily Volume | 28.8M | High retail engagement |
 | Cash + Liquidity (post-Q1) | **~$8B** | $4.5B DOE loan + $2.55B confirmed VW + Uber 2026 capital + balance sheet cash |
 | Q1 2026 Revenue | **$1.4B** (+11% YoY) | Q1 print Apr 30 |
@@ -83,9 +85,10 @@ The bull case requires: (a) R2 deliveries hitting 20K+ in 2026 at improving GM, 
 | FY2026 Delivery Guide | **62K – 67K** | Includes 20–25K R2 units |
 | FY2026 Adj EBITDA Guide | **–$2.10B to –$1.80B** | Continued investment cycle |
 | FY2026 Capex Guide | **$1.95B – $2.05B** | R2 tooling + Normal expansion |
-| DOE Loan | **$4.5B** for Georgia plant | Capacity 200K → **300K** (+50%); total US footprint **515K** |
-| VW JV Total | up to $5.8B by 2027 | Milestone-gated; cumulative tranches >$2B |
-| Short Interest | ~13.55% of float (141.96M sh) | High; days-to-cover 5.49 |
+| DOE Loan | **$4.5B** for Georgia plant ([renegotiated DOWN](https://stockstotrade.com/news/rivian-automotive-inc-rivn-news-2026_05_15/) from $6.57B) | Georgia capacity cut **400K → 300K**; only one phase funded; R2-Georgia slipped to **late 2028** |
+| VW JV Total | up to $5.8B by 2027 | ~$3.3B deployed; VW now **largest holder, 15.9% (209.8M sh)** ([Electrek 2026-05-05](https://electrek.co/2026/05/05/volkswagen-rivian-stake-15-percent-largest-shareholder/)) |
+| Convertible notes | **$3.225B** principal | 2029 Green $1.5B + 2030 Green $1.725B ([Q1 2026 10-Q](https://www.stocktitan.net/sec-filings/RIVN/10-q-rivian-automotive-inc-de-quarterly-earnings-report-2ac691feb45e.html)) |
+| Short Interest | ~13% of float *[carry — no fresh aggregator print this run]* | High; days-to-cover ~5.5 |
 | Next Earnings | **~Aug 2026** (Q2) | First quarter with R2 customer deliveries booking |
 | R2 Production Status | **Saleable** as of Q1 2026 print | Employee deliveries underway; customer launch H1 2026 |
 
@@ -108,6 +111,22 @@ The bull case requires: (a) R2 deliveries hitting 20K+ in 2026 at improving GM, 
 | Adj EBITDA | n/a | –$3.5B | –$2.7B | ~–$1.6B *[Estimate]* | **–$2.10B to –$1.80B** |
 | Capex | $1.4B | $1.3B | $1.0B | ~$1.5B *[Estimate]* | **$1.95B – $2.05B** |
 | Cash + Investments (EOP) | $11.6B | $9.4B | $7.6B | **$6.1B** | ~$3B+ EOY 2026 *[Estimate, pre-JV tranches]* |
+| Shares outstanding (EOP) | ~910M | ~960M | ~1,050M | **~1,233M** | ~1.28B+ (Q1 2026) |
+| Cumulative dilution vs. IPO (~850M) | +7% | +13% | +24% | **+45%** | **~+50%** |
+
+### Primary Source: Share-Count History & Dilution Since IPO
+
+Time-in-columns per primary 10-K/10-Q cover pages + IPO prospectus ([CNBC IPO pricing](https://www.cnbc.com/2021/11/09/rivian-prices-ipo-at-78-a-share-valuing-company-at-66point5-billion.html); [companiesmarketcap](https://companiesmarketcap.com/rivian/shares-outstanding/); [Q1 2026 10-Q](https://www.stocktitan.net/sec-filings/RIVN/10-q-rivian-automotive-inc-de-quarterly-earnings-report-2ac691feb45e.html)).
+
+| Metric | IPO Nov-2021 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Q1 2026 |
+|--------|--------------|--------|--------|--------|--------|--------|---------|
+| Period-end shares out (M) | ~850 (post-IPO) | ~850 | ~910 | ~960 | ~1,050 | ~1,233 | ~1,260 (Apr-21 cover) → ~1,280 post-VW |
+| Wtd-avg basic/diluted (M) | — | — | ~900 | ~945 | ~990 | ~1,140 | **1,249** (Q1 2026) |
+| Cumulative % vs. IPO | 0% | 0% | +7% | +13% | +24% | +45% | **~+50%** |
+
+- **IPO (Nov 9–10, 2021)**: priced **153M primary shares @ $78**, ~$11.9B gross proceeds — the single largest issuance event ([Businesswire IPO pricing](https://www.businesswire.com/news/home/20211109006688/en/Rivian-Announces-Pricing-of-Upsized-Initial-Public-Offering)).
+- **CAGR of share count IPO→Q1-2026** (~4.4 yrs, ~850M→~1,280M): **~9.5%/yr** — a persistent ~9–10%/yr dilution drag, materially above SBC-only OEMs.
+- Amazon's stake fell from ~20% (IPO) to **~11.8%** *without selling a share* — pure dilution ([Electrek 2026-05-05](https://electrek.co/2026/05/05/volkswagen-rivian-stake-15-percent-largest-shareholder/)).
 
 ### Quarterly Trajectory (Recent)
 
@@ -115,7 +134,7 @@ The bull case requires: (a) R2 deliveries hitting 20K+ in 2026 at improving GM, 
 |---------|---------|------------|------------|------|
 | Q3 2025 | ~$1.1B | ~10K | ~10K | Pre-Q4 ramp |
 | Q4 2025 | **$1.29B** | 10,974 | 9,745 | Auto $839M / S&S $447M (+108% YoY) |
-| Q1 2026 | **$1.4B** (+11% YoY) | 10,236 | **10,365** | GP +$119M (~9% GM); EPS −$0.33 vs. −$0.63 Street (~$0.30 beat); Adj EBITDA −$472M; R2 saleable; **$4.5B DOE loan** + $2.55B VW + Uber 2026 capital → ~$8B liquidity |
+| Q1 2026 | **$1.4B** (+11% YoY) | 10,236 | **10,365** | GP +$119M (~9% GM); EPS −$0.33 vs. −$0.63 Street (~$0.30 beat); Adj EBITDA −$472M; R2 saleable; wtd-avg 1,249M sh; SBC $207M; **post-May-15**: DOE loan renegotiated $6.57B→$4.5B, Georgia capacity 400K→300K, R2-Georgia → late 2028, mixed-shelf S-3 filed |
 
 ### Primary Source: 10-K Segment Detail (FY2025)
 
@@ -240,7 +259,7 @@ Materiality-filtered table — universal corporate boilerplate (generic cyber, g
 |------|--------|-------------|------------|-------|
 | ⚠️ **R2 demand softness — early customer pull weaker than 20–25K 2026 embedded** | **Critical** | 35% | **Not priced in** | **NEW / ELEVATED [2026-05-01]**: Q1 print rotated market focus from cash-burn to R2 demand commentary. Per Rule #25(b), explicitly *not priced in* — consensus still models 20–25K 2026 R2 deliveries. First customer-delivery quarter (Q2 2026) is the first hard read. |
 | ⚠️ R2 ramp slips into Q1 2027 or auto GM stays negative through 2026 exit | **Critical** | 30% | Partially | Lucid precedent. Tied to thesis-break trigger §13. McDonough's "positive auto GM by exit-2026" commitment is the single sharpest test. Differentiated risk vs. peers (Tesla, GM are scaled). R2 saleable status reached Q1 2026 — execution side de-risked vs. demand side. |
-| ~~⚠️ Cash burn forces dilutive equity raise sub-$15~~ ✅ **DE-RISKED [2026-05-01]** | ~~Critical~~ | ~~25%~~ | — | **DE-RISKED**: Q1 2026 print disclosed **$4.5B DOE loan** for Georgia plant + **$2.55B confirmed VW + Uber 2026 capital** → ~$8B total liquidity. Multi-year runway through R2 ramp + R3 launch without dilutive raise barring extreme demand miss. |
+| ⚠️ **Ongoing share dilution — ~+50% since IPO, contingent VW/convert/SBC overhang ahead** | High | Ongoing (certain) | **Partially priced** | **ELEVATED [2026-05-18]**: May 15 mixed-shelf S-3 + DOE loan cut $6.57B→$4.5B + Georgia capacity 400K→300K re-opened the financing question the May-1 narrative had closed. Detail in the Dilution Deep-Dive below. Per Rule #25(d): tied to a large discretionary investment (R2/Georgia) with an uncertain funding path. The auto-business-near-zero SoTP *already embeds* heavy dilution — so partially priced, not a thesis-breaker, but the S-3 caps near-term upside. |
 | ⚠️ VW JV milestone delay (>2 quarters) on ID.Golf software handoff | **High** | 25% | **Not priced in** | Each tranche is ~$1B. A delay both stretches cash runway AND re-rates the moat narrative. The market currently treats the JV tranches as near-certain. |
 | ⚠️ Federal EV credit further reduced or eliminated | High | 55% | Partially | Already partial cuts in 2025; further cuts likely under current administration. R2 at $57,990 Performance / ~$45K standard sits at the buyer-elastic price tier. |
 | ⚠️ Recession compresses premium EV demand (R1 segment) | High | 30% | Yes | R1T/R1S are $80K+ vehicles; demand inelastic in mild downturn but breaks in severe. R2 at $57K is more defensible. |
@@ -251,6 +270,47 @@ Materiality-filtered table — universal corporate boilerplate (generic cyber, g
 ### Risk Factor Evolution (FY2021 → FY2025)
 
 The 5-year evolution of Item 1A risk factors shows two material shifts: first, the post-IPO 2021–2022 risks centered on supply-chain (battery cell sourcing, raw materials, semiconductor shortages) — these have substantially de-escalated as scale and supplier diversity improved. Second, the 2024–2025 Item 1A added explicit risk factors around **VW JV milestone dependency** (counterparty risk, milestone-payment timing, IP cross-licensing limits) and **R2 launch execution** (single-product-launch concentration, BOM cost achievement risk) — both reflecting management's recognition that the thesis has narrowed to two large discretionary bets. Universal-OEM risks (warranty exposure, recall liability, autonomous driving regulation) remain present but were de-emphasized in language. The directional read: management's worldview has shifted from "we are a startup OEM trying to survive" (2022) to "we are an OEM + IP licensor whose two big bets are R2 ramp and JV monetization" (2025) — which matches the operating reality.
+
+---
+
+### 🔬 Dilution Deep-Dive — IPO (Nov 2021) → Today + Forward Path
+
+**One-line verdict**: Share count is up **~+50% since the Nov-2021 IPO** (~850M → ~1.28B, ~9.5%/yr CAGR); the bulk is *strategic-validation* dilution (VW now the largest holder at 15.9% via milestone-gated tranches), not distress dilution — and the auto-business-near-zero SoTP already prices it in. Dilution is an **understood cost of the R2 option, not a thesis-breaker**, but the May-15 mixed-shelf S-3 + DOE-loan downsizing re-opened a financing overhang that caps near-term upside.
+
+#### Event-driven attribution (cumulative dilution, primary-sourced)
+
+| Event | Date | Form | Size | Share / dilution impact |
+|---|---|---|---|---|
+| **IPO primary issuance** | Nov 2021 | Equity | 153M sh @ $78 (~$11.9B) | Sets the ~850M post-IPO base |
+| 2022–2024 ATM + follow-on + SBC | 2022–2024 | Equity / ATM / RSU | net ~+200M sh | ~850M → ~1,050M (24% cumulative) |
+| **VW initial convertible note** | Nov–Dec 2024 | Convertible | $1.0B ($500M @ $10.84; $500M @ 45-day VWAP) | Converted to equity ~Dec 2024 |
+| VW JV closing — IP license + 50% JV stake | Late 2024 | Cash/equity | ~$1.3B | JV-level; partial parent equity |
+| **VW 2025 milestone tranche** | 2025 | Equity | ~$1.0B (2 consec. qtrs GP >$50M trigger) | New shares to VW |
+| **VW 2026 milestone tranche** | Apr 30, 2026 | **Equity** | **62,889,522 new Class A sh @ $15.90 (~$1.0B)** — winter-testing milestone | Largest discrete recent dilution; +~5% on the float |
+| 2029 + 2030 Green Convertible Notes | outstanding | Convertible | **$3.225B** principal ($1.5B 2029 + $1.725B 2030) | Share-settled overhang **if in-the-money** |
+| SBC annual run-rate | ongoing | RSU/options | ~$800M/yr (Q1 2026 $207M; ~$0.17/sh) | ~1.5–2%/yr dilution drag |
+| Scaringe Nov-2025 pay package | 2025–2035 | Performance options | up to ~$4.6–5B notional | Vests only on demanding price/op milestones; dilution *on success* |
+| **Automatic mixed-shelf (S-3)** | May 15, 2026 | Equity/debt/hybrid | undrawn capacity | No issuance yet — *optionality*; the overhang catalyst |
+
+VW has deployed **~$3.3B of the up-to-$5.8B** commitment and is now Rivian's **largest shareholder at 15.9% (209.8M sh)** — the first non-founder/non-Amazon control shift since IPO. The DOE Georgia loan ($4.5B, renegotiated *down* from $6.57B) is **debt — non-dilutive** — but it matters to the dilution path because every dollar of cheap government debt reduces the equity Rivian must otherwise raise to fund the R2/Georgia capex; the May-15 downsizing therefore *modestly increases* residual equity-raise risk, which is precisely why the simultaneous mixed-shelf filing spooked the tape.
+
+#### Forward dilution scenarios *[Estimate — assumptions stated]*
+
+Assumes ~1.28B current shares; conversion-price assumptions per the 2029/2030 indentures *[Estimate, terms not fully sourced this run — flagged]*.
+
+| Source | Trigger | Incremental shares *[Est.]* | Notes |
+|---|---|---|---|
+| Remaining VW contingent tranches | ~$2.5B left of $5.8B, milestone-gated through 2027 | **+120–180M** (at $14–20/sh) | Strategic, validation-positive; price-dependent |
+| 2029/2030 converts if in-the-money | Stock >> conversion price | **+150–230M** *[Est.]* | Only dilutes if thesis works (stock high) — "good problem" |
+| SBC continuation | 2026–2028 | **+60–90M** | ~1.5–2%/yr structural drag |
+| Mixed-shelf equity takedown | If R2 ramp cash needs exceed ~$8B liquidity | **0 to +150M** | Bear-case lever; base case = not drawn |
+| **Fully-loaded potential** | All of the above by ~2028 | **~+330–650M → ~1.6–1.9B total** | ~25–50% further dilution on top of the +50% already taken |
+
+A fully-loaded ~1.7B share count vs. ~1.28B today is ~**−25% per-share** mechanically — but the converts/VW tranches only fully convert in the *bull* path (high stock price), so realized per-share dilution is self-limiting: the dilutive instruments are most dilutive exactly when the equity is worth most.
+
+#### Investment read
+
+Dilution is a **priced, understood cost of carrying the R2 option — not a thesis-breaker**. Three reasons: (1) the SoTP already values the auto business at ~zero net of cash + JV, so the market is *not* paying for shares it then dilutes; (2) the dominant recent dilution (VW tranches) is strategic capital from the world's #2 automaker at/above-market prices, the opposite of distress; (3) the convertible/Scaringe-package dilution only bites in the bull path. The genuine *new* negative is the May-15 mixed-shelf + DOE downsizing, which raises the probability of an opportunistic equity takedown into weakness — a Bear-case lever, reflected in §11/§12 by widening the diluted-count assumption and trimming PW EV. §11/§12 per-share scenarios are computed on a **defensible ~1.4–1.6B diluted count by 2027**, not today's 1.28B.
 
 ---
 
@@ -309,37 +369,48 @@ Implication: at $16.54, the market is pricing the auto business at roughly its s
 
 ### Live Price & Positioning
 
-- **Price**: **$15.15** (May 1, 2026 intraday)
-- **Previous close**: $16.54 (−8.4% session post-Q1 print)
+- **Price**: **$13.79** (May 15, 2026 close)
+- **Previous close**: $14.52 (−5.0% session on May 15 capacity-cut + mixed-shelf news)
+- **Move vs. baselines**: −9.0% vs. $15.15 (May 1) · −16.6% vs. $16.54 (pre-Q1-print close)
 - **52-week range**: $11.57 – $22.69
-- **% from 52-wk high**: –33.2%
-- **% above 52-wk low**: +30.9%
-- **Market cap**: ~$18.8B
-- **Avg volume**: 28.8M
+- **% from 52-wk high**: –39.2%
+- **% above 52-wk low**: +19.2%
+- **Market cap**: ~$17.65B
+- **Avg volume**: ~26M
 
-### Analyst Consensus (as of April 25, 2026)
+### Post-Earnings Weakness Decomposition (Apr 30 → May 15)
 
-- **Aggregate rating**: 🟡 Hold-leaning (mixed Buy / Hold)
-- **Median 1-yr target**: **$18.16** ([Yahoo Finance](https://finance.yahoo.com/quote/RIVN); ~+10% from spot)
-- **High / low**: $25 (Wedbush) / $9 (Bernstein)
-- **Implied upside**: +51% to high; –46% to low
-- **Range read**: One of the widest analyst dispersions in mega-cap EV — explicitly reflects the binary R2-execution thesis.
+The −16.6% slide from the $16.54 pre-print close is **not** an earnings miss (Q1 was a ~$0.30 EPS beat). Named drivers, in order of weight:
+1. **Financing/dilution overhang re-opened (dominant)** — May 15: automatic mixed-shelf S-3 + DOE loan renegotiated *down* $6.57B→$4.5B + Georgia capacity cut 400K→300K + R2-Georgia slipped to **late 2028**. The May-1 "dilution resolved" narrative reversed.
+2. **R2-demand-commentary focus** — market continues to read R2 customer-pull cautiously into the first delivery quarter.
+3. **VW April-30 equity tranche digestion** — ~62.9M new shares @ $15.90 (~5% float add) is validation but mechanically dilutive; VW now largest holder (15.9%).
+4. **EV-demand / federal-credit policy** — sector-wide softness; lower Georgia ambition read as demand-conservatism.
+5. **Sector read-through** — broad EV multiple compression; not RIVN-specific.
+6. **Analyst targets — slight trims, NO bearish cluster** — BNP Paribas $23→$22 (Outperform), Cantor $18→$19 (Neutral), Mizuho $11→$13 (still Underperform), Wedbush $25 / Benchmark $25 maintained. Mixed, not a coordinated downgrade.
+
+### Analyst Consensus (as of May 2026, post-print)
+
+- **Aggregate rating**: 🟡 Hold-leaning (genuinely split — no May cluster)
+- **Median 1-yr target**: **~$18–19**
+- **High / low**: $25 (Wedbush / Benchmark) / $13 (Mizuho, Underperform)
+- **Range read**: ~$13–25 — still one of the widest mega-cap-EV dispersions; reflects the binary R2/financing thesis, not sentiment noise.
 
 ### Short Interest
 
-- **Latest**: 13.55% of float (141.96M shares; [Fintel](https://fintel.io/ss/us/rivn))
-- **Days-to-cover**: 5.49
-- **Trend**: Modestly decreasing (143.9M → 141.96M)
-- **Interpretation**: Heavily shorted but trend is improving. Q1 earnings + R2 ramp confirmation + VW JV milestone cadence could catalyze a squeeze on positive surprise.
+- **Latest**: ~13% of float; days-to-cover ~5.5 *[carry from May-1 baseline — no fresh aggregator print clicked through this run; DATA GAP flagged]*
+- **Interpretation**: Heavily shorted; the mixed-shelf overhang is a near-term short thesis but also raises squeeze potential on a clean Q2 R2 print.
 
 ### Insider Activity (Last 90 Days)
 
-- April 2026: routine RSU vests for directors Sanford Schwartz (1,255 sh), Peter Krawiec (897 sh) — no open-market activity
-- Scaringe new $5B pay package authorized November 2025 — performance-vesting; no immediate dilution but adds future overhang
-- No notable insider buying clusters; would have liked to see CEO/CFO open-market purchases at sub-$15 to support thesis
+- Scaringe 2025 total comp **$402.6M** (vs. $14.9M 2024) — overwhelmingly options under the 10-yr up-to-~$4.6–5B performance plan; governance-optics negative but no cash extraction
+- VW US subsidiary acquired 62,889,522 new Class A shares Apr 30, 2026 @ $15.90 (milestone tranche — not an open-market insider buy)
+- No CEO/CFO open-market purchases at sub-$15 — would have supported the thesis; none surfaced this run
 
 ### Recent Corporate News (Last 90 Days)
 
+- ⚠️ **[2026-05-15] [Strategic — Financing/Dilution]** — Rivian filed an **automatic mixed-shelf registration (S-3)**, renegotiated the **DOE loan down $6.57B → $4.5B** (only one Georgia phase funded), cut **Georgia capacity 400K → 300K**, and slipped **R2-Georgia to late 2028** ([StocksToTrade 2026-05-15](https://stockstotrade.com/news/rivian-automotive-inc-rivn-news-2026_05_15/)). Stock −5.0% on session; the dominant driver of the post-print slide. Re-opens financing/dilution overhang.
+- 💰 **[2026-05-05] [Ownership]** — VW becomes Rivian's **largest shareholder at 15.9% (209.8M sh)** — first non-founder/non-Amazon control shift since IPO; Amazon diluted ~20%→~11.8% without selling ([Electrek](https://electrek.co/2026/05/05/volkswagen-rivian-stake-15-percent-largest-shareholder/)).
+- 💰 **[2026-04-30] [Strategic — VW milestone]** — VW US subsidiary purchased **62,889,522 new Class A shares @ $15.90 (~$1.0B)** on the JV winter-testing milestone ([Q1 2026 10-Q](https://www.stocktitan.net/sec-filings/RIVN/10-q-rivian-automotive-inc-de-quarterly-earnings-report-2ac691feb45e.html); [Electrek](https://electrek.co/2026/05/05/volkswagen-rivian-stake-15-percent-largest-shareholder/)).
 - ✅ **[2026-04-30] [Earnings — Delivered] Q1 2026 print** ([Q1 transcript](https://www.fool.com/earnings/call-transcripts/2026/04/30/rivian-rivn-q1-2026-earnings-call-transcript/) · [8-K](https://www.stocktitan.net/sec-filings/RIVN/8-k-rivian-automotive-inc-de-reports-material-event-29c5ad6aa96b.html) · [Stock Market Today May 1](https://www.fool.com/coverage/stock-market-today/2026/05/01/stock-market-today-may-1-rivian-falls-after-investors-focus-on-cash-burn-despite-beating-q1-expectations/)):
   - Q1 revenue: $1.4B (+11% YoY)
   - Q1 gross profit: $119M (~9% GM)
@@ -409,27 +480,27 @@ Implication: at $16.54, the market is pricing the auto business at roughly its s
 
 ## Section 11 — Bull / Bear / Base Cases
 
-*All scenarios are 2-year (end-2027) terminal prices. Probabilities sum to 100%.*
+*All scenarios are 2-year (end-2027) terminal prices, computed on a **defensible ~1.4–1.6B diluted share count by 2027** (not today's ~1.28B) per the §6 Dilution Deep-Dive. Probabilities sum to 100%.*
 
-### Bull Case — $32 by 2027 (+111% from $15.15, ~45% CAGR) — **Probability: 30%**
+### Bull Case — $30 by 2027 (+118% from $13.79, ~47% CAGR) — **Probability: 30%**
 - 2026 deliveries 67K (top of guide); 2027 ~110K (R2 ramp full + R3 launch begins)
 - Auto GM positive exiting 2026 (per McDonough); R2 GM ~5–7% at scale
 - VW JV all milestones hit through 2027; software & services revenue ~$3B at ~40% GM
 - ID.Golf launches successfully on Rivian arch in 2027; expands JV addressable market
-- ~$26B EV (1.7× FY27E rev of $15B + JV premium) → ~$32/share
+- ~$26B EV (1.7× FY27E rev of $15B + JV premium) ÷ ~1.5B diluted sh → ~$30/share (vs. $32 prior — same EV, larger diluted base)
 
-### Base Case — $19 by 2027 (+25% from $15.15, ~12% CAGR) — **Probability: 55%**
+### Base Case — $18 by 2027 (+31% from $13.79, ~14% CAGR) — **Probability: 55%**
 - 2026 deliveries 60K (slight miss to guide low end); 2027 ~80K
 - Auto GM ~breakeven exiting 2026 (slips slightly from McDonough commitment)
-- VW JV mostly on schedule; one minor milestone slip
+- VW JV mostly on schedule; one minor milestone slip; some mixed-shelf takedown
 - Software & services revenue ~$2.5B at ~35% GM
-- Re-rates to ~1.1× FY27 sales of $13B → ~$19/share
+- Re-rates to ~1.1× FY27 sales of $13B ÷ ~1.5B diluted sh → ~$18/share
 
-### Bear Case — $7 by 2027 (–54% from $15.15, ~–32% CAGR) — **Probability: 15%**
+### Bear Case — $7 by 2027 (–49% from $13.79, ~–30% CAGR) — **Probability: 15%**
 - R2 demand softness — early customer pull weaker than 20–25K 2026 embedded; auto GM stays negative through 2026
-- VW JV milestone delay >2 quarters
-- Re-rates to <0.8× sales → ~$7/share
-- *Note*: dilutive-raise leg of the bear case removed post-Q1 2026 — DOE $4.5B + $2.55B confirmed VW + Uber 2026 capital → ~$8B liquidity. Bear thesis is now demand-driven, not funding-driven. Probability cut 20% → 15%.
+- VW JV milestone delay >2 quarters; opportunistic mixed-shelf equity takedown into weakness (S-3 lever)
+- Re-rates to <0.8× sales on a ~1.7B fully-loaded diluted count → ~$7/share
+- *Note*: the May-15 mixed-shelf re-introduces a (smaller) funding leg into the bear case, but DOE $4.5B + ~$2.5B contingent VW capital keeps it demand-driven-first, not solvency-driven. Probability held at 15%.
 
 ---
 
@@ -437,56 +508,62 @@ Implication: at $16.54, the market is pricing the auto business at roughly its s
 
 | Scenario | Terminal (2027) Price | Probability | PW Contribution |
 |----------|----------------------|-------------|-----------------|
-| Bull | $32 | 30% | $9.60 |
-| Base | $19 | 55% | $10.45 |
+| Bull | $30 | 30% | $9.00 |
+| Base | $18 | 55% | $9.90 |
 | Bear | $7 | 15% | $1.05 |
-| **PW EV (2-year)** | | | **~$21.10** |
+| **PW EV (2-year)** | | | **~$19.90** |
 
 | Current Price | PW EV | Return (2-yr) | Annualized |
 |---------------|-------|---------------|------------|
-| $15.15 | $21.10 | **+39%** | ~+18%/yr |
+| $13.79 | $19.90 | **+44%** | ~+20%/yr |
 
 ### Risk/Reward (per Rule #26)
 
-- **Headline R/R** (Bull +111% / Bear –54%, anchored to §11 midpoints vs. $15.15 spot): **~2.1:1** (was ~1.6:1 at $16.54)
-- **Stop-loss-anchored R/R** (Bull / thesis-break trigger ~$12): (+111%) / (–21%) = **~5.3:1** *(secondary framing)*
+- **Headline R/R** (Bull +118% / Bear –49%, anchored to §11 midpoints vs. $13.79 spot): **~2.4:1** (was ~2.1:1 at $15.15)
+- **Stop-loss-anchored R/R** (Bull / thesis-break trigger ~$11): (+118%) / (–20%) = **~5.9:1** *(secondary framing)*
 
-**Interpretation**: PW EV $21.10 (was $20.50) reflects the post-Q1 2026 probability shift — Bear cut 20%→15% on dilution risk DE-RISKED (DOE $4.5B + $2.55B confirmed VW + Uber 2026 capital → ~$8B liquidity), Base raised 50%→55% on Q1 EPS beat + R2 saleable + capacity expansion to 515K US footprint. Lower spot ($15.15 vs. $16.54) compounds the asymmetry — headline R/R 1.6:1 → 2.1:1. The bear case is now demand-driven (R2 customer pull) rather than funding-driven, which is structurally a more recoverable thesis-break. Distribution remains bimodal but the bear tail is genuinely thinner.
+**Interpretation**: PW EV stepped *down* $21.10 → **$19.90** because Bull/Base terminal prices were lowered ($32→$30, $19→$18) to reflect the **larger defensible diluted share count (~1.5B by 2027)** — same enterprise values, more shares. Probabilities held (30/55/15). Despite the lower PW EV, the −9% drop in spot to $13.79 *widens* the headline R/R to ~2.4:1 — the per-share dilution haircut is more than offset by the lower entry. The distribution stays bimodal; the bear case is demand-driven-first with a smaller (S-3) funding leg layered back in. Net: dilution is reflected honestly in the per-share math without flipping the asymmetry.
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Q1 2026 print delivered a $0.30 EPS beat, R2 saleable status with employee deliveries underway, AND a $4.5B DOE loan + $2.55B confirmed VW + Uber 2026 capital → ~$8B liquidity that materially de-risks the dilution tail; market focus has rotated from cash-burn (now resolved) to R2 demand (now the load-bearing question), and at $15.15 the asymmetry is stronger (PW EV $21.10, R/R ~2.1:1) with a structurally thinner — and more recoverable — bear case.
+**Thesis in one sentence**: Q1 2026 delivered a $0.30 EPS beat and R2 saleable status, but the May-15 mixed-shelf S-3 + DOE-loan downsizing + Georgia capacity cut re-opened a financing/dilution overhang on a company already **~50% more diluted than at IPO** — yet the dilution is a *priced-and-understood* cost of the R2 option (auto-business valued near zero in SoTP, VW dilution is strategic validation not distress), and at $13.79 the asymmetry is intact (PW EV $19.90 on a defensible ~1.5B 2027 diluted count, R/R ~2.4:1).
 
-🟡 **For a non-holder**: **Watch** at $15.15 — Q1 print resolved the funding question but introduced an early R2-demand question; wait for Q2 2026 print (~Aug) for first hard read on customer pull. Attractive entry zone is **$12–14** if a Q2 demand-disappointment selloff materializes.
+🟡 **For a non-holder**: **Watch** at $13.79 — the dilution overhang is real but priced; wait for the Q2 2026 print (~Aug) for the first hard R2-demand read and any S-3 takedown signal. Attractive entry **$11–13** on further financing-overhang weakness.
 
-🟡 **For a current holder**: **Hold**. Q1 EPS beat + R2 saleable + DOE loan + ~$8B liquidity all support not exiting on the −8% session reaction. Stronger asymmetry from lower spot + thinner bear tail.
+🟡 **For a current holder**: **Hold**. The slide is financing-narrative, not fundamental (Q1 was a beat; VW is now the largest holder at a *higher* price than spot). Dilution is reflected in the per-share scenarios; asymmetry still favorable. Exiting here sells the R2 option into a financing-headline trough.
 
-🎯 **Attractive entry zone**: **$12 – $14** (rationale: ~1× FY26E revenue net of expanded cash + JV implied value; near $11.57 52-wk low; provides cushion against a Q2 R2-demand disappointment)
+🎯 **Attractive entry zone**: **$11 – $13** (rationale: ~0.8–1× FY26E revenue net of cash + JV implied value, on the defensible diluted count; near the $11.57 52-wk low; cushions a mixed-shelf takedown or Q2 demand miss)
 
-🎯 **Trim zone**: **$22 – $26** (rationale: 52-wk high band; would price confident R2 ramp + JV on schedule + sustained S&S momentum)
+🎯 **Trim zone**: **$22 – $26** (rationale: 52-wk high band; would price confident R2 ramp + JV on schedule + S&S momentum, net of dilution)
 
-🔴 **Exit / avoid zone**: **>$32** (rationale: would require fully priced 2027 bull case ahead of its evidence)
+🔴 **Exit / avoid zone**: **>$30** (rationale: fully priced 2027 bull case on the larger diluted base, ahead of its evidence)
 
 ⚠️ **Thesis-break triggers** (would force re-rating toward Reduce / Exit):
-- ⚠️ **Q2 2026 R2 customer-delivery cadence implies <15K 2026 R2 units** (vs. 20–25K embedded) — the new top-of-stack risk
+- ⚠️ **Mixed-shelf equity takedown at a deep discount to spot** (distress-priced raise, not strategic VW capital) — the new financing-side trigger
+- ⚠️ **Q2 2026 R2 customer-delivery cadence implies <15K 2026 R2 units** (vs. 20–25K embedded)
 - ⚠️ FY2026 delivery guide cut below 60K
 - ⚠️ R2 production rate at end-Q3 2026 below 1,000 units/week
 - ⚠️ Auto gross margin disclosed negative at >5K cumulative R2 deliveries (breaks McDonough's exit-2026 positive-GM commitment)
 - ⚠️ VW JV milestone delayed >2 quarters
 - ⚠️ Federal EV credit fully eliminated without offset
 - ⚠️ Software & Services revenue growth decelerates to <50% YoY
-- ~~⚠️ Equity raise announced sub-$15~~ ✅ **DE-RISKED [2026-05-01]**: $4.5B DOE loan + $2.55B confirmed VW + Uber 2026 capital → ~$8B liquidity; multi-year runway absent extreme demand miss.
-- ~~⚠️ Q1 2026 earnings reveal cash position <$5B without clear funding plan~~ ✅ **DE-RISKED [2026-05-01]**: ~$8B liquidity confirmed.
 
-📅 **Next review trigger**: **Q2 2026 earnings (~early August 2026)**. Key items: (1) **R2 customer delivery cadence + early demand commentary** (the new dominant question), (2) cash trajectory post-DOE drawdown, (3) VW JV revenue + next milestone timing, (4) FY26 guide reaffirmation, (5) Georgia plant construction/timeline progress, (6) software & services revenue trajectory.
+📅 **Next review trigger**: **Q2 2026 earnings (~early August 2026)**. Key items: (1) **R2 customer delivery cadence + early demand commentary**, (2) cash trajectory + whether the mixed-shelf S-3 is drawn and on what terms, (3) VW JV revenue + next milestone timing, (4) FY26 guide reaffirmation, (5) Georgia timeline post-downsizing, (6) S&S revenue trajectory.
 
 ---
 
 ### Sources
 
-- [Yahoo Finance — RIVN quote](https://finance.yahoo.com/quote/RIVN) (live price 2026-04-25 intraday)
+- [Yahoo Finance — RIVN quote](https://finance.yahoo.com/quote/RIVN) (live price 2026-05-15 close $13.79; corroborated [StockAnalysis](https://stockanalysis.com/stocks/RIVN/))
+- [StocksToTrade — RIVN May 15 2026 capacity cut + mixed-shelf](https://stockstotrade.com/news/rivian-automotive-inc-rivn-news-2026_05_15/)
+- [Electrek — VW becomes largest RIVN shareholder 15.9%](https://electrek.co/2026/05/05/volkswagen-rivian-stake-15-percent-largest-shareholder/) (2026-05-05)
+- [StockTitan — Rivian Q1 2026 10-Q](https://www.stocktitan.net/sec-filings/RIVN/10-q-rivian-automotive-inc-de-quarterly-earnings-report-2ac691feb45e.html) (share count, converts, SBC)
+- [CNBC — Rivian-VW JV milestones / $5.8B structure](https://www.cnbc.com/2024/11/13/rivian-capital-joint-venture-volkswagen.html)
+- [CNBC — Rivian IPO pricing $78/153M sh](https://www.cnbc.com/2021/11/09/rivian-prices-ipo-at-78-a-share-valuing-company-at-66point5-billion.html)
+- [Businesswire — Rivian IPO pricing](https://www.businesswire.com/news/home/20211109006688/en/Rivian-Announces-Pricing-of-Upsized-Initial-Public-Offering)
+- [companiesmarketcap — RIVN shares outstanding history](https://companiesmarketcap.com/rivian/shares-outstanding/)
 - [Rivian Newsroom — Q1 2026 production/delivery release](https://rivian.com/newsroom/article/rivian-releases-q1-2026-production-and-delivery-figures) (April 2, 2026)
 - [Rivian Investor Relations](https://rivian.com/investors)
 - [Electrek — R2 production start](https://electrek.co/2026/04/22/rivian-r2-starts-production-tornado-deliveries-spring/) (April 22, 2026)

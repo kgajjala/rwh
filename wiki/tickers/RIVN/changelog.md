@@ -4,6 +4,45 @@
 
 ---
 
+## [2026-05-18] — Post-Earnings Weakness + Share-Dilution Deep-Dive (IPO→present + forward path); PW EV $21.10→$19.90 on larger diluted count; R/R 2.1→2.4:1
+
+**Trigger**: Owner-requested rigorous share-dilution analysis + explanation of the post-Q1 price weakness. The decisive new event is the **May 15, 2026** disclosure cluster: automatic mixed-shelf (S-3) registration, DOE loan renegotiated **down** $6.57B→$4.5B (only one Georgia phase funded), Georgia capacity cut **400K→300K**, R2-Georgia slipped to **late 2028**. Stock −5.0% that session; −16.6% cumulative from the $16.54 pre-print close.
+
+**Sources reviewed**:
+- [Yahoo Finance live quote 2026-05-15 close $13.79](https://finance.yahoo.com/quote/RIVN) + [StockAnalysis corroboration](https://stockanalysis.com/stocks/RIVN/)
+- [StocksToTrade — May 15 capacity cut + mixed-shelf](https://stockstotrade.com/news/rivian-automotive-inc-rivn-news-2026_05_15/)
+- [Electrek — VW largest shareholder 15.9% (2026-05-05)](https://electrek.co/2026/05/05/volkswagen-rivian-stake-15-percent-largest-shareholder/)
+- [Rivian Q1 2026 10-Q (StockTitan)](https://www.stocktitan.net/sec-filings/RIVN/10-q-rivian-automotive-inc-de-quarterly-earnings-report-2ac691feb45e.html) — share count, $3.225B converts, $207M SBC
+- [CNBC — VW JV $5.8B milestone structure](https://www.cnbc.com/2024/11/13/rivian-capital-joint-venture-volkswagen.html); [CNBC IPO pricing](https://www.cnbc.com/2021/11/09/rivian-prices-ipo-at-78-a-share-valuing-company-at-66point5-billion.html); [companiesmarketcap share history](https://companiesmarketcap.com/rivian/shares-outstanding/)
+- Raw notes: `raw/RIVN/filings/2026-05-15-mixed-shelf-and-dilution-notes.md`
+
+### What Changed
+
+- **Header**: Schema v2.9→v2.14; Last Updated 2026-05-01→2026-05-18; Live Price $15.15→**$13.79** (May 15 close); added explicit move-vs-baselines
+- **Summary**: Rebuilt around dilution + financing overhang; KPI strip slot now "Dilution since IPO ~+50%"; scenario row repriced ($13.79, Bull $30 / PW EV $19.90 / R/R 2.4:1)
+- **Key Stats**: price/cap/52-wk %; added Shares Out / Dilution-since-IPO row; DOE loan re-characterized (renegotiated $6.57B→$4.5B, capacity 400K→300K); added convertible-notes row ($3.225B); VW now largest holder 15.9%
+- **§1**: Added period-end share-count + cumulative-dilution rows to the annual table; added **Primary Source: Share-Count History & Dilution Since IPO** subsection (IPO→Q1-2026 time-in-columns table, ~9.5%/yr CAGR, Amazon dilution note); Q1 2026 quarter row updated with May-15 events
+- **§6**: Replaced the ✅ DE-RISKED cash-burn row with an **ELEVATED ongoing-dilution risk** row (Rule #25(d)); added a full **🔬 Dilution Deep-Dive** — event-driven attribution table (IPO, ATM/follow-on, VW initial convert $1B @ $10.84/VWAP, VW 2025+2026 milestone tranches incl. 62,889,522 sh @ $15.90, $3.225B converts, ~$800M/yr SBC, Scaringe pay package, May-15 S-3), forward dilution scenarios with a fully-loaded ~1.6–1.9B count, and an investment read
+- **§9**: Live price/positioning to $13.79; added **Post-Earnings Weakness Decomposition** (6 named drivers, financing/dilution overhang dominant); analyst consensus refreshed (no May cluster — BNP $23→$22, Cantor $18→$19, Mizuho $11→$13, Wedbush/Benchmark $25); added May-15 mixed-shelf, May-5 VW-largest-holder, Apr-30 VW 62.9M-share tranche to news; short interest carried (flagged data gap)
+- **§11/§12**: Terminal prices lowered for the larger defensible 2027 diluted count (~1.5B): Bull $32→$30, Base $19→$18, Bear $7 held; probabilities held 30/55/15. PW EV **$21.10→$19.90**; R/R **2.1→2.4:1** (lower spot more than offsets per-share dilution haircut)
+- **§13**: Thesis sentence rewritten around the dilution overhang being priced/understood not thesis-breaking; entry zone $12–14→**$11–13**; exit zone >$32→>$30; added financing-side thesis-break trigger (distress-priced mixed-shelf takedown); removed the two stale ✅ DE-RISKED struck triggers (superseded)
+
+### Thesis Status
+
+- **Overall**: 🟡 **Unchanged net** — Weakened on financing/dilution overhang (May-15 S-3 + DOE downsizing; share count +50% since IPO); offset by the recognition that dilution is already priced (auto ≈ zero in SoTP) and VW dilution is strategic validation (largest holder at a price *above* spot). Not a thesis-breaker.
+- **BAIT delta**: B-lens slightly stronger (more washed-out at $13.79, financing fear arguably overdone); A-lens unchanged (per-share math now explicitly diluted-count-adjusted — more defensible); I-lens unchanged (VW JV economics still under-modeled); T-lens weaker (broke below the $14–18 range, new lower-low risk). Net: Triple lens (Mod) preserved; Conviction Moderate.
+- **Price target delta**: Bull $32→$30, Base $19→$18, Bear $7 unchanged (terminal repricing for diluted count, not thesis change). PW EV $21.10→**$19.90**.
+- **Catalyst & Sentiment delta**: Post-earnings weakness is financing-narrative not fundamental; Q2 2026 (~Aug) remains the next mechanical re-rate trigger; mixed-shelf takedown terms now a watch item.
+
+### Recommendation
+
+- **For a non-holder**: 🟡 **Watch** — dilution real but priced; entry **$11–13** on further financing-overhang weakness; wait for Q2 R2-demand read.
+- **For a current holder**: 🟡 **Hold** — slide is financing-narrative not fundamental; VW (largest holder) paid *above* spot; asymmetry intact (R/R 2.4:1). Don't sell the R2 option into a financing-headline trough.
+
+**Next review trigger**: 📅 **Q2 2026 earnings (~early August 2026)** — R2 customer-delivery cadence, whether/how the mixed-shelf S-3 is drawn, VW JV next milestone, FY26 guide reaffirmation, Georgia post-downsizing timeline.
+
+---
+
 ## [2026-05-01] — Earnings Q1 2026 + R2 saleable + DOE $4.5B loan — cash-burn risk DE-RISKED; R2 demand risk elevated; PW EV $20.50→$21.10
 
 **Trigger**: Q1 2026 earnings print (April 30, 2026 post-close) + 8-K disclosing $4.5B DOE loan for Georgia plant and $2.55B confirmed 2026 VW + Uber capital. Stock −8% on session as market focus rotated from cash-burn (now resolved) to R2 demand commentary.

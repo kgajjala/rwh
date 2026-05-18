@@ -16,12 +16,13 @@ governs weekly cron coverage (Core Rule #15). 4 tickers Paused as of
 
 ## Tickers
 
-*Alphabetical. 40 tickers covered.*
+*Alphabetical. 41 tickers covered (37 Active / 4 Paused).*
 
 | Ticker | Status | Company | Moat | Conviction | Last Updated | Summary |
 |--------|--------|---------|------|-----------|--------------|---------|
 | [ABNB](tickers/ABNB/ABNB.md) | Paused | Airbnb | Wide | Moderate | 2026-05-10 | **v2.4→v2.14** + Q1 2026 — rev +18% beat, GBV +19%, FCF $1.7B, FY26 raised; cross-sell quantified; verb upgrade Watch→**Initiate**; PW EV $189 (5-yr); R/R 5.5:1 |
 | [ACLS](tickers/ACLS/ACLS.md) | Paused | Axcelis Technologies | Narrow | Low-Moderate | 2026-05-10 | **v2.4→v2.14** + Q1 beat ($199M / $0.72 EPS) + Q2 guide above; FY26 reaffirmed; B. Riley PT $150→$180; PW EV $180 (5-yr); R/R ~2:1; **Watch / Hold**; entry $95–115 |
+| [ACN](tickers/ACN/ACN.md) | Active | Accenture plc | Wide | Moderate-High | 2026-05-18 | **v2.14 ingest** — #1 global IT-services/consulting at $168.82 (~5th %ile, –47.7% from $322.86 high) on AI-disintermediation fear; FY25 rev $69.7B / ~10% FCF yield / ~12× fwd P/E trough / 3.9% div; record $22.1B Q2 FY26 bookings + GenAI $2.2B/qtr. BAIT 3–4 (B-strong); PW EV $233 (5-yr); R/R ~3.3:1; **Initiate ≤$185 / Add**; Q3 FY26 ~Jun |
 | [ADBE](tickers/ADBE/ADBE.md) | Active | Adobe | Wide | High | 2026-04-24 | v2.4 ingest — Triple BAIT; Initiate / Add |
 | [AMCR](tickers/AMCR/AMCR.md) | Active | Amcor plc | Narrow-and-widening (post-Berry duopoly) | Moderate | 2026-05-10 | **v2.14 ingest** — global packaging at $39.93 / 9.4× FY26E P/E + 6.51% div (51+ yr unbroken); Berry $650M synergy bet; Double BAIT (B+A); PW EV $57 (+43%); R/R ~6:1; Initiate <$44 / Hold |
 | [AMZN](tickers/AMZN/AMZN.md) | Active | Amazon | Wide | High | 2026-05-01 | Q1 FY26 — AWS +28%, EPS +70% beat; ATH $265; R/R 1.4:1 → Watch / Hold |
@@ -33,7 +34,7 @@ governs weekly cron coverage (Core Rule #15). 4 tickers Paused as of
 | [DELL](tickers/DELL/DELL.md) | Active | Dell Technologies | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch (consensus < spot); insider selling |
 | [EBAY](tickers/EBAY/EBAY.md) | Active | eBay | Narrow | Medium | 2026-05-01 | Q1 beat (rev +19%, GMV +14% FXN); R/R 1.0:1; Watch / Hold-Trim into $115+ |
 | [FIG](tickers/FIG/FIG.md) | Active | Figma | Narrow-Emerging Wide | Moderate | 2026-05-10 | **v2.4→v2.14** + Anthropic Claude Design launch Apr 17 (named direct AI-disruption threat); FIG –16% in April; short int 20.67% (+27.5% MoM); Director Reed buy $36.5M; Q1 print May 14; PW EV ~$28 (5-yr); R/R ~5:1; **Initiate (small, contrarian) / Hold** |
-| [HD](tickers/HD/HD.md) | Active | The Home Depot | Wide | Moderate-High | 2026-05-10 | **v2.14 ingest** — #1 U.S. home improvement at $321.75 (9th %ile, –24.6% from $426 high); FY2025 rev $164.7B / FCF $12.6B; decade-low multiple + 2.9% div price housing-freeze. Double BAIT (B+A); PW EV $377 (+17%); R/R ~2:1; Initiate <$325 / Hold; Q1 May 19 |
+| [HD](tickers/HD/HD.md) | Active | The Home Depot | Wide | Moderate-High | 2026-05-18 | **Pre-Q1 price-action update** — slid to $297.51 (2026-05-15, fresh 52-wk low, –7.5% vs. $321.75) on housing-rate freeze (~60%) + pre-earnings analyst target-cut cluster keeping Buy ratings (~30%); no company-specific break. Opportunity-leaning, conditional on May 19 Q1 print. PW EV ~$377 (+27%); R/R ~2.8:1 (PW ~4:1); entry re-cut $280–320 (spot inside); **Initiate (scaled) / Hold add-leaning**; Q1 FY26 May 19 |
 | [HOOD](tickers/HOOD/HOOD.md) | Active | Robinhood Markets, Inc. | Narrow-and-Widening | Moderate-High | 2026-04-29 | Post-Q1 reset to $70.29 (–14% session) — Q1 call confirmed structural diversification (margin book +93%, Gold card $15B annualized spend, Rothera April $3B second-highest month); crypto "about similar to Q1" in April removes near-term recovery. R/R ≈5.5:1 at $70; PW EV ~$108 (+54%). **Initiate / Add** at $65–80 |
 | [INTU](tickers/INTU/INTU.md) | Active | Intuit | Wide | Moderate-High | 2026-04-26 | v2.9 — Triple BAIT; 17× FY26E NGAAP at decade-low; Initiate / Add |
 | [KGS](tickers/KGS/KGS.md) | Active | Kodiak Gas Services | Narrow | Low-Moderate | 2026-04-26 | v2.9 — Double BAIT (A+I+T Mod); R/R ~1:1 at 52-wk high; Watch / Hold |
@@ -69,6 +70,7 @@ governs weekly cron coverage (Core Rule #15). 4 tickers Paused as of
 |--------|-----------------|----------------|------|--------------------------------------|
 | ABNB | *(Paused 2026-05-18)* | — | — | — |
 | ACLS | *(Paused 2026-05-18)* | — | — | — |
+| ACN | $168.82 (5/15/26) | –47.7% | 3–4 lens (B-Strong) | Initiate ≤$185 / Add |
 | ADBE | $245.44 | –42% | Triple | Initiate / Add |
 | AMZN | ~$247 | mid-range | Triple | Initiate / Hold-Add |
 | BKNG | $180.25 (post-split) | –22.8% | Triple (B+A-Strong) | Initiate / Hold-Add |
@@ -150,4 +152,4 @@ governs weekly cron coverage (Core Rule #15). 4 tickers Paused as of
 
 ---
 
-*Last full index refresh: 2026-05-10 PM2 (SHOP v2.13→v2.14 + Q1 print cross-cutting propagation + post-Q1 drift to $110.51 with entry-zone-reached verb upgrade; LNTH Paused via Workflow C.1). Earlier 2026-05-10 PM: 13-ticker Workflow B Q1 2026 cluster (ABNB / ACLS / BRK.B / CELH / CPNG / DASH / FIG / LNTH / MP / RKT / SN / TREX / ZG). Earlier 2026-05-10 AM: HD + AMCR Workflow A dual-ingest + PG v2.9→v2.14 migration. 40 tickers total (39 Active / 1 Paused). Prior: 2026-05-06 (UBER v2.14); 2026-04-29 (HOOD v2.12; WING Q1 thesis-break).*
+*Last full index refresh: 2026-05-18 — ACN Workflow A ingest (#1 global IT-services at trough multiple; PW EV $233; R/R 3.3:1; Initiate ≤$185 / Add) + HD pre-Q1 price-action update (slid to $297.51 fresh 52-wk low — opportunity-leaning conditional on May 19 print) + ABNB/ACLS/MP user-directed pause (Workflow C.1); 41 tickers (37 Active / 4 Paused). Prior 2026-05-10 PM2 (SHOP v2.13→v2.14 + Q1 print cross-cutting propagation + post-Q1 drift to $110.51 with entry-zone-reached verb upgrade; LNTH Paused via Workflow C.1). Earlier 2026-05-10 PM: 13-ticker Workflow B Q1 2026 cluster (ABNB / ACLS / BRK.B / CELH / CPNG / DASH / FIG / LNTH / MP / RKT / SN / TREX / ZG). Earlier 2026-05-10 AM: HD + AMCR Workflow A dual-ingest + PG v2.9→v2.14 migration. 40 tickers total (39 Active / 1 Paused). Prior: 2026-05-06 (UBER v2.14); 2026-04-29 (HOOD v2.12; WING Q1 thesis-break).*

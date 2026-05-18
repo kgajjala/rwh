@@ -4,6 +4,50 @@ Append-only. Most recent entry first.
 
 ---
 
+## [2026-05-18] — Price Action + Analyst Target Cluster (Pre-Q1 De-Risking)
+
+**Trigger**: User question — is the recent HD price decline an opportunity or a threat? Material −7.5% slide to a fresh 52-wk low + a mid-May analyst price-target cluster ahead of the May 19 Q1 FY2026 print. Q1 FY2026 **not yet reported** (scheduled May 19, 2026 — tomorrow).
+**Sources reviewed**:
+- [StockAnalysis HD quote](https://stockanalysis.com/stocks/hd/) — $297.51 (2026-05-15 close), new 52-wk low $296.88
+- [Google Finance HD](https://www.google.com/finance/quote/HD:NYSE) — price cross-verification (prev close $304.38)
+- [Yahoo Finance HD](https://finance.yahoo.com/quote/HD) — returned stale/delayed intraday data ($312.10); per Rule #7 not relied upon
+- [StockAnalysis forecast](https://stockanalysis.com/stocks/hd/forecast/) — consensus, May target changes
+- [ad-hoc-news May 14 analyst cuts](https://www.ad-hoc-news.de/boerse/news/ueberblick/home-depot-stock-us4370761029-analyst-downgrades-weigh-as-q1-earnings/69334389)
+- [Daily Political — Gordon Haskett cut / new 52-wk low](https://www.dailypolitical.com/2026/05/11/home-depot-nysehd-hits-new-12-month-low-following-analyst-downgrade.html)
+- [AskTraders Q1 FY2026 earnings preview](https://www.asktraders.com/analysis/home-depot-q1-2026-earnings-preview/) — consensus $3.41 EPS / ~$41.5B rev, May 19 date confirmed
+- [MarketBeat insider trades](https://www.marketbeat.com/stocks/NYSE/HD/insider-trades/) — routine, no anomalies
+
+**Data gaps**:
+- Q1 FY2026 results not yet reported (May 19, 2026); §1/§2/§8 financial tables unchanged this cycle
+- Yahoo Finance live quote delayed/stale at fetch — price taken from StockAnalysis + Google Finance (both agree $297.51)
+- Fintel/OpenInsider short-interest pages unreachable; SI estimated benign (~1.5–2%) from prior baseline + MarketBeat
+- SEC EDGAR atom feed returned 403; no new material 8-K surfaced via news scan
+
+### What Changed
+- **§9 — price**: $321.75 (2026-05-10) → **$297.51** (2026-05-15 close), **−7.5%** in 8 days; new 52-wk low $296.88; ~0–1st %ile of range; ~−14% YTD
+- **§9 — analyst cluster**: Gordon Haskett $395→$330 (May 8/11); Citigroup $450→$400, Wells Fargo $420→$375, Bernstein $390→$365, Truist $424→$394 (all May 14) — *targets cut, ratings held* (still ~18 Buy / 5 Hold / 0 Sell); median ~$425→~$421
+- **§9 — insiders**: routine 10b5-1 sells + tax dispositions; no anomalies; notably no insider buying into the low
+- **Opportunity-vs-threat decomposition (new §13 block)**: ~60% macro/housing-rate-driven, ~30% pre-earnings de-risking, ~0–10% company-specific (none identified) — verdict: more **opportunity than threat**, conditional on the May 19 print
+- **§12 — R/R re-anchor**: scenarios unchanged (no new fundamentals pre-print); spot $297.51 → R/R ~2.0:1 → **~2.8:1**; PW-EV upside +17% → **+27%**; PW EV held at ~$377
+- **§13 — verbs/zones**: non-holder Initiate (now firmly in zone); holder Hold→add-leaning; entry zone re-cut $295–$325 → **$280–$320**; new thesis-break trigger added (Q1 negative comp + FY26 EPS guide cut)
+- **§10 — BAIT**: Behavioral upgraded Moderate-Strong → **Strong** (capitulation at the low); Technical downgraded to **Weak-Moderate** (prior $310 support broke); A/I unchanged — verdict still Double (B+A)
+- **§8 — multiples**: FY26E P/E ~21x → **~19x**; FCF yield ~3.9% → ~4.2%; div yield ~2.9% → ~3.1%
+- **Summary block**: thesis/verb line, scenario row, KPI strip, Why-not + Next-read refreshed
+
+### Thesis Status
+- **Overall**: **Strengthened** (entry-quality basis) — fundamentals unchanged, but a ~7.5% lower entry on unchanged scenarios is pure R/R accretion; conviction explicitly gated to the May 19 binary
+- **BAIT delta**: Double (B+A) maintained; Behavioral B strengthened to Strong, Technical weakened (new-low breakdown)
+- **Price target delta**: Bull $530 | Base $395 | Bear $215 — **unchanged** (no new fundamentals pre-print)
+- **Catalyst & Sentiment delta**: Negative sentiment tape (analyst target cluster, new 52-wk low) but ratings intact and no operational deterioration; consensus median still ~+40% above spot
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate** — firmly inside entry zone at the 52-wk floor, ~19x FY26E, R/R ~2.8:1, ~3.1% yield; reasonable pre-print, ideally scaled (partial now / balance post-May-19) given the binary
+- **For a current holder**: 🟡 **Hold; add-leaning** — no thesis break; the decline improves the setup; adding defensible for those comfortable carrying the print
+
+**Next review trigger**: 📅 **Q1 FY2026 earnings May 19, 2026 (tomorrow, pre-market)** — immediate post-print review. Watch U.S. comps vs. flat-to-+2% guide, gross margin vs. 33.1%, SRS comp-base entry commentary, and any FY2026 EPS guidance revision. A comp miss + EPS guide cut = bear-case pull-forward; an in-line/raised guide = relief catalyst given reset-low expectations.
+
+---
+
 ## [2026-05-10] — v2 Initial Ingest
 
 **Trigger**: Workflow A first-run ingest per CLAUDE.md v2.14

@@ -1,0 +1,84 @@
+SPOTIFY TECHNOLOGY S.A. — 2026 INVESTOR DAY RECAP
+Event Date: May 21, 2026 (New York City)
+Source: Spotify Newsroom
+Primary URL: https://newsroom.spotify.com/2026-05-21/investor-day-recap/
+Investor Day hub: https://newsroom.spotify.com/investorday2026/
+Fetched: 2026-05-22
+Presenters: Co-CEOs Alex Norström and Gustav Söderström (first Investor Day as co-CEOs since Jan 1 2026)
+
+---
+
+2030 LONG-TERM FINANCIAL TARGETS (ANNOUNCED AT INVESTOR DAY)
+- Revenue CAGR: Mid-teens
+- Gross Margin: 35–40%
+- Operating Margin: Above 20% (over next 4 years)
+- Free Cash Flow: Strong growth expected
+- MAU Target: 1 billion monthly active users before 2030
+
+RECENT FINANCIAL PERFORMANCE CONTEXT (FY2025 / recent)
+- Music payouts: $11B in 2025 (10%+ YoY growth); $70B cumulative all-time
+- Free cash flow: Nearly €3B (FY2025)
+- Gross margin: 32% (FY2025)
+- Operating margin expansion: 18+ percentage points since 2022
+- Premium subscribers: Nearly 300M
+- MAU: 761M across 184 markets
+- U.S. customer LTV growth: 70%+ since 2022
+
+---
+
+MAJOR ANNOUNCEMENTS
+
+1. RESERVED BY SPOTIFY — Concert Ticket Pre-Access
+   - Spotify identifies artist's most engaged Premium listeners
+   - Reserves up to two concert tickets per superfan before general on-sale
+   - No additional fee beyond Premium subscription
+   - Launch: Select U.S. tours, summer 2026
+   - Partner: Live Nation (multi-year exclusive partnership; Spotify is exclusive audio streaming service for this inventory)
+   - Eligibility: U.S. Premium subscribers, 18+
+
+2. SPOTIFY x UMG LICENSING DEAL — Fan-Made AI Covers & Remixes
+   - Announced: May 21, 2026
+   - Parties: Spotify + Universal Music Group (recorded + publishing)
+   - Tool: Paid add-on for Premium subscribers; AI-powered fan-created covers/remixes
+   - Framework: Consent (opt-in by artists), Credit, Compensation
+   - Revenue: Additional income stream for artists/songwriters; described as margin-neutral or accretive to Spotify
+   - Only UMG announced; Sony and WMG not yet signed (described as "first of many")
+   - No pricing or launch date disclosed
+
+3. PODCASTS — Memberships
+   - New subscription toolset for podcast creators
+   - Transcripts, automatic chapters, real-time Q&A features
+   - Launch: "Soon"
+
+4. AUDIOBOOKS+
+   - On track for $100M annualized recurring revenue (ARR) as of July 2026
+   - Higher-hourly add-ons for power readers
+   - Family and Student plans launching
+   - Spotify for Authors expanding to 10 new languages
+   - Audiobook creation tools (with digital voice generation): Beta launch early June 2026
+   - Prompted Playlists for Audiobooks: Summer 2026
+
+5. AI / PLATFORM
+   - Studio by Spotify Labs: Desktop app for personalized audio generation (Research Preview soon)
+   - SongDNA: 265M+ interactions since March 2026 launch
+   - Taste Profile & DJ: Expanded with 4 new languages
+   - "Large Taste Model" powering personalization
+   - Multiple add-on tiers (music, podcasts, audiobooks, AI) rather than single "Music Pro" tier
+
+6. ENGAGEMENT MILESTONE
+   - Spotify 20th Anniversary Experience: 100M engagements in 6 days; "single biggest day" of subscriber intake ever
+   - Wrapped 2025: 620M shares generated
+
+MARKET REACTION
+- SPOT closed May 21 up ~15.85% → $489.93
+- SPOT trading May 22 up ~8% intraday (≈$521–$534 range)
+
+SHARE BUYBACK UPDATE: None disclosed at Investor Day.
+
+---
+
+NOTES FOR WIKI:
+- This Investor Day is the primary catalyst for the May 21–22 stock surge recovering most of the post-Q1 drop.
+- No firm launch date or pricing disclosed for Music Pro / AI Covers tool.
+- "Reserved" is a softer superfan offering (ticket access perk within Premium, no additional charge) vs. the previously expected paid Music Pro tier.
+- The 2030 targets of 35-40% gross margin and >20% op margin were the key thesis validation event.

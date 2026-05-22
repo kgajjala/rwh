@@ -1,0 +1,142 @@
+INTUIT Q3 FY2026 EARNINGS PRESS RELEASE — SUMMARY CAPTURE
+Source: Intuit IR (investors.intuit.com/news-events/press-releases/detail/1312/)
+SEC 8-K: https://www.sec.gov/Archives/edgar/data/0000896878/000089687826000024/fy26q3earningspressrelease.htm
+BusinessWire: https://www.businesswire.com/news/home/20260520628538/en/Intuit-Reports-Strong-Third-Quarter-Results-and-Raises-Full-Year-Revenue-Guidance
+Date of announcement: May 20, 2026 (after market close)
+Fiscal period: Q3 FY2026 (three months ended April 30, 2026)
+
+NOTE: The SEC EDGAR HTML filing returned HTTP 403 at time of ingestion (2026-05-22).
+This file contains data extracted from Intuit IR page, Motley Fool transcript,
+Globe and Mail transcript, StockTitan, and Investing.com. Primary source (SEC 8-K)
+URL preserved above; numbers triangulated from multiple credible sources.
+
+============================
+HEADLINE RESULTS — Q3 FY2026
+============================
+
+Total Revenue: $8,558M (~$8.6B), up 10% YoY (Q3 FY25: ~$7,780M)
+  vs. consensus estimate: ~$8,530-$8,540M → beat by ~$20-28M (~+0.3-0.7%)
+
+GAAP Operating Income: ~$4,000M (up 8% YoY)
+Non-GAAP Operating Income: ~$4,700M (up 8% YoY)
+
+GAAP Diluted EPS: $11.09 (up 11% YoY from $10.02)
+Non-GAAP Diluted EPS: $12.80 (up 10% YoY from $11.65)
+  vs. consensus estimate: $12.28-$12.57 → beat by $0.23-$0.52 (+1.8-4.2%)
+
+CFO quote: "We exceeded the top end of our guidance across revenue, operating income
+and earnings per share." — Sandeep Aujla
+
+============================
+SEGMENT REVENUES — Q3 FY2026
+============================
+
+GLOBAL BUSINESS SOLUTIONS GROUP (GBSG): $3,300M (up 15% YoY)
+  - Online Ecosystem Revenue: $2,500M (up 19% YoY; +22% ex-Mailchimp)
+    - QBO Advanced + Intuit Enterprise Suite combined: ~38% growth
+    - QBO Online Accounting revenue: +22% (driven by higher effective prices, customer growth, mix shift)
+    - International online revenue: +10% constant currency
+    - Mailchimp: revenue declined slightly YoY
+  - GBSG ex-Mailchimp: +17%
+
+CONSUMER GROUP: $5,300M (up 8% YoY)
+  - TurboTax Total: $4,400M (up 7% YoY)
+    - TurboTax Live: representing ~53% of total TurboTax revenue (up ~11 pts YoY)
+    - TurboTax Live revenue growth: ~36% for full year
+    - TurboTax Live customers: ~38% growth for full year; new customers up 29%
+    - TurboTax Online paying units: +2% (ARPU +11%, driven by assisted tier mix, fast refunds)
+    - Total TurboTax online units: ~-2% (pay-nothing customers: ~7M, down from ~8M)
+    - TurboTax e-file share: down ~1 point
+    - Fast Money refunds expected: ~$25B
+    - Credit Karma tax filers starting in platform: +54%
+  - Credit Karma: $631M (up 15% YoY; personal loans contributed +9 ppts of growth)
+  - ProTax: $278M (flat YoY)
+
+[No separate GBSG/Consumer segment subtotals are publicly broken out for QBO ARPU —
+only "QBO Online Accounting revenue +22%" is disclosed. QBO Online ARPU not separately
+reported; inferred improvement from pricing actions and mix shift per management commentary.]
+
+============================
+BALANCE SHEET / CAPITAL ALLOCATION — Q3 FY2026
+============================
+
+Cash & investments: $6,800M (as of April 30, 2026)
+Total debt: $6,200M
+Shares repurchased in Q3: $1,600M
+New buyback authorization: $8,000M (approved by board)
+Quarterly dividend: $1.20/share (~15% increase YoY), payable July 17, 2026
+Annualized dividend: $4.80/share
+
+============================
+FULL-YEAR FY2026 GUIDANCE (RAISED)
+============================
+
+Prior guidance (as of Q2 FY26): Revenue $20.997B–$21.186B; non-GAAP EPS $22.98–$23.18
+Raised guidance (Q3 FY26):
+  Total revenue: $21.341B–$21.374B (13-14% growth) — raised from prior midpoint ~$21.09B
+  GAAP operating income: $5.705B–$5.725B (~16% growth)
+  Non-GAAP operating income: $8.784B–$8.804B (~16% growth)
+  GAAP diluted EPS: $15.79–$15.84 (~16% growth; includes ~$300M restructuring charges)
+  Non-GAAP diluted EPS: $23.80–$23.85 (~18% growth) — raised from prior $22.98–$23.18
+
+Segment guidance (FY2026 full year):
+  GBSG: ~16% growth
+  Consumer: ~10% growth
+    TurboTax: ~7% growth → $5.277B–$5.282B (revised down from $5.305B–$5.330B)
+    Credit Karma: ~19% growth
+    ProTax: ~4% growth
+
+TurboTax full-year detailed:
+  TurboTax Live revenue: ~36% growth to $2.800B (~53% of total TurboTax)
+  TurboTax Live customers: ~38% growth
+  TurboTax online paying units: ~+2%; ARPU ~+11%
+  Total TurboTax online units: ~-2%
+  TurboTax e-file share: -~1 point
+
+Q4 FY2026 guidance:
+  Revenue growth: 11-12%
+  Non-GAAP diluted EPS: $3.56–$3.62
+
+============================
+FY2027 PRELIMINARY GUIDANCE (PROVIDED FOR FIRST TIME)
+============================
+
+Revenue growth: 11%-12%
+GAAP EPS growth (dollar increment vs. FY26): $0.73–$0.79
+Non-GAAP EPS growth (dollar increment vs. FY26): $3.56–$3.62
+  Implied FY27 non-GAAP EPS: ~$27.36–$27.47 (FY26 base $23.80-$23.85 + increment)
+CFO commitment: "Annual EPS growth of at least mid-teens over the coming years."
+
+============================
+WORKFORCE RESTRUCTURING
+============================
+
+Announcement: 17% full-time workforce reduction (~3,000+ employees of ~18,200 FTE)
+Effective: Final day July 31, 2026 for US employees
+Severance: 16 weeks base pay + 2 weeks per year of tenure
+Offices closing: Reno, NV and Woodland Hills, CA (consolidating to key hubs)
+Restructuring charges: $300M–$340M (primarily Q4 FY2026)
+Rationale per Goodarzi: "reduce management layers," eliminate "coordination-heavy roles,"
+  become "faster, leaner and more focused"
+CEO statement: "Nothing to do with AI" (referring to why the cuts are not AI replacement)
+
+============================
+IRS DIRECT FILE STATUS
+============================
+
+IRS Direct File program was terminated by the Trump administration in late 2025.
+Program NOT available for 2026 filing season.
+Management did NOT discuss Direct File on the Q3 FY26 earnings call.
+TurboTax DIY pressure attributed to PRICE SENSITIVITY among sub-$50K income filers,
+not IRS Direct File cannibalization. Management is pivoting to value-based pricing.
+
+============================
+SOURCES
+============================
+
+Primary (IR page): https://investors.intuit.com/news-events/press-releases/detail/1312/intuit-reports-strong-third-quarter-results-and-raises-full-year-revenue-guidance
+SEC 8-K (403 at ingest): https://www.sec.gov/Archives/edgar/data/0000896878/000089687826000024/fy26q3earningspressrelease.htm
+StockTitan summary: https://www.stocktitan.net/news/INTU/intuit-reports-strong-third-quarter-results-and-raises-full-year-f4i342fz6w00.html
+Investing.com article: https://www.investing.com/news/earnings/intuit-raises-guidance-sees-ai-as-a-clear-net-tailwind-4702183
+Daily Political guidance table: https://www.dailypolitical.com/2026/05/22/intuit-nasdaqintu-releases-fy-2026-earnings-guidance.html
+Yahoo Finance earnings highlights: https://finance.yahoo.com/markets/stocks/articles/intuit-inc-intu-q3-2026-050111298.html

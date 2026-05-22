@@ -4,6 +4,48 @@ Append-only. Most recent entry first.
 
 ---
 
+## [2026-05-22] — AGM Results + Investor Day (2030 targets) + Landmark UMG AI Licensing Deal
+
+**Trigger**: Three material events since the 2026-05-01 baseline: (1) the **April 15 AGM** results were published (all resolutions passed, incl. 10M-share buyback); (2) the **May 21 Investor Day** set 2030 long-term targets; and (3) a **May 21 landmark UMG licensing deal** for fan-made AI covers/remixes. Stock re-rated +17% over two days to ~$490–520.
+
+**Sources reviewed**:
+- [Investor Day recap — Spotify newsroom](https://newsroom.spotify.com/2026-05-21/investor-day-recap/); [Investor Day hub](https://newsroom.spotify.com/investorday2026/)
+- [UMG AI-covers/remixes licensing deal — Spotify newsroom](https://newsroom.spotify.com/2026-05-21/universal-music-group-spotify-licensing-agreements-fan-made-covers-remixes/); [PR Newswire](https://www.prnewswire.com/news-releases/spotify-and-universal-music-group-announce-landmark-licensing--agreements-for-fan-made-covers-and-remixes-302779160.html); [TechCrunch](https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/)
+- [AGM results 6-K — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001639920/000114036126017211/ef20071303_ex99-1.htm); [Globe and Mail recap](https://www.theglobeandmail.com/investing/markets/stocks/SPOT/pressreleases/1355947/spotify-shareholders-back-board-auditor-and-new-buyback-authorization-at-2026-agm/)
+- [Analyst raises — JPMorgan/Investing.com](https://www.investing.com/news/analyst-ratings/jpmorgan-raises-spotify-stock-price-target-on-ai-deal-2030-goals-93CH-4705889); [Morgan Stanley/MarketBeat](https://www.marketbeat.com/instant-alerts/morgan-stanley-boosts-spotify-technology-nysespot-price-target-to-61000-2026-05-22/)
+- [Yahoo Finance live price](https://finance.yahoo.com/quote/SPOT) ($489.93 May 21 close; ~$520 intraday May 22); [MarketBeat short interest](https://www.marketbeat.com/stocks/NYSE/SPOT/short-interest/)
+- "Reserved by Spotify" / Live Nation: [Music Business Worldwide](https://www.musicbusinessworldwide.com/spotify-to-reserve-concert-tickets-for-superfans-on-premium-tier-live-nation-confirmed-as-launch-partner-as-companies-strike-multi-year-deal/)
+- Raw saved: `raw/SPOT/press-releases/2026-04-15_AGM-results.txt`, `raw/SPOT/press-releases/2026-05-21_investor-day-recap.txt`
+
+### What Changed
+- **Schema/Header**: v2.9 → v2.14 (lazy migration); Last Updated 2026-05-01 → 2026-05-22; Live Price $442.54 → **$489.93** (May 21 close, +13.1%; ~$520 intraday May 22)
+- **Summary**: Rebuilt to v2.14 four-part structure (thesis + verbs / 8-col scenario table / 6-cell KPI strip / Why·Why not·Next read); verbs shifted 🟢 non-holder Initiate → 🟡 **Watch** (entry window closed on the re-rating)
+- **Pivotal Question**: answer updated — Investor Day made the GM-expansion path an explicit management commitment; UMG deal is first evidence of collaborative (not extractive) AI/label dynamic
+- **§3**: Moat vulnerabilities — label-dependency and AI-music bullets updated with the UMG deal as a partial offset; Apple/DMA bullet updated with EC investigation prep
+- **§4**: Capital allocation — added AGM (Apr 15) results (8 resolutions passed; 10M-share buyback >99%; full board re-elected; E&Y auditor; ~12% dissent on remuneration; no dividend)
+- **§5**: Folded in Investor Day 2030 framework + product roadmap — tiered AI/audiobook/podcast add-ons, AI Covers/Remixes paid add-on, "Reserved by Spotify"/Live Nation, Podcast Memberships, Audiobooks+ ($100M ARR by July 2026), Studio AI app, SongDNA
+- **§6**: Label royalty-step-up risk row updated (UMG AI deal partial thaw, core renegotiation still ahead, still not priced); AI-generated-music risk row shifted to ✅ partial de-risk (licensed opt-in path)
+- **§8**: Assessment rebased to ~$490 (~28–30x FY26E EV/FCF, ~33x P/E — fair, no longer trough)
+- **§9**: Full refresh — live price + 52-wk %; analyst block rebuilt with the post-Investor-Day target-raise cluster (JPM $650, Citizens $625, MS $610, Jefferies $600, Wells $600, Barclays $565, Rosenblatt $534; median ~$650); short interest +12.35% MoM flagged; news prepended (Investor Day, UMG deal, analyst raises, AGM results); upcoming catalysts refreshed
+- **§10 BAIT**: Refreshed — B/A/I/T re-cast around the re-rating; verdict notes the edge shifted from cheap price to de-risked thesis, and the asymmetry compressed
+- **§11**: **Migrated to 5-year terminal horizon (Rule #26)** anchored to Investor Day 2030 targets — Bull+ $1,050 (10%) / Bull $850 (25%) / Base $660 (40%) / Bear $420 (20%) / Bear+ $310 (5%)
+- **§12**: PW EV $540 → **~$680** (5-yr terminal); implied upside +39% over 5 yrs (~7%/yr); R/R ~3.2:1 → **~5.1:1**
+- **§13**: Verbs → Watch / Hold; zones rederived per Rule #26 (entry $400–540, trim $680–850, exit ≥$850); thesis-break triggers updated (added core-renegotiation-label-favorable; AI add-on adoption)
+
+### Thesis Status
+- **Overall**: **Strengthened** — Investor Day put management guidance behind the margin path (35–40% GM, >20% op margin, 1B MAU by 2030); the UMG AI-covers deal de-risked the two biggest overhangs (labels + AI) into a collaborative monetization opportunity. *But* the +17% re-rating compressed the valuation asymmetry — a stronger thesis at a fair price.
+- **BAIT delta**: Count unchanged (2 strong / 2 moderate); the *source* of edge shifted from a cheap price to a de-risked thesis.
+- **Price target delta**: Migrated from 12-mo to 5-yr terminal — Bull+ $750→$1,050 / Bull $620→$850 / Base $500→$660 / Bear $370→$420 / Bear+ $290→$310; PW EV $540 → ~$680.
+- **Catalyst & Sentiment delta**: Street median ~$607 → ~$650 (post-Investor-Day raises reverse the post-Q1 cuts); short interest +12.35% MoM (modest absolute).
+
+### Recommendation
+- **For a non-holder**: 🟡 **Watch** — thesis strengthened but the $400–450 deep-value entry is gone; at ~$490 the 5-yr PW EV (~$680) implies ~7%/yr. Initiate on a pullback toward the $450s.
+- **For a current holder**: 🟡 **Hold** — thesis strengthened; +17% validates post-Q1 patience; no trim until $680+; core label renegotiation is the reason not to add aggressively here.
+
+**Next review trigger**: 📅 Q2 2026 earnings (late July 2026) — AI add-on / tiered monetization, NA Premium recovery, ad-supported gross-margin trajectory.
+
+---
+
 ## [2026-05-01] — Post-Q1 Analyst Cluster (Sentiment-Only)
 
 **Trigger**: Post-Q1 2026 print analyst cluster — 9 Street firms revised price targets within the Apr 29 – May 1 window. Median reset ~$668 → ~$607. Buy consensus retained; all revised PTs remain above spot $442.54. Verbs unchanged.

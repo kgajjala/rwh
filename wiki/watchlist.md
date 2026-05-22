@@ -22,7 +22,7 @@
 | 4b | UBER | **High (Q1 2026 print + entry-zone reached)** | Triple (B+A+I-Strong, T-Mod) | PW EV ~$195 vs. $77.32 = **+153% (5yr / ~20%/yr)**; R/R **~9:1** (Bull $295 +283% / Bear $52 −32%); ~14:1 with Bull+ tail at $400 | **Initiate** / 🟢 **Add** (record $3B Q1 buyback at 52-wk low) | Q2 2026 — early Aug 2026 |
 | 5 | AMZN | Moderate-High (post-Q1-print, R/R compressed) | Triple (A-Mod-Strong + I + T Mod) | PW EV $322 vs. $265.06 (ATH) = +22% (3yr / ~7%/yr); R/R ~1.4:1 | **Watch** / **Hold**; entry $220–245 | Q2 FY26 — late July 2026 |
 | 6 | LLY | High | Triple (A+I-Strong, B-Mod) | PW EV $1,264 vs. $974.39 = +30% (18mo / ~19%/yr); R/R ~2.9:1 | **Initiate** / 🟢 **Hold-Add**; entry $830–900 | Q2 2026 — late July 2026 |
-| 7 | INTU | Moderate-High | Triple (B+A-Strong, I-Mod) | PW EV $566 vs. $395.95 = +43% (3yr) | **Initiate** / **Add**; entry $340–420 | Q3 FY26 — May 21, 2026 |
+| 7 | INTU | Moderate-High | Triple (B+A-Strong, I-Mod) | PW EV $552 (3yr) vs. $319.45 = **+73%**; R/R **~8:1** (Bull $720 / Bear $270) — Q3 FY26 beat-and-raise met –20% (17% workforce cut + FY27 11–12% guide); **IRS Direct File ✅ de-risked** | **Initiate** / **Add**; entry $300–415 | Q4 FY26 + FY27 guide — Aug 2026 |
 | 8 | ADBE | High | Triple (B+A-Strong, I-Mod, T-Weak→Mod) | PW EV ~$348 vs. $245.44 = +42% (3yr / ~12.4%/yr); R/R ~3.1:1 | **Initiate** / **Add aggressively below $230** | Q2 FY26 — June 2026 (est.) |
 | 8b | ACN | Moderate-High (deep-value AI-fear setup) | 3–4 lens (B-Strong; A+I+T-Mod) | PW EV $233 (5-yr) vs. $168.82 = **+38%**; R/R **~3.3:1** (Bull $300 +78% / Bear $135 −20%) — ~12× fwd P/E + ~10% FCF yield at decade trough; record $22.1B Q2 FY26 bookings + GenAI $2.2B/qtr contradict the disintermediation bear | **Initiate ≤$185 / Add** | Q3 FY26 — ~June 2026 |
 | 10 | NKE | Moderate-High | Triple (B-Strong, A-Mod-Strong, I-Mod) | PW EV ~$60.50 + 11% cumulative div = ~14%/yr (3yr); R/R ~3.6:1 | **Initiate** / **Add**; entry $40–48 | Q4 FY2026 — late June 2026 |
@@ -30,7 +30,7 @@
 | 12 | SN | Moderate-High (Q1 beat-and-raise) | Triple (A-Mod-Strong, B+I+T-Mod) | PW EV $150 (5-yr); R/R 2.7:1 — Q1 (May 6) +15.6% rev / intl +31.6% accelerating; FY26 raised; SEA tariff 20%→10% | **Initiate / Hold-Add weakness**; entry $95–110 | Q2 2026 — Aug 2026 |
 | 13 | BKNG | High (entry-zone reached) | Triple (B+A-Strong, I+T-Mod) | PW EV $192 vs. $168.36 = +14% (18mo); R/R ~3.7:1 — Iran/Hormuz Q2 guide cut + $3.6B Q1 buyback (130% pace step-up) | **Initiate** / **Add** | Q2 2026 — late July 2026 |
 | 14 | BRK.B | Moderate (post-first-Abel-meeting) | Triple (B+I-Strong, A-Mod) | PW EV $549 (5-yr); R/R 2.7:1 — Q1 op +18%; cash $397B record; Q1 buyback only $235M; first Abel mtg May 3 no deployment target | **Initiate** / **Hold** (softened from Hold-Add) | Q2 2026 — Aug 2026 |
-| 14b | SPOT | Moderate-High (post-Q1-print reset; analyst cluster confirmed) | Double-Mod-Strong (A-Mod-Strong, T-Weak-Mod, B+I-Mod) | PW EV $540 vs. $442.54 = +22% (12mo); R/R ~3.0:1 (Bull $620 / Bear $370); 9-firm cluster median $668→$607 — all PTs above spot | **Watch / Initiate $400–450** / **Hold** | Q2 2026 — late July 2026 |
+| 14b | SPOT | Moderate-High (post-Investor-Day re-rating; thesis strengthened) | Double (A-Mod-Strong, B+I+T-Mod) | PW EV $680 (5-yr) vs. $489.93 = **+39%** (~7%/yr); R/R **~5:1** (Bull $850 / Bear $420) — May 21 Investor Day 2030 targets (35–40% GM, >20% op margin, 1B MAU) + landmark UMG AI-covers deal de-risked label/AI; **+17% to ~$490 closed the deep-value entry** | **Watch** / **Hold** | Q2 2026 — late July 2026 |
 | 15 | RKT | Moderate-High (post-Q1; verb upgrade) | Double (B+A; B-Strong, A-Mod-Strong) | PW EV $25.80 (5-yr); R/R 3.6:1 — Q1 most-profitable in 4 yrs (EBITDA $738M / 26%); Mr. Cooper synergies pulled 1 yr forward; Redfin attach 45% w/ line-of-sight 50% | **Add** / **Hold-Add** (verb upgrade Speculative→Add) | Q2 2026 — Aug 2026 |
 | 16 | CPNG | Moderate (Korea margin reset; 2027 defer) | Triple (B+A-Strong, I+T-Mod) | PW EV $24 (5-yr); R/R 2.4:1 — Q1 (May 5) Korea GM 27% (–228bps); adj EBITDA $29M vs. $382M prior; margin expansion deferred to 2027; Taiwan promising | **Watch** / **Hold** (downgraded from Add) | Q2 2026 — Aug 2026 |
 | 17 | NFLX | Moderate | Triple (B+A+I-Mod) | PW EV $119.50 vs. $93.24 = +28% (3yr); R/R ~2.4:1 | **Initiate (small, scaled)**; entry $80–88 | Q2 2026 — mid-July 2026 (est.) |
@@ -97,7 +97,7 @@
 | May 11, 2026 | CELH | Q1 2026 earnings | Pepsi distribution + Alani Nu integration | Re-rate confirmed | Bear case revives |
 | May 12, 2026 | CPNG | Q1 2026 earnings | Korea op margin trajectory | Margin expansion confirms thesis | Korea margin compresses |
 | May 12, 2026 | ONON | Q1 2026 earnings | Tariff impact; co-CEO leadership commentary | Tariff manageable; constant-currency ≥+20% | Tariff bigger; transition friction |
-| May 21, 2026 | INTU | Q3 FY26 earnings | Tax season big revenue quarter; IRS Direct File cannibalization read | Direct File cannibalization minimal | Direct File takes share materially |
+| ~Aug 2026 | INTU | Q4 FY26 + first formal FY27 guide | Whether 11–12% FY27 revenue is a floor or ceiling; Mailchimp + Credit Karma trajectory | FY27 raised toward mid-teens; margin lift from 17% cut | FY27 tracking <10% growth confirms decel |
 | Late June 2026 | NKE | Q4 FY2026 earnings | Revenue down 2–4% guide; first Hill-era FY27 full-year guide | Inflection extends; FY27 flat-to-up | NA reverses |
 | Early June (est.) | RH | Q1 FY2026 earnings | First print under weak guide (–2 to –4% rev) | Guide-floor confirmed | Trough deepens; entry zone reached |
 | Early June (est.) | LULU | Q1 FY26 earnings | Comps; new CEO transition prep | NA stabilization signal | Margin pressure escalates |
@@ -126,7 +126,7 @@
 | ADBE | $245.44 | $170 (20%) | $345 (50%) | $480 (30%) | ~$348 | +42% (3yr); R/R ~3.1:1 |
 | ACN | $168.82 (5/15/26) | $135 (25%) | $235 (45%) | $300 (30%) | ~$233 | +38% (5yr); R/R ~3.3:1 |
 | HD | $297.51 (5/15/26) | $215 (30%) | $400 (45%) | $530 (25%) | ~$377 | +27% (5yr); R/R ~2.8:1 (PW ~4:1) |
-| INTU | $395.95 | $300 (20%) | $560 (50%) | $800 (30%) | ~$566 | +43% (3yr) |
+| INTU | $319.45 (5/22/26) | $270 (20%) | $555 (47%) | $720 (33%) | ~$552 | +73% (3yr); R/R ~8:1 |
 | NFLX | $93.24 | $70 (25%) | $115 (50%) | $160 (25%) | ~$119.50 | +28% (3yr); R/R ~2.4:1 |
 | RIVN | $13.79 (5/15/26) | $7 (20%) | $18 (45%) | $30 (35%) | ~$19.90 | +44% (end-2027); R/R ~2.4:1 |
 | NKE | $44.69 | $32 (25%) | $58 (50%) | $90 (25%) | ~$60.50 + 11% div = ~14%/yr | R/R ~3.6:1 |
@@ -140,9 +140,9 @@
 | LULU | $143.80 | $115 (30%) | $200 (50%) | $325 (20%) | ~$192 | +34% (3yr) |
 | KGS | $65.98 | $48 (25%) | $72 (50%) | $90 (25%) | ~$72 | +9% + 3% div |
 | SBUX | $97.28 | $78 (15%) | $125 (45%) | $160 (40%) | ~$132 | +36% + 2.5% div (3yr) |
-| SPOT | $429.00 | $370 (15%) | $500 (40%) | $660 blend (40%) | ~$540 | +26% (12mo); R/R ~3.2:1 |
+| SPOT | $489.93 (5/21/26) | $398 blend (25%) | $660 (40%) | $907 blend (35%) | ~$680 | +39% (5yr / ~7%/yr); R/R ~5:1 |
 
-*Horizons noted in last column. Targets refreshed 2026-04-28 for SPOT initial ingest; prior 2026-04-26 v2.9 batch covered other tickers. SPOT Bull blend = (Bull $620 × 25% + Bull+ $750 × 15%) / 40% = $669.*
+*Horizons noted in last column. SPOT migrated to 5-yr terminal (Rule #26) post-Investor-Day: Bull blend = (Bull $850 × 25% + Bull+ $1,050 × 10%) / 35% = $907; Bear blend = (Bear $420 × 20% + Bear+ $310 × 5%) / 25% = $398. INTU rebased to $319.45 post-Q3 with IRS Direct File removed from all scenarios.*
 
 ---
 

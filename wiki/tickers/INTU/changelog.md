@@ -4,6 +4,52 @@
 
 ---
 
+## [2026-05-22] — Earnings: Q3 FY26 (beat-and-raise, –20% reaction) + 17% restructuring + Direct File de-risk
+
+**Trigger**: Q3 FY26 earnings reported 2026-05-21 (post-close) — Intuit's tax-season quarter. Material event under Workflow B. Coincides with a ~17% workforce reduction announcement and the confirmed permanent termination of IRS Direct File.
+
+**Sources reviewed**:
+- [Intuit Q3 FY26 press release (IR)](https://investors.intuit.com/news-events/press-releases/detail/1312/intuit-reports-strong-third-quarter-results-and-raises-full-year-revenue-guidance)
+- [Q3 FY26 earnings transcript — Globe and Mail](https://www.theglobeandmail.com/investing/markets/stocks/INTU/pressreleases/2049766/intuit-intu-q3-2026-earnings-transcript/)
+- [Q3 FY26 earnings transcript — Insider Monkey](https://www.insidermonkey.com/blog/intuit-inc-nasdaqintu-q3-2026-earnings-call-transcript-1766470/)
+- [Q3 FY26 transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/20/intuit-intu-q3-2026-earnings-transcript/)
+- [CNBC — 17% workforce cut "nothing to do with AI"](https://www.cnbc.com/2026/05/20/intuit-ceo-says-companys-17percent-workforce-cut-had-nothing-to-do-with-ai.html); [TechCrunch — 3,000+ layoffs](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
+- [Federal News Network — IRS Direct File terminated for 2026](https://federalnewsnetwork.com/it-modernization/2025/11/irs-direct-file-will-not-be-available-in-2026-agency-tells-states/)
+- [Benzinga — post-Q3 analyst target cuts](https://www.benzinga.com/analyst-stock-ratings/price-target/26/05/52723048/these-analysts-cut-their-forecasts-on-intuit-after-q3-results)
+- [stockanalysis.com — INTU price/consensus](https://stockanalysis.com/stocks/intu/) (live $319.45, May 22 intraday); [Fintel — short interest](https://fintel.io/ss/us/intu)
+- Raw saved: `raw/INTU/press-releases/2026-05-21_Q3-FY26_earnings.txt`, `raw/INTU/transcripts/2026-05-21_Q3-FY26_transcript.txt`
+
+### What Changed
+- **Schema/Header**: v2.9 → v2.14 (lazy migration); Last Updated 2026-04-26 → 2026-05-22; Live Price $395.95 → **$319.45** (May 22 intraday); 52-wk low $342.11 → $302.36; –51% → –60.7% from high
+- **Summary**: Rebuilt to v2.14 four-part structure (thesis + verbs / 8-col scenario table / 6-cell KPI strip / Why·Why not·Next read)
+- **§1**: Added Q3 FY26 quarter (rev $8.56B +10%, GAAP EPS $11.09, non-GAAP $12.80); raised FY26 guide column ($21.341–21.374B rev; $23.80–23.85 non-GAAP EPS); added FY27 prelim (+11–12% rev, "mid-teens" EPS); Q3 read paragraph on the beat-vs-(–20%) gap
+- **§2**: Segment growth refreshed to Q3 (GBSG +15%, Online Ecosystem +19%, QBO Advanced+IES ~+38%, TurboTax +7%, Credit Karma +15%, ProTax flat); TurboTax Live now ~53% of TurboTax revenue; Mailchimp "evaluated a sale, retained as cash-flow asset"
+- **§3**: IRS Direct File row struck (✅ terminated); value-tier price competition (Cash App Taxes/FreeTaxUSA) elevated as the active consumer-tier vulnerability; moat-differs paragraph updated
+- **§4**: Capital allocation updated ($1.6B Q3 buyback + $8B new authorization; 17% workforce cut; Mailchimp sale evaluation); RMC refreshed with Q3 quotes ("customers buy confidence not code", "we lost on price", CFO "at least mid-teens EPS growth")
+- **§5**: IES +37% QoQ contracts; TurboTax Live +36%/53% of revenue; Credit Karma +15%/decel; AI "clear net tailwind"
+- **§6**: **Dropped IRS Direct File risk (✅ resolved — terminated)**; added two new rows — FY27 revenue deceleration (Medium-High/30%) and TurboTax DIY value-tier price competition (Medium/35%); evolution summary rewritten
+- **§7**: Direct File macro/regulatory paragraphs rewritten (program terminated); AI-macro multiple updated 17× → 13.4×
+- **§8**: Multiples rebased to $319.45 (~13.4× FY26E, ~11.7× FY27E, ~4.1× EV/Rev, ~7% FCF yield); assessment + fair value ($480–560) refreshed
+- **§9**: Full refresh — price/positioning, post-Q3 analyst cut cluster table (RBC→$500, KeyBanc→$450, Barclays→$443, Oppenheimer→$406, Stifel→$375; Freedom Broker downgrade→Hold), median ~$502; short interest 3.73% (+39% MoM, flagged); $1.6B/$8B buyback; news (Q3, 17% layoff, Direct File, Apr-28 mgmt reorg); upcoming catalysts reset to Q4 FY26 (Aug) + Investor Day (Sep 17)
+- **§10 BAIT**: Refreshed — B/A strengthened on beat-and-raise + Direct File de-risk; honest A-lens caveat on FY27 decel; T notes new 52-wk low + buyback bid. Verdict held Triple overlap / Moderate-High
+- **§11**: Scenarios rebased to $319.45 spot, Direct File removed from all cases — Bull $720 (33%) / Base $555 (47%) / Bear $270 (20%)
+- **§12**: PW EV $566 → **$552**; expected return +43% → **+73%**; R/R 4.7:1 → **~8.1:1** (bear terminal now only ~15% below spot)
+- **§13**: Zones rederived per Rule #26 (entry $300–415, trim $555–720, exit ≥$720); thesis-break triggers swapped (removed Direct File >10%; added FY27 <10% growth + value-tier price-spread); next review → Q4 FY26 (Aug 2026)
+
+### Thesis Status
+- **Overall**: **Unchanged direction, strengthened asymmetry** — Initiate/Add maintained. Net of this print: a major structural risk (Direct File) was *removed* and FY26 guidance/buyback *improved*, while the price fell ~19% — widening the PW EV gap. Offsetting negative: FY27 revenue decel to 11–12% is a genuine new concern that caps the bull's top-line ceiling.
+- **BAIT delta**: None to the verdict (Triple overlap; Moderate-High). A-lens gains the Direct File de-risk but adds a deceleration caveat.
+- **Price target delta**: Bull $750 → $720 | Base $550 → $555 | Bear $280 → $270; PW EV $566 → $552 (3-yr). R/R 4.7:1 → ~8.1:1.
+- **Catalyst & Sentiment delta**: Consensus median $700 → ~$502 (post-Q3 cuts, all ratings held bar one small-broker downgrade); short interest +39% MoM (flagged, absolute modest); next catalyst Q3 FY26 → Q4 FY26 (Aug 2026).
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate** — $319.45; PW EV ~$552 (+73%); ~8:1 R/R; structural picture improved this cycle
+- **For a current holder**: 🟢 **Add** — sub-$360 is the most attractive entry in INTU's public history; company repurchasing $1.6B/qtr into the low
+
+**Next review trigger**: Q4 FY26 earnings + first formal FY27 guide — Aug 2026.
+
+---
+
 ## [2026-04-26] — v2.9 Schema Retrofit
 
 **Trigger**: Schema upgrade from v2.5 to v2.9 — full page rewrite applying 13-section structure, competitive landscape (Section 3), management commentary synthesis (Section 4), materiality-filtered risk table (Section 6), and all visual/source-linking rules.

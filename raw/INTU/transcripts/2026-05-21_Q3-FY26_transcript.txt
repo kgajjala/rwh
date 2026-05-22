@@ -1,0 +1,234 @@
+INTUIT Q3 FY2026 EARNINGS CALL — TRANSCRIPT SUMMARY
+Date: May 20, 2026 (fiscal Q3 ended April 30, 2026)
+Speakers: Sasan Goodarzi (CEO), Sandeep Aujla (CFO)
+
+Full transcript sources:
+  - Motley Fool: https://www.fool.com/earnings/call-transcripts/2026/05/20/intuit-intu-q3-2026-earnings-transcript/
+  - Globe and Mail: https://www.theglobeandmail.com/investing/markets/stocks/INTU/pressreleases/2049766/intuit-intu-q3-2026-earnings-transcript/
+  - Insider Monkey: https://www.insidermonkey.com/blog/intuit-inc-nasdaqintu-q3-2026-earnings-call-transcript-1766470/
+  - Intuit IR prepared remarks PDF (binary, not parseable):
+    https://investors.intuit.com/_assets/_6437e61e32dd78ea6507358a4e30a2cb/intuit/db/946/10372/webcast_transcript/Q3FY26+Earnings+Script.pdf
+
+NOTE: Full verbatim transcript not saved as binary (PDF was not parseable and transcript
+sites are paywalled). Quotes below are extracted from multiple transcript summaries and
+cross-verified. Quotation marks indicate verbatim language confirmed across sources.
+
+============================
+SASAN GOODARZI (CEO) — KEY VERBATIM QUOTES
+============================
+
+ON AI MOAT / COMPETITIVE DIFFERENTIATION:
+"Our powerful combination of proprietary data, domain-specific AI platform capabilities,
+and AI-powered human expertise is setting the standard for trusted financial intelligence."
+
+"Customers buy confidence not code. Which is why they spend at least 7x more on
+accounting and tax experts than on software alone."
+
+"The majority of people are buying confidence to get assistance, and it is irrespective
+of how much software improves."
+
+"The money that is spent on tax experts has actually gone up in the last 5 years,
+no matter how good technology becomes."
+
+ON TURBOTAX DIY PRESSURE / UNDER-$50K STRATEGY:
+"We faced pressure among the most price sensitive DIY filers earning less than
+$50 thousand a year. We lost on price."
+
+"We need a durable approach, to winning with these customers that are again less
+than $50 thousand in income."
+
+"The shift from complexity based to value based...if you earn less than $50 thousand
+and you have a W-2, you may fall into a SKU that is free."
+
+"We will evolve our business model by delivering the right lineup and price points."
+
+ON WORKFORCE REDUCTION:
+"We are reducing our full time workforce by 17% to simplify our organizational structure
+to become a faster, leaner and more focused company."
+
+"The first is we significantly reduced the number of management layers."
+
+"The second...reducing the number of what we call coordination heavy roles."
+
+"A big chunk of this, you can count on it to go to margin expansion and EPS growth."
+
+"This is all about the 3 Fs: focused organization, flatter organization, faster organization."
+
+[Note: CEO explicitly stated the workforce reduction "had nothing to do with AI"
+in terms of AI replacing workers — the cuts were organizational simplification.
+Source: CNBC headline https://www.cnbc.com/2026/05/20/intuit-ceo-says-companys-17percent-workforce-cut-had-nothing-to-do-with-ai.html]
+
+ON INTUIT ENTERPRISE SUITE (IES) / QBO ADVANCED:
+"Online ecosystem revenue for QBO Advanced and Intuit Enterprise Suite grew approximately 38%."
+
+"37% quarter over quarter growth of total Intuit Enterprise Suite contracts."
+
+"We are scaling our direct sales team by approximately 30% as we shared last quarter
+and solid productivity continues to improve."
+
+"The system of intelligence that we have created as a control tower to help businesses
+and accountants run their business...is all driven by data and AI."
+
+ON TURBOTAX LIVE:
+"TurboTax Live customers to grow 38% this year...representing over half of TurboTax
+revenue, up 11-points versus last year, a significant milestone."
+
+ON MAILCHIMP:
+"Mailchimp revenue declined slightly year over year, prompting organizational rightsizing."
+
+============================
+SANDEEP AUJLA (CFO) — KEY VERBATIM QUOTES
+============================
+
+ON FINANCIAL PERFORMANCE:
+"We exceeded the top end of our guidance across revenue, operating income and earnings per share."
+
+ON QBO ONLINE ACCOUNTING:
+"QuickBooks Online Accounting revenue grew 22%, driven by higher effective prices,
+customer growth, and mix shift."
+
+ON SUB-$50K TURBOTAX CLARIFICATION:
+"In the sub-50k segment, there are millions of customers that we serve exceptionally
+well...What Sasan is referring to is the price sensitive segment of the under-$50k,
+which is a segment of the under-$50k, not the entirety."
+
+ON MAILCHIMP STRATEGIC VALUE:
+"The Mailchimp provides cash flow profile will generate more value for Intuit than a
+third party is likely to pay for that asset in the current equity and debt environment
+for software."
+
+[Implies Mailchimp sale was evaluated and rejected — management views it as a
+profitable cash-flow asset to run for profitability rather than divest at current
+software valuations.]
+
+ON LONG-TERM EPS GROWTH:
+"We are committed to delivering annual EPS growth of at least mid-teens over the
+coming years."
+
+ON FY2027 PRELIMINARY GUIDANCE (verbatim from Globe and Mail transcript):
+"Revenue growth of 11%-12%; GAAP EPS growth of $0.73-$0.79; non-GAAP EPS growth
+of $3.56-$3.62."
+
+[These $3.56-$3.62 and $0.73-$0.79 figures are DOLLAR INCREMENT GROWTH, not absolute EPS.
+Implied FY2027 non-GAAP EPS ≈ $27.36-$27.47 ($23.80-$23.85 FY26 base + $3.56-$3.62 growth).]
+
+ON COST REDUCTION FLOW-THROUGH:
+"The majority of cost reductions we do expect to flow to the bottom line."
+
+============================
+KEY CALL METRICS / NUMBERS NOT IN PRESS RELEASE
+============================
+
+- IES contract growth: 37% QoQ (confirmed verbatim from CEO)
+- QBO Advanced + IES revenue: ~38% combined growth
+- Direct sales team scaling: ~30% expansion
+- TurboTax Live new customers: +29%
+- Credit Karma tax filers starting in CK: +54% growth
+- Total TurboTax e-file share: down ~1 point
+- Total IRS filers expected to decline: ~30 basis points industry-wide
+- Morgan Stanley analyst Keith Weiss: stock trades at "a very undemanding valuation
+  versus the durable 15%+ earnings growth"
+
+============================
+IRS DIRECT FILE — CONTEXT (NOT DISCUSSED ON CALL)
+============================
+
+IRS Direct File was terminated by Trump administration, late 2025.
+Program NOT available for 2026 tax filing season.
+No mention on Q3 FY26 earnings call.
+TurboTax DIY pressure attributed entirely to price sensitivity of sub-$50K filers,
+not government free-filing competition.
+
+Source: https://federalnewsnetwork.com/it-modernization/2025/11/irs-direct-file-will-not-be-available-in-2026-agency-tells-states/
+Source: https://www.mondaq.com/unitedstates/tax-authorities/1730108/irs-ends-direct-file-what-us-taxpayers-need-to-know-for-the-2026-filing-season
+
+============================
+ANALYST REACTIONS (POST-EARNINGS, MAY 21-22 2026)
+============================
+
+KeyBanc (Alex Markgraff): Overweight maintained; target $520 → $450
+Oppenheimer (Scott Schneeberger): Outperform maintained; target $558 → $406
+Stifel (Brad Reback): Buy maintained; target $500 → $375
+Barclays (Raimo Lenschow): Overweight maintained; target $540 → $443
+RBC Capital (Rishi Jaluria): Outperform maintained; target $600 → $500
+Freedom Broker (Almas Almaganbetov): Downgraded Strong Buy → Hold; target $600 → $430
+Morgan Stanley (Keith Weiss): Noted "very undemanding valuation versus durable 15%+ earnings growth"
+
+Consensus (stockanalysis.com, as of May 22):
+  Analysts: 20 total (7 Strong Buy, 9 Buy, 4 Hold, 0 Sell)
+  Mean target: $522.02; Median target: $502; High: $921; Low: $315
+
+Source: https://stockanalysis.com/stocks/intu/forecast/
+Source: https://www.benzinga.com/analyst-stock-ratings/price-target/26/05/52723048/these-analysts-cut-their-forecasts-on-intuit-after-q3-results
+
+============================
+STOCK PRICE REACTION
+============================
+
+Pre-earnings close (May 20, regular session): ~$384 (approximate; earnings released after close)
+May 21 regular session close: $307.07 (down ~$76.86, -20.0%)
+May 21 after-hours: ~$307.85 (stabilized, +0.25%)
+May 22 current (intraday, stockanalysis.com): $319.45 (+$12.38, +4.03%)
+May 22 session range: $306.51–$319.85
+
+52-week range: $302.36 (new low set May 22) – $813.70 (52-wk high)
+Market cap (May 22): ~$87.38B
+
+Note: Stock fell 20% on May 21 despite earnings and guidance beat. Decline driven by:
+(1) 17% workforce cut signal of deeper structural issues with TurboTax DIY
+(2) TurboTax total guidance revised slightly down ($5.305-$5.330B prior → $5.277-$5.282B)
+(3) Mailchimp declining revenue confirming GBSG drag
+(4) Market read of "confidence, not code" as admission that AI is not a revenue accelerator
+(5) FY2027 preliminary revenue guidance 11-12% is below prior consensus expectations
+
+Source: https://stockanalysis.com/stocks/intu/ (live price, May 22 2026)
+Source: https://www.investing.com/news/transcripts/earnings-call-transcript-intuit-beats-q3-2026-forecasts-but-stock-falls-93CH-4702656
+
+============================
+MANAGEMENT CHANGE (8-K FILED APRIL 28, 2026)
+============================
+
+Ashley Still (EVP, General Manager, Mid-Market Group) expanded role to lead both
+Mid-Market Group AND Small Business Group.
+Prior Small Business leader is moving to advisory role until July 2, 2026.
+Source: SEC 8-K https://www.sec.gov/Archives/edgar/data/0000896878/000089687826000020/intu-20260428.htm
+[Note: 8-K body returned 403 at ingest; details from search snippet. Verify via EDGAR.]
+
+============================
+SHORT INTEREST (AS OF MAY 2026, FINTEL)
+============================
+
+Shares short: ~10,077,375
+% of float: ~3.73%
+Days to cover: ~1.62
+MoM trend: Increased from ~6.69M to ~7.24M in prior period, then to ~10.08M currently
+  → MoM increase from ~7.24M to ~10.08M = +39% MoM increase (material, >10% threshold)
+Source: https://fintel.io/ss/us/intu
+
+============================
+INSIDER ACTIVITY (LAST 90 DAYS, APRIL-MAY 2026)
+============================
+
+No open-market purchases or sales over $1M identified from available search sources.
+Director Tekedra Mawakana: Received 64 RSUs on May 8, 2026 (equity compensation grant,
+  FMV $396.31/unit; compensation, not market purchase).
+Other Form 4 activity: RSU grants to directors (compensation grants, not open-market buys).
+OpenInsider ECONNREFUSED at time of fetch — no systematic sweep completed.
+Recommendation: Verify via http://openinsider.com/INTU for complete picture.
+
+============================
+OTHER MATERIAL EVENTS SINCE BASELINE (2026-04-26)
+============================
+
+1. [2026-04-28] Management change: Ashley Still expands to lead Small Business + Mid-Market.
+   Source: SEC 8-K https://www.sec.gov/Archives/edgar/data/0000896878/000089687826000020/intu-20260428.htm
+
+2. [Pre-2026-05] IRS Direct File permanently terminated by Trump administration.
+   This eliminates the #1 regulatory risk to TurboTax that was a key thesis watch item.
+   Source: https://federalnewsnetwork.com/it-modernization/2025/11/irs-direct-file-will-not-be-available-in-2026-agency-tells-states/
+
+3. [2026-05-20] Q3 FY26 earnings + guidance raise + 17% workforce cut. (Covered above.)
+
+4. [2026-05-20] New $8B share buyback authorization approved.
+
+5. No M&A, no regulatory actions beyond above, no credit rating changes found.

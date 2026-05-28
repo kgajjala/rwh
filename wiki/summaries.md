@@ -19,6 +19,8 @@ Manual edits below the table are preserved across runs.
 
 | Date | Material Events | Quiet | Headline | File |
 |------|----------------|-------|----------|------|
+| 2026-05-28 | 1 (SCHW) | 0 | SCHW at 52-wk low on non-fundamental selling — debt issuance + 10b5-1 insider sales; R/R improved ~2:1 → ~3.5:1; **Add** | [2026-05-28_weekly_summary.md](../outputs/weekly/2026-05-28_weekly_summary.md) |
+|------|----------------|-------|----------|------|
 | 2026-05-01 | 10 | 27 | LLY +56% rev / MSFT $190B capex / BKNG ME cut / AMZN ATH | [outputs/weekly/2026-05-01_weekly_summary.md](../outputs/weekly/2026-05-01_weekly_summary.md) |
 
 ---

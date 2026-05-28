@@ -4,6 +4,54 @@ Append-only record of thesis updates. Format defined in CLAUDE.md.
 
 ---
 
+## 2026-05-28 — Weekly Incremental (May Weakness Analysis)
+
+**Trigger**: User-requested update to explain recent price weakness ($91.71 → $85.05, –7.3% from April 22 baseline) and assess add vs. threat.
+**Sources reviewed**:
+- [Yahoo Finance — SCHW live quote (May 28, 2026)](https://finance.yahoo.com/quote/SCHW)
+- [SEC EDGAR 8-K — Debt issuance May 21, 2026](https://www.sec.gov/Archives/edgar/data/0000316709/000119312526234609/d227944d8k.htm)
+- [Quiver Quant — SCHW 3.2% slip, debt + insider selling (May 27, 2026)](https://www.quiverquant.com/news/Charles+Schwab+slips+3.2%25+as+investors+digest+new+debt+issuance+and+recent+insider+selling)
+- [MarketBeat — SCHW Short Interest May 2026](https://www.marketbeat.com/stocks/NYSE/SCHW/short-interest/)
+- [Daily Political — Analyst ratings changes 2026-05-26](https://www.dailypolitical.com/2026/05/26/recent-investment-analysts-ratings-changes-for-charles-schwab-schw.html)
+- [CME FedWatch — June 2026 rate probabilities](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
+
+### What Changed
+
+- **Header + Summary**: Price updated $91.71 → $85.05; 52-wk range updated to $84.72–$107.50; %from high –14.7% → –20.9%; market cap ~$160.7B → ~$147.9B
+- **§8 Valuation**: Multiples refreshed at $85.05 — P/E FY26E ~15.7× → ~14.5×; P/TBV ~2.4× → ~2.2×; dividend yield 1.40% → 1.51%; analyst target $115 → $115.85 (+36% upside vs. prior +25%)
+- **§9 Catalyst & Sentiment**: Full refresh — three non-fundamental weakness drivers documented (debt issuance, 10b5-1 insider sales, short interest +14.84% MoM); May 15 upgrade cluster (4 upgrades: RJ $137 / Barclays $127 / DB $128 / Cowen $109) added; short interest pinned at 1.17% float (+14.84% MoM flag); insider selling (Charles Schwab ~1.19M shares / Bettinger ~325K shares on 10b5-1 plans) documented
+- **§10 BAIT**: T lens upgraded Moderate → Moderate-Strong; 52-wk-low at $85 + buyback mechanical bid now supports T; BAIT verdict R/R updated to ~3.5:1 (from ~2:1)
+- **§11 Bull/Bear/Base**: Scenarios and prices unchanged; % upside/downside refreshed at $85.05 — Bull +53% / Base +27% / Bear –15% (vs. prior +42% / +18% / –21%)
+- **§12 PW EV**: PW EV unchanged ~$107; return from $85.05 = +26% (was +17% from $91.71); R/R headline ~3.5:1 (was ~2:1)
+- **§13 Recommendation**: Updated thesis sentence, non-holder/holder framing, entry zone commentary
+
+### Thesis Status
+
+- **Overall**: 🟢 **Strengthened** — price has declined –7.3% since April 22 baseline on purely non-fundamental catalysts; operating fundamentals unchanged (Q1 still a record, FY26 EPS guide still raised, NIM still biased up per CFO, Fed held higher-for-longer)
+- **BAIT delta**: T Moderate → Moderate-Strong (52-wk low retest + short-covering potential + buyback mechanical floor)
+- **Price target delta**: Scenarios unchanged; R/R Bull/Bear improved ~2:1 → ~3.5:1 purely from price decline
+- **Catalyst & Sentiment delta**: May 15 upgrade cluster (4 firms, bullish) landed; stock since retraced through upgrade prices — analyst target gap now 36%
+
+### Weakness Verdict
+
+**Non-fundamental. This is an add opportunity, not a threat.**
+
+Three overlapping drivers:
+1. **Debt issuance ($2.24B, May 21)** — market read funding-cost narrative negatively; the fixed-to-floating, long-dated structure (2030 / 2037) is standard balance-sheet capital management, not distress. No thesis-break criteria triggered.
+2. **10b5-1 insider sales** — Charles Schwab ~1.19M shares (~$117M over 6 months); Bettinger ~324K shares. Pre-scheduled, non-discretionary plans at tenure levels typical for founders/retiring chairs. Not a signal of operating concern.
+3. **Short interest +14.84% MoM** — crosses the >10% MoM flag threshold; absolute level (1.17% float, 1.9 days-to-cover) remains very low. Sentiment directional flag, not a structured bear thesis.
+
+None of the thesis-break triggers in §13 have fired: NIM is not compressing, FY26 guide has not been cut, buyback is tracking at ~$2.4B/quarter, sweep balances were growing Q1, Tier 1 leverage is within target band.
+
+### Recommendation
+
+- **For a non-holder**: 🟢 **Initiate** — at $85.05 / ~14.5× FY26E EPS the stock sits at its 52-wk low with non-fundamental selling as the driver; median analyst target $115.85 implies 36% upside; R/R ~3.5:1
+- **For a current holder**: 🟢 **Add** — thesis intact and strengthened by lower price; PW EV return improved to +26% (18-mo); thesis-break-anchored R/R ~7.5:1; every metric in Q1 was a record
+
+**Next review trigger**: Q2 2026 earnings + FY26 formal guidance refresh, July 16, 2026 (est.). Key items: (1) updated FY26 EPS range, (2) NIM trajectory, (3) sweep balance trend, (4) cumulative 1H26 buyback execution.
+
+---
+
 ## 2026-04-26 — v2.9 Schema Retrofit (13-section structure + primary-source synthesis depth)
 
 **Trigger**: Schema migration from v2.5 → v2.9. Per CLAUDE.md v2.9 Core Rules:

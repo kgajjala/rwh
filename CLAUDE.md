@@ -1,4 +1,4 @@
-# CLAUDE.md — kg-invest-wiki Schema (v2.15)
+# CLAUDE.md — kg-invest-wiki Schema (v2.16)
 
 Instruction file for the LLM agent that maintains this wiki. **Read this file at the start of every session before modifying `wiki/`, `raw/`, or `outputs/`.**
 
@@ -10,7 +10,7 @@ A personal, position-agnostic investment knowledge base maintained by an LLM age
 
 - **Owner**: Karthik G
 - **Started**: April 2026
-- **Schema version**: v2.15 (May 2026)
+- **Schema version**: v2.16 (May 2026)
 - **Model**: Karpathy LLM Wiki pattern, adapted
 
 ### What this wiki is *not*
@@ -156,6 +156,26 @@ kg-invest-wiki/
     - **Surface to §0 Summary only on a material capital-allocation event** — buyback authorization/execution print, dividend init/raise/cut, M&A announce/close, large debt issuance/paydown, or a capital-allocation insider-alignment signal. When such an event lands in Workflow B, refresh the §4 grade *and* add/update a one-line Outsider read in the Summary "Why / Why not". Absent such an event, the lens stays in §4 only — never decorative in the Summary.
     - The cross-ticker scoring table in `wiki/frameworks/outsiders.md` is the authoritative central record; keep the graded ticker's row in sync when its §4 grade changes.
     - **Lazy migration**: apply the §4 grade on next material update (Workflow B); do not backfill untouched tickers. Tier-1 exemplars and anti-examples are seeded now.
+28. **Conciseness & anti-duplication — state once, reference don't restate**. Reports and pages are read top-to-bottom by a human; sections do **not** each need to re-establish context. Every insight, metric, and source has exactly one canonical home and is *referenced* (not re-explained) elsewhere. This rule exists because pre-v2.16 reports restated thesis-carrying facts 5–11× and ballooned to 6,000–8,000 words with zero added insight.
+    - **Canonical homes**: live price / 52-wk / mkt cap → header (Key Stats may table it *once* more); multiples + price targets → §8; analyst / short-interest / insider / sentiment → §9; scenario targets + R/R → §11–§12; capital-return yield + Outsider grade → §4; pivotal question → Summary. Stating a fact in its canonical home licenses a one-clause reference anywhere else — never a restatement.
+    - **One R/R figure**: the canonical Bull-vs-Bear ratio (Rule #26). Never compute R/R three ways across §11/§12/Summary.
+    - **No triple pivotal-question**: once in the Summary; Business Overview carries at most a single clause, not a paragraph.
+    - **Merge overlapping prose**: Business Overview + "why it exists" are one block; BAIT lenses are one line each (not paragraphs re-listing earlier bullets); the §4 RMC arc and §6 risk-evolution are ≤2 sentences (synthesis, per Rule #21), never multi-paragraph transcription.
+    - **Per-section soft word budgets** (prose only; tables and source lists don't count). A full initial analysis targets **≤2,800 words**; a Workflow B incremental / weekly per-ticker block targets **≤250 words**.
+
+      | Block | Budget | Block | Budget |
+      |---|---|---|---|
+      | Summary | ≤300 | §6 Key Risks | ≤90 |
+      | Business + Pivotal Q | ≤150 | §7 Macro | ≤150 |
+      | Key Stats | table | §8 Valuation | ≤130 |
+      | §1 Financials | ≤130 | §9 Catalyst/Sentiment | ≤190 |
+      | §2 Revenue/Geo | ≤90 | §10 BAIT | ≤120 |
+      | §3 Moat & Landscape | ≤220 | §11+§12 Scenarios+PW EV | ≤140 |
+      | §4 Management | ≤220 | §13 Recommendation | ≤250 |
+      | §5 Growth | ≤100 | | |
+
+    - **Duplication audit (required closing step)**: Workflow A Step 6 and Workflow B Step 3a end with a duplication pass — scan the draft for any thesis-carrying phrase (a yield, a risk name, a growth stat) appearing >2× and collapse extras to a reference to the canonical home. Budgets are soft; the state-once discipline is hard.
+    - **Lazy migration**: apply on next material update; do not backfill untouched reports. The >6,000-word offenders were condensed at adoption (2026-05-30).
 
 ---
 
@@ -260,7 +280,7 @@ Compile from raw set, not media summaries. Cite primary source for every materia
 Delete legacy `overview.md` / `thesis.md` / `financials.md` if present.
 
 ### Step 6 — Generate polished report
-Write `outputs/[TICKER]/[TICKER]_initial_analysis_YYYY-MM-DD.md`.
+Write `outputs/[TICKER]/[TICKER]_initial_analysis_YYYY-MM-DD.md`. Apply Rule #28 (state-once / reference-don't-restate, per-section word budgets, ≤2,800 words) and close with the **duplication audit**: any thesis-carrying phrase appearing >2× collapses to its canonical home.
 
 ### Step 7 — Update cross-cutting files
 - `wiki/index.md` — add row, refresh ticker summary, refresh last-updated date
@@ -517,4 +537,4 @@ Browse evolution:
 - `git log -p CLAUDE.md` — full diffs
 - `git blame CLAUDE.md` — per-line attribution
 
-Each `SCHEMA: vX.Y — ...` commit body captures the *rationale*, not just the *what* — that body is the durable record. v2.15 (May 2026) is current. Major changes bump the version; minor edits within a version do not.
+Each `SCHEMA: vX.Y — ...` commit body captures the *rationale*, not just the *what* — that body is the durable record. v2.16 (May 2026) is current. Major changes bump the version; minor edits within a version do not.

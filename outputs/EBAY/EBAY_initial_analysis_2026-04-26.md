@@ -1,515 +1,188 @@
 # EBAY — eBay Inc.
 
-> **Schema**: v2.8
-> **Last Updated**: 2026-04-26
-> **Status**: Active
-> **Live Price Verified**: **$97.94** at 2026-04-26 ([Yahoo Finance](https://finance.yahoo.com/quote/EBAY))
-> **Ticker Type**: Capital-light platform / two-sided marketplace
+> **Last Updated**: 2026-04-26 · **Status**: Active · **Format**: v2.16 condensed
+> **Live Price**: **$97.94** ([Yahoo Finance](https://finance.yahoo.com/quote/EBAY), 2026-04-26) · 52-wk **$65.00–$107.34** (−8.8% from high, +50.7% off low) · Mkt cap **~$43.9B** · ~448M sh
+> **Type**: Capital-light two-sided marketplace
 
 ---
 
 ## Summary
 
-- 🟡 **Thesis**: Re-accelerated capital-light marketplace (Narrow moat in non-new-in-box / collectibles / vehicles parts) running an aggressive **~6% combined buyback + dividend yield** at ~16× FY26E NGAAP P/E — fair value with modest asymmetry, total-return holding rather than asymmetric setup.
-- 🟢 **Moat verdict**: *Narrow but widening* — focus-category authentication infrastructure (cards, luxury, sneakers, vehicles parts) + long-tail SKU coverage where Amazon/Shopify are structurally weakest.
-- ❓ **Pivotal question**: Is the FY2025 +7% GMV / Q4 +10% reacceleration a durable category-led inflection (focus categories now ~30% of GMV, growing >MSD) — *or* an AI-feature one-off about to be eroded by **agentic-commerce LLMs** (the genuinely new 2025–2026 risk vector that supersedes the legacy "Amazon erosion" narrative)?
-- 🟡 **For a non-holder: Watch / selective Initiate** — at $97.94 the stock is roughly at consensus median target ($96.86).
-- 🟡 **For a current holder: Hold** — capital return + steady reacceleration support position; trim only on rally toward $115+.
-- 🎯 **Attractive entry zone**: **$78 – $90** (~13–15× FY26E NGAAP EPS; combined yield 7%+).
-- 🎯 **Trim zone**: **$120 – $140** (19–22× FY26E NGAAP EPS; sustained reacceleration priced).
-- 📅 **Next catalyst**: **Q1 2026 earnings, early May 2026** — tests $21.5–21.9B GMV / +10–12% FX-neutral guide.
-- ⚠️ **Top risks (materiality-filtered)**: (1) **Agentic-commerce / LLM shopping disintermediation** (not yet priced in), (2) **De minimis tariff exemption removal** (in force from Aug 2025; cross-border GMV at risk; not fully priced), (3) GMV reacceleration fade.
-- 🟡 **BAIT verdict**: A Moderate + T Moderate; B/I Weak — **Conviction Low-Moderate**. R/R **~2.4 : 1** Bull-vs-Bear (per Section 13).
+- 🟡 **Thesis**: Re-accelerated capital-light marketplace (narrow-but-widening moat in non-new-in-box / collectibles / vehicles parts / authenticated luxury) running a **~6% combined buyback+dividend yield** at ~16× FY26E NGAAP P/E. Fair value, modest asymmetry — a steady total-return holding, not an asymmetric setup.
+- ❓ **Pivotal question**: Is the FY2025 +7% GMV reacceleration (Focus Categories ~30% of GMV, growing >MSD) a durable category-led inflection — *or* will **agentic-commerce LLMs** (named as a competitive risk in the FY2025 10-K for the first time) erode long-tail discovery faster than Focus Categories can offset?
+- 🟢 **Non-holder: Watch / selective Initiate** — at $97.94 ≈ consensus median ($96.86); wait for $80 or a clean reacceleration print.
+- 🟡 **Holder: Hold** — capital return + reacceleration support; trim only toward $115+.
+- 🎯 Entry **$78–$90** · Trim **$120–$140** · Exit **>$155**
+- 📅 **Next catalyst**: Q1 2026 earnings (early May) — tests $21.5–21.9B GMV / +10–12% FXN guide; first de-minimis read.
+- ⚠️ **Top under-priced risks**: (1) agentic-commerce disintermediation, (2) de-minimis exemption removal (in force Aug 2025), (3) GMV reacceleration fade.
+- 🟡 **BAIT**: A + T Moderate; B/I Weak → **Conviction Low-Moderate**. **R/R ~1.2:1 Bull-vs-Bear** (3-yr), per §11.
 
 ---
 
-## Business Overview
+## Business & Why It Exists
 
-eBay (NASDAQ: EBAY) is a global online marketplace connecting buyers and sellers across categories with a particular emphasis on used, refurbished, vintage, and collectible "non-new-in-box" inventory — the segments least directly competed by Amazon's first-party retail or Shopify-powered DTC. **FY2025 revenue was $11.1B (+8% YoY) on GMV of ~$80B (+7% YoY)** ([Q4 2025 earnings PR, 2026-02-19](https://www.prnewswire.com/news-releases/ebay-inc-reports-fourth-quarter-and-full-year-2024-results-302386541.html); [10-K FY2025](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm)). Q4 2025 revenue grew 15% (13% FX-neutral) and GMV grew 10% (8% FX-neutral) — the strongest quarterly print in years.
-
-The business reaccelerated after a multi-year structural decline (2018–2023) via a strategic pivot into **Focus Categories**:
-
-- Trading cards (organic + Goldin Auctions acquisition)
-- Motors parts & accessories (P&A)
-- Luxury (handbags, watches, sneakers via Authenticity Guarantee)
-- Refurbished electronics
-- Pre-owned apparel (Depop)
-
-Per the FY2025 10-K, **Focus Categories now represent ~30% of total GMV and grow faster than the broader marketplace** — the central data point of the bull thesis. The 2024–2026 "AI-first marketplace" investment cycle (magical listing, AI search, image-based discovery, Gen AI prefilled listings, AI shopping-agent pilot) is positioned as the next leg.
-
-Capital return is aggressive and disciplined: **$2B incremental buyback authorization** announced with Q4 2025 earnings (on top of the existing program), dividend raised 7% to $0.31/quarter. eBay returned **$756M to stockholders in Q4 2025 alone** ($625M repurchases + $131M dividends).
+eBay (Omidyar, 1995) built perfect-information markets for hard-to-value, unique, vintage, and collectible "non-new-in-box" inventory — the segments structurally least suited to Amazon 1P or Shopify DTC, defended by feedback/reputation + authentication. After a multi-year structural decline (2018–2023), it reaccelerated by refocusing on **Focus Categories** — trading cards (organic + Goldin), motors parts & accessories, luxury (handbags/watches/sneakers via Authenticity Guarantee), refurbished electronics, pre-owned apparel (Depop) — now **~30% of GMV and outgrowing the marketplace** ([10-K FY2025](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm)). The 2024–2026 "AI-first marketplace" cycle is the next leg. The bull case needs Focus Categories to sustain >MSD growth and AI agents to become defensible distribution rather than disintermediation; the bear case is agentic commerce bypassing eBay's discovery layer while Vinted/Whatnot/StockX fragment the high-value verticals.
 
 ---
 
-## Pivotal Investment Question
+## Key Stats
 
-> Has eBay successfully pivoted from a declining horizontal e-commerce site into a structurally-growing **focus-category + circular-economy** marketplace, justifying an inflection re-rate from the historical 11–13× P/E to 16–20× — *or* will the **agentic-commerce / LLM-driven shopping disintermediation** wave (explicitly cited as a risk in the FY2025 10-K for the first time) erode long-tail discovery faster than focus categories can offset, returning eBay to LSD growth?
-
-The bull case requires (a) Focus Categories sustain >MSD growth and continue gaining mix share, (b) advertising / promoted-listings revenue continues to scale as the highest-margin layer, (c) AI shopping-agent pilots evolve into defensible distribution rather than disintermediation, and (d) capital return (~6%+ combined yield) supports the equity through any near-term GMV deceleration. The bear case argues agentic commerce (Perplexity, ChatGPT shopping, Amazon Rufus, Google AI Mode) bypasses eBay's discovery layer for long-tail items, while Vinted, Whatnot, and StockX continue to fragment the highest-value resale verticals.
-
----
-
-## Key Stats Snapshot
-
-| Metric | Value | Notes |
-|---|---|---|
-| Live Price | **$97.94** | 2026-04-26 ([Yahoo Finance](https://finance.yahoo.com/quote/EBAY)) |
-| 52-Week High | $107.34 | –8.8% from high |
-| 52-Week Low | $65.00 | +50.7% above low |
-| Market Cap | ~$43.9B | [Yahoo Finance](https://finance.yahoo.com/quote/EBAY) |
-| Shares Outstanding | ~448M | Implied from price/cap |
-| FY2025 Revenue | $11.1B | +8% YoY |
-| FY2025 GMV | ~$80B | +7% YoY |
-| Active Buyers (FY25) | 135M | per [10-K FY2025](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm) |
-| Live Listings (FY25) | 2.5B | per 10-K FY2025 |
-| Focus Categories % GMV | ~30% | per 10-K FY2025; outgrowing core |
-| Q4 2025 Revenue / GMV | $3.0B / $21.2B | +15% / +10% |
-| Q4 2025 NGAAP EPS | $1.41 | |
-| Q1 2026 Revenue Guide | $3.00–3.05B | +13–15% FX-neutral |
-| Q1 2026 GMV Guide | $21.5–21.9B | +10–12% FX-neutral |
-| Q1 2026 NGAAP EPS Guide | $1.53–1.59 | +12–16% YoY |
-| FY2026 GMV Outlook | ~+7% FX-neutral | similar to FY25 |
-| Quarterly Dividend | $0.31/share | +7% raise; ~1.27% yield ([Yahoo Finance](https://finance.yahoo.com/quote/EBAY)) |
-| Buyback (Q4 25) | $625M repurchased | $2.0B incremental authorized |
-| Short Interest | ~3.83% of float | rising; [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/EBAY/short-interest/) / [Fintel](https://fintel.io/ss/us/ebay) |
-| Analyst Median PT | $96.86 | at-spot |
-| TTM P/E | 22.99× | [Yahoo Finance](https://finance.yahoo.com/quote/EBAY) |
-
----
-
-## Section 1 — Why Does This Company Exist? + Pivotal Investment Question
-
-**Founding insight (Pierre Omidyar, 1995)**: Online auctions could create perfect-information markets for hard-to-value, unique, vintage, or one-off items — the opposite of what early Amazon was structurally suited for. Trust mechanisms (feedback ratings) plus payment integration (later PayPal) would dissolve the C2C friction problem.
-
-**Today**: eBay has refocused around the original insight — non-new-in-box, collectibles, vintage, refurbished, luxury, vehicles parts — where the auction / best-offer model + authentication infrastructure + reputation system create durable value. The horizontal "everything-marketplace" ambition has been ceded to Amazon and Shopify-powered DTC. The strategic question is whether the focused-category model is a structural growth business or merely a slower-decay decline.
-
-The pivotal question for the next 12–24 months: do agentic-commerce LLMs disintermediate eBay's discovery layer (the bear thesis the FY2025 10-K *itself* names for the first time), or does eBay's authenticated long-tail SKU coverage become *more* valuable as agents need a verified inventory layer to query?
-
----
-
-## Section 2 — Annual Financial Metrics
-
-| Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Q1 2026 Guide |
-|---|---|---|---|---|---|---|
-| Revenue | $10.42B | $9.79B | $10.11B | $10.28B | $11.1B | $3.00–3.05B |
-| YoY Growth | +17% | –6% | +3% | +2% | **+8%** | +13–15% FXN |
-| GMV | $87.4B | $73.9B | $73.2B | $74.4B | **~$80B** | $21.5–21.9B |
-| Take Rate (rev/GMV) | 11.9% | 13.2% | 13.8% | 13.8% | ~13.9% | ~14% |
-| GAAP Op Margin | ~25% | ~24% | ~24% | ~25% | ~26% (est.) | — |
-| Non-GAAP EPS | $4.06 | $4.21 | $4.24 | $4.91 | ~$5.50–5.75 *[Estimate]* | $1.53–1.59 |
-| Active Buyers | 147M | 134M | 132M | 134M | 135M | — |
-
-**FY2025 was the strongest growth year since the 2021 pandemic comparison cycle** — revenue +8%, GMV +7%, with Focus Categories ~30% of GMV outgrowing the marketplace. Take rate has expanded ~200bps since FY2021 driven by managed payments embedding + advertising scale-up (the highest-margin layer).
-
-### Primary Source: 10-K Segment Detail (FY2021 → FY2025)
-
-Multi-year MD&A read from the FY2021–FY2025 10-Ks ([FY25](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm), [FY24](https://www.sec.gov/Archives/edgar/data/1065088/000106508825000037/ebay-20241231.htm), [FY23](https://www.sec.gov/Archives/edgar/data/1065088/000106508824000036/ebay-20231231.htm), [FY22](https://www.sec.gov/Archives/edgar/data/1065088/000106508823000006/ebay-20221231.htm), [FY21](https://www.sec.gov/Archives/edgar/data/1065088/000106508822000006/ebay-20211231.htm)):
-
-- **The active-buyer count stopped declining in FY2024 and inflected positive in FY2025** (132M → 134M → 135M) — the first time eBay has stabilized the buyer base since the 2020 pandemic peak. This is the underlying data point that supports the Focus Categories thesis: eBay is no longer *losing* its buyer base.
-- **Take rate has expanded ~200bps over five years** (11.9% → ~13.9%) without obvious seller backlash. Drivers per MD&A: managed payments fully embedded post-PayPal (FY2021–FY2022 transition complete), promoted-listings advertising attach growing materially faster than marketplace, store-fee architecture refinements.
-- **Focus Categories went from "we are investing" framing in FY2022 10-K to "~30% of GMV and outperforming the broader marketplace" framing in FY2025 10-K** — this is a multi-year strategic pivot that has now produced measurable mix shift.
-- **Cross-border / international was 51% of GMV in FY2025**, up modestly from prior years — but is now the segment most exposed to the de minimis tariff change (see §8).
-- **Advertising revenue grew at a multiple of marketplace revenue every year FY2021–FY2025**, but eBay has historically *not broken out* the absolute promoted-listings revenue line — a transparency gap that limits both bull and bear modeling and is itself a Section 8 risk.
-
----
-
-## Section 3 — Geographic Revenue Mix
-
-| Region | FY2025 GMV Share | Notes |
-|---|---|---|
-| United States | ~49% | Modest YoY share gain |
-| International | ~51% | UK + Germany + rest of Europe primary; Korea (Gmarket sold) no longer material |
-
-**Forward-looking dynamic**: International is structurally the higher-growth half of the business (Focus Categories like Authenticity Guarantee scale faster in luxury-dense Western European markets). However, **international is also the half most exposed to**: (a) **de minimis exemption removal** (US duty-free imports under $800 ended for China/HK May 2025, all parcels Aug 2025; EU follows July 2026, UK expected to follow), (b) **DSA / OSA compliance burden** in EU/UK, and (c) FX. Net read: international remains the growth engine, but the regulatory tape is structurally tightening.
-
----
-
-## Section 4 — Revenue Mix & Business Model
-
-| Stream | FY2025 Mix | Comment |
-|---|---|---|
-| Marketplace (transaction commissions, store/insertion fees) | ~70% | Core take rate ~12–13% of GMV |
-| Advertising (promoted listings, first-party ad tools) | ~20% | Highest-margin, fastest-growing layer |
-| Payments (managed payments / financial services) | ~5% | Post-PayPal in-house |
-| Other (Depop, classifieds, services) | ~5% | Includes Depop |
-
-**Business model**: Two-sided marketplace; commission take rate on transactions + ad-funded promoted listings + first-party payment processing. Capital-light: no inventory holding, sellers ship. ~25–30% non-GAAP operating margins; high FCF conversion.
-
-**Key margin lever**: Advertising / promoted listings — the highest-margin layer, growing materially faster than marketplace. Continued monetization compounds margin even at modest GMV growth. The **transparency gap** (eBay does not publish promoted-listings revenue as a discrete line) prevents external modelers from cleanly isolating this lever — which is *both* an analytical opportunity (Section 12 BAIT-A) and a risk (Section 8).
-
----
-
-## Section 5 — Competitive Moat
-
-**Rating: Narrow (and widening in focus categories)**.
-
-Network effects in non-new-in-box, collectibles, vehicles parts, and authenticated-luxury are real and durable. The horizontal long-tail marketplace is structurally contested by Amazon, Shopify-powered DTC, Walmart Marketplace, and — newly in 2025–2026 — by agentic-commerce LLMs.
-
-| Source | Strength | Evidence |
-|---|---|---|
-| Network effect in Focus Categories | Strong | Focus Categories ~30% of GMV, outgrowing marketplace ([10-K FY2025](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm)) |
-| Authentication infrastructure | Strong | Authenticity Guarantee live for sneakers, handbags, watches, trading cards, jewelry; competitive moat vs. unverified C2C |
-| Long-tail SKU coverage | Strong | 2.5B live listings — broadest non-Amazon catalog in Western e-com |
-| Vehicles Parts & Accessories | Strong | Category-leading position; Amazon underweight |
-| Two-sided buyer/seller base | Moderate | 135M active buyers (stabilized in FY24, inflected in FY25); ~18M+ sellers |
-| International (UK, DE, EU) presence | Moderate | 51% of GMV; established marketplace stickiness |
-| Depop (Gen Z resale) | Moderate | Gen Z foothold; international expansion |
-
-**Vulnerabilities**:
-- **Agentic commerce (NEW)** ⚠️ — LLM shopping agents (ChatGPT, Perplexity, Rufus, Google AI Mode) potentially bypass eBay's discovery layer for long-tail items; FY2025 10-K explicitly cites *"AI-powered tools (such as agents and chatbots)"* as a competitive threat for the first time.
-- **Amazon dominates new-in-box / mainstream** — eBay continues to lose this share each year.
-- **Vinted (private, EU)** — fastest-growing C2C fashion resale in Europe; zero seller fees; ~$10B+ GMV.
-- **Whatnot** — live-shopping, ~$8B GMV in 2025, ~60% market share of NA+EU live commerce; threatens cards/collectibles vertical.
-- **StockX / GOAT** — sneaker authentication verticals; StockX surpassed 60M lifetime trades in 2024.
-- **Fanatics** — owns Topps; integrating cards retail + collectibles + sports licensing; the most strategic 2024–2026 competitive escalation in eBay's highest-margin focus category.
-
-### Competitive Landscape
-
-| Peer | Type | Scale (latest) | Moat Vector / Threat to EBAY |
-|---|---|---|---|
-| **Amazon** ([AMZN](https://finance.yahoo.com/quote/AMZN)) | Horizontal marketplace + 1P retail | ~$700B+ GMV (1P+3P) | New-in-box dominance; Rufus AI agent encroaches on long-tail discovery |
-| **Mercado Libre** ([MELI](https://finance.yahoo.com/quote/MELI)) | LatAm marketplace | ~$50B+ GMV | Geographic complement, not direct overlap |
-| **Etsy** ([ETSY](https://finance.yahoo.com/quote/ETSY)) | Handmade / vintage vertical | ~$13B GMV | Vintage overlap; smaller and growth-challenged |
-| **Vinted** (private, EU) | C2C fashion resale | ~$10B+ GMV; 80M users | Zero-fee buyer-pays model; gaining EU fashion share fast; biggest direct EU resale threat |
-| **Whatnot** (private) | Live-stream commerce | ~$8B GMV (FY25), ~60% NA+EU live-commerce share, $1B revenue (2025, +178% YoY) | Threatens cards/collectibles/sneakers — eBay's highest-margin verticals |
-| **StockX** (private) | Sneaker / streetwear auth | 60M+ lifetime trades, 20M+ buyers | Sneaker vertical dominance; authentication arms race |
-| **Poshmark** (Naver-owned) | C2C fashion resale | ~80M users, ~$2B GMV | US fashion overlap; mature, low growth |
-| **Mercari** (TYO-listed) | C2C marketplace | ~$10B JP GMV; smaller US | Beginner-friendly UX; modest direct overlap |
-| **Depop** (eBay subsidiary) | Gen Z fashion resale | ~$550M GMV | eBay-owned; incremental rather than competing |
-| **Facebook Marketplace** (META) | Free C2C local | very large unmonetized | Free-tier C2C floor; structural pricing pressure |
-| **Fanatics** (private) | Sports licensing + Topps cards | private, multi-billion | Most strategic threat in trading-cards focus category |
-
-**How eBay's moat differs and the supporting evidence**:
-
-- **Breadth × authentication is the differentiator**: no other platform combines 2.5B authenticated-where-needed long-tail listings across cards + luxury + vehicles + apparel + electronics. Vinted is fashion-only. Whatnot is live-only. StockX is sneakers-only. Amazon is new-in-box-first. The evidence: **active-buyer count stabilized in FY24 and inflected positive in FY25** — eBay is no longer losing buyers despite 5+ aggressive vertical entrants.
-- **Vehicles Parts & Accessories is structurally moated** — the long-tail of fitment-specific auto parts is poorly served by Amazon and impractical for vertical disruptors. P&A is one of the largest Focus Categories and one of the most defensible.
-- **Authentication-as-a-service compounds**: every additional vertical added (cards 2022, jewelry 2024, etc.) makes the next vertical cheaper to add — operating leverage on a moat-deepening capex line.
-
-**Honest tail-risk read**: **Whatnot is the most worrying competitor** — well-capitalized, growing >150%/yr, attacking eBay's highest-margin verticals (cards, sneakers, collectibles) with a fundamentally different live-shopping UX. eBay's response (Live launched 2022) has not produced material scale. **Fanatics + Topps** is the second-most-worrying — vertical integration of cards licensing into a marketplace eBay does not own. **Agentic commerce is the wildcard**: if LLM shopping agents become primary discovery for long-tail items, eBay's catalog becomes infrastructure (low-margin) rather than destination (high-margin).
-
----
-
-## Section 6 — Management & Leadership
-
-**Jamie Iannone (CEO)**: Joined April 2020 from Walmart eCommerce (where he ran Walmart.com + SamsClub.com). Previously had a 13-year tenure at eBay (2001–2014). Architect of the Focus-Category strategy + AI investment cycle + managed-payments completion + active-buyer stabilization. Track record under Iannone: revenue back to growth, GMV reaccelerating, capital return aggressive, take rate +200bps.
-
-**Steve Priest (CFO)**: Drives operational discipline + capital-allocation cadence. Track record of meeting/beating quarterly guidance and disciplined buyback execution.
-
-**Capital allocation discipline**:
-- 💰 **Buybacks**: Aggressive and consistent. $2.0B incremental authorization announced with Q4 2025 results. eBay returned **$625M of repurchases + $131M dividends = $756M total in Q4 2025 alone** ([Q4 2025 PR](https://www.prnewswire.com/news-releases/ebay-inc-reports-fourth-quarter-and-full-year-2024-results-302386541.html)). Share count has shrunk from ~680M (FY2020) → ~448M (current) — a ~34% reduction in 6 years.
-- 💰 **Dividend**: $0.31/quarter (raised 7% with Q4 25 earnings); ~1.3% yield.
-- 💰 **M&A**: Bolt-on focused — Goldin (premium cards auctions), Depop (Gen Z resale), authentication centers. Notably *no* mega-deals; legacy PayPal-spin-style discipline preserved.
-- 💰 **Combined return**: ~5.5–6% combined buyback + dividend yield is one of the highest in capital-light tech platform names.
-- **Stock-based compensation**: Reasonable for tech peer set; not the source of the share-count reduction (real net buyback).
-
-### Recent Management Commentary — Primary Source Synthesis
-
-**Note on letter pattern**: eBay is **Pattern C** (per Core Rule #19) — no standalone annual or quarterly shareholder letter. Iannone's formal commentary lives in (a) quarterly earnings press releases, (b) earnings call prepared remarks, and (c) the DEF 14A (proxy) introductory letter. The synthesis below draws from the FY2021–FY2025 quarterly earnings PR commentary archive ([eBay IR Quarterly Results](https://investors.ebayinc.com/financial-information/quarterly-results/)).
-
-#### Verbatim quotes mapped to investment relevance
-
-- *"In 2025, eBay enabled nearly $80 billion of Gross Merchandise Volume."* — [10-K FY2025](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm). **Investment relevance**: First fiscal year since 2021 with a clean upward GMV inflection; validates the Focus-Category pivot is producing measurable absolute scale.
-- *"Focus Categories, such as motor vehicles parts and accessories, collectibles, refurbished items, apparel, luxury goods and sneakers"* combined with *"enhanced search, AI-powered discovery tools and curated experiences"* — [10-K FY2025](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm). **Investment relevance**: Focus Categories are the explicit strategic answer to horizontal-marketplace decline.
-- *"AI shopping agent pilot that delivers personalized search results tailored to individual preferences"* — [10-K FY2025](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm). **Investment relevance**: eBay is positioning to participate in (rather than be disintermediated by) the agentic-commerce wave — but the pilot is unproven and the same 10-K explicitly cites agentic-commerce as a *risk*.
-- Q4 2025: announced **$2.0B incremental buyback authorization + 7% dividend raise** — [Q4 2025 PR](https://www.prnewswire.com/news-releases/ebay-inc-reports-fourth-quarter-and-full-year-2024-results-302386541.html). **Investment relevance**: Capital-allocation signal of management confidence in FCF durability through the agentic-commerce transition.
-
-#### 5-Year Strategic Framework Arc (FY2021 → FY2025)
-
-The Iannone framework has evolved through three coherent stages, traceable across the FY2021–FY2025 10-Ks and earnings PRs:
-
-- **FY2021–FY2022 — "Tech-led reimagination"**: Managed payments rollout completion; PayPal disentanglement; initial Focus-Category investments (cards via vertical investment, motors P&A, refurbished). Active buyers declining 147M → 134M; take rate beginning to expand on managed-payments embed. Strategic message: *"reimagine the marketplace from the ground up."*
-- **FY2023–FY2024 — "Focus-Category compounding + Authentication scaling"**: Authenticity Guarantee expansion across categories; Goldin acquired into cards; Depop's Gen Z thesis maturing. Active buyers stabilize. Take rate continues +50–100bps/yr expansion. Strategic message: *"win where we have right-to-win."*
-- **FY2025 — "AI-first marketplace + agentic positioning"**: Gen AI prefilled listings, image search, AI shopping-agent pilot. Active buyers inflect to 135M (positive YoY). GMV +7% YoY — strongest since 2021 comparison cycle. Capital return accelerated ($2B incremental buyback). Strategic message: *"compounding focus categories with AI as accelerant — and as defense."*
-
-The capital-allocation track record under Iannone is the cleanest signal: **share count reduced ~34% in 6 years** with no debt-funded mega-deals and no value-destructive acquisitions. That discipline plus the FY25 operational inflection is the bull case in three numbers.
-
-**Insider activity (last 90 days)**: Net selling — 66,910 shares sold trailing 90 days, no buys. Routine 10b5-1 plan executions following stock appreciation toward 52-wk highs. **Neutral signal**: no clusters, no executive-level concentrated selling, but no accumulation either. Consistent with stock approaching the analyst median target.
-
----
-
-## Section 7 — Strategic Growth Initiatives
-
-1. **Focus Categories** — cards (Goldin + organic), motors P&A, luxury (handbags, watches, sneakers via Authenticate), refurbished electronics, pre-owned apparel (Depop). Now ~30% of GMV; the central operating bet.
-2. **AI-first marketplace + Gen AI** — magical listing (one-photo upload → full listing), image search, generative descriptions, smart pricing, AI shopping-agent pilot.
-3. **Advertising scale-up** — promoted listings + first-party advertising solutions; the highest-margin revenue layer; structural margin expansion lever.
-4. **Authentication-as-a-service infrastructure** — every new vertical added compounds the cost basis on the moat.
-5. **Depop** — Gen Z resale; international expansion as the demographic-renewal channel.
-6. **Vehicles P&A international expansion** — long-tail-fitment auto parts in Europe; structural Amazon-resistant category.
-
----
-
-## Section 8 — Key Risks (Materiality-Filtered)
-
-The FY2025 10-K Item 1A enumerates **27 risk factors**. The table below filters to **risks materially differentiated from peers, not yet priced in, tied to specific thesis-break triggers, or tied to large discretionary investments** — per the materiality filter. Generic e-commerce / cyber / FX / payments-regulation boilerplate is dropped from the headline table; those risks exist for every peer and add no analytical edge.
-
-| Risk | Impact | Probability | Notes |
-|---|---|---|---|
-| ⚠️ **Agentic-commerce / LLM shopping disintermediation** | High | 35% | **NEW in FY2025 10-K**: *"AI-powered tools (such as agents and chatbots)"* explicitly named as competitive threat. **NOT yet priced in** — consensus models do not haircut long-tail discovery share loss. Tied to thesis-break trigger: AI-search referral traffic > –15% YoY. |
-| ⚠️ **De minimis exemption removal — cross-border GMV erosion** | High | 60% | **NEW in FY2025 10-K**: US ended for CN/HK May 2025; all parcels Aug 2025; EU July 2026; UK expected to follow. ~51% of GMV is international with material cross-border exposure. **Partially priced in** but not fully — 2026 international GMV deceleration would re-test the multiple. |
-| GMV reacceleration fades to ≤ +3% FX-neutral | High | 30% | Single biggest legacy bear thesis. Tied to thesis-break trigger: 2 consecutive Q with GMV growth < +3% FXN. |
-| ⚠️ **Whatnot vertical share loss in cards/sneakers/collectibles** | Medium | 40% | Whatnot $8B GMV (+167% YoY), 60% share NA+EU live commerce. Attacks eBay's highest-margin Focus Categories. **Not fully priced in** — eBay Live has not produced material scale response. |
-| Fanatics + Topps strategic escalation in cards | High | 25% | Vertical integration of cards licensing into a marketplace eBay does not own. Highest-margin Focus Category at risk. |
-| Advertising / promoted-listings transparency gap → modeling risk | Medium | (structural) | eBay does not break out promoted-listings revenue as a discrete line. Limits both bull modeling (margin expansion sized) and bear modeling (saturation point). |
-| AI investment ROI uncertainty (large discretionary capex) | Medium | 30% | AI shopping-agent pilot, Gen AI listing tools, image-search rebuild = multi-year multi-hundred-million capex with no proven incremental GMV attribution. Material discretionary investment with uncertain outcomes. |
-| Take rate compression from seller backlash | Medium | 20% | Take rate +200bps in 5 years. Sustained pressure could trigger seller migration to zero-fee Vinted-style models. |
-| Recession / consumer discretionary weakness | High | 25% | Cyclical exposure; partially mitigated by counter-cyclical resale demand. |
-| Authentication / trust failure (reputational tail) | High | 5% | Tail risk; would damage Focus-Category moat disproportionately. |
-
-### 5-Year Risk Factor Evolution (FY2021 → FY2025) — synthesis
-
-The genuine multi-year shift in management's worldview, read from the FY2021 → FY2025 10-K Item 1A diffs ([FY25](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm), [FY24](https://www.sec.gov/Archives/edgar/data/1065088/000106508825000037/ebay-20241231.htm), [FY23](https://www.sec.gov/Archives/edgar/data/1065088/000106508824000036/ebay-20231231.htm), [FY22](https://www.sec.gov/Archives/edgar/data/1065088/000106508823000006/ebay-20221231.htm), [FY21](https://www.sec.gov/Archives/edgar/data/1065088/000106508822000006/ebay-20211231.htm)): **the FY2025 10-K added two structurally new high-impact risks that no prior 10-K had named** — (1) **agentic-commerce / AI shopping-agent disintermediation** as a discrete competitive threat, and (2) **de minimis exemption elimination** as a cross-border GMV risk now in force in the US (Aug 2025) and pending in EU (July 2026) and UK. Earlier 10-Ks were dominated by payments-transition risk (FY21–FY22), then DSA/OSA compliance and PayPal-distribution-related liabilities (FY23–FY24); both have now substantially de-risked. Net read: management's risk lens has evolved from *"can we finish managed payments and digest regulation?"* (legacy concerns, mostly resolved) to *"can we defend long-tail discovery against agentic AI and absorb a structural cross-border tax shock?"* (genuinely new, not yet priced).
-
----
-
-## Section 9 — Industry-Specific Macro Analysis
-
-**TAM**: Global e-commerce ~$6T+; non-new-in-box / resale / collectibles ~$200–450B near-term (secondhand e-com forecast at ~$448B by 2025 per Statista) and expanding with circular-economy + Gen Z preferences. eBay's ~$80B GMV captures meaningful share of the focused subset.
-
-**Structural dynamics**:
-- Resale / circular economy has durable tailwinds — environmental, generational, value-driven.
-- Collectibles (cards, vintage, luxury watches/handbags) saw a major bull cycle 2020–2022; volumes now stabilized at elevated levels.
-- Authentication-as-a-service is the recurring competitive battlefield (StockX, GOAT, Fanatics in cards, Whatnot in live).
-- **Agentic commerce** is the genuinely new 2025–2026 macro shift: LLM shopping agents (ChatGPT, Perplexity, Rufus, Google AI Mode) may evolve from product research → fully autonomous transactions, potentially restructuring marketplace economics around inventory-API access rather than consumer-facing destinations.
-
-**Regulatory tape**:
-- **De minimis tariff exemption** ended for US imports under $800 (CN/HK May 2025; all parcels Aug 2025); EU July 2026; UK to follow. Direct cross-border GMV headwind.
-- **EU Digital Services Act (DSA)** in force; **UK Online Safety Act (OSA)** implementation costs ongoing.
-- **State sales tax / marketplace facilitator** fully embedded; no longer a delta.
-
-**Macro**: Consumer discretionary mixed; resale tends to be counter-cyclical (recession-friendly). Net of the regulatory tape, the macro setup is mixed-to-modestly-favorable for the resale cohort, with eBay capturing the highest-quality / highest-authentication segment.
-
----
-
-## Section 10 — Valuation & Comparable Analysis
-
-### Current Multiples (2026-04-26, $97.94 / ~$43.9B market cap)
-
-| Metric | Value | Notes |
-|---|---|---|
-| EV / FY25 Revenue | ~3.7× | |
-| EV / FY26E Revenue | ~3.4× | Reacceleration year |
-| P/E TTM (GAAP) | 22.99× | [Yahoo Finance](https://finance.yahoo.com/quote/EBAY) |
-| P/E TTM (Non-GAAP) | ~17–18× | |
-| P/E FY26E (Non-GAAP) | ~15–16× | *[Estimate]* $6.20–6.40 NGAAP EPS FY26 |
-| EV / FY26E Adj EBITDA | ~13× | |
-| FCF Yield | ~6–7% | Strong absolute |
-| Dividend Yield | 1.27% | $1.24/yr ([Yahoo Finance](https://finance.yahoo.com/quote/EBAY)) |
-| Net Buyback Yield | ~4–5% | $2B incremental + ongoing |
-| **Combined Capital Return Yield** | **~5.3–6.3%** | Plus buyback compounding |
-| Analyst Median Target | $96.86 | At-spot |
-| Range | $65 – $117 | |
-
-### Comparable Peer Set
-
-| Peer | FY26E P/E | Growth | Notes |
-|---|---|---|---|
-| EBAY | ~15–16× | +5–8% | This page |
-| AMZN | ~30× | +10% | Premium for AWS + retail compounding |
-| ETSY | ~13–15× | +LSD | Slower growth + structurally weaker |
-| MELI | ~30× | +25% | LatAm growth premium |
-| BABA | ~9× | LSD | China discount, structural |
-| PINS | ~17× | +10% | Discovery / ad-platform comp |
-
-**Assessment**: EBAY trades at a **~50% multiple discount to AMZN/MELI** given slower growth, but the FY25 inflection (active buyers positive, GMV +7%, take rate expanding) is real and is *not* priced in if Focus Categories sustain >MSD growth. A re-rate to 18–20× FY26E NGAAP EPS implies $112–125 — closer to Morgan Stanley's $117 PT. At spot ~$98, the asymmetry is positive but modest — consensus median is at-spot, signaling fair value.
-
-The trough-vs-normalized framing has shifted: this is no longer a "trough multiple on a declining business" setup (the FY22–FY23 read). It is now a **"fair multiple on a stabilized-and-modestly-growing business with a real but un-priced agentic-commerce risk overlay"** setup. The trough was 2023; we are now mid-cycle.
-
----
-
-## Section 11 — Catalyst & Sentiment Tracker
-
-### Live Price & Positioning
-
-- **Price**: $97.94 (2026-04-26)
-- **52-week range**: $65.00 – $107.34
-- **% from 52-wk high**: –8.8% (near highs)
-- **% above 52-wk low**: +50.7% (major recovery from 2025 lows)
-- **Market cap**: ~$43.9B
-
-### Analyst Consensus (April 2026)
-
-- 🟡 **Aggregate rating**: Mixed Buy/Hold (mostly Hold consensus per [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/EBAY/))
-- **Median price target**: $96.86 (at-spot)
-- **Range**: $65 – $117 (Morgan Stanley high)
-- **Implied upside**: ~flat to median; +20% to high
-- Sources: [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/EBAY/), [Benzinga](https://www.benzinga.com/quote/EBAY), [TipRanks](https://www.tipranks.com/stocks/ebay/forecast)
-
-### Recent Analyst Actions
-
-| Date | Firm | Action | Target | Note |
+| Metric | Value | | Metric | Value |
 |---|---|---|---|---|
-| 2026-04-21 | Cantor Fitzgerald | 🟡 Neutral; PT raised | $90 → $100 | +11% |
-| 2026-04-10 | Morgan Stanley | 🟢 PT $117 | $117 | +20% implied |
-
-### Short Interest
-
-- **Latest**: ~3.83% of float (14.93M shares, up from 13.20M)
-- **Trend**: Rising — bears adding modestly into price strength
-- ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/EBAY/short-interest/) / [Fintel](https://fintel.io/ss/us/ebay))
-
-### Insider Activity (Last 90 Days)
-
-- Net selling: 66,910 shares sold (trailing 90 days); no buys
-- Routine 10b5-1 plan executions consistent with stock approaching 52-wk highs
-- **No directional signal** — neutral
-
-### Recent Corporate News (Last 90 Days)
-
-- **[2026-02-19] [Earnings]** — Q4 2025 / FY2025 results: revenue +15% Q4, GMV +10%; **$2.0B incremental buyback authorization**; dividend +7% to $0.31/qtr ([Q4 2025 PR](https://www.prnewswire.com/news-releases/ebay-inc-reports-fourth-quarter-and-full-year-2024-results-302386541.html); [10-K FY2025](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm))
-- 🟢 **[2026-04-21] [Analyst]** — Cantor Fitzgerald PT $90 → $100 (Neutral) ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/EBAY/))
-- 🟢 **[2026-04-10] [Analyst]** — Morgan Stanley PT $117 ([Yahoo Finance](https://finance.yahoo.com/quote/EBAY))
-- 💰 **[2026-03-20] [Capital]** — $0.31/share dividend payment ([eBay IR](https://investors.ebayinc.com/financial-information/dividend-history/))
-- **[2025–2026] [Regulatory]** — De minimis exemption ended for all US parcels Aug 29, 2025; EU follows July 2026 ([10-K FY2025 Item 1A](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm))
-
-### Upcoming Catalysts
-
-| Date | Event | Why It Matters |
-|---|---|---|
-| 📅 **Q1 2026 Earnings — early May 2026** | Earnings | Tests $21.5–21.9B GMV / +10–12% FXN guide; first read on de minimis impact |
-| 📅 Q2 2026 Earnings — early Aug 2026 | Earnings | Sustainability of GMV reacceleration; full quarter of post-de-minimis cross-border |
-| 📅 Spring 2026 | DEF 14A proxy filing | Iannone/Chairman intro letter; comp + governance |
-| Ongoing | Buyback execution pace | $2.0B incremental authorization deployment |
-| 2026 H2 | EU de minimis effective date (July 2026) | Cross-border GMV stress test |
-| 2026–2027 | AI shopping-agent pilot rollout | Defensible distribution vs. disintermediation |
+| FY25 Revenue | $11.1B (+8%) | | Q4'25 NGAAP EPS | $1.41 |
+| FY25 GMV | ~$80B (+7%) | | Active buyers | 135M |
+| Live listings | 2.5B | | Focus Cat % GMV | ~30% |
+| Quarterly dividend | $0.31 (+7%, ~1.3% yld) | | Short interest | ~3.83% float (rising) |
+| Buyback (Q4'25) | $625M ($2.0B incremental auth) | | Analyst median PT | $96.86 (at-spot) |
+| P/E TTM | 22.99× | | P/E FY26E NGAAP | ~15–16× |
 
 ---
 
-## Section 12 — BAIT Framework
+## §1 — Annual Financial Metrics
 
-### B — Behavioral: **Weak**
+| Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Q1'26 Guide |
+|---|---|---|---|---|---|---|
+| Revenue | $10.42B | $9.79B | $10.11B | $10.28B | **$11.1B (+8%)** | $3.00–3.05B (+13–15% FXN) |
+| GMV | $87.4B | $73.9B | $73.2B | $74.4B | **~$80B (+7%)** | $21.5–21.9B (+10–12% FXN) |
+| Take rate | 11.9% | 13.2% | 13.8% | 13.8% | ~13.9% | ~14% |
+| Non-GAAP EPS | $4.06 | $4.21 | $4.24 | $4.91 | ~$5.50–5.75 *[Est]* | $1.53–1.59 |
+| Active buyers | 147M | 134M | 132M | 134M | **135M** | — |
 
-EBAY at –8.8% from 52-wk high reflects relatively constructive sentiment — not a deep-fear setup. The reacceleration narrative is broadly accepted; the stock has rallied +50% from its 52-wk low. There is no obvious "fear" mispricing here. **Weak**.
-
-### A — Analytical: **Moderate**
-
-Edges:
-- **Active-buyer base inflected positive in FY25** (132M → 134M → 135M) — first time since 2020; underappreciated structural data point
-- ~5.5–6% combined buyback + dividend yield — strong capital return, share count –34% in 6 years
-- ~15–16× FY26E NGAAP P/E vs. peer 18–30× — relative value
-- Take rate +200bps over 5 years not fully modeled forward
-- Margin expansion lever via advertising scale-up (transparency gap = modeling edge for those willing to triangulate)
-
-Limits: median target is at-spot. The **agentic-commerce risk is the new analytical wildcard** — bull case requires defensible AI-agent positioning; bear case is a multiple-compression scenario consensus has not yet priced.
-
-### I — Informational: **Weak**
-
-Sell-side coverage is comprehensive; Focus-Category framing is mainstream; AI investment is well-disclosed. The advertising-revenue transparency gap is the only real informational asymmetry, and even that is widely known.
-
-### T — Technical: **Moderate**
-
-- Stock in clear uptrend; near 52-wk highs
-- Buyback execution provides mechanical floor ($625M/quarter run rate)
-- Dividend support
-- Rising short interest is a modest contrarian counter-signal
-- No clear momentum catalyst until Q1 2026 print
-
-### BAIT Verdict
-
-**Single-to-double overlap (A Moderate + T Moderate; B/I Weak)**. Conviction: **Low-Moderate**. EBAY is a "decent quality at fair price with capital-return discipline" setup rather than an asymmetric BAIT. Best held for steady mid-teens annualized total return rather than a re-rating thesis.
+Read from the FY21→FY25 10-K MD&A: the **active-buyer base stopped declining in FY24 and inflected positive in FY25** (first time since the 2020 peak) — the structural data point under the Focus-Category thesis. **Take rate expanded ~200bps** in five years on managed-payments embed + advertising attach (the highest-margin layer, which eBay does *not* break out — a transparency gap that is both an analytical edge and a modeling risk). FY25 was the strongest growth year since the 2021 comp cycle.
 
 ---
 
-## Section 13 — Bull / Bear / Base Cases
+## §2 — Revenue Mix & Geography
 
-*All scenarios are 3-year (calendar 2029) terminal prices vs. spot $97.94. Probabilities sum to 100%.*
+| Stream | FY25 mix | | Region | FY25 GMV |
+|---|---|---|---|---|
+| Marketplace (commissions, store fees) | ~70% | | US | ~49% |
+| Advertising (promoted listings) | ~20% *(highest-margin, fastest-growing)* | | International | ~51% |
+| Payments (managed) | ~5% | | | |
+| Other (Depop, classifieds) | ~5% | | | |
 
-### 🟢 Bull Case — $145 by 2029 (+48% from $97.94, ~14% CAGR) — **Probability: 30%**
-
-- GMV grows 7–9%/yr through 2029; reaches $98–100B
-- Revenue $14B; non-GAAP EPS ~$8 (buyback-aided; share count to ~370M)
-- Multiple expands to ~18× = $145
-- **Requires**: Focus Categories sustain >+15%, advertising revenue continues outpacing marketplace, AI shopping-agent pilot evolves into defensible distribution, de minimis impact absorbed without sustained GMV deceleration
-
-### 🟡 Base Case — $115 by 2029 (+17% from $97.94, ~5.5% CAGR) — **Probability: 50%**
-
-- GMV grows 4–5%/yr; reaches $93B
-- Revenue $13B; non-GAAP EPS ~$7
-- Multiple ~16× = $115
-- Steady execution; capital return continues; agentic commerce neutral (eBay participates incrementally without dominating)
-
-### 🔴 Bear Case — $60 by 2029 (–39% from $97.94, ~–15% CAGR) — **Probability: 20%**
-
-- Agentic-commerce disintermediation drives long-tail discovery share loss; GMV decelerates to flat-to-down
-- De minimis tariff impact compounds; cross-border GMV –10–15%
-- Revenue $10.5B; non-GAAP EPS ~$5 (despite buyback)
-- Multiple compresses to 12× = $60
-- **Requires**: any two of — agentic-commerce share loss, Whatnot/Fanatics taking material cards/collectibles share, take rate compression from seller backlash, US/EU recession
-
-### Risk/Reward (per Core Rule #26)
-
-- Bull upside: +48%
-- Bear downside: –39%
-- **Headline R/R = ~1.2 : 1** (Bull % / Bear %) on a 3-year horizon — *not* a high-asymmetry setup. R/R improves to ~2.4 : 1 if measured Bull-vs-Base ($145 vs. $115) — modest asymmetry.
-- Base-vs-Bear R/R = +17% / –39% = **0.4 : 1** — the downside is meaningful if bear case fires.
-- Net read: this is a **low-asymmetry, capital-return holding** rather than a high-conviction asymmetric bet.
+International is the higher-growth half (luxury-dense EU scales Authenticity Guarantee) but also the half most exposed to **de-minimis removal**, DSA/OSA compliance, and FX — the regulatory tape is structurally tightening even as the growth engine sits here.
 
 ---
 
-## Section 14 — Probability-Weighted Expected Value
+## §3 — Competitive Moat & Landscape
 
-| Scenario | 2029 Price | Probability | PW Contribution |
+**Narrow, widening in Focus Categories.** Durable network effects in non-new-in-box / collectibles / vehicles parts / authenticated luxury; the *horizontal* long-tail is contested by Amazon, Shopify DTC, Walmart, and — newly — agentic LLMs.
+
+| Peer | Type | Scale | Threat to EBAY |
 |---|---|---|---|
-| 🟢 Bull | $145 | 30% | $43.50 |
-| 🟡 Base | $115 | 50% | $57.50 |
-| 🔴 Bear | $60 | 20% | $12.00 |
-| **PW EV (3-year)** | | | **~$113** |
+| Amazon | Horizontal + 1P | ~$700B+ GMV | New-in-box dominance; Rufus encroaches long-tail discovery |
+| Vinted (private) | C2C fashion resale | ~$10B+ GMV, 80M users | Zero-fee model; biggest direct EU resale threat |
+| **Whatnot** (private) | Live commerce | ~$8B GMV (+167%), ~60% NA+EU share | **Most worrying** — attacks highest-margin cards/sneakers/collectibles |
+| StockX (private) | Sneaker auth | 60M+ lifetime trades | Sneaker-vertical authentication arms race |
+| **Fanatics** (private) | Topps + sports licensing | multi-billion | 2nd-most-worrying — vertical-integrates cards eBay doesn't own |
+| Etsy / Poshmark / Mercari / FB Marketplace | Various resale | $2–13B GMV | Vintage/fashion overlap; mostly mature/low-growth |
 
-| Current Price | PW EV | Return (3-yr) | Annualized |
-|---|---|---|---|
-| $97.94 | ~$113 | **+15%** | ~+5%/yr |
-
-### Interpretation
-
-PW EV of ~$113 sits ~15% above spot — modest asymmetry. Add ~1.3% dividend yield + ~4–5% net buyback yield → total return base case ~6.5–7%/yr. The total-return picture is decent but not asymmetric. **Headline R/R is ~1.2 : 1 Bull-vs-Bear** on percentage upside/downside, anchored to the Section 13 scenarios per Core Rule #26.
-
-A secondary R/R framing using the §15 thesis-break alert (~$78 stop) vs. Bull case ($145) yields ~2.4 : 1 — but the canonical figure is the Bull-vs-Bear ratio above. EBAY is best framed as a steady capital-return holding with optionality on the Focus-Category compounding thesis, *if* agentic-commerce risk does not fire.
+**Differentiator**: breadth × authentication — no rival combines 2.5B authenticated-where-needed listings across cards + luxury + vehicles + apparel. Vinted is fashion-only, Whatnot live-only, StockX sneakers-only. Evidence it's holding: buyer count inflected positive in FY25 despite 5+ aggressive entrants. Vehicles P&A (fitment-specific long tail) is structurally Amazon-resistant. **Tail risk**: if LLM agents become primary long-tail discovery, eBay's catalog becomes low-margin infrastructure rather than a high-margin destination.
 
 ---
 
-## Section 15 — Recommendation & Bottom Line
+## §4 — Management & Leadership
 
-**Thesis in one sentence**: eBay is a re-accelerating capital-light marketplace with durable advantages in Focus Categories (cards, motors P&A, luxury, refurbished, Depop) and an aggressive ~6% combined buyback + dividend yield, trading at ~16× FY26E NGAAP P/E — fair value with modest asymmetry, suitable as a steady total-return holding rather than a high-conviction asymmetric bet, with the agentic-commerce wave as the genuinely new under-priced risk to monitor.
+**Jamie Iannone (CEO, since Apr 2020, ex-Walmart eCommerce; 2001–14 eBay alum)** — architect of the Focus-Category pivot, AI cycle, managed-payments completion, and buyer-base stabilization: revenue back to growth, GMV reaccelerating, take rate +200bps. **Steve Priest (CFO)** — guidance discipline + buyback execution.
 
-**For a non-holder**: 🟡 **Watch / selective Initiate**. At $97.94 the stock is roughly at consensus median target. Combined yield (~6%) makes it a reasonable patient holding, but asymmetry is modest. Wait for either weakness toward $80 or a clear sustained GMV reacceleration print (and an early read on the agentic-commerce risk) before committing fully.
+🟢 **[Outsider grade](../../wiki/frameworks/outsiders.md) — Outsider**: Teledyne-style relentless share-count shrinkage — **~680M → 448M shares (−34% in 6 yrs)** via *real* net buybacks (not SBC mop-up), bolt-on-only M&A (Goldin, Depop — no mega-deals, PayPal-spin discipline preserved), ~5.5–6% combined return yield (one of the highest in capital-light tech). Q4'25 alone: $625M repurchases + $131M dividends = $756M returned; $2.0B incremental authorization + 7% dividend raise to $0.31/qtr signal FCF confidence through the agentic transition.
 
-**For a current holder**: 🟡 **Hold**. Capital return + steady reacceleration support the position. Trim only on a rally toward $115+.
+*Pattern C (no shareholder letter); commentary via earnings PRs + DEF 14A. Strategy arc FY21→FY25: "tech-led reimagination" → "Focus-Category compounding" → "AI-first marketplace." **Insiders**: net selling 66,910 sh / 90d, routine 10b5-1, no clusters — neutral.*
 
-🎯 **Attractive entry zone**: **$78 – $90** (rationale: ~13–15× FY26E NGAAP EPS; below recent recovery; combined yield 7%+; meaningful margin of safety against the agentic-commerce + de minimis risk overlay)
+---
 
-🎯 **Trim zone**: **$120 – $140** (rationale: 19–22× FY26E NGAAP EPS; would price in sustained reacceleration without yet de-risking agentic commerce)
+## §5 — Strategic Growth Initiatives
 
-🔴 **Exit / avoid zone**: **>$155** (rationale: would price in bull-case GMV growth + multiple expansion; historical precedent suggests these levels are not sustained without category-breakthrough evidence)
+Focus Categories (the central bet, ~30% GMV) · AI-first marketplace (magical listing, image search, Gen AI descriptions, **AI shopping-agent pilot**) · advertising scale-up (the structural margin lever) · authentication-as-a-service (each new vertical lowers the cost of the next) · Depop (Gen Z renewal) · vehicles P&A international expansion.
 
-**Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Avoid):
+---
 
-- ⚠️ GMV growth decelerates below +3% FX-neutral for **two consecutive quarters**
-- ⚠️ AI-search referral traffic to eBay declines >15% YoY (agentic-commerce disintermediation evidence)
-- ⚠️ Cross-border GMV declines >10% YoY (de minimis impact materially worse than guided)
-- ⚠️ Advertising / promoted listings revenue growth slows below +15% (highest-margin lever stalls)
-- ⚠️ Focus Categories collectively grow below +10% (the strategic pivot fails)
-- ⚠️ Take rate compression beyond 50bps annual decline (seller backlash)
-- ⚠️ Major Whatnot or Fanatics breakout in cards/sneakers/collectibles (Focus-Category share loss)
-- ⚠️ Operating margin compression below 24%
-- ⚠️ Buyback pace materially slows (capital allocation pivot)
+## §6 — Key Risks (materiality-filtered; FY25 10-K lists 27 — boilerplate dropped)
 
-📅 **Next review trigger**: **Q1 2026 earnings, early May 2026**. Key items: (1) GMV vs. $21.5–21.9B guide, (2) revenue vs. $3.00–3.05B guide, (3) Focus Category growth disclosures, (4) advertising / promoted listings growth rate, (5) any commentary on de minimis impact on cross-border GMV, (6) any AI shopping-agent pilot metrics, (7) buyback execution pace.
+| Risk | Impact | Prob | Notes |
+|---|---|---|---|
+| ⚠️ **Agentic-commerce / LLM disintermediation** | High | 35% | **NEW in FY25 10-K**; **not priced in**. Trigger: AI-search referral traffic < −15% YoY |
+| ⚠️ **De-minimis exemption removal** | High | 60% | **NEW**; US all-parcels Aug 2025, EU Jul 2026, UK to follow; ~51% GMV international. Partially priced |
+| GMV reacceleration fades ≤ +3% FXN | High | 30% | Legacy bear thesis. Trigger: 2 consec Q < +3% FXN |
+| ⚠️ Whatnot share loss (cards/sneakers) | Med | 40% | $8B GMV +167%; eBay Live no material response. Not fully priced |
+| Fanatics + Topps escalation in cards | High | 25% | Vertical integration of a top focus category eBay doesn't own |
+| AI capex ROI uncertainty | Med | 30% | Multi-hundred-$M, no proven incremental GMV attribution |
+| Take-rate compression (seller backlash) | Med | 20% | +200bps in 5 yrs; risk of migration to zero-fee models |
+
+**5-yr risk evolution**: management's lens shifted from *"finish managed payments / digest regulation"* (FY21–24, largely de-risked) to *"defend long-tail discovery vs. agentic AI + absorb the cross-border tax shock"* (FY25, genuinely new, not priced).
+
+---
+
+## §7 — Industry Macro
+
+**TAM**: secondhand e-com ~$448B by 2025 (Statista); eBay's ~$80B GMV captures meaningful share of the focused subset. Durable circular-economy / Gen Z tailwinds; collectibles stabilized at elevated post-2020–22 levels. **Two structural shifts dominate**: (1) authentication-as-a-service as the recurring competitive battlefield (StockX, Fanatics, Whatnot); (2) **agentic commerce** potentially re-routing economics toward inventory-API access vs. consumer destinations. **Regulatory**: de-minimis removal (direct cross-border headwind), DSA/OSA compliance ongoing; marketplace-facilitator tax fully embedded (no longer a delta). Resale is mildly counter-cyclical — net macro setup mixed-to-modestly-favorable.
+
+---
+
+## §8 — Valuation & Comparables
+
+At **$97.94 / ~$43.9B** (2026-04-26): EV/FY26E rev ~3.4× · P/E TTM GAAP 22.99× / NGAAP ~17–18× · **P/E FY26E NGAAP ~15–16×** *(Est $6.20–6.40)* · EV/FY26E EBITDA ~13× · FCF yield ~6–7% · **combined capital-return yield ~5.3–6.3%** · analyst median **$96.86** (range $65–$117).
+
+| Peer | FY26E P/E | Growth | | Peer | FY26E P/E | Growth |
+|---|---|---|---|---|---|---|
+| **EBAY** | ~15–16× | +5–8% | | MELI | ~30× | +25% |
+| AMZN | ~30× | +10% | | BABA | ~9× | LSD |
+| ETSY | ~13–15× | +LSD | | PINS | ~17× | +10% |
+
+**Assessment**: ~50% discount to AMZN/MELI for slower growth, but the FY25 inflection (buyers positive, GMV +7%, take rate expanding) is real and *not* priced if Focus Categories sustain >MSD. A re-rate to 18–20× implies $112–125 (≈ MS $117 PT). This is no longer "trough multiple on a declining business" (the FY22–23 read) — it's **fair multiple on a stabilized-and-growing business with an un-priced agentic-commerce overlay**. Trough was 2023; we're mid-cycle.
+
+---
+
+## §9 — Catalyst & Sentiment Tracker
+
+- **Analyst consensus**: mixed Buy/Hold, median **$96.86** (at-spot), range $65–$117. Recent: Cantor $90→$100 (Neutral, 2026-04-21); Morgan Stanley $117 (2026-04-10).
+- **Short interest**: ~3.83% of float (14.93M, rising from 13.20M) — bears adding modestly into strength.
+- **Insiders (90d)**: net −66,910 sh, routine 10b5-1, no clusters — neutral.
+- **Recent news**: Q4'25/FY25 print (rev +15% Q4, GMV +10%, $2.0B buyback auth, +7% dividend, 2026-02-19); de-minimis ended all US parcels 2025-08-29.
+- **Upcoming**: 📅 **Q1'26 earnings (early May)** — GMV vs. $21.5–21.9B guide + first de-minimis read · Q2'26 (early Aug, full post-de-minimis quarter) · EU de-minimis effective Jul 2026 · AI shopping-agent pilot rollout 2026–27 · ongoing $2.0B buyback pace.
+
+---
+
+## §10 — BAIT Framework
+
+- **B — Weak**: −8.8% from highs, +50% off lows; reacceleration broadly accepted, no fear mispricing.
+- **A — Moderate**: buyer inflection (132→135M) underappreciated; ~6% capital-return yield + −34% share count; ~15–16× vs. peers 18–30×; take-rate/advertising upside under-modeled. *Limit*: median target at-spot; agentic-commerce is the wildcard consensus hasn't priced (both ways).
+- **I — Weak**: comprehensive sell-side coverage; only the ad-revenue transparency gap is asymmetric, and it's widely known.
+- **T — Moderate**: clear uptrend near highs; buyback floor (~$625M/qtr) + dividend; rising SI a mild counter-signal; no momentum catalyst until Q1 print.
+
+**Verdict**: A+T Moderate, B/I Weak → **Low-Moderate conviction**. "Decent quality at fair price with capital-return discipline," not an asymmetric BAIT.
+
+---
+
+## §11 — Bull / Bear / Base + Probability-Weighted EV
+
+*3-year (CY2029) terminal prices vs. spot $97.94. Probabilities sum to 100%.*
+
+| Scenario | 2029 px | Prob | PW contrib | Drivers |
+|---|---|---|---|---|
+| 🟢 Bull | $145 (+48%, ~14% CAGR) | 30% | $43.50 | GMV +7–9%/yr → ~$100B; EPS ~$8 (sh→370M); re-rate 18×; Focus Cat >+15%, AI agent defensible, de-minimis absorbed |
+| 🟡 Base | $115 (+17%, ~5.5% CAGR) | 50% | $57.50 | GMV +4–5%/yr → $93B; EPS ~$7; ~16×; agentic neutral |
+| 🔴 Bear | $60 (−39%, ~−15% CAGR) | 20% | $12.00 | Agentic share loss + de-minimis compound; GMV flat-to-down; EPS ~$5; compress 12× |
+| **PW EV** | **~$113** | | | **+15% vs. spot (~+5%/yr); +~6% capital return → ~6.5–7%/yr total** |
+
+**R/R = ~1.2:1 Bull-vs-Bear** (the canonical figure, per Rule #26). Base-vs-Bear downside (+17% / −39%) is meaningful if the bear fires — this is a **low-asymmetry, capital-return holding**, not a high-conviction bet.
+
+---
+
+## §13 — Recommendation & Bottom Line
+
+**Thesis**: A re-accelerating capital-light marketplace with durable Focus-Category advantages and a ~6% combined buyback+dividend yield at ~16× FY26E NGAAP — fair value with modest asymmetry, best as a steady total-return holding, with agentic commerce the genuinely new under-priced risk.
+
+- 🟡 **Non-holder — Watch / selective Initiate**: at-spot vs. median; wait for $80 weakness or a sustained reacceleration print before committing.
+- 🟡 **Holder — Hold**: capital return + reacceleration support; trim toward $115+.
+- 🎯 **Entry $78–$90** (~13–15× FY26E, 7%+ yield, MoS vs. agentic+de-minimis) · **Trim $120–$140** (19–22×) · **Exit >$155** (prices bull-case growth).
+
+**Thesis-break triggers** ⚠️: GMV < +3% FXN for 2 consecutive quarters · AI-search referral −15% YoY · cross-border GMV −10% YoY · Focus Categories collectively < +10% (and/or advertising < +15%) · take-rate compression > 50bps/yr · major Whatnot/Fanatics breakout in cards/sneakers · operating margin < 24% · buyback pace materially slows.
+
+📅 **Next review**: Q1 2026 earnings (early May) — GMV/revenue vs. guide, Focus-Category + advertising growth, de-minimis commentary, AI-agent metrics, buyback pace.
 
 ---
 
 ### Sources
-
-- [eBay Investor Relations — Quarterly Results](https://investors.ebayinc.com/financial-information/quarterly-results/) (Q4 2025 / FY2025 release; Q1 2026 guidance)
-- [Q4 2025 / FY2025 Earnings Press Release (PRNewswire)](https://www.prnewswire.com/news-releases/ebay-inc-reports-fourth-quarter-and-full-year-2024-results-302386541.html)
-- [10-K FY2025 — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm)
-- [10-K FY2024 — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/1065088/000106508825000037/ebay-20241231.htm)
-- [10-K FY2023 — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/1065088/000106508824000036/ebay-20231231.htm)
-- [10-K FY2022 — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/1065088/000106508823000006/ebay-20221231.htm)
-- [10-K FY2021 — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/1065088/000106508822000006/ebay-20211231.htm)
-- [SEC EDGAR — eBay filings (CIK 0001065088)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001065088&type=10-K)
-- [Yahoo Finance — EBAY](https://finance.yahoo.com/quote/EBAY) (live price 2026-04-26; analyst PTs)
-- [MarketBeat — EBAY](https://www.marketbeat.com/stocks/NASDAQ/EBAY/) / [Benzinga — EBAY](https://www.benzinga.com/quote/EBAY) / [TipRanks — EBAY](https://www.tipranks.com/stocks/ebay/forecast) (analyst consensus April 2026)
-- [Fintel — EBAY short interest](https://fintel.io/ss/us/ebay) / [MarketBeat short interest](https://www.marketbeat.com/stocks/NASDAQ/EBAY/short-interest/)
-- [eBay IR — Dividend history](https://investors.ebayinc.com/financial-information/dividend-history/)
-- [Stocktitan — eBay 2025 10-K analysis](https://www.stocktitan.net/sec-filings/EBAY/10-k-ebay-inc-files-annual-report-41236fc5f63a.html)
-- [Sacra — Whatnot revenue & valuation](https://sacra.com/c/whatnot/) (peer scale data)
-- [Statista — C2C e-commerce market](https://www.statista.com/topics/10355/c2c-e-commerce/) (TAM and resale market data)
+[Q4'25/FY25 PR](https://www.prnewswire.com/news-releases/ebay-inc-reports-fourth-quarter-and-full-year-2024-results-302386541.html) · [10-K FY2025](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm) ([FY24](https://www.sec.gov/Archives/edgar/data/1065088/000106508825000037/ebay-20241231.htm) · [FY23](https://www.sec.gov/Archives/edgar/data/1065088/000106508824000036/ebay-20231231.htm) · [FY22](https://www.sec.gov/Archives/edgar/data/1065088/000106508823000006/ebay-20221231.htm) · [FY21](https://www.sec.gov/Archives/edgar/data/1065088/000106508822000006/ebay-20211231.htm)) · [Yahoo Finance](https://finance.yahoo.com/quote/EBAY) · [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/EBAY/) · [Fintel SI](https://fintel.io/ss/us/ebay) · [Sacra — Whatnot](https://sacra.com/c/whatnot/) · [Statista — C2C](https://www.statista.com/topics/10355/c2c-e-commerce/)

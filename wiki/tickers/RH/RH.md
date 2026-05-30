@@ -202,6 +202,9 @@ Sources of the moat (genuine but not impenetrable):
 **New FY2025 Appointments**: New executives for manufacturing/sourcing and real estate transformation roles announced late March 2026 — signals operational seriousness about the tariff resourcing initiative and real estate monetization program.
 
 **Capital Allocation Track Record**:
+
+🔴 **[Outsider grade](../../frameworks/outsiders.md) — Anti-Outsider**: Textbook inverse of Singleton on buyback timing — ~$2B+ deployed at elevated prices ($1.25B in FY2023 alone), now drawing shareholder lawsuits over the timing. Visionary brand-builder, undisciplined repurchaser.
+
 - **Buybacks** (aggressive, peak-timed): ~$2B+ deployed at elevated prices; FY2023 alone $1.25B. Currently generating shareholder lawsuits alleging potential fraud in connection with buyback timing.
 - **Galleries**: Long-term brand investment; each Design Gallery ~$20–40M capex; hospitality integration adds more. Adjusted capex ~$289M FY2025.
 - **Real estate**: Owned properties serve as collateral and planned asset sale inventory ($200–250M/yr asset sales in FY2026 guidance).

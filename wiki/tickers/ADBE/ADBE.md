@@ -232,6 +232,8 @@ Adobe's annual stockholder letter is short (1–2 pages) — substantive managem
 
 ### Capital Allocation
 
+🟢 **[Outsider grade](../../frameworks/outsiders.md) — Outsider**: Singleton-style buy-cheap-and-big — the $25B authorization (~25% of cap) was struck at the lowest forward multiple in 10+ years, paired with a no-dividend, pure-buyback return model.
+
 - 💰 **April 21, 2026 — $25B share repurchase authorized through April 30, 2030** ([BusinessWire](https://www.businesswire.com/news/home/20260421640376/en/Adobe-Announces-New-$25-Billion-Stock-Repurchase-Program) | [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-21/adobe-announces-25-billion-buyback-following-share-slide) | [Adobe IR PDF](https://www.adobe.com/cc-shared/assets/investor-relations/pdfs/b465t3rw34.pdf)). Replaces prior authorization. **Largest buyback in Adobe's history; ~25% of market cap; executed at the lowest forward multiple in 10+ years.** Stock rose 3.62% to $256 in after-hours.
 - 💰 **FY2025 buyback execution**: ~$9.5B+ deployed
 - **No dividend** — pure-buyback return-of-capital model

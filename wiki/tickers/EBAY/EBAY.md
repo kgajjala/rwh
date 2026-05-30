@@ -213,6 +213,9 @@ Network effects in non-new-in-box, collectibles, vehicles parts, and authenticat
 **Steve Priest (CFO)**: Drives operational discipline + capital-allocation cadence. Track record of meeting/beating quarterly guidance and disciplined buyback execution.
 
 **Capital allocation discipline**:
+
+🟢 **[Outsider grade](../../frameworks/outsiders.md) — Outsider**: Teledyne-style relentless share-count shrinkage (~680M → 448M, −34% in 6 yrs) via real net buybacks, bolt-on-only M&A (no mega-deals), and ~5.5–6% combined return yield — a per-share compounder.
+
 - 💰 **Buybacks**: Aggressive and consistent. $2.0B incremental authorization announced with Q4 2025 results. eBay returned **$625M of repurchases + $131M dividends = $756M total in Q4 2025 alone** ([Q4 2025 PR](https://www.prnewswire.com/news-releases/ebay-inc-reports-fourth-quarter-and-full-year-2024-results-302386541.html)). Share count has shrunk from ~680M (FY2020) → ~448M (current) — a ~34% reduction in 6 years.
 - 💰 **Dividend**: $0.31/quarter (raised 7% with Q4 25 earnings); ~1.3% yield.
 - 💰 **M&A**: Bolt-on focused — Goldin (premium cards auctions), Depop (Gen Z resale), authentication centers. Notably *no* mega-deals; legacy PayPal-spin-style discipline preserved.

@@ -119,6 +119,7 @@ governs weekly cron coverage (Core Rule #15). 4 tickers Paused as of
 | BAIT | Mauboussin Behavioral/Analytical/Informational/Technical | [frameworks/bait.md](frameworks/bait.md) |
 | Moneyball | Probability-weighted scenario scoring | [frameworks/moneyball.md](frameworks/moneyball.md) |
 | Asset Types | Valuation approaches by business model | [frameworks/asset-types.md](frameworks/asset-types.md) |
+| Outsiders | Thorndike §4 capital-allocation grade (countercyclical buyback discipline) | [frameworks/outsiders.md](frameworks/outsiders.md) |
 
 *(Position Sizing framework retired in v2 — wiki is position-agnostic per Core Rule #3.)*
 

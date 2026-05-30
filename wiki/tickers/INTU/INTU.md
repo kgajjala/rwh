@@ -200,6 +200,9 @@ International is a long-term optionality lever, not a near-term driver. QBO Inte
 **Sandeep Aujla (CFO since 2024)**: Promoted from VP Finance. Maintains a disciplined, conservative guidance cadence — FY26 guidance reaffirmed without upward revision after a +17% quarter, suggesting either true conservatism or visibility limitations around the critical Q3 tax season.
 
 **Capital allocation track record (FY2021–FY2026)**:
+
+🟢 **[Outsider grade](../../frameworks/outsiders.md) — Outsider**: Cleanest buy-into-weakness signal we track — $1.6B repurchased into the drawdown plus a new $8B authorization, Goodarzi **halting his own 10b5-1 sales** for alignment, and retaining Mailchimp as a cash-flow asset rather than ego-divesting.
+
 - Share repurchases: $13.2B returned FY2021–FY2025 ($1.4B → $3.75B, accelerating each year); **$1.6B repurchased in Q3 FY26 alone** into the drawdown, plus a **new $8B buyback authorization** approved at Q3 — the clearest capital-return-into-weakness signal yet
 - Dividends: raised 15% to $1.20/quarter ($4.80 annualized, ~1.5% yield at $319)
 - M&A: Two large acquisitions (Credit Karma, Mailchimp) digested; no major new M&A since FY2022. Management *evaluated a Mailchimp divestiture* in FY26 and chose to retain it as a cash-flow asset

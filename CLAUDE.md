@@ -1,4 +1,4 @@
-# CLAUDE.md — kg-invest-wiki Schema (v2.14)
+# CLAUDE.md — kg-invest-wiki Schema (v2.15)
 
 Instruction file for the LLM agent that maintains this wiki. **Read this file at the start of every session before modifying `wiki/`, `raw/`, or `outputs/`.**
 
@@ -10,7 +10,7 @@ A personal, position-agnostic investment knowledge base maintained by an LLM age
 
 - **Owner**: Karthik G
 - **Started**: April 2026
-- **Schema version**: v2.14 (April 2026)
+- **Schema version**: v2.15 (May 2026)
 - **Model**: Karpathy LLM Wiki pattern, adapted
 
 ### What this wiki is *not*
@@ -151,6 +151,11 @@ kg-invest-wiki/
     - **Watchlist 3-column collapse**: blend Bull + Bull+ via probability-weighted average so PW EV reconciles to the canonical §11 number.
 
     Consensus analyst targets and 12–18-month re-rating math are *inputs* to scenario probabilities — never anchors for §13 zones. **Lazy migration**: apply on next material update (Workflow B); do not backfill.
+27. **Outsiders capital-allocation lens (§4)**. Section 4's capital-allocation block carries a one-line **Outsider grade** assessing how the management team allocates capital, per `wiki/frameworks/outsiders.md` (Thorndike's five tests, anchored on countercyclical buyback discipline).
+    - **Grade vocabulary**: `Outsider · Outsider-leaning · Reinvestor · Steward (not Outsider) · Anti-Outsider`. One sentence of evidence; do not add a new section or a standalone subsection — it is woven into the existing capital-allocation track-record block.
+    - **Surface to §0 Summary only on a material capital-allocation event** — buyback authorization/execution print, dividend init/raise/cut, M&A announce/close, large debt issuance/paydown, or a capital-allocation insider-alignment signal. When such an event lands in Workflow B, refresh the §4 grade *and* add/update a one-line Outsider read in the Summary "Why / Why not". Absent such an event, the lens stays in §4 only — never decorative in the Summary.
+    - The cross-ticker scoring table in `wiki/frameworks/outsiders.md` is the authoritative central record; keep the graded ticker's row in sync when its §4 grade changes.
+    - **Lazy migration**: apply the §4 grade on next material update (Workflow B); do not backfill untouched tickers. Tier-1 exemplars and anti-examples are seeded now.
 
 ---
 
@@ -212,6 +217,7 @@ Drives weekly incrementals. Standardized fields:
 - **BAIT** (Mauboussin) — Section 10. Four lenses (Behavioral / Analytical / Informational / Technical), each rated Strong / Moderate / Weak. Triple+ overlap = highest conviction. Detail: `wiki/frameworks/bait.md`.
 - **Moneyball** — Sections 11/12. 5-year terminal Bull/Base/Bear scenarios; PW EV per Rule #26. Detail: `wiki/frameworks/moneyball.md`.
 - **Asset Type Rules** — Per-asset-class key metrics + valuation primary (capital-light platform, three-sided marketplace, franchise royalty, financial/brokerage, pharma, managed care, mortgage, consumer staples, etc.). Detail: `wiki/frameworks/asset-types.md`.
+- **Outsiders** (Thorndike) — Section 4 capital-allocation lens. Grades management on five tests (countercyclical buyback discipline · per-share cash-flow mindset · disciplined-bold M&A · independence · tax efficiency); one-line grade in §4, surfaced to §0 Summary only on a material capital-allocation event. Per Rule #27. Detail: `wiki/frameworks/outsiders.md`.
 
 ---
 
@@ -511,4 +517,4 @@ Browse evolution:
 - `git log -p CLAUDE.md` — full diffs
 - `git blame CLAUDE.md` — per-line attribution
 
-Each `SCHEMA: vX.Y — ...` commit body captures the *rationale*, not just the *what* — that body is the durable record. v2.14 (April 2026) is current. Major changes bump the version; minor edits within a version do not.
+Each `SCHEMA: vX.Y — ...` commit body captures the *rationale*, not just the *what* — that body is the durable record. v2.15 (May 2026) is current. Major changes bump the version; minor edits within a version do not.

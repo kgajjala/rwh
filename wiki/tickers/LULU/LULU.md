@@ -210,6 +210,9 @@ The Americas' –1% revenue and –3% comp sales in FY2025 are the core investme
 **CFO**: Meghan Frank (CFO since 2020). Stable operator; owns the FY2026 margin compression narrative. Led the $1.2B buyback in FY2025 and the $1.0B additional authorization in December 2025.
 
 **Capital allocation track record**:
+
+🔴 **[Outsider grade](../../frameworks/outsiders.md) — Anti-Outsider**: Programmatic (not countercyclical) buybacks — ~5.0M shares repurchased in FY2025 at ~$240 avg, well above current price = capital destruction, compounded by the Mirror write-off. Buys steadily regardless of price.
+
 - Consistent buyback program: $862M (FY2021) → $479M (FY2022) → $591M (FY2023) → $1,672M (FY2024) → $1,206M (FY2025). ~5.0M shares repurchased in FY2025 at ~$240/share average — significantly above current price, representing capital destruction at current levels.
 - **No dividend** (retained growth/buyback focus).
 - **Mirror acquisition (2020, ~$500M) → write-off**: Acquired fitness hardware platform; discontinued hardware in 2023; full impairment taken. A material capital-allocation scar that introduced strategic distraction during a critical brand window.

@@ -19,11 +19,11 @@ Schema and operating rules live in [`CLAUDE.md`](CLAUDE.md).
 2. **Claude Code compiles** → reads `raw/`, updates `wiki/` with structured analysis
 3. **Obsidian displays** → open this folder as a Vault to browse with graph view + backlinks
 4. **Git tracks everything** → full diff history of every thesis change
-5. **Friday cron auto-refreshes** → `kg-invest-wiki-weekly` routine fires every Friday 22:00 UTC, scans every Active ticker for material events, updates each ticker page + `changelog.md` in place, commits, pushes
+5. **Weekly incremental** → run Workflow B ("weekly update") to scan every Active ticker for material events and refresh its page + `changelog.md` in place
 
 ## Tickers Covered
 
-*Alphabetical. Maintained per CLAUDE.md Core Rule #14 — every Workflow A ingest, Workflow B material update, or ticker removal must update this table in the same commit.*
+*Alphabetical. Maintained per CLAUDE.md Core Rule #13 — every Workflow A ingest, Workflow B material update, or ticker removal must update this table in the same commit.*
 
 | Ticker | Status | Last Updated | Punchline |
 |--------|--------|--------------|-----------|
@@ -90,14 +90,11 @@ Open this folder in Claude Code and say:
 Or for a specific update:
 > "Refresh [TICKER] with the latest earnings transcript I dropped in raw/[TICKER]/transcripts/."
 
-## Scheduled Updates
+## Updates
 
-**Friday weekly cron**: `kg-invest-wiki-weekly` (`trig_01R1X9aCDwHQDfUmkSii1bWb`).
-Runs every Friday at 22:00 UTC (6pm EDT / 5pm EST) on Anthropic's cloud
-infrastructure. Each run executes Workflow B (incremental update for every
-Active ticker) — refreshing each ticker page and appending its `changelog.md`
-in place — then commits and pushes. Manage at
-https://claude.ai/code/routines/trig_01R1X9aCDwHQDfUmkSii1bWb.
+Updates are run on demand via **Workflow B** ("weekly update" or
+"update [TICKER]"): scan every Active ticker for material events, refresh its
+page + `changelog.md` in place, commit, push. Paused tickers are skipped.
 
 There is no separate weekly-summary document: each ticker's `changelog.md` is
 the per-ticker event log, and `git log` is the cross-ticker record.

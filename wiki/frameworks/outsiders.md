@@ -1,7 +1,7 @@
 # The Outsiders Framework — Capital-Allocation Lens
 
 **Source**: William N. Thorndike, *The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success* (2012).
-**Where applied**: Section 4 (Management & Leadership) of every full equity thesis — specifically the capital-allocation track-record block. Surfaced to the §0 Summary **only** when a material capital-allocation event occurs (per CLAUDE.md Rule #27).
+**Where applied**: Section 4 (Management & Leadership) of every full equity thesis — specifically the capital-allocation track-record block. Surfaced to the §0 Summary **only** when a material capital-allocation event occurs (per CLAUDE.md Rule #25).
 
 ---
 
@@ -35,7 +35,7 @@ Add/refresh an Outsider read in the Summary's "Why / Why not" only when a **mate
 
 ## Cross-Ticker Scoring (as of 2026-05-30)
 
-Anchored on the buyback-timing test, read from each page's §4 capital-allocation block. Grades migrate into each §4 lazily on the next material update (CLAUDE.md Rule #27); this table is the authoritative central record.
+Anchored on the buyback-timing test, read from each page's §4 capital-allocation block. Grades migrate into each §4 lazily on the next material update (CLAUDE.md Rule #25); this table is the authoritative central record.
 
 ### 🟢 Tier 1 — Genuine Outsiders
 

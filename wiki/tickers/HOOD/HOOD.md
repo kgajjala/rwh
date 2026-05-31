@@ -239,6 +239,9 @@ Robinhood does not publish a Buffett-style standalone annual letter (Pattern C p
 The strategic arc is genuinely coherent: from single-product (commission-free retail equities) → multi-asset (options, crypto, retirement) → super-app (banking, wealth, prediction markets, B2G). Each acquisition (Bitstamp, TradePMR) extends a pillar already in motion organically. *Caveat: founder insider-sell pattern remains discordant with the bullish operating narrative.*
 
 ### Capital allocation track record
+
+**[Outsider grade](../../frameworks/outsiders.md) — Reinvestor**: Still in compounding phase — no dividend, modest buybacks ($300M+ since 2024 initiation) versus a $76B market cap, and M&A at tuck-in scale (Bitstamp, TradePMR). Reinvestment into Gold, prediction markets, and international expansion is the dominant capital use. The buyback track record is too short and too small relative to cap to constitute a countercyclical signal.
+
 - **Buybacks**: Initiated 2024; $300M+ executed Q1 2025–Q1 2026; refreshed $1.5B authorization Q1 2026
 - **M&A discipline**: Bitstamp $200M, TradePMR ≈$300M — small-tuck-in scale relative to $76B market cap; both extend existing pillars; not transformative bets-the-company
 - **Dividend**: None (appropriately — still in compounding phase)

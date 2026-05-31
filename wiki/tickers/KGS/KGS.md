@@ -238,6 +238,8 @@ Kodiak is U.S.-only post-Mexico exit (September 2025). Internal geographic mix p
 
 **Board sponsorship**: EQT AB (EQT Partners), formerly ≈43% shareholder, **fully exited by December 2, 2025** — executed a series of secondary offerings and Rule 144 sales totaling ≈38.5M shares. This removes the primary governance and liquidity overhang.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Outsider-leaning**: Malone-style leverage roll-up — acquisitions over buybacks, disciplined 3.5–4× → <3× de-lever path, removed EQT overhang non-dilutively. DPS acquisition extends the playbook into adjacent verticals. Progressive dividend + modest $150M repurchase program are secondary to the M&A-then-deleverage flywheel; closer to KKR/TCI-style operator than Singleton.
+
 **Capital allocation track record**:
 
 | Action | Year | Size | Outcome |

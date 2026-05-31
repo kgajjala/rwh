@@ -245,6 +245,8 @@ Three structural differentiators separate LLY from all competitors:
 
 **David Ricks assessment**: In 2017, Lilly was a middle-tier pharma company recovering from insulin-price controversy. Ricks made the high-conviction bet on GLP-1 receptor biology and manufacturing scale when the market was skeptical. The result: LLY peaked at >$1T market cap in 2024 — briefly the most valuable pharmaceutical company in history. The $50B+ manufacturing commitment is a Ricks signature: building supply *before* demand is proven, compressing the time from approval to scale.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Reinvestor**: CapEx from $1.3B (FY2021) → $7.8B (FY2025), R&D >$10B annually, and bold M&A (Morphic, Kelonia, Orna, Centessa) — Ricks is deploying all available capital into the GLP-1/pipeline moat at the highest-IRR moment in Lilly's history. Minimal buybacks; nominal dividend. Reinvestment-only by deliberate design; the Outsider test will apply when the capex cycle matures.
+
 **Capital allocation track record**:
 - Manufacturing-first: CapEx grew from $1.3B (FY2021) → $7.8B (FY2025) — deliberate and executed
 - Selective M&A: Morphic Therapeutic ($3.2B, FY2024 — integrin inhibitors); Kelonia Therapeutics (in vivo CAR-T, April 20, 2026); Orna Therapeutics (cell therapy, February 2026); Centessa Pharmaceuticals (sleep-wake disorders, March 2026)

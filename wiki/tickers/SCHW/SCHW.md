@@ -258,6 +258,8 @@ Pulled from the [SCHW FY2025 10-K (filed Feb 2026; SEC accession 0000316709-26-0
 
 **Mike Verdeschi**: Q1 2026 call performance was clear and credible — explicitly raised the FY26 EPS bar above $5.70–$5.80, attributed it to *"lack of rate cuts,"* and quantified deposit growth ($8B sequential). Did not over-promise on the July refresh — noted *"upward momentum"* without guaranteeing a specific number.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Steward (not Outsider)**: Q1 2026 $2.4B buyback (annualized ≈$10B) is the first large execution after a multi-year drought — the timing signal is *post-recovery* (stock near highs, earnings at records) rather than countercyclical. Dividend is the primary ongoing commitment (19% raise). The cash-sorting episode was navigated well operationally, not exploited as a buyback opportunity when the stock was cheap — which is the precise Outsider test Schwab fails. Excellent steward in every other dimension.
+
 **Capital allocation (transformed in Q1 2026)**:
 - **Dividend** — 19% increase announced Q1; first material raise since the cash-sorting period
 - **Buybacks** — $2.4B executed in Q1 (annualized ≈$10B ≈ 6%+ of market cap); a step-change vs. the 2023–2025 buyback drought

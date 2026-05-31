@@ -238,6 +238,8 @@ Capital-allocation discipline focus. Maintained dividend, slowed buyback to fund
 
 ### Capital Allocation Track Record
 
+**[Outsider grade](../../frameworks/outsiders.md) — Steward (not Outsider)**: Dividend growing since 2010 (Aristocrat-track); buybacks slowed to fund turnaround reinvestment; capital return is dividend-first, buyback-secondary. Boyu JV divestiture ($4B cash to SBUX) is a disciplined portfolio-rationalization signal, but the overall pattern is Dividend Aristocrat stewardship rather than countercyclical buyback opportunism.
+
 - **Dividend**: Increased every year since 2010 (Aristocrat-track); current $2.48 annualized.
 - **Buyback**: Slowed materially in 2024–2025 to fund turnaround reinvestment; expected to resume if margins recover.
 - **M&A**: Modest historically. The Boyu JV close ($13B EV; $4B cash to SBUX for Boyu's 60%) is the largest strategic transaction in years.

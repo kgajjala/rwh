@@ -222,6 +222,8 @@ Growth decelerated from +22% in FY2022 to ≈+2% in FY2025 — essentially flat 
 
 **Gustav Söderström (Co-CEO)** — joined Spotify 2009, Chief Product & Technology Officer prior. Drove product, personalization, and AI investment — including the 2024–2025 generative-AI features (DJ, AI Playlist).
 
+**[Outsider grade](../../frameworks/outsiders.md) — Reforming**: 2022–2023 podcast spree was *"the worst capital-allocation period in company history"* — empire-building at premium prices. Since then: three layoff rounds, cost discipline reset, first-ever buyback ($510M FY2025 + €306M Q1 2026), and Ek taking direct personal ownership of capital allocation as Executive Chairman. AGM 10M-share mandate over 5 years shows institutional commitment. Too early to call Outsider — the reforming track record is 2–3 years old; the test is whether buybacks accelerate into the next weakness, not the current recovery.
+
 **Capital allocation track record**:
 - **2022–2023 podcast overinvestment**: Acquired Gimlet, The Ringer, Megaphone, Anchor 2019–2020; signed exclusive Joe Rogan deal 2020 (≈$200M; renewed at higher level 2024). Net result: ≈€800M of cumulative goodwill impairment + content write-downs through 2023; arguably the worst capital-allocation period in company history.
 - **2023–2024 cost discipline reset**: Three rounds of layoffs in 2023 (≈17% of workforce by year-end); operating expense base normalized; FY2024 inflected to €1.37B operating income.

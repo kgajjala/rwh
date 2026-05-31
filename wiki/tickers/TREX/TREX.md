@@ -207,6 +207,8 @@ TREX reports **a single residential reportable segment** ("Trex Residential") co
 
 **Brenda Lovcik (CFO since 2022)** — disciplined operator; led the FIFO inventory accounting transition (Q4 2025 GM optics noise) and the multi-year buyback program execution.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Outsider-leaning**: Consistent buybacks at trough multiples; no dividend; organic-growth focus; $50M Q4 2025 + $150M 1H 2026 authorization executed into the cyclical trough (lowest multiples since 2019). Multi-year share count reduction without dilutive M&A is the Singleton pattern applied to a building-materials compounder.
+
 **Capital allocation track record**:
 - **💰 Buybacks**: $50M Q4 2025 + $150M new 1H 2026 authorization = ≈4.5% buyback yield at $4.35B cap; meaningful at trough multiples.
 - **No dividend** (intentional — capital returned via buybacks, FY24 share count down ≈3% YoY).

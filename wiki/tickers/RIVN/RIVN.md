@@ -217,6 +217,8 @@ Currently **>95% U.S. revenue** for the auto segment. The software & services se
 
 **Claire McDonough (CFO)**: Disciplined operator; Goldman Sachs background; brought rigorous opex track record. Her Q4 2025 call commitments (positive auto GM by exit-2026; R2 second shift end-of-year) are the cleanest quantified targets the company has put on the table.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Reinvestor**: Pre-profitability EV startup — all capital into R2 ramp, VW JV execution, and Adventure Network; no buybacks (inappropriate at current burn); no dividend. Scaringe's $5B performance-equity grant aligns founder with per-share outcomes (Tesla-style), which is the Outsider spirit, but the countercyclical-buyback test cannot apply before FCF generation. Reinvestor by necessity.
+
 **Capital allocation**:
 - All capital reinvested into R2 ramp + VW JV execution + Adventure Network charging
 - No buyback (would be inappropriate at current cash burn)

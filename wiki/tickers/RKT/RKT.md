@@ -281,6 +281,8 @@ Domestic-only — RKT has no meaningful international exposure. This is both a c
 
 **Glenn Kelman (former Redfin CEO)**: Departed January 2026. RKT moved to an internal successor; integration is still early and the founder departure adds execution uncertainty.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Steward (not Outsider)**: $16B of platform acquisitions (Mr. Cooper + Redfin) in 4 months is bold but at stock-deal (not cash-bargain) terms; Up-C collapse cleaned the capital structure; no buybacks during integration; no dividend. Gilbert's long-duration orientation resembles the Outsider mindset but the $16B all-stock dilutive spree fails Thorndike's per-share discipline test. Steward in transition — grade may improve once integration delivers and buyback timing discipline can be assessed.
+
 **Capital allocation track record (5-year arc)**:
 - **2025: Acquisition burst** — $14.2B Mr. Cooper (all-stock; closed Oct 1, 2025) + $1.75B Redfin (all-stock; closed Jul 2025) = **$16B of platform acquisitions in 4 months**. Stock-based deals preserved cash but diluted existing shareholders materially (share count expanded ≈20× from FY2024 reported-base to ≈2.8B post-Cooper merger close per [stockanalysis.com](https://stockanalysis.com/stocks/rkt/financials/) — though the prior 146M figure reflects only the Class A public float, with the bulk previously in non-traded Up-C structure now collapsed).
 - **June 30, 2025: Up-C collapse** — clean C-corp; public float ≈7% → ≈35%; opens institutional ownership.

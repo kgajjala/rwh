@@ -3,14 +3,10 @@
 Master catalog of all wiki pages. Updated by the LLM agent on every ingest or
 substantial wiki change. Each entry: link, one-line summary, last updated, status.
 
-**Schema**: v2.9 (current) — 13-section thesis structure. 22 tickers retrofitted
-to v2.9 on 2026-04-26 (RIVN, NFLX, INTU, KGS, LLY, LNTH, LULU, MP, MSFT, NKE,
-ONON, PG, RH, RKT, SBUX, SCHW, SN, TREX, TSLA, UNH, WING, ZG); SHOP and DASH at
-v2.9 from earlier sessions. 11 tickers preserved at v2.8 per user direction
-(ABNB, ACLS, ADBE, AMZN, BKNG, BRK.B, CELH, CPNG, DELL, EBAY, FIG). Single
-consolidated `[TICKER].md` per ticker. Position-agnostic. Active / Paused status
-governs weekly cron coverage (Core Rule #15). 4 tickers Paused as of
-2026-05-18 (ABNB, ACLS, LNTH, MP — user-directed, Workflow C.1).
+**Schema**: v3.0 (current) — 13-section thesis structure, single consolidated
+`[TICKER].md` per ticker, position-agnostic. Active / Paused status governs
+weekly-update coverage (Core Rule #14). 4 tickers Paused (ABNB, ACLS, LNTH, MP —
+user-directed, Workflow C.1). Per-page schema-version history lives in git.
 
 ---
 

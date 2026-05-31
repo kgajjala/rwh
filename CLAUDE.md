@@ -70,7 +70,7 @@ rwh/  (kg-invest-wiki)
     - **Punchline**: 1–2 sentences synthesizing the latest thesis (typically §13 thesis sentence + action verbs). Update on material thesis change; preserve verbatim during quiet weeks.
     - **Add** a new ingest in alphabetical position; **remove** a delisted/divested/retired ticker (history preserved in git).
     - **Counter line** (`*N tickers above.*`) directly below the table must reflect the current count.
-14. **Active / Paused ticker status.** Every ticker declares status in the `[TICKER].md` header on a `**Status**: Active` or `**Status**: Paused — since YYYY-MM-DD` line directly below `Last Updated`. README, `index.md`, `watchlist.md`, and the weekly cron all read from this. Pause/resume governed by Workflow C.
+14. **Active / Paused ticker status.** Every ticker declares status in the `[TICKER].md` header on a `**Status**: Active` or `**Status**: Paused — since YYYY-MM-DD` line directly below `Last Updated`. README, `index.md`, and `watchlist.md` all read from this, and Workflow B skips Paused tickers. Pause/resume governed by Workflow C.
     - README and `index.md` include a `Status` column.
     - `watchlist.md` ranks Active only; Paused tickers move to a "Paused Tickers" footer with pause date.
     - Quiet week ≠ paused week. Active-quiet writes a `No Material Events` entry; Paused writes nothing.
@@ -280,7 +280,7 @@ Compile from the raw set, not media summaries. Cite a primary source for every m
 
 ## 7. Workflow B — Weekly Incremental
 
-Triggered by the scheduled Friday-evening task, OR "weekly update" / "update [TICKER]".
+Triggered by "weekly update" / "update [TICKER]".
 
 ### Step 1 — Determine baseline and active set
 For each ticker in `wiki/tickers/`:
@@ -354,7 +354,7 @@ A multi-quarter pause may span multiple earnings, analyst clusters, and macro ev
 ## 9. Parallelization Patterns
 
 - **Workflow A fetch phase**: optional fan-out — 3–4 parallel fetcher agents split by source type (filings / transcripts+PRs / shareholder letters / live + insider + analyst). A single synthesizer agent then reads the aggregated raw output.
-- **Weekly cron across N tickers**: parallelize trivially — one `Agent` call per Active ticker, dispatched as parallel tool uses in a single message.
+- **Weekly update across N tickers**: parallelize trivially — one `Agent` call per Active ticker, dispatched as parallel tool uses in a single message.
 - **Within a single ticker**: single agent. Section synthesis is dependency-dense (§12 PW EV depends on §11 depends on §6 + §10) — section-level parallelism creates merge headaches exceeding the time saved.
 - **Shared file writes** (`README.md`, `wiki/index.md`, `wiki/watchlist.md`): sequential. Never parallel writes to the same file across agents.
 - **Agent definition**: prefer a Sonnet research agent (WebSearch / WebFetch / Edit / Write) for fetch-heavy work; `general-purpose` for synthesis-heavy work.
@@ -440,7 +440,7 @@ Append-only. Most recent entry first.
 - News scanned and dismissed: [bullet list]
 
 **Recommendation**: Unchanged.
-**Next review trigger**: Next Friday (default), or [specific catalyst].
+**Next review trigger**: Next weekly review (default), or [specific catalyst].
 ```
 
 ---
@@ -469,12 +469,14 @@ Plus the Price Targets Summary (Probability-Weighted) table, the Earnings Calend
 
 ## 15. Schema Co-Evolution
 
-This file evolves. When a new framework is added, a new ticker type encountered, or a new operation needed:
+This file evolves — but it does **not grow by default**. Rule #26's state-once discipline applies to CLAUDE.md itself: every change is *integrated into its existing home*, not appended as new sediment. When a new framework is added, a ticker type encountered, or an operation needed:
 
-1. Update this file first.
-2. Apply the change to wiki content.
-3. Commit `SCHEMA: vX.Y — [what changed and why]`.
-4. Push to `origin`. The commit message is the audit trail (Rule #5).
+1. **Find the home first.** Locate where the concept already lives — a Core Rule, a Workflow step, a framework one-liner. Default to editing that home in place. Create a *new* rule or section only when no home exists. One concept, one home.
+2. **Replace, don't append.** A change that adds lines must delete the lines it supersedes in the same commit — obsoleted clauses, dead references, stale migration scaffolding. Net line growth is a smell to justify, not a default.
+3. **Keep rationale out of the body.** The *what* lives in this file; the *why* and the migration history live in the `SCHEMA: vX.Y` commit message — never as "prior framing" / "changed from" residue in the text (mirrors Rule #21).
+4. **Apply to wiki content** on the next material touch (migration discipline below).
+5. **Consolidate periodically.** When rules sprawl, duplicate, or contradict, do a ground-up condense and bump the *major* version rather than patching (v3.0 collapsed 28 rules → 26, retired `outputs/`).
+6. **Commit `SCHEMA: vX.Y — [what changed and why]` and push to `origin`** — the commit message is the audit trail (Rule #5).
 
 **Migration discipline**: new schema conventions apply on the next material update to a page (Workflow B / re-ingest); never backfill untouched pages — git history is the record.
 

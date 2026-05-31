@@ -223,6 +223,8 @@ P&G manages its geographic portfolio in two tiers: **Focus Markets** (North Amer
 
 **Jon Moeller** (Executive Chairman): Led PG through the COVID pricing surge and the 2022 commodity cost crisis. Announced April 2025 guidance cut citing tariffs; announced own succession July 2025; stepped down as CEO January 1, 2026. Notable: Moeller sold ≈173,000 shares (≈$28M) in the 6 months prior to April 2026 — the largest insider sell cluster in recent history. Selling by a departing CEO is expected but the magnitude warrants monitoring ([Fintel insider activity — PG](https://fintel.io/sn/us/pg)).
 
+**[Outsider grade](../../frameworks/outsiders.md) — Steward (not Outsider)**: 70 consecutive years of dividend increases; $16B+ returned annually with capital tilted ≈3:2 dividends-to-buybacks; buybacks are programmatic, not countercyclical. The definitive Dividend King — P&G is the reference archetype for excellent-steward-but-not-Outsider.
+
 **Capital allocation track record** (Moeller era, FY2021–FY2025):
 - Returned $16B+ to shareholders annually ($9.9B dividends + $6.5B buybacks in FY2025 alone)
 - Maintained 70 consecutive years of dividend increases (Dividend King status)

@@ -130,9 +130,7 @@ governs weekly cron coverage (Core Rule #15). 4 tickers Paused as of
 | Page | Description |
 |------|-------------|
 | [watchlist.md](watchlist.md) | Cross-ticker attractiveness ranking (no allocation) |
-| [summaries.md](summaries.md) | Reverse-chron index of weekly summaries |
-| [log.md](log.md) | Append-only event log |
-| [/README.md](../README.md) | Top-level repo orientation + ticker table (Core Rule #14) |
+| [/README.md](../README.md) | Top-level repo orientation + ticker table (Core Rule #13) |
 
 ---
 

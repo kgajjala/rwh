@@ -220,6 +220,8 @@ Named direct peers, market share, and how SN's moat differs:
 
 ### Capital Allocation Track Record
 
+**[Outsider grade](../../frameworks/outsiders.md) — Outsider-leaning**: Inaugural $750M authorization (≈4.6% of cap) from a strong balance sheet ($777M cash); stated as "opportunistic" (management's word on Q1 call); no dividend; M&A is selective tuck-in only. $18.5M deployed in Q1 is slow, but management explicitly prioritizing organic reinvestment first — consistent with Outsider sequencing logic. Too early to call Outsider outright (one authorization, cautious pacing), but the philosophy is right.
+
 - **Buyback** — 🟢 **Inaugural $750M share repurchase program** authorized Feb 2026 (Q4 call). Represents ≈4.6% of $16.3B market cap. First-ever for SN as a public company. Stated dual purpose: opportunistic repurchases + offset SBC dilution.
 - **Dividend** — none.
 - **M&A** — selective tuck-ins; not a major consolidator.

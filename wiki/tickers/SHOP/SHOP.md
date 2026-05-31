@@ -280,6 +280,8 @@ Pulled directly from the [Shopify FY2024 10-K (SEC HTML)](https://www.sec.gov/Ar
 
 **Jeff Hoffmeister (CFO)**: Drove OpEx as % of revenue down 3 pts YoY (32% → 29%). Architected the $2B buyback — Shopify's first-ever capital return program.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Outsider-leaning**: $2B buyback authorized Feb 2026 at sub-$130 — Shopify's first-ever capital return program, struck at an opportunistic undervaluation point. No dividend; no large M&A. Founder-controlled with disciplined headcount (–6% on +30% revenue growth). Track record is too short (one authorization) to call Outsider, but the timing and size relative to market cap signal the Outsider instinct.
+
 **Capital allocation**:
 - **R&D + sales**: Disciplined — headcount –6% on +30% revenue growth
 - **M&A**: Quiet; no large acquisitions in 2025

@@ -259,6 +259,8 @@ Amazon is unique in U.S. equities in that it competes across **four distinct com
 
 **CFO**: Brian Olsavsky — long-tenured, credible.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Reinvestor**: Bezos's FCF/per-share + decentralized "two-pizza" doctrine is Outsider canon; minimal buybacks because reinvestment IRR historically exceeded any buyback return — consistent with the Outsider rule when the opportunity cost is this high. Jassy era is less distinctive (routine $10B authorization, no timing signal) but the capital-deployment logic remains intact.
+
 **Capital allocation track record**:
 - **AWS**: ≈$300B+ cumulative reinvestment 2007–2025; built the most profitable cloud business in history
 - **Logistics**: ≈$200B+ cumulative; built unparalleled fulfillment network

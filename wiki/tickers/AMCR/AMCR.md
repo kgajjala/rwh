@@ -241,6 +241,8 @@ Stephen Scherger replacing previous CFO Michael Casamento (who departed with Del
 
 ### Capital Allocation Track Record
 
+**[Outsider grade](../../frameworks/outsiders.md) — Steward (not Outsider)**: 51-year unbroken dividend record treated as "inviolable commitment"; buybacks paused during the Berry integration; capital returns prioritize dividend continuity over opportunistic repurchase timing — the Dividend Aristocrat archetype, excellent steward but the opposite of Thorndike's countercyclical-buyback profile.
+
 | Event | Year | Assessment |
 |---|---|---|
 | Bemis acquisition | 2019 | **Win** — ≈$6.8B; expanded Americas Flexibles presence; synergies delivered; EPS accretive by FY2022 |

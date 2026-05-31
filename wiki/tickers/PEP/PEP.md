@@ -1,6 +1,6 @@
 # PEP — PepsiCo, Inc.
 
-**Schema**: v2.14
+**Schema**: v3.0
 **Last Updated**: 2026-05-30
 **Status**: Active
 **Live Price**: $144.19 (2026-05-30; last close May 29, 2026) — [Yahoo Finance](https://finance.yahoo.com/quote/PEP/)
@@ -16,13 +16,13 @@
 
 | 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|---|
-| $127.60 – $171.48 | $144.19 (~38%) | $127 | <$150 | $180 / **$183** | $183 – $225 | $225 | **≈4.7:1** |
+| $127.60 – $171.48 | $144.19 (≈38%) | $127 | <$150 | $180 / **$183** | $183 – $225 | $225 | **≈4.7:1** |
 
 ### KPI Strip
 
 | BAIT | Moat | FY26E P/E (core) | Div Yield | FCF Yield | Next catalyst |
 |---|---|---|---|---|---|
-| **Moderate-High** (B+A+I) | **Wide** | ≈17× | **4.05%** ($1.48/qtr) | ≈3.9% | Q2 FY2026 earnings (~mid-July 2026) |
+| **Moderate-High** (B+A+I) | **Wide** | ≈17× | **4.05%** ($1.48/qtr) | ≈3.9% | Q2 FY2026 earnings (≈mid-July 2026) |
 
 ### Why / Why not / Next read
 
@@ -32,11 +32,11 @@
 - PBNA segment margin collapsed to 3.9% (from 9.4% in FY2023) — productivity program (20% SKU cut, 3 plant closures, 100+ bps margin expansion target through 2028) gives outsized mean-reversion optionality consensus may under-credit
 
 ⚠️ **Why not**:
-- GLP-1 weight-loss drugs are a genuine multi-year overhang on the highest-margin segment (FLNA ~60% U.S. salty-snack share); chip spending down ≈11% among GLP-1 users — more exposed than any food peer
+- GLP-1 weight-loss drugs are a genuine multi-year overhang on the highest-margin segment (FLNA ≈60% U.S. salty-snack share); chip spending down ≈11% among GLP-1 users — more exposed than any food peer
 - MAHA / FDA synthetic-dye phase-out by end-2026 forces reformulation of core Frito-Lay brands — COGS and brand-disruption risk that is not yet priced
-- Elliott (~$4B stake) engagement is constructive today, but a second consecutive year of missing the 2–4% organic target raises the probability of forced structural alternatives (a beverages/snacks split)
+- Elliott (≈$4B stake) engagement is constructive today, but a second consecutive year of missing the 2–4% organic target raises the probability of forced structural alternatives (a beverages/snacks split)
 
-📅 **Next read**: Q2 FY2026 earnings (~mid-July 2026) — does FLNA volume recovery extend, does international stay strong, and does the productivity walk show up in PBNA margin; sustained progress + reaffirmed/raised guide would firm conviction toward unscaled Initiate
+📅 **Next read**: Q2 FY2026 earnings (≈mid-July 2026) — does FLNA volume recovery extend, does international stay strong, and does the productivity walk show up in PBNA margin; sustained progress + reaffirmed/raised guide would firm conviction toward unscaled Initiate
 
 ---
 
@@ -163,7 +163,7 @@ Effective Q1 2025 PepsiCo realigned to six reportable segments. FY2023–FY2024 
 
 *Source: [stock-analysis-on.net — PEP segments](https://www.stock-analysis-on.net/NASDAQ/Company/PepsiCo-Inc/Ratios/Reportable-Segments) (derived from 10-K); [PEP FY2025 10-K](https://www.sec.gov/Archives/edgar/data/0000077476/000007747626000007/pep-20251227.htm)*
 
-**The single most important segment fact**: **PBNA operating margin collapsed from 9.4% (FY2023) → 8.3% (FY2024) → 3.9% (FY2025)** — North American beverages went from ~$2.6B to ~$1.1B in segment profit, the largest drag on consolidated margin. This is partly mix/cost/charge-driven and is the explicit focus of the productivity program — it is both the biggest risk and the biggest mean-reversion opportunity. Conversely, the **International Beverages Franchise margin tripled to 35.4%** (capital-light concentrate model), and PFNA snacks remain the profit engine at 22.4%.
+**The single most important segment fact**: **PBNA operating margin collapsed from 9.4% (FY2023) → 8.3% (FY2024) → 3.9% (FY2025)** — North American beverages went from ≈$2.6B to ≈$1.1B in segment profit, the largest drag on consolidated margin. This is partly mix/cost/charge-driven and is the explicit focus of the productivity program — it is both the biggest risk and the biggest mean-reversion opportunity. Conversely, the **International Beverages Franchise margin tripled to 35.4%** (capital-light concentrate model), and PFNA snacks remain the profit engine at 22.4%.
 
 **Q1 FY2026 segment growth** (reported): PFNA $6.33B (+2%, organic +1%, volume +2%); PBNA $6.39B (+9%); EMEA $2.82B (+18%); LatAm Foods $1.93B (+16%); Asia Pacific Foods $1.14B (+11%). *Source: [Q1 2026 8-K](https://www.sec.gov/Archives/edgar/data/77476/000007747626000019/q120268-kxexhibit991.htm)*
 
@@ -231,15 +231,15 @@ Effective Q1 2025 PepsiCo realigned to six reportable segments. FY2023–FY2024 
 
 **Capital allocation track record**:
 - **Dividend King**: 54 consecutive annual increases; quarterly dividend raised to $1.48/share (declared May 6, 2026); ≈$5.92 annualized (≈4.05% yield). Decade dividend CAGR ≈7%.
-- New **$10B buyback authorization** through Feb 28, 2030 (announced Feb 3, 2026); recent buyback pace modest (~$1B/year) relative to the dividend.
-- ~$7.6B dividends + ~$1B buybacks in FY2025 — capital return tilts heavily toward the dividend.
+- New **$10B buyback authorization** through Feb 28, 2030 (announced Feb 3, 2026); recent buyback pace modest (≈$1B/year) relative to the dividend.
+- ≈$7.6B dividends + ≈$1B buybacks in FY2025 — capital return tilts heavily toward the dividend.
 - M&A: Siete Foods ($1.2B, closed Jan 2025) and Poppi ($1.95B, 2026) — bolt-on bets on better-for-you and functional categories.
 
 ### Recent Management Commentary — Primary Source Synthesis
 
 *Sources: [PEP Q1 2026 earnings call transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/04/16/pepsico-pep-q1-2026-earnings-call-transcript/); [PepsiCo shareholder-value priorities / Elliott / 2026 outlook — PepsiCo IR](https://www.pepsico.com/en/newsroom/press-releases/2025/pepsico-announces-priorities-to-enhance-shareholder-value-and-provides-preliminary-2026-outlook)*
 
-- **On Frito-Lay volume**: *"We grew volume this quarter in Lay's in particular… we grew volume 2%. We grew occasions, units 4%."* — FLNA added ~300M new consumption occasions YoY. Investment relevance: the single most important data point against the structural-decline bear case; one quarter, not yet a trend.
+- **On Frito-Lay volume**: *"We grew volume this quarter in Lay's in particular… we grew volume 2%. We grew occasions, units 4%."* — FLNA added ≈300M new consumption occasions YoY. Investment relevance: the single most important data point against the structural-decline bear case; one quarter, not yet a trend.
 - **On international**: *"The international business is very solid, continues to accelerate… we haven't seen an impact on demand."* — Investment relevance: ≈44% of revenue is showing no GLP-1 / volume issue; the snacking-demand concern is a U.S.-specific debate, not global.
 - **On health trends / dye removal**: *"Consumers are coming back to the category… now we're offering solutions with no colors, no artificial flavors."* — Investment relevance: PEP is framing MAHA reformulation as a demand opportunity, but the COGS and execution risk is real (see §6).
 - **On GLP-1** (prior commentary): Laguarta has framed GLP-1 as presenting *"more opportunities than threats"*, expecting fiber to be *"the next protein."* Investment relevance: management's posture is offense (functional-snack innovation), not retreat — but this is an unproven bet against a structural demand question. *[Source: [Food Business MEA](https://www.foodbusinessmea.com/pepsico-ceo-says-glp-1-weight-loss-drugs-present-more-opportunities-than-threats-for-snacks-giant/)]*
@@ -269,7 +269,7 @@ Effective Q1 2025 PepsiCo realigned to six reportable segments. FY2023–FY2024 
 
 ## Section 6 — Key Risks
 
-*Materiality filter applied per Rule #25: risks below are differentiated from peers, tied to thesis-break triggers, or tied to large discretionary bets. Generic boilerplate excluded.*
+*Materiality filter applied per Rule #23: risks below are differentiated from peers, tied to thesis-break triggers, or tied to large discretionary bets. Generic boilerplate excluded.*
 
 | Risk | Impact | Probability | Priced In? | Notes |
 |------|--------|-------------|-----------|-------|
@@ -364,7 +364,7 @@ Effective Q1 2025 PepsiCo realigned to six reportable segments. FY2023–FY2024 
 - **Median target**: $173 | **Average**: $171.05 | **High**: $195 | **Low**: $132
 - **Implied upside from $144.19**: +19.7% to median
 
-**Recent rating actions (since ~March 2026)**:
+**Recent rating actions (since ≈March 2026)**:
 - **Piper Sandler (Lavery, May 20, 2026)**: Reiterated Buy; target $181
 - **Wells Fargo (Carey, May 18, 2026)**: Maintained Hold; cut target $165 → $160
 - **Citi (Falorni, May 15, 2026)**: Maintained Buy; target $182
@@ -407,7 +407,7 @@ Effective Q1 2025 PepsiCo realigned to six reportable segments. FY2023–FY2024 
 |------|-------|---------------|
 | 📅 **June 5, 2026** | **Ex-dividend** ($1.48/share) | Income mechanics |
 | 📅 **June 30, 2026** | **Dividend payment** | Income floor |
-| 📅 **~Mid-July 2026** | **Q2 FY2026 earnings** | Does FLNA volume recovery extend; international durability; PBNA margin / productivity walk; FY2026 guide confirmation |
+| 📅 **≈Mid-July 2026** | **Q2 FY2026 earnings** | Does FLNA volume recovery extend; international durability; PBNA margin / productivity walk; FY2026 guide confirmation |
 | Ongoing | GLP-1 adoption + scanner data | Multi-year structural demand question for FLNA/PBNA |
 | Ongoing | MAHA / FDA synthetic-dye rulemaking | Reformulation cost + timeline through end-2026 |
 | Ongoing | Elliott engagement | Constructive today; escalation risk if organic target missed again |
@@ -422,7 +422,7 @@ A Dividend King with a 54-year increase streak is trading near the low end of it
 
 ### A — Analytical: **Moderate-Strong**
 
-The PW EV (≈$183) sits ≈27% above spot ($144.19) on a 5-year terminal basis, plus a ≈4% dividend — a ≈9–10%/yr total-return setup with asymmetric R/R (≈4.7:1). The analytical edge is in the productivity program and PBNA: beverage operating margin collapsed to 3.9% (from 9.4%), so even partial mean reversion to 6–7% adds ~$1.3–1.7B of segment profit — a meaningful consolidated-margin and EPS lever consensus Hold models may under-credit. Conversely, the genuine analytical uncertainty is the terminal GLP-1 impact on FLNA volume, which is hard to model and bounds the downside.
+The PW EV (≈$183) sits ≈27% above spot ($144.19) on a 5-year terminal basis, plus a ≈4% dividend — a ≈9–10%/yr total-return setup with asymmetric R/R (≈4.7:1). The analytical edge is in the productivity program and PBNA: beverage operating margin collapsed to 3.9% (from 9.4%), so even partial mean reversion to 6–7% adds ≈$1.3–1.7B of segment profit — a meaningful consolidated-margin and EPS lever consensus Hold models may under-credit. Conversely, the genuine analytical uncertainty is the terminal GLP-1 impact on FLNA volume, which is hard to model and bounds the downside.
 
 ### I — Informational: **Moderate**
 
@@ -443,7 +443,7 @@ The Q1 FY2026 primary data — FLNA volume +2% (Lay's), +4% occasions, internati
 
 ## Section 11 — Bull / Bear / Base Cases
 
-*Scenarios use a 5-year terminal horizon (FY2031E) per Rule #26. Probabilities sum to 100%.*
+*Scenarios use a 5-year terminal horizon (FY2031E) per Rule #24. Probabilities sum to 100%.*
 
 | Scenario | Conditions | Price Range | Midpoint | Probability |
 |----------|-----------|-------------|----------|-------------|
@@ -497,7 +497,7 @@ The Q1 FY2026 primary data — FLNA volume +2% (Lay's), +4% occasions, internati
 - ⚠️ MAHA dye reformulation materially disrupts core Frito-Lay brand volumes or COGS beyond plan
 - ⚠️ Dividend growth cut below ≈3% or freeze (very low probability; 54-year streak; would signal a serious FCF problem)
 
-📅 **Next review trigger**: **Q2 FY2026 earnings (~mid-July 2026)** — the critical confirmation print. Sustained FLNA volume + durable international + visible PBNA margin recovery + reaffirmed/raised guide → upgrade toward unscaled Initiate. Volume reversion or accelerating GLP-1 erosion → step back toward Watch.
+📅 **Next review trigger**: **Q2 FY2026 earnings (≈mid-July 2026)** — the critical confirmation print. Sustained FLNA volume + durable international + visible PBNA margin recovery + reaffirmed/raised guide → upgrade toward unscaled Initiate. Volume reversion or accelerating GLP-1 erosion → step back toward Watch.
 
 ---
 

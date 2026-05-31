@@ -253,6 +253,8 @@ The three-print arc reveals a consistent and accelerating strategic posture. Fro
 
 ### Capital Allocation Track Record
 
+**[Outsider grade](../../frameworks/outsiders.md) — Reinvestor**: Pre-revenue capital allocation is inapplicable to the Outsider five tests — no buybacks, no dividend, and the war chest is being deployed into product expansion (8 products) and AI infrastructure. Field's track record on the Adobe deal (walked away cleanly) is the lone capital-discipline data point. Too early to grade; Reinvestor by default.
+
 - **IPO proceeds**: $1.7B war chest, deployed into AI compute, hiring, and product expansion (8 products by Q4 2025).
 - **Buyback**: None.
 - **Dividend**: None.

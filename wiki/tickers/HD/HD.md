@@ -237,6 +237,8 @@ Market share sources: [Lowe's ≈17%: IBISWorld US home improvement retail](http
 
 ### Capital Allocation Track Record
 
+**[Outsider grade](../../frameworks/outsiders.md) — Outsider-leaning**: FY2021 bought ≈5% of float near cyclically-depressed multiples pre-boom (IRR >20%) — a Singleton-quality timing call; paused appropriately when expensive/leveraged post-SRS. The SRS deal is the open test: a $18.25B bet at a cyclical peak is the anti-Outsider pattern unless the IRR math validates by FY2028.
+
 | Year | Action | Outcome |
 |---|---|---|
 | FY2021 | $14.8B share repurchases at ≈$280–330/share | 🟢 Excellent — retired ≈5% of float near cyclically-depressed multiples pre-boom; IRR >20% |

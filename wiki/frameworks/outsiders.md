@@ -81,6 +81,7 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 
 | Ticker | Read |
 |---|---|
+| **LOW** | Ellison: 63-yr Dividend King + programmatic (not countercyclical) buybacks — peak repurchases FY2021–22 near COVID highs; FBM acquisition at 13.4× EBITDA at new-construction cycle peak. Impressive per-share execution but anti-Singleton timing pattern; Dividend King archetype confirms Steward. |
 | **PEP** | 54 consecutive dividend increases; ≈7:1 dividends-to-buybacks; Dividend King by definition. |
 | **PG** | 70 consecutive dividend increases; $16B+ annually; programmatic buybacks. Reference archetype for excellent-steward-not-Outsider. |
 | **NKE** | 22+ yr dividend streak; FY22–24 buybacks at mid-cycle prices; Hill's $1M personal buy is a positive signal but not institutional countercyclical discipline. |
@@ -105,4 +106,4 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 
 ## Headline
 
-The cleanest Outsiders we track are **BRK.B, ADBE, INTU, EBAY** — countercyclical buyback timing + per-share, low-ego mindset. **UBER, BKNG, HD, KGS, NFLX** form a strong second tier. Dividend Kings (PEP/PG/NKE) and Stewards (MSFT/DELL/SCHW/UNH) are superb businesses that fail Thorndike's *specific* test. **RH / LULU are active anti-examples** of buyback discipline; **SPOT / DASH are reforming or ambiguous**.
+The cleanest Outsiders we track are **BRK.B, ADBE, INTU, EBAY** — countercyclical buyback timing + per-share, low-ego mindset. **UBER, BKNG, HD, KGS, NFLX** form a strong second tier. Dividend Kings (PEP/PG/NKE/LOW) and Stewards (MSFT/DELL/SCHW/UNH) are superb businesses that fail Thorndike's *specific* test. **RH / LULU are active anti-examples** of buyback discipline; **SPOT / DASH are reforming or ambiguous**.

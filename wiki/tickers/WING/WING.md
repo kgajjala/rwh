@@ -213,6 +213,8 @@ International is the multi-decade greenfield opportunity — chicken QSR is stru
 
 ### Capital Allocation Track Record
 
+**[Outsider grade](../../frameworks/outsiders.md) — Outsider-leaning**: Q4 2025 $91.3M buyback at ≈$241 average — management was buying *into* the early SSS reset, ahead of the deterioration that has since pushed the stock to ≈$189. That buyback above current is the only legible bull-conviction signal in the current cycle; at 30× EV/EBITDA even post-reset, whether $241 avg proves countercyclical-genius or premature will be determined by the SSS recovery arc in 2026–2027.
+
 - **Dividend**: $1.20 annualized ($0.30/qtr) — modest; ≈0.63% yield
 - **Buybacks**: **$300M program newly authorized in 2025**; **$250M+ total returned** in 2025 (combined dividends + buybacks); $91.3M remaining authorization; **Q4 2025 alone: 248,278 shares at ≈$241.65 average price** — *management bought into the early stages of the SSS reset*
 - **Securitization debt**: ≈$1.6B at ≈6.5× EBITDA — standard franchise-model leveraged-recap; refinanced opportunistically

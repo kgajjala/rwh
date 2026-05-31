@@ -225,6 +225,8 @@ UNH is U.S.-centric; the meaningful "geographic" cuts are by *product line* (com
 
 ### Capital Allocation Track Record
 
+**[Outsider grade](../../frameworks/outsiders.md) — Steward (not Outsider)**: $5–8B/yr historical buybacks are programmatic (not countercyclical); 15% CAGR dividend growth since 2017; $2B+ Q1 2026 buyback at $300–355 is genuine conviction-at-the-lows — the best Outsider signal in UNH's recent history. However, the overall pattern is Dividend Aristocrat stewardship (patterned returns every year regardless of price), not Singleton-style opportunism. The $300–355 Q1 buy is the exception, not the rule.
+
 - **Historical**: $5–8B/yr buybacks; ≈15% CAGR dividend growth across 2017–2024.
 - **FY2025**: Capital returns continued through trough, but pace constrained.
 - **FY2026 (Q1 update)**: $2B+ buybacks committed through end of Q2 2026 — meaningful confidence signal at $300–355 levels.

@@ -213,6 +213,8 @@ Dell's moat is *structural-distributional* (scale + enterprise reach + DFS finan
 
 ### Capital allocation track record (multi-year)
 
+**[Outsider grade](../../frameworks/outsiders.md) — Steward (not Outsider)**: Michael Dell's 40-year arc is a masterclass in strategic capital allocation (2013 LBO, EMC merger, VMware spin) — the Outsider mindset applied at the balance-sheet level. Current public-company framework is a committed 80%+ FCF return + 10%/yr dividend growth + programmatic repurchases — excellent, but closer to the Dividend Aristocrat cadence than countercyclical buyback opportunism. The SLTA insider sales at ~$214 blunt the timing signal.
+
 - **FY25**: Returned $10.8B to shareholders ($7.5B repurchases + $3.3B dividends)
 - **FY26**: $7B+ returned through Q4; +20% dividend hike (to $2.52/qtr); $10B incremental buyback authorization
 - **Long-term commitment** (FY25 letter): return 80%+ of adjusted FCF; ≥10% annual dividend growth through FY2028

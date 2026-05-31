@@ -1,6 +1,6 @@
 # ABNB — Airbnb, Inc.
 
-**Schema**: v2.14
+**Schema**: v3.0
 **Last Updated**: 2026-05-10
 **Status**: Paused — since 2026-05-18
 **Live Price**: **$141.49** (2026-05-08, post-Q1 print; +0.73% day) — [Yahoo Finance](https://finance.yahoo.com/quote/ABNB)

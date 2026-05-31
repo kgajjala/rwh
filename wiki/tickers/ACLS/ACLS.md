@@ -1,6 +1,6 @@
 # ACLS — Axcelis Technologies, Inc.
 
-> **Schema**: v2.14
+> **Schema**: v3.0
 > **Last Updated**: 2026-05-10
 > **Status**: Paused — since 2026-05-18
 > **Live Price Verified**: **$163.03** at 2026-05-10 ([Yahoo Finance](https://finance.yahoo.com/quote/ACLS))

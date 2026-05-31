@@ -1,6 +1,6 @@
 # MP — MP Materials Corp.
 
-> **Schema**: v2.14
+> **Schema**: v3.0
 > **Last Updated**: 2026-05-10
 > **Status**: Paused — since 2026-05-18
 > **Live Price Verified**: **$67.43** (May 8, 2026 close, [Yahoo Finance](https://finance.yahoo.com/quote/MP); –2.46% on May 8 post-earnings digestion after intraday high of $76.80; +2.1% to ~$68.05 AH)

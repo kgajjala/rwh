@@ -255,6 +255,8 @@ Three differentiators, with evidence:
 
 ### Capital allocation
 
+**[Outsider grade](../../frameworks/outsiders.md) — Reinvestor**: No dividend, no buyback — net cash $36B+ deployed into capacity (Cybercab tooling, Optimus lines), AI compute (Dojo + xAI), and manufacturing infrastructure. Build-don't-buy is Outsider-consistent when the reinvestment IRR case is strong; the $2B xAI investment raises a governance question (Tesla shareholders funding Musk's adjacent AI company). Outsider test applies post-FCF maturation.
+
 - **No dividend, no buyback** — capital deployed into capacity (Mexico Gigafactory canceled 2024; India + new sites under consideration), AI compute (Dojo + xAI co-investment), Cybercab tooling, Optimus production lines.
 - **Net cash $36B+** — ample dry powder.
 - **$2B xAI Series E investment closed January 16, 2026** ([Q4 2025 Update](https://assets-ir.tesla.com/tesla-contents/IR/TSLA-Q4-2025-Update.pdf)) — Tesla becomes a *financial allocator into Musk's adjacent AI vehicle*. This is governance-noteworthy: Tesla shareholders are now indirectly funding xAI's compute build-out.

@@ -230,6 +230,8 @@ The **AV row is the live debate**, and it intensified in May 2026. The bull case
 
 ### Capital Allocation Track Record
 
+**[Outsider grade](../../frameworks/outsiders.md) — Outsider-leaning**: First-ever buyback (Feb 2024) → Q1 2026 record $3.0B accelerated into 52-week-low share price; $27B total authorization; FCF-confidence signal. The May 2026 $10B+ AV commitments + Delivery Hero takeover study are the open question — if buyback pace holds alongside the M&A spending, the Outsider profile is intact; if AV capex crowds out repurchases, the grade reverts toward Reinvestor.
+
 | Year | Action | Outcome |
 |---|---|---|
 | Oct 2021 | Drizly acquisition (≈$1.1B) | **Failure** — written off, shut down March 2023 |

@@ -206,6 +206,8 @@ The strategic thrust is the **super-app cross-sell**: a buyer searches → tours
 
 ### Capital allocation track record
 
+**[Outsider grade](../../frameworks/outsiders.md) — Outsider-leaning**: $232M Q4 2025 buyback into the cycle trough (housing transaction volumes near decade lows); no dividend; selective bolt-on M&A ($100M Redfin rental deal, Aryeo, Followup Boss) without mega-deal overreach; $1.3B cash war chest held back for flexibility. Bought-back-through-cycle is the Outsider signature behavior; limited long-dated track record at scale limits to Outsider-leaning.
+
 - **Buybacks**: Active multi-year program. **$232M / 3.4M shares in Q4 2025 alone**; ZG has bought back stock through cycle.
 - **Dividends**: None.
 - **M&A**: Selective. Showing Time (tour scheduling), Aryeo (listing media), Followup Boss (CRM), and the *novel* $100M Redfin rental-syndication deal (Feb 2025) are the recent stack-expansion moves.

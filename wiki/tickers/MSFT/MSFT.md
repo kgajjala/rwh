@@ -227,6 +227,8 @@ Microsoft's business model has undergone three evolutions — perpetual license 
 
 **CFO Amy Hood** (since 2013): Long-tenured; highly respected; communications are precise and disciplined. Has managed the capex escalation narrative with consistency.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Steward (not Outsider)**: $20B+ annual buybacks are programmatic (consistent cadence), not countercyclical timing; dividend growing every year since 2003; OpenAI + Azure + Activision + GitHub are bold M&A bets but at strategic-premium pricing rather than disciplined-IRR bargain hunting. Nadella is an exceptional capital steward — the Outsider test simply doesn't fit a company that runs a patterned, predictable, investor-reassurance-focused return program.
+
 **Capital allocation track record**:
 - **OpenAI**: ≈$13B+ cumulative; arguably the highest-ROIC enterprise technology investment of the 2020s if Azure AI attachment plays out
 - **Activision Blizzard** ($68.7B, closed 2023): Largest gaming deal ever; integration tracking on plan; full-year contribution began FY2025

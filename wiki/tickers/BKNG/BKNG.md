@@ -262,6 +262,8 @@ The OTA competitive set spans direct OTAs, alternative-accommodation specialists
 
 **Ewout Steenbergen**: Joined March 2024 from S&P Global (CFO 2018–2024). Short BKNG tenure but S&P Global compounded earnings under him; clean transition, no covenant or accounting concerns.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Outsider-leaning**: Peak buyback ($10.4B FY23) at fear-driven dips; −22% share count over 5 years; Q1 2026 $3.6B ≈ $14B annualized rate accelerated into the –28% drawdown. Dividend initiation in FY2024 tempers the pure-Singleton profile — same tier as ACN in the cross-ticker scoring.
+
 **Capital allocation track record (5-year arc)**:
 
 | Year | Buybacks ($B) | Dividend | Share Count (post-split, M) | Pattern |

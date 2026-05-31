@@ -187,6 +187,8 @@ The U.S. energy-drink category is concentrated; the top five brands hold ≈85% 
 
 **CFO**: **Jarrod Langhans** — handles capital markets, integration, and PepsiCo coordination.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Outsider-leaning**: First sizeable buyback executed "at the lows" (Q4 2025, $40M with $260M remaining authorization) + Alani Nu at <2× revenue (accretive, bold-but-disciplined M&A) + debt paydown post-acquisition — early but coherent Singleton-pattern signals; too short a track record to call Outsider outright.
+
 **Capital allocation track record**:
 
 | Action | Date | Detail | Read |

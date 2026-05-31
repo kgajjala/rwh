@@ -19,7 +19,7 @@ Schema and operating rules live in [`CLAUDE.md`](CLAUDE.md).
 2. **Claude Code compiles** → reads `raw/`, updates `wiki/` with structured analysis
 3. **Obsidian displays** → open this folder as a Vault to browse with graph view + backlinks
 4. **Git tracks everything** → full diff history of every thesis change
-5. **Friday cron auto-refreshes** → `kg-invest-wiki-weekly` routine fires every Friday 22:00 UTC, scans every ticker for material events, writes a cross-ticker summary to `outputs/weekly/`, commits, pushes
+5. **Friday cron auto-refreshes** → `kg-invest-wiki-weekly` routine fires every Friday 22:00 UTC, scans every Active ticker for material events, updates each ticker page + `changelog.md` in place, commits, pushes
 
 ## Tickers Covered
 
@@ -75,8 +75,9 @@ Schema and operating rules live in [`CLAUDE.md`](CLAUDE.md).
 ## Frameworks Used
 
 - **BAIT** (Mauboussin) — Behavioral / Analytical / Informational / Technical
-- **Moneyball** — Probability-weighted scenario scoring
-- **15-Section thesis** — Full bottoms-up equity analysis framework
+- **Moneyball** — Probability-weighted scenario scoring (5-year terminal Bull/Base/Bear)
+- **Outsiders** (Thorndike) — §4 capital-allocation grade (countercyclical buyback discipline)
+- **13-Section thesis** — Full bottoms-up equity analysis framework
 - **Asset Type Rules** — Valuation primary varies by business model (capital-light platform, three-sided marketplace, financial / brokerage, pharma / biotech, managed care, mortgage / housing, consumer staples, semiconductor capital equipment, real-estate marketplace, EV / auto, hyperscaler, etc.)
 
 See `wiki/frameworks/` for full detail and `CLAUDE.md` for the schema.
@@ -94,11 +95,12 @@ Or for a specific update:
 **Friday weekly cron**: `kg-invest-wiki-weekly` (`trig_01R1X9aCDwHQDfUmkSii1bWb`).
 Runs every Friday at 22:00 UTC (6pm EDT / 5pm EST) on Anthropic's cloud
 infrastructure. Each run executes Workflow B (incremental update for every
-ticker), generates `outputs/weekly/YYYY-MM-DD_weekly_summary.md`, commits
-and pushes. Manage at https://claude.ai/code/routines/trig_01R1X9aCDwHQDfUmkSii1bWb.
+Active ticker) — refreshing each ticker page and appending its `changelog.md`
+in place — then commits and pushes. Manage at
+https://claude.ai/code/routines/trig_01R1X9aCDwHQDfUmkSii1bWb.
 
-See [`wiki/summaries.md`](wiki/summaries.md) for the reverse-chron index of
-all weekly summaries.
+There is no separate weekly-summary document: each ticker's `changelog.md` is
+the per-ticker event log, and `git log` is the cross-ticker record.
 
 ## Repo Map
 
@@ -107,16 +109,11 @@ rwh/
 ├── CLAUDE.md                     ← Schema and operating rules. Read first.
 ├── README.md                     ← This file. Top-level orientation + ticker table.
 ├── raw/                          ← Immutable source material (filings, transcripts, clippings)
-├── wiki/
-│   ├── index.md                  ← Master ticker catalog
-│   ├── log.md                    ← Append-only event log
-│   ├── watchlist.md              ← Cross-ticker attractiveness ranking
-│   ├── summaries.md              ← Weekly summaries index
-│   ├── tickers/[TICKER]/         ← One folder per ticker ([TICKER].md + changelog.md)
-│   └── frameworks/               ← BAIT, Moneyball, Asset Types
-└── outputs/
-    ├── [TICKER]/                 ← Polished initial analysis reports
-    └── weekly/                   ← Friday cross-ticker summaries
+└── wiki/                         ← LLM-owned. The ticker page is the deliverable.
+    ├── index.md                  ← Master ticker catalog
+    ├── watchlist.md              ← Cross-ticker attractiveness ranking
+    ├── tickers/[TICKER]/         ← One folder per ticker ([TICKER].md + changelog.md)
+    └── frameworks/               ← BAIT, Moneyball, Asset Types, Outsiders
 ```
 
 ---

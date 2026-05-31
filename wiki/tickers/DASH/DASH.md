@@ -263,6 +263,8 @@ Pulled directly from the [DoorDash FY2025 10-K (filed Feb 18, 2026; SEC accessio
 
 **Alfred Lin (a16z board director)**: Purchased ≈$100M in prior months — a material positive insider signal that partially offsets other selling.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Ambiguous (reforming)**: $5B authorized Feb 2025, $0 executed while deploying $5.1B on Deliveroo + SevenRooms M&A — the board chose empire-building over buyback execution at –38% from highs. Wolt precedent makes the M&A thesis-coherent, but the zero-execution buyback with a live authorization is a textbook anti-Outsider signal; Alfred Lin's $100M board purchase is the lone positive counter-signal.
+
 **Capital allocation**:
 - **Acquisitions**: $5.1B deployed in 2025 (Deliveroo + SevenRooms). Deliveroo paid 44% premium (180p/share vs. pre-offer ≈125p). Aggressive, but thesis-coherent.
 - **Buyback**: $5B authorized Feb 2025; $0 executed through year-end. At current $177, the full authorization could retire ≈6.5% of shares. Non-execution at –38% from highs is ambiguous — either disciplined capital allocation (waiting for lower) or preference for M&A over returns.

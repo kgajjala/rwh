@@ -213,6 +213,8 @@ The Korean e-commerce market is fragmented across listing marketplaces (Naver-le
 
 ### Capital Allocation Track Record
 
+**[Outsider grade](../../frameworks/outsiders.md) — Reinvestor**: Capital has flowed into building an insurmountable Korean logistics moat and expanding into Taiwan — IRR on that reinvestment is visible in the structural margin trajectory. Buybacks modest ($243M utilized vs. $1B authorization); no dividend. Build-don't-buy logic is Outsider-consistent when the reinvestment IRR is this high, though the Farfetch acquisition and measured pace on buybacks leave the profile in Reinvestor rather than Outsider territory.
+
 - **Korea logistics build-out**: ≈$10B+ cumulative; world-class moat
 - **Taiwan expansion (2022+)**: ≈$400M+ cumulative; own last-mile covers "vast majority" of volume
 - **Farfetch acquisition (January 2024)**: ≈$500M + debt; first positive YoY growth Q4 2025; silent in Q1 2026

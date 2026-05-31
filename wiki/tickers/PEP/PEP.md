@@ -229,6 +229,8 @@ Effective Q1 2025 PepsiCo realigned to six reportable segments. FY2023–FY2024 
 - CEO quote (Q1 FY2026): *"Nothing has changed for us to give you guys a different guidance on how we see the business evolving."* — reaffirmed 2–4% organic, with the upper end expected in H2 2026.
 - CFO quote (Q1 FY2026): *"We're benefiting from some of the moves from last year — the reduced headcount, plant closures, reduction in SKU count."* — record productivity savings targeted FY2026; 100+ bps margin expansion over 2026–2028.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Steward (not Outsider)**: 54 consecutive dividend increases; capital return tilts ≈7:1 dividends-to-buybacks; new $10B authorization is paced at ≈$1B/year — a Dividend King by definition. Excellent steward; the opposite archetype from Thorndike's specific test.
+
 **Capital allocation track record**:
 - **Dividend King**: 54 consecutive annual increases; quarterly dividend raised to $1.48/share (declared May 6, 2026); ≈$5.92 annualized (≈4.05% yield). Decade dividend CAGR ≈7%.
 - New **$10B buyback authorization** through Feb 28, 2030 (announced Feb 3, 2026); recent buyback pace modest (≈$1B/year) relative to the dividend.

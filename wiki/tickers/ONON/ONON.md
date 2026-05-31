@@ -221,6 +221,8 @@ Management expects DTC to continue growing ahead of wholesale, apparel to become
 
 **Roger Federer (Co-investor + global ambassador)**: Strategic stakeholder since 2019. The most important non-executive in ONON's capital structure from a brand signal standpoint. His transition from active professional to ambassador may modestly reduce court presence, but his brand longevity is multi-decade.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Reinvestor**: CHF 1.02B cash held for regional expansion, no dividend, no M&A, minimal buybacks — capital is entirely directed toward building the global performance + lifestyle brand (APAC, apparel, retail). Organic-only, build-don't-buy is Outsider-consistent when reinvestment IRR is this high; too early in the company's maturity arc to apply the countercyclical buyback test.
+
 **Capital allocation**:
 - **M&A**: None; organic growth focus
 - **Buybacks**: Limited; balance sheet cash CHF 1.02B held for regional expansion

@@ -194,6 +194,8 @@ Sources: [Q1 26 letter](../../../raw/NFLX/shareholder-letters/2026_Q1_letter.pdf
 
 ### Capital Allocation
 
+**[Outsider grade](../../frameworks/outsiders.md) — Outsider-leaning**: Disciplined tuck-in M&A (no mega-deals; walked away from WBD and got paid for the walk); no dividend; buybacks ramping ($13.6B remaining authorization) as FCF compounds. The WBD termination is a textbook Outsider move — value over ego. The $5–6B/yr buyback cadence is mechanical rather than opportunistically timed, blunting a pure-Singleton read; Outsider-leaning best captures the profile.
+
 - **Buyback**: ≈$3.6B repurchased FY2025 (post-split share count down ≈2%/yr); $13.6B remaining authorization at Q1 26. Mechanical bid of ≈$5–6B/yr at current cadence.
 - **Dividend**: None.
 - **Net debt**: ≈$11B; investment grade. No refinancing risk.

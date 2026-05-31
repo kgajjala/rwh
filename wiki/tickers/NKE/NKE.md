@@ -218,6 +218,8 @@ The Hill thesis is sequenced as: North America re-acceleration (Q3 FY2026: early
 **Matt Friend (CFO since 2020)**
 Joined Nike in 2009. Has managed the balance sheet through the DTC build-out, restructuring charges, and now the turnaround. Q3 FY2026 guidance communication (–20% China) was direct and credible.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Steward (not Outsider)**: 22+ consecutive years of dividend increases; aggressive FY22–FY24 buybacks ($5.5B, $4.3B) at mid-cycle prices (not trough timing); Hill's personal $1M open-market buy at a 12-year price low is a positive signal but doesn't constitute institutional countercyclical buyback discipline. Classic Dividend Aristocrat steward — superb track record, opposite archetype from Thorndike's specific test.
+
 **Capital allocation track record:**
 - **Dividend**: 22+ consecutive years of increases; current $1.64/yr annualized; consistent even during FY2025 earnings compression — signals board commitment to the Dividend Aristocrat track
 - **Buybacks**: Aggressive FY2022–FY2024 ($5.5B, $4.3B); moderated in FY2025 ($3.0B) as cash was conserved for turnaround reinvestment; $2.3B returned in dividends each of FY2024 and FY2025

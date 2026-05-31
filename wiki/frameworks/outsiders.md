@@ -51,6 +51,7 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 | Ticker | CEO | Read |
 |---|---|---|
 | **UBER** | Khosrowshahi | First-ever buyback (2024) → **$3B record quarter accelerated into the 52-wk low**; disciplined % of cap; FCF-confidence signal. |
+| **ACN** | Sweet | **Countercyclical buybacks at trough multiples** — $4.6B FY25 + $1.7B Q2 FY26 at ~12–13x fwd EPS (vs. historical 22–28x avg); 20-yr dividend-growth streak blunts pure Singleton profile. |
 | **BKNG** | Fogel | **Peak buyback at fear-driven dips** (FY23 $10.4B), −22% share count / 5 yrs. Dividend initiation tempers the pure-Singleton profile. |
 | **HD** | McPhail | Bought ~5% of float near **cyclically-depressed multiples pre-boom (IRR >20%)**, paused when expensive/levered. SRS deal is the open question. |
 | **KGS** | McKee | **Malone-style** leverage roll-up: acquisitions over buybacks, disciplined 3.5–4× → <3× de-lever path, removed EQT overhang non-dilutively. |

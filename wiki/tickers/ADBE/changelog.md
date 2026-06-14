@@ -4,6 +4,65 @@
 
 ---
 
+## [2026-06-13] — Earnings Q2 FY2026 + CFO Departure + SEMrush Close
+
+**Trigger**: Adobe reported Q2 FY2026 results on June 11, 2026. Stock fell 6.76% to $204.02 (new 52-wk low $196.90) despite a revenue beat and raised guidance — driven by simultaneous CFO departure and H2 ARR organic headwind from freemium acceleration. SEMrush acquisition (closed April 28, 2026) also incorporated.
+
+**Sources reviewed**:
+- [Yahoo Finance live price](https://finance.yahoo.com/quote/ADBE): $204.02, 52-wk $196.90–$405.00, market cap $82.5B, P/E TTM 11.67× (June 13, 2026)
+- [Adobe Q2 FY2026 Press Release — BusinessWire](https://www.businesswire.com/news/home/20260611677110/en/Adobe-Reports-Record-Q2-Results)
+- [SEC Form 8-K Q2 FY2026](https://www.sec.gov/Archives/edgar/data/0000796343/000079634326000109/adbeex991q226.htm)
+- [Q2 FY2026 Earnings Call Transcript — Globe and Mail](https://www.theglobeandmail.com/investing/markets/markets-news/motley/2431660/adobe-adbe-q2-2026-earnings-transcript/)
+- [SEC Form 8-K CFO Resignation (June 8, 2026)](https://www.sec.gov/Archives/edgar/data/0000796343/000079634326000109/adbe-20260608.htm)
+- [SEMrush Acquisition Close — BusinessWire (April 28, 2026)](https://www.businesswire.com/news/home/20260428367638/en/Adobe-Completes-Semrush-Acquisition-Strengthening-CX-Enterprise-with-Enhanced-Brand-Visibility-Capabilities)
+- [Analyst downgrades — gurufocus.com](https://www.gurufocus.com/news/8913811/adobe-adbe-faces-downgrades-following-q2-results-and-revenue-outlook-revisions)
+- [stockanalysis.com consensus](https://stockanalysis.com/stocks/adbe/forecast/)
+- [TechTimes Q2 summary](https://www.techtimes.com/articles/318264/20260612/adobe-q2-2026-earnings-record-662b-revenue-ai-arr-triples-cfo-exits-days.htm)
+- [Traders Union CFO news](https://tradersunion.com/news/financial-news/show/2348478-adobe-drops-7-17percent-today-to/)
+
+### What Changed
+
+**Q2 FY2026 results (beat on revenue + EPS, miss on narrative):**
+- Revenue: $6.62B (+13% YoY, +11% cc) — beat guide of $6.43–6.48B
+- Non-GAAP EPS: $5.96 (+18% YoY) — beat consensus $5.82; sequential dip from Q1's $6.06 (higher investment)
+- GAAP EPS: $4.25; operating CF: $2.17B (sequential dip from $2.96B in Q1)
+- Total ARR: $27.10B (+12.5% YoY) — includes $480M SEMrush contribution (organic ≈10.5%)
+- AI-first ARR: >$500M (3× YoY, up from >$250M range in Q1); Firefly ARR approaching $300M (+50% QoQ)
+- Acrobat AI Assistant MAU: +150% YoY
+- Shares repurchased in Q2: ≈8.5M (≈$1.7–1.8B deployed)
+- FY2026 revenue guidance RAISED: $26.5–26.6B (from $25.9–26.1B)
+- FY2026 NGAAP EPS guidance RAISED: $24.35–24.45
+- Q3 FY2026 guide: $6.67–6.72B revenue / $6.05–6.10 NGAAP EPS
+- H2 organic ARR guidance reduced ≈$500M: ≈50% from deferred Creative Cloud price optimizations, ≈50% from freemium acceleration; payback "over 2027"
+
+**CFO Dan Durn departed June 15, 2026** — resigned June 8 to join Marvell Technology as CFO; Steve Day (SVP Corporate Finance, 20-year veteran) named interim CFO. Adobe now has no permanent CEO and no permanent CFO simultaneously.
+
+**SEMrush acquisition closed April 28, 2026** ($1.9B all-cash) — $480M ARR consolidated into Digital Experience; adds SEO/GEO/ASO capabilities and AI-driven search-visibility tools.
+
+**Analyst reaction (June 12):**
+- Evercore ISI: Outperform → In Line, PT $325 → $225 (major downgrade)
+- Goldman: Sell, PT $220 → $190; Citi: Hold, PT $264 → $228; Baird: Neutral, PT $270 → $230; BMO: Hold, PT $285 → $230; Freedom Capital: PT $510 → $250
+- Bernstein: Outperform maintained, PT $447 → $379; D.A. Davidson: Buy, PT $300 → $250
+- New median PT: $250 (vs. $329–$362 prior); average $288
+
+**Sections refreshed:** Header, Summary (all 4 parts), Key Stats, §2 Financial Metrics (Q2 column added, ARR table updated), §4 Revenue Mix (SEMrush, freemium pivot), §6 Management (CFO departure, dual-vacancy framing, Q2 call quotes), §7 Strategic Initiatives (freemium acceleration, SEMrush, Creative Agent distribution), §8 Key Risks (3 new risks: dual-vacancy, freemium-bet failure, deferred CC optimizations), §10 Valuation (multiples at $204), §11 Catalyst & Sentiment (full refresh), §12 BAIT (T downgraded to Weak; B, A, I all refreshed), §13 Scenarios (probabilities adjusted: Bull 25%, Base 50%, Bear 25%; Base revised to $320 from $340), §14 PW EV (recomputed at $204: $323, +58%, ≈17%/yr, R/R ≈8:1), §15 Recommendation (entry zone, thesis-break triggers, next review trigger all refreshed).
+
+### Thesis Status
+
+- **Overall**: 🟡 **Weakened (modestly)** — Revenue + earnings trajectory intact and AI-first ARR milestone meaningful; but dual C-suite vacancy + H2 ARR organic headwind ($500M) are genuine near-term execution risks that the market is correctly flagging. This is a timing-risk overlay on a structurally intact thesis, not a moat-break event.
+- **BAIT delta**: B Strong (unchanged — behavioral fear now extreme at $204); A Strong (unchanged — FCF yield now 11%, valuation case even more compelling); I Moderate (unchanged); **T Weak** (downgraded from Weak→Moderate — stock broke 52-wk low, no technical floor visible)
+- **Price target delta**: Bull $480 (25%, was 30%) | Base $320 (50%, revised from $340) | Bear $170 (25%, was 20%) | PW EV $323 (was $348) | R/R ≈8:1 (was ≈3.1:1 — asymmetry improved as price fell)
+- **Catalyst & Sentiment delta**: Q2 beat + guidance raise offset by CFO departure; 9 analyst PT cuts; median PT now $250
+
+### Recommendation
+
+- **For a non-holder**: 🟢 **Initiate** — ≈8.4× FY26E NGAAP P/E and ≈11% FCF yield; accumulate gradually given dual-vacancy event risk
+- **For a current holder**: 🟡 **Hold / Add selectively** — add cautiously until CEO named or Q3 FY26 (September) validates freemium conversion
+
+**Next review trigger**: Q3 FY2026 earnings (September 2026 est.) — first freemium conversion data; ARR rebound vs. H2 headwind; CEO/CFO search status.
+
+---
+
 ## [2026-04-26] — v2.6 + v2.7 + v2.8 Retrofit + Material Thesis Refresh
 
 **Trigger**: Schema retrofit pass to bring ADBE from v2.5 to v2.8, combined with two material events that materially shift the thesis since the v2.2/v2.5 ingest:

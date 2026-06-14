@@ -26,7 +26,7 @@
 | 5 | AMZN | Moderate-High (post-Q1-print, R/R compressed) | Triple (A-Mod-Strong + I + T Mod) | PW EV $322 vs. $265.06 (ATH) = +22% (3yr / ~7%/yr); R/R ~1.4:1 | **Watch** / **Hold**; entry $220–245 | Q2 FY26 — late July 2026 |
 | 6 | LLY | High | Triple (A+I-Strong, B-Mod) | PW EV $1,264 vs. $974.39 = +30% (18mo / ~19%/yr); R/R ~2.9:1 | **Initiate** / 🟢 **Hold-Add**; entry $830–900 | Q2 2026 — late July 2026 |
 | 7 | INTU | Moderate-High | Triple (B+A-Strong, I-Mod) | PW EV $552 (3yr) vs. $319.45 = **+73%**; R/R **~8:1** (Bull $720 / Bear $270) — Q3 FY26 beat-and-raise met –20% (17% workforce cut + FY27 11–12% guide); **IRS Direct File ✅ de-risked** | **Initiate** / **Add**; entry $300–415 | Q4 FY26 + FY27 guide — Aug 2026 |
-| 8 | ADBE | High | Triple (B+A-Strong, I-Mod, T-Weak→Mod) | PW EV ~$348 vs. $245.44 = +42% (3yr / ~12.4%/yr); R/R ~3.1:1 | **Initiate** / **Add aggressively below $230** | Q2 FY26 — June 2026 (est.) |
+| 8 | ADBE | High | Triple (B+A-Strong, I-Mod, T-**Weak**) | PW EV ~$323 vs. **$204.02** = **+58%** (3yr / ~17%/yr); **R/R ~8:1** (Bull $480 +135% / Bear $170 –17%) — Q2 beat (rev +13%, NGAAP EPS +18%); FY2026 guide raised $26.5–26.6B; AI-first ARR >$500M (3× YoY); but CFO Durn departed → Marvell (June 15), CEO search ongoing = **dual vacancy**; H2 ARR organic headwind ~$500M (freemium bet + deferred CC price opts); stock at new 52-wk low $196.90 | **Initiate gradually** / **Hold-Add selectively** (wait for CEO named or Q3 freemium data) | Q3 FY26 — September 2026 (est.) |
 | 8b | ACN | Moderate-High (deep-value AI-fear; spot at entry ceiling) | 3–4 lens (B-Strong; A+I+T-Mod) | PW EV $233 (5-yr) vs. $187.07 = **+25%**; R/R **~2.2:1** (Bull $300 +60% / Bear $135 −28%) — ~13.6× fwd P/E + ~9.5% FCF yield at decade trough; record bookings + GenAI $2.2B/qtr + OpenAI Federal partnership contradict the disintermediation bear; spot just above 20% MoS ceiling (~$186) | **Watch / Initiate on dips ≤$185 / Hold** | Q3 FY26 — **Jun 18, 2026** |
 | 9d | PEP | Moderate-High (deep-value Dividend-King setup) | Triple (B+A+I), Mod T | PW EV ≈$183 (5-yr) vs. $144.19 = **+27%** (+ ≈4.05% div); R/R **≈4.7:1** (Bull $225 +56% / Bear $127 −12%) — Dividend King at ≈17× fwd core P/E / ≈4.05% yield (highest in yrs); Q1 FY26 FLNA +2% volume inflection + PBNA margin (3.9% vs 9.4% FY23) mean-reversion lever; GLP-1 + MAHA-dye + Elliott fear overshooting | **Initiate (scaled) / Hold-Add**; entry $127–150 | Q2 FY26 — ~mid-July 2026 |
 | 10 | NKE | Moderate-High | Triple (B-Strong, A-Mod-Strong, I-Mod) | PW EV ~$60.50 + 11% cumulative div = ~14%/yr (3yr); R/R ~3.6:1 | **Initiate** / **Add**; entry $40–48 | Q4 FY2026 — late June 2026 |
@@ -136,7 +136,7 @@
 | PEP | $144.19 | $127 (20%) | $180 (50%) | $225 (30%) | ~$183 | +27% (5yr) + ≈4.05% div; R/R ≈4.7:1 |
 | MSFT | $424.62 | $360 (20%) | $560 (50%) | $740 (30%) | ~$565 | +33% (3yr / ~10%/yr) |
 | AMZN | $255.08 | $170 (20%) | $310 (50%) | $400 (30%) | ~$310 | +22% (3yr); R/R ~3.5:1 |
-| ADBE | $245.44 | $170 (20%) | $345 (50%) | $480 (30%) | ~$348 | +42% (3yr); R/R ~3.1:1 |
+| ADBE | $204.02 | $170 (25%) | $320 (50%) | $480 (25%) | ~$323 | +58% (3yr); R/R ~8:1 |
 | ACN | $187.07 (5/29/26) | $135 (25%) | $235 (45%) | $300 (30%) | ~$233 | +25% (5yr); R/R ~2.2:1 |
 | HD | ~$320 (5/31/26) | $215 (25%) | $395 (55%) | $530 (20%) | ~$377 | +18% (5yr); R/R ~2.0:1 |
 | INTU | $319.45 (5/22/26) | $270 (20%) | $555 (47%) | $720 (33%) | ~$552 | +73% (3yr); R/R ~8:1 |

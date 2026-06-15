@@ -4,6 +4,49 @@
 
 ---
 
+## [2026-06-15] — Post-Earnings Weakness: –13% further slide on Goldman→Sell + OpenAI entry + $1.75B debt + securities-fraud probe
+
+**Trigger**: User requested a post-earnings re-evaluation of INTU's continued weakness. No new earnings since Q3 FY26 (next is Q4 FY26, Aug 2026), but the stock fell a further ≈13% (from $319.45 on May 22 to **$276.73** on June 12, a fresh 52-wk low of $268.01) on a cluster of non-earnings events. Material event under Workflow B.
+
+**Sources reviewed**:
+- [stockanalysis.com — INTU](https://stockanalysis.com/stocks/intu/) (live $276.73, June 12 close; mkt cap $75.7B; P/E TTM 16.9; 52-wk low $268.01)
+- [GuruFocus — Goldman Sachs downgrade Neutral→Sell, PT $519→$276 (June 2)](https://www.gurufocus.com/news/8895705/intu-downgraded-by-goldman-sachs-price-target-lowered-to-276); [GuruFocus — –6.86% reaction](https://www.gurufocus.com/news/8896109/intuit-intu-faces-downgrade-from-goldman-sachs-shares-drop-686?mobile=true); [Yahoo — Goldman cites AI tax rivals + Mailchimp decline](https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-downgrades-intuit-ai-104654463.html)
+- [Simply Wall St — OpenAI launches consumer personal-finance tool overlapping TurboTax + Credit Karma; remains paid Intuit model partner (May 27)](https://simplywall.st/stocks/us/software/nasdaq-intu/intuit/news/intuit-faces-turbotax-pricing-probe-as-openai-enters-persona)
+- [Yahoo — Intuit –8.8% on $1.75B senior notes (4.950% 2031 + 5.500% 2036)](https://finance.yahoo.com/markets/stocks/articles/intuit-intu-down-8-8-081011424.html)
+- [PRNewswire — securities-fraud investigation into TurboTax 2026-season pricing disclosures](https://www.prnewswire.com/news-releases/stock-drop-alert-intuit-intu-20-stock-drop-on-pricing-issues-trigger-securities-fraud-investigation-on-behalf-of-investors-302794408.html)
+- [Fintel — short interest 3.89% of float, 10.4M shares, 2.2 DTC (June 11)](https://fintel.io/ss/us/intu)
+
+### What Changed
+- **Header**: Last Updated 2026-05-22 → 2026-06-15; Live Price $319.45 → **$276.73** (June 12 close); 52-wk low $302.36 → $268.01; –60.7% → –66.0% from high
+- **Summary**: Thesis rewritten — the further ≈13% slide attributed to Goldman Sell + OpenAI entry + debt raise + fraud probe (not earnings); scenario table rebased (Now $277 ≈2%ile, Bear $220, PW EV $521, R/R ≈8:1); KPI strip FY26E P/E 13.4× → 11.6×, FCF yld 7% → 8%; Why/Why-not refreshed; verb line gains "opportunity with an escalating tail" caveat
+- **Business Overview**: Added OpenAI "frenemy" personal-finance entry paragraph as proximate slide driver
+- **Pivotal Question**: Rebased to $277; OpenAI direct entry added as the third structural-risk pillar
+- **Key Stats**: Price/cap/52-wk/P-E/short-interest refreshed; new debt row ($1.75B notes); consensus median $502 → ~$447; Goldman Sell flagged
+- **§3 Moat**: Added OpenAI direct-entry vulnerability (named, 700M+ weekly-user entrant) as top of the vulnerabilities list
+- **§4 Management**: Added $1.75B June debt raise to capital allocation (net cash → ~$1.1B net debt; term-funds buyback; –8.8% market reaction)
+- **§6 Risks**: AI-commoditization probability 30% → 35% (OpenAI makes it concrete); added securities-fraud class-action row (Low-Med/30%); evolution summary rewritten to add OpenAI + litigation
+- **§7 Macro**: AI-macro paragraph adds OpenAI consumer entry; de-rating updated 60% → 67% (35× → 11.6×)
+- **§8 Valuation**: Rebased to $277 — ~11.6× FY26E, ~10.1× FY27E, ~3.6× EV/Rev, ~8% FCF yld, $75.7B cap; fair value trimmed $480–560 → $440–520 (OpenAI overhang on terminal multiple); Goldman Sell PT $276 = spot noted
+- **§9 Catalyst/Sentiment**: Full refresh — Goldman Sell (June 2), OpenAI tool (May 27), $1.75B debt, fraud probe, short interest 3.89%, consensus median ~$447; upcoming catalysts add OpenAI-traction + fraud-probe watch
+- **§10 BAIT**: B (deeper drawdown on no data) and A (Goldman target at spot) refreshed with honest OpenAI counterweight; T notes fresh $268 low + weak-tape-into-August; verdict held Triple overlap / Moderate-High but explicitly flagged higher-variance
+- **§11 Scenarios**: Rebased to $277; **bear deepened $270 → $220 and re-weighted 20% → 25%** (OpenAI entry); Bull 33% → 30%, Base 47% → 45%; Bull/Base terminals held ($720/$555)
+- **§12 PW EV**: $552 → **$521** (bear deepening offsets lower spot); expected return +73% → **+88%**; R/R 8.1:1 → **~7.8:1**
+- **§13 Recommendation**: Added explicit "mispricing vs. risk" verdict (on-balance opportunity, higher-variance); entry zone $300–415 → $268–360; trim $555–720 → $521–720; thesis-break triggers add OpenAI/AI-native share loss (promoted to #1) + fraud-probe escalation
+
+### Thesis Status
+- **Overall**: **Unchanged direction (Initiate/Add), wider but higher-variance asymmetry**. The continued slide is ~70% sentiment/positioning against a still-rising earnings stream, but OpenAI's direct entry is a genuine new fundamental that fattens the bear tail — hence PW EV ticked down ($552 → $521) even as the entry price improved. No thesis-break trigger has fired.
+- **BAIT delta**: Verdict held (Triple overlap; Moderate-High), now explicitly higher-variance. B strengthened (deeper drawdown on no data); A gains "Goldman target at spot" but adds OpenAI terminal-multiple caveat.
+- **Price target delta**: Bull $720 (33%→30%) | Base $555 (47%→45%) | Bear $270→**$220** (20%→25%); PW EV $552 → **$521**; R/R ~8:1.
+- **Catalyst & Sentiment delta**: Goldman → Sell (first bulge-bracket Sell; PT at spot); OpenAI personal-finance launch; $1.75B debt; securities-fraud probe; consensus median $502 → ~$447; short interest 3.73% → 3.89%.
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate** (incrementally) — $277; PW EV ~$521 (+88%); ~8:1 R/R; pay-you-to-wait multiple, size for a weak tape into August
+- **For a current holder**: 🟢 **Add** — sub-$300 is the most attractive entry in INTU's history; company repurchasing into the low. Aug Q4 + FY27 guide is the decision gate
+
+**Next review trigger**: Q4 FY26 earnings + first formal FY27 guide — Aug 2026. Interim pull-forward on securities-fraud escalation or any OpenAI-traction disclosure.
+
+---
+
 ## [2026-05-22] — Earnings: Q3 FY26 (beat-and-raise, –20% reaction) + 17% restructuring + Direct File de-risk
 
 **Trigger**: Q3 FY26 earnings reported 2026-05-21 (post-close) — Intuit's tax-season quarter. Material event under Workflow B. Coincides with a ~17% workforce reduction announcement and the confirmed permanent termination of IRS Direct File.

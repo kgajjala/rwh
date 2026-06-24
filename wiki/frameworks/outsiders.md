@@ -101,6 +101,7 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 | **LULU** | (interim) | 🔴 Repurchased at **≈$240 avg, well above current = capital destruction**; Mirror write-off. |
 | **SPOT** | Ek | 🟡 Reforming — 2022–23 podcast spree was "the worst capital-allocation period in company history"; now buyback initiation + Ek taking direct ownership of allocation as Executive Chairman. |
 | **DASH** | Xu | 🟡 Ambiguous — $5B authorized, **$0 executed** while deploying $5.1B on M&A (Deliveroo/SevenRooms). Zero-execution buyback at –38% from highs is anti-Outsider signal. |
+| **FDX** | Subramaniam | 🟡 Reforming (Reinvestor → Steward-leaning) — historically a **sub-WACC reinvestor** (ROIC ~6.7% < WACC for a decade; value-destructive $4.8B TNT deal). Now genuinely pivoting: the FedEx Freight spin (June 2026) is an Outsider-style value-unlock, capex cut to a company-low 4.0% of revenue. ⚠️ But FY2026 buybacks were *cut* ($3.0B→$776M) as cash built ($13.3B) — anti-countercyclical. Grade upgrades when ROIC clears WACC. |
 
 ---
 

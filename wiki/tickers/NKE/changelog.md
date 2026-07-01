@@ -4,6 +4,35 @@
 
 ---
 
+## [2026-07-01] — Q4 & FY2026 Earnings: Beat Masked by One-Time Tariff Refund, FY2027 Guide Deferred to November, CFO Departing
+
+**Trigger**: Q4 FY2026 + full-year results released June 30, 2026 (after close) — the "most important catalyst" this page had been tracking since the April ingest. Owner requested post-earnings-call analysis and analyst community reactions specifically.
+
+**Sources reviewed**: [Nike Q4 & FY2026 Results — Nike IR](https://about.nike.com/en/newsroom/releases/nike-inc-reports-fiscal-2026-fourth-quarter-and-full-year-results); [Q4 FY2026 8-K — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000076/q4fy26exhibit991er.htm); [CFO transition 8-K](https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000070/pressrelease062326.htm); [Investing.com Q4 earnings call transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-nike-beats-q4-estimates-but-shares-fall-on-outlook-q4-2026-93CH-4769170); [CNBC Q4 coverage](https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html); [Investing.com — Barclays PT cut](https://www.investing.com/news/analyst-ratings/barclays-cuts-nike-stock-price-target-on-slower-turnaround-progress-93CH-4770071); [Investing.com — Piper Sandler PT cut](https://www.investing.com/news/analyst-ratings/piper-sandler-cuts-nike-stock-price-target-on-sales-weakness-93CH-4769820); [TipRanks — JPM pre-earnings EPS cut](https://www.tipranks.com/news/j-p-morgan-cuts-nike-nke-stock-price-target-ahead-of-q4-earnings); stockanalysis.com (price). Yahoo/CNBC/MarketWatch/SEC EDGAR direct fetch returned 403 this pass — data cross-verified via multiple independent search queries.
+
+### What Changed
+- **§1/Key Stats**: Q4 revenue $10.972B beat ($10.859B consensus), down ~2% YoY. Reported EPS $0.72 vs. $0.14 prior year — but **$986M (52¢/share) of this is a one-time IEEPA tariff-refund benefit**; ex-item EPS was $0.20, still beating the $0.12 consensus (a genuine, modest underlying beat). FY2026 full year: NIKE Brand revenue $45.2B (+1% reported, –1% CN) — the multi-year revenue decline has stopped. FY2026 GAAP EPS ≈$2.09 reported / ≈$1.57 ex the one-time item.
+- **§1/§2/§9**: North America +3% in Q4 — a *second* consecutive positive quarter, confirming (not just signaling) re-acceleration. Greater China –17% currency-neutral — an acceleration from Q3's ≈–10% pace; management now guides low-to-mid-single-digit group revenue decline through Q1–Q3 FY2027.
+- **§3/§4/§6**: New disclosure — Hill named Nike Sportswear / Jordan streetwear sell-through as "challenged," pressuring discounting and forward order books; not previously visible at this granularity and directly relevant to Jordan Brand's role as Nike's largest cultural-IP moat source.
+- **§4**: CFO Matt Friend departing Aug 17, 2026 (announced June 23, ahead of earnings); succeeded by David Denton (Pfizer CFO since 2022, ex-Lowe's CFO, ex-CVS Health). Added as a new tracked risk (leadership continuity during peak turnaround).
+- **§9**: Full post-earnings analyst-reaction review (owner-requested) — Barclays $67→$52 (Overweight maintained), Bernstein SocGen →$72 (Outperform maintained, Street-high), Piper Sandler/Stifel/UBS →$45–48, Telsey →$47. Uniform target-cut cluster, **no downgrades found** — sell-side reads this as "slower, not broken." Stock fell to a fresh 52-wk/multi-year low (~$40) in AH trading, then rallied +3.2% the next morning to $42.42 — the market's own reaction was genuinely split.
+- **§11/§12**: Bull $90/Base $60/Bear $32 and 25/50/25 probabilities held unchanged — the print did not deliver the terminal-relevant full FY2027 guide these targets were waiting on (deferred to a **November 16–17, 2026 Investor Day**). PW EV holds at $60.50; R/R improved mechanically to ≈4.6:1 (from ≈3.6:1) purely because spot fell to $42.42 — not because the thesis de-risked.
+- **§13**: Verbs tempered — Initiate → **Initiate (small, scaled)**; Add → **Hold-Add**. NA thesis-break trigger flipped to de-risked (two quarters of confirmed growth); FY2027-guide trigger superseded (no guide given) and re-pointed at November; added two new triggers (Sportswear/Jordan spread, CFO-transition disruption). Next review trigger split into two stages: Q1 FY2027 earnings (~Sept 2026) and the November Investor Day.
+
+### Thesis Status
+- **Overall**: 🟡 **Unchanged / Genuinely Mixed** — not a clean strengthen or weaken. Real evidence moved in both directions this print: NA confirmation and a real (if modest) underlying beat are bull-supportive; accelerating China decline, new Sportswear/Jordan weakness, deferred guidance, and a CFO transition are bear/caution-supportive. Conviction eased from Moderate-High to Moderate as a result.
+- **BAIT delta**: A: Moderate-Strong → Moderate. T: Weak → Weak, deteriorating (fresh low, no confirmed floor). B and I: both still Moderate/Strong but on different evidence than April.
+- **Price target delta**: Bull $90 (25%) | Base $60 (50%) | Bear $32 (25%) — **unchanged**; PW EV holds ≈$60.50. R/R: 3.6:1 → 4.6:1 (mechanical, spot-driven).
+- **Catalyst & Sentiment delta**: Post-earnings analyst panel shifted more Hold-heavy (≈46%→≈38% Buy-weighted); broad target cuts to $45–52 cluster, no downgrades; fresh multi-year low then a same-week relief rally.
+
+### Recommendation
+- **For a non-holder**: Initiate (small, scaled) — tempered from Initiate. Entry zone $40–48 unchanged; spot ($42.42) is inside it.
+- **For a current holder**: Hold-Add — tempered from Add. Smaller increments than the April framing implied pending the November Investor Day.
+
+**Next review trigger**: Two-stage — Q1 FY2027 earnings (~September 2026), then the **FY2027 Investor Day (November 16–17, 2026)**, now the critical full-guide event.
+
+---
+
 ## [2026-04-26] — v2.9 Schema Retrofit
 
 **Trigger**: Schema upgrade from v2.5 → v2.9. No new earnings event; structural retrofit only with primary source enrichment.

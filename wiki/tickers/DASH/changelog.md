@@ -4,6 +4,34 @@
 
 ---
 
+## [2026-07-01] — Rally Deeper Into Trim Zone + Autonomous-Delivery Funding + Gig-Worker Regulatory Tailwind
+
+**Trigger**: Weekly update (Workflow B). No Q2 earnings this period (confirmed for Jul 30, 2026), but a +12.6% price rally with no fundamental confirmation, a newly-funded autonomous-delivery program, a federal gig-worker regulatory tailwind, and a reversing short-interest/insider-selling pattern together cross the materiality bar.
+
+**Sources reviewed**: [TIKR — Robot Bet](https://www.tikr.com/blog/doordash-stock-is-down-21-in-2026-the-robot-bet-is-the-part-wall-street-keeps-missing); [Quiver Quantitative — spending concerns + PT cuts](https://www.quiverquant.com/news/DoorDash+slides+as+investors+weigh+2026+spending+and+a+fresh+round+of+price-target+cuts); [CNBC — AI ordering launch](https://www.cnbc.com/2026/06/11/doordash-ai-ordering-automation.html); [TechRadar — Jun 16 outage](https://www.techradar.com/news/live/spotify-and-doordash-down-june-2026); [Fast Company — DOL gig-work rule](https://www.fastcompany.com/91007559/doordash-uber-lyft-new-rule-gig-work); [GeekWire — Seattle gig-pay report](https://www.geekwire.com/2026/seattle-report-says-gig-worker-pay-law-is-working-countering-claims-by-doordash-and-uber/); stockanalysis.com (price), finviz (short interest), StockTitan (Form 4s). Yahoo/CNBC/MarketWatch/SEC EDGAR direct fetch returned 403 this pass — data cross-verified via multiple independent search queries.
+
+### What Changed
+- **Price/§9**: $163.93 → $184.53 (+12.6%), no earnings in between — driven by ads/AI/World Cup narrative, not fundamentals. Short interest reversed from covering to building (2.79%→3.40% of float, +33%). Insider selling broadened (CFO, a director, the president, the CAO, Andy Fang's trust all sold in June, mostly 10b5-1; no new offsetting buys). Analyst actions were *cuts despite the rally* (BTIG $280→$225, Argus $210→$190, both Buy-maintained) — sell-side more cautious on capex payoff timing than the share price reflects. Q2 earnings confirmed **Jul 30, 2026**.
+- **§5**: Autonomous delivery moved from concept to funded program — DoorDash joined Also's (Rivian spinout) $200M Series C; Barclays frames the category as capable of cutting delivery cost toward ≈$1/order. Added Dollar Tree nationwide partnership (9,000+ stores) and "Ask DoorDash" AI ordering assistant + Spotlight ad format (both shipped, not roadmap).
+- **§6**: Gig-worker reclassification probability trimmed (15%→10–12%) — DOL's Feb 26, 2026 NPRM proposes an employer-friendly independent-contractor standard, which DoorDash publicly welcomed; state/city-level risk (NYC wage law, Seattle's law "working") stays live and cuts both ways. Extended the integration-risk row to cover autonomous capex timing, the specific concern behind June's analyst target cuts.
+- **§3**: Corrected/reconciled a share-methodology discrepancy — Bloomberg Second Measure still shows ≈66% (unchanged, no share-loss signal), while generic aggregators show a lower ≈56% on a different basket methodology; flagged explicitly rather than silently picking one.
+- **§8/§10/§12**: Multiples, BAIT (I: unchanged Moderate but new evidence; A: gap vs. PW EV widened), and R/R all mechanically refreshed to the new spot price. R/R **0.4:1 → 0.23:1** — worse, purely because price rose with the Bull/Base/Bear scenario set unchanged (no earnings this period to justify recomputing targets).
+- **§13**: Zones unchanged ($100–113 entry / $133–215 trim / ≥$215 exit); spot is now ≈63% through the Trim zone (was ≈24% in May) — sharpened "Reduce" framing for holders. Added a new thesis-break trigger for autonomous-capex cadence/timeline slippage.
+
+### Thesis Status
+- **Overall**: 🟡 **Mixed — fundamentals modestly strengthened, valuation gap widened**. The autonomous-delivery funding and gig-worker regulatory tailwind are genuine positives, but they arrived alongside a price rally that outran them; DASH is a worse risk/reward at $184.53 than at $163.93 despite better news, because PW EV did not move.
+- **BAIT delta**: A and I both carry new supporting evidence but hold at Moderate (pre-P&L); B shifts from "real fear" to "cautious re-engagement, not euphoria"; T stays Weak.
+- **Price target delta**: Bull $215 (30%) | Base $110 (55%) | Bear $50 (15%) — **all unchanged**; PW EV holds at ≈$133. R/R at spot: 0.4:1 → 0.23:1 (mechanical).
+- **Catalyst & Sentiment delta**: Short interest +33% (covering → building); insider selling broadened; analyst targets cut despite the rally — sentiment richer in price than in estimates.
+
+### Recommendation
+- **For a non-holder**: Avoid — unchanged. Entry zone $100–113 now further from spot in dollar terms.
+- **For a current holder**: Reduce — unchanged, more emphatic. Lighten into strength; spot is materially closer to the $215 Exit threshold than in May.
+
+**Next review trigger**: Q2 2026 earnings, **July 30, 2026, after close** (confirmed). Watch adj EBITDA vs. $770–870M guide, H2 grocery/retail inflection, Deliveroo EBITDA run-rate, and first autonomous-delivery cost data.
+
+---
+
 ## [2026-05-10] — Q1 2026 Earnings + v2.14 Schema Migration
 
 **Trigger**: Q1 2026 earnings released May 6, 2026 (post-close). Results reviewed May 10, 2026 under Workflow B. Combined with lazy v2.13 → v2.14 schema migration overlay.

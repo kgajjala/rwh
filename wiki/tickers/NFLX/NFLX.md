@@ -1,25 +1,25 @@
 # NFLX — Netflix, Inc.
 
 > **Schema**: v3.0
-> **Last Updated**: 2026-04-26
+> **Last Updated**: 2026-07-13
 > **Status**: Active
-> **Live Price Verified**: **$93.24** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/NFLX); post 10-for-1 split effective Nov 17, 2025)
+> **Live Price Verified**: **$73.37** at July 13, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/NFLX); post 10-for-1 split effective Nov 17, 2025)
 > **Ticker Type**: Capital-light global streaming platform with scaling advertising layer
 
 ---
 
 ## Summary
 
-- 🟢 **Thesis**: Global streaming leader (Wide moat — scale + algorithm + global content engine + emerging ad-tech) with ad revenue inflecting from $1.5B (2025) → ≈$3B (2026) → $7B+ (2028E) and FY26 op-margin guide of **31.5%** (+200bps YoY); now trading **30% off post-split highs** after a Q1 26 light Q2 guide selloff.
-- 🟢 **Moat verdict**: **Wide and Widening** — content scale + recommendation algorithm + Open Connect CDN + ad-tech (Netflix Ads Suite scaled in 2025). Differentiated vs. DIS+/Max/Prime by global production footprint and engagement-per-member.
-- 🟢 **For a non-holder: Initiate (small, scaled)** at $93.24; **$80–88 entry zone** offers better R/R.
-- 🟡 **For a current holder: Hold / Add on weakness** — below $90 is an Add zone; do not exit at –30%.
-- 🎯 **Attractive entry**: **$80 – $88** (≈30× FY26E EPS; bear-case downside support).
-- 🎯 **Trim zone**: **$135 – $150** (prior 52-wk high; 38–42× FY26E EPS).
-- 📉 **Price action**: $93.24, **–30.5% from 52-wk high** ($134.12), +24.3% above 52-wk low ($75.01); post-Q1 26 –9.7% selloff April 17, 2026.
-- 📅 **Next catalyst**: **Q2 2026 earnings — mid-July 2026 (est.)**. Test of Q2 guide ($12.5B); ad pace toward $3B FY target.
-- ⚠️ **Top risks** (Rule #23 filter): (1) **Ad ARPU ramp slower than 2× consensus** — *not priced in*; (2) **Content cost re-acceleration** as live-sports rights bidding heats up — large discretionary spend; (3) **Attention-share leakage to YouTube/TikTok** in core engagement hours.
-- 🟡 **BAIT verdict**: **Triple-lens (B + A + I Moderate); T weak** → **Moderate conviction**. PW EV ≈$119.50 (3-yr) implies **+28% / ≈9% CAGR**. **R/R ≈ 2.4 : 1** (Bull $160 vs. Bear $70 from §11 midpoints) — favorable but not extreme.
+- 🟡 **Thesis**: Global streaming leader (Wide moat — scale + algorithm + global content engine + emerging ad-tech) now navigating a genuine US engagement slowdown alongside the ad-tier ramp; stock is **43% off post-split highs** after the closed Warner Bros. Discovery bid, a Nielsen-confirmed viewership-share decline, and a wave of analyst price-target cuts — heading into Q2 earnings (Jul 16, 2026).
+- 🟢 **Moat verdict**: **Wide** — content scale + recommendation algorithm + Open Connect CDN + ad-tech (Netflix Ads Suite). Differentiated vs. DIS+/Max/Prime by global production footprint and revenue-per-engaged-hour; the live threat is attention-share (YouTube/TikTok), not subscriber share (rival SVOD).
+- 🟢 **For a non-holder: Initiate (small, scaled)** at $73.37 — price is now inside the entry zone; **hold sizing until through the Jul 16 print**, a binary near-term event.
+- 🟡 **For a current holder: Hold / Add on weakness** — churn and margin guide are intact; engagement is the metric to track, not yet a thesis-break.
+- 🎯 **Attractive entry**: **$65 – $75** (current price sits inside; ≈21–24× FY26E EPS).
+- 🎯 **Trim zone**: **$115 – $130** (re-rating requires engagement/ad proof, not narrative).
+- 📉 **Price action**: $73.37, **–42.6% from 52-wk high** ($127.75), +3.5% above 52-wk low ($70.86).
+- 📅 **Next catalyst**: **Q2 2026 earnings — July 16, 2026 (confirmed)**. Engagement trend, ad pace toward $3B FY target, any Q3 guide.
+- ⚠️ **Top risks** (Rule #23 filter): (1) **US engagement/viewership share declining** (Nielsen Gauge 8.8%→7.8%, Jan–Apr 2026) — real under current methodology, not yet a measurement artifact, and directly tied to ad-inventory growth (§6); (2) **Nielsen "DASH" methodology shift (autumn 2026)** — a dated, mechanical further hit to the reported number; (3) **Ad ARPU ramp slower than 2× consensus** — *not priced in*.
+- 🟡 **BAIT verdict**: **Triple-lens (B + A + I Moderate); T weak** → **Moderate conviction**. PW EV ≈$105 (2028 terminal) implies **+43% / ≈16% CAGR** from spot. **R/R ≈ 5.7 : 1** (Bull $150 vs. Bear $60 from §11) — mechanically wide given the price decline; size with the earnings-event caveat above in mind.
 
 ---
 
@@ -27,7 +27,7 @@
 
 Netflix (NASDAQ: NFLX) is the world's largest subscription streaming video service with **325M+ paid memberships** across 190+ countries. Revenue is now a tripod of (a) subscription tiers — Standard, Standard with Ads, Premium — funding a $20B-class annual content slate of originals + licensed series + films + unscripted + anime; (b) a fast-scaling advertising layer monetized through the in-house **Netflix Ads Suite** plus partner DSP integrations (Microsoft Monetize, Google DV360, The Trade Desk, Amazon DSP, Yahoo, AJA); and (c) live event programming — NFL Christmas (year 3 in 2026), WWE Raw, FIFA Women's World Cup 2027, World Baseball Classic, boxing (Joshua–Paul). Production hubs in 50+ countries make non-English originals (*Squid Game S2*, *Money Heist: Berlin*, *Lupin*, *KPop Demon Hunters*) ≈30%+ of total engagement hours.
 
-Netflix executed a **10-for-1 stock split** with ex-date November 17, 2025 ([Netflix IR](https://ir.netflix.net/news/news-details/2025/Netflix-Announces-10-for-1-Stock-Split/default.aspx)). All per-share figures on this page are split-adjusted; pre-split highs near $1,341 = post-split $134.10. **FY2025**: Revenue $45.2B (+16% YoY), operating income $13.3B (+28%), op margin 29.5%, ad revenue >$1.5B (+>2.5× YoY) ([Q4 25 letter](../../../raw/NFLX/shareholder-letters/2025_Q4_letter.pdf)). **FY2026 guide**: revenue $50.7–51.7B (+12–14%), op margin 31.5% (+200bps), ad revenue ≈$3B (≈2× YoY), FCF ≈$12.5B (raised from $11B due to $2.8B Warner Bros. termination fee receipt) ([Q1 26 letter](../../../raw/NFLX/shareholder-letters/2026_Q1_letter.pdf)).
+Netflix executed a **10-for-1 stock split** with ex-date November 17, 2025 ([Netflix IR](https://ir.netflix.net/news/news-details/2025/Netflix-Announces-10-for-1-Stock-Split/default.aspx)). All per-share figures on this page are split-adjusted; pre-split highs near $1,341 = post-split $134.10. **FY2025**: Revenue $45.2B (+16% YoY), operating income $13.3B (+28%), op margin 29.5%, ad revenue >$1.5B (+>2.5× YoY) ([Q4 25 letter](../../../raw/NFLX/shareholder-letters/2025_Q4_letter.pdf)). **FY2026 guide**: revenue $50.7–51.7B (+12–14%), op margin 31.5% (+200bps), ad revenue ≈$3B (≈2× YoY), FCF ≈$12.5B (raised from $11B on the **$2.8B M&A break fee** Netflix received when Warner Bros. Discovery terminated their merger agreement — see §4) ([Q1 26 letter](../../../raw/NFLX/shareholder-letters/2026_Q1_letter.pdf)).
 
 ---
 
@@ -43,28 +43,28 @@ The bull case requires (a) ad revenue tracking $3B (2026) → $5B (2027) → $7B
 
 | Metric | Value | As of |
 |---|---|---|
-| **Live Price** | **$93.24** | 2026-04-24 ([Yahoo](https://finance.yahoo.com/quote/NFLX)) |
-| Previous Close | $92.58 (+0.71%) | 2026-04-24 |
-| 52-Week Range | $75.01 – $134.12 | post-split |
-| % from 52-wk high | **–30.5%** | |
-| Market Cap | ≈$394B | shares ≈4.22B post-split |
-| Enterprise Value | ≈$405B | net debt ≈$11B |
+| **Live Price** | **$73.37** | 2026-07-13 ([Yahoo](https://finance.yahoo.com/quote/NFLX)) |
+| Day Range | $72.51 – $75.70 | 2026-07-13 |
+| 52-Week Range | $70.86 – $127.75 | post-split |
+| % from 52-wk high | **–42.6%** | |
+| Market Cap | ≈$308B | shares ≈4.2B post-split |
+| Enterprise Value | ≈$319B | net debt ≈$11B |
 | FY2025 Revenue | $45.2B (+16% YoY) | actual |
 | FY2025 Op Margin | 29.5% | actual |
 | FY2025 Ad Revenue | $1.5B+ (+>2.5× YoY) | actual |
 | FY2025 FCF | ≈$8.5B | actual |
 | FY2026 Revenue Guide | $50.7B – $51.7B (+12–14%) | reaffirmed Q1 |
 | FY2026 Op Margin Guide | **31.5%** (+200bps) | reaffirmed |
-| FY2026 Ad Revenue Target | ≈$3B (≈2×) | reaffirmed |
-| FY2026 FCF Guide | ≈$12.5B (raised from $11B) | incl. $2.8B WBD fee |
-| Paid Memberships (Q1 26) | 325M+ | reported |
+| FY2026 Ad Revenue Target | ≈$3B (≈2×); 190M monthly ad-tier viewers | reaffirmed |
+| FY2026 FCF Guide | ≈$12.5B (raised from $11B) | incl. $2.8B WBD merger break fee |
+| Paid Memberships (Q1 26) | 325M+ | last reported |
 | Q1 2026 Revenue | $12.25B (+16%) | beat $12.17B |
 | Q1 2026 Op Margin | 32.3% (vs 31.7% Q1 25) | |
-| Q2 2026 Revenue Guide | $12.5B | below $12.6B consensus |
-| P/E Fwd (FY26E ≈$25 EPS) | ≈37× | |
-| EV / Revenue (FY26E mid) | ≈7.9× | |
+| Q2 2026 Revenue — Mgmt Guide / Street Consensus | $12.5B / $12.58B (+13.8%) | consensus EPS $0.79; op margin 32.6% |
+| P/E Fwd (FY26E ≈$3.05–3.10 EPS) | ≈24× | |
+| EV / Revenue (FY26E mid) | ≈6.2× | |
 | Stock Split | 10-for-1 effective Nov 17, 2025 | |
-| Next Earnings | Mid-July 2026 (est.) | |
+| Next Earnings | **July 16, 2026** (confirmed) | 1:01pm PT release + co-CEO/CFO YouTube Q&A |
 
 ---
 
@@ -164,19 +164,19 @@ Sources: [Q1 26 letter](../../../raw/NFLX/shareholder-letters/2026_Q1_letter.pdf
 |---|---|---|---|
 | **Disney+ (incl. Hulu, ESPN+)** | ≈175M D+ subs; ≈135M Hulu; ESPN+ ≈25M | Family/kids IP + sports (ESPN); bundle pricing power | Moderate — bundle is real share-shift risk in US households |
 | **Amazon Prime Video** | ≈200M+ Prime members access; ad-tier on by default | Bundled-with-Prime free distribution; Thursday Night Football; live sports push | Moderate — ad-tier scale + bundling = structural threat to NFLX ad CPMs |
-| **Max (WBD)** | ≈125M global subs | HBO prestige content + library depth (DC, HP) | Low–Moderate — financially constrained parent; WBD-NFLX licensing deal (terminated for $2.8B fee, Q1 26) shows WBD walking back streaming-only strategy |
+| **Max (WBD)** | ≈125M global subs | HBO prestige content + library depth (DC, HP) | Low — WBD's board deemed Paramount Skydance's $111B (~$31/share) bid a Superior Proposal over Netflix's signed $82.7B agreement (Feb 26, 2026); Max/HBO now heads to Paramount, not NFLX. Closes an M&A growth lever but removes WBD as a standalone competitive question (§4) |
 | **Apple TV+** | ≈50M est. subs | Prestige / awards; balance-sheet-funded losses | Low — narrow library; not a churn driver |
-| **Paramount+ / Peacock** | ≈80M / ≈40M subs | Live sports (NFL on PARA, NBC on Peacock) + studio library | Low — sub-scale economics |
-| **YouTube (GOOGL)** | #1 in US connected-TV viewing time per Nielsen Gauge (≈12% of TV time vs. NFLX ≈8%) | Free + UGC + creator economy; near-zero content cost | **High (different vector)** — wins teen/young-adult attention; cap on NFLX ad-tier CPM ceiling |
+| **Paramount+ / Peacock** | ≈80M / ≈40M subs | Live sports (NFL on PARA, NBC on Peacock) + studio library | Low — sub-scale economics; Peacock is the named target in NFLX's own early-stage in-app bundling discussions (§5) |
+| **YouTube (GOOGL)** | #1 in US connected-TV viewing time per Nielsen Gauge (≈13%+ of TV time vs. NFLX 7.8%, down from 8.8% in Jan 2026) | Free + UGC + creator economy; near-zero content cost | **High (different vector)** — wins teen/young-adult attention; cap on NFLX ad-tier CPM ceiling. The gap widened through H1 2026 — see §6 deep dive |
 | **TikTok / Meta Reels** | Mobile-dominant short-form | Algorithm-driven engagement; ad-tech maturity | Moderate — engagement-share vector, not subscription competition |
 | **iQIYI / Tencent Video / JioHotstar** | National-champion scale in CN/IN | Local content + regulatory protection | Low — geography-bounded; NFLX has no CN exposure anyway |
 
-**Source**: [Nielsen Gauge — March 2026](https://www.nielsen.com/insights/2026/the-gauge/); peer 10-Ks; [Statista global streaming subs](https://www.statista.com/topics/2510/netflix/).
+**Source**: [Nielsen Gauge — data center](https://www.nielsen.com/data-center/the-gauge/) (April 2026 report); peer 10-Ks; [Statista global streaming subs](https://www.statista.com/topics/2510/netflix/).
 
 **How Netflix's moat differs from peers**:
 
 1. **Global production scale at unit-economics depth no peer matches.** $20B/yr content spend split across 50+ country production hubs means the marginal foreign-language hit (KPop Demon Hunters: 325M views, all-time #1 NFLX film; Squid Game; Money Heist) is funded out of mostly-fixed cost. DIS+ and Max remain US-heavy in production.
-2. **Recommendation algorithm + Open Connect CDN are decade-deep technical moats** that no peer (including AMZN with its tech stack) has matched on engagement-per-member. The evidence: NFLX is consistently #2 in US connected-TV time (≈8% Nielsen Gauge) on the smallest content library by hour vs. YouTube — implying highest engagement-per-content-hour by a wide margin.
+2. **Recommendation algorithm + Open Connect CDN are decade-deep technical moats** that no peer (including AMZN with its tech stack) has matched on engagement-per-member. The evidence: NFLX remains #2 in US connected-TV time (7.8% Nielsen Gauge, April 2026) on the smallest content library by hour vs. YouTube — implying highest engagement-per-content-hour by a wide margin, even as the absolute share has softened (§6).
 3. **Ad-tech in-housing in 2025 (Netflix Ads Suite) is the structural moat extension**. By moving off the Microsoft Monetize framework to first-party serving + multi-DSP integration, NFLX captures the take-rate that previously went to ad-tech intermediaries. This is the mechanism by which $1.5B (2025) → $3B (2026) → $7B+ (2028E) becomes plausible at high margin.
 4. **Tail competitive risk = YouTube** (not Disney/Max/Prime). YouTube has ≈10× the daily watch hours of all SVOD combined among teens. The competition isn't for $/sub; it's for the attention pool that ad-tier CPMs ultimately depend on. Live-sports + the new mobile-video/podcast strategy are the explicit response.
 
@@ -194,12 +194,12 @@ Sources: [Q1 26 letter](../../../raw/NFLX/shareholder-letters/2026_Q1_letter.pdf
 
 ### Capital Allocation
 
-**[Outsider grade](../../frameworks/outsiders.md) — Outsider-leaning**: Disciplined tuck-in M&A (no mega-deals; walked away from WBD and got paid for the walk); no dividend; buybacks ramping ($13.6B remaining authorization) as FCF compounds. The WBD termination is a textbook Outsider move — value over ego. The $5–6B/yr buyback cadence is mechanical rather than opportunistically timed, blunting a pure-Singleton read; Outsider-leaning best captures the profile.
+**[Outsider grade](../../frameworks/outsiders.md) — Outsider-leaning**: Disciplined M&A (walked away from a $82.7B acquisition at a self-set price ceiling and collected a $2.8B break fee for the walk); no dividend; buybacks ramping ($13.6B remaining authorization) as FCF compounds. The WBD walk-away is a textbook Outsider move — value discipline over deal-completion ego, echoed by Peters directly (below). The $5–6B/yr buyback cadence is mechanical rather than opportunistically timed, blunting a pure-Singleton read; Outsider-leaning best captures the profile.
 
 - **Buyback**: ≈$3.6B repurchased FY2025 (post-split share count down ≈2%/yr); $13.6B remaining authorization at Q1 26. Mechanical bid of ≈$5–6B/yr at current cadence.
 - **Dividend**: None.
 - **Net debt**: ≈$11B; investment grade. No refinancing risk.
-- **M&A**: Disciplined — game studio tuck-ins (Night School Studio, Boss Fight, Spry Fox), Animal Logic (animation). No mega-deals; willingness to walk from WBD (the $2.8B termination fee in Q1 26 is *NFLX receiving payment from WBD* for terminating a content licensing arrangement — i.e., NFLX got paid to walk away).
+- **M&A**: Disciplined — game studio tuck-ins (Night School Studio, Boss Fight, Spry Fox), Animal Logic (animation). The defining 2026 test: Netflix had a **signed $82.7B all-cash agreement to acquire Warner Bros. Discovery** (Dec 2025). When Paramount Skydance countered with a $111B (~$31/share) offer that WBD's board deemed a Superior Proposal (Feb 26, 2026), Netflix declined to raise its bid; WBD terminated the merger agreement the next day and — per that agreement's own termination-fee terms — Netflix collected a **$2.8B break fee** (paid by Paramount on WBD's behalf). No mega-deal completed; capital discipline over asset-accumulation. ([Fortune](https://fortune.com/2026/02/26/warner-bros-officially-deems-paramounts-bid-superior-to-netflixs/), [TechCrunch](https://techcrunch.com/2026/02/26/netflix-warner-bros-discovery-paramount-wbd-bid-studios-hbo-cnn-ellison/), [WBD 8-K](https://www.sec.gov/Archives/edgar/data/1437107/000143710726000018/disca-20260227.htm))
 
 ### Recent Management Commentary — Primary Source Synthesis
 
@@ -209,6 +209,9 @@ Sources: [Q1 26 letter](../../../raw/NFLX/shareholder-letters/2026_Q1_letter.pdf
 - **Q1 26 letter on advertising**: *"We continue to expect ≈$3B in ads revenue in 2026 — roughly 2× the prior year — and our programmatic capabilities now reach more than 4,000 advertisers, up 70% year-over-year."* **Investment relevance**: 4,000+ advertiser count is the cleanest leading indicator that the ad-tech in-housing is working — advertiser count growing 70% YoY supports the $3B → $7B 2028 trajectory the bull case requires. ([Q1 26 letter](../../../raw/NFLX/shareholder-letters/2026_Q1_letter.pdf))
 - **Q1 26 letter on margins**: Content amortization is guided to grow ≈10% in 2026 vs. revenue growth of 12–14% — the explicit commitment to grow content spend slower than revenue. **Investment relevance**: This is the operating leverage mechanism. If sustained, FY28 op margin reaches ≈33% organically without further pricing actions.
 - **Q3 25 letter on live**: Joshua–Paul fight delivered **33M average minute audience (Live+1)**, the largest Netflix live event to date. **Investment relevance**: Live events drive disproportionate sign-up + churn-reduction lift relative to content-cost — the unit economics of live (one-night, high CPM) are structurally better than scripted series. ([Q3 25 letter](../../../raw/NFLX/shareholder-letters/2025_Q3_letter.pdf))
+- **Peters, Stratechery interview (Ben Thompson, Jan 22, 2026)**: On why raw hours may be the wrong lens for engagement: *"I would say we really do think about that revenue per engagement as an important sign of where our upside potential is, and I don't have any reason to believe that, over a period of time, we shouldn't be able to meet or exceed essentially other revenue-per-engagement kind of metrics."* **Investment relevance**: The engagement debate (§6 deep dive) should be read through revenue-per-hour, not raw-hour share — Netflix already monetizes each engaged hour better than any peer. ([Stratechery](https://stratechery.com/2026/an-interview-with-netflix-ceo-greg-peters-about-engagement-and-warner-bros/))
+- **Peters, TIME interview (published May 15, 2026)**: On walking away from the $82.7B WBD bid, framing it as *"just one of many mechanisms for growth."* On why fusing creative and technology capability is itself defensible: *"Putting the two together is hard... us being able to navigate that difficulty is essentially a competitive moat — because it's just harder for either competitor set to be as good as we seek to be about both."* **Investment relevance**: Direct primary-source evidence for the Outsider grade above — valuation discipline over deal-completion pressure. ([TIME](https://time.com/article/2026/05/15/netflix-co-ceo-greg-peters-interview/))
+- **Feb 2026 employee town hall** (Sarandos + Peters, days after WBD's board sided with Paramount): brief (15–20 min), confident remarks reaffirming the self-imposed valuation ceiling behind the walk-away; no Q&A held. **Investment relevance**: Internal messaging matched the external (TIME) discipline narrative — no sign of second-guessing the decision to co-workers. ([Deadline](https://deadline.com/2026/02/netflix-town-hall-after-warner-bros-paramount-ted-sarandos-1236739331/))
 
 #### 5-Year Strategic Framework Arc
 
@@ -219,7 +222,7 @@ Sources: [Q1 26 letter](../../../raw/NFLX/shareholder-letters/2026_Q1_letter.pdf
 | FY2023 | Paid-sharing crackdown executed; ads ramping | Co-CEO transition (Sarandos solo → Sarandos + Peters); +13M paid sharing conversions |
 | FY2024 | Ads scaling; live experiments (NFL Xmas Year 1) | Op margin steps to 27%; ad revenue ≈$600M; live event flywheel begins |
 | FY2025 | "Revenue + engagement + margin" framework; in-house ad-tech | Op margin 29.5%; ad revenue $1.5B+ (+>2.5×); Hastings exits board; 10-for-1 split |
-| FY2026 (Q1 in) | Margin step to 31.5%; ad doubling; content amort < revenue growth | WBD content licensing termination ($2.8B); advertiser count +70% YoY to 4,000+ |
+| FY2026 (Q1–Q2 in) | Margin step to 31.5%; ad doubling; content amort < revenue growth | Signed then walked from $82.7B WBD acquisition, collecting a $2.8B break fee (Feb 2026); advertiser count +70% YoY to 4,000+; US engagement share declines (Nielsen 8.8%→7.8%), prompting live-channel + bundle exploration (§5) |
 
 The arc shows management's framework evolution from *"add subscribers at any price"* (pre-2022) to *"revenue + engagement + margin"* (current) — a structural shift that reframes the equity story from sub-count beat/miss volatility to durable cash compounding.
 
@@ -229,11 +232,12 @@ The arc shows management's framework evolution from *"add subscribers at any pri
 
 1. **Advertising scale-up to $7B+ by 2028** — *the* growth + margin lever. Path: $1.5B (2025) → ≈$3B (2026 guide) → ≈$5B (2027E) → $7B+ (2028E). Drivers: (a) ad-tier sub growth (>60% of new sign-ups in ads markets), (b) Netflix Ads Suite first-party serving uplift, (c) DSP partnership broadening (added Amazon DSP + AJA in 2025), (d) live/sports CPM premium.
 2. **Live & sports event programming** — NFL Christmas (year 3 in 2026), WWE Raw weekly, FIFA Women's World Cup 2027, World Baseball Classic, boxing. Engagement + ad CPM lift; sign-up funnel.
-3. **Mobile / vertical-video product** ([CNBC, April 2026](https://www.cnbc.com/search/?query=netflix+q1+2026)) — explicit response to TikTok/Reels attention-share. Early-stage; engagement-defense bet.
-4. **Gaming** — Modest. Cloud gaming long-arc. Not a near-term thesis driver.
-5. **Localized content production** at 50+ countries — non-English originals = ≈30%+ of total engagement. KPop Demon Hunters (325M views) became NFLX's all-time #1 film in 2025.
-6. **ARM expansion in mature markets** — Jan 2026 price increases (UCAN, UK) absorbed without measurable churn lift.
-7. **Pricing discipline + content cost ratio** — content amort guided to grow ≈10% vs. revenue +12–14% in FY26 = structural margin expansion mechanism.
+3. **Engagement-defense product suite (new, 2026)** — three concurrent responses to the attention-share question (§6 deep dive): (a) **video podcasts** signing top creators to guaranteed pay in a curated environment — a "premium YouTube," not an open-upload platform; (b) **curated 24/7 live channels** built from Netflix's own existing library (genre-themed, always-on) — explicitly *not* a move into licensed external FAST content; (c) early-stage, unconfirmed discussions of **bundling rival streamers (Peacock named)** directly into the Netflix app/billing surface, mirroring Prime Video's and Apple TV+'s channel add-on model. None has a confirmed launch date, price, or feature set. ([9to5Mac/WSJ](https://9to5mac.com/2026/07/09/netflix-looking-for-engagement-in-live-tv-and-bundles-while-apple-tv-app-integration-is-right-there/), [Forbes](https://www.forbes.com/sites/rickellis/2026/07/12/insiders-offer-a-defense-of-netflix-and-streaming-tv/))
+4. **Mobile / vertical-video product** ([CNBC, April 2026](https://www.cnbc.com/search/?query=netflix+q1+2026)) — explicit response to TikTok/Reels attention-share. Early-stage; engagement-defense bet.
+5. **Gaming** — Modest. Cloud gaming long-arc. Not a near-term thesis driver.
+6. **Localized content production** at 50+ countries — non-English originals = ≈30%+ of total engagement. KPop Demon Hunters (325M views) became NFLX's all-time #1 film in 2025.
+7. **ARM expansion in mature markets** — Jan 2026 price increases (UCAN, UK) absorbed without measurable churn lift.
+8. **Pricing discipline + content cost ratio** — content amort guided to grow ≈10% vs. revenue +12–14% in FY26 = structural margin expansion mechanism.
 
 ---
 
@@ -243,13 +247,18 @@ Per Rule #23, this table excludes universal corporate boilerplate (e.g., generic
 
 | Risk | Impact | Probability | Notes |
 |---|---|---|---|
-| **Ad ARPU ramp materially below 2× consensus** | High | 30% | Single biggest swing. **Not priced in** at current 37× FY26 P/E — consensus assumes the $3B → $7B (2028) trajectory holds. A FY26 ad print of $2.0–2.5B (vs. $3B target) by Q3 26 would re-rate the ads multiple expansion. *Tied to §13 thesis-break trigger.* (Rule #23 (b) + (c)) |
+| **Ad ARPU ramp materially below 2× consensus** | High | 30% | Single biggest swing. Even at the now-compressed ≈24× FY26 P/E, consensus still assumes the $3B → $7B (2028) trajectory holds — **not fully priced in**. A FY26 ad print of $2.0–2.5B (vs. $3B target) by Q3 26 would re-rate the ads multiple further. *Tied to §13 thesis-break trigger.* (Rule #23 (b) + (c)) |
 | **Content cost re-acceleration on sports rights** | High | 35% | NBA renewal (≈2032), NFL renewals, F1 rights, expanded WWE. **Discretionary investment with uncertain ROI** (Rule #23 (d)). Q4 25 op margin compression to 24.4% was already a content-spend timing signal. A multi-billion sports rights bid at unprofitable rates would break the "content amort < revenue growth" framework. |
-| **Attention-share leakage to YouTube + TikTok** | Medium | 60% | Already partial reality. YouTube has ≈12% of US connected-TV time (Nielsen Gauge) vs. NFLX ≈8%. Tied to ad CPM ceiling. *Mobile-video product is the explicit response* — execution risk. (Rule #23 (a) — peer-differentiated; YouTube competes with NFLX, not with DIS+/Max) |
-| **Engagement plateaus / churn rises in mature markets** | Medium | 25% | Mature US/UK households at saturation. Live events + originals are the engagement-defense levers; engagement metric trajectory is the leading indicator. *Tied to §13 thesis-break trigger.* |
+| **US engagement/viewership share declining** | High | 55% | Nielsen Gauge: NFLX US TV-viewership share fell 8.8% (Jan 2026) → 7.8% (April 2026); YouTube ≈13%+. Confirmed internally at Netflix's own spring business review — real, not (yet) a measurement artifact. Directly tied to ad-inventory growth; churn and profit have stayed stable so far. **Full deep-dive and verdict below.** *Tied to §13 thesis-break trigger.* (Rule #23 (a) peer-differentiated vector; (b) not fully priced in — analyst target cuts still assume the ad ramp holds) |
+| **Nielsen "DASH" methodology shift (autumn 2026)** | Medium | 70% (timing); impact uncertain | A new NORC/ARF-backed, MRC-accredited methodology will mechanically expand the linear-TV "universe" denominator, further depressing every streamer's *reported* share independent of underlying behavior. Nielsen has delayed implementation to autumn 2026. **Not priced in** — a negative optics event this autumn is likely regardless of the true engagement trend. (Rule #23 (c) — specific, dated, quantifiable trigger) |
+| **Ad-tier inventory constraint** | Medium | 40% | The ≈$3B 2026 ad target needs viewing-hour growth to keep pace with advertiser-base growth (+70% YoY); Netflix is adding cheaper creator/publisher content specifically to manufacture inventory (§5). If hours don't grow, CPM/fill-rate economics absorb the pressure before ad revenue growth itself does. (Rule #23 (b), (c)) |
 | **EU content tax / regulatory expansion** | Medium | 40% | Cultural support legislation expanding (content quotas, levies, investment obligations). Currently absorbed; a step-change in EU/UK rate would compress EMEA op margin. ([10-K FY2024 Item 1A](../../../raw/NFLX/filings/NFLX-10K-FY2024.htm)) |
 | **FX headwind on 57% international revenue** | Medium | 50% (cyclic) | Not idiosyncratic to NFLX, but the magnitude is — every 5% USD strengthening cuts ≈3% off reported revenue. *Not priced in to current consensus given USD softness assumption*. |
 | **Co-CEO governance friction (Sarandos / Peters)** | Low | 10% | Stable through 3.3 years. Founder Hastings exited board March 2024 — succession is now structurally complete. |
+
+### Deep Dive — Is the Engagement Decline a Threat?
+
+**Verdict: Real, but industry-wide and not (yet) a subscriber-retention problem — worth monitoring closely, not a thesis-break.** Nielsen's Gauge (current, pre-DASH methodology) shows NFLX's US TV-viewership share falling 8.8% (Jan 2026) → 7.8% (April 2026), the lowest since May 2025 — a real trend under today's measurement, not a methodology artifact (the share-denominator-expanding "DASH" methodology is delayed to autumn 2026; row above). Three points argue against overreaction: (1) Netflix's own internal spring business review flagged the decline candidly while confirming continued profit growth and stable churn — the erosion is in *hours*, not *subscribers*; (2) Forbes reporting sourced to industry insiders frames the dip as a mature-market-wide phenomenon (US, UK, Western Europe) driven by competition for screen-time against YouTube/TikTok/social/gaming — not subscriber defections to rival SVOD services, none of which are gaining share at NFLX's expense (§3); (3) management's response (video podcasts, curated in-house live channels, early Peacock-bundle talks — §5) reads as targeted product iteration, not a strategy reversal, and Peters' own reframing (§4) — revenue-per-engaged-hour over raw hours — has some analytical merit given Netflix's monetization lead. The real exposure: engagement hours are the ad business's inventory, and management is explicitly adding cheaper creator/publisher content because premium-slate hours alone aren't growing fast enough to fill the ≈$3B 2026 ad target — making this a legitimate, quantifiable risk to the ad-revenue thesis rather than an abstract sentiment issue. Watch the Q2 print (Jul 16) for any engagement commentary and the autumn DASH transition for a further mechanical (not fundamental) hit to the headline number.
 
 ### 5-Year Risk Factor Evolution Synthesis
 
@@ -270,28 +279,28 @@ The most material multi-year shift in NFLX's Item 1A risk language across FY2021
 
 ## Section 8 — Valuation & Comparable Analysis
 
-### Current Multiples (April 24, 2026 — $93.24 / ≈$394B mkt cap)
+### Current Multiples (July 13, 2026 — $73.37 / ≈$308B mkt cap)
 
 | Metric | NFLX |
 |---|---|
-| EV (est.) | ≈$405B |
-| EV / Revenue (FY26E mid) | ≈7.9× |
-| EV / Revenue (FY27E ≈$58B) | ≈7.0× |
-| EV / EBITDA (FY26E ≈$18B) | ≈22× |
-| P/E TTM (GAAP) | ≈30× |
-| **P/E Fwd (FY26E ≈$25 EPS)** | **≈37×** |
-| Price / FCF (FY26 raised $12.5B) | ≈31× (incl. $2.8B WBD fee) |
-| Underlying Price / FCF (ex-WBD) | ≈40× |
-| FCF Yield (raised guide) | ≈3.2% |
-| Analyst consensus median target | ≈$115 (32 analysts) |
-| Analyst high / low | $151 / $80 |
-| Implied upside (consensus) | +23% to median; +62% to high; –14% to low |
+| EV (est.) | ≈$319B |
+| EV / Revenue (FY26E mid) | ≈6.2× |
+| EV / Revenue (FY27E ≈$58B) | ≈5.5× |
+| EV / EBITDA (FY26E ≈$18B) | ≈18× |
+| P/E TTM (GAAP) | ≈24× |
+| **P/E Fwd (FY26E ≈$3.05–3.10 EPS)** | **≈24×** |
+| Price / FCF (FY26 guide $12.5B) | ≈25× (incl. $2.8B WBD break fee) |
+| Underlying Price / FCF (ex-fee) | ≈32× |
+| FCF Yield (guide) | ≈4.1% |
+| Analyst consensus median / average target | $115 / $112 (50 analysts, S&P Global) |
+| Analyst high / low (human) | $151 / $80; TipRanks AI Analyst $77 |
+| Implied upside (consensus) | +57% to median; +106% to high; +9% to low |
 
 ### Peer Comparison
 
 | Company | EV/Rev FY26E | P/E Fwd | Op Margin | Notes |
 |---|---|---|---|---|
-| **NFLX** | **≈7.9×** | **≈37×** | 31.5% (guide) | Premium on ad runway + margin step |
+| **NFLX** | **≈6.2×** | **≈24×** | 31.5% (guide) | Premium narrowed sharply on the price decline; still above DIS/WBD/PARA |
 | DIS | ≈3.0× | ≈22× | 16% | Theme parks drag; streaming break-even |
 | WBD | ≈1.5× | n/m | Negative (streaming) | Distressed; spinoff overhang |
 | PARA | ≈1.2× | n/m | Marginal | Skydance merger transition |
@@ -299,54 +308,63 @@ The most material multi-year shift in NFLX's Item 1A risk language across FY2021
 | GOOGL | ≈6.0× | ≈22× | 32% | YouTube comp on engagement, not on subs |
 | SPOT | ≈5.0× | ≈45× | 13% | Closest pure-play digital subscription comp |
 
-**Assessment**: NFLX trades at a clear premium to media/entertainment peers (DIS, WBD, PARA) and a moderate premium to mega-cap tech (GOOGL). The premium is defensible *if* ad revenue scales as guided and op margin reaches 33%+ by 2028. SPOT at 45× P/E is the closest pure-play comp on subscription + ad mix; NFLX's higher op margin (31.5% vs. SPOT 13%) justifies a comparable multiple. Post the Q1 26 9.7% selloff, NFLX is closer to fair value than at the $134 peak; consensus median ≈$115 implies +23% upside.
+**Assessment**: NFLX's premium to media/entertainment peers (DIS, WBD, PARA) has compressed sharply — forward P/E fell from ≈37× (April) to ≈24× (July) as the stock absorbed the WBD-bid resolution, the engagement narrative (§6), and a wave of analyst target cuts (§9). Street consensus (median ≈$115) has not fully caught down to the specific cuts from KeyBanc/Citi/Bernstein/Jefferies (all now $92–110) — the $73 spot arguably prices a more conservative outcome than the average analyst model does. SPOT at ≈45× P/E remains the closest pure-play subscription+ad comp; NFLX's higher op margin (31.5% vs. SPOT's 13%) still supports a premium multiple, just not April's 37×.
 
-**Fair price range**: $95–125 (32–42× FY26E EPS depending on ad-tier execution). $93 is at the low end of fair.
+**Fair price range**: $80–105 (26–34× FY26E EPS depending on ad-tier/engagement execution). $73 sits below the low end of fair — consistent with the mechanically wide R/R in §12, subject to the earnings-event and engagement risks in §6.
 
 ---
 
 ## Section 9 — Catalyst & Sentiment Tracker
 
-### Live Price & Positioning (2026-04-24)
+### Live Price & Positioning (2026-07-13)
 
-- **Price**: $93.24 ([Yahoo](https://finance.yahoo.com/quote/NFLX))
-- **Previous close**: $92.58 (+0.71%)
-- **52-week range**: $75.01 – $134.12 (post-split)
-- **% from 52-wk high**: **–30.5%**
-- **% above 52-wk low**: +24.3%
-- **Market cap**: ≈$394B (≈4.22B post-split shares)
-- **Beta**: 1.67
+- **Price**: $73.37 ([Yahoo](https://finance.yahoo.com/quote/NFLX))
+- **Day range**: $72.51 – $75.70
+- **52-week range**: $70.86 – $127.75 (post-split)
+- **% from 52-wk high**: **–42.6%**
+- **% above 52-wk low**: +3.5%
+- **Market cap**: ≈$308B (≈4.2B post-split shares)
+- **Beta**: 1.67 (unchanged est.)
 
-### Analyst Consensus (April 24, 2026)
+### Analyst Consensus (July 13, 2026)
 
-- **Aggregate rating**: **Buy** — 37 Buy / 12 Hold / 1 Sell across 50 analysts ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/NFLX/forecast/), [Public.com](https://public.com/stocks/nflx/forecast-price-target))
-- **Median target**: ≈$115
-- **Average target**: ≈$114
-- **High / low**: $151 / $80
-- **Implied upside from $93.24**: +23% (median), +62% (high), –14% (low)
-- **Recent action**: Post Q1 26 print (April 17), several firms trimmed PTs by 5–10% on the light Q2 guide, but maintained Buy ratings ([Benzinga](https://www.benzinga.com/quote/NFLX/analyst-ratings))
+- **Aggregate rating**: **Buy** — Street consensus remains solidly Buy-rated (a recent 32-analyst snapshot shows ≈24 Buy / 8 Hold, no Sell); median/average target ≈$115 / ≈$112 (50-analyst S&P Global panel) has not yet fully caught down to the specific cuts below ([stockanalysis.com](https://stockanalysis.com/stocks/nflx/forecast/), [MarketScreener](https://www.marketscreener.com/quote/stock/NETFLIX-INC-44292425/consensus/))
+- **High / low (human)**: $151 / $80
+- **Implied upside from $73.37**: +57% (median), +106% (high), +9% (low)
+- **Rating/target actions since the April baseline** (every human firm below maintained its Buy-equivalent rating; only targets moved):
+  - **KeyBanc** (Justin Patterson): PT cut **$115 → $92**, citing engagement concerns ([Investing.com](https://www.investing.com/news/analyst-ratings/keybanc-lowers-netflix-stock-price-target-on-engagement-concerns-93CH-4788391))
+  - **Citi** (Jason Bazinet): PT cut **→ $100**; cited softer viewership trends, WBD-outcome uncertainty, lack of near-term catalysts, and capital rotating to semiconductors
+  - **Bernstein SocGen**: PT cut **→ $100** (Outperform maintained); flagged the FIFA World Cup pulling engagement/subscriber growth away from NFLX in Q2 ([GuruFocus](https://www.gurufocus.com/news/8949854/nflx-maintained-by-bernstein-price-target-lowered-to-100))
+  - **Jefferies**: PT cut **$128 → $110** (Buy maintained); still calls NFLX "an approximately 20% multi-year EPS compounder" but sees limited near-term catalysts ([Investing.com](https://www.investing.com/news/analyst-ratings/jefferies-reiterates-netflix-stock-buy-rating-after-price-hike-93CH-4585685))
+  - **Wolfe Research**: reiterated its rating, citing engagement trends as the key swing factor
+  - **TipRanks AI Analyst** (*not* a human sell-side rating — flagged distinctly): downgraded **Buy → Neutral**, PT cut **$80 → $77**, citing weak technical momentum and a premium valuation (21.7× fwd non-GAAP P/E vs. 13.3× sector median) ([TipRanks](https://www.tipranks.com/news/ai-analyst-downgrades-netflix-stock-cuts-price-target-as-near-term-risks-grow))
+- **Read**: Every human firm that cut its target kept a Buy-equivalent rating, and every cut explicitly cites engagement — a valuation/timing recalibration, not a thesis reversal, and independent corroboration of the §6 deep dive.
 
 ### Short Interest
 
-- **% of float**: **1.81%** (76.0M shares short) ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/NFLX/short-interest/))
-- **Days to cover**: ≈1.6 days (vs. peer-group avg 8.04% / longer DTC)
-- **Trend**: Increased modestly post Q1 26 print but remains low-conviction short
-- **Read**: Not a primary signal for NFLX — megacap consumer with deep liquidity
+- **% of float**: **≈2.4%** (up from 1.81% at the April baseline) — a modest increase, well short of the >10% MoM threshold that would itself be a flagged event ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/NFLX/short-interest/))
+- **Read**: Still not a primary signal for NFLX — megacap consumer name with deep liquidity; the uptick looks like it's tracking the negative narrative, not leading it
 
 ### Insider Activity (Last 90 Days)
 
-- **Reed Hastings**: Sold ≈$32.7M early Feb 2026 ([secform4.com](https://www.secform4.com/insider-trading/1065280.htm)) — large absolute, routine relative to position (Hastings exited the board March 2024)
-- **Greg Peters (Co-CEO)**: Sold ≈$8.8M early Feb 2026 — 10b5-1 routine
-- **Spence Neumann (CFO)**: April 2, 2026 — exercised options + sold 28,630 shares at ≈$98 ([stocktitan](https://www.stocktitan.net/sec-filings/NFLX/form-4-netflix-inc-insider-trading-activity-9ffbc29cd809.html))
-- **Director option grants** (Jay Hoag, Ann Mather): 654 NQSOs each at $95.55 strike, granted April 1, 2026 — annual board comp, not signal
-- **Read**: Routine 10b5-1 activity; no cluster of buying or unusual selling
+- **Ted Sarandos (Co-CEO)**: Sold 27,312 shares, ≈$87 avg, May 5, 2026 — 10b5-1 routine
+- **Greg Peters (Co-CEO)**: Sold 27,312 shares, ≈$88.69 avg, plus a stock gift, May 5, 2026 — 10b5-1 routine
+- **Spence Neumann (CFO)**: Sold 9,253 shares, ≈$88.95 avg, May 5, 2026 — 10b5-1 routine
+- **Read**: Three same-day, similarly-structured sales read as routine plan activity, smaller than the Feb 2026 round already on this page (Hastings $32.7M, Peters $8.8M) — no new cluster or unusual pattern. Institutional ownership reportedly *increased* over the same window even as executives sold ([247wallst.com](https://247wallst.com/investing/2026/04/02/institutional-investors-pile-into-netflix-even-as-company-executives-head-for-the-exits/)) — a mild positive cross-check against reading the sales as a distress signal.
 
 ### Recent Corporate News (Last 90 Days)
 
-- 📉 **[2026-04-17] [Earnings + Selloff]** — Q1 26 revenue $12.25B (+16%) beat $12.17B; op margin 32.3%; FCF $5.30B (incl. $2.8B WBD termination receipt); 4,000+ advertisers (+70% YoY); FY26 op-margin guide raised to **31.5%**. Q2 guide $12.5B vs. $12.6B consensus → **stock fell –9.7%**. ([Q1 26 letter](../../../raw/NFLX/shareholder-letters/2026_Q1_letter.pdf), [CNBC Q1 26 coverage](https://www.cnbc.com/2026/04/16/netflix-nflx-earnings-q1-2026.html), [Deadline](https://deadline.com/2026/04/netflix-q1-2026-earnings-wall-street-1236863099/))
-- 💰 **[2026-Q1] [WBD Content Termination]** — Netflix received **$2.8B** termination payment from Warner Bros. Discovery related to a content licensing arrangement; raises FY26 FCF guide to ≈$12.5B from ≈$11B. Walking-away leverage demonstrated. ([Q1 26 letter](../../../raw/NFLX/shareholder-letters/2026_Q1_letter.pdf))
-- 🟢 **[2026-Q1] [Engagement]** — Video podcasts + WBC drove engagement to a record. ([Q1 26 letter](../../../raw/NFLX/shareholder-letters/2026_Q1_letter.pdf))
+- 📅 **[2026-07-16, upcoming] [Q2 2026 earnings]** — confirmed date/time (1:01pm PT release; 1:45pm PT co-CEO/CFO YouTube Q&A); Street consensus revenue $12.58B (+13.8%), EPS $0.79, op margin 32.6%, vs. management's own $12.5B guide ([StockTitan](https://www.stocktitan.net/news/NFLX/netflix-to-announce-second-quarter-2026-financial-x553fsh638xh.html))
+- ⚠️ **[2026-07-12] [Engagement]** — Forbes publishes industry-insider-sourced companion pieces confirming the engagement dip is industry-wide/mature-market-concentrated and correcting the "live channels = external FAST" and "podcasts = copying YouTube" media narratives ([Forbes](https://www.forbes.com/sites/rickellis/2026/07/12/whats-missed-about-netflixs-wavering-engagement/), [Forbes](https://www.forbes.com/sites/rickellis/2026/07/12/insiders-offer-a-defense-of-netflix-and-streaming-tv/))
+- ⚠️ **[2026-07-09] [Strategy]** — WSJ/9to5Mac report Netflix executives are discussing curated live channels and a Peacock in-app bundle as a response to the engagement slide; neither confirmed as a shipping product (§5) ([9to5Mac](https://9to5mac.com/2026/07/09/netflix-looking-for-engagement-in-live-tv-and-bundles-while-apple-tv-app-integration-is-right-there/))
+- 🟡 **[2026-05-15] [Management]** — TIME publishes Peters interview on the WBD walk-away rationale (§4) ([TIME](https://time.com/article/2026/05/15/netflix-co-ceo-greg-peters-interview/))
+- 🟡 **[2026-05-05] [Insider]** — Sarandos/Peters/Neumann routine 10b5-1 sales (above)
+- ⚠️ **[2026-01 – 04] [Engagement data]** — Nielsen Gauge US TV-viewership share fell 8.8% (Jan) → 7.8% (April 2026), lowest since May 2025; full deep dive in §6
+- 📉 **[2026-04-17] [Earnings + Selloff]** — Q1 26 revenue $12.25B (+16%) beat $12.17B; op margin 32.3%; FCF $5.30B (incl. $2.8B WBD break fee); 4,000+ advertisers (+70% YoY); FY26 op-margin guide raised to **31.5%**. Q2 guide $12.5B vs. $12.6B consensus → **stock fell –9.7%**. ([Q1 26 letter](../../../raw/NFLX/shareholder-letters/2026_Q1_letter.pdf), [CNBC Q1 26 coverage](https://www.cnbc.com/2026/04/16/netflix-nflx-earnings-q1-2026.html), [Deadline](https://deadline.com/2026/04/netflix-q1-2026-earnings-wall-street-1236863099/))
+- 💰 **[2026-02-27] [WBD M&A break fee]** — WBD's board deemed Paramount Skydance's $111B (~$31/share) offer a Superior Proposal over Netflix's signed $82.7B agreement; Netflix declined to raise its bid, WBD terminated the merger agreement, and Netflix collected the **$2.8B contractual break fee** (paid by Paramount on WBD's behalf). Corrects this page's prior description of the fee as content-licensing-related — full detail in §4. ([Fortune](https://fortune.com/2026/02/26/warner-bros-officially-deems-paramounts-bid-superior-to-netflixs/), [Investing.com](https://www.investing.com/news/sec-filings/netflix-receives-28-billion-termination-fee-as-warner-bros-discovery-ends-merger-agreement-93CH-4532571))
+- 🟢 **[2026-Q1] [Engagement]** — Video podcasts + World Baseball Classic drove engagement to a then-record per the Q1 26 letter — predates the Nielsen-reported decline above. ([Q1 26 letter](../../../raw/NFLX/shareholder-letters/2026_Q1_letter.pdf))
 - 💰 **[2026-01-20] [FY25 results]** — FY25 revenue $45.2B (+16%), op margin 29.5%, ad revenue $1.5B+ (+>2.5×); 325M paid memberships. ([Q4 25 letter](../../../raw/NFLX/shareholder-letters/2025_Q4_letter.pdf), [Variety FY25 coverage](https://variety.com/2026/tv/news/netflix-q4-2025-financial-earnings-subscribers-1236635615/))
+- 🟡 **[2026-01-22] [Management]** — Stratechery publishes Peters interview on engagement + the (then-pending) WBD acquisition case (§4) ([Stratechery](https://stratechery.com/2026/an-interview-with-netflix-ceo-greg-peters-about-engagement-and-warner-bros/))
 - 💰 **[2025-11-17] [Capital]** — 10-for-1 stock split effective. ([Netflix IR — Split announcement](https://ir.netflix.net/news/news-details/2025/Netflix-Announces-10-for-1-Stock-Split/default.aspx))
 - 🟢 **[2025-Q3] [Live Event]** — Joshua–Paul fight 33M AMA (Live+1) — largest NFLX live event to date. ([Q3 25 letter](../../../raw/NFLX/shareholder-letters/2025_Q3_letter.pdf))
 
@@ -354,73 +372,75 @@ The most material multi-year shift in NFLX's Item 1A risk language across FY2021
 
 | Date | Event | Why It Matters |
 |---|---|---|
-| 📅 **Mid-July 2026 (est.)** | **Q2 2026 earnings** | Test of $12.5B Q2 guide; ad revenue pace toward $3B FY |
+| 📅 **July 16, 2026 (confirmed)** | **Q2 2026 earnings** | $12.5B mgmt guide vs. $12.58B consensus; any engagement commentary; ad pace toward $3B FY |
+| 📅 **Jul 15, 2026 (targeted) / end-Q3 2026 (official)** | **Paramount–WBD deal closing** | Removes WBD as a standalone competitive/M&A question entirely; lands one day before NFLX's own print |
+| 📅 **Autumn 2026** | **Nielsen DASH methodology transition** | Mechanical further hit to reported US share, independent of the underlying trend (§6) |
 | H2 2026 | Q3/Q4 2026 ad revenue acceleration | Tracks $3B FY target & ramp toward FY27 |
 | Dec 25, 2026 | NFL Christmas (year 3) | Engagement + ad CPM showcase |
-| 2026 H2 | Additional pricing actions in select markets | ARM uplift |
 | 2027 | FIFA Women's World Cup | Multi-region engagement event |
 
 ---
 
 ## Section 10 — BAIT Framework
 
-### B — Behavioral: **Moderate**
+### B — Behavioral: **Moderate-Strong**
 
-–30% from highs after a single light Q2 guide ($12.5B vs. $12.6B consensus) is disproportionate sentiment damage relative to the underlying print (revenue beat; op margin step to 32.3%; FY26 op margin guide *raised* to 31.5%; FCF guide *raised* to $12.5B). The –9.7% one-day reaction signals sentiment was extended at $134, not that fundamentals broke. Stock now sits closer to fair value. Not extreme fear (no capitulation flush); not a steal. **Behavioral edge: Moderate.**
+–43% from highs is a materially larger dislocation than April's –30%, but unlike that move (pure guide-light sentiment), this leg down has real evidence behind it — confirmed Nielsen engagement decline, the closed WBD bid, and a cluster of analyst target cuts all citing the same issue (§6, §9). That said, every cutting firm kept a Buy-equivalent rating, churn and profit are still growing, and the stock has fallen *through* the old 2028 Bear case ($70) two years early — the market is pricing meaningfully worse-than-base-case outcomes well ahead of the terminal date. **Behavioral edge: Moderate-Strong** — closer to capitulation than April, though not a clean-fear flush (no single-day crash identified).
 
 ### A — Analytical: **Moderate**
 
-- **FY26 op-margin guide of 31.5%** (+200bps YoY) on +13% revenue is the cleanest near-term operating-leverage commitment in megacap streaming. Consensus models do not fully reflect the durability of the "content amort < revenue growth" framework.
-- **Ad revenue trajectory** ($3B 2026 → $5B+ 2027 → $7B+ 2028) is under-modeled by some bears who anchor on the $1.5B 2025 print. The 4,000+ advertiser count (+70% YoY) is the clearest forward indicator.
-- **WBD $2.8B termination fee receipt** is one-time but signals NFLX's content-spend bargaining position has materially shifted.
-- *Limits*: At 37× forward P/E, stock is not cheap. Analytical edge is on duration of growth + margin step, not on a clear discount.
+- **FY26 op-margin guide of 31.5%** (+200bps YoY) is unchanged and unchallenged by any recent analyst action — every cut cited engagement or valuation, not margin durability.
+- **Ad revenue trajectory** (≈$3B 2026 target) is now a sharper analytical question: it requires viewing-hour growth the engagement data says is softening (§6) — the one place the bear case has gained real analytical ground since April, not just sentiment.
+- The **Forbes/Kerr inventory framing** — ad *inventory*, not ad *demand*, is the constraint — is a second-order read the market hasn't fully priced; the advertiser base (+70% YoY) still looks fine.
+- *Limits*: At ≈24× forward P/E (down from 37×), the multiple discount is real, but so is the risk that engagement erosion continues past Q2.
 
-### I — Informational: **Moderate**
+### I — Informational: **Moderate-Strong**
 
-- 4,000+ advertiser count + Netflix Ads Suite first-party serving detail in transcripts under-reported in mainstream coverage.
-- KPop Demon Hunters all-time #1 film (325M views) signals the global content engine is delivering hits the bear case ignores.
-- WBD termination fee mechanism (NFLX *receiving* $2.8B from WBD) is structurally more interesting than the pure FCF accounting — signals leverage in content licensing negotiations.
+- The Stratechery revenue-per-engagement reframing and the Forbes insider-sourced defense pieces (§4, §6) are exactly the kind of primary-source, under-syndicated detail mainstream "Netflix engagement crashes" headlines miss.
+- The corrected WBD break-fee mechanism (an M&A discipline signal, not a content-licensing footnote) was mischaracterized on this very page until this update — a reminder that primary-source-grounded analysis still needs re-verification.
+- KPop Demon Hunters (325M views, all-time #1 NFLX film) and 190M ad-tier monthly viewers (up from 94M in May 2025) are still-strong content-engine and ad-tier data points the pure-decline narrative underweights.
 
-### T — Technical: **Weak-Moderate**
+### T — Technical: **Weak**
 
-- Below 50DMA and 200DMA (post-split chart)
-- $90–95 emerging support cluster
-- $125 overhead resistance
-- Buyback is mechanical bid (≈$5–6B/yr at current cadence)
-- No strong technical entry signal beyond support reclaim
+- Below 50DMA and 200DMA; making fresh 52-week lows ($70.86)
+- No confirmed support cluster below the old $80–88 zone
+- $100–115 overhead resistance (prior consensus-target band)
+- Buyback remains a mechanical bid (≈$5–6B/yr) but is small relative to daily volume for a stock this size
+- The Jul 16 earnings print (three days out) makes technical levels unreliable until it clears
 
 ### BAIT Verdict
 
-**Triple-lens (B + A + I Moderate); T weak**. Conviction: **Moderate**. NFLX at $93 is a quality compounder at fair-to-slightly-rich price; not a screaming buy but a defensible long-term hold. Better entry on a flush to $80–85.
+**Triple-lens (B + A + I Moderate-to-Moderate/Strong); T weak**. Conviction: **Moderate** (unchanged tier, strengthened within it). NFLX at $73 is a quality compounder trading below its own old bear case two years early; the setup rewards patience through a binary earnings event over urgency — a reasonable scaled entry, not a signal to go max-size ahead of Q2.
 
 ---
 
 ## Section 11 — Bull / Bear / Base Cases
 
-*All scenarios are 3-year (end-2028) terminal prices, post-split. Probabilities sum to 100%.*
+*All scenarios are 3-year (end-2028) terminal prices, post-split. Probabilities sum to 100%. Reweighted this update — a judgment call (Rule #24), not new fundamental data, since Q2 earnings haven't printed yet — to reflect confirmed engagement erosion, the closed WBD M&A option, and broad-based analyst target compression (§6, §9); terminal prices trimmed modestly for the same reasons.*
 
-### 🟢 Bull — $160 by 2028 (+72%, ≈20% CAGR) — **Probability: 30%**
-- 2028 revenue $70B (CAGR ≈16%)
-- Operating margin 33% — content amort grows slower than revenue durably
-- Ad revenue **$8B+** (in-house ad-tech compounds; live/sports CPM premium)
-- 2028 EPS ≈$36
-- Sustained 32× P/E (premium multiple holds on ad runway)
+### 🟢 Bull — $150 by 2028 (+104%, ≈35% CAGR from spot) — **Probability: 25%** (was 30%)
+- 2028 revenue $68B (CAGR ≈15%)
+- Operating margin 32–33% — content amort grows slower than revenue durably
+- Ad revenue **$7–8B** (in-house ad-tech compounds; live/sports CPM premium; engagement stabilizes post-2026)
+- 2028 EPS ≈$34
+- 30× P/E (premium multiple holds, trimmed from 32× — WBD optionality gone, engagement overhang persists even here)
 - Buyback retires ≈3%/yr
 
-### 🟡 Base — $115 by 2028 (+23%, ≈7% CAGR) — **Probability: 50%**
-- 2028 revenue $63B (CAGR ≈13%)
-- Operating margin 30–31%
-- Ad revenue ≈$6B (modest deceleration from 2× → 1.5× → 1.3× pace)
-- 2028 EPS ≈$30
-- 28× P/E (mild de-rating)
-- Aligns with consensus median ≈$115
+### 🟡 Base — $105 by 2028 (+43%, ≈16% CAGR from spot) — **Probability: 50%** (unchanged)
+- 2028 revenue $61B (CAGR ≈12%)
+- Operating margin 29–31%
+- Ad revenue ≈$5.5B (engagement softness caps inventory growth; deceleration from 2× → 1.5× → 1.2× pace)
+- 2028 EPS ≈$27
+- 27× P/E (mild de-rating, tracking the multiple compression already visible in §8)
+- Roughly aligned with the low end of current analyst targets (KeyBanc $92, Citi/Bernstein $100, Jefferies $110)
 
-### 🔴 Bear — $70 by 2028 (–25%, ≈–9% CAGR) — **Probability: 20%**
-- 2028 revenue $58B (CAGR ≈10%)
-- Operating margin 27% — sports rights inflation breaks "amort < revenue" framework
-- Ad revenue ≈$5B (plateaus; YouTube/TikTok cap CPMs)
-- 2028 EPS ≈$22
-- 25× P/E (multiple de-rating)
+### 🔴 Bear — $60 by 2028 (–18%, ≈–8% CAGR from spot) — **Probability: 25%** (was 20%)
+- 2028 revenue $55B (CAGR ≈8%)
+- Operating margin 26–27% — sports rights inflation and/or the ad-inventory constraint (§6) break the "amort < revenue" framework
+- Ad revenue ≈$4B (engagement erosion continues; the autumn DASH transition worsens optics even if the underlying trend stabilizes)
+- 2028 EPS ≈$19
+- 24× P/E (multiple de-rating continues)
+- **Note**: spot ($73.37) already sits *above* this terminal price — the market has partially pre-priced a bear-adjacent outcome two years early
 
 ---
 
@@ -428,41 +448,43 @@ The most material multi-year shift in NFLX's Item 1A risk language across FY2021
 
 | Scenario | Terminal (2028) Price | Probability | PW Contribution |
 |---|---|---|---|
-| Bull | $160 | 30% | $48.00 |
-| Base | $115 | 50% | $57.50 |
-| Bear | $70 | 20% | $14.00 |
-| **PW EV (3-year)** | | | **≈$119.50** |
+| Bull | $150 | 25% | $37.50 |
+| Base | $105 | 50% | $52.50 |
+| Bear | $60 | 25% | $15.00 |
+| **PW EV (3-year)** | | | **≈$105.00** |
 
 | Current Price | PW EV | Return (3-yr) | Annualized |
 |---|---|---|---|
-| $93.24 | $119.50 | **+28%** | **≈+9% / yr** |
+| $73.37 | $105.00 | **+43%** | **≈+16% / yr** |
 
 ### Risk / Reward (per Rule #24)
 
-- **R/R = (Bull % upside) ÷ (Bear % downside) = 72% / 25% ≈ 2.9 : 1**
-- Anchored to §11 Bull ($160) vs. Bear ($70) midpoints from current $93.24
-- *Secondary framing*: PW EV at $119.50 implies +28% over 3 years vs. Bear downside –25% — reward/risk on probability-weighted basis ≈ 1.1:1 (less favorable than the headline R/R because the Base case dominates expected value)
+- **R/R = (Bull % upside) ÷ (Bear % downside) = 104% / 18% ≈ 5.7 : 1**
+- Anchored to §11 Bull ($150) vs. Bear ($60) from current $73.37
+- *Caveat*: the jump in R/R vs. April (2.9:1 → 5.7:1) is mechanical — it reflects the ≈21% price decline landing spot below the Bear case, not improved fundamentals. Read it as "the market has already discounted a lot," not "the risk has gone away."
+- *Secondary framing*: PW EV at $105 implies +43% over ≈2.5 years vs. Bear downside of only –18% — reward/risk on a probability-weighted basis ≈2.4:1, a more honest single number than the headline 5.7:1 for sizing purposes.
 
-**Interpretation**: Modestly favorable PW EV at $93. The asymmetry has improved materially since the pre-Q1 peak ($134 implied flat-to-negative PW return). Today's price offers reasonable risk-reward with quality-business tailwind and mechanical buyback support — but the headline 2.9:1 R/R is not extreme; better entry on a flush to $80–85 would push R/R toward 4:1+.
+**Interpretation**: The price decline has done more work than the fundamentals have deteriorated — R/R is mechanically wide, but the Jul 16 earnings print and the engagement trend (§6) are live, unresolved variables. A reasonable entry zone for patient capital; not a signal to swing for maximum sizing until the binary event clears.
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Netflix is the global streaming leader with a wide-and-widening moat (scale + algorithm + global content engine + in-house ad-tech), now executing a structural margin step from 29.5% (FY25) → 31.5% (FY26 guide) → ≈33% (FY28E) on revenue growth of 12–14% with ad revenue inflecting from $1.5B → $3B → $7B+ — and trading 30% off post-split highs after a Q1 26 light-Q2-guide selloff at ≈37× FY26 P/E with a 3-yr PW EV of $119.50 (≈+28%) and R/R of ≈2.9:1.
+**Thesis in one sentence**: Netflix remains the global streaming leader with a wide moat (scale + algorithm + global content engine + in-house ad-tech) and an intact FY26 margin-step guide (29.5% → 31.5%), but a confirmed US engagement decline (Nielsen 8.8%→7.8%), the closed $82.7B WBD bid, and a cluster of analyst target cuts have pushed the stock 43% off its post-split highs — to $73.37, mechanically below its own old 2028 Bear case — with a 3-yr PW EV of $105 (≈+43%) and R/R of ≈5.7:1 heading into the binary Jul 16 Q2 print.
 
-**For a non-holder**: 🟢 **Initiate (small, scaled)** at $93.24. The $80–88 attractive entry zone offers better risk-reward, but the current price is reasonable for partial position-building. Wait for Q2 26 print confirmation of ad ramp before sizing up.
+**For a non-holder**: 🟢 **Initiate (small, scaled)** at $73.37 — now inside the $65–75 entry zone. With the Jul 16 print three days out, hold sizing at the small end until it clears rather than adding further on the pre-earnings dip alone.
 
-**For a current holder**: 🟡 **Hold / Add on weakness**. Below $90 is an Add zone for long-horizon holders. Do not exit at –30% from highs — fundamentals are intact, op margin guide was *raised* (not cut), and the buyback is mechanical support.
+**For a current holder**: 🟡 **Hold / Add on weakness**. Churn and the op-margin guide remain intact — this is not (yet) a thesis-break. Add zone is $65–75; don't exit into a 43%-off print without a specific trigger below actually firing.
 
-🎯 **Attractive entry zone**: **$80 – $88** (rationale: ≈30× FY26E EPS; below post-Q1 selloff level; aligns with bear-case downside support of $70; gives ad-runway optionality at lower implied multiple)
+🎯 **Attractive entry zone**: **$65 – $75** (rationale: ≈21–24× FY26E EPS; spot sits inside this zone; just above the trimmed §11 Bear case of $60)
 
-🎯 **Trim zone**: **$135 – $150** (rationale: prior 52-wk high; would re-rate to 38–42× FY26E EPS; further upside from there requires ad execution proof rather than narrative)
+🎯 **Trim zone**: **$115 – $130** (rationale: approaches the low end of pre-decline consensus targets; re-rating past this requires engagement stabilization and ad-ramp proof, not narrative)
 
-🔴 **Exit / avoid zone**: **>$160** (rationale: full bull case priced; would require multiple expansion beyond reasonable comps)
+🔴 **Exit / avoid zone**: **>$150** (rationale: full trimmed-Bull case priced; would require multiple expansion beyond reasonable comps given the live engagement question)
 
 ⚠️ **Thesis-break triggers** (would force re-rating toward Reduce / Exit):
 
+- ⚠️ **US Nielsen Gauge share falls below 7.0% *and* ad revenue growth decelerates in the same quarter** — the compound trigger confirming engagement erosion is hitting the P&L, not just the headline (§6) *(new this update)*
 - ⚠️ **2026 advertising revenue tracking below $2.5B at end-Q3 2026** (vs. $3B target)
 - ⚠️ Two consecutive quarters of FCF below trailing run-rate (ex-one-time items)
 - ⚠️ **FY26 op margin guide cut below 30%** in any subsequent guide refresh
@@ -472,7 +494,7 @@ The most material multi-year shift in NFLX's Item 1A risk language across FY2021
 - ⚠️ Material content cost inflation step-up — e.g., NBA-style mega-deal at unprofitable rates (>$2B/yr at <break-even)
 - ⚠️ **Advertiser count growth decelerates below +30% YoY** by end-Q3 2026 (vs. +70% YoY currently)
 
-📅 **Next review trigger**: **Q2 2026 earnings — mid-July 2026 (estimated)**. Key items: (1) Q2 actual vs. $12.5B guide, (2) ad revenue pace toward $3B FY, (3) advertiser count growth (currently +70% YoY), (4) FY26 guide refresh (currently $50.7–51.7B; 31.5% op margin), (5) engagement metric trajectory, (6) commentary on sports/live ROI and any new rights bidding.
+📅 **Next review trigger**: **Q2 2026 earnings — July 16, 2026 (confirmed)**. Key items: (1) Q2 actual vs. $12.5B mgmt guide / $12.58B consensus, (2) any explicit engagement commentary — first print since the Nielsen decline became a live narrative, (3) ad revenue pace toward $3B FY and advertiser count growth (currently +70% YoY), (4) FY26 guide refresh, (5) any update on live-channel/Peacock-bundle plans (§5).
 
 ---
 
@@ -492,7 +514,7 @@ The most material multi-year shift in NFLX's Item 1A risk language across FY2021
 - [Netflix 10-K FY2024 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/1065280/000106528025000044/nflx-20241231.htm) / [local](../../../raw/NFLX/filings/NFLX-10K-FY2024.htm)
 - [Netflix 10-K FY2023 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/nflx-20231231.htm) / [local](../../../raw/NFLX/filings/NFLX-10K-FY2023.htm)
 - [Netflix IR — 10-for-1 Stock Split](https://ir.netflix.net/news/news-details/2025/Netflix-Announces-10-for-1-Stock-Split/default.aspx)
-- [Yahoo Finance — NFLX](https://finance.yahoo.com/quote/NFLX) (live price 2026-04-24)
+- [Yahoo Finance — NFLX](https://finance.yahoo.com/quote/NFLX) (live price 2026-07-13)
 - [CNBC — Netflix Q1 2026](https://www.cnbc.com/2026/04/16/netflix-nflx-earnings-q1-2026.html)
 - [Deadline — Q1 2026 coverage](https://deadline.com/2026/04/netflix-q1-2026-earnings-wall-street-1236863099/)
 - [Variety — Q4 2025 / FY25 + content spend](https://variety.com/2026/tv/news/netflix-q4-2025-financial-earnings-subscribers-1236635615/)
@@ -502,6 +524,24 @@ The most material multi-year shift in NFLX's Item 1A risk language across FY2021
 - [MarketBeat — NFLX short interest](https://www.marketbeat.com/stocks/NASDAQ/NFLX/short-interest/)
 - [SecForm4 — Netflix insider activity](https://www.secform4.com/insider-trading/1065280.htm)
 - [Stocktitan — Form 4 Netflix CFO sale Apr 2026](https://www.stocktitan.net/sec-filings/NFLX/form-4-netflix-inc-insider-trading-activity-9ffbc29cd809.html)
-- [Nielsen Gauge — March 2026](https://www.nielsen.com/insights/2026/the-gauge/)
+- [Nielsen Gauge — data center](https://www.nielsen.com/data-center/the-gauge/)
 - [Threads — NFLX Q1 26 regional growth](https://www.threads.com/@fiscal_ai/post/DTv4mqqkvhE/netflix-revenue-growth-by-region-ucan-emea-apac-latam-nflx)
-- [stockanalysis.com — NFLX](https://stockanalysis.com/stocks/nflx/)
+- [stockanalysis.com — NFLX forecast](https://stockanalysis.com/stocks/nflx/forecast/)
+- [MarketScreener — NFLX consensus](https://www.marketscreener.com/quote/stock/NETFLIX-INC-44292425/consensus/)
+- [Fortune — WBD deems Paramount bid superior, Netflix withdraws (2026-02-26)](https://fortune.com/2026/02/26/warner-bros-officially-deems-paramounts-bid-superior-to-netflixs/)
+- [TechCrunch — Netflix backs out of WBD bid](https://techcrunch.com/2026/02/26/netflix-warner-bros-discovery-paramount-wbd-bid-studios-hbo-cnn-ellison/)
+- [Investing.com — Netflix receives $2.8B WBD termination fee](https://www.investing.com/news/sec-filings/netflix-receives-28-billion-termination-fee-as-warner-bros-discovery-ends-merger-agreement-93CH-4532571)
+- [Warner Bros. Discovery 8-K (2026-02-27), SEC EDGAR](https://www.sec.gov/Archives/edgar/data/1437107/000143710726000018/disca-20260227.htm)
+- [Deadline — Netflix town hall after Warner Bros. loss](https://deadline.com/2026/02/netflix-town-hall-after-warner-bros-paramount-ted-sarandos-1236739331/)
+- [Stratechery — Interview with Greg Peters on Engagement and Warner Bros. (2026-01-22)](https://stratechery.com/2026/an-interview-with-netflix-ceo-greg-peters-about-engagement-and-warner-bros/)
+- [TIME — Greg Peters on walking away from the WBD deal (2026-05-15)](https://time.com/article/2026/05/15/netflix-co-ceo-greg-peters-interview/)
+- [9to5Mac/WSJ — Netflix live TV and bundles amid engagement concerns](https://9to5mac.com/2026/07/09/netflix-looking-for-engagement-in-live-tv-and-bundles-while-apple-tv-app-integration-is-right-there/)
+- [Forbes — What's Missed About Netflix's Wavering Engagement (2026-07-12)](https://www.forbes.com/sites/rickellis/2026/07/12/whats-missed-about-netflixs-wavering-engagement/)
+- [Forbes — Insiders Offer A Defense Of Netflix And Streaming TV (2026-07-12)](https://www.forbes.com/sites/rickellis/2026/07/12/insiders-offer-a-defense-of-netflix-and-streaming-tv/)
+- [Forbes — Netflix Q2 Preview: Why Its $3 Billion Ad Bet Needs More Inventory (2026-07-13)](https://www.forbes.com/sites/maureenkerr/2026/07/13/netflix-q2-preview-why-its-3-billion-ad-bet-needs-more-inventory/)
+- [StockTitan — Netflix Q2 2026 earnings date](https://www.stocktitan.net/news/NFLX/netflix-to-announce-second-quarter-2026-financial-x553fsh638xh.html)
+- [Investing.com — KeyBanc lowers NFLX price target on engagement concerns](https://www.investing.com/news/analyst-ratings/keybanc-lowers-netflix-stock-price-target-on-engagement-concerns-93CH-4788391)
+- [Investing.com — Jefferies reiterates Netflix Buy after price hike](https://www.investing.com/news/analyst-ratings/jefferies-reiterates-netflix-stock-buy-rating-after-price-hike-93CH-4585685)
+- [GuruFocus — Bernstein price target lowered to $100](https://www.gurufocus.com/news/8949854/nflx-maintained-by-bernstein-price-target-lowered-to-100)
+- [TipRanks — AI Analyst downgrades Netflix](https://www.tipranks.com/news/ai-analyst-downgrades-netflix-stock-cuts-price-target-as-near-term-risks-grow)
+- [247wallst.com — Institutional investors pile into Netflix even as executives sell](https://247wallst.com/investing/2026/04/02/institutional-investors-pile-into-netflix-even-as-company-executives-head-for-the-exits/)

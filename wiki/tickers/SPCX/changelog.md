@@ -4,6 +4,31 @@
 
 ---
 
+## [2026-07-13] — AI/Compute Deep Dive: Chip Mix + GPU Market Pricing Back-Calculation
+
+**Trigger**: User-requested deep dive on the GPU-compute-leasing business, same day as initial ingest — (1) identify the specific Nvidia chip generations leased to Anthropic, Google, and Reflection; (2) research third-party GPU cloud-rental price trackers for hourly rates; (3) back-calculate implied capacity-share and $/GPU-hour pricing for each customer against those market benchmarks; (4) add as a subsection to the AI/Compute Top-to-Bottom funnel.
+
+**Sources reviewed**: New raw note file `raw/SPCX/filings/SPCX-ai-compute-gpu-pricing-notes.md` — full source list there. Key outlets: HotHardware, Tom's Hardware, Introl Blog, TechCrunch, MLQ News, CNBC, Mezha.net (chip-mix and deal-term confirmation); Spheron Network, IntuitionLabs, GetDeploying, Jarvislabs, aimultiple, Runcrate (GPU cloud price trackers).
+
+### What Changed
+- **§2 AI/Compute funnel, point 2 (Contracting)**: added chip-generation detail per customer — Anthropic/Colossus 1 confirmed as a mixed ≈150K H100 + ≈50K H200 + ≈30K GB200 fleet (≈230,000 GPUs, not a single chip generation as the initial ingest implied); Google's ≈110,000-GPU allocation confirmed as drawn from Colossus 2 (chip generation undisclosed, cluster reported predominantly GB200/GB300) with new detail on its Sept 2026 fee-ramp and under-delivery termination clause; Reflection's terms fully specified for the first time on this page — $150M/month from Jul 1, 2026, confirmed **Nvidia GB300** chips, ≈$6.3B total, 90-day termination clause (previously "[link pending]").
+- **New subsection added**: "Deep Dive — Chip Mix, Market Rental Pricing & Back-of-the-Envelope Capacity/Rate Analysis" — a chip-mix table, a GPU market-pricing-benchmark table (H100/H200/GB200/GB300, sourced to live cloud-GPU price trackers), and a back-calculation table implying: Anthropic ≈$7.55/GPU-hr (≈2.1× the mix-weighted market comp), Google ≈$11.62/GPU-hr (≈1.5–1.9× an assumed GB200/GB300 blend), and a reverse-solved Reflection GPU-count estimate of ≈11,000–23,000 GB300s depending on the assumed premium. Capacity-share estimate: the three customers combined account for ≈63–65% of total reported Colossus capacity (555,000 GPUs), leaving roughly a third for xAI's own Grok training and buffer.
+- **Consistency pass**: the page's headline AI run-rate figure was previously stated as "≈$26B/yr (Anthropic + Google only; Reflection unquantified)" in four places (Summary, §5, §6 risk table, §13 thesis sentence). Updated to **≈$27.8B/yr** (all three contracts) now that Reflection's $150M/month is a known, disclosed figure rather than "further, unquantified upside." Left the §8 valuation P/S multiple (≈42×) untouched — the ≈4% denominator shift doesn't move the multiple at the precision shown.
+- **New raw source file**: `raw/SPCX/filings/SPCX-ai-compute-gpu-pricing-notes.md` — full chip-mix and price-tracker extraction notes, plus the back-calculation methodology and its stated caveats (100%-utilization assumption, trade-press-not-SEC-disclosed chip mixes, tracker-data variance).
+
+### Thesis Status
+- **Overall**: Unchanged (Watch / entry <$110) — this was a data-depth addition, not a new catalyst. The back-calculated ≈1.5–2.1× pricing premium over market on-demand GPU rates is a modestly *positive* data point for the segment's potential margin profile (exclusive/reserved/bundled-power-and-networking capacity commanding a premium over shared spot pricing is a defensible structural explanation), but remains inference — SpaceX does not disclose AI-segment margin separately, so this does not change the recommendation.
+- **BAIT delta**: None.
+- **Price target delta**: None — §11/§12 scenario prices unchanged; only the AI run-rate figure feeding narrative context was refreshed ($26B→$27.8B).
+
+### Recommendation
+- **For a non-holder**: Unchanged — Watch; entry <$110
+- **For a current holder**: Unchanged — Hold if positioned pre-IPO
+
+**Next review trigger**: Unchanged — first public-company earnings report and/or the August 11, 2026 lockup unlock, whichever lands first.
+
+---
+
 ## [2026-07-13] — v3.0 Initial Ingest (Workflow A)
 
 **Trigger**: User-requested new ticker addition. SpaceX IPO'd June 12, 2026 (largest IPO in history, ~$1.8T valuation) — user specifically requested S-1-focused analysis covering (1) segment revenue funnels (Starlink, Launch, and any new segments), (2) company growth projections including new segments like GPU-compute leasing to Anthropic/Google, and (3) business risks.

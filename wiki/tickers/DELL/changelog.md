@@ -4,6 +4,49 @@
 
 ---
 
+## [2026-08-02] — Q1 FY27 Earnings (May 28, 2026) — Blowout Beat + Guide Raise
+
+**Trigger**: Q1 FY2027 earnings print (May 28, 2026) — record revenue $43.8B (+88% YoY), AI server revenue $16.1B (+757%), backlog $51.3B, FY27 guide raised to $167B / $17.90 EPS / $60B AI server revenue. Stock +32.76% on the print; +89% from baseline $214.65 to $405.37.
+
+**Sources reviewed**:
+- [Q1 FY27 PR (Dell IR, May 28, 2026)](https://www.dell.com/en-us/dt/corporate/newsroom/announcements/detailpage.press-releases~usa~2026~05~dell-technologies-delivers-first-quarter-fiscal-2027-financial-results.htm)
+- [Q1 FY27 8-K (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/1571996/000157199626000021/exhibit991earnings8kq1fy27.htm)
+- [Yahoo Finance — DELL live quote](https://finance.yahoo.com/quote/DELL) (price $405.37, Aug 1 close)
+- [Futurum — Q1 FY27 analysis](https://futurumgroup.com/insights/dell-q1-fy-2027-ai-server-demand-drives-raised-fy-2027-outlook/)
+- [Enterprise DNA — AI server revenue deep dive](https://enterprisedna.co/resources/news/dell-ai-server-record-q1-fy2027-2026/)
+- [Dell Technologies World 2026 announcements](https://www.dell.com/en-us/blog/dell-technologies-world-2026-enterprise-ai-announcements-this-week/)
+- [Yahoo Finance — DELL analyst insights](https://finance.yahoo.com/quote/DELL/analyst-insights/)
+- [SEC EDGAR — Form 4 filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001571996&type=4)
+
+### What Changed
+- **Header + Summary**: Live price $214.65 → **$405.37**; complete Summary refresh with new scenario table + KPI strip
+- **Key Stats**: Refreshed all metrics; FY27 guide $140B/$12.50 → **$167B/$17.90**; AI server $50B → **$60B**; backlog $43B → **$51.3B**
+- **§2 Financials**: Added Q1 FY27 row (revenue $43.8B +88%, ISG $29.0B +181%, AI server $16.1B +757%, non-GAAP EPS $4.86 +214%); FY27E column updated
+- **§5 Competitive Moat**: AI Factory customers exceeded 5,000 (+1K QoQ); PowerRack launch; Eli Lilly/Honeywell/Samsung named adopters
+- **§6 Management**: Insider activity updated — post-Q1 selling is routine/small (Silver Lake, GC, director); April SLTA cluster now reads as planned diversification, not a conviction sell
+- **§8 Key Risks**: AI margin compression probability ↓ 30% → 20% (ISG margin 10.5% de-risks); added memory supply constraint as [NEW] risk; removed resolved thesis-break trigger (Q1 beat)
+- **§10 Valuation**: Complete refresh — forward P/E ~17× → ~22×; analyst consensus $185 → **$503** (complete reversal); Barclays $168 → $550
+- **§11 Catalyst & Sentiment**: Complete refresh — price, analyst consensus, insider, news, upcoming catalysts; Q1 marked as ✅ Delivered
+- **§12 BAIT**: Upgraded Single → **Double (A+I Moderate)**; Conviction Low → **Low-Moderate**
+- **§13 Scenarios**: Migrated 3-year → **5-year terminal** per Rule #24; Bull $325 → **$576**, Base $230 → **$368**, Bear $130 → **$195**
+- **§14 PW EV**: $229 (3-yr) → **$366 (5-yr)**; R/R 1.3:1 → **≈0.8:1** at spot (stock above PW EV)
+- **§15 Recommendation**: Entry zone $170–185 → **$340–365**; Trim zone $235–260 → **$450–500**; thesis-break triggers updated
+
+### Thesis Status
+- **Overall**: 🟢 **Strengthened** — Q1 FY27 was a blowout that validated the AI server growth thesis far beyond prior expectations (+88% vs. +23% guide). ISG margin at 10.5% partially de-risks the margin-compression bear. However, the stock's +89% run has priced most of the fundamental improvement.
+- **BAIT delta**: Single (A only Moderate) → **Double (A+I Moderate)**; Conviction Low → Low-Moderate
+- **Price target delta**: Bull $325 → **$576** | Base $230 → **$368** | Bear $130 → **$195** (all 5-yr terminal)
+- **PW EV delta**: $229 → **$366** (+60% absolute improvement)
+- **Catalyst & Sentiment delta**: Analyst consensus $185 → **$503** (complete reversal); insider selling normalized; Q1 ✅ delivered
+
+### Recommendation
+- **For a non-holder**: 🟡 **Watch** — at $405, stock is above PW EV ($366); R/R ≈0.8:1. Initiate on pullback to $340–365 entry zone.
+- **For a current holder**: 🟡 **Hold** — fundamentals dramatically improved; trim into $450–500 ahead of FY28 digestion risk.
+
+**Next review trigger**: Q2 FY27 earnings — **September 3, 2026**. Key items: (1) Revenue vs. $44–45B guide, (2) AI backlog trend, (3) memory constraint easing, (4) ISG margin sustainability.
+
+---
+
 ## [2026-04-26] — v2.6 + v2.7 + v2.8 Retrofit
 
 **Trigger**: Schema retrofit batch — bring DELL up to v2.8 standard (synthesis discipline + competitive landscape + risk materiality filter + R/R discipline) per CLAUDE.md Rules #19, #20, #21, #22, #23, #24, #25, #26.

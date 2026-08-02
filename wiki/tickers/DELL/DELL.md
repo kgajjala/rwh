@@ -1,26 +1,29 @@
 # DELL — Dell Technologies Inc.
 
 > **Schema**: v3.0
-> **Last Updated**: 2026-04-26
+> **Last Updated**: 2026-08-02
 > **Status**: Active
-> **Live Price Verified**: **$214.65** at April 24, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/DELL))
+> **Live Price Verified**: **$405.37** at August 1, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/DELL))
 > **Ticker Type**: Enterprise hardware / AI infrastructure (hybrid: capital-light client + capital-intensive server/storage)
 
 ---
 
 ## Summary
 
-- 🟡 **Thesis**: Leading western OEM beneficiary of NVIDIA AI server build-out — **$43B AI backlog**, $50B FY27 AI revenue guide, +23% FY27 revenue growth — but at $214.65 (–1% from all-time high, with consensus median ≈$185 *below* spot, and Michael Dell SLTA entities selling **$150M+ near the highs** in mid-April), price already discounts AI margin durability.
-- 🟡 **Moat verdict**: **Narrow** — scale + supply chain + enterprise distribution + DFS captive financing. Not a true switching-cost moat; NVIDIA holds the upstream pricing power and Dell is a value-added integrator.
-- 🟡 **For a non-holder: Watch** — initiate only on pullback into entry zone where consensus target becomes a floor.
-- 🟡 **For a current holder: Hold / partial Trim** — large positions sub-$120 should consider trimming 20–30% on strength.
-- 🎯 **Attractive entry zone**: **$170 – $185** (13–14× FY27E EPS; aligns with sell-side median; ≈5.7% div yield at the entry).
-- 🎯 **Trim zone**: **$235 – $260** (Wedbush bull-case territory; 18–20× FY27E EPS).
-- 📈 **Price action**: $214.65, **–1.3% from 52-wk high** ($217.39), **+147% above 52-wk low** ($86.76).
-- 📅 **Next catalyst**: **Q1 FY27 earnings — late May 2026 (est.)**. First read on $50B AI server / FY27 guide pace.
-- ⚠️ **Top risk**: AI server gross margin compression to <8% (≈30% prob, high impact — *not fully priced in*); FY28/FY29 hyperscaler capex air pocket (≈35% prob, high impact).
-- ⚠️ **Insider signal**: Michael Dell SLTA IV/V entities sold ≈$150M+ at $214–217 in mid-April 2026 ([SEC Form 4](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001571996&type=4)) — likely planned diversification, but size and timing-near-highs is a real flag.
-- 🟡 **BAIT verdict**: **Single-lens (A only Moderate)** — Conviction **Low** at spot. Bull / Bear R/R **≈1.5:1** ($325 / $130 per §13) — symmetric, not asymmetric; a pullback to $170–185 shifts it to ≈3.5:1.
+- 🟢 **Thesis**: Q1 FY27 validated Dell as the primary western OEM beneficiary of the AI infrastructure supercycle — revenue $43.8B (+88% YoY), AI server revenue $16.1B (+757%), **$51.3B AI backlog** (record), FY27 guide raised to **$167B revenue / $17.90 non-GAAP EPS** (+74% YoY). ISG operating margin improved to 10.5%, partially de-risking the margin-compression bear. At $405.37, the stock has re-rated from ~17× to ~22× FY27E EPS — consensus now $503 (24% above spot), a complete reversal from the April $185 median.
+- 🟡 Non-holder: **Watch** · 🟡 Holder: **Hold**
+
+| 52-wk Range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|---|
+| $110.22 – $469.47 | **$405.37** (~85th) | $195 | $340 – $365 | $368 / **$366** | $450 – $500 | $576 | **≈0.8:1** |
+
+| BAIT | Moat | FY27E P/E | FCF Yield (Q1 ann.) | Div Yield | Next Catalyst |
+|---|---|---|---|---|---|
+| Double (A+I Mod) | Narrow | ~22× | ~6.4% | 0.62% | 📅 **Q2 FY27 — Sept 3, 2026** |
+
+- 🟢 **Why**: (1) AI server revenue +757% YoY with $51.3B backlog and 5,000+ customers — demand exceeds supply; (2) ISG margin improved to 10.5%, de-risking the margin-compression bear; (3) FY27 guide raised 19% to $167B with Q2 guided $44–45B — no deceleration signal
+- ⚠️ **Why not**: (1) Stock +89% since April baseline — at ~22× FY27E, much of the upside is priced; (2) AI capex digestion FY28/FY29 remains the structural risk — NVIDIA Blackwell cycle peaking; (3) R/R ≈0.8:1 at spot — asymmetry only opens on a 15–20% pullback
+- 📅 **Next read**: Q2 FY27 earnings — **September 3, 2026**
 
 ---
 
@@ -31,7 +34,7 @@ Dell Technologies (NYSE: DELL) is a global enterprise IT vendor selling servers,
 - **Infrastructure Solutions Group (ISG)** — servers (incl. AI-optimized GPU systems), storage (PowerStore, PowerMax, Isilon), networking
 - **Client Solutions Group (CSG)** — commercial PCs (Latitude, OptiPlex, Precision), consumer PCs, displays, peripherals
 
-Dell Financial Services (DFS) — captive financing — and embedded support/services ride on top of both. **FY2026 (ended Jan 31, 2026)** results: **$113.5B revenue (+19% YoY)**, GAAP diluted EPS $8.68 (+36%), AI server orders $64B+, $43B AI backlog entering FY2027 ([Q4 FY26 PR, Feb 26, 2026](https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-delivers-fourth-quarter-and-full-year-fiscal-3)).
+Dell Financial Services (DFS) — captive financing — and embedded support/services ride on top of both. **Q1 FY2027 (May 28, 2026)** delivered record results: **$43.8B revenue (+88% YoY)**, AI server revenue $16.1B (+757%), $51.3B AI backlog (record), FY27 guide raised to **$167B revenue / $17.90 non-GAAP EPS** ([Q1 FY27 PR, May 28, 2026](https://www.dell.com/en-us/dt/corporate/newsroom/announcements/detailpage.press-releases~usa~2026~05~dell-technologies-delivers-first-quarter-fiscal-2027-financial-results.htm)). Stock surged +32.76% on the print.
 
 Founded 1984 by Michael Dell as a build-to-order PC direct-sales business. Taken private 2013, acquired EMC for $67B in 2016 (one of the largest tech deals ever), spun out VMware 2021. Today Dell is the leading western pure-play vendor of GPU-rich AI infrastructure to enterprise + sovereign + neocloud customers, with the CSG (PC) business as a stable cash cow funding the AI ramp.
 
@@ -41,11 +44,11 @@ Founded 1984 by Michael Dell as a build-to-order PC direct-sales business. Taken
 
 ## Pivotal Investment Question
 
-> Is Dell's AI server business a durable, scaling profit pool that justifies a re-rating from low-teens P/E toward 18–22× — or is it a cyclical, low-margin pass-through where NVIDIA captures 90% of the value, the $43B backlog is a multi-year peak, and FY28 hyperscaler digestion compresses margins back to 6–7%?
+> Q1 FY27 answered "can Dell grow AI revenue at scale?" with a resounding yes ($16.1B, +757%). The pivotal question has shifted: **Is the $51.3B backlog a mid-cycle baseline or a near-peak, and can ISG's 10.5% operating margin hold as the mix shifts toward even larger (and potentially lower-margin) hyperscale deployments in FY28–FY29?**
 
-**Bull case** requires: AI-server gross margins stabilize 10–13% (not collapse to 5–7%); FY27 revenue growth converts to >25% non-GAAP EPS growth; sovereign + enterprise + tier-2 hyperscaler demand sustains a 3+ year cycle.
+**Bull case** requires: AI cycle extends 5+ years; enterprise + sovereign adoption sustains demand beyond the hyperscaler build-out; ISG margin holds ≥10%.
 
-**Bear case**: AI server GMs compress to mid-single-digits as SMCI accelerates, white-box ODMs (Quanta, Foxconn) capture more hyperscale, and the stock re-rates to 10–12× post-cycle as FY28 plateaus.
+**Bear case**: FY28 hyperscaler digestion, ODM share gain in largest deployments, margin compression to <8%, and the stock re-rates from ~22× to 12–13× post-cycle.
 
 ---
 
@@ -53,23 +56,25 @@ Founded 1984 by Michael Dell as a build-to-order PC direct-sales business. Taken
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$214.65** | April 24, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/DELL)) |
-| 52-Week Range | $86.76 – $217.39 | |
-| % From 52-Wk High | –1.3% | At/near highs |
-| Market Cap | ≈$139.6B | ≈650M shares |
-| Beta (5Y) | 0.95 | |
+| Live Price | **$405.37** | August 1, 2026 close ([Yahoo Finance](https://finance.yahoo.com/quote/DELL)) |
+| 52-Week Range | $110.22 – $469.47 | |
+| % From 52-Wk High | –14% | Pulled back from June highs |
+| Market Cap | ≈$261.9B | |
+| EV | ≈$281.5B | |
+| Beta (5Y) | 1.38 | |
 | FY2026 Revenue | $113.5B | +19% YoY |
-| FY2026 Diluted EPS (GAAP) | $8.68 | +36% YoY |
-| AI Server Orders FY26 | $64B+ | Shipped >$25B |
-| AI Backlog (entering FY27) | $43B | Record |
-| FY27 Revenue Guide | ≈$140B (+23%) | Mgmt midpoint |
-| FY27 Non-GAAP EPS Growth | +25% midpoint | ≈$12.50 |
-| FY27 AI Server Revenue (guide) | ≈$50B | ≈doubling |
-| Quarterly Dividend | $2.52 | +20% (Q4 FY26) |
-| Dividend Yield (fwd) | ≈1.2% | Modest |
-| Buyback Authorization (added Q4 FY26) | +$10B | Cumulative auth ≈$22B |
-| Q4 FY26 Capital Returns | $2.2B | Div + buyback |
-| Next Earnings | Late May 2026 (est.) | Q1 FY27 |
+| Q1 FY27 Revenue | **$43.8B** | **+88% YoY** (record) |
+| Q1 FY27 AI Server Revenue | **$16.1B** | +757% YoY |
+| AI Backlog (Q1 FY27 exit) | **$51.3B** | Record (from $43B) |
+| FY27 Revenue Guide (raised) | **$165–169B** (~$167B mid) | +47% YoY (was $140B) |
+| FY27 Non-GAAP EPS Guide (raised) | **$17.90** midpoint | +74% YoY (was $12.50) |
+| FY27 AI Server Revenue (raised) | **$60B** | Was $50B |
+| EPS TTM | $12.57 | |
+| Forward P/E (FY27E) | ~22× | |
+| Dividend Yield (fwd) | 0.62% | $2.52/qtr unchanged |
+| Q1 FY27 Cash Flow | **$4.1B** | Record Q1 |
+| Q1 FY27 Capital Returns | $2.1B | Div + buyback |
+| Next Earnings | **September 3, 2026** | Q2 FY27 |
 
 ---
 
@@ -87,16 +92,16 @@ Founded 1984 by Michael Dell as a build-to-order PC direct-sales business. Taken
 
 *Time in columns, metrics in rows (Rule #22).*
 
-| Metric | FY2023 | FY2024 | FY2025 | FY2026 | FY2027E (mgmt) |
+| Metric | FY2023 | FY2024 | FY2025 | FY2026 | FY2027E (raised) |
 |--------|--------|--------|--------|--------|----------------|
-| Revenue | $102.3B | $88.4B | $95.6B | **$113.5B** | ≈$140B |
-| YoY Growth | — | –14% | +8% | +19% | +23% |
-| ISG Revenue | ≈$38B | $34B | $43.6B | ≈$63B | ≈$85B |
-| CSG Revenue | ≈$58B | $49B | $48.4B | ≈$48B | ≈$50B |
-| GAAP Diluted EPS | — | — | $6.38 | **$8.68** | — |
-| Non-GAAP EPS | $7.61 | $6.41 | $7.84 | ≈$10.00 | ≈$12.50 (+25%) |
-| Non-GAAP Op Margin | 8.4% | 8.8% | 8.6% | ≈8.5% | flat |
-| AI Server Shipments | <$0.5B | $1.5B | $9.8B | >$25B | ≈$50B |
+| Revenue | $102.3B | $88.4B | $95.6B | **$113.5B** | **≈$167B** |
+| YoY Growth | — | –14% | +8% | +19% | **+47%** |
+| ISG Revenue | ≈$38B | $34B | $43.6B | ≈$63B | — |
+| CSG Revenue | ≈$58B | $49B | $48.4B | ≈$48B | — |
+| GAAP Diluted EPS | — | — | $6.38 | **$8.68** | **$17.31** |
+| Non-GAAP EPS | $7.61 | $6.41 | $7.84 | ≈$10.00 | **$17.90** (+74%) |
+| Non-GAAP Op Margin | 8.4% | 8.8% | 8.6% | ≈8.5% | ~9.7% (Q1 run-rate) |
+| AI Server Revenue | <$0.5B | $1.5B | $9.8B | >$25B | **≈$60B** |
 | Capital Returned | — | — | $10.8B | $7B+ | TBD |
 | Headcount (yr-end) | ≈133K | 120K | 108K | ≈97K | TBD |
 
@@ -104,12 +109,14 @@ Sources: [Dell IR press releases FY2024–FY2026](https://investors.delltechnolo
 
 ### Recent Quarterly Trajectory
 
-| Metric | Q1 FY26 | Q2 FY26 | Q3 FY26 | Q4 FY26 |
+| Metric | Q2 FY26 | Q3 FY26 | Q4 FY26 | **Q1 FY27** |
 |--------|---------|---------|---------|---------|
-| Revenue | ≈$23.4B | ≈$25.0B | ≈$26.5B | **$33.4B** |
-| YoY Growth | +5% | +9% | +18% | +39% |
-| Non-GAAP EPS | — | — | — | **$3.89** (vs. $3.51 cons) |
-| Comment | AI ramp early | Continued ramp | AI inflecting | AI inflection quarter |
+| Revenue | ≈$25.0B | ≈$26.5B | $33.4B | **$43.8B** |
+| YoY Growth | +9% | +18% | +39% | **+88%** |
+| ISG Revenue | — | — | — | **$29.0B** (+181%) |
+| AI Server Rev | — | — | — | **$16.1B** (+757%) |
+| Non-GAAP EPS | — | — | $3.89 | **$4.86** (+214%) |
+| Comment | Continued ramp | AI inflecting | AI inflection | **AI supercycle quarter** |
 
 ### Primary Source: 10-K Segment Detail (FY2025, multi-year)
 
@@ -199,7 +206,7 @@ Dell's moat is *structural-distributional* (scale + enterprise reach + DFS finan
 - **vs. Lenovo**: Dell wins in U.S. enterprise + sovereign; Lenovo wins in China + emerging-market price segments
 - **vs. ODMs**: Dell wins in *integration complexity* and *enterprise services attach*; ODMs win in pure-cost hyperscale
 
-**Evidence supporting Dell's differentiator**: $1.44B Boost Run AI infrastructure deal (April 2026) — neocloud customer chose Dell over SMCI/HPE, signaling enterprise-scale AI integration moat. **Tail risk**: SMCI is well-capitalized post-restatement, hungry, and could escalate price competition; ODMs are the bigger long-run share threat in hyperscale.
+**Evidence supporting Dell's differentiator**: AI Factory with NVIDIA customer base exceeded **5,000** in Q1 FY27 (+1,000 in one quarter), with Eli Lilly, Honeywell, and Samsung among named enterprise adopters; $1.44B Boost Run deal (April 2026) validated at scale. **Dell Technologies World 2026** launched **PowerRack** (rack-scale AI/HPC platform — compute, networking, storage, cooling integrated). **Tail risk**: ODMs remain the bigger long-run hyperscale share threat; SMCI price competition ongoing.
 
 ---
 
@@ -242,9 +249,11 @@ At $214 spot, the untouched ≈$15B remaining buyback authorization could retire
 
 The Michael Dell letter cadence + earnings commentary across the post-VMware-spin period traces a clear strategic shift: **from "platform consolidator" (post-EMC integration) → "balanced cash-return ISG/CSG operator" (FY22–FY24) → "AI infrastructure category leader" (FY25–FY26)**. The FY25 letter is the inflection — first letter where AI is the *organizing principle* of the strategy, not a side-bullet. The FY26 print + FY27 guide validate the framing; the bear question is whether the AI category leadership outlasts the hyperscaler capex cycle.
 
-### Insider activity flag
+### Insider activity
 
-In **mid-April 2026**, the **Michael Dell SLTA IV / SLTA V entities sold ≈$150M+ of stock** at $214–217 (near 52-wk high) — see Section 11 for Form 4 detail. Most likely planned diversification (Dell holds ≈50% of his net worth in DELL stock), but the **size and timing-near-highs** is a real signal that warrants weighting in the BAIT framework.
+- **Mid-April 2026**: Michael Dell SLTA IV/V entities sold ≈$150M+ at $214–217 (then-near-highs). Poorly timed relative to the +89% run since.
+- **Post-Q1 FY27 (June–July 2026)**: Silver Lake entities (Egon Durban) sold small lots at $390–$468; GC Rothberg sold 20K shares at $410; Director Vojvodich exercised and sold at $414. All modest, 10b5-1 plan transactions — no large Michael Dell entity sales post-Q1.
+- **Net signal**: Insider selling shifted from "concentrated + concerning" (April) to "routine, small, dispersed" (post-Q1). The April SLTA sales now look like planned diversification, not a conviction signal — the Q1 print validated the bull case those sales were selling into.
 
 ---
 
@@ -266,15 +275,13 @@ In **mid-April 2026**, the **Michael Dell SLTA IV / SLTA V entities sold ≈$150
 
 | Risk | Impact | Probability | Notes |
 |------|--------|-------------|-------|
-| **AI server gross margin compression to <8%** | High | 30% | Single biggest swing variable. Mgmt has not disclosed AI server GM. **Not yet priced into the 17× FY27 multiple** — bear case re-rates to 10–12×. Ties to thesis-break trigger. *(Item 1A: AI demand sustainability + competitive intensity)* |
-| **AI capex air pocket FY28/FY29** | High | 35% | Hyperscaler digestion after pull-forward. Cyclical, well-known, but *partially* priced in by sell-side median target $185 below spot. |
-| **NVIDIA disintermediation (DGX Cloud direct)** | Critical | 10% | Tail risk; would re-rate Dell to 8–10× and crater AI revenue. Differentiated risk for OEMs vs. peers (HPE, SMCI face same exposure but Dell is most levered). |
-| **Customer concentration in 5–10 neoclouds + sovereigns** | High | 20% | One CoreWeave-scale stumble = revenue gap. Dell-specific (not boilerplate); $1.44B Boost Run deal is illustrative of the concentration. **Not fully priced in.** |
-| **White-box / ODM share gain in hyperscale** | Medium | 40% | Pegatron, Foxconn, Sanmina, Wiwynn expanding Blackwell builds — direct threat to DELL and SMCI in the highest-volume hyperscale segment. Margin pressure baseline. |
-| **CSG PC refresh weaker than expected** | Medium | 25% | CSG margin matters — is the cash-cow funding the AI ramp. Win11 EOL refresh tailwind partially offsets. |
-| **China / trade / tariff disruption** | Medium | 30% | Differentiated vs. domestically-supplied peers. Dell has diversified manufacturing but remains exposed. *(Item 1A: geopolitical / supply chain)* |
-| **Insider-selling cluster (Michael Dell SLTA entities)** | Medium | Manifest | Already manifest April 2026 — $150M+ sold near 52-wk high. **Not** an Item 1A risk; behavioral/sentiment indicator. Watch for cumulative >$500M. |
-| **AI-driven workforce restructuring execution risk** | Medium | 20% | March 2026 –11K layoffs is a $5B+ cumulative discretionary capex on AI-stack transformation; execution risk if AI demand softens before re-skilling pays off. *(Specific large discretionary investment — Rule #23(d))* |
+| **AI capex air pocket FY28/FY29** | High | 30% | Single biggest swing variable post-Q1. Hyperscaler digestion after pull-forward. Q1's +88% makes the comp base formidable. Now *partially* priced in with consensus at $503. |
+| **AI server gross margin compression** | High | 20% (↓) | ISG margin improved to **10.5%** in Q1 FY27 — ~~partially de-risked~~ DE-RISKED from 30% prob. Still not fully transparent at the AI-server-only level, but blended ISG at 10.5% is above the 8% bear threshold. |
+| **NVIDIA disintermediation (DGX Cloud direct)** | Critical | 10% | Tail risk unchanged. NVIDIA partnership deepened (5,000+ AI Factory customers) but structural dependency persists. |
+| **White-box / ODM share gain in hyperscale** | Medium | 40% | Unchanged — Pegatron, Foxconn, Wiwynn expanding. Dell's enterprise/sovereign moat holds but hyperscale is contested. |
+| **Customer concentration in neoclouds + sovereigns** | High | 20% | Diluted slightly by 5,000+ customer breadth, but top-10 concentration likely remains high. |
+| **Memory supply constraint** | Medium | 35% | **[NEW in Q1 FY27]** — Dell flagged memory as the primary supply constraint capping AI server throughput. Demand exceeds supply; risk is upside-capped growth, not demand weakness. |
+| **China / trade / tariff disruption** | Medium | 30% | Unchanged. |
 
 ### Risk Factor evolution (FY21 → FY25 synthesis)
 
@@ -304,38 +311,25 @@ In **mid-April 2026**, the **Michael Dell SLTA IV / SLTA V entities sold ≈$150
 
 ## Section 10 — Valuation & Comparable Analysis
 
-### Current Multiples (April 24, 2026, $214.65 / ≈$140B market cap)
+### Current Multiples (August 1, 2026, $405.37 / ≈$262B market cap)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| EV (est.) | ≈$155B | Net debt ≈$15B |
-| EV / Revenue (FY26) | ≈1.4× | |
-| EV / Revenue (FY27E) | ≈1.1× | Cheap on revenue if guide hits |
-| P/E GAAP (FY26 trailing) | ≈24.8× | $8.68 EPS |
-| P/E Non-GAAP (FY26) | ≈21× | ≈$10 EPS |
-| P/E Non-GAAP (FY27E) | ≈17× | ≈$12.50 EPS |
-| EV / EBITDA (FY26) | ≈13× | |
-| Dividend Yield (fwd) | ≈1.2% | |
-| Analyst Consensus Target | **$181–185** | **Below current price** |
-| Analyst Range | $101 – $235 | Wide |
-
-### Comparable Peer Set
-
-| Multiple | DELL | HPE | SMCI | LNVGY | ANET | NVDA |
-|----------|------|-----|------|-------|------|------|
-| FY27E P/E | ≈17× | ≈14× | ≈13× | ≈10× | ≈32× | ≈32× |
-| FY27E Rev Growth | +23% | +12% | +30%+ | +10% | +15% | +50% |
-| Op Margin | 8.5% | mid-SD | HSD (volatile) | SD | 40%+ | 60%+ |
-| Read | Best growth/multiple combo if margins hold | Slower; better recurring narrative | Highest growth, thinnest moat | Cheapest, slowest | Premium for AI-network purity | Upstream monopolist |
+| EV | ≈$281.5B | |
+| EV / Revenue (FY27E, $167B) | ≈1.7× | |
+| P/E Trailing (TTM $12.57) | ≈32× | |
+| P/E Non-GAAP (FY27E $17.90) | **≈22×** | Up from ~17× pre-Q1 |
+| PEG (5Y) | 0.66 | Attractive for growth rate |
+| Dividend Yield (fwd) | 0.62% | |
+| Analyst Consensus Target | **$503** (18 analysts) | **24% above spot** |
+| Analyst Range | $125 – $550 | |
 
 ### Assessment
 
-At ≈17× FY27E EPS, DELL trades roughly in line with HPE on multiple but with a much steeper growth trajectory — a relative bargain *if* AI margins hold. Two camps:
+At ~22× FY27E, DELL has re-rated from a value-hardware multiple to a growth-tech multiple — justified by +88% Q1 revenue growth and the guide raise, but no longer cheap. The **consensus reversal** is the headline: April's $185 median (below spot) has become $503 (24% above spot). The sell-side was wrong at $215 and may be over-correcting at $503.
 
-- 🟢 **Bulls** (Wedbush, Morgan Stanley): $220–235 PT; AI runway 3+ years
-- 🔴 **Bears** (consensus median $181–185): FY28 air pocket setting up; sell-side is *behind* spot, signaling caution
-
-The cleanest tactical question: **does consensus lift after the Q1 FY27 print, or does spot correct toward consensus?** Either consensus is stale (spot wins) or stale-rally is in play (consensus wins).
+- 🟢 **Bulls** (Barclays $550, consensus cluster $480–515): AI cycle extends 3+ years, $60B AI server revenue in FY27 is a floor
+- 🔴 **Bears** (Morgan Stanley Equal-Weight $477): Re-rating justified but FY28 digestion caps upside; ~22× for a hardware company with 10% op margin is full
 
 ---
 
@@ -343,61 +337,56 @@ The cleanest tactical question: **does consensus lift after the Q1 FY27 print, o
 
 ### Live Price & Positioning
 
-- **Price**: $214.65 (April 24, 2026 close)
-- **Previous close**: $212.36 (+1.08% session)
-- **52-week range**: $86.76 – $217.39
-- **% from 52-wk high**: –1.3%
-- **% above 52-wk low**: +147%
-- **Market cap**: ≈$139.6B
-- **Beta (5Y)**: 0.95
+- **Price**: $405.37 (August 1, 2026 close)
+- **52-week range**: $110.22 – $469.47
+- **% from 52-wk high**: –14%
+- **% above 52-wk low**: +268%
+- **Market cap**: ≈$261.9B
+- **Beta (5Y)**: 1.38
 
 ### Analyst Consensus
 
-- **Aggregate rating**: 🟢 Buy (mostly Buy / Outperform; few Holds, no Sells) ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/DELL/) / [TipRanks](https://www.tipranks.com/stocks/dell/forecast))
-- **Median target**: $181–185 (15–16 analysts)
-- **High / low**: $235 / $101
-- **Implied upside from $214.65 to median**: **–14%** (target *below* spot)
-
-**Interpretation**: Sell-side is behind spot. Either consensus is stale and lifts post-Q1 FY27, or consensus is correct and the stock corrects. Cleanest tactical question in the name.
+- **Aggregate rating**: 🟢 Buy (18 analysts) ([Yahoo Finance](https://finance.yahoo.com/quote/DELL/analyst-insights/))
+- **Average target**: **$503** (+24% above spot)
+- **High / low**: $550 / $125
+- **Notable**: consensus **completely reversed** from April's $185 median (below spot) to $503 (above spot) — the Q1 print forced a wholesale re-rating
 
 ### Recent Analyst Actions
 
-- 🟢 Several PT lifts post Q4 FY26 print (Mar–Apr 2026, [Quiver Quantitative](https://www.quiverquant.com/stock/DELL))
-- 🟡 Median lagged the rally — sell-side caution
-- $171 PT specifically called out by [TIKR](https://www.tikr.com/blog/dell-closes-fy2026-with-record-113b-revenue-why-analysts-see-a-171-price)
+- 🟢 **Barclays**: PT $168 → **$550** (Overweight, May 29) — massive raise post-Q1
+- 🟡 **Morgan Stanley**: Equal-Weight maintained, PT $448 → $477 (Jun 23)
+- 🟢 Broad-based PT raises across the Street post-Q1 print
 
 ### Short Interest
 
-- Modest (≈1–3% of float). Not a high-short name; no squeeze setup.
+- ≈5% of float (modest). Not a high-short name.
 
 ### Insider Activity (Last 90 Days)
 
 | Date | Insider | Action | Size | Note |
 |------|---------|--------|------|------|
-| 2026-04-16 | SLTA IV (GP) — Michael Dell entity | Sell | 203,583 sh | Large; Class B exempt |
-| 2026-04-16/17 | SLTA V (GP) — Michael Dell entity | Sell | 203,583 + 382,000 + 458,666 sh (≈$148M+) | **Very large; near 52-wk high** |
-| 2026-04-13 | David Kennedy (exec) | Sell | 19,500 sh (≈$3.56M) | Modest; likely 10b5-1 |
+| 2026-07-22 | Lynn Vojvodich (Director) | Exercise + Sell | 2,022 sh @ $414 | 10b5-1 plan |
+| 2026-07-06 | Silver Lake entities (Durban) | Sell | 1,409 sh @ $405–419 | Small; routine |
+| 2026-06-15 | Richard Rothberg (GC) | Sell | 20,000 sh @ $410 | 10b5-1 |
+| 2026-06-10 | Silver Lake (SLTI V) | Sell | 412 sh @ $390–399 | Minimal |
+| 2026-06-02 | Silver Lake (SLTI IV) | Sell | 311 sh @ $454–468 | Minimal |
 
-**Net signal**: Heavily negative on insider — **Michael Dell entities selling near all-time highs** is the cleanest insider-sell signal in the wiki this week. Likely planned diversification (DELL ≈50% of his net worth) but size + timing matters.
-
-[SEC Form 4 filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001571996&type=4) | [TipRanks insider feed](https://www.tipranks.com/stocks/dell/insider-trading)
+**Net signal**: Routine, small, dispersed post-Q1 selling — dramatically different from the April SLTA cluster. No large Michael Dell entity sales since April.
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-XX] [Strategic]** — $1.44B Boost Run AI infrastructure deal ([BusinessWire](https://www.businesswire.com/portal/site/home/?ndmViewId=news_view&searchType=news&searchTerm=Dell+Boost+Run))
-- **[2026-04-06] [Workforce]** — March 2026 layoffs disclosed: ≈11K reduction (108K → 97K), framed as AI-stack transformation ([FinancialContent / Reuters](https://www.financialcontent.com/article/barchart-2026-4-6-dell-announced-major-ai-driven-layoffs-in-march-2026-what-comes-next-for-dividend-paying-dell-stock))
-- **[2026-02-26] [Earnings]** ✅ — Q4 FY26: Revenue $33.4B (+39%), Non-GAAP EPS $3.89, $43B AI backlog, FY27 guide +23% revenue / +25% EPS / ≈$50B AI revenue ([Dell IR](https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-delivers-fourth-quarter-and-full-year-fiscal-3))
-- 💰 **[2026-02-26] [Capital]** — Dividend +20% to $2.52/qtr; +$10B buyback authorization ([Dell IR](https://investors.delltechnologies.com/news-releases))
+- 📈 **[2026-05-28] [Earnings]** ✅ — **Q1 FY27: Record revenue $43.8B (+88%), AI server $16.1B (+757%), backlog $51.3B, FY27 guide raised to $167B / $17.90 EPS / $60B AI. Stock +32.76%.** ([Dell IR](https://www.dell.com/en-us/dt/corporate/newsroom/announcements/detailpage.press-releases~usa~2026~05~dell-technologies-delivers-first-quarter-fiscal-2027-financial-results.htm))
+- **[2026-05-XX] [Strategic]** — Dell Technologies World 2026: PowerRack launch (rack-scale AI/HPC platform); AI Factory customers exceeded 5,000 (+1,000 QoQ); Eli Lilly / Honeywell / Samsung named adopters ([Dell blog](https://www.dell.com/en-us/blog/dell-technologies-world-2026-enterprise-ai-announcements-this-week/))
+- **[2026-05-XX] [Strategic]** — New partner program for AI era: agentic AI-powered partner portal, incentives aligned to Enterprise AI / Zero-Trust / Sovereign Private Cloud
 
 ### Upcoming Catalysts
 
 | Date | Event | Why it matters |
 |------|-------|---------------|
-| 📅 **Late May 2026** (est.) | **Q1 FY27 earnings** | First test of $50B AI server / FY27 guide; AI margin disclosure |
-| Aug 2026 (est.) | Q2 FY27 earnings | H2 pacing read |
-| H2 2026 | NVIDIA Blackwell Ultra / Rubin shipping | Demand pull-through; allocation visibility |
-| Ongoing | Sovereign AI announcements | Sentiment beat |
-| Ongoing | Buyback execution at $215+ | Capital allocation discipline test |
+| 📅 **Sept 3, 2026** | **Q2 FY27 earnings** | Tests sustainability of +88% Q1 pace; Q2 guided $44–45B / $4.70–$4.90 EPS |
+| H2 2026 | NVIDIA Blackwell Ultra / Rubin shipping | Demand pull-through; memory constraint easing |
+| Ongoing | Sovereign AI deal flow | Backlog quality; geographic diversification |
+| Ongoing | Buyback execution at $400+ | Capital allocation discipline at elevated valuation |
 
 ---
 
@@ -405,50 +394,47 @@ The cleanest tactical question: **does consensus lift after the Q1 FY27 print, o
 
 ### B — Behavioral: 🔴 **Weak**
 
-Sentiment is *positive*. Stock is up 147% from 52-wk low, near all-time highs, retail and momentum flows engaged. There is no fear. Behavioral edge is **negative** — narrative is over-extended on AI; consensus is now framing FY28 air-pocket risk.
+Post-Q1 euphoria is acute. Stock +268% from 52-wk low, consensus shifted from bearish ($185) to bullish ($503) in one quarter. No fear in the name; AI narrative dominates. Behavioral edge is negative at $405.
 
 ### A — Analytical: 🟡 **Moderate**
 
-Key analytical edges:
-- **Operating leverage**: Opex +5% on revenue +39% in Q4 FY26 — under-modeled in trailing P/E
-- **Capital returns acceleration**: $10B buyback + 20% div hike = real signal
-- **AI margin path**: Mgmt has not disclosed AI server GM; bears assume ≈6%, bulls model ≈12%; truth determines fair value
-
-*Limits*: Consensus median target ($185) below spot ($214) means analytical setup is **not asymmetric** — coin flip with weighted downside on margins.
+- **ISG margin 10.5%** — higher than feared; de-risks the margin-compression bear case
+- **FY27 guide raise** ($140B → $167B) shows management under-promising cadence
+- **$51.3B backlog** provides revenue visibility for 3+ quarters
+- *Limits*: At ~22× FY27E, the market is paying a growth-tech multiple for a 10% op-margin hardware business. R/R ≈0.8:1 — not asymmetric.
 
 ### I — Informational: 🟡 **Moderate**
 
-- Q4 FY26 transcript: $43B backlog quality breakdown (sovereign vs. neocloud vs. enterprise) under-discussed in media
-- AI PC refresh cycle inflection underappreciated in CSG (Win11 EOL was October 2025)
-- Project Helix NVIDIA partnership economics opaque but significant
-- Mid-April Michael Dell entity sales not yet fully digested by sell-side
+- Memory as primary supply constraint — under-discussed, caps upside
+- 5,000+ AI Factory customer breadth dilutes the concentration risk narrative
+- Enterprise AI adoption (Eli Lilly, Honeywell, Samsung) broadens the demand base beyond neoclouds
+- PowerRack platform (rack-scale integration) is a moat-widener if services attach scales
 
 ### T — Technical: 🟡 **Moderate**
 
-- Strong uptrend, near 52-wk high
-- $15B+ unutilized buyback = mechanical floor
-- Insider selling at highs = technical headwind
-- No index inclusion catalysts pending
+- Pulled back –14% from $469 ATH — constructive if $380–400 holds
+- Buyback authorization provides a floor
+- No major insider selling post-Q1
 
 ### BAIT Verdict
 
-🟡 **Single-lens (A only Moderate). Conviction: Low.** The fundamentals can support more upside but the price has run; behavioral and technical lenses are saturated; insider selling is a real flag. Better entry would be a 15–20% pullback into the $170–185 entry zone. **Stock is not a high-conviction long at $214.**
+🟡 **Double-lens (A+I Moderate). Conviction: Low-Moderate** at $405. Upgraded from Single-lens on the strength of Q1 execution + ISG margin disclosure, but the price has captured much of the upside. Asymmetry opens on a pullback to $340–365.
 
 ---
 
 ## Section 13 — Bull / Bear / Base Cases
 
-*All scenarios are 3-year (FY29 / CY28) terminal prices. Probabilities sum to 100%.*
+*All scenarios are 5-year terminal (FY32 / CY31) per Rule #24. Probabilities sum to 100%. Rebased from 3-year to 5-year on this update.*
 
-| Scenario | Probability | FY29 Revenue | FY29 EPS | Multiple | Terminal Price |
+| Scenario | Probability | FY32 Revenue | FY32 EPS | Multiple | Terminal Price |
 |----------|-------------|--------------|----------|----------|----------------|
-| 🟢 **Bull** | 25% | $180B (CAGR ≈17%) | $18 | 18× | **$325** (+51%) |
-| 🟡 **Base** | 50% | $155B | $15 | 15× | **$230** (+7%) |
-| 🔴 **Bear** | 25% | FY28 plateau, FY29 EPS $11 | $11 | 12× | **$130** (–39%) |
+| 🟢 **Bull** | 20% | $280B (CAGR ~11% from $167B) | $32 | 18× | **$576** (+42%) |
+| 🟡 **Base** | 55% | $210B (CAGR ~5%) | $23 | 16× | **$368** (–9%) |
+| 🔴 **Bear** | 25% | $170B (flat from FY27 peak) | $15 | 13× | **$195** (–52%) |
 
-- **Bull** requires: AI cycle extends to FY29, no margin compression, sovereign tailwinds continue, AI server GM holds 10%+
-- **Base** requires: Steady execution, mild AI capex digestion in FY28, FY27 guide hits then plateaus
-- **Bear** requires: Hyperscaler digestion, white-box / SMCI share gain, AI server GM compresses to 6%, partial NVIDIA disintermediation
+- **Bull** requires: AI cycle extends 5+ years, enterprise + sovereign adoption sustains, storage modernization adds a second growth engine, ISG margin holds ≥10%
+- **Base** requires: FY27 guide hits ($167B), FY28 mild digestion then gradual recovery, AI becomes a steady business (not hyper-growth), CSG stable
+- **Bear** requires: Sharp FY28/FY29 digestion, ODM share gain accelerates, AI server margins compress to <8%, NVIDIA captures more of the downstream value
 
 ---
 
@@ -456,72 +442,66 @@ Key analytical edges:
 
 | Scenario | Terminal Price | Probability | PW Contribution |
 |----------|----------------|-------------|-----------------|
-| Bull | $325 | 25% | $81.25 |
-| Base | $230 | 50% | $115.00 |
-| Bear | $130 | 25% | $32.50 |
-| **PW EV (3-year)** | | | **≈$229** |
+| Bull | $576 | 20% | $115.20 |
+| Base | $368 | 55% | $202.40 |
+| Bear | $195 | 25% | $48.75 |
+| **PW EV (5-year)** | | | **≈$366** |
 
-| Current Price | PW EV | Capital Return (3-yr) | Annualized |
+| Current Price | PW EV | Capital Return (5-yr) | Annualized |
 |---------------|-------|-----------------------|------------|
-| $214.65 | $229 | **+7%** | ≈+2.2%/yr |
+| $405.37 | $366 | **–10%** | ≈–2%/yr |
 
-**Plus dividend** (≈1.2% fwd × 3 yrs ≈ +3.7%) → total return ≈+10–11% over 3 years (≈3.5%/yr). Material upgrade if dividend grows ≥10%/yr per FY25 letter framework.
+**Plus dividend** (≈0.62% fwd, growing ~10%/yr per mgmt framework) → total return ≈ –6% over 5 years. **Stock is trading above PW EV.**
 
 ### Risk/Reward Interpretation (Rule #24)
 
-- **Headline R/R**: Bull $325 vs. Bear $130 vs. spot $214.65 → **upside +51% / downside –39% → ≈1.3:1** capital R/R.
-- Including dividend over 3 years: ≈1.5:1.
-- **At spot, R/R is roughly symmetric, not asymmetric.**
-- **At entry zone $175 midpoint**: Bull +86% / Bear –26% → **≈3.3:1 R/R** — the asymmetry only opens up on a 15–20% pullback.
+- **Headline R/R**: Bull $576 (+42%) vs. Bear $195 (–52%) vs. spot $405 → **≈0.8:1** — skewed to downside.
+- **At entry zone $350 midpoint**: Bull +65% / Bear –44% → **≈1.5:1** — modestly favorable.
+- **At $340**: Bull +69% / Bear –43% → **≈1.6:1**.
 
-**Today's price prices most of the bull case in.** A pullback to $170–185 (consensus target zone) would shift the math sharply favorable.
+**At $405, the Q1 blowout is largely priced in.** The fundamentals have dramatically improved (PW EV rose $229 → $366), but the stock has risen faster ($214 → $405). Asymmetry only opens on a 15% pullback into the $340–365 range.
 
 ---
 
 ## Section 15 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Dell is the leading western OEM beneficiary of the NVIDIA AI server build-out with a $43B backlog and a 23% FY27 revenue guide, but at $214.65 (near all-time highs, with consensus median ≈$185 *below* spot, and Michael Dell entities selling $150M+ near the highs), the price already discounts continued AI margin durability — meaning the asymmetry has shifted from favorable to neutral.
+**Thesis in one sentence**: Q1 FY27 validated Dell as the dominant western AI server OEM — $43.8B revenue (+88%), $16.1B AI server revenue (+757%), $51.3B backlog, FY27 guide raised to $167B / $17.90 EPS — but the stock's +89% run from $214 to $405 has priced most of the upside, leaving R/R at ≈0.8:1 vs. ≈1.5:1 at a pullback to entry.
 
-**For a non-holder**: 🟡 **Watch** at $214.65. Initiate only on pullback into the **$170–185 attractive entry zone** where consensus target becomes a floor and asymmetry tilts favorable (R/R lifts from ≈1.3:1 at spot to ≈3.3:1 at entry). Initiating at all-time highs into insider selling is poor risk-reward.
+**For a non-holder**: 🟡 **Watch** at $405. The thesis is dramatically stronger than in April, but the stock is now **above PW EV ($366)**. Initiate on pullback into the **$340–365 entry zone** where R/R improves to ≈1.5:1+.
 
-**For a current holder**: 🟡 **Hold / partial Trim**. If position is large and entry was sub-$120, consider trimming 20–30% on strength to lock in the run and preserve capital for the inevitable AI digestion-cycle entry point. Full position at $214 underestimates the FY28 air-pocket risk.
+**For a current holder**: 🟡 **Hold**. Fundamentals justify the re-rating; do not exit into a growth cycle. Consider trimming into **$450–500** (approaching consensus targets + prior ATH) to lock in gains ahead of the FY28 digestion risk.
 
-🎯 **Attractive entry zone**: **$170 – $185** — 13–14× FY27E EPS; aligns with sell-side median; ≈5.7% buyback yield at the entry; opens R/R to ≈3.3:1.
+🎯 **Attractive entry zone**: **$340 – $365** — 19–20× FY27E EPS; near PW EV; R/R ≈1.5:1.
 
-🎯 **Trim zone**: **$235 – $260** — Wedbush bull-case territory; 18–20× FY27E EPS; would price in full bull-case execution.
+🎯 **Trim zone**: **$450 – $500** — approaching consensus cluster ($503) and prior ATH ($469); 25–28× FY27E EPS.
 
-🔴 **Exit / avoid zone**: **>$280** — would require pricing in three more years of AI hyper-growth without margin compression; aggressive even on bull-case probabilities.
+🔴 **Exit / avoid zone**: **>$550** — would price in sustained 30%+ EPS growth for 5 years in a 10% op-margin hardware business.
 
 **Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
-- ⚠️ AI server gross margin disclosed below 7% on any quarterly call
-- ⚠️ FY27 AI server revenue guide cut below $45B
-- ⚠️ A top-5 neocloud customer (CoreWeave, Boost Run, etc.) defaults / cancels orders
-- ⚠️ NVIDIA announces material direct-to-enterprise (DGX Cloud) expansion bypassing OEMs
-- ⚠️ Q1 FY27 print misses AI revenue / orders consensus by >10%
-- ⚠️ Hyperscaler 2027 capex aggregate guidance cut by >20%
-- ⚠️ Continued cluster of Michael-Dell-entity sales >$500M cumulative
+- ⚠️ Q2 FY27 revenue below $42B (missing the $44–45B guide) or sequential deceleration signal
+- ⚠️ FY27 AI server revenue guide cut below $55B
+- ⚠️ ISG operating margin drops below 8% on any quarterly print
+- ⚠️ A top-5 neocloud/sovereign customer defaults or cancels orders
+- ⚠️ NVIDIA announces material DGX Cloud direct expansion bypassing OEMs
+- ⚠️ Hyperscaler 2027–2028 capex aggregate guidance cut by >20%
+- ~~⚠️ Q1 FY27 print misses AI revenue / orders consensus by >10%~~ ✅ DE-RISKED — Q1 was a blowout beat
 
-📅 **Next review trigger**: **Q1 FY27 earnings — late May 2026 (estimated post-close)**. Key items: (1) AI server revenue + orders pace vs. $50B FY27 guide, (2) AI gross margin commentary, (3) backlog quality (any cancellations), (4) buyback execution at current levels, (5) FY27 guide refresh.
+📅 **Next review trigger**: **Q2 FY27 earnings — September 3, 2026**. Key items: (1) Revenue pace vs. $44–45B Q2 guide, (2) AI server backlog trend (growing or stable?), (3) memory constraint easing, (4) ISG margin sustainability, (5) any FY28 commentary.
 
 ---
 
 ### Sources
 
-- [Dell Technologies IR — News Releases](https://investors.delltechnologies.com/news-releases) (Q4 FY26 PR, 2026-02-26)
-- [Q4 FY26 PR direct link](https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-delivers-fourth-quarter-and-full-year-fiscal-3)
-- [Dell 10-K FY2025 (SEC EDGAR HTML)](https://www.sec.gov/Archives/edgar/data/1571996/000157199625000034/dell-20250131.htm)
-- [SEC EDGAR — Dell filings (CIK 0001571996)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001571996&type=10-K)
+- [Dell Technologies IR — News Releases](https://investors.delltechnologies.com/news-releases)
+- [Q1 FY27 PR (May 28, 2026)](https://www.dell.com/en-us/dt/corporate/newsroom/announcements/detailpage.press-releases~usa~2026~05~dell-technologies-delivers-first-quarter-fiscal-2027-financial-results.htm)
+- [Q1 FY27 Earnings 8-K (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/1571996/000157199626000021/exhibit991earnings8kq1fy27.htm)
+- [Q4 FY26 PR](https://investors.delltechnologies.com/news-releases/news-release-details/dell-technologies-delivers-fourth-quarter-and-full-year-fiscal-3)
+- [Dell 10-K FY2025 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/1571996/000157199625000034/dell-20250131.htm)
+- [Yahoo Finance — DELL quote](https://finance.yahoo.com/quote/DELL) (price 2026-08-01)
+- [Yahoo Finance — DELL analyst insights](https://finance.yahoo.com/quote/DELL/analyst-insights/)
+- [Dell Technologies World 2026 announcements](https://www.dell.com/en-us/blog/dell-technologies-world-2026-enterprise-ai-announcements-this-week/)
+- [Futurum — Dell Q1 FY27 analysis](https://futurumgroup.com/insights/dell-q1-fy-2027-ai-server-demand-drives-raised-fy-2027-outlook/)
+- [Enterprise DNA — Dell AI server revenue](https://enterprisedna.co/resources/news/dell-ai-server-record-q1-fy2027-2026/)
+- [Michael Dell FY25 Open Letter to Shareholders](https://stockholderletter.com/dell/)
+- [Bloomberg — AI server market](https://www.bloomberg.com/professional/insights/artificial-intelligence/dell-hpe-lenovo-look-to-ai-in-252-billion-server-market/)
 - [SEC EDGAR — Dell Form 4 filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001571996&type=4)
-- [Yahoo Finance — DELL quote](https://finance.yahoo.com/quote/DELL) (price 2026-04-24)
-- [Michael Dell FY25 Open Letter to Shareholders (aggregator)](https://stockholderletter.com/dell/) (May 16, 2025)
-- [Dell IR — SEC filings index](https://investors.delltechnologies.com/financial-information/sec-filings)
-- [Bloomberg — Dell, HPE, Lenovo AI server market](https://www.bloomberg.com/professional/insights/artificial-intelligence/dell-hpe-lenovo-look-to-ai-in-252-billion-server-market/)
-- [GMI — AI Server Market 2025–2034](https://www.gminsights.com/industry-analysis/ai-server-market)
-- [Network World / IDC — Dell leads server market](https://www.networkworld.com/article/4147841/idc-dell-leads-server-market-driven-by-ai-infrastructure-needs.html)
-- [TIKR — DELL FY2026 analysts $171 PT](https://www.tikr.com/blog/dell-closes-fy2026-with-record-113b-revenue-why-analysts-see-a-171-price)
-- [FinancialContent / Reuters — Dell March 2026 layoffs](https://www.financialcontent.com/article/barchart-2026-4-6-dell-announced-major-ai-driven-layoffs-in-march-2026-what-comes-next-for-dividend-paying-dell-stock)
-- [TipRanks — DELL forecast / insider feed](https://www.tipranks.com/stocks/dell/forecast)
-- [MarketBeat — DELL](https://www.marketbeat.com/stocks/NYSE/DELL/)
-- [BusinessWire — Dell Boost Run $1.44B AI deal](https://www.businesswire.com/portal/site/home/?ndmViewId=news_view&searchType=news&searchTerm=Dell+Boost+Run)
-- [Quiver Quantitative — DELL](https://www.quiverquant.com/stock/DELL)
-- [Futurum — Dell Q4 FY26 AI server analysis](https://futurumgroup.com/insights/dell-q4-fy-2026-earnings-highlight-ai-optimized-server-ramp/)

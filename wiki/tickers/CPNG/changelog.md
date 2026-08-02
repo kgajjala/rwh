@@ -4,6 +4,56 @@
 
 ---
 
+## [2026-08-02] — Korean Regulatory Cluster: PIPC ≈$410M + NTS Tax Assessment + Chaebol-Designation Injunction
+
+**Trigger**: A three-month window (baseline 2026-05-10) containing the densest regulatory sequence in the company's public history — PIPC fines announced June 10–11, National Tax Service preliminary assessment July 9, Seoul High Court injunction July 14 — plus a new 52-wk low of $14.92, a four-reading short-interest build, and the 10-Q disclosure that Q1 buybacks tripled. Q2 2026 earnings land August 4, two days out.
+
+**Sources reviewed**:
+- [8-K, June 11, 2026 (cpng-20260610)](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000056/cpng-20260610.htm) — **primary source for the fine structure**
+- [8-K, June 12, 2026 (cpng-20260611)](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000061/cpng-20260611.htm) — 2026 Annual Meeting results, Item 5.07
+- [Q1 2026 10-Q (cpng-20260331)](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000042/cpng-20260331.htm) + SEC XBRL company-concept API — buyback, cash, long-term debt
+- Six Form 4 filings dated 2026-06-12 (Toubassy, Child, Sharma, and three others) — all verified as Code A grants at $0, **not** open-market purchases
+- [Korea Herald](https://www.koreaherald.com/article/10808517) and [Korea JoongAng Daily](https://www.koreajoongangdaily.co.kr/business/seoul-court-suspends-ftc-order-naming-coupang-founder-controlling-entity/12772843) — "same person" injunction
+- [UPI](https://www.upi.com/Top_News/World-News/2026/06/11/Coupang-fined-6247-billion-won-over-massive-data-breach/6531781169687/), [The Record](https://therecord.media/south-korea-data-breach-record-fine-coupang) — PIPC fine context
+- [Seoul Economic Daily — KFTC delivery fines](https://en.sedaily.com/finance/2026/05/18/coupang-cj-logistics-among-5-delivery-firms-fined-307); [delivery-app settlement rejection](https://en.sedaily.com/finance/2026/06/18/korea-rejects-delivery-apps-360-billion-won-settlement)
+- [The Hill — House Judiciary report](https://thehill.com/opinion/international/6001341-house-report-south-korea/)
+- [Yahoo Finance](https://finance.yahoo.com/quote/CPNG) ($16.35, July 31 close); [stockanalysis.com statistics](https://stockanalysis.com/stocks/cpng/statistics/); [MarketBeat forecast](https://www.marketbeat.com/stocks/NYSE/CPNG/forecast/) and [short-interest history](https://www.marketbeat.com/stocks/NYSE/CPNG/short-interest/)
+
+**Source-quality note**: an early search surfaced a Nomura EPS-cut headline that on inspection dated to January 2026 — outside the window and already reflected. Excluded. Several aggregators also described the PIPC action as a single ≈$410M breach penalty; the 8-K shows otherwise, and the page follows the filing.
+
+### What Changed
+
+- **Header**: Last Updated 2026-05-10 → 2026-08-02; Live Price $16.98 → $16.35; 52-wk low reset $16.74 → **$14.92**
+- **Summary**: Rebuilt around the regulatory cluster. Verb line unchanged (🟡 Watch / 🟡 Hold) but the Watch rationale is now "spot is *in* the entry zone, wait for the Aug 4 print" rather than "valuation attractive, catalyst far away". KPI strip slot 3 switched from FY26E P/E to **EV/Sales ≈0.81×** (P/E meaningless at a TTM loss), slot 4 to the buyback
+- **Pivotal Question**: Reframed from operational to **jurisdictional** — the question is no longer whether the Korea moat survives an EBITDA trough but whether a US-listed owner can earn an adequate return on Korea's dominant retail platform given demonstrated state extraction capacity
+- **Key Stats**: Added the PIPC ≈$410M Q2 charge, the ≈$200M NTS assessment, and the Q1 buyback; corrected net cash to **≈$5.7B** derived from the 10-Q ($6.30B cash less $617M long-term debt) rather than the prior unsourced "≈$5B"; EV restated to ≈$28.44B
+- **§4 (Management)**: 💰 **[Outsider grade upgraded Reinvestor → Outsider-leaning](../../frameworks/outsiders.md)** on the 10-Q disclosure that Q1 2026 repurchases were **$391M / 20.4M shares at ≈$19.17** — a single quarter exceeding FY2025 ($243M) and FY2024 ($178M) individually, executed into a –50% drawdown. This is Thorndike's countercyclical test met directly. Per Rule #25 the grade is surfaced to the Summary as a material capital-allocation event. Bom Kim governance note updated for the injunction and his 97.7% re-election
+- **§5 (Growth)**: Buyback line corrected — ≈$634M of the $1B authorization now utilized (the prior "Q1 pace not disclosed" was wrong; it is in the 10-Q)
+- **§6 (Key Risks)**: Largest change on the page. Added 🔴 **Korean regulatory extraction as a recurring cost** at High impact / 60% / not priced in — the prior row read "KFTC structural remedy — Low–Medium, 25%, priced in, future fines likely <$50M", which the ≈$610M of 2026 actions decisively falsified. Bom Kim governance row marked ~~struck~~ ✅ **DE-RISKED** with the reversion condition stated
+- **§7 (Macro)**: Regulatory paragraph rewritten as the section's dominant variable — three state organs in one quarter, the President's public bankruptcy remark, the House Judiciary trade-friction angle. Conclusion added: Korean political risk belongs in the discount rate, not the risk appendix
+- **§8 (Valuation)**: Re-based to $16.35 / ≈$28.44B EV; EV/Sales ≈0.81×. Assessment now runs the recovery math both ways — FY2027 at ≈11× if extraction is non-recurring, ≈14× if ≈$400–600M/yr is the new steady state
+- **§9 (Catalyst & Sentiment)**: Full refresh. Consensus 5B/5H/2S, average $25.93 (range $17–$40); June–July actions are target trims within maintained ratings plus the CLSA initiation, so the sell-side is marking down price rather than thesis. **Short interest added as a four-row trend table** — 4.5% → 5.2% of float, +13.8% shares short, rising in every reading; the prior "low, not active shorting" read is retired. Insider section corrected to flag the June 12 Form 4 cluster as grants, not buys. Nine dated news items added; catalyst table rebuilt around the legal calendar
+- **§10 (BAIT)**: **Double (B+A) → Single (B)**. B held Strong. **A downgraded Strong → Moderate** — the analytical edge required the trough to be temporary and operational; a durable moat paired with an unquantifiable jurisdictional discount does not produce an estimable variant view. I held Moderate (the two-part fine structure is genuinely under-reported). T held Weak, with the offset that 4.35 days-to-cover gives a positive print covering fuel. Conviction Moderate → **Low-to-Moderate**
+- **§11 (Scenarios)**: Bear probability 25% → **30%**; Bull 22% → 19%; Bull+ 8% → 6%; Base held 45%. Targets trimmed for a structural regulatory drag: Base $22 → **$21**, Bull $36 → **$34**, Bull+ $48 → **$46**, Bear held $9. Each scenario now carries an explicit assumption about regulatory recurrence, which has replaced Korea growth as the primary spread between them
+- **§12 (PW EV)**: PW EV ≈$24 → **≈$21**; 5-yr return +41% → **+31%** (≈+5.5%/yr). Canonical **R/R ≈2.4:1** unchanged (≈4:1 with Bull+) — targets and price moved together
+- **§13 (Recommendation)**: Thesis sentence rewritten around the operational→jurisdictional shift. Entry zone **$14–18 → $16–18** (now derived mechanically from PW EV less MoS per Rule #24); trim zone $26–34 unchanged; exit >$40 unchanged. Thesis-break triggers rebuilt around the legal calendar — a fourth distinct regulatory action, NTS finalized at/above ₩300B, adverse "same person" ruling, buyback slowdown, short interest through 7%
+
+### Thesis Status
+
+- **Overall**: 🔴 **Weakened.** Not because the business deteriorated — the moat, the WOW flywheel and the balance sheet are all intact, and management's countercyclical buyback is a genuine positive — but because the *type* of risk changed. An operational trough is estimable and self-correcting; recurring state extraction in a jurisdiction where the head of government speaks of wanting the company to look bankrupt is neither. The prior page carried Korean regulatory risk at "future fines likely <$50M"; actual 2026 assessments total ≈$610M.
+- **BAIT delta**: Double (B+A) → **Single (B)**; conviction Moderate → Low-to-Moderate
+- **Price target delta**: Bear $9 (held) | Base $22 → $21 | Bull $36 → $34 | Bull+ $48 → $46 | PW EV ≈$24 → **≈$21**
+- **Catalyst & Sentiment delta**: consensus target $26.92 → $25.93; ratings stable with one new Outperform initiation (CLSA); **short interest 4.5% → 5.2% of float across four consecutive readings** — first sustained bearish build in this name
+
+### Recommendation
+
+- **For a non-holder**: 🟡 **Watch** — spot is inside the $16–18 entry zone and below both insider reference prices, but the Aug 4 print carries a known ≈$410M charge plus guidance. Two days of patience buys materially better information at roughly the same price.
+- **For a current holder**: 🟡 **Hold** — do not exit into a charge that is already known and provisioned against a ≈$5.7B net cash position; do not add before the print.
+
+**Next review trigger**: **Q2 2026 earnings — August 4, 2026** (after close). Watch the ≈$410M as booked, Korea Product Commerce CC growth vs. the +9–10% total guide, DO burn vs. $950M–$1B, survival of the 2027 margin-expansion commitment, Q2 buyback pace vs. Q1's $391M, any Farfetch mention, and how management characterizes the regulatory environment — one-time or ongoing.
+
+---
+
 ## [2026-05-10] — Q1 2026 Earnings + v2.8→v2.14 Schema Migration
 
 **Trigger**: Q1 2026 earnings printed May 5, 2026 (post-close); 8-K filed May 5, 2026. Stock declined ≈15% to $16.98 by May 10 on deeper EBITDA miss and Q2 margin headwind guidance. Two sell-side downgrades (Citi, Deutsche Bank) on May 6–7.

@@ -4,6 +4,55 @@
 
 ---
 
+## [2026-08-02] — Earnings Q2 2026 + Post-Print Re-Rate
+
+**Trigger**: Q2 2026 earnings printed July 22, 2026 (post-close). Revenue beat and set a record; non-GAAP EPS missed badly. Stock fell 14.5% on the print and ≈17% cumulatively, to $311.21 — within 4.7% of a new 52-wk low of $297.38. Broad sell-side target cuts July 23–28 with almost no rating downgrades.
+
+**Sources reviewed**:
+- [Q2 2026 Update — 8-K Ex-99.1, July 22, 2026](https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/exhibit991.htm) — all primary financials, operational metrics, GAAP/non-GAAP reconciliation
+- [Q2 2026 10-Q, July 23, 2026](https://www.sec.gov/Archives/edgar/data/1318605/000162828026049270/tsla-20260630.htm)
+- [Q2 2026 Production & Deliveries — 8-K Ex-99.1, July 2, 2026](https://www.sec.gov/Archives/edgar/data/1318605/000162828026046717/exhibit99111111.htm)
+- [Q2 2026 earnings call summary — Not a Tesla App](https://www.notateslaapp.com/news/4481/summary-of-teslas-2026-q2-earnings-call-cybercab-fsd-ai4-and-more)
+- [Electrek — Q2 2026 financial results](https://electrek.co/2026/07/22/tesla-tsla-q2-2026-financial-results/)
+- [Yahoo Finance — TSLA quote](https://finance.yahoo.com/quote/TSLA) (price $311.21, July 31, 2026 close)
+- [stockanalysis.com — TSLA statistics](https://stockanalysis.com/stocks/tsla/statistics/) (short interest 2.51% of float; EV, multiples)
+- [MarketBeat — TSLA forecast](https://www.marketbeat.com/stocks/NASDAQ/TSLA/forecast/) (45 analysts; avg target $402; rating-change history)
+- SEC EDGAR filing index — two Form 4s (June 9, June 17) and one Rule 144; no open-market insider buying
+
+### What Changed
+
+- **Header**: Last Updated 2026-04-26 → 2026-08-02; Live Price $376.30 → $311.21; 52-wk range rolled to $297.38–$498.83
+- **Summary**: Rebuilt around the Q2 split — top-line inflection vs. deliberate reinvestment trough; verb line changed to 🟢 Initiate (starter) / 🟡 Hold
+- **Key Stats**: Replaced FY2025/Q1 snapshot with the full Q2 2026 line — revenue $28.24B (+26%); deliveries 480,126 (+25%, Q2 record); production 451,758; days of supply 15 (from 27); total GM 16.8%; auto GM ex-credits 16.3%; operating margin 1.4%; non-GAAP EPS $0.33 vs. ≈$0.53 consensus; FCF –$1.09B; capex $5.79B (+142%); cash & ST investments $43.5B; regulatory credits $146M; energy 13.5 GWh (+41%); FSD subs 1.48M (+56%); next earnings Oct 21, 2026
+- **§1 (Annual Financial Metrics)**: Added Q2 2026 column and an auto-GM-ex-credits row; corrected the Q1 2026 operating-margin and GAAP-net-income cells against the primary reconciliation (4.2% and $0.48B; the prior cells carried ≈6.7% and the non-GAAP $1.45B). New prose flags that **GAAP net income of $1.11B contains ≈$1.04B of non-operating benefit** — a $763M net-of-tax SpaceX equity mark-up plus a $274M valuation-allowance release — so core GAAP earnings were roughly breakeven
+- **§2 (Revenue Mix)**: Re-based shares to Q2 2026; Services promoted to ≈16% of revenue at a record 14% GM; regulatory credits collapsed to 0.5% of revenue; flagged Energy volume (+41%) outrunning Energy revenue (+13%)
+- **§3 (Moat & Landscape)**: Refreshed differentiators — vertical integration now extends to cathode/lithium/semiconductors; Supercharger connectors 82,357 (+17%); replaced the stale Q1 21.1% GM evidence and the "Optimus Gen 3 SOP" peer framing
+- **§4 (Management)**: Added Q2 letter commentary — the explicit reinvestment framing, battery pack capacity named as the binding constraint on vehicle volume, and the Fremont Model S/X decommissioning. **Outsider grade held at Reinvestor** with sharper evidence: reinvesting pro-cyclically with no buyback offset at a 38% drawdown
+- **§5 (Growth)**: Rewrote all vectors to Q2 status — Cybercab in production at Giga Texas (rate matched to fleet demand by design); robotaxi at seven metros; Optimus lines installing at Fremont; Megafactory Texas nearing completion; Semi commissioning in Nevada; added the vertical-integration/compute build-out as its own vector
+- **§6 (Key Risks)**: Risk 2 (Q1 inventory build) marked ~~struck~~ ✅ **DE-RISKED**. Two **[NEW]** risks added under the Rule #23 filter — sustained negative FCF through the capex cycle (large discretionary), and the battery pack capacity ceiling on volume (not priced in). Musk risk extended to comp dilution now that the 2025 CEO Performance Award is a live opex line
+- **§8 (Valuation)**: Re-based to $311.21 / ≈$1.23T. Key finding: **the sell-off did not make the stock cheaper on earnings** — forward P/E rose ≈125× → ≈140× because EPS cuts outran the price decline, while EV/Revenue compressed ≈14.5× → ≈11.6×. FCF yield restated to ≈0.5% (the prior ≈4.4% figure was off by a factor of ten)
+- **§9 (Catalyst & Sentiment)**: Full refresh — consensus now 45 analysts, 1SB/22B/19H/4S, **Hold**, average target $402; documented the July 23 cut cluster (Truist $430→$370, Mizuho $460→$450, Cantor $510→$485, Piper $500→$450) alongside the June 5 upgrade cluster (Goldman Sell→Buy, Bernstein and Evercore to Outperform, BNP to Underperform); short interest **fell** to 2.51% of float (70.65M from 79.11M) — shorts covered into the decline; insider activity routine with no open-market buying; catalysts rebuilt around Oct 21 print, Optimus first units, Megapack 3, Semi, Phoenix/Las Vegas robotaxi
+- **§10 (BAIT)**: **Quad-Moderate → Double overlap (B + A Strong)**. B upgraded to Strong (7th-percentile price after a –14.5% reaction to a 26%-growth quarter; market treating voluntary spend as demand deterioration). A upgraded to Strong (regulatory-credit headwind spent at 0.6%; Services now a real business; inventory cleared) with the honest offset that GAAP earnings quality was worse than the headline. I held Moderate (robotaxi per-mile economics still undisclosed; SpaceX stake newly material and undiscussed). T cut to **Weak** (4.7% off the low, no support tested, no squeeze fuel)
+- **§11 (Scenarios)**: **Migrated from a 3-year (2028) to a 5-year (FY2031E) terminal horizon per Rule #24** — the page had not been compliant. Bull $700→**$850** (22%); Base $360→**$330** (48%); Bear $150→**$120** (30%, raised from 25% on the negative-FCF window). Base multiple reasoning made explicit: 50× persists because the story stays alive without resolving
+- **§12 (PW EV)**: PW EV $393 → **≈$381**; 5-yr return +22.5% (≈+4.1%/yr). Canonical **R/R ≈2.8:1** (from ≈1.4:1) — improvement driven by the price decline and the longer horizon, not by any upgrade to the scenarios
+- **§13 (Recommendation)**: Non-holder **Watch → 🟢 Initiate (starter position)** — spot entered the entry zone on the sell-off. Holder Hold (add below $300). Entry zone $280–320 → **$285–325** (PW EV less 15–25% MoS); trim zone $450–500 → **$500–700**; exit zone >$550 → **>$850**. Thesis-break triggers rebuilt around the new risk set (operating margin, FCF/cash floor, Optimus timing, robotaxi economics disclosure) and the resolved inventory trigger retired
+
+### Thesis Status
+
+- **Overall**: 🟡 **Unchanged in direction, materially repriced.** The three-engine thesis survives Q2 intact — the demand bear case did not appear and inventory cleared — but the earnings floor is gone for two to three years by management's own guidance. What improved is the price, not the fundamentals.
+- **BAIT delta**: Quadruple Moderate → **Double overlap (B + A)**; conviction Moderate → Moderate-to-High
+- **Price target delta**: Bull $700 → $850 | Base $360 → $330 | Bear $150 → $120 | PW EV $393 → ≈$381 (horizon 2028 → FY2031E)
+- **Catalyst & Sentiment delta**: Consensus target $405 mean → $402 average; consensus rating held at Hold through the cut cluster; short interest 1.82% → 2.51% of float on a *falling* share count as shorts covered into weakness
+
+### Recommendation
+
+- **For a non-holder**: 🟢 **Initiate (starter position)** — $311.21 sits at the top edge of the $285–325 entry zone. Scale in; technicals are weak and there is no earnings floor beneath the negative-FCF window.
+- **For a current holder**: 🟡 **Hold** — reinvestment case intact, demand case validated; add only below $300.
+
+**Next review trigger**: **Q3 2026 earnings — October 21, 2026** — operating-margin trough, FCF direction vs. the >$25B capex guide, first Optimus production units, auto GM ex-credits vs. 16.3%, Megapack 3 SOP, and any robotaxi per-mile economics disclosure.
+
+---
+
 ## [2026-05-31] — v3.0 Conciseness Rewrite
 
 **Trigger**: Schema v3.0 content-compliance pass — applying Rule #20 (synthesis over transcription), Rule #26 (state-once discipline, per-section word budgets), and v3.0 structural requirements.

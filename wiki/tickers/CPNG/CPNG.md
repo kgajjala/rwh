@@ -1,42 +1,42 @@
 # CPNG — Coupang, Inc.
 
 **Schema**: v3.0
-**Last Updated**: 2026-05-10
+**Last Updated**: 2026-08-02
 **Status**: Active
-**Live Price**: **$16.98** (2026-05-10, –1.39%) — [Yahoo Finance](https://finance.yahoo.com/quote/CPNG)
+**Live Price**: **$16.35** (2026-07-31 close, +1.62%) — [Yahoo Finance](https://finance.yahoo.com/quote/CPNG)
 
 ---
 
 ## Summary
 
-**Thesis**: Coupang owns the dominant e-commerce + logistics platform in Korea (Wide moat) — but the Q1 2026 print confirmed the thesis is in a trough recovery that will extend into Q2: revenue grew only +8% (total) / +5% CC (Product Commerce), adj EBITDA collapsed to $29M (0.3% margin) from $382M a year earlier, and management explicitly deferred margin recovery to 2027. The structural engine is intact — 80% WOW membership recovered by April, monthly growth improved Jan → Feb → Mar, gross-margin engine held — but the near-term multiple has no floor until DO burn narrows and Korea margin re-expands.
-🟡 **Non-holder**: Watch · 🟡 **Holder**: Hold
+**Thesis**: Coupang owns the dominant e-commerce + logistics platform in Korea (Wide moat), but the summer of 2026 converted Korean regulatory risk from a tail item into a **recurring structural cost** landing squarely on top of the existing EBITDA trough. The PIPC levied ≈$410M in fines — and critically, only $278M relates to the known data incident; the other $132M is a *separate* violation over an advertising data program. The National Tax Service followed with a ≈$200M preliminary assessment. Against this, management accelerated the buyback hard into the decline ($391M in Q1 alone, more than all of FY2025) and the courts suspended the KFTC's attempt to designate Bom Kim personally as the group's controlling person. The moat is untouched; the cost of operating it in Korea just went up.
+🟡 **Non-holder**: Watch — spot is in the entry zone, but a known charge prints Aug 4 · 🟡 **Holder**: Hold
 
 ### Scenario Table (5-year terminal, FY2030E)
 
 | 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|---|
-| $16.74 – $34.08 | $16.98 (≈2%) | $9 | <$18 | $22 / **$24** | $28 – $34 | $36 | **≈3:1** (Bear –47% / Bull +112%; rises to ≈4:1 with Bull+ $48) |
+| $14.92 – $34.08 | $16.35 (≈7%) | $9 | $16 – $18 | $21 / **≈$21** | $26 – $34 | $34 | **≈2.4:1** (Bear –45% / Bull +108%; rises to ≈4:1 with Bull+ $46) |
 
 ### KPI Strip
 
-| BAIT | Moat | FY26E P/E | FCF Yield (TTM) | Short int. | Next catalyst |
+| BAIT | Moat | EV/Sales (TTM) | Buyback | Short int. | Next catalyst |
 |---|---|---|---|---|---|
-| **Double** (B+A) | **Wide (Korea) / Narrow (rest)** | ≈35x | ≈1% (TTM FCF compressed) | ≈2.9% of float | Q2 2026 print (≈Aug 4, 2026) |
+| **Single** (B) | **Wide (Korea) / Narrow (rest)** | ≈0.81× | 💰 $391M in Q1 2026 | **5.2% of float** (rising) | 📅 Q2 2026 print (Aug 4, 2026) |
 
 ### Why / Why not / Next read
 
 🟢 **Why**:
-- 80% of WOW membership decline recovered by April; monthly Korea growth improved Jan → Feb → Mar — trough is demonstrably behind
-- Wide-moat Korean logistics infrastructure irreplicable; gross-margin engine held through Q1 (27.0% vs. 29.2% Q4 LY — the ≈228 bps delta is the voucher/underutilization drag, not structural)
-- $16.98 approaches 52-wk low $16.74 — at this level EV/Revenue ≈0.87x and the base case ($22) offers +30%, Bull ($36) +112%; net cash $5B+ funds all 2026 DO burn without dilution
+- 💰 **Countercyclical buyback**: $391M / 20.4M shares repurchased in Q1 2026 at ≈$19.17 average — more than FY2025 ($243M) and FY2024 ($178M) individually. Management is buying its own decline, alongside Greenoaks' 7.35M-share open-market purchase at $18.40–$18.68
+- ✅ Seoul High Court suspended the KFTC's designation of Bom Kim as the group's "same person" (controlling individual) on July 14 — the first such injunction for a US-listed CEO, removing a personal-liability overhang pending the main suit
+- At ≈0.81× EV/Sales for the #1 vertically integrated platform in a $160B market, with ≈$5.7B net cash (cash $6.30B vs. $617M long-term debt), the balance sheet absorbs every fine assessed and still funds the 2026 Developing Offerings burn
 
 ⚠️ **Why not**:
-- Management deferred margin expansion to 2027: Q2 guide implies another 300–400 bps contraction; 18+ months of EBITDA compression is a long time to hold a depressed multiple
-- Q1 EBITDA: $29M — if Q2 also guides to near-zero, consensus FY2026E EBITDA estimates of ≈$1.7–2.0B look stale and will compress further
-- Farfetch **entirely absent** from Q1 transcript — first time since acquisition; either stabilized (benign) or management is managing a quiet deterioration (bear risk)
+- ⚠️ **The $132M advertising-data fine is a new, separate violation** — not the known breach. It signals the regulatory surface is wider than one incident, and the ≈$410M total is recognized in Q2 OG&A, payable without stay during appeal and non-deductible
+- ⚠️ Korean political posture has turned adversarial in a way peers don't face — a ≈$200M NTS assessment on related-party and cross-border transactions, KFTC delivery-contract fines, and a rejected ₩360B delivery-app settlement all inside one quarter
+- Short interest is building against the trough: 4.5% → 5.2% of float since late May, +13.8% in shares short — the first sustained bearish positioning build in this name
 
-📅 **Next read**: Q2 2026 print (≈Aug 4, 2026) — does Korea Product Commerce CC growth reach double-digits? Does DO burn track $950M–$1B guide? Is Farfetch mentioned at all?
+📅 **Next read**: Q2 2026 print (**August 4, 2026**) — the ≈$410M charge is known; what matters is Korea Product Commerce CC growth vs. the +9–10% total guide, whether the FY2026 DO burn guide holds at $950M–$1B, whether the 2027 margin-expansion commitment survives contact with the fines, and whether Farfetch is mentioned at all.
 
 ---
 
@@ -54,9 +54,9 @@ Q1 2026 ($8.5B revenue, +8%) was the earnings impact of the data-incident overha
 
 ## Pivotal Investment Question
 
-> The Korean Rocket Delivery infrastructure is irreplicable, the WOW flywheel is recovering (80% of membership restored by April), and Coupang's net cash position ($5B+) funds the 2026 Developing Offerings burn comfortably. **But Q1 2026 revealed that the EBITDA trough is deeper and longer than the prior thesis assumed: $29M adj EBITDA (0.3% margin) with Q2 guiding another 300–400 bps contraction and margin recovery deferred to 2027.** Is the Korea moat durable enough to carry through an 18-month zero-EBITDA window — or does the extended compression trigger multiple-system reset below $14?
+> The Korean Rocket Delivery infrastructure is irreplicable and the WOW flywheel recovered 80% of its post-incident decline within five months — the moat is not in question. **The question is now jurisdictional rather than operational: can a US-listed company earn an adequate return operating Korea's dominant retail platform when the Korean state has demonstrated both the will and the instruments to extract ≈$600M in a single quarter — across a privacy regulator, a tax authority, and a competition regulator — while the President speaks publicly of making people think the company will go bankrupt?** Is this a one-time post-breach reckoning that clears, or the new steady-state cost of the moat?
 
-The bull case: "January was the Korea growth trough; WOW recovery proves moat is structural not transient; Taiwan's cohort retention resembles early Korea; 2027 margin expansion re-rates from trough multiples." The bear case: "DO burn extends without ROI clarity; Farfetch silently deteriorates; Korean demographic headwind compounds; multiple remains compressed at 8–10× FY27E EBITDA."
+The bull case: "The fines are quantified, provisioned and appealable; the court already suspended the chaebol designation; management is buying stock at these prices; Korea growth and 2027 margin expansion arrive on schedule and the multiple re-rates off a trough." The bear case: "Regulatory extraction is structural and recurring, permanently lowering Korean steady-state margin; the DO burn extends without ROI clarity; Farfetch silently deteriorates; the multiple stays compressed because the jurisdiction, not the business, is the discount."
 
 ---
 
@@ -64,15 +64,18 @@ The bull case: "January was the Korea growth trough; WOW recovery proves moat is
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$16.98** | 2026-05-10, –1.39% ([Yahoo Finance](https://finance.yahoo.com/quote/CPNG)) |
+| Live Price | **$16.35** | 2026-07-31 close, +1.62% ([Yahoo Finance](https://finance.yahoo.com/quote/CPNG)) |
 | 52-Week High | $34.08 | Late 2025 |
-| 52-Week Low | $16.74 | Early 2026 |
-| % From 52-Wk High | –50% | |
-| % Above 52-Wk Low | +1.4% | Near-term support test |
-| Market Cap | ≈$30.5B | [Yahoo Finance](https://finance.yahoo.com/quote/CPNG) |
-| Enterprise Value | ≈$29.5B | Less ≈$5B net cash; [Finviz](https://finviz.com/quote.ashx?t=CPNG) |
-| EV/Revenue (FY2025) | ≈0.87× | $29.5B / $34B |
-| EV/Revenue (FY2026E) | ≈0.78–0.80× | vs. $37B consensus |
+| 52-Week Low | **$14.92** | New low set July 2026 |
+| % From 52-Wk High | **–52%** | |
+| % Above 52-Wk Low | +9.6% | New low set during the July slide |
+| Market Cap | ≈$29.35B | [stockanalysis.com](https://stockanalysis.com/stocks/cpng/) |
+| Enterprise Value | ≈$28.44B | Cash $6.30B less $617M long-term debt (10-Q, 3/31/26) |
+| Revenue (TTM) | $35.13B | |
+| EV/Revenue (TTM) | ≈0.81× | |
+| 💰 Q1 2026 Buyback | **$391M / 20.4M shares** | ≈$19.17 avg; vs. $243M in all of FY2025 ([Q1 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000042/cpng-20260331.htm)) |
+| ⚠️ PIPC Fines (Q2 2026 charge) | **≈$410M** | $278M data incident + $132M *separate* advertising-data violation ([8-K, June 11, 2026](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000056/cpng-20260610.htm)) |
+| ⚠️ NTS Preliminary Tax Assessment | ≈$200M | ₩300B, notified July 9, 2026 |
 | Q1 2026 Total Revenue | $8.5B | +8% reported and CC ([8-K, May 5, 2026](https://www.stocktitan.net/sec-filings/CPNG/8-k-coupang-inc-reports-material-event-e31cba6cbdbf.html)) |
 | Q1 2026 Product Commerce | $7.2B | +4% reported; +5% CC |
 | Q1 2026 Developing Offerings | $1.3B | +28% reported |
@@ -87,9 +90,9 @@ The bull case: "January was the Korea growth trough; WOW recovery proves moat is
 | Q2 2026 CC Revenue Guide | +9–10% | Management guidance May 5, 2026 |
 | Q2 2026 EBITDA Margin Guide | –300–400 bps YoY | Underutilization + residual voucher tail |
 | FY2026 DO EBITDA Loss Guide | $950M–$1B | Unchanged from Q4 2025 guide |
-| Short Interest | ≈2.9% of float | 1.61 days-to-cover ([Finviz](https://finviz.com/quote.ashx?t=CPNG)) |
-| Analyst Consensus | Hold (4 Buy / 5 Hold / 2 Sell) | Median target $26.92 ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/CPNG/forecast/)) |
-| Next Earnings | 📅 **Aug 4, 2026** | Q2 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/CPNG)) |
+| Short Interest | **5.2% of float** | 80.77M shares; 4.35 days-to-cover; 4.5% on 5/29 ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/CPNG/short-interest/)) |
+| Analyst Consensus | Hold (5 Buy / 5 Hold / 2 Sell) | Average target $25.93; range $17–$40 ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/CPNG/forecast/)) |
+| Next Earnings | 📅 **Aug 4, 2026** | Q2 2026, after close ([Yahoo Finance](https://finance.yahoo.com/quote/CPNG)) |
 
 ---
 
@@ -205,7 +208,7 @@ The Korean e-commerce market is fragmented across listing marketplaces (Naver-le
 
 ## 4. Management & Leadership
 
-**Bom Suk Kim (Founder/CEO)**: Korean-American; Harvard / BCG; founded Coupang at 27. Long-duration thinker. Q1 2026 call: *"We're not going to dismantle [capacity] for temporary disruptions"* — consistent with 15-year framework. Note: Korean regulatory review of his governance designation was raised in Q1 analyst Q&A; no material disclosure beyond the question.
+**Bom Suk Kim (Founder/CEO)**: Korean-American; Harvard / BCG; founded Coupang at 27. Long-duration thinker. Q1 2026 call: *"We're not going to dismantle [capacity] for temporary disruptions"* — consistent with 15-year framework. ✅ The governance question raised in Q1 Q&A resolved favorably for now: the KFTC's April 2026 designation of Kim personally as the group's "same person" (its legally recognized controlling individual, displacing Coupang Inc.) was **suspended by injunction from the Seoul High Court on July 14, 2026** — the first such injunction granted to a US-listed CEO. The freeze runs until 30 days after judgment in the main cancellation suit, which has no hearing scheduled. Re-elected to the board June 11 with 97.7% support ([8-K Item 5.07](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000061/cpng-20260611.htm)).
 
 **Gaurav Anand (CFO)**: Capital allocation, IR; consistent messaging. Q1 2026: *"The levels of service and value we are able to consistently provide to customers...give us confidence that the recovery will continue to build through the year."*
 
@@ -213,13 +216,13 @@ The Korean e-commerce market is fragmented across listing marketplaces (Naver-le
 
 ### Capital Allocation Track Record
 
-**[Outsider grade](../../frameworks/outsiders.md) — Reinvestor**: Capital has flowed into building an insurmountable Korean logistics moat and expanding into Taiwan — IRR on that reinvestment is visible in the structural margin trajectory. Buybacks modest ($243M utilized vs. $1B authorization); no dividend. Build-don't-buy logic is Outsider-consistent when the reinvestment IRR is this high, though the Farfetch acquisition and measured pace on buybacks leave the profile in Reinvestor rather than Outsider territory.
+**[Outsider grade](../../frameworks/outsiders.md) — Outsider-leaning** *(upgraded from Reinvestor)*: The Q1 2026 10-Q disclosed **$391M of repurchases across 20.4M shares at ≈$19.17 average** — a single quarter exceeding all of FY2025 ($243M / 8.8M shares) and FY2024 ($178M / 10M shares), executed directly into a –50% drawdown while the business was printing near-zero EBITDA. That is Thorndike's core test — countercyclical buyback discipline funded from a strong balance sheet rather than from momentum — and it is corroborated by director Neil Mehta's 7.35M-share open-market purchase in the same window. What holds the grade short of full Outsider is the Farfetch acquisition's unproven return and the absence of any disclosed hurdle-rate framework for the Developing Offerings burn.
 
 - **Korea logistics build-out**: ≈$10B+ cumulative; world-class moat
 - **Taiwan expansion (2022+)**: ≈$400M+ cumulative; own last-mile covers "vast majority" of volume
 - **Farfetch acquisition (January 2024)**: ≈$500M + debt; first positive YoY growth Q4 2025; silent in Q1 2026
 - **WOW pricing increase (2024)**: pricing power demonstrated; minimal churn
-- 💰 **Buyback ($1B authorization)**: Pace and amount in Q1 2026 not separately disclosed in transcript; prior: $243M utilized as of Q4 2025
+- 💰 **Buyback ($1B authorization)**: ≈$634M cumulative utilized — $243M through FY2025 plus **$391M in Q1 2026 alone** ([Q1 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000042/cpng-20260331.htm)). Pace tripled as the price fell
 
 ### Recent Management Commentary — Primary Source Synthesis
 
@@ -240,7 +243,7 @@ FY2021–FY2024: "Build the moat — absorb GAAP losses for long-duration logist
 6. **Coupang Eats / Play**: Eats gaining share vs. Baemin; Play has Paramount+ Korean exclusivity + sports rights
 7. **Korean fintech (Coupang Pay)**: Embedded financial-services scale-up
 8. **Advertising**: High-margin, fast-growing; Amazon analog
-9. 💰 **$1B buyback**: $243M of $1B utilized as of Q4 2025; Q1 2026 pace not separately disclosed
+9. 💰 **$1B buyback**: ≈$634M utilized — pace tripled to $391M in Q1 2026 alone at ≈$19.17 average (§4)
 
 ---
 
@@ -253,12 +256,12 @@ Filtered for risks material to the investment decision per Rule #23. Universal b
 | ⚠️ **EBITDA trough deeper / longer than guided — DO burn does not taper in 2027** *(Rule #23(d))* | High | 35% | **Partially priced in** | Q1 adj EBITDA $29M vs. $382M a year ago. Management guided Q2 EBITDA margin –300–400 bps YoY and deferred expansion to 2027. If FY2027 does not see meaningful EBITDA inflection, the $950M–$1B DO burn extends and re-prices the multiple toward Bear case ($9–11). |
 | ⚠️ **Farfetch silent deterioration** | Medium-High | 30% | **Not priced in** | Farfetch was not mentioned in Q1 2026 transcript — first time since acquisition. Either performance is benign (stabilized), or management is managing a quiet deterioration. If Farfetch slips back to negative YoY growth, the turnaround narrative is invalidated and the $500M acquisition cost becomes an impairment trigger. |
 | ⚠️ **Korea engagement recovery proves slower than guided** | High | 25% | **Partially priced in** | 80% WOW membership recovery by April is encouraging; but Q1 Product Commerce CC growth of +5% is still weak, and Q2 guides +9–10% total CC (not segment-level). If Q2 Korea Product Commerce CC does not reach high-single-digits, breach overhang is multi-year, not 2-quarter. |
+| 🔴 **Korean regulatory extraction as a recurring cost of doing business** *(Rule #23(a), (b))* **[NEW — materially escalated]** | High | **60%** | **Not priced in** | ≈$610M of assessments across three state organs in a single quarter (itemized in §9), one of them for a violation unrelated to the data incident. Coupang is peer-differentiated here — a US-listed foreign owner of critical domestic infrastructure, which a [July 2026 House Judiciary report](https://thehill.com/opinion/international/6001341-house-report-south-korea/) alleges draws disproportionate enforcement. Fines are **not stayed during appeal and are not tax-deductible**. If this rate proves recurring rather than post-breach, Korean steady-state margin is structurally lower and the multiple never re-rates. |
 | ⚠️ **Korean demographic / consumer-confidence headwind** | Medium | 60% (long horizon) | Partially | Korean fertility ≈0.78; population peaks ≈2030. Caps long-term Korean retail TAM. Already in consensus. |
 | **KRW/USD FX persistent weakness** | Medium | 50% | Yes | Compresses USD-reported revenue 5–10% annually. In consensus FY26 estimates. |
 | **AliExpress / cross-border price competition** | Medium | 40% | Not priced in | Cheap-goods wedge in price-sensitive categories. Explicitly raised in Q1 2026 Q&A. Coupang's moat in mid/high-quality undisturbed but tail risk if aggregate Korean e-commerce pricing power compresses. |
 | **Naver vertical-search escalation** | Medium | 25% | Not priced in | Credible Korean competitive escalation. Not happening currently; strategic-distance metric to track. |
-| **KFTC structural remedy / further fines** | Low–Medium | 25% | Yes | $121M FY2024 fine resolved largest historical case. Future fines likely <$50M. |
-| **CEO Bom Kim governance / Korean regulatory review** | Low-Medium | 20% | Not priced in | Raised in Q1 analyst Q&A; no material disclosure. Monitor. |
+| ~~**CEO Bom Kim governance / "same person" designation**~~ | — | — | — | ✅ **DE-RISKED [2026-07-14]** — Seoul High Court injunction suspends the KFTC designation pending the main suit (§4). Reverts to a live risk if the cancellation suit fails. |
 
 **Risk Factor Evolution — multi-year synthesis**: Reading the FY2021–FY2024 10-K Item 1A diff, the most material evolution is the emergence of cross-border platform competition risk (AliExpress / Temu) first appearing FY2023 and upgraded to top-five impact by FY2024. The Farfetch integration risk emerged FY2023 post-acquisition close. Capacity-constraint language strengthened across FY2022–FY2024, signaling operational maturity of the Korean logistics moat. Most conspicuously, the FY2024 10-K cybersecurity language was generic; the December 2025 incident was not foreshadowed, validating that idiosyncratic operational events rather than structural risk-factor evolution are the primary near-term drivers.
 
@@ -278,24 +281,24 @@ Filtered for risks material to the investment decision per Rule #23. Universal b
 
 **Korean macro headwinds**: Lowest fertility rate globally (≈0.78); population peaks ≈2030; long-term retail TAM growth caps.
 
-**Regulatory environment**: KFTC active; largest judgment ($121M FY2024) resolved. Korean labor enforcement on logistics workers is the live regulatory tail. Bom Kim's Korean governance designation under regulatory review — monitor.
+**Regulatory environment** — the dominant macro variable in this name as of mid-2026. Three separate Korean state organs acted against Coupang inside one quarter: the PIPC (≈$410M in privacy fines), the National Tax Service (≈$200M preliminary assessment following a six-month audit of intra-group and cross-border transactions), and the KFTC (delivery-contract fines, a rejected ₩360B delivery-app settlement, and the now-suspended attempt to designate Bom Kim personally as controlling person). The prior ₩134.8B record privacy penalty in Korea was exceeded nearly fivefold by the Coupang fine alone. President Lee Jae-myung has spoken publicly about wanting the company to appear headed for bankruptcy, and a July 2026 US House Judiciary Committee report characterizes the treatment of US firms in Korea as discriminatory — putting this on a trade-friction axis Coupang cannot manage on its own. Korean labor enforcement on logistics workers remains a further live tail. **The investment consequence is that Korean political risk now belongs in the discount rate, not the risk appendix.**
 
 ---
 
 ## 8. Valuation & Comparable Analysis
 
-### Current Multiples (2026-05-10, $16.98 / ≈$30.5B market cap)
+### Current Multiples (2026-07-31, $16.35 / ≈$29.35B market cap)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Market Cap | ≈$30.5B | ≈1.8B diluted × $16.98 ([Yahoo Finance](https://finance.yahoo.com/quote/CPNG)) |
-| Enterprise Value | ≈$29.5B | Less ≈$5B net cash ([Finviz](https://finviz.com/quote.ashx?t=CPNG)) |
-| EV / Revenue (FY2025) | ≈0.87× | $29.5B / $34B |
-| EV / Revenue (FY2026E) | ≈0.78–0.80× | $29.5B / $37.8B consensus |
-| EV / Adj EBITDA (FY2025) | ≈20× | Distorted by Q4 voucher + Q1 collapse |
-| EV / Adj EBITDA (FY2026E) | ≈20–22× | $29.5B / ≈$1.3–1.5B *[Estimate; compressed by Q1–Q2 drag]* |
-| Forward P/E | ≈35× | [Finviz](https://finviz.com/quote.ashx?t=CPNG) |
-| FCF yield (TTM) | ≈1% | TTM FCF $301M / $30.5B market cap |
+| Market Cap | ≈$29.35B | 1.80B shares × $16.35 ([stockanalysis.com](https://stockanalysis.com/stocks/cpng/statistics/)) |
+| Enterprise Value | ≈$28.44B | Cash $6.30B less $617M long-term debt (10-Q, 3/31/26) |
+| EV / Revenue (TTM $35.13B) | **≈0.81×** | Lowest in the global e-commerce peer set ex-China |
+| EV / Revenue (FY2026E) | ≈0.75× | vs. ≈$37.8B consensus |
+| EV / Adj EBITDA (TTM) | ≈46× | Denominator is the trough, not the multiple |
+| EV / Adj EBITDA (FY2026E) | ≈22–25× | ≈$1.1–1.3B *[Estimate; now includes the ≈$410M Q2 charge]* |
+| P/S (TTM) | ≈0.84× | |
+| Net cash | ≈$5.7B | ≈19% of market cap; funds every assessed fine plus the FY2026 DO burn |
 
 ### Peer Comparison
 
@@ -308,7 +311,7 @@ Filtered for risks material to the investment decision per Rule #23. Universal b
 | SE | ≈2× | ≈18× | SEA e-commerce + gaming |
 | JD | ≈0.4× | ≈8× | China |
 
-**Assessment**: CPNG trades at the low end of global e-commerce on EV/Revenue and at a premium on EV/EBITDA because the EBITDA denominator is temporarily compressed. If FY2027 adj EBITDA recovers toward $2.5B+, the current EV of $29.5B represents ≈12× FY2027E — reasonable for a Wide-moat Korea platform with Taiwan optionality. The immediate catalyst for multiple expansion is any Q2 2026 print that demonstrates Korea Product Commerce growing at double-digit CC rates.
+**Assessment**: CPNG trades at the low end of global e-commerce on EV/Revenue and at a large premium on EV/EBITDA because the EBITDA denominator is the trough. If FY2027 adj EBITDA recovers toward $2.5B, today's ≈$28.4B EV is ≈11× FY2027E — undemanding for a Wide-moat platform with Taiwan optionality. The honest complication added this quarter: that recovery math assumes Korean regulatory extraction is non-recurring. If instead ≈$400–600M/yr is the new steady state, FY2027 EBITDA lands closer to $2.0B and the same EV is ≈14× — still not expensive, but no longer the deep-value case the EV/Sales multiple implies. **The stock is cheap on sales and unresolvable on earnings until the jurisdictional question settles**, which is why §11 scenarios rather than a spot multiple carry the valuation work.
 
 ---
 
@@ -316,98 +319,104 @@ Filtered for risks material to the investment decision per Rule #23. Universal b
 
 ### Live Price & Positioning
 
-- **Price**: $16.98 (2026-05-10, [Yahoo Finance](https://finance.yahoo.com/quote/CPNG))
-- **52-week range**: $16.74 – $34.08
-- **% from 52-wk high**: –50%
-- **% above 52-wk low**: +1.4% — testing near-term support
-- **Market cap**: ≈$30.5B
-- **YTD performance**: –28%
-- **1-year performance**: –34%
+- **Price**: $16.35 (2026-07-31 close, [Yahoo Finance](https://finance.yahoo.com/quote/CPNG))
+- **52-week range**: **$14.92 – $34.08** — low reset from $16.74 during the July slide
+- **% from 52-wk high**: –52%
+- **% above 52-wk low**: +9.6%
+- **Market cap**: ≈$29.35B
+- **1-year performance**: ≈–44%
+- July featured a seven-session losing streak totalling ≈–14%, straddling the NTS tax assessment (July 9)
 
-### Analyst Consensus (post-Q1 2026)
+### Analyst Consensus
 
-- **Aggregate rating**: 🟡 Hold (4 Buy / 5 Hold / 2 Sell) — downgraded vs. prior Strong Buy ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/CPNG/forecast/))
-- **Consensus target**: $26.92 (≈+58% implied upside from $16.98)
-- **Target range**: $22–$30 after post-Q1 revisions
+- **Aggregate rating**: 🟡 Hold (5 Buy / 5 Hold / 2 Sell) ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/CPNG/forecast/))
+- **Consensus target**: $25.93 (≈+59% implied upside from $16.35)
+- **Target range**: $17 – $40 — dispersion widened as the regulatory outcome became the swing factor
 
 Recent analyst actions:
 
 | Date | Firm | Action | Rating | Target |
 |---|---|---|---|---|
+| 2026-07-29 | Mizuho (James Lee) | Target cut | Neutral | $24.00 (from $25) |
+| 2026-07-09 | Goldman Sachs | Target set | — | $31.00 |
+| 2026-07-07 | Barclays (Jiong Shao) | Reiterate | Overweight | $29.00 |
+| 2026-06-24 | BofA Securities (Ahyung Cho) | Target cut | Buy | $27.00 (from $28) |
+| 2026-06-15 | CLSA (Danny Lee) | **Initiate** | Outperform | $24.00 |
 | 2026-05-07 | Citigroup | Downgrade | Buy → Neutral | $22.20 (from $23) |
 | 2026-05-06 | Deutsche Bank | Downgrade | Buy → Hold | $23.00 |
-| 2026-05-07 | Barclays | Maintain | Overweight | $30.00 |
-| 2026-05-07 | BofA Securities | Maintain | Buy | $28.00 |
-| 2026-05-07 | Morgan Stanley | Target cut | Overweight | $28.00 (from $29) |
-| 2026-03-02 | Nomura | Target lower | Neutral | $20.00 (from $22) |
-| 2026-04-23 | Barclays | Target boost | Overweight | $30.00 (from $24) |
 
-*Sources: [MarketBeat CPNG forecast](https://www.marketbeat.com/stocks/NYSE/CPNG/forecast/); [Investing.com — Morgan Stanley cut](https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-coupang-stock-price-target-on-margin-outlook-93CH-4663575)*
+*Source: [MarketBeat CPNG forecast](https://www.marketbeat.com/stocks/NYSE/CPNG/forecast/)*
 
-Cluster read: Two downgrades (Citi + Deutsche Bank) on May 6–7 post-Q1 is a meaningful sentiment shift — Buy consensus collapsed to Hold-leaning. This is a Meaningful Event per schema (cluster ≥2 in a week with directional convergence).
+Cluster read: no rating downgrades since the May Citi/Deutsche Bank pair — the June–July actions are target trims within maintained ratings, plus a fresh CLSA initiation at Outperform calling the sell-off overdone. The sell-side is marking down price, not thesis, and every published target sits above spot.
 
 ### Short Interest
 
-- **Latest**: ≈2.9% of float; 1.61 days-to-cover ([Finviz](https://finviz.com/quote.ashx?t=CPNG))
-- **Interpretation**: Low; still "long capitulation" rather than active shorting. Not a short-squeeze setup.
+| Settlement date | Shares short | % of float | Days to cover |
+|---|---|---|---|
+| 2026-05-29 | 70.99M | 4.5% | 3.11 |
+| 2026-06-15 | 77.10M | 4.9% | 2.37 |
+| 2026-06-30 | 79.87M | 5.1% | 3.69 |
+| **2026-07-15** | **80.77M** | **5.2%** | **4.35** |
+
+*Source: [MarketBeat CPNG short interest](https://www.marketbeat.com/stocks/NYSE/CPNG/short-interest/)*
+
+⚠️ **Interpretation**: a sustained four-period build — +13.8% in shares short across the window, rising in every reading. This is the first genuine bearish positioning build in this name; the prior read of "long capitulation rather than active shorting" no longer holds. Days-to-cover of 4.35 is high enough to matter on a positive surprise, so the Aug 4 print now cuts both ways.
 
 ### Insider Activity (Last 90 Days)
 
-- **Neil Mehta / Greenoaks Capital** (Director): Purchased 7,350,104 shares open-market March 11–13, 2026 at ≈$18.40–$18.68/share ([StockTitan Form 4](https://www.stocktitan.net/sec-filings/CPNG/form-4-coupang-inc-insider-trading-activity-c035d8ad4bac.html)) — largest single insider buy cluster in CPNG's public-company history; directional signal that a sophisticated insider views $18–19 as intrinsic-value territory
-- **Gaurav Anand (CFO)**: RSU grant — 260,402 units, quarterly vest starting July 1, 2026 ([Form 4](https://www.stocktitan.net/sec-filings/CPNG/form-4-coupang-inc-insider-trading-activity-9a2d899e65aa.html))
-- **HL Rogers**: RSU grant — 213,884 units, quarterly vest starting July 1, 2026
+- **Neil Mehta / Greenoaks Capital** (Director): Purchased 7,350,104 shares open-market March 11–13, 2026 at ≈$18.40–$18.68/share ([StockTitan Form 4](https://www.stocktitan.net/sec-filings/CPNG/form-4-coupang-inc-insider-trading-activity-c035d8ad4bac.html)) — largest single insider buy cluster in CPNG's public-company history
+- **[2026-06-12] Director equity cluster** — six Form 4s filed for the June 11 annual grant (Toubassy 19,565; Child 21,304; Sharma 17,971 and others), all Code A **awards at $0**, not open-market purchases ([SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001834584&type=4))
 - **Bom Kim**: No open-market activity disclosed
-- **Company buyback**: Q1 2026 pace not separately disclosed; $243M of $1B utilized as of Q4 2025
+- 💰 **Company buyback**: **$391M / 20.4M shares in Q1 2026** at ≈$19.17 average — the most meaningful insider-side signal in the window (§4)
 
 ### Recent Corporate News (Last 90 Days)
 
-- 📉 **[2026-05-05] [Earnings]** — Q1 2026: Revenue $8.5B (+8% CC); Product Commerce $7.2B (+5% CC); DO $1.3B (+28%); gross margin 27.0% (–228 bps); adj EBITDA $29M (0.3%); net loss –$266M; EPS –$0.15 (missed –$0.06 vs. est.); active customers 23.9M; 80% WOW recovery by April; Q2 guide +9–10% CC / –300–400 bps EBITDA margin YoY; 2027 margin expansion target ([8-K May 5, 2026](https://www.stocktitan.net/sec-filings/CPNG/8-k-coupang-inc-reports-material-event-e31cba6cbdbf.html); [Motley Fool transcript](https://www.fool.com/earnings/call-transcripts/2026/05/05/coupang-cpng-q1-2026-earnings-transcript/))
-- 📉 **[2026-05-06/07] [Analyst]** — Citi downgrade Buy → Neutral ($22.20); Deutsche Bank downgrade Buy → Hold ($23); Morgan Stanley cut target to $28 (Overweight); Barclays maintain Overweight $30; BofA maintain Buy $28 ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/CPNG/forecast/))
-- 🟢 **[2026-03-11/13] [Insider]** — Greenoaks/Neil Mehta open-market purchase 7.35M shares at ≈$18.40–$18.68 ([StockTitan](https://www.stocktitan.net/sec-filings/CPNG/form-4-coupang-inc-insider-trading-activity-c035d8ad4bac.html))
-- ⚠️ **[2025-12-16] [Operational]** — 33M-account data incident disclosed; Mandiant + Palo Alto Networks forensic investigation confirmed no sensitive financial data or passwords compromised; 3,000 Korean accounts retained ([EDGAR 8-K/A cpng-20251215](https://www.sec.gov/Archives/edgar/data/1834584/000183458425000202/cpng-20251215.htm))
-- **[2025-11-04] [Earnings]** — Q3 2025: Revenue $9.3B (+18% CC); op income $162M ([Q3 PR](https://ir.aboutcoupang.com/news-events/news/news-details/2025/Coupang-Announces-Results-for-Third-Quarter-2025/default.aspx))
+- 🔴 **[2026-07-09] [Regulatory]** — National Tax Service issued a **preliminary tax assessment of ≈₩300B (≈$200M)** after a six-month audit of transactions between Coupang and its fulfillment subsidiary and cross-border dealings with the US parent
+- ✅ **[2026-07-14] [Legal]** — Seoul High Court granted an injunction **suspending the KFTC's designation of Bom Kim as the group's "same person"** — first for a US-listed CEO; holds until 30 days after judgment in the main suit ([Korea Herald](https://www.koreaherald.com/article/10808517); [Korea JoongAng Daily](https://www.koreajoongangdaily.co.kr/business/seoul-court-suspends-ftc-order-naming-coupang-founder-controlling-entity/12772843))
+- 🔴 **[2026-06-10/11] [Regulatory]** — PIPC announced **≈$410M in administrative fines**: $278M for the November 2025 data incident plus **$132M for a separate, unrelated violation** concerning collection and storage of data for a third-party advertising program. Recognized in Q2 2026 OG&A; Coupang "will vigorously pursue judicial relief in the Seoul Administrative Court"; payments **not automatically stayed** during appeal and **not tax-deductible** ([8-K, June 11, 2026](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000056/cpng-20260610.htm))
+- 🟡 **[2026-06-11] [Governance]** — 2026 Annual Meeting: all seven directors elected (Bom Kim 97.7% for), Samil PwC ratified, say-on-pay approved; 91.2% of voting power present ([8-K Item 5.07](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000061/cpng-20260611.htm))
+- 🟢 **[2026-06-15] [Analyst]** — CLSA initiated Outperform, $24 target, calling the data-breach sell-off overdone and pointing to 2H 2026 for re-rating
+- 🔴 **[2026-06-18] [Regulatory]** — Korean authorities rejected delivery platforms' ₩360B settlement offers, setting up an antitrust showdown that includes Coupang Eats ([Seoul Economic Daily](https://en.sedaily.com/finance/2026/06/18/korea-rejects-delivery-apps-360-billion-won-settlement))
+- 🔴 **[2026-05-18] [Regulatory]** — KFTC fined five delivery firms including Coupang and CJ Logistics a combined ₩30.7B over unfair delivery contracts ([Seoul Economic Daily](https://en.sedaily.com/finance/2026/05/18/coupang-cj-logistics-among-5-delivery-firms-fined-307))
+- 🟡 **[2026-07-01] [Political]** — US House Judiciary Committee report alleges South Korea subjects US firms including Coupang to discriminatory enforcement ([The Hill](https://thehill.com/opinion/international/6001341-house-report-south-korea/))
+- 🟢 **[2026-07-28] [Corporate]** — Named to the Fortune Global 500 for the first time (No. 132 on the Fortune 500 in June) on FY2025 revenue of $34.5B
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |---|---|---|
-| 📅 **2026-08-04** | **Q2 2026 earnings** | Key read: Korea Product Commerce CC growth (does it reach double-digits?); DO burn pace; Farfetch any mention; Q3 guide; margin expansion timeline |
-| H2 2026 | Korea margin recovery check | Core thesis confirmation if Korea gross margin recovers toward 29%+ |
-| H2 2026 | Taiwan unit economics inflection | DO burn justification requires Taiwan showing cohort-level profitability trajectory |
-| H2 2026 | Farfetch update | Silence in Q1 needs resolution — either confirm positive YoY or disclose deterioration |
-| Ongoing | Buyback execution pace Q1 2026 | Q1 2026 amount not disclosed; confirmation of continued pace signals intrinsic-value conviction |
-| Ongoing | KFTC + breach litigation | Tail risk; Bom Kim governance regulatory review |
+| 📅 **2026-08-04** | **Q2 2026 earnings** | The ≈$410M charge is known; the reads are Korea Product Commerce CC growth vs. the +9–10% total guide, DO burn vs. $950M–$1B, survival of the 2027 margin-expansion commitment, buyback pace, and any Farfetch mention |
+| H2 2026 | Seoul Administrative Court — PIPC appeal | Any reduction of the ≈$410M is a direct cash and sentiment recovery; fines are payable meanwhile |
+| H2 2026 | NTS assessment finalization | ≈$200M preliminary; final amount and whether Coupang contests |
+| No date set | "Same person" cancellation suit | Injunction holds only until 30 days post-judgment; an adverse ruling restores personal-liability overhang |
+| H2 2026 | Delivery-app antitrust resolution | Post-rejection of the ₩360B settlement; quantum unknown |
+| H2 2026 | Taiwan unit economics inflection | DO burn justification requires cohort-level profitability trajectory |
+| H2 2026 | Farfetch update | Silence since Q4 2025 needs resolution |
 
 ---
 
 ## 10. BAIT Framework
 
 ### B — Behavioral: **Strong**
-Stock is –50% from 52-wk high, within 2% of 52-wk low. Two sell-side downgrades post-Q1 (Citi + Deutsche Bank). Q1 EPS miss –60% vs. consensus. EBITDA collapsed from $382M to $29M. The behavioral setup is among the most extreme in the wiki — capitulation + breach narrative + margin compression + guidance deferral all compounding. Expectation is rock-bottom.
+–52% from the 52-wk high, a fresh low at $14.92, a seven-session losing streak, and ≈0.81× EV/Sales for the #1 platform in its market. Expectations are at rock bottom, and the two most informed buyers — the company itself at ≈$19.17 and a director at $18.40–$18.68 — have both bought above the current price. The behavioral setup remains among the most extreme in the wiki.
 
-### A — Analytical: **Strong**
-- 80% of WOW membership recovered by April — structural stickiness demonstrated within 5 months of a 33M-account breach
-- Monthly Korea Product Commerce growth improved Jan → Feb → Mar — trajectory is positive even if levels are weak
-- Q1 gross margin 27.0% vs. Q4 LY 29.2%: the 228 bps gap is voucher netting + underutilization — both temporary and management-acknowledged
-- Net cash ≈$5B funds entire FY2026 DO burn; no dilution risk
-- Greenoaks/Neil Mehta open-market purchase of 7.35M shares at $18.40–$18.68 in March 2026 is the clearest non-founder intrinsic-value signal
-- Korea moat: no Korean competitor has 70% population coverage within 7 miles; logistics moat requires ≈$10B and 10+ years to replicate
+### A — Analytical: **Moderate** *(downgraded from Strong)*
+The analytical edge rested on the trough being *temporary and operational*. That premise is now partly broken. What still supports it: WOW membership recovered 80% within five months of the breach; the Korean logistics moat is unreplicated; net cash ≈$5.7B absorbs every assessed fine without dilution; and the $132M advertising-data fine plus the ≈$200M tax assessment are one-time in form. What undercuts it: three separate state organs acted inside one quarter, the Korean political posture is openly adversarial, and neither the recurrence rate nor the terminal cost is knowable from outside. An analytical edge requires a variant view that is *estimable* — the durable, quantified moat is now paired with an unquantifiable jurisdictional discount, and that combination is Moderate, not Strong.
 
 ### I — Informational: **Moderate**
-- Korea-language earnings disclosures + competitive context underutilized in U.S. coverage
-- "Cohort retention behavior is reminiscent of what we saw in the early years of Product Commerce in Korea" (Taiwan, Q1 2026) is a high-signal management admission buried in transcript prose
-- Farfetch silence in Q1 transcript is an informational gap — could be benign or material
-- Greenoaks Form 4 purchase at $18+ is underweighted in coverage
+- The two-part structure of the PIPC fine (§9) is under-reported — most coverage treats it as a single breach penalty, missing that a third of it is an unrelated violation and therefore a signal about regulatory surface area rather than about the breach
+- Korean-language regulatory and political context is systematically underweighted in US coverage
+- The Q1 buyback tripling to $391M sits in the 10-Q, not the transcript, and is largely undiscussed
+- Farfetch silence since Q4 2025 remains an unresolved gap
 
 ### T — Technical: **Weak**
-- Within 2% of 52-wk low — capitulation floor or breakdown imminent
-- Two fresh downgrades (Citi + DB) create technical overhang
-- Analyst consensus shifted to Hold (4B/5H/2S) — sell-side not a tailwind
-- Low short interest (2.9%) — no squeeze setup
-- Q2 2026 print is 3 months away — long time in trough for retail holders
+- Fresh 52-wk low at $14.92; no support tested beneath
+- ⚠️ Short interest building in every reading since late May (4.5% → 5.2% of float; +13.8% shares short) — the first sustained bearish positioning build in this name
+- Offsetting: days-to-cover rose to 4.35, so a positive Aug 4 surprise now has covering fuel behind it — the print cuts both ways
+- Sell-side targets all sit above spot, but ratings are static at Hold
 
 ### BAIT Verdict
-**Double overlap (B Strong + A Strong), I Moderate, T Weak.** Conviction **Moderate**. The behavioral + analytical case is compelling at $16.98 / near the 52-wk low, but the extended EBITDA trough (Q1 confirmed + Q2 guided) and Farfetch uncertainty push conviction below High. The Greenoaks insider buy at $18.40–$18.68 provides an external intrinsic-value reference — current $16.98 is below that insider entry.
+**Single overlap (B Strong), A/I Moderate, T Weak** — down from Double (B+A). Conviction **Low-to-Moderate**. The price is genuinely distressed and both insider references sit above it, but the analytical lens no longer offers a clean variant view: the moat is intact and the jurisdiction is the problem, and jurisdictional risk resists the kind of estimation that produces conviction.
 
 ---
 
@@ -415,37 +424,39 @@ Stock is –50% from 52-wk high, within 2% of 52-wk low. Two sell-side downgrade
 
 *All scenarios use a 5-year terminal horizon (FY2030E). Probabilities sum to 100%.*
 
-| Scenario | FY2030E EBITDA | EV/EBITDA | Price Target | Return from $16.98 | Probability |
+| Scenario | FY2030E EBITDA | EV/EBITDA | Price Target | Return from $16.35 | Probability |
 |---|---|---|---|---|---|
-| Bear | $1.8B | 9× | $9 | **–47%** | 25% |
-| Base | $3.2B | 12× | $22 | **+30%** | 45% |
-| Bull | $4.2B | 16× | $36 | **+112%** | 22% |
-| Bull+ | $5.0B | 18× | $48 | **+183%** | 8% |
+| Bear | $1.8B | 9× | $9 | **–45%** | **30%** |
+| Base | $3.0B | 12× | $21 | **+28%** | 45% |
+| Bull | $4.0B | 16× | $34 | **+108%** | **19%** |
+| Bull+ | $4.8B | 18× | $46 | **+181%** | **6%** |
+
+Every scenario now carries an explicit assumption about the recurrence of Korean regulatory cost — that variable, rather than Korea growth, has become the primary spread between them.
 
 ### Bear Case ($9) requires
+- **Regulatory extraction proves recurring at ≈$400–600M/yr**, permanently resetting Korean steady-state margin
 - Developing Offerings burn extends to 2028+ without unit-economics inflection
 - Farfetch deteriorates and requires impairment; Taiwan abandoned or sub-scaled
 - Korea Product Commerce growth stalls at mid-single-digits through 2027–2028 (demographic + AliExpress wedge)
-- Multiple compresses to 9× on eroding confidence in management capital allocation
-- No buyback resumption
+- Multiple compresses to 9× — a jurisdictional discount, not an execution discount
 
-### Base Case ($22) requires
-- Korea Product Commerce CC growth returns to high-single-digits by Q3 2026; double-digits by Q1 2027
-- 2027 margin expansion materializes as guided; Korea op margin back toward high-single-digits
+### Base Case ($21) requires
+- **2026 regulatory actions prove largely non-recurring**; residual annual compliance and enforcement cost of ≈$100–150M
+- Korea Product Commerce CC growth returns to high-single-digits by Q4 2026; double-digits by mid-2027
+- 2027 margin expansion materializes roughly as guided, one to two quarters later than promised
 - DO burn tapers to $700M–$800M in FY2027 as Taiwan inflects
-- Farfetch stabilizes at break-even by end-2027
-- Multiple stable at 12× FY2030E EBITDA
+- Farfetch stabilizes at break-even by end-2027; multiple stable at 12× FY2030E EBITDA
 
-### Bull Case ($36) requires
-- Q2 2026 Korea Product Commerce CC reaches double-digits; Q3 2026 Korea gross margin recovers toward 29%
-- Taiwan reaches segment break-even by end-2027; cohort economics validate Korea-trajectory read
-- Farfetch contributes positive EBITDA by FY2028
-- WOW membership grows from ≈14M toward ≈17M
-- Multiple expands to 16× on de-risked Developing Offerings + Taiwan growth premium
+### Bull Case ($34) requires
+- **PIPC appeal materially reduces the ≈$410M and the NTS assessment settles well below ₩300B**; the "same person" suit is won outright
+- Korea Product Commerce CC reaches double-digits by Q4 2026; Korea gross margin recovers toward 29%
+- Taiwan reaches segment break-even by end-2027, validating the Korea-trajectory cohort read
+- Farfetch contributes positive EBITDA by FY2028; WOW membership grows from ≈14M toward ≈17M
+- Multiple expands to 16× as the Korean political discount unwinds
 
-### Bull+ Case ($48) requires
-- All Bull conditions PLUS: Taiwan profitable FY2027; WOW >17M; advertising high-teens of total revenue
-- Multiple expands to 18× on Korea + Taiwan multi-country platform valuation
+### Bull+ Case ($46) requires
+- All Bull conditions PLUS: Taiwan profitable FY2027; WOW >17M; advertising in the high teens of total revenue
+- Multiple expands to 18× on a Korea + Taiwan multi-country platform valuation
 
 ---
 
@@ -453,49 +464,50 @@ Stock is –50% from 52-wk high, within 2% of 52-wk low. Two sell-side downgrade
 
 | Scenario | Price | Probability | Weighted |
 |---|---|---|---|
-| Bear | $9 | 25% | $2.25 |
-| Base | $22 | 45% | $9.90 |
-| Bull | $36 | 22% | $7.92 |
-| Bull+ | $48 | 8% | $3.84 |
-| **PW EV (5-yr)** | | **100%** | **≈$23.91** |
+| Bear | $9 | 30% | $2.70 |
+| Base | $21 | 45% | $9.45 |
+| Bull | $34 | 19% | $6.46 |
+| Bull+ | $46 | 6% | $2.76 |
+| **PW EV (5-yr)** | | **100%** | **≈$21.37** |
 
 | Current Price | PW EV | Return (5-yr) | Annualized |
 |---|---|---|---|
-| $16.98 | ≈$24 | **+41%** | **≈+7%/yr** |
+| $16.35 | ≈$21 | **+31%** | **≈+5.5%/yr** |
 
-**R/R**: Bull (+112%) / Bear (–47%) = **≈2.4:1**; rises to **≈3.8:1** including Bull+ (+183% / –47%).
+**R/R**: Bull (+108%) / Bear (–45%) = **≈2.4:1**; rises to **≈4:1** including Bull+ (+181% / –45%).
 
-**Interpretation**: PW EV ≈$24 vs. spot $16.98 = +41% over 5 years (≈+7%/yr). The price compression to $16.98 (from $20.51 at last update) has improved absolute asymmetry vs. the prior page version — PW EV return improved from +26% (3-yr at $20.51) to +41% (5-yr at $16.98) — but the Q1 2026 print shifted Bear probability from 20% to 25% (EBITDA trough deeper than prior thesis, Farfetch silence adds risk) and extended the Base scenario horizon from 2028E to 2030E (margin recovery deferred to 2027+). Net effect: the setup is modestly better priced but the catalyst cadence is longer than the prior thesis assumed.
+**Interpretation**: A ≈+5.5%/yr probability-weighted return is thin compensation for the risk actually being underwritten. The Bear weight of 30% is carried almost entirely by one question — **whether 2026's regulatory extraction recurs** — and that question is not answerable from outside Korea at any level of diligence. R/R of ≈2.4:1 is respectable, but it is asymmetry earned from a distressed price rather than from a knowable edge. Note what is *not* driving the downside case any more: Korean growth and the Developing Offerings burn are both second-order to the jurisdictional variable.
 
-**Entry zone confirmation**: At $16.98, the stock is ≈1% above the 52-wk low ($16.74). A close below $16.74 would technically break the floor and is the only threshold that alters the thesis-break framework from "wait for Q2 confirmation" to "consider reducing on structural re-rating."
+**Entry-zone note**: the Rule #24 mechanical entry (PW EV less a 15–25% margin of safety) is $16–18, and spot sits inside it. That is a real signal, but it collides with a known negative print in 48 hours — the ≈$410M charge lands in Q2 OG&A on August 4 with guidance attached. The zone is live; the timing argues for letting the print clear first.
 
 ---
 
 ## 13. Recommendation & Bottom Line
 
-**Thesis in one sentence**: Coupang owns Korea's irreplicable Rocket Delivery moat and a 14M-member WOW flywheel that demonstrated 80% recovery within 5 months of a 33M-account breach — but Q1 2026 revealed the EBITDA trough is deeper ($29M adj EBITDA, 0.3% margin) and longer (management deferred margin expansion to 2027) than the prior thesis assumed, requiring a holder to absorb 12+ months of near-zero EBITDA before the re-rate catalyst.
+**Thesis in one sentence**: Coupang owns Korea's irreplicable Rocket Delivery moat and a WOW flywheel that recovered 80% of its decline within five months of a 33M-account breach — but through mid-2026 the binding constraint stopped being operational and became jurisdictional, as three arms of the Korean state extracted ≈$600M in a single quarter, leaving a business whose moat is intact and whose steady-state Korean margin is no longer estimable from outside.
 
-**For a non-holder**: 🟡 **Watch** — the depressed valuation (≈0.80× EV/Revenue; near the 52-wk low; PW EV +41% / +7%/yr) is genuinely attractive, but the EBITDA trough is longer than prior framing, Farfetch is silent, and Q2 (Aug 4) is 3 months away. Consider a small starter position only if willing to hold through an 18-month EBITDA trough with no near-term re-rate catalyst.
+**For a non-holder**: 🟡 **Watch** — spot $16.35 is inside the mechanical $16–18 entry zone and both informed insider references (the company's own $19.17 buyback, Greenoaks at $18.40–$18.68) sit above it. But the Aug 4 print carries a known ≈$410M charge plus guidance, short interest has built for four straight readings, and a +5.5%/yr probability-weighted return is thin compensation for an unquantifiable jurisdictional risk. **Let the print clear, then reassess against the same zone** — the setup is two days from being much better informed at roughly the same price.
 
-**For a current holder**: 🟡 **Hold** — the moat is intact (WOW recovery, monthly growth trajectory, Taiwan cohort read), the Greenoaks insider buy at $18.40–$18.68 provides an external reference below which downside is increasingly priced, and net cash funds the burn. Do not exit on the trough; do not add aggressively until Q2 print validates trajectory.
+**For a current holder**: 🟡 **Hold** — the moat is untouched, net cash ≈$5.7B absorbs every fine assessed without dilution, management is buying stock at prices above spot, and the "same person" designation was suspended in Coupang's favor. Do not exit into the trough on a charge that is already known and provisioned; do not add before the print.
 
-🎯 **Attractive entry zone**: **$14 – $18** (rationale: ≈0.65–0.85× FY26E EV/Revenue; below or near the 52-wk low; below the Greenoaks insider purchase price of $18.40–$18.68; provides ≈35–60% return to base case)
+🎯 **Attractive entry zone**: **$16 – $18** (PW EV ≈$21 less a 15–25% margin of safety; ≈0.75–0.85× EV/Revenue; below both insider reference prices)
 
-🎯 **Trim zone**: **$26 – $34** (rationale: ≈1.1–1.4× FY26E EV/Revenue; base case territory; scale into bull territory)
+🎯 **Trim zone**: **$26 – $34** (above PW EV, into and through base-case territory)
 
-🔴 **Exit / avoid zone**: **>$40** (rationale: requires bull-case execution on Korea recovery + Taiwan profitability + Farfetch break-even all working; multi-year compounding pulled forward)
+🔴 **Exit / avoid zone**: **>$40** (at or beyond Bull+; requires the regulatory discount to unwind *and* Taiwan and Farfetch to work)
 
 ⚠️ **Thesis-break triggers** (would force re-rating toward Reduce / Exit):
+- ⚠️ **A fourth distinct Korean regulatory action** (beyond PIPC, NTS and the KFTC delivery matters) within twelve months — would confirm extraction as recurring rather than post-breach
+- ⚠️ NTS assessment finalized at or above ₩300B, or the PIPC appeal dismissed without reduction
+- ⚠️ Adverse ruling in the "same person" cancellation suit restoring personal-liability exposure to Bom Kim
 - ⚠️ Q2 2026 Korea Product Commerce CC growth fails to reach high-single-digits (below +7%)
 - ⚠️ FY2026 Developing Offerings EBITDA loss guide raised above $1.1B
-- ⚠️ Farfetch disclosed negative YoY revenue growth in Q2 2026 print
-- ⚠️ Korea operating margin contracts YoY for two consecutive quarters post-voucher normalization
-- ⚠️ WOW membership recovery plateaus below 90% of pre-incident level by Q2 print
-- ⚠️ Buyback paused or suspended (internal intrinsic-value reassessment signal)
-- ⚠️ Stock closes below $16.74 (52-wk low) on high volume — technical break warrants reassessment
-- ⚠️ KFTC structural remedy ordered; or Bom Kim governance designation materially restricted
+- ⚠️ 2027 margin-expansion commitment withdrawn or deferred again on the Aug 4 call
+- ⚠️ Farfetch disclosed negative YoY revenue growth
+- ⚠️ 💰 **Buyback paused or slowed materially from the Q1 pace** — the clearest signal management's own intrinsic-value read has changed
+- ⚠️ Short interest through 7% of float on continued price weakness
 
-📅 **Next review trigger**: Q2 2026 earnings — **August 4, 2026**. Key items: (1) Korea Product Commerce CC growth (does it reach high-single-digits / double-digits?), (2) DO burn quarterly pace (track to $950M–$1B guide), (3) Farfetch mentioned? Revenue trajectory? (4) Gross margin recovery toward 28–29%, (5) FY2026 EBITDA guide (up/down/unchanged), (6) WOW membership absolute count, (7) Taiwan profitability timeline.
+📅 **Next review trigger**: Q2 2026 earnings — **August 4, 2026**. Key items: (1) the ≈$410M charge as booked and any change to the estimate, (2) Korea Product Commerce CC growth vs. the +9–10% total guide, (3) DO burn pace vs. $950M–$1B, (4) whether the 2027 margin-expansion commitment holds, (5) Q2 buyback pace vs. Q1's $391M, (6) any Farfetch mention, (7) management's characterization of the regulatory environment as one-time or ongoing.
 
 ---
 
@@ -513,16 +525,29 @@ Stock is –50% from 52-wk high, within 2% of 52-wk low. Two sell-side downgrade
 - [Coupang Q4 2025 Earnings Call Script (Coupang IR)](https://s206.q4cdn.com/919117365/files/doc_financials/2025/q4/Q4-25-Earnings-Call-Script_Final.pdf)
 - [Coupang Q3 2025 PR (Nov 4, 2025)](https://ir.aboutcoupang.com/news-events/news/news-details/2025/Coupang-Announces-Results-for-Third-Quarter-2025/default.aspx)
 - [EDGAR 8-K/A cpng-20251215 (data incident update)](https://www.sec.gov/Archives/edgar/data/1834584/000183458425000202/cpng-20251215.htm)
+- [Coupang Q1 2026 10-Q (cpng-20260331, filed May 5, 2026)](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000042/cpng-20260331.htm) — buyback detail, cash and debt balances
+- [8-K June 11, 2026 — PIPC administrative fines (cpng-20260610)](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000056/cpng-20260610.htm) — the $278M + $132M split, Q2 recognition, appeal posture
+- [8-K June 12, 2026 — 2026 Annual Meeting results (cpng-20260611)](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000061/cpng-20260611.htm)
 - [SEC EDGAR — Coupang filings (CIK 0001834584)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001834584&type=10-K)
+
+**Korean regulatory and legal (2026)**:
+- [UPI — record ₩624.7B PIPC fine (June 11, 2026)](https://www.upi.com/Top_News/World-News/2026/06/11/Coupang-fined-6247-billion-won-over-massive-data-breach/6531781169687/)
+- [The Record — South Korea record data-breach fine](https://therecord.media/south-korea-data-breach-record-fine-coupang)
+- [Korea Herald — Coupang secures injunction in FTC ownership dispute (July 14, 2026)](https://www.koreaherald.com/article/10808517)
+- [Korea JoongAng Daily — court suspends "same person" designation](https://www.koreajoongangdaily.co.kr/business/seoul-court-suspends-ftc-order-naming-coupang-founder-controlling-entity/12772843)
+- [Seoul Economic Daily — KFTC ₩30.7B delivery-contract fines (May 18, 2026)](https://en.sedaily.com/finance/2026/05/18/coupang-cj-logistics-among-5-delivery-firms-fined-307)
+- [Seoul Economic Daily — Korea rejects ₩360B delivery-app settlement (June 18, 2026)](https://en.sedaily.com/finance/2026/06/18/korea-rejects-delivery-apps-360-billion-won-settlement)
+- [The Hill — House Judiciary report on US firms in Korea (July 1, 2026)](https://thehill.com/opinion/international/6001341-house-report-south-korea/)
 
 **Insider activity**:
 - [StockTitan — Greenoaks/Neil Mehta Form 4 purchase (March 2026)](https://www.stocktitan.net/sec-filings/CPNG/form-4-coupang-inc-insider-trading-activity-c035d8ad4bac.html)
 - [StockTitan — Gaurav Anand RSU grant Form 4](https://www.stocktitan.net/sec-filings/CPNG/form-4-coupang-inc-insider-trading-activity-9a2d899e65aa.html)
 
 **Analyst and market data**:
-- [Yahoo Finance — CPNG quote](https://finance.yahoo.com/quote/CPNG) (price $16.98, 52-wk range, next earnings Aug 4, 2026)
+- [Yahoo Finance — CPNG quote](https://finance.yahoo.com/quote/CPNG) (price $16.35 at July 31, 2026 close; 52-wk range; next earnings Aug 4, 2026)
 - [MarketBeat — CPNG analyst ratings and price targets](https://www.marketbeat.com/stocks/NYSE/CPNG/forecast/)
-- [Finviz — CPNG quote](https://finviz.com/quote.ashx?t=CPNG) (short interest 2.94%, forward P/E 34.85)
+- [MarketBeat — CPNG short interest history](https://www.marketbeat.com/stocks/NYSE/CPNG/short-interest/)
+- [stockanalysis.com — CPNG statistics](https://stockanalysis.com/stocks/cpng/statistics/)
 - [stockanalysis.com — CPNG forecast](https://stockanalysis.com/stocks/cpng/forecast/)
 - [Investing.com — Morgan Stanley target cut](https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-coupang-stock-price-target-on-margin-outlook-93CH-4663575)
 

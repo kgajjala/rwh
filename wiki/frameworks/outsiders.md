@@ -57,6 +57,7 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 | **KGS** | McKee | **Malone-style** leverage roll-up: acquisitions over buybacks, disciplined 3.5–4× → <3× de-lever path, removed EQT overhang non-dilutively. |
 | **NFLX** | Sarandos | Disciplined tuck-in M&A; **walked from WBD and got paid for it**; no dividend; $13.6B remaining authorization ramping. $5–6B/yr cadence is mechanical not opportunistic, blunting the pure-Singleton read. |
 | **SHOP** | Finkelstein | **First-ever $2B buyback at sub-$130** — opportunistic undervaluation buy; no dividend; disciplined headcount (–6% on +30% revenue growth). |
+| **CPNG** | Bom Kim | **Buyback tripled into a –50% drawdown**: $391M / 20.4M shares at ≈$19.17 in Q1 2026 alone — one quarter exceeding FY2025 ($243M) and FY2024 ($178M) individually — while the business printed near-zero EBITDA. Corroborated by director Neil Mehta's 7.35M-share open-market purchase. ⚠️ Farfetch's return is unproven and no hurdle-rate framework is disclosed for the Developing Offerings burn. |
 | **SN** | Lawson | Inaugural $750M (≈4.6% of cap), stated as "opportunistic," strong balance sheet; management prioritizing organic reinvestment first. |
 | **CELH** | Fieldly | First sizeable buyback "at the lows" + Alani Nu at <2× revenue (accretive) + debt paydown. |
 | **TREX** | Zambanini | Consistent buybacks at trough multiples; no dividend; organic focus; $50M Q4 2025 + $150M 1H 2026 into cyclical trough. |
@@ -69,10 +70,9 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 | Ticker | Read |
 |---|---|
 | **AMZN** | Bezos's FCF/share + decentralized "two-pizza" doctrine is Outsider canon; minimal buybacks because reinvestment IRR is higher — *consistent* with the rule. Jassy era less distinctive. |
-| **TSLA** | $36B+ net cash into Cybercab/Optimus/Dojo; no dividend/buyback; Outsider-consistent if reinvestment IRR proves out. ⚠️ $2B xAI investment raises governance question. |
+| **TSLA** | ≈$27.4B net cash into Cybercab/Optimus/AI compute/vertical integration; no dividend/buyback. Q2 2026 made the reinvestment concrete — capex +142%, FCF –$1.09B, management "spending CapEx as fast as it can." ⚠️ Reinvesting *pro*-cyclically into its own narrative with no buyback offset at a 38% drawdown is the opposite of the Singleton test; $2B xAI stake remains the governance blemish. Stays Reinvestor until the capex cycle shows measurable returns. |
 | **FIG** | Pre-revenue; $1.7B war chest into product expansion; too early for buyback test. Walked from Adobe deal cleanly (only capital-discipline data point). |
 | **ONON** | CHF 1.02B cash for APAC + apparel + retail expansion; no dividend/M&A; build-don't-buy Outsider-consistent at this maturity stage. |
-| **CPNG** | Capital into Korean logistics moat + Taiwan; buybacks modest ($243M vs. $1B authorization); Outsider-consistent when reinvestment IRR > buyback return. |
 | **HOOD** | Compounding phase; $300M+ buybacks vs. $76B cap; dominant capital use is reinvestment into Gold, prediction markets, international. Track record too short/small for countercyclical signal. |
 | **LLY** | CapEx $1.3B → $7.8B; R&D >$10B/yr; bold pipeline M&A; deploying all capital at highest-IRR moment in Lilly history. Outsider test applies post-capex-cycle maturation. |
 | **RIVN** | Pre-profitability; all capital into R2 + VW JV + Adventure Network. Scaringe $5B performance-equity aligns with per-share outcomes (Outsider spirit); buyback test can't apply before FCF. |

@@ -4,6 +4,43 @@
 
 ---
 
+## [2026-08-02] — Q1 2026 Earnings + Guidance Raise + Baker Hughes Partnership
+
+**Trigger**: Q1 2026 earnings (May 11) delivered record adj EBITDA $190.1M (+7% YoY) and raised FY26 guide to $820–860M; Baker Hughes multi-year gas turbine agreement signed Jul 8 (1.8 GW framework for data center power); stock pulled back –24% from $77.68 ATH to $58.71 while thesis strengthened.
+**Sources reviewed**:
+- [KGS Q1 2026 Earnings PR](https://ir.kodiakgas.com/news-events/press-releases/detail/79/kodiak-gas-services-reports-first-quarter-2026-financial) (May 11, 2026)
+- [Baker Hughes agreement — GlobeNewswire](https://www.globenewswire.com/news-release/2026/07/08/3323943/0/en/Kodiak-Gas-Services-Baker-Hughes-Announce-Multi-Year-Gas-Turbine-Order-Agreement-to-Support-U-S-Data-Center-Growth.html) (Jul 8, 2026)
+- [stockanalysis.com — KGS](https://stockanalysis.com/stocks/kgs/) (live price, analyst consensus, quarterly data)
+- [Fintel — KGS short interest](https://fintel.io/ss/us/kgs) (8.57%, Jul 15, 2026)
+- StockTitan Form 4 filings (insider activity, May–Jul 2026)
+
+### What Changed
+- **§1**: Added Q1 2026 quarterly row (rev $345.8M, adj EBITDA $190.1M record, Contract adj GM 70.6% record); updated FY26 guide to $820–860M (from $750–780M ex-DPS); fleet util 98%, HP 4.389M
+- **§2**: Power Infrastructure added as reporting segment ($95–125M FY26 rev guide, 60–70% adj GM); revenue mix table updated
+- **§5**: Baker Hughes 1.8 GW multi-year gas turbine framework added; 260+ MW additional procurement ordered; near-term target 650+ MW, end-of-decade 2+ GW
+- **§6**: Power Infrastructure risk probability reduced (20% from 25%) — partially de-risked by Q1 delivery and anchor customer (100 MW, 99.9% uptime)
+- **§8**: Recomputed at $58.71 / ≈10.6× FY26E EV/EBITDA (from ≈11× at $65.98); fair value estimate $44–57/share; stock near premium fair value
+- **§9**: Full refresh — 15 analysts (from 7), avg PT $83.53 (from $57.17), range $72–$93; short interest 8.57% (from 6.49%); all insider sales 10b5-1 at $66–68; Baker Hughes and Q1 earnings added to news; Q2 earnings Aug 6 added to catalysts
+- **§10 BAIT**: B upgraded Weak→Moderate (–24% pullback creates behavioral edge); T degraded Moderate→Weak (broken momentum, rising short interest); net composition shifted A+I+T → B+A; conviction Low-Moderate → Moderate
+- **§11**: Migrated from 3-yr (2029) to 5-yr (2031) terminal per Rule #24; Bull $95→$110 (25%), Base $75→$78 (50%), Bear $38→$30 (25%) — reflects new share count 99.33M and higher EBITDA trajectory
+- **§12**: PW EV $73.60→$74.00 (5-yr); R/R improved ≈1.0:1→**≈1.8:1** (price fell while thesis strengthened)
+- **§13**: Verb upgraded Watch→**Initiate (small, scaled)** for non-holder; entry zone widened $50–55→$50–58; trim zone raised $72–80→$80–95; thesis-break triggers updated (Baker Hughes cancellation added, guide floor raised to $800M)
+- **Summary**: Full refresh per Rule #17
+
+### Thesis Status
+- **Overall**: **Strengthened** — record Q1 EBITDA, guidance raise, Baker Hughes 1.8 GW partnership all confirm the post-DPS thesis; pullback from ATH improves R/R without thesis deterioration
+- **BAIT delta**: Behavioral ↑ (Weak→Moderate on pullback); Technical ↓ (Moderate→Weak on momentum break). Net: Double overlap preserved with better composition (B+A vs. A+I+T)
+- **Price target delta**: Bull $95→$110 | Base $75→$78 | Bear $38→$30 (5-yr terminal migration + updated guidance + new share count)
+- **Catalyst & Sentiment delta**: Analyst coverage doubled (7→15), all Buy/Strong Buy; avg PT +46% ($57→$84); short interest +32% (6.49%→8.57%); Q2 earnings Aug 6
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate (small, scaled)** — thesis strengthened while price fell 24% from ATH; R/R ≈1.8:1 at $58.71; enter $50–58
+- **For a current holder**: 🟡 **Hold** — collect 3.3% dividend; do not sell into pullback; trim into $80–95
+
+**Next review trigger**: 📅 Q2 2026 earnings — **August 6, 2026** — first full quarter of Power Infrastructure; de-leveraging progress; Baker Hughes delivery timeline
+
+---
+
 ## [2026-04-26] — v2.9 Schema Retrofit
 
 **Trigger**: Schema upgrade from v2.5 (15-section) to v2.9 (13-section). No new earnings event — this is a structural and primary-source enrichment pass.

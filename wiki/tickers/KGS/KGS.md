@@ -1,27 +1,33 @@
 # KGS — Kodiak Gas Services, Inc.
 
 > **Schema**: v3.0
-> **Last Updated**: 2026-04-26
+> **Last Updated**: 2026-08-02
 > **Status**: Active
-> **Live Price Verified**: **$65.98** at April 24, 2026 ([stockanalysis.com](https://stockanalysis.com/stocks/kgs/); 52-wk range $30.06–$66.16; essentially at 52-wk high)
+> **Live Price Verified**: **$58.71** at August 1, 2026 ([stockanalysis.com](https://stockanalysis.com/stocks/kgs/); 52-wk range $30.06–$77.68; –24% from ATH, +95% above 52-wk low)
 > **Ticker Type**: Energy infrastructure services (contract compression + distributed power generation — fee-based / utility-like)
 
 ---
 
 ## Summary
 
-- 🟡 **Thesis**: Largest U.S. contract compression operator (#1 by HP at 4.35M, 97.7% fleet utilization) with a confirmed AI-data-center power gen optionality via the April 1, 2026 DPS close (rebranded Kodiak Power Solutions, 395 MW). At $66 — essentially at the 52-wk high after a +120% run since IPO — the stock prices the bull case adequately; R/R is ≈1:1 from here.
-- 🟡 **Moat verdict**: **Narrow** — scale + large-HP specialization + asset specificity + take-or-pay contracts in a tight 3-player U.S. oligopoly.
-- 🟡 **Pivotal question**: Is U.S. compression entering a 5–7 year structural up-cycle (Permian + LNG + AI power) where KGS compounds FCF and de-levers cleanly post-DPS — or is $66 a late-cycle peak price in a leveraged equity before a Permian slowdown?
-- 🟡 **For a non-holder: Watch** — initiate only on a pullback into the **$50–55** entry zone where EV/EBITDA compresses to ≈9× and dividend yield reaches ≈3.6%.
-- 🟡 **For a current holder: Hold** — collect the 3.0% dividend + mid-single-digit EBITDA growth; trim into $72–80; do not add at the 52-wk high.
-- 🎯 **Attractive entry zone**: **$50–55** (rationale: ≈9× FY26E EV/EBITDA pro forma DPS; ≈3.6% dividend yield).
-- 🎯 **Trim zone**: **$72–80** (rationale: 11–12× FY26E EBITDA; matches optimistic analyst PTs; cycle premium fully priced).
-- 📈 **Price action**: $65.98 — **–0.3% from 52-wk high** ($66.16), **+119% above 52-wk low** ($30.06); essentially at all-time high since IPO.
-- 📅 **Next catalyst**: **Q1 2026 earnings — May 11, 2026** — first print with DPS/Kodiak Power Solutions contribution; integration commentary and updated FY26 pro forma guide.
-- ⚠️ **Top risk**: 2027–2028 gas oversupply post-LNG ramp (high impact, 25% prob); 97.7% utilization leaves minimal demand buffer.
-- ⚠️ **Second risk**: Kodiak Power Solutions execution / underwriting miss (medium impact, 25% prob) — power gen is a new vertical; AROC and USAC are also entering distributed power, reducing first-mover advantage.
-- 🟡 **BAIT verdict**: **Double overlap (A+I Moderate, T Moderate)** — Conviction **Low-Moderate**. Quality compounder at fair value. DPS consensus exclusion is the analytical edge; primary-source read reveals a cleaner margin and balance sheet story than aggregators show.
+- 🟢 **Thesis**: Largest U.S. contract compression operator (#1 by HP at 4.48M, 98% fleet utilization) with Power Infrastructure now reporting ($95–125M FY26 revenue guide, 60–70% adj GM) and a Baker Hughes 1.8 GW multi-year turbine framework signed. Q1 2026 delivered record adj EBITDA $190.1M; FY26 guide raised to **$820–860M** (+9% above prior midpoint). At $59 — down 24% from the $77.68 ATH — the stock now sits near the mechanically-derived entry zone.
+- 🟢 Non-holder: **Initiate (small, scaled)** · 🟡 Holder: **Hold**
+
+| 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|---|
+| $30.06–$77.68 | **$58.71** (~60th) | $30 | $50–58 | $78 / **$74** | $80–95 | $110 | **~1.8:1** |
+
+| BAIT | Moat | FY26E EV/EBITDA | Div Yield | Short Int | Next Catalyst |
+|---|---|---|---|---|---|
+| Double (B+A Mod) | Narrow | **~10.6×** | 3.3% | 8.57% | 📅 **Q2 2026 — Aug 6** |
+
+- 🟢 **Why**: Record Q1 adj EBITDA + guidance raise to $820–860M validates post-DPS thesis; Baker Hughes 1.8 GW framework accelerates power infrastructure scaling; 98% utilization + 70.6% Contract adj GM = pricing power intact
+- 🟢 **Why**: Stock –24% from ATH while thesis strengthened → R/R improved from ~1:1 to ~1.8:1
+- 🟢 **Why**: 15-analyst consensus at $83.53 avg PT (+42% upside) — broadest and most bullish coverage in company history
+- ⚠️ **Why not**: Short interest rose to 8.57% (+32% since April); bears see a leveraged equity at ≈3.8× post-DPS in a late-cycle energy market
+- ⚠️ **Why not**: Power Infrastructure is unproven at scale — 395 MW deployed, but the 1.8 GW Baker Hughes framework is multi-year with execution risk
+- ⚠️ **Why not**: Gas cycle risk — 98% utilization leaves zero demand buffer; Permian slowdown would compress margins and delay de-leveraging
+- 📅 **Next read**: Q2 2026 earnings — **August 6, 2026** — first full quarter with Power Infrastructure; updated FY26 guide; de-leveraging progress
 
 ---
 
@@ -54,28 +60,26 @@ The bull case is "utility with growth at fair price." The bear case is "cycle pe
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$65.98** | April 24, 2026 ([stockanalysis.com](https://stockanalysis.com/stocks/kgs/)) |
-| 52-Week High | $66.16 | All-time high since IPO June 2023 |
+| Live Price | **$58.71** | August 1, 2026 ([stockanalysis.com](https://stockanalysis.com/stocks/kgs/)) |
+| 52-Week High | $77.68 | [Estimate: late April / early May 2026] |
 | 52-Week Low | $30.06 | Mid-2025 |
-| % From 52-Wk High | –0.3% | Essentially at all-time high |
-| % Above 52-Wk Low | +119% | |
-| Market Cap | ≈$5.83B | 88.30M shares × $65.98 ([stockanalysis.com](https://stockanalysis.com/stocks/kgs/)) |
-| FY2025 Revenue | $1.308B | +12.8% YoY ([FY2025 10-K, Feb 26, 2026](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000012/kgs-20251231.htm)) |
-| FY2025 Adj EBITDA | $715.0M | +17% YoY; 54.7% margin |
-| FY2025 Adj EBITDA Margin | 54.7% | vs. 52.6% in FY2024 |
-| FY2025 GAAP Net Income | $81.6M | +62% YoY |
-| FY2025 Interest Expense | $198.4M | ≈6.5% blended rate on $2.6B debt |
-| FY2025 Net Debt | ≈$2.60B | Pro forma post-DPS: ≈$3.1–3.3B [Estimate] |
-| FY2025 Leverage | ≈3.6× | Net debt / adj EBITDA; pro forma: ≈3.8–4.0× [Estimate] |
-| Fleet HP (revenue-generating) | 4.354M | YE2025 |
-| Fleet Utilization | 97.7% | YE2025 (up from 96.5% YE2024) |
-| Avg HP per Revenue-Generating Unit | 970 HP | +4.7% YoY — confirms large-HP mix shift |
-| FY2026 Revenue Guide (ex-DPS) | $1.37–1.43B | +5–9% YoY |
-| FY2026 Adj EBITDA Guide (ex-DPS) | $750–780M | +5–9% YoY; consensus est. $1.47B incl. DPS |
-| Q4 2025 Dividend | $0.49/share | $1.96 annualized; two increases in 2025 |
-| Analyst Consensus | Strong Buy (7 Buy, 0 Hold, 0 Sell) | Avg PT $57.17 (lagging); median $63; high $69 |
-| Next Earnings | **May 11, 2026** | Q1 2026 |
-| Short Interest | 6.49% of float; 6.41 days-to-cover | ≈5.69M shares short; low borrow fee (0.41%) |
+| % From 52-Wk High | –24.4% | Pulled back sharply from ATH |
+| % Above 52-Wk Low | +95% | |
+| Market Cap | ≈$5.83B | 99.33M shares × $58.71 ([stockanalysis.com](https://stockanalysis.com/stocks/kgs/)) |
+| Q1 2026 Revenue | $345.8M | +4.9% YoY; Contract Services $307.0M (+6.2%) |
+| Q1 2026 Adj EBITDA | **$190.1M** | Record Q1; +7% YoY; Contract adj GM 70.6% (record) |
+| FY2026 Adj EBITDA Guide | **$820–860M** | Raised from $750–780M (ex-DPS); includes Power Infrastructure |
+| FY2026 Compression Rev Guide | $1,250–1,280M | Adj GM guide raised to 68.5–70% |
+| FY2026 Power Infra Rev Guide | $95–125M | 60–70% adj GM; first reporting period (3 quarters) |
+| FY2026 Discretionary CF Guide | $520–570M | |
+| Fleet HP (revenue-generating) | 4.389M | Q1 2026 (up from 4.354M YE2025); total fleet 4.477M |
+| Fleet Utilization | **98.0%** | Q1 2026 (up from 97.7% YE2025) |
+| Avg HP per Unit | 977 HP | +0.7% from 970 YE2025 |
+| Pro Forma Net Debt | ≈$3.1–3.3B [Estimate] | Post-DPS close; de-lever target <3.0× over 6–8 quarters |
+| Dividend | $0.49/share | $1.96 annualized; 3.3% yield at $58.71 |
+| Analyst Consensus | **Strong Buy** (10 SB / 5 B / 0 H / 0 S) | 15 analysts (from 7); avg PT **$83.53**; range $72–$93 |
+| Next Earnings | **August 6, 2026** | Q2 2026 |
+| Short Interest | **8.57%** of float; 4.5 days-to-cover | ≈7.56M shares short (Jul 15, 2026; [Fintel](https://fintel.io/ss/us/kgs)) |
 
 ---
 
@@ -85,30 +89,31 @@ The bull case is "utility with growth at fair price." The bear case is "cycle pe
 
 | Metric | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 Guide |
 |--------|--------|--------|--------|--------|--------------|
-| Revenue | $708M | $850M | $1,159M | $1,308M | $1.37–1.43B (ex-DPS); ≈$1.47B incl. DPS [Consensus] |
-| YoY Growth | — | +20% | +36% | +13% | +5–12% |
+| Revenue | $708M | $850M | $1,159M | $1,308M | $1,470–1,565M (Compression $1,250–1,280M + Power $95–125M + Other $125–160M) |
+| YoY Growth | — | +20% | +36% | +13% | +12–20% (incl. DPS) |
 | Contract Services Revenue | — | — | $1,034M | $1,181M | — |
 | Other Services Revenue | — | — | $125M | $127M | — |
-| Adj EBITDA | ≈$300M | ≈$415M | $610M | $715M | $750–780M (ex-DPS) |
-| Adj EBITDA Margin | ≈42% | ≈49% | 52.6% | 54.7% | ≈54–55% |
+| Adj EBITDA | ≈$300M | ≈$415M | $610M | $715M | **$820–860M** (raised from $750–780M; incl. DPS) |
+| Adj EBITDA Margin | ≈42% | ≈49% | 52.6% | 54.7% | ≈56–57% [Estimate] |
 | GAAP Net Income | — | — | $50M | $82M | — |
 | Interest Expense | — | — | $197M | $198M | ≈$200M+ (post-DPS refi) [Estimate] |
 | D&A | — | — | $260M | $276M | — |
-| Revenue-Gen HP (M, YE) | — | ≈3.3 | 4.25 | 4.35 | growing |
-| Fleet Utilization (YE) | — | ≈95% | 96.5% | 97.7% | targeting 97%+ |
+| Revenue-Gen HP (M) | — | ≈3.3 | 4.25 | 4.35 (YE) | 4.39 (Q1 2026); growing |
+| Fleet Utilization | — | ≈95% | 96.5% | 97.7% (YE) | **98.0%** (Q1 2026) |
 
 *FY2022–FY2023 figures sourced from [stockanalysis.com](https://stockanalysis.com/stocks/kgs/financials/) and company supplemental disclosures; FY2024–FY2025 from [KGS FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000012/kgs-20251231.htm). FY2022 Adj EBITDA [Estimate] based on company supplemental disclosures.*
 
 ### Quarterly Trajectory
 
-| Quarter | Revenue | Adj EBITDA (GAAP) | Key Notes |
-|---------|---------|-------------------|-----------|
-| Q1 2025 | $329.6M | $159.7M | Strong start; +53% above Q1 2024 (partial CSI) |
-| Q2 2025 | $322.8M | $165.9M | Slight sequential dip; strong on YoY basis |
-| Q3 2025 | $322.7M | $130.5M | Mexico loss ($33.3M) and sales-tax settlement ($28M) hit GAAP |
-| Q4 2025 | $332.9M | $86.9M | Beat top-line; GAAP EBITDA depressed by one-time items |
+| Quarter | Revenue | Adj EBITDA (GAAP Op Inc) | Key Notes |
+|---------|---------|--------------------------|-----------|
+| **Q1 2026** | **$345.8M** | **$190.1M** ($106.8M) | **Record Q1 adj EBITDA** (+7% YoY); Contract adj GM 70.6% (record); fleet util 98%; first partial DPS contribution |
+| Q1 2025 | $329.6M | $177.5M ($89.2M) | Strong start; +53% above Q1 2024 (partial CSI) |
+| Q2 2025 | $322.8M | $182.7M ($99.7M) | Slight sequential dip; strong on YoY basis |
+| Q3 2025 | $322.7M | $175.7M ($64.2M) | Mexico loss ($33.3M) and sales-tax settlement ($28M) hit GAAP |
+| Q4 2025 | $332.9M | $179.1M ($86.9M) | Beat top-line; GAAP depressed by one-time items |
 
-*Source: [stockanalysis.com quarterly data](https://stockanalysis.com/stocks/kgs/financials/?p=quarterly). Note: GAAP EBITDA is materially lower than company-reported Adj EBITDA (≈$172M annual add-back) due to fleet depreciation ($276M/year), equity compensation, and non-recurring items.*
+*Sources: Q1 2026 adj EBITDA from [KGS Q1 2026 earnings PR](https://ir.kodiakgas.com/news-events/press-releases/detail/79/kodiak-gas-services-reports-first-quarter-2026-financial); GAAP operating income from [stockanalysis.com quarterly data](https://stockanalysis.com/stocks/kgs/financials/?p=quarterly). Note: GAAP operating income is materially lower than company-reported Adj EBITDA due to fleet depreciation ($276M/year), equity compensation, and non-recurring items.*
 
 ### Primary Source: 10-K Segment Detail (FY2025 vs. FY2024)
 
@@ -148,11 +153,11 @@ Sourced directly from [KGS FY2025 10-K Item 7 MD&A](https://www.sec.gov/Archives
 
 ### Revenue Streams
 
-| Stream | Share (FY2025) | Characteristic |
-|--------|---------------|----------------|
-| Contract Services (compression lease + service) | ≈90% | Multi-year contracts; monthly fixed fees + annual escalators; take-or-pay structure |
-| Other Services (station construction, mechanical overhaul) | ≈10% | Project-based; lower margin; cross-sold with Contract Services |
-| Kodiak Power Solutions (post-April 1, 2026) | — (new) | Behind-the-meter natural gas power gen; 395 MW; data centers, microgrids, manufacturing |
+| Stream | Share (FY2026 Guide) | Characteristic |
+|--------|---------------------|----------------|
+| Compression Infrastructure (ex-Contract Services) | ≈83–85% ($1,250–1,280M) | Multi-year contracts; monthly fixed fees + annual escalators; take-or-pay; adj GM 68.5–70% |
+| Power Infrastructure (ex-DPS / Kodiak Power Solutions) | ≈6–8% ($95–125M) | Behind-the-meter natural gas power gen; 395 MW deployed + 260+ MW on order; data centers, microgrids; adj GM 60–70% |
+| Other Services (station construction, overhaul) | ≈8–11% ($125–160M) | Project-based; lower margin; cross-sold |
 
 ### Unit Economics (Contract Services)
 
@@ -172,17 +177,17 @@ Kodiak is U.S.-only post-Mexico exit (September 2025). Internal geographic mix p
 
 **Key geographic insight from 10-K**: The 82.8% concentration in Permian + Eagle Ford is *both* the growth driver and the concentration risk. The 10-K explicitly states these are *"the most significant crude oil and associated gas basins in the U.S."* with *"some of the largest and lowest-cost unconventional resource bases"* — validating the bull case thesis. But it also notes this makes KGS *"disproportionately exposed to the impact of regional supply and demand factors"* — the bear case concentration risk.
 
-**Kodiak Power Solutions geographic model**: Unlike core compression (which is deployed at well sites), distributed power generation is sited at customer demand locations (data centers, manufacturing). This creates a structural geographic diversifier beyond the Permian — potentially across major AI compute corridors (VA/TX/AZ/OH data center hubs).
+**Power Infrastructure geographic model**: Unlike compression (deployed at well sites), distributed power is sited at customer demand locations — data centers, microgrids, manufacturing. Creates a structural geographic diversifier beyond the Permian. One customer operates 100 MW at 99.9% reliability for over a year; "bring your own power" is now the stated preferred model for data center developers.
 
 ### Revenue Mix Evolution
 
-| Year | Contract Services % | Other Services % | New Verticals % | Key Catalyst |
-|------|-------------------|-----------------|----------------|-------------|
+| Year | Compression % | Other % | Power Infra % | Key Catalyst |
+|------|--------------|---------|--------------|-------------|
 | FY2022 | ≈91% | ≈9% | — | Pre-CSI; pure compression |
 | FY2023 | ≈91% | ≈9% | — | IPO year |
 | FY2024 | 89% | 11% | — | CSI Compressco closes April 2024; scale-up |
 | FY2025 | 90% | 10% | — | Mexico exit; pure U.S.; pricing-led growth |
-| FY2026E | ≈85–87% | ≈8–9% | ≈5–7% (DPS) | Kodiak Power Solutions enters revenue mix |
+| FY2026E | ≈83–85% | ≈8–11% | **≈6–8%** | Power Infrastructure enters as reporting segment; Baker Hughes 1.8 GW framework signed |
 
 ---
 
@@ -284,17 +289,17 @@ The progression from IPO narrative (*"leading provider of large-HP compression"*
 
 ## Section 5 — Strategic Growth Initiatives
 
-1. **Kodiak Power Solutions (April 1, 2026)**: 395 MW of distributed natural-gas power generation; targets AI data centers, microgrids, and manufacturing; rebranded from DPS. Adjacent to core compression expertise (large reciprocating engines, field maintenance, natural gas fuel management). Immediately accretive per management guidance at close.
+1. **Power Infrastructure scaling**: 395 MW deployed at DPS close (Apr 1, 2026); **260+ MW of additional procurement ordered** at Q1 (61 MW expected 2026, remainder 2027–2029); near-term target **650+ MW**, end-of-decade target **2+ GW**. FY2026 revenue guide $95–125M at 60–70% adj GM; one anchor customer operates 100 MW at 99.9% uptime.
 
-2. **Organic fleet expansion**: Adding ≈170K HP in FY2026 (confirmed in March 2026 tuck-in announcement); FY2026 growth CapEx guidance $245–275M (excluding DPS acquisition capex). New HP is primarily large-HP (>1,500 HP) for Permian and LNG-driven gas-lift demand.
+2. **Baker Hughes multi-year gas turbine agreement** ([GlobeNewswire, Jul 8, 2026](https://www.globenewswire.com/news-release/2026/07/08/3323943/0/en/Kodiak-Gas-Services-Baker-Hughes-Announce-Multi-Year-Gas-Turbine-Order-Agreement-to-Support-U-S-Data-Center-Growth.html)): rolling order framework targeting ≈1 GW delivered by 2030 (up to 1.8 GW total); NovaLT16 and Frame 5 gas turbines + BRUSH generators; includes training + long-term services. This transforms Power Infrastructure from a single-acquisition bet to a scaled equipment pipeline.
 
-3. **Pricing power on contract renewals**: 97.7% utilization creates rare conditions for net pricing increases at renewal — no idle HP for customers to threaten switching to. The 10-K MD&A confirms $145.2M of revenue growth was pricing-driven. This lever extends into FY2026 and FY2027 as the post-2021 contract vintage (when utilization was lower) renews at market rates.
+3. **Compression fleet expansion + pricing power**: 98% utilization at Q1 2026 (industry-leading); Contract Services adj GM reached a record 70.6%; pricing-led growth continues as legacy contracts renew at market rates. Compression Infrastructure revenue guide $1,250–1,280M.
 
-4. **De-leveraging**: Post-DPS, pro forma leverage ≈3.8–4.0×. Management's target: ≈3.5× → <3.0× over 6–8 quarters (by 2028). De-lever path is credible given: $600–700M+ annual OCF, declining growth CapEx intensity as fleet reaches target size, and March 2026 refinancing extending maturity to 2031–2035.
+4. **De-leveraging**: Pro forma leverage ≈3.8–4.0× post-DPS. FY26 discretionary CF guide $520–570M; management targets <3.0× over 6–8 quarters (by 2028). March 2026 refinancing extended maturities to 2031–2035.
 
-5. **Share repurchase program**: $150M authorized (expires Dec 31, 2026); ≈2.7M shares repurchased from EQT affiliates in 2025. Additional opportunistic buybacks possible if stock sells off toward entry zone.
+5. **Share repurchase program**: $150M authorized (expires Dec 31, 2026). Additional opportunistic buybacks possible at current pullback levels.
 
-6. **AI/operational technology**: Predictive maintenance, real-time field support tools implemented in FY2025. Reduces unplanned downtime and field technician call-out costs — smaller but genuine adj EBITDA margin expansion lever.
+6. **Operational AI**: Predictive maintenance + real-time field support tools — cost-reduction lever supporting the 70%+ Contract adj GM trajectory.
 
 ---
 
@@ -305,7 +310,7 @@ The progression from IPO narrative (*"leading provider of large-HP compression"*
 | Risk | Impact | Probability | Priced In? | Notes |
 |------|--------|-------------|------------|-------|
 | ⚠️ **Permian / gas production slowdown (cycle risk)** | High | 25% | Partially | Ultimate demand driver; 10-K notes ≈82.8% of fleet in Permian + Eagle Ford. If Permian associated-gas growth stalls (gas price collapse, E&P capex discipline), utilization falls from 97.7% toward 85–90% and contract renewal pricing reverses. **Thesis-break: utilization <92% for 2 consecutive quarters.** |
-| ⚠️ **Kodiak Power Solutions integration / demand underwrite miss** | Medium | 25% | Partially | DPS ($675M) is a new vertical — natural gas power gen for AI data centers. Both AROC and USAC are also entering distributed power (competitive entry reduces first-mover premium). KGS has no prior track record in power gen. **Not fully priced in at current ≈11× EV/EBITDA** — the market assigns some credit but less than full bull-case value for KPS. Watch: first KPS revenue + EBITDA disclosure at Q1 2026 (May 11). |
+| ⚠️ **Power Infrastructure scaling / demand underwrite miss** | Medium | 20% | Partially | Q1 2026 delivered first partial-quarter contribution; FY26 guide $95–125M rev / 60–70% adj GM is encouraging but unproven at scale. Baker Hughes 1.8 GW framework signed but equipment delivery extends to 2030. AROC and USAC also entering distributed power. **Partially de-risked by Q1 delivery and anchor customer (100 MW, 99.9% uptime)**; still watch Power Infrastructure EBITDA margin vs. guide at Q2. |
 | ⚠️ **Balance sheet leverage post-DPS** | Medium | 30% | Partially | Pro forma leverage ≈3.8–4.0× post-DPS. Higher than AROC's 2.7× (per their FY2025 record results commentary). March 2026 refinancing (7.25% → 5.875% on $750M, extended to 2031) reduces near-term maturity risk but adds ≈$250M net new debt. **Not priced in**: if gas cycle turns before KGS de-levers to <3.0×, FCF burden could force dividend cut. |
 | ⚠️ **Tariff impact on compression equipment costs** | Medium | 40% | Not priced in | 10-K Item 1A explicitly flagged: *"potential direct and indirect impact of retaliatory tariffs"* including *"new trade barriers that disrupt supply chains, raise costs."* Large compression equipment includes Caterpillar/Waukesha engines with components sourced globally. New U.S. tariff regime could add 5–15% to new-build costs — reducing fleet expansion economics. No consensus impact model exists. |
 | ⚠️ **2027–2028 LNG export ramp creates gas oversupply** | High | 20% | Partially | U.S. LNG capacity is expanding from ≈14 Bcf/d to ≈25 Bcf/d by 2028. Post-ramp, if LNG demand disappoints (global gas glut, substitution), Haynesville and Permian volumes could soften. 10-K references the Jan 2024 LNG export pause (lifted Jan 2025) as an example of policy volatility. |
@@ -343,18 +348,15 @@ By FY2025 the risk profile shifted materially: CSI integration language disappea
 
 ## Section 8 — Valuation & Comparable Analysis
 
-### Current Multiples (April 24, 2026, $65.98 / ≈$5.83B market cap)
+### Current Multiples (August 1, 2026, $58.71 / ≈$5.83B market cap)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| EV (ex-DPS, using FY2025 net debt $2.60B) | ≈$8.43B | Market cap $5.83B + net debt $2.60B |
-| EV / Adj EBITDA (FY2025) | ≈11.8× | $8.43B / $715M |
-| EV / Adj EBITDA (FY2026E ex-DPS) | ≈11.0× | Approx. $8.43B / $765M midpoint guide |
-| Pro forma EV (incl. ≈$3.1–3.3B net debt) | ≈$9.0–9.1B [Estimate] | Post-DPS balance sheet |
-| Pro forma EV/EBITDA (FY2026E incl. DPS) | ≈10.7–11.0× [Estimate] | $9.0B / ≈$820-850M [Estimate] |
-| Dividend yield | ≈3.0% | $1.96 annualized / $65.98 |
-| P/E (GAAP, FY2025) | ≈71× | $65.98 / $0.91 EPS (GAAP) — not primary metric |
-| Forward P/E (FY2026 consensus) | ≈24× | $65.98 / $2.38 FY2026E EPS consensus |
+| Pro forma EV (mkt cap + ≈$3.1–3.3B net debt) | ≈$8.9–9.1B [Estimate] | Post-DPS balance sheet |
+| EV / Adj EBITDA (FY2026E, $840M midpoint) | **≈10.6×** | $8.9B / $840M — down from ≈11× at April baseline |
+| EV / Adj EBITDA (FY2025) | ≈12.5× | $8.9B / $715M |
+| Dividend yield | **3.3%** | $1.96 annualized / $58.71 |
+| Forward P/E (FY2026 consensus) | ≈22× | $58.71 / $2.65 FY2026E EPS [Estimate] |
 
 ### Peer Comparison
 
@@ -364,12 +366,12 @@ By FY2025 the risk profile shifted materially: CSI integration language disappea
 | Archrock (AROC) | ≈9–10× | 2.4% | ≈2.7× | Faster deleveraging; #2 scale; also entering distributed power; [AROC stockanalysis.com](https://stockanalysis.com/stocks/aroc/) |
 | USA Compression Partners (USAC) | ≈9× | 7.6% | higher | MLP structure; highest yield; #3 scale; J-W Power entry into distributed power; [USAC stockanalysis.com](https://stockanalysis.com/stocks/usac/) |
 
-**Assessment**: KGS trades at a ≈1–2 turn premium to peers, justified by scale leadership and highest utilization. The premium is not excessive for the moat quality differential. However:
-- AROC's faster de-leveraging (2.7× vs KGS ≈3.8×) partially offsets the scale premium
-- At 11× NTM EV/EBITDA, the current multiple assumes no cycle deterioration — leaving limited margin of safety at 52-wk high price
-- Goldman's $69 PT and BofA's $70 PT imply only ≈5–6% upside from $65.98 (vs. prior entry when stock was ≈$62)
+**Assessment**: KGS trades at ≈10.6× FY26E EV/EBITDA — a ≈1-turn premium to AROC/USAC, justified by scale leadership, record 98% utilization, and the Power Infrastructure growth optionality. The pullback from $77.68 to $58.71 has compressed the premium meaningfully:
+- Average analyst PT $83.53 implies +42% upside (vs. ≈5% at April baseline)
+- Wells Fargo $93 and Stifel $90 PTs reflect the Power Infrastructure scaling thesis
+- AROC's leverage advantage (2.7× vs KGS ≈3.8×) remains a partial offset
 
-**"Fair price" estimate**: Applying 9× NTM EV/EBITDA (compression operator fair value ex-cycle premium) on FY2026E adj EBITDA of ≈$820M [Estimate] minus $3.1B pro forma net debt, divided by 88.3M shares: ($7.38B - $3.10B) / 88.3M = ≈**$48/share** at "no-premium" valuation. At 10.5× (scale premium, full credit for KPS): (≈$8.6B - $3.1B) / 88.3M = ≈**$62/share**. Current $65.98 sits above both, confirming fair-to-slightly-rich pricing.
+**"Fair price" estimate**: At 9× on $840M midpoint adj EBITDA minus $3.2B net debt, divided by 99.33M shares: ($7.56B - $3.20B) / 99.33M = ≈**$44/share** ("no-premium"). At 10.5× (scale + power premium): ($8.82B - $3.20B) / 99.33M = ≈**$57/share**. Current $58.71 sits near the premium fair value — reasonably priced, no longer rich.
 
 ---
 
@@ -377,213 +379,197 @@ By FY2025 the risk profile shifted materially: CSI integration language disappea
 
 ### Live Price & Positioning
 
-- **Price**: $65.98 (April 24, 2026 close; [stockanalysis.com](https://stockanalysis.com/stocks/kgs/))
-- **52-week range**: $30.06 – $66.16
-- **% from 52-wk high**: –0.3% (essentially at all-time high since June 2023 IPO)
-- **% above 52-wk low**: +119%
-- **Market cap**: ≈$5.83B (88.30M shares)
+- **Price**: $58.71 (August 1, 2026 close; [stockanalysis.com](https://stockanalysis.com/stocks/kgs/))
+- **52-week range**: $30.06 – $77.68
+- **% from 52-wk high**: –24.4% (pulled back from ATH [Estimate: late April / early May 2026])
+- **% above 52-wk low**: +95%
+- **Market cap**: ≈$5.83B (99.33M shares)
 
 ### Analyst Consensus
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Consensus rating | **Strong Buy** (7 Buy / 0 Hold / 0 Sell) | [stockanalysis.com](https://stockanalysis.com/stocks/kgs/forecast/) |
-| Average price target | $57.17 | [stockanalysis.com](https://stockanalysis.com/stocks/kgs/forecast/) — structurally lagging as stock ran ahead of targets |
-| Median price target | **$63** | [stockanalysis.com](https://stockanalysis.com/stocks/kgs/forecast/) |
-| High price target | **$69** | BofA, April 2026 |
-| Low price target | $43 | Outlier |
-| Number of analysts | 6–7 | |
-
-*Note: The $57.17 average target is lagging because it includes stale low-end targets from before the stock re-rated. The $63 median and $69 high are more actionable. Implication: even bullish analysts see modest upside (≈5–8%) from $66, consistent with a "Hold at the high" thesis.*
+| Consensus rating | **Strong Buy** (10 Strong Buy / 5 Buy / 0 Hold / 0 Sell) | [stockanalysis.com](https://stockanalysis.com/stocks/kgs/forecast/) |
+| Average price target | **$83.53** | [stockanalysis.com](https://stockanalysis.com/stocks/kgs/forecast/) — +42% upside from $58.71 |
+| High price target | **$93** | Wells Fargo, July 2026 |
+| Low price target | $72 | |
+| Number of analysts | **15** (up from 7 in April) | |
 
 ### Recent Analyst Actions
 
 | Date | Firm | Action | Target |
 |------|------|--------|--------|
-| 2026-04-20 | Goldman Sachs | PT raised | $60 → $69 [link pending] |
-| 2026-04-16 | J.P. Morgan | Reiterated Buy | — [link pending] |
-| 2026-04-13 | Bank of America | PT raised | $45 → $70 |
+| 2026-07-28 | Piper Sandler | **Initiated** | $78 |
+| 2026-07-22 | RBC Capital | Maintained | $84 |
+| 2026-07-17 | Wells Fargo | Reiterated OW | **$93** |
+| 2026-07-14 | Stifel Nicolaus | Maintained | $90 (↑ $84) |
+| 2026-07-09 | Goldman Sachs | Maintained | $89 (↑ $88) |
 
 ### Short Interest
 
-- **Short interest**: 6.49% of float (≈5.69M shares) ([Fintel — KGS](https://fintel.io/ss/us/kgs), April 2026)
-- **Days to cover**: 6.41 days
-- **Borrow fee**: 0.41% APR (very cheap — no crowded-short setup)
-- **Directional read**: Low-mid single-digit short interest is normal for an energy infrastructure name; no short squeeze thesis, but also no significant bear thesis in the market.
+- **Short interest**: **8.57%** of float (≈7.56M shares) ([Fintel — KGS](https://fintel.io/ss/us/kgs), Jul 15, 2026)
+- **Days to cover**: 4.5 days (down from 6.41)
+- **Δ since April**: +32% (from 6.49% → 8.57%); bears adding into the pullback
+- **Directional read**: Short interest rising while analyst consensus is unanimously bullish creates a tension — bears see cycle risk and leverage; consensus sees power infrastructure growth. Watch for squeeze potential if Q2 beats.
 
-### Insider Activity (Last 90 Days)
+### Insider Activity (Last 90 Days, May–Aug 2026)
 
-- Multiple insider stock disposals through mid-March 2026 ([OpenInsider — KGS](http://openinsider.com/screener?s=KGS))
-- Context: stock near IPO-high after +120% run; selling for diversification is rational
-- Share repurchase program ($150M, expires Dec 31, 2026) is partially offsetting insider selling pressure
-- No material open-market insider buys reported
+- **All sales are pre-planned 10b5-1 dispositions**, not discretionary:
+  - CIO Buhigas: 4,625 shares at $67.78 (Jun 17)
+  - EVP/CHRO Roclawski: 4,169 shares at $68.36 (Jul 8)
+  - COO Lenamon: 1,000 shares at $67.79 (Jul 13)
+  - CEO McKee: 9,838 shares withheld for RSU tax obligation at $66.23 (not an open-market sale)
+- No open-market insider buys reported
+- All 10b5-1 sales executed at $66–$68 — above current $58.71
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-01] [M&A Close]** — 💰 DPS acquisition closed; rebranded as Kodiak Power Solutions; adds 395 MW distributed power gen; immediately accretive to earnings and DCF per share ([KGS 8-K, April 2, 2026](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000033/kgs-20260401.htm))
-- **[2026-03-20] [Tuck-in Acquisition]** — Acquired 20,000+ HP of large compression assets in Permian Basin for $24M; 7-year service agreement → $7M+ annualized revenue; integration into TX/NM operations ([KGS 8-K, March 24, 2026](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000022/kgs-20260323.htm))
-- **[2026-03-11] [Capital Markets]** — 💰 Priced $1.0B 5.875% senior unsecured notes due April 1, 2031; proceeds used to redeem $750M 7.25% notes due 2029 at 103.625% + support DPS acquisition; extends maturity profile 2 years; reduces rate on $750M from 7.25% to 5.875% ([KGS 8-K, March 12, 2026](https://www.sec.gov/Archives/edgar/data/1767042/000119312526102676/d71928d8k.htm))
-- **[2026-02-25] [Earnings]** — Q4 2025 and FY2025 results: $332.9M Q4 revenue (+3% seq); $715M FY adj EBITDA (+17%); FY2026 guide $1.37–1.43B revenue / $750–780M adj EBITDA (ex-DPS); +3.98% market reaction ([KGS 8-K, Feb 25, 2026](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000009/kgs-20260225.htm))
-- **[2026-02-05] [M&A Announcement]** — DPS acquisition announced for ≈$675M ($575M cash + 2.4M shares); enters distributed power gen vertical ([KGS 8-K, Feb 5, 2026](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000004/kgs-20260129.htm))
-- **[2026-04-20] [Analyst]** — Goldman Sachs PT raised $60 → $69 [link pending]
-- **[2026-04-13] [Analyst]** — BofA PT raised $45 → $70 [link pending]
+- **[2026-07-08] [Strategic Partnership]** — 📈 Baker Hughes multi-year gas turbine agreement: ≈1 GW by 2030, up to 1.8 GW total; NovaLT16 + Frame 5 turbines + training + long-term services ([GlobeNewswire](https://www.globenewswire.com/news-release/2026/07/08/3323943/0/en/Kodiak-Gas-Services-Baker-Hughes-Announce-Multi-Year-Gas-Turbine-Order-Agreement-to-Support-U-S-Data-Center-Growth.html))
+- **[2026-07-24] [Price Action]** — 📉 Stock dropped –9.3% in single session; no specific catalyst identified; valuation concern + near-term capex burden cited by aggregator commentary ([Daily Political](https://www.dailypolitical.com/2026/07/24/kodiak-gas-services-nysekgs-stock-price-down-9-3-time-to-sell.html))
+- **[2026-05-11] [Earnings]** — ✅ Q1 2026: record adj EBITDA $190.1M (+7% YoY); FY26 guide raised to $820–860M; Power Infrastructure segment reporting begins; fleet util 98%; Contract adj GM 70.6% (record) ([KGS Q1 2026 PR](https://ir.kodiakgas.com/news-events/press-releases/detail/79/kodiak-gas-services-reports-first-quarter-2026-financial))
+- **[2026-05-07] [Dividend]** — 💰 Q1 dividend $0.49/share declared (unchanged); record May 18, payment May 28 ([BusinessWire](https://www.businesswire.com/news/home/20260507412860/en/Kodiak-Gas-Services-Announces-Quarterly-Dividend))
+- **[2026-04-01] [M&A Close]** — 💰 DPS acquisition closed; rebranded as Power Infrastructure segment; adds 395 MW ([KGS 8-K](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000033/kgs-20260401.htm))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| 📅 **May 11, 2026** | **Q1 2026 earnings** ([stockanalysis.com](https://stockanalysis.com/stocks/kgs/forecast/)) | First print with Kodiak Power Solutions (DPS) contribution; will set tone for FY26 pro forma EBITDA guide and integration narrative; key thesis test |
-| 📅 May 7, 2026 | Annual meeting of stockholders ([KGS IR](https://ir.kodiakgas.com/)) | Governance; proxy vote outcomes; CEO address expected |
-| ≈Aug 2026 | Q2 2026 earnings | Full quarter of Kodiak Power Solutions; updated FY26 pro forma guide |
-| Ongoing | Permian rig count / production data | Leading indicator for compression demand renewal cycles |
-| Ongoing | LNG export capacity additions | Haynesville + Permian demand-side driver |
-| Ongoing | AI data center power contracts for Kodiak Power Solutions | First commercial milestones validate the DPS thesis |
+| 📅 **August 6, 2026** | **Q2 2026 earnings** | First full quarter of Power Infrastructure; updated FY26 guide; de-leveraging progress; Baker Hughes equipment delivery timeline |
+| Ongoing | Baker Hughes turbine deliveries | 61 MW expected 2026; remaining 2027–2029; validates 1 GW by 2030 target |
+| Ongoing | Permian rig count / production data | Leading indicator for compression demand |
+| Ongoing | AI data center power contracts | New customer wins validate the power infrastructure scaling thesis |
+| Dec 31, 2026 | $150M share repurchase program expiration | Renewal or expansion signals management capital-allocation confidence |
 
 ---
 
 ## Section 10 — BAIT Framework
 
-### B — Behavioral: **Weak**
+### B — Behavioral: **Moderate** (↑ from Weak)
 
-Stock at essentially the 52-week high (–0.3% from $66.16 high) after +120% since the IPO. No identifiable fear-driven or sentiment-driven mispricing. Insider selling near the high and analyst targets below the current price both argue against a behavioral edge. If anything, sentiment is mildly over-extended.
+Stock pulled back –24% from $77.68 ATH to $58.71 on no specific catalyst — the Jul 24 single-day –9.3% drop came with no earnings miss or management commentary. Short interest rising (+32%) into the pullback signals growing bearish sentiment. Analyst consensus remains unanimously bullish ($83.53 avg PT, +42% upside). This divergence between price action and fundamental trajectory creates a behavioral edge that did not exist at the April ATH.
 
 ### A — Analytical: **Moderate**
 
-Three analytical edges worth tracking:
-- **DPS/Kodiak Power Solutions is not in FY2026 consensus EBITDA guide** ($750–780M is ex-DPS per management). With DPS contributing ≈$55–80M in its first partial year [Estimate], true FY2026 adj EBITDA could reach $820–860M — roughly 7–10% above the guide that forms the basis for most sell-side models. The $57 average analyst PT is almost certainly computed on ex-DPS numbers.
-- **Pricing power on contract renewals is not fully modeled.** The 10-K MD&A reveals $145.2M of FY2025 Contract Services revenue growth was explicitly "price increases" — not volume. If this continues into FY2026 renewals (contracts from 2020–2022 vintage renewing at current market rates), EBITDA/HP could expand further beyond the guide.
-- **OBBBA full expensing** materially reduced FY2025 taxes and creates a structural lower-tax-rate tailwind for FCF generation into FY2026+.
+- **FY26 guide now includes DPS** ($820–860M vs. prior $750–780M ex-DPS), removing the prior "consensus exclusion" edge. However, the Baker Hughes 1.8 GW framework (Jul 8) is not yet in most sell-side models — power infrastructure beyond the initial 395 MW is optionality, not base case.
+- **Contract adj GM 70.6%** (Q1 record) suggests pricing power is accelerating, not decelerating — this trajectory is not fully modeled in consensus.
+- **OBBBA full-expensing tailwind** continues into FY2026+.
 
-*Limit*: At ≈11× NTM EV/EBITDA on a cyclical infrastructure name near a 52-week high, the analytical edge resolves to "modest upside, not asymmetric."
+### I — Informational: **Moderate** (narrowed)
 
-### I — Informational: **Moderate**
+The Q1 earnings and guidance raise are now public and widely covered. Primary-source edges have largely been incorporated by the expanded 15-analyst coverage. Remaining edge: lead times for 3,600-HP compression engines have stretched beyond 180 weeks per management commentary — this creates a structural supply constraint that benefits incumbents but is not prominently discussed in aggregator coverage.
 
-The primary-source reading of the FY2025 10-K reveals several facts not prominent in aggregator coverage:
-- **Revenue growth is pricing-led** (not just HP growth) — $145.2M of Contract Services increase was from "price increases and average HP" per MD&A
-- **Mexico exit improves quality**: 97.7% utilization and 54.7% Adj EBITDA margin are on a purely U.S.-footprint fleet (post-Sept 2025)
-- **EQT fully exited**: No more secondary offering risk post-Dec 2, 2025
-- **Texas sales tax settlement ($28M) was one-time** in FY2025 — will not recur in FY2026, providing a small FCF tailwind
-- **March 2026 refinancing extends 2029 maturity to 2031** — reduces near-term maturity risk
+### T — Technical: **Weak** (↓ from Moderate)
 
-### T — Technical: **Moderate**
-
-- Stock at 52-wk high — momentum strongly positive
-- EQT exit eliminates secondary overhang permanently
-- $150M buyback program (expires Dec 2026) provides mechanical support
-- Low short interest (6.49%, 0.41% borrow) means no squeeze catalyst but also no pressure to cover
-- Insider selling is a mild offset
+- Stock –24% from ATH; technically broken from highs; momentum negative
+- Short interest rising (6.49% → 8.57%); bears adding positions
+- Insider selling (all 10b5-1) at $66–68 — above current price
+- $150M buyback program (expires Dec 2026) provides some support but not enough to offset the pullback
 
 ### BAIT Verdict
 
-**Double overlap (A Moderate + I Moderate + T Moderate)**. Conviction: **Low-Moderate**. KGS is a quality compounder at fair value to slightly rich, not a mispricing. The analytical and informational edges are real but resolve to "low-to-mid single-digit % upside" rather than asymmetric returns. Wait for the behavioral edge (a pullback to $50–55 range) before the conviction reaches Moderate.
+**Double overlap (B Moderate + A Moderate)**. Conviction: **Moderate** (↑ from Low-Moderate). The behavioral edge that was absent at the ATH has now appeared — thesis strengthened (record EBITDA, guidance raise, Baker Hughes partnership) while price fell 24%. I narrowed as the 15-analyst coverage incorporated most primary-source insights. T degraded on broken momentum and rising short interest. Net: improved setup at $58.71 vs. $65.98.
 
 ---
 
 ## Section 11 — Bull / Bear / Base Cases
 
-*All scenarios are 3-year (2029) terminal price targets from current price $65.98. Probabilities sum to 100%.*
+*All scenarios are 5-year (2031) terminal price targets from current price $58.71 per Rule #24. Probabilities sum to 100%.*
 
-### Bull Case — $95 by 2029 (+44% from $65.98, ≈13% CAGR) — Probability: **30%**
+### Bull Case — $110 by 2031 (+87%, ≈13% CAGR) — Probability: **25%**
 
-- **Compression**: FY2028 core adj EBITDA $980M (organic HP growth ≈170K HP/yr through 2028 + pricing power + OBBBA tailwind)
-- **Kodiak Power Solutions**: Scales to $120–150M adj EBITDA by FY2028 (full 395 MW deployed; additional MW contracted); data center demand validates thesis
-- **Total FY2028 adj EBITDA**: ≈$1.1B
-- **Multiple**: 11× EV/EBITDA (AI/LNG demand narrative sustains premium)
-- **Leverage**: de-levers to ≈2.8× by 2028; dividend grows mid-single-digit; buybacks initiated 2027–2028
-- **Price**: ($1.1B × 11× − $2.5B debt) / 88M shares ≈ $95 (approx.)
+- **Compression**: FY2030 core adj EBITDA $1.05B (organic HP growth + pricing power on renewals + OBBBA tailwind)
+- **Power Infrastructure**: Baker Hughes 1.8 GW framework fully delivered by 2030; scales to $250–350M adj EBITDA; multiple data center anchors
+- **Total FY2030 adj EBITDA**: ≈$1.35B
+- **Multiple**: 10× (power growth sustains premium)
+- **Leverage**: de-levers to <2.5× by 2030; dividend grows mid-single-digit; buybacks accelerate
+- **Price**: ($1.35B × 10× − $2.5B debt) / 99.33M shares ≈ $110
 
-### Base Case — $75 by 2029 (+14%, ≈4% CAGR + 3% div yield = ≈7% total) — Probability: **50%**
+### Base Case — $78 by 2031 (+33%, ≈6% CAGR + 3.3% div ≈ 9% total) — Probability: **50%**
 
-- **Compression**: FY2028 adj EBITDA $930M (steady 2–3% HP growth + modest pricing)
-- **Kodiak Power Solutions**: $70–90M adj EBITDA by FY2028 (partial deployment; some execution friction)
-- **Total FY2028 adj EBITDA**: ≈$1.0B
-- **Multiple**: 9.5× (cycle maturity compresses multiple)
-- **Leverage**: de-levers to ≈3.0× by 2028; dividend grows at inflation; minimal buybacks
-- **Price**: ($1.0B × 9.5× − $2.7B debt) / 88M shares ≈ $75
+- **Compression**: FY2030 adj EBITDA $950M (steady 2–3% HP growth + modest pricing)
+- **Power Infrastructure**: Partial deployment (~800 MW); $100–150M adj EBITDA; some execution friction
+- **Total FY2030 adj EBITDA**: ≈$1.1B
+- **Multiple**: 9× (cycle maturity compresses multiple)
+- **Leverage**: de-levers to ≈2.8× by 2030; dividend grows at inflation
+- **Price**: ($1.1B × 9× − $2.8B debt) / 99.33M shares ≈ $78
 
-### Bear Case — $38 by 2029 (–42%, ≈–17% CAGR) — Probability: **20%**
+### Bear Case — $30 by 2031 (–49%, ≈–12% CAGR) — Probability: **25%**
 
-- **Compression**: Permian/gas market softens 2027; utilization falls to 88%; contract renewals at lower rates; EBITDA $750M
-- **Kodiak Power Solutions**: Integration disappoints; impairment charges; data center alternative power (nuclear, large-grid) competes away gas-gen demand
-- **Total FY2028 adj EBITDA**: ≈$750M
+- **Compression**: Gas cycle turns 2027–2028; utilization falls to 88%; contract renewals at lower rates; EBITDA $750M
+- **Power Infrastructure**: Integration disappoints; nuclear/grid alternatives compete away gas-gen demand; impairment charges
+- **Total FY2030 adj EBITDA**: ≈$780M
 - **Multiple**: 7× (cyclical compression at leverage trough)
 - **Leverage**: refinancing risk as de-lever stalls above 3.5×; possible dividend cut
-- **Price**: ($750M × 7× − $3.2B debt) / 88M shares ≈ $38
+- **Price**: ($780M × 7× − $3.0B debt) / 99.33M shares ≈ $30
 
 ---
 
 ## Section 12 — Probability-Weighted Expected Value
 
-| Scenario | Terminal (2029) Price | Probability | PW Contribution |
+| Scenario | Terminal (2031) Price | Probability | PW Contribution |
 |----------|----------------------|-------------|-----------------|
-| Bull | $95 | 30% | $28.50 |
-| Base | $75 | 50% | $37.50 |
-| Bear | $38 | 20% | $7.60 |
-| **PW EV (3-yr)** | | | **≈$73.60** |
+| Bull | $110 | 25% | $27.50 |
+| Base | $78 | 50% | $39.00 |
+| Bear | $30 | 25% | $7.50 |
+| **PW EV (5-yr)** | | | **≈$74.00** |
 
-| Current Price | PW EV | 3-yr Return (ex-div) | + Div (3% × 3yr) | Annualized (incl. div) |
-|--------------|-------|---------------------|------------------|-----------------------|
-| $65.98 | $73.60 | +12% | +9% (cumul) | ≈7%/yr |
+| Current Price | PW EV | 5-yr Return (ex-div) | + Div (3.3% × 5yr) | Annualized (incl. div) |
+|--------------|-------|---------------------|--------------------|-----------------------|
+| $58.71 | $74.00 | +26% | +16.5% (cumul) | ≈8%/yr |
 
-**R/R**: Bull case % upside: ($95 − $65.98) / $65.98 = **+44%** / Bear case % downside: ($65.98 − $38) / $65.98 = **–42%** → **R/R ≈ 1.0:1** (at current price)
+**R/R**: Bull upside: ($110 − $58.71) / $58.71 = **+87%** / Bear downside: ($58.71 − $30) / $58.71 = **–49%** → **R/R ≈ 1.8:1** (at current price)
 
-At the **$50–55 entry zone**:
-- Bull upside: ($95 − $52.50) / $52.50 = +81%
-- Bear downside: ($52.50 − $38) / $52.50 = –28%
-- R/R at entry zone: **≈2.9:1** — this is why the $50–55 level transforms the setup from "watch" to "initiate"
+At the **$50–55 entry zone** (midpoint $52.50):
+- Bull upside: ($110 − $52.50) / $52.50 = +110%
+- Bear downside: ($52.50 − $30) / $52.50 = –43%
+- R/R at entry zone: **≈2.6:1**
 
-**Interpretation**: At $65.98, expected 3-year return of ≈7%/yr including dividend is acceptable but not asymmetric. The stock is pricing roughly at PW EV with no margin of safety. The R/R of 1.0:1 confirms the "Hold/Watch" posture vs. "Initiate/Add." A compression to the $50–55 entry zone (roughly a –20% drawdown from here) would lift R/R to ≈3:1 and transform the setup.
+**Interpretation**: At $58.71, the setup has improved materially from the April baseline ($65.98, R/R 1.0:1). The stock now sits near the mechanically-derived 20% MoS entry line ($74 × 0.80 = $59.20) with ~1.8:1 R/R and an ≈8%/yr expected return including dividend. Not wildly asymmetric, but thesis-strengthening (guidance raise, Baker Hughes, record margins) while price fell justifies a verb upgrade from Watch to Initiate (small, scaled).
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Kodiak is the U.S. compression scale leader with 97.7% utilization, confirmed AI-data-center power gen optionality via Kodiak Power Solutions (395 MW), and a strengthening capital allocation track record — but at $66 (at the 52-wk high, ≈11× NTM EV/EBITDA) the stock prices the bull case adequately with ≈1:1 R/R and ≈7% expected annualized return.
+**Thesis in one sentence**: Kodiak is the U.S. compression scale leader with record 98% utilization, a validated Power Infrastructure segment ($95–125M FY26 guide, Baker Hughes 1.8 GW framework), and FY26 adj EBITDA guide raised to $820–860M — and at $59 (–24% from ATH, ≈10.6× NTM EV/EBITDA) the stock now sits near the mechanically-derived entry zone with ≈1.8:1 R/R.
 
-**For a non-holder**: 🟡 **Watch** — at $65.98, the expected 3-year return is ≈7%/yr with essentially 1:1 risk-reward. Initiate only on a pullback to **$50–55** where R/R improves to ≈3:1 and dividend yield reaches ≈3.6–3.9%.
+**For a non-holder**: 🟢 **Initiate (small, scaled)** — at $58.71, the thesis has strengthened (record EBITDA, guidance raise, Baker Hughes partnership) while the price fell 24%. R/R improved from ≈1:1 to ≈1.8:1. Entry zone **$50–58**; scale into further weakness.
 
-**For a current holder**: 🟡 **Hold** — collect the 3.0% dividend + mid-single-digit EBITDA growth. Trim into $72–80 as thesis-break triggers. Do not add at the 52-wk high.
+**For a current holder**: 🟡 **Hold** — collect the 3.3% dividend + EBITDA growth trajectory. Thesis stronger than in April; do not sell into the pullback. Trim into $80–95.
 
-🎯 **Attractive entry zone**: **$50–55** (rationale: ≈9× FY2026E EV/EBITDA pro forma DPS; ≈3.6–3.9% dividend yield; ≈3:1 R/R vs. Bear case)
+🎯 **Attractive entry zone**: **$50–58** (rationale: ≈9–10× FY26E EV/EBITDA at $840M midpoint; ≈3.3–3.9% dividend yield; near/within 20% MoS from PW EV $74)
 
-🎯 **Trim zone**: **$72–80** (rationale: 11–12× FY2026E EBITDA pro forma DPS; matches the top of analyst consensus; cycle premium fully priced)
+🎯 **Trim zone**: **$80–95** (rationale: 11–12× FY26E EBITDA; matches analyst consensus cluster; cycle premium fully priced)
 
-🔴 **Exit / avoid zone**: **>$85** (rationale: requires >12× EV/EBITDA on a leveraged cyclical compression name; historically unsustainable; KPS execution would need to be validated beyond current optionality)
+🔴 **Exit / avoid zone**: **>$100** (rationale: requires >12× EV/EBITDA on a leveraged cyclical name; power infrastructure upside would need to be validated at scale)
 
 **Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
-- ⚠️ Fleet utilization falls below 92% for two consecutive quarters (signals meaningful demand softening)
+- ⚠️ Fleet utilization falls below 92% for two consecutive quarters
 - ⚠️ Permian rig count drops >25% from 2026 baseline for two consecutive quarters
-- ⚠️ Kodiak Power Solutions (DPS) impairment or material integration charge announced at any quarterly update
-- ⚠️ Net leverage rises above 4.5× and remains >4.0× for two consecutive quarters (signals de-lever thesis breaking)
-- ⚠️ FY2026 adj EBITDA guide is cut materially below $750M (ex-DPS) at any quarterly update
-- ⚠️ Tariff-driven compressor cost inflation materially reduces new-build ROIC (<10% unlevered) — would terminate the organic fleet expansion thesis
+- ⚠️ Power Infrastructure impairment or material integration charge
+- ⚠️ Net leverage rises above 4.5× and remains >4.0× for two consecutive quarters
+- ⚠️ FY2026 adj EBITDA guide cut below $800M
+- ⚠️ Baker Hughes framework cancelled or materially delayed
 - ⚠️ Dividend cut announced
-- ⚠️ Major insider cluster sell ($10M+ aggregate from named officers in a single quarter)
+- ⚠️ Major insider cluster sell ($10M+ from named officers in a single quarter)
 
-📅 **Next review trigger**: **Q1 2026 earnings — May 11, 2026** — first print with Kodiak Power Solutions contribution; updated FY2026 pro forma guide; integration commentary. The earnings call will either confirm the AI-data-center demand thesis or reveal early execution friction.
+📅 **Next review trigger**: **Q2 2026 earnings — August 6, 2026** — first full quarter of Power Infrastructure reporting; de-leveraging progress; Baker Hughes equipment delivery timeline; updated FY26 guide.
 
 ---
 
 ### Sources
 
-- [KGS FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000012/kgs-20251231.htm) (filed Feb 26, 2026; primary source for all financial metrics, MD&A, risk factors, debt structure; [local copy](../../../raw/KGS/filings/KGS-10K-FY2025.htm))
-- [KGS FY2024 10-K](https://www.sec.gov/Archives/edgar/data/1767042/000176704225000010/kgs-20241231.htm) (filed March 7, 2025; [local copy](../../../raw/KGS/filings/KGS-10K-FY2024.htm))
-- [KGS FY2023 10-K](https://www.sec.gov/Archives/edgar/data/1767042/000176704224000011/kgs-20231231.htm) (filed March 7, 2024; risk factor comparison; [local copy](../../../raw/KGS/filings/KGS-10K-FY2023.htm))
-- [KGS FY2025 DEF 14A Proxy Statement](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000028/kgs-20260327.htm) (filed March 27, 2026; CEO Mickey McKee letter; [local copy](../../../raw/KGS/shareholder-letters/2025_proxy_DEF14A.htm))
-- [KGS FY2024 DEF 14A Proxy Statement](https://www.sec.gov/Archives/edgar/data/1767042/000176704225000016/a2025proxy.htm) (filed March 17, 2025; [local copy](../../../raw/KGS/shareholder-letters/2024_proxy_DEF14A.htm))
-- [KGS FY2023 DEF 14A Proxy Statement](https://www.sec.gov/Archives/edgar/data/1767042/000176704224000020/a2023proxy.htm) (filed March 25, 2024; [local copy](../../../raw/KGS/shareholder-letters/2023_proxy_DEF14A.htm))
-- [Q4 2025 earnings 8-K, Feb 25, 2026](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000009/kgs-20260225.htm)
+- [KGS Q1 2026 Earnings PR](https://ir.kodiakgas.com/news-events/press-releases/detail/79/kodiak-gas-services-reports-first-quarter-2026-financial) (May 11, 2026; record adj EBITDA $190.1M; FY26 guide raised)
+- [KGS Q1 2026 Earnings Call Transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/05/11/kodiak-gas-kgs-q1-2026-earnings-transcript/)
+- [Baker Hughes Multi-Year Gas Turbine Agreement — GlobeNewswire](https://www.globenewswire.com/news-release/2026/07/08/3323943/0/en/Kodiak-Gas-Services-Baker-Hughes-Announce-Multi-Year-Gas-Turbine-Order-Agreement-to-Support-U-S-Data-Center-Growth.html) (Jul 8, 2026; ≈1 GW by 2030, up to 1.8 GW)
+- [KGS Q1 2026 Dividend 8-K](https://www.sec.gov/Archives/edgar/data/0001767042/000176704226000038/kgsq12026dividendannouncem.htm) (May 7, 2026; $0.49/share)
+- [KGS Q1 2026 Earnings 8-K](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000041/kgsq12026earningsrelease.htm) (May 11, 2026)
+- [KGS FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000012/kgs-20251231.htm) (filed Feb 26, 2026; [local copy](../../../raw/KGS/filings/KGS-10K-FY2025.htm))
+- [KGS FY2024 10-K](https://www.sec.gov/Archives/edgar/data/1767042/000176704225000010/kgs-20241231.htm) ([local copy](../../../raw/KGS/filings/KGS-10K-FY2024.htm))
+- [KGS FY2023 10-K](https://www.sec.gov/Archives/edgar/data/1767042/000176704224000011/kgs-20231231.htm) ([local copy](../../../raw/KGS/filings/KGS-10K-FY2023.htm))
+- [KGS FY2025 DEF 14A Proxy Statement](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000028/kgs-20260327.htm) (CEO Mickey McKee letter; [local copy](../../../raw/KGS/shareholder-letters/2025_proxy_DEF14A.htm))
 - [DPS acquisition close 8-K, April 2, 2026](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000033/kgs-20260401.htm)
-- [March 2026 Senior Notes 8-K, March 12, 2026](https://www.sec.gov/Archives/edgar/data/1767042/000119312526102676/d71928d8k.htm)
-- [Permian Basin tuck-in 8-K, March 24, 2026](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000022/kgs-20260323.htm)
-- [stockanalysis.com — KGS](https://stockanalysis.com/stocks/kgs/) (live price, market cap, financial data)
-- [stockanalysis.com — KGS financials](https://stockanalysis.com/stocks/kgs/financials/) (income statement)
-- [stockanalysis.com — KGS balance sheet](https://stockanalysis.com/stocks/kgs/financials/balance-sheet/) (debt, equity)
-- [stockanalysis.com — KGS forecast](https://stockanalysis.com/stocks/kgs/forecast/) (analyst consensus, earnings date)
-- [Fintel — KGS short interest](https://fintel.io/ss/us/kgs) (6.49% float, 6.41 days-to-cover, April 2026)
-- [OpenInsider — KGS](http://openinsider.com/screener?s=KGS) (insider activity)
+- [stockanalysis.com — KGS](https://stockanalysis.com/stocks/kgs/) (live price, market cap, financials, analyst consensus)
+- [stockanalysis.com — KGS forecast](https://stockanalysis.com/stocks/kgs/forecast/) (15 analysts, avg PT $83.53)
+- [Fintel — KGS short interest](https://fintel.io/ss/us/kgs) (8.57% float, 4.5 DTC, Jul 15, 2026)
 - [AROC stockanalysis.com](https://stockanalysis.com/stocks/aroc/) (peer comparison)
 - [USAC stockanalysis.com](https://stockanalysis.com/stocks/usac/) (peer comparison)
-- BofA price target raise $45 → $70 (April 13, 2026) [link pending]
-- Goldman Sachs price target raise $60 → $69 (April 20, 2026) [link pending]
-- J.P. Morgan Buy reiteration (April 16, 2026) [link pending]

@@ -255,6 +255,7 @@ Kodiak is U.S.-only post-Mexico exit (September 2025). Internal geographic mix p
 | Mexico operations sale | Sept 2025 | $34.3M (net assets) | Took $33.3M loss to exit; sharpened U.S. focus |
 | EQT exit facilitation | 2025 | 38.5M shares | Non-dilutive; removed overhang; company repurchased 2.7M shares ($150M program) |
 | DPS acquisition / Kodiak Power Solutions | April 2026 | ≈$675M | New vertical; 395 MW power gen; adjacent to core compression expertise |
+| May 2026 equity offering | May 2026 | $750M (10.56M shares at $71) | Primary offering to fund Power capex + ABL paydown; dilutive ≈11% |
 | March 2026 notes refinancing | March 2026 | $750M → $1B | Replaced 7.25% 2029 notes with 5.875% 2031 notes; extended maturity 2 years; net $250M new capital for DPS |
 | Dividend increases (two) | FY2025 | — | $1.96 annualized by Q4 2025; management commitment to progressive dividend |
 
@@ -426,6 +427,7 @@ By FY2025 the risk profile shifted materially: CSI integration language disappea
 
 - **[2026-07-08] [Strategic Partnership]** — 📈 Baker Hughes multi-year gas turbine agreement: ≈1 GW by 2030, up to 1.8 GW total; NovaLT16 + Frame 5 turbines + training + long-term services ([GlobeNewswire](https://www.globenewswire.com/news-release/2026/07/08/3323943/0/en/Kodiak-Gas-Services-Baker-Hughes-Announce-Multi-Year-Gas-Turbine-Order-Agreement-to-Support-U-S-Data-Center-Growth.html))
 - **[2026-07-24] [Price Action]** — 📉 Stock dropped –9.3% in single session; no specific catalyst identified; valuation concern + near-term capex burden cited by aggregator commentary ([Daily Political](https://www.dailypolitical.com/2026/07/24/kodiak-gas-services-nysekgs-stock-price-down-9-3-time-to-sell.html))
+- **[2026-05-14] [Equity Offering]** — 💰 $750M primary offering: 10.56M shares priced at $71.00; proceeds fund Power capex + ABL paydown; dilutive ≈11% ([KGS IR](https://ir.kodiakgas.com/news-events/press-releases/detail/81/kodiak-gas-services-announces-pricing-of-public-offering-of))
 - **[2026-05-11] [Earnings]** — ✅ Q1 2026: record adj EBITDA $190.1M (+7% YoY); FY26 guide raised to $820–860M; Power Infrastructure segment reporting begins; fleet util 98%; Contract adj GM 70.6% (record) ([KGS Q1 2026 PR](https://ir.kodiakgas.com/news-events/press-releases/detail/79/kodiak-gas-services-reports-first-quarter-2026-financial))
 - **[2026-05-07] [Dividend]** — 💰 Q1 dividend $0.49/share declared (unchanged); record May 18, payment May 28 ([BusinessWire](https://www.businesswire.com/news/home/20260507412860/en/Kodiak-Gas-Services-Announces-Quarterly-Dividend))
 - **[2026-04-01] [M&A Close]** — 💰 DPS acquisition closed; rebranded as Power Infrastructure segment; adds 395 MW ([KGS 8-K](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000033/kgs-20260401.htm))

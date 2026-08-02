@@ -20,7 +20,8 @@
 - **§5**: Baker Hughes 1.8 GW multi-year gas turbine framework added; 260+ MW additional procurement ordered; near-term target 650+ MW, end-of-decade 2+ GW
 - **§6**: Power Infrastructure risk probability reduced (20% from 25%) — partially de-risked by Q1 delivery and anchor customer (100 MW, 99.9% uptime)
 - **§8**: Recomputed at $58.71 / ≈10.6× FY26E EV/EBITDA (from ≈11× at $65.98); fair value estimate $44–57/share; stock near premium fair value
-- **§9**: Full refresh — 15 analysts (from 7), avg PT $83.53 (from $57.17), range $72–$93; short interest 8.57% (from 6.49%); all insider sales 10b5-1 at $66–68; Baker Hughes and Q1 earnings added to news; Q2 earnings Aug 6 added to catalysts
+- **§4**: Added May 2026 $750M equity offering (10.56M shares at $71) to capital allocation track record
+- **§9**: Full refresh — 15 analysts (from 7), avg PT $83.53 (from $57.17), range $72–$93; short interest 8.57% (from 6.49%); all insider sales 10b5-1 at $66–68; Baker Hughes, equity offering, and Q1 earnings added to news; Q2 earnings Aug 6 added to catalysts
 - **§10 BAIT**: B upgraded Weak→Moderate (–24% pullback creates behavioral edge); T degraded Moderate→Weak (broken momentum, rising short interest); net composition shifted A+I+T → B+A; conviction Low-Moderate → Moderate
 - **§11**: Migrated from 3-yr (2029) to 5-yr (2031) terminal per Rule #24; Bull $95→$110 (25%), Base $75→$78 (50%), Bear $38→$30 (25%) — reflects new share count 99.33M and higher EBITDA trajectory
 - **§12**: PW EV $73.60→$74.00 (5-yr); R/R improved ≈1.0:1→**≈1.8:1** (price fell while thesis strengthened)

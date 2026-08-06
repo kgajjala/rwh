@@ -4,6 +4,48 @@
 
 ---
 
+## [2026-08-06] — Q1 2026 Earnings Beat + Guidance Raise + Insider Buying Cluster
+
+**Trigger**: Q1 2026 earnings (May 12) + coordinated insider buying (May 14) + short interest doubling + analyst coverage expansion. 102-day lookback window (Apr 26 → Aug 6).
+**Sources reviewed**:
+- [On Holding Q1 2026 Press Release](https://investors.on-running.com/news/news-details/2026/On-Reports-First-Quarter-2026-Results/default.aspx)
+- [On Holding Q1 2026 Earnings Call Transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-on-holding-ag-q1-2026-shows-record-sales-growth-93CH-4681109)
+- [Yahoo Finance — ONON Quote](https://finance.yahoo.com/quote/ONON/) (live price $37.89)
+- [stockanalysis.com — ONON Statistics + Forecast](https://stockanalysis.com/stocks/onon/statistics/)
+- [ChartExchange — ONON Short Interest](https://chartexchange.com/symbol/nyse-onon/short-interest/)
+- [SEC Form 4 — Allemann (May 14)](https://www.stocktitan.net/sec-filings/ONON/form-4-on-holding-ag-insider-trading-activity-47e87477f469.html)
+- [JP Morgan Coverage Resumption (Jul 2)](https://finance.yahoo.com/markets/stocks/articles/jpmorgan-resumes-coverage-holding-onon-144730969.html)
+
+### What Changed
+- **§1 (Financials)**: Added Q1 2026 quarterly row — CHF 831.9M (+26.4% c-c), GM 64.2% (+430bps), adj EBITDA margin 21.0% (+450bps), EPS $0.47 (beat $0.35 cons by 33%)
+- **§2 (Revenue/Geo)**: APAC crossed >20% of global sales (+61.4% c-c); apparel crossed 10% of DTC (+57.5% c-c); South Korea tripled YoY
+- **§4 (Management)**: Added coordinated $6.6M insider-buying cluster (May 14) — all 3 co-founders × 60K shares each at ~$36.64; updated RMC with Q1 call context
+- **§5 (Growth)**: Added football expansion intent (Bernhard/Bloomberg Jun 26) and CleanCloud captured-carbon midsole launch (Jul 2026)
+- **§6 (Risks)**: Added short-interest-doubling risk (4.80%→9.45%); apparel risk probability lowered 30%→25% on Q1 confirmation
+- **§8 (Valuation)**: Multiples refreshed to Aug 6 ($37.89 / $12.63B mkt cap / $12.04B EV); fwd P/E 20.9×; EV/EBITDA TTM 17.7×
+- **§9 (Catalyst/Sentiment)**: Full refresh — price, 52-wk range ($31.41–$52.20), analyst consensus (28 analysts, median $51, down from $60), short interest (9.45%, nearly doubled), insider cluster, news, Q2 Aug 11 catalyst
+- **§10 (BAIT)**: B-Strong updated with post-Q1 round-trip evidence; I-Moderate updated with insider signal + JP Morgan PCW; T-Weak updated with short interest doubling
+- **§11 (Scenarios)**: Migrated from 3-yr to 5-yr terminal per Rule #24. Bull $75→$90, Base $52→$60, Bear $22→$25. Bear probability raised 20%→25% on short-interest signal
+- **§12 (PW EV)**: Recomputed — PW EV $53→**$59** (+56% 5-yr); R/R 2.7:1→**4.0:1**
+- **§13 (Recommendation)**: Verbs unchanged (Initiate / Add); zones adjusted; thesis-break triggers updated (added short-interest 15% threshold); next review = Q2 Aug 11
+- **Summary**: Refreshed with Q1 data, scenario table, KPI strip, Why/Why-not bullets per Rule #17
+- **Key Stats**: Full refresh with Q1 data, raised guidance, updated multiples and consensus
+- **Guidance raised**: GM ≥63%→**≥64.5%**; EBITDA margin 18.5–19%→**19.5–20%**
+
+### Thesis Status
+- **Overall**: **Strengthened** — Q1 was a clean beat on every metric; guidance raised on both margin lines; insider buying validates management confidence. But stock round-tripped from $52 post-Q1 back to $38, and short interest nearly doubled, tempering the upgrade.
+- **BAIT delta**: Unchanged (Double B-Strong + A-Mod). Q1 beat should have flipped I+T per prior conditional, but the round-trip and SI doubling kept conviction at Moderate.
+- **Price target delta**: Bull $75 → $90 | Base $52 → $60 | Bear $22 → $25 | PW EV $53 → **$59** (5-yr terminal migration)
+- **Catalyst & Sentiment delta**: Short interest 4.80% → **9.45%** (nearly doubled, bearish); analyst count 21 → 28 (coverage broadening); median target $60 → $51 (down despite beat); $6.6M coordinated insider buying (strongly bullish offset)
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate** — at $38, R/R improved to 4.0:1; insider buying at $37 anchors; size conservatively ahead of Q2 Aug 11
+- **For a current holder**: 🟢 **Add** — incremental adds $35–40 zone; Q2 binary may offer cheaper add or confirm thesis
+
+**Next review trigger**: Q2 2026 earnings — **August 11, 2026**. Key items: c-c growth sustainability, GM vs. ≥64.5% guide, APAC >20% durability, apparel growth, tariff update, short interest direction post-print.
+
+---
+
 ## [2026-04-26] — v2.9 Schema Retrofit
 
 **Trigger**: Schema migration v2.5 → v2.9 (13-section structure, competitive landscape integration, primary source synthesis, risk materiality filter)

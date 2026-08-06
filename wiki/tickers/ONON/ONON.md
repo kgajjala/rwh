@@ -1,26 +1,33 @@
 # ONON — On Holding AG
 
 > **Schema**: v3.0
-> **Last Updated**: 2026-04-26
+> **Last Updated**: 2026-08-06
 > **Status**: Active
-> **Live Price Verified**: **$36.25** at April 24, 2026 ([Finviz](https://finviz.com/quote.ashx?t=ONON); 52-wk range $31.41 – $61.29, –40.8% from high)
+> **Live Price Verified**: **$37.89** at August 6, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/ONON/); 52-wk range $31.41 – $52.20, –27.4% from high)
 > **Ticker Type**: Premium consumer brand / DTC + wholesale athletic footwear
 
 ---
 
 ## Summary
 
-- 🟢 **Thesis**: Premium Swiss athletic brand compounding 23%+ at constant currency with record 62.8% gross margins — mispriced by FX headwind + tariff macro + leadership-transition anxiety at $36.25.
-- 🟢 **For a non-holder: Initiate** — at $36, asymmetry is constructive; PW EV $53 (3-yr, +46%); median analyst target $60 (+66%).
-- 🟢 **For a current holder: Add** — incremental adds in $32–38 zone favored; avoid adding above $42 until Q1 2026 tariff reality-check clears.
-- 🎯 **Attractive entry zone**: **$31 – $40** (≈13–16× 2026E EBITDA; below historical floor).
-- 🎯 **Trim zone**: **$60 – $70** (≈22–25× 2026E EBITDA; DECK parity re-rate).
-- 📉 **Price action**: $36.25, **–40.8% from 52-wk high** ($61.29), +15.4% above 52-wk low ($31.41).
-- 📅 **Next catalyst**: **Q1 2026 earnings — May 12, 2026**. First print under 2026 guide; tariff-impact reality check and initial read on new co-CEO leadership structure.
-- ⚠️ **Top risk**: U.S. tariff escalation on Asia-sourced footwear — 50bps+ gross-margin drag; guidance built on 20% tariff assumption.
-- ⚠️ **Second risk**: Leadership transition (co-founders Allemann + Coppetti now co-CEOs replacing Marc Maurer, announced Mar 26, 2026) — execution continuity unproven at current scale.
-- 🟡 **Moat verdict**: **Narrow** — brand premium + pricing discipline (63% GM) + DTC mix shift + athlete ecosystem (Federer, Świątek, Shelton), offset by zero switching costs and fashion-cycle vulnerability.
-- 🟡 **BAIT verdict**: **Double overlap (B Strong + A Moderate)** — Conviction **Moderate**. Behavioral selloff on tariff + guidance + leadership noise; analytical edge in constant-currency vs. reported gap and apparel optionality not yet in consensus.
+- 🟢 **Thesis**: Premium Swiss athletic brand compounding +26% c-c with record **64.2% gross margin** in Q1 2026, guidance raised (GM ≥64.5%, EBITDA margin 19.5–20%) — mispriced at $37.89 despite a clean beat-and-raise as shorts doubled and tariff anxiety persists.
+- 🟢 **For a non-holder: Initiate** · 🟢 **For a current holder: Add** — PW EV $59 (5-yr, +56%); R/R ~4.0:1; all three co-founders bought $6.6M of stock post-Q1.
+
+| 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
+|---|---|---|---|---|---|---|---|
+| $31.41 – $52.20 | **$37.89** (~31st) | $25 | $31–40 | $60 / **$59** | $60–70 | $90 | **~4.0:1** |
+
+| BAIT | Moat | FY26E Fwd P/E | FCF Yield | Short Int. | Next Catalyst |
+|---|---|---|---|---|---|
+| Double (B-Strong, A-Mod) | Narrow | ~20.9× | ~2.8% | **9.45%** ⚠️ | 📅 **Q2 Aug 11** |
+
+- 🟢 **Why**: Q1 GM 64.2% proves tariff absorption; APAC >20% of sales (+61% c-c); all 3 co-founders bought $6.6M at ~$37
+- 🟢 **Why**: Apparel +57.5% c-c, crossed 10% of DTC — customer-acquisition channel confirmed
+- 🟢 **Why**: Guidance raised on both margin lines; stock flat despite beat = behavioral mispricing persists
+- ⚠️ **Why not**: Short interest nearly doubled to 9.45% — bears see something (fashion cycle? tariff escalation?)
+- ⚠️ **Why not**: Analyst targets fell $60→$51 median *despite* the beat — Street skepticism on sustainability
+- ⚠️ **Why not**: Q2 Aug 11 is a binary; stock round-tripped from $52 post-Q1 high back to $38
+- 📅 **Next read**: Q2 2026 earnings — **August 11, 2026** (5 days)
 
 ---
 
@@ -44,29 +51,28 @@ The thesis hinges on brand durability at premium price points: whether CloudTec 
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$36.25** | April 24, 2026 ([Finviz](https://finviz.com/quote.ashx?t=ONON)) |
-| 52-Week High | $61.29 | Late 2025 |
-| 52-Week Low | $31.41 | Recent low (March 2026) |
-| % From 52-Wk High | –40.8% | Post-guidance + leadership reset |
-| % Above 52-Wk Low | +15.4% | |
-| Market Cap | ≈$12.0B | ≈331M diluted shares × $36.25 ([stockanalysis.com](https://stockanalysis.com/stocks/onon/)) |
-| Enterprise Value | ≈$11.44B | Net cash ≈$558M CHF *[Estimate]* |
-| FY2025 Net Sales | CHF 3.01B (≈$3.38B) | +30% reported; +35.6% constant currency |
-| FY2025 Gross Margin | **62.8%** | Record; 5-year expansion from 56.0% (FY2022) |
-| FY2025 Adj. EBITDA | CHF ≈567M | ≈18.8% margin *[Estimate: EBITDA CHF 504M reported; adj. EBITDA higher]* |
-| FY2025 Free Cash Flow | CHF 287M | OCF CHF 360M – capex CHF 73M ([stockanalysis.com](https://stockanalysis.com/stocks/onon/financials/cash-flow-statement/)) |
-| FY2025 Net Income | CHF 204M | Down from CHF 242M FY2024 (non-operating swing) |
-| DTC % of Revenue | 41.8% | +110bps YoY; over 60% of apparel through DTC |
-| Stores | 67 | Owned retail + brand experience |
-| Cash & Equivalents | CHF 1.02B | Year-end 2025; highest in company history |
-| Total Debt | CHF 522M | |
-| Net Cash | CHF ≈558M | |
-| 2026 Guide: c-c Revenue Growth | ≥23% | *[Management guidance]* |
-| 2026 Guide: Gross Margin | ≥63% | Above FY2025 record *[Management guidance]* |
-| 2026 Guide: Adj. EBITDA Margin | 18.5–19% | Flat YoY *[Management guidance]* |
-| Next Earnings | **May 12, 2026** | Q1 2026 ([stockanalysis.com](https://stockanalysis.com/stocks/onon/forecast/)) |
-| Analyst Consensus | Strong Buy | 9 Strong Buy / 9 Buy / 2 Hold / 1 Sell (21 analysts) |
-| Median Target | ≈$60 | Avg. $60.14; range $40–$85 ([stockanalysis.com](https://stockanalysis.com/stocks/onon/forecast/)) |
+| Live Price | **$37.89** | August 6, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/ONON/)) |
+| 52-Week High | $52.20 | Post-Q1 rally (May 2026) |
+| 52-Week Low | $31.41 | March 2026 |
+| % From 52-Wk High | –27.4% | Post-Q1 round-trip |
+| % Above 52-Wk Low | +20.6% | |
+| Market Cap | ≈$12.63B | ([stockanalysis.com](https://stockanalysis.com/stocks/onon/)) |
+| Enterprise Value | ≈$12.04B | ([stockanalysis.com](https://stockanalysis.com/stocks/onon/statistics/)) |
+| Q1 2026 Net Sales | CHF 831.9M | +14.5% reported; **+26.4% constant currency** |
+| Q1 2026 Gross Margin | **64.2%** | +430bps YoY; record quarter |
+| Q1 2026 Adj. EBITDA Margin | **21.0%** | +450bps YoY; CHF 174.3M |
+| FY2025 Net Sales | CHF 3.01B | +30% reported; +35.6% c-c |
+| FY2025 Gross Margin | 62.8% | Record full-year |
+| Forward P/E (FY26E) | **~20.9×** | FY26E EPS ~$1.81 *[Analyst consensus]* ([stockanalysis.com](https://stockanalysis.com/stocks/onon/statistics/)) |
+| EV/EBITDA (TTM) | ~17.7× | ([stockanalysis.com](https://stockanalysis.com/stocks/onon/statistics/)) |
+| 2026 Guide: c-c Revenue Growth | ≥23% | *[Management guidance — maintained]* |
+| 2026 Guide: Gross Margin | **≥64.5%** | **Raised from ≥63%** *[Management guidance]* |
+| 2026 Guide: Adj. EBITDA Margin | **19.5–20%** | **Raised from 18.5–19%** *[Management guidance]* |
+| Short Interest | **9.45%** of float | 21.3M shares, 5.3 days-to-cover (Jul 15 settlement; [ChartExchange](https://chartexchange.com/symbol/nyse-onon/short-interest/)) |
+| Insider Buying | **$6.6M** (May 14) | All 3 co-founders × 60K shares each at ~$36.64 |
+| Next Earnings | **August 11, 2026** | Q2 2026 ([On IR](https://investors.on-running.com/news/news-details/2026/On-to-Release-Second-Quarter-2026-Results-on-Tuesday-August-11-2026/default.aspx)) |
+| Analyst Consensus | Buy | 18 Strong Buy / 6 Buy / 3 Hold / 1 Sell (28 analysts; [stockanalysis.com](https://stockanalysis.com/stocks/onon/forecast/)) |
+| Median Target | ≈$51 | Avg. $52.61; range $24–$84 ([stockanalysis.com](https://stockanalysis.com/stocks/onon/forecast/)) |
 
 ---
 
@@ -104,10 +110,11 @@ The thesis hinges on brand durability at premium price points: whether CloudTec 
 | Q2 2025 | 749.2 | +32% | 61.5% | 125.2 | (40.9) | ($0.12) |
 | Q3 2025 | 794.4 | +25% | 65.7% | 156.9 | 118.9 | $0.36 |
 | Q4 2025 | 743.8 | +23% | **63.9%** | 117.0 | 69.1 | $0.21 |
+| **Q1 2026** | **831.9** | **+14.5%** (+26.4% c-c) | **64.2%** | **174.3** | **103.3** | **$0.47** |
 
-*Source: [stockanalysis.com — ONON Quarterly Financials](https://stockanalysis.com/stocks/onon/financials/?p=quarterly)*
+*Sources: [stockanalysis.com — ONON Quarterly Financials](https://stockanalysis.com/stocks/onon/financials/?p=quarterly); [On Holding Q1 2026 Press Release](https://investors.on-running.com/news/news-details/2026/On-Reports-First-Quarter-2026-Results/default.aspx)*
 
-**Note on Q2 2025 net loss**: A one-time non-operating item drove the ($0.12) EPS — EBITDA of CHF 125M was healthy; this is not an operating inflection downward.
+**Q1 2026 highlights**: Record quarterly gross margin (64.2%, +430bps YoY) and record adj. EBITDA margin (21.0%, +450bps YoY). Reported growth of +14.5% masked by persistent CHF strength; c-c growth of +26.4% remains well above ≥23% guide. Full-year guidance raised: GM ≥64.5% (from ≥63%), adj. EBITDA margin 19.5–20% (from 18.5–19%).
 
 ### 20-F / Annual Report Filing History
 
@@ -157,13 +164,13 @@ ONON is a Swiss foreign private issuer filing Form 20-F (not 10-K) with the SEC.
 *Source: [On Holding Q4 2025 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2026/03/03/on-holding-onon-q4-2025-earnings-call-transcript/)*
 
 **Geographic framing**:
-- **Americas** is the largest and most mature market. It carries tariff risk for 2026 (Vietnam + China sourcing exposed to U.S. tariff escalation). Management's 2026 guidance is built on a 20% tariff assumption — any reduction provides upside.
-- **EMEA** grows steadily with broad-based channel performance. Swiss franc strength creates a structural drag on reported USD revenue, masking strong local-currency growth.
-- **APAC** is the highest-growth vector: China Tmall ranking top-5 for footwear over $140, and in-store traffic in China *"more than doubled"* in Q4 2025 per management. APAC surpassing CHF 1B is a milestone that validates the brand's expansion beyond its Western premium running base.
+- **Americas** is the largest and most mature market. Carries tariff risk (20% assumption baked into guidance). Q1 2026: +17.1% c-c (+3.1% reported — CHF drag extreme).
+- **EMEA** grows steadily (+25.6% c-c in Q1 2026). Swiss franc strength creates a structural drag on reported USD revenue.
+- **APAC** is the highest-growth vector: **+61.4% c-c in Q1 2026, now >20% of global sales** for the first time — a structural diversification milestone. South Korea sales **tripled** YoY; China exceeded regional averages.
 
 ### Forward-Looking Revenue Mix
 
-Management expects DTC to continue growing ahead of wholesale, apparel to become a larger mix contribution (share of new customers acquired through apparel grew from 6% to 10% in FY2025 — a leading indicator of apparel as a customer acquisition channel, not just an upsell). APAC is the geographic growth engine. The medium-term financial model depends on these three vectors all executing in parallel.
+Management expects DTC to continue growing ahead of wholesale. **Apparel crossed 10% of DTC sales in Q1 2026** — described by management as a historic milestone — with +57.5% c-c growth making it the fastest-growing category. APAC is the geographic growth engine, now >20% of global revenue. The medium-term financial model depends on these three vectors all executing in parallel.
 
 ---
 
@@ -228,7 +235,7 @@ Management expects DTC to continue growing ahead of wholesale, apparel to become
 - **Buybacks**: Limited; balance sheet cash CHF 1.02B held for regional expansion
 - **Dividend**: None
 - **Capex**: CHF 73M FY2025 (+21% YoY) — regional warehouse build-out, retail footprint expansion, tech investment
-- **Inventory**: Growing with revenue — growth investment, not distress
+- **Insider buying**: 🟢 On **May 14, 2026** — one day after Q1 results — all three co-founders executed coordinated open-market purchases: **Allemann, Coppetti, and Bernhard each bought 60,000 shares at ~$36.64** (total ~$6.6M). Not 10b5-1 plan sales; discretionary purchases at nearly identical prices. This is the strongest insider-alignment signal in ONON's public history. *[Sources: [SEC Form 4 — Allemann](https://www.stocktitan.net/sec-filings/ONON/form-4-on-holding-ag-insider-trading-activity-47e87477f469.html); [TradingView](https://www.tradingview.com/news/tradingview:e06fca96745f2:0-on-holding-insiders-purchased-shares-worth-over-6-6m/)]*
 
 ### Recent Management Commentary — Primary Source Synthesis
 
@@ -246,7 +253,7 @@ ONON is a **Pattern C issuer** for shareholder letters: the company does not pub
 
 - **[Allemann, Q4 2025 Earnings Call, March 3, 2026](https://www.fool.com/earnings/call-transcripts/2026/03/03/on-holding-onon-q4-2025-earnings-call-transcript/)** — APAC inflection: *"We ranked top five on Tmall for footwear over $140"* and *"in-store traffic in China more than doubled."* → **Investment relevance**: China premium footwear is an aspirational market where Swiss/European brand provenance commands a significant premium. Top-5 Tmall ranking at $140+ price point validates that ONON's premium positioning translates into the Chinese consumer context, not just Western markets.
 
-**What this means for the thesis**: Management communication consistently reinforces three themes — brand-as-culture (justifies no-discount discipline), operational maturity (air freight + planning = gross margin runway), and conservative guidance philosophy (tariff assumptions baked in = upside from resolution). The co-CEO transition introduces uncertainty around whether Allemann + Coppetti will maintain Breu's financial discipline alongside their brand/commercial instincts, but the Q4 2025 call occurred just before the transition, making it the last intact management-team communication.
+**What this means for the thesis**: Management communication consistently reinforces three themes — brand-as-culture (justifies no-discount discipline), operational maturity (air freight + planning = gross margin runway), and conservative guidance philosophy (tariff assumptions baked in = upside from resolution). The Q1 2026 call (May 12) — the first under the co-CEO structure — emphasized *"continuity of strategy, values and entrepreneurial spirit"* and delivered the strongest margin print in company history. The coordinated $6.6M insider-buying cluster one day later was the co-founders' capital-backed answer to the leadership-transition question.
 
 ---
 
@@ -264,6 +271,10 @@ ONON is a **Pattern C issuer** for shareholder letters: the company does not pub
 
 6. **Hiking + outdoor lifestyle**: Cloudwander + Cloudaway + Cloudventure positioned in trail/hike segment. The Hoka-vs-On battle for trail running premium is still open. APAC mountain culture (Japan, Korea, China) gives ONON a natural trial base for trail/hike.
 
+7. **Football expansion**: Co-founder Bernhard told Bloomberg (June 2026) that On plans to expand into football — aligns with JP Morgan's "more multi-dimensional growth strategy" framing. No formal partnership announced.
+
+8. **CleanCloud sustainability**: Commercially launched CleanCloud midsole in Cloud X 5 (July 2026) — first commercially scaled sportswear midsole made from captured carbon emissions (Infinium eNaphtha supply). Sustainability differentiation for premium brand narrative.
+
 ---
 
 ## Section 6 — Key Risks
@@ -276,7 +287,8 @@ ONON is a **Pattern C issuer** for shareholder letters: the company does not pub
 | ⚠️ DTC deceleration / promotional environment | Medium-High | 30% | Partially | Bear thesis requires ONON compromising on no-discount policy under revenue growth pressure. Evidence of this would be gross margin compression *combined* with DTC mix gains — the "wrong kind of DTC." |
 | ⚠️ Athletic footwear category fade | High | 15% | Not priced in | Long-cycle risk: premium running / athleisure penetration in the U.S. is elevated. Historical brand cycles (Nike 1980s, Reebok 1990s, DECK's UGG) suggest 8–12 year leadership windows. ONON is ≈6 years into its current cycle. Low probability but would be catastrophic if it materialized. |
 | ⚠️ Hoka / competitive share recapture | Medium | 25% | Yes | Hoka at similar price points and accelerating in trail running. Nike defending premium running (Pegasus 41/Vaporfly). No identified moat that prevents consumer multi-homing. |
-| ⚠️ Apparel under-execution | Medium | 30% | Not priced in | Apparel is a key thesis lever. Footwear brands that fail to transition to apparel (multiple examples) lose the lifestyle crossover and growth multiple re-rate. If apparel stalls at 5–7% of revenue through 2027, the bull case loses its primary growth vector. |
+| ⚠️ Apparel under-execution | Medium | 25% ↓ | Partially | Q1 2026 apparel +57.5% c-c and >10% of DTC partially de-risked this; probability lowered from 30%. Still needs sustained execution through 2027. |
+| ⚠️ Short interest doubling | Medium | 40% | Partially | Short interest rose from 4.80% → **9.45% of float** (Apr–Jul 2026) — nearly doubled while stock was flat post-Q1 beat. Bears may be positioning for fashion-cycle peak or tariff escalation beyond the 20% guide assumption. 5.3 days-to-cover. [NEW in Q1 2026 window] |
 
 **5-Year Risk Factor Evolution (20-F synthesis, FY2021–FY2025)**: The dominant risk evolution across ONON's four annual 20-F filings has been from *IPO execution risk* (FY2021–FY2022: early-scale brand, thin US market presence, supply chain) toward *geopolitical and macro-exposure risk* (FY2023–FY2025: tariff language intensifying, FX management formalized as a risk factor). Notably, the FY2025 20-F was the first to significantly foreground tariff escalation as a standalone material risk — one year earlier it was a generic trade-policy caveat. This timing (tariff risk entering Item 1A language ≈12–18 months before it became the dominant FY2026 earnings narrative) is the classic pattern: 20-F Item 1A is management's earliest signal of worldview change.
 
@@ -300,16 +312,15 @@ ONON is a **Pattern C issuer** for shareholder letters: the company does not pub
 
 ## Section 8 — Valuation & Comparable Analysis
 
-### Current Multiples (April 24, 2026 — $36.25 / ≈$12.0B market cap / ≈$11.44B EV)
+### Current Multiples (August 6, 2026 — $37.89 / ≈$12.63B market cap / ≈$12.04B EV)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| EV / Revenue (FY2025) | ≈3.4× | On $11.44B EV / CHF ≈3.01B (≈$3.38B USD) revenue |
-| EV / Revenue (FY2026E) | ≈2.7× | At guide ≥+23% c-c (assumed ≈$4.1B USD) |
-| EV / EBITDA (FY2026E) | ≈15–16× | At 18.5–19% EBITDA margin on $4.1B *[Estimate]* |
-| Forward P/E (FY2026E) | ≈17.9× | FY2026E EPS ≈$2.03 ([Finviz](https://finviz.com/quote.ashx?t=ONON)) |
-| P/S (TTM) | ≈3.3× | |
-| PEG Ratio | ≈0.47 | Flagged by Finviz; implies growth-adjusted undervaluation |
+| EV / Revenue (TTM) | ≈3.1× | ([stockanalysis.com](https://stockanalysis.com/stocks/onon/statistics/)) |
+| EV / EBITDA (TTM) | ≈17.7× | ([stockanalysis.com](https://stockanalysis.com/stocks/onon/statistics/)) |
+| Forward P/E (FY2026E) | **≈20.9×** | FY26E EPS ~$1.81 *[Analyst consensus]* |
+| P/S (TTM) | ≈3.25× | |
+| PEG Ratio | ≈0.80 | Growth-adjusted; still below 1.0 |
 
 ### Peer Comparables
 
@@ -323,13 +334,9 @@ ONON is a **Pattern C issuer** for shareholder letters: the company does not pub
 
 *Sources: [stockanalysis.com peer data](https://stockanalysis.com/stocks/onon/); DECK 10-K FY2025; Nike FY2025 annual report; Lululemon FY2025 annual report — all *[Analyst consensus]* for FY2026 estimates.*
 
-**Valuation assessment**: ONON trades below DECK (Hoka's parent) on EV/EBITDA despite:
-- Faster revenue growth: ONON +23%+ c-c vs. DECK mid-teens
-- Higher gross margin: ONON 62.8% vs. DECK ≈55%
+**Valuation assessment**: ONON trades at ~17.7× TTM EV/EBITDA despite faster growth (+26% c-c) and higher gross margin (64.2%) than DECK (≈55% GM, mid-teens growth). The discount reflects tariff overhang + short-interest doubling + FX drag. Fair value on a normalized basis implies $50–60 — consistent with analyst consensus median ($51).
 
-The discount reflects FX + tariff overhang + leadership transition premium. On a normalized basis (removing macro headwinds), ONON should command a 15–20% EV/EBITDA premium to DECK, implying fair value in the $50–60 zone — consistent with the analyst consensus median ($60).
-
-**Historical multiple context**: ONON has traded at 25–40× forward EBITDA at prior highs (late 2024 / Q3 2025 $61 print). The current ≈15–16× is at or below the historical floor, implying either a permanent derating (bear case: fashion cycle peak) or a compelling entry (bull case: macro-driven mispricing of a durable compounder).
+**Historical multiple context**: ONON traded at 25–40× forward EBITDA at prior highs. The current ~17.7× is near the historical floor, implying either a permanent derating (fashion cycle peak) or a compelling entry (macro-driven mispricing of a durable compounder). The Q1 beat temporarily re-rated the stock to $52 before round-tripping.
 
 ---
 
@@ -337,65 +344,70 @@ The discount reflects FX + tariff overhang + leadership transition premium. On a
 
 ### Live Price & Positioning
 
-- **Price**: $36.25 (April 24, 2026) — [Finviz](https://finviz.com/quote.ashx?t=ONON)
-- **52-week range**: $31.41 – $61.29
-- **% from 52-wk high**: –40.8%
-- **% above 52-wk low**: +15.4%
-- **Market cap**: ≈$12.0B
-- **Enterprise Value**: ≈$11.44B
+- **Price**: $37.89 (August 6, 2026) — [Yahoo Finance](https://finance.yahoo.com/quote/ONON/)
+- **52-week range**: $31.41 – $52.20
+- **% from 52-wk high**: –27.4%
+- **% above 52-wk low**: +20.6%
+- **Market cap**: ≈$12.63B
+- **Enterprise Value**: ≈$12.04B
 
 ### Analyst Consensus
 
-- **Aggregate rating**: **Strong Buy** (21 analysts: 9 Strong Buy / 9 Buy / 2 Hold / 1 Sell) — *[stockanalysis.com](https://stockanalysis.com/stocks/onon/forecast/)*
-- **Average target**: $60.14 | **Median target**: ≈$60 | **Range**: $40 – $85
-- **Implied upside (median)**: +66%
+- **Aggregate rating**: **Buy** (28 analysts: 18 Strong Buy / 6 Buy / 3 Hold / 1 Sell) — *[stockanalysis.com](https://stockanalysis.com/stocks/onon/forecast/)*
+- **Average target**: $52.61 | **Median target**: ≈$51 | **Range**: $24 – $84
+- **Implied upside (median)**: +35%
 - **Recent actions (last 90 days)**:
 
-| Date | Firm | Action | Old Target | New Target |
-|------|------|--------|-----------|-----------|
-| Apr 23, 2026 | Raymond James | Upgrade: Outperform → **Strong Buy** | — | $52 |
-| Mar 25, 2026 | Telsey Advisory | Reiterated Outperform | $65 | $60 |
-| Mar 4, 2026 | Truist Securities | Maintained Strong Buy | $65 | $55 |
-| Mar 4, 2026 | Barclays | Maintained Buy | $60 | $57 |
-| Mar 4, 2026 | Guggenheim | Maintained Strong Buy | $59 | $51 |
+| Date | Firm | Action | Target |
+|------|------|--------|--------|
+| Aug 5, 2026 | Piper Sandler | Maintained Buy | $50 |
+| Aug 4, 2026 | Truist Financial | Maintained Buy | — |
+| Jul 29, 2026 | Citi | Maintained Buy | $60 |
+| Jul 29, 2026 | UBS | Maintained Buy | $85 → $82 |
+| Jul 23, 2026 | Bernstein | Maintained Buy | $70 |
+| Jul 2, 2026 | JP Morgan | **Resumed — Overweight** + Positive Catalyst Watch | $51 |
+| May 13, 2026 | Telsey Advisory | Reiterated Outperform | $60 → $51 |
 
-*Sources: [Finviz — ONON](https://finviz.com/quote.ashx?t=ONON); [stockanalysis.com forecast](https://stockanalysis.com/stocks/onon/forecast/)*
+*Sources: [Finviz — ONON](https://finviz.com/quote.ashx?t=ONON); [stockanalysis.com](https://stockanalysis.com/stocks/onon/forecast/)*
 
-**Pattern**: Post-Q4 2025 earnings (March 3–4), all major sell-side trimmed targets 10–20% on guidance disappointment and tariff risk — but maintained Buy ratings. The April 23 Raymond James upgrade to Strong Buy is the first post-selloff bullish action, citing "intact growth and compelling valuation." The cluster of maintained Buys with lower targets is the classic "digesting a guide-down" pattern; recovery typically waits for one clean beat + raise quarter.
+**Pattern**: Post-Q1 beat (May 12), targets were cut by mid-tier firms (Telsey $60→$51) even as ratings held. JP Morgan's July 2 resumption at Overweight with **Positive Catalyst Watch** — anticipating above-consensus Q2 and guidance raise — is the most directionally significant action. UBS ($82) and Bernstein ($70) anchor the bull end; the $24 low-end target is an outlier. Analyst count expanded 21→28 (coverage broadening), but median target fell $60→$51 — the Street believes in the brand but not in the near-term multiple.
 
 ### Short Interest
 
-- **Short Interest (April 15, 2026)**: 11.14M shares, **4.80% of float** — *[ChartExchange](https://chartexchange.com/symbol/nyse-onon/short-interest/)*
-- **Days to Cover**: 1.50
-- **Prior settlement (March 31, 2026)**: 6.32% of float — **short interest decreased materially** (–1.52pts MoM)
-- **Interpretation**: Short interest is low (sub-5% float) and declining — not a squeeze setup, but no meaningful short overhang. Declining SI into a guide-down suggests shorts are covering, not adding.
+- **Short Interest (Jul 15, 2026)**: 21.3M shares, **9.45% of float** — *[ChartExchange](https://chartexchange.com/symbol/nyse-onon/short-interest/)*
+- **Days to Cover**: 5.31
+- **Trend** (3 settlements): Jun 15: 8.77% (+26% spike) → Jun 30: 9.21% (+5%) → Jul 15: 9.45% (+2.6%)
+- **Prior baseline (Apr 15, 2026)**: 4.80% — **short interest nearly doubled** over the lookback window
+- ⚠️ **Interpretation**: Sustained rise from sub-5% to ~9.5% while the stock was essentially flat post-Q1 beat is a meaningful bearish signal. Bears are adding conviction despite the clean quarter. Days-to-cover rose from 1.5 to 5.3 — no longer a quick-cover setup. Watch for >10% threshold.
 
 ### Insider Activity (Last 90 Days)
 
-- No large insider purchases or sales surfaced in public aggregator data during this scan.
-- Federer, Allemann, Coppetti, and Hoffmann founder/executive stakes are believed intact — no departures from ownership base coinciding with stock weakness, which is a mild positive signal.
-- Frank Sluis (incoming CFO, joining May 2026) — no transactions yet; first open window will be a signal to watch.
-- *Source: OpenInsider / SEC Form 4 scan returned no flagged transactions; [link pending] for direct Form 4 confirmation.*
+- 🟢 **[2026-05-14] Coordinated open-market purchases** — all three co-founders bought 60,000 shares each at ~$36.64, one day after Q1 results:
+  - **David Allemann** (Co-CEO): 60,000 shares, ~$2.20M
+  - **Caspar Coppetti** (Co-CEO): 60,000 shares, ~$2.20M
+  - **Olivier Bernhard** (Co-Founder): 60,000 shares, ~$2.20M
+  - **Total**: 180,000 shares, **~$6.6M** — discretionary (not 10b5-1), coordinated, at nearly identical prices
+- Former CEO Hoffmann executed pre-arranged 10b5-1 plan sales (lower informational weight)
+- *Sources: [SEC Form 4 — Allemann](https://www.stocktitan.net/sec-filings/ONON/form-4-on-holding-ag-insider-trading-activity-47e87477f469.html); [TradingView](https://www.tradingview.com/news/tradingview:e06fca96745f2:0-on-holding-insiders-purchased-shares-worth-over-6-6m/)*
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-23] [Analyst Action]** — Raymond James upgrades ONON from Outperform to Strong Buy, citing "intact growth and compelling valuation." *[Source: [Finviz news](https://finviz.com/quote.ashx?t=ONON), April 23, 2026]*
-- **[2026-03-26] [Management Change]** ⚠️ — Co-founders David Allemann and Caspar Coppetti announced as Co-CEOs, replacing Marc Breu. Simultaneous CFO transition (Hoffmann out, Sluis in May 2026). Stock declined on announcement. *[Source: [Finviz news](https://finviz.com/quote.ashx?t=ONON), March 26, 2026 — press release URL [link pending]]*
-- **[2026-03-25] [Analyst Action]** — Telsey Advisory maintains Outperform, target $65 → $60. *[Source: [stockanalysis.com](https://stockanalysis.com/stocks/onon/forecast/)]*
-- **[2026-03-04] [Analyst Cluster]** — Truist ($65→$55), Barclays ($60→$57), Guggenheim ($59→$51) all maintain Buy-equivalent ratings with lower targets post-earnings. Cluster of downgrades is now absorbed; no further target cuts since. *[Source: [stockanalysis.com](https://stockanalysis.com/stocks/onon/forecast/)]*
-- **[2026-03-03] [Earnings — Q4 2025 / FY2025]** — Net sales CHF 3.0B (+30%), Q4 GM 63.9% (record), EPS $0.21 vs. ≈$0.27 estimate. 2026 guide: ≥23% c-c growth, ≥63% GM, 18.5–19% adj. EBITDA — interpreted as guide-down vs. prior ≈19.5% EBITDA consensus. Stock fell ≈10–15% on guidance. *[Source: [On Holding Q4 2025 Earnings Transcript](https://www.fool.com/earnings/call-transcripts/2026/03/03/on-holding-onon-q4-2025-earnings-call-transcript/)]*
-- **[2026-01-20] [Analyst Action]** — Goldman Sachs upgrades from Neutral → Buy with $59 target; cites de-rating as attractive entry. *[Source: [Finviz](https://finviz.com/quote.ashx?t=ONON)]*
+- **[2026-08-05] [Analyst Action]** — Piper Sandler maintains Buy, $50 target ahead of Q2. *[Source: [Finviz](https://finviz.com/quote.ashx?t=ONON)]*
+- **[2026-07-02] [Analyst Action]** — JP Morgan resumes coverage at Overweight ($51) with **Positive Catalyst Watch** ahead of Q2, citing "more multi-dimensional growth strategy." *[Source: [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/jpmorgan-resumes-coverage-holding-onon-144730969.html)]*
+- **[2026-07-XX] [Product Launch]** — CleanCloud midsole (captured-carbon) commercially launched in Cloud X 5. *[Source: [Simply Wall St](https://simplywall.st/stocks/us/consumer-durables/nyse-onon/on-holding/news/cleancloud-capturedcarbon-partnership-might-change-the-case)]*
+- **[2026-06-26] [Strategic Announcement]** — Co-founder Bernhard told Bloomberg On plans football expansion. *[Source: JP Morgan coverage note]*
+- **[2026-05-14] [Insider Cluster]** 🟢 — All 3 co-founders bought 180K shares ($6.6M total) at ~$36.64, one day after Q1 beat. Strongest insider-alignment signal in ONON's public history.
+- **[2026-05-12] [Earnings — Q1 2026]** ✅ — Net sales CHF 831.9M (+26.4% c-c), GM **64.2%** (record, +430bps), adj EBITDA margin **21.0%** (+450bps), EPS $0.47 (beat $0.35 cons. by 33%). Guidance raised: GM ≥64.5%, EBITDA margin 19.5–20%. APAC >20% of sales; apparel >10% of DTC. *[Source: [On IR](https://investors.on-running.com/news/news-details/2026/On-Reports-First-Quarter-2026-Results/default.aspx)]*
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|----------------|
-| 📅 **May 12, 2026** | **Q1 2026 Earnings** ([stockanalysis.com](https://stockanalysis.com/stocks/onon/forecast/)) | First print under new co-CEO structure; tariff-impact quantification; tariff base-case vs. actual; c-c growth vs. ≥23% guide |
-| 📅 **May 2026** | Frank Sluis joins as CFO | Capital-allocation signal; investor communication continuity |
-| 📅 **≈Aug 2026** | Q2 2026 Earnings | Mid-year guide reaffirmation or revision; APAC H1 growth rate |
-| Ongoing | U.S. tariff policy | Any de-escalation = direct gross-margin upside vs. conservative guidance |
-| Ongoing | New co-CEO strategic communication | Allemann + Coppetti brand strategy articulation under new structure |
-| Ongoing | Apparel growth rate | Q-by-Q test of 46% c-c Q4 2025 run rate |
+| 📅 **Aug 11, 2026** | **Q2 2026 Earnings** ([On IR](https://investors.on-running.com/news/news-details/2026/On-to-Release-Second-Quarter-2026-Results-on-Tuesday-August-11-2026/default.aspx)) | Mid-year guide reaffirmation or raise; APAC momentum durability; tariff-impact quantification; cons. ~$0.42 EPS / ~$1.13B rev |
+| Ongoing | U.S. tariff policy | Guidance still embeds 20% — any de-escalation = direct margin upside |
+| Ongoing | Short interest trajectory | Watch for >10% threshold; current 9.45% and rising |
+| Ongoing | Apparel growth rate | Q-by-Q test of 57.5% c-c Q1 run rate |
+| Ongoing | Football expansion timing | Category entry would expand TAM + brand reach |
 
 ---
 
@@ -403,124 +415,124 @@ The discount reflects FX + tariff overhang + leadership transition premium. On a
 
 ### B — Behavioral: **Strong**
 
-The –41% drawdown from $61.29 (late 2025) to $36.25 compresses a series of narrative shifts into a single price: (1) the 2026 EBITDA margin guide held flat at ≈18.8% rather than expanding to the ≈19.5%+ consensus expected, (2) Swiss franc strength created an 800bps reported/c-c gap that makes headline revenue look slower than it is, (3) U.S. tariff escalation on Asian footwear became the dominant macro narrative for consumer discretionary, and (4) the CEO/co-CEO leadership transition introduced execution uncertainty. Each of these factors individually would justify a modest de-rating; all four together in a six-month window created an oversold condition. Yet the underlying brand metrics through Q4 2025 — 63.9% quarterly gross margin (record), +85% c-c APAC growth, +46% c-c apparel growth, apparel now acquired 10% of new customers — are *better* than at the $61 peak. The selloff is behavioral: narrative-led macro mispricing on a brand that hasn't fundamentally deteriorated.
+The stock round-tripped from $36 → $52 (post-Q1 beat) → $38 in three months. The Q1 print was unambiguously strong (GM 64.2%, EBITDA margin 21%, beat on both lines, guidance raised), yet the stock gave back nearly all gains — behavioral mispricing persists. All three co-founders buying $6.6M one day after the beat reinforces that insiders see a disconnect between price and fundamentals. Short interest nearly doubling to 9.45% *while fundamentals improved* is the classic behavioral setup: narrative-driven shorts (tariff + fashion-cycle fear) fighting improving data.
 
 ### A — Analytical: **Moderate**
 
-- **Constant-currency vs. reported gap**: FY2025 c-c growth was 35.6% vs. 30% reported — a 560bps distortion that sell-side often reports as the lower headline number. The underlying demand signal is materially stronger than reported figures suggest.
-- **Gross margin runway**: 62.8% FY2025 → ≥63% 2026E is still expanding even with tariff headwinds — proving that air-freight reduction and DTC mix shift are more powerful gross-margin tailwinds than tariffs are headwinds. Consensus has not fully modeled the medium-term gross margin trajectory.
-- **Apparel optionality**: Growing from 5% to 15% of revenue is an ≈$450M revenue lift not in most base-case models. The 10% new-customer-through-apparel signal suggests the mix shift is accelerating.
-- **APAC as an underpenetrated compounder**: At ≈17% of revenue with +85% c-c Q4 growth, APAC at anything close to Americas penetration would be a step-change in total revenue and mix-quality.
+- **Constant-currency vs. reported gap**: Q1 2026 c-c growth of +26.4% vs. +14.5% reported — an 1,190bps distortion. The underlying demand signal is dramatically stronger than reported figures suggest.
+- **Gross margin runway**: 64.2% Q1 actual vs. ≥64.5% full-year guide — management is absorbing tariff headwinds *while expanding margins*. Air-freight reduction and DTC mix shift remain more powerful tailwinds than tariffs are headwinds.
+- **Apparel confirmed as customer-acquisition channel**: +57.5% c-c Q1 growth, crossed 10% of DTC. The mix shift is accelerating and is now in consensus models (partially de-risking the analytical edge).
+- **APAC structural diversification**: At >20% of revenue with +61% c-c growth, APAC is no longer an optionality call — it's a proven growth engine.
 
 ### I — Informational: **Moderate**
 
-- The Q4 2025 transcript explicitly frames tariff guidance as a conservative floor (*"based on the 20% tariff regime"* — any de-escalation = upside). This is a clear asymmetric setup not well-amplified in media coverage.
-- The apparel-as-customer-acquisition-channel signal (6% → 10% of new customers from apparel) is buried in the transcript's Q&A section; most coverage focuses on footwear comps.
-- Co-CEO transition mechanics and the Breu→Allemann+Coppetti handoff context is poorly understood — the Finviz data shows the market reacted, but primary-source context of what the co-CEOs' stated strategic priorities are is not yet widely available.
+- The coordinated insider-buying cluster (§4) is a strong informational signal not fully digested by the market (stock essentially flat since).
+- JP Morgan's July 2 Positive Catalyst Watch ahead of Q2 is forward-looking informational edge.
+- Short interest doubling is itself an informational signal — the question is whether bears have identified a thesis-break the data doesn't yet show, or are fighting the tape.
 
 ### T — Technical: **Weak**
 
-- Clear downtrend from $61 → $31 → current $36 range — no technical reversal confirmed
-- $31.41 recent 52-wk low tested in March 2026; current +15% above that level suggests tentative base formation
-- No mechanical catalysts (no buyback program, no imminent index rebalancing, no options expiry setup identified)
-- Short interest declining (6.3% → 4.8% MoM) — covers happening but no squeeze trigger
+- Stock round-tripped from Q1-driven $52 high back to $38 — no sustained uptrend
+- Short interest 9.45% and rising — bearish technical pressure
+- No mechanical catalysts (no buyback program, no index rebalancing)
+- Q2 earnings Aug 11 is a near-term binary that could resolve direction
 
 ### BAIT Verdict
 
-**Double overlap (B Strong + A Moderate)**. Conviction: **Moderate**. The behavioral mispricing case is compelling and analytical edges are real, but tariff risk has empirical teeth and the leadership transition is genuinely unresolved. The technical picture remains weak; a Q1 2026 beat-and-raise would be the catalyst to flip I and T positive, which would upgrade conviction to High.
+**Double overlap (B Strong + A Moderate)**. Conviction: **Moderate** — unchanged. The Q1 beat-and-raise *should* have upgraded conviction to High per the prior review's conditional, but the stock's round-trip and the short-interest doubling signal that the market's tariff/fashion-cycle concerns are structural, not just noise. The insider-buying cluster is the strongest offset. Q2 on Aug 11 is the next inflection point.
 
 ---
 
 ## Section 11 — Bull / Bear / Base Cases
 
-*All scenarios are 3-year (FY2028) terminal prices vs. current $36.25. Probabilities sum to 100%.*
+*All scenarios are 5-year (FY2030) terminal prices vs. current $37.89. Probabilities sum to 100%. Migrated from 3-yr per Rule #24.*
 
-### 🟢 Bull Case — $75 by FY2028 (+107% from $36.25, ≈27% CAGR) — **Probability: 30%**
+### 🟢 Bull Case — $90 by FY2030 (+137% from $37.89, ≈19% CAGR) — **Probability: 25%**
 
-- Net sales CHF 5.5B (CAGR ≈22% c-c); apparel reaches 12–15% of mix
-- Gross margin expands to 65%+ as DTC mix hits 48%+ and air-freight reduction matures
-- Adj. EBITDA margin expands to 21–22%
-- Co-CEO transition is seamless; Allemann + Coppetti accelerate brand elevation
-- APAC at 25% of revenue; China becomes second-largest market by FY2027
-- Multiple re-rates to 22× EBITDA on category re-acceleration and profitability inflection
-- Tariff headwind resolved or offset by price increases
+- Net sales CHF 7B+ (CAGR ≈18% c-c); apparel reaches 15%+ of mix; football category additive
+- Gross margin expands to 66%+ as DTC >50% and tariff headwind fully absorbed/resolved
+- Adj. EBITDA margin 22–24%; operating leverage on matured supply chain
+- APAC at 30%+ of revenue; China becomes second-largest market
+- Multiple re-rates to 22–25× EBITDA on sustained premium-compounder status
+- Co-founders' $6.6M insider buying validates alignment through the transition
 
-### 🟡 Base Case — $52 by FY2028 (+43% from $36.25, ≈13% CAGR) — **Probability: 50%**
+### 🟡 Base Case — $60 by FY2030 (+58% from $37.89, ≈10% CAGR) — **Probability: 50%**
 
-- Net sales CHF 4.5–4.7B (CAGR ≈15–17% c-c); apparel reaches 8–10% of mix
-- Gross margin holds 63–64%: tariff drag offset by DTC mix + operational efficiency
-- Adj. EBITDA margin 19–20%: co-CEO transition managed but with 1–2 quarter execution noise
-- Multiple at 16–18× EBITDA — parity with DECK (Hoka parent)
-- APAC grows to 22% of revenue; Americas stable
-- Tariff headwind persists but is absorbed via partial price increases
+- Net sales CHF 5.5–6B (CAGR ≈13–15% c-c); apparel 10–12% of mix
+- Gross margin holds 64–65%: tariff persists but offset by mix + efficiency
+- Adj. EBITDA margin 20–21%; steady operating leverage
+- Multiple at 18–20× EBITDA — slight premium to DECK on growth + margin
+- APAC at 25% of revenue; Americas matures
+- Brand durability confirmed but growth rate normalizes toward mid-teens
 
-### 🔴 Bear Case — $22 by FY2028 (–39% from $36.25, ≈–15% CAGR) — **Probability: 20%**
+### 🔴 Bear Case — $25 by FY2030 (–34% from $37.89, ≈–8% CAGR) — **Probability: 25%**
 
-- Growth decelerates to mid-single-digits c-c as athletic footwear cycle peaks and Hoka recaptures share
-- Tariff + FX compress gross margin to 58–60%
-- Co-CEO transition disrupts operational discipline; EBITDA margin falls to 15–16%
-- Apparel stalls at 6–7% of revenue — fails to become customer-acquisition layer
-- Multiple compresses to 11–12× EBITDA — fashion-cyclical de-rate
-- APAC growth disappoints vs. early signals
+- Growth decelerates to mid-single-digits c-c as athletic footwear cycle peaks and Hoka/Nike recapture share
+- Tariff escalation beyond 20% + FX compress gross margin to 59–61%
+- Fashion-cycle turn: CloudTec aesthetic commoditized; no-discount policy abandoned under pressure
+- Apparel stalls at 7–8% of revenue — fails as customer-acquisition layer
+- Multiple compresses to 11–13× EBITDA — fashion-cyclical de-rate
+- Short sellers proven correct: 9.45% short interest was the early warning
 
 ---
 
 ## Section 12 — Probability-Weighted Expected Value
 
-| Scenario | FY2028 Terminal Price | Probability | PW Contribution |
+| Scenario | FY2030 Terminal Price | Probability | PW Contribution |
 |----------|----------------------|-------------|-----------------|
-| 🟢 Bull | $75 | 30% | $22.50 |
-| 🟡 Base | $52 | 50% | $26.00 |
-| 🔴 Bear | $22 | 20% | $4.40 |
-| **PW EV (3-year)** | | **100%** | **≈$52.90** |
+| 🟢 Bull | $90 | 25% | $22.50 |
+| 🟡 Base | $60 | 50% | $30.00 |
+| 🔴 Bear | $25 | 25% | $6.25 |
+| **PW EV (5-year)** | | **100%** | **≈$58.75** |
 
-| Current Price | PW EV | 3-Yr Return | Annualized |
+| Current Price | PW EV | 5-Yr Return | Annualized |
 |--------------|-------|------------|-----------|
-| $36.25 | ≈$53 | **+46%** | ≈+13%/yr |
+| $37.89 | **≈$59** | **+56%** | ≈+9%/yr |
 
-**R/R (Bull / Bear)**: Bull upside = ($75 – $36.25) / $36.25 = **+107%**. Bear downside = ($36.25 – $22) / $36.25 = **–39%**. **R/R ≈ 2.7:1**. Rises to **≈4:1** when compared to the $31.41 recent 52-wk low (stop/thesis-break anchor).
+**R/R (Bull / Bear)**: Bull upside = ($90 – $37.89) / $37.89 = **+137%**. Bear downside = ($37.89 – $25) / $37.89 = **–34%**. **R/R ≈ 4.0:1**.
 
-**Interpretation**: The PW EV at ≈$53 is meaningfully above $36.25 spot, delivering a +46% 3-year expected return that embeds the tariff-bear case (20%) and still produces a constructive central tendency. The asymmetry at ≈2.7:1 is constructive but not extreme — this is not a "fat pitch" setup; it's a "reasonable pitch" setup where execution needs to prove out. The R/R improves materially if the thesis-break trigger level ($31 stop) is used as the downside anchor (implying ≈4:1 at current entry). Consensus median target implies ≈$60, representing +66% from $36.25.
+**Interpretation**: PW EV at ≈$59 delivers +56% 5-year expected return. R/R improved from 2.7:1 to **4.0:1** driven by: (a) 5-yr terminal extends the compounding window, (b) Q1 beat validated the gross-margin thesis, raising Bull/Base targets, and (c) Bear probability raised 20%→25% on the short-interest signal. The insider-buying cluster at ~$37 (§4) is a fundamental anchor.
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: ONON is a premium Swiss athletic brand compounding 23%+ at constant currency with structurally expanding 63%+ gross margins, mispriced by FX + tariff overhang + leadership-transition noise at $36.25 — the 3-yr PW EV is ≈$53 (+46%) and the central case re-rates to DECK parity (≈$52) once macro overhangs ease.
+**Thesis in one sentence**: ONON is a premium Swiss athletic brand compounding +26% c-c with record 64.2% gross margins and raised guidance, mispriced at $37.89 as shorts doubled to 9.45% despite a clean Q1 beat-and-raise and $6.6M of coordinated insider buying — PW EV $59 (+56%, 5-yr), R/R 4.0:1.
 
-**For a non-holder**: 🟢 **Initiate** — at $36, the risk/reward is constructive (≈2.7:1 Bull/Bear). Median analyst target $60 (+66%). Tariff is the primary risk; size accordingly. Q1 2026 on May 12 is the first reality-check catalyst.
+**For a non-holder**: 🟢 **Initiate** — at $38, R/R is constructive (4.0:1 Bull/Bear). Insider buying at $37 provides a fundamental anchor. Size conservatively ahead of Q2 Aug 11; short interest at 9.45% creates volatility risk around the print.
 
-**For a current holder**: 🟢 **Add** — incremental adds in the **$32–38 zone** are favored. Avoid adding above $42 until Q1 2026 print clears tariff-impact and co-CEO communication.
+**For a current holder**: 🟢 **Add** — incremental adds in the **$35–40 zone** are favored. Co-founders buying at $37 validates the entry. Q2 binary on Aug 11 may offer a cheaper add if the print disappoints, or confirm the thesis if it beats.
 
-🎯 **Attractive entry zone**: **$31 – $40** (rationale: ≈13–16× 2026E EBITDA; below or at historical trough; absorbs flat EBITDA margin guide + tariff premium)
+🎯 **Attractive entry zone**: **$31 – $40** (rationale: ≈15–18× FY26E EBITDA; near historical trough; below co-founder purchase price)
 
-🎯 **Trim zone**: **$60 – $70** (rationale: ≈22–25× 2026E EBITDA; DECK parity re-rate; further upside requires apparel + APAC delivery)
+🎯 **Trim zone**: **$60 – $70** (rationale: ≈22–25× FY26E EBITDA; DECK parity re-rate; aligned with analyst median)
 
-🔴 **Exit / avoid zone**: **>$80** (rationale: prior peak band; would require both apparel scale-up + tariff resolution + APAC inflection — scenario probability weighted at 15–20%)
+🔴 **Exit / avoid zone**: **>$85** (rationale: Bull-case territory; would require apparel + APAC + tariff resolution all confirmed)
 
 **Thesis-break triggers** ⚠️ (would force re-rating, possibly to Reduce / Avoid):
-- ⚠️ Constant-currency growth falls below 18% for two consecutive quarters — signals brand or category deceleration, not just FX
-- ⚠️ Gross margin falls below 60% in any quarter — signals either pricing discipline is breaking or tariff drag is uncontrollable
-- ⚠️ DTC growth turns negative on a constant-currency basis — the channel-mix engine is stalling
-- ⚠️ U.S. tariff rate exceeds 35% on Asia-sourced footwear without offsetting price-increase execution
-- ⚠️ Adj. EBITDA margin guide cut below 17% for FY2027 — signals operating leverage thesis is broken
-- ⚠️ Co-CEO/CFO transition produces a strategic pivot away from premium no-discount positioning (i.e., a permanent promotional program) — this would permanently destroy the moat
-- ⚠️ Apparel growth decelerates below 20% in 2026 for two consecutive quarters
+- ⚠️ Constant-currency growth falls below 18% for two consecutive quarters
+- ⚠️ Gross margin falls below 60% in any quarter — pricing discipline or tariff drag breaking
+- ⚠️ DTC growth turns negative on a constant-currency basis
+- ⚠️ U.S. tariff rate exceeds 35% without offsetting price-increase execution
+- ⚠️ Short interest crosses 15% of float with deteriorating fundamentals — pattern would confirm fashion-cycle thesis
+- ⚠️ Co-CEO transition produces a strategic pivot away from premium no-discount positioning
+- ⚠️ Apparel growth decelerates below 20% c-c for two consecutive quarters
 
-📅 **Next review trigger**: **Q1 2026 earnings — May 12, 2026**. Key items: (1) constant-currency growth vs. ≥23% guide, (2) gross margin vs. ≥63% guide, (3) tariff impact disclosure — actual vs. 20% assumption, (4) co-CEO strategic communication, (5) APAC growth rate continuation, (6) apparel growth rate vs. Q4 2025 +46% c-c.
+📅 **Next review trigger**: **Q2 2026 earnings — August 11, 2026**. Key items: (1) c-c growth sustainability vs. +26.4% Q1, (2) gross margin vs. ≥64.5% raised guide, (3) APAC >20% durability, (4) apparel growth vs. +57.5% c-c Q1, (5) tariff-impact quantification update, (6) short interest direction post-print.
 
 ---
 
 ### Sources
 
+- [On Holding Q1 2026 Press Release (May 12, 2026)](https://investors.on-running.com/news/news-details/2026/On-Reports-First-Quarter-2026-Results/default.aspx)
+- [On Holding Q1 2026 Earnings Call Transcript (Investing.com)](https://www.investing.com/news/transcripts/earnings-call-transcript-on-holding-ag-q1-2026-shows-record-sales-growth-93CH-4681109)
 - [On Holding Q4 2025 Earnings Call Transcript (Motley Fool, 2026-03-03)](https://www.fool.com/earnings/call-transcripts/2026/03/03/on-holding-onon-q4-2025-earnings-call-transcript/)
-- [stockanalysis.com — ONON Annual Financials](https://stockanalysis.com/stocks/onon/financials/)
-- [stockanalysis.com — ONON Quarterly Financials](https://stockanalysis.com/stocks/onon/financials/?p=quarterly)
-- [stockanalysis.com — ONON Balance Sheet](https://stockanalysis.com/stocks/onon/financials/balance-sheet/)
-- [stockanalysis.com — ONON Cash Flow](https://stockanalysis.com/stocks/onon/financials/cash-flow-statement/)
+- [Yahoo Finance — ONON Quote](https://finance.yahoo.com/quote/ONON/)
+- [stockanalysis.com — ONON Statistics](https://stockanalysis.com/stocks/onon/statistics/)
 - [stockanalysis.com — ONON Analyst Forecast](https://stockanalysis.com/stocks/onon/forecast/)
 - [Finviz — ONON Quote + Analyst Actions](https://finviz.com/quote.ashx?t=ONON)
 - [ChartExchange — ONON Short Interest](https://chartexchange.com/symbol/nyse-onon/short-interest/)
+- [SEC Form 4 — David Allemann (May 14, 2026)](https://www.stocktitan.net/sec-filings/ONON/form-4-on-holding-ag-insider-trading-activity-47e87477f469.html)
+- [JP Morgan — ONON Coverage Resumption (Jul 2, 2026)](https://finance.yahoo.com/markets/stocks/articles/jpmorgan-resumes-coverage-holding-onon-144730969.html)
+- [On Holding Q2 2026 Earnings Date Announcement](https://investors.on-running.com/news/news-details/2026/On-to-Release-Second-Quarter-2026-Results-on-Tuesday-August-11-2026/default.aspx)
 - [SEC EDGAR — On Holding AG filings (CIK 0001823144)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001823144&type=20-F&dateb=&owner=include&count=10)
-- [On Holding IR — Press Releases](https://investors.on-running.com/news-events/press-releases) [link pending — 403 during session]
-- Industry tariff + competitive coverage [link pending]

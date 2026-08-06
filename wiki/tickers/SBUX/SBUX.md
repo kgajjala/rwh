@@ -308,7 +308,7 @@ Materiality-filtered. Boilerplate (every-company cyber, payments-regulation gene
 | ⚠️ Q4 FY26 U.S. transaction comp turns negative on toughest YoY comp | Medium | 10% | Partly | Three-quarter trend makes single-Q setback a wobble, not thesis-break; but tightest YoY comp of the cycle. |
 | ⚠️ FY26 twice-raised guide miss (US SSS <6% or adj EPS <$2.55) | Medium | 15% | Partly | Raised twice → market expects clean Q4; any stumble produces sharper reaction than pre-Q3. |
 | ⚠️ Niccol departure or extended health absence | Critical | 5% | **Not priced in** | Q2 confirmation makes Niccol *more* valuable to the equity, not less. Multiple compresses sharply on CEO disruption. |
-| ~~Operating margin recovery disappoints~~ ✅ **DE-RISKED 2026-07-29** | — | — | — | Q3 non-GAAP op margin **14.4% (+430 bps)** — margin walk thesis fully confirmed. Tariff refunds (~$300M) contributed; watch Q4 durability ex-refunds. |
+| ~~Operating margin recovery disappoints~~ ✅ **DE-RISKED 2026-07-29** | — | — | — | Q3 non-GAAP op margin **14.4% (+430 bps)** — margin walk confirmed. CFO Smith: tariff refunds "largely offset tariffs incurred during the first three quarters" — normalized product/distribution costs ≈32.3% vs. reported 30.3%. Watch Q4 durability ex-refunds. |
 | Boyu JV transition execution issues (license fee dispute, JV under-performance) | Medium | 20% | Mostly priced | Tied to thesis-break trigger #6; market is generously assuming clean transition; Luckin pressure on JV stores remains operational risk for Boyu but no longer SBUX consolidated |
 | GLP-1 (weight-loss drug) demand-side risk | Medium | 25% | **Not priced in** | Coffee + food attach exposure to a multi-year secular shift in away-from-home calorie demand. Sell-side has not modeled this materially. *[Analyst speculation — not yet surfaced explicitly in 10-K Item 1A]* |
 | Workers United unionization wage step-up | Medium | 35% | Partly | Continues to add stores at margin; Niccol has dialed up labor proactively, which softens the negotiation lever for the union |
@@ -392,9 +392,12 @@ Materiality-filtered. Boilerplate (every-company cyber, payments-regulation gene
 | Date | Firm | Action | Note |
 |---|---|---|---|
 | 2026-08-05 | J.P. Morgan | Maintain Buy, PT $112 | Post-Q3 ([stockanalysis.com](https://stockanalysis.com/stocks/sbux/forecast/)) |
-| 2026-08-03 | Melius Research | Upgrade to Hold | Post-Q3 |
+| 2026-08-03 | Melius Research | **Upgrade Sell → Hold**, PT $85→$110 | Notable bear capitulation ([CNBC](https://www.cnbc.com/2026/08/03/heres-why-a-starbucks-bear-changed-his-tune-and-upgraded-the-stock.html)) |
 | 2026-07-31 | BTIG | Maintain Buy, PT $115 | Post-Q3 |
 | 2026-07-31 | Mizuho Securities | Maintain Hold, PT $115 | Post-Q3 |
+| 2026-07-16 | Wells Fargo | Maintain Overweight, PT $115→$120 | Pre-Q3 raise |
+| 2026-07-15 | Morgan Stanley | Maintain Overweight, PT $110→$111 | Pre-Q3 |
+| 2026-07-14 | Citi | Maintain Neutral, PT $101→$108 | Pre-Q3 |
 
 ### Short Interest
 

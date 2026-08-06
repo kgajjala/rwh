@@ -1,32 +1,32 @@
 # SBUX — Starbucks Corporation
 
 > **Schema**: v3.0
-> **Last Updated**: 2026-04-28
+> **Last Updated**: 2026-08-06
 > **Status**: Active
-> **Live Price Verified**: **$97.28** intraday April 28, 2026 (after-hours **$102.68, +5.55%** post-Q2 print) ([stockanalysis.com](https://stockanalysis.com/stocks/sbux/))
+> **Live Price Verified**: **$105.16** August 6, 2026 ([stockanalysis.com](https://stockanalysis.com/stocks/sbux/))
 > **Ticker Type**: Consumer staples / global retail (specialty coffee, hybrid company-operated + licensed)
 
 ---
 
 ## Summary
 
-**Thesis** — Niccol turnaround empirically confirmed: Q2 FY26 (Apr 28) printed +7.1% U.S. comp / +4.3% U.S. transactions / +6.2% global with op margin +110 bps; FY26 guide raised. Two consecutive quarters of U.S. txn growth **with reduced discounting** = structural traffic, not promo sugar.
+**Thesis** — Niccol turnaround now a confirmed multi-quarter trend: Q3 FY26 (Jul 29) delivered **+7.9% U.S. comp / +4.2% U.S. transactions** (third consecutive quarter) with non-GAAP op margin **14.4% (+430 bps)**, and a **second FY26 guide raise to $2.55–$2.65 adj EPS / >6% U.S. SSS**. Duration test passed; margin walk thesis validated.
 
-🟢 **Non-holder: Initiate-on-dip** ($90–97)  ·  🟡 **Holder: Hold (Add on dip)**
+🟢 **Non-holder: Initiate** ($98–108)  ·  🟢 **Holder: Hold-Add**
 
-| 52-wk range | Now | Entry | Base / PW EV | Trim | Bull | R/R |
+| 52-wk range | Now (+%ile) | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|
-| $75.50 — $104.82 | **$97.28** (74th %ile · AH $102.68) | $90–97 | $125 / $128 | $120–130 | $160 | **≈2.5:1** |
+| $77.99 — $109.23 | **$105.16** (87th %ile) | $98–108 | $145 / $158 | $135–150 | $195 | **≈3.9:1** |
 
-| BAIT | Moat | FY26E P/E | Div yield | China JV | Next catalyst |
+| BAIT | Moat | FY26E P/E | Div yield | Op margin | Next catalyst |
 |---|---|---|---|---|---|
-| Double (A+I Mod-Strong), **Moderate** | Wide & re-sharpening | ≈41× | 2.55% | ✅ closed Apr 9 | 📅 Q3 FY26 — late July 2026 |
+| Double (A Mod-Strong), **Moderate** | Wide & re-sharpening | ≈40× ($2.60 mid) | 2.36% | 14.4% non-GAAP (+430 bps) | 📅 Q4 FY26 — late Oct 2026 |
 
-**🟢 Why** — (1) Two-quarter U.S. transaction trend confirmed (Q1 +3% → Q2 +4.3%) with reduced discounting; growth = structural traffic, not promo sugar. (2) Niccol called Q2 *"the turn in our turnaround"*; FY26 guide raised — comp ≥5% (from ≥3%), adj EPS $2.25–$2.45 (from $2.15–$2.40). (3) China overhang resolved Apr 9 (Boyu JV $13B EV close); op margin +110 bps to 9.4%; all 10 international markets positive — first time in 9 quarters.
+**🟢 Why** — (1) Three-quarter U.S. transaction trend (Q1 +3% → Q2 +4.3% → Q3 +4.2%) on tougher comps — structural, not promotional. (2) Non-GAAP op margin 14.4% (+430 bps) confirms the margin walk thesis; "Niccol tax" trough definitively behind. (3) FY26 guide raised twice in 3 months ($2.15–$2.40 → $2.25–$2.45 → **$2.55–$2.65**); international comp accelerated +5.7% (from +2.6%); Boyu $2.5B proceeds → $1.3B debt tender.
 
-**⚠️ Why not** — (1) ≈41× raised mid-guide vs. historical 25–28× — premium tightens beat-bar; H2 disappointment now triggers larger downside than pre-print. (2) Niccol key-person risk magnified by turnaround validation — departure forces re-rate. (3) Stock at 74th %ile of 52-wk range; AH +5.55% already captured upside; entry zone barely below spot.
+**⚠️ Why not** — (1) ≈40× raised mid-guide vs. historical 25–28× — premium still elevated; Q4 miss would compress. (2) Niccol key-person risk — departure forces re-rate. (3) Stock at 87th %ile of 52-wk range near all-time high; tariff refunds (~$300M) flatered Q3 margins — recurrence uncertain.
 
-**📅 Next read** — Q3 FY26 print, late July 2026. Watch: U.S. transaction trend extending to a third quarter; op-margin recovery cadence; international second-derivative.
+**📅 Next read** — Q4 FY26 print, late October 2026. Watch: U.S. transaction trend on Q4 comp; op-margin sustainability ex-tariff refunds; Boyu JV first full-quarter royalty disclosure; buyback resumption.
 
 ---
 
@@ -49,16 +49,17 @@ The investment narrative since September 2024 has been the **Brian Niccol-led "B
 - **Q4 FY2025 (Oct 29, 2025 print)** — first global positive comp (+1%) in **7 quarters**, despite a $1B+ store-restructuring charge and Q4 op margin compression to 4.5%.
 - **Q1 FY2026 (Jan 28, 2026 print)** — global comp **+4%**, U.S. comparable transactions **+3%** (first transaction growth in **8 quarters**), revenue $9.9B (+6%).
 - **Q2 FY2026 (Apr 28, 2026 print)** — global comp **+6.2%**, **U.S. comp +7.1%** with **U.S. transactions +4.3%** (second consecutive quarter of traffic growth), international comp +2.6% with **all 10 largest markets positive for the first time in 9 quarters**, op margin +110 bps to 9.4%, adj EPS $0.50 (+22%). Niccol: *"the turn in our turnaround."* FY26 guide raised. ([Motley Fool](https://www.fool.com/investing/2026/04/28/starbucks-surges-as-its-turnaround-gains-steam/))
+- **Q3 FY2026 (Jul 29, 2026 print)** — global comp **+7.9%**, **U.S. comp +7.9%** with **U.S. transactions +4.2%** (third consecutive quarter), **international comp +5.7%** (acceleration from +2.6%), non-GAAP op margin **14.4% (+430 bps)**, non-GAAP EPS **$0.85 (+70%)**. Revenue –1% to $9.3B reflects China deconsolidation post-Boyu. **FY26 guide raised again**: adj EPS $2.55–$2.65 / U.S. SSS >6%. Boyu proceeds $2.5B net → $1.3B debt tender. ([Starbucks IR](https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Reports-Q3-Fiscal-Year-2026-Results/default.aspx))
 
-The April 2026 Boyu JV close converts the largest structural drag into an upfront $4B cash event plus a 40% retained interest in a brand-IP-licensed vehicle targeting 20K stores long-term — i.e. China optionality preserved without the operating drag.
+The April 2026 Boyu JV close converts the largest structural drag into an upfront cash event plus a 40% retained interest in a brand-IP-licensed vehicle targeting 20K stores long-term — Q3 is the first full quarter where this shows in reported numbers as a revenue step-down paired with margin uplift.
 
 ---
 
 ## Pivotal Investment Question
 
-> With Q2 FY2026 confirming the U.S. transaction trend (+4.3% on top of Q1's +3%) **and** delivering it with reduced discounting, has the market sufficiently re-rated SBUX off the raised FY26 guide ($2.25–$2.45 EPS) toward a 30–35× growth-staple multiple on a credible FY27/FY28 EPS path of $2.85–$3.30+, or is the after-hours $102.68 move already pricing the cleanest possible outcome?
+> With three consecutive quarters of U.S. transaction growth (Q1 +3% → Q2 +4.3% → Q3 +4.2%) **and** non-GAAP op margin leaping to 14.4% (+430 bps), has the turnaround shifted from "thesis" to "trend" — and does the twice-raised FY26 guide ($2.55–$2.65 adj EPS) on a ≈40× forward multiple fully price the FY27/FY28 EPS rebuild toward $3.50–$4.00+, or does the Boyu royalty layer + margin walk still leave upside uncaptured?
 
-The Q2 print materially de-risked the binary part of the thesis. The remaining tests are duration (does Q3/Q4 confirm transaction trend on tougher comps) and margin recovery cadence (does FY26 H2 deliver the op-margin walk that re-builds FY27 earnings power). Bear case from here is narrower: a macro-driven discretionary slowdown, a Niccol departure, or a reversion if Q2 strength was promotion-light pull-forward.
+Duration test passed. The remaining tests narrow to Q4 comp sustainability on the toughest YoY comp and op-margin durability ex-tariff-refund benefits (~$300M in Q3). Bear case from here: macro-driven discretionary slowdown, Niccol departure, or tariff-refund-driven margin overshoot that mean-reverts.
 
 ---
 
@@ -66,23 +67,22 @@ The Q2 print materially de-risked the binary part of the thesis. The remaining t
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price (intraday) | **$97.28** | April 28, 2026 ([stockanalysis.com](https://stockanalysis.com/stocks/sbux/)) |
-| After-Hours (post-Q2 print) | **$102.68** | **+5.55%** on Q2 FY26 results |
-| Previous Close | $97.89 | Δ intraday –0.62% pre-print |
-| 52-Week High | $104.82 | April 2026 (likely retested at AH price) |
-| 52-Week Low | $75.50 | Mid-2025; pre-Niccol traction |
-| Market Cap | ≈$110.8B | (1.14B diluted shares × $97.28) |
-| Trailing P/E (GAAP) | ≈81× | Depressed by FY25 restructuring + reinvest |
-| Fwd P/E (FY26 raised mid-guide $2.35) | ≈41× | Premium to historical 25–28× |
-| Dividend / Share | $2.48 | 2.55% yield ([stockanalysis.com](https://stockanalysis.com/stocks/sbux/)) |
-| Beta | 0.94 | Low-beta consumer staple |
-| Total Stores (FY25 close) | 40,990 | 627 closed in Sept 2025 restructuring |
-| Starbucks Rewards (U.S.) | 35.5M | +3% YoY (Q1 FY26) |
-| **Q2 FY2026 Comp Sales** | **+6.2% global / +7.1% US (+4.3% txns)** | **Niccol: "the turn in our turnaround"** |
-| **FY26 EPS Guide (Adj, raised)** | **$2.25 – $2.45** | Raised Apr 28 from $2.15–$2.40 |
-| **FY26 Comp Guide (raised)** | **≥5%** | Raised Apr 28 from ≥3% |
-| China JV Close | **April 9, 2026** | $13B EV total; Boyu 60% / SBUX 40% |
-| Next Catalyst | Q3 FY26 earnings | Late July 2026 (estimated) |
+| Live Price | **$105.16** | August 6, 2026 ([stockanalysis.com](https://stockanalysis.com/stocks/sbux/)) |
+| 52-Week High | $109.23 | July–August 2026 |
+| 52-Week Low | $77.99 | Mid-2025; pre-Niccol traction |
+| Market Cap | ≈$119.9B | (1.14B diluted shares × $105.16) |
+| Trailing P/E (GAAP) | 60× | FY25 restructuring still in trailing |
+| Fwd P/E (FY26 raised mid $2.60) | ≈40× | Premium to historical 25–28× |
+| Dividend / Share | $2.48 | 2.36% yield |
+| Beta | 0.96 | Low-beta consumer staple |
+| Total Stores (Q3 FY26) | 41,304 | +175 net new in Q3 |
+| **Q3 FY2026 Comp Sales** | **+7.9% global / +7.9% US (+4.2% txns)** | Third consecutive U.S. transaction growth quarter |
+| **Non-GAAP Op Margin (Q3)** | **14.4% (+430 bps)** | Margin walk thesis confirmed |
+| **FY26 EPS Guide (Adj, 2nd raise)** | **$2.55 – $2.65** | Raised Jul 29 from $2.25–$2.45 |
+| **FY26 Comp Guide (2nd raise)** | **US >6% / Global ~6%** | Raised Jul 29 from ≥5% |
+| **FY26 Non-GAAP Op Margin Guide** | **>11.0%** | New disclosure |
+| China JV Close | **April 9, 2026** | $2.5B net proceeds → $1.3B debt tender |
+| Next Catalyst | Q4 FY26 earnings | Late October 2026 |
 
 ---
 
@@ -96,7 +96,7 @@ The Q2 print materially de-risked the binary part of the thesis. The remaining t
 | YoY Growth | — | +12% | +0.6% | ≈Flat | ≈3% |
 | Op Margin (GAAP) | ≈14.3% | ≈16.3% | ≈15.0% | ≈10–11% [Estimate] | "Slight improvement YoY" [Mgmt guidance] |
 | Op Margin (Non-GAAP) | ≈16% | ≈17% | ≈15% | ≈13% [Estimate] | Slight improvement |
-| Diluted EPS (Non-GAAP) | $3.04 | $3.58 | $3.31 | ≈$2.40–2.60 [Estimate] | $2.15 – $2.40 |
+| Diluted EPS (Non-GAAP) | $3.04 | $3.58 | $3.31 | ≈$2.40–2.60 [Estimate] | **$2.55 – $2.65** (2nd raise) |
 | FCF | ≈$3.0B | ≈$3.7B | ≈$3.0B | ≈$2.5B [Estimate] | — |
 | Dividend / Share | $1.96 | $2.12 | $2.28 | $2.40 | $2.48+ |
 | Total Stores (period end) | ≈35,711 | ≈38,038 | ≈40,199 | 40,990 | — |
@@ -105,20 +105,21 @@ The Q2 print materially de-risked the binary part of the thesis. The remaining t
 
 ### Quarterly Trajectory (Recent)
 
-| Metric | Q3 FY2025 | Q4 FY2025 | Q1 FY2026 | **Q2 FY2026** |
+| Metric | Q4 FY2025 | Q1 FY2026 | Q2 FY2026 | **Q3 FY2026** |
 |---|---|---|---|---|
-| Period End | Jun 29, 2025 | Sep 28, 2025 | Dec 28, 2025 | Mar 29, 2026 |
-| Revenue | ≈$9.5B | $9.6B (+5%) | $9.9B (+6%) | **$9.5B (+9%)** |
-| Global Comp Sales | –2% | +1% | +4% | **+6.2%** |
-| U.S. Comp Sales | –2% | flat | +4% | **+7.1%** |
-| U.S. Transactions | –2% | –1% | **+3%** | **+4.3%** |
-| U.S. Average Ticket | ≈+1% | +1% | +1% | ≈+2.7% |
-| International Comp | flat/neg | flat | +2% | **+2.6% (10/10 markets +)** |
-| Op Margin (GAAP) | ≈9% | 4.5% | ≈13% | **9.4% (+110 bps)** |
-| Non-GAAP EPS | $0.50 | $0.52 | $0.56 | **$0.50 (+22%)** |
-| Comment | Continued txn drag | First global comp growth in 7Q; restructuring charge | U.S. txn inflection (8Q first) | **"The turn in our turnaround" — Niccol** |
+| Period End | Sep 28, 2025 | Dec 28, 2025 | Mar 29, 2026 | Jun 28, 2026 |
+| Revenue | $9.6B (+5%) | $9.9B (+6%) | $9.5B (+9%) | **$9.3B (–1%)** |
+| Global Comp Sales | +1% | +4% | +6.2% | **+7.9%** |
+| U.S. Comp Sales | flat | +4% | +7.1% | **+7.9%** |
+| U.S. Transactions | –1% | **+3%** | **+4.3%** | **+4.2%** |
+| U.S. Average Ticket | +1% | +1% | ≈+2.7% | **+3.6%** |
+| International Comp | flat | +2% | +2.6% | **+5.7%** |
+| Op Margin (GAAP) | 4.5% | ≈13% | 9.4% | **10.5% (+60 bps)** |
+| Non-GAAP Op Margin | — | — | — | **14.4% (+430 bps)** |
+| Non-GAAP EPS | $0.52 | $0.56 | $0.50 (+22%) | **$0.85 (+70%)** |
+| Comment | First global comp in 7Q | U.S. txn inflection (8Q first) | "The turn in our turnaround" | **3rd consecutive txn growth; 2nd guide raise; China decon in rev** |
 
-*Sources: [Q4 FY2025 release](https://investor.starbucks.com/news/financial-releases/news-details/2025/Starbucks-Reports-Q4-and-Full-Fiscal-Year-2025-Results/default.aspx), [Q1 FY2026 release](https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Reports-Q1-Fiscal-Year-2026-Results/default.aspx), [Q2 FY2026 — Motley Fool recap (Apr 28, 2026)](https://www.fool.com/investing/2026/04/28/starbucks-surges-as-its-turnaround-gains-steam/), [Investing.com Q2 slides recap](https://www.investing.com/news/company-news/starbucks-q2-fy26-slides-turnaround-gains-momentum-with-7-us-growth-93CH-4643225), [local PR summary](../../../raw/SBUX/press-releases/2026-04-28-Q2-FY26-results.md).*
+*Sources: [Q4 FY2025 release](https://investor.starbucks.com/news/financial-releases/news-details/2025/Starbucks-Reports-Q4-and-Full-Fiscal-Year-2025-Results/default.aspx), [Q1 FY2026 release](https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Reports-Q1-Fiscal-Year-2026-Results/default.aspx), [Q2 FY2026 — Motley Fool recap](https://www.fool.com/investing/2026/04/28/starbucks-surges-as-its-turnaround-gains-steam/), [Q3 FY2026 — Starbucks IR](https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Reports-Q3-Fiscal-Year-2026-Results/default.aspx).*
 
 ### Primary Source: 10-K Segment Detail (FY2025)
 
@@ -242,7 +243,8 @@ Capital-allocation discipline focus. Maintained dividend, slowed buyback to fund
 
 - **Dividend**: Increased every year since 2010 (Aristocrat-track); current $2.48 annualized.
 - **Buyback**: Slowed materially in 2024–2025 to fund turnaround reinvestment; expected to resume if margins recover.
-- **M&A**: Modest historically. The Boyu JV close ($13B EV; $4B cash to SBUX for Boyu's 60%) is the largest strategic transaction in years.
+- **M&A**: Modest historically. The Boyu JV close ($13B EV; $2.5B net proceeds to SBUX) is the largest strategic transaction in years.
+- **Debt management**: $1.3B debt tender executed from Boyu proceeds in Q3 FY26 — proactive de-leveraging.
 - **Reinvestment**: Heavy 2025–2026 spend on store remodels, equipment, training — depressed FY25 EPS but is the "Niccol tax."
 
 ### Recent Management Commentary — Primary Source Synthesis
@@ -275,6 +277,7 @@ Per the [Boyu close announcement](https://about.starbucks.com/press/2026/starbuc
 | Q1 FY2026 (Jan 2026) | First U.S. transaction growth in 8 quarters | +3% U.S. transactions, +4% global comp |
 | April 2026 | Boyu JV closes | China overhang resolved |
 | Apr 28, 2026 | Q2 FY2026 print | Binary test of transaction-trend durability |
+| Jul 29, 2026 | Q3 FY2026 print | Duration confirmed: 3rd consecutive txn growth + **2nd guide raise** + non-GAAP op margin 14.4% |
 
 The arc is unusually clean for a turnaround in motion: each quarter has had a directionally improving headline metric and at least one structural/transactional deliverable. The pattern is consistent with Niccol's CMG playbook — front-load investment, accept margin compression, prove transaction acceleration, then rebuild margins on the higher revenue base.
 
@@ -301,10 +304,11 @@ Materiality-filtered. Boilerplate (every-company cyber, payments-regulation gene
 | Risk | Impact | Probability | Priced In? | Notes |
 |---|---|---|---|---|
 | ≈≈Q2 FY26 U.S. transaction comp turns negative≈≈ ✅ **DE-RISKED 2026-04-28** | — | — | — | Q2 printed **+4.3% U.S. transactions** on +7.1% comp — second consecutive quarter of traffic growth, with reduced discounting. Trigger fully retired. |
-| ⚠️ Q3 / Q4 FY26 U.S. transaction comp turns negative on tougher comps | High | 15% | Not priced in | Single-quarter setback now treats as a wobble; multi-quarter stall would force re-rating. Beat-bar tighter post-raised-guide. |
-| ⚠️ FY26 raised-guide miss (comp <5% or adj EPS <$2.25) | High | 20% | Partly | After-hours +5.5% prices in clean execution; any H2 stumble vs. raised bar produces sharper reaction than pre-Q2. |
+| ~~⚠️ Q3 FY26 U.S. transaction comp turns negative~~ ✅ **DE-RISKED 2026-07-29** | — | — | — | Q3 printed **+4.2% U.S. transactions** — third consecutive quarter. Trigger retired for Q3; Q4 watch remains. |
+| ⚠️ Q4 FY26 U.S. transaction comp turns negative on toughest YoY comp | Medium | 10% | Partly | Three-quarter trend makes single-Q setback a wobble, not thesis-break; but tightest YoY comp of the cycle. |
+| ⚠️ FY26 twice-raised guide miss (US SSS <6% or adj EPS <$2.55) | Medium | 15% | Partly | Raised twice → market expects clean Q4; any stumble produces sharper reaction than pre-Q3. |
 | ⚠️ Niccol departure or extended health absence | Critical | 5% | **Not priced in** | Q2 confirmation makes Niccol *more* valuable to the equity, not less. Multiple compresses sharply on CEO disruption. |
-| ≈≈Operating margin recovery disappoints≈≈ — partial DE-RISK | Medium | 20% | Partly | Q2 op margin **+110 bps to 9.4%** — first hard evidence of margin walk. Watch H2 cadence; fewer remaining quarters to deliver "slight improvement" full-year. |
+| ~~Operating margin recovery disappoints~~ ✅ **DE-RISKED 2026-07-29** | — | — | — | Q3 non-GAAP op margin **14.4% (+430 bps)** — margin walk thesis fully confirmed. Tariff refunds (~$300M) contributed; watch Q4 durability ex-refunds. |
 | Boyu JV transition execution issues (license fee dispute, JV under-performance) | Medium | 20% | Mostly priced | Tied to thesis-break trigger #6; market is generously assuming clean transition; Luckin pressure on JV stores remains operational risk for Boyu but no longer SBUX consolidated |
 | GLP-1 (weight-loss drug) demand-side risk | Medium | 25% | **Not priced in** | Coffee + food attach exposure to a multi-year secular shift in away-from-home calorie demand. Sell-side has not modeled this materially. *[Analyst speculation — not yet surfaced explicitly in 10-K Item 1A]* |
 | Workers United unionization wage step-up | Medium | 35% | Partly | Continues to add stores at margin; Niccol has dialed up labor proactively, which softens the negotiation lever for the union |
@@ -334,19 +338,19 @@ Materiality-filtered. Boilerplate (every-company cyber, payments-regulation gene
 
 ## Section 8 — Valuation & Comparable Analysis
 
-### Current Multiples (April 28, 2026, intraday $97.28 / AH $102.68 / ≈$110.8B market cap)
+### Current Multiples (August 6, 2026, $105.16 / ≈$119.9B market cap)
 
 | Metric | Value | Notes |
 |---|---|---|
-| Market Cap | ≈$110.8B | 1.14B diluted × $97.28 (AH ≈$117B at $102.68) |
-| Enterprise Value | ≈$125–130B [Estimate] | Reflects Boyu close $4B cash inflow |
-| Trailing P/E (GAAP) | ≈81× | Depressed by FY25 restructuring + reinvest |
-| Fwd P/E (FY26 raised mid $2.35) | **≈41×** intraday / ≈44× AH | Premium |
-| Fwd P/E (FY26 raised high $2.45) | ≈40× / ≈42× AH | Top of range |
-| EV/EBITDA (FY26E) | ≈21–23× | [Estimate, revised on raised guide] |
-| Dividend Yield | 2.55% | $2.48 annualized |
-| FCF Yield | ≈2.3% | ≈$2.5B FCF / $110.8B [Estimate] |
-| Analyst Consensus PT | ≈$102.48 (pre-print) | ([stockanalysis.com](https://stockanalysis.com/stocks/sbux/)); expect upward revisions over next 5 trading days |
+| Market Cap | ≈$119.9B | 1.14B diluted × $105.16 |
+| Enterprise Value | ≈$130–135B [Estimate] | Post-$1.3B debt tender from Boyu proceeds |
+| Trailing P/E (GAAP) | ≈60× | FY25 restructuring still in trailing window |
+| Fwd P/E (FY26 twice-raised mid $2.60) | **≈40×** | Premium to historical 25–28× |
+| Fwd P/E (FY26 twice-raised high $2.65) | ≈40× | Top of range |
+| EV/EBITDA (FY26E) | ≈20–22× | [Estimate, revised on twice-raised guide] |
+| Dividend Yield | 2.36% | $2.48 annualized |
+| FCF Yield | ≈2.1% | [Estimate] |
+| Analyst Consensus PT | **$112** median / $112.23 avg | 36 analysts, Buy ([stockanalysis.com](https://stockanalysis.com/stocks/sbux/forecast/)) |
 
 ### Peer Set
 
@@ -360,70 +364,64 @@ Materiality-filtered. Boilerplate (every-company cyber, payments-regulation gene
 | DPZ | Franchised pizza | ≈28× | ≈17% | Tech-enabled franchise execution |
 | LKNCY (Luckin) | Mostly franchised, China | ≈25× | High-teens (volatile) | China-only direct competitor |
 
-**Assessment**: SBUX trades at a meaningful premium to the franchised QSR set (MCD/YUM/QSR ≈20–22×) because the market is paying for the Niccol turnaround — now empirically confirmed across two consecutive quarters of U.S. transaction growth. The premium is comparable to CMG (≈40×) — Niccol's prior playbook earned a similar multiple on a similar transaction-recovery thesis. The premium is now **defensible-to-attractive if FY27 EPS rebuilds toward $3.00–$3.30+** (Q2 op margin +110 bps gives first hard evidence margin walk is real); it would only be **un-defensible if FY27 EPS stalls in the $2.50 range** despite the raised FY26 guide — a meaningfully lower-probability scenario post-Q2.
+**Assessment**: SBUX at ≈40× twice-raised mid-guide trades at a premium to the franchised QSR set (MCD/YUM/QSR ≈20–22×) — now justified by three consecutive quarters of U.S. transaction growth and non-GAAP op margin 14.4%. The premium is defensible **if FY27 EPS rebuilds toward $3.30–$3.70** (the Q3 margin leap provides strong evidence); un-defensible only if macro/Niccol disruption stalls the trajectory.
 
-**Fair-price range** (revised on Q2 print + raised guide):
-- **Bull-case fair value**: $135–150 (FY27 EPS $3.30–$3.50 × 38–43×) — clean transaction trend continuation + Boyu royalty contribution + buyback resumption + margin walk delivers.
-- **Base-case fair value**: $110–125 (FY27 EPS $2.95–$3.10 × 37–40×) — durable mid-single comp, op margin walks 100–200 bps to ≈15%.
-- **Bear-case fair value**: $75–85 (FY27 EPS $2.55 × 30–33×) — macro discretionary slowdown or Niccol disruption stalls trend; multiple compresses toward franchised-QSR peers.
+**Fair-price range** (revised on Q3 print + second guide raise):
+- **Bull-case fair value**: $145–165 (FY27 EPS $3.50–$3.70 × 40–45×) — transaction trend holds, margin walk extends, Boyu royalty + buyback resumption.
+- **Base-case fair value**: $120–135 (FY27 EPS $3.20–$3.40 × 38–40×) — durable mid-single comp, op margin normalizes ≈15–16%.
+- **Bear-case fair value**: $78–88 (FY27 EPS $2.65–$2.80 × 30–32×) — macro slowdown or Niccol departure; tariff-refund benefit doesn't recur.
 
 ---
 
 ## Section 9 — Catalyst & Sentiment Tracker
 
-### Live Price & Positioning (as of April 28, 2026)
+### Live Price & Positioning (as of August 6, 2026)
 
-- **Price (intraday)**: $97.28 ([stockanalysis.com](https://stockanalysis.com/stocks/sbux/))
-- **After-hours (post-Q2 print)**: **$102.68 (+5.55%)**
-- **Previous close**: $97.89 (Δ intraday –0.62%)
-- **52-week range**: $75.50 – $104.82 (likely retesting high in AH)
-- **Market cap**: ≈$110.8B intraday / ≈$117B at AH
+- **Price**: $105.16 ([stockanalysis.com](https://stockanalysis.com/stocks/sbux/))
+- **52-week range**: $77.99 – $109.23 (87th percentile)
+- **Market cap**: ≈$119.9B
 
-### Analyst Consensus (mid-April 2026)
+### Analyst Consensus (August 2026)
 
-- **Aggregate rating**: 🟢 Buy / Moderate Buy ([stockanalysis.com](https://stockanalysis.com/stocks/sbux/forecast/) / [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/SBUX/forecast/))
-- **Median price target**: ≈$102 ([stockanalysis.com](https://stockanalysis.com/stocks/sbux/)); cluster $100–115; high ≈$122+
-- **Implied upside to median**: ≈+3.9%
-- **Recent rating trend**: constructive — Jefferies upgraded to Hold post-Boyu announcement ([24/7 Wall St., Apr 13 2026](https://247wallst.com/investing/2026/04/13/jefferies-upgrades-starbucks-to-hold-as-china-franchise-exit-and-u-s-stabilization-improve-visibility/)); JPMorgan reiterated constructive ([Daily Political, Apr 24 2026](https://www.dailypolitical.com/2026/04/24/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-starbucks-nasdaqsbux-stock.html))
+- **Aggregate rating**: 🟢 Buy (36 analysts: 12 Strong Buy, 4 Buy, 17 Hold, 2 Sell, 1 Strong Sell) ([stockanalysis.com](https://stockanalysis.com/stocks/sbux/forecast/))
+- **Median price target**: $112; avg $112.23; low $81 / high $143
+- **Implied upside to median**: +6.5%
 
 ### Recent Analyst Actions
 
 | Date | Firm | Action | Note |
 |---|---|---|---|
-| 2026-04-24 | JPMorgan | Reiterated / constructive | Strong price appreciation forecast ([Daily Political](https://www.dailypolitical.com/2026/04/24/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-starbucks-nasdaqsbux-stock.html)) |
-| 2026-04-13 | Jefferies | Upgrade to Hold | China franchise exit + U.S. stabilization improve visibility ([24/7 Wall St.](https://247wallst.com/investing/2026/04/13/jefferies-upgrades-starbucks-to-hold-as-china-franchise-exit-and-u-s-stabilization-improve-visibility/)) |
-| Pre-Q1 FY26 | Multiple | Upgrade cluster | Post Q1 transaction inflection ([stockanalysis.com](https://stockanalysis.com/stocks/sbux/forecast/)) |
+| 2026-08-05 | J.P. Morgan | Maintain Buy, PT $112 | Post-Q3 ([stockanalysis.com](https://stockanalysis.com/stocks/sbux/forecast/)) |
+| 2026-08-03 | Melius Research | Upgrade to Hold | Post-Q3 |
+| 2026-07-31 | BTIG | Maintain Buy, PT $115 | Post-Q3 |
+| 2026-07-31 | Mizuho Securities | Maintain Hold, PT $115 | Post-Q3 |
 
 ### Short Interest
 
-- **Latest**: ≈2–3% of float [Estimate based on aggregator history] ([Fintel](https://fintel.io/ss/us/sbux) / [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/SBUX/short-interest/))
-- **Interpretation**: Low; not a contrarian short setup. No squeeze potential.
+- **Latest (Jul 15 settlement)**: 46.9M shares / **4.12% of float** / 7.4 days to cover ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/SBUX/short-interest/))
+- **Trend**: Down from 4.6% peak in May 2026; –2.7% from prior report. Roughly doubled YoY from ≈28M in early 2025.
+- **Interpretation**: Moderate. Not a squeeze setup, but elevated vs. historical. Bears covering modestly post-Q3.
 
 ### Insider Activity (Last 90 Days)
 
-- No notable open-market insider buying or selling in the public record. Niccol's compensation includes large performance-tied RSU/PSU awards that vest over multi-year horizons.
+- No notable open-market insider buying or selling identified. Niccol's compensation includes large performance-tied RSU/PSU awards. *[OpenInsider fetch failed; data limited.]*
 
 ### Recent Corporate News (Last 90 Days)
 
-- 🟢 **[2026-04-28]** **Q2 FY2026 earnings — turnaround confirmed**: Revenue $9.5B (+9%), **U.S. comp +7.1% / U.S. transactions +4.3%** (second consecutive quarter of traffic growth, with reduced discounting), global comp +6.2%, international +2.6% (10/10 markets positive — first time in 9Q), op margin +110 bps to 9.4%, adj EPS $0.50 vs. $0.44 cons. **FY26 guide raised**: comp ≥5% (from ≥3%), adj EPS $2.25–$2.45 (from $2.15–$2.40). Niccol: *"the turn in our turnaround."* Stock +5.5% AH. ([Motley Fool](https://www.fool.com/investing/2026/04/28/starbucks-surges-as-its-turnaround-gains-steam/) / [Investing.com slides recap](https://www.investing.com/news/company-news/starbucks-q2-fy26-slides-turnaround-gains-momentum-with-7-us-growth-93CH-4643225) / [local PR summary](../../../raw/SBUX/press-releases/2026-04-28-Q2-FY26-results.md))
-- 💰 **[2026-04-09]** **Boyu JV closes** — $13B EV total; Boyu 60% / SBUX 40%; ≈8K China stores transition to licensed model; aspiration of ≈20K long-term ([Starbucks press](https://about.starbucks.com/press/2026/starbucks-and-boyu-capital-finalize-joint-venture-to-accelerate-long-term-growth-in-china/) / [BusinessWire](https://www.businesswire.com/news/home/20260330750110/en/Starbucks-and-Boyu-Capital-Finalize-Joint-Venture-to-Accelerate-Long-Term-Growth-in-China))
-- **[2026-04-22]** Pre-earnings analyst previews focused on U.S. transaction sustainability ([Motley Fool](https://www.fool.com/investing/2026/04/22/most-important-think-to-watch-in-starbucks-report/) / [Seeking Alpha](https://seekingalpha.com/article/4893393-starbucks-q2-fy26-results-preview-the-market-is-warming-up-to-niccols-turnaround))
-- **[2026-04-09]** Spring beverage launch — Energy Refreshers, ube/coconut/lavender ([Starbucks Stories](https://stories.starbucks.com/press/))
-- **[2026-01-28]** **Q1 FY2026 results**: Revenue $9.9B (+6%), comp +4%, U.S. txn +3% (8Q first growth), Non-GAAP EPS $0.56; FY26 guide $2.15–$2.40 ([Starbucks IR](https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Reports-Q1-Fiscal-Year-2026-Results/default.aspx))
-- **[2025-11-?]** Boyu JV announced (intent) — finalized April 2026
-- **[2025-11-14]** **FY2025 10-K filed** ([SEC EDGAR](https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/sbux-20250928.htm))
-- **[2025-10-29]** **Q4 FY2025 results**: Revenue $9.6B (+5%), first global comp growth in 7Q (+1%), Non-GAAP EPS $0.52, Q4 op margin 4.5% (vs. 18.7% PY) due to restructuring + reinvest ([Starbucks IR](https://investor.starbucks.com/news/financial-releases/news-details/2025/Starbucks-Reports-Q4-and-Full-Fiscal-Year-2025-Results/default.aspx))
-- **[2025-09-25]** Restructuring plan: 627 net store closures (>90% NA); $1B+ charge in Q4
+- 🟢 **[2026-07-29]** **Q3 FY2026 earnings — duration confirmed**: Revenue $9.3B (–1%, China deconsolidation), **U.S. comp +7.9% / U.S. transactions +4.2%** (third consecutive quarter), international +5.7% (acceleration), non-GAAP op margin **14.4% (+430 bps)**, non-GAAP EPS $0.85 (+70%). **FY26 guide raised again**: adj EPS $2.55–$2.65, US SSS >6%. Boyu proceeds $2.5B net → $1.3B debt tender. Tariff refunds ~$300M received. ([Starbucks IR](https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Reports-Q3-Fiscal-Year-2026-Results/default.aspx))
+- 🟢 **[2026-04-28]** **Q2 FY2026 earnings — turnaround confirmed**: U.S. comp +7.1% / txns +4.3%, FY26 guide raised to ≥5% / $2.25–$2.45. ([Motley Fool](https://www.fool.com/investing/2026/04/28/starbucks-surges-as-its-turnaround-gains-steam/))
+- 💰 **[2026-04-09]** **Boyu JV closes** — $13B EV; Boyu 60% / SBUX 40%; ≈8K stores to licensed model ([Starbucks press](https://about.starbucks.com/press/2026/starbucks-and-boyu-capital-finalize-joint-venture-to-accelerate-long-term-growth-in-china/))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |---|---|---|
-| ≈≈📅 2026-04-28 Q2 FY2026 earnings≈≈ ✅ **DELIVERED** | **Turnaround confirmed**: +7.1% US comp, +4.3% US txns, op margin +110 bps, FY26 guide raised | Niccol: "the turn in our turnaround" |
-| 📅 **Late July 2026 (est.)** | **Q3 FY2026 earnings** ([MarketBeat earnings cal.](https://www.marketbeat.com/stocks/NASDAQ/SBUX/earnings/)) | Test #1 of duration: does U.S. transaction trend hold a third quarter on tougher comp |
-| FY2026 H2 | Op margin recovery cadence | Q2 +110 bps gives first proof; H2 must extend to validate FY27 EPS power |
-| FY2026–27 (rolling) | Boyu JV royalty visibility | First post-close royalty disclosure shapes terminal value |
-| FY2026 (rolling) | Buyback resumption | Capital-allocation signal of margin recovery confidence |
+| ~~📅 Q2 FY26~~ ✅ **DELIVERED** | Turnaround confirmed | Niccol: "the turn in our turnaround" |
+| ~~📅 Q3 FY26 (Jul 29)~~ ✅ **DELIVERED** | **Duration confirmed**: +4.2% US txns (3rd Q); non-GAAP op margin 14.4%; 2nd guide raise | Three-quarter trend + margin walk validated |
+| 📅 **Late Oct 2026 (est.)** | **Q4 FY2026 earnings** | Toughest YoY comp; Q4 US SSS >6.5% guide; op-margin durability ex-tariff-refunds; Boyu JV royalty clarity |
+| FY2026–27 (rolling) | Boyu JV first full-year royalty | Shapes terminal value |
+| FY2027 | Buyback resumption | Capital-allocation signal — debt tendered, next step is return to shareholders |
+| 📅 Aug 14, 2026 | Ex-dividend date | $2.48 annualized / 2.36% yield |
 
 ---
 
@@ -431,47 +429,43 @@ Materiality-filtered. Boilerplate (every-company cyber, payments-regulation gene
 
 ### B — Behavioral: **Weak**
 
-The stock is up ≈30% from its 52-wk low and trading within 6% of its 52-wk high. Sentiment is *constructive*, not fearful — the Niccol turnaround narrative has been embraced and the Boyu JV close removed the China-overhang ambiguity. There is no observable behavioral mispricing here. If anything, the behavioral risk is the opposite direction: an over-priced expectation of a clean multi-quarter turnaround that requires execution to validate.
+Stock at 87th percentile of 52-wk range, near ATH. Sentiment is constructive-to-crowded — turnaround narrative fully embraced post-Q3. No behavioral mispricing; if anything, risk of over-confidence.
 
 ### A — Analytical: **Moderate-to-Strong**
 
-What consensus may still be missing post-Q2:
+What consensus may still be missing post-Q3:
 
-- **Raised FY26 guide ($2.25–$2.45) is conservative** if Q2 op-margin trajectory (+110 bps) extends to H2; FY26 actual could land at the high end or above.
-- FY27 EPS path now plausibly $3.00–$3.30 with two quarters of confirmed traffic + initial margin walk; sell-side models still cluster near $2.85–$3.00.
-- **Boyu royalty stream optionality** still largely zeroed in consensus — Nestlé-alliance precedent suggests $300–500M per year high-margin annuity at scale.
-- **Reduced discounting growing transactions** is a higher-quality signal than promotional comp — consensus may slowly reweight toward "structural" framing.
+- **FY27 EPS path now plausibly $3.40–$3.70** — Q3 margin trajectory (see §1) implies the walk is running ahead of Street estimates clustering near $3.20.
+- **Boyu royalty stream optionality** still largely unmodeled — Q3 was the first deconsolidated quarter; economics clearer in Q4/FY27.
+- **Tariff refunds (~$300M) in Q3** are one-time; consensus may not be separating clean margin walk from refund benefit.
 
 What consensus may be over-modeling:
-- After-hours $102.68 (≈44× FY26 raised mid) prices a clean H2; macro discretionary risk and Niccol-key-person remain real.
+- ≈40× on $2.60 mid-guide assumes clean Q4; international acceleration (+5.7%) may be one-time catch-up.
 
-Net: positive analytical edge tied to FY27 earnings power, margin walk, and Boyu royalty.
+### I — Informational: **Moderate (fading)**
 
-### I — Informational: **Moderate**
+Q3 disclosures are now ~8 days old; sell-side has largely refreshed (J.P. Morgan, BTIG, Melius all published). Informational edge has largely closed.
 
-Q2 disclosures have just dropped; sell-side has not yet refreshed models or raised price targets to the new guide. Window of 5–10 trading days during which careful readers of the press release and call have a measurable edge over consensus PT cluster.
+### T — Technical: **Moderate**
 
-### T — Technical: **Moderate-to-Strong**
-
-- After-hours $102.68 retests 52-wk high $104.82 directly
-- Two consecutive quarters of fundamental confirmation creates technical breakout setup
-- Q3 print (late July) is the next event-binary moment but on much-de-risked ground
+- $105.16 near 52-wk high $109.23; three-quarter fundamental confirmation supports breakout setup
+- Q4 print (late Oct) is next event
 
 ### BAIT Verdict
 
-**Two-overlap (A + I both Moderate-to-Strong; T Moderate)**. Behavioral is now slightly *over-confident* not fearful, but A and I have meaningfully strengthened. **Conviction: Moderate.** SBUX is a quality business with the turnaround empirically confirmed and a raised guide that still appears achievable. Asymmetry has shifted favorably; the multi-year multiple is defensible at current levels and attractive on any retracement.
+**Single-to-Double (A Moderate-to-Strong; I fading)**. Behavioral is over-confident not fearful; Informational edge has largely closed post-Q3 sell-side refresh. **Conviction: Moderate.** The turnaround is now an established trend, not a thesis; asymmetry has narrowed from the $97 entry but remains positive over a 5-year horizon.
 
 ---
 
 ## Section 11 — Bull / Bear / Base Cases
 
-*All scenarios are 3-year (FY2029, year ending Sept 2029) terminal prices. Probabilities sum to 100%.*
+*All scenarios are 5-year (FY2031, year ending Sept 2031) terminal prices per Rule #24. Probabilities sum to 100%. Migrated from 3-yr on 2026-08-06.*
 
-| Case | 3-Yr Target (FY2029) | Probability | Implied Return (vs. $97.28) | Key Assumptions |
+| Case | 5-Yr Target (FY2031) | Probability | Implied Return (vs. $105.16) | Key Assumptions |
 |---|---|---|---|---|
-| 🟢 **Bull** | **$160** | 40% | +64% / ≈18% CAGR | FY29 EPS ≈$4.20; transaction trend holds +3–4%; op margin walks to ≈17%; Boyu royalty $400M+ run-rate; buyback resumed; multiple 36–38× |
-| 🟡 **Base** | **$125** | 45% | +28% / ≈9% CAGR | FY29 EPS ≈$3.50; partial margin recovery to ≈15%; mid-single comp growth; Boyu royalty $250M; multiple ≈35× |
-| 🔴 **Bear** | **$78** | 15% | –20% / ≈–7% CAGR | FY29 EPS ≈$2.55; macro-driven slowdown or Niccol disruption stalls trend; multiple compresses to ≈30× toward franchised-QSR peer set |
+| 🟢 **Bull** | **$195** | 45% | +85% / ≈13% CAGR | FY31 EPS ≈$5.00; transaction trend sustained +3–4% CAGR; op margin recovers to ≈17%; Boyu royalty $500M+ run-rate; buyback resumed; multiple 38–40× |
+| 🟡 **Base** | **$145** | 40% | +38% / ≈7% CAGR | FY31 EPS ≈$4.00; partial margin recovery to ≈15–16%; mid-single comp growth; Boyu royalty $300M; multiple 36× |
+| 🔴 **Bear** | **$82** | 15% | –22% / ≈–5% CAGR | FY31 EPS ≈$2.75; macro slowdown or Niccol departure stalls trend; tariff-refund-driven margin overshoot mean-reverts; multiple ≈30× |
 
 ---
 
@@ -479,69 +473,61 @@ Q2 disclosures have just dropped; sell-side has not yet refreshed models or rais
 
 | Scenario | Terminal Price | Probability | PW Contribution |
 |---|---|---|---|
-| Bull | $160 | 40% | $64.00 |
-| Base | $125 | 45% | $56.25 |
-| Bear | $78 | 15% | $11.70 |
-| **PW EV (3-yr)** | | | **≈$132** |
+| Bull | $195 | 45% | $87.75 |
+| Base | $145 | 40% | $58.00 |
+| Bear | $82 | 15% | $12.30 |
+| **PW EV (5-yr)** | | | **≈$158** |
 
-| Current Price | PW EV | Return (3-yr) | Annualized | + Dividend |
+| Current Price | PW EV | Return (5-yr) | Annualized | + Dividend |
 |---|---|---|---|---|
-| $97.28 (intraday) | $132 | **+35.7%** | ≈+10.7%/yr | + 2.5% yield = **≈13.2% total annualized** |
-| $102.68 (AH) | $132 | +28.6% | ≈+8.7%/yr | + 2.5% yield ≈ ≈11.2% total annualized |
+| $105.16 | $158 | **+50%** | ≈+8.5%/yr | + 2.4% yield = **≈10.9% total annualized** |
 
-**Risk/Reward (Section 11 anchored, per Rule #24)**: Bull upside +64% / Bear downside –20% = **R/R ≈3.2:1** (Bull / Bear, vs. intraday $97.28). Anchored to AH $102.68, R/R compresses to ≈2.5:1. Including 2.5% annual dividend through 3-year hold, loaded R/R modestly stronger.
+**Risk/Reward (Section 11 anchored, per Rule #24)**: Bull upside +85% / Bear downside –22% = **R/R ≈3.9:1** (vs. $105.16).
 
-**Interpretation**: PW EV of ≈$132 vs. spot $97.28 implies +36% over 3 years (≈11%/yr intraday) or +29% (≈9%/yr) at AH levels — meaningfully more attractive than the pre-print +20% / 6%/yr framing. Q2 confirmed the binary part of the thesis (transaction trend + margin walk both delivered) and the raised guide expands FY27 earnings power. The remaining risks are duration (Q3/Q4 hold), macro discretionary, and Niccol key-person — all real but lower-magnitude than the event-binary risk that just resolved favorably.
+**Interpretation**: PW EV of ≈$158 vs. spot $105.16 implies +50% over 5 years (≈8.5%/yr + 2.4% div). Three-quarter trend + margin walk (see §1) + twice-raised guide collectively narrow the bear case. Remaining risks: Q4 comp execution, macro, Niccol key-person — lower-magnitude than pre-Q3. Boyu royalty upside remains largely uncaptured.
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Starbucks is a wide-moat global brand whose Niccol-led turnaround is now empirically confirmed — Q2 FY26 delivered **+7.1% U.S. comp on +4.3% transactions with reduced discounting**, op margin **+110 bps to 9.4%**, and a **raised FY26 guide ($2.25–$2.45 adj EPS / ≥5% comp)** — and at intraday $97.28 (≈41× FY26 raised mid) the multiple is defensible against a credible FY27 path of $3.00–$3.30+ with the Boyu royalty layer still largely free in consensus models.
+**Thesis in one sentence**: Starbucks is a wide-moat global brand whose Niccol-led turnaround is now a confirmed multi-quarter trend — Q3 FY26 delivered **+7.9% U.S. comp on +4.2% transactions** (third consecutive quarter), non-GAAP op margin **14.4% (+430 bps)**, and a **second FY26 guide raise to $2.55–$2.65 adj EPS / >6% U.S. SSS** — and at $105.16 (≈40× twice-raised mid) the multiple is defensible against a credible FY27 path of $3.40–$3.70+ with the Boyu royalty layer still uncaptured.
 
-**For a non-holder**: 🟢 **Initiate-on-dip** — turnaround thesis materially de-risked across two quarters. Initiate at $90–97 zone (intraday levels); aggressive add at $85–92 on any retracement. Avoid chasing the after-hours pop above $103.
+**For a non-holder**: 🟢 **Initiate** — turnaround thesis confirmed across three quarters with accelerating margin recovery. Entry zone $98–108 (current levels). Aggressive add on any retracement to $92–98.
 
-**For a current holder**: 🟢 **Hold (Add on dip)** — Niccol thesis confirmed, China overhang resolved, FY26 guide raised. Do not exit. Add only on retracement to entry zone or on confirmed Q3/Q4 trend extension.
+**For a current holder**: 🟢 **Hold-Add** — thesis strengthened substantively. Add on dips to $95–100 or on Q4 confirmation.
 
-🎯 **Attractive entry zone**: **$90 – $97** (rationale: ≈38–41× FY26 raised mid-guide $2.35; cluster around pre-print analyst PT $102; downside cushion against Q3 wobble)
+🎯 **Attractive entry zone**: **$98 – $108** (rationale: ≈38–42× FY26 twice-raised mid $2.60; ≈30–33× FY27E $3.30; below analyst median $112)
 
-🎯 **Trim zone**: **$120 – $130** (rationale: ≈51–55× FY26 raised-mid; ≈38–43× FY27E $3.10; story-fully-priced)
+🎯 **Trim zone**: **$135 – $150** (rationale: ≈52–58× FY26; ≈41–45× FY27E; story-fully-priced)
 
-🔴 **Exit / avoid zone**: **>$140** (rationale: would require FY27 EPS ≈$3.50+ fully in the price plus multiple expansion)
+🔴 **Exit / avoid zone**: **>$165** (rationale: requires FY27 EPS $3.70+ fully priced plus multiple expansion)
 
 **Thesis-break triggers** ⚠️ (would force re-rating toward Exit / Avoid):
 
-- ≈≈Q2 FY2026 U.S. transaction comp negative≈≈ ✅ **DE-RISKED 2026-04-28** — printed +4.3%
-- ⚠️ Q3 OR Q4 FY2026 U.S. transaction comp turns negative on tougher comps
-- ⚠️ FY26 raised guide retracted (comp <5% or adj EPS <$2.25 at any quarterly update)
-- ⚠️ Operating margin walk reverses (Q3 op margin Y/Y compression)
+- ~~Q2 FY26 U.S. txn comp negative~~ ✅ **DE-RISKED 2026-04-28**
+- ~~Q3 FY26 U.S. txn comp negative~~ ✅ **DE-RISKED 2026-07-29** — printed +4.2%
+- ~~Op margin walk reverses~~ ✅ **DE-RISKED 2026-07-29** — non-GAAP 14.4% (+430 bps)
+- ⚠️ Q4 FY26 U.S. transaction comp turns negative on toughest YoY comp
+- ⚠️ FY26 twice-raised guide retracted (US SSS <6% or adj EPS <$2.55)
 - ⚠️ Niccol departure or extended health absence
-- ⚠️ Boyu JV transition friction (license-fee dispute, operational JV under-performance, write-down on retained 40% stake)
-- ⚠️ Material new unionization-driven wage step-up or strike
+- ⚠️ Boyu JV transition friction (write-down on 40% stake, royalty dispute)
+- ⚠️ Tariff-refund-driven margin overshoot that mean-reverts in Q4 (op margin Y/Y compression)
 
-📅 **Next review trigger**: **Q3 FY2026 earnings — late July 2026**. Key items: (1) U.S. comparable transactions stay positive on tougher comp, (2) op-margin walk extends, (3) FY26 raised guide reaffirmed/raised again, (4) Boyu JV first royalty disclosure, (5) buyback resumption signal.
+📅 **Next review trigger**: **Q4 FY2026 earnings — late October 2026**. Key items: (1) U.S. transactions stay positive on toughest comp, (2) op-margin sustainability ex-tariff-refunds, (3) twice-raised guide delivered, (4) Boyu JV full-year royalty clarity, (5) buyback resumption signal.
 
 ---
 
 ### Sources
 
-- [Q2 FY2026 release — Starbucks IR (Apr 28, 2026)](https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Reports-Q2-Fiscal-Year-2026-Results/default.aspx) (URL of record; direct fetch returned 403)
+- [Q3 FY2026 release — Starbucks IR (Jul 29, 2026)](https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Reports-Q3-Fiscal-Year-2026-Results/default.aspx)
+- [Q2 FY2026 release — Starbucks IR (Apr 28, 2026)](https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Reports-Q2-Fiscal-Year-2026-Results/default.aspx)
 - [Q2 FY2026 — Motley Fool recap (Apr 28, 2026)](https://www.fool.com/investing/2026/04/28/starbucks-surges-as-its-turnaround-gains-steam/)
-- [Q2 FY2026 — Investing.com slides recap (Apr 28, 2026)](https://www.investing.com/news/company-news/starbucks-q2-fy26-slides-turnaround-gains-momentum-with-7-us-growth-93CH-4643225)
-- [Q2 FY2026 local PR summary](../../../raw/SBUX/press-releases/2026-04-28-Q2-FY26-results.md)
 - [Starbucks Investor Relations](https://investor.starbucks.com/) — Q1 FY26 + Q4 FY25 press releases and earnings call transcripts
 - [Starbucks FY2025 10-K — SEC EDGAR HTML](https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/sbux-20250928.htm) (filed Nov 14, 2025)
-- [Starbucks FY2025 10-K — PDF mirror](https://s203.q4cdn.com/326826266/files/doc_financials/2025/q4/SBUX-9-28-2025-10-K-FINAL.pdf)
 - [Q1 FY2026 release (Jan 28, 2026)](https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Reports-Q1-Fiscal-Year-2026-Results/default.aspx)
 - [Q4 FY2025 release (Oct 29, 2025)](https://investor.starbucks.com/news/financial-releases/news-details/2025/Starbucks-Reports-Q4-and-Full-Fiscal-Year-2025-Results/default.aspx)
-- [Q4 FY2025 transcript (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2025/10/29/starbucks-sbux-q4-2025-earnings-call-transcript/)
-- [Boyu JV close press release (Apr 2026)](https://about.starbucks.com/press/2026/starbucks-and-boyu-capital-finalize-joint-venture-to-accelerate-long-term-growth-in-china/) — also [BusinessWire](https://www.businesswire.com/news/home/20260330750110/en/Starbucks-and-Boyu-Capital-Finalize-Joint-Venture-to-Accelerate-Long-Term-Growth-in-China)
-- [Jefferies upgrade — 24/7 Wall St., Apr 13 2026](https://247wallst.com/investing/2026/04/13/jefferies-upgrades-starbucks-to-hold-as-china-franchise-exit-and-u-s-stabilization-improve-visibility/)
-- [JPMorgan note — Daily Political, Apr 24 2026](https://www.dailypolitical.com/2026/04/24/jpmorgan-chase-co-forecasts-strong-price-appreciation-for-starbucks-nasdaqsbux-stock.html)
-- [Niccol comp — Bloomberg, Jan 27 2026](https://www.bloomberg.com/news/articles/2026-01-27/starbucks-reports-ceo-brian-niccol-earned-31-million-in-2025)
-- [Q2 FY26 preview — Seeking Alpha, Apr 22 2026](https://seekingalpha.com/article/4893393-starbucks-q2-fy26-results-preview-the-market-is-warming-up-to-niccols-turnaround)
-- [Q2 FY26 preview — Motley Fool, Apr 22 2026](https://www.fool.com/investing/2026/04/22/most-important-think-to-watch-in-starbucks-report/)
+- [Boyu JV close press release (Apr 2026)](https://about.starbucks.com/press/2026/starbucks-and-boyu-capital-finalize-joint-venture-to-accelerate-long-term-growth-in-china/)
 - [stockanalysis.com — SBUX](https://stockanalysis.com/stocks/sbux/) (live price + multiples + analyst PT)
-- [Yahoo Finance — SBUX](https://finance.yahoo.com/quote/SBUX) [link pending: page failed to fetch April 26]
+- [stockanalysis.com — SBUX forecast](https://stockanalysis.com/stocks/sbux/forecast/) (analyst ratings + PT)
+- [MarketBeat — SBUX short interest](https://www.marketbeat.com/stocks/NASDAQ/SBUX/short-interest/) (short interest data)
 - [MarketBeat — SBUX](https://www.marketbeat.com/stocks/NASDAQ/SBUX/) (earnings calendar, ratings)
-- [Fintel — SBUX short interest](https://fintel.io/ss/us/sbux)

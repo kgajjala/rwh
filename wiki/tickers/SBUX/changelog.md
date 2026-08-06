@@ -4,6 +4,44 @@
 
 ---
 
+## [2026-08-06] — Q3 FY26 Earnings — Duration confirmed: 3rd consecutive txn growth, non-GAAP op margin 14.4%, 2nd guide raise
+
+**Trigger**: Q3 Fiscal 2026 earnings released July 29, 2026. Material thesis-strengthening print: third consecutive quarter of U.S. transaction growth, non-GAAP op margin leaped to 14.4% (+430 bps), FY26 guide raised a second time to $2.55–$2.65 adj EPS / >6% U.S. SSS. International comp accelerated to +5.7%. Revenue –1% to $9.3B reflects China deconsolidation (Boyu JV). Boyu net proceeds $2.5B → $1.3B debt tender. Tariff refunds ~$300M received in Q3.
+
+**Sources reviewed**:
+- [Q3 FY2026 — Starbucks IR (Jul 29, 2026)](https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Reports-Q3-Fiscal-Year-2026-Results/default.aspx)
+- [stockanalysis.com — SBUX](https://stockanalysis.com/stocks/sbux/) (live price $105.16 verified Aug 6)
+- [stockanalysis.com — SBUX forecast](https://stockanalysis.com/stocks/sbux/forecast/) (analyst consensus: 36 analysts, Buy, median PT $112)
+- [MarketBeat — SBUX short interest](https://www.marketbeat.com/stocks/NASDAQ/SBUX/short-interest/) (4.12% of float, Jul 15 settlement)
+
+### What Changed
+- **Header**: Last Updated → 2026-08-06; live price $105.16 (87th %ile of $77.99–$109.23 52-wk range)
+- **Summary**: Thesis upgraded — turnaround now a confirmed multi-quarter trend; verbs upgraded: non-holder Initiate-on-dip → **Initiate** ($98–108); holder Hold (Add on dip) → **Hold-Add**
+- **Pivotal Question**: Reframed from "duration test" to "FY27/FY28 earnings-power pricing" — duration test passed
+- **§1**: Added Q3 FY26 column (rev $9.3B / U.S. comp +7.9% / txns +4.2% / non-GAAP EPS $0.85 / non-GAAP op margin 14.4%); updated FY26 guide to $2.55–$2.65
+- **§4**: Added Q3 to management arc table; added $1.3B debt tender from Boyu proceeds
+- **§6**: Q3 transaction trigger ✅ DE-RISKED; op margin recovery ✅ DE-RISKED (14.4%); added tariff-refund margin sustainability risk; FY26 guide-miss risk updated to twice-raised bar
+- **§8**: Recomputed multiples at $105.16 / $2.60 mid = ≈40× fwd; fair-price ranges raised; analyst consensus refreshed (median $112)
+- **§9**: Full refresh — price, analyst consensus (36 analysts, Buy, $112 median), short interest (4.12% down from 4.6% May peak), analyst actions (JPM Buy $112, BTIG Buy $115, Melius upgrade to Hold), corporate news (Q3 print added), catalysts updated (Q4 FY26 late Oct)
+- **§10 BAIT**: Informational edge faded (8 days post-print); Analytical remains Mod-Strong (FY27 margin walk + Boyu royalty uncaptured); verdict Single-to-Double (A only)
+- **§11**: Migrated 3-yr → 5-yr terminal per Rule #24; Bull $160→$195 (45%), Base $125→$145 (40%), Bear $78→$82 (15%); probabilities shifted toward Bull on duration confirmation
+- **§12**: PW EV $132 (3-yr) → **$158 (5-yr)**; return +50% / ≈8.5%/yr + 2.4% div = ≈10.9% total; R/R $132 3.2:1 → **$158 3.9:1**
+- **§13**: Thesis sentence refreshed; entry zone $90–97 → $98–108; trim zone $120–130 → $135–150; exit zone >$140 → >$165; three thesis-break triggers DE-RISKED; added tariff-refund margin risk
+
+### Thesis Status
+- **Overall**: 🟢 **Strengthened (substantively)** vs. prior 2026-04-28 baseline. Third consecutive quarter of U.S. transaction growth on tougher comps (Q1 +3% → Q2 +4.3% → Q3 +4.2%) confirms duration; non-GAAP op margin 14.4% (+430 bps) confirms the margin walk thesis beyond what Q2's +110 bps suggested; twice-raised guide ($2.55–$2.65, from original $2.15–$2.40) compresses the bear case.
+- **BAIT delta**: Informational edge faded post-sell-side refresh; Analytical holds Mod-Strong; net: Double→Single-to-Double (A only)
+- **Price target delta**: §11 migrated to 5-yr terminal. Bull $160→$195 / Base $125→$145 / Bear $78→$82. PW EV $132 (3-yr) → **$158 (5-yr)**.
+- **Catalyst & Sentiment delta**: Stock +8.1% from Q2 baseline ($97.28→$105.16); analyst median PT rose $102→$112; short interest 4.12% (down from 4.6% peak); three thesis-break triggers retired.
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate** ($98–108) — turnaround confirmed across three quarters; duration test passed; margin walk validated. Entry zone raised from $90–97.
+- **For a current holder**: 🟢 **Hold-Add** — thesis substantively strengthened; add on dips to $95–100 or on Q4 confirmation.
+
+**Next review trigger**: Q4 FY2026 earnings — late October 2026. Key items: (1) U.S. transactions on toughest comp, (2) op-margin durability ex-tariff refunds, (3) twice-raised guide delivered, (4) Boyu JV royalty clarity, (5) buyback resumption.
+
+---
+
 ## [2026-04-28] — Q2 FY26 — Niccol turnaround confirmed: traffic +4.3%, FY26 guide raised
 
 **Trigger**: Q2 Fiscal 2026 earnings released pre-market 2026-04-28. Material thesis-confirming print: second consecutive quarter of U.S. transaction growth, op-margin walk delivered, FY26 guide raised. Niccol explicitly framed it as *"the turn in our turnaround."*

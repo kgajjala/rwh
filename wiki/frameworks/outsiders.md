@@ -73,7 +73,7 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 | **TSLA** | ≈$27.4B net cash into Cybercab/Optimus/AI compute/vertical integration; no dividend/buyback. Q2 2026 made the reinvestment concrete — capex +142%, FCF –$1.09B, management "spending CapEx as fast as it can." ⚠️ Reinvesting *pro*-cyclically into its own narrative with no buyback offset at a 38% drawdown is the opposite of the Singleton test; $2B xAI stake remains the governance blemish. Stays Reinvestor until the capex cycle shows measurable returns. |
 | **FIG** | Pre-revenue; $1.7B war chest into product expansion; too early for buyback test. Walked from Adobe deal cleanly (only capital-discipline data point). |
 | **ONON** | CHF 1.02B cash for APAC + apparel + retail expansion; no dividend/M&A; build-don't-buy Outsider-consistent at this maturity stage. |
-| **HOOD** | Compounding phase; $300M+ buybacks vs. $76B cap; dominant capital use is reinvestment into Gold, prediction markets, international. Track record too short/small for countercyclical signal. |
+| **HOOD** | **Reinvestor (improving)** — $664M YTD buybacks (7.5M shares) funded partly by $2.2B zero-coupon convertible at 0% / $300 conversion (clever arbitrage); ~290-person layoff signals cost discipline. Pace accelerating but still small vs. $82B cap. |
 | **LLY** | CapEx $1.3B → $7.8B; R&D >$10B/yr; bold pipeline M&A; deploying all capital at highest-IRR moment in Lilly history. Outsider test applies post-capex-cycle maturation. |
 | **RIVN** | Pre-profitability; all capital into R2 + VW JV + Adventure Network. Scaringe $5B performance-equity aligns with per-share outcomes (Outsider spirit); buyback test can't apply before FCF. |
 
@@ -89,7 +89,7 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 | **SBUX** | Dividend growing since 2010; buybacks slowed for turnaround reinvestment; dividend-first, buyback-secondary. |
 | **MSFT** | $20B+ annual programmatic buybacks + dividend growing since 2003; M&A at strategic premiums. Nadella is an exceptional steward — the Outsider test doesn't fit a patterned return program. |
 | **DELL** | 40-yr strategic capital-allocation mastery (LBO, EMC, VMware spin) but public-company framework is committed programmatic cadence. SLTA insider sales blunt the timing signal. |
-| **UNH** | $5–8B/yr historical programmatic buybacks + 15% CAGR dividend growth; $2B+ Q1 2026 at $300–355 is best recent Outsider signal but overall pattern is Aristocrat stewardship. |
+| **UNH** | **Outsider-leaning** *(upgraded 2026-08-06)*: countercyclical $2B+ at $300–355 in Q1 2026, then **doubled FY26 target to ≥$5B** ($4B executed at ~$378 avg); dividend raised to $9.28/yr. The Q1 trough-buy + Q2 acceleration is the clearest Outsider signal in UNH's history; historical programmatic pattern partially offsets. |
 | **RKT** | $16B all-stock dilutive acquisitions (Mr. Cooper + Redfin); long-duration orientation, bold, but fails Thorndike's per-share discipline test; no buybacks during integration. |
 | **SCHW** | Q1 2026 $2.4B buyback is post-recovery (stock near highs) not countercyclical; cash-sorting episode navigated operationally, not exploited as a cheap-stock buyback opportunity. |
 
@@ -107,4 +107,4 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 
 ## Headline
 
-The cleanest Outsiders we track are **BRK.B, ADBE, INTU, EBAY** — countercyclical buyback timing + per-share, low-ego mindset. **UBER, BKNG, HD, KGS, NFLX** form a strong second tier. Dividend Kings (PEP/PG/NKE/LOW) and Stewards (MSFT/DELL/SCHW/UNH) are superb businesses that fail Thorndike's *specific* test. **RH / LULU are active anti-examples** of buyback discipline; **SPOT / DASH are reforming or ambiguous**.
+The cleanest Outsiders we track are **BRK.B, ADBE, INTU, EBAY** — countercyclical buyback timing + per-share, low-ego mindset. **UBER, BKNG, HD, KGS, NFLX** form a strong second tier. Dividend Kings (PEP/PG/NKE/LOW) and Stewards (MSFT/DELL/SCHW) are superb businesses that fail Thorndike's *specific* test. **UNH** graduated to Outsider-leaning on 2026-08-06 (countercyclical Q1 trough-buy + Q2 doubling to ≥$5B). **RH / LULU are active anti-examples** of buyback discipline; **SPOT / DASH are reforming or ambiguous**.

@@ -4,6 +4,48 @@
 
 ---
 
+## [2026-08-07] — Q2 2026 Earnings Beat + Robinhood Chain Launch + WonderFi Close + Convertible Raise
+
+**Trigger**: Q2 2026 earnings reported July 29 — revenue $1.31B (+32% YoY, beat ~$1.26B consensus), GAAP EPS $0.62 (+48%, beat $0.41 est. by 51%). Major strategic events in the 14-week window since baseline: Robinhood Chain mainnet (July 1), WonderFi acquisition closed (June 1), $2.2B zero-coupon convertible notes (June 22), ~290 employee layoff (June 16), CTO Pinner departure (May 7).
+
+**Sources reviewed**:
+- [Robinhood IR — Q2 2026 results](https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-second-quarter-2026-results)
+- [Yahoo Finance — HOOD quote](https://finance.yahoo.com/quote/HOOD/) ($90.71 Aug 7 intraday)
+- [StockAnalysis — HOOD](https://stockanalysis.com/stocks/hood/) (analyst consensus, 52-wk range)
+- [MarketBeat — short interest](https://www.marketbeat.com/stocks/NASDAQ/HOOD/short-interest/) (4.89% of float)
+- [StockTitan — Malka Form 4 buys](https://www.stocktitan.net/sec-filings/HOOD/form-4-robinhood-markets-inc-insider-trading-activity-f9efb4dff2c7.html) (~$55M discretionary)
+- [Robinhood newsroom — Chain mainnet](https://robinhood.com/us/en/newsroom/robinhood-accelerates-global-expansion-robinhood-chain-mainnet-stock-tokens-agentic-trading/)
+- [Newsfilecorp — WonderFi close](https://www.newsfilecorp.com/release/299681/Robinhood-Completes-Acquisition-of-WonderFi)
+- [Robinhood IR — convertible notes](https://investors.robinhood.com/news-releases/news-release-details/robinhood-announces-private-offering-20-billion-convertible)
+- [SEC 8-K — CTO departure](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000065/hood-20260507.htm)
+- [Fortune — June layoffs](https://fortune.com/2026/06/16/robinhood-announces-layoffs-vladimir-tenev/)
+- [CoinDesk — UK FCA registration](https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off)
+
+### What Changed
+- **Header / Live Price**: $70.29 → **$90.71** (+29%); 52-wk low revised to $63.51; market cap $63.3B → $81.6B
+- **§0 Summary**: Scenario table migrated to 5-yr terminal; verbs: non-holder Initiate unchanged, holder **Add → Hold** (price above entry zone floor)
+- **§1 + §2**: Q2 added — rev $1.31B (+32%): options $342M, equities $129M, events $156M, crypto $100M, NII $389M, other $143M; assets $369B, Gold 4.8M, ARPU $187
+- **§4**: Malka (Ribbit) $55M discretionary buy at $80–83; CTO Pinner departed May 7; $2.2B zero-coupon convertible; YTD buybacks $664M; Outsider grade Reinvestor (improving)
+- **§5**: Chain mainnet Jul 1; WonderFi closed Jun 1 / Canada live Jul 1; Trump Accounts 7M / $1.5B; Singapore MAS IPA; UK FCA crypto reg
+- **§9**: Analyst consensus Buy (28), median PT ~$120; post-Q2 PT cuts offset by BofA raise to $140
+- **§10 BAIT**: B Mod-Strong → Mod; T Weak-to-Mod → Mod; overall Mod-High → **Moderate**
+- **§11–§12**: 18-month → 5-yr terminal; Bull $155→$180 / Base $105→$130 / Bear $55→$60; PW EV $108 → **$125**; R/R 5.5:1 → **2.9:1**
+- **§13**: Entry $65–80 → $75–100; trim $130–160 → $150–180; crypto thesis-break trigger reset (trend improving)
+
+### Thesis Status
+- **Overall**: 🟢 **Strengthened** — Q2 decisively answered the pivotal question: non-crypto franchise absorbed a 2nd consecutive quarter of crypto decline (–38%) while total revenue grew +32%. Event contracts, equities, and Gold all accelerated.
+- **BAIT delta**: B: Mod-Strong → Mod; T: Weak-to-Mod → Mod; overall Mod-High → Moderate (price recovery narrowed behavioral gap)
+- **Price target delta**: Bull $155 → $180 | Base $105 → $130 | Bear $55 → $60 | PW EV $108 → $125 (18-mo → 5-yr terminal migration)
+- **Catalyst & Sentiment delta**: Post-Q2 analyst consensus Buy (28 firms, median PT ~$120); Malka $55M discretionary buy offsets Tenev/Bhatt continued plan sales
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate** — scale in $75–100; PW EV ~$125 implies +38% / 5-yr; R/R ≈2.9:1
+- **For a current holder**: 🟡 **Hold** *(downgraded from Add)* — $91 above entry zone floor; thesis strengthened but price captured much of the Q2 beat
+
+**Next review trigger**: 📅 **Q3 2026 earnings (Nov 4, 2026)** — first full quarter with Robinhood Chain; international revenue (Canada + UK + Singapore); crypto post-Chain; Trump Accounts revenue ramp; margin expansion post-layoffs; CTO successor.
+
+---
+
 ## [2026-04-29] — Post-Q1 Price Reset & Earnings Call Refresh
 
 **Trigger**: HOOD fell –14.35% intraday to $70.29 on 2026-04-29 following Q1 2026 earnings (reported 2026-04-28 after close). Q1 missed consensus on revenue ($1.07B vs. $1.14B est.) and EPS ($0.38 vs. $0.39–$0.42 est.). Management stated on the call that April crypto volumes are "about similar to Q1," removing hope of near-term sequential crypto recovery and driving sell-side EPS estimate cuts of 10–26%. Price reset from $84.71 (ingest) to $70.29 places the stock at the lower bound of the prior entry zone, materially improving R/R.

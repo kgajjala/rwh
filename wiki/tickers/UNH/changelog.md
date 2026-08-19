@@ -4,6 +4,50 @@
 
 ---
 
+## [2026-08-06] — Q2 2026 Earnings BEAT + Guide Raise + DOJ/Claritev Probe Expansion
+
+**Trigger**: Two material events since 2026-04-28 baseline:
+1. **Q2 2026 earnings (Jul 16)**: Adj EPS $6.38 vs. ~$4.94 consensus (+29% beat); MCR 86.7% (–270bps YoY; incl. $860M favorable reserve development); FY26 Adj EPS guide raised to $19.50–$20.00 (from >$18.25); buyback target doubled to ≥$5B.
+2. **DOJ/Claritev antitrust probe expanded (Jul 14)**: DOJ broadened civil CIDs into Claritev (out-of-network reimbursement rate coordination); potential criminal angle per Capitol Forum.
+
+**Sources reviewed**:
+- [BusinessWire Q2 2026 PR](https://www.businesswire.com/news/home/20260716830877/en/UnitedHealth-Group-Reports-Second-Quarter-2026-Results)
+- [Q2 2026 earnings call transcript — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/07/16/unitedhealth-unh-q2-2026-earnings-call-transcript/)
+- [Yahoo Finance — UNH](https://finance.yahoo.com/quote/UNH/) (live verification: $412.75, Aug 6, 2026)
+- [Bloomberg — DOJ Claritev probe expanded Jul 14](https://www.bloomberg.com/news/articles/2026-07-14/doj-s-claritev-probe-intensifies-with-new-information-demands)
+- [Yahoo Finance — DOJ wider antitrust probe](https://finance.yahoo.com/healthcare/articles/unitedhealth-group-unh-faces-wider-221504204.html)
+- [MarketBeat — UNH analyst consensus + short interest](https://www.marketbeat.com/stocks/NYSE/UNH/)
+- [secform4.com — UNH insider filings](https://www.secform4.com/insider-trading/731766.htm)
+
+### What Changed
+- **Header**: Last Updated → 2026-08-06; Live Price → $412.75; 52-wk range updated $239.50–$461.62; market cap ≈$375B.
+- **Summary**: refreshed — thesis verb downgraded non-holder Initiate→Watch/Initiate-on-pullback on R/R compression; Outsider grade upgraded Steward→Outsider-leaning on buyback doubling; BAIT dropped Quadruple→Triple (B: Strong→Moderate).
+- **Key Stats**: fully refreshed with Q2 data, FY26 guide $19.50–$20.00, short interest 1.91%, dividend $9.28/yr.
+- **§1**: Q2 column added to financial table; forward estimates updated (FY26 $19.50–$20.00; FY27 $27–31; 13–16% long-term growth target reaffirmed).
+- **§4**: Outsider grade upgraded to **Outsider-leaning** — buyback doubled to ≥$5B ($4B executed at ~$378 avg) following countercyclical Q1 buys at $300–$355. Material capital-allocation event surfaced to Summary per Rule #25.
+- **§5**: Commercial margin recovery delay added — IDR exploitation + provider coding intensity (≈100bps) pushed timeline beyond 2027.
+- **§6**: DOJ/Claritev probe probability raised Low→Low-Medium (scope widening); Q2 MCR >87% trigger partially de-risked; commercial margin delay risk added.
+- **§8**: Multiples re-computed at $413/$375B; fair-price range raised $410–440→$450–490 base; assessment shifted "fairly valued on FY26, modestly discounted on FY27."
+- **§9**: Full refresh — price, analyst consensus (median ~$475; 10-action post-Q2 cluster; Baird upgrade UP→Neutral), short interest (1.91%, declining), insider activity (no material transactions), news, catalysts.
+- **§10 BAIT**: B downgraded Strong→Moderate (recovery largely priced at +72% from lows); I refined to Moderate-Strong; overall Quadruple→**Triple overlap**. Conviction High→Moderate-High.
+- **§11**: Bull $540→$560; Base $430→$475; Bear $285→$310. Probabilities unchanged (35/50/15).
+- **§12**: PW EV $447→**$480** (+16% from $413 vs. +21% from $368); R/R 2.1:1→**1.4:1**.
+- **§13**: Non-holder verb downgraded Initiate→Watch/Initiate-on-pullback; entry $310–345→$365–410; trim $480–530→$520–560. Thesis-break triggers updated (Q2 MCR partially de-risked; DOJ/Claritev escalation added; commercial margin delay added).
+
+### Thesis Status
+- **Overall**: **Strengthened on fundamentals, compressed on asymmetry.** Q2 confirms durable MCR recovery (second consecutive quarter); guide raise from >$18.25 to $19.50–$20.00 is the most meaningful single-quarter upgrade. Offsetting: DOJ/Claritev probe expansion (Jul 14) widens the regulatory overhang scope; commercial margin recovery delay limits the bull case for total-company normalization.
+- **BAIT delta**: Quadruple→**Triple** (B: Strong→Moderate as recovery largely priced). A+I remain Strong/Mod-Strong. Conviction Moderate-High.
+- **Price target delta**: Bull $540→$560 | Base $430→$475 | Bear $285→$310. PW EV $447→$480.
+- **Catalyst & Sentiment delta**: 10-action post-Q2 analyst cluster (median ~$475); Baird upgraded from bear camp; short interest declining to 1.91%; no insider activity; DOJ/Claritev expansion was the single negative development but market looked through it.
+
+### Recommendation
+- **For a non-holder**: 🟡 Watch / Initiate on pullback — at $413 / ≈21× FY26 midpoint, fairly valued; PW EV $480 implies +16% / 24mo. Wait for $365–$410 (DOJ noise or H2 seasonal MCR uptick).
+- **For a current holder**: 🟡 Hold; trim ≥$520 — recovery confirmed; buyback support; but R/R 1.4:1 no longer warrants adding.
+
+**Next review trigger**: **Q3 2026 earnings — ~late Oct 2026** (H2 MCR trajectory vs. 88.1% guide; Optum Health Q3; commercial margin progress; DOJ/Claritev update; FY2027 consensus build).
+
+---
+
 ## [2026-04-28] — CMS 2027 MA Final Rate Notice ≈+2% — largest §6 overhang DE-RISKED; +4% rally to ≈$368
 
 **Trigger**: Two material events since 2026-04-26 baseline:

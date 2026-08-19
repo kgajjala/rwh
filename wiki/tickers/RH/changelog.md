@@ -4,6 +4,45 @@
 
 ---
 
+## [2026-08-06] — Q1 FY2026 Earnings + International Gallery Openings + Goldman Upgrade
+
+**Trigger**: 102-day lookback window (April 26 → August 6) covering Q1 FY2026 earnings, two major gallery openings, RH Estates launch, Goldman Sachs upgrade, Friedman insider sale, and short interest increase.
+**Sources reviewed**:
+- [Q1 FY2026 8-K](https://www.sec.gov/Archives/edgar/data/0001528849/000110465926072941/rh-20260611xex99d1.htm)
+- [Q1 FY2026 Earnings Call Transcript (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/06/11/rh-rh-q1-2026-earnings-call-transcript/)
+- [Friedman 8-K Sale Disclosure](https://www.sec.gov/Archives/edgar/data/0001528849/000110465926081857/rh-20260708xex99d1.htm)
+- [Yahoo Finance — RH](https://finance.yahoo.com/quote/RH/) — live price $188.20
+- [Fintel — RH short interest](https://fintel.io/ss/us/rh) — 42.21% of float
+- [stockanalysis.com — RH forecast](https://stockanalysis.com/stocks/rh/forecast/) — 20 analysts, avg PT $172.94
+
+### What Changed
+- **§1**: Added Q1 FY2026 quarter: rev $800.3M (–1.7%, missed cons.); adj EBITDA $56.9M (7.1%, beat by 17.9%); adj EPS –$1.97 (beat –$2.07); GAAP loss –$0.73
+- **§4**: Letter pattern updated C→B transitional (Q1 FY2026 delivered via Friedman shareholder letter)
+- **§5**: ✅ RH Estates launched; ✅ Milan opened Apr 22; ✅ London opened Jun 27. RH Estates projected ~$100M H2 contribution
+- **§6**: International gallery risk probability cut 25%→20% (Milan + London on schedule)
+- **§8**: Multiples re-computed at $188.20 — EV/FY25 EBITDA 8.3×→9.9×; FCF yield 9.7%→7.1%
+- **§9**: Full refresh — price $137.51→$188.20 (+37%); Goldman upgraded Strong Sell→Hold (PT $88→$155); BofA initiated Sell ($156); Citi PT $150→$166; short interest 35.62%→42.21%; Friedman sold 125K shares Jul 6–8 for personal expenses
+- **§10**: B downgraded Strong→Moderate-Strong (behavioral setup partially unwound with rally); BAIT verdict unchanged Double (B+T)
+- **§11**: Migrated 4-yr→5-yr terminal per Rule #24; Bull $400→$430 (2031); Base $200→$230; Bear $60 unchanged
+- **§12**: PW EV $208→$229 (scenario lift); R/R compressed 3.4:1→1.9:1 (price moved toward Base)
+- **§13**: Non-holder Watch/selective-Initiate→**Watch** (deep-value window closed); entry zone $110–135→$155–183; trim zone unchanged $230–290
+- **FY2026 guide raised**: rev +4.5–8% (from +4–8%), EBITDA 14.2–16% (from 14–16%), FCF $300–400M unchanged
+- **Q2 guide given**: rev +0.5–2.5%, EBITDA 11.5–13%
+
+### Thesis Status
+- **Overall**: Strengthened on execution (gallery openings, RH Estates, Q1 beat), but the +37% price rally has captured the improvement — R/R compressed from 3.4:1 to 1.9:1
+- **BAIT delta**: B Strong → Moderate-Strong (behavioral asymmetry partially unwound); T Moderate unchanged (42.2% short interest)
+- **Price target delta**: Bull $400 → $430 | Base $200 → $230 | Bear $60 → $60 | PW EV $208 → $229 (5-yr terminal migration)
+- **Catalyst & Sentiment delta**: Goldman upgrade is the single most significant sentiment shift; short interest rising despite rally is the most bearish counter-signal
+
+### Recommendation
+- **For a non-holder**: 🟡 Watch — deep-value window has closed; prefer entry below $183 or after Q2 validation
+- **For a current holder**: 🟡 Hold — do not sell below $230
+
+**Next review trigger**: Q2 FY2026 earnings (~September 2026)
+
+---
+
 ## [2026-04-26] — v2.9 Schema Retrofit
 
 **Trigger**: Schema upgrade from v2.5 to v2.9 (13-section structure; competitive landscape; shareholder letters; 10-K primary sources; materiality-filtered risks; synthesis-first rules).

@@ -1,26 +1,26 @@
 # RH — RH (Restoration Hardware)
 
 > **Schema**: v3.0
-> **Last Updated**: 2026-04-26
+> **Last Updated**: 2026-08-06
 > **Status**: Active
-> **Live Price Verified**: **$137.51** at April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/RH); last trading day — April 26 is Sunday)
+> **Live Price Verified**: **$188.20** at August 6, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/RH/))
 > **Ticker Type**: Premium luxury home furnishings (cyclical specialty retail)
 
 ---
 
 ## Summary
 
-- 🟡 **Thesis**: RH is a deeply cyclical luxury home retailer at a –46% drawdown trough, with a confirmed $5–6B North America and $20–25B global long-term brand target; a US housing recovery + tariff resolution + international ramp could deliver 3× equity returns, but leverage, weak Q1 FY2026 guidance, and 35.6% short interest amplify both the upside and downside.
-- 🟡 **For a non-holder: Watch / selective Initiate** — asymmetry favorable at $137.51 but weak near-term guide and litigation risk argue for a small position; add aggressively below $115.
-- 🟡 **For a current holder: Hold** — do not exit at –46%; asymmetry has shifted. Add only on weakness toward $115.
-- 🎯 **Attractive entry zone**: **$110 – $135** (≈8–9× EV/Adj EBITDA at FY26E; FCF yield 10%+; cyclical-trough valuation).
-- 🎯 **Trim zone**: **$240 – $290** (re-rate to mid-cycle 12× EV/Adj EBITDA on improving margins + housing recovery evidence).
-- 📉 **Price action**: $137.51, **–46.5% from 52-wk high** ($257), +29.4% above 52-wk low ($106.30); –19% single-session collapse on Q4 FY2025 earnings (March 31, 2026).
-- 📅 **Next catalyst**: **Q1 FY2026 earnings (early June 2026, est.)**; first print under weak guide (–2 to –4% revenue, 5.5–6.5% adj EBITDA margin).
-- ⚠️ **Top risk**: US housing freeze persists + tariff regime unresolved (high impact, 30% combined probability); single biggest cyclical and policy risk pair.
-- ⚠️ **Second risk**: International expansion pre-opening cost drag (270bps on FY2026 adj EBITDA margin) + shareholder litigation risk (multiple lawsuits filed Apr 2026).
-- 🟡 **Moat verdict**: **Narrow** — Gallery experience + RH Members program + brand positioning are real; cyclicality, leverage, and limited switching costs prevent "Wide" designation.
-- 🟡 **BAIT verdict**: **Double overlap (B Strong + T Moderate due to 35.6% short interest)**. Conviction **Moderate**. PW EV ≈$208 (4-yr) implies +51% / ≈+11%/yr; bull +191% vs. bear –56% = ≈3.4:1 asymmetry.
+- 🟡 **Thesis**: RH is a cyclical luxury home retailer emerging from a deep trough — Q1 FY2026 adj EBITDA beat, FY2026 guide raised, Milan + London galleries opened on schedule, and RH Estates launched with ~$100M H2 contribution guidance; but at $188.20 (+37% since April), much of the recovery is priced in while 42.2% short interest, ongoing litigation, and tariff uncertainty cap conviction.
+- 🟡 **For a non-holder: Watch** — at $188.20 the 5-yr R/R compresses to ~1.9:1 with PW EV $229; prefer entry below $183.
+- 🟡 **For a current holder: Hold** — do not sell into strength; trim only above $230 on margin recovery proof.
+- 🎯 **Attractive entry zone**: **$155 – $183** (≈9–10× EV/FY26E Adj EBITDA; PW EV $229 less 20% MoS).
+- 🎯 **Trim zone**: **$230 – $290** (re-rate to mid-cycle 12× EV/Adj EBITDA on improving margins + housing recovery evidence).
+- 📈 **Price action**: $188.20, **–26.8% from 52-wk high** ($257), +77.0% above 52-wk low ($106.30); +37% from April baseline on Q1 beat + Goldman upgrade + short covering.
+- 📅 **Next catalyst**: **Q2 FY2026 earnings (~September 2026)**; first print reflecting full RH Estates contribution + London gallery opening.
+- ⚠️ **Top risk**: Short interest rose to **42.2% of float** (from 35.6%) despite +37% price rally — institutional shorts added into the rerate; any negative surprise triggers amplified downside.
+- ⚠️ **Second risk**: US housing freeze persists + tariff regime unresolved; Friedman sold 125K shares Jul 6–8 for personal expenses.
+- 🟡 **Moat verdict**: **Narrow** — Gallery experience + RH Members program + brand positioning; Milan + London openings de-risk international execution thesis.
+- 🟡 **BAIT verdict**: **Double overlap (B Moderate-Strong + T Moderate)**. Conviction **Moderate**. PW EV ≈$229 (5-yr) implies +22% / ≈+4%/yr; R/R ≈1.9:1.
 
 ---
 
@@ -48,26 +48,28 @@ The bull case requires: (a) housing recovery 2027–2028, (b) tariff resourcing 
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$137.51** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/RH)) |
+| Live Price | **$188.20** | August 6, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/RH/)) |
 | 52-Week High | $257.00 | |
 | 52-Week Low | $106.30 | |
-| % From 52-Wk High | –46.5% | |
-| % Above 52-Wk Low | +29.4% | |
-| Market Cap | ≈$2.59B | 18.83M diluted shares × $137.51 |
-| Net Financial Debt | ≈$2,347M | ABL $20M + TLB $1,915M + TLB-2 $484M – cash $41M + RE loans $16M |
-| EV (financial debt basis) | ≈$4.94B | Market cap + net financial debt |
-| FY2025 Revenue | $3,440M | +8.1% YoY; confirmed from [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1528849/000110465926037992/rh-20260131x10k.htm) |
+| % From 52-Wk High | –26.8% | |
+| % Above 52-Wk Low | +77.0% | |
+| Market Cap | ≈$3.56B | 18.90M diluted shares × $188.20 |
+| Net Financial Debt | ≈$2,334M | *[Estimate]* FY2025-end $2,347M adj. for Q1 cash +$13M |
+| EV (financial debt basis) | ≈$5.89B | Market cap + net financial debt |
+| FY2025 Revenue | $3,440M | +8.1% YoY |
+| Q1 FY2026 Revenue | $800.3M | –1.7% YoY; below $816.8M consensus |
+| Q1 FY2026 Adj EBITDA | $56.9M | 7.1% margin; beat $48.3M est. by 17.9% |
 | FY2025 Adj EBITDA | $596.5M | 17.3% margin |
-| FY2025 FCF | $252M | |
-| EV/FY25 Adj EBITDA | ≈8.3× | Financial debt basis |
-| Diluted EPS (FY2025) | $6.31 | |
-| P/E (TTM) | ≈21.8× | |
-| FY2026 Rev Growth Guide | +4% to +8% | |
-| FY2026 Adj EBITDA Margin Guide | 14% to 16% | Includes –270bps from intl expansion pre-opening |
-| FY2026 Adj FCF Guide | $300M–$400M | Includes ≈$200–250M asset sales |
-| Q1 FY2026 Rev Growth Guide | –2% to –4% | Tariff + weather drag |
-| North America Revenue Target (LT) | $5–6B | Full Design Gallery deployment |
-| Global Revenue Target (LT) | $20–25B | Per [Q4 FY2025 press release](https://www.sec.gov/Archives/edgar/data/1528849/000110465926037775/rh-20260331xex99d2.htm) |
+| EV/FY25 Adj EBITDA | ≈9.9× | Was 8.3× at $137.51 |
+| EV/FY26E Adj EBITDA | ≈10.7× | FY26E midpoint ≈$550M |
+| P/E (TTM) | ≈33.6× | EPS (TTM) $5.61 per Yahoo |
+| Forward P/E | ≈23.1× | Per Yahoo Finance |
+| FY2026 Rev Growth Guide | +4.5% to +8% | Raised from +4% to +8% at Q1 |
+| FY2026 Adj EBITDA Margin Guide | 14.2% to 16% | Raised from 14–16%; incl. –270bps intl |
+| FY2026 Adj FCF Guide | $300M–$400M | Unchanged |
+| Q2 FY2026 Rev Growth Guide | +0.5% to +2.5% | Q2 guide given at Q1 print |
+| Q2 FY2026 Adj EBITDA Margin Guide | 11.5% to 13% | Incl. –380bps intl |
+| Short Interest | **42.21% of float** | Up from 35.62%; 7.79 days to cover ([Fintel](https://fintel.io/ss/us/rh)) |
 
 ---
 
@@ -93,6 +95,22 @@ The bull case requires: (a) housing recovery 2027–2028, (b) tariff resourcing 
 | Net Fin. Debt | — | — | — | $2,594M | $2,347M |
 
 *Sources: [stockanalysis.com — RH financials](https://stockanalysis.com/stocks/rh/financials/) for FY2021–FY2024; [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1528849/000110465926037992/rh-20260131x10k.htm) and [Q4 FY2025 press release](https://www.sec.gov/Archives/edgar/data/1528849/000110465926037775/rh-20260331xex99d2.htm) for FY2025.*
+
+### Q1 FY2026 Results (Three Months Ended May 2, 2026)
+
+| Metric | Q1 FY2026 | Q1 FY2025 | YoY Δ |
+|--------|-----------|-----------|-------|
+| Revenue | $800.3M | $814.1M *[Estimate]* | –1.7% |
+| Gross Profit | $331.3M | $355.5M *[Estimate]* | –6.8% |
+| Gross Margin | 41.4% | ≈43.7% | ≈–230bps |
+| Operating Profit | $34.2M | $55.8M *[Estimate]* | –38.8% |
+| Adj EBITDA | $56.9M | — | — |
+| Adj EBITDA Margin | 7.1% | — | — |
+| Net Income | –$13.7M | — | — |
+| GAAP Diluted EPS | –$0.73 | — | — |
+| Adj EPS | –$1.97 | $0.13 | — |
+
+Q1 adj EBITDA **beat consensus ($48.3M) by 17.9%**; adj EPS **beat (–$2.07 est.) by 4.9%**. Revenue missed $816.8M consensus by 2.0%. International expansion pre-opening costs (Madrid, Milan, London) created a **450bps EBITDA drag** in Q1. Backorder/special-order balances were ≈$75M higher YoY from tariff-related resourcing. *Source: [Q1 FY2026 8-K](https://www.sec.gov/Archives/edgar/data/0001528849/000110465926072941/rh-20260611xex99d1.htm); [earnings call transcript](https://www.fool.com/earnings/call-transcripts/2026/06/11/rh-rh-q1-2026-earnings-call-transcript/).*
 
 ### Q4 FY2025 Results (Three Months Ended January 31, 2026)
 
@@ -213,7 +231,7 @@ Sources of the moat (genuine but not impenetrable):
 
 ### Recent Management Commentary — Primary Source Synthesis
 
-**Letter Pattern**: Pattern C transitional. Standalone annual shareholder letters were published for FY2019–FY2021 only (PDFs at [ir.rh.com/financials-filings/annual-reports](https://ir.rh.com/financials-filings/annual-reports)). Starting FY2022, no standalone letter; Gary Friedman communicates via video presentations at each quarterly earnings release and through 10-K forward-looking language.
+**Letter Pattern**: Pattern B transitional. Q1 FY2026 results (June 11, 2026) were delivered via a Gary Friedman shareholder letter — the first quarterly letter format since FY2021. Prior pattern was C (no standalone letters FY2022–FY2025). If quarterly letters continue, this shifts to Pattern B (quarterly letter publishers). *Source: [Q1 FY2026 8-K](https://www.sec.gov/Archives/edgar/data/0001528849/000110465926072941/rh-20260611xex99d1.htm).*
 
 **From the FY2025 10-K and Q4 press release forward-looking statements** ([Q4 FY2025 8-K, Ex-99.2](https://www.sec.gov/Archives/edgar/data/1528849/000110465926037775/rh-20260331xex99d2.htm)):
 
@@ -231,9 +249,9 @@ Key strategic framing (verbatim or near-verbatim from 10-K/8-K, April 2026):
 
 ## Section 5 — Strategic Growth Initiatives
 
-1. **Product transformation: RH Estates** (Spring 2026): Launch of ultra-premium RH Bespoke furniture and RH Couture upholstery. Management calls it the most prolific product launch in industry history. Key test: does ASP expansion offset lower unit velocity in a down housing cycle?
+1. **Product transformation: RH Estates** ✅ **Launched spring 2026**: Ultra-premium RH Bespoke furniture and RH Couture upholstery now in market. Management projects **~$100M H2 contribution (~5 ppts of growth)** and calls it *"the biggest move we have ever done."* Key test shifts from launch execution to demand uptake. *Source: [Q1 FY2026 earnings call](https://www.fool.com/earnings/call-transcripts/2026/06/11/rh-rh-q1-2026-earnings-call-transcript/).*
 
-2. **International expansion** (2026–2030): RH Madrid, RH Paris, RH London, RH Milan planned for 2026. Each Design Gallery requires 2–3 year ramp to full contribution. Pre-opening costs: ≈270bps drag on FY2026 adj EBITDA, 420bps in Q1. The international JV (equity method) turned from –$11.4M loss (FY2024) to +$5.0M income (FY2025) — early positive signal.
+2. **International expansion** ✅ **Milan opened Apr 22** ([Corso Venezia, during Milan Design Week](https://www.fuorisalone.it/en/2026/events/6898/Unveiling-RH-Milan-The-Gallery-on-Corso-Venezia)); ✅ **London opened Jun 27** ([7 Burlington Gardens, Mayfair — 5-level gallery](https://www.stocktitan.net/news/RH/rh-announces-the-opening-of-rh-london-the-gallery-in-mayfair-five-khsnbe75zl1u.html)). Madrid opened earlier. Pre-opening costs: ~450bps Q1 EBITDA drag, ~380bps Q2 drag, ~270bps FY2026 drag. International JV turned from –$11.4M loss (FY2024) to +$5.0M income (FY2025).
 
 3. **Tariff resourcing** (H2 2026 target): 40% of core assortment resourcing from China to Vietnam, Indonesia, Mexico, Italy. Supreme Court struck down IEEPA tariffs Feb 20, 2026 — but new tariffs then announced under alternative authority. Ongoing uncertainty is the single most quantified near-term P&L risk.
 
@@ -255,7 +273,7 @@ Key strategic framing (verbatim or near-verbatim from 10-K/8-K, April 2026):
 |------|--------|-------------|-------|
 | US housing freeze persists into 2027–2028 | ⚠️ High | 30% | Existing home sales at multi-decade lows; single most predictive demand variable for RH's core business; **partially priced in** at current –46% drawdown, but full severity if extends to 2028 is not yet priced |
 | Tariff regime remains elevated / unpredictable | ⚠️ High | 35% | China-sourced 40% of assortment; IEEPA tariffs struck down Feb 20, 2026 but replaced by new tariffs; $190M Q4 impact demonstrated real-dollar cost; resourcing may take 18–24 months; **not fully priced in** for multi-year scenario |
-| International expansion execution fails / delays | ⚠️ High | 25% | Germany Gallery impairments ($19M in FY2024) established real precedent; Paris/London/Milan all require flawless local execution; pre-opening cost drag of 270–420bps near-term; **not priced in** for a severe execution failure scenario |
+| International expansion execution fails / delays | ⚠️ Moderate | 20% | ~~Germany Gallery impairments~~ partially DE-RISKED [2026-08-06]: Milan (Apr 22) + London (Jun 27) both opened on schedule; pre-opening cost drag confirmed at 270–450bps; **remaining risk**: ramp-to-contribution execution over 2–3 years |
 | Debt service pressure / refinance risk | ⚠️ High | 15% | Net financial debt $2,347M; $225M annual interest; equity was negative $164M as of FY2024 (just barely positive at $61M FY2025); if earnings deteriorate materially, covenant risk rises; **not fully priced in** |
 | Gary Friedman departure / health | ⚠️ Critical | 8% | No peer company depends on a single individual for brand identity to this degree; no succession plan disclosed; **not priced in** — Friedman premium is embedded in the $400+ bull-case price target |
 | Shareholder litigation risk | ⚠️ Medium | 30% | Multiple shareholder lawsuits filed April 2026 investigating potential fraud claims related to buyback timing and disclosures; specific allegations and case strength unclear; **not priced in** at current price |
@@ -281,30 +299,32 @@ Key strategic framing (verbatim or near-verbatim from 10-K/8-K, April 2026):
 
 ## Section 8 — Valuation & Comparable Analysis
 
-### Current Multiples (April 24, 2026)
+### Current Multiples (August 6, 2026)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| EV (financial debt basis) | ≈$4.94B | Market cap $2.59B + net fin. debt $2.35B |
-| EV/FY25 Adj EBITDA | **≈8.3×** | $4.94B / $596.5M; attractive trough multiple |
-| EV/FY26E Adj EBITDA | ≈9.0× | $4.94B / ≈$547M FY26E midpoint |
-| P/E (FY25 diluted EPS $6.31) | ≈21.8× | Trough EPS; misleading at cycle bottom |
-| P/FCF (FY25) | ≈10.3× | $2.59B / $252M |
-| FCF Yield | ≈9.7% | $252M / $2.59B mcap |
-| Analyst Median PT | $170 | [stockanalysis.com, April 2026](https://stockanalysis.com/stocks/rh/forecast/) |
-| Analyst Range | $88 (GS Strong Sell) – $240 (high) | Extreme dispersion; 14 analysts |
+| EV (financial debt basis) | ≈$5.89B | Market cap $3.56B + net fin. debt ≈$2.33B |
+| EV/FY25 Adj EBITDA | **≈9.9×** | $5.89B / $596.5M; expanded from 8.3× at $137.51 |
+| EV/FY26E Adj EBITDA | ≈10.7× | $5.89B / ≈$550M FY26E midpoint |
+| P/E (TTM, EPS $5.61) | ≈33.6× | Per [Yahoo Finance](https://finance.yahoo.com/quote/RH/) |
+| Forward P/E | ≈23.1× | Per Yahoo Finance |
+| P/FCF (FY25) | ≈14.1× | $3.56B / $252M |
+| FCF Yield | ≈7.1% | $252M / $3.56B mcap |
+| Analyst Avg PT | $172.94 | [stockanalysis.com, Aug 2026](https://stockanalysis.com/stocks/rh/forecast/) |
+| Analyst Median PT | $156 | |
+| Analyst Range | $90 – $270 | 20 analysts; dispersion remains wide |
 
 ### Peer Comparison
 
 | Company | Revenue Scale | EV/EBITDA | Balance Sheet | Comment |
 |---------|---------------|-----------|---------------|---------|
-| **RH** | $3.44B | ≈8–9× | Leveraged ($2.35B net fin. debt) | Cyclical-trough multiple; highest operating leverage to recovery |
+| **RH** | $3.44B | ≈10–11× | Leveraged ($2.33B net fin. debt) | Multiple expanded from 8.3× in April; still highest operating leverage to recovery |
 | **WSM (Williams-Sonoma)** | $7.7B | ≈12× | Clean (minimal debt) | Premium multiple; superior balance sheet; less leverage to housing recovery |
 | **ARHS (Arhaus)** | ≈$1.3B | ≈9× | Clean | Smaller; less brand; similar multiple but no leverage upside |
 | **W (Wayfair)** | ≈$12B | ≈14× (NTM) | Moderate debt | Fundamentally different model (online breadth vs. gallery luxury) |
 | **LZB (La-Z-Boy)** | ≈$2.2B | ≈6× | Clean | Mid-market; different positioning |
 
-**Assessment**: RH at 8.3× FY25 adj EBITDA is the cheapest multiple in its peer set on a cycle-adjusted basis, but the leverage discount is warranted — Williams-Sonoma's clean balance sheet justifies a premium. The 10-year history shows RH traded at 12–16× adj EBITDA at mid-cycle; recovery to 12× on $700M+ adj EBITDA (2027–2028 scenario) implies ≈$3B+ in EV upside, or ≈$160+ in equity per share from current levels. The leverage means that multiple expansion + margin recovery have a leveraged equity impact — hence the 3.4:1 R/R asymmetry.
+**Assessment**: RH at ~10× FY25 adj EBITDA has re-rated from a deep trough (8.3× in April) toward the lower end of its peer band. The Q1 beat + guide raise + gallery openings drove multiple expansion, but at ≈10–11× the stock is no longer the cheapest in its peer set — Arhaus and La-Z-Boy trade at comparable or lower multiples with cleaner balance sheets. The remaining equity upside requires both margin recovery (14–16% adj EBITDA → 20%+ at mid-cycle) *and* revenue growth (international + RH Estates). R/R compressed from 3.4:1 to ≈1.9:1 at current levels.
 
 ---
 
@@ -312,81 +332,81 @@ Key strategic framing (verbatim or near-verbatim from 10-K/8-K, April 2026):
 
 ### Live Price & Positioning
 
-- **Price**: $137.51 (April 24, 2026; [Yahoo Finance](https://finance.yahoo.com/quote/RH))
+- **Price**: $188.20 (August 6, 2026; [Yahoo Finance](https://finance.yahoo.com/quote/RH/))
 - **52-week range**: $106.30 – $257.00
-- **% from 52-wk high**: –46.5%
-- **% above 52-wk low**: +29.4%
-- **Market cap**: ≈$2.59B (18.83M diluted shares)
+- **% from 52-wk high**: –26.8%
+- **% above 52-wk low**: +77.0%
+- **Market cap**: ≈$3.56B (18.90M diluted shares)
 
-### Analyst Consensus (April 2026)
+### Analyst Consensus (August 2026)
 
 | Metric | Value |
 |--------|-------|
 | Consensus rating | **Hold** |
-| Median price target | **$170** (+24% implied upside) |
-| Average price target | $167 |
-| Range | $88 (GS) – $240 |
-| Coverage count | 14 analysts |
+| Average price target | **$172.94** (–8% implied downside) |
+| Median price target | $156 |
+| Range | $90 – $270 |
+| Coverage count | 20 analysts (3 Strong Buy, 4 Buy, 11 Hold, 2 Sell) |
 
-*Source: [stockanalysis.com — RH forecast](https://stockanalysis.com/stocks/rh/forecast/), April 2026.*
+*Source: [stockanalysis.com — RH forecast](https://stockanalysis.com/stocks/rh/forecast/), August 2026.*
 
-### Recent Analyst Actions (April 2026)
+### Recent Analyst Actions (Since April 2026)
 
-| Date | Firm | Rating | Prior PT → New PT | Note |
-|------|------|--------|-------------------|------|
-| 2026-04-07 | Goldman Sachs (Kate McShane) | Strong Sell | $101 → **$88** | Most bearish; cites housing + leverage |
-| 2026-04-02 | Citigroup (Steven Zaccone) | Hold | $183 → **$150** | Target cut post Q4 miss |
-| 2026-04-02 | Guggenheim (Steven Forbes) | Strong Buy | $275 → **$200** | Maintained bullish; cut on guide |
-| 2026-04-02 | Barclays (Seth Sigman) | Buy | $283 → **$202** | Maintained buy; reduced target |
-| 2026-04-01 | BNP Paribas (Chris Bottiglieri) | Sell | $130 → **$96** | Negative on fundamentals |
+| Date | Firm | Rating | Prior → New PT | Note |
+|------|------|--------|----------------|------|
+| 2026-08-03 | BofA (Chris Nardone) | **Sell** (Initiates) | — → **$156** | Reinstated with bearish view |
+| 2026-07-08 | Goldman Sachs (Kate McShane) | **Hold** (↑ Strong Sell) | $88 → **$155** | 🟢 Major upgrade; cites stabilization |
+| 2026-06-30 | TD Cowen (Max Rakhlenko) | Buy | $185 reit. | Maintained post-Q1 |
+| 2026-06-15 | Citi (Steven Zaccone) | Hold | $150 → **$166** | PT raised post-Q1 beat |
+| 2026-06-12 | Guggenheim (Steven Forbes) | Buy | $200 maint. | Maintained post-Q1 |
 
-*Source: [stockanalysis.com — RH forecast](https://stockanalysis.com/stocks/rh/forecast/), April 2026.*
+*Source: [stockanalysis.com — RH forecast](https://stockanalysis.com/stocks/rh/forecast/), August 2026.*
 
-**Analyst interpretation**: 5 buy/strong-buy vs. 6 hold vs. 3 sell/strong-sell. **Extreme target dispersion ($88 to $240 = 2.7× range)** reflects genuine uncertainty about the housing recovery timeline and whether international scale is achievable. Bull analysts ($200–$240) embed a housing recovery by 2027–2028; bears ($88–$96) assume the cycle extends and leverage becomes structurally problematic.
+**Analyst interpretation**: Goldman Sachs' upgrade from Strong Sell to Hold (the most bearish analyst on the Street) is the most significant sentiment shift since the April baseline — signals that even the bear camp views the worst as behind RH. However, BofA's new Sell initiation at $156 and the median PT ($156) below spot price ($188) suggest the Street broadly believes the Q1-driven rally has overshot near-term fundamentals.
 
 ### Short Interest
 
-- **Short interest: 35.62% of float** (≈5.46M shares; 7.15 days to cover)
-- *Source: [Fintel — RH short interest](https://fintel.io/ss/us/rh), April 2026*
+- **Short interest: 42.21% of float** (≈5.84M shares; 7.79 days to cover)
+- **Prior: 35.62% of float** in April 2026
+- **Delta: +6.6 ppts (+18.5%)** — shorts ADDED despite +37% price rally
+- *Source: [Fintel — RH short interest](https://fintel.io/ss/us/rh), August 2026*
 
-This is **exceptionally elevated** — among the highest in the specialty retail sector. At 35.6% short, RH is a consensus short. The implications are binary:
-- **Bear scenario**: Shorts are right; the recovery is delayed and leverage stress accelerates selling.
-- **Bull scenario**: Any housing recovery print, tariff resolution, or strong Q earnings creates severe short-covering pressure — a mechanical amplifier to any positive catalyst.
+⚠️ This is **among the highest short positions in the US equity market**. Shorts adding into a rally signals institutional conviction that the recovery is overpriced. The squeeze potential remains real but the risk is equally amplified — any Q2 miss would trigger steep selling pressure.
 
 ### Insider Activity (Last 90 Days)
 
-- No material open-market buying or selling transactions observed
-- Gary Friedman's shareholdings remain large; no distress sales
-- **Mildly weak signal** — no contrarian buy cluster at the recent drawdown despite the stock being at multi-year lows
-- *Source: [OpenInsider — RH](https://openinsider.com/search?q=RH) cross-referenced with [SEC EDGAR Form 4](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1528849&type=4), April 2026*
+- **[2026-07-06≈08] Gary Friedman sold 125,000 shares** for personal expenses (home improvements, personal credit line repayment). Retained 4,926,337 shares (≈23.88% of common stock). Stated *"shares continue to represent the largest ownership position in RH and the vast majority of my net worth."* ([8-K](https://www.sec.gov/Archives/edgar/data/0001528849/000110465926081857/rh-20260708xex99d1.htm); [Investing.com](https://www.investing.com/news/company-news/rh-ceo-gary-friedman-sells-125000-shares-for-personal-expenses-93CH-4782628))
+- **Mildly negative signal** — selling into strength after a +37% rally is understandable for personal liquidity but provides no contrarian buy confirmation
+- *Source: [OpenInsider — RH](https://openinsider.com/search?q=RH)*
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-07] [Analyst Action]** — Goldman Sachs lowered PT from $101 to $88, maintained Strong Sell. Most negative analyst on the Street. ([stockanalysis.com](https://stockanalysis.com/stocks/rh/forecast/))
-- **[2026-04-01≈07] [Legal]** — Multiple shareholder class-action lawsuits filed investigating potential fraud claims related to buyback program timing and related disclosures. Specific allegations and case strength unclear as of April 26, 2026. [link pending — no public URL confirmed yet]
-- **[2026-03-31] [Earnings]** — Q4 FY2025 results: revenue $842.6M (missed $873M consensus), adj EPS $1.46 (missed ≈$2.22 consensus); stock –19% on the day. FY2025 adj EBITDA $596.5M (17.3% margin). ([Q4 FY2025 8-K](https://www.sec.gov/Archives/edgar/data/1528849/000110465926037775/rh-20260331xex99d2.htm))
-- **[2026-03 (late)] [Management]** — New executive appointments in manufacturing/sourcing and real estate transformation roles. ([RH IR news](https://ir.rh.com/news-releases), March 2026)
-- **[2026-02-20] [Legal/Tariff]** — US Supreme Court struck down certain IEEPA tariffs. Presidential administration immediately announced new tariffs under alternative authority. ([FY2025 10-K, MD&A](https://www.sec.gov/Archives/edgar/data/1528849/000110465926037992/rh-20260131x10k.htm))
-- **[2026 (rolling)] [Strategic]** 💰 — Asset sale program, $200–250M/yr planned in FY2026 guidance to support debt paydown. ([Q4 FY2025 press release](https://www.sec.gov/Archives/edgar/data/1528849/000110465926037775/rh-20260331xex99d2.htm))
+- **[2026-08-03] [Analyst Action]** — BofA reinstated RH with Sell, PT $156. ([stockanalysis.com](https://stockanalysis.com/stocks/rh/forecast/))
+- **[2026-07-08] [Analyst Action]** 🟢 — Goldman Sachs upgraded from Strong Sell → Hold, PT $88 → $155. Cites stabilization outlook. ([Investing.com](https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-restoration-hardware-stock-rating-on-stabilization-outlook-93CH-4781009))
+- **[2026-07-06≈08] [Insider]** — Gary Friedman sold 125K shares for personal use. Retained 4.93M shares (23.88%). ([8-K](https://www.sec.gov/Archives/edgar/data/0001528849/000110465926081857/rh-20260708xex99d1.htm))
+- **[2026-07 (late)] [Management]** — Sandy Pilon promoted to Chief Customer Experience & Values Officer.
+- **[2026-06-27] [Strategic]** ✅ — **RH London** opened at 7 Burlington Gardens, Mayfair (5-level gallery). ([Wallpaper](https://www.wallpaper.com/design-interiors/rh-london-the-gallery-in-mayfair); [StockTitan](https://www.stocktitan.net/news/RH/rh-announces-the-opening-of-rh-london-the-gallery-in-mayfair-five-khsnbe75zl1u.html))
+- **[2026-06-11] [Earnings]** — Q1 FY2026: revenue $800.3M (–1.7%, missed cons.), adj EBITDA $56.9M (7.1%, beat by 17.9%); stock +7.5%. FY2026 guide raised. ([Q1 FY2026 8-K](https://www.sec.gov/Archives/edgar/data/0001528849/000110465926072941/rh-20260611xex99d1.htm))
+- **[2026-04-22] [Strategic]** ✅ — **RH Milan** opened at Corso Venezia during Milan Design Week. ([Fuorisalone](https://www.fuorisalone.it/en/2026/events/6898/Unveiling-RH-Milan-The-Gallery-on-Corso-Venezia))
+- **[2026-04 (ongoing)] [Legal]** — Shareholder lawsuits ongoing. Multiple firms (Levi & Korsinsky, Kessler Topaz) investigating. No resolution. ([PRNewswire](https://www.prnewswire.com/news-releases/rh-investor-alert-rh-securities-fraud-investigation---investors-with-losses-may-seek-to-lead-the-potential-class-action-after-company-allegedly-undersold-tariff-headwinds-levi--korsinsky-302749925.html))
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|---------------|
-| 📅 **≈June 2026** | Q1 FY2026 Earnings | First print under weak guide (–2 to –4% revenue, 5.5–6.5% adj EBITDA); tariff resourcing update |
-| 📅 **Spring 2026** | RH Estates product launch | First read on whether new ultra-premium collections drive ASP expansion |
-| 📅 **2026 (multiple)** | International Gallery openings (Madrid, Paris, London, Milan) | Execution evidence for $20–25B global brand thesis |
-| 📅 **≈Sep 2026** | Q2 FY2026 Earnings | Critical: does H2 2026 tariff resourcing show in margins? |
+| 📅 **≈Sep 2026** | Q2 FY2026 Earnings | First full quarter with RH Estates contribution + London gallery; H2 tariff resourcing progress |
+| 📅 **H2 2026** | RH Estates demand read | ~$100M contribution projected; validation of "biggest move ever" positioning |
 | Ongoing | US existing home sales prints | Single most predictive macro variable for RH's demand |
 | Ongoing | Shareholder litigation developments | Any settlement / judgment disclosure |
+| Ongoing | Short interest trajectory | 42.2% — any sustained unwinding is a bull signal |
 
 ---
 
 ## Section 10 — BAIT Framework
 
-### B — Behavioral: **Strong**
+### B — Behavioral: **Moderate-Strong**
 
-RH at –46.5% from the 52-week high with 35.6% short interest reflects maximum retail/institutional pessimism. Sentiment is uniformly negative: housing freeze, tariff drag, leverage overhang, founder-concentration risk, Berkshire prior exit, shareholder lawsuits. The Q4 miss triggered a –19% single-session collapse. Historical RH troughs (2009, 2020) preceded 3–5× recoveries within 18–30 months when the housing cycle inflected. **The behavioral signal is Strong: peak negative sentiment + elevated short interest = significant positioning asymmetry for contrarians.**
+The behavioral setup has partially unwound with the +37% rally from $137 to $188. Goldman's upgrade from Strong Sell signals the bear camp is capitulating, yet 42.2% short interest (UP from 35.6%) and BofA's Sell initiation show sentiment remains deeply divided. The stock is no longer at maximum pessimism — it's in a contested middle ground. **Moderate-Strong**: the positioning asymmetry is less extreme but shorts adding into the rally creates continued squeeze potential.
 
 ### A — Analytical: **Moderate**
 
@@ -406,69 +426,69 @@ Underappreciated primary-source signals:
 - **Hospitality generates ≈65% of gallery rent**: This 10-K disclosure means restaurant revenue significantly subsidizes gallery occupancy costs — a cross-subsidy not modeled by most analysts
 - **RH Estates product launch**: Management's language ("level of design and quality inaccessible in our current market") is unusually confident; if RH Estates takes hold, ASP expansion could offset lower unit velocity
 
-### T — Technical: **Moderate** (upgraded from Weak)
+### T — Technical: **Moderate**
 
-- Short interest at **35.6% of float** (vs. ≈11% peer average) creates significant mechanical squeeze potential on any positive catalyst
-- Stock held the 52-week low of $106.30 so far — technical support established
-- Still below all major moving averages; no active buyback program at current levels
-- The elevated short position is the primary technical signal — a sustained 3–4% demand pull (housing improvement + good earnings) could force significant short covering
+- Short interest at **42.2% of float** (vs. ≈11% peer average) — elevated further; squeeze dynamics intensify
+- Stock rallied +37% from April trough; now well above 52-wk low support
+- Friedman sale (125K shares) is a minor technical headwind
+- The elevated short position remains the primary technical signal — but shorts adding into the rally is a bearish read on the rerate's sustainability
 
 ### BAIT Verdict
 
-**Double overlap (B Strong + T Moderate)**. Conviction: **Moderate**. The Behavioral and Technical lenses converge on a contrarian setup. The Analytical and Informational lenses provide genuine edges (inventory, share gains, hospitality economics) but are offset by the weak near-term guide and ongoing tariff uncertainty. Best suited for patient investors with a 3–4 year horizon and tolerance for high realized volatility.
+**Double overlap (B Moderate-Strong + T Moderate)**. Conviction: **Moderate**. The behavioral signal has partially unwound with the +37% rally — no longer peak pessimism — but shorts adding to 42.2% into the rally creates continued positioning tension. Analytical and Informational edges (inventory clean, share gains, gallery execution) are now partially priced in. Best suited for patient investors with a 5-year horizon who believe the housing cycle will inflect.
 
 ---
 
 ## Section 11 — Bull / Bear / Base Cases
 
-*All scenarios are 4-year (calendar 2030) terminal prices. Probabilities sum to 100%.*
+*All scenarios are 5-year (calendar 2031) terminal prices per Rule #24. Probabilities sum to 100%.*
 
-### Bull Case — $400 by 2030 (+191% from $137.51, ≈31% CAGR) — **Probability: 25%**
+### Bull Case — $430 by 2031 (+129% from $188.20, ≈18% CAGR) — **Probability: 25%**
 
 - US existing home sales recover to 5.0–5.5M/yr by 2027–2028; housing turnover normalizes
-- RH Estates product transformation drives ASP expansion; RH Interiors, Modern, Outdoor all elevated
-- International (6 → 15+ Galleries by 2030): Madrid, Paris, London, Milan all ramp; EU revenue reaches 15–20% of total
-- Revenue: $5.0–5.5B; Adj EBITDA: $1.1B+ (22% margin)
-- Tariff fully resolved; supply chain resourced to Vietnam/Italy/Mexico
-- 12× EV/Adj EBITDA on $1.1B EBITDA; debt paid down to ≈$1B
-- Short squeeze at some point during recovery amplifies the move
-- **Why 25% (down from 30%)**: Q1 FY2026 weakness and shareholder lawsuits create near-term overhang; international execution risk confirmed by Germany impairments
+- RH Estates drives ASP expansion; all product lines elevated
+- International (6 → 15+ Galleries by 2031): Milan, London, Madrid all ramped; EU revenue 15–20% of total
+- Revenue: $5.5–6.0B; Adj EBITDA: $1.2B+ (22–25% margin)
+- Tariff fully resolved; supply chain resourced
+- 12× EV/Adj EBITDA on $1.2B EBITDA; debt paid down to ≈$800M
+- Short squeeze at some point amplifies the move
+- **Why 25%**: Gallery execution now de-risked (Milan + London opened); RH Estates launched with $100M H2 contribution; but +37% rally already prices in some recovery
 
-### Base Case — $200 by 2030 (+45% from $137.51, ≈10% CAGR) — **Probability: 45%**
+### Base Case — $230 by 2031 (+22% from $188.20, ≈4% CAGR) — **Probability: 45%**
 
-- Slow housing recovery 2026–2028; revenue reaches $4.0–4.3B
-- Adj EBITDA margin recovers to 18–20%; international contributes ≈10% of revenue
-- 10× EV/Adj EBITDA on $750–800M EBITDA
-- Debt reduced from $2.35B to ≈$1.5B by 2030
+- Slow housing recovery 2027–2029; revenue reaches $4.3–4.5B
+- Adj EBITDA margin recovers to 19–20%; international contributes ≈10–12% of revenue
+- 11× EV/Adj EBITDA on $800M EBITDA
+- Debt reduced from $2.33B to ≈$1.3B by 2031
 - Litigation settled for modest amounts; no material dilution
 
-### Bear Case — $60 by 2030 (–56% from $137.51, ≈–18% CAGR) — **Probability: 30%**
+### Bear Case — $60 by 2031 (–68% from $188.20, ≈–20% CAGR) — **Probability: 30%**
 
-- Housing freeze persists through 2027–2028; revenue stagnates at $3.0–3.2B
-- International fails to ramp meaningfully; Germany-style impairments repeat in France/UK
+- Housing freeze persists through 2028; revenue stagnates at $3.0–3.2B
+- International ramp disappoints; impairments repeat
 - Tariff regime remains elevated; margin stays compressed at 11–14%
-- Debt service pressure; if operating cash flow falls below $250M consistently, covenant risk emerges
-- Possible dilutive financing ($200–400M equity raise) to service debt + fund capex
-- **Why 30% (up from 25%)**: Shareholder litigation adds a new tail risk; Q1 FY2026 weakness suggests the cycle trough may be later than hoped; Germany impairments increased our confidence that international risk is real
+- Debt service pressure; covenant risk if operating cash flow falls below $250M
+- Possible dilutive financing
+- **Why 30%**: 42.2% short interest signals institutional conviction that recovery is overpriced; Friedman selling shares; housing cycle has not yet inflected
 
 ---
 
 ## Section 12 — Probability-Weighted Expected Value
 
-| Scenario | Terminal (2030) Price | Probability | PW Contribution |
+| Scenario | Terminal (2031) Price | Probability | PW Contribution |
 |----------|----------------------|-------------|-----------------|
-| Bull | $400 | 25% | $100.00 |
-| Base | $200 | 45% | $90.00 |
+| Bull | $430 | 25% | $107.50 |
+| Base | $230 | 45% | $103.50 |
 | Bear | $60 | 30% | $18.00 |
-| **PW EV (4-year)** | | | **≈$208** |
+| **PW EV (5-year)** | | | **≈$229** |
 
-| Current Price | PW EV | Return (4-yr) | Annualized |
+| Current Price | PW EV | Return (5-yr) | Annualized |
 |--------------|-------|--------------|-----------|
-| $137.51 | $208 | **+51%** | ≈+11%/yr |
+| $188.20 | $229 | **+22%** | ≈+4%/yr |
 
-**R/R (Rule #24)**: Bull case +191% vs. Bear case –56% = **≈3.4:1** asymmetry. Multiple Bull tiers: single tier here; the $400 Bull is a probability-weighted scenario, not split into Bull/Bull+. Stop-loss/thesis-break R/R (using $106 thesis-break alert as downside): approximately 6.5:1.
+**R/R (Rule #24)**: Bull case +129% vs. Bear case –68% = **≈1.9:1** asymmetry (down from 3.4:1 at $137.51). The +37% price rally has mechanically compressed R/R as spot moved closer to Base case.
 
-**Interpretation**: PW EV of ≈$208 sits ≈51% above spot on a 4-year horizon (≈+11%/yr annualized) — a reasonable return for a high-conviction value investment, but below the prior ≈64% / +13%/yr on the old wiki because: (a) we shifted 5% of probability from Bull → Bear to reflect litigation risk and Q1 weakness, and (b) the base case scenario price is unchanged at $200. The asymmetry remains favorable but the bear probability at 30% is meaningful — a 30% chance of –56% is a real risk. The 35.6% short interest creates a **non-linear upside scenario** not fully captured in the linear scenario model: if shorts begin covering, the realized upside in the Bull case could be materially higher than +191%.
+**Interpretation**: PW EV of ≈$229 sits 22% above spot on a 5-year horizon (≈4%/yr annualized) — a modest return reflecting that much of the trough-recovery has already been priced in. The stock moved from deep-value (8.3× EV/EBITDA) to fair-value (10× EV/EBITDA). The 42.2% short interest creates squeeze potential on any positive surprise, but the base case return is now mediocre. Further upside requires housing cycle inflection + RH Estates revenue validation — both unproven.
 
 *R/R anchored to Section 11 Bull/Bear midpoints per schema discipline.*
 
@@ -476,34 +496,42 @@ Underappreciated primary-source signals:
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: 🟡 RH is a deeply leveraged luxury home cyclical at a –46% drawdown trough where completed inventory destocking, market-share gains over all peers, and the launch of RH Estates set the stage for a 3–4× equity recovery if the US housing market normalizes by 2027–2028, but 35.6% short interest, ongoing tariff uncertainty, international execution risk, and shareholder litigation make this a high-variance, patient-investor-only setup.
+**Thesis in one sentence**: 🟡 RH is a leveraged luxury home cyclical emerging from a deep trough — Q1 adj EBITDA beat, FY2026 guide raised, Milan + London galleries opened on schedule, and RH Estates launched — but at $188.20 (+37% from April), the stock has rerated from deep-value to fair-value (10× EV/EBITDA), compressing R/R to 1.9:1 while 42.2% short interest signals institutional conviction that the recovery is overpriced.
 
-**For a non-holder**: 🟡 **Watch / selective Initiate** — at $137.51, the 3.4:1 asymmetry and 35.6% short interest create a favorable positioning setup, but Q1 FY2026 earnings (≈June 2026) will be materially weak (–2 to –4% revenue, 5.5–6.5% adj EBITDA margin). A small initial position at current levels is reasonable; a more aggressive position sizes up only after Q1 evidence (or on a further drawdown toward $115–$110).
+**For a non-holder**: 🟡 **Watch** — at $188.20 the stock sits just above the PW EV-derived entry zone ceiling ($183). Asymmetry is modest (1.9:1); prefer entry on pullback below $183 or after Q2 FY2026 provides RH Estates revenue validation. The deep-value window from April has closed.
 
-**For a current holder**: 🟡 **Hold** — do not exit at –46%; the asymmetry has shifted decisively. Inventory is clean, share gains are real, and the $208 PW EV supports holding. Add only on weakness toward $115. Consider trimming if recovery to $200+ occurs without fundamental operating inflection (i.e., multiple recovery not earnings-driven).
+**For a current holder**: 🟡 **Hold** — the +37% rally validates the thesis; do not sell below the trim zone ($230+). Add only on meaningful weakness toward $155–$170.
 
-🎯 **Attractive entry zone**: **$110 – $135** (rationale: ≈8–9× EV/FY26E Adj EBITDA; 10%+ FCF yield on $252M+ guidance; cyclical-trough valuation aligned with prior recovery entry points in 2009 and 2020)
+🎯 **Attractive entry zone**: **$155 – $183** (rationale: ≈9–10× EV/FY26E Adj EBITDA; PW EV $229 less 20% MoS; aligns with Goldman upgrade PT of $155)
 
-🎯 **Trim zone**: **$240 – $290** (rationale: 12× EV/Adj EBITDA on recovering margins; would price in housing recovery + tariff resolution without requiring the $20–25B global vision to be proven)
+🎯 **Trim zone**: **$230 – $290** (rationale: 12× EV/Adj EBITDA on recovering margins; would price in housing recovery without requiring the $20–25B global vision)
 
-🔴 **Exit / avoid zone**: **>$370** (rationale: begins pricing in the full 2030 Bull case targets before execution proof; historical resistance at these levels)
+🔴 **Exit / avoid zone**: **>$400** (rationale: begins pricing in the full 2031 Bull case before execution proof)
 
 **Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Exit):
 - ⚠️ US existing home sales decline below 3.4M annualized for two consecutive quarters
-- ⚠️ FY2026 adj EBITDA margin falls below 12% (vs. 14–16% guide) — signals structural compression, not just cycle
-- ⚠️ International gallery impairments repeat in 2+ markets beyond Germany (signals replication failure)
-- ⚠️ Net financial debt increases above $2.5B on weak operating cash flow (signals covenant stress trajectory)
+- ⚠️ FY2026 adj EBITDA margin falls below 12% (vs. 14.2–16% guide)
+- ⚠️ RH Estates H2 revenue contribution materially below $100M guidance
+- ⚠️ Net financial debt increases above $2.5B
 - ⚠️ Equity raise / dilutive financing announced
 - ⚠️ Gary Friedman departure, health event, or material change in role
 - ⚠️ Shareholder lawsuit reaches material judgment / settlement >$200M
-- ⚠️ Tariff resourcing timeline extends materially past Q4 FY2026 (H2 2026 guide missed)
 
-📅 **Next review trigger**: **Q1 FY2026 earnings (≈June 2026)**. Key items: (1) Q1 revenue trajectory vs. –2 to –4% guide, (2) adj EBITDA margin vs. 5.5–6.5% guide, (3) tariff resourcing progress update, (4) RH Estates early demand commentary, (5) any international gallery opening updates, (6) litigation development disclosures, (7) debt paydown / asset sales pace.
+📅 **Next review trigger**: **Q2 FY2026 earnings (~September 2026)**. Key items: (1) Q2 revenue vs. +0.5 to +2.5% guide, (2) adj EBITDA margin vs. 11.5–13% guide, (3) RH Estates demand commentary and early revenue contribution, (4) London gallery initial performance, (5) tariff resourcing progress, (6) debt paydown / asset sales pace.
 
 ---
 
 ## Sources
 
+- [RH Q1 FY2026 8-K — Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/0001528849/000110465926072941/rh-20260611xex99d1.htm) — Q1 FY2026 results and Gary Friedman shareholder letter, June 11, 2026
+- [RH Q1 FY2026 Earnings Call Transcript](https://www.fool.com/earnings/call-transcripts/2026/06/11/rh-rh-q1-2026-earnings-call-transcript/) — Motley Fool transcript, June 11, 2026
+- [Gary Friedman 8-K — 125K Share Sale](https://www.sec.gov/Archives/edgar/data/0001528849/000110465926081857/rh-20260708xex99d1.htm) — insider sale disclosure, July 6–8, 2026
+- [RH Milan Opening — Fuorisalone](https://www.fuorisalone.it/en/2026/events/6898/Unveiling-RH-Milan-The-Gallery-on-Corso-Venezia) — April 22, 2026
+- [RH London Opening — StockTitan](https://www.stocktitan.net/news/RH/rh-announces-the-opening-of-rh-london-the-gallery-in-mayfair-five-khsnbe75zl1u.html) — June 27, 2026
+- [Fintel — RH Short Interest](https://fintel.io/ss/us/rh) — 42.21% of float, August 2026
+- [stockanalysis.com — RH Forecast](https://stockanalysis.com/stocks/rh/forecast/) — analyst consensus, August 2026
+- [Goldman Sachs Upgrade — Investing.com](https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-restoration-hardware-stock-rating-on-stabilization-outlook-93CH-4781009) — Strong Sell → Hold, July 8, 2026
+- [Yahoo Finance — RH Quote](https://finance.yahoo.com/quote/RH/) — live price $188.20, August 6, 2026
 - [RH FY2025 10-K (EDGAR HTML)](https://www.sec.gov/Archives/edgar/data/1528849/000110465926037992/rh-20260131x10k.htm) — primary source for segment data, MD&A, risk factors, debt structure, 2026-04-01 filing date
 - [RH Q4 FY2025 8-K — Exhibit 99.2](https://www.sec.gov/Archives/edgar/data/1528849/000110465926037775/rh-20260331xex99d2.htm) — primary source for Q4/FY2025 financial tables, FY2026 guidance, Gary Friedman strategic framing
 - [RH Q4 FY2025 8-K — Exhibit 99.1](https://www.sec.gov/Archives/edgar/data/1528849/000110465926037775/rh-20260331xex99d1.htm) — Q4 FY2025 earnings release

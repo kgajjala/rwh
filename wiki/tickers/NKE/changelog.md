@@ -4,6 +4,50 @@
 
 ---
 
+## [2026-08-19] — FY2026 10-K + China Distributor Overhaul + J.P. Morgan Downgrade: China Re-Diagnosed as Execution, Not Structure
+
+**Trigger**: 49-day lookback (2026-07-01 → 2026-08-19). Four material events: the FY2026 10-K (July 15), the China online-distributor consolidation announcement (July 23), the CAO resignation and Controller concentration (Aug 4/11), and J.P. Morgan's downgrade to Sell (Aug 4). Owner specifically requested close attention to Nike market-share losses/gains in big markets, particularly China versus local competitors.
+
+**Sources reviewed**:
+- [Nike FY2026 10-K — SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000320187&type=10-K) (filed July 15, 2026)
+- [The Wall Street Times — Nike cuts China online distributors](https://wallstreettimes.com/nike-cuts-china-online-distributors-turnaround-2026/)
+- [Reuters/TradingView — CAO Nielsen resignation](https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4471N5:0-nike-johanna-nielsen-to-resign-as-chief-accounting-officer-and-corporate-controller-effective-sept-4-2026/) and [Investing.com — interim Controller](https://www.investing.com/news/sec-filings/nike-announces-resignation-of-chief-accounting-officer-names-interim-replacement-93CH-4850214)
+- [stockanalysis.com — NKE forecast](https://stockanalysis.com/stocks/nke/forecast/) · [Yahoo Finance — NKE](https://finance.yahoo.com/quote/NKE/) (live price)
+- **Competitor primary/near-primary set (owner request)**: [adidas Q2 2026 results](https://www.adidas-group.com/en/media/press-releases/adidas-grows-top-line-14percent-and-achieves-record-sales-in-q2) · [SGI — Anta Q2 2026 / CEO exit](https://www.sgieurope.com/financial-results/anta-brand-growth-stalls-as-ceo-exits/122253.article) · [Caixin — Anta brand CEO resigns](https://www.caixinglobal.com/2026-07-15/anta-brand-ceo-resigns-as-growth-slows-102464541.html) · [ChinaRetailNews — 361 Degrees H1 2026](https://www.chinaretailnews.com/2026/08/19/27436-361-degrees-reports-8-0-profit-growth-in-first-half-of-2026-declares-dividend/) · [Jing Daily / Euromonitor share](https://jingdaily.com/posts/home-advantage-anta-beats-nike-and-adidas-in-china) · [Front Office Sports / Bernstein share](https://frontofficesports.com/china-sportswear-market-nike-adidas-lululemon/)
+- [ESPN — Wembanyama extension](https://www.espn.com/nba/story/_/id/49497562/sources-wembanyama-lands-signature-shoe-line-nike-deal)
+
+### What Changed
+
+- **§1 (Financials)**: FY2026 10-K channel table added — NIKE Brand **wholesale +6% to $27.5B** against **Nike Direct –6% to $17.7B**, inverting FY2025. Greater China decomposition added: **$5.85B revenue (–13% c-c), EBIT $1.3B (–20%), wholesale –14%, Direct –12% with digital –29% and stores –4%, footwear units –14%, eight consecutive declining quarters**.
+- **§2 (Revenue/Geo)**: Geographic table rebuilt on FY2026 actuals. US mix rose 42% → 43% → **44%** of revenue across FY2024–FY2026, by subtraction rather than growth — raising US tariff and consumer-cycle concentration.
+- **§3 (Moat & Landscape)** — *the substantive work this pass*: added a **"Greater China: who is actually taking the share"** subsection. The *guochao* substitution narrative is accurate through 2023 (Bernstein: Anta 14%→19%, Li-Ning 6%→9%, Nike footwear 25%→24%) but **stopped describing 2026**. Current-year growth: **Adidas +16% c-c H1** · 361 Degrees +8% · Li-Ning +3.3% *with gross margin down 40bps on heavier promotions* · Anta core brand low-single-digit (brand CEO Xu Yang resigned July 15 after missing a RMB 60B target by ~40%) · Xtep core **–mid-single-digit** · **Nike –13% c-c**. Landscape table updated with all five China peers plus an upgraded Adidas threat read.
+- **§4 (Management)**: CFO block rewritten. Denton started Aug 17; CAO/Controller Nielsen resigned effective Sept 4; **Denton also assumes interim Controller and principal accounting officer** — three finance hats on a three-week-old external hire, ~10 weeks before the Investor Day.
+- **§5 (Growth)**: China stabilization item replaced with the **July 23 distributor overhaul** (thousands of online distributors severed effective Jan 1, 2027; Topsports disclosed Nike online ≈22% of its revenue). Added athlete-IP renewal item — **Wembanyama** extended long-term with a signature line ahead of an October expiry.
+- **§6 (Risks)**: China risk reframed and split — "structural decline" retired; replaced by *China trough deepens through the FY2027 distributor reset* (Critical, 70%, **not priced in**) and *China share loss proves a permanent transfer to Adidas* (High, 35%, **not priced in**). New risk: finance-leadership concentration. FY2027-guide risk re-pointed at the Investor Day. Added FY2026 Item 1A diff — competitor list now names **Anta, Li Ning, On, Deckers, lululemon**; China is ≈16% of footwear manufacturing, confirming the exposure is demand-side.
+- **§7 (Macro)**: China paragraph rewritten — the ≈$84B market is still compounding; growth simply stopped accruing to the domestic champions.
+- **§8 (Valuation)**: Refreshed to $40.96 / ≈$60.76B. P/E 19.5× TTM GAAP, ≈26.1× clean, ≈13.7× FY2028E. Peer table now carries a 2026 China growth column.
+- **§9 (Catalyst/Sentiment)**: Full refresh. Consensus moved to **Hold — 24 of 39 at Hold**, median **$47**, range $23–$94. J.P. Morgan **Neutral → Underweight/Sell** ($47→$40). **No insider buying into the 12-year low** — flagged explicitly against ONON's contrast.
+- **§10 (BAIT)**: A-Moderate rewritten around the China reframing with an explicit falsifier (Adidas China decelerating below mid-single-digit). T weakened further on the $40 support break.
+- **§11/§12 (Scenarios / PW EV)**: **Migrated 3-year FY2029 → 5-year FY2031 terminal** per Rule #24, because the distributor reset pushes the China inflection into FY2028. Bull $90→**$100** (25%→22%) | Base $60→**$66** (50%) | Bear $32→**$29** (25%→**28%**). PW EV $60.50 → **≈$63**. R/R 4.6:1 → **≈4.9:1**.
+- **§13 (Recommendation)**: Verbs held (Initiate small/scaled · Hold-Add). Zones re-derived mechanically from PW EV: entry **$38–48**, trim **$63–100**, exit **>$100**. New lead thesis-break trigger: **Adidas Greater China decelerating below mid-single-digit c-c** — the load-bearing assumption of the reframing.
+- **Summary**: Migrated to the Rule #17 four-part format (scenario table + KPI strip + Why/Why-not).
+
+### Thesis Status
+
+- **Overall**: 🟡 **Unchanged — but the China diagnosis materially clarified.** The central problem is now understood as Nike-specific execution rather than structural national-preference substitution, which makes it fixable and gives a working template (Adidas, ~3 years). The offsetting cost is symmetric: it removes the macro excuse, and management's chosen remedy deliberately deepens the FY2027 trough. Conviction held at Moderate.
+- **BAIT delta**: Verdict unchanged at Triple overlap (B Strong + A Moderate + I Moderate; T Weak). A-lens content substantially rewritten; T deteriorated on the $40 break.
+- **Price target delta**: Bull $90 → $100 | Base $60 → $66 | Bear $32 → $29 | PW EV $60.50 → **$63** (on a 5-year rather than 3-year terminal). R/R 4.6:1 → 4.9:1.
+- **Catalyst & Sentiment delta**: Consensus Buy-mixed → **Hold** (62% of panel); median PT $47; first outright downgrade of the cycle (J.P. Morgan → Sell); price $42.42 → **$40.96** with a new 12-year low of $38.86; no insider buying.
+
+### Recommendation
+
+- **For a non-holder**: 🟡 **Initiate (small, scaled)** — unchanged verb. Spot is inside the $38–48 entry zone and 3.4% below Hill's April buy; R/R ≈4.9:1; 4.09% yield pays the wait. Reserve capacity for the January 2027 reset.
+- **For a current holder**: 🟡 **Hold-Add** — unchanged verb. Diagnosis improved and price fell; add in small increments and keep dry powder for FY2027, when management has said China gets worse on purpose.
+
+**Next review trigger**: **Q1 FY2027 earnings — September 29, 2026**, then the **FY2027 Investor Day, November 16–17, 2026**. Watch: China trajectory and any quantification of the distributor reset's cost, NIKE Digital's decline rate, Sportswear/Jordan sell-through, gross margin ex-one-time-items, a permanent Controller appointment, and Adidas's next Greater China print as the external benchmark.
+
+---
+
 ## [2026-07-01] — Q4 & FY2026 Earnings: Beat Masked by One-Time Tariff Refund, FY2027 Guide Deferred to November, CFO Departing
 
 **Trigger**: Q4 FY2026 + full-year results released June 30, 2026 (after close) — the "most important catalyst" this page had been tracking since the April ingest. Owner requested post-earnings-call analysis and analyst community reactions specifically.

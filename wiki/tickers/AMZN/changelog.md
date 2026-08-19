@@ -4,6 +4,62 @@
 
 ---
 
+## [2026-08-19] — Q2 FY2026: Record Operating Quarter Wrapped in a $50.5B Anthropic Mark; FCF Turns Negative; $50B OpenAI Investment Completed — plus v3.0 Schema Migration
+
+**Trigger**: 110-day lookback (2026-05-01 → 2026-08-19). The page had drifted badly out of date — a prior session bumped the header to 2026-08-07 without refreshing any body content, so the analysis, price, market cap, percentile, and catalysts were all still at the 2026-05-01 state with no changelog entry. This pass rebuilds the page on current data and migrates it from the legacy 15-section layout to the **v3.0 13-section schema** (Rule #11, §15 migration discipline).
+
+**Sources reviewed**:
+- [Q2 FY2026 results / 8-K (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0001018724/000101872426000024/amzn-20260630xex991.htm)
+- [Investing.com — Q2 2026 slides: AWS +37%, FCF turns negative](https://www.investing.com/news/company-news/amazon-q2-2026-slides-aws-surges-37-free-cash-flow-turns-negative-93CH-4826472)
+- [Seeking Alpha — Q3 guide $197–202B, 2026 capex lifted to ≈$220B](https://seekingalpha.com/news/4622393-amazon-outlines-q3-net-sales-of-197b-202b-while-lifting-2026-cash-capex-to-about-220b)
+- [Investing.com — Q2 2026 earnings call transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-amazon-tops-q2-2026-estimates-as-aws-growth-accelerates-93CH-4826442)
+- [Amazon — OpenAI strategic partnership](https://www.aboutamazon.com/news/aws/amazon-open-ai-strategic-partnership-investment) · [GeekWire](https://www.geekwire.com/2026/amazon-invests-50b-in-openai-deepens-aws-partnership-with-expanded-100b-cloud-deal/) · [Seeking Alpha — $35B final tranche](https://seekingalpha.com/news/4622936-amazon-completes-openai-investment-with-additional-35b-tranche)
+- [Bloomberg Law — FTC trial rescheduled to Feb 9, 2027](https://news.bloomberglaw.com/antitrust/amazon-poised-for-late-2026-trial-in-ftc-monopoly-power-lawsuit)
+- [MediaPost — advertising +26%](https://www.mediapost.com/publications/article/416930/amazon-advertising-up-26-in-q2-profits-soar-to.html)
+- [stockanalysis.com — analyst forecast](https://stockanalysis.com/stocks/amzn/forecast/) · [Yahoo Finance — AMZN](https://finance.yahoo.com/quote/AMZN/) (live price $264.16)
+
+### Schema Migration (v3.0)
+
+- Retired legacy `Section 1 — Why Does This Company Exist?`; founding insight folded into Business Overview per Rule #11
+- Merged old §3 (Geographic Revenue Mix) + §4 (Revenue Mix & Business Model) into **§2 Revenue Mix & Geographic Split**
+- Renumbered old §5–§15 → **§3–§13**; old §5 retitled **Competitive Moat & Landscape** (Rule #22)
+- Summary rebuilt on the Rule #17 four-part format (thesis + verbs, scenario table, KPI strip, Why/Why-not/Next read)
+- Fixed stale internal cross-references to retired section numbers
+
+### What Changed
+
+- **Header**: Last Updated → **2026-08-19**; live price **$264.16** (Aug 19, 3:02 PM EDT), 52-wk range **$196.00–$287.20**
+- **§1 (Financials)**: Q2 FY2026 added — revenue **$200.6B (+20%)**, first $200B quarter; operating income **$27.5B (+43%)**; AWS **$42.2B (+37%, fastest in 18 quarters)** with op income **$16.6B (+64%)** at a **39.4% margin**; advertising **$19.8B (+26%)**; NA op income $9.1B (7.9%), International $1.7B (4.1%); **AWS backlog $496B**; AI business and chips business each **>$25B run rate**, triple-digit growth
+- **§1 (Earnings quality)** — *the analytical core of this pass*: reported net income **$62.6B** and diluted EPS **$5.75** include a **~$50.5B non-cash Anthropic revaluation** (~$62.8B across six months), roughly **2× the quarter's entire operating profit**, and explicitly removed in the operating-cash-flow reconciliation. Stripping the six-month marks at a ~20% tax assumption takes TTM EPS from $12.43 to **≈$7.82**, moving the trailing multiple from **21.3× to ≈34×**
+- **§1 (Cash)**: Q2 capex **$53.1B** → quarterly FCF **–$7.7B**; **TTM FCF –$7.6B** on ~$169B TTM capex — negative for the first time since FY2022. FY2026 capex guide raised **≈$200B → ≈$220B**, partly on *memory-price inflation*. Q3 revenue guide **$197–202B vs. ~$204.1B consensus**
+- **§2**: Segment table rebuilt on Q2 actuals — AWS produced **61% of operating income on 21% of revenue**
+- **§3 (Moat)**: AWS row updated to the $169B run rate / $496B backlog; advertising row to ~$77B. Added **demand-funding circularity** as a named vulnerability. Tail-risk read inverted — the Azure-share bear case is materially weaker after +37%; the sharper risk is now cyclical AI demand against ~$220B/yr of committed capex
+- **§4 (Management)**: **Outsider grade held at Reinvestor with a new caveat** (Rule #25 — material capital-allocation event). The **$50B OpenAI investment** is capital placed into a customer that then committed to $100B+ of AWS purchases — closer to vendor financing than the 2007–2015 AWS build, and it makes reinvestment-IRR claims hard to audit when Amazon books the revenue, holds the equity, and marks the equity. Negative FCF also removes any near-term buyback capacity. Insider section rebuilt: Jassy 10b5-1 sales (Apr 17 / May 4 / May 21), **no discretionary buying by any officer** through the $3T crossing and subsequent 8% fall
+- **§5 (Growth)**: **OpenAI partnership** added as the largest new initiative — $50B invested ($15B + a **$35B tranche completed July 2026**), AWS agreement expanded **$100B over 8 years**, **2 GW Trainium** commitment; ≈$17B/yr implied ≈ **11% of AWS 2026 revenue**
+- **§6 (Risks)**: Three new material risks, all tagged **not priced in** — *reported earnings quality* (investment marks dominate net income; marks can reverse), *negative FCF against compounding capex*, and *demand-funding circularity* (revenue growth and investment marks would deteriorate together, a correlation the market is not modelling). AWS-share-loss risk lowered **35% → 20%** on the +37% print. FTC row updated for the trial delay
+- **§7 (Macro)**: FTC bench trial **moved October 13, 2026 → February 9, 2027**; partial dismissal granted, core monopoly-maintenance claims proceed. Pushes structural-remedy tail risk out of the current review horizon
+- **§8 (Valuation)**: Rebuilt at $264.16 / ≈$2.849T. **The two-multiple problem** framed explicitly: 21.3× reported vs. **≈34× clean**, corroborated by consensus FY2027E EPS of **$10.40 sitting below** FY2026E $12.46 — the Street already models the marks rolling off. FY27E P/E ≈25.4×. FCF yield **negative**
+- **§9 (Catalyst/Sentiment)**: Full refresh. Market cap **crossed $3T for the first time on August 3, 2026** then retraced 8%; **+15.32% on July 31**, one of the largest single-day gains in company history, *despite* soft Q3 guidance. Consensus **43 Strong Buy / 15 Buy / 2 Hold / 0 Sell** across 60 analysts, median **$325**; Goldman $335→$375 (Aug 10)
+- **§10 (BAIT)**: **B downgraded Moderate → Weak** — zero Sell ratings across 60 analysts at a $3T crossing is consensus-long positioning, not a behavioral edge. A held Moderate-Strong, re-grounded on the earnings-quality arithmetic with an explicit falsifier (FCF inflecting positive while AWS holds >30%). Verdict Triple overlap (A+I+T; B Weak), conviction **Moderate**
+- **§11/§12 (Scenarios / PW EV)**: **Migrated 3-year FY2029 → 5-year FY2031 terminal** per Rule #24, with scenario EPS restated on an **operating basis** since reported EPS is not a reliable forward anchor. Bull $400→**$550** (40%→25%) | Base $300→**$385** (45%→50%) | Bear $170→**$160** (15%→**25%**). PW EV $322 → **≈$370**; R/R 1.4:1 → **≈2.7:1**. Bear probability raised because negative FCF removes the shock absorber prior bear cases assumed
+- **§13 (Recommendation)**: Verbs held **Watch / Hold**. Zones re-derived from PW EV — entry **$230–277** (spot near the top), trim **$370–550**, exit **>$550**. Two new lead thesis-break triggers: **a material downward revaluation of the Anthropic or OpenAI stakes**, and **FCF still negative through FY2027**
+
+### Thesis Status
+
+- **Overall**: 🟡 **Operationally strengthened, financially more complex — net Unchanged.** The operating business had its best quarter in the history of this page: AWS +37% with a $496B contracted backlog, operating income +43%, all three segments profitable. Against that, three things changed the quality of the story rather than its direction — reported earnings are now dominated by non-cash investment marks, free cash flow has gone negative against a raised ~$220B capex guide, and Amazon has become a large shareholder in two of its biggest AI customers. Conviction held at **Moderate**.
+- **BAIT delta**: **B Moderate → Weak** (zero Sells across 60 analysts at $3T). A held Moderate-Strong on a re-grounded thesis; I and T held Moderate. Verdict remains Triple overlap.
+- **Price target delta**: Bull $400 → **$550** | Base $300 → **$385** | Bear $170 → **$160** | PW EV $322 → **≈$370** (on a 5-year rather than 3-year terminal). R/R 1.4:1 → **2.7:1**.
+- **Catalyst & Sentiment delta**: Price $265.06 → **$264.16** — essentially flat, but via a round trip through a **$3T market cap and a $287.20 high**. Consensus 42 Buy/3 Hold (avg PT $286) → **58 Buy-equivalent / 2 Hold / 0 Sell** (median $325). FTC trial pushed to Feb 2027.
+
+### Recommendation
+
+- **For a non-holder**: 🟡 **Watch** — unchanged verb. The operating case is strong and spot sits just inside a defensible entry band, but a ~7%/yr expected return with negative FCF, universal sell-side bullishness, and no catalyst before October 29 does not argue for urgency. Prefer initiating below **$250** or after Q3 confirms FCF is troughing.
+- **For a current holder**: 🟡 **Hold** — unchanged verb. Nothing argues for reducing a business compounding operating income at 43%; nothing argues for adding at a 75th-percentile price into a quarter with three open questions.
+
+**Next review trigger**: **Q3 FY2026 earnings — October 29, 2026**. In priority order: (1) **free cash flow — troughing or still deteriorating**, (2) **AWS growth against the +37% comp**, (3) size and direction of any new Anthropic/OpenAI revaluation, (4) whether the ≈$220B capex guide is reaffirmed, raised or cut, (5) AWS operating margin against 39.4%, (6) backlog progression from $496B, (7) advertising against +26%.
+
+---
+
 ## [2026-05-01] — Earnings Q1 FY2026
 
 **Trigger**: Q1 FY2026 print released April 29, 2026 (post-close) — clean operating beat across all three pillars; stock to fresh ATH $265.06 by Apr 30 close.

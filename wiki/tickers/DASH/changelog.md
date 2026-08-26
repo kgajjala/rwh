@@ -4,6 +4,65 @@
 
 ---
 
+## [2026-08-26] — Earnings Q2 2026: Guide-Beating Print, First Buyback Execution, Scenario Set Rebuilt
+
+**Trigger**: Q2 2026 earnings released **Aug 5, 2026** (after close) — one day later than the previously-confirmed Jul 30 date. Adjusted EBITDA landed above the top of the guide range, the $5B buyback was disclosed as executing for the first time, and DoorDash received its own FAA air-carrier certificate. Price +26.5% since the Jul 1 baseline.
+
+**Sources reviewed**:
+- [DoorDash IR — Q2 2026 Financial Results (Aug 5, 2026)](https://ir.doordash.com/news/news-details/2026/DoorDash-Releases-Second-Quarter-2026-Financial-Results/default.aspx)
+- [Raw capture — Q2 2026 results extract](../../../raw/DASH/press-releases/2026-08-05-Q2-2026-results.md) *(new: `raw/DASH/` created this pass)*
+- [DoorDash Q2 2026 Earnings Call Transcript — Motley Fool (Aug 12, 2026)](https://www.fool.com/earnings/call-transcripts/2026/08/12/doordash-dash-q2-2026-earnings-call-transcript/)
+- [DoorDash 8-K — Q2 2026 material event](https://www.stocktitan.net/sec-filings/DASH/8-k-door-dash-inc-reports-material-event-6a29dc43ccb3.html)
+- [CNBC — DoorDash launches in-house drone delivery after FAA certification (Jul 29, 2026)](https://www.cnbc.com/2026/07/29/doordash-launches-drone-delivery-faa-certification.html) · [DoorDash Air](https://about.doordash.com/en-us/news/doordash-air)
+- [BusinessWire — Barnes & Noble / Carter's / Kohl's back-to-school partnerships (Aug 18, 2026)](https://secure.businesswire.com/news/home/20260818064212/en/DoorDash-Makes-Back-to-School-Shopping-Easier-with-Barnes-Noble-Carters-and-Kohls) · [Gap / Gap Factory](https://secure.businesswire.com/news/home/20260818857298/en/Gap-and-Gap-Factory-Land-on-DoorDash-Just-in-Time-for-First-Day-Fits)
+- [Yahoo Finance — DASH quote](https://finance.yahoo.com/quote/DASH) (live price verified Aug 26, 2026)
+- [stockanalysis.com — statistics](https://stockanalysis.com/stocks/dash/statistics/) · [forecast](https://stockanalysis.com/stocks/dash/forecast/) (multiples, short interest, consensus)
+- SEC Form 4 filings: [Aug 24](https://www.sec.gov/Archives/edgar/data/0001792789/000184970926000018/form4-08242026_040807.xml), [Aug 17](https://www.sec.gov/Archives/edgar/data/0001792789/000184970926000016/form4-08172026_040801.xml), [Aug 11](https://www.sec.gov/Archives/edgar/data/0001792789/000183261726000007/form4-08112026_040802.xml)
+- [TipRanks — Roth Capital PT raise to $225](https://www.tipranks.com/news/the-fly/doordash-price-target-raised-to-225-from-191-at-roth-capital-thefly)
+
+### What Changed
+
+- **Price**: $184.53 → **$233.50** (+26.5%); 63rd %ile of the 52-wk range (was 29th); –18.2% from the Oct 2025 high.
+- **Q2 revenue**: $4.454B, +36% YoY — beat ≈$4.35B consensus by 2.5%.
+- **Q2 Adj EBITDA**: $914M, +40% YoY — **above the top of the $770–870M guide** and 8.5% ahead of ≈$842M consensus. Second consecutive guide-beat.
+- **Q2 Marketplace GOV**: $33.1B, +36% YoY.
+- **Q2 orders**: 970M, +27% YoY.
+- **Q2 contribution profit**: $1.641B = **5.0% of GOV**, up from 4.7% — the cleanest evidence of per-dollar monetization improving.
+- **Q2 GAAP net income**: $200M, **–30% YoY** — fell while Adj EBITDA rose 40%. ≈$1.2–1.3B SBC + ≈$1.1–1.2B D&A sit between the two lines.
+- **Q2 FCF**: $742M (OCF $944M); TTM FCF $2.1B.
+- **Q3 2026 guide**: GOV $33.0–34.0B; Adj EBITDA **$950M–$1.1B** — midpoint above the quarter just printed.
+- **§4 buyback**: $0 executed → **$1.049B / 6.8M shares YTD at a ≈$154 average**, $3.951B remaining. Execution landed in the March–June drawdown near the $143.30 52-wk low.
+- **§4 Outsider grade**: 🟡 Ambiguous (reforming) → 🟢 **Outsider-leaning** (Rule #25 material capital-allocation event; surfaced to the §0 Summary and synced to `frameworks/outsiders.md`).
+- **§5 autonomy**: **DoorDash Air** — FAA air-carrier certification (Jul 29) for in-house drone delivery, commercial service this fall. **Dot** targeted at a high-single-digit % of Phoenix orders by year-end 2026 — the first dated, quantified adoption milestone the program has carried.
+- **§5 New Verticals**: Inukonda reaffirmed gross-profit positivity "in the second half of the year"; Tony Xu called grocery the fastest-growing part of the marketplace. Retail assortment expanded with Gap, Kohl's, Barnes & Noble, Carter's (Aug 18).
+- **§6 risks**: three rows DE-RISKED ✅ (Q2 margin vs. guide; H2 <55% of full-year EBITDA; buyback never executed). Two rows added — **GAAP-vs-adjusted earnings-quality divergence** (not priced in) and **first-party autonomy execution/liability** now that DoorDash holds its own FAA certificate.
+- **§8 multiples** at $233.50 / ≈$101B cap: EV/Adj EBITDA TTM ≈31×, FY26E ≈25×, GAAP TTM P/E ≈120×, FY26E adj P/E ≈41×, FCF yield ≈2.1%.
+- **§9 analysts**: complete reversal of June's cuts — TD Cowen $225→$240 (Buy), Wedbush $205→$220 (Neutral), Roth $191→$225 (Neutral). Consensus now 44 analysts, $252.30 avg, 26 Strong Buy / 8 Buy / 10 Hold / 0 Sell. The two largest raises kept Neutral ratings — marking to price, not upgrading conviction.
+- **§9 short interest**: 3.40% → **4.73% of float** (18.09M shares, 4.82 days to cover). Shorts built to ≈21.4M into the print, then covered (–12.2% at the Jul 15 settlement). Still larger than the July baseline but now covering — the short thesis was tested by the print and lost.
+- **§9 insiders**: quieter and neutral. CFO Inukonda sold 19,505 sh @ $220.62 (Aug 20, mandatory RSU tax withholding) and 1,017 sh @ $213.67 (Aug 13, 10b5-1). Tony Xu's 8,159-share Aug 7 acquisition was a Sequoia in-kind fund distribution, **not** an open-market buy.
+- **§10 BAIT**: B **Moderate → Weak** (the fear that made this interesting has been paid out); A Moderate (case stronger, but the market repriced on the same information); I Moderate (new under-covered evidence); T **Weak → Moderate** (live buyback = real bid). Double (B+A+I) → **Triple (A+I+T)**; conviction Low-Moderate → **Moderate**.
+- **§11 scenario set rebuilt**: Bull $215→**$420** (30%→25%), Base $110→**$240** (55%→50%), Bear $50→**$80** (15%→25%). The prior terminal set had been overtaken by the business — its 2030 Base EBITDA of $2.64B sat *below* the ≈$3.21B the company already earns on a TTM basis. Rebuilt off the current run-rate and anchored to consensus FY2027 revenue of $21.47B, with terminal multiples set below the peer average to carry the SBC/D&A load.
+- **§12 PW EV**: **$133 → ≈$245**. Spot is ≈5% *below* PW EV for the first time in this coverage, but the 5-year return is only ≈+4.9% (≈+1.0%/yr).
+- **§12 R/R**: 0.23:1 → **≈1.2:1** (Bull +79.9% vs. Bear –65.7% from spot).
+- **§13 zones**: entry $100–113 → **$184–208**; trim $133–215 → **$245–420**; exit ≥$215 → **≥$420**.
+
+### Thesis Status
+
+- **Overall**: 🟢 **Strengthened**. Q2 is the confirming print the page had been waiting on since Q4 2025 — operating leverage showed up in the number rather than the guide, New Verticals were reaffirmed, and the board executed a countercyclical buyback. The valuation call changes as a consequence: DASH moves out of the Trim zone and into fairly-valued dead space, not because the price fell but because the earnings power was re-underwritten.
+- **BAIT delta**: Double (B+A+I, Low-Moderate) → **Triple (A+I+T, Moderate)**. B degraded Moderate→Weak; T upgraded Weak→Moderate on the live buyback.
+- **Price target delta**: Bull $215 → **$420** (25%) | Base $110 → **$240** (50%) | Bear $50 → **$80** (25%). **PW EV $133 → ≈$245**. R/R 0.23:1 → ≈1.2:1.
+- **Outsider delta**: 🟡 Ambiguous (reforming) → 🟢 **Outsider-leaning**, on $1.049B executed at ≈$154 into the drawdown.
+- **Catalyst & Sentiment delta**: analyst actions flipped from uniform cuts to uniform raises (two of three still Neutral-rated); shorts tested the print and began covering; insider selling narrowed to mandatory/pre-arranged CFO transactions.
+
+### Recommendation
+
+- **For a non-holder**: 🟡 **Watch** — upgraded two notches from Avoid. The business earned its place on the buy list; the price has not. Entry zone **$184–$208**. A ≈+1%/yr expected return does not compensate a 25%-probability –66% bear outcome, and the ≈120× TTM GAAP multiple leaves no room for a stumble.
+- **For a current holder**: 🟡 **Hold** — upgraded two notches from Reduce. Spot is below PW EV, the thesis strengthened materially, and the buyback works for you. Stop adding above $208; trim logic re-engages if the stock runs into the $245–420 band without a corresponding earnings-quality improvement.
+
+**Next review trigger**: **Q3 2026 earnings, ~Nov 4, 2026** *[Estimate]*. Watch Adj EBITDA vs. the $950M–$1.1B guide, New Verticals gross-profit positivity delivered or slipped, GAAP net income direction against 40% Adj EBITDA growth, buyback pace at prices above $200, Dot's Phoenix order share vs. the year-end target, and first DoorDash Air commercial economics.
+
+---
+
 ## [2026-07-01] — Rally Deeper Into Trim Zone + Autonomous-Delivery Funding + Gig-Worker Regulatory Tailwind
 
 **Trigger**: Weekly update (Workflow B). No Q2 earnings this period (confirmed for Jul 30, 2026), but a +12.6% price rally with no fundamental confirmation, a newly-funded autonomous-delivery program, a federal gig-worker regulatory tailwind, and a reversing short-interest/insider-selling pattern together cross the materiality bar.

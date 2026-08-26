@@ -99,7 +99,7 @@ rwh/  (kg-invest-wiki)
     2. **Scenario table** (8 cols): `52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R`. Percentile = LLM judgment. R/R per Rule #24.
     3. **KPI strip** (6 cells): slot 1 BAIT, slot 2 Moat, slot 3 FY26E P/E (or asset-class primary multiple), slots 4–5 ticker-relevant (FCF yld / Div yld / Short int. / segment KPI / FX, etc.), slot 6 Next catalyst.
     4. **Why / Why not / Next read** — 3 🟢 Why bullets + 3 ⚠️ Why not bullets, **one bullet per line**, then a single `📅 Next read:` line.
-18. **Annual shareholder letters are required primary sources.** Every Workflow A ingest fetches and synthesizes 5 fiscal years of CEO/founder letters; letters take precedence over third-party summaries.
+18. **Management primary sources are required: shareholder letters *and* public appearances.** Management speaks off the earnings script — at broker conferences, on CNBC/Bloomberg, on podcasts — and often discloses strategy, pricing-model and competitive detail that never reaches the press release. Every Workflow A ingest fetches and synthesizes 5 fiscal years of CEO/founder letters; letters take precedence over third-party summaries.
 
     | Pattern | When | Fetch |
     |---|---|---|
@@ -107,7 +107,13 @@ rwh/  (kg-invest-wiki)
     | B — Quarterly letter publishers | Letter to Shareholders with each quarterly print | All 4 letters × 5 yrs (up to 20). Q4 = primary annual-wrap weight. Min first ingest: 5 Q4 + 3 most-recent quarterly = 8. |
     | C — No standalone letter | Chairman's Letter in annual report or DEF 14A introductory letter | 5 letters; if neither exists, log gap in §4 and rely on transcripts |
 
-    Sub-5-year coverage: fetch all letters since IPO. Storage: `raw/[TICKER]/shareholder-letters/YYYY_letter.pdf` named by *fiscal year covered*. Synthesis surface: §4 `### Recent Management Commentary — Primary Source Synthesis` — verbatim quotes mapped to investment relevance, optional multi-year framework-arc table. A new letter is a Meaningful Event; refresh §4 + extend the arc on incremental.
+    Sub-5-year coverage: fetch all letters since IPO. Storage: `raw/[TICKER]/shareholder-letters/YYYY_letter.pdf` named by *fiscal year covered*.
+
+    **Public appearances — required sweep, every Workflow A ingest and every Workflow B lookback window.** Check, in this order: (a) the company's **IR events/calendar page** (broker conferences, fireside chats, investor days — this is also how you confirm *upcoming* appearances and retire stale ones from prior years); (b) **financial-media interviews** (CNBC/Bloomberg/Yahoo Finance), especially the earnings-day CEO/CFO hit, which routinely reframes the print; (c) **podcasts and non-financial appearances** (tech/industry shows, founder interviews) where CEOs speak least guardedly; (d) **conference transcripts** (Seeking Alpha, Investing.com, company webcast replays). Fetch the transcript or a substantive write-up, never a headline alone. Storage: `raw/[TICKER]/appearances/YYYY-MM-DD_<venue>_<who>.txt`.
+
+    **Earnings-call prepared remarks are part of this sweep.** When the IR prepared-remarks PDF will not parse, do **not** settle for a single secondary transcript — cross-check at least two independent transcripts plus one trade-press write-up. Secondary transcripts truncate, and pricing-model / product / partnership disclosures are what they drop.
+
+    Synthesis surface for both letters and appearances: §4 `### Recent Management Commentary — Primary Source Synthesis` — verbatim quotes mapped to investment relevance, optional multi-year framework-arc table; §9 carries a `### Management Appearances (Last 90 Days)` subsection plus any *scheduled* forward appearance in the catalyst table. Attribute every quote to **where** it was said (call / conference / interview / podcast) — an off-script claim carries different weight than a scripted one. A new letter **or a material appearance** is a Meaningful Event; refresh §4 + §9 on incremental. If a window genuinely contains no appearances, say so explicitly in §9 rather than leaving it silent — an unstated absence is indistinguishable from an unchecked one.
 19. **10-K MD&A and Risk Factors are required primary sources — last 5 fiscal years for first-run ingest.** The MD&A explains *why* numbers moved; multi-year Risk Factor evolution shows *how* management's worldview shifted. Required integration map:
 
     | 10-K Item | Wiki Section(s) | What to extract |
@@ -179,7 +185,7 @@ The page header (Schema / Last Updated / Status / Live Price), Summary, Business
 | 1 | Annual Financial Metrics | 4–6 year trend + recent quarters; primary 10-K segment detail |
 | 2 | Revenue Mix & Geographic Split | Revenue streams + business model + region table + forward shifts |
 | 3 | Competitive Moat & Landscape | Wide / Narrow / None + sources + vulnerabilities + named competitors with market share + how-this-company-differs |
-| 4 | Management & Leadership | CEO/CFO assessment + capital-allocation track record + Outsider grade + RMC subsection (Rule #18) |
+| 4 | Management & Leadership | CEO/CFO assessment + capital-allocation track record + Outsider grade + RMC subsection synthesizing letters **and public appearances** (Rule #18) |
 | 5 | Strategic Growth Initiatives | Growth vectors that justify forward multiples |
 | 6 | Key Risks | Materiality-filtered Impact × Probability × Priced-In table (Rule #23) |
 | 7 | Industry-Specific Macro Analysis | TAM, structural dynamics, regulatory environment |
@@ -200,7 +206,8 @@ Drives weekly incrementals. Standardized fields:
 - **Options skew (optional)**: 30-day put/call, IV percentile if material
 - **Insider activity (last 90 days)**: net buy/sell, transactions >$1M or by officers/directors (OpenInsider + SEC Form 4)
 - **Recent corporate news (last 90 days)**: `[YYYY-MM-DD] [Event Type] — [one-line] [linked source]`
-- **Upcoming catalysts**: earnings, shareholder meeting, FDA/regulatory date, product launch, contract decision
+- **Management appearances (last 90 days)**: conference fireside, earnings-day media interview, podcast — one line each with venue, date, and the off-script disclosure; state explicitly when the window had none
+- **Upcoming catalysts**: earnings, shareholder meeting, **scheduled C-suite appearances**, FDA/regulatory date, product launch, contract decision
 
 ### Section 13 — Recommendation & Bottom Line (template)
 
@@ -246,6 +253,7 @@ Create `raw/[TICKER]/` and populate (source preference SEC EDGAR > company IR > 
 - **Last 4 quarterly press releases** → `press-releases/`
 - **All 8-Ks in last 12 months** + **most recent DEF 14A** → `filings/`
 - **Last 5 annual shareholder letters** (Pattern A/B/C per Rule #18) → `shareholder-letters/YYYY_letter.pdf`
+- **C-suite public appearances, last 12 months + any scheduled forward dates** (Rule #18 sweep: IR events page, media interviews, podcasts, conference transcripts) → `appearances/`
 - **Latest investor day deck** if available → `investor-day/`
 - **User-supplied PDFs** → `analyst-reports/`
 
@@ -288,7 +296,7 @@ For each ticker in `wiki/tickers/`:
 - If `Active`: baseline = date of the latest `changelog.md` entry. Lookback window = everything since.
 
 ### Step 2 — Scan for meaningful events
-Check the **Meaningful Events List** (§10) across: company IR, SEC EDGAR, earnings calendar, analyst rating changes, short-interest aggregator, insider Form 4 aggregator, news search.
+Check the **Meaningful Events List** (§10) across: company IR (including the **IR events/calendar page** per Rule #18), SEC EDGAR, earnings calendar, **C-suite appearance sweep** (media interviews, conferences, podcasts), analyst rating changes, short-interest aggregator, insider Form 4 aggregator, news search.
 
 ### Step 3a — If material events exist
 1. Fetch new raw material into `raw/[TICKER]/<subfolder>/`.
@@ -365,6 +373,7 @@ A multi-quarter pause may span multiple earnings, analyst clusters, and macro ev
 
 - **Earnings**: 10-Q / 10-K, earnings PR, transcript
 - **Annual shareholder letter published** (Pattern A/B/C per Rule #18)
+- **Material C-suite public appearance** (Rule #18): broker-conference fireside, earnings-day CNBC/Bloomberg interview, podcast, investor day, or keynote — material when it discloses strategy, pricing-model, product, partnership or competitive detail not in the filings, or when it reframes a print
 - **Shareholder meeting**: annual, special, proxy-vote outcomes
 - **Strategic announcements**: product launch, market entry/exit, divestiture, restructuring
 - **M&A**: acquisition announce/close, merger, JV, strategic partnership
@@ -387,7 +396,8 @@ Extensible — add new event types when encountered.
 |-----------|---------|----------|
 | Live price | Yahoo Finance (`finance.yahoo.com/quote/[TICKER]`) | CNBC, Google Finance, MarketWatch (web search) |
 | Filings | SEC EDGAR | Company IR site |
-| Transcripts | Company IR, Motley Fool, Seeking Alpha | Yahoo Finance transcripts |
+| Transcripts | Company IR prepared remarks, Motley Fool, Seeking Alpha | Yahoo Finance, Investing.com, AlphaStreet — cross-check ≥2 when the IR PDF won't parse (Rule #18) |
+| C-suite appearances | Company IR events/calendar page; conference transcripts (Seeking Alpha, Investing.com) | CNBC / Bloomberg / Yahoo Finance video, podcast show notes, trade press |
 | Press releases | Company IR, BusinessWire, PRNewswire | Web search |
 | Analyst ratings | Primary research-firm releases | User-uploaded PDFs in `analyst-reports/`, TipRanks / Yahoo |
 | Short interest | Aggregator (Fintel, ChartExchange, NASDAQ) | FINRA twice-monthly |

@@ -4,6 +4,43 @@
 
 ---
 
+## [2026-08-26] — Addendum: C-suite appearance sweep (owner-prompted) — consumption-based AI pricing recovered; price re-marked
+
+**Trigger**: Owner asked whether C-suite public appearances (events, podcasts, media) had been considered in the same-day Q4 FY26 update. They had not — the earlier pass sourced the press release, prepared remarks, secondary call transcripts, sell-side reaction and market data, but never swept management media/conference appearances. This entry records what that sweep found and what it changed. Schema fix landed in the same commit (CLAUDE.md Rule #18 broadened to cover management public appearances).
+
+**Sources reviewed**:
+- [CNBC *Mad Money* — Goodarzi post-print exclusive with Jim Cramer, Aug 25, 2026](https://www.cnbc.com/video/2026/08/25/we-need-to-grow-faster-and-take-more-market-share-in-diy-taxes-says-intuit-ceo-sasan-goodarzi.html)
+- [Constellation Research — Intuit plots AI agent expansion in August with consumption model](https://www.constellationr.com/insights/news/intuit-plots-ai-agent-expansion-august-consumption-model)
+- [PYMNTS — Intuit says 75% of enterprise customers deploy AI agents monthly](https://www.pymnts.com/earnings/2026/intuit-says-75-of-enterprise-customers-deploy-ai-agents-monthly/)
+- [Intuit IR calendar](https://investors.intuit.com/news-events/ir-calendar) (event coverage check across the lookback window)
+- [Intuit + Anthropic partnership press release](https://investors.intuit.com/news-events/press-releases/detail/1305/intuit-and-anthropic-partner-to-bring-trusted-financial-intelligence-and-custom-ai-agents-to-consumers-and-businesses)
+- [Google Finance — INTU](https://www.google.com/finance/quote/INTU:NASDAQ) ($341.75, Aug 26, 10:42 a.m. ET)
+
+### What Changed
+- **Appearance coverage (the gap)**: one C-suite appearance in the window was missed — **CNBC *Mad Money*, Aug 25, Goodarzi post-print**. IR-calendar check confirms the only other appearances (Mizuho Technology + Nasdaq Investor conferences, Jun 9) pre-date the FY27 reset, and **no Goldman Sachs Communacopia 2026 appearance is scheduled** (the 2025 CFO fireside does not carry forward) — so Investor Day Sep 17 remains the correct next catalyst.
+- **Material disclosure recovered — the barbell**: the prepared remarks carry a **consumption-based pricing model for AI and human-expert services** launching in August (per-seat → per-outcome) plus explicit **"pricing actions at the higher end of our portfolio,"** with strongest test adoption in Advanced/Plus tiers. The prior entry described only the *cut* half of the pricing strategy. Also recovered: **QuickBooks Workforce**, an **AI agent builder** for industry-specific KPIs, an Intuit business credit card, and Goodarzi's outcome metrics (*"getting paid four days faster and reducing manual work by 30%"*).
+- **Summary**: thesis paragraph now carries the barbell; a fourth 🟢 Why bullet added for the consumption-pricing vector
+- **§2**: new revenue-lever bullet — the high end is being repriced *up* while the entry tier is cut
+- **§4 RMC**: two additions — the consumption-pricing quote, and Goodarzi's CNBC self-diagnosis that the customer-growth slowdown came from Intuit's own focus shift to the agentic platform and three Big Bets (Assisted Tax, Money, Mid-market), not competitive loss. Flagged as a claim to hold management to, not evidence.
+- **§5**: initiative 3 rewritten from "agentic AI, monetization indirect" to the pricing-architecture change it actually is — named as the most under-modelled item in the FY27 guide
+- **§9**: new **Management Appearances (Last 90 Days)** subsection; forward-event coverage confirmed
+- **§10**: A-lens gains the barbell as a second analytical edge; I-lens gains the consumption-pricing disclosure (present in prepared remarks, near-absent from the coverage that set the tape)
+- **§8 / §11 / §12 / §13**: re-marked from $346.93 (9:47 a.m.) to **$341.75** (10:42 a.m.; session range $322.57–$351.39) — ≈14.9× FY27E (≈11.9× ex-SBC), ≈9.2% FCF yield, ≈$93.5B cap; expected return +52% → **+55%**; R/R ≈6:1 → **≈6.5:1**
+
+### Thesis Status
+- **Overall**: **Unchanged from this morning's entry — Weakened vs. the June baseline.** The recovered disclosures do not move the guided arithmetic (FY27 still +9–10%, TurboTax still +2–3%, GBS algorithm still cut) and so do not move PW EV, scenarios, probabilities or verbs. They do materially improve the *interpretation*: this is a two-sided pricing architecture change, not a one-way price war, and that is a better-supported base case than the prior entry conveyed.
+- **BAIT delta**: verdict held at **Double (B+I) / Moderate**. A-lens content strengthened (second edge added) without changing its Moderate rating; I-lens content strengthened within Moderate-Strong.
+- **Price target delta**: none. Bull $845 / Base $530 / Bear $265 and PW EV ≈$529 all unchanged; R/R ≈6:1 → ≈6.5:1 is purely the lower spot mark.
+- **Catalyst & Sentiment delta**: Management Appearances subsection added; no Goldman Communacopia 2026 appearance to add; Investor Day Sep 17 confirmed as the sole scheduled forward event.
+
+### Recommendation
+- **For a non-holder**: 🟢 **Initiate (scaled)** — unchanged.
+- **For a current holder**: 🟡 **Hold-Add on weakness** — unchanged; prefer adds below ≈$320.
+
+**Next review trigger**: **Investor Day — Sep 17, 2026**, where the consumption-pricing model and the FY27 revenue contribution assumed from it should be sized. Unchanged otherwise.
+
+---
+
 ## [2026-08-26] — Earnings: Q4 FY26 beat, but the FY27 guide resets the franchise (9–10% revenue, TurboTax repriced down, GBS algorithm cut 15–20% → 10–15%, SBC folded into non-GAAP)
 
 **Trigger**: Q4 FY2026 earnings reported 2026-08-25 (post-close) — Intuit's fiscal year ends July 31. Material event under Workflow B. Accompanied by two accounting changes (share-based compensation enters non-GAAP from FY2027; Mailchimp becomes a separate reportable segment), a 15% dividend raise, and same-morning downgrades from JPMorgan and Bank of America.

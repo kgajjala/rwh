@@ -1,0 +1,38 @@
+SOURCE: CNBC "Mad Money" — Sasan Goodarzi (Chairman & CEO, Intuit) with Jim Cramer
+DATE: 2026-08-25 (evening of the Q4 FY2026 print)
+URL: https://www.cnbc.com/video/2026/08/25/we-need-to-grow-faster-and-take-more-market-share-in-diy-taxes-says-intuit-ceo-sasan-goodarzi.html
+CAPTURED: 2026-08-26 — summary + attributed quotes from CNBC and secondary coverage; not a verbatim full transcript.
+PRIOR APPEARANCE (same venue): 2026-05-20, post-Q3 FY26 —
+  https://www.cnbc.com/video/2026/05/20/cramer-talks-exclusively-with-intuit-ceo-sasan-goodarzi-post-earnings.html
+
+=== HEADLINE ===
+"We need to grow faster and take more market share in DIY taxes."
+
+=== ON THE CUSTOMER-GROWTH SLOWDOWN (the key off-script framing) ===
+Goodarzi attributed the slowdown to Intuit's OWN allocation of focus rather than to
+competitive loss: the company shifted attention to building the agentic platform and its
+three Big Bets (Assisted Tax, Money, Mid-market), which caused the deceleration in
+new-customer acquisition in DIY tax and at the low end of the business segment. His claim
+is that Intuit now has a platform with more services to drive growth, and is "doubling
+down on new-to-franchise acquisition."
+
+He repeated the accountability line from the call: personally dissatisfied with DIY tax
+and low-end business performance, areas where Intuit historically grew customers at
+double-digit rates.
+
+=== ON PRICING ===
+Consistent with the call: lost quality DIY customers to low-cost providers; price is the
+number one reason customers leave TurboTax; Intuit will deliberately lower FY2027 DIY
+prices to acquire and retain customers.
+
+=== ON STRATEGY ===
+"Resetting expectations to play offense" — scaling the Big Bets while rebuilding the
+new-customer funnel.
+
+=== ANALYST NOTE (agent) ===
+The self-diagnosis is the crux of the thesis: if the customer-growth stall is an internal
+attention-allocation problem it is fixable; if it is competitive displacement by AI-native
+and low-cost rivals (the BofA and JPMorgan read) it is structural. Management's answer is
+unambiguous but is a claim to hold them to, not evidence. Falsifiable at Q1 FY27
+(~late Nov 2026) via QuickBooks paying-customer growth, and at Q3 FY27 (~May 2027) via
+TurboTax units.

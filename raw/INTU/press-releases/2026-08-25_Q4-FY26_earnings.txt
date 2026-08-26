@@ -1,0 +1,89 @@
+SOURCE: Intuit Investor Relations — press release, 2026-08-25
+URL: https://investors.intuit.com/news-events/press-releases/detail/1320/intuit-reports-fourth-quarter-and-full-year-fiscal-2026-results-sets-fiscal-2027-guidance
+PDF: https://investors.intuit.com/_assets/_ebf221201360a81ed3f472a03a3a5850/intuit/news/2026-08-25_Intuit_Reports_Fourth_Quarter_and_Full_Year_1320.pdf
+BusinessWire mirror: https://www.businesswire.com/news/home/20260825805841/en/Intuit-Reports-Fourth-Quarter-and-Full-Year-Fiscal-2026-Results-Sets-Fiscal-2027-Guidance
+TITLE: Intuit Reports Fourth Quarter and Full Year Fiscal 2026 Results; Sets Fiscal 2027 Guidance
+CAPTURED: 2026-08-26 (extracted key figures; not a verbatim full-text copy)
+
+=== Q4 FY2026 (quarter ended July 31, 2026) ===
+Total revenue                     $4.354B   (+14% YoY)   [consensus ~$4.27B — beat]
+GAAP operating income             $475M
+Non-GAAP operating income         $1.448B
+GAAP diluted EPS                  $1.34
+Non-GAAP diluted EPS              $4.03     (+47% YoY)   [consensus ~$3.58 — beat]
+Restructuring charges (Q4)        $293M
+Share repurchases (Q4)            $2.1B     (+179% YoY)
+
+Q4 segment revenue:
+  Global Business Solutions       $3.4B     (+14%)
+    Online Ecosystem              $2.6B     (+17%)
+  Consumer Group (aggregate)      $930M     (+14%)
+    TurboTax / Consumer           $153M     (+3%)
+    Credit Karma                  $743M     (+16%)
+    ProTax                        $34M      (+6%)
+
+=== FULL YEAR FY2026 (ended July 31, 2026) ===
+Total revenue                     $21.448B  (+14% YoY)
+GAAP operating income             $5.884B   (+20%);  GAAP operating margin 27.4%
+Non-GAAP operating income         $8.935B   (+18%)
+GAAP diluted EPS                  $16.46    (+20%)
+Non-GAAP diluted EPS              $24.27    (+20%)   [pre-FY27 definition; excludes SBC]
+Operating cash flow               $8.838B
+Share repurchases (FY26)          $5.5B     (+96% YoY)
+Remaining buyback authorization   $7.9B
+Cash and investments              $7.2B
+Total debt                        $7.7B     (incl. $1.75B senior notes issued June 2026)
+
+FY26 segment revenue:
+  Global Business Solutions       $12.9B    (+16%)   [includes Mailchimp]
+    Online Ecosystem              $9.9B     (+19%)
+  TurboTax / Consumer             $5.3B     (+7%)
+  Credit Karma                    $2.6B     (+20%)
+  ProTax                          $647M     (+4%)
+
+FY26 unit metrics:
+  Total U.S. TurboTax units       39.0M     (-2% YoY)
+    Online units                  34.9M
+    Desktop units                 4.1M
+  QuickBooks total online paying customers  8.9M  (+3% YoY)
+  Intuit Enterprise Suite annualized revenue  >$145M in Q4 (4x YoY)
+  Mid-market customers            +28% (≈3/4 of adds from upgrades or desktop migrations)
+  New-to-franchise mid-market customers      +30% for the year
+  QuickBooks Free/Lite            >20,000 customers using or converted to paid (first month)
+
+=== DIVIDEND ===
+Quarterly dividend raised 15% to $1.38/share ($5.52 annualized), payable October 16, 2026.
+
+=== FY2027 GUIDANCE ===
+Total revenue            $23.279B – $23.512B   (+9% to +10%)
+GAAP operating income    $7.408B – $7.490B     (+26% to +27%)
+Non-GAAP operating income $8.063B – $8.145B    (+17% to +18%)  [new SBC-inclusive basis]
+GAAP diluted EPS         $20.12 – $20.36       (+22% to +24%)
+Non-GAAP diluted EPS     $22.88 – $23.12       (+23% to +24%)  [NEW basis, INCLUDES SBC;
+                                                 stated $5.81/share SBC impact]
+Restructuring (FY27 est.) $22M
+
+FY2027 segment guidance:
+  Global Business Solutions  $13.068B – $13.158B   (+13% to +14%)  [ex-Mailchimp basis]
+  Consumer Group             $8.955B  – $9.088B    (+4% to +6%)
+    TurboTax                 $5.377B  – $5.453B    (+2% to +3%)
+    Credit Karma             $2.919B  – $2.973B    (+11% to +13%)
+    ProTax                   $659M    – $662M      (+2%)
+  Mailchimp                  $1.256B  – $1.266B    (-1% to 0%)
+
+=== Q1 FY2027 GUIDANCE ===
+Total revenue            $4.294B – $4.313B   (+11%)
+GAAP operating income    $716M – $729M       (+34% to +37%)
+Non-GAAP operating income $902M – $915M      (+26% to +28%)
+GAAP diluted EPS         $1.71 – $1.75       (+8% to +10%)
+Non-GAAP diluted EPS     $2.44 – $2.48       (+30% to +33%)
+
+=== ACCOUNTING / SEGMENT REPORTING CHANGES ===
+1. Beginning fiscal 2027, share-based compensation expense is NO LONGER EXCLUDED from
+   non-GAAP financial measures. Company rationale: SBC is "a recurring component of our
+   compensation program." FY27 guidance embeds a $5.81/share SBC impact.
+   Stated targets: SBC to fall to 9% of revenue by FY2028 and 8% by FY2030.
+2. Effective August 1, 2026, Mailchimp is managed as a separate operating segment from
+   Global Business Solutions and becomes a separate reportable segment in fiscal 2027.
+3. A full recast of segment margins for FY2024–FY2026 will be provided at Investor Day
+   on September 17, 2026.

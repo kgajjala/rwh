@@ -1,0 +1,91 @@
+SOURCE: Intuit Q4 FY2026 earnings conference call, 2026-08-25
+Official prepared remarks (PDF): https://investors.intuit.com/_assets/_cbcc21959b1d1fa6fe15e8e5b43cc3a2/intuit/db/946/10378/webcast_transcript/Q4+FY26+Earnings+Script.pdf
+Transcript (Investing.com): https://uk.investing.com/news/stock-market-news/earnings-call-transcript-intuit-beats-q4-2026-estimates-but-shares-fall-on-softer-outlook-93CH-4846801
+Transcript (Benzinga): https://www.benzinga.com/news/26/08/61424191/transcript-intuit-q4-2026-earnings-conference-call
+Transcript (AlphaStreet): https://news.alphastreet.com/intuit-inc-intu-q4-2026-earnings-call-transcript/
+CAPTURED: 2026-08-26 — curated verbatim quotes + metrics, not a full-text copy.
+
+=== SASAN GOODARZI (CEO) — TURBOTAX / DIY PRICING RESET ===
+"Price is now the number one reason customers leave TurboTax."
+"We lost quality DIY customers to lower cost providers this year."
+Company is "deliberately accepting lower initial DIY tax ARPC to acquire and retain more
+quality customers."
+On distribution: "expanding the distribution so customers can discover and access TurboTax
+where they already are, including through leading LLM experiences" and new payroll
+provider partnerships.
+Accountability: "I am personally dissatisfied and hold myself accountable for the lack of
+performance, which is DIY tax, and on the low end in the business group."
+
+=== GOODARZI — FRAMING THE FY27 RESET ===
+"We are resetting expectations for the company because this is the perfect time to do it
+where we can play offense."
+"We are creating the pressure. We are not being pressured to make the change."
+"AI will be a disruptor, and we intend to be the disruptor."
+Positioning: "a unified financial system of intelligence... increasingly does the work for
+our customers."
+Model: "acquire more new customers earlier, and grow with them as their needs become more
+complex."
+
+=== CUSTOMER / SEGMENT METRICS DISCLOSED ON THE CALL ===
+QuickBooks total online paying customers: 8.9M at FY26 end, +3% YoY
+  (roughly 2 points slower than the prior year)
+QuickBooks Online Accounting revenue: +23% for the full year
+QuickBooks Free/Lite: ">20,000 customers either actively using QuickBooks Free or who had
+  converted to paid offerings" as of last month
+Mid-market revenue: +39% in Q4; mid-market customers +28%, "roughly three-quarters of the
+  additions coming from upgrades or desktop migrations"
+New-to-franchise mid-market customers: +30% for the year
+Intuit Enterprise Suite (IES): annualized revenue "surpassed $145 million in Q4, a 4x
+  increase from last year"; "over 75% of Intuit Enterprise Suite customers use our AI
+  agents every month"
+Desktop Ecosystem: ~25% of GBS; expected low-single-digit decline
+Credit Karma: +16% in Q4, +20% full year; FY27 guided +11–13%
+Cross-sell: "Customers using both TurboTax and Credit Karma generate approximately twice
+  the average revenue per customer"; >50% growth in Credit Karma members filing with
+  TurboTax in FY26
+TurboTax US units: 39.0M, -2% YoY
+Mailchimp: separate reportable segment beginning FY27; FY27 revenue "flat to down 1%";
+  "focused on maximizing its value and delivering strong profitability"
+
+=== SANDEEP AUJLA (CFO) — NON-GAAP DEFINITION CHANGE ===
+"share-based compensation expenses will no longer be excluded from our non-GAAP financial
+measures... a recurring component of our compensation program."
+FY27 non-GAAP diluted EPS "$22.88 to $23.12, or growth of 23%-24%," inclusive of a
+"$5.81 impact from share-based compensation expenses."
+SBC targets: 9% of revenue by FY2028; "we now expect share-based compensation as a
+percentage of revenue to be 8% by fiscal 2030."
+Margin: "We expect margin expansion driven by savings from workforce changes... partially
+offset by deliberate choices... to increase investments in areas such as sales and
+marketing."
+
+=== CAPITAL ALLOCATION ===
+"$5.5 billion of stock repurchased during the year, up 96% versus last year"
+"$2.1 billion of stock repurchased during the fourth quarter, an increase of 179%"
+"quarterly dividend of $1.38 per share... a 15% increase versus last year"
+Remaining buyback authorization: $7.9B
+
+=== LONG-TERM GROWTH ALGORITHM (RESET) ===
+Global Business Solutions: 10%-15% CAGR "over the next three years"
+  (Barclays' Raimo Lenschau flagged this as a cut from the prior 15%-20% framing; Aujla
+   attributed the reduction to the Desktop Ecosystem headwind, ~25% of GBS)
+Consumer: 4%-8% CAGR over the next three years
+Company aspiration: "our goal is to be a durable double-digit revenue growth company over
+the long term"
+On growth levers: "we are being prudent in the contribution we are seeing from each
+[volume, mix, price] in our long-term expectations"
+
+=== ANALYST Q&A THEMES ===
+Brad Zelnick (Deutsche Bank): Is FY27 the bottom of a J-curve or a structural shift from AI
+  competition? Goodarzi defended the reset as offense, citing prior periods when a
+  focused share strategy delivered double-digit DIY customer growth and 20%+ business growth.
+Raimo Lenschau (Barclays): Pressed on the GBS long-term guide cut from 15%-20% to 10%-15%.
+Arjun Bhatia (William Blair): Could re-acceleration slip to FY2028? Goodarzi declined to
+  commit to a timeline, preferring quarterly execution.
+Karl Keirstead / UBS (McGinnis): Probed the customer-growth slowdown; Goodarzi cited ~7%
+  TAM penetration and QuickBooks Free/Lite proof points.
+Siti Panigrahi (Mizuho): Asked whether guidance embeds conservatism vs. real market pressure.
+
+=== STOCK REACTION ===
+Aug 25 regular session close: $357.46 (-3.37% from $369.92)
+Aug 25 after-hours: to ~$320.60 / $326.39 (approx. -9% to -10% after hours)
+Aug 26 open: gapped to $322.73 low, recovered to ~$347 by 9:47 a.m. ET

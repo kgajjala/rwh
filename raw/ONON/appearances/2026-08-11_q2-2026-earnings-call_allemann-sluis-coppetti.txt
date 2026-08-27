@@ -1,0 +1,72 @@
+SOURCE CAPTURE — On Holding Q2 2026 earnings call
+Date: August 11, 2026, 8:00 a.m. ET
+Cross-checked across two independent transcripts per CLAUDE.md Rule #18:
+  https://www.fool.com/earnings/call-transcripts/2026/08/11/on-onon-q2-2026-earnings-call-transcript/
+  https://www.investing.com/news/transcripts/earnings-call-transcript-on-holding-shares-sink-19-after-strong-q2-2026-growth-93CH-4852006
+Trade-press write-up: https://sgbonline.com/exec-on-holding-faces-u-s-wholesale-growing-pains/
+Captured: 2026-08-27
+
+PARTICIPANTS
+- Liv Radlinger, Head of Investor Relations
+- David Allemann, Founder & Co-CEO        (prepared remarks + Q&A)
+- Frank Sluis, CFO                        (prepared remarks + Q&A)
+- Caspar Coppetti, Founder & Co-CEO       (Q&A only)
+
+PREPARED REMARKS — VERBATIM
+Sluis:    "Spring/Summer '27 orders for Cloudsurfer 3 from these retailers doubling
+           after the event."
+Allemann: "Early in June, we hosted our inaugural On Running Summit in Paris,
+           bringing together our top 100 global run specialty partners."
+Allemann: "In Paris, we also previewed our spring summer 2027 collection, featuring
+           Surreal foam technology in the Cloudsurfer 3 and the Cloudsurfer Max 2."
+Allemann: "We will begin scaling the Cloudsurfer 3, our first shoe with our new
+           Surreal superfoam, in October with Run Specialty Partners."
+Allemann: "We are deliberately engineering for the multi-decade value of a premium
+           brand."
+Allemann: "We do not create exclusivity through artificial scarcity or hype. We
+           scale by bringing superior technology, engineering, unique design, and
+           cultural relevance to millions of consumers, capturing market share while
+           fiercely protecting our margins."
+Allemann: "We choose not to build in-channel inventory that could compromise our
+           full price integrity. This commitment, discipline, and focus on driving
+           high-value accretive growth will continue into the second half of the year."
+Allemann: "In wholesale, the sell-out of some of our everyday running franchises
+           tracked below our ambitions in a highly promotional multi-brand
+           marketplace, particularly in the Americas."
+Sluis:    "With sellouts softer in some of our everyday running franchises in a
+           highly promotional environment, we chose to hold back sell-in rather than
+           ship volume that would build inventory in the channel and put our full
+           price integrity at risk."
+Sluis:    "Discipline earns the margin, and the margin funds the future."
+Sluis:    "Strong growth and premium execution can absolutely go hand-in-hand."
+
+Q&A — VERBATIM
+Coppetti: "In D2C, we are seeing strong growth ahead of our expectation in each
+           region. It is really a positive momentum that is driven by overall brand
+           heat and brand demand."
+Coppetti: "In a wholesale channel, of course, you're more exposed to a very
+           promotional environment. It's more of a choice that you have."
+Coppetti: "We have a very clean marketplace. We have innovation resonating very well."
+Coppetti: [wholesale actions are] "transitory"
+Coppetti: "All everyday running franchises will update to new foams and technologies
+           within 14 months."
+Sluis:    "Attending our inaugural Global Run Summit in Paris and spending time with
+           our retail partners..."
+Sluis:    [inventory growth] "has been primarily volume-led... FX rates have
+           increased the value of inventory."
+
+INVENTORY — RECONCILIATION
+- CHF 472.9M at June 30, 2026
+- +12.7% vs. December 31, 2025 (year-end base — the figure management leads with)
+- +31% year-over-year (the figure the trade press led with)
+Both are correct on different bases.
+
+ANALYST QUESTIONS
+Jay Sole (UBS) — industry growth sustainability
+Jonathan Komp (Baird) — channel divergence
+Aubrey Tianello (BNP Paribas) — revenue guidance changes
+Paul Lejuez (Citi) — wholesale sell-through trends
+
+CAPITAL ALLOCATION
+No share-buyback statement in either transcript. Q2 capex CHF 28.2M (retail +
+infrastructure).

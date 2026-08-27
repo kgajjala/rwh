@@ -1,33 +1,33 @@
 # ONON — On Holding AG
 
 > **Schema**: v3.0
-> **Last Updated**: 2026-08-19
+> **Last Updated**: 2026-08-27
 > **Status**: Active
-> **Live Price Verified**: **$31.18** at August 19, 2026, 11:18 AM EDT ([Yahoo Finance](https://finance.yahoo.com/quote/ONON/); 52-wk range $30.11 – $51.08, –39.0% from high, +3.6% off a fresh low set post-Q2)
+> **Live Price Verified**: **$29.10** at August 27, 2026, 1:18 PM EDT ([Yahoo Finance](https://finance.yahoo.com/quote/ONON/); 52-wk range $28.55 – $51.08, –43.0% from high, +1.9% off a fresh low)
 > **Ticker Type**: Premium consumer brand / DTC + wholesale athletic footwear
 
 ---
 
 ## Summary
 
-- 🟢 **Thesis**: Q2 delivered a **record 65.4% gross margin** and a *raised* margin guide alongside a **cut revenue guide** — because On deliberately choked its own US wholesale sell-in rather than discount into a promotional multi-brand marketplace. The market read that as demand destruction and took the stock down 22%; the gross-margin direction says otherwise. Two co-founders answered by buying **$4.0M** three days later.
-- 🟢 **Non-holder: Initiate** · 🟢 **Holder: Add** — PW EV $55.50 (5-yr, +78%); R/R ≈8.7:1, mechanically flattered by a spot that has already fallen most of the way to the bear case.
+- 🟢 **Thesis**: Q2 delivered a **record 65.4% gross margin** and a *raised* margin guide alongside a **cut revenue guide** — because On deliberately choked its own US wholesale sell-in rather than discount into a promotional multi-brand marketplace. The market read that as demand destruction and took the stock down 22%; the gross-margin direction, and the wholesale partners' own forward orders (§3), both say otherwise. Two co-founders answered by buying **$4.0M** three days later.
+- 🟢 **Non-holder: Initiate** · 🟢 **Holder: Add** — PW EV $55.50 (5-yr, +91%); R/R ≈13.6:1, mechanically flattered by a spot now only 14% above the bear case.
 
 | 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|---|
-| $30.11 – $51.08 | **$31.18** (~5th) | $25 | $28–42 | $56 / **$55.50** | $56–85 | $85 | **≈8.7:1** |
+| $28.55 – $51.08 | **$29.10** (~2nd) | $25 | $28–42 | $56 / **$55.50** | $56–85 | $85 | **≈13.6:1** |
 
 | BAIT | Moat | FY26E P/E | EV/EBITDA FY26E | Short Int. | Next Catalyst |
 |---|---|---|---|---|---|
-| Triple (B-Strong, A/I-Mod-Strong) | Narrow | ≈22.1× | ≈11.2× | 8.81% | 📅 **Q3, ~Nov 2026** |
+| Triple (B-Strong, A/I-Mod-Strong) | Narrow | ≈20.6× | ≈10.4× | 8.81% | 📅 **Cloudsurfer 3 scaling, Oct 2026** |
 
-- 🟢 **Why**: Gross margin *rose* 390bps to a record 65.4% and the GM guide went **up** to ≥65% in the same release that cut revenue — pricing power is not what broke
-- 🟢 **Why**: DTC +34.3% c-c to a record **45.7% of sales**, APAC +54.7% c-c, apparel +56.2%, accessories +102% — every channel On controls directly accelerated
+- 🟢 **Why**: Gross margin *rose* 390bps to a record 65.4% and the GM guide went **up** to ≥65% in the same release that cut revenue, while every channel On controls directly accelerated — DTC +34.3% c-c to a record **45.7% of sales**, APAC +54.7%, apparel +56.2%, accessories +102%. Pricing power is not what broke
+- 🟢 **Why**: **Spring/Summer 2027 orders for the Cloudsurfer 3 doubled** from the top-100 run-specialty partners after On's June summit (§3) — the same wholesale channel whose sell-in was cut bought *more* forward inventory, which demand destruction does not do
 - 🟢 **Why**: Second founder buying cluster in three months — Coppetti and Bernhard each took 65,000 shares at $30.67 on Aug 14, at a *lower* price than May's $36.64; **Outsider grade upgraded to Outsider-leaning** (§4)
 - ⚠️ **Why not**: The trigger was "softer sell-out in everyday running franchises" in the Americas — cutting sell-in is partly a *consequence* of real demand softness, not purely a choice
 - ⚠️ **Why not**: **Inventory +31% YoY against +13.5% reported sales** — the one number genuinely inconsistent with a fully controlled position
 - ⚠️ **Why not**: First guide cut of the public era spent real credibility, and management has made FY2027 a binary on a product cycle (Cloudsurfer 3, Cloudflow relaunch) not yet in market
-- 📅 **Next read**: **Q3 2026 earnings (~November)** — the single test is whether gross margin holds ≥65% while inventory normalizes
+- 📅 **Next read**: **Cloudsurfer 3 scaling with run-specialty partners (October)** — the first sell-out read on the cycle the wholesale cut was made for; then **Q3 earnings (~November)**, where the test is whether gross margin holds ≥65% while inventory normalizes
 
 ---
 
@@ -51,13 +51,13 @@ Everything turns on this. If it is discipline, On has just done deliberately and
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| Live Price | **$31.18** | August 19, 2026, 11:18 AM EDT ([Yahoo Finance](https://finance.yahoo.com/quote/ONON/)) |
+| Live Price | **$29.10** | August 27, 2026, 1:18 PM EDT ([Yahoo Finance](https://finance.yahoo.com/quote/ONON/)) |
 | 52-Week High | $51.08 | Post-Q1 rally (May 2026) |
-| 52-Week Low | **$30.11** | Set post-Q2, August 2026 |
-| % From 52-Wk High | –39.0% | |
-| % Above 52-Wk Low | +3.6% | |
-| Market Cap | ≈$10.42B | Down from ≈$12.63B on August 6 |
-| Enterprise Value | ≈$9.8B *[Estimate]* | Net cash ≈$0.6B |
+| 52-Week Low | **$28.55** | Set August 2026, post-Q2 |
+| % From 52-Wk High | –43.0% | |
+| % Above 52-Wk Low | +1.9% | |
+| Market Cap | ≈$9.73B | Down from ≈$10.42B on August 19 |
+| Enterprise Value | ≈$9.1B *[Estimate]* | Net cash ≈$0.6B |
 | **Q2 2026 Net Sales** | **CHF 850.3M** | +13.5% reported; **+21.6% constant currency**; missed ≈CHF 878M consensus |
 | **Q2 2026 Gross Margin** | **65.4%** | **+390bps YoY — record quarter**, above the ≥64.5% guide |
 | Q2 2026 Adj. EBITDA | CHF 168.1M | 19.8% margin (+160bps); down from Q1's 21.0% |
@@ -70,13 +70,13 @@ Everything turns on this. If it is discipline, On has just done deliberately and
 | Q2 APAC | CHF 170.5M | +43.1% reported / **+54.7% c-c** |
 | Q2 Apparel / Accessories | CHF 54.2M / CHF 14.5M | **+56.2% c-c** / **+102.2% c-c** |
 | H1 2026 Net Sales | CHF 1,682.2M | +14.0% reported; **+24.0% c-c**; GM 64.8%; adj. EBITDA margin 20.3% |
-| Inventory | **+31% YoY** ⚠️ | "Primarily volume-led," FX additive *[Management]* |
+| Inventory | **CHF 472.9M** ⚠️ | **+31% YoY**; +12.7% vs. Dec 31, 2025 — "primarily volume-led," FX additive *[Management]* |
 | Cash | **CHF 1,205.6M** | +18% from CHF 1,019.9M at year-end 2025 — record |
 | 2026 Guide: c-c Revenue Growth | **"low-20% range"** | **Cut from ≥23%** — implies CHF 3.47–3.56B *[Management guidance]* |
 | 2026 Guide: Gross Margin | **≥65.0%** | **Raised from ≥64.5%** *[Management guidance]* |
 | 2026 Guide: Adj. EBITDA Margin | 19.5–20% | Maintained; **excludes any H2 tariff-refund benefit** — potential upside |
-| Forward P/E (FY2026E) | ≈22.1× | FY26E EPS $1.41 *[Analyst consensus]* ([stockanalysis.com](https://stockanalysis.com/stocks/onon/forecast/)) |
-| Forward P/E (FY2027E) | **≈18.6×** | FY27E EPS $1.68 *[Analyst consensus]* |
+| Forward P/E (FY2026E) | ≈20.6× | FY26E EPS $1.41 *[Analyst consensus]* ([stockanalysis.com](https://stockanalysis.com/stocks/onon/forecast/)) |
+| Forward P/E (FY2027E) | **≈17.3×** | FY27E EPS $1.68 *[Analyst consensus]* |
 | Short Interest | **8.81%** of float | 19.82M shares (Jul 31 settlement — pre-print); down from 9.45% on Jul 15 ([ChartExchange](https://chartexchange.com/symbol/nyse-onon/short-interest/)) |
 | Insider Buying | 🟢 **$4.0M** (Aug 14) | Coppetti + Bernhard, 65,000 shares each at $30.67 — second cluster in 3 months |
 | Analyst Consensus | **Buy** | 16 Strong Buy / 7 Buy / 4 Hold / 1 Strong Sell (28 analysts) |
@@ -205,11 +205,12 @@ Management expects DTC to continue growing ahead of wholesale. **Apparel crossed
 
 This is the pivotal question (above) in operational form, and it deserves the evidence laid out rather than summarised.
 
-**What On did.** Wholesale net sales grew just **+12.7% c-c** in Q2, against **+25.1% c-c** in Q1 — roughly halved in a single quarter. Management states this was deliberate: sell-in was cut to protect full-price integrity, concentrated in the **US market**, in response to what CFO Frank Sluis called a "highly promotional multi-brand marketplace." The stated purpose is to enter 2027 with clean channel inventory ahead of a product cycle that includes Cloudsurfer 3, Cloudsurfer Max 2 and a Cloudflow relaunch. Sluis confirmed the revenue guide cut is "indeed linked to wholesale actions taken in Q2 and Q3," and guided Q3 growth below Q4 as the actions continue.
+**What On did.** Wholesale net sales grew just **+12.7% c-c** in Q2, against **+25.1% c-c** in Q1 — roughly halved in a single quarter. Management states this was deliberate: sell-in was cut to protect full-price integrity, concentrated in the **US market**, in response to what CFO Frank Sluis called a "highly promotional multi-brand marketplace." The stated purpose is to enter 2027 with clean channel inventory ahead of a product cycle that includes Cloudsurfer 3, Cloudsurfer Max 2 and a Cloudflow relaunch — a cycle On had already walked its top-100 wholesale partners through in Paris six weeks earlier (§9). Sluis confirmed the revenue guide cut is "indeed linked to wholesale actions taken in Q2 and Q3," and guided Q3 growth below Q4 as the actions continue.
 
 **What management said.** Sluis: *"We do not compromise our full-price integrity for volume – even in the heavily promotional environment we saw this quarter in some markets."* Co-CEO Caspar Coppetti on the price architecture — $160 entry, $200–210 mid, $300+ premium — added that *"lowering prices is not part of the premium brand's playbook,"* citing strong demand at the top of the range (Cloudmonster Hyper, LightSpray at up to $290). Co-CEO David Allemann framed the quarter as proof *"that a brand can achieve global scale without compromising its premium brand positioning."*
 
 **Evidence the decision is genuine discipline:**
+- **The wholesale partners bought *more*, not less.** At On's inaugural [On Running Summit](https://press.on-running.com/on-unveils-next-era-of-performance-innovation-and-reveals-sensation-first-run-brand-identity) in Paris (June 26–28), the company previewed the SS27 collection to its **top 100 global run-specialty partners** — and CFO Frank Sluis disclosed on the Q2 call that **Spring/Summer 2027 orders for the Cloudsurfer 3 doubled from those retailers after the event**. This is the single most discriminating datapoint available before Q3: the same channel whose Q2 sell-in was cut placed double the forward orders on the product the cut was made for. A channel rejecting the brand does not do that. It does not prove sell-out recovers, but it does establish that the sell-in reduction was a timing decision the retailers were party to, not a demand verdict imposed on On.
 - **Gross margin went the wrong way for the bear case.** A brand losing pricing power discounts to clear, and margin compresses. On's expanded 390bps to a record 65.4%, *and* the full-year GM guide was raised in the same release that cut revenue. That combination is very difficult to fake.
 - **DTC accelerated as wholesale decelerated.** +34.3% c-c against +12.7%. If the *brand* were weakening, the channel On fully controls — no retailer intermediation, no promotional pressure — would weaken too. It did the opposite, to a record 45.7% mix.
 - **The weakness is geographically contained.** APAC +54.7% c-c, EMEA +20.5%. Only the Americas, where the US multi-brand promotional environment lives, decelerated sharply.
@@ -221,7 +222,7 @@ This is the pivotal question (above) in operational form, and it deserves the ev
 - **"Everyday running" is the core, not the fringe.** The softness is in the volume franchises that carry the brand, not in an experimental line.
 - **The 2027 pipeline is a promise, not a result.** Deferring the payoff to an unlaunched product cycle is the oldest move in consumer brands, and it is unfalsifiable until it ships.
 
-**The honest read**: both are true, and they are not contradictory. US everyday-running demand genuinely softened in a promotional market; On responded by protecting price instead of volume. That is the correct response, and it is a materially better position than Nike occupied in 2022–2023, when the same channel dynamics were met with discounting (see [NKE §3](../NKE/NKE.md)). What On has *not* yet demonstrated is that the trade pays off — and the discriminating evidence is specific and arrives in one quarter: **does gross margin hold ≥65% while inventory growth converges toward sales growth?** If yes, this was discipline and the 2027 cycle launches into a clean channel. If margin slips or inventory stays 25%+ above sales growth, the discipline framing was cover for demand deterioration and the bear case is live.
+**The honest read**: both are true, and they are not contradictory. US everyday-running demand genuinely softened in a promotional market; On responded by protecting price instead of volume. That is the correct response, and it is a materially better position than Nike occupied in 2022–2023, when the same channel dynamics were met with discounting (see [NKE §3](../NKE/NKE.md)). The doubled SS27 order book materially raises the odds this was the former, because it is the one piece of evidence that comes from the counterparties rather than from management. What On has *not* yet demonstrated is that the trade pays off at the *consumer* level — retailer orders are a bet on sell-out, not sell-out itself — and the discriminating evidence is specific and arrives in one quarter: **does gross margin hold ≥65% while inventory growth converges toward sales growth?** If yes, this was discipline and the 2027 cycle launches into a clean channel. If margin slips or inventory stays 25%+ above sales growth, the discipline framing was cover for demand deterioration and the bear case is live.
 
 ### Competitive Landscape
 
@@ -253,11 +254,13 @@ This is the pivotal question (above) in operational form, and it deserves the ev
 
 ## Section 4 — Management & Leadership
 
-**Marc Aurel Breu (CEO 2022–2026, CFO until 2022)**: Brought institutional discipline to what had been a founder-driven commercial build. Gross margin expansion from 56% to 63% under his CFO + CEO tenure is the clearest evidence of operational credibility. Departed as CEO effective March 2026; transitioned to advisory role.
+**David Allemann + Caspar Coppetti (Co-founders; Co-CEOs effective May 1, 2026)**: Announced [March 25, 2026](https://investors.on-running.com/news/news-details/2026/On-Co-Founders-to-Lead-Next-Chapter-of-Growth-as-Co-CEOs/default.aspx), effective May 1. Both continue as Executive Co-Chairmen of the Board. Allemann has led brand and design since founding — the *"We are not following trends; we are co-creating culture"* framing is his. Coppetti has led commercial strategy. Allemann's stated rationale: *"The best time to elevate your game is when you are already breaking your own records."* The structure returns the brand's two design/commercial architects to the operating role at a time when On is scaling into apparel, APAC, and lifestyle — precisely the vectors that require brand integrity above operational efficiency, and the Q2 wholesale decision (§3) is the first major test of that instinct. Market initially sold off on transition uncertainty.
 
-**David Allemann + Caspar Coppetti (Co-founders, now Co-CEOs effective ≈March 2026)**: Allemann has led brand and design since founding — the *"We are not following trends; we are co-creating culture"* framing is his. Coppetti has led commercial strategy. The co-CEO transition brings the brand's two design/commercial architects back to the top role at a time when On is scaling into apparel, APAC, and lifestyle — precisely the growth vectors that require brand integrity above operational efficiency. Market initially sold off on transition uncertainty.
+**Martin Hoffmann (CEO to May 1, 2026; CFO 2013–2025)**: Joined as CFO, became Co-CEO alongside Marc Maurer, then **sole CEO effective July 1, 2025** on Maurer's departure. Stepped down as CEO effective May 1, 2026 after 13 years; remains an advisor through **March 2027**. The gross-margin build from ≈56% to 62.8% (FY2025) sits under his CFO-then-CEO tenure and is the clearest evidence of the operational discipline the founders inherited.
 
-**Martin Hoffmann (CFO, departing mid-2026)**: Served as CFO and interim co-CEO (alongside Marc Maurer in the prior structure). Long tenure; the 2026 guidance call was delivered under his watch. **Incoming CFO Frank Sluis** joins May 2026 — a transition that introduces short-term execution opacity on financial planning and capital-allocation signaling.
+**Marc Maurer (Co-CEO 2013–2025)**: Departed June 30, 2025 after 12 years, having scaled On from challenger brand to listed global premium sportswear; advised the Board until March 2026. His exit began the two-step transition that ended with the founders in the chair.
+
+**Frank Sluis (CFO, effective May 1, 2026)**: Delivered his first full guidance reset on the Q2 call. ⚠️ CEO and CFO turned over on the *same day* at a company scaling from CHF 3B toward CHF 5B+, which is what makes the Q2 guide cut harder to read than it would otherwise be — a new CFO resetting a predecessor's number is a different signal than an incumbent cutting his own.
 
 **Olivier Bernhard (Co-founder, advisory)**: The technical athlete-founder; still active in product development. The garden-hose prototype origin story remains the R&D DNA.
 
@@ -277,7 +280,7 @@ This is the pivotal question (above) in operational form, and it deserves the ev
 
 ### Recent Management Commentary — Primary Source Synthesis
 
-ONON is a **Pattern C issuer** for shareholder letters: the company does not publish standalone annual shareholder letters in the Berkshire/DoorDash sense. Management communication surfaces primarily through (a) the quarterly earnings press releases and calls, (b) the 20-F annual report, and (c) occasional investor day presentations. The Q4 earnings call is the closest analog to an annual management framework statement. Verbatim quotes below are sourced from the [Q4 2025 Earnings Call (March 3, 2026)](https://www.fool.com/earnings/call-transcripts/2026/03/03/on-holding-onon-q4-2025-earnings-call-transcript/).
+ONON is a **Pattern C issuer** for shareholder letters: no standalone annual letter in the Berkshire/DoorDash sense. Management communication surfaces through (a) quarterly earnings releases and calls, (b) the 20-F annual report, (c) trade-press interviews, and (d) — new in 2026 — a company-run partner summit. The Q4 earnings call remains the closest analog to an annual framework statement. **The most valuable disclosure of the last 90 days was off the earnings script**: the June Paris summit and the Footwear News interview that followed it (§9) both pre-dated the Q2 print and both framed the wholesale decision before it was announced. Attributions below name the venue, and prepared remarks are distinguished from Q&A.
 
 #### Verbatim quotes mapped to investment relevance
 
@@ -291,11 +294,15 @@ ONON is a **Pattern C issuer** for shareholder letters: the company does not pub
 
 - **[Allemann, Q4 2025 Earnings Call, March 3, 2026](https://www.fool.com/earnings/call-transcripts/2026/03/03/on-holding-onon-q4-2025-earnings-call-transcript/)** — APAC inflection: *"We ranked top five on Tmall for footwear over $140"* and *"in-store traffic in China more than doubled."* → **Investment relevance**: China premium footwear is an aspirational market where Swiss/European brand provenance commands a significant premium. Top-5 Tmall ranking at $140+ price point validates that ONON's premium positioning translates into the Chinese consumer context, not just Western markets.
 
-- **[Frank Sluis, CFO, Q2 2026 Earnings Call, August 11, 2026](https://ca.investing.com/news/company-news/on-holding-ag-onon-q2-2026-earnings-call-highlights-record-dtc-growth-and-strategic--4792795)** — the quarter's defining statement: *"We do not compromise our full-price integrity for volume – even in the heavily promotional environment we saw this quarter in some markets."* → **Investment relevance**: the no-discount policy moved from stated principle to demonstrated behaviour under live pressure, at a quantified cost — a cut revenue guide and a 22% single-day drawdown. Everything in §3 turns on whether this is what it says it is.
+- **[Frank Sluis, CFO — Q2 2026 call, prepared remarks, August 11, 2026](https://www.fool.com/earnings/call-transcripts/2026/08/11/on-onon-q2-2026-earnings-call-transcript/)** — the disclosure that matters most: *"Spring/Summer '27 orders for Cloudsurfer 3 from these retailers doubling after the event."* → **Investment relevance**: buried in prepared remarks on a day the stock fell 22%, and the only Q2 datapoint sourced from the *counterparties* rather than from management's own framing. It is the strongest available evidence that the sell-in cut was a timing decision the channel agreed to (§3).
 
-- **[Caspar Coppetti, Co-CEO, Q2 2026 Earnings Call](https://ca.investing.com/news/company-news/on-holding-ag-onon-q2-2026-earnings-call-highlights-record-dtc-growth-and-strategic--4792795)** — price architecture: entry *"$160,"* mid *"$200-$210,"* premium *"towards $300 or above,"* with *"lowering prices is not part of the premium brand's playbook."* → **Investment relevance**: management is defending the *top* of the range (Cloudmonster Hyper, LightSpray to $290) while the softness sits in entry-tier everyday running. That is the healthier half of the ladder to be strong in, and it is why gross margin expanded while volume slowed.
+- **[Sluis — Q2 2026 call, prepared remarks](https://www.fool.com/earnings/call-transcripts/2026/08/11/on-onon-q2-2026-earnings-call-transcript/)** — the wholesale decision in his own words: *"With sellouts softer in some of our everyday running franchises in a highly promotional environment, we chose to hold back sell-in rather than ship volume that would build inventory in the channel and put our full price integrity at risk,"* and *"Discipline earns the margin, and the margin funds the future."* → **Investment relevance**: the no-discount policy moved from stated principle to demonstrated behaviour under live pressure, at a quantified cost — a cut revenue guide and a 22% single-day drawdown. Note the honesty of the construction: he names softer sell-out as the *trigger*, not merely a strategic choice.
 
-**What this means for the thesis**: management communication consistently reinforces three themes — brand-as-culture (justifies no-discount discipline), operational maturity (air freight + planning = gross margin runway), and conservative guidance philosophy (tariff assumptions baked in = upside from resolution; the Q2 guide explicitly *excludes* any H2 tariff-refund benefit). Q2 2026 was the first quarter in which the first theme cost real money, and management paid it — then two co-founders bought $4.0M three days later, 16% below their May purchases. Across two clusters, ≈$10.6M of discretionary buying is the co-founders' capital-backed answer to both the leadership-transition question and now the channel-strategy question.
+- **[David Allemann, Co-CEO — Q2 2026 call, prepared remarks](https://www.fool.com/earnings/call-transcripts/2026/08/11/on-onon-q2-2026-earnings-call-transcript/)** — *"We do not create exclusivity through artificial scarcity or hype. We scale by bringing superior technology, engineering, unique design, and cultural relevance to millions of consumers, capturing market share while fiercely protecting our margins."* → **Investment relevance**: pre-empts the obvious bear reading that On is managing to scarcity. The claim is scale *and* margin, which is exactly the combination Q3 will test.
+
+- **[Caspar Coppetti, Co-CEO — Q2 2026 call, Q&A](https://www.fool.com/earnings/call-transcripts/2026/08/11/on-onon-q2-2026-earnings-call-transcript/)** — on channel divergence: *"In a wholesale channel, of course, you're more exposed to a very promotional environment. It's more of a choice that you have,"* against DTC where *"we are seeing strong growth ahead of our expectation in each region."* He called the actions *"transitory"* and committed to a cadence: *"All everyday running franchises will update to new foams and technologies within 14 months."* → **Investment relevance**: the 14-month commitment is a falsifiable, dated promise made under questioning rather than in script — the cleanest thesis-break clock on the page.
+
+**What this means for the thesis**: management communication consistently reinforces three themes — brand-as-culture (justifies no-discount discipline), operational maturity (air freight + planning = gross margin runway), and conservative guidance philosophy (tariff assumptions baked in = upside from resolution; the Q2 guide explicitly *excludes* any H2 tariff-refund benefit). The 90-day appearance record adds a fourth, and it is the one that bears on §3: **the wholesale reset was messaged to partners and press in June and July, before it was messaged to shareholders in August**. Coppetti recommitted publicly to run specialty at the Paris summit and again in Footwear News on July 7 — while the softer everyday-running sell-out that triggered the cut was already visible internally. That sequencing is consistent with a planned channel reset and inconsistent with a panic response to a bad quarter. Q2 2026 was the first quarter in which the brand-as-culture theme cost real money, and management paid it — then two co-founders bought $4.0M three days later, 16% below their May purchases. Across two clusters, ≈$10.6M of discretionary buying is the co-founders' capital-backed answer to both the leadership-transition question and now the channel-strategy question.
 
 ---
 
@@ -309,11 +316,11 @@ ONON is a **Pattern C issuer** for shareholder letters: the company does not pub
 
 4. **Tennis platform**: Świątek (#1 WTA) + Shelton (top-10 ATP) + Draper give ONON credible court presence. Tennis-shoe SKUs (The Roger Clubhouse, etc.) create premium lifestyle crossover. The on-court category is small but carries outsized brand-signal value relative to revenue.
 
-5. **The 2027 innovation cycle — now the thesis's load-bearing initiative**: management explicitly cut FY2026 wholesale sell-in to clear the channel for it (§3), which converts the pipeline from optionality into obligation. Rollouts inside the next ~14 months: **Cloudsurfer 3, Cloudsurfer Max 2, and a Cloudflow relaunch**, refreshing the everyday-running franchises where sell-out softened. New technologies: **CloudTec Steel**, **Helion HF superfoam**, **Surreal foam**, with Cloudboom Strike 2 claiming a 1.6% running-economy improvement. Q3 2026 already carries Cloud X 5 and Cloudrunner Max. Alongside these: LightSpray (3D-sprayed uppers), Cyclon (subscription/circular concept), and Cloudwander (hiking crossover). **Risk framing**: On has spent guidance credibility to buy this launch window — if the 2027 franchises do not re-accelerate everyday running, there is no second lever.
+5. **The 2027 innovation cycle — now the thesis's load-bearing initiative**: management explicitly cut FY2026 wholesale sell-in to clear the channel for it (§3), which converts the pipeline from optionality into obligation. The cycle is closer than "2027" implies: Allemann confirmed On *"will begin scaling the Cloudsurfer 3, our first shoe with our new Surreal superfoam, in **October** with Run Specialty Partners"* — i.e. this year, into the channel just cleared. Coppetti committed on the same call that **all everyday-running franchises update to new foams and technologies within 14 months**. Rollouts: **Cloudsurfer 3, Cloudsurfer Max 2, and a Cloudflow relaunch**, refreshing the franchises where sell-out softened. New technologies: **CloudTec Steel**, **Helion HF superfoam**, **Surreal foam**, with Cloudboom Strike 2 claiming a 1.6% running-economy improvement. Q3 2026 already carries Cloud X 5 and Cloudrunner Max. Alongside these: LightSpray (3D-sprayed uppers), Cyclon (subscription/circular concept), and Cloudwander (hiking crossover). The partner-side vote is already in (§3). **Risk framing**: On has spent guidance credibility to buy this launch window — if the franchises do not re-accelerate everyday running, there is no second lever. The October Cloudsurfer 3 scaling means the first read arrives at Q3, not in 2027.
 
 6. **Hiking + outdoor lifestyle**: Cloudwander + Cloudaway + Cloudventure positioned in trail/hike segment. The Hoka-vs-On battle for trail running premium is still open. APAC mountain culture (Japan, Korea, China) gives ONON a natural trial base for trail/hike.
 
-7. **Football expansion**: Co-founder Bernhard told Bloomberg (June 2026) that On plans to expand into football — aligns with JP Morgan's "more multi-dimensional growth strategy" framing. No formal partnership announced.
+7. **Football expansion**: Co-founder Olivier Bernhard told Bloomberg (June 2026, interview) that On plans to expand into football — aligns with JP Morgan's "more multi-dimensional growth strategy" framing. No formal partnership announced.
 
 8. **CleanCloud sustainability**: Commercially launched CleanCloud midsole in Cloud X 5 (July 2026) — first commercially scaled sportswear midsole made from captured carbon emissions (Infinium eNaphtha supply). Sustainability differentiation for premium brand narrative.
 
@@ -325,10 +332,10 @@ ONON is a **Pattern C issuer** for shareholder letters: the company does not pub
 |------|--------|-------------|-----------|-------|
 | ⚠️ U.S. tariff escalation (Asia footwear sourcing) | High | 50% | Largely yes (–41% drawdown reflects this) | 2026 guidance assumes 20% tariff. Each additional 10pts of tariff = ≈50bps gross margin drag *[Estimate]*. Vietnam + China are primary sourcing countries exposed. Some mitigation via price increases already executed and further pricing optionality. |
 | ⚠️ Swiss franc strength persists | Medium | 60% | Partially | ≈800bps reported-revenue drag in FY2025. CHF is the functional currency; USD, EUR revenues converted back create permanent headwind when CHF is strong. No natural hedge; FX management is passive. **Not fully priced in**: consensus often headlines reported figures; constant-currency growth of 35.6% vs. 30% reported is a persistent analytical distortion. |
-| ⚠️ Leadership transition execution risk | Medium | 25% ↓ | Partially | Co-CEO structure (Allemann + Coppetti) replacing single CEO (Breu) announced March 2026. Simultaneous CFO transition (Hoffmann out, Sluis in, May 2026). Both changes at once at a company scaling from CHF 3B toward CHF 5B+ introduces execution noise. **Not priced in at current levels**: market sold off on announcement but recovery since then is limited — risk premium remains elevated. |
-| ⚠️ **Inventory build outruns demand** | High | 45% | **Not priced in** | Inventory **+31% YoY** against +13.5% reported sales growth (Q2 2026). Management calls it "primarily volume-led" pre-building for the 2027 launch cycle. If Q3 does not converge inventory growth toward sales growth, the only ways out are discounting — which breaks the moat claim in §3 — or write-downs. **This is now the single most important number on the page.** [NEW in Q2 2026] |
+| ⚠️ Leadership transition execution risk | Medium | 25% ↓ | Partially | Co-CEO structure (Allemann + Coppetti) replaced sole CEO Martin Hoffmann effective May 1, 2026 (announced March 25), with the CFO handover to Frank Sluis on the **same day**. Two seat changes at once at a company scaling from CHF 3B toward CHF 5B+ introduces execution noise, and it is why the first guide cut of the public era is harder to read than it would be from an incumbent CFO. **Not priced in at current levels**: market sold off on announcement but recovery since then is limited — risk premium remains elevated. |
+| ⚠️ **Inventory build outruns demand** | High | 45% | **Not priced in** | Inventory **+31% YoY** against +13.5% reported sales growth (Q2 2026). Management calls it "primarily volume-led" pre-building for the 2027 launch cycle. Absolute inventory is CHF 472.9M, +12.7% vs. Dec 31, 2025 — the sequential base is far calmer than the YoY headline, and the SS27 order book (§3) gives the build a destination. Neither disposes of the risk: if Q3 does not converge inventory growth toward sales growth, the only ways out are discounting — which breaks the moat claim in §3 — or write-downs. **This is still the single most important number on the page.** [NEW in Q2 2026] |
 | ⚠️ **US everyday-running sell-out weakness persists** | High | 40% | Partially | The stated trigger for the wholesale cut was softer consumer sell-out in core everyday-running franchises in the Americas, in a "highly promotional multi-brand marketplace." Americas decelerated to +13.0% c-c from +17.1%. If this is category-level rather than product-cycle, the 2027 refresh will not fix it. [NEW in Q2 2026] |
-| ⚠️ 2027 product cycle under-delivers | High | 30% | Not priced in | Management has made FY2027 a binary on Cloudsurfer 3 / Cloudsurfer Max 2 / Cloudflow relaunch by clearing the channel for them (§5). No second lever if they land flat. [NEW in Q2 2026] |
+| ⚠️ 2027 product cycle under-delivers | High | 30% | Not priced in | Management has made the next cycle a binary on Cloudsurfer 3 / Cloudsurfer Max 2 / Cloudflow relaunch by clearing the channel for them (§5). No second lever if they land flat. Partly mitigated: the partner order book doubled after the June preview (§3), and October scaling pulls the first evidence into Q3/Q4 rather than 2027. [NEW in Q2 2026] |
 | ⚠️ ~~DTC deceleration / promotional environment~~ | — | — | — | ✅ **Partially de-risked 2026-08-11**: the specific feared pattern was gross-margin compression alongside DTC mix gains — "the wrong kind of DTC." Q2 delivered the opposite: DTC mix rose to a record 45.7% *with* gross margin at a record 65.4%, and the no-discount policy held under live promotional pressure. |
 | ⚠️ Athletic footwear category fade | High | 15% | Not priced in | Long-cycle risk: premium running / athleisure penetration in the U.S. is elevated. Historical brand cycles (Nike 1980s, Reebok 1990s, DECK's UGG) suggest 8–12 year leadership windows. ONON is ≈6 years into its current cycle. Low probability but would be catastrophic if it materialized. |
 | ⚠️ Hoka / competitive share recapture | Medium | 25% | Yes | Hoka at similar price points and accelerating in trail running. Nike defending premium running (Pegasus 41/Vaporfly). No identified moat that prevents consumer multi-homing. |
@@ -357,21 +364,21 @@ ONON is a **Pattern C issuer** for shareholder letters: the company does not pub
 
 ## Section 8 — Valuation & Comparable Analysis
 
-### Current Multiples (August 19, 2026 — $31.18 / ≈$10.42B market cap / ≈$9.8B EV)
+### Current Multiples (August 27, 2026 — $29.10 / ≈$9.73B market cap / ≈$9.1B EV)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| P/E (TTM) | 21.5× | TTM EPS $1.45 ([Yahoo Finance](https://finance.yahoo.com/quote/ONON/)) |
-| **Forward P/E (FY2026E)** | **≈22.1×** | FY26E EPS $1.41 *[Analyst consensus]* — estimates cut from $1.81 post-Q2 |
-| **Forward P/E (FY2027E)** | **≈18.6×** | FY27E EPS $1.68 *[Analyst consensus]* |
-| **EV/EBITDA (FY2026E)** | **≈11.2×** | ≈$9.8B EV ÷ ≈$878M EBITDA (19.75% margin on CHF 3.52B at ≈1.265 CHF/USD) *[Estimate]* |
-| EV/Revenue (FY2026E) | ≈2.2× | On ≈$4.45B FY26E revenue *[Estimate]* |
+| P/E (TTM) | ≈20.1× | TTM EPS $1.45 ([Yahoo Finance](https://finance.yahoo.com/quote/ONON/)) |
+| **Forward P/E (FY2026E)** | **≈20.6×** | FY26E EPS $1.41 *[Analyst consensus]* — estimates cut from $1.81 post-Q2 |
+| **Forward P/E (FY2027E)** | **≈17.3×** | FY27E EPS $1.68 *[Analyst consensus]* |
+| **EV/EBITDA (FY2026E)** | **≈10.4×** | ≈$9.1B EV ÷ ≈$878M EBITDA (19.75% margin on CHF 3.52B at ≈1.265 CHF/USD) *[Estimate]* |
+| EV/Revenue (FY2026E) | ≈2.0× | On ≈$4.45B FY26E revenue *[Estimate]* |
 
 ### Peer Comparables
 
 | Company | Revenue growth | Gross Margin | EV/EBITDA (FY26E) | Read vs. ONON |
 |---------|----------------|--------------|-------------------|------------------------|
-| **ONON** | +21.6% c-c (Q2) | **65.4%** | **≈11.2×** | — |
+| **ONON** | +21.6% c-c (Q2) | **65.4%** | **≈10.4×** | — |
 | **DECK (Hoka+UGG)** | ≈mid-teens | ≈55% blended | ≈16× | ONON now trades at a **~30% discount** on faster growth and 1,000bps more gross margin |
 | **NKE (Nike)** | ≈flat, China –13% c-c | ≈44% | ≈16× | ONON cheaper than a business in its eighth quarter of China decline (see [NKE](../NKE/NKE.md)) |
 | **LULU (Lululemon)** | Slowing (+mid-single) | ≈57% | ≈15× | ONON cheaper on multiples with roughly 4× the growth rate |
@@ -379,9 +386,9 @@ ONON is a **Pattern C issuer** for shareholder letters: the company does not pub
 
 *Sources: [stockanalysis.com](https://stockanalysis.com/stocks/onon/statistics/); peer figures from company filings and *[Analyst consensus]* FY2026 estimates.*
 
-**Valuation assessment**: the de-rating is the story. At **≈11.2× forward EV/EBITDA** ONON trades in Skechers-adjacent territory while running a 65.4% gross margin and low-20s constant-currency growth — a combination the multiple has never previously reflected. On every relative measure the stock is now cheaper than DECK, NKE and LULU despite better growth *and* the best gross margin in the peer set. That gap is not a mispricing claim on its own: it is what the market charges for a company that just cut guidance for the first time and is carrying inventory up 31%. The multiple is pricing the bear reading of §3. If Q3 confirms the discipline reading, there is no obvious reason ONON should trade at a discount to a slower, lower-margin DECK.
+**Valuation assessment**: the de-rating is the story. At **≈10.4× forward EV/EBITDA** ONON trades in Skechers-adjacent territory while running a 65.4% gross margin and low-20s constant-currency growth — a combination the multiple has never previously reflected. On every relative measure the stock is now cheaper than DECK, NKE and LULU despite better growth *and* the best gross margin in the peer set. That gap is not a mispricing claim on its own: it is what the market charges for a company that just cut guidance for the first time and is carrying inventory up 31%. The multiple is pricing the bear reading of §3. If Q3 confirms the discipline reading, there is no obvious reason ONON should trade at a discount to a slower, lower-margin DECK.
 
-**Historical multiple context**: ONON traded at 25–40× forward EBITDA at prior highs. ≈11.2× is **below** the prior "historical floor" of ~17×, putting the stock outside its entire post-IPO valuation range.
+**Historical multiple context**: ONON traded at 25–40× forward EBITDA at prior highs. ≈10.4× is **below** the prior "historical floor" of ~17×, putting the stock outside its entire post-IPO valuation range, and it has kept de-rating in the week since the print with no new company news.
 
 ---
 
@@ -389,11 +396,11 @@ ONON is a **Pattern C issuer** for shareholder letters: the company does not pub
 
 ### Live Price & Positioning
 
-- **Price**: $31.18 (August 19, 2026, 11:18 AM EDT) — [Yahoo Finance](https://finance.yahoo.com/quote/ONON/); day range $30.98–$31.68
-- **52-week range**: **$30.11** – $51.08 (new low set after the Q2 print)
-- **% from 52-wk high**: –39.0% | **% above 52-wk low**: +3.6%
-- **Market cap**: ≈$10.42B
-- 📉 **–22% on August 11** — shares opened down ≈20% and closed near the lows on the revenue miss and guide cut, then drifted to a fresh 52-week low. The stock is –17.7% since the August 6 baseline and has now given back the entire post-Q1 rally and more
+- **Price**: $29.10 (August 27, 2026, 1:18 PM EDT) — [Yahoo Finance](https://finance.yahoo.com/quote/ONON/); –$0.13 (–0.44%) on the day
+- **52-week range**: **$28.55** – $51.08 (low re-set lower since the Q2 print)
+- **% from 52-wk high**: –43.0% | **% above 52-wk low**: +1.9%
+- **Market cap**: ≈$9.73B
+- 📉 **–22% on August 11** — shares opened down ≈20% and closed near the lows on the revenue miss and guide cut. The drift has continued: **–6.7% since the August 19 baseline** and a fresh 52-week low at $28.55, with no company news in the window. The stock has given back the entire post-Q1 rally and more, and now sits only **16% above the $25 bear case** (§11)
 
 ### Analyst Consensus (as of August 19, 2026)
 
@@ -440,19 +447,38 @@ ONON is a **Pattern C issuer** for shareholder letters: the company does not pub
 - **[2026-08-13] [Analyst]** 🔴 — Raymond James downgrades Strong Buy → Outperform, $52→$38
 - **[2026-08-11] [Earnings — Q2 2026]** ⚠️🟢 — Net sales CHF 850.3M (+21.6% c-c) **missed** ≈CHF 878M consensus; **gross margin a record 65.4%**; DTC +34.3% c-c to a record 45.7% of sales; wholesale +12.7% c-c after a deliberate sell-in cut; adj. EPS CHF 0.35 vs. CHF 0.34. **Guidance: revenue cut to low-20s c-c, gross margin raised to ≥65%, EBITDA margin held at 19.5–20%.** Stock –22% ([On IR](https://press.on-running.com/on-reports-results-for-the-second-quarter-and-six-month-period-ended-june-30-2026))
 - **[2026-08-11] [Analyst]** 🔴 — William Blair downgrades Buy → Hold
+- **[2026-07-07] [Management Appearance]** 🟢 — Coppetti exclusive interview, Footwear News / WWD — run-specialty commitment, "The Movement Class" consumer framing (see Management Appearances below)
+- **[2026-07-03] [Product / Channel]** 🟢 — On publishes the [Paris summit release](https://press.on-running.com/on-unveils-next-era-of-performance-innovation-and-reveals-sensation-first-run-brand-identity): "Run On Clouds" identity, SS27 preview, LightSpray second facility near Busan (opened April 2026)
 - **[2026-07-02] [Analyst]** — J.P. Morgan resumed coverage Overweight ($51) with a **Positive Catalyst Watch** into Q2 — subsequently wrong on the top line
 - **[2026-07-XX] [Product]** — CleanCloud captured-carbon midsole commercially launched in Cloud X 5
+- **[2026-06-26] [Management Appearance]** 🟢 — Inaugural On Running Summit, Paris; top 100 global run-specialty partners; SS27 preview (see Management Appearances below)
 - **[2026-05-14] [Insider Cluster]** 🟢 — All three co-founders bought 180K shares (≈$6.6M) at ≈$36.64
+
+### Management Appearances (Last 90 Days)
+
+*Window: 2026-05-29 → 2026-08-27. Swept per Rule #18: IR events page, financial-media interviews, podcasts, conference transcripts.*
+
+- **[2026-06-26 → 06-28] [Company summit — Paris]** 🟢 — **Inaugural On Running Summit**, La Gaîté Lyrique, Paris. **Caspar Coppetti and David Allemann** hosted **200+ attendees including On's top 100 global run-specialty partners**, international media and elite athletes. Unveiled the *"Run On Clouds"* sensation-first brand identity (Soft / Support / Energy / Speed), CloudTec Sphere geometry, Helion HF midsole (15% lighter, 20% softer), the curved carbon Speedboard, Cloudboom Strike 2, and a preview of the SS27 Cloudsurfer 3 / Cloudsurfer Max 2 with SURREAL foam. **Off-script disclosure**: Coppetti — *"Our specialty retail partners are essential to On… our commitment to our key partners is stronger than ever."* Said six weeks **before** shareholders were told wholesale sell-in was being cut (§4) ([On press release, July 3](https://press.on-running.com/on-unveils-next-era-of-performance-innovation-and-reveals-sensation-first-run-brand-identity); [local capture](../../../raw/ONON/appearances/2026-06-26_on-running-summit-paris_coppetti-allemann.txt))
+- **[2026-07-07] [Trade-press interview]** 🟢 — **Coppetti**, exclusive to **Footwear News / WWD**, conducted at Zurich HQ during the late-June summit tour: *"At the very core, On is an innovation company. And as consumers become even more intentional on where they spend…"* Frames a target segment — **"The Movement Class"** — and reaffirms commitment to run specialty. Five weeks pre-print, Coppetti publicly describes the consumer condition behind the Q2 wholesale action (§4). ⚠️ *Partial capture — [wwd.com](https://wwd.com/footwear-news/shoe-features/on-ceo-caspar-coppetti-interview-running-market-concerns-1239056606/) is paywalled (HTTP 402); text taken from the [Yahoo Finance syndication](https://finance.yahoo.com/markets/stocks/articles/tapping-movement-class-why-running-193041922.html), which truncates. Full quotes not obtained* ([local capture](../../../raw/ONON/appearances/2026-07-07_footwear-news-interview_coppetti.txt))
+- **[2026-08-11] [Earnings call]** ⚠️🟢 — **Q2 2026 call**: Liv Radlinger (IR), **David Allemann** (Co-CEO, prepared + Q&A), **Frank Sluis** (CFO, prepared + Q&A), **Caspar Coppetti** (Co-CEO, **Q&A only**). Sluis's prepared remarks carried the SS27 order-book disclosure (§3) — absent from the press release. Coppetti in Q&A committed to a **14-month refresh of every everyday-running franchise** (§4) and called the wholesale actions *"transitory."* Cross-checked across [Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/08/11/on-onon-q2-2026-earnings-call-transcript/) and [Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-on-holding-shares-sink-19-after-strong-q2-2026-growth-93CH-4852006) transcripts plus [SGB Media](https://sgbonline.com/exec-on-holding-faces-u-s-wholesale-growing-pains/) ([local capture](../../../raw/ONON/appearances/2026-08-11_q2-2026-earnings-call_allemann-sluis-coppetti.txt))
+
+**Explicit negatives** (checked, nothing found — per Rule #18, an unstated absence is indistinguishable from an unchecked one):
+
+- ⚠️ **No earnings-day broadcast interview.** Searched CNBC, Bloomberg and Yahoo Finance video for August 11. **No CEO or CFO television appearance surfaced** on a day the stock fell 22% with the first guide cut of the public era. For a management team that had spent June and July talking publicly, choosing not to defend the print on camera is itself a datapoint — read it either as discipline (let the numbers stand) or as avoidance. Third-party commentary only: Jim Cramer, *"Take a Pass"* ([Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-holding-pass-153449913.html))
+- **No podcast appearances in window.** The Coppetti [Swisspreneur](https://www.swisspreneur.org/podcast/caspar-coppetti-ep108) episode (Nov 2020) and the Bernhard [CITIUS Mag](https://citiusmag.com/podcast/citius-mag-podcast-olivier-bernhardt) episode both long pre-date the window
+- **No broker-conference fireside in window.** On's last was the **2026 ICR Conference (Jan 12, 2026)** — delivered by then-CEO Martin Hoffmann, who has since left the role. ⚠️ The [IR events page](https://investors.on-running.com/events/default.aspx) renders its calendar via JavaScript and returned no parseable entries; **no forward-scheduled appearance could be confirmed**. The founders have not yet appeared at a broker conference in the co-CEO structure
 
 ### Upcoming Catalysts
 
 | Date | Event | Why It Matters |
 |------|-------|----------------|
 | 📅 **~November 2026** | **Q3 2026 earnings** | **The resolution point.** Does gross margin hold ≥65% while inventory growth converges toward sales growth? Management has pre-guided Q3 growth *below* Q4 as the wholesale actions continue |
+| 📅 **October 2026** | **Cloudsurfer 3 begins scaling with Run Specialty Partners** | Pulls the first hard read on the 2027 cycle into **Q3/Q4, not 2027** — sell-out on the SURREAL-foam flagship is the earliest test of whether the doubled order book converts |
 | 📅 **~late August 2026** | August 15 short-interest settlement | First post-print read on whether bears covered into –22% or pressed |
 | 📅 **H2 2026** | Tariff refunds | Guidance **excludes** any H2 tariff-refund benefit — a realised refund is straight upside to the EBITDA guide |
 | 📅 **2027** | Cloudsurfer 3 / Cloudsurfer Max 2 / Cloudflow relaunch | The product cycle the channel was cleared for (§5); the payoff on the wholesale trade |
 | Ongoing | Americas everyday-running sell-out | Whether the softness is product-cycle or category-level |
+| 📅 **~January 2027** | **ICR Conference** *[Estimate — not yet announced]* | On has attended annually; would be the founders' **first broker-conference appearance as co-CEOs**. No forward appearance is currently confirmed on the [IR events page](https://investors.on-running.com/events/default.aspx) |
 | Ongoing | Corporate buyback authorization | Record CHF 1.21B cash + founders buying personally = the natural moment; would move the Outsider grade (§4) |
 
 ---
@@ -475,7 +501,7 @@ The August 14 insider cluster is high-quality, low-latency information: two foun
 
 ### T — Technical: **Weak**
 
-- Fresh 52-week low of $30.11; the entire post-Q1 rally from $36 → $51 has round-tripped and broken through
+- Fresh 52-week low of **$28.55**; the entire post-Q1 rally from $36 → $51 has round-tripped and broken through, and the drift has continued on no news
 - Below both founder purchase prices ($36.64 May, $30.67 August) — the August level is the only remaining anchor and it is barely holding
 - Short interest 8.81% pre-print; post-print positioning unknown until the August 15 settlement publishes
 - No buyback, no mechanical bid, and nothing hard until Q3 in ~November
@@ -488,9 +514,9 @@ The August 14 insider cluster is high-quality, low-latency information: two foun
 
 ## Section 11 — Bull / Bear / Base Cases
 
-*All scenarios are 5-year terminal prices (FY2030) vs. the current $31.18. Probabilities sum to 100%.*
+*All scenarios are 5-year terminal prices (FY2030) vs. the current $29.10. Probabilities sum to 100%. Targets and probabilities are unchanged from the August 19 set — only the spot-anchored percentages below move.*
 
-### 🟢 Bull Case — $85 by FY2030 (+173% from $31.18, ≈22% CAGR) — **Probability: 25%**
+### 🟢 Bull Case — $85 by FY2030 (+192% from $29.10, ≈24% CAGR) — **Probability: 25%**
 
 - Net sales CHF 6.5B+ (CAGR ≈15% c-c); the 2027 cycle (Cloudsurfer 3, Cloudflow relaunch) re-accelerates everyday running into a clean channel
 - Gross margin 66–67% as DTC passes 50% and the wholesale reset compounds into permanently better full-price mix
@@ -498,7 +524,7 @@ The August 14 insider cluster is high-quality, low-latency information: two foun
 - Multiple re-rates to 20–22× EBITDA once the market accepts the Q2 decision as margin architecture rather than demand
 - The revenue base is lower than the pre-Q2 path, but a structurally higher-margin business on a smaller top line lands close to the same terminal earnings
 
-### 🟡 Base Case — $56 by FY2030 (+80% from $31.18, ≈12% CAGR) — **Probability: 50%**
+### 🟡 Base Case — $56 by FY2030 (+92% from $29.10, ≈14% CAGR) — **Probability: 50%**
 
 - Net sales CHF 5.3–5.8B (CAGR ≈12–14% c-c); apparel 10–12% of mix
 - Gross margin holds 65–66% — the Q2 guide raise proves durable, which is the central Base assumption
@@ -506,7 +532,7 @@ The August 14 insider cluster is high-quality, low-latency information: two foun
 - Multiple ≈16–18× EBITDA, at parity with DECK rather than the current ~30% discount
 - The 2027 cycle stabilises everyday running without re-accelerating it to prior rates; growth normalises toward mid-teens
 
-### 🔴 Bear Case — $25 by FY2030 (–20% from $31.18, ≈–4% CAGR) — **Probability: 25%**
+### 🔴 Bear Case — $25 by FY2030 (–14% from $29.10, ≈–3% CAGR) — **Probability: 25%**
 
 - The Q2 "discipline" framing proves to have been cover: US everyday-running demand was the real constraint, the 2027 refresh lands flat, and growth decelerates to mid-single-digit c-c
 - The +31% inventory build resolves through discounting or write-downs — the no-discount policy breaks, and with it the §3 moat claim
@@ -527,11 +553,11 @@ The August 14 insider cluster is high-quality, low-latency information: two foun
 
 | Current Price | PW EV | 5-Yr Return | Annualized |
 |--------------|-------|------------|-----------|
-| $31.18 | **≈$55.50** | **+78%** | **≈+12.2%/yr** |
+| $29.10 | **≈$55.50** | **+91%** | **≈+13.8%/yr** |
 
-**R/R (Bull / Bear)**: Bull upside = ($85 – $31.18) / $31.18 = **+172.6%**. Bear downside = ($31.18 – $25) / $31.18 = **–19.8%**. **R/R ≈ 8.7:1** — the single canonical figure for this page.
+**R/R (Bull / Bear)**: Bull upside = ($85 – $29.10) / $29.10 = **+192.1%**. Bear downside = ($29.10 – $25) / $29.10 = **–14.1%**. **R/R ≈ 13.6:1** — the single canonical figure for this page.
 
-**Interpretation**: read the R/R carefully. An 8.7:1 ratio looks extraordinary, and almost all of it is a function of where spot sits rather than how good the business is — at $31.18 the stock is already within 20% of its own bear case, which mechanically inflates the ratio. The asymmetry is genuine and it is why the verbs stay constructive, but it is the arithmetic of a stock that has fallen most of the way to its downside scenario, not evidence that the downside shrank. Terminal targets sit slightly below where a pre-Q2 revenue path would have put them, reflecting a smaller top line partly offset by a structurally higher gross margin.
+**Interpretation**: read the R/R carefully, and more carefully than a week ago. A 13.6:1 ratio looks extraordinary, and almost all of it is a function of where spot sits rather than how good the business is — at $29.10 the stock is only **14% above its own bear case**, which mechanically inflates the ratio. The jump from 8.7:1 to 13.6:1 since August 19 reflects **nothing about the business**; the scenario targets did not move, the price did. Treat a rising R/R driven purely by a falling spot as a warning that the bear case is being approached, not as improving odds. The asymmetry is genuine and it is why the verbs stay constructive, but it is the arithmetic of a stock that has fallen most of the way to its downside scenario, not evidence that the downside shrank. Terminal targets sit slightly below where a pre-Q2 revenue path would have put them, reflecting a smaller top line partly offset by a structurally higher gross margin.
 
 The ≈$42 consensus median (§9) sits well below PW EV, as it should — sell-side targets are 12-month and the 2027 product cycle that the entire wholesale trade was made for falls outside that window by construction.
 
@@ -539,13 +565,13 @@ The ≈$42 consensus median (§9) sits well below PW EV, as it should — sell-s
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: On cut its own US wholesale shipments rather than discount into a promotional market, and posted a **record 65.4% gross margin** with a *raised* margin guide in the same release that cut its revenue guide — the market sold that 22% as demand destruction, two co-founders bought $4.0M three days later at 16% below their May purchases, and the whole thesis now reduces to one Q3 test: does gross margin hold ≥65% while a 31% inventory build normalizes?
+**Thesis in one sentence**: On cut its own US wholesale shipments rather than discount into a promotional market, and posted a **record 65.4% gross margin** with a *raised* margin guide in the same release that cut its revenue guide — the market sold that 22% as demand destruction, but the top-100 run-specialty partners whose shipments were cut **doubled their Spring/Summer 2027 Cloudsurfer 3 orders**, two co-founders bought $4.0M three days later at 16% below their May purchases, and the whole thesis now reduces to one Q3 test: does gross margin hold ≥65% while a 31% inventory build normalizes?
 
-**For a non-holder**: 🟢 **Initiate** — at $31.18 the stock trades at ≈11.2× FY26E EBITDA, below its entire post-IPO range and at a ~30% discount to a slower, lower-margin DECK. R/R ≈8.7:1, with the caveat that the ratio is flattered by proximity to the bear case. Founder purchases at $30.67 mark the level. Size for the possibility that Q3 goes the other way.
+**For a non-holder**: 🟢 **Initiate** — at $29.10 the stock trades at ≈10.4× FY26E EBITDA, below its entire post-IPO range and at a widening discount to a slower, lower-margin DECK. R/R ≈13.6:1, with the sharp caveat (§12) that the ratio improved only because spot fell to within 14% of the bear case. Spot is now **below both founder purchase prices** ($36.64 May, $30.67 August). Size for the possibility that Q3 goes the other way.
 
-**For a current holder**: 🟢 **Add** — incremental adds in the **$28–36 zone** are favored, at or near where the founders bought. The margin evidence supports adding; the inventory number argues for keeping capacity until Q3 resolves it.
+**For a current holder**: 🟢 **Add** — incremental adds in the **$28–36 zone** are favored; spot sits inside it and below both founder marks. The margin evidence and the partner order book (§3) support adding; the inventory number argues for keeping capacity until Q3 resolves it.
 
-🎯 **Attractive entry zone**: **$28 – $42** — a 25% margin of safety to the $55.50 PW EV; spot sits near the bottom of the range and below both founder purchase prices.
+🎯 **Attractive entry zone**: **$28 – $42** — a 25% margin of safety to the $55.50 PW EV; spot sits near the **bottom** of the range and below both founder purchase prices. ⚠️ Note the range is nearly exhausted to the downside: below $28 the stock is trading at the bear case, which is a re-underwrite, not a bargain.
 
 🎯 **Trim zone**: **$56 – $85** — at or above PW EV, where the Q2 decision is priced as vindicated but the Bull case is not yet proved.
 
@@ -558,11 +584,13 @@ The ≈$42 consensus median (§9) sits well below PW EV, as it should — sell-s
 - ⚠️ Constant-currency growth falls below 15% for two consecutive quarters (loosened from 18% to reflect the deliberate FY2026 sell-in reduction; below 15% would exceed what the wholesale action alone explains)
 - ⚠️ DTC growth decelerates below 20% c-c — the channel On controls is the cleanest read on brand health
 - ⚠️ The 2027 franchises (Cloudsurfer 3, Cloudsurfer Max 2, Cloudflow) launch without re-accelerating everyday running
+- ⚠️ **The doubled SS27 order book is revised down, or Q3 discloses wholesale order cancellations** — the partner-side evidence in §3 is the load-bearing support for the discipline reading; if it reverses, the demand reading wins
+- ⚠️ **Coppetti's 14-month franchise-refresh commitment slips** — a dated, on-record promise made in Q&A (§4), and the cleanest falsifier management has given
 - ⚠️ Short interest crosses 15% of float with deteriorating fundamentals
 - ⚠️ U.S. tariff rate exceeds 35% without offsetting price execution
 - ⚠️ Founder selling, or the absence of further buying on any subsequent decline
 
-📅 **Next review trigger**: **Q3 2026 earnings (~November 2026)** — the resolution point for the §3 question. In priority order: (1) **gross margin vs. the ≥65% guide**, (2) **inventory growth vs. sales growth**, (3) Americas everyday-running sell-out trend, (4) wholesale sell-in trajectory and whether the cuts are complete, (5) DTC mix durability above 45%, (6) any tariff-refund recognition, (7) post-print short interest. Interim signal: the **August 15 short-interest settlement**, and any corporate buyback authorization (§4).
+📅 **Next review trigger**: **Q3 2026 earnings (~November 2026)** — the resolution point for the §3 question. In priority order: (1) **gross margin vs. the ≥65% guide**, (2) **inventory growth vs. sales growth**, (3) Americas everyday-running sell-out trend, (4) wholesale sell-in trajectory and whether the cuts are complete, (5) DTC mix durability above 45%, (6) any tariff-refund recognition, (7) post-print short interest. Interim signals: **October Cloudsurfer 3 scaling with run-specialty partners** — the first sell-out read on the new cycle and now the earliest test of the wholesale trade; the **August 15 short-interest settlement**; any corporate buyback authorization (§4); and the founders' first broker-conference appearance in the co-CEO structure (§9).
 
 ---
 
@@ -572,6 +600,11 @@ The ≈$42 consensus median (§9) sits well below PW EV, as it should — sell-s
 - [On Holding Q1 2026 Earnings Call Transcript (Investing.com)](https://www.investing.com/news/transcripts/earnings-call-transcript-on-holding-ag-q1-2026-shows-record-sales-growth-93CH-4681109)
 - [On Holding Q4 2025 Earnings Call Transcript (Motley Fool, 2026-03-03)](https://www.fool.com/earnings/call-transcripts/2026/03/03/on-holding-onon-q4-2025-earnings-call-transcript/)
 - [Yahoo Finance — ONON Quote](https://finance.yahoo.com/quote/ONON/)
+- [On Running Summit — press release, July 3 2026](https://press.on-running.com/on-unveils-next-era-of-performance-innovation-and-reveals-sensation-first-run-brand-identity) · [local capture](../../../raw/ONON/appearances/2026-06-26_on-running-summit-paris_coppetti-allemann.txt)
+- [Footwear News / WWD — Coppetti interview, July 7 2026](https://wwd.com/footwear-news/shoe-features/on-ceo-caspar-coppetti-interview-running-market-concerns-1239056606/) *(paywalled)* · [Yahoo syndication](https://finance.yahoo.com/markets/stocks/articles/tapping-movement-class-why-running-193041922.html) · [local capture](../../../raw/ONON/appearances/2026-07-07_footwear-news-interview_coppetti.txt)
+- [Q2 2026 earnings call — Motley Fool transcript](https://www.fool.com/earnings/call-transcripts/2026/08/11/on-onon-q2-2026-earnings-call-transcript/) · [Investing.com transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-on-holding-shares-sink-19-after-strong-q2-2026-growth-93CH-4852006) · [local capture](../../../raw/ONON/appearances/2026-08-11_q2-2026-earnings-call_allemann-sluis-coppetti.txt)
+- [On Co-Founders to Lead Next Chapter of Growth as Co-CEOs (March 25, 2026)](https://investors.on-running.com/news/news-details/2026/On-Co-Founders-to-Lead-Next-Chapter-of-Growth-as-Co-CEOs/default.aspx)
+- [On Announces Leadership Evolution (April 2025 — Maurer departure)](https://press.on-running.com/on-announces-leadership-evolution)
 - [stockanalysis.com — ONON Statistics](https://stockanalysis.com/stocks/onon/statistics/)
 - [stockanalysis.com — ONON Analyst Forecast](https://stockanalysis.com/stocks/onon/forecast/)
 - [Finviz — ONON Quote + Analyst Actions](https://finviz.com/quote.ashx?t=ONON)

@@ -1,0 +1,34 @@
+SOURCE CAPTURE — Footwear News / WWD exclusive interview with Caspar Coppetti
+Published: July 7, 2026
+Conducted: On headquarters, Zurich, during the multiday tour/summit of late June 2026
+Headline: "How On Is Tapping Into 'The Movement Class' and Why Running Is at the
+  Center of the Strategy"
+URLs:
+  https://wwd.com/footwear-news/shoe-features/on-ceo-caspar-coppetti-interview-running-market-concerns-1239056606/
+  https://finance.yahoo.com/markets/stocks/articles/tapping-movement-class-why-running-193041922.html (syndication)
+Captured: 2026-08-27
+ACCESS NOTE: wwd.com returns HTTP 402 (tollbit paywall). Content below is from the
+  Yahoo Finance syndication, which is truncated. Full transcript NOT obtained —
+  flagged as a partial capture.
+
+VERBATIM (partial)
+Coppetti: "At the very core, On is an innovation company. And as consumers become
+  even more intentional on where they spend..." [source truncates mid-sentence]
+
+REPORTED SUBSTANCE (not verbatim)
+- Coppetti states On is committed to run specialty stores.
+- Frames a target consumer segment, "The Movement Class" — described as more
+  intentional about where they spend.
+- Discusses the leadership change to the co-CEO structure.
+- Innovation named as the fundamental driver of the expansion trajectory.
+
+CONTEXT FIGURES CITED IN PIECE
+- FY2025 net sales CHF 3.0B, +30% YoY
+- Q1 2026 net sales CHF 800M+, +14.5% reported
+
+INVESTMENT RELEVANCE
+Published July 7 — five weeks BEFORE the Q2 print. Coppetti publicly recommits to
+run specialty and describes a consumer trading more deliberately, while the company
+was already seeing the softer everyday-running sell-out it would disclose on Aug 11.
+The wholesale decision was therefore being framed publicly in advance, not
+improvised in response to the quarter.

@@ -4,6 +4,64 @@
 
 ---
 
+## [2026-08-27] — Rule #18 Appearance Sweep (Retrofit): Doubled SS27 Order Book Recovered; Fabricated CEO Corrected in the Management Record
+
+**Trigger**: Owner asked whether the 2026-08-19 update had considered management's public appearances. It had not — [Rule #18](../../../CLAUDE.md) was broadened to require the public-appearance sweep on 2026-08-26, one week *after* that update. Retrofit run over the full 90-day window (2026-05-29 → 2026-08-27). Date verified via `date -u +%Y-%m-%d`.
+
+**Sources reviewed**:
+- [On Running Summit — company press release, July 3 2026](https://press.on-running.com/on-unveils-next-era-of-performance-innovation-and-reveals-sensation-first-run-brand-identity)
+- [Footwear News / WWD — Coppetti exclusive interview, July 7 2026](https://wwd.com/footwear-news/shoe-features/on-ceo-caspar-coppetti-interview-running-market-concerns-1239056606/) *(HTTP 402 paywall)* · [Yahoo Finance syndication](https://finance.yahoo.com/markets/stocks/articles/tapping-movement-class-why-running-193041922.html)
+- Q2 2026 call, cross-checked per Rule #18: [Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/08/11/on-onon-q2-2026-earnings-call-transcript/) · [Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-on-holding-shares-sink-19-after-strong-q2-2026-growth-93CH-4852006) · [SGB Media](https://sgbonline.com/exec-on-holding-faces-u-s-wholesale-growing-pains/)
+- [On Co-Founders to Lead Next Chapter of Growth as Co-CEOs (March 25, 2026)](https://investors.on-running.com/news/news-details/2026/On-Co-Founders-to-Lead-Next-Chapter-of-Growth-as-Co-CEOs/default.aspx) · [On Announces Leadership Evolution (2025)](https://press.on-running.com/on-announces-leadership-evolution)
+- [On IR events page](https://investors.on-running.com/events/default.aspx) *(JS-rendered; no parseable entries)*
+- [Yahoo Finance — ONON](https://finance.yahoo.com/quote/ONON/) (live price)
+- New local captures: [`raw/ONON/appearances/`](../../../raw/ONON/appearances/) — three files
+
+### What Changed
+
+- **§9 (new)**: `### Management Appearances (Last 90 Days)` subsection added — three appearances plus three explicit negatives
+- **§9 (Appearance 1)**: **Inaugural On Running Summit, Paris, June 26–28** — 200+ attendees including **On's top 100 global run-specialty partners**; Coppetti + Allemann hosting; "Run On Clouds" identity, CloudTec Sphere, Helion HF, SS27 preview
+- **§9 (Appearance 2)**: **Coppetti / Footwear News exclusive, July 7** — run-specialty recommitment and "The Movement Class" framing, five weeks pre-print ⚠️ partial capture only, source paywalled
+- **§9 (Appearance 3)**: **Q2 call, Aug 11** — participants corrected: Allemann + Sluis on prepared remarks, **Coppetti Q&A only**
+- **§9 (Negative)**: ⚠️ **No earnings-day broadcast interview found** on a –22% day — searched CNBC, Bloomberg, Yahoo Finance video. Stated explicitly rather than left silent
+- **§9 (Negative)**: No podcast appearances in window; last were 2020 (Swisspreneur) and earlier (CITIUS Mag)
+- **§9 (Negative)**: No broker-conference fireside in window; last was **ICR January 2026** delivered by since-departed CEO Hoffmann. **No forward appearance confirmable** — IR calendar is JS-rendered
+- **§3 🟢 (material)**: **Spring/Summer 2027 Cloudsurfer 3 orders DOUBLED from the top-100 run-specialty partners after the June summit** — disclosed by CFO Sluis in Q2 prepared remarks, absent from the press release, and missed entirely by the Aug 19 pass. Added as the lead "discipline" evidence: the same channel whose sell-in was cut placed double the forward orders on the product the cut was made for
+- **§3**: Honest-read paragraph revised — the order book is the only Q2 evidence sourced from *counterparties* rather than management; raises odds on the discipline reading. Q3 test (GM ≥65% + inventory convergence) **unchanged**
+- **§4 🔴 (data integrity)**: **"Marc Aurel Breu (CEO 2022–2026)" was a fabricated person and has been removed.** Real record restored: **Marc Maurer** Co-CEO to June 30 2025; **Martin Hoffmann** CFO 2013→Co-CEO→**sole CEO July 1 2025**→stepped down **May 1 2026**, advisor through March 2027
+- **§4**: Co-CEO transition date corrected — **announced March 25, 2026, effective May 1, 2026** (page previously said "≈March 2026")
+- **§4**: Frank Sluis given his own entry — CFO effective **May 1, 2026**, the *same day* as the CEO handover; flagged that a new CFO resetting a predecessor's guide is a different signal than an incumbent cutting his own
+- **§4 (RMC)**: Pattern C framing rewritten to cover appearances; Q2 quotes re-sourced from cross-checked transcripts with **venue + prepared-vs-Q&A attribution**; four new verbatim entries
+- **§4 (RMC)**: New synthesis theme — **the wholesale reset was messaged to partners in June and press in July, before shareholders in August**; sequencing is consistent with a planned reset, not a panic response
+- **§5**: Launch clock corrected — **Cloudsurfer 3 begins scaling in October 2026**, not 2027; Coppetti's **14-month** all-franchise refresh commitment added
+- **§6**: Leadership-transition risk row rewritten on the corrected record (probability held at 25%)
+- **§6**: Inventory risk — absolute figure added (**CHF 472.9M, +12.7% vs. Dec 31 2025** alongside the +31% YoY headline); order book gives the build a destination. Impact/probability **unchanged at High / 45%**
+- **§6**: 2027-cycle risk — partial mitigant noted (doubled orders + October scaling pulls first evidence into Q3/Q4). Probability **unchanged at 30%**
+- **§13**: Two new thesis-break triggers — **SS27 order book revised down or cancellations disclosed**; **Coppetti's 14-month refresh commitment slips**
+- **§13**: Interim signals now lead with **October Cloudsurfer 3 scaling**
+- **Price refresh**: $31.18 → **$29.10** (Aug 27, 1:18 PM EDT); new 52-wk low **$28.55**; mkt cap ≈$9.73B
+- **§8**: EV/EBITDA FY26E ≈11.2× → **≈10.4×**; fwd P/E ≈22.1× → **≈20.6×** FY26E, ≈18.6× → **≈17.3×** FY27E
+- **§11/§12**: Scenario targets and probabilities **unchanged** ($85 / $56 / $25 at 25/50/25); spot-anchored percentages recomputed
+- **§12**: PW EV **$55.50 held**; return vs. spot +78% → **+91%**; R/R 8.7:1 → **13.6:1**, with an explicit warning that the entire improvement is spot-driven and signals *approach to the bear case*, not better odds
+
+### Thesis Status
+
+- **Overall**: 🟢 **Strengthened, modestly and on one specific axis.** The doubled SS27 order book is the first piece of §3 evidence that does not originate with management's own framing — retail partners voted with orders after seeing the product, which demand destruction does not produce. It does not resolve the pivotal question, because retailer orders are a bet on sell-out rather than sell-out itself, and the Q3 test is unchanged. Set against that, the stock has fallen a further 6.7% on no news to a new 52-week low, and the management record on the page was materially wrong until today.
+- **BAIT delta**: **Triple overlap held.** No lens upgraded. The **I (Informational)** lens is the one this sweep vindicates — a load-bearing disclosure sat in prepared remarks, absent from the press release, and went unpriced for 16 days; that is the informational edge the lens claims. Not upgraded further because the edge was available to anyone who read the transcript.
+- **Price target delta**: **None.** Bull $85 / Base $56 / Bear $25 and 25/50/25 all held. PW EV **$55.50** unchanged. Only spot-anchored percentages moved.
+- **Catalyst & Sentiment delta**: Price $31.18 → $29.10 (–6.7%); 52-wk low $30.11 → $28.55; mkt cap ≈$10.42B → ≈$9.73B. Analyst consensus and short interest **not re-verified** in this window — §9 still carries the August 19 readings and is date-stamped as such.
+
+### Recommendation
+
+- **For a non-holder**: 🟢 **Initiate** — verb unchanged, and the case is incrementally better: ≈10.4× FY26E EBITDA, spot now **below both founder purchase prices** ($36.64 May / $30.67 August), with partner-side evidence supporting the discipline reading. Note spot sits near the bottom of the $28–42 entry zone; below $28 is the bear case, which is a re-underwrite rather than a bargain.
+- **For a current holder**: 🟢 **Add** — verb unchanged, **$28–36** zone, spot inside it. The order book and margin evidence support adding; the inventory number still argues for keeping capacity until Q3.
+
+**Next review trigger**: **October 2026 — Cloudsurfer 3 scaling with run-specialty partners** (pulled forward from Q3 earnings; the earliest sell-out read on the cycle the wholesale cut was made for). Then **Q3 2026 earnings (~November)**: (1) gross margin vs. the ≥65% guide, (2) inventory growth vs. sales growth, (3) whether the SS27 order book holds, (4) Americas everyday-running sell-out, (5) DTC mix above 45%.
+
+**Schema note**: this is a Rule #18 retrofit under §15 migration discipline, not a scheduled Workflow B. ONON is the second ticker (after INTU) to carry the appearance sweep; 45 of 47 remain un-swept.
+
+---
+
 ## [2026-08-19] — Q2 2026: Deliberate Wholesale Sell-In Cut to Protect Full-Price Integrity — Record 65.4% GM, Revenue Guide Cut, Stock –22%, Second Founder Buying Cluster
 
 **Trigger**: Q2 2026 earnings (August 11) — the binary this page was pointed at. 13-day lookback (2026-08-06 → 2026-08-19). Owner specifically requested analysis of the announcement around yielding wholesale sales to protect the pricing premium.

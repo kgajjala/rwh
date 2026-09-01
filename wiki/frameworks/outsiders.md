@@ -33,7 +33,7 @@ Add/refresh an Outsider read in the Summary's "Why / Why not" only when a **mate
 
 ---
 
-## Cross-Ticker Scoring (as of 2026-05-31)
+## Cross-Ticker Scoring (as of 2026-09-01)
 
 Anchored on the buyback-timing test, read from each page's §4 capital-allocation block. This table is the authoritative central record; each §4 block is the canonical per-ticker home.
 
@@ -82,6 +82,7 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 | Ticker | Read |
 |---|---|
 | **LOW** | Ellison: 63-yr Dividend King + programmatic (not countercyclical) buybacks — peak repurchases FY2021–22 near COVID highs; FBM acquisition at 13.4× EBITDA at new-construction cycle peak. Impressive per-share execution but anti-Singleton timing pattern; Dividend King archetype confirms Steward. |
+| **DKS** | Hobart / Stack: 12 consecutive years of dividend growth to $5.00/yr and a ~24% share-count reduction FY2021→FY2024 — but the timing is anti-Singleton. The largest buyback year was FY2021 ($1,145M) at COVID-peak prices alongside a $5.50 special dividend, and H1 FY2026 repurchased just **$141M at a $196.38 average** weeks before the stock fell to $124 on the Aug 25 guidance cut — leaving **$3.0B authorized and unused**, with no buyback commentary on the Q2 call. One genuinely Outsider-consistent act offsets: **84% of the $2.5B Foot Locker purchase was funded in stock at ≈$219/share** — issuing expensive currency — though what it bought has consumed $515.8M of charges against an expected $750M. ⚠️ Open test: whether the $3.0B authorization is deployed at ~$133 (≈11.6× earnings). Deploying it would argue Outsider-leaning; declining would confirm Steward. |
 | **PEP** | 54 consecutive dividend increases; ≈7:1 dividends-to-buybacks; Dividend King by definition. |
 | **PG** | 70 consecutive dividend increases; $16B+ annually; programmatic buybacks. Reference archetype for excellent-steward-not-Outsider. |
 | **NKE** | 22+ yr dividend streak; FY22–24 buybacks at mid-cycle prices; Hill's April 2026 $1M personal buy is a positive signal but not institutional countercyclical discipline — and no insider bought the August 2026 12-year low. |

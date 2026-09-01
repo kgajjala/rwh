@@ -1,0 +1,82 @@
+# DICK'S Sporting Goods — Q2 FY2026 Earnings Call, 2026-08-25
+# Speakers: Ed Stack (Executive Chairman), Lauren Hobart (President & CEO), Navdeep Gupta (CFO)
+# Venue: quarterly earnings call. Sources cross-checked per CLAUDE.md Rule #18:
+#   https://www.fool.com/earnings/call-transcripts/2026/09/01/dicks-sporting-goods-dks-q2-2026-earnings-call-transcript/
+#   https://www.investing.com/news/transcripts/earnings-call-transcript-dicks-sporting-goods-q2-2026-results-miss-as-shares-sink-93CH-4875453
+# Stock reaction: -30.7% to $124.31 — worst single-day decline in company history.
+
+## OFF-SCRIPT DISCLOSURES (not in the press release)
+
+- Fast Break: surpassed the ~250-store back-to-school goal; guided to "300 to 350 Fast Break stores
+  globally by year-end."
+- ScoreCard+: new paid loyalty tier — "a paid tier designed for our most engaged athletes who will
+  pay $99 per year for membership." (Hobart)
+- Q3 gross margin pressure characterized as "most pronounced."
+- Promotional environment expected to "remain challenging at least through the fourth quarter." (Stack)
+- NO buyback commentary despite $3.0B remaining authorization and a 30.7% single-day decline.
+- NO timeline given for Foot Locker's return to profitability.
+
+## ED STACK (Executive Chairman)
+
+On the promotional cycle:
+  "The inventory built up across the industry supply chains and across the retail marketplace, which
+   led to an increasingly aggressive promotional environment."
+  "We expect the broader promotional environment, particularly around legacy silhouettes, to remain
+   challenging at least through the fourth quarter."
+
+On EMEA / Foot Locker International:
+  "The industry is carrying too much inventory and the consumer has been even more cautious than
+   expected due to the geopolitical environment."
+
+On demand rotation:
+  "The consumer is looking for products that are new, innovative, different... some of these older
+   legacy silhouettes and franchises that have done so well have slowed."
+  "The footwear business is not going away... the footwear business is going to continue to be
+   extremely important to this industry."
+
+On Fast Break performance:
+  "Fast Break stores have definitely outperformed the traditional legacy stores... north of 300, 350
+   stores by the end of the year globally."
+
+On investing counter-cyclically:
+  "I don't think there's a better time to do this right now when the market is in a bit of turmoil...
+   when things come out the other side, we'll have that market share."
+
+On the turnaround stage:
+  "We're still early in the Foot Locker turnaround... we believe the long-term opportunity at Foot
+   Locker remains strong."
+
+## LAUREN HOBART (President & CEO)
+
+  "Our growth outpaced the broader industry by nearly 200 basis points, reinforcing our ability to
+   strengthen our leadership position and gain market share."
+  "During Q2, we opened 5 House of Sport locations and 8 Field House locations... we expect to open
+   approximately 14 total House of Sport locations and 20 total Field House locations."
+  "We introduced ScoreCard+, a paid tier designed for our most engaged athletes who will pay $99 per
+   year for membership."
+  "Our ScoreCard loyalty program... connects us with approximately 30 million active athletes."
+  "While we are taking a more cautious view of the balance of the year, we remain highly confident in
+   the strength of the DICK'S Business and our long-term opportunity at Foot Locker."
+
+## NAVDEEP GUPTA (CFO)
+
+Guidance bridge:
+  "Consolidated non-GAAP earnings per diluted share in the range of $11 to $12 compared to our prior
+   range of $13.50 to $14.50."
+  "Operating loss for the Foot Locker business in the range of $80 million to $40 million compared to
+   prior expectations of $110 million to $150 million in profit."
+  Full-year Foot Locker proforma comps: "negative 2% to flat compared to... 1.5% to 3% growth."
+
+DICK'S margin:
+  "DICK'S business, gross margin expanded 79 basis points versus last year" — driven by DICK'S Media
+  Network, GameChanger, and tariff refunds offsetting promotional pressure.
+  FY operating margin guide cut to 10.6%-10.9% from 11.0%-11.4%, attributed to a "more promotional
+  marketplace" plus "higher expected fuel prices and supply chain expenses."
+
+Synergies / tariffs:
+  "We remain confident in achieving our previously announced $100 million to $125 million of cost
+   synergies over the medium term."
+  "We received approximately $59 million of tariff refunds... a benefit of approximately $21 million
+   was included in our non-GAAP results for Q2."
+
+Capex: ~$1.4B net for 2026, split roughly 70/30 between DICK'S and Foot Locker.

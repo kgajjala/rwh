@@ -1,493 +1,302 @@
-# CLAUDE.md — kg-invest-wiki Schema (v3.0)
+# CLAUDE.md — kg-invest-wiki Schema (v4.0)
 
-Operating manual for the LLM agent that maintains this wiki. **Read this file at the start of every session before touching `wiki/` or `raw/`.**
+Operating manual for the LLM agent that maintains this wiki. **Read before touching `wiki/` or `raw/`.**
 
 ---
 
 ## 1. What This Wiki Is
 
-A personal, position-agnostic investment knowledge base maintained by an LLM agent. Knowledge compounds from primary sources so every session starts from the latest synthesis, not a blank page.
+A personal, position-agnostic investment knowledge base. Knowledge compounds from primary sources so every session starts from the latest synthesis, not a blank page.
 
-- **Owner**: Karthik G
-- **Started**: April 2026
-- **Schema**: v3.0 (May 2026) — Karpathy LLM Wiki pattern, adapted
+**Owner**: Karthik G · **Started**: April 2026 · **Schema**: v4.0
 
-**The wiki page is the deliverable.** `wiki/tickers/[TICKER]/[TICKER].md` is the single, crisp, non-repetitive analysis surface — kept up to date in place. There is no separate "polished report" and no standalone weekly-summary document; those were retired in v3.0. The page itself, plus its `changelog.md`, is the product.
+**The deliverable is a decision.** `wiki/tickers/[TICKER]/[TICKER].md` answers one question — *what should someone do about this stock, and what would change that answer* — and is kept current in place. Everything on the page either supports that decision or does not belong.
 
-### What this wiki is *not*
-- **Not a portfolio tracker** — it never records what the owner holds.
-- **No position sizing** — no tranche %, position %, target allocation, or stock/options split, anywhere. Price-level *valuation* ranges ("attractive below $140") are allowed; those are valuation, not sizing.
-- **No invented numbers** — every figure traces to a primary source or is tagged `[Estimate]` / `[Analyst consensus]` / `[Management guidance]`.
+**Schema v4.0 is mandatory for all new work.** Every Workflow A ingest and every Workflow B incremental — including a single post-earnings update to a page still written in v3 — produces the v4 page shape in §4. There is no v3 path; if you are writing to a page, you are writing v4.
+
+**Migration is opportunistic, never bulk.** A v3 page migrates to v4 the next time a material event touches it, as part of that update — one page at a time, paid for by work you were doing anyway. Never run a mass migration, and never rewrite a page just to change its format. A quiet week does not migrate a page (it does not touch `[TICKER].md` at all). Until a page is touched, its v3 layout stands and is correct. Mixed v3/v4 pages across the wiki are the expected steady state for months; `git log` is the record of which is which.
+
+**Not**: a portfolio tracker (never records holdings) · position sizing of any kind (price-level *valuation* ranges are fine; tranche/allocation/%-of-portfolio are not) · invented numbers (every figure traces to a primary source or carries `[Estimate]` / `[Analyst consensus]` / `[Management guidance]` / `[Derived]`).
 
 ---
 
 ## 2. Directory Layout
 
 ```
-rwh/  (kg-invest-wiki)
-├── CLAUDE.md                     ← This file. Read before every session.
-├── README.md                     ← Top-level ticker table (Rule #13).
-├── raw/                          ← Immutable source material. NEVER modify.
-│   ├── [TICKER]/
-│   │   ├── filings/              ← 10-K, 10-Q, 8-K, DEF 14A
-│   │   ├── transcripts/          ← Earnings call transcripts
-│   │   ├── press-releases/       ← Earnings + corporate announcements
-│   │   ├── shareholder-letters/  ← CEO/founder letters
-│   │   ├── investor-day/         ← Slide decks, conference presentations
-│   │   └── analyst-reports/      ← User-uploaded PDFs
-│   └── clippings/                ← General articles, not ticker-specific
-└── wiki/                         ← LLM-owned. Write and maintain everything here.
-    ├── index.md                  ← Master ticker catalog.
-    ├── watchlist.md              ← Cross-ticker attractiveness ranking (no allocation).
+rwh/
+├── CLAUDE.md                  ← this file
+├── README.md                  ← ticker table (§8)
+├── raw/[TICKER]/              ← immutable. NEVER modify. Store extracted text, not binaries.
+│   ├── filings/ transcripts/ press-releases/
+│   ├── shareholder-letters/ appearances/ investor-day/ analyst-reports/
+│   └── ../clippings/          ← non-ticker-specific
+└── wiki/
+    ├── index.md               ← catalog (§8)
+    ├── watchlist.md           ← attractiveness ranking (§8)
     ├── tickers/[TICKER]/
-    │   ├── [TICKER].md            ← Single consolidated wiki page (the deliverable).
-    │   └── changelog.md           ← Append-only per-ticker event log.
-    └── frameworks/               ← bait.md, moneyball.md, asset-types.md, outsiders.md
+    │   ├── [TICKER].md        ← the deliverable
+    │   └── changelog.md       ← append-only event log
+    └── frameworks/            ← bait.md, moneyball.md, asset-types.md, outsiders.md
 ```
 
 ---
 
 ## 3. Core Rules
 
-1. **Never modify `raw/`.** Immutable source of truth. Add, never edit.
-2. **Position-agnostic.** Analyze the *company*, not the owner's holdings. Recommendations split into non-holder / holder framings when they diverge.
-3. **No portfolio sizing.** No tranche %, position %, target allocation, or stock/options split. Price-level *valuation* ranges are allowed.
-4. **Always update `index.md`** when adding or substantially changing a wiki page.
-5. **Per-ticker `changelog.md` is the only event log.** Material actions live in the relevant ticker's `changelog.md`; cross-ticker / schema-only events live in commit messages.
-6. **Source from primary sources**: SEC filings, earnings releases, official IR pages, transcripts, conference materials. Non-primary content must be tagged `[Estimate]`, `[Analyst consensus]`, `[Management guidance]`, or `[Source: <name>, <date>]`.
-7. **Live price always verified first.** Fetch from `https://finance.yahoo.com/quote/[TICKER]` before any valuation work. Fall back to CNBC / Google Finance / MarketWatch via web search. Never trust a search-snippet price; click through.
-8. **`changelog.md` is the action layer.** Every wiki update writes a changelog entry stating Thesis Status (Strengthened / Weakened / Unchanged) and an action verb (Initiate / Add / Reduce / Exit / Hold / Avoid).
-9. **Quiet weeks still log.** A weekly run with no material events writes a `[YYYY-MM-DD] — No Material Events` changelog entry with a price / short-interest / analyst-consensus snapshot. This becomes the next week's baseline. (Active tickers only — paused tickers write nothing.)
-10. **Always push to `origin` after every commit.** The remote is the source of truth. Surface push failures to the user and to the affected ticker's `changelog.md` if mid-Workflow-B.
-11. **One wiki page per ticker.** Per-ticker folder contains exactly two files: `[TICKER].md` (header + Summary + Business Overview + Pivotal Question + Key Stats + Sections 1–13) and `changelog.md`. Never create separate `overview.md` / `thesis.md` / `financials.md`; fold any legacy files into `[TICKER].md` on first re-ingest.
-12. **Date discipline.** Before writing any date-stamped artifact (Last Updated, changelog title, weekly snapshot), run `date -u +%Y-%m-%d` via Bash and use the literal result. NEVER infer the date from session memory, prior file contents, or context. When delegating to sub-agents, pass the verified date as a literal string.
-13. **Maintain the README ticker table.** The `## Tickers Covered` table in `README.md` is the top-level entry point.
-    - **Order**: alphabetical by ticker (A → Z, case-sensitive).
-    - **Columns** (exactly 4): `Ticker | Status | Last Updated | Punchline`.
-    - **Ticker**: relative link `[TICKER](wiki/tickers/TICKER/TICKER.md)`.
-    - **Status**: `Active` or `Paused` — mirror the ticker page header (Rule #14).
-    - **Last Updated**: ISO date of the most recent *material* update (NOT row-touched date, NOT quiet weeks).
-    - **Punchline**: 1–2 sentences synthesizing the latest thesis (typically §13 thesis sentence + action verbs). Update on material thesis change; preserve verbatim during quiet weeks.
-    - **Add** a new ingest in alphabetical position; **remove** a delisted/divested/retired ticker (history preserved in git).
-    - **Counter line** (`*N tickers above.*`) directly below the table must reflect the current count.
-14. **Active / Paused ticker status.** Every ticker declares status in the `[TICKER].md` header on a `**Status**: Active` or `**Status**: Paused — since YYYY-MM-DD` line directly below `Last Updated`. README, `index.md`, and `watchlist.md` all read from this, and Workflow B skips Paused tickers. Pause/resume governed by Workflow C.
-    - README and `index.md` include a `Status` column.
-    - `watchlist.md` ranks Active only; Paused tickers move to a "Paused Tickers" footer with pause date.
-    - Quiet week ≠ paused week. Active-quiet writes a `No Material Events` entry; Paused writes nothing.
-15. **All sources must be linked** as real Markdown links — never bare text.
-    - **Absolute URL** for public web (SEC EDGAR, IR pages, news). Link the *specific* document, not the publisher home page.
-    - **Relative path** when the file is stored locally — e.g., `[Q4 2025 PR](../../../raw/[TICKER]/press-releases/2026-02-Q4-results.pdf)`. Prefer relative when the file exists locally.
-    - **Format**: `[Human-readable label](URL-or-path)`. No bare `[Source: ...]` tags.
-    - **Unresolvable**: append `[link pending]` so the next pass can fix it. Never silently drop a citation.
-16. **Visual emphasis & emoji conventions.** Each glyph carries specific meaning — not decorative:
+**R1 — `raw/` is immutable.** Add, never edit. Store extracted `.txt`, not multi-MB PDFs; link the public URL for the original.
 
-    | Emoji | Meaning |
-    |---|---|
-    | 🟢 | Bullish / Strengthened / Initiate / Add |
-    | 🔴 | Bearish / Weakened / Exit / Avoid |
-    | 🟡 | Neutral / Unchanged / Hold / Watch |
-    | ⚠️ | Material risk / warning |
-    | ✅ | De-risked / resolved / delivered (pair with `~~strikethrough~~`) |
-    | 📅 | Date-anchored upcoming catalyst |
-    | 💰 | Capital allocation / buyback / dividend |
-    | 📈 / 📉 | Notable price or metric move (sparing) |
-    | 🎯 | Price target / entry zone / trim zone |
+**R2 — Position-agnostic.** Analyze the company, not the owner's holdings. Recommendations split non-holder / holder only where they diverge.
 
-    **Bold** punchlines and thesis-carrying numbers only. *Italics* for source attributions and meta-tags (*[Estimate]*). No HTML `<span style>` or hex colors — GitHub render gaps.
-17. **Summary block.** `[TICKER].md` opens with a `## Summary` (after header, before Business Overview) in 4 fixed parts. Refresh whenever §13 or §9 changes.
-    1. **Thesis + verbs** — 1–2-sentence thesis, then verb line: `🟢 Non-holder: <verb> · 🟡 Holder: <verb>`.
-    2. **Scenario table** (8 cols): `52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R`. Percentile = LLM judgment. R/R per Rule #24.
-    3. **KPI strip** (6 cells): slot 1 BAIT, slot 2 Moat, slot 3 FY26E P/E (or asset-class primary multiple), slots 4–5 ticker-relevant (FCF yld / Div yld / Short int. / segment KPI / FX, etc.), slot 6 Next catalyst.
-    4. **Why / Why not / Next read** — 3 🟢 Why bullets + 3 ⚠️ Why not bullets, **one bullet per line**, then a single `📅 Next read:` line.
-18. **Management primary sources are required: shareholder letters *and* public appearances.** Management speaks off the earnings script — at broker conferences, on CNBC/Bloomberg, on podcasts — and often discloses strategy, pricing-model and competitive detail that never reaches the press release. Every Workflow A ingest fetches and synthesizes 5 fiscal years of CEO/founder letters; letters take precedence over third-party summaries.
+**R3 — No sizing.** No tranche %, position %, allocation, or stock/options split, anywhere.
 
-    | Pattern | When | Fetch |
-    |---|---|---|
-    | A — Annual letter publishers | Standalone annual letter (typ. Feb–Mar) | 5 letters (1/year × 5 yrs) |
-    | B — Quarterly letter publishers | Letter to Shareholders with each quarterly print | All 4 letters × 5 yrs (up to 20). Q4 = primary annual-wrap weight. Min first ingest: 5 Q4 + 3 most-recent quarterly = 8. |
-    | C — No standalone letter | Chairman's Letter in annual report or DEF 14A introductory letter | 5 letters; if neither exists, log gap in §4 and rely on transcripts |
+**R4 — Primary sources, verified.** SEC filings, earnings releases, IR pages, transcripts. Non-primary content carries a tag (R above). **Verify live price before any valuation work** — [Yahoo Finance](https://finance.yahoo.com/quote/) first, then CNBC / Google Finance / MarketWatch. Never trust a search snippet; click through. Same for any number that moves the decision.
 
-    Sub-5-year coverage: fetch all letters since IPO. Storage: `raw/[TICKER]/shareholder-letters/YYYY_letter.pdf` named by *fiscal year covered*.
+**R5 — Every source is a real Markdown link.** `[Human-readable label](url-or-relative-path)`, pointing at the *specific* document. Relative path when stored locally, absolute when public. Unresolvable → append `[link pending]`. Never a bare `[Source: …]` tag.
 
-    **Public appearances — required sweep, every Workflow A ingest and every Workflow B lookback window.** Check, in this order: (a) the company's **IR events/calendar page** (broker conferences, fireside chats, investor days — this is also how you confirm *upcoming* appearances and retire stale ones from prior years); (b) **financial-media interviews** (CNBC/Bloomberg/Yahoo Finance), especially the earnings-day CEO/CFO hit, which routinely reframes the print; (c) **podcasts and non-financial appearances** (tech/industry shows, founder interviews) where CEOs speak least guardedly; (d) **conference transcripts** (Seeking Alpha, Investing.com, company webcast replays). Fetch the transcript or a substantive write-up, never a headline alone. Storage: `raw/[TICKER]/appearances/YYYY-MM-DD_<venue>_<who>.txt`.
+**R6 — Date discipline.** Run `date -u +%Y-%m-%d` before writing any date-stamped artifact. Never infer today's date from context or file contents.
 
-    **Earnings-call prepared remarks are part of this sweep.** When the IR prepared-remarks PDF will not parse, do **not** settle for a single secondary transcript — cross-check at least two independent transcripts plus one trade-press write-up. Secondary transcripts truncate, and pricing-model / product / partnership disclosures are what they drop.
+**R7 — State once.** *(replaces v3 rules 20, 21, 22, 26)*
+- Every fact has exactly one home. Elsewhere it is **referenced in a clause**, never re-explained. Canonical homes: price/range → header · multiples, scenarios, PW EV, R/R → §4 · sentiment, analysts, insiders, short interest → §6 · capital allocation + Outsider grade → §3 · the argument → The Call.
+- **Synthesis, not transcription.** A verbatim quote must earn its place — use one only where paraphrase would weaken it. Never a chronological table of source extracts where 2–3 sentences would do.
+- **No schema mechanics on the page.** No references to this file, no "corrected from" / "prior framing" / "previously we said". Git is the audit trail.
+- **Budget: ≤1,500 words of prose** for a full page (tables and source lists excluded), **≤200 words** for a Workflow B update block. Calibrated against a real page, not aspiration — below ~1,200 the argument starts losing the evidence that makes it credible. Tables must earn their place — a table with one meaningful row is a sentence.
+- **Closing audit, required**: scan for any thesis-carrying *claim* — a figure, a rate, a named risk, a valuation multiple — appearing more than twice, and collapse the extras to a reference. Proper nouns are exempt: naming an initiative, a segment or a person in three places is not duplication, **restating what it proves is**.
 
-    Synthesis surface for both letters and appearances: §4 `### Recent Management Commentary — Primary Source Synthesis` — verbatim quotes mapped to investment relevance, optional multi-year framework-arc table; §9 carries a `### Management Appearances (Last 90 Days)` subsection plus any *scheduled* forward appearance in the catalyst table. Attribute every quote to **where** it was said (call / conference / interview / podcast) — an off-script claim carries different weight than a scripted one. A new letter **or a material appearance** is a Meaningful Event; refresh §4 + §9 on incremental. If a window genuinely contains no appearances, say so explicitly in §9 rather than leaving it silent — an unstated absence is indistinguishable from an unchecked one.
-19. **10-K MD&A and Risk Factors are required primary sources — last 5 fiscal years for first-run ingest.** The MD&A explains *why* numbers moved; multi-year Risk Factor evolution shows *how* management's worldview shifted. Required integration map:
+**R8 — Valuation: one 5-year forward lens.** *(v3 rule 24, unchanged in substance)*
+- §4 scenarios always use a 5-year terminal horizon; Bull/Base/Bear probabilities sum to 100%.
+- **PW EV is the sole buy/sell anchor.** Entry = price ≤ PW EV − 15–25% MoS · Trim = PW EV → Bull · Avoid = ≥ Bull.
+- **One R/R figure**, cited identically everywhere: (Bull % upside) ÷ (Bear % downside) vs. spot.
+- Analyst targets and 12–18-month re-rating math are *inputs to probabilities*, never anchors for the zones.
 
-    | 10-K Item | Wiki Section(s) | What to extract |
-    |---|---|---|
-    | Item 1 (Business) | §1, §2 | Founding insight, segment definitions |
-    | Item 1A (Risk Factors) | **§6** | Verbatim language for the highest-impact 6–8; flag *new* risks vs. prior 10-K |
-    | Item 7 (MD&A) | **§1, §3, §7** | Segment drivers, competitive dynamics, macro sensitivity |
-    | Item 7A (Market Risk) | §6, §7 | Quantified rate/FX/commodity sensitivities |
-    | Item 8 (Statements & Notes) | §1, §2, §8 | Segment data, contingencies, debt, share count |
-    | Item 15 / DEF 14A | §4 | Exec comp, board, insider ownership |
+**R9 — Management primary sources: letters *and* appearances.** *(v3 rule 18, condensed)*
+Management speaks off-script at conferences, on CNBC/Bloomberg, on podcasts, and discloses strategy and pricing detail that never reaches the press release.
+- **Letters** — 5 fiscal years. Pattern A (standalone annual): 5. Pattern B (quarterly letters): 5× Q4 + 3 most recent, min 8. Pattern C (no standalone): chairman's letter in the annual report or DEF 14A; if neither exists, log the gap. Store as `shareholder-letters/YYYY_letter.txt` by fiscal year covered.
+- **Appearances — sweep every ingest and every Workflow B window**, in order: (a) IR events/calendar page — also confirms *upcoming* appearances; (b) earnings-day CEO/CFO media hit, which routinely reframes the print; (c) podcasts / non-financial shows, where CEOs are least guarded; (d) conference transcripts. Fetch the transcript or a substantive write-up, never a headline. Store as `appearances/YYYY-MM-DD_<venue>_<who>.txt`.
+- When an IR prepared-remarks PDF won't parse, cross-check **two independent transcripts plus one trade-press write-up** — secondary transcripts truncate, and pricing/product/partnership detail is what they drop.
+- Attribute every quote to *where* it was said. An off-script claim carries different weight than a scripted one.
+- **If a window genuinely had no appearances, say so.** An unstated absence is indistinguishable from an unchecked one.
 
-    §1 carries a `### Primary Source: 10-K Segment Detail (FY[N])` subsection explaining drivers across the 5-year window. §6 risks each derive from Item 1A or MD&A; analyst-only risks tagged `*[Analyst speculation]*`. Workflow B diffs Item 1A year-over-year; newly added risks drive a §6 update with a `[NEW in FY[N] 10-K]` tag. Source preference: SEC EDGAR HTML > IR-site PDF > analyst summaries. PDF binary fetches fall back to EDGAR HTML.
-20. **Synthesis over transcription.** Primary sources inform; agent synthesis is the deliverable. Verbatim quotes only when paraphrase would weaken the insight. Replace 5+ row chronological tables of source extracts with a 2–4 sentence synthesis paragraph naming what genuinely changed. The 5-Year Strategic Framework Arc table for letters in §4 is preserved; a parallel Risk Factor table is not — use prose.
-21. **Wiki-page output discipline.** The page must stand alone without exposing schema mechanics:
-    - **No CLAUDE.md self-references** in `[TICKER].md`. Light references in `changelog.md` are OK (audit trail).
-    - **No retrospective / "corrected from" / "prior framing" language** in page bodies. Git history is the audit trail. Acceptable in changelog.
-    - **Table orientation**: time in columns, metrics in rows. Exception: ≤4-row summary tables (Bull/Bear/Base) where one-row-per-scenario reads better.
-    - **Bullet preference**: sentences with 3+ data points → bullets.
-22. **Competitive moat & landscape live in §3 only.** No standalone "Moat Assessment" block before the Pivotal Question; the Summary keeps a one-line moat verdict, all detail in §3. §3 must include a `### Competitive Landscape` subsection: named direct competitors (US + international where relevant) with market share + a 1–2 sentence read on each peer's moat / threat vector; explicit framing of how *this company's* moat differs and the evidence; an honest tail-risk read. Apply judgment — structurally unique businesses get a one-line note, narrow peer sets a 2-row table, broad categories fuller tables. Cite every market-share figure (Statista, BuiltWith, peer 10-Ks, market-research reports).
-23. **Risk Factor materiality filter.** §6 focuses on risks material to the *investment decision*, not every Item 1A line.
-    - **Drop** universal boilerplate ("revenue could fluctuate," generic payments regulation, generic cyber-attacks, generic third-party reliance, generic key-personnel risk).
-    - **Keep** risks meeting ≥1 criterion:
-      - (a) **Materially differentiated from peers** — meaningfully more severe for this company.
-      - (b) **Not yet priced into the multiple** — state *"not priced in"* in Notes when so.
-      - (c) **Tied to a specific thesis-break trigger** — a quantified condition the page commits to monitor.
-      - (d) **Tied to a specific large discretionary investment** with uncertain outcomes (multi-billion capex bet, in-flight integration).
-    - Collapse the 5-Year Risk Factor Evolution to a 2–4 sentence synthesis paragraph (Rule #20).
-24. **Valuation discipline — one 5-year forward lens.**
-    - **Horizon**: §11 scenarios always use a 5-year terminal horizon. Bull/Base/Bear (+ optional Bull+) probabilities sum to 100%.
-    - **PW EV is the sole buy/sell anchor.** §13 zones derive mechanically from §12 PW EV:
-      - **Entry** = price ≤ PW EV − MoS (typ. 15–25% discount)
-      - **Trim** = PW EV < price < Bull
-      - **Exit / avoid** = price ≥ Bull
-    - **R/R** = (Bull % upside) ÷ (Bear % downside) vs. current spot, anchored to the §11 scenario set. Cite **one** canonical figure consistently in Summary, §12, and watchlist. Multiple Bull tiers — state both (e.g., *"~10:1 Bull/Bear, ~15:1 with Bull+ tail"*).
-    - **Watchlist 3-column collapse**: blend Bull + Bull+ via probability-weighted average so PW EV reconciles to the canonical §11 number.
-    - Consensus analyst targets and 12–18-month re-rating math are *inputs* to scenario probabilities — never anchors for §13 zones.
-25. **Outsiders capital-allocation lens (§4).** §4's capital-allocation block carries a one-line **Outsider grade** per `wiki/frameworks/outsiders.md` (Thorndike's five tests, anchored on countercyclical buyback discipline).
-    - **Grade vocabulary**: `Outsider · Outsider-leaning · Reinvestor · Steward (not Outsider) · Anti-Outsider`. One sentence of evidence; woven into the existing capital-allocation block — no new subsection.
-    - **Surface to the §0 Summary only on a material capital-allocation event** — buyback authorization/execution, dividend init/raise/cut, M&A announce/close, large debt issuance/paydown, or a capital-allocation insider-alignment signal. When such an event lands, refresh the §4 grade *and* add/update a one-line Outsider read in the Summary "Why / Why not". Absent such an event, the lens stays in §4 only.
-    - The cross-ticker scoring table in `wiki/frameworks/outsiders.md` is the authoritative central record; keep the graded ticker's row in sync.
-26. **Conciseness & anti-duplication — state once, reference don't restate.** The page is read top-to-bottom by a human; sections do **not** re-establish context. Every insight, metric, and source has exactly one canonical home and is *referenced* (not re-explained) elsewhere.
-    - **Canonical homes**: live price / 52-wk / mkt cap → header (Key Stats may table it once more); multiples + price targets → §8; analyst / short-interest / insider / sentiment → §9; scenario targets + R/R → §11–§12; capital-return yield + Outsider grade → §4; pivotal question → Summary. Stating a fact in its home licenses a one-clause reference anywhere else — never a restatement.
-    - **One R/R figure** (Rule #24). Never compute R/R three ways across §11/§12/Summary.
-    - **No triple pivotal-question**: once in the Summary; Business Overview carries at most a single clause.
-    - **Merge overlapping prose**: Business Overview + "why it exists" are one block; BAIT lenses are one line each; the §4 RMC arc and §6 risk-evolution are ≤2 sentences (Rule #20).
-    - **Per-section soft word budgets** (prose only; tables and source lists don't count). A full page body targets **≤2,800 words**; a Workflow B incremental block targets **≤250 words**.
+**R10 — 10-K MD&A and Risk Factors are required.** Last 5 fiscal years on first ingest.
 
-      | Block | Budget | Block | Budget |
-      |---|---|---|---|
-      | Summary | ≤300 | §6 Key Risks | ≤90 |
-      | Business + Pivotal Q | ≤150 | §7 Macro | ≤150 |
-      | Key Stats | table | §8 Valuation | ≤130 |
-      | §1 Financials | ≤130 | §9 Catalyst/Sentiment | ≤190 |
-      | §2 Revenue/Geo | ≤90 | §10 BAIT | ≤120 |
-      | §3 Moat & Landscape | ≤220 | §11+§12 Scenarios+PW EV | ≤140 |
-      | §4 Management | ≤220 | §13 Recommendation | ≤250 |
-      | §5 Growth | ≤100 | | |
+| 10-K Item | Lands in | Extract |
+|---|---|---|
+| 1 Business | §1, §2 | Founding insight, segment definitions |
+| **1A Risk Factors** | **§5** | Verbatim language for the highest-impact few; flag *new* vs. prior year |
+| **7 MD&A** | **§1, §2** | Segment drivers, competitive dynamics, macro sensitivity |
+| 7A Market Risk | §5 | Quantified rate/FX/commodity sensitivities |
+| 8 Statements & Notes | §1, §3 | Segment data, contingencies, debt, share count |
+| 15 / DEF 14A | §3 | Exec comp, board, insider ownership |
 
-    - **Duplication audit (required closing step)** of every Workflow A and Workflow B write: scan the draft for any thesis-carrying phrase (a yield, a risk name, a growth stat) appearing >2× and collapse extras to a reference to the canonical home. Budgets are soft; the state-once discipline is hard.
+EDGAR HTML > IR PDF > analyst summaries. The **[SEC XBRL company-facts API](https://data.sec.gov/api/xbrl/companyfacts/CIK[##########].json)** is the fastest reliable source for multi-year series — prefer it over parsing HTML tables. Workflow B diffs Item 1A year-over-year; new risks get a `[NEW in FY[N] 10-K]` tag.
+
+**R11 — Risk materiality filter.** §5 covers risks material to the *decision*, not every Item 1A line.
+- **Drop** boilerplate: "revenue could fluctuate", generic cyber, generic key-personnel, generic third-party reliance.
+- **Keep** only risks meeting ≥1 test: (a) materially worse here than for peers; (b) **not priced in** — say so explicitly; (c) tied to a quantified thesis-break trigger the page commits to monitor; (d) tied to a specific large discretionary bet with an uncertain outcome.
+- Multi-year risk evolution is 2–3 sentences of prose, never a table.
+
+**R12 — Outsiders lens.** §3 carries a one-line grade per [`outsiders.md`](wiki/frameworks/outsiders.md), anchored on countercyclical buyback discipline. Vocabulary: `Outsider · Outsider-leaning · Reinvestor · Steward (not Outsider) · Anti-Outsider`. One sentence of evidence. Surface it to the Verdict **only on a material capital-allocation event** (buyback authorization/execution, dividend init/raise/cut, M&A, large debt action). Keep the ticker's row in `outsiders.md` in sync.
+
+**R13 — One page per ticker; changelog is the event log.** The folder holds exactly `[TICKER].md` and `changelog.md`. Every material update writes a changelog entry stating **Thesis Status** (Strengthened / Weakened / Unchanged) and an **action verb** (Initiate / Add / Reduce / Exit / Hold / Watch / Avoid). Cross-ticker and schema-only events live in **commit messages**, not in any wiki file.
+
+**R14 — Active / Paused.** Header carries `**Status**: Active` or `**Status**: Paused — since YYYY-MM-DD`. README, `index.md` and `watchlist.md` mirror it; Workflow B skips Paused entirely. Quiet ≠ paused: an Active quiet week still logs; a Paused ticker writes nothing.
+
+**R15 — Style.** Emoji carry meaning, never decoration: 🟢 bullish/add · 🔴 bearish/exit · 🟡 neutral/hold · ⚠️ material risk · ✅ resolved (pair with `~~strikethrough~~`) · 📅 dated catalyst · 💰 capital allocation · 🎯 price zone. **Bold** only punchlines and thesis-carrying numbers — if half a paragraph is bold, none of it is. Tables run time in columns, metrics in rows.
 
 ---
 
-## 4. Investment Framework — 13-Section Thesis Structure
+## 4. The Page
 
-The page header (Schema / Last Updated / Status / Live Price), Summary, Business Overview, Pivotal Investment Question, and Key Stats Snapshot precede Section 1.
+Seven sections. The front matter *is* the deliverable; the sections exist to support it.
 
-| # | Section | Purpose |
-|---|---------|---------|
-| 1 | Annual Financial Metrics | 4–6 year trend + recent quarters; primary 10-K segment detail |
-| 2 | Revenue Mix & Geographic Split | Revenue streams + business model + region table + forward shifts |
-| 3 | Competitive Moat & Landscape | Wide / Narrow / None + sources + vulnerabilities + named competitors with market share + how-this-company-differs |
-| 4 | Management & Leadership | CEO/CFO assessment + capital-allocation track record + Outsider grade + RMC subsection synthesizing letters **and public appearances** (Rule #18) |
-| 5 | Strategic Growth Initiatives | Growth vectors that justify forward multiples |
-| 6 | Key Risks | Materiality-filtered Impact × Probability × Priced-In table (Rule #23) |
-| 7 | Industry-Specific Macro Analysis | TAM, structural dynamics, regulatory environment |
-| 8 | Valuation & Comparable Analysis | Multiples, peer set, "fair price" range |
-| 9 | **Catalyst & Sentiment Tracker** | Analyst ratings, short interest, options skew, insider activity, news, upcoming events |
-| 10 | BAIT Framework | Behavioral / Analytical / Informational / Technical lenses |
-| 11 | Bull / Bear / Base Cases | 5-year terminal scenario price targets (Rule #24) |
-| 12 | Probability-Weighted Expected Value | PW EV vs. current price (Rule #24) |
-| 13 | **Recommendation & Bottom Line** | Action verb + price-level rationale + thesis-break triggers + next review trigger |
+```markdown
+# TICKER — Company Name
 
-### Section 9 — Catalyst & Sentiment Tracker (detail)
+> **Schema** v4.0 · **Updated** YYYY-MM-DD · **Status** Active
+> **Price** $X.XX verified <date, time> ([Yahoo](url)) · 52-wk $L–$H · Nth %ile · ±X% from high
+> **Type** <one-line asset class>
 
-Drives weekly incrementals. Standardized fields:
+## Verdict
+<One sentence. The whole call — what this is and what to do.>
 
-- **Live price + 52-wk range + % from high/low** (date-stamped)
-- **Analyst consensus**: Buy/Hold/Sell counts, median target, high/low; rating changes since last update with firm name + direction
-- **Short interest**: % of float, days-to-cover, WoW + MoM delta. Flag sustained >10% MoM increase
-- **Options skew (optional)**: 30-day put/call, IV percentile if material
-- **Insider activity (last 90 days)**: net buy/sell, transactions >$1M or by officers/directors (OpenInsider + SEC Form 4)
-- **Recent corporate news (last 90 days)**: `[YYYY-MM-DD] [Event Type] — [one-line] [linked source]`
-- **Management appearances (last 90 days)**: conference fireside, earnings-day media interview, podcast — one line each with venue, date, and the off-script disclosure; state explicitly when the window had none
-- **Upcoming catalysts**: earnings, shareholder meeting, **scheduled C-suite appearances**, FDA/regulatory date, product launch, contract decision
+🟢 **Non-holder: <verb>** · 🟡 **Holder: <verb>**
 
-### Section 13 — Recommendation & Bottom Line (template)
+| PW EV | vs. spot | R/R | Entry | Trim | Avoid | <primary multiple> | Yield | BAIT | Moat | Next |
+|---|---|---|---|---|---|---|---|---|---|---|
+(one row)
 
+**Breaks if**: <the single most load-bearing fact — if this goes, the thesis goes.>
+
+## The Call
+≤200 words. What the market has priced, what it has wrong, and the one number that
+proves it. This is the ONLY place the argument is made — sections 1–7 supply evidence,
+they do not re-argue.
+
+## What I'd Have To Be Wrong About
+Exactly 3 bullets. Each is a *disconfirming test*: what I would look for, where it
+would show up, and by when. Not a hazard list — that is §5.
+
+## 1. Business & Numbers      ← v3 §1 + §2 + §5 growth
+## 2. Moat & Competition      ← v3 §3 + §7 macro/industry
+## 3. Management & Capital    ← v3 §4, incl. Outsider grade + letters/appearances
+## 4. Scenarios → PW EV       ← v3 §8 valuation + §11 + §12, one table
+## 5. Risks & Triggers        ← v3 §6 + §13 triggers, one table
+## 6. Catalysts & Sentiment   ← v3 §9
+## 7. Sources
 ```
-**Thesis in one sentence**: [Single sentence stating the central thesis]
 
-**For a non-holder**: [Initiate / Watch / Avoid] — [price-level rationale]
-**For a current holder**: [Add / Hold / Reduce / Exit] — [price-level rationale]
+**Section notes**
 
-**Attractive entry zone**: [$X – $Y] (rationale)
-**Trim zone**: [$X – $Y] (rationale)
-**Exit / avoid zone**: [$X – $Y] (rationale)
-
-**Thesis-break triggers** (would force re-rating):
-- [Specific quantified trigger]
-- ...
-
-**Next review trigger**: [Specific event or date]
-```
+- **§1** — 5-year table + recent quarters + segment detail + where growth comes from. Lead with what changed, not what is.
+- **§2** — Wide / Narrow / None + why + what breaks it. Must name direct competitors with market share and a one-line threat read each; state how *this* company differs and the evidence. Structurally unique businesses get a line, not a table. Industry structure and TAM live here.
+- **§3** — CEO/CFO read, capital-allocation record, Outsider grade (R12), and the letters/appearances synthesis (R9). Attribute quotes to venue. State explicitly when a window had no appearances.
+- **§4** — **One table**: scenario, 5-yr target, probability, contribution, plus the assumption that drives it. PW EV is the sum. Multiples and the peer read sit here as the *anchor* for the scenarios, not as a separate valuation section.
+- **§5** — **One table**: `Risk | Impact | Prob | Priced in? | Would break the thesis if…`. The trigger column replaces the old standalone trigger list. Front-matter bullets state the *test*; this table states the *hazard and odds* — different objects, no restatement.
+- **§6** — Analyst consensus + rating changes; short interest with WoW/MoM delta; insider activity (last 90 days, Form 4 verified); recent news; **management appearances (R9)**; upcoming catalysts with dates. Move delivered items to `✅ Delivered`.
+- **BAIT** is one cell in the Verdict table (`Triple (B+A+T)`). Justify a lens in §6 only where the rating is non-obvious. It is a scoring overlay, not a section.
 
 ---
 
-## 5. Frameworks (one-line index)
+## 5. Frameworks
 
-- **BAIT** (Mauboussin) — §10. Four lenses (Behavioral / Analytical / Informational / Technical), each rated Strong / Moderate / Weak. Triple+ overlap = highest conviction. Detail: `wiki/frameworks/bait.md`.
-- **Moneyball** — §11/§12. 5-year terminal Bull/Base/Bear scenarios; PW EV per Rule #24. Detail: `wiki/frameworks/moneyball.md`.
-- **Asset Type Rules** — per-asset-class key metrics + valuation primary (capital-light platform, three-sided marketplace, franchise royalty, financial/brokerage, pharma, managed care, mortgage, consumer staples, etc.). Detail: `wiki/frameworks/asset-types.md`.
-- **Outsiders** (Thorndike) — §4 capital-allocation lens, five tests; one-line grade in §4, surfaced to §0 only on a material capital-allocation event (Rule #25). Detail: `wiki/frameworks/outsiders.md`.
+- **BAIT** (Mauboussin) — Behavioral / Analytical / Informational / Technical, each Strong / Moderate / Weak. Triple+ overlap = highest conviction. → [`bait.md`](wiki/frameworks/bait.md)
+- **Moneyball** — 5-year terminal scenarios; PW EV per R8. → [`moneyball.md`](wiki/frameworks/moneyball.md)
+- **Asset Types** — per-asset-class key metrics and valuation primary. → [`asset-types.md`](wiki/frameworks/asset-types.md)
+- **Outsiders** (Thorndike) — five tests, R12. → [`outsiders.md`](wiki/frameworks/outsiders.md)
 
 ---
 
 ## 6. Workflow A — First-Run Ingest
 
-Triggered by "ingest [TICKER]" or "build wiki page for [TICKER]".
+Trigger: *"ingest [TICKER]"* / *"add [TICKER]"* / *"build a page for [TICKER]"*. If the folder exists, switch to Workflow B.
 
-### Step 1 — Pre-flight
-Read this `CLAUDE.md` and the `kg-investment-analysis` skill SKILL.md. If `wiki/tickers/[TICKER]/` already exists, switch to Workflow B.
+1. **Verify the date** (R6) and **the live price** (R4).
+2. **Fetch the raw set** into `raw/[TICKER]/` — 5 annual 10-Ks · last 4 quarterly transcripts and press releases · 12 months of 8-Ks · latest DEF 14A · 5 years of letters (R9) · 12 months of appearances plus scheduled forward dates (R9) · latest investor-day deck · user-supplied PDFs. Log gaps; never fabricate. Store extracted text (R1).
+3. **Pull the numbers** — SEC XBRL company facts for the multi-year series (R10); then 52-wk range, market cap, EV, net debt, operating leases, float, short interest, analyst consensus, 90-day insider activity from Form 4 XML.
+4. **Synthesize the page** per §4, applying R7–R12.
+5. **Write** `[TICKER].md` + a `changelog.md` initial entry. Delete any legacy `overview.md` / `thesis.md` / `financials.md`.
+6. **Run the closing audit** (R7) — duplication scan and word budget.
+7. **Update the cross-file layer** (§8), then **commit and push** (§9).
 
-### Step 2 — Fetch standard raw set
-Create `raw/[TICKER]/` and populate (source preference SEC EDGAR > company IR > major aggregator; log gaps, never fabricate):
-- **Last 5 annual 10-Ks** (or all since IPO) → `filings/[TICKER]-10K-FY[YYYY].pdf`
-- **Last 4 quarterly transcripts** → `transcripts/`
-- **Last 4 quarterly press releases** → `press-releases/`
-- **All 8-Ks in last 12 months** + **most recent DEF 14A** → `filings/`
-- **Last 5 annual shareholder letters** (Pattern A/B/C per Rule #18) → `shareholder-letters/YYYY_letter.pdf`
-- **C-suite public appearances, last 12 months + any scheduled forward dates** (Rule #18 sweep: IR events page, media interviews, podcasts, conference transcripts) → `appearances/`
-- **Latest investor day deck** if available → `investor-day/`
-- **User-supplied PDFs** → `analyst-reports/`
+## 7. Workflow B — Incremental Update
 
-### Step 3 — Verify live data
-Live price (Yahoo; fallback CNBC/Google/MarketWatch), 52-wk range, market cap, EV, float, short interest, analyst consensus, last-90-days insider activity.
+Trigger: *"weekly update"* / *"update [TICKER]"*.
 
-### Step 4 — Synthesize the 13 sections
-Compile from the raw set, not media summaries. Cite a primary source for every material claim; tag estimates. Apply Rules #18 (letters → §4 RMC), #19 (10-K integration map), #20 (synthesis), #21 (output discipline), #22 (moat + landscape), #23 (risk filter), #24 (valuation).
+1. **Baseline** — read `**Status**:`. Paused → skip entirely. Active → baseline is the latest changelog entry date; the lookback window is everything since.
+2. **Scan** the Meaningful Events list (§10) across IR (including the events calendar), SEC EDGAR, the earnings calendar, the appearance sweep (R9), analyst actions, short interest, Form 4s, and news.
+3. **Material events** → fetch new raw material, then refresh **only what moved**:
 
-### Step 5 — Write the wiki page (the deliverable)
-- `wiki/tickers/[TICKER]/[TICKER].md`:
-  1. Header block (ticker, company name, schema version, Last Updated, `**Status**: Active`)
-  2. Summary (Rule #17, emoji per Rule #16)
-  3. Business Overview (1–2 paragraphs)
-  4. Pivotal Investment Question
-  5. Key Stats Snapshot
-  6. Sections 1–13 (financial tables embedded inline in §1, §2, §8, §12)
-- `wiki/tickers/[TICKER]/changelog.md` — initial entry "v3 Initial Ingest".
-- Delete legacy `overview.md` / `thesis.md` / `financials.md` if present.
-- **Close with the duplication audit** (Rule #26): any thesis-carrying phrase appearing >2× collapses to its canonical home. Hold the page to the per-section word budgets (≤2,800 words total).
+   | Always | On the right trigger |
+   |---|---|
+   | §1 on earnings (new quarter row, roll TTM) | §2 — only on a moat-altering event or true strategic pivot |
+   | §4 — re-verify multiples, scenarios, PW EV, R/R | §3 — on management change, capital allocation, a new letter or a material appearance |
+   | §5 — mark resolved risks `~~struck~~ DE-RISKED [date]`, add new under R11 | |
+   | §6 — price, consensus, insiders, news, appearances, upcoming | |
+   | **Verdict** — thesis, verbs, zones, "Breaks if" | |
 
-### Step 6 — Update cross-cutting files
-- `wiki/index.md` — add row, refresh ticker summary + last-updated date.
-- `wiki/watchlist.md` — add row in attractiveness ranking.
-- `README.md` — insert row in alphabetical position (Rule #13).
+   §2 rarely moves on a single earnings print. Do not touch a section the news did not touch.
+4. **Quiet week** → write only a `[YYYY-MM-DD] — No Material Events` changelog entry with a price / short-interest / consensus snapshot. **Do not modify `[TICKER].md` and do not bump any dates.**
+5. **Changelog** entry mirroring the sections refreshed, ≤200 words (R7). Then §8 and §9.
 
-### Step 7 — Commit and push
-- `git commit -m "INGEST [TICKER]: v3 initial ingest — [headline]"`
-- `git push origin <branch>` (Rule #10).
+## 8. Cross-File Layer
 
----
+Three files summarize the ticker set. **Each carries only what is unique to it** — the same sentence must not appear in two of them. All history lives in commit messages (R13), never as append-only prose.
 
-## 7. Workflow B — Weekly Incremental
+| File | Carries | Hard cap |
+|---|---|---|
+| `README.md` | `Ticker \| Status \| Updated \| Punchline`, alphabetical; `*N tickers.*` counter below | **Punchline ≤ 30 words** — the verdict and the one number behind it |
+| `wiki/index.md` | `Ticker \| Status \| Company \| Moat \| Conviction \| Updated \| Summary` + a price/BAIT/recommendation table + pending data gaps | **Summary ≤ 40 words.** No "last refresh" narrative — a bare `*Last updated: YYYY-MM-DD*` line only |
+| `wiki/watchlist.md` | Attractiveness ranking: `Rank \| Ticker \| Conviction \| BAIT \| PW EV vs. price \| Recommendation \| Next catalyst` + price-target table + earnings calendar + macro watch items. Active only; Paused in a footer | **Ranking cell ≤ 40 words.** No header changelog |
 
-Triggered by "weekly update" / "update [TICKER]".
+⚠️ **The v3 failure mode this replaces**: the same ~400-word block written three times, plus `index.md` accreting a single 4,000-word "last refresh" line. If a reader needs the full story, they open the ticker page. These three files are indexes, not summaries.
 
-### Step 1 — Determine baseline and active set
-For each ticker in `wiki/tickers/`:
-- Read `**Status**:` from the header. **If `Paused`, skip entirely** (no fetch, no scan, no entry, no page change).
-- If `Active`: baseline = date of the latest `changelog.md` entry. Lookback window = everything since.
+## 9. Commit & Push
 
-### Step 2 — Scan for meaningful events
-Check the **Meaningful Events List** (§10) across: company IR (including the **IR events/calendar page** per Rule #18), SEC EDGAR, earnings calendar, **C-suite appearance sweep** (media interviews, conferences, podcasts), analyst rating changes, short-interest aggregator, insider Form 4 aggregator, news search.
+`git commit` with a subject naming the ticker and the finding, then **`git push origin main` — always** (R13). Surface push failures to the user.
 
-### Step 3a — If material events exist
-1. Fetch new raw material into `raw/[TICKER]/<subfolder>/`.
-2. Walk the section-refresh checklist:
+- Ingest: `INGEST [TICKER]: <headline finding>`
+- Update: `WEEKLY YYYY-MM-DD: [N] events / [M] quiet — <headline>`
+- Pause/resume: `PAUSE [TICKER]: <reason>` / `RESUME [TICKER]: catch-up over [N] days — <headline>`
+- Schema: `SCHEMA: vX.Y — <what changed and why>`
 
-   | Section | Refresh on earnings/material event |
-   |---------|------------------------------------|
-   | 1 — Annual Financial Metrics | **Always** on earnings: add new quarter row + roll TTM |
-   | 2 — Revenue Mix & Geo | If segment / geo data disclosed |
-   | 3 — Moat & Landscape | On competitor moves, market-share shifts, moat-altering events only |
-   | 4 — Management | On management commentary, capital-allocation changes; refresh RMC if a new letter dropped |
-   | 5 — Strategic Growth | On new strategic disclosures |
-   | **6 — Key Risks** | **Always scan**: resolved risks marked `~~struck~~ DE-RISKED [date]`; new risks added with Rule #23 filter |
-   | 7 — Macro | On regulatory / sector developments |
-   | 8 — Valuation | **Always** on earnings: re-compute multiples; refresh Assessment |
-   | **9 — Catalyst & Sentiment** | **Always**: refresh price, consensus, actions, insiders, news, upcoming. Move delivered → "Delivered ✅" |
-   | 10 — BAIT | Refresh any B/A/I/T justification the new data alters |
-   | 11 — Scenarios | Refresh assumptions/targets/probabilities if scenarios shifted |
-   | 12 — PW EV | Recompute if §11 changed; verify R/R (Rule #24) |
-   | **13 — Recommendation** | **Always review**: thesis sentence, verbs, zones, thesis-break triggers |
+The commit body is where rationale, migration history and cross-ticker context live.
 
-   §2/§3 rarely move on a single earnings event — refresh only on true strategic pivots, business-model changes, or moat-altering events.
-3. Append a `changelog.md` entry; the `What Changed` block mirrors the refreshed sections (one bullet each). Close with the duplication audit (Rule #26; ≤250-word incremental block).
-4. Update `wiki/index.md` last-updated + moved fields.
-5. Update `wiki/watchlist.md` ranking + earnings calendar + price targets if attractiveness changed.
-6. Update `README.md` Last Updated + Punchline (Rule #13).
-7. Refresh the §0 Summary if §13 or §9 changed (Rule #17).
+## 10. Workflow C — Pause / Resume
 
-### Step 3b — If no material events (quiet week)
-Write a `[YYYY-MM-DD] — No Material Events` changelog entry with a snapshot (price, 52-wk %, short interest %, consensus median, news headlines reviewed and dismissed). Do NOT modify `[TICKER].md` or bump README dates.
+**Pause** — verify Active, get the date (R6), set the header, append a changelog entry with the reason and last baseline, update the three cross-files (README/index Status → Paused, watchlist → Paused footer; do **not** bump Updated), commit `PAUSE`.
 
-### Step 4 — Commit and push
-- `git commit -m "WEEKLY YYYY-MM-DD: [N] events / [M] quiet — [headline]"`
-- `git push origin <branch>`.
+**Resume** — a multi-quarter pause spans earnings, analyst clusters and macro events; reconstruct them, don't just re-price. Scan the full window (all 10-Q/10-K, earnings and transcripts, 8-Ks, the full analyst-action record noting clusters, current short interest / insiders / consensus, plus management, M&A, regulatory and capital-allocation events). Apply the Workflow B refresh; §6 enumerates each earnings print in order before settling on the current state. Set Active, bump Updated, append a `## [date] — Resumed (Catch-Up)` entry, update cross-files, commit `RESUME`.
 
 ---
 
-## 8. Workflow C — Pause / Resume
+## 11. Meaningful Events
 
-Triggered by `pause [TICKER][: <reason>]` or `resume [TICKER]`.
+Earnings (10-Q/10-K, release, transcript) · annual shareholder letter · **material C-suite appearance** (R9 — material when it discloses strategy, pricing, product, partnership or competitive detail not in the filings, or reframes a print) · shareholder meeting and proxy outcomes · strategic announcements (launch, market entry/exit, divestiture, restructuring) · M&A and JVs · capital allocation (buyback, dividend, debt, equity issuance) · analyst rating changes (**a cluster of ≥3 firms in a week gets special attention**) · short interest >10% MoM or a sustained 3-week trend · insider Form 4 >$1M, any cluster, or a CEO/CFO sale into a decline · major regulatory action · material litigation · CEO/CFO/COO or board changes · credit rating actions.
 
-### C.1 — Pause
-1. Verify the ticker exists and is `Active` (no-op + surface if already Paused).
-2. Run `date -u +%Y-%m-%d`.
-3. In `[TICKER].md` header, set `**Status**: Paused — since YYYY-MM-DD`.
-4. Append a changelog entry stating reason + last active baseline.
-5. Update `README.md` (Status → Paused; do NOT bump Last Updated/Punchline), `wiki/index.md` (Status → Paused), `wiki/watchlist.md` (remove from ranking; append to "Paused Tickers" footer).
-6. Commit `PAUSE [TICKER]: <reason>` and push.
+Extensible — add types when encountered.
 
-### C.2 — Resume (with catch-up incremental)
-A multi-quarter pause may span multiple earnings, analyst clusters, and macro events — catch-up reconstructs all of them, not just price-stamping.
+## 12. Data Sources
 
-1. Verify status is `Paused`. Run `date -u +%Y-%m-%d`. Read the pause-since date.
-2. **Catch-up scan** over the full pause window: all 10-Q/10-K filings, all earnings PRs + transcripts, all 8-Ks, full-window analyst rating changes (note clusters), current short interest + insider 90-day + analyst consensus, any management/M&A/regulatory/dividend/buyback events.
-3. Apply the full Workflow B Step 3a section-refresh checklist. §9 must enumerate each earnings print in chronological order before settling on the current state.
-4. Set header `**Status**: Active`, bump `Last Updated`.
-5. Append a `## [YYYY-MM-DD] — Resumed (Catch-Up)` changelog entry: pause window, events reconstructed, sources reviewed, What Changed vs. pre-pause baseline, Thesis Status, Recommendation, Next review trigger.
-6. Update `README.md` (Status → Active, bump Last Updated, refresh Punchline), `wiki/index.md`, `wiki/watchlist.md` (re-insert into ranking, remove from Paused footer).
-7. Commit `RESUME [TICKER]: catch-up over [N]-day window — <headline>` and push.
+| Data | Primary | Fallback |
+|---|---|---|
+| Live price | [Yahoo Finance](https://finance.yahoo.com/quote/) | CNBC, Google Finance, MarketWatch |
+| Filings | SEC EDGAR (HTML; `curl` with a UA header) | Company IR |
+| Multi-year financials | **SEC XBRL company-facts API** | 10-K tables |
+| Transcripts | IR prepared remarks, Motley Fool, Seeking Alpha | Investing.com, AlphaStreet, Benzinga — cross-check ≥2 (R9) |
+| Appearances | IR events page, conference transcripts | CNBC/Bloomberg, podcast notes, trade press |
+| Analyst ratings | Research-firm releases | User PDFs in `analyst-reports/`, TipRanks, StockAnalysis |
+| Short interest | Fintel, ChartExchange, NASDAQ | FINRA twice-monthly |
+| Insiders | **SEC Form 4 XML direct** | OpenInsider |
+| Options | CBOE, Yahoo chain | Barchart |
 
----
+## 13. changelog.md Format
 
-## 9. Parallelization Patterns
-
-- **Workflow A fetch phase**: optional fan-out — 3–4 parallel fetcher agents split by source type (filings / transcripts+PRs / shareholder letters / live + insider + analyst). A single synthesizer agent then reads the aggregated raw output.
-- **Weekly update across N tickers**: parallelize trivially — one `Agent` call per Active ticker, dispatched as parallel tool uses in a single message.
-- **Within a single ticker**: single agent. Section synthesis is dependency-dense (§12 PW EV depends on §11 depends on §6 + §10) — section-level parallelism creates merge headaches exceeding the time saved.
-- **Shared file writes** (`README.md`, `wiki/index.md`, `wiki/watchlist.md`): sequential. Never parallel writes to the same file across agents.
-- **Agent definition**: prefer a Sonnet research agent (WebSearch / WebFetch / Edit / Write) for fetch-heavy work; `general-purpose` for synthesis-heavy work.
-
----
-
-## 10. Meaningful Events List
-
-- **Earnings**: 10-Q / 10-K, earnings PR, transcript
-- **Annual shareholder letter published** (Pattern A/B/C per Rule #18)
-- **Material C-suite public appearance** (Rule #18): broker-conference fireside, earnings-day CNBC/Bloomberg interview, podcast, investor day, or keynote — material when it discloses strategy, pricing-model, product, partnership or competitive detail not in the filings, or when it reframes a print
-- **Shareholder meeting**: annual, special, proxy-vote outcomes
-- **Strategic announcements**: product launch, market entry/exit, divestiture, restructuring
-- **M&A**: acquisition announce/close, merger, JV, strategic partnership
-- **Capital allocation**: buyback authorization/execution, dividend init/raise/cut/suspend, debt issuance, equity issuance
-- **Analyst rating changes**: any upgrade/downgrade/initiation/target revision; a cluster ≥3 firms in a week gets special attention
-- **Short interest delta**: >10% MoM, or a sustained 3-week trend either direction
-- **Insider activity**: any Form 4 >$1M, any cluster, any unusual pattern (CEO/CFO sell into decline)
-- **Major regulatory action**: investigation, fine, ruling, new rule affecting the business model, antitrust
-- **Litigation**: material suit filed, settlement, judgment
-- **Management changes**: CEO/CFO/COO appoint or depart, board changes
-- **Credit / rating agency actions**: S&P / Moody's / Fitch rating change
-
-Extensible — add new event types when encountered.
-
----
-
-## 11. Data Source Priority
-
-| Data Type | Primary | Fallback |
-|-----------|---------|----------|
-| Live price | Yahoo Finance (`finance.yahoo.com/quote/[TICKER]`) | CNBC, Google Finance, MarketWatch (web search) |
-| Filings | SEC EDGAR | Company IR site |
-| Transcripts | Company IR prepared remarks, Motley Fool, Seeking Alpha | Yahoo Finance, Investing.com, AlphaStreet — cross-check ≥2 when the IR PDF won't parse (Rule #18) |
-| C-suite appearances | Company IR events/calendar page; conference transcripts (Seeking Alpha, Investing.com) | CNBC / Bloomberg / Yahoo Finance video, podcast show notes, trade press |
-| Press releases | Company IR, BusinessWire, PRNewswire | Web search |
-| Analyst ratings | Primary research-firm releases | User-uploaded PDFs in `analyst-reports/`, TipRanks / Yahoo |
-| Short interest | Aggregator (Fintel, ChartExchange, NASDAQ) | FINRA twice-monthly |
-| Insider activity | OpenInsider | SEC EDGAR Form 4 direct |
-| Options data | CBOE, Yahoo options chain | Barchart |
-
----
-
-## 12. changelog.md Format (Per Ticker)
-
-Append-only. Most recent entry first.
-
-### Standard event entry
+Append-only, newest first. **Record what changed and why — never restate the thesis; the page carries that.**
 
 ```markdown
-## [YYYY-MM-DD] — [Event Type: Earnings Q[X] / Strategic Announcement / Analyst Action / Insider Cluster / etc.]
+## [YYYY-MM-DD] — <Event type>
 
-**Trigger**: [What caused this update; cite primary source filename or URL]
-**Sources reviewed**: [List of files in raw/ or URLs]
+**Trigger**: <what caused this; link the primary source>
+**Sources**: <files in raw/ or URLs>
 
-### What Changed
-- [Specific metric or thesis element — direction and magnitude]
+### Changed
+- <metric or thesis element — direction and magnitude, one bullet each>
 
-### Thesis Status
-- **Overall**: Strengthened / Weakened / Unchanged
-- **BAIT delta**: ...
-- **Price target delta**: Bull $X → $Y | Base $X → $Y | Bear $X → $Y
-- **Catalyst & Sentiment delta**: ...
+### Status
+- **Thesis**: Strengthened / Weakened / Unchanged
+- **PW EV**: $X → $Y · **R/R**: A → B · **BAIT**: <delta if any>
+- **Verbs**: non-holder <verb> · holder <verb>
 
-### Recommendation
-- **For a non-holder**: Initiate / Watch / Avoid — [rationale]
-- **For a current holder**: Add / Hold / Reduce / Exit — [rationale]
-
-**Next review trigger**: [event or date]
+**Next trigger**: <event or date>
 ```
 
-### Quiet-week entry
+Quiet week:
 
 ```markdown
 ## [YYYY-MM-DD] — No Material Events
 
-**Lookback window**: [Prior baseline] → [today]
-**Sources scanned**: IR, SEC EDGAR, analyst feed, short-interest, insider feed, news
+**Window**: <baseline> → <today>
+**Snapshot**: price $X (±Y%) · 52-wk %ile · short interest A% (±B% MoM) · consensus $C
+**Dismissed**: <headlines scanned and why they don't matter>
 
-### Snapshot
-- Price: $X (Δ: ±Y%)
-- 52-wk range: $L – $H (% from high: ±Z%)
-- Short interest: A% of float (Δ MoM: ±B%)
-- Analyst consensus: median $C (Δ: ±D%)
-- News scanned and dismissed: [bullet list]
-
-**Recommendation**: Unchanged.
-**Next review trigger**: Next weekly review (default), or [specific catalyst].
+**Recommendation**: Unchanged. **Next trigger**: <default or specific>.
 ```
 
----
+## 14. Parallelization
 
-## 13. index.md Maintenance
-
-Required columns: `Ticker | Status | Company | Moat | Conviction | Last Updated | Summary`. Status is `Active`/`Paused` per Rule #14. Ticker links to `tickers/[TICKER]/[TICKER].md`.
-
-Plus a Ticker Summary table: `Ticker | Price | vs. 52-wk High | FCF Yield | P/E Fwd | BAIT | Recommendation (non-holder / holder)`.
-
-Plus a Pending Data Gaps table.
-
-Update on every ingest or substantive change. Refresh the "last full index refresh" date at the bottom.
-
----
-
-## 14. watchlist.md Maintenance
-
-Pure attractiveness ranking. **No portfolio allocation, no target %, no stock/options splits.** Active tickers only — paused move to a "Paused Tickers" footer (Rule #14).
-
-Required columns: `Rank | Ticker | Conviction | BAIT Overlap | Asymmetry (PW EV vs. price) | Recommendation (non-holder / holder) | Next Catalyst`.
-
-Plus the Price Targets Summary (Probability-Weighted) table, the Earnings Calendar & Key Watch Events, and Cross-Portfolio Macro Watch Items.
-
----
+- Workflow A fetch: optional fan-out of 3–4 agents split by source type; one synthesizer reads the aggregate.
+- Weekly across N tickers: one agent per Active ticker, dispatched in a single message.
+- **Within a ticker: single agent.** §4 depends on §5 depends on §1 — section-level parallelism costs more in merge than it saves.
+- **Never parallel-write** `README.md`, `index.md` or `watchlist.md`.
+- Only spawn agents when the user asks for them.
 
 ## 15. Schema Co-Evolution
 
-This file evolves — but it does **not grow by default**. Rule #26's state-once discipline applies to CLAUDE.md itself: every change is *integrated into its existing home*, not appended as new sediment. When a new framework is added, a ticker type encountered, or an operation needed:
+This file **does not grow by default.** R7 applies to it as much as to a ticker page.
 
-1. **Find the home first.** Locate where the concept already lives — a Core Rule, a Workflow step, a framework one-liner. Default to editing that home in place. Create a *new* rule or section only when no home exists. One concept, one home.
-2. **Replace, don't append.** A change that adds lines must delete the lines it supersedes in the same commit — obsoleted clauses, dead references, stale migration scaffolding. Net line growth is a smell to justify, not a default.
-3. **Keep rationale out of the body.** The *what* lives in this file; the *why* and the migration history live in the `SCHEMA: vX.Y` commit message — never as "prior framing" / "changed from" residue in the text (mirrors Rule #21).
-4. **Apply to wiki content** on the next material touch (migration discipline below).
-5. **Consolidate periodically.** When rules sprawl, duplicate, or contradict, do a ground-up condense and bump the *major* version rather than patching (v3.0 collapsed 28 rules → 26, retired `outputs/`).
-6. **Commit `SCHEMA: vX.Y — [what changed and why]` and push to `origin`** — the commit message is the audit trail (Rule #5).
+1. **Find the home first.** Edit where the concept already lives. A new rule only when no home exists.
+2. **Replace, don't append.** A change that adds lines deletes the lines it supersedes in the same commit.
+3. **Rationale goes in the commit message**, never as residue in the text.
+4. **Apply on next material touch** (§1). Never backfill untouched pages, and never bulk-migrate — git is the record.
+5. **Consolidate when rules sprawl.** Bump the major version and rewrite rather than patch.
 
-**Migration discipline**: new schema conventions apply on the next material update to a page (Workflow B / re-ingest); never backfill untouched pages — git history is the record.
-
-Browse evolution: `git log --oneline CLAUDE.md` · `git log -p CLAUDE.md` · `git blame CLAUDE.md`. Each `SCHEMA: vX.Y — ...` commit body captures the *rationale*, not just the *what*. v3.0 (May 2026) is current.
+`git log --oneline CLAUDE.md` · `git log -p CLAUDE.md` · `git blame CLAUDE.md`

@@ -4,6 +4,25 @@ Append-only. Most recent entry first.
 
 ---
 
+## [2026-09-02] — Schema migration v3.0 → v4.0
+
+**Trigger**: Schema v4.0 promoted to [CLAUDE.md](../../../CLAUDE.md); DKS migrated as the in-flight ticker. No new research — same verified facts as the 2026-09-01 ingest, re-synthesized into the v4 page shape.
+**Sources**: unchanged from the initial ingest below. Price re-verified per R4 — [Yahoo Finance](https://finance.yahoo.com/quote/DKS/), Sep 2, 11:40 AM EDT.
+
+### Changed
+- **Page rebuilt to v4**: 13 sections → 7, with Verdict / The Call / What I'd Have To Be Wrong About as front matter. Prose 3,445 → 1,460 words.
+- **Re-marked to $136.79** (from $133.01, +2.8% on the day): 52-wk percentile ~10th → ~13th, from high –45.6% → –44.0%, FY26E P/E 11.6× → ≈12.0×, dividend yield 3.76% → 3.66%, EV $12.96B → $13.30B, EV/DICK'S segment EBIT ≈8.3× → **≈8.5×**.
+- **R/R 6.0:1 → 5.2:1** and PW EV upside +53% → +49% — entirely spot-driven on a one-day rally. Scenarios, probabilities and PW EV ($204) are unchanged.
+
+### Status
+- **Thesis**: Unchanged — no new information, only a better container and a fresher price.
+- **PW EV**: $204 (held) · **R/R**: 6.0:1 → 5.2:1 (spot) · **BAIT**: Triple (B+A+T), held
+- **Verbs**: non-holder Initiate (scaled) · holder Hold-Add on weakness
+
+**Next trigger**: Goldman Sachs fireside, 2026-09-14 — a replacement Foot Locker profitability timeline, and any comment on the unused $3.0B authorization. Otherwise Q3 FY2026, ~2026-11-24.
+
+---
+
 ## 2026-09-01 — v3 Initial Ingest
 
 **Trigger**: User requested a new ticker be added to the tracking list with full analysis. No prior DKS page existed → Workflow A (first-run ingest) per CLAUDE.md §6.

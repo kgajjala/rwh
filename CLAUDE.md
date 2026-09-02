@@ -96,7 +96,7 @@ EDGAR HTML > IR PDF > analyst summaries. The **[SEC XBRL company-facts API](http
 
 **R12 — Outsiders lens.** §3 carries a one-line grade per [`outsiders.md`](wiki/frameworks/outsiders.md), anchored on countercyclical buyback discipline. Vocabulary: `Outsider · Outsider-leaning · Reinvestor · Steward (not Outsider) · Anti-Outsider`. One sentence of evidence. Surface it to the Verdict **only on a material capital-allocation event** (buyback authorization/execution, dividend init/raise/cut, M&A, large debt action). Keep the ticker's row in `outsiders.md` in sync.
 
-**R13 — One page per ticker; changelog is the event log.** The folder holds exactly `[TICKER].md` and `changelog.md`. Every material update writes a changelog entry stating **Thesis Status** (Strengthened / Weakened / Unchanged) and an **action verb** (Initiate / Add / Reduce / Exit / Hold / Watch / Avoid). Cross-ticker and schema-only events live in **commit messages**, not in any wiki file.
+**R13 — One page per ticker; changelog is the event log.** The folder holds exactly `[TICKER].md` and `changelog.md`. Every material update writes a changelog entry stating **Thesis Status** (Strengthened / Weakened / Unchanged) and an **action verb** (Initiate / Add / Hold / Trim / Exit / Watch / Avoid — *Trim* and *Reduce* are the same action; prefer *Trim*, matching the §4 zone name). Cross-ticker and schema-only events live in **commit messages**, not in any wiki file.
 
 **R14 — Active / Paused.** Header carries `**Status**: Active` or `**Status**: Paused — since YYYY-MM-DD`. README, `index.md` and `watchlist.md` mirror it; Workflow B skips Paused entirely. Quiet ≠ paused: an Active quiet week still logs; a Paused ticker writes nothing.
 
@@ -175,7 +175,7 @@ Trigger: *"ingest [TICKER]"* / *"add [TICKER]"* / *"build a page for [TICKER]"*.
 4. **Synthesize the page** per §4, applying R7–R12.
 5. **Write** `[TICKER].md` + a `changelog.md` initial entry. Delete any legacy `overview.md` / `thesis.md` / `financials.md`.
 6. **Run the closing audit** (R7) — duplication scan and word budget.
-7. **Update the cross-file layer** (§8), then **commit and push** (§9).
+7. **Update the cross-file layer** (§8) — including the `index.md` Summary cell with its verb and fresh upside/downside pair, and the `Updated` date in the same edit. Then **commit and push** (§9).
 
 ## 7. Workflow B — Incremental Update
 
@@ -195,7 +195,7 @@ Trigger: *"weekly update"* / *"update [TICKER]"*.
 
    §2 rarely moves on a single earnings print. Do not touch a section the news did not touch.
 4. **Quiet week** → write only a `[YYYY-MM-DD] — No Material Events` changelog entry with a price / short-interest / consensus snapshot. **Do not modify `[TICKER].md` and do not bump any dates.**
-5. **Changelog** entry mirroring the sections refreshed, ≤200 words (R7). Then §8 and §9.
+5. **Changelog** entry mirroring the sections refreshed, ≤200 words (R7). Then §8 — re-derive the `index.md` Summary against the new price and scenario set, since both the verb and the upside/downside pair move whenever §4 or the price does — and §9.
 
 ## 8. Cross-File Layer
 
@@ -204,8 +204,21 @@ Three files summarize the ticker set. **Each carries only what is unique to it**
 | File | Carries | Hard cap |
 |---|---|---|
 | `README.md` | `Ticker \| Status \| Updated \| Punchline`, alphabetical; `*N tickers.*` counter below | **Punchline ≤ 30 words** — the verdict and the one number behind it |
-| `wiki/index.md` | `Ticker \| Status \| Company \| Moat \| Conviction \| Updated \| Summary` + a price/BAIT/recommendation table + pending data gaps | **Summary ≤ 40 words.** No "last refresh" narrative — a bare `*Last updated: YYYY-MM-DD*` line only |
+| `wiki/index.md` | `Ticker \| Status \| Company \| Moat \| Conviction \| Updated \| Summary` + a price/BAIT/recommendation table + pending data gaps. **Summary format below.** | **Summary ≤ 40 words.** No "last refresh" narrative — a bare `*Last updated: YYYY-MM-DD*` line only |
 | `wiki/watchlist.md` | Attractiveness ranking: `Rank \| Ticker \| Conviction \| BAIT \| PW EV vs. price \| Recommendation \| Next catalyst` + price-target table + earnings calendar + macro watch items. Active only; Paused in a footer | **Ranking cell ≤ 40 words.** No header changelog |
+
+### The `index.md` Summary cell
+
+The one place a reader can scan the whole book and see, per ticker, *what to do and what it is worth*. Three parts, in this order, ≤40 words total:
+
+1. **The action verb**, leading — 🟢 Initiate / Add · 🟡 Hold / Watch · 🔴 Trim / Exit / Avoid. Where non-holder and holder diverge, give both (`Initiate / Hold-Add`).
+2. **One or two lines on the opportunity** — what the setup is, in plain words. Not a metrics dump.
+3. **Upside and downside**, always as a pair and always defined the same way:
+   - **Upside** = **PW EV vs. spot** — what the probability-weighted case is worth from here.
+   - **Downside** = **Bear case vs. spot** — what it costs if the thesis fails.
+   - Write it as `PW EV $204: +49% up / −27% down`. Both legs come from the §4 scenario set, so they always reconcile to that page's R/R (R8) without restating it.
+
+**These percentages are point-in-time and go stale as the price moves.** That is expected and disclosed by the `Updated` column in the same row — which is why the two must never drift apart. Refresh the Summary, the percentages and the `Updated` date **in the same edit**, on every Workflow A ingest and every Workflow B incremental that touches the page. **A quiet week refreshes none of them** — it does not touch `[TICKER].md`, so the row keeps its old date and its old numbers, correctly labelled as of that date.
 
 ⚠️ **The v3 failure mode this replaces**: the same ~400-word block written three times, plus `index.md` accreting a single 4,000-word "last refresh" line. If a reader needs the full story, they open the ticker page. These three files are indexes, not summaries.
 

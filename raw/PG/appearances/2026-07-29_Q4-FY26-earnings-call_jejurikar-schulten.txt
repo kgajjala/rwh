@@ -1,0 +1,30 @@
+# P&G — Q4 FY2026 Earnings Call, 2026-07-29
+# Speakers: Shailesh Jejurikar (Chairman, President & CEO), Andre Schulten (CFO)
+# Source: https://www.fool.com/earnings/call-transcripts/2026/08/07/procter-gamble-pg-q4-2026-earnings-call-transcript/
+# R9 appearance sweep, window 2026-05-30 -> 2026-09-02:
+#   - Q4 FY2026 earnings call (2026-07-29) — the ONLY management appearance located in the window.
+#   - No broker-conference fireside, no CNBC/Bloomberg earnings-day interview, no podcast located.
+#   - Barclays Global Consumer Staples Conference runs early-to-mid September 2026 (Mondelez
+#     confirmed Sep 9). P&G has presented in prior years (Moeller + Schulten, Sep 4 2025) but
+#     2026 participation was NOT announced as of 2026-09-02. Treat as expected, not confirmed.
+
+## Scripted (from the release, Jejurikar)
+"Fiscal 2026 was a year of foundation building while continuing to grow sales and profit and
+ return high levels of cash to shareowners despite a very challenging geopolitical and economic
+ environment."
+"In fiscal 2027, we expect to deliver progress on each of these key measures despite continued
+ volatility... We are confident in our plans to accelerate growth from semester-to-semester, and
+ our investments will be funded with a strong productivity program."
+
+## FY2026 shareholder letter (ARS filed 2026-08-28) — Pattern C, new in window
+"We met our core objectives for fiscal year 2026 despite unexpected headwinds."
+"Organic sales grew more than 1%. Core earnings per share grew 1%. On a currency neutral basis,
+ core earnings per share were in-line with the prior year."
+"Over the course of the year, we sequentially improved top-line results — moving from up one point
+ in the first half of the year to two points in the second half."
+"Nine of 10 product categories held or grew organic sales for the year... Family Care was down."
+"Twenty-six of our top 50 category/country combinations held or grew share for the fiscal year.
+ Five of 10 product categories held or grew share globally. In aggregate, global value and volume
+ share trends improved in the back-half, exiting the year roughly flat."
+"E-commerce sales increased 6%, now representing 20% of Company total sales."
+"There is clearly more work to be done to sustain and accelerate the momentum underway."

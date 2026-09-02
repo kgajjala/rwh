@@ -1,0 +1,27 @@
+# PepsiCo — Q2 2026 Earnings Call / Release, 2026-07-09
+# Speaker: Ramon Laguarta (Chairman & CEO)
+# Sources: SEC 8-K Ex-99.1; https://www.fool.com/earnings/call-transcripts/2026/07/09/pepsico-pep-q2-2026-earnings-call-transcript/
+# R9 appearance sweep, window 2026-07-01 -> 2026-09-02:
+#   - Q2 2026 earnings call (2026-07-09) — the ONLY management appearance located in the window.
+#   - No broker-conference fireside, no earnings-day TV interview, no podcast located.
+#   - No 8-K filed between 2026-07-09 and 2026-09-02, corroborating an absence of corporate events.
+
+## Laguarta, scripted
+"Our second quarter results featured strong organic volume and net revenue growth for the global
+ convenient foods and global beverages businesses. Year-to-date, PepsiCo's global organic volume
+ has increased at the highest rate since 2022 - aided by the strength of the international business
+ and the continued evolution of the portfolio to offer more choices through portion control
+ varieties, diverse ingredients, functional benefits such as hydration, protein and fiber, energy
+ and zero sugar beverage varieties."
+"Looking ahead, we will continue to execute on our strategic priorities with a focus on accelerating
+ top line growth - including the restaging of certain global brands, innovating with emerging,
+ functional and permissible offerings and investing in certain affordability initiatives. We are
+ also elevating productivity across the organization to improve operating leverage."
+
+## The counterweight, from the same release
+"In North America, the convenient foods business gained volume market share aided by innovation and
+ affordability initiatives. Convenient foods net revenue declined and primarily reflects lower
+ effective net pricing."
+Management on the call: "Our North America business was softer than we anticipated in the second
+ quarter, and we now expect a more gradual improvement in performance trends for the balance of
+ this year."

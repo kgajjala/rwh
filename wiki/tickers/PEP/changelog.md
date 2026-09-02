@@ -4,6 +4,29 @@
 
 ---
 
+## [2026-09-02] — Q2 2026 Earnings · migrated v3.0 → v4.0
+
+**Trigger**: [Q2 2026 results](../../../raw/PEP/press-releases/2026-07-09_Q2-2026_earnings.txt) (Jul 9, SEC 8-K Ex-99.1).
+**Sources**: that release, the [Q2 call](../../../raw/PEP/appearances/2026-07-09_Q2-2026-earnings-call_laguarta.txt), Q2 10-Q; price re-verified at [Yahoo](https://finance.yahoo.com/quote/PEP/).
+
+### Changed
+- **The page's central question got a split answer.** Global organic volume hit its **highest rate since 2022** and NA convenient foods **gained volume share** — but NA convenient foods **net revenue declined** on *"lower effective net pricing."* The volume was bought.
+- **Core operating margin 16.8%, −40 bps**; core operating profit +4%.
+- **Core constant-currency EPS +1%** in Q2 (YTD +3%) vs. a **+4–6%** full-year guide — now materially back-half loaded.
+- Revenue quality: of +6.4% net revenue only **2.4 pts were organic** (FX +2.2, M&A +1.8).
+- Guidance **affirmed, not raised**; management called NA *"softer than we anticipated."*
+- ⚠️ Consensus **Buy → Hold**: Citigroup to Neutral ($170 → $145), TD Cowen Hold ($150 → $145).
+- **No 8-K filed Jul 9 → Sep 2** — a genuinely quiet corporate window.
+
+### Status
+- **Thesis**: 🟡 **Unchanged, wider error bars** — Q2 strengthened the bull leg (volume/share) and the bear leg (margin/pricing) simultaneously.
+- **PW EV** $182.90 → **$191** · **R/R** 7.4:1 → **4.9:1** (bear deepened $127 → $119 to price the margin cost the prior set ignored) · **BAIT** Triple → **Double (B+A)**, the informational edge gone now the Street has re-rated.
+- **Verbs**: **Initiate (scaled) / Hold-Add on weakness**; entry $127–150 → **≤$152**, spot inside.
+
+**Next trigger**: Q3 2026, **2026-10-08** — NA convenient foods revenue, and whether the guide holds.
+
+---
+
 ## [2026-07-01] — Analyst Target-Cut Cluster + Elliott Primary-Source Deep Dive + GLP-1 Adversarial Review
 
 **Trigger**: Weekly update (Workflow B). Owner supplied Elliott's Sept 2, 2025 letter to PepsiCo's Board as a primary source and requested (1) confirmation of whether anything has changed on Elliott's activist involvement, and (2) an adversarial for/against analysis of the "long GLP-1 / short food" trade vs. a food-adaptation coexistence thesis. This triggered a deeper-than-routine pass layered on the standard §9 refresh.

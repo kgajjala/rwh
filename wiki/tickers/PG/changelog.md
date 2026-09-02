@@ -4,6 +4,30 @@
 
 ---
 
+## [2026-09-02] — Q4 FY2026 + FY2027 Guidance + New Shareholder Letter · migrated v3.0 → v4.0
+
+**Trigger**: [Q4 FY2026 results](../../../raw/PG/press-releases/2026-07-29_Q4-FY26_earnings.txt) (Jul 29), [FY2026 10-K](https://www.sec.gov/Archives/edgar/data/80424/000008042426000103/pg-20260630.htm) (Aug 4), [FY2026 shareholder letter](../../../raw/PG/shareholder-letters/2026_letter.txt) (Aug 28).
+**Sources**: those three, plus the [Q4 call](../../../raw/PG/appearances/2026-07-29_Q4-FY26-earnings-call_jejurikar-schulten.txt) and DEF 14A; price re-verified at [Yahoo](https://finance.yahoo.com/quote/PG/).
+
+### Changed
+- **Q4 organic sales 0%** — volume, pricing and mix each neutral. Q3's +2% volume, which this page's recovery thesis rested on, **did not repeat**.
+- **Q4 core EPS −3%**; currency-neutral core EPS **−5%**.
+- **FY2026 organic +1% came entirely from pricing**; volume and mix flat for the year.
+- **Operating income fell 4%** ($20.5B → $19.7B) on +3% sales; margin 19.1% → 18.5%.
+- **FY2027 core EPS guided in-line to +3%** ($6.89–$7.11) against **$0.56/sh of cost headwinds — an 8% drag**.
+- **Adjusted FCF productivity guided 100% → 85–90%.**
+- Jejurikar added the **Chairman** title; 70th consecutive dividend increase.
+- Horizon corrected to a true 5-year terminal (R8) — the prior page computed a 5-year PW EV but reported return over "1–2 years."
+
+### Status
+- **Thesis**: 🔴 **Weakened** — the recovery stalled and the cost base turned against it.
+- **PW EV** $159.50 → **$164** · **R/R** 1.3:1 → **2.6:1** · **BAIT** Low-Moderate → **Single (A-Mod)**
+- **Verbs**: **Watch / Hold** (held); entry **<$140 → ≤$132**. ⚠️ Spot $147.40 is now *above* entry, with upside (+12%) below downside (−15%).
+
+**Next trigger**: Q1 FY2027, **2026-10-22** — organic volume is the number that matters.
+
+---
+
 ## [2026-05-30] — No Material Events
 
 **Lookback window**: 2026-05-10 → 2026-05-30

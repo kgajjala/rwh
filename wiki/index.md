@@ -41,7 +41,7 @@ user-directed, Workflow C.1). Per-page schema-version history lives in git.
 | [LLY](tickers/LLY/LLY.md) | Active | Eli Lilly | Wide | High | 2026-05-01 | Q1 +56% rev / Mounjaro +125% / FY26 guide raised; Triple BAIT; Initiate / Hold-Add at ~$974 |
 | [LOW](tickers/LOW/LOW.md) | Active | Lowe's Companies | Narrow | Moderate | 2026-05-31 | **v3.0 Initial Ingest** — #2 US home improvement at $214 (~3rd %ile, –27% from high) / ~17× FY26E P/E (6× discount to HD); housing lock-in + FBM ($8.8B, 13.4× EBITDA at construction peak) integration risk priced in; Dividend King (63 consec raises); Pro 30% of retail → FBM unlocks $250B construction TAM. Double BAIT (B+A-Mod); PW EV $322 (+50% 5-yr); R/R ~4.9:1. **Initiate / Hold-Add**; entry ≤$260; Q2 FY26 ~Aug. |
 | [LNTH](tickers/LNTH/LNTH.md) | Paused | Lantheus Holdings | Narrow | Moderate | 2026-05-10 | **v2.9→v2.14** + Q1 rev $377M beat / EPS $1.46 beat; PYLARIFY –6.5% net price; FY26 reaffirmed; **strategic pivot to pure radiodiagnostics — exploring alternatives for radiotherapeutic pipeline**; LNTH-2501 PDUFA Jun 29 / MK-6240 Aug 13; PW EV $96 (5-yr); R/R 1.5:1 spot / 3.6:1 entry; **Watch / Hold**; entry $65–78 |
-| [LULU](tickers/LULU/LULU.md) | Active | Lululemon Athletica | Narrow | Moderate | 2026-05-01 | Wilson DFAN14A proxy fight + Bracey board addition; new 52-wk low ~$138; Watch / Initiate <$135 / Hold |
+| [LULU](tickers/LULU/LULU.md) | Active | Lululemon Athletica | Narrow, eroding | Low-Moderate | 2026-09-04 | 🟡 **Watch / Hold** — Americas comps −12% and International rolled over to −3%, so no region is growing; new CEO arrives Sep 8. **PW EV $128: +27% up / −40% down.** |
 | [MP](tickers/MP/MP.md) | Paused | MP Materials | Wide-Strategic | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 huge beat (rev $90.6M +49%, NdPr 917 MT Q1 record, +63% YoY; Magnetics +306%); **10X campus groundbreaking confirmed with full DoW support**; HREE separation commissioning Q2; cash $1.74B; Wedbush PT $90→$100; PW EV $86 (5-yr); R/R 2.5:1; **Initiate dips $55–68 / Hold** |
 | [MSFT](tickers/MSFT/MSFT.md) | Active | Microsoft | Wide | High | 2026-05-01 | Q3 FY26 — Azure +40%, EPS +23%; FY26 capex $190B drove –5–6% sell-off to ~$414; Hold/Add <$420 |
 | [NFLX](tickers/NFLX/NFLX.md) | Active | Netflix | Wide | Moderate | 2026-07-13 | Pre-Q2-earnings update — engagement deep dive + WBD break-fee correction; Triple BAIT (B+A+I-Mod); FY26 op-margin 31.5% intact; Initiate (small, scaled); entry $65–75 |
@@ -94,7 +94,7 @@ user-directed, Workflow C.1). Per-page schema-version history lives in git.
 | LLY | $883.96 | –22.0% | Triple (A+I-Strong, B-Mod) | Initiate / Hold-Add on pullback; entry $750–850 |
 | LNTH | *(Paused 2026-05-10)* | — | — | — |
 | LOW | ~$214 (5/30/26) | –27% | Double (B+A-Mod) | Initiate / Hold-Add; entry ≤$260 |
-| LULU | $143.80 | –57.7% (52-wk low) | Double (B-Strong + A-Mod) | Watch / Initiate <$135 / Hold |
+| LULU | **$100.25** (9/4/26) | **–55.6%** (~2nd %ile) | **Triple (B+A+T)** | 🟡 **Watch / Hold**; entry ≤$96; PW EV $128; R/R 3.2:1 |
 | MP | *(Paused 2026-05-18)* | — | — | — |
 | MSFT | $424.62 | –23.5% | **Quadruple (B+A+T-Strong, I-Mod)** | Initiate / Hold-Add; entry $380–440 |
 | NFLX | $73.37 (post-split) | –42.6% | Triple (B+A+I-Mod) | Initiate (small, scaled); entry $65–75 |

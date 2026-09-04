@@ -4,6 +4,32 @@
 
 ---
 
+## [2026-09-04] — Q2 FY2026 + guidance cut · proxy settled · CEO arrives · migrated v3.0 → v4.0
+
+**Trigger**: [Q2 FY2026 results](../../../raw/LULU/press-releases/2026-09-03_Q2-FY26_earnings.txt) (Sep 3); stock −17.7% to a fresh 52-wk low.
+**Sources**: Q2 and [Q1](../../../raw/LULU/press-releases/2026-06-04_Q1-FY26_earnings.txt) releases, [Cooperation Agreement](https://www.sec.gov/Archives/edgar/data/1397187/000121390026061531/ea0292191-8k_lululemon.htm) and [annual-meeting](https://www.sec.gov/Archives/edgar/data/1397187/000139718726000088/lulu-20260624.htm) 8-Ks, [XBRL facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001397187.json), 15 Form 4s parsed from XML, price re-verified at [Yahoo](https://finance.yahoo.com/quote/LULU/).
+
+### Changed
+- **Price $137.98 → $100.25** (−27%); fresh 52-wk low $97.99, ~2nd %ile.
+- **Americas comps −5% → −12%.**
+- **International comps +13% → −3%** (+8% → −6% cc) — the last growing region rolled over. The new information.
+- **The headline cut understates the real one**: June's EPS guide *excluded* tariff refunds, September's *includes* $0.86. Like-for-like, FY2026 EPS fell $11.05 → ≈$8.75 — a **−20.9% cut**, not −13.1%.
+- **Q2 flattered by a $134.5M refund** (+560 bps margin, +$0.86 EPS). Ex-refund: gross margin −360 bps, operating margin −750 bps, EPS ≈$2.06 vs $3.10.
+- **Q3 guided −10% to −11% revenue** — worse than Q2's −4%.
+- ✅ **Wilson proxy fight settled**; Gentile and Maurer seated, board 9 → 11. ⚠️ Say-on-pay drew 36.8% against.
+- 📅 **Heidi O'Neill becomes CEO Sep 8**, ending seven months of interim Co-CEOs.
+- 💰 H1 buybacks **$688.3M at ≈$140** vs. $100 spot — grade held **Anti-Outsider**.
+- 🟢 Sole insider buy: director Bergh, 4,275 sh at $117.05. Short interest **10.33% of float, 3.15 days to cover**.
+
+### Status
+- **Thesis**: 🔴 **Weakened** — the trough-vs-structural question resolved toward structural in both regions.
+- **PW EV** $192 → **$128** · **R/R** 2.6:1 → **3.2:1** · **BAIT** Double → **Triple (B+A+T)**, T added on the short-interest setup
+- **Verbs**: **Watch / Hold** (non-holder Initiate <$135 → **Watch**); entry <$135 → **≤$96**, set at the 25% MoS line because Q3 is guided worse than Q2.
+
+**Next trigger**: **2026-09-08**, O'Neill's first day; then Q3 (early December) — International comps and her first guidance.
+
+---
+
 ## [2026-05-01] — Governance Overhang Adds (Wilson DFAN14A + Bracey Board Appointment)
 
 **Trigger**: Apr 28 board added Esi Eggleston Bracey (ex-Unilever CGMO); Apr 29 Chip Wilson DFAN14A letter to shareholders pressing 3 nominees for the 2026 Annual Meeting; escrow / non-disparagement standoff disclosed; Lululemon countered alleging Wilson aided Alo + Vuori. Stock to new 52-wk low $136.92 intraday.

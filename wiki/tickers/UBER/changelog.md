@@ -1,5 +1,31 @@
 # UBER Changelog
 
+## [2026-09-07] — Q2 2026 catch-up · Delivery Hero offer · migrated v3.0 → v5.0
+
+**Trigger**: [Q2 2026 results](https://www.sec.gov/Archives/edgar/data/1543151/000154315126000027/uberq226earningspressrelea.htm) (Aug 5); [Delivery Hero business combination agreement](https://www.sec.gov/Archives/edgar/data/0001543151/000155278126000382/e26302_ex99-1.htm) (Jul 16); [financing 8-K](https://www.sec.gov/Archives/edgar/data/1543151/000155278126000414/e26328_uber-8k.htm) (Aug 6); Delivery Hero boards' recommendation (Sep 2). Window May 22 → Sep 7.
+**Sources**: the filings above · [Q2 prepared remarks](https://s23.q4cdn.com/407969754/files/doc_earnings/2026/q2/transcript/Uber-Q2-26-Prepared-Remarks.pdf) · [Q2 10-Q](https://www.sec.gov/Archives/edgar/data/1543151/000154315126000032/uber-20260630.htm) · [FY2025 10-K](../../../raw/UBER/filings/UBER-10K-FY2025.htm), [FY2023 10-K](../../../raw/UBER/filings/UBER-10K-FY2023.htm), [2026 DEF 14A](../../../raw/UBER/filings/UBER-DEF14A-2026.htm) · [XBRL](https://data.sec.gov/api/xbrl/companyfacts/CIK0001543151.json) · [TechCrunch](https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/) · [MarketBeat](https://www.marketbeat.com/stocks/NYSE/UBER/forecast/) · [StockAnalysis](https://stockanalysis.com/stocks/uber/statistics/) · [SecForm4](https://www.secform4.com/insider-trading/1543151.htm) · [Yahoo](https://finance.yahoo.com/quote/UBER/) Sep 4 close
+
+### Scorecard
+*(the v3 page carried thesis-break triggers rather than three tests; the three that resolved in the window are scored)*
+- Mobility revenue re-accelerates from +5% — 🟡 Reported +1% is a UK accounting artifact ($1.1B, ~8 pts); bookings +20% cc, trips +18%.
+- Delivery Hero on value-destructive terms — 🟡 All cash, gross leverage <2×, accretive high-single-digit by year three; open until the buyback resumes.
+- Buyback pace materially slows — 🔴 Fail: Q2 $510M vs Q1 $3.0B; management calls it temporary.
+
+### Changed
+- **§1 rebuilt** on Q2 (bookings $58.0B +22% cc, Adj. EBITDA $2.8B, FCF $2.8B, MAPCs 208M, trips 3.9B); driver tree; **operating invested capital flat at ~$12B FY2023→FY2025 while NOPAT rose fivefold** (ROIC 7% → 36%); quality rows.
+- **§2–§4**: growth levers (ads $2.5B run-rate, Grocery & Retail $15B, Uber One >70% of Delivery bookings); moat widening, drivers ≈43% of bookings; incentives (GB / Adj. EBITDA / EBITDA-less-SBC; 3-yr non-GAAP OI for 2026 PRSUs); guidance grade Consistent beater; promises ledger; **Outsider grade → on probation** (Q2 buyback $510M vs $3.0B).
+- **§5 scenario set rebuilt** to three, horizon FY2030 → FY2031, Delivery Hero debt included: Bull $295 / Bull+ $400 → **$330**; Base $195 → **$190**; Bear $52 → **$55**; probabilities 25/5/45/25 → **20/50/30** on base rates. Entry <$85 → **≤$96** (hurdle-derived); Trim $180–260 → $178–330.
+- **§7**: short interest 2.72% → 2.28%; Aurora stake sales ≈$951M; consensus ~$104.
+
+### Status
+- **Thesis**: Unchanged (operations strengthened, capital allocation weakened)
+- **PW EV**: $195 → $178 · **PW return/yr**: n/a → 18.6% (hurdle 13%) · **R/R**: 11.3 → 12.2 · **BAIT**: Triple (B+A+I) held, T Weak
+- **Verbs**: non-holder Initiate · holder Add
+
+**Next trigger**: 📅 Nov 3 Q3 2026 (buyback pace, trips); 📅 Nov 5 Delivery Hero acceptance deadline.
+
+---
+
 ## [2026-05-22] — Incremental: $10B+ AV capital commitment (Waymo break) + Delivery Hero takeover study + post-Q1 analyst split
 
 **Trigger**: Between-prints Workflow B scan over the 2026-05-06 → 2026-05-22 window (Q2 earnings not until ~Aug). Three meaningful events: (1) Uber publicly broke from Waymo and disclosed $10B+ of AV capital commitments (May 15); (2) Uber raised its Delivery Hero stake to ~25% and is studying a full takeover (May 18–22); (3) a two-sided post-Q1 analyst cluster (May-7 bull raises vs. May-11 BNP/HSBC/UBS downgrades). Stock −7.1% to $71.82 (near 52-wk low).

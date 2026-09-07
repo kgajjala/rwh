@@ -4,6 +4,35 @@
 
 ---
 
+## [2026-09-07] — Migrated v4.0 → v5.0 (no new company events)
+
+**Trigger**: v5.0 pilot migration. The Sep 2 → Sep 7 window had no filings, no appearances and no rating changes.
+**Sources**: [Q4/FY2025 release](https://www.sec.gov/Archives/edgar/data/77476/000007747626000009/q420258-kxexhibit991.htm) (division volume and pricing) · [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000077476.json) · [2026 DEF 14A](https://www.sec.gov/Archives/edgar/data/77476/000130817926000169/pep015012_def14a.htm) (partial) · [Elliott agreement release](https://www.pepsico.com/en/newsroom/press-releases/2025/pepsico-announces-priorities-to-enhance-shareholder-value-and-provides-preliminary-2026-outlook) · [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/PEP/earnings/) · [StockAnalysis](https://stockanalysis.com/stocks/pep/statistics/) · [SecForm4](https://www.secform4.com/insider-trading/77476.htm) · [Yahoo](https://finance.yahoo.com/quote/PEP/) Sep 4 close
+
+### Scorecard
+- Volume-for-price trade accretive — 🟡 Pending (Oct 8)
+- Back-half acceleration real — 🟡 Pending (Oct 8)
+- Multiple cheap rather than correctly de-rated — 🟡 Pending; replaced by the incremental-return test (FY2026 10-K, Feb 2027), which is the sharper version of the same question.
+
+### Changed
+- **Five-year table added** (the v4 page carried only the quarter): ROIC 15.5–17.2% FY2021–24 → 13.7% GAAP / 17.3% core FY2025; **3-yr incremental ROIC −3.0%** on +$11.6B of capital; reinvestment ≈47%; core leverage 2.4×.
+- **Driver tree**: FY2025 organic +1.7% = volume ≈−1.5% / pricing ≈+3.2%, by division.
+- **Stage**: mature ex-growth. **Moat trend**: narrowing (pricing power).
+- **Incentives**: pay mix ~27/23/50; metric weightings `[link pending]` (proxy PDF exceeded fetch limits); logged in `index.md` gaps.
+- **Promises ledger**: the 4–6% / high-single-digit algorithm and the FY2025 guide both failed; Elliott commitments behind at H1.
+- **Price-implied expectations**: ~4% perpetual growth at r = 8%, above delivered organic growth.
+- **Re-marked $141.20 → $137.63**: core P/E 16.7× → 16.2×; yield 4.23% → 4.30%; short interest 1.92% → 1.73%; consensus ~$158 → ~$155.
+- **Verbs Initiate (scaled) / Hold-Add → Watch / Hold**: PW return 11.0%/yr against the 13% hurdle; entry ≤$152 → **≤$126**. Scenarios unchanged.
+
+### Status
+- **Thesis**: Unchanged (no new company information; the classification is new)
+- **PW EV**: $191 → $191 · **PW return/yr**: n/a → 11.0% (hurdle 13%) · **R/R**: 4.9 → 6.0 (spot moved toward the Bear anchor) · **BAIT**: Double (B+A), held
+- **Verbs**: non-holder Watch · holder Hold
+
+**Next trigger**: 📅 Oct 8 Q3 2026.
+
+---
+
 ## [2026-09-02] — Q2 2026 Earnings · migrated v3.0 → v4.0
 
 **Trigger**: [Q2 2026 results](../../../raw/PEP/press-releases/2026-07-09_Q2-2026_earnings.txt) (Jul 9, SEC 8-K Ex-99.1).

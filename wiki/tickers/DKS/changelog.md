@@ -4,6 +4,32 @@ Append-only. Most recent entry first.
 
 ---
 
+## [2026-09-07] — Q2 FY2026 10-Q · migrated v4.0 → v5.0
+
+**Trigger**: [Q2 FY2026 10-Q](https://www.sec.gov/Archives/edgar/data/1089063/000108906326000036/dks-20260801.htm) filed Sep 3 (first-half cash-flow statement); v5.0 pilot migration.
+**Sources**: 10-Q above · [2026 DEF 14A](https://www.sec.gov/Archives/edgar/data/1089063/000108906326000015/dks-20260501.htm) · [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001089063.json) · Form 4s [Sep 2](https://www.sec.gov/Archives/edgar/data/1089063/000119890626000008/xslF345X06/wk-form4_1788380636.xml) · [StockAnalysis](https://stockanalysis.com/stocks/dks/statistics/) · [MarketBeat](https://www.marketbeat.com/stocks/NYSE/DKS/earnings/) · [Yahoo](https://finance.yahoo.com/quote/DKS/) Sep 4 close
+
+### Scorecard
+- Foot Locker cyclical, not structural — 🟡 Pending (Q4 FY2026 reported comp)
+- DICK'S insulated — 🟡 Pending (Nov 24 comp guide)
+- Balance sheet funds the wait — 🟡 Pending, first leg failed: H1 FCF $48.8M vs $224.8M of dividends (prior-year H1 $209.5M), capex +41%. Replaced by a sharper test: nine-month FCF, revolver use, March FY2027 capex guide.
+
+### Changed
+- **Page rebuilt to v5**: driver tree (sales/sq ft ≈$312 DICK'S vs ≈$608 Foot Locker); capital rows (ROIC 23% → 6.8% FY2022→FY2025, 3-yr incremental ROIC −4.0%); growth levers; moat read narrowing; incentives on Adjusted Non-GAAP EBT only; guidance grade Mixed, deteriorating; promises ledger (two of three failed).
+- **Re-marked $136.79 → $139.15** (Sep 4 close): P/E 12.1× on the FY2026 guide midpoint; yield 3.66% → 3.59%; EV ≈$13.3B; 52-wk %ile ~13th → ~15th.
+- **Insiders**: Colombo bought a further 913 shares Sep 2; window purchases ≈$3.84M, zero sales. Hobart's $4.6M sale at $228 (May 28) recorded in §4 as credibility context.
+- **Short interest** restated on a float basis: 10.3%, −14% MoM (6.22M vs 7.23M).
+- **Verbs Initiate (scaled) / Hold-Add → Watch / Hold**: PW return 11.5%/yr against the 13% hurdle; entry ≤$163 → **≤$130** (hurdle-derived). Scenarios and probabilities unchanged.
+
+### Status
+- **Thesis**: Weakened (the FCF leg)
+- **PW EV**: $204 → $204 · **PW return/yr**: n/a → 11.5% (hurdle 13%) · **R/R**: 5.2 → 4.9 (spot) · **BAIT**: Triple (B+A+T), held
+- **Verbs**: non-holder Watch · holder Hold
+
+**Next trigger**: 📅 Sep 14 Goldman fireside (Foot Locker timeline, buyback); 📅 ~Nov 24 Q3 FY2026.
+
+---
+
 ## [2026-09-02] — Schema migration v3.0 → v4.0
 
 **Trigger**: Schema v4.0 promoted to [CLAUDE.md](../../../CLAUDE.md); DKS migrated as the in-flight ticker. No new research — same verified facts as the 2026-09-01 ingest, re-synthesized into the v4 page shape.

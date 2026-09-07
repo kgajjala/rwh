@@ -60,7 +60,9 @@ rwh/
 - Every fact has exactly one home. Elsewhere it is **referenced in a clause**, never re-explained. Canonical homes: price/range → header · driver tree, ROIC, quality rows → §1 · growth levers and runway → §2 · moat mechanism, trend, customer → §3 · capital allocation, incentives, credibility, Outsider grade → §4 · multiples, scenarios, PW EV, return decomposition, hurdle, R/R → §5 · sentiment, analysts, insiders, short interest → §7 · the argument → The Call.
 - **Synthesis, not transcription.** A verbatim quote must earn its place — use one only where paraphrase would weaken it. Never a chronological table of source extracts where 2–3 sentences would do.
 - **No schema mechanics on the page.** No references to this file, no "corrected from" / "prior framing" / "previously we said". Git is the audit trail.
-- **Budget: ≤1,500 words of prose** for a full page, **≤250 words** for a changelog entry — both measured on prose only, **excluding tables and source lists** (a page's Sources section, a changelog's Trigger/Sources block). Citing sources properly must never cost you budget. The v5 additions (driver tree, growth levers, promises ledger, return decomposition) are **tables and one-line fields by design** so that depth does not cost prose. Below ~1,200 a page starts losing the evidence that makes its argument credible; below ~250 a changelog starts dropping metrics a later reader needs. A table with one meaningful row is a sentence.
+- **Budget — a guardrail against sprawl, not a hard cap: ~1,500 words of prose** for a full page, **~250 words** for a changelog entry. Both are measured on prose only, **excluding tables and source lists** (a page's Sources section, a changelog's Trigger/Sources block), so citing sources properly never costs you budget, and the v5 additions (driver tree, growth levers, promises ledger, return math) are **tables and one-line fields by design** so that depth does not cost prose.
+  - The number exists to stop verbosity compounding, which is the failure mode that produced 6,000–12,000-word v3 pages. It is not a reason to drop a fact the decision rests on. **Overshooting by 10–15% to keep load-bearing evidence is correct; cutting evidence to hit the number is not.** Below ~1,200 a page starts losing the evidence that makes its argument credible, and below ~250 a changelog starts dropping metrics a later reader needs.
+  - When a draft runs long, the first move is **compression, not deletion**: convert a bulleted block to a table, collapse a restated claim to a reference, cut a quote that paraphrase would carry. Only if it is still long after that does something get left out — and then it is the least load-bearing thing, named nowhere. A table with one meaningful row is a sentence.
 - **Closing audit, required**: scan for any thesis-carrying *claim* — a figure, a rate, a named risk, a valuation multiple — appearing more than twice, and collapse the extras to a reference. Proper nouns are exempt: naming an initiative, a segment or a person in three places is not duplication, **restating what it proves is**.
 
 **R8 — Valuation: one 5-year forward lens, one hurdle.**
@@ -140,7 +142,7 @@ Eight sections. The front matter *is* the deliverable; the sections exist to sup
 **Breaks if**: <the single most load-bearing fact — if this goes, the thesis goes.>
 
 ## The Call
-≤200 words. What the market has priced, what it has wrong, and the one number that
+~200 words. What the market has priced, what it has wrong, and the one number that
 proves it. This is the ONLY place the argument is made — sections 1–8 supply evidence,
 they do not re-argue.
 
@@ -192,7 +194,7 @@ Trigger: *"ingest [TICKER]"* / *"add [TICKER]"* / *"build a page for [TICKER]"*.
 3. **Pull the numbers** — SEC XBRL company facts for the multi-year series and the invested-capital components (R10, R16); then 52-wk range, market cap, EV, net debt, operating leases, float, short interest, analyst consensus, 90-day insider activity from Form 4 XML. Classify the asset type and unit of value from `asset-types.md`; add a row there if the type is new.
 4. **Synthesize the page** per §4, applying R7–R12 and R16.
 5. **Write** `[TICKER].md` + a `changelog.md` initial entry. Delete any legacy `overview.md` / `thesis.md` / `financials.md`.
-6. **Run the closing audit** (R7) — duplication scan and word budget.
+6. **Run the closing audit** (R7) — duplication scan, then a length check: if the page is long, compress before you cut.
 7. **Update the cross-file layer** (§8) — including the `index.md` Summary cell with its verb and fresh upside/downside pair, and the `Updated` date in the same edit. Then **commit and push** (§9).
 
 ## 7. Workflow B — Incremental Update
@@ -214,7 +216,7 @@ Trigger: *"weekly update"* / *"update [TICKER]"*.
 
    §3 rarely moves on a single earnings print. Do not touch a section the news did not touch.
 5. **Quiet week** → write only a `[YYYY-MM-DD] — No Material Events` changelog entry with a price / short-interest / consensus snapshot. **Do not modify `[TICKER].md` and do not bump any dates.**
-6. **Changelog** entry mirroring the sections refreshed, ≤250 words (R7). Then §8 — re-derive the `index.md` Summary against the new price and scenario set, since both the verb and the upside/downside pair move whenever §5 or the price does — and §9.
+6. **Changelog** entry mirroring the sections refreshed, ~250 words (R7). Then §8 — re-derive the `index.md` Summary against the new price and scenario set, since both the verb and the upside/downside pair move whenever §5 or the price does — and §9.
 
 ## 8. Cross-File Layer
 

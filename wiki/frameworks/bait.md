@@ -1,7 +1,7 @@
 # BAIT Framework — Mauboussin
 
 **Source**: Michael Mauboussin, "The Success Equation" and related research.
-Applied in Section 12 of every full equity thesis in this wiki.
+Applied as one cell in the Verdict table of every ticker page; a lens is justified in §7 only where its rating is non-obvious.
 
 ---
 
@@ -10,7 +10,8 @@ Applied in Section 12 of every full equity thesis in this wiki.
 BAIT identifies *why* a stock might be mispriced relative to intrinsic value.
 It is not a valuation tool — it is a signal-detection tool. The more BAIT
 factors that overlap on a single name, the higher the conviction that a
-genuine inefficiency exists.
+genuine inefficiency exists. It never sets a verb or a zone (CLAUDE.md R8);
+the hurdle does that.
 
 ---
 
@@ -43,9 +44,10 @@ reader of primary sources (filings, transcripts) can see clearly.
 - Hidden balance sheet optionality (real estate, tax assets, subsidiary value)
 - FCF capex cycle normalization (elevated capex masking true earning power)
 - Take rate expansion mismodeled as flat
+- Incremental ROIC far above or below what the multiple implies (see `compounding.md`)
 
 **Key questions:**
-- What does a rigorous DCF or FCF model yield vs. current price?
+- What does the price-implied expectations line in §5 say the market assumes, and is it beatable?
 - What is consensus EPS in 2 years, and is that beatable? By how much?
 - Is there a specific financial line item that media coverage and sell-side summaries routinely skip?
 
@@ -62,7 +64,7 @@ rely on media summaries and miss it.
 - Earnings transcript Q&A (not covered in press release summaries)
 - Conference presentations (specific unit economics or pilot data disclosed)
 - SEC footnotes (lease obligations, contingent liabilities, related-party transactions)
-- Proxy statement (CEO compensation structure, option grant timing)
+- Proxy statement (incentive metrics, option grant timing)
 - Investor day slide decks (long-term targets not in consensus models)
 
 **Key questions:**
@@ -77,6 +79,8 @@ rely on media summaries and miss it.
 ### T — Technical Factor
 
 Mechanical, non-fundamental price pressure creates a temporary mis-entry point.
+This lens is **informational only**: it can sharpen timing inside an entry zone the
+hurdle already opened, never open one.
 
 **Common technical catalysts:**
 - High short interest → squeeze potential on any positive data
@@ -87,12 +91,6 @@ Mechanical, non-fundamental price pressure creates a temporary mis-entry point.
 - Tax-loss selling season (November–December)
 - Stock split or reverse split signal effects
 
-**Key questions:**
-- Is short interest elevated and what is the short squeeze math?
-- Is the company an active buyer at current prices?
-- Are there any index mechanics creating forced selling?
-- What is the setup in options (put/call ratio, skew)?
-
 **Signal strength**: Strong if multiple technical factors converge at the same price level.
 
 ---
@@ -101,12 +99,14 @@ Mechanical, non-fundamental price pressure creates a temporary mis-entry point.
 
 | Overlap | Signal |
 |---------|--------|
-| 1 factor | Weak — interesting but not high conviction |
-| 2 factors | Moderate — worth building a small position |
-| 3 factors | Strong — high conviction, consider full-size position |
-| 4 factors | Very Strong — maximum conviction, prioritize over other names |
+| 1 factor | Weak — interesting, not high conviction |
+| 2 factors | Moderate — a real setup worth the full page |
+| 3 factors | Strong — high conviction that a mispricing exists |
+| 4 factors | Very Strong — maximum conviction; prioritize the research |
 
-**Template verdict format** (used in thesis.md Section 12):
+Conviction is about the *existence* of a mispricing. Whether to act, and at what price, is the hurdle's job (R8). Sizing of any kind is out of scope (R3).
+
+**Template verdict format** (Verdict table cell, expanded in §7 only if non-obvious):
 > "WING presents a B+A+T triple overlap: [1-sentence on B], [1-sentence on A], [1-sentence on T].
 > Informational (I) signal is moderate. Overall: High conviction."
 

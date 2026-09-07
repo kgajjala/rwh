@@ -4,6 +4,45 @@
 
 ---
 
+## [2026-09-07] — Q2 2026 + GameStop $125 Bid (backfilled) + v4.0 Migration
+
+**Trigger**: 14-week window, baseline 2026-05-31. Q2 printed Aug 5 (beat, guide raised). Separately, a **$125/share GameStop proposal made May 3 and rejected May 12 was never recorded here** — the 2026-05-31 entry was a format-only rewrite, so the bid, the 13D/A and the annual-meeting vote all passed unlogged. Backfilled below.
+
+**Sources**: [Q2 8-K Ex-99.1](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000174/exhibit991erebayq22026.htm) ([extract](../../../raw/EBAY/press-releases/2026-08-05_Q2-2026-results.txt)) · [Q2 10-Q](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/ebay-20260630.htm) · [GameStop 13D/A Jul 17](https://www.sec.gov/Archives/edgar/data/1065088/000119312526307988/xslSCHEDULE_13D_X02/primary_doc.xml) ([timeline](../../../raw/EBAY/corporate-actions/2026_GameStop-acquisition-proposal-timeline.txt)) · [annual meeting](../../../raw/EBAY/filings/2026-06-17_annual-meeting-results.txt) · [Iannone/Fortune Aug 6](../../../raw/EBAY/appearances/2026-08-06_Fortune_Iannone-AI-agents.txt) · [Form 4 Iannone](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000179/xslF345X06/form4.xml) · [stockanalysis statistics](https://stockanalysis.com/stocks/ebay/statistics/) · [forecast](https://stockanalysis.com/stocks/ebay/forecast/) · [ratings](https://stockanalysis.com/stocks/ebay/ratings/)
+
+### Changed
+
+- **Schema**: v3.0 → **v4.0**
+- **Price**: $103.48 → **$103.41**; 52-wk range → **$78.03–$119.31**
+- **GameStop**: $125/sh (~$56B) proposed May 3, **rejected May 12**; stake **9.8%**; Aug 10 weighing withdrawal for a store partnership plus board seats. **[NEW]** risk
+- **Annual meeting**: special-meeting-threshold proposal **failed at 42.7% support**
+- **Q2 revenue**: $3.1B, **+15%** (+14% FXN); GMV $22.4B
+- **Q2 non-GAAP EPS**: **$1.60**; op margin **28.5%**
+- **Focus Categories**: ~30% → **>40% of GMV**, **+26%** — the biggest change here
+- **C2C**: **+20%**; with recommerce now **>70% of GMV**
+- **Active buyers**: **136M** (+2% YoY); **US +6%**
+- **Advertising**: **$596M** (2.7% of GMV)
+- **FY26 guide RAISED**: FXN GMV **11.5–12.5%**
+- **Depop**: closed Jul 30 at **$1.4B** (vs $1.2B announced)
+- **EU de minimis**: **live Jul 1**. Risk **[MATERIALIZED]**
+- **Agentic commerce**: eBay **banned third-party AI shopping agents** — disclosed to Fortune, not in filings
+- **CFO**: corrected Steve Priest → **Peggy Alford**, in seat since May 2025
+- **Consensus**: 27 analysts, Hold, **$116.15**; six firms raised Aug 7–20
+- **Short interest**: 17.37M → **15.78M** shares (3.95% of float)
+- **Insiders**: CEO sold ~22,220 sh at $107–113; **no buying** at a 17% discount to the bid
+- **Scenarios**: horizon **2029 → FY2031E**; Bull $145 → **$195**, Base $115 → **$130**, Bear $60 held; probs → **32/50/18**
+
+### Status
+
+- **Thesis**: **Strengthened** — the guided deceleration never arrived; the mix moved ten points toward the growing half
+- **PW EV**: $113 → **$138** · **R/R**: 1.0:1 → **2.1:1** · **BAIT**: Low-Moderate → **Single (A Strong)**
+- **Verbs**: Watch / partial-Trim → 🟢 **Initiate / Add** — spot sits at the 25% MoS floor ($103.65)
+- **Conviction**: Moderate → **Moderate-to-High**
+
+**Next trigger**: Q3 **≈late Oct** — first full quarter under EU de minimis, and whether take rate compresses on the 8–10% revenue vs 10–12% GMV guide.
+
+---
+
 ## [2026-05-31] — v3.0 Conciseness Rewrite + Section Renumbering
 
 **Trigger**: Schema v3.0 content-compliance pass — applying Rule #20 (synthesis over transcription), Rule #26 (state-once discipline, per-section word budgets), and v3.0 13-section structural requirements.

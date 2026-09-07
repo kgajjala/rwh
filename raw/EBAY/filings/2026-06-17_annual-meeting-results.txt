@@ -1,0 +1,22 @@
+EBAY INC. — 2026 ANNUAL MEETING OF STOCKHOLDERS, held 2026-06-17
+8-K: https://www.sec.gov/Archives/edgar/data/1065088/000106508826000135/ebay-20260617.htm
+Captured: 2026-09-07 (extracted text)
+
+PROPOSAL 1 — Election of 11 directors. All elected.
+  Notable: Adriane M. Brown drew 24.2M votes AGAINST; every other director
+  received under 1.1M against.
+
+PROPOSAL 2 — Ratification of PricewaterhouseCoopers LLP as auditor for FY2026.
+  PASSED. 351.6M for / 49.9M against / 804,521 abstain.
+
+PROPOSAL 3 — Advisory say-on-pay. APPROVED.
+  323.5M for / 43.6M against / 958,769 abstain.
+
+PROPOSAL 4 — Stockholder proposal to lower the ownership threshold required for
+  stockholders to call a special meeting. FAILED.
+  156.9M for / 210.1M against / 1.1M abstain  => ~42.7% support.
+
+  SIGNIFICANCE: this is the procedural mechanism an outside holder (e.g. GameStop,
+  a 9.8% holder) would use to force a shareholder vote outside the annual cycle.
+  It failed, but 42.7% support is high, and the vote was held five weeks after the
+  board rejected the GameStop proposal.

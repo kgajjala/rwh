@@ -1,0 +1,46 @@
+EBAY INC. — Q2 2026 RESULTS (quarter ended 2026-06-30)
+Released 2026-08-05. 8-K: https://www.sec.gov/Archives/edgar/data/1065088/000106508826000174/ebay-20260805.htm
+Ex-99.1: https://www.sec.gov/Archives/edgar/data/1065088/000106508826000174/exhibit991erebayq22026.htm
+10-Q: https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/ebay-20260630.htm
+Captured: 2026-09-07 (extracted text)
+
+RESULTS
+- Net revenue $3.1B, +15% as reported, +14% FX-neutral
+- GMV $22.4B, +15% as reported, +14% FX-neutral
+- GAAP EPS (continuing ops) $1.21 ; Non-GAAP EPS $1.60
+- GAAP operating margin 21.6% ; Non-GAAP operating margin 28.5%
+- GAAP net income $552M, +51%
+- Active buyers 136M, +2% (TTM). US active buyers +6%.
+  Enthusiast buyers 16M, +3%, average annual spend ~$3,600
+- Advertising revenue $596M = 2.7% of GMV; first-party ads +24% organic
+- Free cash flow $326M
+- Share repurchases $310M (~3M shares); dividends paid $138M
+
+STRATEGIC
+- FOCUS CATEGORIES +26%, exceeding 40% OF TOTAL GMV FOR THE FIRST TIME
+  (prior disclosure level was ~30%)
+- C2C GMV +20%+, outpacing overall GMV
+- Focus categories, C2C and recommerce EACH grew >20% and together are
+  >70% of total GMV
+- eBay Live GMV up ~8x YoY across seven markets. eBay did NOT disclose the
+  absolute number, so scale cannot be assessed externally.
+- Depop acquisition CLOSED 2026-07-30 for $1.4B cash (inclusive of adjustments),
+  above the $1.2B originally announced. Expected to add ~2.5pp to Q3 GMV growth.
+  CFO Peggy Alford: Depop becomes "accretive to ... operating income in 2028."
+
+GUIDANCE
+Q3 2026:
+- Revenue $3.07-3.12B (+8-10% FX-neutral)
+- GMV $22.0-22.4B (+10-12% FX-neutral)
+- GAAP EPS $0.94-0.99 ; Non-GAAP EPS $1.36-1.42
+Full year 2026 (RAISED):
+- FX-neutral GMV growth 11.5-12.5%
+- Consolidated revenue growth 11-12% (Depop ~1pp of it)
+- Non-GAAP operating income growth 10-12% (Depop ~2pp headwind)
+- Non-GAAP EPS growth 10-12%, despite ~2.5pp Depop dilution
+
+NOTE: the release contains NO mention of the GameStop proposal.
+
+TRANSCRIPT SOURCES (cross-checked, two independent):
+https://www.fool.com/earnings/call-transcripts/2026/08/12/ebay-ebay-q2-2026-earnings-call-transcript/
+https://seekingalpha.com/article/4931306-ebay-inc-ebay-q2-2026-earnings-call-transcript

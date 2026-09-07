@@ -44,7 +44,7 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 | **BRK.B** | Buffett → Abel | *Literally one of the eight.* Float-funded, decentralized, patient. ⚠️ Succession discount until Abel deploys $50B+ visibly; Mar 4 2026 buyback = first proof point. |
 | **ADBE** | Narayen | Singleton-style: $25B authorized **at the lowest forward multiple in 10+ yrs**, ≈25% of cap, **no dividend** — buy-cheap-and-big. |
 | **INTU** | Goodarzi | Cleanest buy-into-weakness signal tracked: $1.6B into the drawdown + new $8B authorization; **CEO halted own 10b5-1 sales**; kept Mailchimp as a cash-flow asset vs. ego-divesting. |
-| **EBAY** | Iannone | Teledyne-style share shrinkage: **680M → 448M shares (−34% in 6 yrs)**, ≈5.5–6% combined yield, bolt-ons only — no mega-deals. |
+| **EBAY** | Iannone | Teledyne-style share shrinkage: **680M → 445M shares (−35% in 6 yrs)**, **5.6% shareholder yield** (4.4% buyback + 1.2% dividend), bolt-ons only — Depop at $1.4B is the largest cheque in years and still bolt-on against a $46B cap. |
 
 ### 🟡 Tier 2 — Outsider-leaning
 

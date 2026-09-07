@@ -1,0 +1,47 @@
+GAMESTOP CORP. — UNSOLICITED PROPOSAL TO ACQUIRE EBAY INC.
+Captured: 2026-09-07 (extracted text; timeline cross-checked across CNBC, Bloomberg,
+Fortune, FT-derived Form 425 material and eBay's own SEC filings)
+
+PRIMARY FILINGS (eBay CIK 0001065088)
+- SCHEDULE 13D/A, 2026-07-17:
+  https://www.sec.gov/Archives/edgar/data/1065088/000119312526307988/xslSCHEDULE_13D_X02/primary_doc.xml
+- Numerous Form 425 merger-communication filings, 2026-05-26 through 2026-07-20
+- SCHEDULE 13D/A also filed 2026-05-28 and 2026-06-05
+- DEFA14A 2026-05-29 and 2026-06-03
+
+TIMELINE
+2026-05-01  Press reports GameStop is preparing a bid. EBAY rises sharply.
+2026-05-03/04  Ryan Cohen unveils a non-binding proposal to acquire all eBay common
+            stock GameStop does not already own at $125.00 per share, roughly half
+            cash and half GameStop stock. Implied value ~$56B. GameStop shares fall;
+            Cohen gives a combative CNBC interview.
+2026-05-12  eBay's board REJECTS the proposal, calling it "neither credible nor
+            attractive." Stated objections: the financing structure, governance of
+            the combined company, and Cohen's own economic incentives.
+2026-06-17  eBay annual meeting. A shareholder proposal to lower the ownership
+            threshold required to call a special meeting FAILS: 156.9M for vs
+            210.1M against (~42.7% support). This is the mechanism an outside
+            holder would use to force a vote.
+2026-06-25  Reports that GameStop's CEO forwent pay, with commentary that this bears
+            on the eBay effort.
+2026-07-16  Cohen states GameStop will pursue eBay "one way or another."
+2026-07-17  13D/A: GameStop reports 43,390,383 shares = 9.8% of the 444M shares
+            outstanding as of 2026-04-24. Acquired via open-market purchases and
+            physically settling Put/Call Pairs. The filing states "no portion of the
+            purchase price ... was borrowed by the Reporting Person for the purpose
+            of acquiring, holding, trading or voting any securities."
+2026-07-19/20  FT-sourced material: Cohen "keeping all our options on the table,"
+            and suggests moving to a shareholder vote if the board stays unengaged.
+            Cohen's own "half cash, half stock" description later characterized on
+            Wall Street as "a meme."
+2026-08-10  Bloomberg: Cohen is WEIGHING WITHDRAWING the $56B bid entirely and
+            replacing it with a partnership or joint venture instead — eBay would
+            leverage GameStop's ~1,600 US retail locations to build physical
+            presence in trading cards and collectibles. GameStop would seek seats
+            on eBay's board as part of any such arrangement. No final decision.
+            Cohen kept buying through the summer; stake ~9.75-9.8%, making GameStop
+            eBay's second-largest holder behind Vanguard's index funds.
+
+STATUS AS OF 2026-09-07
+No definitive agreement. No formal withdrawal. Bid neither accepted nor dead.
+EBAY closed 2026-09-04 at $103.41 — 17.3% BELOW the $125 proposal.

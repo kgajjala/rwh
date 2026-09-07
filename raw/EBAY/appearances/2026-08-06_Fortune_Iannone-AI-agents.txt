@@ -1,0 +1,29 @@
+JAMIE IANNONE (CEO, eBay) — FORTUNE INTERVIEW
+Published 2026-08-06, the day after Q2 results.
+Source: https://fortune.com/2026/08/06/ebay-ceo-jamie-iannone-ai-tools-ai-buyers-shopping-agents-earnings/
+Captured: 2026-09-07 (extracted text)
+
+HEADLINE DISCLOSURE — not in the filings:
+eBay has BANNED autonomous third-party AI shopping agents from its marketplace,
+while pushing sellers toward eBay's own AI tooling. The stated concern is agents
+that "autonomously scrape sites and buy on behalf of customers" and that "could
+disrupt retail marketplaces like eBay."
+
+This is a direct strategic answer to the agentic-commerce risk eBay itself first
+named as a risk factor in the FY2025 10-K. It is a CLOSED-platform stance: eBay is
+declining to be an inventory API for third-party agents.
+
+QUOTES (Iannone, to Fortune)
+On eBay's own "magical" listing tool:
+  "You just basically hold your phone up to something and AI guides you"
+  (on describing, pricing and shipping an item).
+  "When a user uses magical listings, we see 50% more listings per lister in the
+   U.S. and the value of those customers using it is greater."
+On authentication:
+  "We've authenticated over 15 million items... to the best of my knowledge,
+   we've never had a counterfeit get through."
+
+Also referenced: Depop closed at $1.4B; full-year guidance raised after Q2
+(revenue +15% to $3.1B; net income +51% to $552M).
+
+NO comment on the GameStop proposal in this interview.

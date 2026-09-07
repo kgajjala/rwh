@@ -4,6 +4,42 @@
 
 ---
 
+## [2026-09-07] — Cybercab Commercial Launch + NHTSA Audit + Optimus Production (v4.0 migration)
+
+**Trigger**: Five-week window, no earnings. Cybercab began charging fares in Austin (Sep 3); NHTSA opened audit [AQ26002](https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification) into its FMVSS self-certification the same day (stock −5.9% Sep 4). Optimus reportedly entered production at Fremont ~Aug 31 (+4.7%). Baseline 2026-08-02.
+
+**Sources**: [NHTSA AQ26002](../../../raw/TSLA/regulatory/2026-09-03_NHTSA_AQ26002_cybercab_certification.txt) · [JPMorgan Fremont site visit ~Aug 19](../../../raw/TSLA/appearances/2026-08-19_JPMorgan_Fremont-site-visit.txt) · [Cybercab launch & fares](../../../raw/TSLA/clippings/2026-09-04_cybercab-austin-launch.txt) · [stockanalysis statistics](https://stockanalysis.com/stocks/tsla/statistics/) · [forecast](https://stockanalysis.com/stocks/tsla/forecast/) · [ratings](https://stockanalysis.com/stocks/tsla/ratings/) · [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/TSLA/forecast/) · [EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001318605&type=&dateb=&owner=include&count=40) · [Tesla China August](https://driveteslacanada.ca/news/tesla-china-august-2026-sales/) · [Europe Q3 registrations](https://www.basenor.com/blogs/news/tesla-europe-sales-hit-record-low-quarter-to-date-in-q3-2026)
+
+### Changed
+
+- **Schema**: v3.0 → **v4.0** (13 sections → 7)
+- **Price**: $311.21 → **$354.08** (+13.8%); 7th → 28th %ile of 52-wk
+- **FY26E EPS**: ≈$2.22 → **$1.77** (−20%)
+- **Forward P/E**: ≈140× → **≈200×** — second straight cycle it got dearer on earnings, now via price up, estimates down
+- **EV/Revenue**: ≈11.6× → **13.2×**
+- **Europe**: EU registrations **−37% YoY**; BYD ahead a second month; Q3-to-date the worst on record. **[NEW]** §5 risk
+- **China**: 8-month wholesale 647,694 (**+25.6% YTD**), a record
+- **Robotaxi economics**: **≈$0.30/mile** long-run cost target — the first figure Tesla has given analysts
+- **Cybercab fares**: $7.77 vs $12.10 on a matched Model Y robotaxi route
+- **NHTSA AQ26002**: ~1,000 vehicles. **[NEW]** §5 risk, Critical / 35% / unpriced
+- **Other**: Nevada permit for up to 5,000 vehicles (from 10); Einride ordered 500 Semis
+- **Consensus**: $402 → **$401.74** (45, Hold); upside +29% → **+13.5%**
+- **Short interest**: 70.65M → **69.20M** (2.45% of float)
+- **Filings**: **none since Jul 23** — no Form 4s, no confirmation of the Optimus start
+- **Scenarios**: targets and probabilities **unchanged**
+
+### Status
+
+- **Thesis**: **Unchanged** — repriced, not re-rated. Optionality advanced, Europe weakened, price took the difference
+- **PW EV**: $381 → **$381** · **R/R**: 2.8:1 → **2.1:1**, entirely the price move
+- **BAIT**: Double (B+A) → **None** — B and A fall to Moderate; the setup behind them is gone
+- **Verbs**: non-holder Initiate → **Watch** · holder **Hold** — above the $324 entry ceiling, under PW EV
+- **Conviction**: Moderate-to-High → **Moderate**
+
+**Next trigger**: Q3 earnings **Oct 21** — Optimus units, robotaxi economics, margin trough, Europe vs China. AQ26002 open-ended.
+
+---
+
 ## [2026-08-02] — Earnings Q2 2026 + Post-Print Re-Rate
 
 **Trigger**: Q2 2026 earnings printed July 22, 2026 (post-close). Revenue beat and set a record; non-GAAP EPS missed badly. Stock fell 14.5% on the print and ≈17% cumulatively, to $311.21 — within 4.7% of a new 52-wk low of $297.38. Broad sell-side target cuts July 23–28 with almost no rating downgrades.

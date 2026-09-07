@@ -1,0 +1,37 @@
+TESLA — JPMORGAN ANALYST SITE VISIT, FREMONT FACTORY
+Date: ~2026-08-19/20 (write-up published 2026-08-20)
+Venue: Tesla Fremont Factory, CA — hosted analyst visit (not a public webcast)
+Tesla speakers: not individually named in the write-up
+Source: https://electrek.co/2026/08/20/tesla-jpmorgan-fremont-fsd-v15-hw4-optimus-2027/
+Captured: 2026-09-07 (extracted text)
+
+NOTE ON STATUS: This is an off-script analyst briefing, not a filed or webcast
+disclosure. Several items below are not in any Tesla filing or update letter.
+
+FSD v15
+- Described by Tesla as a "step-change," built on seven core technologies.
+- Approximately 40% of those technologies already running in the Austin
+  robotaxi fleet.
+- Early feedback characterized as "encouraging."
+- Customer-vehicle release still targeted late 2026 / early 2027, not now.
+
+HARDWARE
+- Tesla asserts current HW4 ("AI4") is sufficient for v15 and for unsupervised FSD.
+  (Removes the AI5 forced-upgrade overhang for the existing fleet.)
+- AI4.5 rolling out: ~10% more compute, roughly double the memory.
+
+OPTIMUS
+- Gen 3 design finalized; supply chain "essentially locked in."
+- Production at the former Model S/X facility in Fremont.
+- EXTERNAL COMMERCIAL SALES could begin "as early as" H2 2027.
+- Long-term capacity targets: 1M units/yr Fremont; 10M units/yr Giga Texas.
+
+ROBOTAXI ECONOMICS  *** first per-mile figure Tesla has put to analysts ***
+- Long-run cost target of approximately $0.30 per mile for Cybercab operations.
+- Fleet expansion anticipated late 2026 into early 2027.
+- For contrast: at the October 2024 Cybercab unveil Musk said operating cost
+  "is probably going to be around 20 cents a mile" at scale.
+
+SELL-SIDE CONSEQUENCE
+JPMorgan's Rajat Gupta took over Tesla coverage from long-time bear Ryan Brinkman
+and moved the rating to Neutral with a $445 price target.

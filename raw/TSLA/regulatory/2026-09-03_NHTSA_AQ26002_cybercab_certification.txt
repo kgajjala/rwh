@@ -1,0 +1,42 @@
+NHTSA AUDIT QUERY AQ26002 — TESLA CYBERCAB SELF-CERTIFICATION
+Opened: 2026-09-03
+Source: https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification
+Secondary: https://electrek.co/2026/09/04/tesla-cybercab-nhtsa-investigation-fmvss-certification/
+        https://www.motor1.com/news/807353/tesla-cybercab-under-nhtsa-probe/
+        https://www.teslarati.com/tesla-cybercab-launch-nhtsa-attention-know-more/
+Captured: 2026-09-07 (extracted text; NHTSA press page returned HTTP 403 to this host,
+          content cross-checked across three independent write-ups per R9)
+
+SCOPE
+- Approximately 1,000 Cybercab vehicles in Austin, TX.
+- Opened the same day Tesla began charging fares for Cybercab rides (2026-09-03).
+
+WHAT IS AT ISSUE
+NHTSA will examine "the process and technical data on which Tesla relied when
+certifying" the Cybercab, and specifically "the extent to which Tesla's
+certification depended on determinations that certain FMVSS are inapplicable
+to the Cybercab."
+
+MECHANISM
+- The US uses manufacturer SELF-certification; there is no pre-market approval.
+- Many Federal Motor Vehicle Safety Standards were written assuming a human
+  driver with steering wheel, brake pedal and mirrors.
+- The Cybercab has no steering wheel, no pedals and no mirrors. Tesla determined
+  certain FMVSS simply do not apply to it, and certified on that basis.
+- The audit does NOT evaluate self-driving performance. It evaluates whether the
+  certification process itself was proper.
+
+TESLA POSITION
+Tesla told regulators it "certified the vehicles as compliant with all applicable
+Federal Motor Vehicle Safety Standards" and plans gradual deployment expansion.
+
+PRECEDENT
+Zoox was subject to a comparable certification question that set its program back
+roughly four years.
+
+CONTEXT — OTHER OPEN NHTSA MATTERS
+- Existing probe into FSD covering ~3.2 million vehicles (visibility-related crashes).
+- Documented incident in which a remote Tesla operator crashed a Robotaxi in Houston.
+
+MARKET REACTION
+TSLA closed 2026-09-04 at $354.08, -5.92% on the day (prior close $376.37).

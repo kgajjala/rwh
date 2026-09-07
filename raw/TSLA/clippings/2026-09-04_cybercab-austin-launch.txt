@@ -1,0 +1,37 @@
+TESLA CYBERCAB — AUSTIN COMMERCIAL LAUNCH
+Captured: 2026-09-07 (extracted text, multiple sources cross-checked)
+Sources: https://www.notateslaapp.com/news/4651/cybercab-joins-teslas-robotaxi-fleet-with-cheaper-fares
+         https://www.statesman.com/business/technology/article/austin-tesla-cybercab-launch-pricing-22417796.php
+         https://www.teslarati.com/tesla-cybercab-launch-nhtsa-attention-know-more/
+         https://www.teslaoracle.com/2026/09/07/high-demand-for-tesla-cybercab-makes-it-more-expensive-than-uber-and-the-model-y-robotaxi/
+
+TIMELINE
+- 2026-09-03: private launch event outside ACL Live, 2nd Street, Austin. Invited
+  shareholders, employees and influencers; guests reportedly signed NDAs.
+  No livestream, no stage presentation, no public remarks from Musk.
+  Tesla began charging fares the same day.
+- 2026-09-04, 5:00 pm local: opened for public booking via the Robotaxi app.
+
+FLEET / GEOGRAPHY
+- Launched with "a small number" of vehicles; 45 units subsequently added to the
+  fleet per Texas state documents. NHTSA's audit references ~1,000 Cybercabs
+  certified.
+- Austin robotaxi geofence recently expanded to ~264 square miles.
+- Robotaxi network overall: Austin, Dallas, Houston, Miami, Orlando, Tampa,
+  6am-10pm daily; plus San Francisco where CA rules still require safety monitors.
+- No in-vehicle safety monitors in Cybercabs outside San Francisco.
+- Cybercab and converted Model Y robotaxis now operate side by side.
+
+PRICING (launch-window observations, not Tesla disclosure)
+- Same route, same time: Model Y Robotaxi $12.10 vs Cybercab $7.77 (~35% cheaper).
+- Earlier robotaxi pricing formula observed as $3.00 base + $1.40/mile; after
+  launch the Model Y appears to carry a ~$7.00 base while Cybercab kept ~$3.00.
+- Launch-day competitive comparison: Montopolis -> ACL Live quoted $19.58 in a
+  Robotaxi Model Y vs $12.96 on Uber. Later the same day a 2.5-mile South Congress
+  trip quoted $12.15 with a 40-50 min wait vs $7.96 on Uber with <10 min wait.
+- Over the following days, including the weekend, Cybercab fares rose materially
+  on demand — at times above both Uber and the Model Y robotaxi.
+
+CAVEAT: ride-hail pricing is dynamic; none of the above is a Tesla-disclosed
+unit-economics figure. The only cost figure Tesla has given is the ~$0.30/mile
+long-run target from the JPMorgan Fremont visit (see appearances/).

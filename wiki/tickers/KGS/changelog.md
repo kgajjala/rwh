@@ -4,6 +4,40 @@
 
 ---
 
+## [2026-09-17] — Q2 2026 earnings + August deck · migrated v3.0 → v5.0
+
+**Trigger**: [Q2 2026 results](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000052/kgsq22026earningsrelease.htm) (Aug 6) and [call](../../../raw/KGS/transcripts/2026-08-07_Q2-2026-earnings-call.txt) (Aug 7); v5.0 migration on first material touch.
+**Sources**: release and transcript above (stored) · [Q2 10-Q](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000055/kgs-20260630.htm) · [Aug 10 investor deck](../../../raw/KGS/investor-day/2026-08-10_investor-presentation.txt) (stored) · [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001767042.json) · [FY2025 proxy](../../../raw/KGS/shareholder-letters/2025_proxy_DEF14A.htm) · Form 4s ([McKee Aug 19](https://www.sec.gov/Archives/edgar/data/1767042/000119312526359195/ownership.xml), [Sep 1](https://www.sec.gov/Archives/edgar/data/1767042/000119312526380225/ownership.xml)) · [Yahoo](https://finance.yahoo.com/quote/KGS/history/) Sep 16 close · [StockAnalysis](https://stockanalysis.com/stocks/kgs/statistics/) · [MarketBeat](https://www.marketbeat.com/stocks/NYSE/KGS/forecast/) · [Fintel](https://fintel.io/ss/us/kgs)
+
+### Scorecard
+*(the v3 page carried thesis-break triggers rather than tests; each resolved against the window)*
+- Utilization ≥92% — ✅ Pass — 98.2%
+- FY2026 EBITDA guide ≥$800M — ✅ Pass — raised to $830–860M
+- Baker Hughes framework intact — ✅ Pass — 1 GW firm, option to 1.8 GW
+- Net leverage <4.5× — ✅ Pass — 3.1×
+- Dividend held — ✅ Pass — $0.49, though de-linked from the DCF payout policy
+- No $10M insider cluster / no power impairment — ✅ Pass — ~$1.5M, all 10b5-1
+- Permian rig count — 🟡 Pending — not tracked this window
+- Replaced by three tests: West Texas contract ≥10 years by Feb 2027 · leverage ≤3.5× at the next two prints, no equity below $71 · Q3/Q4 revenue per hp ≥+3.5% YoY at ≥97.5% utilization
+
+### Changed
+- **Page rebuilt to v5**: driver tree (power earns ≈$30K per MW-month today vs the ≈$540K per MW-year of EBITDA that management's returns imply on new builds); capital rows (ROIC 6.5%, 3-yr incremental ROIC 10.1% reported / 15.4% ex-charges); growth levers; promises ledger (two of three 🟡); incentives.
+- **§1**: Q2 row — revenue $391.1M (+21%), adj EBITDA $216.8M (+22%, record), compression margin 70.0%, price +4.5%, utilization 98.2%, power 405 MW at 64.5% margin, DCF $163.3M, FCF −$87.5M, leverage 3.1×. Guide: EBITDA **$830–860M** (from $820–860M), DCF **$570–600M** (from $520–570M).
+- **§2/§3**: 2030 targets explicit (5.2M hp, 2 GW on ~1.8 GW secured); moat Narrow, stable.
+- **§4**: Outsider grade **Outsider-leaning → Reinvestor** (no H1 buybacks, dividend subordinated to power capex); `outsiders.md` row moved to Tier 3.
+- **§5**: Bull $110 → **$135**, Base $78 → **$87**, Bear $30 → **$27** (25/50/25); PW EV $74 → **$84**; Base terminal 9.5×.
+- **§7**: price $58.71 → **$58.41** after a **−11.3% macro day on Sep 14** (Archrock −7%); consensus $83.13, Jefferies cut to $69; short interest 8.2%, flat; CEO 10b5-1 sales ≈$0.73M.
+- **Verbs Initiate (small, scaled) / Hold → Watch / Hold**: PW return 10.9%/yr against the 13% hurdle; entry $50–58 → **≤$53**; trim $80–95 → $84–135.
+
+### Status
+- **Thesis**: Strengthened operationally; the verb falls to the hurdle, not to the business
+- **PW EV**: $74 → $84 · **PW return/yr**: ≈8% → 10.9% (hurdle 13%) · **R/R**: 1.8 → 2.4 · **BAIT**: Double (B+A), held
+- **Verbs**: non-holder Watch · holder Hold
+
+**Next trigger**: 📅 Nov 3 Q3 print (leverage, revenue per hp, MW on contract); West Texas contract announcement by Dec 31.
+
+---
+
 ## [2026-08-02] — Q1 2026 Earnings + Guidance Raise + Baker Hughes Partnership
 
 **Trigger**: Q1 2026 earnings (May 11) delivered record adj EBITDA $190.1M (+7% YoY) and raised FY26 guide to $820–860M; Baker Hughes multi-year gas turbine agreement signed Jul 8 (1.8 GW framework for data center power); stock pulled back –24% from $77.68 ATH to $58.71 while thesis strengthened.

@@ -1,0 +1,1949 @@
+Source: https://d1io3yog0oux5.cloudfront.net/_7c630ac269e4b74e1dc3a8f989c40906/kodiakgas/db/3455/32168/pdf/August+2026+Investor+Presentation-Final.pdf (Kodiak IR, August 2026 Investor Presentation, posted 2026-08-10)
+
+--- slide 1 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+ONE RELENTLESS FORCE POWERING OUR CRITICAL ENERGY FUTURE
+KODIAK GAS SERVICES
+INVESTOR PRESENTATION
+August 2026
+--- slide 2 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+2Investor Presentation 2026
+Disclaimer
+Cautionary Note Regarding Forward-Looking Statements. This presentation contains, and our officers and representatives may from time to time make, “forward-looking statements” within the meaning of 
+the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward -looking statements are neither historical facts nor assurances of future performance. Instead, they are based only on 
+our current beliefs, expectations and assumptions regarding the future of our business, future plans and strategies, projections, anticipated events and trends, the economy and other future conditions. Forward-
+looking statements can be identified by words such as: “anticipate,” “intend,” “plan,” “goal,” “seek,” “believe,” “project,” “estimate,” “expect,” “strategy,” “future,” “likely,” “may,” “should,” “will” and similar references 
+to future periods. Examples of forward-looking statements include, among others, statements we make regarding: (i) expected operating results, such as revenue growth and earnings, including the integration of 
+acquired businesses into our operations, and our ability to service our indebtedness; (ii) anticipated levels of capital expe nditures and uses of capital; (iii) current or future volatility in the credit markets and future 
+market conditions; (iv) potential or pending acquisition transactions or other strategic transactions, the timing thereof, the receipt of necessary approvals to close such acquisitions, our ability to finance such 
+acquisitions, and our ability to achieve the intended operational, financial, and strategic benefits from any such transactio ns; (v) expectations of the effect on our financial condition of claims, litigation, 
+environmental costs, contingent liabilities and governmental and regulatory investigations and proceedings; (vi) production a nd capacity forecasts for the natural gas and oil industry; (vii) strategy for customer 
+retention, growth, fleet maintenance, market position and financial results; (viii) our interest rate hedges; and (ix) strate gy for risk management.
+Because forward-looking statements relate to the future, they are subject to inherent uncertainties, risks and changes in circumstances that are difficult to predict and many of which are outside of our control. Our 
+actual results and financial condition may differ materially from those indicated in the forward-looking statements. Therefore, you should not place undue reliance on any of these forward-looking statements. 
+Important factors that could cause our actual results and financial condition to differ materially from those indicated in the forward-looking statements include, among others, the following: (i) a reduction in the 
+demand for natural gas and oil; (ii) the loss of, or the deterioration of the financial condition of, any of our key customers; (iii) nonpayment and nonperformance by our customers, suppliers or vendors; (iv) 
+competitive pressures that may cause us to lose market share; (v) our ability to successfully integrate any acquired businesses, including Distributed Power Solutions, LLC ("DPS"), and realize the expected benefits 
+thereof in the expected timeframe or at all; (vi) our ability to source and fund purchases of additional compression and power generation equipment; (vii) changes in the distributed power industry, including any 
+decreases in the demand for electricity and distributed power; (viii) a deterioration in general economic, business, geopolitical or industry conditions, including as a result of the conflict between Russia and 
+Ukraine, the conflict and potential regime change in Iran as well as other hostilities in the Middle East and developments between the United States and Venezuela, inflation, and slow economic growth in the 
+United States; (ix) a downturn in the economic environment, as well as continued inflationary pressures; (x) the outcome of any pending internal review or any future related government enforcement actions; (xi) 
+tax legislation and the impact of changes to applicable tax laws, including the passage of the One Big Beautiful Bill Act, and administrative initiatives or challenges to our tax positions; (xii) the loss of key 
+management, operational personnel or qualified technical personnel; (xiii) our dependence on a limited number of suppliers; (xiv) the cost of compliance with existing and new governmental regulations, as well 
+as the associated uncertainty given the current U.S. federal government administration; (xv) changes in trade policies and regulations, including increases or changes in duties, current and potentially new tariffs or 
+quotas and other similar measures, as well as the potential direct and indirect impact of retaliatory tariffs and other actions; (xvi) the cost of compliance with regulatory initiatives and stakeholders’ pressures, 
+including sustainability and corporate responsibility; (xvii) the inherent risks associated with our operations, such as equipment defects and malfunctions; (xviii) our reliance on third-party components for use in 
+our information technology systems; (xix) legal and reputational risks and expenses relating to the privacy, use and security of employee and client information; (xx) threats of cyber-attacks or terrorism; (xxi) 
+agreements that govern our debt contain features that may limit our ability to operate our business and fund future growth and also increase our exposure to risk during adverse economic conditions; (xxii) volatile 
+and/or elevated interest rates and associated central bank policy actions; (xxiii) our ability to access the capital and credit markets or borrow on affordable terms (or at all) to obtain additional capital that we may 
+require; (xxiv) major natural disasters, severe weather events or other similar events that could disrupt operations; (xxv) unionization of our labor force, labor interruptions and new or amended labor regulations; 
+(xxvi) renewal of insurance; (xxvii) the effectiveness of our disclosure controls and procedures; and (xxviii) such other factors as discussed throughout the “Risk Factors” and “Management’s Discussion and 
+Analysis of Financial Condition and Results of Operations” sections and elsewhere in our Annual Report on Form 10-K for the year ended December 31, 2025, filed with the U.S. Securities and Exchange 
+Commission (“SEC”) on February 26, 2026.
+Any forward-looking statement made by us in this presentation is based only on information currently available to us and speaks only as of the date on which it is made. Except as may be required by applicable 
+law, we undertake no obligation to publicly update any forward-looking statement whether as a result of new information, future developments or otherwise.
+Non-GAAP Financial Measures. This presentation contains certain financial measures not presented in accordance with generally accepted accounting principles (“GAAP”), including adjusted gross margin, 
+adjusted gross margin percentage, adjusted net income, adjusted EBITDA, adjusted EBITDA percentage, discretionary cash flow and free cash flow. Such non-GAAP measures should not be considered an 
+alternative to, or more meaningful than, the most directly comparable measure of financial performance presented in accordance with GAAP. Moreover , such non-GAAP measures may not be comparable to similarly 
+titled measures of other companies. However , we believe these non-GAAP financial measures provide useful information to investors because, when viewed with our GAAP results and the accompanying 
+reconciliation, they provide a more complete understanding of our performance than GAAP results alone. See the Supplemental Slides for reconciliation of non-GAAP measures. 
+Industry & Market Data. The market data and certain other statistical information used throughout this presentation are based on independent industry publications, government publications or other published 
+independent sources. Although we believe these third-party sources are reliable as of their respective dates, we have not independently verified the accuracy or completeness of this information. Some data is also 
+based on our good faith estimates and our management’s understanding of industry conditions. The industry in which we operate is subject to a high degree of uncertainty and risk due to a variety of factors. 
+These and other factors could cause results to differ materially from those expressed in these publications.
+Intellectual Property. This presentation contains trademarks, trade names and service marks of other companies, which are the property of their respective owners. We do not intend our use or display of other 
+parties’ trademarks, trade names or service marks to imply, and such use or display should not be construed to imply, a relationship with, or endorsement or sponsorship of us by, these other parties.
+--- slide 3 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+State-of-the-art 
+training facility and 
+curriculum
+Advanced operational 
+technology
+Culture centered on 
+customer service, 
+people and 
+innovation
+Kodiak Gas Services Overview
+Powering our critical energy future
+$6 Billion
+Market capitalization1
+3.3%
+Dividend Yield1
+1 Market capitalization calculated as of August 7, 2026; dividend yield based on stock price as of August 7, 2026 and second quarter 2026 dividend of $0.49 per share annualized
+2 Fleet and technician statistics as of June 30, 2026
+Always Raising 
+the Bar
+3Investor Presentation 2026
+Industry-leading operator of large horsepower engines 
+4.5 Million
+Fleet Horsepower2
+405 Megawatts of 
+Distributed Power2
+~900 Highly 
+Trained Technicians2
+Compression market leader 
+in the Permian Basin and 
+large horsepower
+Flexible fleet of turbines and 
+reciprocating power gen units
+Industry-leading talent and 
+technical expertise
+--- slide 4 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Our Expanded Energy Infrastructure Footprint
+% of revenue-generating compression horsepower as of June 30, 2026
+▪ 3.1 million horsepower
+▪ Contract compression 
+market leader
+13%
+Eagle Ford
+8%
+Northern
+Rockies 3%
+Northeast
+4Investor Presentation 2026
+1 Compression and power generation fleet statistics as of June 30, 2026; average compression horsepower per unit calculated as revenue-generating horsepower divided by revenue-
+generating compression units
+2 Large Horsepower defined as units with >1,000 HP; calculated as sum of total fleet horsepower comprised of Large Horsepower divided by total fleet horsepower
+Kodiak Power Solutions’ Asset Footprint
+Data Center Microgrids Manufacturing
+Compression Fleet
+Total Horsepower1
+4.5 million
+Compression Fleet 
+% Large Horsepower2
+81%
+Average Compression 
+Horsepower Per Unit1
+991
+Distributed Power
+Fleet1
+405 Megawatts
+Permian Basin
+70%
+Permian
+6%
+Mid-Continent 
+--- slide 5 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Kodiak’s Energized Growth Outlook
+Constructive Compression Fundamentals
+Multi-year growth outlook in U.S natural gas combined with 
+tight contract compression market
+Proven Execution
+Track record of increasing 
+utilization & delivering industry 
+leading service 
+Attractive Capital Return Program
+Committed to returning capital to shareholders through 
+paying a well-covered and growing dividend and 
+opportunistically repurchasing stock
+Track Record
+Proven track record 
+of integrating acquisitions 
+and capturing efficiencies
+Massive Power Demand 
+“Bring-your-own-generation” solutions desperately 
+needed to meet rapidly growing power grid shortfall
+Energized Growth Outlook
+Upside to historical high single-digit percentage EBITDA 
+growth, funded by stable contract compression cash flow
+Energized Growth Outlook AheadCompelling Fundamentals & Proven Execution Today
+5Investor Presentation 2026
+Strong Financial Performance
+Focused on increasing margins & return 
+on capital 
+--- slide 6 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Investing to Power Our Critical Energy Future
+6Investor Presentation 2026
+Compression Fleet
+(horsepower in millions)
+Distributed Power Fleet 
+(in megawatts)
+~1701
+Jun-26 YE 2026E YE 2030E
+Jun-26 YE 2026E YE 2030E
+~5.2 million
+Year-end 2030 Compression Fleet Horsepower Target
+~2 Gigawatts
+Year-end 2030 Distributed Power Capacity Target
+~5.2 
+Million HP
+~2 
+Gigawatts
+Expected new unit growth
+~150 thousand 
+HP / year
+Annual growth 
+rate of 3 - 4%
+405
+300 - 500  
+MW / year
+Targeted annual 
+growth rate
+456
+4.5 
+1 Includes >20K of horsepower that was acquired in a purchase leaseback transaction announced in the first quarter of 2026
+--- slide 7 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+HP & Power HP-equivalent, in millions
+Market Leader For Power & Compression
+7Investor Presentation 2026
+Note: As of August 7, 2026, and assumes a conversion rate of 1 GW equals 1.3 million mechanical horsepower; Sources Company reports, Intrepid Financial Partners, and Spears & Associates Report: The Upstream Gas Compression Market as of April 2026 
+Distributed Power
+Natural Gas Compression
+5.0 5.0 4.8
+2.3
+1.8
+0.8
+0.6 0.5 0.5 0.4 0.4
+0.8
+--- slide 8 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Compression & Power Markets Remain Tight
+8Investor Presentation 2026
+High Demand + Long Lead Time = Tight Market
+High Industry Utilization...1 …And Long Lead Times for New Gas Compression2 
+94%
+Q2 2026
+53-57
+weeks
+>180
+ weeks
+Sept 2025
+Aug 2026
+1 As of August 7, 2026 - Calculated as the weighted average utilization rate as of period end for AROC, KGS, NGS, and USAC 
+2 Estimated lead time for new Caterpillar 3600 inline gas compression engines
+3 BloombergNEF “Supply Crunch Threatens US Need for 106 Gigawatts of New Power”
+4 Estimated lead time for new Caterpillar Solar SMT130 gas turbines  
+Caterpillar 3600 Inline Engines
+Massive Demand Growth...3 …And Long Lead Times for New Power Turbines4 
+>100 GWs
+New Data Center Demand 
+by 2035
+102-106
+weeks
+>180 
+weeks
+Sept 2025
+Aug 2026
+SMT130 Turbine
+Caterpillar 3600 Inline Gas Compression
+Caterpillar Solar SMT130 Gas Turbine
+--- slide 9 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Gas Growth Driving Compression Demand
+9Investor Presentation 2026
+2025 - 2035
+Demand Growth in Bcf/d
+U.S. LNG 
+Demand
+Power/Other 
+Demand 10
+17
+Mexico/Other 
+Demand 5
+32 Bcf/d
+midpoint
+=X
+U.S. Gas Demand 
+Growth Through 2035  
+32 Bcf/d
+Compression 
+Intensity
+~600K HP per Bcf/d ~19 million
+Incremental HP 
+Needed by 2035
+U.S. Gas Demand Growth1
+15
+73
+110
+20
+40
+60
+80
+100
+120
+140
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026E
+10-year average = ~600K HP per Bcf/d Bcf/dHorsepower 
+(in millions)
+U.S. Compression Intensity2
+1 Company reports, Goldman Sachs and Kodiak Fundamentals Team
+2 EIA Short Term Energy Outlook February 2026, Spears & Associates: The Upstream Gas Compression Market: April 2026, and Kodiak Fundamentals Team
+3 Contract compression includes KGS, AROC, NGS, and USAC’s Q1 2026 compression fleet plus forecasted new unit growth in 2026
+Public Contract Compression3
+Remaining Compression
+--- slide 10 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Highly Visible Permian Gas Demand Growth
+10Investor Presentation 2026
+Pipeline4 Capacity 
+(Bcf/d)
+Start 
+Date
+Gulf Coast Exp. 0.6 1H 2026
+Blackcomb 2.5 2H 2026
+Hugh Brinson 2.2 2H 2026
+Eiger Express 3.7 2H 2028
+Desert Southwest 2.3 2H 2029
+Total 11.3 YE 2029
+Gas Takeaway Projects4
+>30 GW of data 
+center projects in Texas 
+over the next two years5
+>5 GW of natural gas 
+power plants under 
+construction4
+>11 Bcf/d of Permian 
+natural gas pipeline 
+takeaway projects by 20293
+Favorable Regulatory 
+Environment
+Natural Gas 
+Availability
+Land Availability
+Existing
+Infrastructure
+✓ 
+✓ 
+✓ 
+✓ 
+GulfofAmerica
+166
+Data Centers under 
+construction in Texas2 
+>100
+Proposed natural 
+gas-fired power plant 
+projects in Texas1
+Texas Leads the Nation 
+in Data Center 
+Development
+1 Cleanview as of April 2026
+2 Aterio as of August 5, 2026 
+3 Company reports; Gulf Coast Expansion Project 0.6 Bcf/d in 1H ’26, Blackcomb Pipeline 2.5 Bcf/d in 2H ’26, Hugh Brinson 2.2 Bcf/d in 2H ‘26, Eiger Express 3.7 Bcf/d in 2H ‘28, Desert Southwest 2.3 Bcf/d in 2H ‘29
+4 Company Reports & Kodiak Fundamentals Team as of April 2026
+5 Cleanview as of April 2026
+--- slide 11 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+For AI Race – Speed to Power is Key
+11Investor Presentation 2026
+Data Centers Under Construction 
+by State3Race to Scale up
+Digital Infrastructure
+Hyperscalers’ Capex (2026-2030) 
+$5 trillion2 
+Data Centers Under Construction / 
+Development in the U.S.
+>700 Facilities3 
+Agentic AI Capacity is Rapidly 
+Accelerating, Doubling Every
+7 Months1
+1 METR as of April 2026
+2 Bloomberg: Hyperscalers includes Amazon, Alphabet, Meta, Microsoft, and Oracle 
+3 Aterio as of August 5, 2026
+5 – 10 Year Wait Times for Potential Grid Connectivity
+58
+67
+34
+28
+26
+23
+22
+14
+11
+13
+11
+14
+15
+26
+13
+6
+14
+15
+11
+12
+8 4
+5
+7
+3
+5
+4
+4
+5
+1
+3
+3
+2
+3
+2
+166
+1473
+--- slide 12 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Data Center Growth Requires Distributed Power 
+12Investor Presentation 2026
+0
+50
+100
+150
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+U.S. Data Center Power Demand in Gigawatts1
+High behind the 
+meter potential
+Expecting grid 
+connect
+Existing data 
+center demand
+Companies That Have 
+Signed the Rate Payer 
+Protection Pledge2
+“Bring Your Own 
+Generation”
+Emerging solution to growing gap 
+between data center power demand 
+growth and supply additions
+> 60 Gigawatts
+Projected Behind-the-Meter of power 
+solutions needed by 20351
+1 Rystad Energy Research and Analysis, September 2025
+2 The White House Fact Sheet as of March 4, 2026; White House initiative where major tech firms commit to paying the full cost of electricity for data centers
+
+--- slide 13 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Operating Large Engine Fleets at the Highest 
+Levels of Reliability is What We Do
+13Investor Presentation 2026
+CAT 3516J Gas Compression Engine
+(1380 Horsepower)
+CAT 3516H Genset Engine
+(Powers 1.9 MW Genset)
+Engines
+Highly similar design and operation
+Parts & Components
+Highly similar
+Maintenance Profiles
+Similar maintenance and overhaul processes 
+Compression & Genset Engine Similarities
+>700
+KGS Caterpillar-certified 
+Techs, subset being 
+cross-trained on 
+generators1
+AI/ML
+KGS operational 
+AI/machine learning 
+technology scalable 
+across both platforms  
+Leading
+Buyer of large HP 
+Caterpillar recip engines 
+over last decade
+1 As of May 8, 2026; over 700 Kodiak technicians completed at least 1 CAT Certification course
+--- slide 14 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Skilled Workforce is a Competitive Advantage
+14Investor Presentation 2026
+Quality People + World Class Training Program
+Recruiting Pipeline World Class 
+Training Program
+~30,000 SF Facility with 
+Hands-on Training Programs
+State-of-the-Art 
+Virtual Reality Training Technology
+Provide Entry Level to Advanced 
+Compression Training Program
+Highly Skilled 
+Technicians
+Technical Colleges
+Partnerships with the Military
+Social Media Campaigns
+Expanding Training Program to 
+Include Power
+Industry-Leading 
+Customer Service
+
+--- slide 15 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Investing In People & Technology
+IGNITE
+Development Program
+Agentic AI
+Parts Finder
+Technician
+Co-Pilot
+Constantly Raising the Bar
+The Right People
+Investing in training & 
+development
+The Right Technology
+Investing in innovation
+15Investor Presentation 2026
+
+--- slide 16 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Compression Contract Structure Supports 
+Stable Cash Flow
+16Investor Presentation 2026
+Annual inflation 
+index adjustments
+02
+Fixed monthly 
+revenue 
+with multi-year 
+terms
+01
+Advance billing 
+improves working 
+capital cycle 
+03
+98% mechanical 
+availability 
+guarantee 
+04
+Customer bears 
+mobilization and 
+demobilization 
+costs
+05
+10%90%
+HP on Month-to-Month Contract Term
+HP with Remaining Contract Term
+Percent of Fleet HP on Term1
+1 As of June 30, 2026 
+2 Kodiak press release dated March 20, 2026: “Kodiak Gas Services Announces Accretive Purchase of Over 20,000 Horsepower in the  Permian Basin” 
+Increasing Duration of Contracts
+7 Years
+2026 Purchase / 
+Leaseback2
+10 Years
+2026 Renewals with 
+Two of our Top Ten 
+Customers
+--- slide 17 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+$86 $84 $88 $89 $94 $95 $97
+$104 $105 $104 $108 $112 $115 $117 $121 $126 $128
+$177
+$188 $187
+$196 $200 $203
+$209
+$217 $221
+$46.01
+$28.30
+$40.82 $42.52
+$57.68
+$65.97
+$70.75
+$77.29
+$94.53
+$108.87 $93.75
+$82.62
+$76.14
+$86.49 $82.25
+$78.53 $76.91 $81.81
+$76.43 $70.81 $71.78
+$64.57 $65.78
+$59.62
+$72.74
+$95.65
+$1.91 
+$1.70 $1.97 
+$2.51 
+$3.39 
+$2.93 
+$4.33 
+$4.76 $4.64 
+$7.42 $7.98 
+$5.60 
+$2.68 
+$2.84 $2.59 $2.92 
+$2.14 $2.06 $2.11 $2.44 
+$4.14 
+$3.19 $3.03 
+$3.75 
+$4.70 
+$2.95 
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+ -
+ 50
+ 100
+ 150
+ 200
+Q1 '20 Q2 '20 Q3 '20 Q4 '20 Q1 '21 Q2 '21 Q3 '21 Q4 '21 Q1 '22 Q2 '22 Q3 '22 Q4 '22 Q1 '23 Q2 '23 Q3 '23 Q4 '23 Q1 '24 Q2 '24 Q3 '24 Q4 '24 Q1 '25 Q2 '25 Q3 '25 Q4 '25 Q1 '26 Q2 '26
+Kodiak Compression Infrastructure Adj. Gross Margin ($M)
+Average WTI Crude Oil Price ($/bbl)
+Average Henry Hub Price ($/MMBtu)
+Compression Provides Steady Growth With 
+Limited Volatility
+17Investor Presentation 2026
+Quarterly Compression Infrastructure Adjusted Gross Margin
+Kodiak Compression Infrastructure
+ Adj. Gross Margin ($M) Average WTI Crude Oil Price ($/Bbl) Average Henry Hub Price ($/MMBtu) 
+Source: Company filings; EIA; adjusted gross margin is a non -GAAP financial measure; see Supplemental Slides for reconciliation
+96%
+Trough Fleet Utilization 
+during Covid
+Second Quarter 2026
+Fleet Utilization
+98%
+--- slide 18 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Distributed Power Provides a Better Option
+18Investor Presentation 2026
+1  ERCOT’s Transmission Planning Process, December 2025 
+2 Texas Public Policy Foundation “The Explosion of Transmission Costs in ERCOT: Causes, Forecasts, and Policy Solutions” Januar y 2026
+Comprehensive Turnkey Power 
+Generation
+Scalable 
+Distributed Energy 
+Solutions
+Speed to Power
+Better than the grid
+Reliability
+Fleet of reciprocating and turbine engines can handle fluctuating 
+load curves and power densities
+Track Record
+Track record of supplying primary power to large load customers
+Attractive Pricing
+Power fleet is priced competitively with the grid
+~3-6 years
+Time it takes to build new 
+transmission lines in ERCOT1
+Power Instability
+Rapid load changes can disrupt the 
+grid, causing voltage instability and 
+damage to equipment
+~40%
+Of ERCOT’s bill is transmission & 
+distribution charges2
+--- slide 19 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Premium Fleet with Application Flexibility
+19Investor Presentation 2026
+ManufacturingData Centers MicrogridsMicrogrids
+Power Solutions for Diverse End Markets
+Proven Capabilities
+Impeccable Safety 
+Record
+Creative SolutionsRapid Deployment
+Power Generation Fleet1
+237 MW
+Reciprocating 
+Engines
+168 MW
+Turbines 
+Turnkey Packages
+1 As of June 30, 2026
+
+--- slide 20 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+20Investor Presentation 2026
+Frame 5 Gas Turbines
+Key Highlights:
+• Ideal for industrial power generation
+• Up to ~26.6 megawatts per unit
+• Enhanced fuel flexibility  
+NovaLT16 Gas Turbines
+Key Highlights:
+• Designed to minimize environmental 
+impact
+• Up to ~17 megawatts per unit
+• Flexible operation to 50% of rated 
+speed 
+Power Generating Equipment
+Strategic Agreement for Gas Turbines
+Partnership with 
+Baker Hughes
+Parts Agreement
+Provides Kodiak the ability to 
+service equipment
+Training Agreement
+Training program designed for gas 
+turbine operations
+Multi-Year Agreement
+For 1 gigawatt of gas turbines, 
+pathway to 1.8 gigawatts
+Pricing & Supply Certainty
+Features highly visible delivery 
+dates and pricing
+Check 
+spacing
+--- slide 21 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Capital Allocation Framework
+21Investor Presentation 2026
+▪ Long term leverage ratio of <4.0x
+▪ Ample liquidity at all times
+▪ Stable to improving credit ratings
+▪ Disciplined maintenance capex
+Organic Growth Dividend Growth Share Repurchases
+▪ Targeting annual Adj. EBITDA 
+organic growth rates of high single 
+digit %s for compression and 
+higher for power
+▪ Targeting annual increases ▪ Opportunistic based on value and 
+alternative uses of cash
+Protect the Franchise
+Sustainable / Well-Covered Dividend
+Reinvest Organically / Return Incremental Capital to Shareholders
+1
+2
+3
+Strategic M&A4
+Discretionary
+Growth 
+With Limited Volatility 
+Sustainable & Growing
+Return of Capital to Shareholders
+Non-discretionary
+--- slide 22 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+2026 Capital Plan 
+22Investor Presentation 2026
+Other
+CapEx
+► Safety-related capex
+► Business systems 
+► Rolling stock, tools & equipment
+$805 - $895
+Million
+2026E CapEx
+>90%
+Permian
+focused
+~1,700 HP
+Average horsepower
+per unit
+Full Year Capital Spending
+Compression 
+Infrastructure
+► New compression units
+► Electric conversions
+► Emissions upgrades
+► Operational AI/ML
+2026 New Compression Units
+Maintenance
+CapEx
+► Bottoms-up analysis based on 
+unit hours
+51 MW
+Reciprocating 
+engines
+2026 New Power Units
+Power
+Infrastructure
+► New power units for 2026
+► Balance of plant equipment
+► Payments for units >2026
+--- slide 23 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+4.2x
+3.6x
+3.1x
+Q3 2023 Q1 2026 Q2 2026
+Strengthening Credit Profile
+23Investor Presentation 2026
+~$1.6B
+Availability under                
+ABL facility3
+$381
+$1,000
+$770
+$630
+$0
+$500
+$1,000
+$1,500
+2026 2027 2028 2029 2030 2031 2032 2033 2034 2035
+($M)
+ABL Facility Senior Unsecured Notes
+Corporate Rating
+Ba3
+BB-
+BB
+Debt to EBITDA Ratio1
+Debt Maturity Profile2
+1 Represents Leverage Ratio as defined in ABL Credit Agreement; uses last quarter annualized adjusted EBITDA, net of all cash outstanding at the end of the quarter
+2 2Debt as of June 30, 2026,
+>4 Years
+Until First Debt Maturity in 
+September 2030
+--- slide 24 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Full-Year 2026 Guidance
+24Investor Presentation 2026
+Low High
+Adjusted EBITDA1 $ 830,000 $ 860,000
+Discretionary Cash Flow1, 2 $ 570,000 $ 600,000
+Segment Information 
+Compression Infrastructure Revenue $ 1,250,000 $ 1,280,000
+Compression Infrastructure Adjusted Gross Margin Percentage1 69.0% 70.5%
+Power Infrastructure Revenue $ 95,000 $ 125,000
+Power Infrastructure Adjusted Gross Margin Percentage1 60.0% 70.0%
+Other Services Revenue $ 125,000 $ 160,000
+Other Services Adjusted Gross Margin Percentage1 13.0% 16.0%
+Capital Expenditures 
+Compression Infrastructure Growth Capex $ 280,000 $ 300,000
+Power Infrastructure Growth Capex $ 400,000 $ 450,000
+Other Capex3 $ 45,000 $ 55,000
+Maintenance Capex $ 80,000 $ 90,000
+(All amounts below are in thousands except percentages)
+1 The Company is unable to reconcile projected adjusted EBITDA to projected net income (loss), projected discretionary cash flow to projected net cash provided by operating activities, and projected adjusted gross margin % to projected gross margin, the most 
+comparable financial measures calculated in accordance with GAAP, respectively, without unreasonable efforts because components of the calculations are inherently unpredictable, such as changes to current assets and liabilities, unknown future events, and 
+estimating certain future GAAP measures. The inability to project certain components of the calculation would significantly affect the accuracy of the reconciliations. 2 Discretionary cash flow assumes no change to Secured Overnight Financing Rate futures.          
+3 Other capital expenditures guidance excludes a $42.5 million non-cash finance lease addition related to an operational office.  This non-cash activity is not reflected in the investing section of the Company’s statement of cash flows and is therefore excluded from 
+Kodiak’s full-year capital expenditures guidance. 
+--- slide 25 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+25Investor Presentation 2026
+Supplemental 
+Slides
+Kodiak Power Solutions 
+Data Center Under Construction
+Solar SMT130 Turbines
+--- slide 26 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+$127
+$163
+Q1
+2026
+Q2
+2026
+$52 $54
+Q1
+2026
+Q2
+2026
+Adjusted Net Income¹ ($M)
+Discretionary Cash Flow1 ($M)
+Adjusted EBITDA1  ($M)
+Second Quarter 
+2026 Highlights
+▸ Reported record Adjusted EBITDA 
+of $217 million
+▸ Compression Infrastructure Adj. 
+Gross Margin Percentage of 70% 
+▸ Increased Full Year 2026 Adjusted 
+EBITDA and Discretionary Cash 
+Flow Guidance
+▸ Announced multi-year gas turbine 
+order of 1 gigawatt of gas turbines 
+▸ Declared a $0.49 per share 
+dividend - a 9% y/y increase
+1 Adjusted EBITDA, adjusted gross margin percentage, adjusted net income, discretionary cash flow, and free cash flow are non-GAAP financial measures; see Supplemental Slides for 
+reconciliations
+2 Fleet statistics as of June 30, 2026
+405
+MW Fleet2
+Fleet of reciprocating and 
+turbine generators
+363 megawatts under 
+contract
+✓ 
+✓ 
+$0.49
+Per Share 
+Quarterly Dividend
+4.4
+Million RGHP2
+Added ~41.1K gross 
+horsepower in Q2 2026
+Ended the quarter with  
+98% fleet utilization
+✓ 
+✓ 
+Second Quarter and Recent
+ Highlights
+26Investor Presentation 2026
+$190
+$217
+Q1
+2026
+Q2
+2026
+$178
+$217
+Q2
+2025
+Q2
+2026
+$116
+$163
+Q2
+2025
+Q2
+2026
+$40
+$54
+Q2
+2025
+Q2
+2026
+--- slide 27 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Premier Customer Base
+27Investor Presentation 2026
+>50%
+Revenue from top 10 
+customers1
+Relationships with top 
+customers
+Long-Term>60% 
+Revenue from 
+investment grade rated 
+customers1 
+High Quality Customer Base2
+1 Based on total Compression Infrastructure revenues for 2025
+2 As of December 31, 2025
+--- slide 28 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Anatomy of a Compression Unit
+28Investor Presentation 2026
+Cooler
+Engine
+Compressor
+Telemetry 
+Control Panel
+Skid
+--- slide 29 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Non-GAAP Financial Measures
+29Investor Presentation 2026
+Adjusted Net Income (Loss) 
+Adjusted net income and adjusted earnings per share are considered non-GAAP measures. Adjusted net income is defined as net income adjusted to exclude certain items, as applicable, such as (i) 
+impairment of long-lived assets; (ii) severance expenses; (iii) transaction expenses; (iv) sales tax reserve; (v) loss on disposal of business; (vi) loss (gain) on derivatives; (vii) loss on extinguishment of 
+debt; and (viii) the tax effects of the adjustments. Adjusted earnings (loss) per share is calculated by dividing adjusted net income by the weighted average diluted shares outstanding. 
+Adjusted EBITDA and Adjusted EBITDA Percentage 
+Adjusted EBITDA and adjusted EBITDA percentage are considered non-GAAP measures. Adjusted EBITDA is defined net income before interest expense; income tax expense; and depreciation and 
+amortization; plus certain items, as applicable, such as (i) impairment of long-lived assets; (ii) loss (gain) on derivatives; (iii) equity compensation expense; (iv) severance expenses; (v) transaction 
+expenses; (vi) sales tax reserve; (vii) loss (gain) on disposal of business; (viii) loss (gain) on sale of assets; and (ix) loss on extinguishment of debt. We define adjusted EBITDA percentage as adjusted 
+EBITDA divided by total revenues.
+Adjusted net income, adjusted diluted EPS, adjusted EBITDA and adjusted EBITDA percentage are used as supplemental financial measures by our management and external users of our financial 
+statements, such as investors, commercial banks and other financial institutions, to assess: (i) the financial performance of our assets without regard to the impact of financing methods, capital 
+structure or historical cost basis of our assets; (ii) the viability of capital expenditure projects and the overall rates of return on alternative investment opportunities; (iii) the ability of our assets to 
+generate cash sufficient to make debt payments and pay dividends; and (iv) our operating performance as compared to those of other companies in our industry without regard to the impact of 
+financing methods and capital structure. We believe adjusted net income, adjusted diluted EPS, adjusted EBITDA and adjusted EBITDA percentage provide useful information because, when viewed with 
+our GAAP results and the accompanying reconciliation, they provide a more complete understanding of our performance than GAAP results alone. We also believe that external users of our financial 
+statements benefit from having access to the same financial measures that management uses in evaluating the results of our business. 
+Adjusted Gross Margin 
+Adjusted gross margin is defined as revenue less cost of operations, exclusive of depreciation and amortization expense. Adjusted gross margin percentage is defined as adjusted gross margin divided 
+by total revenues. We believe adjusted gross margin and adjusted gross margin percentage are useful as supplemental measures to investors of our operating profitability. 
+Discretionary Cash Flow 
+Discretionary cash flow is considered a non-GAAP measure. We define discretionary cash flow as net cash provided by operating activities less (i) maintenance capital expenditures; (ii) certain changes 
+in operating assets and liabilities; and (iii) certain other expenses; plus certain items, as applicable, such as (w) severance expenses; (x) transaction expenses; and (y) sales tax reserve. We believe 
+discretionary cash flow is a useful liquidity and performance measure and supplemental financial measure for us in assessing our ability to pay cash dividends to our stockholders, make growth capital 
+expenditures and assess our operating performance. 
+Free Cash Flow 
+Free cash flow is considered a non-GAAP measure. We define free cash flow as net cash provided by operating activities less (i) maintenance capital expenditures; (ii) certain changes in operating 
+assets and liabilities; (iii) certain other expenses; (iv) growth capital expenditures; and (v) other capital expenditures; plus certain items, as applicable, such as (w) severance expenses; (x) transaction 
+expenses; (y) sales tax reserve; and (z) proceeds from sale of assets. We believe free cash flow is a liquidity measure and useful supplemental financial measure for us in assessing our ability to pursue 
+business opportunities and investments to grow our business and to service our debt. 
+--- slide 30 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Reconciliation of Non-GAAP Financial Measures
+30Investor Presentation 2026
+(in thousands) Q2 2025 Q1 2026 Q2 2026
+Total revenues $322,843 $345,759 $319,120
+Cost of operations (exclusive of D&A and SG&A) (115,251) (122,878) (144,356)
+Depreciation and amortization (66,135) (68,681) (78,650)
+Gross margin $141,457 $154,200 $96,114
+Depreciation and amortization 66,135 68,681 78,650
+Adjusted Gross Margin $207,592 $222,881 $174,764
+Adjusted Gross Margin % 64.3% 64.5% 54.8%
+(in thousands) Q2 2025 Q1 2026 Q2 2026
+Net income (loss) $39,984 $17,680 $52,144
+Interest expense, net 45,755 48,741 50,061
+Income tax (benefit) expense 13,445 2,760 21,093
+Depreciation and amortization 66,135 68,681 78,650
+Loss on extinguishment of debt - 36,512 -
+Equity compensation expense 6,291 5,890 8,639
+Severance expense - 72 -
+Transaction expenses1 - 8,315 3,300
+Loss on sale of capital assets 6,606 1,261 2,959
+Adjusted EBITDA $178,216 $190,092 $216,846
+Net Income to Adjusted EBITDA
+Gross Margin to Adjusted Gross Margin Net Cash Provided by Operating Activities to DCF and FCF
+(in thousands) Q2 2025 Q1 2026 Q2 2026
+Net cash provided by operating activities $177,172 $71,182 $99,465
+Maintenance capital expenditures (17,565) (17,758) (19,947)
+Severance expense - 72 -
+Transaction expenses1 - 8,315 3,300
+Change in operating assets and liabilities (38,478) 69,123 85,492
+Other3 (4,705) (4,429) (5,059)
+Discretionary Cash Flow $116,424 $126,505 $163,251
+Compression Infrastructure capital expenditures4,5 (37,966) (67,567) (66,790)
+Power Infrastructure capital expenditures4 - (17,985) (134,371)
+Other capital expenditures6 (16,398) (7,458) (53,709)
+Proceeds from sale of assets 8,230 3,467 4,123
+Free Cash Flow 70,290 $36,962 ($87,496)
+Net Income to Adjusted Net Income
+(in thousands) Q2 2025 Q1 2026 Q2 2026
+Net income (loss) $39,984 $17,860 $52,144
+Loss on extinguishment of debt - 36,512 -
+Severance expense - 72 -
+Transaction expenses1 - 8,315 3,300
+Tax effect of adjustments2 - (10,758) (1,169)
+Adjusted Net Income $39,984 $52,001 $54,275
+Source: Company filings; 1Represents certain costs associated with non-recurring professional services, primarily related to the acquisition of DPS and secondary offerings. 2 Represents the estimated tax effect of adjustments calculated using the 
+Company’s adjusted tax provision. 3 Includes non-cash lease expense, provisions for credit losses, and inventory reserve. 4 Growth and other capital expenditures for the three months ended June 30, 2026 include a $32 million increase in accrued capital 
+expenditures. 5 For the three months ended March 31, 2026, growth capital expenditures included a $18.0 million investment in power generation infrastructure related to the DPS acquisition.  6 For the three months ended June 30, 2026, other capital 
+expenditures include a $42.6 million non-cash finance lease addition related to an operational office.     
+--- slide 31 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Reconciliation of Non-GAAP Financial Measures 
+31Investor Presentation 2026
+Gross Margin to Adjusted Gross Margin for Compression Infrastructure
+(in thousands) Q1 
+2020
+Q2 
+2020
+Q3 
+2020
+Q4 
+2020
+Q1 
+2021
+Q2 
+2021
+Q3 
+2021
+Q4 
+2021
+Q1 
+2022
+Q2 
+2022
+Q3 
+2022
+Q4 
+2022
+Total Revenues $131,616 $123,499 $128,355 $132,259 $137,445 $142,622 $148,595 $154,408 $157,495 $162,808 $163,662 $170,992 
+Cost of Operations 
+(excluding D&A) (45,899) (39,045) (39,897) (43,110) (43,269) (47,929) (51,124) (50,491) (52,937) (58,336) (55,872) (58,570)
+Depreciation and 
+Amortization (32,751) (38,147) (37,567) (37,167) (38,049) (39,126) (40,789) (42,081) (42,405) (43,397) (44,111) (44,550)
+Gross Margin $52,966 $46,307 $50,891 $51,982 $56,127 $55,567 $56,682 $61,836 $62,153 $61,075 $63,679 $67,872 
+Depreciation and 
+Amortization 32,751 38,147 37,567 37,167 38,049 39,126 40,789 42,081 42,405 43,397 44,111 44,550 
+Adjusted 
+Gross Margin $85,717 $84,454 $88,458 $89,149 $94,176 $94,693 $97,471 $103,917 $104,558 $104,472 $107,790 $112,422 
+Adjusted
+Gross Margin % 65.1% 68.4% 68.9% 67.4% 68.5% 66.4% 65.6% 67.3% 66.4% 64.2% 65.9% 65.7%
+(in thousands) Q1 
+2023
+Q2 
+2023
+Q3 
+2023
+Q4 
+2023
+Q1 
+2024
+Q2 
+2024
+Q3 
+2024
+Q4 
+2024
+Q1 
+2025
+Q2 
+2025
+Q3 
+2025
+Q4 
+2025
+Q1 
+2026
+Q2 
+2026
+Total Revenues $177,697 $181,619 $186,673 $189,616 $193,399 $276,250 $284,313 $280,211 $288,956 $293,534 $296,970 $301,810 $306,985 $315,125
+Cost of Operations 
+(excluding D&A) (62,770) (65,017) (65,470) (63,835) (65,882) (99,333) (96,617) (93,184) (93,235) (93,137) (94,222) (92,899) (90,259) (94,435)
+Depreciation and 
+Amortization (44,897) (45,430) (46,087) (46,455) (46,944) (69,463) (73,452) (70,413) (70,529) (66,135) (66,329) (73,192) (68,681) (73,106)
+Gross Margin $70,030 $71,172 $75,116 $79,326 $80,573 $107,454 $114,244 $116,614 $125,192 $134,262 $136,419 $135,719 $148,045 $147,584
+Depreciation and 
+Amortization 44,897 45,430 46,087 46,455 46,944 69,463 73,452 70,413 70,529 66,135 66,329 73,192 68,681 73,106
+Adjusted 
+Gross Margin $114,927 $116,602 $121,203 $125,781 $127,517 $176,917 $187,696 $187,027 $195,721 $200,397 $202,748 $208,911 $216,726 $220,690
+Adjusted
+Gross Margin % 64.7% 64.2% 64.9% 66.3% 65.9% 64.0% 66.0% 66.7% 67.7% 68.3% 68.3% 69.2% 70.6% 70.0%
+--- slide 32 ---
+217
+216
+214
+177
+178
+178
+99
+101
+105
+0
+107
+166
+244
+189
+72
+0
+106
+69
+12
+86
+64
+0
+176
+72
+16
+24
+32
+Contact Us
+IR@KODIAKGAS.COM
+Investor Presentation 2026
+ 32

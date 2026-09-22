@@ -1,0 +1,31 @@
+# Elliott Investment Management L.P. — disclosed PepsiCo position history
+# Source: SEC EDGAR 13F-HR filings, CIK 0001791786, informationtable.xml parsed directly
+# Compiled 2026-09-22 for the PEP page (§4 activist engagement)
+
+PERIOD END    POSITION                                   BOOK SIZE   NOTE
+2024-12-31    none                                       45 posns
+2025-03-31    none                                       41 posns
+2025-06-30    4,000,000 sh / $528.2M / PUT options        1 posn     amended filing, single position
+2025-09-30    1,275,000 sh / $179.1M / COM               35 posns    quarter the ~$4B stake was reported
+2025-12-31    1,275,000 sh / $183.0M / COM               34 posns    quarter of the Dec 8 settlement
+2026-03-31    1,275,000 sh / $198.0M / COM               33 posns
+2026-06-30    1,275,000 sh / $172.6M / COM               29 posns    most recent, filed 2026-08-14
+
+READ:
+- The disclosed LONG COMMON position has been EXACTLY 1,275,000 shares for four consecutive
+  quarters. Value moves only with price. No add, no trim.
+- 1,275,000 shares is ~$167M at $130.82 (2026-09-22). The widely reported "$4 billion stake"
+  (WSJ/Bloomberg, Sept 2025) is therefore ~96% held outside 13F reporting — total-return swaps
+  are the standard vehicle and are not 13(f) securities, so they do not appear here.
+- The 2025-06-30 amendment shows a 4,000,000-share PUT position predating the stake disclosure.
+  Recorded as observed; not interpreted, since puts appear in collars and financing structures
+  as readily as in bearish views.
+
+CORROBORATING ABSENCES (checked on PEP CIK 0000077476, filings since 2025-08-01):
+- NO Schedule 13D ever filed by Elliott on PEP. (Consistent with economics held via swaps,
+  which generally do not confer beneficial ownership.)
+- NO DFAN14A / PREC14A / DEFC14A — no proxy-contest solicitation material of any kind.
+- The only 13G filings are routine passive institutional filings by other holders.
+- The Sep 17 2026 8-K electing Joaquin Duato to the board contains NO reference to Elliott,
+  to any cooperation agreement, or to any third-party designation right. Under the Dec 2025
+  settlement Elliott received no board seats.

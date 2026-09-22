@@ -142,11 +142,24 @@ The Base case rests on **margin (productivity offsetting the price investment) a
 |---|---|---|
 | Long-term algorithm: 4–6% organic revenue, high-single-digit core cc EPS | CAGNY, 2022–23 | 🔴 FY2024 ~+2% / +9%; FY2025 +1.7% / 0% |
 | FY2025: low-single-digit organic, mid-single-digit core cc EPS | Q4 2024 release, Feb 2025 | 🔴 +1.7% / 0% |
-| ≥100 bps core operating margin expansion 2026–28; 20% SKU cut; NA supply-chain review by late 2026 | [Elliott agreement](https://www.pepsico.com/en/newsroom/press-releases/2025/pepsico-announces-priorities-to-enhance-shareholder-value-and-provides-preliminary-2026-outlook), Dec 2025 | 🟡 H1 2026 core margin −15 bps; review pending |
+| ≥100 bps core operating margin expansion 2026–28; 20% SKU cut; NA supply-chain review by late 2026 | [Elliott agreement](https://www.pepsico.com/en/newsroom/press-releases/2025/pepsico-announces-priorities-to-enhance-shareholder-value-and-provides-preliminary-2026-outlook), Dec 2025 | 🟡 Nine months into a 36-month window and core margin is **−15 bps**, not up; the review is now due |
 
 💰 **Outsider grade: Steward (not Outsider)**: 54 consecutive dividend increases and a ~7:1 dividends-to-buybacks ratio make PepsiCo a Dividend King by design, not an opportunistic allocator. The productivity programme is genuine capital discipline, externally imposed. No capital-allocation event this window — and none at the low, which is itself the point: the stock fell 5% to a new 52-week low and the buyback stayed at its programmatic ~$1B/yr pace.
 
-**Board**: on Sep 17 PepsiCo elected **Joaquin Duato** — chairman and CEO of Johnson & Johnson — an independent director effective Dec 1, joining the Audit Committee ([8-K](https://www.sec.gov/Archives/edgar/data/77476/000007747626000042/pep-20260917.htm)). A serious operator of a large, regulated, brand-led business; too early to read as a signal about strategy, and not a thesis input.
+**Board**: on Sep 17 PepsiCo elected **Joaquin Duato** — chairman and CEO of Johnson & Johnson — an independent director effective Dec 1, joining the Audit Committee ([8-K](https://www.sec.gov/Archives/edgar/data/77476/000007747626000042/pep-20260917.htm)). A serious operator of a large, regulated, brand-led business. ⚠️ The filing makes **no reference to Elliott or to any designation right**: this is ordinary board refresh, not an activist seat.
+
+**Activist engagement — what the filings actually show.** The margin commitments this thesis leans on were externally imposed, so how much force still sits behind them matters. [Elliott's 13F history](../../../raw/PEP/filings/2026-09-22_Elliott-13F-position-history.txt), parsed from EDGAR:
+
+| Period end | Elliott disclosed PEP position |
+|---|---|
+| Sep 30 2025 (stake reported) | 1,275,000 sh · $179.1M |
+| Dec 31 2025 (settlement) | 1,275,000 sh · $183.0M |
+| Mar 31 2026 | 1,275,000 sh · $198.0M |
+| Jun 30 2026 (latest) | 1,275,000 sh · **$172.6M** |
+
+Three things follow. **The position has not moved in four quarters** — no add, no trim, so there is no exit signal and no escalation signal. **It is ~$167M at today's price, not $4B**: the reported stake is ~96% held outside 13F reporting, almost certainly in total-return swaps, so the economic exposure is real but unverifiable. And the enforcement is **reputational, not structural** — Elliott took no board seats in the December settlement, has never filed a 13D on PEP, and no proxy-contest material has ever been filed. Steinberg's stated posture remains *"continued engagement with the Company."*
+
+The practical read: the commitments are public, dated and reputationally binding on management, but nobody with a board seat is holding the pen. 📅 The supply-chain review promised for **late 2026** is the first hard test of whether that is enough.
 
 **Appearances (Jul 1 – Sep 22)**: one, the [Q2 call](../../../raw/PEP/appearances/2026-07-09_Q2-2026-earnings-call_laguarta.txt) (Jul 9), framed volume-forward with the margin cost left to the release body. No broker-conference fireside, television interview or podcast located in the extended window either; the IR events page lists nothing before Oct 8. Management has said nothing in public for eleven weeks while the stock made a new low — an absence worth naming, not an inference.
 
@@ -195,8 +208,9 @@ The Base case rests on **margin (productivity offsetting the price investment) a
 | Sep 7–22 | Price **−4.9% to $130.82**; new 52-week low **$127.98** on Sep 17 | No company news drove it; the de-rating is sector and rate-led. Yield now 4.53% |
 | Sep 17 | **Joaquin Duato** (chairman/CEO, Johnson & Johnson) elected to the board, effective Dec 1, Audit Committee | The only filing of the window; governance quality, not a thesis input (§4) |
 | Sep 17 | BofA maintained **Hold** | Consensus unchanged at Hold, ~$155 |
+| — | **Elliott's 13F position flat for four quarters** at 1,275,000 sh (~$167M), no 13D, no proxy material | Engagement intact but structurally unenforced; the reported $4B sits mostly outside 13F (§4) |
 
-**Upcoming**: 📅 **Oct 8** Q3 2026 earnings, the test of the NA revenue trajectory and the back-half guide · 📅 **Dec 1** Duato joins the board · 📅 late 2026, the Elliott-committed North America supply-chain review · 📅 February 2027, FY2026 10-K (test 3) and the expected 55th consecutive dividend increase.
+**Upcoming**: 📅 **Oct 8** Q3 2026 earnings, the test of the NA revenue trajectory and the back-half guide · 📅 **late 2026, now due** — the Elliott-committed North America supply-chain review, the first hard test of the margin programme (§4) · 📅 **Dec 1** Duato joins the board · 📅 February 2027, FY2026 10-K (test 3) and the expected 55th consecutive dividend increase.
 
 ## 8. Sources
 

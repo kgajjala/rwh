@@ -4,6 +4,35 @@ Append-only. Most recent entry first.
 
 ---
 
+## [2026-09-22] — Price action · senior notes offering · Goldman fireside
+
+**Trigger**: user-requested price update; window produced three filings and the standing Sep 14 catalyst.
+**Sources**: [424B2](https://www.sec.gov/Archives/edgar/data/1089063/000114036126037299/ny20082094x2_424b2.htm) · [S-3ASR](https://www.sec.gov/Archives/edgar/data/1089063/000114036126037197/ny20082094x1_s3asr.htm) · [8-K pro forma](../../../raw/DKS/filings/2026-09-21_proforma-FY2025-FootLocker.txt) · [Goldman fireside](../../../raw/DKS/appearances/2026-09-14_Goldman-Sachs-fireside_stack-hobart-gupta.txt) · [Yahoo](https://finance.yahoo.com/quote/DKS/) Sep 22 11:46 ET
+
+### Scorecard
+- Foot Locker cyclical, not structural — 🟡 Pending. The fireside reframed it as *"overcapacity in older styles"* and blamed EMEA on the Middle East war: colour, not data.
+- DICK'S insulated — 🟡 Pending, **strengthened**: the comp guide was reaffirmed on Sep 14, a second checkpoint survived.
+- Dividend funded without borrowing — 🔴 **Fail**, pre-empted ahead of its December checkpoint: the company went to the bond market on Sep 22. Replaced by a test on the offering's size and use.
+
+### Changed
+- **Price $139.15 → $131.77** (−5.3%), with a new 52-week low of **$120.15** inside the window; ~15th → ~9th %ile.
+- ⚠️ **+6.6% intraday on Sep 22, no sourceable driver** — recorded as unexplained rather than attributed to the notes launch.
+- **PW return/yr 11.5% → 12.9%**, seven basis points under the hurdle; clears below **$131.41**, and paid 15.3% at the window low.
+- **Yield restated 3.59% → 3.79%** on the derived figure. Yahoo's quoted 4.04% is struck off the prior close and would have overstated the return ~25 bps, wrongly flipping the verb.
+- **Two-tranche senior notes launched**, uses include share repurchases — the material event (§4); Outsider grade surfaced to the Verdict per R12.
+- **Pro forma FY2025 combined**: operating income $976M on $21.78B (4.5% margin), diluted EPS **$6.21** vs $9.97 standalone.
+- **R/R 4.9 → 6.2:1** · EV $13.3B → $12.9B · P/E 12.1× → 11.5×.
+- Securities class action escalated; lead-plaintiff deadline **Nov 3**.
+
+### Status
+- **Thesis**: Weakened on funding, strengthened on the core — net **Unchanged**, with the verb now price-gated rather than thesis-gated.
+- **PW EV**: $204 (held) · **PW return/yr**: 11.5% → **12.9%** (hurdle 13%) · **R/R**: 4.9 → 6.2 · **BAIT**: Triple, held
+- **Verbs**: non-holder Watch (entry ≤$130 → **≤$131**) · holder Hold
+
+**Next trigger**: 📅 the notes pricing, within days — size and use is test 3; then 📅 ~Nov 24 Q3 FY2026.
+
+---
+
 ## [2026-09-07] — Q2 FY2026 10-Q · migrated v4.0 → v5.0
 
 **Trigger**: [Q2 FY2026 10-Q](https://www.sec.gov/Archives/edgar/data/1089063/000108906326000036/dks-20260801.htm) filed Sep 3 (first-half cash-flow statement); v5.0 pilot migration.

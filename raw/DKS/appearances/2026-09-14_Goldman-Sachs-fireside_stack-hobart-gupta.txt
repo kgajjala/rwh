@@ -1,0 +1,31 @@
+# DICK'S Sporting Goods — Goldman Sachs 33rd Annual Global Consumer & Retail Conference
+# Date: 2026-09-14, 11:30 AM ET · Fireside chat
+# Speakers: Ed Stack (Executive Chairman), Lauren Hobart (President & CEO), Navdeep Gupta (EVP & CFO)
+# Sources (cross-checked per R9):
+#   https://www.investing.com/news/transcripts/dicks-sporting-goods-at-goldman-sachs-conference-core-business-holds-firm-93CH-4900089
+#   https://seekingalpha.com/article/4946124-dicks-sporting-goods-inc-dks-presents-at-goldman-sachs-global-consumer-and-retail-conference
+# Context: first unscripted appearance since the Aug 25 crash (-30.7%). Was the standing "next trigger."
+
+## FOOT LOCKER
+Diagnosis framed as assortment, not demand:
+  Hobart: "overcapacity in older styles and undercapacity in new products."
+  Legacy Air Force 1s and Dunks have slowed; innovative variants remain hard to keep in stock.
+  Hobart: Foot Locker "needs little additional capital" and is not draining resources from core DICK'S.
+  Acquisition described as "creating a menu that all of you would expect us to create" rather than forcing outcomes.
+On Europe — blunter than the Q2 release:
+  Hobart: "EMEA has been very difficult. When we originally gave our guidance... there was not a war going
+  on in the Middle East. That has had a really meaningful impact on Europe."
+NOT SAID: any Foot Locker profitability date. Still absent, as at the Q2 call.
+
+## DICK'S CORE
+Comparable-store-sales guidance for the DICK'S banner kept UNCHANGED despite Q2 promotional pressure.
+  Hobart: "Our business on the DICK'S side is really very good."
+  Hobart, pushing back on the category bears: the idea that "the athletic cycle is over is overdone."
+  Stack: the DICK'S consumer "is holding up very well" across income cohorts, with "no trade-down" observed,
+  only growth across demographics.
+
+## CAPITAL ALLOCATION
+No commentary located on the $3.0B share repurchase authorization, on free cash flow, or on debt.
+NOTE: eight days later (Sep 22) the company launched a two-tranche senior notes offering whose stated
+uses include repurchases of common stock. The absence of any capital-structure discussion at this
+fireside is recorded as a gap, not an inference.

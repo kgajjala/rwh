@@ -4,6 +4,34 @@
 
 ---
 
+## [2026-09-22] — Price action · new 52-week low · Duato elected to the board
+
+**Trigger**: user-requested price update. One filing in the window.
+**Sources**: [8-K, board election](https://www.sec.gov/Archives/edgar/data/77476/000007747626000042/pep-20260917.htm) · [Yahoo](https://finance.yahoo.com/quote/PEP/) Sep 22 11:47 ET
+
+### Scorecard
+- Volume-for-price trade accretive — 🟡 Pending. No new data; resolves Oct 8 on NA convenient foods net revenue.
+- Back-half acceleration real — 🟡 Pending. Resolves Oct 8 on whether the +4–6% guide is reaffirmed or trimmed.
+- Incremental returns recover — 🟡 Pending. Resolves at the FY2026 10-K in February 2027.
+
+### Changed
+- **Price $137.63 → $130.82** (−4.9%); new 52-week low **$127.98** on Sep 17; ~10th → ~7th %ile.
+- **PW return/yr 11.1% → 12.4%**, still short of the hurdle. Clears below **$127.80** — the low came within **18 cents** and did not cross.
+- **Yield 4.30% → 4.53%**; FY26E core P/E 16.2× → **15.4×**; EV $230B → ≈$216B.
+- **R/R 6.0 → 10.0:1**, flagged as mechanically flattered: spot is only 9% above the $119 Bear anchor.
+- **Re-rating share of the Base rose** — at a lower entry multiple the 19× target does ~40% of the work, up from a third.
+- **Joaquin Duato** (chairman/CEO, J&J) elected to the board effective Dec 1, Audit Committee. Governance quality; not a thesis input.
+- 💰 No buyback response to a new low — the programmatic ~$1B/yr pace held, which is the Steward grade behaving as graded.
+
+### Status
+- **Thesis**: **Unchanged.** Nothing operational happened; the improvement is entirely price.
+- **PW EV**: $191 (held) · **PW return/yr**: 11.1% → **12.4%** (hurdle 13%) · **R/R**: 6.0 → 10.0 · **BAIT**: Double, held
+- **Verbs**: non-holder Watch (entry ≤$126 → **≤$127**) · holder Hold
+
+**Next trigger**: 📅 **Oct 8** Q3 2026 — tests 1 and 2 both resolve.
+
+---
+
 ## [2026-09-07] — Migrated v4.0 → v5.0 (no new company events)
 
 **Trigger**: v5.0 pilot migration. The Sep 2 → Sep 7 window had no filings, no appearances and no rating changes.

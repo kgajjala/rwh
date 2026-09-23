@@ -4,6 +4,37 @@ Append-only record of thesis updates. Format defined in CLAUDE.md.
 
 ---
 
+## [2026-09-23] — Q2 2026 beat-and-raise · Fed hike · migrated v3.0 → v5.0
+
+**Trigger**: user-requested update. Window May 28 → Sep 23 covers Q2 earnings (Jul 21), the 10-Q (Aug 7), three senior-note issues, the Sep 16 Fed hike and the Sep 22 −6.1% session.
+**Sources**: [Q2 release](../../../raw/SCHW/press-releases/2026-07-21_Q2-2026_earnings.txt) · [Q2 10-Q](../../../raw/SCHW/filings/SCHW-10Q-2026Q2.txt) · [2026 DEF 14A](../../../raw/SCHW/filings/SCHW-DEF14A-2026.txt) · [2026 Investor Day](../../../raw/SCHW/investor-day/2026-05_Institutional_Investor_Day.txt) · [Summer Business Update notes](../../../raw/SCHW/appearances/2026-07-21_summer-business-update_wurster-verdeschi.txt) · [8-K Jun 25](https://www.sec.gov/Archives/edgar/data/316709/000119312526288640/d334556d8k.htm) · [8-K Aug 12](https://www.sec.gov/Archives/edgar/data/316709/000119312526347083/d42452d8k.htm) · [Fed Sep 16](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm) · Form 4 XML (90 days) · [Yahoo](https://finance.yahoo.com/quote/SCHW/) Sep 23 10:40 ET
+
+### Scorecard
+- FY2026 EPS bar raised above $5.70–5.80 — ✅ Pass — revenue guide lifted to +17.5–18.5%; consensus EPS $6.49.
+- NIM trajectory up — ✅ Pass — 3.00% in Q2; 4Q26 guide 3.25–3.30%.
+- Sweep cash growing — ✅ Pass — +$24.2B in Q2 to $485.7B; August $483.3B.
+- Buyback at ≥≈$1B/quarter — 🟡 Pending — Q2 exactly $1.0B, down from $2.4B, while $5.85B of notes were issued; resolves Oct 15.
+
+### Changed
+- **Price** $85.05 → **$101.14** (+18.9%); 52-wk high $114.53; Sep 22 −6.1% on the Altruist AI agent and the rate reassessment.
+- **v5 migration**: 5-yr terminal scenarios replace 18-month targets. **PW EV $107 (18-mo) → $171 (5-yr)**; R/R 3.5 → **9.1:1**.
+- **Hurdle**: PW return **12.4% vs. 13%** → verbs **Initiate / Add → Watch (entry ≤$98) / Hold**. At the old $85 the same scenarios paid ~16.6%; the change is price plus the new lens, not a weaker business.
+- **Corrected data**: FY2025 NIM is **2.74%** per the 10-K (the page carried 2.90%, the Q4 exit rate).
+- **New finding**: the 10-Q's dynamic sensitivity puts +100 bps at +3.6% NII and −100 bps at −1.6%, so rate risk is far below what the Sep 22 move priced.
+- **Capital math**: 3-yr incremental return on common equity ex-AOCI ~43%; capital returned 110% of FY2025 earnings.
+- **Incentives** added: cash bonus 100% adjusted EPS vs. plan; PBRSUs on ROTCE ÷ COE. Guidance grade: Consistent beater.
+- 💰 Outsider grade **Steward** held: Q2 bought less ($1.0B at ~$89) at a lower price than Q1 ($2.4B at ~$99).
+- ⚠️ Insiders sold ~$144M in 90 days, no buys; short interest +26% (1.31% of float).
+
+### Status
+- **Thesis**: **Strengthened** (fundamentals); verbs cut on price.
+- **PW EV**: $107 → **$171** · **PW return/yr**: n/a → **12.4%** (hurdle 13%) · **R/R**: 3.5 → 9.1 · **BAIT**: Triple → **Double (B+A)**
+- **Verbs**: non-holder **Watch (≤$98)** · holder **Hold**
+
+**Next trigger**: 📅 **Oct 15** Q3 2026: sweep cash under a hiking Fed (test 1), organic growth (test 3), buyback pace.
+
+---
+
 ## 2026-05-28 — Weekly Incremental (May Weakness Analysis)
 
 **Trigger**: User-requested update to explain recent price weakness ($91.71 → $85.05, –7.3% from April 22 baseline) and assess add vs. threat.

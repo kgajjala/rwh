@@ -4,6 +4,34 @@
 
 ---
 
+## [2026-09-23] — Price −10.5% · Japan stake report · Niccol interviews · migrated v3.0 → v5.0
+
+**Trigger**: user-requested update. Window Aug 6 → Sep 23: no filings beyond Form 4/144; Niccol on Reuters and CNBC (Sep 9–10); Reuters report of a Japan majority-stake sale (Sep 16). The v5 rebuild used the Q3 release and 10-Q, which the v3 page summarized but never stored.
+**Sources**: [Q3 FY26 release](../../../raw/SBUX/press-releases/2026-07-29_Q3-FY26_earnings.txt) · [Q3 10-Q](../../../raw/SBUX/filings/SBUX-10Q-FY26Q3.txt) · [2026 DEF 14A](../../../raw/SBUX/filings/SBUX-DEF14A-2026.txt) · [Niccol interviews and window events](../../../raw/SBUX/appearances/2026-09-10_cnbc_niccol.txt) · [Japan report](https://www.cnbc.com/2026/09/16/starbucks-considers-selling-majority-stake-japan.html) · [XBRL](https://data.sec.gov/api/xbrl/companyfacts/CIK0000829224.json) · [Yahoo](https://finance.yahoo.com/quote/SBUX/) Sep 23 10:40 ET
+
+### Scorecard
+- U.S. transactions positive on the toughest compare — 🟡 Pending — Q4 FY26, ~Oct 28.
+- Op margin sustainable ex-tariff refunds — 🟡 Pending — Q4 FY26; the 10-Q now quantifies the refund at ~80 bps consolidated and 1,370 bps in Channel Development.
+- Buyback resumption — 🟡 Pending — none in the window; FY2025 dividends exceeded FCF.
+
+### Changed
+- **Price** $105.16 → **$94.10** (−10.5%); no company data point drove it.
+- **v5 re-underwrite**: the terminal multiple was **36–40× → 26×** (Base), 30× (Bull). **PW EV $158 → $117**; R/R 3.9 → **2.8:1**.
+- **Hurdle**: PW return **7.1% vs. 13%** → verbs **Initiate / Hold-Add → Watch (entry ≤$72) / Hold**. The business compounds ~14%/yr at a flat multiple; de-rating to a normal multiple consumes it.
+- **New findings**: ROIC 30.5% (FY2022) → **14.5%** (FY2025); **3-yr incremental ROIC −42%**; FY2025 dividends $2.77B > FCF $2.44B. The Q3 margin was flattered by refunds covering three quarters of tariffs.
+- **Corrected data**: FY2025 non-GAAP EPS is **$2.13** (the page estimated $2.40–2.60).
+- **Promises ledger** added: the 2022 plan (15–20% EPS growth) 🔴; traffic ✅; FY2028 targets 🟡.
+- **Incentives** added: 75% revenue and operating income bonus; PRSUs 50% EPS / 50% comps; nothing on returns.
+
+### Status
+- **Thesis**: **Weakened** (valuation and capital returns; operations unchanged).
+- **PW EV**: $158 → **$117** · **PW return/yr**: ~10.9% → **7.1%** (hurdle 13%) · **R/R**: 3.9 → 2.8 · **BAIT**: Single-to-Double → **Single (A)**
+- **Verbs**: non-holder **Watch (≤$72)** · holder **Hold**
+
+**Next trigger**: 📅 **~Oct 28** Q4 FY2026 and the FY2027 guide (tests 1–2); 📅 mid-November 10-K (test 3).
+
+---
+
 ## [2026-08-06] — Q3 FY26 Earnings — Duration confirmed: 3rd consecutive txn growth, non-GAAP op margin 14.4%, 2nd guide raise
 
 **Trigger**: Q3 Fiscal 2026 earnings released July 29, 2026. Material thesis-strengthening print: third consecutive quarter of U.S. transaction growth, non-GAAP op margin leaped to 14.4% (+430 bps), FY26 guide raised a second time to $2.55–$2.65 adj EPS / >6% U.S. SSS. International comp accelerated to +5.7%. Revenue –1% to $9.3B reflects China deconsolidation (Boyu JV). Boyu net proceeds $2.5B → $1.3B debt tender. Tariff refunds ~$300M received in Q3.

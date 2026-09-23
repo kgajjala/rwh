@@ -4,6 +4,36 @@
 
 ---
 
+## [2026-09-23] — Q2 2026 re-acceleration · $5B buyback · Meta Muse on Shop Pay · migrated v3.0 → v5.0
+
+**Trigger**: user-requested update. Window May 10 → Sep 23: buyback raised to $5B (Jun 2), audit chair resigned (Jul 2), Q2 print (Aug 5, +18.4%), Meta Muse agentic checkout on Shop Pay (Sep 21).
+**Sources**: [Q2 release](../../../raw/SHOP/press-releases/2026-08-05_Q2-2026_earnings.txt) · [Q2 10-Q](../../../raw/SHOP/filings/SHOP-10Q-2026Q2.txt) · [2026 circular](../../../raw/SHOP/filings/SHOP-Circular-2026.txt) · [Q2 call and window notes](../../../raw/SHOP/appearances/2026-08-05_Q2-call_finkelstein-hoffmeister.txt) · [8-K Jun 2](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000028/shop-20260602.htm) · [8-K Jul 2](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000035/shop-20260702.htm) · [XBRL](https://data.sec.gov/api/xbrl/companyfacts/CIK0001594805.json) · [Yahoo](https://finance.yahoo.com/quote/SHOP/) Sep 23 10:40 ET
+
+### Scorecard
+- Revenue re-accelerates from the high-20s guide — ✅ Pass — Q2 +34%; Q3 guided to the low thirties.
+- Opex within the 35–36% guide — ✅ Pass — 34.0% of revenue.
+- Buyback executes — ✅ Pass — $1.93B in H1 at an average $114.63; authorization $5B.
+- Agentic adoption metrics — 🟡 Pending — AI orders ×3 but no GMV disclosure; carried into test 2.
+
+### Changed
+- **Price** $110.51 → **$138.91** (+25.7%); the Q2 low was $94.00.
+- **v5 re-underwrite** on FCF per share, replacing 3-yr P/E targets: **PW EV $212 → $217**; R/R ~13 → **4.6:1** (the old Bear sat 2% below spot).
+- **Hurdle**: PW return **9.3% vs. 13%** → verbs **Initiate / Add → Watch (entry ≤$117) / Hold**. FCF/share compounds ~27%/yr, but de-rating from ~64× to 30× FCF absorbs it.
+- **Base rate**: the Base's 22% revenue CAGR from $15B is top ~3–7% of the reference class.
+- 💰 Outsider grade **Outsider-leaning, strengthened**: the countercyclical buy (May at $105.70).
+- **Incentives** added: no performance metrics (Flex Comp, time-vested).
+- **Promises ledger**: Deliverr 🔴; cost discipline and growth vectors ✅.
+- ⚠️ Loan losses +76% y/y; short interest +20% (1.44% of float).
+
+### Status
+- **Thesis**: **Strengthened** (operations and moat); verbs cut on price.
+- **PW EV**: $212 → **$217** · **PW return/yr**: ~14% → **9.3%** (hurdle 13%) · **R/R**: ~13 → 4.6 · **BAIT**: Triple → **Single (A)**
+- **Verbs**: non-holder **Watch (≤$117)** · holder **Hold**
+
+**Next trigger**: 📅 **~Nov 3** Q3 2026 (test 1); February 2027 Q4 and 10-K (tests 2–3).
+
+---
+
 ## [2026-05-10] — Post-Q1 Price Drift + Schema v2.13 → v2.14 Confirmation
 
 **Trigger**: Lookback window 2026-05-05 → 2026-05-10. No earnings, 8-K, or strategic events. Continued post-Q1 share-price drift; Oppenheimer maintained Outperform with PT $175 (post-Q1 adjustment); new 52-wk low set in window.

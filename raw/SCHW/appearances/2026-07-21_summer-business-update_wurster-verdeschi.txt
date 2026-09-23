@@ -1,0 +1,27 @@
+Schwab Summer Business Update / Q2 2026 earnings call — July 21, 2026
+Speakers: Rick Wurster (President & CEO), Mike Verdeschi (CFO)
+Primary release: raw/SCHW/press-releases/2026-07-21_Q2-2026_earnings.txt
+Transcript notes compiled from two independent secondary transcripts (R9 cross-check):
+ - https://www.theglobeandmail.com/investing/markets/markets-news/motley/3394461/schwab-schw-q2-2026-earnings-call-transcript/
+ - https://www.investing.com/news/transcripts/earnings-call-transcript-charles-schwab-tops-q2-2026-estimates-on-record-revenue-93CH-4803573
+ - https://finance.yahoo.com/markets/stocks/articles/charles-schwab-q2-2026-earnings-115701690.html (trade-press write-up)
+
+Updated FY2026 scenario (supersedes May 2026 Institutional Investor Day scenario of +14-15% revenue):
+ - Revenue +17.5% to +18.5% y/y; adjusted expenses +9.5% to +10.5% (underlying ~5.5-6.5%; Forge ~100 bps)
+ - NIM 3.00%-3.10% full year; 4Q26 NIM 3.25%-3.30%
+ - Operating leverage ~800 bps (vs ~400 bps in January scenario)
+ - Assumes one 25 bp Fed hike in December 2026 (minimal 2026 effect; helps 2027)
+ - Daily average trades 10.6M for FY26 (CFO: "This trading assumption does include a pullback from recent monthly levels")
+ - ~5% organic asset growth; ~13% equity market appreciation assumed
+Capital: $1.0B buyback in Q2 (11.2M shares); redeemed $2.1B Series I preferred, issued $1.5B Series L; adjusted Tier 1 leverage 6.8%.
+ - Verdeschi: resourcing the firm "first and foremost" to support client needs before opportunistic buybacks.
+AI: Wurster — developer productivity up "15%-20% over the past year"; Portfolio Insights launched; Schwab Assistant employee pilot; strategy is people plus AI, not AI-only; NNA where Schwab "has a relationship far outpace those where we don't".
+Trading: Wurster — "We believe that the trading engagement you've seen is sustainable."
+Crypto: Schwab Crypto live (BTC, ETH); crypto transfer pilot end-July; Wurster said the capability "creates an attractive M&A opportunity over time".
+Wealth: ~31% of clients say they'd pay for advice; ~5% enrolled (conversion runway).
+Stock reaction: -2.5% on the day despite beat.
+
+Window appearance sweep (2026-05-28 -> 2026-09-23):
+ - 2026-05 Institutional Investor Day (deck stored: raw/SCHW/investor-day/2026-05_Institutional_Investor_Day.txt) — long-term framework: high-single-digit to low-double-digit revenue growth through the cycle, positive operating leverage, "Mid-Teens EPS Growth".
+ - 2026-07-21 Summer Business Update (this file).
+ - 2026-09-15 Barclays Global Financial Services Conference: Schwab participation NOT confirmed; aboutschwab.com/schwabevents returned 403. Logged as gap.

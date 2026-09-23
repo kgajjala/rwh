@@ -55,7 +55,7 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 | **BKNG** | Fogel | **Peak buyback at fear-driven dips** (FY23 $10.4B), −22% share count / 5 yrs; Q1 2026 $3.6B ≈ $14B annualized into the –28% drawdown. Dividend initiation tempers pure-Singleton profile. |
 | **HD** | McPhail | Bought ≈5% of float near **cyclically-depressed multiples pre-boom (IRR >20%)**, paused when expensive/levered. SRS deal ($18.25B) is the open Outsider test. |
 | **NFLX** | Sarandos | Disciplined tuck-in M&A; **walked from WBD and got paid for it**; no dividend; $13.6B remaining authorization ramping. $5–6B/yr cadence is mechanical not opportunistic, blunting the pure-Singleton read. |
-| **SHOP** | Finkelstein | **First-ever $2B buyback at sub-$130** — opportunistic undervaluation buy; no dividend; disciplined headcount (–6% on +30% revenue growth). |
+| **SHOP** | Finkelstein | **Countercyclical buy, strengthened (2026-09-23)**: $2B first authorization raised to $5B on Jun 2; $1.93B bought in H1 at avg $114.63, heaviest in May at $105.70 near the 52-wk low. No dividend; time-vested pay only. |
 | **CPNG** | Bom Kim | **Buyback tripled into a –50% drawdown**: $391M / 20.4M shares at ≈$19.17 in Q1 2026 alone — one quarter exceeding FY2025 ($243M) and FY2024 ($178M) individually — while the business printed near-zero EBITDA. Corroborated by director Neil Mehta's 7.35M-share open-market purchase. ⚠️ Farfetch's return is unproven and no hurdle-rate framework is disclosed for the Developing Offerings burn. |
 | **SN** | Lawson | Inaugural $750M (≈4.6% of cap), stated as "opportunistic," strong balance sheet; management prioritizing organic reinvestment first. |
 | **CELH** | Fieldly | First sizeable buyback "at the lows" + Alani Nu at <2× revenue (accretive) + debt paydown. |
@@ -87,12 +87,12 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 | **PG** | 70 consecutive dividend increases; $16B+ annually; programmatic buybacks. Reference archetype for excellent-steward-not-Outsider. |
 | **NKE** | 22+ yr dividend streak; FY22–24 buybacks at mid-cycle prices; Hill's April 2026 $1M personal buy is a positive signal but not institutional countercyclical discipline — and no insider bought the August 2026 12-year low. |
 | **AMCR** | 51-yr unbroken dividend record treated as inviolable; buybacks paused during Berry integration; Dividend Aristocrat archetype. |
-| **SBUX** | Dividend growing since 2010; buybacks slowed for turnaround reinvestment; dividend-first, buyback-secondary. |
+| **SBUX** | Dividend first (~95% of FY26 non-GAAP EPS; FY25 dividend exceeded FCF); no buyback since FY24; China and possibly Japan moved to licensed models, with proceeds to debt reduction. |
 | **MSFT** | $20B+ annual programmatic buybacks + dividend growing since 2003; M&A at strategic premiums. Nadella is an exceptional steward — the Outsider test doesn't fit a patterned return program. |
 | **DELL** | 40-yr strategic capital-allocation mastery (LBO, EMC, VMware spin) but public-company framework is committed programmatic cadence. SLTA insider sales blunt the timing signal. |
 | **UNH** | **Outsider-leaning** *(upgraded 2026-08-06)*: countercyclical $2B+ at $300–355 in Q1 2026, then **doubled FY26 target to ≥$5B** ($4B executed at ~$378 avg); dividend raised to $9.28/yr. The Q1 trough-buy + Q2 acceleration is the clearest Outsider signal in UNH's history; historical programmatic pattern partially offsets. |
 | **RKT** | $16B all-stock dilutive acquisitions (Mr. Cooper + Redfin); long-duration orientation, bold, but fails Thorndike's per-share discipline test; no buybacks during integration. |
-| **SCHW** | Q1 2026 $2.4B buyback is post-recovery (stock near highs) not countercyclical; cash-sorting episode navigated operationally, not exploited as a cheap-stock buyback opportunity. |
+| **SCHW** | Bought $2.4B at ~$99 in Q1 2026, then only $1.0B at ~$89 in Q2 as the stock made its 52-wk low, while issuing $5.85B of senior notes. The inverse of the countercyclical test. |
 
 ### 🔴 Anti-Outsiders / Reforming
 

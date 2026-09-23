@@ -1,0 +1,21 @@
+Shopify Q2 2026 earnings call — August 5, 2026 (Harley Finkelstein, President; Jeff Hoffmeister, CFO)
+Primary release: raw/SHOP/press-releases/2026-08-05_Q2-2026_earnings.txt ; 10-Q: raw/SHOP/filings/SHOP-10Q-2026Q2.txt
+Secondary write-ups cross-checked (R9):
+ - https://finance.yahoo.com/markets/stocks/articles/shopify-inc-shop-q2-2026-210423114.html
+ - https://www.retailtouchpoints.com/news/shopify-credits-ai-for-34-revenue-growth-in-q2-2026/620805/
+ - https://ca.investing.com/news/company-news/shopify-q2-2026-slides-ai-commerce-drives-3x-traffic-surge-93CH-4777963
+Key disclosures: GMV $115.6B (+32%); revenue $3.583B (+34%, +33% cc); op income $488M; FCF $654M (18%); AI-driven traffic and orders to Shopify stores ~3x y/y; ~75% of AI-attributed purchases outside the top 100 categories; international GMV +37%; offline GMV +32%; B2B GMV +76%; fifth straight quarter of >30% growth in GMV, revenue, GP, op income and FCF. Payments penetration 68% (Q2).
+Q3 guide: revenue low-thirties growth; GP mid-to-high twenties; opex 33-34% of revenue; SBC $150M; FCF margin high-teens to low-twenties.
+Finkelstein (release): "This was a monster quarter".
+Stock: +18.4% to $145.99 on the day.
+
+Window events (2026-05-10 -> 2026-09-23):
+ - 2026-06-02 buyback authorization +$3B (total $5B). H1 repurchases 16.86M sh for $1.933B at avg $114.63; May avg $105.70 (10-Q Part II Item 2).
+ - 2026-06-16 AGM: all directors elected; Natale 90.45% for.
+ - 2026-07-02 director and Audit Chair Mahendra-Rajah resigned (US Dept of Commerce role); Natale to chair Audit.
+ - 2026-09-21 Meta Muse AI agent gets Shop Pay agentic checkout on Shopify stores (https://www.pymnts.com/commerce/ecommerce/2026/shopify-brings-shop-pay-checkout-solution-to-metas-muse-ai-agent/); stock +7% to $147.74, then about -6% to $138.91 on Sep 23. No revenue split or timeline disclosed.
+ - Analysts: consensus Buy (54), avg $172.77, median $175.50; Bernstein initiated Buy $160 (Sep 10), Rosenblatt initiated Buy $175 (Aug 19). https://stockanalysis.com/stocks/shop/forecast/
+ - Short interest 1.44% of float Aug 31 (+20%). https://www.marketbeat.com/stocks/NASDAQ/SHOP/short-interest/
+ - Insiders: Form 144 notices Aug 5-7, Aug 27, Sep 4, Sep 14, Sep 18 (planned sales). Shopify insiders report on SEDI, not Form 4; amounts not verified. Gap logged.
+Appearance sweep: no other executive conference transcript located for the window.
+Incentives (2026 Management Information Circular, raw/SHOP/filings/SHOP-Circular-2026.txt): no short-term incentives; "Flex Comp" wallet allocated by the executive between cash, options and RSUs; time-vested; no performance metrics.

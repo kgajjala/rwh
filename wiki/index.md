@@ -52,9 +52,9 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | [RH](tickers/RH/RH.md) | Active | RH (Restoration Hardware) | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (B-Strong, T-Mod via 35.6% short); deep cyclical trough; Watch / selective Initiate |
 | [RIVN](tickers/RIVN/RIVN.md) | Active | Rivian Automotive | Narrow | Moderate | 2026-05-18 | Post-earnings weakness + dilution deep-dive — $13.79 (2026-05-15, −16.6% from pre-print close on a Q1 beat) on financing overhang (mixed-shelf S-3 + DOE cut $6.57B→$4.5B + Georgia 400K→300K + R2 slip late 2028). Dilution ~850M IPO→~1.28B (~+50%); VW largest holder 15.9%; fully-loaded ~1.6–1.9B but bull-path-weighted — priced, not thesis-breaking. PW EV $21.10→$19.90; R/R 2.1→2.4:1; **Watch / Hold**; entry $11–13 |
 | [RKT](tickers/RKT/RKT.md) | Active | Rocket Companies | Narrow-Emerging Wide | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 most-profitable in 4 yrs — EBITDA $738M (26% margin); **Mr. Cooper $400M synergies pulled 1 yr forward to end-2026**; Redfin attach 45% w/ "line of sight to 50%"; AI capacity $300B 2 yrs early; +10.88% to $15.69; PW EV $25.80 (5-yr); R/R 3.6:1; verb upgrade **Add / Hold-Add** |
-| [SBUX](tickers/SBUX/SBUX.md) | Active | Starbucks | Wide | Moderate | 2026-08-06 | Q3 FY26 duration confirmed — US comp +7.9% / txns +4.2% (3rd consecutive Q) / non-GAAP op margin 14.4% (+430 bps); FY26 guide raised again to $2.55–$2.65 / >6% US SSS; §11 migrated to 5-yr; PW EV $158; R/R 3.9:1; 🟢 **Initiate / Hold-Add**; entry $98–108 |
-| [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Wide & Widening | High | 2026-05-28 | May weakness update — $85.05 (52-wk low, –7.3% from Apr baseline) on non-fundamental selling (debt issuance, 10b5-1 insider sales, short int +14.8% MoM); thesis intact; R/R improved ~2:1 → ~3.5:1; PW EV ~$107 (+26%, 18mo); **Initiate / Add** |
-| [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide & Widening | High | 2026-05-10 | **v2.13→v2.14** + Q1 2026 (May 5) — rev $3.17B (+34%), GMV $100.7B (+35%), FCF $476M (15% margin), AI orders +13× YoY; Q2 guide high-20s drove –7.9% to $117.45; continued drift to $110.51 (May 8) on new 52-wk low $99.01. PW EV $212; R/R ~13:1 (~19:1 w/ Bull+ tail); **Initiate / Add <$110** |
+| [SBUX](tickers/SBUX/SBUX.md) | Active | Starbucks | Wide, stable | Moderate | 2026-09-23 | 🟡 **Watch (entry ≤$72) / Hold** — U.S. traffic back three quarters, but new capital earns nothing and the price already assumes the FY2028 targets. **PW EV $117: +25% up / −27% down.** |
+| [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Wide, stable | Moderate | 2026-09-23 | 🟡 **Watch (entry ≤$98) / Hold** — the lowest-cost custodian compounding on almost no new capital; Q2 beat-and-raise, but the rally leaves 12.4%/yr. **PW EV $171: +69% up / −16% down.** |
+| [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide, widening | Moderate | 2026-09-23 | 🟡 **Watch (entry ≤$117) / Hold** — five quarters of 30%+ growth and Shop Pay is the agents' checkout, but ~60× FCF needs a decade of it. **PW EV $217: +56% up / −32% down.** |
 | [SN](tickers/SN/SN.md) | Active | SharkNinja | Narrow & Widening | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 (May 6) beat-and-raise — rev $1.41B (+15.6%, intl +31.6% accelerating); EBITDA $235M; **FY26 raised** ($1.29–1.30B EBITDA / $6.00–6.10 EPS); SEA tariff 20%→10%; GM –100bps (1H drag, 2H recovery watch); PW EV $150 (5-yr); R/R 2.7:1; **Initiate / Hold-Add weakness**; entry $95–110 |
 | [SPCX](tickers/SPCX/SPCX.md) | Active | Space Exploration Technologies (SpaceX) | Wide (Launch/Starlink) / None yet (AI) | Low-Moderate | 2026-07-13 | **v3.0 Initial Ingest** — 5-week-old listing (largest IPO in history, Jun 12 debut) at $145.30, essentially at its post-IPO all-time low after round-tripping from a $225.64 ATH; three segments — Starlink (61% of FY25 rev, only profitable segment), Launch (22%), AI-Compute (17%, ramping via signed Anthropic $1.25B/mo + Google $920M/mo contracts toward ~$26B/yr run-rate); S-1 targets aggressive 2028-2030 growth ($120-180B→$400-500B+) gated on unproven Starship; bond market pricing debt like junk despite IG rating; ~4-5% float with ~31% of float short. Double BAIT (B-Strong, I-Mod-Strong); PW EV ~$185 (5-yr); R/R ~2.3:1. **Watch**; entry <$110; next catalyst first earnings + Aug 11 lockup unlock |
 | [SPOT](tickers/SPOT/SPOT.md) | Active | Spotify Technology | Wide & Widening | Moderate-High | 2026-05-22 | **v2.9→v2.14** + May 21 Investor Day (2030: 35–40% GM, >20% op margin, 1B MAU) + **landmark UMG AI-covers deal** de-risked label/AI overhang; +17% to ~$490 — thesis strengthened, entry compressed; PW EV ~$680 (+39% 5-yr); R/R ~5:1; Watch / Hold |
@@ -105,9 +105,9 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | RH | $137.51 | –46.5% | Double (B-Strong, T-Mod via 35.6% short) | Watch / selective Initiate; entry $110–135 |
 | RIVN | $13.79 (5/15/26) | –41% from high | Triple (B+A+I-Mod, T-Mod) | Watch / Hold; entry $11–13 |
 | RKT | $15.60 | –35.9% | Double (B+A-Mod-Strong) | Initiate Spec. / Hold-Add; entry $11–14 |
-| SBUX | $105.16 (8/6/26) | –4% (87th %ile) | Single-to-Double (A Mod-Strong) | 🟢 Initiate / Hold-Add; entry $98–108 |
-| SCHW | $91.71 | –14.7% | Triple-Strong (B+A+I), Mod T | **Initiate / Add**; entry $80–93 |
-| SHOP | $110.51 (May 8) | –39.4% from $182 high | Triple (B+A+I-Mod) | **Initiate / Add <$110** — entry zone reached post-Q1 drift |
+| SBUX | **$94.10** (9/23/26) | −14.8% (50th %ile) | **Single (A)** | 🟡 **Watch / Hold**; entry ≤$72; PW EV $117; 7.1%/yr vs 13% hurdle |
+| SCHW | **$101.14** (9/23/26) | −11.7% (56th %ile) | **Double (B+A)** | 🟡 **Watch / Hold**; entry ≤$98; PW EV $171; 12.4%/yr vs 13% hurdle |
+| SHOP | **$138.91** (9/23/26) | −23.8% (51st %ile) | **Single (A)** | 🟡 **Watch / Hold**; entry ≤$117; PW EV $217; 9.3%/yr vs 13% hurdle |
 | SN | $115.74 | –13.6% | Triple (A-Mod-Strong; B+I+T-Mod) | Initiate; entry $95–105 |
 | SPCX | $145.30 (7/13/26) | –35.6% from ATH | Double (B-Strong, I-Mod-Strong) | Watch; entry <$110 |
 | SPOT | $489.93 (5/21/26) | –37.6% | Double (A-Mod-Strong, B+I+T-Mod) | Watch / Hold; entry $400–540 |
@@ -156,7 +156,9 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | LLY | Geographic revenue by region (exact %) | LLY 10-K segment note |
 | WING | FCF, operating cash flow from 10-K | SEC EDGAR / ir.wingstop.com |
 | UNH | Full balance sheet: debt structure, dividend coverage | UNH 10-K |
-| SCHW | Insider activity (last 90 days) | OpenInsider / SEC Form 4 |
+| SCHW | Management appearances calendar (aboutschwab.com/schwabevents returned 403); Barclays Sep 15 conference participation unconfirmed | IR events page via browser; conference transcript |
+| SBUX | Uplift-store return (sales lift vs. control, payback on ~$150K); four-wall margin; Niccol Sep 10 CNBC full transcript | Q4 FY26 call; CNBC transcript |
+| SHOP | Executed insider sales behind the Aug–Sep Form 144 notices (insiders report on SEDI, not Form 4); merchant count; agentic GMV | SEDI; Q3 2026 call |
 | RKT | Short interest % of float | Fintel / aggregator |
 | RKT | Insider activity (last 90 days) | OpenInsider / SEC Form 4 |
 | RKT | Full FY2025 adj revenue (post-acquisition, full year) | RKT 10-K |

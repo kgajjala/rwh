@@ -1,0 +1,1510 @@
+Source: https://www.sec.gov/Archives/edgar/data/1766502/000119312526389818/d175085ds3asr.htm
+
+
+
+S-3ASR
+
+1
+
+d175085ds3asr.htm
+
+S-3ASR
+
+S-3ASR
+
+Table of Contents
+
+As filed with the U.S. Securities and Exchange Commission on September 14, 2026 
+
+Registration No. 333-     
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 
+S-3
+
+REGISTRATION STATEMENT 
+
+UNDER 
+
+THE
+SECURITIES ACT OF 1933 
+
+Chewy, Inc. 
+
+(Exact name
+of registrant as specified in its charter) 
+
+| |
+
+| Delaware | 90-1020167 |
+
+| (State or other jurisdiction of incorporation or organization) | (I.R.S. Employer Identification No.) |
+
+7700 West Sunrise Boulevard 
+
+Plantation, Florida 33322 
+
+(786) 
+320-7111
+
+(Address, including zip code, and telephone number, including area code, of registrant’s principal executive offices) 
+
+Sumit Singh 
+
+Chief
+Executive Officer 
+
+7700 West Sunrise Boulevard 
+
+Plantation, Florida 33322 
+
+(786) 
+320-7111
+
+(Name, address, including zip code, and telephone number, including area code, of agent for service) 
+
+Copies of all communications, including communications sent to agent for service, should be sent to: 
+
+Joshua N. Korff 
+
+Asher
+Qazi 
+
+Kirkland & Ellis LLP 
+
+601 Lexington Avenue 
+
+New
+York, New York 10022 
+
+(212) 
+446-4800
+
+Approximate date of commencement of proposed sale to the public:
+ From time to time after the effective date of this registration statement. 
+
+If the only securities being registered on this Form are being offered pursuant to dividend or interest reinvestment plans, please check the following
+box. ☐ 
+
+If any of the securities being registered on this Form are to be offered on a delayed or continuous basis pursuant to Rule 415 under the
+Securities Act of 1933, other than securities offered only in connection with dividend or interest reinvestment plans, check the following box. ☒ 
+
+If this Form is filed to register additional securities for an offering pursuant to Rule 462(b) under the Securities Act, please check the following box and
+list the Securities Act registration statement number of the earlier effective registration statement for the same offering. ☐ 
+
+If this Form is
+a post-effective amendment filed pursuant to Rule 462(c) under the Securities Act, check the following box and list the Securities Act registration statement number of the earlier effective registration statement for the same offering. ☐
+
+If this Form is a registration statement pursuant to General Instruction I.D. or a post-effective amendment thereto that shall become effective upon filing
+with the Commission pursuant to Rule 462(e) under the Securities Act, check the following box. ☒ 
+
+If this Form is a post-effective amendment to
+a registration statement filed pursuant to General Instruction I.D. filed to register additional securities or additional classes of securities pursuant to Rule 413(b) under the Securities Act, check the following box. ☐ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a 
+non-accelerated
+
+filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in
+Rule 
+12b-2
+ of the Exchange Act. 
+
+| |
+
+| Large accelerated filer | ☒ | Accelerated filer | ☐ |
+
+| |
+
+| Non-accelerated filer | ☐ | Smaller reporting company | ☐ |
+
+| |
+
+| Emerging growth company | ☐ |
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards provided pursuant to Section 7(a)(2)(B) of Securities Act. ☐ 
+
+Table of Contents
+
+PROSPECTUS 
+
+Class A Common Stock 
+
+Preferred Stock 
+
+Depositary Shares 
+
+Warrants 
+
+Securities
+Purchase Contracts 
+
+Units 
+
+Chewy, Inc. may offer and sell, from time to time, in one or more offerings any combination of the following securities: Class A common
+stock, preferred stock, depositary shares, warrants, securities purchase contracts and units (collectively, “securities”). 
+
+Certain selling stockholders may offer and sell Class A common stock from time to time, together or separately, in amounts, at prices and
+on terms that will be determined at the time of any such offering. 
+
+This prospectus describes some of the general terms that may apply to
+these securities and the general manner in which they may be offered. We will offer the securities in amounts, at prices and on terms to be determined at the time of the offering. We will provide by supplements to this prospectus the specific terms
+and manner of offering of the securities that we actually offer. These prospectus supplements may also add, update or change information contained in this prospectus. You should read this prospectus and the applicable prospectus supplement carefully
+before you invest in the securities described in the applicable prospectus supplement. This prospectus may not be used to sell securities, unless accompanied by a prospectus supplement that describes the terms and manner of offering of those
+securities. 
+
+We or any selling stockholders may offer and sell the securities to or through one or more underwriters, dealers and agents,
+or directly to purchasers, on a continuous or delayed basis. We and any selling stockholders reserve the sole right to accept, and we, any selling stockholders and any agents, dealers, underwriters reserve the right to reject, in whole or in part,
+any proposed purchase of these securities. The applicable prospectus supplement or free writing prospectus will set forth the names of the agents, dealers or underwriters, any applicable commissions or discounts payable to them and the specific
+terms of the plan of distribution. The names of the selling stockholders, if any, will be set forth in the applicable prospectus supplement or free writing prospectus. Our net proceeds from the sale of these securities also will be set forth in the
+applicable prospectus supplement or free writing prospectus. We will not receive any proceeds from the sale of these securities by any selling stockholders. 
+
+Our Class A common stock is listed on The New York Stock Exchange, or NYSE, under the symbol “CHWY.” 
+
+Our principal executive office is located at 7700 West Sunrise Boulevard, Plantation, Florida 33322 and our telephone number is (786) 
+320-7111.
+
+You should read this entire prospectus, the documents that are incorporated by reference
+in this prospectus and any prospectus supplement carefully before you invest in our securities. 
+
+Investing in the securities
+involves risks. See “
+Risk Factors
+,” beginning on page 3 and, if applicable, any risk factors described in any accompanying prospectus supplement and in our Securities and Exchange Commission filings that
+are incorporated by reference in this prospectus. 
+
+Neither the Securities and Exchange Commission nor any state securities
+regulators have approved or disapproved these securities or determined if this prospectus is truthful or complete. Any representation to the contrary is a criminal offense. 
+
+This prospectus is dated September 14, 2026. 
+
+Table of Contents
+
+TABLE OF CONTENTS 
+
+| |
+
+| Page |
+
+| ABOUT THIS PROSPECTUS | 1 |
+
+| RISK FACTORS | 3 |
+
+| WHERE YOU CAN FIND MORE INFORMATION | 4 |
+
+| INCORPORATION OF CERTAIN INFORMATION BY REFERENCE | 5 |
+
+| CAUTIONARY STATEMENT CONCERNING FORWARD-LOOKING STATEMENTS | 6 |
+
+| OUR COMPANY | 7 |
+
+| USE OF PROCEEDS | 8 |
+
+| DESCRIPTION OF COMMON STOCK | 9 |
+
+| DESCRIPTION OF PREFERRED STOCK | 14 |
+
+| DESCRIPTION OF DEPOSITARY SHARES | 17 |
+
+| DESCRIPTION OF WARRANTS | 18 |
+
+| DESCRIPTION OF SECURITIES PURCHASE CONTRACTS | 19 |
+
+| DESCRIPTION OF UNITS | 20 |
+
+| PLAN OF DISTRIBUTION | 21 |
+
+| SELLING STOCKHOLDERS | 26 |
+
+| VALIDITY OF SECURITIES | 27 |
+
+| EXPERTS | 27 |
+
+i 
+
+Table of Contents
+
+ABOUT THIS PROSPECTUS 
+
+This prospectus is part of a registration statement that we filed with the Securities and Exchange Commission, or SEC, utilizing a
+“shelf” registration process. This prospectus provides you with a general description of the securities we may offer. Each time we and/or any selling stockholders offer securities, we will provide a prospectus supplement accompanied by
+this prospectus. The prospectus supplement will contain specific information about the nature of the persons offering securities and the terms of the securities being offered at that time. The prospectus supplement may also add, update or change
+information contained in this prospectus. If there is any inconsistency between the information in this prospectus and any prospectus supplement, you should rely on the information in the prospectus supplement. 
+
+We have provided you only with the information contained in this prospectus, including information incorporated by reference in this
+prospectus and the accompanying prospectus supplement. Neither we nor the selling stockholders have authorized anyone to provide you with different or additional information. Neither we nor the selling stockholders take any responsibility for, and
+can provide no assurance as to the reliability of any other information that others may give you. Neither we nor the selling stockholders are making an offer to sell securities in any jurisdiction where the offer or sale of securities is not
+permitted. You should not assume that the information included in this prospectus, any applicable prospectus supplement, or the documents incorporated by reference herein is accurate as of any date other than their respective dates. Our business,
+financial condition, results of operations and prospects may have changed since those dates. 
+
+You should read carefully the entire
+prospectus and any applicable prospectus supplement, as well as the documents incorporated by reference in this prospectus, before making an investment decision. 
+
+When used in this prospectus, except where the context otherwise requires, the terms “we,” “us,” “our” and
+“the Company” refer to Chewy, Inc. and its consolidated subsidiaries. 
+
+Basis of Presentation 
+
+Unless otherwise indicated or the context otherwise requires, financial data incorporated by reference in this prospectus reflect the business
+and operations of Chewy, Inc. and its consolidated subsidiaries. We currently use a 
+52-
+ or 
+53-week
+ fiscal year, with our fiscal year ending each year on the Sunday that
+is closest to January 31 of that year. Each fiscal year generally consists of four 
+13-week
+ fiscal quarters, with each fiscal quarter ending on the Sunday that is closest to the last day of the last month
+of the quarter. Throughout this prospectus, all references to quarters and years are to our fiscal quarters and fiscal years, respectively, unless otherwise noted. References to “fiscal year 2023,” “fiscal year 2024” and
+“fiscal year 2025” refer to our fiscal years ended January 28, 2024, February 2, 2025 and February 1, 2026, respectively. See our Annual Report on Form 
+10-K
+ and our consolidated
+financial statements and related notes incorporated by reference in this prospectus for more information. 
+
+Trademarks 
+
+This prospectus contains references to our trademarks and service marks and to those belonging to other entities. Solely for convenience,
+trademarks and trade names referred to in this prospectus may appear without the 
+™
+ or 
+®
+ symbols, but such references are not intended
+to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our rights or the rights of the applicable licensor to these trademarks and trade names. We do not intend our use or display of other companies’
+trade names, trademarks or service marks to imply a relationship with, or endorsement or sponsorship of us by, any other companies. 
+
+1 
+
+Table of Contents
+
+Market, Ranking and Other Industry Data 
+
+In this prospectus, we have included or incorporated by reference information regarding market data obtained from internal sources, market
+research, publicly available information, and industry publications. Estimates are inherently uncertain, involve risks and uncertainties, and are subject to change based on various factors, including those discussed in the sections of this
+prospectus titled “Risk Factors” and “Cautionary Statement Concerning Forward-Looking Statements.” 
+
+2 
+
+Table of Contents
+
+RISK FACTORS 
+
+Investing in the securities described herein involves risk. We urge you to carefully consider the risk factors described in our most recent
+Annual Report on Form 
+10-K
+ and any updates in our Quarterly Reports on 
+Form 10-Q,
+ together with any other SEC filings that are incorporated by reference in this
+prospectus and, if applicable, in any prospectus supplement used in connection with an offering of our securities, as well as the information relating to us identified herein in “Cautionary Statement Concerning Forward-Looking
+Statements,” before making an investment decision. Although we discuss key risks in our discussion of risk factors, new risks may emerge in the future, which may prove to be significant. Our subsequent filings with the SEC may contain amended
+and updated discussions of significant risks. We cannot predict future risks or estimate the extent to which they may affect our financial performance. 
+
+3 
+
+Table of Contents
+
+WHERE YOU CAN FIND MORE INFORMATION 
+
+We file annual, quarterly and current reports, proxy statements and other information with the SEC under the Securities Exchange Act of 1934,
+as amended, or the Exchange Act. The SEC filings are available at the Internet website maintained by the SEC at 
+www.sec.gov
+. 
+
+We
+have filed with the SEC a “shelf” registration statement on Form 
+S-3
+ under the Securities Act of 1933, as amended, or the Securities Act, relating to the securities that may be offered by this
+prospectus. This prospectus is a part of that registration statement, but does not contain all of the information in the registration statement. We have omitted parts of the registration statement in accordance with the rules and regulations of the
+SEC. For more detail about us and the securities that may be offered by this prospectus, you may examine the registration statement on Form 
+S-3
+ and the exhibits filed with it at the location listed in the
+previous paragraph. 
+
+4 
+
+Table of Contents
+
+INCORPORATION OF CERTAIN INFORMATION BY REFERENCE 
+
+We incorporate by reference information in this prospectus, which means that we disclose important information to you by referring you to
+another document filed separately with the SEC. Any statement made in this prospectus or in a document incorporated or deemed to be incorporated by reference in this prospectus supplement will be deemed to be modified or superseded for purposes of
+this prospectus to the extent that a statement contained in this prospectus or in any other subsequently filed document that is also incorporated or deemed to be incorporated by reference in this prospectus modifies or supersedes that statement. Any
+statement so modified or superseded will not be deemed, except as so modified or superseded, to constitute a part of this prospectus. This prospectus incorporates by reference the documents set forth below that have been previously filed with the
+SEC (other than, in each case, documents or information deemed to have been furnished and not filed in accordance with SEC rules): 
+
+| • | our Annual Report on Form 10-K for the year ended February 1, 2026, filed with the SEC on March 
+25, 2026 (including the portions of our Definitive Proxy Statement on Schedule 14A , filed with the SEC on
+May 22, 2026 and incorporated by reference in our Form 10-K); |
+
+| • | our Quarterly Report on Form 10-Q for the period ended May 3, 2026,
+filed on June 10, 2026 and our Quarterly Report on Form 10-Q for
+the period ended August 2, 2026, filed on September 9 , 2026; |
+
+| • | our Current Reports on Form 8-K, filed with the SEC on February 24,
+ 2026 (Item 5.02 only), April 
+8, 2026 , June 
+24, 2026 and July 13, 2026 ; and |
+
+| • | the description of our capital stock contained in our Registration Statement on Form 8-A , filed with the SEC on June 
+11, 2019, as amended by the description of our capital stock contained in Exhibit 4.1 to our Annual Report on Form 10-K for the year ended February 1, 2026 filed with the SEC on March 25, 2026, and any amendment or report filed for the purpose of updating such description. |
+
+We also incorporate by reference in this prospectus additional documents that we may file with the SEC under Section 13(a), 13(c), 14 or
+15(d) of the Exchange Act from the date of this prospectus until all of the securities to which this prospectus relates have been sold or the offering is otherwise terminated; provided, however, that we are not incorporating by reference any
+documents or information furnished and not filed with the SEC. 
+
+You may obtain copies of any of these filings by contacting us at the
+address and phone number indicated below or by contacting the SEC as described above. Documents incorporated by reference are available from us without charge, excluding all exhibits, unless an exhibit has been specifically incorporated by reference
+in this prospectus, by requesting them in writing, by telephone or via the Internet at: 
+
+Chewy, Inc. 
+
+7700 West Sunrise Boulevard 
+
+Plantation, Florida 33322 
+
+(786) 
+320-7111
+
+Attn: Investor Relations Department 
+
+Internet Website: 
+www.chewy.com
+
+THE INFORMATION CONTAINED ON, OR ACCESSIBLE THROUGH, OUR WEBSITE DOES NOT CONSTITUTE A PART OF, AND IS NOT INCORPORATED BY REFERENCE IN,
+THIS PROSPECTUS. 
+
+5 
+
+Table of Contents
+
+CAUTIONARY STATEMENT CONCERNING FORWARD-LOOKING STATEMENTS
+
+The information contained or incorporated by reference in this prospectus and any accompanying prospectus supplement contain
+statements that are not historical fact and that may be forward-looking statements within the meaning of Section 21E of the Exchange Act and Section 27A of the Securities Act. Such statements that may address, among other things, our
+future results of operations or financial condition, business strategy and plans and objectives of management for future operations, are forward-looking statements. In some cases, you can identify forward-looking statements because they contain
+words such as “anticipate,” “believe,” “contemplate,” “continue,” “could,” “estimate,” “expect,” “forecast,” “intend,” “may,”
+“plan,” “potential,” “predict,” “project,” “seek,” “should,” “target,” “will” or “would” or the negative of these words or other similar
+terms or expressions. 
+
+You should not rely on forward-looking statements as predictions of future events. We have based the
+forward-looking statements contained in this prospectus, and any accompanying prospectus supplement, primarily on our current expectations and projections about future events and trends that we believe may affect our business, financial condition,
+and results of operations. The outcome of the events described in these forward-looking statements is subject to risks, uncertainties and other factors described in the section titled “Risk Factors” and elsewhere in this prospectus and
+any accompanying prospectus supplement. Moreover, we operate in a very competitive and rapidly changing environment. New risks and uncertainties emerge from time to time, and it is not possible for us to predict all risks and uncertainties that
+could have an impact on the forward-looking statements contained in this prospectus and any accompanying prospectus supplement. The results, events and circumstances reflected in the forward-looking statements may not be achieved or occur, and
+actual results, events or circumstances could differ materially from those described in the forward-looking statements. Please refer to the “Risk Factors” section in this prospectus, and any accompanying prospectus supplement, in Part I,
+Item 1A of our Annual Report on Form 
+10-K
+ for the year ended February 1, 2026 (the “Annual Report on 
+Form 10-K”)
+ and in Part II, Item 1A of our
+Quarterly Reports on Form 
+10-Q
+ for the periods ended May 3, 2026 and August 2, 2026 (collectively, the “Quarterly Reports on Form 
+10-Q”).
+
+In addition, statements that “we believe” and similar statements reflect our beliefs and opinions on the relevant subject. These
+statements are based on information available to us as of the date of this prospectus and any accompanying prospectus supplement. While we believe that information provides a reasonable basis for these statements, that information may be limited or
+incomplete. Our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all relevant information. These statements are inherently uncertain, and investors are cautioned not to unduly rely on these
+statements. 
+
+The forward-looking statements made in this prospectus and any accompanying prospectus supplement relate only to events as of
+the date on which the statements are made. We undertake no obligation to update any forward-looking statements made in this prospectus and any accompanying prospectus supplement to reflect events or circumstances after the date of this prospectus
+and any accompanying prospectus supplement or to reflect new information or the occurrence of unanticipated events, except as required by law. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking
+statements, and you should not place undue reliance on our forward-looking statements. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, joint ventures or investments. 
+
+For further discussion of factors that could materially affect the outcome of our forward-looking statements, see “Item 1A. Risk
+Factors” in our Annual Report on Form 
+10-K,
+ which are incorporated by reference in this prospectus, and, to the extent applicable, our Quarterly Reports on Form
+
+10-Q
+ and the accompanying prospectus supplement. 
+
+6 
+
+Table of Contents
+
+OUR COMPANY 
+
+Chewy, Inc. began operating as 
+Chewy.com
+ in 2011 and Chewy.com, LLC was formed as a Delaware limited liability company in October 2013.
+On March 16, 2016, Chewy.com, LLC converted from a Delaware limited liability company to a Delaware corporation and changed its name to Chewy, Inc. We completed the initial public offering of our Class A common stock on June 18, 2019.
+Unless the context requires otherwise, references in this prospectus to “Chewy,” the “Company,” “we,” “our,” or “us” refer to Chewy, Inc. and its consolidated subsidiaries. 
+
+We are the largest pet 
+e-tailer
+ in the United States, offering virtually every product a pet needs. We
+launched Chewy in 2011 to bring the best of the neighborhood pet store shopping experience to a larger audience, enhanced by the depth and wide selection of products and services, as well as the 
+around-the-clock
+ convenience, that only 
+e-commerce
+ can offer. We believe that we are the preeminent destination for pet parents as a result of our broad selection of
+high-quality products and expanded menu of service offerings, which we offer at great prices and deliver with an exceptional level of care and a personal touch. We are the trusted source for pet parents and partners and continually develop
+innovative ways for our customers to engage with us. We partner with approximately 4,000 of the best and most trusted brands in the pet industry, and we create and offer our own outstanding private brands. Through our websites and mobile
+applications, we offer our customers approximately 190,000 products, compelling merchandising, an easy and enjoyable shopping experience, and exceptional customer service. 
+
+Our principal executive offices are located at 7700 West Sunrise Boulevard, Plantation, Florida 33322, and our telephone number is (786) 
+320-7111.
+ We maintain a website at 
+www.chewy.com
+. Information contained on, or accessible through, our website is not incorporated by reference in this prospectus. 
+
+7 
+
+Table of Contents
+
+USE OF PROCEEDS 
+
+Unless we specify otherwise in a prospectus supplement, we intend to use the net proceeds from the sale of securities by us to provide
+additional funds for general corporate purposes, which may include: 
+
+| • | repaying or refinancing debt; |
+
+| • | funding investments in, or extensions of credit to, our subsidiaries; |
+
+| • | financing acquisitions; |
+
+| • | working capital; and |
+
+| • | redeeming or repurchasing outstanding securities. |
+
+Pending such use, we may temporarily invest the net proceeds of any offering. 
+
+We will not receive any of the proceeds from the sale of the securities described in this prospectus by any selling stockholders. 
+
+8 
+
+Table of Contents
+
+DESCRIPTION OF COMMON STOCK 
+
+The following description sets forth certain general terms of the common stock to which a prospectus supplement may relate. The following
+description of our common stock does not purport to be complete and is subject to the terms our Fifth Amended and Restated Certificate of Incorporation (“amended and restated certificate of incorporation”) and amended and restated bylaws
+and the provisions of applicable law. Copies of our amended and restated certificate of incorporation and amended and restated bylaws have been filed with the SEC as exhibits to our registration statement, of which this prospectus forms a part. 
+
+Authorized Capitalization 
+
+As of the date
+of this prospectus, our authorized capital stock consists of 1,900,000,000 shares, all with a par value of $0.01 per share, of which: 
+
+| • | 1,500,000,000 shares are designated as Class A common stock; |
+
+| • | 395,000,000 shares are designated as Class B common stock; and |
+
+| • | 5,000,000 shares are designated as preferred stock. |
+
+Our board of directors is authorized, without stockholder approval except as required by the listing standards of the NYSE, to issue
+additional shares of our capital stock. 
+
+Class A Common Stock and Class B Common Stock 
+
+Voting Rights 
+
+Holders of our
+Class A common stock are entitled to one vote per share on any matter that is submitted to a vote of the Company’s stockholders. Holders of our Class B common stock are entitled to ten votes per share on any matter that is submitted
+to a vote of the Company’s stockholders. Holders of shares of our Class A common stock and our Class B common stock vote together as a single class on any matter (including the election of directors) that is submitted to a vote of
+our stockholders, unless otherwise required by law or our amended and restated certificate of incorporation. Our amended and restated certificate of incorporation does not provide for cumulative voting for the election of directors. 
+
+Economic Rights 
+
+Except as
+otherwise expressly provided in our amended and restated certificate of incorporation, or as required by applicable law, all shares of our Class A common stock and our Class B common stock have the same rights and privileges and rank
+equally, share ratably and are identical in all respects for all matters, including those described below. 
+
+Dividends and
+Distributions
+. Subject to preferences that may apply to any shares of preferred stock outstanding at the time, the holders of our Class A common stock and our Class B common stock are entitled to share equally, identically and ratably,
+on a per share basis, with respect to any dividend or distribution of cash or property paid or distributed by the Company, unless such different treatment is approved by the affirmative vote (or written consent) of the holders of a majority of the
+outstanding shares of Class A common stock and Class B common stock, each voting separately as a class; provided, however, that if a dividend or distribution is paid in the form of our Class A common stock or our Class B common
+stock (or rights to acquire shares of Class A common stock or Class B common stock), then the holders of our Class A common stock shall receive our Class A common stock (or rights to acquire Class A common stock) and holders
+of our Class B common stock shall receive Class B common stock (or rights to acquire our Class B common stock). 
+
+Liquidation Rights
+. In the event of the Company’s liquidation, dissolution or 
+winding-up,
+
+the holders of our Class A common stock and our Class B common stock will be entitled to share equally, identically and ratably in 
+
+9 
+
+Table of Contents
+
+all assets remaining after the payment of any liabilities, liquidation preferences and accrued or declared but unpaid dividends, if any, with respect to any outstanding preferred stock, unless
+such different treatment is approved by the affirmative vote (or written consent) of the holders of a majority of the outstanding shares of Class A common stock and Class B common stock, each voting separately as a class. 
+
+Subdivisions and Combinations
+. If we subdivide or combine in any manner outstanding shares of our Class A common stock or our
+Class B common stock, the outstanding shares of the other class will be subdivided or combined in the same manner, unless such different treatment is approved by the affirmative vote (or written consent) of the holders of a majority of the
+outstanding shares of our Class A common stock and Class B common stock, each voting separately as a class. 
+
+No Preemptive or Similar
+Rights 
+
+Our Class A common stock and our Class B common stock are not entitled to preemptive rights and are not subject
+to conversion, redemption or sinking fund provisions, except for the conversion provisions with respect to our Class B common stock described in our amended and restated certificate of incorporation. 
+
+Conversion 
+
+Each share of our
+Class B common stock is convertible at any time at the option of the holder with the prior written consent of the Company into one share of our Class A common stock. In addition, each share of our Class B common stock, will convert
+automatically into one share of our Class A common stock (i) upon the sale or transfer of such share of Class B common stock, except for certain transfers described in our amended and restated certificate of incorporation, including
+transfers to affiliates of the holder and another holder of Class B common stock, (ii) if the holder is not an affiliate of any of BC Partners LLP, La Caisse de dépôt et placement du Québec, GIC Private Limited,
+Longview Asset Management LLC or StepStone Group LP, (iii) on the final conversion date, defined as the first trading day on or after the date on which the outstanding shares of our Class B common stock represent less than 7.5% of the then
+outstanding Class A and Class B common stock and (iv) upon the occurrence of an event, specified by the affirmative vote (or written consent) of the holders of a majority of the then outstanding shares of Class B common stock,
+voting as a separate class. Once transferred and converted into our Class A common stock, our Class B common stock may not be reissued. 
+
+Anti-Takeover Provisions 
+
+Removal of Directors
+
+Our amended and restated certificate of incorporation and our amended and restated bylaws provide that a director (other than a
+director elected by the holders of any series of preferred stock, voting separately as a series or together with one or more other such series, as the case may be) may be removed with or without cause by the affirmative vote of a majority in voting
+power of all outstanding shares of Class A common stock and Class B common stock entitled to vote thereon, voting as a single class; provided that after the date on which the outstanding shares of Class B common stock represent less
+than 50% of the combined voting power of Class A common stock and Class B common stock, any such director may be removed only for cause and only by the affirmative vote of the holders of at least 66 2/3% in voting power of the
+then-outstanding shares of Class A common stock and Class B common stock entitled to vote thereon, voting as a single class. Any vacancy on our board of directors, including any vacancy resulting from an enlargement of our board of
+directors, may be filled by vote of a majority of our directors then in office, even if less than a quorum, by a sole remaining director or by the stockholders; provided that after the date on which the outstanding shares of Class B common
+stock represent less than 50% of the combined voting power of Class A common stock and Class B common stock, any vacancy on our board of directors, including a vacancy resulting from an enlargement of our board of directors, may be filled
+only by vote of a majority of our directors then in office even if less than a quorum, or by a sole remaining director (and not by the stockholders). In addition, our amended and restated certificate of incorporation provides
+
+10 
+
+Table of Contents
+
+for our board of directors to be divided into three classes with staggered three-year terms. Only one class of directors are elected at each annual meeting of our stockholders, with the other
+classes continuing for the remainder of their respective three-year terms. 
+
+The limitations on the removal of directors and filling of
+vacancies could make it more difficult for a third party to acquire, or discourage a third party from seeking to acquire, control of the Company. 
+
+Super-Majority Voting 
+
+Our amended
+and restated bylaws may be amended, repealed, altered or rescinded by a majority vote of our board of directors without the assent or vote of the stockholders. In addition, before the date on which the outstanding shares of Class B common stock
+represent less than 50% of the combined voting power of Class A common stock and Class B common stock, the affirmative vote of the holders of a majority in voting power of all the then-outstanding shares of Class A common stock and
+Class B common stock entitled to vote thereon, voting together as a single class, is required in order for our stockholders to alter, amend, repeal or rescind any provision of our amended and restated bylaws or to adopt any provision
+inconsistent therewith. After the date on which the outstanding shares of Class B common stock represent less than 50% of the combined voting power of Class A common stock and Class B common stock, in addition to any other vote
+otherwise required by our organizational documents and applicable law, the affirmative vote of at least 75% of the voting power of all the then-outstanding shares of Class A common stock and Class B common stock entitled to vote thereon,
+voting together as a single class, will be required for our stockholders to alter, amend, repeal or rescind any provision of our amended and restated bylaws or to adopt any provision inconsistent therewith. Additionally, after the date on which the
+outstanding shares of Class B common stock represent less than 50% of the combined voting power of Class A common stock and Class B common stock, the affirmative vote of at least 75% of the voting power of all the then-outstanding
+shares of Class A common stock and Class B common stock entitled to vote thereon, voting together as a single class, will be required to amend, alter, repeal or rescind certain specified provisions in our amended and restated certificate
+of incorporation or to adopt any provision inconsistent with such provisions. This requirement of a supermajority vote to approve amendments to our amended and restated certificate of incorporation and amended and restated bylaws could enable a
+minority of our stockholders to exercise veto power over any such amendments. 
+
+Stockholder Action; Special Meeting of Stockholders; Advance Notice
+Requirements for Stockholder Proposals 
+
+Our amended and restated certificate of incorporation and amended and restated bylaws
+provide for stockholder actions at a duly called meeting of stockholders or, before the date on which the outstanding shares of our Class B common stock represent less than 50% of the combined voting power of our Class A common stock and
+our Class B common stock, by written consent. Our amended and restated certificate of incorporation and our amended and restated bylaws also provide that, except as otherwise required by law, special meetings of our stockholders can only be
+called by our chair of the board or our board of directors or, before the date on which the outstanding shares of our Class B common stock represent less than 50% of the combined voting power of our Class A common stock and our
+Class B common stock, at the request of holders of 50% or more of the combined voting power of our outstanding Class A common stock and Class B common stock. 
+
+In addition, our amended and restated bylaws include advance notice procedures for stockholder proposals to be brought before an annual
+meeting of the stockholders, including the nomination of directors. Stockholders at an annual meeting may only consider the proposals specified in the notice of meeting or brought before the meeting by or at the direction of the board of directors,
+or by a stockholder of record on the record date for the meeting, who is entitled to vote at the meeting and who has delivered a timely written notice in proper form to our secretary, of the stockholder’s intention to bring such business
+before the meeting. These provisions could have the effect of delaying any stockholder actions, even if they are favored by the holders of a majority of our outstanding voting securities. 
+
+11 
+
+Table of Contents
+
+Authorized But Unissued Shares 
+
+The authorized but unissued shares of our common stock and preferred stock are available for future issuance without stockholder approval,
+subject to any limitations imposed by the listing standards of the NYSE. These additional shares may be used for a variety of corporate finance transactions, acquisitions and employee benefit plans. The existence of authorized but unissued and
+unreserved common stock and preferred stock could make more difficult or discourage an attempt to obtain control of the Company by means of a proxy contest, tender offer, merger or otherwise. 
+
+Delaware Anti-Takeover Statute 
+
+Section 203 of the DGCL provides that if a person acquires 15% or more of the voting stock of a Delaware corporation, such person becomes
+an “interested stockholder” and may not engage in certain “business combinations” with the corporation for a period of three years from the time such person acquired 15% or more of the corporation’s voting stock,
+unless: (1) the board of directors approves the business combination or the transaction which resulted in the person becomes an interested stockholder; (2) the interested stockholder owns at least 85% of the outstanding voting stock of the
+corporation at the time the applicable transaction commences (excluding voting stock owned by certain persons); or (3) the applicable transaction is approved by the board of directors and by the affirmative vote at a meeting, not by written
+consent, of stockholders of 
+two-thirds
+ of the outstanding voting stock which is not owned by the interested stockholder. A Delaware corporation may elect in its certificate of incorporation or bylaws not to be
+governed by this particular Delaware law. 
+
+Under our amended and restated certificate of incorporation, we opted out of Section 203
+of the DGCL and are therefore not subject to Section 203. 
+
+Limitations on Liability and Indemnification of Officers and Directors 
+
+Our amended and restated certificate of incorporation limits the liability of our directors and officers for monetary damages for breach of
+fiduciary duty owed to us or our stockholders to the fullest extent permitted by the DGCL as it now exists or may hereafter be amended, and our amended and restated bylaws provides that we indemnify our directors and officers to the fullest extent
+permitted by Delaware law. We have entered into indemnification agreements with our current directors and executive officers and expect to enter into similar agreements with any new directors or executive officers. 
+
+Exclusive Jurisdiction of Certain Actions 
+
+Our amended and restated certificate of incorporation provides that, subject to certain exceptions, the Court of Chancery of the State of
+Delaware is the exclusive forum for (i) any derivative action or proceeding brought on our behalf, (ii) any action asserting a breach of fiduciary duty owed by any of any our directors, officers, or other of our employees or stockholders
+to us or our stockholders, creditors or other constituents, (iii) any action asserting a claim against us or any director or officer arising pursuant to any provision of the DGCL or our amended and restated certificate of incorporation or
+bylaws (as either may be amended and/or restated from time to time) or as to which the DGCL confers jurisdiction on the Court of Chancery of the State of Delaware, or (iv) any action asserting a claim against us or any director or officer
+governed by the internal affairs doctrine. In addition, our amended and restated certificate of incorporation provides that, unless we consent in writing to the selection of an alternative forum, the federal district courts of the United States of
+America will, to the fullest extent permitted by law, be the exclusive forum for the resolution of any complaint asserting a cause of action arising under the Securities Act. Although we believe these provisions benefit us by providing increased
+consistency in the application of law in the types of lawsuits to which they apply, these provisions may have the effect of discouraging lawsuits against us and our directors and officers. 
+
+12 
+
+Table of Contents
+
+Transfer Agent and Registrar 
+
+The transfer agent and registrar for our common stock is Equiniti Trust Company, LLC (f/k/a American Stock Transfer & Trust Company,
+LLC). Its address is 1110 Centre Pointe Curve, Suite 101, Mendota Heights, Minnesota 55120-4100. 
+
+Stock Exchange 
+
+Our Class A common stock is listed on the NYSE under the symbol “CHWY.” 
+
+13 
+
+Table of Contents
+
+DESCRIPTION OF PREFERRED STOCK 
+
+The following outlines some of the provisions of the preferred stock that we may offer from time to time. The specific terms of a series of
+preferred stock will be described in the applicable prospectus supplement relating to that series of preferred stock. The following description of the preferred stock and any description of preferred stock in a prospectus supplement may not be
+complete and is subject to and qualified in its entirety by reference to the certificate of designations relating to the particular series of preferred stock, which we will file with the SEC in connection with the offering of any preferred stock.
+
+General 
+
+Under our amended and
+restated certificate of incorporation, our board of directors is authorized, without stockholder approval, to adopt resolutions providing for the issuance of up to 5,000,000 shares of preferred stock, par value $0.01 per share, in one or more
+series. As of the date of this prospectus, there is no preferred stock outstanding. 
+
+For each series of preferred stock, subject to the
+limitations prescribed by the DGCL, our board of directors may fix the voting powers, designations, preferences and relative participating, optional or other rights, if any, and any qualifications, limitations and restrictions of such series, as
+well as the number of shares to be issued in such series. The powers, preferences and relative, participating, optional and other special rights of, and the qualifications, limitations or restrictions thereof, of each series of Preferred Stock, if
+any, may differ from those of any and all other series at any time outstanding. Our board will fix these terms by resolution adopted before we issue any shares of the series of preferred stock. We may also “reopen” a previously issued
+series of preferred stock and issue additional preferred stock of that series. 
+
+In addition, as described under “Description of
+Depositary Shares,” we may, instead of offering full shares of any series of preferred stock, offer depositary shares evidenced by depositary receipts, each representing a fraction of a share of the particular series of preferred stock issued
+and deposited with a depositary. The fraction of a share of preferred stock that each depositary share represents will be set forth in the prospectus supplement relating to the depositary shares. 
+
+The prospectus supplement relating to the particular series of preferred stock will contain a description of the specific terms of that series
+as fixed by our board of directors, including, as applicable: 
+
+| • | the offering price at which we will issue the preferred stock; |
+
+| • | the title, designation of number of shares and stated value of the preferred stock; |
+
+| • | the dividend rate or method of calculation, the payment dates for dividends and the place or places where the
+dividends will be paid, whether dividends will be cumulative or noncumulative, and, if cumulative, the dates from which dividends will begin to cumulate; |
+
+| • | any conversion or exchange rights; |
+
+| • | whether the preferred stock will be subject to redemption and the redemption price and other terms and conditions
+relative to the redemption rights; |
+
+| • | any liquidation rights; |
+
+| • | any sinking fund provisions; |
+
+| • | any voting rights; and |
+
+| • | any other rights, preferences, privileges, limitations and restrictions that are not inconsistent with the terms
+of our amended and restated certificate of incorporation, as amended, restated or otherwise modified prior to such offering. |
+
+14 
+
+Table of Contents
+
+Subject to the rights of the holders of any series of preferred stock, the number of
+authorized shares of any series of preferred stock may be increased or decreased, but not below the number of shares of that series then outstanding, by the affirmative vote of the holders of a majority of the voting power of all outstanding shares
+of capital stock entitled to vote on the matter, voting together as a single class. No separate vote of the holders of any series of preferred stock is required for an increase or decrease in the number of authorized shares of that series. 
+
+When we issue and receive payment for shares of preferred stock, the shares will be fully paid and nonassessable, and for each share issued, a
+sum equal to the stated value will be credited to our preferred stock account. Unless otherwise specified in the prospectus supplement relating to a particular series of preferred stock, holders of preferred stock will not have any preemptive or
+subscription rights to acquire more of our stock and each series of preferred stock will rank on a parity in all respects with each other series of preferred stock and senior to our common stock as to dividends and any distribution of our assets
+upon liquidation, dissolution or 
+winding-up.
+
+The rights of holders of the preferred stock offered
+may be adversely affected by the rights of holders of any shares of preferred stock that may be issued in the future. Our board of directors may cause shares of preferred stock to be issued in public or private transactions for any proper corporate
+purposes and may include issuances to obtain additional financing in connection with acquisitions and issuances to officers, directors and employees pursuant to benefit plans. Our board of directors’ ability to issue shares of preferred stock
+may discourage attempts by others to acquire control of us without negotiation with our board of directors, as it may make it difficult for a person to complete an acquisition of the Company without negotiating with our board. 
+
+Redemption and Repurchase 
+
+If so
+specified in the applicable prospectus supplement, a series of preferred stock may be redeemable at any time, in whole or in part, at our option or the holders’, and may be mandatorily redeemed. 
+
+Any restriction on the repurchase or redemption by us of our preferred stock while we are in arrears in the payment of dividends will be
+described in the applicable prospectus supplement. 
+
+Unless we default in the payment of the redemption price, dividends will cease to
+accrue after the redemption date of shares of preferred stock called for redemption and all rights of holders of these shares will terminate, except for the right to receive the redemption price. 
+
+Dividends 
+
+Holders of each series of
+preferred stock will be entitled to receive cash dividends when, as and if declared by our board of directors out of funds legally available for dividends. The rates and dates of payment of dividends will be set forth in the applicable prospectus
+supplement relating to each series of preferred stock. Dividends will be payable to holders of record of preferred stock as they appear on our books on the record dates fixed by our board of directors. Dividends on any series of preferred stock may
+be cumulative or noncumulative. 
+
+Except as described in a prospectus supplement with respect to a series of preferred stock, we may not
+declare, pay or set apart funds for payment of dividends on a particular series of preferred stock, unless full dividends on any other series of preferred stock that ranks equally with or senior to the series of preferred stock have been paid or
+sufficient funds have been set apart for payment for either of the following: 
+
+| • | all prior dividend periods of the other series of preferred stock that pay dividends on a cumulative basis; or |
+
+| • | the immediately preceding dividend period of the other series of preferred stock that pays dividends on a
+noncumulative basis. |
+
+15 
+
+Table of Contents
+
+Partial dividends declared on shares of any series of preferred stock and other series of
+preferred stock ranking on an equal basis as to dividends will be declared pro rata. A pro rata declaration means that the ratio of dividends declared per share to accrued dividends per share will be the same for both series of preferred stock. 
+
+Liquidation Preference 
+
+In the event of
+our liquidation, dissolution or 
+winding-up,
+ holders of each series of our preferred stock will have the right to receive distributions upon liquidation in the amount described in the applicable prospectus
+supplement relating to each series of preferred stock, plus an amount equal to any accrued and unpaid dividends. These distributions will be made before any distribution is made on the common stock or on any securities ranking junior to the
+preferred stock upon liquidation, dissolution or 
+winding-up.
+
+If the liquidation amounts payable
+relating to the preferred stock of any series and any other securities ranking on a parity regarding liquidation rights are not paid in full, the holders of the preferred stock of these series and other securities will have the right to a ratable
+portion of our available assets up to the full liquidation preference. Holders of these series of preferred stock or other securities will not be entitled to any other amounts from us after they have received their full liquidation preference. 
+
+Voting Rights 
+
+The holders of shares of
+preferred stock will have no voting rights, except: 
+
+| • | as otherwise stated in the applicable prospectus supplement; |
+
+| • | as otherwise stated in the certificate of designations establishing the series; or |
+
+| • | as required by applicable law. |
+
+Transfer Agent and Registrar 
+
+The
+transfer agent, registrar and dividend disbursement agent for the preferred stock will be stated in the applicable prospectus supplement. The registrar for shares of preferred stock will send notices to stockholders of any meetings at which holders
+of the preferred stock have the right to elect directors or to vote on any other matter. 
+
+Governing Law 
+
+The preferred stock will be governed by Delaware law. 
+
+16 
+
+Table of Contents
+
+DESCRIPTION OF DEPOSITARY SHARES 
+
+We may issue fractional interests in shares of our Class A common stock or preferred stock, rather than shares of Class A common
+stock or preferred stock, with those rights and subject to the terms and conditions that we may specify in a prospectus supplement or a free writing prospectus. If we do so, we will provide for a depositary (either a bank or trust company depositary
+that has its principal office in the United States) to issue receipts for depositary shares, each of which will represent a fractional interest in a share of our Class A common stock or preferred stock. The shares of our Class A common
+stock or preferred stock underlying the depositary shares will be deposited under a deposit agreement between us and the depositary. The prospectus supplement or a free writing prospectus will include the name and address of the depositary and will
+include a discussion of material U.S. federal income tax considerations applicable to our Class A common stock, preferred stock and depositary shares, as applicable. 
+
+17 
+
+Table of Contents
+
+DESCRIPTION OF WARRANTS 
+
+General 
+
+We may issue warrants to
+purchase equity securities. Each warrant will entitle the holder to purchase for cash the amount of equity securities at the exercise price stated or determinable in a prospectus supplement or a free writing prospectus for the warrants. We may issue
+warrants independently or together with any offered securities. The warrants may be attached to or separate from those offered securities. We will issue the warrants under warrant agreements to be entered into between us and a bank or trust company,
+as warrant agent, all as described in a related prospectus supplement or a free writing prospectus. The warrant agent will act solely as our agent in connection with the warrants and will not assume any obligation or relationship of agency or trust
+for or with any holders or beneficial owners of warrants. 
+
+The applicable prospectus supplement will describe the terms of any warrants,
+including the following: 
+
+| • | the title of the warrants; |
+
+| • | the total number of warrants; |
+
+| • | the price or prices at which we will issue the warrants; |
+
+| • | the currency or currencies investors may use to pay for the warrants; |
+
+| • | the designation and terms of the underlying securities purchasable upon exercise of the warrants; |
+
+| • | the price at which and the currency or currencies, including composite currencies, in which investors may
+purchase the underlying securities purchasable upon exercise of the warrants; |
+
+| • | the date on which the right to exercise the warrants will commence and the date on which the right will expire; |
+
+| • | information with respect to book-entry procedures, if any; |
+
+| • | if applicable, the minimum or maximum amount of warrants that may be exercised at any one time; |
+
+| • | if applicable, the designation and terms of the underlying securities with which the warrants are issued and the
+number of warrants issued with each underlying security; |
+
+| • | if applicable, the date on and after which the warrants and the related underlying securities will be separately
+transferable; |
+
+| • | if applicable, a discussion of material U.S. federal income tax considerations; |
+
+| • | the identity of the warrant agent; |
+
+| • | the procedures and conditions relating to the exercise of the warrants; and |
+
+| • | any other terms of the warrants, including terms, procedures and limitations relating to the exchange and
+exercise of the warrants. |
+
+18 
+
+Table of Contents
+
+DESCRIPTION OF SECURITIES PURCHASE CONTRACTS 
+
+We may issue purchase contracts, including contracts obligating holders to purchase from us and us to sell to the holders a specified number
+of shares of our Class A common stock, preferred stock or depositary shares at a future date or dates, as specified in a related prospectus supplement or a free writing prospectus. Alternatively, the purchase contracts may obligate us to
+purchase from holders, and obligate holders to sell to us a specified or varying number of shares of our Class A common stock, preferred stock or depositary shares. The consideration for our Class A common stock, preferred stock or
+depositary shares and the principal number of shares of each may be fixed at the time the purchase contracts are issued or may be determined by a specific reference to a formula set forth in the purchase contracts. The purchase contracts may provide
+for settlement by delivery by us or on our behalf of the underlying security, or they may provide for settlement by reference or linkage to the value, performance or trading price of the underlying security. The purchase contracts may be issued
+separately or as part of purchase units consisting of a purchase contract and other securities or obligations issued by us or third parties, including U.S. treasury securities, which may secure the holders’ obligations to purchase or sell, as
+the case may be, shares of our Class A common stock, preferred stock or depositary shares under the purchase contracts. The purchase contracts may require us to make periodic payments to the holders thereof or vice versa, and these payments may
+be unsecured or prefunded on some basis and may be paid on a current or on a deferred basis. The purchase contracts may require holders to secure their obligations thereunder in a specified manner and may provide for the prepayment of all or part of
+the consideration payable by holders in connection with the purchase of the underlying security pursuant to the purchase contracts. 
+
+The
+securities related to the purchase contracts may be pledged to a collateral agent for our benefit pursuant to a pledge agreement to secure the obligations of holders of purchase contracts to purchase the underlying security under the related
+purchase contracts. The rights of holders of purchase contracts to the related pledged securities will be subject to our security interest therein created by the pledge agreement. No holder of purchase contracts will be permitted to withdraw the
+pledged securities related to such purchase contracts from the pledge arrangement. 
+
+19 
+
+Table of Contents
+
+DESCRIPTION OF UNITS 
+
+We may issue units consisting of one or more purchase contracts, warrants, shares of preferred stock, shares of Class A common stock or
+any combination of such of our securities (but not securities of third parties), as specified in a related prospectus supplement or a free writing prospectus. 
+
+20 
+
+Table of Contents
+
+PLAN OF DISTRIBUTION 
+
+We and/or any selling stockholders may offer and sell the securities offered by this prospectus from time to time in one or more transactions,
+including, without limitation: 
+
+| • | directly to purchasers, including through a specific bidding, auction or other process; |
+
+| • | to or through agents; |
+
+| • | to or through underwriters; |
+
+| • | to or through dealers; or |
+
+| • | through a combination of these methods. |
+
+A distribution of the securities offered by this prospectus may also be effected through the issuance of derivative securities, including,
+without limitation, warrants, exchangeable securities, forward delivery contracts and the writing of options. 
+
+In addition, the manner in
+which we and/or any selling stockholders may sell some or all of the securities covered by this prospectus includes, without limitation, through: 
+
+| • | a block trade in which a broker-dealer will attempt to sell as agent, but may position or resell a portion of the
+block, as principal, in order to facilitate the transaction; |
+
+| • | an over-the-counter distribution
+in accordance with the rules of NYSE; |
+
+| • | through trading plans entered into pursuant to Rule 10b5-1 under the
+Exchange Act that are in place at the time of an offering pursuant to this prospectus and any applicable prospectus supplement hereto that provide for periodic sales of their securities on the basis of parameters described in such trading plans; |
+
+| • | distribution to employees, members, limited partners or stockholders of a selling stockholder; |
+
+| • | delayed delivery arrangements; |
+
+| • | at prices prevailing at the time of sale or at prices related to such prevailing market prices, including sales
+made directly on a national securities exchange or sales made through a market maker other than on an exchange or other similar offerings through sales agents; |
+
+| • | one or more underwritten offerings; |
+
+| • | in “at-the-market” offerings; |
+
+| • | purchases by a broker-dealer, as principal, and resale by the broker-dealer for its account; |
+
+| • | ordinary brokerage transactions and transactions in which a broker solicits purchasers; |
+
+| • | privately negotiated transactions; |
+
+| • | by pledge to secured debt and other obligations; |
+
+| • | through a combination of any of the above methods of sale; or |
+
+| • | any other method permitted pursuant to applicable law. |
+
+We and/or any selling stockholders may also enter into hedging transactions. For example, we and/or any selling stockholders may: 
+
+| • | enter into transactions with a broker-dealer or affiliate thereof in connection with which such broker-dealer or
+affiliate will engage in short sales of securities pursuant to this prospectus, in which case such broker-dealer or affiliate may use our and/or the selling stockholders’ Class A common stock received from us and/or the selling
+stockholders to close out its short positions; |
+
+21 
+
+Table of Contents
+
+| • | sell securities short and redeliver such securities to close out our and/or the selling stockholders’ short
+positions; |
+
+| • | enter into option or other types of transactions that require us and/or the selling stockholders to deliver our
+and/or the selling stockholders’ Class A common stock to a broker-dealer or an affiliate thereof, who will then resell or transfer our and/or the selling stockholders’ Class A common stock under this prospectus; or |
+
+| • | loan or pledge our and/or the selling stockholders’ Class A common stock to a broker-dealer or an
+affiliate thereof, who may sell the loaned shares or, in an event of default in the case of a pledge, sell the pledged shares pursuant to this prospectus. |
+
+In addition, we and/or the selling stockholders may enter into derivative or hedging transactions with third parties, or sell securities not
+covered by this prospectus to third parties in privately negotiated transactions. In connection with such a transaction, the third parties may sell securities covered by and pursuant to this prospectus and an applicable prospectus supplement or
+pricing supplement, as the case may be. If so, the third party may use securities borrowed from us and/or the selling stockholders to settle such sales and may use securities received from us and/or the selling stockholders to close out any related
+short positions. We and/or the selling stockholders may also loan or pledge securities covered by this prospectus and an applicable prospectus supplement to third parties, who may sell the loaned securities or, in an event of default in the case of
+a pledge, sell the pledged securities pursuant to this prospectus and the applicable prospectus supplement or pricing supplement, as the case may be. 
+
+In addition, a selling stockholder that is an entity may elect to make a pro rata 
+in-kind
+ distribution
+of securities to its members, partners or stockholders or purchase or redeem interests held in such entity by its members, partners or stockholders in exchange for securities, in each case pursuant to the registration statement of which this
+prospectus is a part by delivering a prospectus with a plan of distribution. Such members, partners or stockholders (unless they are affiliates of ours) would thereby receive freely tradeable securities pursuant to the distribution. To the extent a
+distributee is an affiliate of ours (or to the extent otherwise required by law), we may file a prospectus supplement in order to permit the distributees to use the prospectus to resell the securities acquired in the distribution. 
+
+A prospectus supplement with respect to each series of securities will state the terms of the offering of the securities, including: 
+
+| • | the name or names of any underwriters or agents and the amounts of securities underwritten or purchased by each
+of them, if any; |
+
+| • | the public offering price or purchase price of the securities and the proceeds to be received by us or the
+selling stockholders, as the case may be, from the sale; |
+
+| • | any delayed delivery arrangements; |
+
+| • | any underwriting discounts or agency fees and other items constituting underwriters’ or agents’
+compensation; |
+
+| • | any discounts or concessions allowed or reallowed or paid to dealers or agents; |
+
+| • | any option under which underwriters may purchase additional shares of our and/or the selling stockholders’
+Class A common stock from us and/or the selling stockholders; and |
+
+| • | any securities exchange on which the securities may be listed. |
+
+The offer and sale of the securities described in this prospectus by us, any selling stockholders, the underwriters, or the third parties
+described above may be effected from time to time in one or more transactions, including privately negotiated transactions, either: 
+
+| • | at a fixed price or prices, which may be changed; |
+
+22 
+
+Table of Contents
+
+| • | at market prices prevailing at the time of sale; |
+
+| • | at prices related to the prevailing market prices; or |
+
+| • | at negotiated prices. |
+
+General 
+
+Any public offering price and
+any discounts, commissions, concessions or other items constituting compensation allowed or reallowed or paid to underwriters, dealers, agents or remarketing firms may be changed from time to time. Underwriters, dealers, agents and remarketing firms
+that participate in the distribution of the offered securities may be “underwriters” as defined in the Securities Act. Any discounts or commissions they receive from us and any profits they receive on the resale of the offered securities
+may be treated as underwriting discounts and commissions under the Securities Act. We will identify any underwriters, agents or dealers and describe their commissions, fees or discounts in the applicable prospectus supplement or pricing supplement,
+as the case may be. 
+
+At-the-Market
+ Offerings 
+
+If we reach an agreement with an underwriter on a placement, including the number of shares of our Class A common stock to be offered in
+the placement and any minimum price below which sales may not be made, such underwriter would agree to use its commercially reasonable efforts, consistent with its normal trading and sales practices, to try to sell such shares on such terms.
+Underwriters could make sales in privately negotiated transactions and/or any other method permitted by law, including sales deemed to be an 
+“at-the-market”
+
+offering as defined in Rule 415 promulgated under the Securities Act, sales made directly on the NYSE, the existing trading market for our Class A common stock, or sales made to or through a market maker other than on an exchange. The name of
+any such underwriter or agent involved in the offer and sale of our Class A common stock, the amounts underwritten, and the nature of its obligations to take our Class A common stock will be described in the applicable prospectus
+supplement. 
+
+Underwriters and Agents 
+
+If underwriters are used in a sale, they will acquire the offered securities for their own account. The underwriters may resell the offered
+securities in one or more transactions, including negotiated transactions. 
+
+These sales may be made at a fixed public offering price or
+prices, which may be changed, at market prices prevailing at the time of the sale, at prices related to such prevailing market price or at negotiated prices. We and/or the selling stockholders may offer the securities to the public through an
+underwriting syndicate or through a single underwriter. The underwriters in any particular offering will be identified in the applicable prospectus supplement or pricing supplement, as the case may be. 
+
+Unless otherwise specified in connection with any particular offering of securities, the obligations of the underwriters to purchase the
+offered securities will be subject to certain conditions contained in an underwriting agreement that we will enter into with the underwriters at the time of the sale to them. The underwriters will be obligated to purchase all of the securities of
+the series offered if any of the securities are purchased, unless otherwise specified in connection with any particular offering of securities. Any initial offering price and any discounts or concessions allowed, reallowed or paid to dealers may be
+changed from time to time. 
+
+We and/or the selling stockholders may designate agents to sell the offered securities. Unless otherwise
+specified in connection with any particular offering of securities, the agents will agree to use their best efforts to solicit purchases for the period of their appointment. We and/or the selling stockholders may also sell the offered securities to
+one or more remarketing firms, acting as principals for their own accounts or as agents for us and/or the selling stockholders. These firms will remarket the offered securities upon purchasing them in accordance
+
+23 
+
+Table of Contents
+
+with a redemption or repayment pursuant to the terms of the offered securities. A prospectus supplement or pricing supplement, as the case may be, will identify any remarketing firm and will
+describe the terms of its agreement, if any, with us and/or the selling stockholders and its compensation. 
+
+In connection with offerings
+made through underwriters or agents, we and/or the selling stockholders may enter into agreements with such underwriters or agents pursuant to which we receive our and/or the selling stockholders’ outstanding securities in consideration for
+the securities being offered to the public for cash. In connection with these arrangements, the underwriters or agents may also sell securities covered by this prospectus to hedge their positions in these outstanding securities, including in short
+sale transactions. If so, the underwriters or agents may use the securities received from us under these arrangements to close out any related open borrowings of securities. 
+
+Selling stockholders may use this prospectus in connection with resales of our Class A common stock. Such selling stockholders may be
+deemed to be underwriters under the Securities Act in connection with the shares of our Class A common stock they resell and any profits on the sales may be deemed to be underwriting discounts and commissions under the Securities Act. 
+
+Dealers 
+
+We and/or the selling
+stockholders may sell the offered securities to dealers as principals. We and/or the selling stockholders may negotiate and pay dealers’ commissions, discounts or concessions for their services. The dealer may then resell such securities to
+the public either at varying prices to be determined by the dealer or at a fixed offering price agreed to with us at the time of resale. Dealers engaged by us and/or the selling stockholders may allow other dealers to participate in resales. 
+
+Direct Sales 
+
+We and/or the selling
+stockholders may choose to sell the offered securities directly. In this case, no underwriters or agents would be involved. 
+
+Institutional Purchasers
+
+We and/or any selling stockholders may authorize agents, dealers or underwriters to solicit certain institutional investors to
+purchase offered securities on a delayed delivery basis pursuant to delayed delivery contracts providing for payment and delivery on a specified future date. The applicable prospectus supplement or pricing supplement, as the case may be, will
+provide the details of any such arrangement, including the offering price and commissions payable on the solicitations. Institutional investors may include commercial and savings banks, insurance companies, pension funds, investment companies and
+educational and charitable institutions. 
+
+Indemnification; Other Relationships 
+
+We may have agreements with agents, underwriters, dealers and remarketing firms to indemnify them against certain civil liabilities, including
+liabilities under the Securities Act. Agents, underwriters, dealers and remarketing firms, and their affiliates, may engage in transactions with, or perform services for, us and our affiliates in the ordinary course of business. This includes
+commercial banking and investment banking transactions. 
+
+Market Making, Stabilization and Other Transactions 
+
+There is currently no market for any of the offered securities other than the shares of our Class A common stock, which are listed on the
+NYSE. If the offered securities are traded after their initial issuance, they may trade at a discount from their initial offering price, depending upon prevailing interest rates, the market for similar
+
+24 
+
+Table of Contents
+
+securities and other factors. While it is possible that an underwriter could inform us that it intended to make a market in the offered securities, such underwriter would not be obligated to do
+so, and any such market making could be discontinued at any time without notice. Therefore, no assurance can be given as to whether an active trading market will develop for the offered securities. We have no current plans for listing of the offered
+securities (other than our Class A common stock) on any securities exchange; any such listing with respect to any particular securities will be described in the applicable prospectus supplement or pricing supplement, as the case may be. 
+
+In connection with any offering of our Class A common stock, the underwriters may purchase and sell our Class A common stock in the
+open market. These transactions may include short sales, syndicate covering transactions and stabilizing transactions. Short sales involve syndicate sales of our Class A common stock in excess of the number of shares to be purchased by the
+underwriters in the offering, which creates a syndicate short position. “Covered” short sales are sales of shares made in an amount up to the number of shares represented by the underwriters’ over-allotment option. In determining
+the source of shares to close out the covered syndicate short position, the underwriters will consider, among other things, the price of shares available for purchase in the open market as compared to the price at which they may purchase shares
+through the over-allotment option. Transactions to close out the covered syndicate short involve either purchases of our Class A common stock in the open market after the distribution has been completed or the exercise of the over-allotment
+option. The underwriters may also make “naked” short sales of shares in excess of the over-allotment option. The underwriters must close out any naked short position by purchasing our Class A common stock in the open market. A naked
+short position is more likely to be created if the underwriters are concerned that there may be downward pressure on the price of the shares in the open market after pricing that could adversely affect investors who purchase in the offering.
+Stabilizing transactions consist of bids for or purchases of shares in the open market while the offering is in progress for the purpose of pegging, fixing or maintaining the price of the securities. 
+
+In connection with any offering, the underwriters may also engage in penalty bids. Penalty bids permit the underwriters to reclaim a selling
+concession from a syndicate member when the securities originally sold by the syndicate member are purchased in a syndicate covering transaction to cover syndicate short positions. Stabilizing transactions, syndicate covering transactions and
+penalty bids may cause the price of the securities to be higher than it would be in the absence of the transactions. The underwriters may, if they commence these transactions, discontinue them at any time. 
+
+Fees and Commissions 
+
+The aggregate
+maximum discount, commission or agency fees or other items constituting underwriting compensation to be received by any member of the Financial Industry Regulatory Authority (“FINRA”), or independent broker-dealer in connection with any
+offering pursuant to this prospectus and any applicable prospectus, as the case may be, will be in compliance with the guidelines of the FINRA. 
+
+25 
+
+Table of Contents
+
+SELLING STOCKHOLDERS 
+
+Information about selling stockholders, where applicable, will be set forth in a prospectus supplement, in a post-effective amendment or in
+filings we make with the SEC, which are incorporated by reference in this prospectus. 
+
+26 
+
+Table of Contents
+
+VALIDITY OF SECURITIES 
+
+The legal validity of the securities offered by this prospectus will be passed upon for us by Kirkland & Ellis LLP, New York, New
+York. If any legal matters relating to offerings made in connection with this prospectus are passed upon by counsel for the underwriters, dealers or agents, that counsel will be named in the prospectus supplement relating to such offering. 
+
+EXPERTS 
+
+The financial statements of Chewy, Inc. incorporated by reference in this Prospectus, and the effectiveness of Chewy, Inc.’s internal
+control over financial reporting have been audited by Deloitte & Touche LLP, an independent registered public accounting firm, as stated in their reports. Such financial statements are incorporated by reference in reliance upon the reports
+of such firm, given their authority as experts in accounting and auditing. 
+
+27 
+
+Table of Contents
+
+PART II 
+
+INFORMATION NOT REQUIRED IN PROSPECTUS 
+
+| Item 14. | Other Expenses of Issuance and Distribution |
+
+The following table sets forth the fees and expenses in connection with the issuance and distribution of the securities being registered. All
+amounts are estimates. 
+
+| |
+
+| SEC registration fee | $ | (1)(2) |
+
+| FINRA filing fee | (2) |
+
+| NYSE filing fee | (2) |
+
+| Accounting fees and expenses | (2) |
+
+| Legal fees and expenses | (2) |
+
+| Rating agency Fees | (2) |
+
+| Printing expenses | (2) |
+
+| Transfer agent, depositary and registrar fees and expenses | (2) |
+
+| Miscellaneous expenses | (2) |
+
+| |
+
+| Total | $ | (2) |
+
+| |
+
+| (1) | Under SEC Rules 456(b) and 457(r), the SEC registration fee will be paid at the time of any particular offering
+of securities under this registration statement, and is therefore not currently determinable. |
+
+| (2) | The amount of these expenses is not currently known. |
+
+| Item 15. | Indemnification of Directors and Officers |
+
+Section 102(b)(7) of the DGCL permits a corporation to provide in its certificate of incorporation that a director or officer of the
+corporation shall not be personally liable to the corporation or its stockholders for monetary damages for breach of fiduciary duty as a director or officer, as applicable, except such provisions shall not limit the liability of (1) a director
+or officer for any breach of the director’s or officer’s duty of loyalty to the corporation or its stockholders; (2) a director of officer for acts or omissions not in good faith or which involve intentional misconduct or a knowing
+violation of law; (3) a director under Section 174 of the DGCL (regarding, among other things, the payment of unlawful dividends or unlawful stock purchases or redemptions); (4) a director or officer for any transaction from which the
+director or officer derived an improper personal benefit or (5) an officer in any action by or in the right of the corporation. Our certificate of incorporation will provide for such limitation of liability. 
+
+Section 145(a) of the DGCL empowers a corporation to indemnify any director, officer, employee or agent, or former director, officer,
+employee or agent, who was or is a party or is threatened to be made a party to any threatened, pending or completed action, suit or proceeding, whether civil, criminal, administrative or investigative (other than an action by or in the right of the
+corporation), by reason of such person’s service as a director, officer, employee or agent of the corporation, or such person’s service, at the corporation’s request, as a director, officer, employee or agent of another corporation
+or enterprise, against expenses (including attorneys’ fees), judgments, fines and amounts paid in settlement actually and reasonably incurred by such person in connection with such action, suit or proceeding; provided that such director or
+officer acted in good faith and in a manner reasonably believed to be in or not opposed to the best interests of the corporation; and, with respect to any criminal action or proceeding; provided that such director or officer had no reasonable cause
+to believe his conduct was unlawful. 
+
+Section 145(b) of the DGCL empowers a corporation to indemnify any person who was or is a party
+or is threatened to be made a party to any threatened, pending or completed action or suit by or in the right of the corporation to procure a judgment in its favor by reason of the fact that such person is or was a director, officer,
+
+II-1 
+
+Table of Contents
+
+employee or agent of the corporation, or is or was serving at the request of the corporation as a director, officer, employee or agent of another enterprise, against expenses (including
+attorneys’ fees) actually and reasonably incurred in connection with the defense or settlement of such action or suit; provided that such director or officer acted in good faith and in a manner he or she reasonably believed to be in or not
+opposed to the best interests of the corporation, except that no indemnification may be made in respect of any claim, issue or matter as to which such director or officer shall have been adjudged to be liable to the corporation unless and only to
+the extent that the Delaware Court of Chancery or the court in which such action or suit was brought shall determine upon application that, despite the adjudication of liability but in view of all the circumstances of the case, such director or
+officer is fairly and reasonably entitled to indemnity for such expenses that the court shall deem proper. Notwithstanding the preceding sentence, except as otherwise provided in our bylaws, we shall be required to indemnify any such person in
+connection with a proceeding (or part thereof) commenced by such person only if the commencement of such proceeding (or part thereof) by any such person was authorized by the board of directors. 
+
+In addition, our certificate of incorporation provides that we must indemnify our directors and officers to the fullest extent authorized by
+law. Under our bylaws, we are also expressly required to advance certain expenses to our directors and officers and we are permitted to, and currently intend to, carry directors’ and officers’ insurance providing indemnification for our
+directors and officers for some liabilities. We believe that these indemnification provisions and the directors’ and officers’ insurance are useful to attract and retain qualified directors and officers. 
+
+Any underwriting agreements that we may enter into will likely provide for the indemnification of us, our controlling persons, our directors
+and certain of our officers by the underwriters against certain liabilities, including liabilities under the Securities Act of 1933, as amended. 
+
+| Item 16. | Exhibits |
+
+| (a) | Exhibits . |
+
+The exhibit index attached hereto is incorporated herein by reference. 
+
+| Item 17. | Undertakings |
+
+The undersigned registrant hereby undertakes: 
+
+| (1) | To file, during any period in which offers or sales are being made, a post-effective amendment to this
+registration statement: |
+
+| (i) | To include any prospectus required by Section 10(a)(3) of the Securities Act of 1933; |
+
+| (ii) | To reflect in the prospectus any facts or events arising after the effective date of the registration statement
+(or the most recent post-effective amendment thereof) which, individually or in the aggregate, represent a fundamental change in the information set forth in the registration statement. Notwithstanding the foregoing, any increase or decrease in
+volume of securities offered (if the total dollar value of securities offered would not exceed that which was registered) and any deviation from the low or high end of the estimated maximum offering range may be reflected in the form of prospectus
+filed with the SEC pursuant to Rule 424(b) if, in the aggregate, the changes in volume and price represent no more than a 20% change in the maximum aggregate offering price set forth in the “Calculation of Filing Fee Tables” or
+“Calculation of Registration Fee” table, as applicable, in the effective registration statement; |
+
+| (iii) | To include any material information with respect to the plan of distribution not previously disclosed in the
+registration statement or any material change to such information in the registration statement; |
+
+II-2 
+
+Table of Contents
+
+provided
+, 
+however
+, that paragraphs (a)(1)(i), (a)(1)(ii) and (a)(1)(iii) above
+do not apply if the information required to be included in a post-effective amendment by those paragraphs is contained in reports filed with or furnished to the SEC by the registrant pursuant to Section 13 or Section 15(d) of the
+Securities Exchange Act of 1934 that are incorporated by reference in the registration statement, or is contained in a form of prospectus filed pursuant to Rule 424(b) that is part of the registration statement. 
+
+| (2) | That, for the purpose of determining any liability under the Securities Act of 1933, each such post-effective
+amendment shall be deemed to be a new registration statement relating to the securities offered therein, and the offering of such securities at that time shall be deemed to be the initial bona fide offering thereof. |
+
+| (3) | To remove from registration by means of a post-effective amendment any of the securities being registered which
+remain unsold at the termination of the offering. |
+
+| (4) | That, for the purpose of determining liability under the Securities Act of 1933 to any purchaser: |
+
+| (i) | Each prospectus filed by the registrant pursuant to Rule 424(b)(3) shall be deemed to be part of the
+registration statement as of the date the filed prospectus was deemed part of and included in the registration statement; and |
+
+| (ii) | Each prospectus required to be filed pursuant to Rule 424(b)(2), (b)(5), or (b)(7) as part of a registration
+statement in reliance on Rule 430B relating to an offering made pursuant to Rule 415(a)(1)(i), (vii), or (x) for the purpose of providing the information required by Section 10(a) of the Securities Act of 1933 shall be deemed to be
+part of and included in the registration statement as of the earlier of the date such form of prospectus is first used after effectiveness or the date of the first contract of sale of securities in the offering described in the prospectus. As
+provided in Rule 430B, for liability purposes of the issuer and any person that is at that date an underwriter, such date shall be deemed to be a new effective date of the registration statement relating to the securities in the registration
+statement to which that prospectus relates, and the offering of such securities at that time shall be deemed to be the initial bona fide offering thereof. Provided , however , that no statement made in a registration statement or
+prospectus that is part of the registration statement or made in a document incorporated or deemed incorporated by reference in the registration statement or prospectus that is part of the registration statement will, as to a purchaser with a time
+of contract of sale prior to such effective date, supersede or modify any statement that was made in the registration statement or prospectus that was part of the registration statement or made in any such document immediately prior to such
+effective date. |
+
+| (5) | That, for the purpose of determining liability of the registrant under the Securities Act of 1933 to any
+purchaser in the initial distribution of the securities: |
+
+The undersigned registrant undertakes that in a primary
+offering of securities of the undersigned registrant pursuant to this registration statement, regardless of the underwriting method used to sell the securities to the purchaser, if the securities are offered or sold to such purchaser by means of any
+of the following communications, the undersigned registrant will be a seller to the purchaser and will be considered to offer or sell such securities to such purchaser: 
+
+| (i) | Any preliminary prospectus or prospectus of the undersigned registrant relating to the offering required to be
+filed pursuant to Rule 424; |
+
+| (ii) | Any free writing prospectus relating to the offering prepared by or on behalf of the undersigned registrant or
+used or referred to by the undersigned registrant; |
+
+| (iii) | The portion of any other free writing prospectus relating to the offering containing material information about
+the undersigned registrant or its securities provided by or on behalf of the undersigned registrant; and |
+
+| (iv) | Any other communication that is an offer in the offering made by the undersigned registrant to the purchaser. |
+
+II-3 
+
+Table of Contents
+
+| (6) | The undersigned registrant undertakes that, for purposes of determining any liability under the Securities Act
+of 1933, each filing of the registrant’s annual report pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (and, where applicable, each filing of an employee benefit plan’s annual report pursuant to section
+15(d) of the Securities Exchange Act of 1934) that is incorporated by reference in the registration statement shall be deemed to be a new registration statement relating to the securities offered therein, and the offering of such securities at that
+time shall be deemed to be the initial bona fide offering thereof. |
+
+| (7) | Insofar as indemnification for liabilities arising under the Securities Act of 1933 may be permitted to
+directors, officers and controlling persons of the registrant pursuant to the provisions described under Item 15 above, or otherwise, the registrant has been advised that in the opinion of the SEC, such indemnification is against public policy
+as expressed in the Securities Act of 1933 and is, therefore, unenforceable. In the event that a claim for indemnification against such liabilities (other than the payment by the registrant of expenses incurred or paid by a director, officer or
+controlling person of the registrant in the successful defense of any action, suit or proceeding) is asserted by such director, officer or controlling person in connection with the securities being registered, the registrant will, unless in the
+opinion of its counsel the matter has been settled by controlling precedent, submit to a court of appropriate jurisdiction the question whether such indemnification by it is against public policy as expressed in the Securities Act of 1933 and will
+be governed by the final adjudication of such issue. |
+
+II-4 
+
+Table of Contents
+
+EXHIBIT INDEX 
+
+| |
+
+| Exhibit Number | Description |
+
+| |
+
+| 1.1 | Form of Underwriting Agreement relating to Class A common stock, preferred stock, depositary shares, warrants, securities purchase contracts and units* |
+
+| |
+
+| 3.1 | Fifth Amended and Restated Certificate of Incorporation of the Company (incorporated herein by reference to the Company’s
+ Current Report on Form 8-K filed by the Company on July 12, 2024) |
+
+| |
+
+| 3.2 | Amended and Restated Bylaws of the Company (incorporated herein by reference to the Company’s Annual Report on Form 10-K filed by the Company on March 25, 2026) |
+
+| |
+
+| 4.1 | Form of Certificate of Designation relating to preferred stock* |
+
+| |
+
+| 4.2 | Form of Deposit Agreement, including the form of depositary receipt* |
+
+| |
+
+| 4.3 | Form of Warrant Agreement, including the form of Warrant Certificate* |
+
+| |
+
+| 4.4 | Form of Securities Purchase Contract* |
+
+| |
+
+| 4.5 | Form of Unit Agreement* |
+
+| |
+
+| 5.1 | Opinion of Kirkland & Ellis LLP |
+
+| |
+
+| 23.1 | Consent of Deloitte & Touche LLP |
+
+| |
+
+| 23.3 | Consent of Kirkland & Ellis LLP (included in their opinion filed as Exhibit 5.1) |
+
+| |
+
+| 24.1 | Powers of Attorney (included on signature page) |
+
+| |
+
+| 107 | Filing Fee Table |
+
+| * | To be filed, if necessary, as an exhibit to a post-effective amendment to this registration statement or as an
+exhibit to a Current Report on Form 8-K and incorporated by reference herein. |
+
+II-5 
+
+Table of Contents
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Act of 1933, the registrant certifies that it has reasonable grounds to believe that it meets
+all of the requirements for filing on Form 
+S-3
+ and has duly caused this registration statement to be signed on its behalf by the undersigned, thereunto duly authorized, in the city of Plantation, State of
+Florida, on September 14, 2026. 
+
+| |
+
+| Chewy, Inc. |
+
+| |
+
+| By: | /s/ Christopher S. Deppe |
+
+| Christopher S. Deppe |
+
+| Chief Financial Officer |
+
+| ( Principal Financial Officer ) |
+
+POWER OF ATTORNEY 
+
+KNOWN ALL MEN BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints Christopher S. Deppe and 
+Da-Wai
+ Hu or either of them acting alone, his or her true and lawful 
+attorney-in-fact
+ and agent, with full power of substitution and
+revocation, for him or her and in his or her name, place and stead, in any and all capacities, to sign (i) any and all amendments (including post-effective amendments) to this registration statement and to file the same with all exhibits
+thereto, and other documents in connection therewith and (ii) any registration statement and any and all amendments thereto, relating to the offer covered hereby filed pursuant to Rule 462 under the Securities Act of 1933, with the Securities
+and Exchange Commission, granting unto said 
+attorney-in-fact
+ and agents, full power and authority to do and perform each and every act and thing requisite and necessary
+to be done as fully to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that said 
+attorneys-in-fact
+ and agents, or
+his or their substitute or substitutes, may lawfully do or cause to be done by virtue hereof. 
+
+Pursuant to the requirements of the
+Securities Act of 1933, this registration statement has been signed below by the following persons on the date and in the capacity indicated: 
+
+| |
+
+| Signature | Title | Date |
+
+| |
+
+| /s/ Sumit Singh Sumit Singh | Chief Executive Officer and Director (Principal Executive Officer) | September 14, 2026 |
+
+| |
+
+| /s/ Christopher S. Deppe Christopher S. Deppe | Chief Financial Officer (Principal Financial Officer) | September 14, 2026 |
+
+| |
+
+| /s/ William Billings William Billings | Chief Accounting Officer and Treasurer (Principal Accounting Officer) | September 14, 2026 |
+
+| |
+
+| /s/ Raymond Svider Raymond Svider | Chairman of the Board of Directors | September 14, 2026 |
+
+| |
+
+| /s/ Fahim Ahmed Fahim Ahmed | Director | September 14, 2026 |
+
+II-6 
+
+Table of Contents
+
+| |
+
+| Signature | Title | Date |
+
+| |
+
+| /s/ Mathieu Bigand Mathieu Bigand | Director | September 14, 2026 |
+
+| |
+
+| /s/ Marco Castelli Marco Castelli | Director | September 14, 2026 |
+
+| |
+
+| /s/ Michael Chang Michael Chang | Director | September 14, 2026 |
+
+| |
+
+| /s/ Kristine Dickson Kristine Dickson | Director | September 14, 2026 |
+
+| |
+
+| /s/ Deborah Ellinger Deborah Ellinger | Director | September 14, 2026 |
+
+| |
+
+| /s/ Nat Goldhaber Nat Goldhaber | Director | September 14, 2026 |
+
+| |
+
+| /s/ David Leland David Leland | Director | September 14, 2026 |
+
+| |
+
+| /s/ James Nelson James Nelson | Director | September 14, 2026 |
+
+| |
+
+| /s/ Martin H. Nesbitt Martin H. Nesbitt | Director | September 14, 2026 |
+
+| |
+
+| /s/ Lisa Sibenac Lisa Sibenac | Director | September 14, 2026 |
+
+| |
+
+| /s/ James A. Star James A. Star | Director | September 14, 2026 |
+
+II-7 
+

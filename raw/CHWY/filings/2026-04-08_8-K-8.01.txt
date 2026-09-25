@@ -1,0 +1,107 @@
+Source: https://www.sec.gov/Archives/edgar/data/1766502/000119312526146440/d133310d8k.htm
+
+
+
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of Earliest Event Reported): 
+April 7, 2026
+
+CHEWY, INC.
+
+(Exact Name of Registrant as Specified in Its Charter)
+
+| |
+
+| Delaware | 001-38936 | 90-1020167 |
+
+| (State or Other Jurisdiction of Incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+
+| |
+
+| 7700 West Sunrise Boulevard Plantation , Florida | 33322 |
+
+| (Address of Principal Executive Offices) | (Zip Code) |
+
+(786)
+
+320-7111
+
+(Registrant’s Telephone Number, Including Area Code)
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 
+8-K
+ filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+| ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) |
+
+| ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) |
+
+| ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) |
+
+| ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) |
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| |
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+
+| Class A Common Stock, par value $0.01 per share | CHWY | New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 
+12b-2
+ of the Securities Exchange Act of 1934 
+(§240.12b-2
+ of this chapter).
+
+Emerging growth company  
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Item 8.01. Other Events. 
+
+On April 7, 2026, Chewy, Inc.’s (the “Company”) Board of Directors approved an increase of $500 million to the Company’s previously authorized share repurchase program (the “Program”) for the repurchase of shares of the Company’s Class A common stock, par value $0.01 per share (the “Class A Common Stock”) and/or Class B common stock, par value $0.01 per share (the “Class B Common Stock” and, together with the Class A Common Stock, the “Common Stock”). The increase is incremental to the approximately $119.4 million of repurchase authority currently remaining under the Company’s $500 million Program authorized in May 2024. 
+
+Under the Program, the Company may repurchase shares of Common Stock on a discretionary basis from time to time through open market repurchases, in privately negotiated transactions, through purchases made in compliance with Rule 
+10b-18 and/or Rule
+
+10b5-1 under
+ the Exchange Act, or other means. The actual timing and amount of any share repurchases remains subject to a variety of factors, including stock price, trading volume, market conditions, compliance with applicable legal requirements, and other general business considerations. The Program does not require the Company to repurchase any specific number of shares of Common Stock. The Program has no expiration date and may be modified, suspended or terminated at any time.
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Company has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+| |
+
+| CHEWY, INC. |
+
+| |
+
+| Date: April 8, 2026 | By: | /s/ Da-Wai Hu |
+
+| Da-Wai Hu |
+
+| General Counsel and Secretary |
+

@@ -1,0 +1,137 @@
+Source: https://www.sec.gov/Archives/edgar/data/1766502/000119312526065612/d97879d8k.htm
+
+
+
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of Earliest Event Reported): 
+February 23, 2026
+
+CHEWY, INC.
+
+(Exact Name of Registrant as Specified in Its Charter)
+
+| |
+
+| Delaware | 001-38936 | 90-1020167 |
+
+| (State or Other Jurisdiction of Incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+
+| |
+
+| 7700 West Sunrise Boulevard Plantation , Florida | 33322 |
+
+| (Address of Principal Executive Offices) | (Zip Code) |
+
+(786)
+
+320-7111
+
+(Registrant’s Telephone Number, Including Area Code)
+
+N/A
+
+(Former Name or Former Address, if Changed Since Last Report)
+
+Check the appropriate box below if the Form 
+8-K
+ filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+| ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) |
+
+| ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) |
+
+| ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) |
+
+| ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) |
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| |
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+
+| Class A Common Stock, par value $0.01 per share | CHWY | New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 
+12b-2
+ of the Securities Exchange Act of 1934 
+(§240.12b-2
+ of this chapter).
+
+Emerging growth company 
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. 
+
+As previously announced, William Billings, Chief Accounting Officer and principal accounting officer of Chewy, Inc. (the “Company”) had been appointed principal financial officer on an interim basis while the Company continued its previously announced search for a Chief Financial Officer (“CFO”). On February 23, 2026, the Board of Directors of the Company (the “Board”) approved the appointment of Christopher S. Deppe as the Company’s CFO and principal financial officer, effective as of February 23, 2026 (the “CFO Employment Date”). Also, on February 23, 2026, the Board removed Mr. Billings as the interim principal financial officer, effective as of the CFO Employment Date. Mr. Billings’ removal was not a result of any disagreement with the Company on any matter related to its operations, policies, practices, financial disclosures, or accounting matters. Mr. Billings will continue to serve as the Company’s Chief Accounting Officer and principal accounting officer. 
+
+Mr. Deppe, age 46, currently serves as the Company’s Vice President of Finance since August 2022. Previously, Mr. Deppe served as Director of Finance at Amazon from October 2015 to April 2022 and held additional finance and operations leadership roles at Amazon from 2005 to 2015. From 2001 to 2005, Mr. Deppe served as Operations Manager at Intel Corporation, a global technology company. Mr. Deppe holds a Bachelor of Science degree in Chemical Engineering from Colorado State University, as well as a Master of Business Administration and a Master of Science in Finance from the Kelley School of Business at Indiana University. Mr. Deppe’s appointment as the Company’s CFO was not pursuant to any arrangement or understanding between him and any other person. There are no familial relationships or related party transactions with the Company that would require disclosure under Items 401(d) or 404(a) of Regulation 
+S-K in
+ connection with his appointment. 
+
+In connection with his appointment, the Company and Mr. Deppe have entered into an offer letter (the “Offer Letter”) providing the following compensation terms: (i) an annual base salary of $450,000; (ii) eligibility to participate in the Company’s Annual Short-Term Incentive Plan, beginning in 2026 with a target bonus equal to 100% of eligible earnings; (iii) eligibility to receive an annual equity grant (with such 2026 annual equity grant subject to the Board’s approval following the CFO Employment Date) with an award value of 800% of Mr. Deppe’s annual base salary at the time of grant (the number of RSUs will be calculated by dividing the dollar amount by the average closing price of the Company’s stock on each of the 20 trading days preceding the grant date), granted (a) 50% in restricted stock units (“RSUs”) that will vest at a rate of 25% on the first anniversary of the vesting commencement date, and 6.25% every three months thereafter, and (b) 50% in performance-based RSUs that will be subject to vesting at the end of a three-year period of employment, which vesting period is inclusive of a one fiscal year Company performance-based measurement period; (iv) eligibility to receive a 
+one-time
+ equity grant with a value of $8,781,141 as of the grant date (subject to the Board’s approval following the CFO Employment Date), which will be granted in RSUs (the number of RSUs will be calculated by dividing the dollar amount by the average closing price of the Company’s stock on each of the 20 trading days preceding the grant date) that will vest (a) 30% on the first anniversary of the vesting commencement date, (b) 25% on the second anniversary of the vesting commencement date, (c) 25% on the third anniversary of the vesting commencement date and (d) 20% on the fourth anniversary of the vesting commencement date; and (v) eligibility for unlimited paid time off subject to the needs of the Company. The RSUs and performance-based RSUs described above will be subject to the Board’s approval and to the terms and conditions of award agreements that are substantially consistent with the award agreements issued to other executive officers of the Company. 
+
+The description of the Offer Letter is qualified in its entirety by the terms of the Offer Letter, a copy of which will be attached as an exhibit to the Company’s Annual Report on Form 
+10-K
+ for fiscal year ended February 1, 2026. 
+
+Item 7.01. Regulation FD Disclosure. 
+
+On February 24, 2026, the Company issued a press release announcing the appointment of Mr. Deppe as the Company’s CFO. A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated by reference herein. 
+
+The information included in this Item 7.01, including Exhibit 99.1, of this Current Report on Form 
+8-K
+ is being furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed to be incorporated by reference into any filings of the Company under the Securities Act of 1933, as amended, or the Exchange Act, regardless of any general incorporation language in any such filing. 
+
+Item 9.01. Financial Statements and Exhibits. 
+
+(d) Exhibits 
+
+| |
+
+| Exhibit No. | Description |
+
+| |
+
+| 99.1 | Press Release, dated February 24, 2026. |
+
+| |
+
+| 104 | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL. |
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Company has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+| |
+
+| CHEWY, INC. |
+
+| |
+
+| Date: February 24, 2026 | By: | /s/ Da-Wai Hu |
+
+| Da-Wai Hu |
+
+| General Counsel and Secretary |
+

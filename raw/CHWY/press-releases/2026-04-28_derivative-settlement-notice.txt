@@ -1,0 +1,497 @@
+Source: https://www.sec.gov/Archives/edgar/data/1766502/000119312526187308/d124118dex992.htm
+
+
+
+EX-99.2
+
+3
+
+d124118dex992.htm
+
+EX-99.2
+
+EX-99.2
+
+Exhibit 99.2 
+
+IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE 
+
+| |
+
+| ERIC GILBERT, derivatively on behalf of CHEWY, INC., |
+
+| |
+
+| Plaintiff, |
+
+| |
+
+| v. | C.A. No. 2024-1165-KSJM |
+
+| |
+
+| BC PARTNERS LLP, BC PARTNERS ADVISERS LP, BC PARTNERS HOLDINGS LIMITED, CIE MANAGEMENT IX LIMITED, ARGOS HOLDINGS GP LLC, ARGOS HOLDINGS L.P., CITRUS INTERMEDIATE HOLDINGS L.P., CITRUS
+INTERMEDIATE TOPCO LLC, BUDDY CHESTER SUB LLC, RAYMOND SVIDER, SUMIT SINGH, FAHIM AHMED, MATHIEU BIGAND, MARCO CASTELLI, MICHAEL CHANG, DAVID LELAND, LISA SIBENAC, MARTIN H. NESBITT, and JAMES A. STAR, |
+
+| |
+
+| Defendants, |
+
+| |
+
+| and |
+
+| |
+
+| CHEWY, INC., a Delaware corporation, |
+
+| |
+
+| Nominal Defendant. |
+
+NOTICE OF PENDENCY AND PROPOSED SETTLEMENT 
+
+OF DERIVATIVE ACTION, SETTLEMENT HEARING, 
+
+AND RIGHT TO APPEAR
+
+The Delaware Court of Chancery authorized this Notice.
+
+This is not a solicitation from a lawyer.
+
+| TO: | ALL PERSONS WHO ARE RECORD OR BENEFICIAL OWNERS OF CHEWY, INC. (“CHEWY”) COMMON STOCK AS OF THE
+CLOSE OF BUSINESS ON APRIL 6, 2026 (“CURRENT CHEWY STOCKHOLDERS”) |
+
+PLEASE READ THIS NOTICE
+CAREFULLY AND IN ITS 
+
+ENTIRETY. YOUR RIGHTS WILL BE AFFECTED BY THE PROPOSED 
+
+SETTLEMENT OF THIS ACTION. 
+
+The Special Litigation Committee of the Board of Directors of Chewy
+
+and the Plaintiff in the above-captioned consolidated derivative
+action (the “Action”) have reached a proposed settlement of the Action that provides for a cash payment of $29,500,000 to Chewy
+
+as stated in Paragraph 21 below (the “Settlement”).
+1
+ If approved by the Delaware Court of Chancery (the “Court”), the Settlement will resolve all claims in the Action. 
+
+P
+lease Note
+: Chewy stockholders will not receive any direct payment from the Settlement. Accordingly, there is no Proof of Claim
+Form to submit in connection with this Settlement. Also, Chewy stockholders are not required to take any action in response to this Notice. 
+
+If you are a nominee who held Chewy common stock for the benefit of another, please read the section below entitled “What if I Owned
+Shares on Someone Else’s Behalf?” 
+
+| 1 | The terms and conditions of the Settlement are set forth in the Stipulation and Agreement of Compromise,
+Settlement, and Release dated April 6, 2026 (the “Stipulation”), entered into by and among (1) the Special Litigation Committee of the Board of Directors of Chewy (the “Special Litigation Committee” or
+“SLC”); (2) Plaintiff Eric Gilbert (“Plaintiff”); (3) nominal defendant Chewy, a Delaware corporation; and (4) Defendants BC Partners LLP, BC Partners Advisers LP, BC Partners Holdings Limited, CIE Management IX Limited,
+Argos Holdings GP LLC, Argos Holdings L.P., Citrus Intermediate Holdings L.P., Citrus Intermediate Topco LLC, Buddy Chester Sub LLC, Raymond Svider, Sumit Singh, Fahim Ahmed, Mathieu Bigand, Marco Castelli, Michael Chang, David Leland, Lisa Sibenac,
+Martin H. Nesbitt, and James A. Star (collectively, the “Defendants”) (together with the SLC, Plaintiff, and Company, the “Settling Parties”). All capitalized terms used in this Notice that are not otherwise defined herein
+shall have the meanings ascribed to them in the Stipulation. |
+
+2 
+
+WHAT IS THE PURPOSE OF THIS NOTICE? 
+
+1. The purpose of this Notice is to inform Current Chewy Stockholders of the existence of this Action and how they are affected by the
+litigation. It is also being sent to inform Current Chewy Stockholders of the terms of the proposed Settlement, and of a hearing to be held by the Court to consider the fairness, reasonableness, and adequacy of the Settlement (the “Settlement
+Hearing”). 
+See
+ Paragraphs 
+42-51
+ below for details about the Settlement Hearing. 
+
+2. As
+a Current Chewy Stockholder, you have a right to know about your options before the Court rules on the proposed Settlement. Additionally, you have the right to understand how this Action and the proposed Settlement generally affect your legal
+rights. 
+
+3. Receipt of this Notice does not mean that you qualify as a Current Chewy Stockholder. Also, the issuance of this Notice is not
+an expression by the Court of any findings of fact or any opinion concerning the merits of any claim in the Action, and the Court has not yet decided whether to approve the Settlement. 
+
+WHAT IS THIS CASE ABOUT? 
+
+THE FOLLOWING
+SUMMARY OF THE ACTION HAS BEEN PREPARED BY COUNSEL FOR THE SETTLING PARTIES. THE COURT HAS MADE NO FINDINGS WITH RESPECT TO SUCH MATTERS, AND THIS NOTICE IS NOT AN EXPRESSION OR STATEMENT BY THE COURT OF FINDINGS OF FACT. 
+
+4. Founded in 2011, Chewy is a leading online pet supplies retailer incorporated in Delaware and
+
+co-headquartered
+ in Plantation, Florida and Boston, Massachusetts. Chewy went public through an initial public offering in June 2019. 
+
+5. In October 2020, Chewy’s then-controlling stockholder, BC Partners LLP (“BC Partners”) proposed to the Chewy board of
+directors (the “Board”) a downstream merger (the “Downstream Merger”) under which the following would occur: Argos, the holding company through which BC Partners controlled PetSmart Inc. (“PetSmart”) and Chewy,
+would sell PetSmart to a third-party buyer, incurring tax liabilities associated with the sale, and then merge into a newly created subsidiary of Chewy, as a result of which Chewy would inherit certain tax liabilities associated with the PetSmart
+sale. 
+
+6. The Board formed a special committee comprised of Brian McAndrews and Martin Nesbitt (the “First Committee”) to
+evaluate and negotiate the potential transaction on Chewy’s behalf. The First Committee concluded in April 2021 without reaching any agreement with BC Partners on the transaction. 
+
+3 
+
+7. In August 2021, the Board formed a new special committee comprised of Nesbitt and two new
+Board members, Kristine Dickson and Jim Nelson (the “Second Committee”), to evaluate and negotiate the potential transaction on Chewy’s behalf. The Second Committee retained Cleary Gottlieb Steen & Hamilton LLP as its
+legal advisor, LionTree LLC as its financial advisor, and PricewaterhouseCoopers as its tax advisor. 
+
+8. Following negotiations, in October
+2023, the Second Committee and BC Partners reached an agreement on the Downstream Merger, pursuant to which BC Partners agreed to, among other things, provide certain indemnities to Chewy for taxes and other liabilities Chewy would absorb through
+the Downstream Merger, certain governance changes at Chewy, including a five-year sunset of Chewy’s Class B Common Stock, and to transfer a PetSmart pharmacy entity and its associated pharmacy licenses to Chewy. On October 30, 2023,
+based on the Second Committee’s approval and recommendation, the Board approved the Downstream Merger. In parallel with the Downstream Merger, BC Partners closed a sale of PetSmart. 
+
+9. Following a books and records investigation, in November 2024, Plaintiff filed a Verified Derivative Complaint (the “Complaint”)
+in this Action. The Complaint asserts derivative claims against Defendants alleging that they breached their fiduciary duties by causing Chewy to enter into an unfair transaction that prioritized BC Partners’ interests over those of Chewy and
+its minority stockholders. Among other things, the Complaint alleges that (i) BC Partners LLP, BC Partners Advisers LP, BC Partners Holdings Limited, CIE Management IX Limited, Argos Holdings GP LLC, Argos Holdings L.P., Citrus Intermediate
+Holdings L.P., Citrus Intermediate Topco LLC, and Buddy Chester Sub LLC breached their fiduciary duties as Chewy’s controlling stockholders by causing Chewy to enter into the Downstream Merger on terms that were not entirely fair to Chewy; and
+(ii) Raymond Svider, Sumit Singh, Fahim Ahmed, Mathieu Bigand, Marco Castelli, Michael Chang, David Leland, Lisa Sibenac, Martin H. Nesbitt, and James A. Star breached their fiduciary duties as Chewy directors by negotiating and approving the
+Downstream Merger. The Complaint’s requested relief included damages and 
+pre-
+ and post-judgment interest. 
+
+10. On February 21, 2025, the Chewy Board increased the size of the Board from twelve to thirteen directors and filled the newly-created
+vacancy by appointing Deborah Ellinger. The Chewy Board determined that Deborah Ellinger is independent for purposes of serving as a director under the applicable rules of the United States Securities and Exchange Commission (“SEC”) and
+the New York Stock Exchange (“NYSE”). 
+
+4 
+
+11. On March 21, 2025, the Chewy Board established the SLC consisting of independent
+director Deborah Ellinger. 
+
+12. On April 24, 2025, the Chewy Board increased the size of the Board from thirteen to fourteen directors
+and filled the newly-created vacancy by appointing Nat Goldhaber. The Chewy Board determined that Nat Goldhaber is independent for purposes of serving as a director under the applicable rules of the SEC and the NYSE. 
+
+13. On April 30, 2025, the Chewy Board expanded the SLC to include independent director Nat Goldhaber. The SLC was authorized with the
+full power of the Board to investigate Plaintiff’s claims and to determine an appropriate course of action with respect thereto, with all such determinations final and binding upon the Company. The SLC retained Wilson Sonsini
+Goodrich & Rosati PC as its legal advisor, and FTI Consulting and Professor Ethan Yale to provide financial and tax advice. The SLC moved to stay the Action pending its investigation and, on April 21, 2025, the Court granted the
+SLC’s motion and stayed the litigation for six months, which period was later extended. 
+
+14. The SLC conducted a thorough,
+independent investigation from March to December 2025. The SLC reviewed, with its Counsel, the underlying factual and legal merits of each theory of liability advanced in the Action, as well as potential theories of liability not advanced in the
+action; collected and ran targeted searches across approximately 1,400,000 documents collected from more than 20 custodians; conducted 22 formal interviews of the critical witnesses involved with the relevant events, including all individual
+Defendants and members of the relevant special committees, and several current and former 
+non-party
+ employees of the Company, and certain third-party advisors; and met multiple times with Plaintiff’s
+Counsel. The SLC met regularly during the investigation and completed its investigation in December 2025. 
+
+15. Defendants are insureds
+under certain directors’ and officers’ insurance policies issued to Chewy, Inc. and BCP entities. 
+
+16. Following its
+investigation, the SLC concluded that it was in the best interests of Chewy for the SLC to engage in discussions with the Defendants to attempt to negotiate a settlement of all claims in the Action. On December 3, 2025, the SLC informed the
+Court that the parties had begun settlement discussions aimed at resolving the Action and intended to engage in mediation. The parties engaged in a mediation session and extensive settlement discussions, presided over by David M. Murphy, before
+reaching a settlement in principle on February 27, 2026, pursuant to which the Defendants agreed to make contributions to the Settlement in exchange for releases. 
+
+5 
+
+17. On March 2, 2026, the SLC informed the Court that the parties had reached an
+agreement in principle to resolve all current and potential claims against the Defendants in the Action. 
+
+18. On April 6, 2026, the
+Settling Parties entered into the Stipulation. The Stipulation reflects the final and binding agreement between the Settling Parties, subject to the approval of the Court. 
+
+19. The Settling Parties believe that the Settlement is in the best interests of the Settling Parties and Current Chewy Stockholders and that
+the Settlement confers benefits upon Chewy and Current Chewy Stockholders and that the interests of the Settling Parties and Current Chewy Stockholders would best be served by settlement of the Action on the terms and conditions set forth in the
+Stipulation. 
+
+20. On April 14, 2026, the Court entered a Scheduling Order in connection with the Settlement which, among other things,
+authorized this Notice to be provided to Current Chewy Stockholders and scheduled the Settlement Hearing to, among other things, consider whether to grant final approval of the Settlement. 
+
+WHAT ARE THE TERMS OF THE SETTLEMENT? 
+
+21. As explained in more detail in the Settling Parties’ Stipulation, in consideration for the full and final release, settlement, and
+discharge of any and all Released Claims against the Released Persons, Defendants have agreed to pay, or cause their insurers to pay, the Settlement Amount of $29,500,000 in cash to Chewy. Such payment shall be made within thirty (30) calendar
+days after Final Approval of Settlement (defined below). 
+
+WHAT ARE THE PARTIES’ REASONS FOR THE SETTLEMENT? 
+
+22. Plaintiff and his Counsel thoroughly considered the facts and law underlying the claims asserted in the Action. Plaintiff and his
+counsel believe that the claims asserted in the Action have merit, and believe that the Settlement provides substantial and immediate benefits for Chewy and Current Chewy Stockholders. In addition to these substantial benefits, Plaintiff and his
+counsel have considered: (i) the attendant risks of continued litigation and the uncertainty of the outcome of the Action; (ii) the probability of success on the merits; (iii) the inherent problems of proof associated with, and
+possible defenses to, the claims asserted in the Action; (iv) the desirability of permitting the Settlement to be consummated according to its terms; (v) the expense and length of continued proceedings necessary to prosecute the Action
+through trial and appeals; and (vi) the conclusion of the SLC and its counsel that the terms and conditions of the Stipulation are fair, reasonable, and adequate, and that it is in the best interests of Chewy and Current Chewy Stockholders to
+settle the Action on the terms set forth in the Stipulation. 
+
+6 
+
+23. The Defendants deny any and all allegations of wrongdoing, liability, violations of law,
+and damages arising out of or related to any of the conduct, statements, acts, or omissions alleged in the Action, and maintain that their conduct was at all times proper, in the best interests of Chewy and its stockholders, and in compliance with
+applicable law. The Defendants also deny that Chewy or its stockholders were harmed by any conduct, or lack thereof, by the Defendants as alleged in the Action or that could have been alleged therein. Each of the Defendants asserts that, at all
+relevant times, they acted in good faith and in a manner they reasonably believed to be in the best interests of Chewy and all of its stockholders. Nevertheless, the Defendants wish to eliminate the uncertainty, distraction, risk, burden, and
+expense of further litigation, and to permit the operation of Chewy without further distraction and diversion of its Board and personnel with respect to the Action. The Defendants have therefore determined to settle the Action on the terms and
+conditions set forth in the Stipulation solely to put the Released Claims (as defined below) to rest, finally and forever, without in any way acknowledging any wrongdoing, fault, liability, or damages. 
+
+24. Nothing in the Stipulation shall be construed as any admission by the Defendants of wrongdoing, fault, liability, or damages whatsoever.
+
+WHAT CLAIMS WILL THE SETTLEMENT RELEASE? 
+
+25. If the Settlement is approved, the Court will enter the Judgment (defined below). The Judgment will bar claims, as described in Paragraph
+21 above, related to the facts alleged in the Complaint filed in the Action or otherwise related to the Downstream Merger. 
+
+26. Upon entry
+of the Judgment and the occurrence of the Effective Date (defined below), there will be a release and a bar on further prosecution of the Released Claims (defined below) against the Released Persons (defined below) by Plaintiff, the SLC, Chewy, and
+Current Chewy Stockholders to the extent they are acting, or purporting to act, derivatively on behalf of Chewy. Further, by order of the Court, all Current Chewy Stockholders to the extent they are acting, or purporting to act, derivatively on
+behalf of Chewy, are hereby enjoined against instituting, commencing, prosecuting, continuing, or in any way participating in any action or other proceeding asserting any Released Claims against the Released Persons. 
+
+7 
+
+27. “Effective Date” means the first date by which each of the following
+conditions has been met: (i) Final Approval of Settlement (as defined below); and (ii) the full Settlement Amount has been paid in accordance with the Stipulation. 
+
+28. “Final” means, with respect to any judgment or order, that: (i) if no appeal is filed, the expiration date of the time for
+filing or noticing of any appeal of the judgment or order; or (ii) if there is an appeal from the judgment or order, the date of (a) final dismissal of all such appeals, or the final dismissal of any proceeding on certiorari or otherwise
+to review the judgment or order, or (b) the date the judgment or order is finally affirmed on an appeal, the expiration of the time to file a petition for a writ of certiorari or other form of review, or the denial of a writ of certiorari or
+other form of review of the judgment or order, and, if certiorari or other form of review is granted, the date of final affirmance of the judgment or order following review pursuant to that grant. However, any appeal or proceeding seeking subsequent
+judicial review pertaining solely to an order issued with respect to attorneys’ fees or expenses or any incentive award to Plaintiff shall not in any way delay or preclude the Judgment from becoming Final. 
+
+29. “Final Approval of Settlement” means that (i) the Court has entered the Judgment—with no material modification to
+the form of Judgment—approving the Settlement, dismissing the Defendants from the Action with prejudice on the merits and without costs to any party (except any costs specifically identified in the Stipulation), and providing for the Releases
+set forth in the Stipulation; and (ii) such Judgment is Final; 
+provided, however
+, and notwithstanding any provision to the contrary in the Stipulation, Final Approval of Settlement shall not include (and the Stipulation is
+expressly not conditioned on) the award of attorneys’ fees or the payment of expenses to counsel for any Person or any incentive award to Plaintiff, including any appeal related to any such awards. 
+
+30. “Judgment” means the Order and Final Judgment to be entered by the Court, substantially in the form annexed to the Stipulation
+as 
+Exhibit C
+, dismissing the Released Claims with prejudice as against the Released Persons. 
+
+31. “Person” means a
+natural person, individual, corporation, partnership, limited partnership, limited liability partnership, limited liability company, association, joint venture, joint stock company, estate, legal representative, trust, unincorporated association,
+government, or any political subdivision or agency thereof, or any other business or legal entity. 
+
+8 
+
+32. “Plaintiff’s Counsel” means Labaton Keller Sucharow LLP, Friedman
+Oster & Tejtel PLLC, Kaskela Law LLC, and any other legal counsel who, at the direction of Plaintiff or under the supervision of its foregoing counsel, performed services in the Action. 
+
+33. “Released Claims” means any and all manner of claims, demands, rights, liabilities, losses, obligations, duties, damages,
+costs, debts, expenses, interest, penalties, sanctions, fees, attorneys’ fees, actions, potential actions, causes of action, suits, agreements, judgments, decrees, matters, issues and controversies of any kind, nature, or description
+whatsoever, whether disclosed or undisclosed, accrued or unaccrued, apparent or not apparent, direct or derivative, foreseen or unforeseen, matured or not matured, suspected or unsuspected, liquidated or not liquidated, fixed or contingent,
+including known claims and Unknown Claims (as defined below), whether based on state, local, foreign, federal, statutory, regulatory, common, or other law or rule (including claims within the exclusive jurisdiction of the federal courts), that are,
+have been, could have been, could now be, or in the future could, can, or might be asserted, in the Action or in any other court, tribunal, or proceeding (a) by Plaintiff or any other Current Chewy Stockholder directly or derivatively on behalf
+of Chewy, or by Chewy directly, against any of the Released Persons or (b) by the Released Persons against Chewy or any other Released Person, which, now or hereafter, are based upon, arise out of, or relate to any of the actions or inactions,
+transactions, occurrences, statements, representations, misrepresentations, omissions, allegations, facts, practices, events, claims, or any other matters related to (i) the Downstream Merger and any transactions associated therewith;
+(ii) the allegations and events described in the Complaint, including the First Committee’s and the Second Committee’s negotiations with BC Partners related to the Downstream Merger and the transactions associated therewith; and
+(iii) the Action and the institution, prosecution and settlement thereof, including the SLC’s investigation; 
+provided, however
+, “Released Claims” shall not include claims relating to enforcement of the
+Settlement, the Stipulation, or any other agreement among any or all of the Settling Parties in connection with the Settlement. 
+
+34.
+“Released Persons” means Chewy, the Defendants, the members of the SLC, Plaintiff, Plaintiff’s Counsel, and their respective past, present, or future heirs, trusts, trustees, estates, beneficiaries, distributees, agents, employees,
+fiduciaries, partners, subsidiaries, affiliates, associated entities, stockholders, principals, officers, directors, predecessors, 
+predecessors-in-interest,
+ successors, 
+successors-in-interest,
+ assigns, advisors, attorneys, personal or legal representatives, associates and insurers, 
+co-insurers
+ and 
+re-insurers.
+
+9 
+
+35. “Releases” means the releases set forth in Section II.B of the Stipulation.
+
+36. “Settlement Amount” means a total of twenty-nine million five hundred thousand U.S. dollars in cash ($29,500,000). 
+
+37. “Unknown Claims” means any claims that Plaintiff, any Released Person, Chewy, or any other Current Chewy Stockholder does not
+know or suspect to exist in their favor at the time of the release of the Released Claims against any of the Released Persons, including those which, if known by them, might have affected their decision(s) with respect to the Settlement. With
+respect to any of the Released Claims, the Settling Parties stipulate and agree that upon Final Approval of the Settlement, they shall be deemed to have, and by operation of the Judgment shall have, expressly waived, relinquished, and released any
+and all provisions, rights, and benefits conferred by or under California Civil Code § 1542, and any law of any state or territory of the United States, or principle of common law or foreign law, that is similar, comparable, or equivalent to
+California Civil Code § 1542.
+2
+ The Settling Parties acknowledge that they may hereafter discover facts in addition to or different from those now known or believed to be true by them, with
+respect to the subject matter of the Released Claims, but it is the intention of the Settling Parties to completely, fully, finally, and forever compromise, settle, release, discharge, and extinguish any and all Released Claims without regard to the
+subsequent discovery of additional or different facts. The Settling Parties acknowledge that the foregoing waiver was separately bargained for, is a key element of the Settlement, and was relied upon by each and all of the Settling Parties in
+entering into the Settlement. 
+
+| 2 | California Civil Code § 1542 provides: |
+
+A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING
+THE RELEASE AND THAT, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASED PARTY. 
+
+10 
+
+HOW WILL THE PLAINTIFF’S ATTORNEYS BE COMPENSATED? 
+
+38. Plaintiff’s Counsel have not received any payment for their services in pursuing claims asserted in the Action on behalf of the
+Company, nor have Plaintiff’s Counsel been paid for their litigation expenses. In connection with final approval of the Settlement, Plaintiff’s Counsel intend to petition the Court for an 
+all-in
+
+award of attorneys’ fees and litigation expenses to Plaintiff’s Counsel (the “Fee and Expense Award”), and may also petition the Court for an incentive award to Plaintiff, to be paid solely from any Fee and Expense Award (the
+“Incentive Award”), based on the benefits provided to Chewy and its stockholders from the Action. 
+
+39. After all of the
+substantive terms of the Settlement were agreed upon, Plaintiff’s Counsel engaged in 
+arm’s-length
+ negotiations with the SLC concerning an appropriate Fee and Expense Award for all Plaintiff’s
+Counsel, including an Incentive Award to Plaintiff, based upon the substantial benefits conferred upon Chewy and its stockholders from the Action. As a result of those negotiations, it has been agreed that Plaintiff’s Counsel will petition the
+Court for an 
+all-in
+ Fee and Expense Award in an amount no greater than $5,500,000 and an Incentive Award to Plaintiff no greater than $5,000. 
+
+40. The Court will determine the amount of any Fee and Expense Award for Plaintiff’s Counsel, including any Incentive Award to Plaintiff.
+Chewy will cause the full payment of any Court-awarded Fee and Expense Award to Plaintiff’s Counsel, including any Incentive Award to Plaintiff. Chewy stockholders are not personally liable for any such fees or expenses. 
+
+41. Any failure of the Court to approve a request for attorneys’ fees and expenses, in whole or in part, shall not affect the Settlement.
+No fees or expenses shall be paid to Plaintiff’s Counsel, including any Incentive Award to Plaintiff, pursuant to the Settlement in the absence of approval by the Court of the Settlement and entry of the Judgment. 
+
+WHEN AND WHERE WILL THE COURT DECIDE WHETHER TO APPROVE THE SETTLEMENT? DO I HAVE TO COME TO THE HEARING? MAY I SPEAK AT THE HEARING IF I
+DON’T LIKE THE SETTLEMENT? 
+
+42. 
+Current Chewy Stockholders do not need to attend the Settlement Hearing. The Court will
+consider any submission made in accordance with the provisions below even if a Current Chewy Stockholder does not attend the hearing. Current Chewy Stockholders can participate in the Settlement without attending the Settlement Hearing.
+
+11 
+
+43. 
+Please Note
+: The date and time of the Settlement Hearing may change without
+further written notice to Current Chewy Stockholders. In addition, it is possible that the Court may decide to conduct the Settlement Hearing by video or telephonic conference, or otherwise allow Current Chewy Stockholders to appear at the hearing
+by phone or video, without further written notice to Current Chewy Stockholders. 
+In order to determine whether the date and time of the Settlement Hearing have changed, or whether Current Chewy Stockholders must or may participate by phone or
+video, it is important that you monitor the Court docket and the Court of Chancery website before making any plans to attend the Settlement Hearing. 
+
+44. The Settlement Hearing will be held on June 23, 2026, at 1:30 p.m., before Chancellor Kathaleen St. Jude McCormick, either in person
+at the Court of Chancery of the State of Delaware, Leonard L. Williams Justice Center, 500 North King Street, Wilmington, DE 19801, or by a remote proceeding such as Zoom or by telephone conference (in the discretion of the Court), to, among other
+things: (i) determine whether the proposed Settlement, on the terms and conditions provided for in the Stipulation, is fair, reasonable, and adequate and in the best interests of Chewy and all Current Chewy Stockholders; (ii) determine
+whether the Court should finally approve the Settlement and enter the Judgment, substantially in the form attached as 
+Exhibit C
+
+to the Stipulation, dismissing the Action with prejudice against Defendants, and extinguishing and
+releasing the Released Claims as against the Released Persons; (iii) consider Plaintiff’s Counsel’s application for a Fee and Expense Award, including any Incentive Award to Plaintiff; (iv) hear and determine any objections to
+the proposed Settlement, the proposed Judgment, or Plaintiff’s Counsel’s application for a Fee and Expense Award; and (v) consider any other matters that may properly be brought before the Court in connection with the Settlement.
+
+45. Any Current Chewy Stockholder who continues to own shares of Chewy common stock through the date of the Settlement Hearing and who
+objects to the proposed Settlement, the proposed Judgment to be entered in connection with the Settlement, or Plaintiff’s Counsel’s application for a Fee and Expense Award, or who otherwise wishes to be heard (“Objector”),
+may appear in person (or, as permitted by the Court, by a remote proceeding such as Zoom or telephone conference if the Settlement Hearing is conducted in such manner) or by their attorney at the Settlement Hearing and present any evidence or
+argument that may be proper and relevant. Objections must be in writing. To object, you must 
+(1)
+ file any written objection, together with copies of all other papers and briefs supporting the objection, with the Register in Chancery at
+the address set forth below 
+on or before June
+ 9, 2026
+; 
+(2)
+ serve the papers (electronically by File & Serve
+Xpress
+, by hand, by first class U.S. mail, or by express service) on Plaintiff’s
+Counsel, the SLC’s Counsel, and Defendants’ Counsel at the addresses set forth below so that the papers are 
+received
+ on or before June
+ 9, 2026
+;
+
+and 
+(3)
+ email a copy of your
+objection to nweinberger@labaton.com, burns@rlf.com, enorman@ycst.com, mstachel@paulweiss.com, and bsorrels@wsgr.com 
+on or before June
+ 9, 2026
+. 
+
+12 
+
+REGISTER IN CHANCERY 
+
+Register in Chancery 
+
+Court of
+Chancery 
+
+Leonard L. Williams Justice Center 
+
+500 North King Street 
+
+Wilmington,
+DE 19801 
+
+| |
+
+| PLAINTIFF’S COUNSEL | THE SLC’S COUNSEL |
+
+| |
+
+| Ned Weinberger Labaton Keller Sucharow LLP 222 Delaware Avenue, Suite 1510 Wilmington, Delaware 19801 | Brad D. Sorrels Wilson, Sonsini, Goodrich &
+Rosati, P.C. 222 Delaware Avenue, Suite 800 Wilmington, Delaware 19801 |
+
+| |
+
+| DEFENDANTS’ COUNSEL | CHEWY’S COUNSEL |
+
+| |
+
+| Robert L. Burns Richards, Layton & Finger,
+P.A. 920 North King Street Wilmington, Delaware 19801 Elena C. Norman Young Conaway
+Stargatt & Taylor, LLP Rodney Square 1000 North King
+Street Wilmington, Delaware 19801 | Matthew D. Stachel Paul, Weiss, Rifkind, Wharton &
+Garrison LLP 1313 N. Market Street, Suite 806 Wilmington, Delaware 19801 |
+
+13 
+
+46. Any objections must: (i) state the objection is being filed with respect to
+“
+Gilbert v. BC Partners LLP, et al.
+, C.A. No. 2024-1165-KSJM”; (ii) state the name, address, and telephone number of the Objector and, if represented by counsel, the name, address, and telephone number of their counsel;
+(iii) be signed by the Objector; (iv) contain a specific, written statement of the objection(s) and the specific reason(s) for the objection(s), including any legal and evidentiary support the Objector wishes to bring to the Court’s
+attention; (v) contain a representation as to whether the Objector and/or their counsel intends to appear at the Settlement Hearing, and, if the Objector and/or their counsel does intend to appear, the identity of any witnesses the Objector may
+call to testify and any exhibits the Objector intends to introduce into evidence at the hearing; and (vi) include (1) documentation sufficient to prove that the Objector is a Current Chewy Stockholder (i.e., owned Chewy common stock as of
+the close of business on April 6, 2026), (2) documentation sufficient to prove that the Objector continues to hold shares of Chewy common stock on the date of filing of the objection, and (3) a statement that the Objector will continue to
+hold shares of Chewy common stock as of the date of the Settlement Hearing. Documentation establishing ownership of Chewy common stock must consist of copies of an official brokerage account statement, a screen shot of an official brokerage account,
+or an authorized statement from the Objector’s broker containing the information found in an account statement. The Settling Parties are authorized to request from any Objector additional information or documentation sufficient to prove their
+holdings of Chewy common stock. 
+
+47. You may file a written objection without having to appear at the Settlement Hearing. You may not,
+however, appear at the Settlement Hearing to present your objection unless you first file and serve a written objection in accordance with the procedures described above, unless the Court orders otherwise. 
+
+48. If you wish to be heard orally at the hearing in opposition to the approval of the Settlement, assuming you timely file and serve a written
+objection as described above, you must also file a notice of appearance with the Register in Chancery and serve it on Plaintiff’s Counsel, the SLC’s Counsel, and Defendants’ Counsel at the addresses set forth in Paragraph 45 above
+so that it is 
+received
+ on or before June
+ 9, 2026
+. Persons who intend to object and desire to present evidence at the Settlement Hearing must include in their written objection or notice of appearance the
+identity of any witnesses they may call to testify and exhibits they intend to introduce into evidence at the hearing. Objectors who intend to appear at the Settlement Hearing through counsel must also identify that counsel by name, address, and
+telephone number. Objectors and/or their counsel may be heard orally at the discretion of the Court. 
+
+14 
+
+49. You are not required to hire an attorney to represent you in making written objections
+or in appearing at the Settlement Hearing. However, if you decide to hire an attorney, it will be at your own expense, and that attorney must file a notice of appearance with the Court and serve it on Counsel at the addresses set forth in Paragraph
+45 above so that the notice is 
+received
+ on or before June
+ 9
+, 2026
+. 
+
+50. The Settlement
+Hearing may be adjourned by the Court without further written notice to Current Chewy Stockholders. If you intend to attend the Settlement Hearing, you should confirm the date and time by checking the Court’s website. 
+
+51. 
+Unless the Court orders otherwise, any Current Chewy Stockholder who does not object in the manner described above will be deemed to
+have waived any objection and shall be forever foreclosed from making any objection to the proposed Settlement. Current Chewy Stockholders do not need to appear at the Settlement Hearing or take any other action to indicate their approval.
+
+CAN I SEE THE COURT FILE? 
+
+WHOM SHOULD I CONTACT IF I HAVE QUESTIONS? 
+
+52. This Notice contains only a summary of the terms of the proposed Settlement. For more detailed information about the matters involved in
+this Action, you are referred to the papers on file in the Action, including the Stipulation, which may be inspected during regular office hours at the Office of the Register in Chancery in the Court of Chancery of the State of Delaware, Leonard L.
+Williams Justice Center, 500 North King Street, Wilmington, DE 19801. You must appear in person to inspect these documents. The Register’s office will not mail copies to you. For more information concerning the Settlement, you may also call or
+write to the attorneys for the Plaintiff or the SLC, whose contact information is provided above. 
+
+DO NOT CALL OR WRITE THE COURT OR THE
+OFFICE OF THE 
+
+REGISTER IN CHANCERY REGARDING THIS NOTICE. 
+
+| |
+
+| Dated: April 28, 2026 | BY ORDER OF THE COURT |
+
+15 
+

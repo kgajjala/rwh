@@ -1,0 +1,125 @@
+Source: https://www.sec.gov/Archives/edgar/data/1766502/000119312526187308/d124118d8k.htm
+
+
+
+8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 
+8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): 
+April 14, 2026
+
+CHEWY, INC.
+
+(Exact name of registrant as specified in its charter)
+
+| |
+
+| Delaware | 001-38936 | 90-1020167 |
+
+| (State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.) |
+
+| |
+
+| 7700 West Sunrise Boulevard |
+
+| Plantation , Florida | 33322 |
+
+| (Address of principal executive offices) | (Zip Code) |
+
+(786)
+
+320-7111
+
+(Registrant’s telephone number, including area code)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+| ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) |
+
+| ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) |
+
+| ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) |
+
+| ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) |
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| |
+
+| Title of each class | Trading symbol(s) | Name of each exchange on which registered |
+
+| Class A Common stock, par value $0.01 per share | CHWY | New York Stock Exchange |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company 
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+| Item 7.01 | Regulation FD Disclosure. |
+
+On April 6, 2026, the Special Litigation Committee (the “Committee”) of the Board of Directors (the “Board”) of Chewy, Inc. (the “Company”), the Company, BC Partners LLP, BC Partners Advisers LP, BC Partners Holdings Limited, CIE Management IX Limited, Argos Holdings GP LLC, Argos Holdings L.P., Citrus Intermediate Holdings L.P., Citrus Intermediate TopCo LLC, Buddy Chester Sub LLC, and certain directors of the Board (collectively, the “Defendants”) entered into the Stipulation and Agreement of Compromise, Settlement, and Release (the “Settlement Agreement”) with Eric Gilbert (the “Plaintiff,” and, together with the Committee, the Company, and the Defendants, the “Parties”) to resolve the stockholder derivative litigation pending in the Court of Chancery (the “Court”) of the State of Delaware, captioned 
+Gilbert v. BC Partners LLP, et al.
+, C.A. 
+No. 2024-1165-KSJM
+ (the “Action”). 
+
+On April 14, 2026, the Court entered a scheduling order (the “Scheduling Order”) in the Action, which scheduled the hearing on the Settlement Agreement for June 23, 2026, at 1:30 p.m. 
+
+Pursuant to the Settlement Agreement and the Scheduling Order, the Company is publishing the Settlement Agreement and the Notice of Pendency and Proposed Settlement of Derivative Action, Settlement Hearing and Right to Appear (the “Settlement Notice”), each attached hereto as Exhibits 99.1 and 99.2, respectively. The Settlement Agreement and the Settlement Notice will also appear on the Company’s investor relations website at investor.chewy.com and will remain posted to that website through the Effective Date of the Settlement. 
+
+The information in this Item 7.01 and Exhibits 99.1 and 99.2 attached to this Current Report on Form 8-K are being furnished under Item 7.01 of Form 8-K. Such information shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act. 
+
+| Item 9.01 | Financial Statements and Exhibits. |
+
+| (d) | Exhibits |
+
+| |
+
+| Exhibit No. | Description |
+
+| |
+
+| 99.1 | Stipulation and Agreement of Settlement, Compromise, and Release |
+
+| |
+
+| 99.2 | Notice of Pendency and Proposed Settlement of Stockholder Derivative Action, Settlement Hearing, and Right to Appear |
+
+| |
+
+| 104 | Cover Page Interactive Data File (embedded within the Inline XBRL document). |
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+Date: April 28, 2026 
+
+| |
+
+| CHEWY, INC. |
+
+| |
+
+| By: | /s/ Da-Wai Hu |
+
+| Name: Da-Wai Hu |
+
+| Title: General Counsel & Secretary |
+

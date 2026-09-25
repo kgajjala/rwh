@@ -11,6 +11,7 @@ Fixes the **unit of value** and the **driver-tree rows** for each business type 
 | Consumer staples | Case / unit volume | Organic volume vs. price/mix · gross margin · share by category · DSD reach | P/E + yield | Branding, scale | PEP, PG |
 | Industrial materials | Tonne, board foot, unit | Volume · realized price · capacity utilization · cost per unit | EV/EBITDA | Scale, process power | TREX, AMCR, MP (NdPr tonnes) |
 | Two-sided marketplace | Transaction (trip, order, night, listing) | GMV or GB · take rate · active users (MAPCs) · frequency · AOV · contribution margin as % of GB | FCF yield, EV/EBITDA | Network economies | UBER, DASH, BKNG, ABNB, EBAY, ZG |
+| Replenishment e-commerce | Active customer | Active customers and net adds · net sales per active customer · subscription (Autoship) share of sales · gross profit and adj EBITDA per customer · marketing per customer as CAC proxy | EV/adj EBITDA, FCF after SBC | Switching costs (habit), scale | CHWY |
 | Commerce platform | Merchant | GMV · attach rate (payments, capital, shipping) · merchant count and cohort GMV growth | P/FCF, EV/gross profit | Switching costs, network | SHOP |
 | Subscription / streaming | Subscriber (member) | ARM or ARPU · churn or retention · content or delivery cost per sub · paid net adds | P/FCF, EV/EBITDA | Scale (content), branding | NFLX, SPOT, DIS (plus parks: attendance × per-cap) |
 | Software | Seat / customer | ARR · NRR and gross retention · ARPU · CAC payback · seats per customer | P/FCF, EV/ARR | Switching costs | MSFT, ADBE, INTU, FIG |

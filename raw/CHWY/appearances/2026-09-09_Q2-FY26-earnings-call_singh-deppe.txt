@@ -1,0 +1,30 @@
+Chewy Q2 FY2026 earnings call — September 9, 2026, 8:00 am ET
+Speakers: Sumit Singh (CEO), Chris Deppe (CFO)
+Synthesis of third-party transcripts (not verbatim unless quoted):
+  https://www.fool.com/earnings/call-transcripts/2026/09/09/chewy-chwy-q2-2026-earnings-call-transcript/
+  https://www.investing.com/news/transcripts/earnings-call-transcript-chewy-posts-steady-q2-2026-results-as-shares-fall-premarket-93CH-4893739
+Cross-check: https://finance.yahoo.com/markets/stocks/articles/chewy-q2-earnings-call-highlights-140523448.html
+
+GUIDANCE (FY2026)
+- Net sales $13.46–13.57B (+6.8–7.7%; organic +5.5–6.3%). Prior (Jun 10): $13.40–13.55B. Original (Mar 25): $13.60–13.75B.
+- Adj EBITDA margin 6.7–6.8% (from 6.6–6.8%); ~$912M at midpoint; ~100 bps YoY expansion.
+- FCF "through" ~80% of adj EBITDA (Deppe). Capex 1.5–2.0% of sales. SBC broadly flat YoY. Diluted shares ~410M. Net interest expense $10–15M. Tax rate 24–26%.
+- Q3: net sales $3.323–3.358B (+6.6–7.7%; organic +5.3–6.2%); adj EBITDA margin 6.6–6.7%; adj diluted EPS ~$0.39.
+
+KPIs / QUALITY
+- Active customers 21.7M (+3.8%), +208K sequential; SmartPak 43K. Modern Animal ~100K member families, ~40–50% new to Chewy (excluded from count).
+- NSPAC $602 (+1.9% reported; +3.8% normalized for prior-year extra week). Autoship 84.6% of sales (+9.3%).
+- Gross margin 30.4% flat YoY: ~$10M tariff refunds + rebate timing, >$5M gift-card breakage / inventory adjustments / vendor-funded merchandising. Q3 GM to decline modestly sequentially. Analysts (Evercore, JPM) frame ~$15M of Q2 EBITDA as one-time.
+- Deppe: "we are operating a very low price environment" with "no meaningful pricing contribution".
+- Treats/toppers slowed more sharply than core food; hardgoods mid-teens growth; premiumization pressure "broadly in line with expectations". Singh: dog formation tied to household formation; cat strengthening ("dog seems to be worsening; cat seems to be strengthening" — CNBC quoting the call).
+- Chewy Vet Care triple-digit revenue growth; fresh/frozen triple-digit unit growth; equine seventh straight quarter of mid-double-digit growth.
+- Chewy+: no metrics; "refreshed program design" launching.
+- Sponsored ads growing, pricing "generally stable".
+
+CAPITAL
+- Q2 buyback $200M / 9.9M shares. Singh: "we continue to believe that Chewy shares are undervalued at current levels."
+- $600M inaugural term loan (Jun 23). Modern Animal ~$400M closed May 21.
+- Deppe: confidence in "long term margin path of 10% plus EBITDA ... continues to strengthen."
+- AI savings: low tens of millions FY26; ~$50M annualized FY27; framed as offsetting wage inflation, not pure bottom-line.
+- ~50% of shipping volume through automated FCs. Kai chat assistant resolves ~30% of chats self-service.
+- 2027 reinvestment level "part of 2027 planning process" (Deppe).

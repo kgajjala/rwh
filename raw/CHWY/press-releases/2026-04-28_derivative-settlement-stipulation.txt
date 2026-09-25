@@ -1,0 +1,762 @@
+Source: https://www.sec.gov/Archives/edgar/data/1766502/000119312526187308/d124118dex991.htm
+
+
+
+EX-99.1
+
+2
+
+d124118dex991.htm
+
+EX-99.1
+
+EX-99.1
+
+Exhibit 99.1 
+
+EXECUTION VERSION 
+
+IN
+THE COURT OF CHANCERY OF THE STATE OF DELAWARE 
+
+| |
+
+| ERIC GILBERT, derivatively on behalf of CHEWY, INC., |
+
+| |
+
+| Plaintiff, |
+
+| |
+
+| v. | C.A. No. 2024-1165-KSJM |
+
+| |
+
+| BC PARTNERS LLP, BC PARTNERS ADVISERS LP, BC PARTNERS HOLDINGS LIMITED, CIE MANAGEMENT IX LIMITED, ARGOS HOLDINGS GP LLC, ARGOS HOLDINGS L.P., CITRUS INTERMEDIATE HOLDINGS L.P., CITRUS
+INTERMEDIATE TOPCO LLC, BUDDY CHESTER SUB LLC, RAYMOND SVIDER, SUMIT SINGH, FAHIM AHMED, MATHIEU BIGAND, MARCO CASTELLI, MICHAEL CHANG, DAVID LELAND, LISA SIBENAC, MARTIN H. NESBITT, and JAMES A. STAR, |
+
+| |
+
+| Defendants, |
+
+| |
+
+| and |
+
+| |
+
+| CHEWY, INC., a Delaware corporation, |
+
+| |
+
+| |
+
+| Nominal Defendant. |
+
+STIPULATION AND AGREEMENT 
+
+OF COMPROMISE, SETTLEMENT, AND RELEASE
+
+This Stipulation of Compromise, Settlement, and Release (the “Stipulation”) is made and entered into as of April 6, 2026, by and
+among: (i) the Special Litigation Committee of the Board of Directors of Chewy, Inc. (the “Special Litigation Committee” or “SLC”); (ii) Plaintiff Eric Gilbert (“Plaintiff”); (iii) nominal defendant Chewy,
+Inc. (“Chewy” or “the Company”), a Delaware corporation; and (iv) Defendants BC Partners LLP, BC Partners Advisers LP, BC Partners Holdings Limited, CIE Management IX Limited, Argos Holdings GP LLC, Argos Holdings L.P.,
+Citrus Intermediate Holdings L.P., Citrus Intermediate Topco LLC, Buddy Chester Sub LLC, Raymond Svider, Sumit Singh, Fahim Ahmed, Mathieu Bigand, Marco Castelli, Michael Chang, David Leland, Lisa Sibenac, Martin H. Nesbitt, And James A. Star
+(collectively, the “Defendants”). 
+
+The above-referenced parties to this Stipulation (the “Settling Parties”), by
+and through their undersigned attorneys, have reached an agreement for the settlement of claims asserted or that could have been asserted in the above-captioned matter styled 
+Gilbert v. BC Partners LLP, et al.
+, C.A. No. 2024-1165-KSJM (Del.
+Ch.) (the “Action”) on the terms set forth below (the “Settlement”), and subject to Court approval pursuant to Court of Chancery Rule 23.1, as between Plaintiff, Chewy, the SLC, and the Defendants. This Stipulation is
+intended to fully, finally, and forever compromise, resolve, discharge, and settle all Released Claims (defined below), and to result in the dismissal of the Action with prejudice as against the Released Persons (defined below). 
+
+2 
+
+WHEREAS
+, 
+
+Summary of the Action and the SLC’s Investigation
+
+A. Founded in 2011, Chewy is a leading online pet supplies retailer incorporated in Delaware and
+
+co-headquartered
+ in Plantation, Florida and Boston, Massachusetts. Chewy went public through an initial public offering in June 2019. 
+
+B. In October 2020, Chewy’s then-controlling stockholder, BC Partners LLP (“BC Partners”) proposed to the Chewy board of
+directors (the “Board”) a downstream merger (the “Downstream Merger”) under which the following would occur: Argos, the holding company through which BC Partners controlled PetSmart Inc. (“PetSmart”) and Chewy,
+would sell PetSmart to a third-party buyer, incurring tax liabilities associated with the sale, and then merge into a newly created subsidiary of Chewy, as a result of which Chewy would inherit certain tax liabilities associated with the PetSmart
+sale. 
+
+C. The Board formed a special committee comprised of Brian McAndrews and Martin Nesbitt (the “First Committee”) to
+evaluate and negotiate the potential transaction on Chewy’s behalf. The First Committee concluded in April 2021 without reaching any agreement with BC Partners on the transaction. 
+
+D. In August 2021, the Board formed a new special committee comprised of Nesbitt and two new Board members, Kristine Dickson and Jim Nelson
+(the “Second Committee”), to evaluate and negotiate the potential transaction on Chewy’s behalf. The Second Committee retained Cleary Gottlieb Steen & Hamilton LLP as its legal advisor, LionTree LLC as its financial
+advisor, and PricewaterhouseCoopers as its tax advisor. 
+
+3 
+
+E. Following negotiations, in October 2023, the Second Committee and BC Partners reached an
+agreement on the Downstream Merger, pursuant to which BC Partners agreed to, among other things, provide certain indemnities to Chewy for taxes and other liabilities Chewy would absorb through the Downstream Merger, certain governance changes at
+Chewy, including a five-year sunset of Chewy’s Class B Common Stock, and to transfer a PetSmart pharmacy entity and its associated pharmacy licenses to Chewy. On October 30, 2023, based on the Second Committee’s approval and
+recommendation, the Board approved the Downstream Merger. In parallel with the Downstream Merger, BC Partners closed a sale of PetSmart. 
+
+F. Following a books and records investigation, in November 2024, Plaintiff filed a Verified Derivative Complaint (the
+“Complaint”) in this Action. The Complaint asserts derivative claims against Defendants alleging that they breached their fiduciary duties by causing Chewy to enter into an unfair transaction that prioritized BC Partners’ interests
+over those of Chewy and its minority stockholders. Among other things, the Complaint alleges that (i) BC Partners LLP, BC Partners Advisers LP, BC Partners Holdings Limited, CIE Management IX Limited, Argos
+
+4 
+
+Holdings GP LLC, Argos Holdings L.P., Citrus Intermediate Holdings L.P., Citrus Intermediate Topco LLC, and Buddy Chester Sub LLC breached their fiduciary duties as Chewy’s controlling
+stockholders by causing Chewy to enter into the Downstream Merger on terms that were not entirely fair to Chewy; and (ii) Raymond Svider, Sumit Singh, Fahim Ahmed, Mathieu Bigand, Marco Castelli, Michael Chang, David Leland, Lisa Sibenac,
+Martin H. Nesbitt, and James A. Star breached their fiduciary duties as Chewy directors by negotiating and approving the Downstream Merger. The Complaint’s requested relief included damages and 
+pre-and
+
+post-judgment interest. 
+
+G. On February 21, 2025, the Chewy Board increased the size of the Board from twelve to thirteen directors and
+filled the newly-created vacancy by appointing Deborah Ellinger. The Chewy Board determined that Deborah Ellinger is independent for purposes of serving as a director under the applicable rules of the United States Securities and Exchange Commission
+(“SEC”) and the New York Stock Exchange (“NYSE”). 
+
+H. On March 21, 2025, the Chewy Board established the SLC
+consisting of independent director Deborah Ellinger. 
+
+I. On April 24, 2025, the Chewy Board increased the size of the Board from
+thirteen to fourteen directors and filled the newly-created vacancy by appointing Nat Goldhaber. The Chewy Board determined that Nat Goldhaber is independent for purposes of serving as a director under the applicable rules of the SEC and the NYSE.
+
+5 
+
+J. On April 30, 2025, the Chewy Board expanded the SLC to include independent director
+Nat Goldhaber. The SLC was authorized with the full power of the Board to investigate Plaintiff’s claims and to determine an appropriate course of action with respect thereto, with all such determinations final and binding upon the Company.
+The SLC retained Wilson Sonsini Goodrich & Rosati PC as its legal advisor, and FTI Consulting and Professor Ethan Yale to provide financial and tax advice. The SLC moved to stay the Action pending its investigation and, on April 21, 2025,
+the Court granted the SLC’s motion and stayed the litigation for six months, which period was later extended. 
+
+K. The SLC conducted
+a thorough, independent investigation from March to December 2025. The SLC reviewed, with its Counsel, the underlying factual and legal merits of each theory of liability advanced in the Action, as well as potential theories of liability not
+advanced in the action; collected and ran targeted searches across approximately 1,400,000 documents collected from more than 20 custodians; conducted 22 formal interviews of the critical witnesses involved with the relevant events, including all
+individual Defendants and members of the relevant special committees, and several current and former 
+non-party
+ employees of the Company, and certain third-party advisors; and met multiple times with
+Plaintiff’s Counsel. The SLC met regularly during the investigation and completed its investigation in December 2025. 
+
+6 
+
+L. Defendants are insureds under certain directors’ and officers’ insurance
+policies issued to Chewy, Inc. and BCP entities. 
+
+M. Following its investigation, the SLC concluded that it was in the best interests of
+Chewy for the SLC to engage in discussions with the Defendants to attempt to negotiate a settlement of all claims in the Action. On December 3, 2025, the SLC informed the Court that the parties had begun settlement discussions aimed at resolving the
+Action and intended to engage in mediation. The parties engaged in a mediation session and extensive settlement discussions, presided over by David M. Murphy, before reaching a settlement in principle on February 27, 2026, pursuant to which the
+Defendants agreed to make contributions to the Settlement in exchange for releases. 
+
+N. On March 2, 2026, the SLC informed the Court
+that the parties had reached an agreement in principle to resolve all current and potential claims against the Defendants in the Action. 
+
+Plaintiff’s Claims and the Benefits of the Settlement
+
+O. Based on its investigation into the claims asserted in the Action, as well as potential additional claims arising from the same operative
+facts, the SLC, on behalf of Chewy, has concluded that the Settlement is in the best interests of Chewy and that the Settlement confers substantial benefits upon Chewy and Current Chewy Stockholders, and that the interests of Chewy and Current Chewy
+Stockholders would best be served by settlement of the Action and related claims on the terms and conditions set forth herein. 
+
+7 
+
+P. Plaintiff believes that the claims asserted in the Action have merit but also believes
+that the Settlement set forth below provides substantial and immediate benefits for Chewy and Current Chewy Stockholders. In addition to these substantial benefits, Plaintiff and Plaintiff’s Counsel have considered: (i) the attendant
+risks of continued litigation and the uncertainty of the outcome of the Action; (ii) the work undertaken by the SLC and its conclusion that the Action should be resolved; (iii) the probability of success on the merits; (iv) the
+inherent problems of proof associated with, and possible defenses to, the claims asserted in the Action; (v) the desirability of permitting the Settlement to be consummated according to its terms; (vi) the expense and length of continued
+proceedings necessary to prosecute the Action against the Defendants through trial and appeals; and (viii) the conclusion of Plaintiff and Plaintiff’s Counsel that the terms and conditions of the Settlement are fair, reasonable, and
+adequate, and that it is in the best interests of Chewy and Current Chewy Stockholders to settle the Action on the terms set forth herein. 
+
+8 
+
+The Settling Parties’ Denials of Wrongdoing and Liability
+
+Q. The Defendants deny any and all allegations of wrongdoing, liability, violations of law, and damages arising out of or related to any of
+the conduct, statements, acts, or omissions alleged in the Action, and maintain that their conduct was at all times proper, in the best interests of Chewy and its stockholders, and in compliance with applicable law. The Defendants also deny that
+Chewy or its stockholders were harmed by any conduct, or lack thereof, by the Defendants as alleged in the Action or that could have been alleged therein. Each of the Defendants assert that, at all relevant times, they acted in good faith and in a
+manner they reasonably believed to be in the best interests of Chewy and all of its stockholders. 
+
+R. Nevertheless, the Defendants wish to
+eliminate the uncertainty, distraction, risk, burden, and expense of further litigation, and to permit the operation of Chewy without further distraction and diversion of its Board and personnel with respect to the Action. The Defendants have
+therefore determined to settle the Action on the terms and conditions set forth in this Stipulation solely to put the Released Claims (as defined below) to rest, finally and forever, without in any way acknowledging any wrongdoing, fault, liability,
+or damages. 
+
+9 
+
+S. Nothing in this Stipulation shall be construed as any admission by the Defendants of any
+wrongdoing, fault, liability, or damages whatsoever. This Stipulation is not a finding or evidence of the validity or invalidity of any claims or defenses in the Action, any wrongdoing by the Defendants, or any damages or injury to Chewy or its
+stockholders. The SLC is joining in this Stipulation and supports the Settlement because it considers the terms of the Settlement to be fair to and in the best interests of Chewy and Current Chewy Stockholders. 
+
+NOW, THEREFORE, IT IS HEREBY STIPULATED AND AGREED
+, 
+
+by and among the Settling Parties, subject to the approval of the Court pursuant to Court of Chancery Rule 23.1, that the Action shall be fully and finally
+compromised and settled, the Released Claims shall be released as against the Released Persons, and the Action shall be dismissed with prejudice as against the Released Persons, upon and subject to the following terms and conditions of the
+Settlement: 
+
+I. DEFINITIONS 
+
+1.1. “Current Chewy Stockholders” means any record or beneficial owners of Chewy common stock as of the close of business on the
+date of this Stipulation. 
+
+1.2. “Chewy’s Counsel” means Paul, Weiss, Rifkind, Wharton & Garrison LLP. 
+
+1.3. “Effective Date” means the first date by which each of the following conditions has been met: (i) Final Approval of
+Settlement (as defined below); and (ii) the full Settlement Amount has been paid in accordance with the provisions of paragraph 2.1 below. 
+
+10 
+
+1.4. “Final” means, with respect to any judgment or order, that: (i) if no
+appeal is filed, the expiration date of the time for filing or noticing of any appeal of the judgment or order; or (ii) if there is an appeal from the judgment or order, the date of (a) final dismissal of all such appeals, or the final
+dismissal of any proceeding on certiorari or otherwise to review the judgment or order, or (b) the date the judgment or order is finally affirmed on an appeal, the expiration of the time to file a petition for a writ of certiorari or other form
+of review, or the denial of a writ of certiorari or other form of review of the judgment or order, and, if certiorari or other form of review is granted, the date of final affirmance of the judgment or order following review pursuant to that grant.
+However, any appeal or proceeding seeking subsequent judicial review pertaining solely to an order issued with respect to attorneys’ fees or expenses or any incentive award to Plaintiff shall not in any way delay or preclude the Judgment from
+becoming Final. 
+
+1.5. “Final Approval of Settlement” means that (i) the Court has entered the Judgment—with no
+material modification to the form of Judgment—approving the Settlement, dismissing the Defendants from the Action with prejudice on the merits and without costs to any party (except any costs specifically identified in this Stipulation), and
+providing for the Releases set forth below; and (ii) such Judgment is Final; 
+provided, however
+, and notwithstanding any provision to the contrary in this Stipulation, Final Approval of Settlement shall not include (and the
+Settlement is expressly not conditioned on) the award of attorneys’ fees or the payment of expenses to counsel for any Person or any incentive award to Plaintiff, including any appeal related to any such awards. 
+
+11 
+
+1.6. “Judgment” means the Order and Final Judgment to be entered by the Court,
+substantially in the form annexed hereto as 
+Exhibit C
+, dismissing the Released Claims with prejudice as against the Released Persons. 
+
+1.7. “Notice” means the Notice of Pendency and Proposed Settlement of Action, substantially in the form annexed hereto as
+
+Exhibit B
+. 
+
+1.8. “Person” means a natural person, individual, corporation, partnership, limited partnership, limited
+liability partnership, limited liability company, association, joint venture, joint stock company, estate, legal representative, trust, unincorporated association, government, or any political subdivision or agency thereof, or any other business or
+legal entity. 
+
+1.9. “Plaintiff’s Counsel” means Labaton Keller Sucharow LLP, Friedman Oster & Tejtel PLLC,
+Kaskela Law LLC, and any other legal counsel who, at the direction of Plaintiff or under the supervision of its foregoing counsel, performed services in the Action. 
+
+12 
+
+1.10. “Released Claims” means any and all manner of claims, demands, rights,
+liabilities, losses, obligations, duties, damages, costs, debts, expenses, interest, penalties, sanctions, fees, attorneys’ fees, actions, potential actions, causes of action, suits, agreements, judgments, decrees, matters, issues and
+controversies of any kind, nature, or description whatsoever, whether disclosed or undisclosed, accrued or unaccrued, apparent or not apparent, direct or derivative, foreseen or unforeseen, matured or not matured, suspected or unsuspected,
+liquidated or not liquidated, fixed or contingent, including known claims and Unknown Claims (as defined below), whether based on state, local, foreign, federal, statutory, regulatory, common, or other law or rule (including claims within the
+exclusive jurisdiction of the federal courts), that are, have been, could have been, could now be, or in the future could, can, or might be asserted, in the Action or in any other court, tribunal, or proceeding (a) by Plaintiff or any other
+Current Chewy Stockholder directly or derivatively on behalf of Chewy, or by Chewy directly, against any of the Released Persons or (b) by the Released Persons against Chewy or any other Released Person, which, now or hereafter, are based upon,
+arise out of, or relate to any of the actions or inactions, transactions, occurrences, statements, representations, misrepresentations, omissions, allegations, facts, practices, events, claims, or any other matters related to (i) the Downstream
+Merger and any transactions associated therewith; (ii) the allegations and events described in the Complaint, including the First Committee’s and the Second Committee’s negotiations with BC Partners related to the Downstream Merger
+and the transactions associated therewith; and (iii) the Action and the institution, prosecution and settlement thereof, including the SLC’s investigation; 
+provided, however
+, “Released Claims” shall not include claims
+relating to enforcement of the Settlement, the Stipulation, or any other agreement among any or all of the Settling Parties in connection with the Settlement. 
+
+13 
+
+1.11. “Released Persons” means Chewy, the Defendants, the members of the SLC,
+Plaintiff, Plaintiff’s Counsel, and their respective past, present, or future heirs, trusts, trustees, estates, beneficiaries, distributees, agents, employees, fiduciaries, partners, subsidiaries, affiliates, associated entities, stockholders,
+principals, officers, directors, predecessors, 
+predecessors-in-interest,
+ successors,
+
+successors-in-interest,
+ assigns, advisors, attorneys, personal or legal representatives, associates and insurers, 
+co-insurers
+ and
+
+re-insurers.
+
+1.12. “Releases” means the releases set forth in Section II.B below.
+
+1.13. “Scheduling Order” means an order scheduling a hearing on the Stipulation and approving the form of Notice and method
+of giving notice, substantially in the form annexed hereto as 
+Exhibit A
+. 
+
+1.14. “Settlement Amount” means a total of
+twenty-nine million five hundred thousand U.S. dollars in cash ($29,500,000). 
+
+14 
+
+1.15. “Settlement Hearing” means the hearing (or hearings) at which the Court
+will review and assess the adequacy, fairness, and reasonableness of the Settlement, and the appropriateness and amount of the award of attorneys’ fees and expenses, including any incentive award to Plaintiff, to be awarded by the Court (as
+set forth in Sections 
+IV-V,
+ below). 
+
+1.16. “Unknown Claims” means any claims that
+Plaintiff, any Released Person, Chewy, or any other Current Chewy Stockholder does not know or suspect to exist in their favor at the time of the release of the Released Claims against any of the Released Persons, including those which, if known by
+them, might have affected their decision(s) with respect to the Settlement. With respect to any of the Released Claims, the Settling Parties stipulate and agree that upon Final Approval of the Settlement, they shall be deemed to have, and by
+operation of the Judgment shall have, expressly waived, relinquished, and released any and all provisions, rights, and benefits conferred by or under California Civil Code § 1542,
+1
+ and any
+law of any state or territory of the United States, or principle of common law or foreign law, that is similar, comparable, or equivalent to California Civil Code § 1542. The Settling Parties acknowledge that they may hereafter discover facts
+in addition to or different from those now known or believed to be true by them, with respect to the 
+
+| 1 | California Civil Code § 1542 provides: |
+
+| A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO
+EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASED PARTY. |
+
+15 
+
+subject matter of the Released Claims, but it is the intention of the Settling Parties to completely, fully,
+finally, and forever compromise, settle, release, discharge, and extinguish any and all Released Claims without regard to the subsequent discovery of additional or different facts. The Settling Parties acknowledge that the foregoing waiver was
+separately bargained for, is a key element of the Settlement, and was relied upon by each and all of the Settling Parties in entering into the Settlement. 
+
+II. TERMS OF THE SETTLEMENT 
+
+A. Settlement and the Settlement Consideration 
+
+2.1. In consideration for the full and final release, settlement, and discharge of any and all Released Claims against the Released Persons,
+and notwithstanding the existence of any timely filed objections to the Settlement, or any collateral attack on the Settlement or any part thereof, or any appeal or potential for appeal from the Settlement or the Judgment, within thirty
+(30) calendar days after Final Approval of Settlement, the Defendants shall pay, or cause their insurers to pay, the Settlement Amount to Chewy by wire transfer. Chewy shall provide to counsel for the Defendants wire payment instructions, the
+name and phone number of an individual authorized to voice confirm wire instructions, and an IRS Form 
+W-9
+ for Chewy no later than five (5) business days after the date of execution of this Stipulation.
+Payment of the Settlement Amount shall be made by wire transfer to Chewy; payment shall not be made by check. 
+
+16 
+
+B. Releases 
+
+2.2. Upon the Effective Date, Plaintiff, the members of the SLC, the Company, any stockholder of the Company, the Defendants, and all of their
+respective 
+successors-in-interest,
+ predecessors, representatives, trustees, executors, administrators, heirs, assigns or transferees, immediate and remote, and any
+person or entity acting for or on behalf of, or claiming under, any of them, and each of them, shall be deemed to have, and by operation of the Judgment approving this Settlement shall have, completely discharged, dismissed with prejudice on the
+merits, released and settled, to the fullest extent permitted by law, the Released Claims against the Released Persons and shall be forever barred and enjoined from commencing, instituting, prosecuting, or continuing to prosecute any of the Released
+Claims against any of the Released Persons. 
+
+2.3. The Settlement shall eliminate all further risk and liability relating to the Released
+Claims, and the Settlement shall be a final and complete resolution of all disputes asserted or that could be or could have been asserted with respect to the Released Claims, including, without limitation, any claims for contribution in accordance
+with 10 
+Del. C. 
+§ 6304 and any similar laws or statutes. All such claims shall be enjoined from further prosecution. 
+
+2.4.
+Pursuant to 10 
+Del. C. 
+§ 6304(b) and any similar laws or statutes, damages recoverable for the Released Claims against any alleged tortfeasor who is not otherwise a party to the Settlement (whether or not a party to the Action) shall be
+reduced to the extent of the pro rata share, if any, of the Defendants for common damages. 
+
+17 
+
+2.5. The members of the SLC and the Defendants shall each bear their own fees, costs, and
+expenses related to the Action and the Settlement, provided that nothing herein shall affect any claims that the members of the SLC, Chewy, or any Defendant may have as against each other or against any of their respective insurers, 
+co-insurers,
+ or reinsurers, to the extent such claims are not otherwise released pursuant to other documentation. 
+
+III. PROCEDURE FOR APPROVAL 
+
+3.1 Promptly after execution of this Stipulation, the Settling Parties shall jointly submit the Stipulation together with its related
+documents to the Court, and shall apply to the Court for entry of the proposed Scheduling Order, substantially in the form annexed hereto as 
+Exhibit A
+. 
+
+3.2 Notice of the Settlement and the Settlement Hearing shall be given as follows: (a) within ten (10) business days after the entry
+of the Scheduling Order (hereafter referred to as the “Notice Date”), the Company shall file a copy of this Stipulation and the Notice, substantially in the form attached hereto as 
+Exhibit B
+, as exhibits to a Form 
+8-K
+ with the SEC, and the Form 
+8-K
+ shall note that the Stipulation and the Notice can be found on the “Investor Relations” section of the Company’s
+
+18 
+
+website and include the website address; (b) no later than the Notice Date, the Company shall post a copy of this Stipulation and the Notice, substantially in the form attached hereto as
+
+Exhibit B
+, on the “Investor Relations” section of the Company’s website, and such documents shall remain posted to that website through the Effective Date of the Settlement; and (c) no later than the Notice Date,
+Labaton Keller Sucharow LLP shall cause this Stipulation and the Notice to be posted on its website, which document shall remain posted on that website through the Effective Date of the Settlement. 
+
+3.3 No later than ten (10) business days before the Settlement Hearing, Chewy’s Counsel shall file with the Court an appropriate
+affidavit with respect to the filing and posting of the Notice and Stipulation in accordance with Section 3.2(a) and (b) herein. 
+
+3.4 Chewy shall be responsible for all costs and expenses related to providing notice of the proposed Settlement (“Notice Costs”)
+regardless of the form or manner of notice ultimately approved or directed by the Court and regardless of whether the Court declines to approve the Settlement or the Effective Date otherwise fails to occur. In no event shall Plaintiff, any other
+Chewy stockholder, the Defendants, or any of their attorneys (including Plaintiff’s Counsel) be responsible for any Notice Costs. 
+
+19 
+
+3.5 The Settling Parties submit that the proposed content and manner of notice constitutes
+adequate and reasonable notice to Current Chewy Stockholders pursuant to applicable law and due process. 
+
+3.6 The Settling Parties and
+their attorneys agree to use their individual and collective best efforts and to cooperate with one another to obtain Court approval of the Settlement. The Settling Parties and their attorneys further agree to use their individual and collective
+best efforts to effect, take, or cause to be taken all actions, and to do, or cause to be done, all things reasonably necessary, proper, or advisable under applicable laws, regulations, and agreements to consummate and make effective, as promptly as
+practicable, the Settlement provided for hereunder and the dismissal of the Action as to the Released Persons with prejudice. 
+
+3.7 If the
+Settlement embodied in this Stipulation is approved by the Court, the Settling Parties shall request that the Court enter the Judgment, substantially in the form attached hereto as 
+Exhibit C
+. 
+
+IV. ATTORNEYS’ FEES AND EXPENSES 
+
+4.1. The Settling Parties understand that Plaintiff’s Counsel intend to petition the Court for an
+
+all-in
+ award of attorneys’ fees and litigation expenses to Plaintiff’s Counsel (the “Fee and Expense Award”), and may also petition the Court for an incentive award to Plaintiff, to be
+paid solely from any Fee and Expense Award (the “Incentive Award”), based on the benefits provided to Chewy and its stockholders from the Action. 
+
+20 
+
+4.2. After all of the substantive terms of the Settlement were agreed upon,
+Plaintiff’s Counsel engaged in 
+arm’s-length
+ negotiations with the SLC and its counsel concerning an appropriate Fee and Expense Award for all Plaintiff’s Counsel, including an Incentive Award
+to Plaintiff, for the benefits conferred on Chewy and its stockholders from the prosecution of the Action and the Settlement. As a result of those negotiations, it has been agreed that Plaintiff’s Counsel will apply for a Fee and Expense Award
+in an amount not to exceed $5,500,000 and an Incentive Award to Plaintiff not to exceed $5,000. Chewy, the Defendants, and all members of the SLC agree that they shall not oppose any fee request at or below $5,500,000, any Incentive Award to
+Plaintiff not to exceed $5,000, or otherwise file any form of opposition with the Court to such applications. 
+
+4.3. To the extent the Court
+makes any such Fee and Expense Award, including any Incentive Award to Plaintiff, the Fee and Expense Award, including any Incentive Award to Plaintiff, shall be paid to Plaintiff’s Counsel within ten (10) business days after the
+following conditions are satisfied: (1) the Court enters the order setting the amount of the Fee and Expense Award, including any Incentive Award to Plaintiff; (2) Chewy receives payment of the Settlement Amount pursuant
+
+21 
+
+to Section 2.1 above; and (3) Plaintiff’s Counsel provides to Chewy (i) a fully-executed IRS form 
+W-9
+ and (ii) either a voided
+check, or a bank letter (on bank letterhead) with account information and wiring instructions. Chewy shall pay any such Fee and Expense Award, including any Incentive Award to Plaintiff, notwithstanding the existence of any timely filed objections
+to the Fee and Expense Award or any appeal or potential for appeal therefrom, or any collateral attack on the Settlement or any part thereof or any appeal or potential appeal from the Settlement or the Judgment. Chewy shall be solely responsible for
+its payment from the Settlement Amount, and the Settling Parties agree that no other person or entity shall have any responsibility to contribute to or pay Plaintiff’s Fee and Expense Award or any Incentive Award to Plaintiff. 
+
+4.4. If, after payment of any Fee and Expense Award to Plaintiff’s Counsel, including any Incentive Award to Plaintiff, the Fee and
+Expense Award, including any Incentive Award to Plaintiff, is reversed or reduced and such order reducing or reversing the award has become Final, or the Settlement is terminated in accordance with the terms of this Stipulation, Plaintiff’s
+Counsel shall, within ten (10) business days after receiving from Chewy’s Counsel or from a court order of appropriate jurisdiction notice of the termination of Settlement or notice of any reduction of the Fee and Expense Award by Final
+order, return to Chewy the difference between the attorneys’ fees and expenses awarded by the Court in the Fee and Expense Award and paid to Plaintiff’s Counsel, on the one hand, and any attorneys’ fees and expenses ultimately and
+finally awarded on appeal, further proceedings on remand, or otherwise on the other hand. 
+
+22 
+
+4.5. The Fee and Expense Award shall be the sole compensation for Plaintiff’s Counsel
+in connection with the Action and the Settlement. The Defendants, and the Released Persons shall have no responsibility or liability whatsoever with respect to the allocation of the Fee and Expense Award to or among Plaintiff’s Counsel. 
+
+4.6. The Defendants shall not be liable for or obligated to pay any fees, expenses, costs, or disbursements, or to incur any expense on behalf
+of, any person or entity (including, without limitation, Plaintiff or Plaintiff’s Counsel), directly or indirectly, in connection with the Action or the Settlement, except as expressly provided for in this Stipulation. 
+
+4.7. This Stipulation, the Settlement, the Judgment, and whether the Judgment becomes Final, are not conditioned upon the approval of an award
+of attorneys’ fees, costs, or expenses, either at all or in any particular amount, by the Court. Plaintiff’s Counsel warrants that no portion of any such award of attorneys’ fees or expenses, excluding the Incentive Award to
+Plaintiff, shall be paid to Plaintiff, except as may be approved by the Court. 
+
+23 
+
+V. STAY PENDING COURT APPROVAL 
+
+5.1. Pending Court approval of the Stipulation, the Settling Parties agree to stay any and all proceedings in the Action other than those
+incident to the Settlement. 
+
+5.2. Except as necessary to pursue the Settlement and determine Plaintiff’s Fee and Expense Award (if
+any), including any Incentive Award to Plaintiff, until the earlier of the Effective Date or an order of the Court substantially denying or declining to approve the Settlement in accordance with the Stipulation, the Settling Parties agree not to
+institute, commence, prosecute, continue, or in any way participate in, whether directly or indirectly, representatively, individually, derivatively on behalf of Chewy, or in any other capacity, any action or other proceeding asserting any Released
+Claims. 
+
+5.3. Notwithstanding Paragraphs 5.1 and 5.2, nothing herein shall in any way impair or restrict the rights of any Settling Party
+to defend this Stipulation or to otherwise respond in the event any Person objects to the Stipulation, the proposed Judgment to be entered, and/or Plaintiff’s fee and expense application. 
+
+24 
+
+VI. EFFECT OF DISAPPROVAL, CANCELLATION, OR TERMINATION 
+
+6.1. The SLC, Plaintiff, and the Defendants (provided the Defendants unanimously agree amongst themselves) shall each have the right to
+terminate the Settlement and this Stipulation solely by providing written notice of their election to do so to the other Settling Parties within thirty (30) calendar days of: (i) the Court’s declining to enter the Scheduling Order in
+any material respect; (ii) the Court’s refusal to approve this Stipulation or any part of it that materially affects any Settling Party’s rights or obligations hereunder; (iii) the Court’s declining to enter the Judgment
+in any material respect; or (iv) the date upon which the Judgment is modified or reversed in any material respect by an appellate court. Neither a modification nor a reversal on appeal of the amount of fees, costs, and expenses awarded by the
+Court to Plaintiff’s Counsel shall be deemed a material modification of the Judgment or this Stipulation. 
+
+6.2. In the event that the
+Settlement is terminated pursuant to the terms of Paragraph 6.1 of this Stipulation or the Effective Date otherwise fails to occur for any other reason, then (i) the Settlement and this Stipulation (other than this Section VI and Paragraph 3.4
+above) shall be canceled and terminated; (ii) any judgment entered in the Action and any related orders entered by the Court shall in all events be treated as vacated, 
+nunc pro tunc
+; (iii) the Releases provided under the Settlement
+shall be null and void; (iv) to the extent the Settlement Amount has been paid, it shall be repaid by Chewy to the persons and entities who paid on behalf of the Defendants within fifteen (15) business days after termination of the
+Settlement; (v) the fact of the Settlement shall not be admissible in any proceeding before any court or tribunal; (vi) all proceedings in the Action shall revert to their status as of immediately prior to filing of this Stipulation, and
+no materials created by or 
+
+25 
+
+received from another party that were used in, obtained during, or related to settlement discussions shall be admissible for any purpose in any court or tribunal, or used, absent consent from the
+disclosing party, for any other purpose or in any other capacity, except to the extent that such materials are otherwise required to be produced during discovery in any other litigation; (vii) the Settling Parties shall jointly petition the
+Court for a revised schedule for further proceedings; and (viii) the Settling Parties shall proceed in all respects as if the Settlement and this Stipulation (other than this Section VI and Paragraph 3.4 above) had not been entered into by the
+Settling Parties. 
+
+VII. NO ADMISSION OF LIABILITY 
+
+7.1. It is expressly understood and agreed that neither the Settlement nor any act or omission in connection therewith is intended or shall be
+deemed or argued to be evidence of or to constitute an admission or concession by: (a) the Defendants as to (i) the truth of any fact alleged by Plaintiff, (ii) the validity of any claims or other issues raised, or which might be or
+might have been raised, in the Action or in any other litigation, (iii) the deficiency of any defense that has been or could have been asserted in the Action or in any litigation, or (iv) any wrongdoing, fault, or liability of any kind by
+any of them, which each of them expressly denies; or (b) Plaintiff that any of his claims are without merit, that any of the Defendants, or Released Persons had meritorious defenses, or that damages or other relief
+
+26 
+
+recoverable in the Action would not have exceeded the terms of the Settlement. The Settling Parties or any Released Persons may file this Stipulation and/or Judgment in any action that has been
+or may be brought against them in order to support a claim or defense based on principles of 
+res judicata
+, collateral estoppel, release, good faith settlement, judgment bar or reduction, or any other theory of claim preclusion or issue
+preclusion or similar defense or counterclaim or in connection with any insurance litigation. 
+
+VIII. MISCELLANEOUS PROVISIONS 
+
+8.1. The Defendants warrant that, as to the payments made or to be made on behalf of them, at the time of entering into this Stipulation and at
+the time of such payment they, or to the best of their knowledge any persons or entities contributing to the payment of the Settlement Amount, were not insolvent, nor will the payment required to be made by or on behalf of them render them
+insolvent, within the meaning of and/or for the purposes of the United States Bankruptcy Code, including §§ 101 and 547 thereof. This representation is made by each of the Defendants and not by their counsel. 
+
+8.2. This Stipulation shall be deemed to have been mutually prepared by the Settling Parties and shall not be construed against any of them by
+reason of authorship. 
+
+27 
+
+8.3. The Settling Parties agree that in the event of any breach of this Stipulation, all of
+the Settling Parties’ rights and remedies at law, equity, or otherwise, are expressly reserved. 
+
+8.4. The Settling Parties agree
+there will be no public announcements regarding this Settlement until Chewy has announced or disclosed it or the Stipulation has been filed with the Court. To the extent permitted by law, all agreements made and orders entered during the course of
+the Action relating to the confidentiality of documents or information shall survive this Stipulation. 
+
+8.5. This Stipulation, its exhibits
+and any related agreement executed by and among Chewy, the SLC, and the Defendants, embody the entire agreement and understanding of the Settling Parties and supersede all prior agreements and understandings, if any, in respect of the subject matter
+contained herein. No representations, warranties or statements of any nature whatsoever, whether written or oral, have been made to or relied upon by any Settling Party concerning the subject matter of this Stipulation, other than the
+representations, warranties and covenants expressly set forth in such documents. 
+
+8.6. This Stipulation may be executed in one or more
+counterparts, each of which shall be deemed to be an original and all of which shall constitute one and the same document. Any signature to the Stipulation by means of facsimile or electronic scanning shall be treated in all manner and respects as
+an original signature and shall be considered to have the same binding legal effect as if it were the original signed version thereof and without any necessity for delivery of the originally signed signature pages in order for this to constitute a
+binding agreement. 
+
+28 
+
+8.7. The headings herein are used for the purpose of convenience only and are not meant to
+have legal effect. 
+
+8.8. Each counsel or other person executing this Stipulation on behalf of any Settling Party warrants that they have
+the full authority to bind their principal to this Stipulation. 
+
+8.9. Plaintiff represents and warrants that none of Plaintiff’s
+claims referred to in this Stipulation or that could have been alleged in the Action have been assigned, encumbered, or in any manner transferred in whole or in part. 
+
+8.10. This Stipulation shall not be modified or amended, nor shall any provision of this Stipulation be deemed waived, unless such
+modification, amendment, or waiver is in writing and executed by or on behalf of the Settling Party(ies) against whom such modification, amendment, or waiver is sought to be enforced. 
+
+29 
+
+8.11. Any failure by any Settling Party to insist upon the strict performance by any other
+Settling Party of any of the provisions of this Stipulation shall not be deemed a waiver of any of the provisions hereof, and such party, notwithstanding such failure, shall have the right thereafter to insist upon the strict performance of any and
+all of the provisions of this Stipulation to be performed by such other Settling Party. Waiver by any Settling Party of any breach of this Stipulation by any other Settling Party shall not be deemed a waiver of any other prior or subsequent breach
+of this Stipulation, and failure by any Settling Party to assert any claim for breach of this Stipulation shall not be deemed to be a waiver as to that or any other breach and will not preclude any Settling Party from seeking to remedy a breach and
+enforce the terms of this Stipulation. Each of the Settling Parties’ respective obligations hereunder are several and not joint, and the breach or default by one Settling Party shall not be imputed to, nor shall any Settling Party have any
+liability or responsibility for, the obligations of any other Settling Party herein. 
+
+8.12. This Stipulation shall be binding upon, and
+inure to the benefit of, the successors and assigns of the Settling Parties hereto. 
+
+8.13. Notwithstanding the entry of the Judgment, the
+Court shall retain jurisdiction with respect to the implementation, enforcement, and interpretation of the terms of the Stipulation, and all Settling Parties submit to the jurisdiction of the Court for all matters relating to the administration,
+enforcement, and consummation of the Settlement and the implementation, enforcement, and interpretation of the Stipulation, including, without limitation, any matters relating to awards of attorneys’ fees and expenses to Plaintiff’s
+Counsel, including any Incentive Award to Plaintiff. Each Settling Party: (i) consents to personal jurisdiction in any such action (but no other action) brought in the Court; (ii) consents to service of process by registered mail upon such
+Settling Party or such Settling Party’s agent; and (iii) waives any objection to venue in the Court and any claim that Delaware or the Court is an inconvenient forum. 
+
+8.14. The construction and interpretation of this Stipulation shall be governed by and construed in accordance with the laws of the State of
+Delaware and without regard to the laws that might otherwise govern under principles of conflicts of law applicable hereto. 
+
+8.15. Without
+further order of the Court, the Settling Parties hereto may agree to reasonable extensions of time to carry out any of the provisions of the Stipulation. 
+
+8.16. The following exhibits are annexed hereto and incorporated herein by reference: 
+
+(a) Exhibit A: [Proposed] Scheduling Order With Respect to Notice and Settlement Hearing; 
+
+(b) Exhibit B: Notice of Pendency and Proposed Settlement of Derivative Action, Settlement Hearing, and Right to Appear; 
+
+(c) Exhibit C: [Proposed] Order and Final Judgment. 
+
+IN WITNESS WHEREOF, IT IS HEREBY AGREED 
+by the undersigned as of the date noted above. 
+
+30 
+
+[SIGNATURE PAGES FOLLOW] 
+
+31 
+
+| |
+
+| RICHARDS, LAYTON & FINGER, P.A. |
+
+| |
+
+| Of Counsel: |
+
+| |
+
+| /s/ Robert L. Burns |
+
+| Sandra C. Goldstein | Robert L. Burns (#5314) |
+
+| Jeffrey R. Goldfine | Matthew Perri (#6066) |
+
+| KIRKLAND & ELLIS LLP | 920 North King Street |
+
+| 601 Lexington Avenue | Wilmington, Delaware 19801 |
+
+| New York, NY 10022 | (302) 651-7700 |
+
+| (212) 446-4800 | burns@rlf.com |
+
+| perri@rlf.com |
+
+| |
+
+| Counsel for Defendants BC Partners LLP, BC Partners Advisers LP, BC Partners Holdings Limited, CIE Management IX Limited, Argos Holdings GP LLC, Argos Holdings L.P., Citrus Intermediate Holdings L.P., Citrus Intermediate Topco
+LLC, Buddy Chester Sub LLC, Raymond Svider, Sumit Singh, Fahim Ahmed, Mathieu Bigand, Marco Castelli, Michael Chang, David Leland, Lisa Sibenac, and James A. Star |
+
+32 
+
+| |
+
+| YOUNG CONAWAY STARGATT & TAYLOR, LLP |
+
+| |
+
+| Of Counsel: |
+
+| |
+
+| Mark E. McDonald | /s/ Elena C. Norman |
+
+| CLEARY GOTTLIEB STEEN & | Elena C. Norman (#4780) |
+
+| HAMILTON LLP | Alex B. Haims (#7060) |
+
+| One Liberty Plaza | Rodney Square |
+
+| New York, NY 10006 | 1000 North King Street |
+
+| (212) 225-2000 | Wilmington, Delaware 19801 |
+
+| (302) 571-6600 |
+
+| enorman@ycst.com |
+
+| ahaims@ycst.com |
+
+| |
+
+| Counsel for Defendant Martin H. Nesbitt |
+
+| |
+
+| PAUL, WEISS, RIFKIND, WHARTON & GARRISON LLP |
+
+| |
+
+| Of Counsel: |
+
+| |
+
+| /s/ Matthew D. Stachel |
+
+| Geoffrey R. Chepiga | Matthew D. Stachel (#5419) |
+
+| Robert J. O’Loughlin | 1313 N. Market Street, Suite 806 |
+
+| PAUL, WEISS, RIFKIND, | Wilmington, Delaware 19801 |
+
+| WHARTON & GARRISON LLP | (302) 655-4410 |
+
+| 1285 Avenue of the Americas | mstachel@paulweiss.com |
+
+| New York, NY 10019-6064 |
+
+| (212) 373-3000 | Counsel for Nominal Defendant Chewy, Inc. |
+
+33 
+
+| |
+
+| WILSON, SONSINI, GOODRICH & ROSATI, P.C. |
+
+| |
+
+| /s/ Brad D. Sorrels |
+
+| Joseph R. Slights III (#2559) |
+
+| Brad D. Sorrels (#5233) |
+
+| Daniyal M. Iqbal (#6167) |
+
+| Jordan L. Cramer (#6981) |
+
+| Jacqueline G. Conner (#7181) |
+
+| 222 Delaware Avenue, Suite 800 |
+
+| Wilmington, Delaware 19801 |
+
+| (302) 304-7600 |
+
+| jslights@wsgr.com |
+
+| bsorrels@wsgr.com |
+
+| diqbal@wsgr.com |
+
+| jcramer@wsgr.com |
+
+| jconner@wsgr.com |
+
+| |
+
+| Counsel for Special Litigation |
+
+| Committee of the Board of Directors of Chewy, Inc. |
+
+| |
+
+| LABATON KELLER SUCHAROW LLP |
+
+| |
+
+| Of Counsel: |
+
+| |
+
+| /s/ Brendan W. Sullivan |
+
+| John Vielandi | Ned Weinberger (#5256) |
+
+| LABATON KELLER SUCHAROW LLP | Brendan W. Sullivan (#5810) 222 Delaware
+Avenue, Suite 1510 |
+
+| 140 Broadway | Wilmington, Delaware 19801 |
+
+| New York, NY 10005 | (302) 573-2540 |
+
+| (212) 907-0700 | nweinberger@labaton.com |
+
+| bsullivan@labaton.com |
+
+| |
+
+| Jeremy Friedman |
+
+| David Tejtel | Counsel for Plaintiff Eric Gilbert |
+
+| Lindsay La Marca |
+
+34 
+
+| |
+
+| FRIEDMAN OSTER & TEJTEL PLLC 493
+Bedford Center Road Bedford Hills, NY 10507 (888) 529-1108 D. Seamus Kaskela Adrienne Bell KASKELA LAW LLC 18 Campus Blvd., Suite 100 Newtown Square, PA 19073 (484) 258-1585 |
+
+35 
+

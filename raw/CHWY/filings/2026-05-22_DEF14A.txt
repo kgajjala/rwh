@@ -1,0 +1,2100 @@
+Source: https://www.sec.gov/Archives/edgar/data/1766502/000114036126022529/ny20064174x1_def14a.htm
+
+
+
+TABLE OF CONTENTS
+
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549 
+SCHEDULE 14A
+
+Proxy Statement Pursuant to Section 14(a) of the Securities 
+Exchange Act of 1934 (Amendment No.   ) 
+Filed by the Registrant ☒ 
+Filed by a Party other than the Registrant ☐ 
+Check the appropriate box: 
+
+| ☐ | Preliminary Proxy Statement |
+
+| ☐ | Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) |
+
+| ☒ | Definitive Proxy Statement |
+
+| ☐ | Definitive Additional Materials |
+
+| ☐ | Soliciting Material Pursuant to §240.14a-12 |
+
+| |
+
+| CHEWY, INC. |
+
+| (Name of Registrant as Specified In Its Charter) |
+
+| |
+
+| (Name of Person(s) Filing Proxy Statement, if other than the Registrant) |
+
+| |
+
+Payment of Filing Fee (Check all boxes that apply): 
+
+| |
+
+| ☒ | No fee required. |
+
+| ☐ | Fee paid previously with preliminary materials. |
+
+| ☐ | Fee computed on table in exhibit required by Item 25(b) per Exchange Act Rules 14a-6(i)(1) and 0-11. |
+
+| |
+
+TABLE OF CONTENTS
+
+TABLE OF CONTENTS
+
+TABLE OF CONTENTS
+
+| |
+
+| |
+
+| |
+
+| |
+
+NOTICE OF ANNUAL MEETING OF STOCKHOLDERS 
+7700 West Sunrise Boulevard 
+Plantation, FL 33322 
+May 22, 2026 
+Dear Stockholders: 
+
+| |
+
+| WHAT: | 2026 Annual Meeting of Stockholders of Chewy, Inc. (the “Annual Meeting”). |
+
+| WHEN: | Thursday, July 9, 2026, at 10:00 a.m., Eastern Time. |
+
+| WHERE: | Our Annual Meeting will be held virtually, conducted via live audio webcast, a format designed to increase stockholder access, reduce the environmental impact of a physical meeting and save Chewy and our stockholders time and money. This meeting format also provides stockholders the opportunity to hear all portions of the official Annual Meeting, submit written questions during the Annual Meeting and vote online during the open poll section of the Annual Meeting. You are invited to attend the live webcast of our meeting, vote your shares and submit questions at https://www.virtualshareholdermeeting.com/CHWY2026. To join the meeting, you will need the 16-digit control number that is printed on your Notice of Internet Availability of Proxy Materials (the “Notice”). When accessing our Annual Meeting, please allow ample time for online check-in, which will begin at 9:45 a.m., Eastern Time, on Thursday, July 9, 2026. If a bank, brokerage firm or other nominee holds your shares, you should contact that organization for additional information. |
+
+| WHY: | We are holding the Annual Meeting for the following purposes, as more fully described in our proxy statement: |
+
+| 1. | to elect to our Board of Directors five director nominees for three-year terms (Proposal No. 1); |
+
+| 2. | to ratify the appointment of Deloitte & Touche LLP as our independent registered public accounting firm for the fiscal year ending January 31, 2027 (Proposal No. 2); |
+
+| 3. | to approve, on a non-binding, advisory basis, the compensation of our named executive officers (Proposal No. 3); |
+
+| 4. | advisory vote on the frequency of future votes on named executive officer compensation (Proposal No. 4); and |
+
+| 5. | to transact such other business as may properly be presented at the Annual Meeting or any adjournments or postponements thereof. |
+
+| RECORD DATE: | Stockholders of record as of the close of business on May 13, 2026 (the “Record Date”) are entitled to the Notice and to vote at the Annual Meeting or at any adjournment or postponement that takes place. |
+
+| PROXY VOTING: | On or about May 22, 2026, we will mail to stockholders of record as of the Record Date (other than those who previously requested electronic or paper delivery on an ongoing basis) a Notice with instructions for accessing our proxy materials and voting instructions over the Internet, by telephone or by mail. We expect that our proxy statement and other proxy materials will be available to stockholders on this same date. |
+
+| Your vote is very important. Whether or not you plan to attend our Annual Meeting, we encourage you to read our proxy materials and submit your proxy or voting instructions as soon as possible. |
+
+| |
+
+Thank you for your ongoing support, and we hope you can join us at our Annual Meeting. 
+Sincerely,
+
+| |
+
+| |
+
+| Da-Wai Hu |
+
+| General Counsel & Secretary |
+
+TABLE OF CONTENTS
+TABLE OF CONTENTS 
+
+| |
+
+| General Information About our Annual Meeting | 1 |
+
+| Board of Directors and Corporate Governance | 8 |
+
+| Board of Directors | 8 |
+
+| Director Independence | 14 |
+
+| Board Leadership Structure | 14 |
+
+| Board Evaluation Process | 14 |
+
+| Board Committees | 15 |
+
+| Role of our Board in Risk Oversight | 17 |
+
+| Attendance at Board, Committee and Stockholder Meetings | 18 |
+
+| Director Compensation | 19 |
+
+| Communications with our Board | 21 |
+
+| Corporate Governance Guidelines and Code of Conduct and Ethics | 21 |
+
+| Sustainability and Responsibility | 21 |
+
+| Certain Relationships and Related Party Transactions | 22 |
+
+| PROPOSAL 1: Election of Directors | 25 |
+
+| Security Ownership Information | 26 |
+
+| Security Ownership of Certain Beneficial Owners and Management | 26 |
+
+| Delinquent Section 16(a) Reports | 28 |
+
+| Independent Registered Public Accounting Firm | 29 |
+
+| Principal Accountant Fees and Services | 29 |
+
+| Pre-Approval Policies and Procedures | 29 |
+
+| Audit Committee Report | 29 |
+
+| PROPOSAL 2: Ratification of Appointment of Independent Registered Public Accounting Firm | 31 |
+
+| Named Executive Officer Compensation | 32 |
+
+| Compensation Discussion and Analysis | 32 |
+
+| Compensation Related Risks | 40 |
+
+| Compensation Committee Report | 40 |
+
+| Compensation Tables | 41 |
+
+| Employment Agreements and Potential Payments Upon Termination or Change in Control | 46 |
+
+| CEO Pay Ratio | 49 |
+
+| PROPOSAL 3: Advisory Vote on Named Executive Officer Compensation | 50 |
+
+| PROPOSAL 4: Advisory Vote on Frequency of Future Votes on Named Executive Officer Compensation | 51 |
+
+| Pay Versus Performance | 52 |
+
+| Other Matters | 57 |
+
+| Materials Not Incorporated by Reference | 57 |
+
+| Annual Report on Form 10-K | 57 |
+
+| Appendix A | A-1 |
+
+| Reconciliation of Non-GAAP Financial Measures | A-1 |
+
+| Adjusted EBITDA and Adjusted EBITDA Margin | A-2 |
+
+| Adjusted Net Income and Adjusted Basic and Diluted Earnings per Share | A-3 |
+
+| Free Cash Flow | A-3 |
+
+| |
+
+| |
+
+| |
+
+| |
+
+TABLE OF CONTENTS
+GENERAL INFORMATION ABOUT OUR ANNUAL MEETING 
+
+| 1. | Why am I receiving these materials? |
+
+The Board of Directors (the “Board”) of Chewy, Inc., a Delaware corporation (the “Company” or “Chewy”), is providing these proxy materials to you in connection with our 2026 Annual Meeting of Stockholders (the “Annual Meeting”), which will take place via live audio webcast on Thursday, July 9, 2026, at 10:00 a.m., Eastern Time. As a stockholder, you are invited to attend the Annual Meeting and requested to vote on the items of business described in this proxy statement. However, you do not need to attend the Annual Meeting to vote your shares. Instead, you may follow the instructions below to submit your proxy over the Internet, by telephone or by mail. 
+
+| 2. | How do I attend and participate in the Annual Meeting? |
+
+Our Annual Meeting will be conducted via live audio webcast, a format designed to improve stockholder access, reduce the environmental impact of a physical meeting and save Chewy and our stockholders time and money. This meeting format also provides stockholders the opportunity to hear all portions of the official Annual Meeting and vote online during the open poll section of the Annual Meeting. You may attend the Annual Meeting by visiting https://www.virtualshareholdermeeting.com/CHWY2026. You will need the 16-digit control number that is printed on your Notice Regarding the Availability of Proxy Materials (the “Notice”). Please allow ample time for online check-in, which will begin at 9:45 a.m., Eastern Time, on Thursday, July 9, 2026. If a bank, brokerage firm or other nominee holds your shares, you should contact that organization for additional information. 
+You may submit a question in advance of the Annual Meeting at www.proxyvote.com after logging in with your 16-digit control number. Questions may be submitted during the Annual Meeting through https://www.virtualshareholdermeeting.com/CHWY2026. 
+
+| 3. | Who may vote at the Annual Meeting? |
+
+Stockholders who own shares of our common stock as of the close of business on May 13, 2026 (the “Record Date”), or their valid proxy holders, are entitled to vote at the Annual Meeting. As of the Record Date, we had 232,505,429 shares of Class A common stock outstanding and 176,478,229 shares of Class B common stock outstanding. Holders of Class A common stock are entitled to one vote per share on any matter that is submitted to a vote of stockholders. Holders of Class B common stock are entitled to ten votes per share on any matter that is submitted to a vote of stockholders. Holders of Class A and holders of Class B common stock vote together as a single class on any matter (including the election of directors) that is submitted to a vote of our stockholders, unless otherwise required by law or our amended and restated certificate of incorporation. Stockholders are not permitted to cumulate votes with respect to the election of directors. 
+We will make available a list of stockholders of record as of the Record Date for inspection by any stockholder for any purpose germane to the Annual Meeting for a period of 10 days ending on the day before the Annual Meeting, during ordinary business hours at our principal executive office. If you wish to inspect the list, please submit your request and proof of ownership by email to ir@chewy.com. 
+
+| 4. | How can I access the proxy materials over the Internet? |
+
+An electronic copy of the proxy materials is available at www.proxyvote.com. You can also access the materials at https://investor.chewy.com. 
+
+| |
+
+| 1 |
+
+| |
+
+TABLE OF CONTENTS
+
+| 5. | How can I request a paper or email copy of the proxy materials? |
+
+If you want to receive a paper or email copy of the proxy materials, you must request one. There is no charge for requesting a copy. However, please submit your request on or before June 25, 2026 to facilitate timely delivery. You may request a copy by choosing one of the following methods: 
+
+| • | By Internet: www.proxyvote.com |
+
+| • | By telephone: 1-800-579-1639 |
+
+| • | By email: sendmaterial@proxyvote.com (follow instructions on the Notice) |
+
+| 6. | What matters are being voted on at the Annual Meeting? |
+
+Stockholders will vote on four proposals at the Annual Meeting: 
+
+| • | Proposal 1: To elect to the Company’s Board of Directors five director nominees for three-year terms; |
+
+| • | Proposal 2: To ratify the appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for the fiscal year ending January 31, 2027; |
+
+| • | Proposal 3: To approve, on a non-binding, advisory basis, the compensation of the Company’s named executive officers; and |
+
+| • | Proposal 4: Advisory vote on the frequency of future votes on named executive officer compensation. |
+
+Additionally, stockholders are entitled to vote on such other business as may properly be presented at the Annual Meeting or any adjournment or postponement thereof. 
+We are not aware of any matters to be voted on by stockholders at the Annual Meeting other than those included in the proxy materials. If any matter is properly presented at the meeting, your executed proxy gives your proxy holder discretionary authority to vote your shares in accordance with their best judgment with respect to the matter. 
+
+| 7. | How does our Board recommend that stockholders vote on the proposals? |
+
+Our Board recommends that you vote your shares: 
+
+| • | “ FOR ” the election of all of the Board’s director nominees for three-year terms, as described in Proposal 1; |
+
+| • | “ FOR ” the ratification of the appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for the fiscal year ending January 31, 2027, as described in Proposal 2; |
+
+| • | “ FOR ” approval, on a non-binding, advisory basis, of the compensation of the Company’s named executive officers, as described in Proposal 3; and |
+
+| • | “ FOR ” on a non-binding, advisory basis, an annual (“1-year”) frequency for future advisory votes on named executive officer compensation, as described in Proposal 4. |
+
+| |
+
+| 2 |
+
+| |
+
+TABLE OF CONTENTS
+
+| 8. | What vote is required to approve each of the proposals? |
+
+Proposal 1: Each director is elected by a plurality of the votes of the shares present virtually or represented by proxy at the Annual Meeting and entitled to vote thereon. “Plurality” means that the five nominees who receive the largest number of votes cast “For” such nominees are elected as directors. You may vote “For” or “Withhold” authority to vote for each of the nominees. Any shares voted “Withhold” and broker non-votes are not considered votes cast for the foregoing purpose and will have no effect on the outcome of the election. 
+Proposal 2: The ratification of the appointment of Deloitte & Touche LLP as our independent registered public accounting firm for our fiscal year ending January 31, 2027 requires the affirmative vote of a majority of the voting power of our common stock present virtually or represented by proxy at the Annual Meeting and entitled to vote thereon. This means that, of the shares represented at the Annual Meeting and entitled to vote, a majority of them must vote “For” the proposal for it to be approved. You may vote “For,” “Against,” or “Abstain” with respect to this proposal. Abstentions are considered shares present and entitled to vote on this proposal and will have the same effect as a vote “Against” this proposal. If you are a beneficial owner and your shares are held by a broker, your broker has discretionary voting authority under New York Stock Exchange (“NYSE”) rules to vote your shares on this proposal even if the broker does not receive voting instructions from you. Therefore, no broker non-votes are expected in connection with this proposal. 
+Proposal 3: The approval, on an advisory basis, of the compensation of our named executive officers requires the affirmative vote of a majority of the voting power of our common stock present virtually or represented by proxy at the Annual Meeting and entitled to vote thereon. This means that, of the shares represented at the Annual Meeting and entitled to vote, a majority of them must vote “For” the proposal for it to be approved. You may vote “For,” “Against,” or “Abstain” with respect to this proposal. Abstentions are considered shares present and entitled to vote on this proposal and will have the same effect as a vote “Against” this proposal. Broker non-votes will have no effect on the outcome of this proposal. 
+Proposal 4: The frequency that receives the vote of a majority of the voting power of our common stock present virtually or represented by proxy at the Annual Meeting and entitled to vote thereon will be considered the frequency preferred by stockholders. In the event that no option receives the vote of a majority of the voting power present and entitled to vote, the frequency receiving the highest number of votes cast “For” such frequency will be considered the frequency preferred by the stockholders. In either case, since this proposal is an advisory vote, the result will not be binding on our Board, the Compensation Committee, or the Company. You are not voting to approve or disapprove the Board’s recommendation on this proposal. You may vote for “1-year,” “2-years,” “3-years,” or “Abstain.” If you vote to “Abstain,” your shares will not be voted for any frequency. An abstention, therefore, will have the same effect as a vote “Against” in determining whether any of the frequencies received the vote of a majority of the voting power present and will also reduce the likelihood that one of the alternatives will receive a majority vote. In the event no alternative receives a majority vote, an abstention will have no effect on the outcome of this proposal as the alternative receiving the most votes “FOR” will be deemed to be the alternative approved by the shareholders. Broker non-votes will have no effect on the outcome of this proposal. 
+
+| 9. | As a controlled company, how does the voting power of our principal stockholders affect approval of the proposals being voted on at the Annual Meeting? |
+
+Affiliates of funds advised by BC Partners Advisers LP (together with its affiliates, “BC Partners”) currently beneficially own common stock with a majority of the voting power of all of our outstanding common stock and have the power to approve any action requiring a majority vote of the combined voting power of our outstanding Class A common stock and Class B common stock. As of the Record Date, BC Partners beneficially owned, in aggregate, approximately 43.2% of the outstanding shares of our common stock, representing approximately 88.4% of the total voting power of all outstanding series of common stock. 
+
+| |
+
+| 3 |
+
+| |
+
+TABLE OF CONTENTS
+
+| 10. | How do I vote? |
+
+If you are a “stockholder of record” on the Record Date, then you may attend the Annual Meeting and submit your vote or vote by proxy over the telephone, through the Internet or by using a proxy card that you may request. To vote your shares at the Annual Meeting, please see Question 12. To vote your shares without attending the meeting, please see Question 13 or the instructions on your Notice. 
+If you are a “beneficial owner” on the Record Date, you have the right to instruct your bank, brokerage firm or other nominee on how to vote the shares in your account. In order for your shares to be voted in the way you would like, you must provide voting instructions to your bank, brokerage firm or other nominee by the deadline provided in the proxy materials you receive from such organization. 
+Your vote is very important. Whether or not you plan to attend the Annual Meeting, you are encouraged to submit a proxy or voting instructions before the Annual Meeting to ensure your vote is represented. 
+
+| 11. | What is the difference between a “stockholder of record” and a “beneficial owner”? |
+
+Whether you are a “stockholder of record” or a “beneficial owner” with respect to your shares of our common stock depends on how you hold your shares: 
+
+| • | Stockholder of record: If your shares are registered directly in your name with our transfer agent, Equiniti Trust Company, LLC, you are considered, with respect to those shares, the stockholder of record and the Notice was sent to you directly. As the stockholder of record, you have the right to grant your proxy directly to Chewy or to vote during the Annual Meeting. |
+
+| • | Beneficial owner: If your shares are held by your bank, brokerage firm or other nominee, you are considered the beneficial owner of shares held in street name, and the Notice was forwarded to you by that organization. As the beneficial owner, you have the right to direct your bank, brokerage firm or other nominee regarding how to vote your shares. Since a beneficial owner is not the stockholder of record, you may not vote your shares at the Annual Meeting unless you obtain a legal proxy from your bank, brokerage firm or other nominee that holds your shares, giving you the right to vote the shares at the Annual Meeting. |
+
+| 12. | How do I vote my shares during the Annual Meeting? |
+
+If you hold shares of our common stock as the stockholder of record, you have the right to vote those shares at the Annual Meeting. If you are a beneficial owner and hold shares of our common stock in street name, you may vote the shares you beneficially own under a legal proxy from your bank, brokerage firm or other nominee. Please contact such organization for instructions on obtaining a proxy. Please follow the instructions at https://www.virtualshareholdermeeting.com/CHWY2026 in order to vote your shares during the Annual Meeting, whether you are a stockholder of record or a beneficial owner. You will need the 16-digit control number that is printed on your Notice to attend the Annual Meeting. Please allow ample time for online check-in, which will begin at 9:45 a.m., Eastern Time, on Thursday, July 9, 2026. 
+
+| 13. | How do I vote my shares without attending the Annual Meeting? |
+
+| • | Vote by Internet by going to www.proxyvote.com at any time until 11:59 p.m., Eastern Time, on July 8, 2026. Please have your Notice or proxy card in hand when you access the website and then follow the instructions. |
+
+| • | Vote by telephone at 1-800-690-6903 at any time until 11:59 p.m., Eastern Time, on July 8, 2026. Please have your Notice or proxy card in hand when you call and then follow the instructions. |
+
+| • | Vote by mail if you requested and received a proxy card. Please mark, sign and date your proxy card and return it in the postage-paid envelope we provided with it or return it to Vote Processing, c/o Broadridge, 51 Mercedes Way, Edgewood, NY 11717. Proxy cards returned by mail must be received no later than the close of business on July 8, 2026. |
+
+| |
+
+| 4 |
+
+| |
+
+TABLE OF CONTENTS
+
+| 14. | What is the effect of giving a proxy? |
+
+Our Board is soliciting proxies for use at the Annual Meeting and any adjournment or postponement thereof. Chris Deppe and Da-Wai Hu have been designated as proxy holders by our Board. When proxies are properly dated, executed and returned, the shares represented by such proxies will be voted at the Annual Meeting in accordance with the instructions of the stockholder. If the proxy is dated and signed, but no specific instructions are given, the shares will be voted in accordance with the recommendations of our Board, as described in Question 7. If any matter not described in this proxy is properly presented at the Annual Meeting, the proxy holders will use their own judgment to determine how to vote the shares. If the Annual Meeting is adjourned or postponed, proxy holders can vote the shares on the new Annual Meeting date as well, unless their proxy instructions have been properly revoked. 
+
+| 15. | If I fail to provide specific voting instructions on my proxy, how will my shares be voted? |
+
+The effect of submitting a proxy or voting instruction form without providing specific voting instructions depends on how you hold your shares. 
+
+| • | If you are a stockholder of record, your shares will be voted in accordance with the recommendations of our Board described in Question 7. |
+
+| • | If you are a beneficial owner and you do not provide instructions to your bank, brokerage firm or other nominee holding your shares, the organization that holds such shares on your behalf will be entitled to vote those shares on matters that are “routine” in nature. Proposal 2 (ratification of independent registered public accounting firm) is the only proposal to be acted on at the Annual Meeting that would be considered “routine.” A bank, brokerage firm or other nominee is not entitled to vote shares it holds for a beneficial owner on any proposals that are “non-routine” and the absence of a vote on those matters will be considered “broker non-votes.” Proposal 1 (election of directors), Proposal 3 (advisory vote on named executive officer compensation) and Proposal 4 (advisory vote on the frequency of future votes on named executive officer compensation) are each considered “non-routine” and may not be voted on at the Annual Meeting by a bank, brokerage firm or other nominee that holds your shares in the absence of your instructions. |
+
+| 16. | May I revoke my proxy or voting instructions before my shares are voted at the Annual Meeting? |
+
+Stockholders generally have the right to revoke their proxy or voting instructions before their shares are voted at the Annual Meeting, subject to the voting deadlines described in Question 13. 
+
+| • | Stockholders of record: If you are a stockholder of record, you may revoke a proxy by: |
+
+| ○ | completing and returning a later-dated proxy card; |
+
+| ○ | completing and delivering a new proxy by Internet or telephone; |
+
+| ○ | delivering a signed revocation letter to our General Counsel & Secretary at our principal executive office, bearing a date later than the proxy and stating the proxy is revoked; or |
+
+| ○ | voting your shares online at the Annual Meeting. |
+
+| • | Beneficial owners: If you are a beneficial owner of shares held in street name, you must follow the instructions for changing or revoking your proxy provided by your broker, bank or other nominee. |
+
+| |
+
+| 5 |
+
+| |
+
+TABLE OF CONTENTS
+
+| 17. | Are a certain number of shares required to be present at the Annual Meeting? |
+
+To conduct any business at the Annual Meeting, a quorum must be present virtually or represented by valid proxies. The holders of record of issued and outstanding shares of our common stock representing a majority of the voting power of all issued and outstanding shares of common stock entitled to vote at the Annual Meeting, present virtually or represented by proxy, will constitute a quorum for the transaction of business at the Annual Meeting. Abstentions, withheld votes and broker non-votes are counted as shares present virtually and entitled to vote for purposes of determining a quorum. See Questions 8 and 15 for explanations of broker non-votes, abstentions and votes withheld and their effect. 
+
+| 18. | Why did some people receive a Notice instead of a full set of printed proxy materials? |
+
+We are furnishing proxy materials to our stockholders primarily via the Internet, instead of mailing printed copies of materials to each stockholder. The Notice provides instructions on how to view proxy materials online. If you received a Notice by mail, you will not receive a paper or e-mail copy of proxy materials unless you request one. To request a printed or e-mail copy of proxy materials (free of charge), you should follow the instructions included in the Notice. 
+Some stockholders, including stockholders who previously requested to receive paper copies of proxy materials, will receive paper copies of such materials instead of a Notice. In addition, stockholders who previously elected delivery of such materials electronically will receive a Notice by e-mail. Those stockholders should have received an e-mail containing a link to the website where the proxy materials are available and a link to the proxy voting website. 
+
+| 19. | What does it mean if I receive more than one Notice? |
+
+If you receive more than one Notice, your shares may be registered in more than one name or in different accounts. Please follow the instructions in each Notice to ensure all your shares are voted. 
+
+| 20. | I share an address with another stockholder. What do I do if we received only one paper copy of the proxy materials and want additional copies or we received multiple copies and want only one? |
+
+Pursuant to Securities and Exchange Commission (“SEC”) rules regarding “householding,” we intend to deliver a single copy of the Notice, our annual report and proxy materials to multiple stockholders who share the same address, unless we received contrary instructions from one or more of such stockholders. This procedure eliminates unnecessary mailings, reduces our printing and mailing costs and other fees, and also helps protect the environment. Stockholders will continue to access and receive separate proxy cards. Upon written or oral request, we will promptly deliver a separate copy of the Notice, our annual report and proxy materials to any stockholder of record at a shared address to whom we delivered a single copy of any of these materials. To receive a separate copy, such stockholder of record may contact Investor Relations via email at ir@chewy.com, by calling (844) 980-2073 or by writing to Investor Relations at Chewy, Inc., 7700 West Sunrise Boulevard, Plantation, FL 33322. Beneficial holders may contact their bank, brokerage firm or other nominee to request information about householding. 
+Conversely, if stockholders of record living at the same address received multiple copies of our Notice, annual report and proxy materials, you may request delivery of a single copy by contacting Investor Relations as set forth above. Beneficial holders may contact their bank, brokerage firm or other nominee to request a single copy of the Notice, annual report and proxy materials. 
+
+| 21. | Who bears the cost of this proxy solicitation? |
+
+All expenses associated with this solicitation will be borne by us. We will reimburse banks, brokerage firms or other nominees for reasonable expenses that they incur in sending our proxy materials to you if such organization holds shares of our common stock on your behalf. In addition, our directors and employees may also solicit proxies in person, by telephone or by other means of communication without receiving any additional compensation. 
+
+| |
+
+| 6 |
+
+| |
+
+TABLE OF CONTENTS
+
+| 22. | Who will count the votes? |
+
+Broadridge Financial Solutions, Inc., or a representative or agent of Broadridge Financial Solutions, Inc., will tabulate and certify the votes as the inspector of election for the Annual Meeting. 
+
+| 23. | Where can I find the voting results of the Annual Meeting? |
+
+We will announce preliminary voting results at the Annual Meeting. We will also report the voting results by filing a Current Report on Form 8-K with the SEC within four business days of the Annual Meeting. If the final voting results are not known when we file our report, we will amend the initial report to disclose the final voting results within four business days after those results become known. 
+
+| 24. | When are stockholder proposals for inclusion in our proxy materials for the 2027 annual meeting of stockholders due? |
+
+Stockholders wishing to present a proposal for inclusion in our proxy materials for such annual meeting pursuant to Rule 14a-8 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), must timely submit their proposals so that they are received by our General Counsel & Secretary at our principal executive office no later than January 22, 2027. The submission of a stockholder proposal does not guarantee that it will be included in our proxy statement and any such proposal must comply with the requirements of Rule 14a-8 to be considered for inclusion in our proxy materials for the 2027 annual meeting of stockholders (the “2027 Annual Meeting”). 
+
+| 25. | When are other proposals and director nominations for the 2027 Annual Meeting due? |
+
+Stockholders wishing to nominate a candidate for election to our Board or propose other business at the 2027 Annual Meeting (other than pursuant to Rule 14a-8 of the Exchange Act) must deliver a written notice to our General Counsel & Secretary at our principal executive office no earlier than the close of business on March 11, 2027, nor later than the close of business on April 9, 2027. If the 2027 Annual Meeting is scheduled to be held on a date that is more than 30 days before or more than 70 days after the first anniversary of the Annual Meeting (July 9, 2027), then the notice must be submitted not earlier than the close of business on the 120th day prior to the 2027 Annual Meeting and not later than the close of business on the later of the 90th day prior to the 2027 Annual Meeting or the 10th day following the day on which public announcement of the 2026 Annual Meeting is first made. If the notice is not received during the applicable timeframe, the notice will be deemed untimely. Notwithstanding the foregoing, if the number of directors to be elected to our Board at an annual meeting is increased, effective after the time period for which nominations would otherwise be due, and there is no public announcement naming all of the nominees for the additional directorships or specifying the size of the increased Board at least 10 days prior to the applicable deadline described above, then a stockholder’s notice shall also be considered timely (but only with respect to nominees for any new positions created by such increase) if it is received by our General Counsel & Secretary at the Company’s principal executive office in writing not later than the close of business on the 10th day following the day on which such public announcement is first made. 
+Any such notice of stockholder proposals or director nominations must comply with the timing, disclosure, procedural and other requirements as set forth in our amended and restated bylaws (as amended from time to time, the “Bylaws”) and must include all the information required by our Bylaws (including, for a notice of director nominations, the information required by Rule 14a-19(b) under the Exchange Act). A copy of our Bylaws is available in the Governance section of our website at https://investor.chewy.com. 
+
+| 26. | What is the address of Chewy’s principal executive office? |
+
+The mailing address of Chewy’s principal executive office is 7700 West Sunrise Boulevard, Plantation, FL 33322. 
+
+| |
+
+| 7 |
+
+| |
+
+TABLE OF CONTENTS
+BOARD OF DIRECTORS AND CORPORATE GOVERNANCE 
+Board of Directors 
+Our Board’s responsibility is to oversee, on behalf of our stockholders, the conduct of our Company’s business, provide advice and counsel to our Chief Executive Officer and senior management, protect our Company’s best interests and foster the creation of long-term value for our stockholders. Our Board currently consists of fourteen directors, divided into three classes with staggered three-year terms. Each class consists as nearly as possible of one-third of the total number of directors. Class I and Class II each consist of five directors and Class III consists of four directors. Until such time as the Class B common stock represents less than 50% of the combined voting power of Class A and Class B common stock, any newly-created directorship on our Board that results from an increase in the number of directors and any vacancy occurring on our Board shall be filled by (i) a majority of the directors then in office, even if less than a quorum, (ii) a sole remaining director, or (iii) the stockholders. A director elected by our Board to fill a vacancy in a class, including vacancies created by an increase in the number of directors, shall serve for the remainder of the full term of that class or until the director’s successor is duly elected and qualified, or until their earlier death, resignation, retirement, disqualification or removal. 
+Our Board believes that the Board should possess a combination of skills, experiences and backgrounds that are relevant to the key strategic and operational issues that the Board will oversee. Our Board is composed of a group of individuals with complementary skills, backgrounds, experiences and perspectives to serve and guide our Company. Our directors are evaluated and selected based on, among other things, their integrity and character, independent judgment, track record of accomplishment in leadership roles, as well as their professional and corporate expertise, skills and experience. Our Board is composed of directors that have collective backgrounds in finance and accounting, business operations, e-commerce, strategy, growth and transformation, corporate governance and compliance, technology and cybersecurity, retail and customer service, customer engagement and marketing, risk management, human capital management, healthcare and other relevant areas to oversee our key strategic and operational issues. Many of our directors have experience serving on boards and board committees of other public companies and have an understanding of corporate governance practices and trends and different business processes, challenges and strategies. 
+The following chart reflects our directors’ current service on board and board committees of other public companies as of May 18, 2026. 
+
+| |
+
+| Director Name | Public Company | Public Company |
+
+| Deborah Ellinger | Synchrony Financial |
+
+| Martin H. Nesbitt | American Airlines, Inc. (1)(3) | Phoenix Education Partners, Inc. |
+
+| Sumit Singh | Booking Holdings, Inc. (2) |
+
+| James Nelson | Roman DBDR Acquisition Corp. II (1) |
+
+| Raymond Svider | Altice USA, Inc. (1)(2) |
+
+| |
+
+| (1) | Audit Committee Member |
+
+| (2) | Compensation Committee Member |
+
+| (3) | Corporate Governance & Public Responsibility Committee Member |
+
+Of our total number of fourteen directors, we have five directors who self-identified as an ethnic minority and three directors who self-identified as female. 
+
+| |
+
+| 8 |
+
+| |
+
+TABLE OF CONTENTS
+The following table sets forth select director information as of May 18, 2026: 
+
+| |
+
+| Name | Age | Class | Director Since | Current Term Expires | Position | Committee Membership |
+
+| AC | CC | NCGC |
+
+| Marco Castelli (1) | 44 | I | 2022 | 2026 | Director |
+
+| James Nelson (2) | 76 | I | 2021 | 2026 | Director | ☆ |
+
+| Martin H. Nesbitt (3) | 63 | I | 2020 | 2026 | Director |
+
+| Raymond Svider (4) | 63 | I | 2019 | 2026 | Chairperson | ☆ | ☆ |
+
+| Nat Goldhaber (5) | 78 | I | 2025 | 2026 | Director |
+
+| Fahim Ahmed (6) | 47 | II | 2019 | 2027 | Director | ✓ | ✓ |
+
+| Michael Chang (7) | 49 | II | 2019 | 2027 | Director | ✓ |
+
+| Kristine Dickson (8) | 48 | II | 2021 | 2027 | Director | ✓ |
+
+| Deborah Ellinger (9) | 67 | II | 2025 | 2027 | Director |
+
+| James A. Star (10) | 65 | II | 2019 | 2027 | Director | ✓ |
+
+| Mathieu Bigand (11) | 35 | III | 2022 | 2028 | Director |
+
+| David Leland (12) | 51 | III | 2019 | 2028 | Director |
+
+| Lisa Sibenac (13) | 45 | III | 2019 | 2028 | Director |
+
+| Sumit Singh (14) | 46 | III | 2019 | 2028 | Director and CEO |
+
+| Number of fiscal year 2025 meetings | 5 | 3 | 2 |
+
+| |
+
+| AC: Audit Committee | ☆ Committee Chairperson |
+
+| CC: Compensation Committee | ✓ Committee Member |
+
+NCGC: Nominating and Corporate Governance Committee 
+
+| (1) | Elected to our Board effective May 23, 2022. |
+
+| (2) | Elected to our Board effective July 19, 2021, and appointed as Chairperson of our Audit Committee effective September 8, 2021. |
+
+| (3) | Elected to our Board effective September 21, 2020. |
+
+| (4) | Elected as Chairperson of our Board effective April 29, 2019, and appointed as Chairperson of both our Compensation and Nominating and Corporate Governance Committees effective June 13, 2019. |
+
+| (5) | Elected to our Board effective April 24, 2025. |
+
+| (6) | Elected to our Board effective April 29, 2019, and appointed as member of both our Compensation and Nominating and Corporate Governance Committees effective June 13, 2019. |
+
+| (7) | Elected to our Board effective April 29, 2019, and appointed as member of our Nominating and Corporate Governance Committee effective June 13, 2019. |
+
+| (8) | Elected to our Board and as a member of our Audit Committee effective July 14, 2021. |
+
+| (9) | Elected to our Board effective February 21, 2025. |
+
+| (10) | Elected to our Board effective June 13, 2019, and appointed as a member of our Audit Committee effective May 29, 2020. |
+
+| (11) | Elected to our Board effective September 14, 2022. |
+
+| (12) | Elected to our Board effective September 10, 2019. |
+
+| (13) | Elected to our Board effective April 29, 2019. |
+
+| (14) | Elected to our Board effective April 29, 2019. |
+
+Director Biographies 
+Set forth below is information, as of May 15, 2026, regarding our directors and director nominees. We have provided the most relevant experiences, qualifications, attributes and skills that support the conclusion that each director or director nominee should serve as a director in light of our business and operations. 
+
+| |
+
+| 9 |
+
+| |
+
+TABLE OF CONTENTS
+Nominees for Election to a Three-Year Term Expiring at the 2026 Annual Meeting 
+Marco Castelli
+. Mr. Castelli currently serves as a Partner at BC Partners. Before joining BC Partners in 2006, he worked as a management consultant at Bain & Company, a management consulting firm, from 2005 to 2006. Mr. Castelli currently serves on the board of directors of MBE Worldwide, a shipping and fulfillment services provider and Pug Holdco, a pet products brand. He previously served on the boards of directors of IMA, an automation machinery manufacturer; Forno d’Asolo, a frozen bakery products manufacturer; DentalPro, a dental care services company; and Cigierre, a restaurant developer. Mr. Castelli holds a Master of Business Administration degree from the University of Chicago Booth School of Business and a degree in Business Administration from Bocconi University in Italy. Mr. Castelli’s individual qualifications and background include extensive finance, investments and venture capital experience. 
+James Nelson
+. Mr. Nelson currently serves as Chief Financial Officer of Roman DBDR Acquisition Corp. III, a special purpose acquisition company, a position he has held since March 2026. Since 2024, he has served on the board of directors of Roman DBDR Acquisition Corp. II, also a special purpose acquisition company, where he serves as Chairman of the audit committee. Previously, Mr. Nelson served as Senior Advisor at MGM Resorts International, a global entertainment and hospitality company, from March 2024 to August 2025. Mr. Nelson has served on the boards of directors of several publicly traded companies in the past, including Xerox Holdings Corporation, a technology products and services company, from 2021 to 2023, where he also served as Chairman from 2022 to 2023; Global Net Lease, Inc., a real estate investment trust, from 2017 to 2024, where he also served as Chief Executive Officer during the same period and was a member of the audit committee from March 2017 to July 2017; Roman DBDR Tech Acquisition Corp., a special purpose acquisition company, from 2020 to 2021; Herbalife Nutrition Ltd., a nutritional products retailer, from 2014 to 2021, where he served as Lead Director from 2019 to 2021; Caesars Entertainment, Inc., a hotel and casino entertainment company, from 2019 to 2020; Icahn Enterprises G.P. Inc., the general partner of Icahn Enterprises L.P., a diversified holding company, from 2001 to 2019; and New York REIT, Inc., a real estate investment trust, from 2015 to 2017. From 1986 to 2009, Mr. Nelson served as Chairman and Chief Executive Officer of Eaglescliff Corporation, a specialty investment banking, consulting and wealth management company. From 1998 to 2003, he served as Chairman and Chief Executive Officer of Orbit Aviation, Inc., a company engaged in acquiring Boeing business jets for private and corporate clients. From 1995 to 1999, he served as Chief Executive Officer and Co-Chairman of Orbitex Management, Inc., a financial services company. Mr. Nelson’s individual qualifications and background include public company board experience and extensive accounting, compliance, environmental, finance, risk management, technology and operational and strategic experience as chief executive officer of various companies. 
+Martin H. Nesbitt
+. Mr. Nesbitt currently serves as Co-Chief Executive Officer of The Vistria Group, LP, a private investment firm focused on the education, healthcare and financial services industries, a position he has held since 2013. From 1996 to 2012, Mr. Nesbitt served as Co-Founder and Chief Executive Officer of TPS Parking Management, LLC (“TPS Parking”), an owner and operator of off-airport parking facilities. Prior to TPS Parking, Mr. Nesbitt served as an officer at Pritzker Realty Group, L.P., a commercial real estate firm and as an Investment Manager at LaSalle Partners, a real estate services company. Mr. Nesbitt has served on the board of directors of American Airlines Group Inc., a network air carrier, since 2015, where he is a member of the audit committee and the corporate governance and public responsibility committee. He also serves on the board of directors of Phoenix Education Partners, Inc., a postsecondary education holding company, since 2025. Mr. Nesbitt previously served on the boards of directors of CenterPoint Energy, Inc., an electric and natural gas utility, from 2018 to 2024; Jones Lang LaSalle Incorporated, a commercial real estate services company, from 2011 to 2021; and Norfolk Southern Corp., a transportation company, from 2013 to 2018. Mr. Nesbitt serves as Chairman of the Barack Obama Foundation and is a Trustee of the Museum of Contemporary Art Chicago. He previously served as Chairman of the Chicago Housing Authority, as a board member of the Chicago 2016 Olympic Committee and as Treasurer for President Barack Obama’s 2008 and 2012 presidential campaigns. Mr. Nesbitt holds a Master of Business Administration degree from the University of Chicago Booth School of Business and a Bachelor of Science degree and honorary doctorate from Albion College. 
+
+| |
+
+| 10 |
+
+| |
+
+TABLE OF CONTENTS
+Mr. Nesbitt’s individual qualifications and background include public company board experience and extensive accounting, compliance, environmental, finance, risk management and operational and strategic experience as chief executive officer and founder of various companies. 
+Raymond Svider
+. Mr. Svider currently serves as Partner and Chairman of BC Partners, where he is also Chairman of the Management Committee. Since joining BC Partners in 1992, Mr. Svider has led investments across multiple sectors, including consumer and retail, technology, media and telecommunications, healthcare, industrials and business services. Mr. Svider has served as Non-Executive Chairman of PetSmart LLC, a pet products and services retailer (“PetSmart”), since 2015 and as Chairman of Madison Logic, Inc., a digital marketing company, since 2022. Mr. Svider also serves on the board of directors of Altice USA, Inc., a telecommunications and media company, since 2017, where he chairs the compensation committee and is a member of the audit committee; Valtech SE, a global digital agency, since 2021; and EAB Global, Inc., an educational technology company, since 2017. Mr. Svider previously served on the boards of directors of NAVEX Global, Presidio Inc., Appgate, Inc., Cyxtera Technologies, Keter Group Holding Sarl, Intelsat S.A., Accudyne Industries LLC, Office Depot, Inc., Multiplan, Inc., Unity Media Group, Neuf Cegetel, GardaWorld Corporation, GFL Environmental Inc. and Nutreco. Mr. Svider holds a Master of Business Administration degree from the University of Chicago Booth School of Business and Master of Science degrees in engineering from École Polytechnique and École Nationale Supérieure des Télécommunications in France. Mr. Svider’s individual qualifications and background include business acumen and leadership experience and make him particularly well-suited for the roles of Chairperson of our Board and Chairperson of our Compensation and Nominating and Corporate Governance Committees. 
+Nat Goldhaber
+. Dr. Goldhaber currently serves as Managing Director of Claremont Creek Ventures, a venture capital firm that he co-founded in 2005 specializing in clean energy and healthcare investments. In 1995, Dr. Goldhaber founded CyberGold, Inc., an Internet marketing and payment company that went public in 1999 and merged with MyPoints.com in 2000. From 1991 to 1993, Dr. Goldhaber served as President of Kaleida Labs, a joint multimedia technology venture of IBM and Apple. From 1988 to 1991, Dr. Goldhaber served as President of Cole Gilburne Goldhaber & Ariyoshi Management, a venture capital firm specializing in high-technology investments. From 1987 to 1989, Dr. Goldhaber served as Vice President at Sun Microsystems following the acquisition of TOPS. In 1984, Dr. Goldhaber founded TOPS, a pioneer in PC networking software that was acquired by Sun Microsystems in 1987. From 1979 to 1982, Dr. Goldhaber held public office roles in Pennsylvania, serving as Special Assistant to the Lieutenant Governor and Interim Director of the State Energy Agency. From 2018 to 2022, Dr. Goldhaber served on the Board on Energy and Environmental Systems of the National Academies of Sciences, Engineering and Medicine. Dr. Goldhaber is an emeritus member of the board of the Federation of American Scientists, where he served from 2005 to 2012. Dr. Goldhaber holds an honorary Doctor of Education degree from Maharishi University of Management, a Master of Arts degree in Education from the University of California, Berkeley and a Bachelor of Arts degree in Interdisciplinary Studies from Maharishi International University. Mr. Goldhaber’s individual qualifications and background include business acumen and extensive investments and venture capital experience. 
+Directors Continuing in Office Until the 2027 Annual Meeting 
+Fahim Ahmed
+. Mr. Ahmed currently serves as a Partner at BC Partners, where he also serves as Chief Operating Officer and is a member of the Management and Private Equity Investment Committees. Before joining BC Partners in 2006, Mr. Ahmed worked as a consultant at Boston Consulting Group, a global management consulting firm, from 2004 to 2006 and from 2000 to 2002. Mr. Ahmed serves on the board of directors of Presidio Inc., an IT solutions provider and PetSmart. Mr. Ahmed previously served as a director of Appgate, Inc., a cybersecurity company, from 2021 to 2024; Cyxtera Technologies, Inc., a data center provider, from 2021 to 2024; and Suddenlink Communications, a telecommunications company, from 2012 to 2016. Mr. Ahmed holds a Bachelor of Arts degree from 
+
+| |
+
+| 11 |
+
+| |
+
+TABLE OF CONTENTS
+Harvard University and a Master of Philosophy degree in Economics from Oxford University, where he was a Rhodes Scholar. Mr. Ahmed’s individual qualifications and background include extensive accounting, compensation and finance experience and in-depth knowledge of the retail, telecommunications and technology industries. 
+Michael Chang
+. Mr. Chang currently serves as a Partner at BC Partners LLP. Before joining BC Partners in 2009, he served as Principal at JLL Partners, LLC, a private equity firm, from 1999 to 2009. Mr. Chang currently serves on the boards of directors of Zest Dental Solutions, a dental products manufacturer; Women’s Care Enterprises, LLC, a healthcare services company; CeramTec GmbH, a manufacturer and supplier of technical ceramics; PetLab, a pet supplements company; and PetSmart. Mr. Chang holds a Master of Business Administration degree from Harvard Business School and a Bachelor of Arts degree in Economics from the Wharton School of the University of Pennsylvania. Mr. Chang’s individual qualifications and background include extensive finance experience and in-depth knowledge of the healthcare and retail industries. 
+Kristine Dickson
+. Ms. Dickson most recently served as Chief Financial Officer of Flexible Finance, Inc., a financial technology company, and continues to serve as an advisor to the company. She previously served as Chief Financial Officer and Chief Lending Officer of Lead Bank, a commercial bank, from 2022 to 2025, and as Chief Financial Officer of post-reorganization Lehman Brothers Holdings Inc., a financial services company, from 2016 to 2022. She previously served as Chief Administrative Officer of Lehman Brothers Holdings Inc. from 2012 to 2015. From 2008 to 2012, Ms. Dickson served as Northeast Regional Financial Officer at Willis Towers Watson, a professional consulting and services company, where she also served as Director of Financial Planning and Analysis from 2006 to 2008 and Vice President, Mergers and Acquisitions from 2001 to 2006. Ms. Dickson also worked in the Mergers and Acquisitions and Telecom Investment Banking groups at Citigroup Inc., a financial services company. Ms. Dickson holds a Bachelor of Science degree in Computer Systems Engineering from Stanford University. Ms. Dickson’s individual qualifications and background include knowledge of accounting, finance, human resources, risk management and transactional experience and in-depth knowledge of the financial services industry. 
+Deborah Ellinger
+. Ms. Ellinger is a former Chief Executive Officer and experienced board member with extensive expertise in the consumer products and solutions industry, including the pet sector. Since 2018, Ms. Ellinger has served as a Senior Advisor with Boston Consulting Group, a global consulting firm, where she primarily works with private equity clients investing in consumer and retail companies. From 2004 to 2018, Ms. Ellinger served as Chief Executive Officer and/or President of four private-equity-backed companies: Ideal Image, a MedSpa chain; The Princeton Review, a test preparation company; Restoration Hardware, a home products retailer; and Wellness Pet Food, a pet food manufacturer. Previously, Ms. Ellinger served as Executive Vice President at CVS Pharmacy, a retail pharmacy chain, from 2001 to 2003 and Senior Vice President at Staples, an office supply retailer, from 1999 to 2001. Ms. Ellinger began her career in banking at Mellon Financial Corporation and served as a Managing Director and Partner at Boston Consulting Group from 1990 to 1999. Ms. Ellinger has served on the board of directors of Synchrony Financial, a consumer financial services company, since 2025, where she is a member of the risk and technology committees. Ms. Ellinger previously served on the boards of directors of Tupperware, a manufacturer of home goods, from 2021 to 2023; iRobot, a manufacturer of consumer robots, from 2011 to 2023; Covetrus, a distributor of software and products for veterinarians, from 2019 to 2022; Interpublic Group, a global advertising and marketing services company, from 2015 to 2017; National Life Group, a life insurance company, from 2007 to 2014; Sealy Corporation, a bedding manufacturer, from 2013 to 2020; and Malden Mills, a textile manufacturer, from 2003 to 2006. Ms. Ellinger holds a Bachelor of Arts degree and a Master of Arts degree from the University of Cambridge in the United Kingdom and is a non-practicing Barrister-at-Law. Ms. Ellinger’s individual qualifications and background include public company board experience and extensive accounting, compliance, finance and operational and strategic experience and in-depth knowledge of the healthcare and retail industries. 
+James A. Star
+. Mr. Star currently serves as a manager and partner of Torque Asset Management LLC and Torque GP LLC, which oversee investments in public securities. Mr. Star previously served as Executive Chairman of Longview Asset Management LLC, a multi-strategy investment firm that invests on behalf 
+
+| |
+
+| 12 |
+
+| |
+
+TABLE OF CONTENTS
+of individuals, trusts and charitable foundations (“Longview”), from 2019 until his retirement in October 2023. From 2003 to 2019, Mr. Star served as President and Chief Executive Officer of Longview. Mr. Star also served as Vice President of Henry Crown and Company, a private family office affiliated with Longview, from 1994 to 2023. Mr. Star serves as Non-Executive Chairman of Atreides Management, a technology-focused investment firm. Mr. Star previously served as a trustee of Equity Commonwealth, a publicly traded real estate investment trust, where he chaired the nominating and governance committee and was a member of the compensation committee. Mr. Star also previously served as a director of Allison Transmission Holdings Inc., a manufacturer of vehicle components, from 2016 to 2018 and as a director of the holding company of PetSmart from 2014 to 2019. Mr. Star has also served as a director or trustee of pension funds, registered mutual funds, private companies and a private trust company. Mr. Star holds a Bachelor of Arts degree from Harvard University, a Juris Doctor degree from Yale Law School and a Master of Management degree from the Kellogg Graduate School of Management at Northwestern University. Mr. Star’s individual qualifications and background include extensive accounting, compliance, corporate governance, finance and investment experience and in-depth knowledge of the e-commerce and retail industries. 
+Directors Continuing in Office Until the 2028 Annual Meeting 
+Mathieu Bigand
+. Mr. Bigand currently serves as Managing Director at BC Partners. Before joining BC Partners in 2019, he worked in the Investment Banking division at Goldman Sachs Group, Inc., a multinational financial services firm, from 2014 to 2019, where he focused on the technology, media and telecommunications sectors. Mr. Bigand serves on the board of directors of PetSmart and Women’s Care Enterprises, LLC, a healthcare services company, and previously served on the board of directors of Presidio Inc., an IT solutions provider. Mr. Bigand holds a Master in Management degree from HEC Paris and a Bachelor in Mathematics degree from Paris 1 Panthéon-Sorbonne University. Mr. Bigand’s individual qualifications and background include extensive accounting, international and venture capital experience and experience with e-commerce, healthcare and retail industries. 
+David Leland
+. Mr. Leland currently serves as Partner and Head of Capital Markets at BC Partners. Since 2019, Mr. Leland has also served as Chief Executive Officer of BC Partners Securities LLC, a registered broker-dealer in the United States. Prior to joining BC Partners in 2018, Mr. Leland spent 18 years at Citigroup Inc., a multinational investment bank and financial services corporation, focusing on leveraged finance, most recently as Managing Director in the Capital Markets Originations Group. Mr. Leland previously served on the board of directors of GardaWorld Corporation, a global security services company. Mr. Leland holds a Bachelor of Business Administration degree with a concentration in finance from The George Washington University. Mr. Leland’s individual qualifications and background include extensive accounting, compliance and finance experience. 
+Lisa Sibenac
+. Ms. Sibenac currently serves as Managing Director at BC Partners in portfolio operations. Before joining BC Partners in 2017, Ms. Sibenac held management positions at Amazon, Inc., a multinational technology and e-commerce company, from 2012 to 2017. Prior to that, Ms. Sibenac held technical and commercial leadership roles at Lockheed Martin Corporation, a security and aerospace company, from 2003 to 2010. Since November 2023, Ms. Sibenac has served on the board of directors of Madison Logic, Inc., a digital marketing company. She previously served on the boards of directors of Appgate, Inc., a cybersecurity company, from 2022 to 2024 and GFL Environmental Inc., a waste management company, from 2018 to 2020. Ms. Sibenac holds a Bachelor of Science degree in Mechanical Engineering from the University of Notre Dame and a Master of Business Administration degree from Harvard Business School. Ms. Sibenac’s individual qualifications and background include knowledge of business operations, customer engagement and technology and in-depth knowledge of the e-commerce and retail industries. 
+Sumit Singh
+. Mr. Singh has served as our Chief Executive Officer since March 2018 and as a Director on our board of directors since April 2019. He also served as our Chief Operating Officer from September 2017 to March 2018. In 2020, he was inducted into the Bloomberg 50 List of Global Leaders. Prior to joining Chewy, Mr. Singh held senior leadership positions at Amazon, Inc. (“Amazon”), where from 2015 to 2017, he served as Worldwide Director of Amazon’s Consumables (i.e., fresh and pantry) businesses and, from 2013 to 2015, as General Manager for Amazon’s North American merchant 
+
+| |
+
+| 13 |
+
+| |
+
+TABLE OF CONTENTS
+fulfillment and third-party businesses. Prior to Amazon, Mr. Singh served in senior management positions at Dell Technologies, Inc. Mr. Singh has served on the board of directors of Booking Holdings Inc. since April 2022. Mr. Singh holds a Bachelor of Technology degree from Punjab Technical University and a Master of Science degree in Engineering from the University of Texas at Austin, where, in 2019, he was inducted into the Academy of Distinguished Alumni for outstanding achievement. He also holds a Master of Business Administration degree from the University of Chicago, Booth School of Business. Mr. Singh’s individual qualifications and background include in-depth knowledge of our challenges and opportunities, the e-commerce and retail sectors and extensive operational and strategic experience. 
+Director Independence 
+We are a “controlled company” within the meaning of the corporate governance standards of the NYSE. Under these rules, a listed company for which more than 50% of the voting power is held by an individual, group or another company is a “controlled company.” As a result, we qualify for exemption from certain independence requirements, including the requirements that within one year of completion of our initial public offering (“IPO”) at least a majority of our Board is composed of independent directors, and each of our Compensation and Nominating and Corporate Governance Committees are composed entirely of independent directors. Even though we are a controlled company, we are required to comply with the SEC and the NYSE rules relating to the membership, qualifications and operations of our Audit Committee. 
+Based on information provided by each director or director nominee concerning their background, employment and affiliations, our Board has affirmatively determined that each of Ms. Dickson, Ms. Ellinger, Dr. Goldhaber, Mr. Nelson, Mr. Nesbitt and Mr. Star satisfy the independence requirements under the applicable NYSE and SEC rules and regulations, and none of them have a relationship that would interfere with the exercise of their independent judgment in carrying out the responsibilities of a director. In determining the independence of Mr. Star, our Board considered Longview’s minority, non-controlling interest in Argos Holdings L.P. (“Argos Holdings”). 
+Board Leadership Structure 
+Mr. Svider serves as Chairperson of our Board and Mr. Singh serves as Chief Executive Officer of our Company. The Chief Executive Officer is responsible for setting the Company’s strategic direction and managing the Company’s operations and performance, while the Chairperson provides guidance to the Chief Executive Officer, sets the agenda for Board meetings and presides over meetings of the Board. We believe that the separation of these positions supports the independence of our Board in its oversight of the Company’s business and affairs. In addition, we believe the separation of the two positions creates an environment that is more conducive to objective evaluation and oversight of management’s performance, increasing management accountability and improving the ability of our Board to monitor whether management’s actions are in the best interests of our Company and stockholders. As a result, we believe that such separation can enhance the effectiveness of our Board as a whole. We believe that the leadership structure of our Board is appropriate and enhances its ability to effectively carry out its roles and responsibilities on behalf of our stockholders. 
+Board Evaluation Process 
+The Nominating and Corporate Governance Committee leads the Board and each committee through an annual self-evaluation to assess whether the Board and its committees are functioning effectively. As part of the self-evaluation process, each Board and committee member provides feedback on topics relevant to the performance and effectiveness of the Board and the applicable committee. The Nominating and Corporate Governance Committee is responsible for overseeing the self-evaluation process. In addition, each committee evaluates the performance of its duties under its charter and reports to the Board on such self-evaluation. The Nominating and Corporate Governance Committee reviews the evaluations and determines whether to propose any modifications or alterations in Board or committee practices, procedures or charters. 
+
+| |
+
+| 14 |
+
+| |
+
+TABLE OF CONTENTS
+Board Committees 
+Our Board has established three standing committees - an Audit Committee, a Compensation Committee and a Nominating and Corporate Governance Committee. Each committee has the authority to engage legal counsel or other experts or consultants as it deems appropriate to carry out its responsibilities. Our Board has adopted written charters for each committee and each charter is available on our website at https://investor.chewy.com. The composition and overview of the responsibilities of each committee are described below. Members serve on these committees as determined by our Board or until earlier resignation or death. 
+Audit Committee 
+Our Audit Committee currently consists of Mr. Nelson (Chairperson), Ms. Dickson and Mr. Star. Our Audit Committee assists our Board with oversight of our corporate accounting and financial reporting process, our compliance with legal and regulatory requirements and our risk assessment and risk management policies, guidelines and processes. Our Audit Committee is responsible for, among other things: 
+
+| (i) | managing the appointment, retention, compensation, oversight and termination of our independent registered public accounting firm; |
+
+| (ii) | overseeing the pre-approval process governing audit and permitted non-audit and tax services provided by our independent registered public accounting firm; |
+
+| (iii) | reviewing and approving the function and scope of our internal audit department, including its purpose, authority, organization, responsibilities, budget, staffing, audit plans and performance; |
+
+| (iv) | assisting the Board with overseeing external financial reporting, including periodic reports, earnings releases and earnings guidance; |
+
+| (v) | overseeing the adequacy and effectiveness of our internal controls over financial reporting and disclosure controls and procedures; |
+
+| (vi) | reviewing risks (including cybersecurity, data privacy, business continuity and other operational risks) and the policies, guidelines and processes used by management to assess, manage, monitor and control such risks; |
+
+| (vii) | monitoring legal and regulatory compliance, including compliance with our Code of Conduct and Ethics; |
+
+| (viii) | reviewing and approving related party transactions in accordance with our related party transactions policy; |
+
+| (ix) | overseeing procedures for the receipt, retention and treatment of complaints received by the Company regarding accounting, internal accounting controls or auditing matters; and |
+
+| (x) | reviewing our policies and processes for tax planning and compliance. |
+
+Our Board has determined that all current members of our Audit Committee satisfy the independence requirements of Rule 10A-3 of the Exchange Act and the corporate governance standards of the NYSE and meet the requirements for financial literacy under the applicable rules and regulations of the SEC and NYSE. Our Board has determined that Mr. Nelson is an “audit committee financial expert,” as such term is defined in the regulations promulgated under the Exchange Act and each of Ms. Dickson, Mr. Nelson and Mr. Star has the requisite financial sophistication, as defined under the applicable NYSE rules and regulations. 
+
+| |
+
+| 15 |
+
+| |
+
+TABLE OF CONTENTS
+Our Audit Committee has adopted, and periodically reviews compliance with, the Company’s Guidelines for Hiring Employees or Former Employees of the Independent Auditor and the Audit Committee Pre-Approval Policy (the “Pre-Approval Policy”), each of which further ensures that the independence of the independent registered public accounting firm is not impaired. 
+The formal report of our Audit Committee with respect to the fiscal year ended February 1, 2026 (“Fiscal Year 2025”), is set forth below under the heading Audit Committee Report. 
+Compensation Committee 
+Our Compensation Committee consists of Mr. Svider (Chairperson) and Mr. Ahmed. Our Compensation Committee assists our Board with oversight of our compensation policies, plans and programs. Our Compensation Committee is responsible for, among other things: 
+
+| (i) | reviewing and approving corporate goals and objectives applicable to our Chief Executive Officer and other executive officers, evaluating performance in light of such objectives and approving compensation; |
+
+| (ii) | reviewing director compensation and benefits for service on our Board and making recommendations for modification; |
+
+| (iii) | reviewing and approving incentive compensation and equity-based plans and overseeing the administration of those plans on behalf of executive officers; and |
+
+| (iv) | monitoring the effectiveness of non-equity-based benefit plan offerings and approving any material new employee benefit plan or change to an existing plan that creates a material financial commitment for our Company. |
+
+Compensation Committee Interlocks and Insider Participation 
+During Fiscal Year 2025, Mr. Ahmed and Mr. Svider served as members of our Compensation Committee. Neither of these individuals currently are, or have been, an officer or employee of Chewy. None of our named executive officers currently serve, or in the past year have served, as a member of the board of directors or compensation committee (or other board committee performing equivalent functions) of any entity that has one or more of its named executive officers serving on our Board or Compensation Committee. 
+Nominating and Corporate Governance Committee 
+Our Nominating and Corporate Governance Committee consists of Mr. Svider (Chairperson), Mr. Ahmed and Mr. Chang. Our Nominating and Corporate Governance Committee is responsible for, among other things: 
+
+| (i) | identifying and evaluating candidates (taking into account such candidates’ independence, financial literacy and financial expertise) and making recommendations to our Board for director nominees; |
+
+| (ii) | assessing the size, structure and composition of our Board and committees and making recommendations to our Board regarding the appointment of directors to serve as members of each committee and committee chairperson annually; |
+
+| (iii) | overseeing periodic evaluations of our Board’s performance, including Board committees; |
+
+| (iv) | reviewing, assessing the adequacy of and proposing changes to our Board regarding our certificate of incorporation, Bylaws, Code of Conduct and Ethics, Corporate Governance Guidelines and other corporate governance policies; |
+
+| |
+
+| 16 |
+
+| |
+
+TABLE OF CONTENTS
+
+| (v) | monitoring corporate governance trends and developments and recommending changes to our Board; and |
+
+| (vi) | developing a Chief Executive Officer succession plan and evaluating potential Chief Executive Officer candidates. |
+
+Considerations in Evaluating Director Nominations 
+Directors may be nominated by the Board or by our stockholders in accordance with our Bylaws. Our Nominating and Corporate Governance Committee is responsible for identifying and screening candidates and recommending director nominees for election to our Board. When formulating recommendations, our Nominating and Corporate Governance Committee considers proposals and suggestions from stockholders, management and others it deems appropriate, and it also takes into account the performance of incumbent directors in determining whether to recommend them to stand for reelection at the annual meeting of stockholders. 
+In evaluating director candidates, our Nominating and Corporate Governance Committee considers the current size, composition, organization and governance of our Board and the needs of our Board and committees. While our Board does not have specific director criteria requirements, our Nominating and Corporate Governance Committee considers, among other things: 
+
+| (i) | the independence, judgment, strength of character, reputation in the business community, ethics and integrity of the individual; |
+
+| (ii) | the business and other relevant experience, skill and knowledge the individual may have that will enable them to provide effective oversight of our business; |
+
+| (iii) | the fit of the individual’s skill set and personality with those of the other directors so as to build a Board that works together effectively and constructively; and |
+
+| (iv) | the individual’s ability to devote sufficient time to carry out their responsibilities as a director. |
+
+Our Board does not have a formal policy on diversity, but in evaluating director candidates our Nominating and Corporate Governance Committee and Board consider various factors, including functional areas of business and financial expertise and educational and professional background. 
+Our Nominating and Corporate Governance Committee will consider director candidates recommended by stockholders based upon the guidelines set forth in the Nominating and Corporate Governance Committee’s charter and subject to compliance with procedures set forth in our Bylaws. Please see Question 25 above under the heading General Information About Our Annual Meeting for more information. Committee oversight of director nominations does not apply in cases where the right to nominate a director legally belongs to a third party. In addition, so long as the outstanding shares of our Class B common stock represent 50% or more of the combined voting power of our outstanding Class A common stock and Class B common stock, holders of shares of Class B common stock are not subject to the notice procedures set forth in our Bylaws with respect to any annual or special meeting of stockholders. 
+Role of our Board in Risk Oversight 
+Management is responsible for the day-to-day oversight and management of financial, governance, people, quality, safety, technology, operational and strategic risks, while our Board, as a whole and through its committees, is responsible for the oversight of our risk management framework, which aligns with our disclosure controls and procedures. Our Board regularly evaluates enterprise risk management and related policies and practices. We have a disclosure committee comprised of senior management that prepares and reviews risks and considers whether there are any compliance or disclosure issues. Consistent with this approach, management regularly reviews risks with our Board and Audit Committee at their regular meetings as part of management presentations that focus on particular business functions, operations or strategies and presents steps taken by management to control, eliminate or 
+
+| |
+
+| 17 |
+
+| |
+
+TABLE OF CONTENTS
+mitigate such risks. While our Board is ultimately responsible for the risk oversight of our Company, our Audit Committee has primary responsibility for the management and mitigation of risks facing our Company, including the oversight of the measures initiated by management to monitor and control such risks. Our process identifies new or emerging risks that could impact the organization and we assess the likelihood and impact of the identified risks, while considering strategic business objectives to understand and assess the risks. Our Audit Committee also monitors compliance with legal and regulatory requirements and reviews and approves or disapproves related party transactions. Our Compensation Committee has responsibility to review the risks arising from our compensation policies and practices applicable to all employees, including executive officers, and evaluate policies and practices that could mitigate any such risk. Our Nominating and Corporate Governance Committee has responsibility to review risks relating to our corporate governance practices. These committees provide regular reports on our risk management practices to our Board. Our Board believes Chewy’s current Board, committee and management structure supports its risk oversight function. 
+To learn more about certain of the risks we face, please refer to the section titled “Risk Factors” included under Part I, Item 1A of our Annual Report on Form 10-K for Fiscal Year 2025 and in other filings with the SEC. 
+Attendance at Board, Committee and Stockholder Meetings 
+During our Fiscal Year 2025, our Board had five meetings, our Audit Committee had five meetings, our Compensation Committee had three meetings and our Nominating and Corporate Governance Committee had two meetings. Each director attended at least 75% of the aggregate of (i) the total number of meetings of our Board held during the period for which they served as a director and (ii) the total number of meetings held by all committees of our Board on which such director served (held during the period of such director’s committee service). Our non-employee directors, as well as our independent directors, meet in regularly scheduled sessions, typically following a scheduled Board meeting. Our Board has not formally selected a director to preside at executive sessions of non-employee directors or executive sessions of independent directors. Instead, the participating directors designate a presiding director for the session. 
+Although we do not have a formal policy regarding attendance by Board members at annual meetings of stockholders, we encourage our directors to attend such meetings. All of our current directors who served at the time of our 2025 annual meeting of stockholders (the “2025 Annual Meeting”) attended that meeting. 
+
+| |
+
+| 18 |
+
+| |
+
+TABLE OF CONTENTS
+Director Compensation 
+We annually review the amount of annual compensation for Board and committee service for our independent directors. Pursuant to our Director Compensation and Educational Expense Reimbursement Policy, the amount of annual compensation for our independent directors is as follows: 
+
+| • | $275,000 for service as a Board member payable 25% in cash and 75% in time-based restricted stock units (“Director RSUs”); |
+
+| • | $20,000 for service as a committee chairperson, payable in cash; |
+
+| • | $20,000 for service as an audit committee member, payable in cash; |
+
+| • | $15,000 for service as a compensation committee member, payable in cash; and |
+
+| • | $10,000 for service as a nominating and corporate governance committee member, payable in cash. |
+
+Each independent director who serves as the chairperson of a committee receives an annual service fee as a committee member and as the chairperson. Fees paid in cash are generally paid in arrears. Director RSUs are granted to each independent director after our Company’s annual stockholder meeting and vest upon the earlier of (i) the date of our next annual stockholder meeting or (ii) one year from the date of grant, each subject to the independent director’s continued service as a director on our Board through the vesting date. Directors that join our Board on a date other than our annual stockholder meeting receive a pro-rated amount of the annual cash compensation and Director RSUs. 
+The Board occasionally establishes committees of limited duration for special purposes. When a special committee is established, the Board will determine whether to provide non-employee directors with additional compensation for service on such committee based on the expected duties of the committee, the anticipated number and length of any committee meetings and other factors the Board may deem relevant. 
+We reimburse our directors for reasonable travel expenses relating to Board meetings and up to $7,000 for director educational expenses for each twelve-month period between annual stockholder meetings. We also extend our employee discount to our directors, allowing them to receive a 20% discount on most Chewy orders. Our Director Compensation and Educational Expense Reimbursement Policy was designed to attract and retain high quality independent directors and is periodically reviewed by our Compensation Committee and Nominating and Corporate Governance Committee. 
+Our independent directors are subject to stock ownership requirements as set forth below under section entitled “Stock Ownership Guidelines.” 
+
+| |
+
+| 19 |
+
+| |
+
+TABLE OF CONTENTS
+2025 Director Compensation 
+The following table provides information regarding compensation of our independent directors for their service as a director for Fiscal Year 2025. Non-independent directors received no compensation for their service as a director. Mr. Singh serves as a director and as Chief Executive Officer of the Company. His compensation is shown in the table entitled “Summary Compensation Table” and the related tables under the section entitled “Compensation Tables”. 
+
+| |
+
+| Name | Fees Earned or Paid in Cash ($) | Stock Awards ($) (1)(2) | Total ($) |
+
+| Kristine Dickson (3) | 88,750 | 186,063 | 274,813 |
+
+| James Nelson (4) | 108,750 | 186,063 | 294,813 |
+
+| Martin H. Nesbitt (5) | 68,750 | 186,063 | 254,813 |
+
+| James A. Star (6) | 88,750 | 186,063 | 274,813 |
+
+| Deborah Ellinger (7) | 60,701 | 186,063 | 246,764 |
+
+| Nat Goldhaber (8) | 48,958 | 186,063 | 235,021 |
+
+| |
+
+| (1) | The amounts reflected in this column represent the grant date fair value of the awards made in Fiscal Year 2025, as computed in accordance with Topic 718, Compensation—Stock Compensation, of the Accounting Standards Codification of the Financial Accounting Standards Board (“ASC 718”). For a discussion of the assumptions used in the calculation of the grant date fair value, refer to Part II, Item 8 “Financial Statements and Supplementary Data–Note 11 – Share-Based Compensation” of our Annual Report on Form 10-K for Fiscal Year 2025. |
+
+| (2) | Amounts shown do not reflect compensation actually received by the director, and there can be no assurance that these amounts will ever be realized by the director. Each independent director received a grant of Director RSUs in an amount equal to 75% of their annual retainer divided by the 20-day average closing price of the Company’s Class A common stock for the 20 trading days immediately preceding the grant date, rounded to the nearest whole share. |
+
+| (3) | Ms. Dickson was granted 4,921 Director RSUs in Fiscal Year 2025, settlement of which will be deferred until the first to occur of (i) her termination of service, (ii) her death or disability or (iii) a Change in Control, as defined in our 2024 Omnibus Incentive Plan (the “2024 Plan”). The Director RSUs vest on the date of the Annual Meeting, subject to her continued service with the Company. |
+
+| (4) | Mr. Nelson was granted 4,921 Director RSUs in Fiscal Year 2025. The Director RSUs vest on the date of the Annual Meeting, subject to his continued service with the Company. |
+
+| (5) | Mr. Nesbitt was granted 4,921 Director RSUs in Fiscal Year 2025. The Director RSUs vest on the date of the Annual Meeting, subject to his continued service with the Company. |
+
+| (6) | Mr. Star was granted 4,921 Director RSUs in Fiscal Year 2025. The Director RSUs vest on the date of the Annual Meeting, subject to his continued service with the Company. |
+
+| (7) | Ms. Ellinger was granted 4,921 Director RSUs in Fiscal Year 2025. The Director RSUs vest on the date of the Annual Meeting, subject to her continued service with the Company. Ms. Ellinger received a cash fee of $150,000 for her service as chair on a special litigation committee. |
+
+| (8) | Mr. Goldhaber was granted 4,921 Director RSUs in Fiscal Year 2025. The Director RSUs vest on the date of the Annual Meeting, subject to his continued service with the Company. Mr. Goldhaber received a cash fee of $100,000 for his service on a special litigation committee. |
+
+Deferral of Director RSUs 
+Independent directors may generally elect to defer receipt of their Director RSUs by making such election prior to the end of the calendar year preceding the year in which such Director RSUs are granted. Directors who make a deferral election will have no rights as a stockholder of the Company with respect to Director RSUs until such Director RSUs are settled. Settlement of any deferred Director RSUs in shares of fully vested Company common stock will occur at the time specified in the director’s deferral election, but no later than as soon as practicable following the first to occur of the director’s termination of Board service, the director’s death or disability or a change in control. 
+Indemnification 
+We have entered into indemnification agreements with each of our directors and anticipate that we will enter into similar agreements with any future directors. Generally, the indemnification agreements are designed to provide the maximum protection permitted by Delaware law with respect to indemnification of a director. The indemnification agreements provide that we will pay certain amounts incurred by a director in connection with any civil or criminal action or proceeding, specifically including 
+
+| |
+
+| 20 |
+
+| |
+
+TABLE OF CONTENTS
+actions by or in our name (i.e., derivative suits) where the individual’s involvement is by reason of the fact that the director is or was a director or officer. Such amounts include, to the maximum extent permitted by law, attorney’s fees, judgments, civil or criminal fines, settlement amounts and other expenses reasonably incurred in connection with legal proceedings. Under the indemnification agreements, a director will receive indemnification unless they are adjudged not to have acted in good faith and in a manner reasonably believed to be in, or not opposed to, the best interest of our Company and, in the case of a criminal proceeding, had no reasonable cause to believe that the conduct was unlawful. 
+Communications with our Board 
+Stockholders and other interested parties may communicate with our Board or any of our directors individually (including the Chairperson of the Board), or our non-management or independent directors as a group, by sending written communications addressed to Chewy’s General Counsel & Secretary at Chewy, Inc., 7700 West Sunrise Boulevard, Plantation, FL 33322. Each communication will be reviewed by our General Counsel & Secretary to determine whether it is appropriate for presentation to our Board or the applicable director(s). The purpose of this screening is to allow our Board to avoid having to consider irrelevant or inappropriate communications (such as advertisements, solicitations and product inquiries). See Questions 24 and 25 above under the heading General Information About Our Annual Meeting for more information. 
+Corporate Governance Guidelines and Code of Conduct and Ethics 
+Our Board has adopted Corporate Governance Guidelines that address items such as the qualifications and responsibilities of our directors and director candidates and corporate governance policies and standards applicable to us in general. We also have a Code of Conduct and Ethics that applies to our directors, officers and employees, including our Chief Executive Officer, Chief Financial Officer and Chief Accounting Officer. Our Corporate Governance Guidelines and our Code of Conduct and Ethics are each posted on our website at https://investor.chewy.com. We will post amendments to our Code of Conduct and Ethics or any waivers thereto for directors and named executive officers on the same website or in filings under the Exchange Act. 
+Sustainability and Responsibility 
+Our mission is to be the most trusted and convenient destination for pet parents and partners everywhere. Our commitment extends to improving our impact, both internally and externally. We seek to align with evolving sustainability-related regulations and expectations, while supporting corporate citizenship and long-term shareholder value. 
+Environmental Sustainability 
+We are focused on reducing the environmental impact of our operations by promoting sustainability throughout our business. Key areas of focus include initiatives related to packaging and transportation, where we continue to identify opportunities to improve efficiency and reduce our environmental impact. We also engage with suppliers to support responsible sourcing practices for our products and materials. 
+We collect and evaluate operational data to inform our understanding of greenhouse gas emissions, using established methodologies and emissions factors. We also assess climate-related risks and their potential impacts to our business, with these efforts continuing to evolve alongside our programs and regulatory expectations. 
+Community and Employee Engagement 
+Our employees are central to our mission of being the most trusted and convenient destination for pet parents and partners everywhere. We support this mission by offering competitive compensation and benefits, prioritizing workplace safety and creating meaningful opportunities for community engagement and philanthropy. 
+
+| |
+
+| 21 |
+
+| |
+
+TABLE OF CONTENTS
+We actively seek feedback through employee surveys and other listening mechanisms to better understand our strengths and areas of opportunity. These tools and insights enable us to continually assess and improve our practices. Additionally, we invest in professional growth by offering a range of education, training and development opportunities, including courses, programs and our dedicated learning platform, Chewy University. 
+We strive to foster an inclusive, engaging and safe workplace where our employees can be their authentic and best selves. We hire, retain and promote exceptional talent that reflects a broad range of backgrounds, experiences and perspectives. Our seven Team Member Resource Groups, which are available to all full-time employees and led by employee volunteers, seek to provide opportunities to build connections and strengthen community through programs and events. 
+Our passion for pets and dedication to our network of non-profit shelters and rescues allows us to impact the lives of pets everywhere. Through Chewy Gives Back, we support animal welfare with volunteer work, donations and our Wish List tool that empowers eligible non-profit shelters or rescues to create lists of needed items, which our customers can easily order for delivery to the organization. In Fiscal Year 2025, we donated approximately $64.9 million in products and supplies through Chewy Gives Back. 
+We have also adopted Ethics and Integrity Principles (the “Principles”) for our vendors, suppliers and contractors. The Principles encompass various aspects, including business integrity, anti-bribery and anti-corruption measures, fair dealing practices, trade ethics, labor and human rights, prevention of harassment and discrimination and considerations for environmental and community impacts. 
+Corporate Governance and Accountability 
+We are committed to upholding high standards of corporate governance, emphasizing ethics and compliance, and we have implemented policies and procedures to ensure compliance with applicable laws and regulations. More information regarding our governance is described under the heading Corporate Governance Guidelines and Code of Conduct and Ethics. 
+Certain Relationships and Related Party Transactions 
+Related Party Transactions Policy 
+We have a written related party transactions policy (the “Related Party Policy”), which is administered by our Audit Committee and includes procedures for the review, approval, ratification, modification or termination of related party transactions. Pursuant to the Related Party Policy, a related party transaction includes transactions in which Chewy is a participant, the aggregate amount involved will or may be expected to exceed $120,000, and a “related party” has or will have a direct or an indirect material interest. Related parties of Chewy include directors (including nominees for election as director), executive officers, stockholders that are known to beneficially own more than 5% of Chewy’s voting securities, any immediate family members of the foregoing and any entity with which such related party is employed, is a general partner, principal or in a similar position, or in which such person has a 10% or greater beneficial interest. 
+Except for transactions that have been pre-approved in accordance with the Related Party Policy, once a related party transaction has been identified, our Audit Committee will review the relevant facts and circumstances and approve or disapprove entry into the transaction. In determining whether to approve or ratify a related party transaction, our Audit Committee takes the following considerations into account, among other factors it deems appropriate: 
+
+| (i) | whether the transaction was undertaken in the ordinary course of our business; |
+
+| (ii) | whether the transaction was initiated by us or the related party; |
+
+| (iii) | the availability of other sources of comparable products or services; |
+
+| |
+
+| 22 |
+
+| |
+
+TABLE OF CONTENTS
+
+| (iv) | whether the transaction is proposed to be, or was, entered on terms no less favorable to us than terms that could have been reached with an unrelated third party; |
+
+| (v) | the purpose of, and the potential benefits of, the transaction; |
+
+| (vi) | the approximate dollar value of the amount involved in the transaction, particularly as it relates to the related party; |
+
+| (vii) | the related party’s interest in the transaction; and |
+
+| (viii) | any other information regarding the transaction or the related party that would be material to investors in light of the circumstances of the particular transaction. |
+
+Our Audit Committee may approve the transaction only if it determines in good faith that, under all the circumstances, the transaction is in, or not inconsistent with, the best interests of our Company and stockholders. 
+If we become aware of a related party transaction that has not been approved under the Related Party Policy, such transaction is reviewed in accordance with the procedures set out in the Related Party Policy. If our Audit Committee determines it to be appropriate, the transaction is ratified. Where our Audit Committee determines not to ratify a related party transaction that has been commenced without approval, our Audit Committee may direct additional actions including, but not limited to, immediate discontinuation or rescission of the transaction or modification of the transaction to make it acceptable for ratification. 
+Certain Related Party Transactions 
+Described below are transactions with related parties in which the amounts involved exceeded $120,000 since the beginning of our last fiscal year or may be expected to exceed such amount in the foreseeable future. Other than as described in this section and in the Compensation Discussion and Analysis section below, there were no transactions with related parties in Fiscal Year 2025, and no transactions are currently proposed, that would require disclosure under Item 404 of Regulation S-K. 
+BC Partners and its Affiliates 
+Merger Agreement
+
+On October 30, 2023, Chewy entered into certain transactions (the “Transactions”) with affiliates of BC Partners pursuant to an Agreement and Plan of Merger (the “Merger Agreement”). The Transactions resulted in, among other things, such affiliates restructuring their ownership interests in Chewy and Chewy Pharmacy KY, LLC (“Chewy KY”) becoming an indirect wholly-owned subsidiary of Chewy. From the beginning of Fiscal Year 2025 through the Record Date, affiliates of BC Partners transferred to Chewy (i) $839,536 to be used to fund tax obligations of affiliates of BC Partners that were inherited by Chewy as a result of the Transactions and (ii) $4,091,333 to fund certain indemnification and expense reimbursement obligations under the Merger Agreement. A special committee of the Board, consisting solely of independent and disinterested directors not affiliated with BC Partners, pursuant to authority delegated to it by the Board, approved the Transactions. The Board, acting on the recommendation of the special committee, also approved the Transactions. 
+Repurchase Transactions
+
+On June 20, 2025, we entered into a stock repurchase agreement with Buddy Chester Sub LLC, an entity affiliated with BC Partners, to repurchase 2,395,210 shares of Class A common stock, from Buddy Chester Sub LLC at a price per share of $41.75 (the “Stock Repurchase Transaction”). The aggregate repurchase price for the Stock Repurchase Transactions was $100 million. A special committee of the 
+
+| |
+
+| 23 |
+
+| |
+
+TABLE OF CONTENTS
+Board, consisting solely of independent and disinterested directors not affiliated with BC Partners, pursuant to authority delegated to it by the Board, approved the Stock Repurchase Transaction. The Board, acting on the recommendation of the special committee, also approved the Stock Repurchase Transaction. 
+Other transactions and agreements
+
+| • | From time to time, we provide services related to veterinary software to PetSmart Veterinary Services, LLC (“PVS”), a PetSmart subsidiary. From the beginning of Fiscal Year 2025 through the Record Date, we received $221,549 from PVS. |
+
+| • | From time to time, we purchase compliance-related and educational training materials and services from Navex, a portfolio company of BC Partners. From the beginning of Fiscal Year 2025 through the Record Date, we paid Navex $151,207. |
+
+| • | From time to time, we sell products from PetLab Co. (“PetLab”) as part of our consumables offering. BC Partners holds a majority interest in PetLab. From the beginning of Fiscal Year 2025 through the Record Date, we paid PetLab $8,199,604. |
+
+The following agreement involves affiliates of BC Partners: 
+
+| • | Amended and Restated Investor Rights Agreement, dated October 30, 2023, by and among Chewy and certain holders identified therein. |
+
+Employment 
+Aseemita Malhotra, our President of Healthcare, is the spouse of our Chief Executive Officer. During Fiscal Year 2025, Ms. Malhotra led our Healthcare vertical and received total cash compensation of $1,245,871, which includes her base salary and a payment under our short-term incentive (“STI”) program
+(1)
+ based on Company performance compared to performance metrics. Ms. Malhotra’s cash compensation was determined based on market data and comparable positions. In April 2025, Ms. Malhotra was granted 51,735 restricted stock units (“RSUs”), subject to time-based vesting and 27,857 PRSUs (as defined below), subject to vesting based on the achievement of certain Company performance conditions. With respect to the RSUs, 25.00% vested on March 1, 2026 and 6.25% will vest on each three-month anniversary thereafter, subject to Ms. Malhotra’s continued employment with the Company through the applicable vesting date. In March 2026, the Company’s Compensation Committee certified the achievement of the performance condition for the April 2025 PRSUs, which resulted in 47,653 PRSUs that vest on March 1, 2028, subject to Ms. Malhotra’s continued employment through the vesting date. In April 2026, Ms. Malhotra was granted 92,381 RSUs, 49,744 PRSUs and 73,037 additional awards (“additional RSUs”), subject to vesting based on the achievement of certain Company performance conditions. With respect to the RSUs, 25.00% will vest on March 1, 2027 and 6.25% will vest on each three-month anniversary thereafter, subject to Ms. Malhotra’s continued employment with the Company through the applicable vesting date. The PRSUs granted in April 2026 will vest on March 1, 2029, subject to the satisfaction of certain Company performance conditions and her continued employment through the vesting date. Ms. Malhotra will be eligible to receive between 0% and 200% of the target PRSUs, depending on the extent to which certain Company performance-based vesting conditions are met during the fiscal year ending January 31, 2027 (“Fiscal Year 2026”). With respect to the additional RSUs, they are subject to time-based vesting and (i) 13,818 vest on December 1, 2026, (ii) 19,542 vest on December 1, 2027 and (iii) 39,677 vest on December 1, 2028. The grant date fair value of the awards computed in accordance with ASC 718 was $2,587,536 and $5,450,053 for the awards granted in April 2025 and April 2026, respectively. Ms. Malhotra also (i) had use of the personal security-related services and executive medical benefits described for Mr. Singh in the 2025 Summary Compensation Table and (ii) was entitled to participate in the Company’s benefit programs available to all other employees. 
+
+| (1) | For a description of our STI program refer to Annual Short-Term Incentive under the heading Elements of NEO Compensation below. The STI payment for Fiscal Year 2024 was determined and paid in Fiscal Year 2025, while the STI payment for Fiscal Year 2025 was determined and paid in Fiscal Year 2026. |
+
+| |
+
+| 24 |
+
+| |
+
+TABLE OF CONTENTS
+PROPOSAL 1: Election of Directors 
+There are five directors in class I with terms of office expiring at our Annual Meeting. Our Nominating and Corporate Governance Committee has recommended, and our Board has approved, Raymond Svider, Marco Castelli, Nat Goldhaber, James Nelson and Martin H. Nesbitt as nominees for election as directors at the Annual Meeting. Each of the nominees possesses the qualifications, qualities, skills and other expertise necessary to serve on our Board. If elected at the Annual Meeting, each of these nominees would serve until the 2029 annual meeting of stockholders or until their successor has been duly elected and qualified, or, if sooner, until their earlier death, resignation, retirement, disqualification or removal. Mr. Svider, Mr. Castelli, Mr. Goldhaber, Mr. Nelson, and Mr. Nesbitt are currently directors of Chewy, and each of them was appointed by our Board. Additional information regarding these nominees is set forth above under the heading Board of Directors. Each person nominated for election has agreed to serve if elected, and Chewy’s management has no reason to believe that any nominee will be unable to serve. 
+Each director is elected by a plurality of the votes of the shares present virtually or represented by proxy at the Annual Meeting and entitled to vote thereon. “Plurality” means that the five nominees who receive the largest number of votes cast “For” such nominees are elected as directors. You may vote “For” or “Withhold” authority to vote for each of the nominees of the Board. Any shares voted “Withhold” and broker non-votes are not considered votes cast for the foregoing purpose and will have no effect on the outcome of the election. If any nominee becomes unavailable for election as a result of an unexpected occurrence, shares that would have been voted for that nominee will instead be voted for the election of a substitute nominee proposed by the Board. 
+
+| |
+
+| FOR ✔ | OUR BOARD, UPON RECOMMENDATION OF OUR NOMINATING AND CORPORATE GOVERNANCE COMMITTEE, RECOMMENDS A VOTE “FOR” ALL OF THE NOMINEES NAMED ABOVE. |
+
+| |
+
+| |
+
+| 25 |
+
+| |
+
+TABLE OF CONTENTS
+SECURITY OWNERSHIP INFORMATION 
+Security Ownership of Certain Beneficial Owners and Management 
+The following table sets forth the beneficial ownership of our Class A common stock and Class B common stock as of May 13, 2026 by (i) each director, director nominee and named executive officer, (ii) all current executive officers and directors of Chewy as a group and (iii) all those known by Chewy to beneficially own more than 5% of our Class A common stock or Class B common stock. 
+This table is based upon information supplied by our executive officers, directors, director nominees and principal stockholders and Schedules 13D, 13F and 13G filed with the SEC. Under SEC rules, a person is deemed to be a “beneficial owner” of a security if that person has or shares voting power or investment power, which includes the power to dispose of or to direct the disposition of such security. 
+Unless otherwise indicated in the footnotes to this table and subject to community property laws where applicable, we believe each of the stockholders named in this table has sole voting and investment power with respect to the shares indicated as beneficially owned. Applicable percentages are based on 232,505,429 shares of Class A common stock and 176,478,229 shares of Class B common stock outstanding on May 13, 2026. We have deemed shares of our common stock issuable pursuant to equity awards, which are subject to vesting and settlement conditions expected to occur within 60 days of May 13, 2026, to be outstanding and beneficially owned by the person holding the equity awards for the purpose of computing the percentage ownership of that person. Such equity awards are not deemed outstanding for the purposes of computing the percentage ownership of any other person, except with respect to the percentage ownership of all of our current named executive officers and directors as a group. 
+Unless otherwise indicated, the address for each beneficial owner listed below is c/o Chewy, Inc., 7700 West Sunrise Boulevard, Plantation, FL 33322. 
+
+| |
+
+| Voting Shares Beneficially Owned | % Total Voting Power (1) |
+
+| Class A Common Stock | Class B Common Stock |
+
+| Name of Beneficial Owner | Shares | % | Shares | % |
+
+| Named Executive Officers |
+
+| Sumit Singh (2) | 1,020,477 | * | — | — | * |
+
+| David Reeder (3) | — | — | — | — | — |
+
+| Satish Mehta (4) | 273,835 | * | — | — | * |
+
+| William Billings (5) | 39,562 | * | — | — | * |
+
+| Current Directors |
+
+| Raymond Svider (6) | 60,000 | * | — | — | * |
+
+| Fahim Ahmed (7) | 10,000 | * | — | — | * |
+
+| Mathieu Bigand | — | — | — | — | — |
+
+| Marco Castelli | — | — | — | — | — |
+
+| Michael Chang (8) | 10,000 | * | — | — | * |
+
+| Kristine Dickson (9) | 24,703 | * | — | — | * |
+
+| Deborah Ellinger (10) | 7,010 | * | — | — | * |
+
+| Nat Goldhaber (11) | 6,225 | * | — | — | * |
+
+| David Leland | — | — | — | — | — |
+
+| James Nelson (12) | 24,686 | * | — | — | * |
+
+| Martin H. Nesbitt (13) | 26,520 | * | — | — | * |
+
+| Lisa Sibenac (14) | 1,000 | * | — | — | * |
+
+| James A. Star (15) | 163,247 | * | — | — | * |
+
+| Current directors and executive officers as a group (16) | 1,404,507 | * | — | — |
+
+| More Than 5% Security Holders |
+
+| BC Partners Holdings Limited/Argos Holdings GP LLC (17) | — | — | 176,478,229 | 100.0% | 88.4% |
+
+| Vanguard Capital Management (18) | 12,189,628 | 5.2% | — | — | * |
+
+| AQR Capital Management, LLC (19) | 16,342,838 | 7.0% | — | — | * |
+
+| BlackRock, Inc. (20) | 19,401,973 | 8.3% | — | — | * |
+
+| |
+
+| * | Represents less than one percent (1%). |
+
+| |
+
+| 26 |
+
+| |
+
+TABLE OF CONTENTS
+
+| (1) | Percentage total voting power represents voting power with respect to all shares of our Class A common stock and Class B common stock, voting together as a single class. Each holder of Class B common stock is entitled to ten (10) votes per share of Class B common stock, and each holder of Class A common stock is entitled to one (1) vote per share of Class A common stock on all matters submitted to our stockholders for a vote. The Class A common stock and Class B common stock vote together as a single class on all matters submitted to a vote of our stockholders, except as may otherwise be required by law. The Class B common stock is convertible at any time by the holder into shares of Class A common stock on a share-for-share basis upon written notice to the transfer agent. |
+
+| (2) | Consists of (i) 874,061 shares of Class A common stock held by Mr. Singh, (ii) 123,955 shares of Class A common stock held by Mr. Singh’s spouse, (iii) 19,228 shares of Class A common stock issuable to Mr. Singh upon the vesting of RSUs within 60 days of May 13, 2026 and (iv) 3,233 shares of Class A common stock issuable to Mr. Singh’s spouse upon the vesting of RSUs within 60 days of May 13, 2026. This does not include (i) 948,447 shares of Class A common stock issuable to Mr. Singh upon the vesting of RSUs, (ii) 1,329,588 shares of Class A common stock issuable to Mr. Singh upon the vesting of PRSUs, (iii) 789,736 shares of Class A common stock (which represents the maximum number of shares that may be issued upon the vesting of PRSUs if maximum performance goals are achieved) issuable to Mr. Singh upon the vesting of PRSUs, (iv) 247,451 shares of Class A common stock issuable to Mr. Singh’s spouse upon the vesting of RSUs, (v) 108,278 shares of Class A common stock issuable to Mr. Singh’s spouse upon the vesting of PRSUs or (vi) 99,488 shares of Class A common stock (which represents the maximum number of shares that may be issued upon the vesting of PRSUs if maximum performance goals are achieved) issuable to Mr. Singh’s spouse upon the vesting of PRSUs, all of which are not expected to vest within 60 days of May 13, 2026. |
+
+| (3) | Consists of 0 shares of Class A common stock held by Mr. Reeder. Based solely on a Form 4 filed on May 6, 2025. |
+
+| (4) | Consists of 273,835 shares of Class A common stock held by Mr. Mehta. Based solely on a Form 4 filed on February 3, 2026. |
+
+| (5) | Consists of (i) 37,976 shares of Class A common stock held by Mr. Billings and (ii) 1,586 shares of Class A common stock issuable to Mr. Billings upon the vesting of RSUs within 60 days of May 13, 2026. This does not include (i) 118,092 shares of Class A common stock issuable to Mr. Billings upon the vesting of RSUs, (ii) 14,470 shares of Class A common stock issuable to Mr. Billings upon the vesting of PRSUs or (iii) 21,714 shares of Class A common stock (which represents the maximum number of shares that may be issued upon the vesting of PRSUs if maximum performance goals are achieved) issuable to Mr. Billings upon the vesting of PRSUs, all of which are not expected to vest within 60 days of May 13, 2026. |
+
+| (6) | Consists of 60,000 shares of Class A common stock held by Mr. Svider. |
+
+| (7) | Consists of 10,000 shares of Class A common stock held by Mr. Ahmed. |
+
+| (8) | Consists of 10,000 shares of Class A common stock held by Mr. Chang. |
+
+| (9) | Consists of (i) 4,921 shares of Class A common stock issuable upon the vesting of RSUs, which will vest on the date of the Annual Meeting, subject to Ms. Dickson’s continued service as a director on the Board through the vesting date and (ii) 1,624, 5,145, 4,880 and 8,133 shares of Class A common stock underlying RSUs that vested on July 14, 2022, July 14, 2023, July 11, 2024 and July 10, 2025, respectively, and will be settled upon the earlier of (x) the date of Ms. Dickson leaving the Board or (y) a change in control of the Company. |
+
+| (10) | Consists of (i) 1,044 shares of Class A common stock held by Ms. Ellinger, (ii) 4,921 shares of Class A common stock issuable upon the vesting of RSUs, which will vest on the date of the Annual Meeting, subject to Ms. Ellinger’s continued service as a director on the board through the vesting date and (iii) 1,045 shares of Class A common stock underlying RSUs that vested on July 10, 2025 and will be settled upon the earlier of (x) the date of Ms. Ellinger leaving the Board or (y) a change in control of the Company. |
+
+| (11) | Consists of (i) 4,921 shares of Class A common stock issuable upon the vesting of RSUs, which will vest on the date of the Annual Meeting, subject to Mr. Goldhaber’s continued service as a director on the board through the vesting date and (ii) 1,304 shares of Class A common stock underlying RSUs that vested on July 10, 2025 and will be settled upon the earlier of (x) the date of Mr. Goldhaber leaving the Board or (y) a change in control of the Company. |
+
+| (12) | Consists of (i) 19,765 shares of Class A common stock held by Mr. Nelson and (ii) 4,921 shares of Class A common stock issuable upon the vesting of RSUs, which will vest on the date of the Annual Meeting, subject to Mr. Nelson’s continued service as a director on the Board through the vesting date. |
+
+| (13) | Consists of (i) 14,556 shares of Class A common stock held by Mr. Nesbitt, (ii) 4,921 shares of Class A common stock issuable upon the vesting of RSUs, which will vest on the date of the Annual Meeting, subject to Mr. Nesbitt’s continued service as a director on the Board through the vesting date and (iii) 1,817, 1,624 and 3,602 shares of Class A common stock underlying RSUs that vested on July 14, 2021, July 14, 2022 and July 14, 2023, respectively, and will be settled upon the earlier of (x) the date of Mr. Nesbitt leaving the Board or (y) a change in control of the Company. |
+
+| (14) | Consists of 1,000 shares of Class A common stock held by Ms. Sibenac. |
+
+| (15) | Consists of (i) 154,803 shares of Class A common stock held by Mr. Star, (ii) 4,921 shares of Class A common stock issuable upon the vesting of RSUs, which will vest on the date of the Annual Meeting, subject to Mr. Star’s continued service as a director on the Board through the vesting date and (iii) 804 and 2,719 shares of Class A common stock underlying RSUs that vested on July 14, 2020 and July 14, 2021, respectively, and will be settled upon the earlier of (x) the date of Mr. Star leaving the Board or (y) a change in control of the Company. |
+
+| (16) | Consists of (i) 1,315,952 shares of Class A common stock held by our current executive officers and directors, (ii) 55,858 shares of Class A common stock issuable upon the vesting of RSUs within 60 days of May 13, 2026 and (iii) 32,697 shares of Class A common stock underlying RSUs that have vested for which settlement has been deferred. |
+
+| (17) | Based solely on a Schedule 13G/A filed on November 10, 2025, BC Partners Holdings Limited and its affiliates exercise shared voting power and shared dispositive power with respect to 176,478,229 shares of Class B common stock. BC Partners Holdings Limited is the controlling shareholder of CIE Management IX Limited. CIE Management IX Limited controls a majority of the equity interests of Argos Holdings GP LLC (“GP LLC”) and has the power to appoint members to the board of directors of GP LLC who may exercise majority voting power at meetings of the board of directors of GP LLC. GP LLC is the general partner of Argos |
+
+| |
+
+| 27 |
+
+| |
+
+TABLE OF CONTENTS
+Holdings L.P. (“Argos”). Argos is the sole common equity holder of Citrus Intermediate Holdings L.P. (“Citrus”), which is the indirect sole equity holder of Citrus Intermediate Topco LLC and the direct sole equityholder of Buddy Chester Sub LLC, the direct holders of the reported shares of Class B common stock. The business address of each of these entities is 650 Madison Avenue, New York, NY 10022. 
+
+| (18) | Based solely on a Schedule 13G filed on April 29, 2026. Vanguard Capital Management and its affiliates exercise sole voting power with respect to 1,808,175 shares of Class A common stock and sole dispositive power with respect to 12,189,628 shares of Class A Common Stock. The business address of Vanguard Capital Management is 100 Vanguard Boulevard, Malvern, PA 19355. |
+
+| (19) | Based solely on a Schedule 13G filed on May 14, 2026, AQR Capital Management Holdings, LLC and its wholly owned subsidiary, AQR Capital Management, LLC, exercise shared voting power with respect to 15,227,223 shares of Class A common stock and shared dispositive power with respect to 16,342,838 shares of Class A Common Stock. The business address of each of these entities is One Greenwich Plaza, Suite 130, Greenwich, CT 06830. |
+
+| (20) | Based solely on a Schedule 13G filed on July 16, 2025, BlackRock, Inc. exercises sole voting power with respect to 18,792,137 shares of Class A common stock and sole dispositive power with respect to 19,401,973 shares of Class A common stock. The business address of BlackRock, Inc. is 50 Hudson Yards, New York, NY 10001. |
+
+Pledge of Common Stock by Affiliates of BC Partners 
+Certain affiliates of BC Partners have granted a security interest in certain shares of our Class B common stock beneficially owned by them to secure certain indebtedness, including indebtedness of PetSmart, which includes customary default provisions. In the event of a default under any such credit facility or the applicable indenture, the secured parties may foreclose upon any and all shares of Class B common stock pledged to them and may seek recourse against the obligors under the relevant credit facilities and indentures. Any such action could result in a change in control of Chewy. 
+Delinquent Section 16(a) Reports 
+Section 16(a) of the Exchange Act requires that our directors, named executive officers and stockholders that own more than 10% of our common stock report to the SEC and us certain changes in ownership and ownership information within specified periods. Based solely on a review of the reports furnished to us or filed with the SEC and upon information furnished by these parties, we believe that during Fiscal Year 2025 all of our directors and officers timely filed all reports they were required to file under Section 16(a) of the Exchange Act. 
+
+| |
+
+| 28 |
+
+| |
+
+TABLE OF CONTENTS
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+Principal Accountant Fees and Services 
+Deloitte & Touche LLP served as our independent registered public accounting firm for Fiscal Year 2025. The following table sets forth all fees for professional services rendered by Deloitte & Touche LLP for the fiscal years ended February 1, 2026 and February 2, 2025: 
+
+| |
+
+| February 1, 2026 | February 2, 2025 |
+
+| Audit Fees (1) | $3,098,824 | $3,075,356 |
+
+| Audit-Related Fees (2) | — | — |
+
+| Tax Fees | — | — |
+
+| All Other Fees | — | — |
+
+| Total Fees | $3,098,824 | $3,075,356 |
+
+| |
+
+| (1) | Audit fees consist of fees for services rendered and expenses billed in connection with the annual audit of our consolidated financial statements, the review of our quarterly condensed consolidated financial statements, and consultations on accounting matters directly related to the audit. |
+
+| (2) | Audit-related fees include fees for assurance and related services that are traditionally performed by the independent registered accounting firm. |
+
+Pre-Approval Policies and Procedures 
+Our Audit Committee charter requires our Audit Committee to (i) pre-approve all audit and permitted non-audit and tax services that may be provided by our independent registered public accounting firm and (ii) establish and periodically review policies and procedures for its pre-approval of permitted services in compliance with applicable SEC rules. Our Audit Committee has adopted the Pre-Approval Policy setting forth the requirements pursuant to which all audit and permitted non-audit and tax services to be performed by our independent registered public accounting firm may be pre-approved. The Pre-Approval Policy is intended to clarify the scope of engagements to be pre-approved by the Audit Committee and sets forth the procedures and conditions pursuant to which such services may be pre-approved. Prior to adoption of the Pre-Approval Policy, work performed by our independent registered public accounting firm was pre-approved by our Audit Committee on an engagement-by-engagement basis. 
+Audit Committee Report 
+The purpose of our Audit Committee is to assist our Board with oversight of the (i) integrity of the Company’s financial statements, (ii) effectiveness of the Company’s internal controls, (iii) Company’s compliance with legal and regulatory requirements, (iv) qualifications, independence and performance of the Company’s independent auditor and (v) performance of the Company’s internal audit function. Our Audit Committee’s principal responsibility is one of oversight. Our management is responsible for establishing accounting policies and procedures, determining that our financial statements are complete, accurate and in accordance with applicable generally accepted accounting principles and other applicable reporting and disclosure standards and establishing satisfactory internal controls over financial reporting. Our independent auditor is responsible for auditing our financial statements and the effectiveness of our internal controls over financial reporting. Our internal and outside counsel are responsible for assuring our compliance with laws and regulations and our corporate governance policies. 
+
+| |
+
+| 29 |
+
+| |
+
+TABLE OF CONTENTS
+In performing its oversight function, our Audit Committee has: 
+
+| • | reviewed and discussed the audited financial statements with management and Deloitte & Touche LLP; |
+
+| • | discussed with Deloitte & Touche LLP the matters required to be discussed by the applicable requirements issued by the Public Company Accounting Oversight Board (the “PCAOB”) and the SEC; and |
+
+| • | received the written disclosures and the letter from Deloitte & Touche LLP required by applicable requirements of the PCAOB regarding the independent accountant’s communications with the Audit Committee concerning independence and has discussed with Deloitte & Touche LLP its independence. |
+
+Based on these reviews and discussions, the Audit Committee recommended to our Board the inclusion of the audited financial statements in the Company’s Annual Report on Form 10-K for the fiscal year ended February 1, 2026, as filed with the SEC on March 25, 2026. 
+THE AUDIT COMMITTEE
+
+James Nelson, Chair 
+Kristine Dickson 
+James A. Star 
+
+| |
+
+| 30 |
+
+| |
+
+TABLE OF CONTENTS
+PROPOSAL 2: Ratification of Appointment of Independent Registered 
+Public Accounting Firm 
+Our Audit Committee has selected Deloitte & Touche LLP as the Company’s independent registered public accounting firm for the fiscal year ending January 31, 2027, subject to execution of a mutually agreeable engagement letter. Deloitte & Touche LLP has served as our auditor since 2017. Representatives of Deloitte & Touche LLP are expected to be present at the Annual Meeting. They will have an opportunity to make a statement if they so desire and will be available to respond to appropriate questions. 
+Although our Audit Committee charter and current law, rules and regulations require our Audit Committee to engage, retain and supervise our independent registered public accounting firm, our Board and Audit Committee value the opinions of our stockholders and consider the selection of such firm to be an important matter of stockholder concern. The selection of Deloitte & Touche LLP is accordingly submitted for ratification of stockholders as a matter of good corporate practice. If the stockholders fail to ratify this selection, our Board and Audit Committee will consider the outcome of the vote in determining whether to retain this firm for the fiscal year ending January 31, 2027. Even if the selection is ratified, our Audit Committee in its discretion may direct the appointment of different independent auditors at any time during the year if it determines that such a change would be in the best interests of our Company and stockholders. 
+The ratification of the appointment of Deloitte & Touche LLP as our independent registered public accounting firm for our fiscal year ending January 31, 2027 requires the affirmative vote of a majority of the voting power of our common stock present virtually or represented by proxy at the Annual Meeting and entitled to vote thereon (meaning that, of the shares represented at the meeting and entitled to vote, a majority of them must vote “for” the proposal for it to be approved). You may vote “For,” “Against,” or “Abstain” with respect to this proposal. Abstentions are considered shares present and entitled to vote on this proposal, and, thus, will have the same effect as a vote “Against” this proposal. Broker non-votes will have no effect on the outcome of this proposal. 
+
+| |
+
+| FOR ✔ | OUR BOARD, UPON RECOMMENDATION OF OUR AUDIT COMMITTEE, RECOMMENDS THAT STOCKHOLDERS VOTE “FOR” RATIFICATION OF THE APPOINTMENT OF DELOITTE & TOUCHE LLP AS THE COMPANY’S INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR THE FISCAL YEAR ENDING JANUARY 31, 2027. |
+
+| |
+
+| |
+
+| 31 |
+
+| |
+
+TABLE OF CONTENTS
+NAMED EXECUTIVE OFFICER COMPENSATION 
+Compensation Discussion and Analysis 
+This Compensation Discussion and Analysis (“CD&A”) describes the material elements of our executive compensation program for Fiscal Year 2025 and provides an overview of our compensation philosophy and objectives for our named executive officers (“NEOs”). 
+Our executive compensation program is designed to align total compensation with Company performance, while enabling us to attract, retain and motivate individuals who can achieve sustained long-term growth and strong financial performance for our stockholders. Our executive compensation program (i) provides our NEOs with total compensation to avoid the disruption and expense associated with unintended departures, (ii) motivates and rewards our NEOs for our success in dynamic and competitive markets and (iii) aligns the interests of our NEOs with those of our stockholders. Our pay-for-performance compensation philosophy and practices are intended to increase stockholder value. As a result, NEO compensation is heavily weighted towards providing equity awards that incentivize long-term stock price appreciation. Our long-term incentive (“LTI”) plan provides equity awards that may be subject to a service-based vesting condition (the “Service Condition”), a performance-based vesting condition (the “Performance Condition”) or both a Performance Condition and Service Condition to promote long-term stockholder value creation (equity awards subject to a Service Condition, “Service RSUs” and equity awards subject to a Performance Condition and Service Condition, “PRSUs”). Our STI program focuses on annual strategic metrics to grow sales and improve profitability. The connection between pay and performance is evidenced by our financial performance during Fiscal Year 2025. Highlights of our Fiscal Year 2025 financial performance include: 
+
+| • | Net sales of $12.60 billion improved 6.2 percent year over year or 8.3 percent (1) on a normalized 52-week basis |
+
+| • | Gross margin of 29.8 percent expanded 60 basis points year over year |
+
+| • | Net income of $222.8 million, including share-based compensation expense and related taxes of $311.2 million |
+
+| • | Net margin of 1.8 percent contracted 150 basis points year over year (2) |
+
+| • | Basic earnings per share of $0.54, a decrease of $0.39 year over year (2) |
+
+| • | Diluted earnings per share of $0.52, a decrease of $0.39 year over year (2) |
+
+| • | Adjusted EBITDA (3) of $719.2 million, an increase of $148.7 million year over year |
+
+| • | Adjusted EBITDA margin (3) of 5.7 percent expanded 90 basis points year over year |
+
+| • | Adjusted net income (3) of $540.5 million, an increase of $93.7 million year over year |
+
+| • | Adjusted basic earnings per share (3) of $1.31, an increase of $0.25 year over year |
+
+| • | Adjusted diluted earnings per share (3) of $1.27, an increase of $0.23 year over year |
+
+| • | Net cash provided by operating activities of $691.6 million, an increase of $95.3 million year over year |
+
+| • | Free cash flow (3) of $562.4 million, an increase of $109.9 million year over year |
+
+| (1) | Excludes the impact of net sales during the 53rd week in Fiscal Year 2024. |
+
+| (2) | Year over year decrease primarily related to the release of the valuation allowance on the Company’s U.S. federal and certain state deferred tax assets during Fiscal Year 2024, resulting in a $275.7 million tax benefit. |
+
+| (3) | Adjusted EBITDA, adjusted EBITDA margin, adjusted net income, adjusted basic and diluted earnings per share and free cash flow are non-GAAP financial measures. For a reconciliation of non-GAAP to GAAP financial measures refer to Reconciliation of Non-GAAP Financial Measures in Appendix A. |
+
+| |
+
+| 32 |
+
+| |
+
+TABLE OF CONTENTS
+Our executive compensation for Fiscal Year 2025 was determined in the first quarter of 2025. 
+Our NEOs for Fiscal Year 2025 were the following: 
+
+| |
+
+| Name | Age (4) | Title |
+
+| Sumit Singh | 46 | Chief Executive Officer |
+
+| David Reeder (1) | 51 | Former Chief Financial Officer |
+
+| Satish Mehta (2) | 61 | Former Chief Technology Officer |
+
+| William Billings (3) | 50 | Chief Accounting Officer and Former interim Principal Financial Officer |
+
+| |
+
+| (1) | Mr. Reeder resigned as Chewy’s Chief Financial Officer and principal financial officer, effective as of July 3, 2025. |
+
+| (2) | Mr. Mehta resigned as Chewy’s Chief Technology Officer, effective as of February 6, 2026. |
+
+| (3) | Mr. Billings was appointed as the interim principal financial officer effective July 3, 2025, and was removed as the principal financial officer effective February 23, 2026, following the appointment of Chris Deppe as the Chief Financial Officer. Mr. Billings continues to serve as Chief Accounting Officer. |
+
+| (4) | As of the Record Date. |
+
+Oversight of Executive Compensation 
+Our Compensation Committee is responsible for oversight of our executive compensation policies, plans and programs, which are regularly reviewed and discussed with management to ensure alignment with our short-term and long-term goals given the dynamic nature of our business and the market in which we compete for talent. Our Compensation Committee reviews and makes recommendations to our Board regarding the compensation and other terms of employment of our executive officers, including the NEOs. Our Compensation Committee also reviews and approves the corporate goals and objectives applicable to the compensation and other terms of employment of the CEO and determines and approves the CEO’s compensation. 
+Role of Compensation Committee 
+Our Compensation Committee is primarily responsible for establishing executive compensation. It does so with the goals of incenting NEOs to achieve our business objectives and enhance long-term stockholder value by aligning the interests of our NEOs with those of our stockholders. Our Compensation Committee considers the interests of stockholders and Company performance in establishing the compensation program. Our Compensation Committee and management team reference national surveys and publicly available executive officer data from e-commerce, retail and technology organizations as an input for compensation decisions. 
+Role of Management 
+Management assists our Compensation Committee in establishing NEO compensation by providing information on Company and individual performance and business needs and objectives. Our Compensation Committee also considers our Chief Executive Officer’s recommendations regarding adjustments to NEO compensation components, including an evaluation of each executive officer’s performance, the Company’s overall performance and comparable compensation paid to similar executive officers in comparable companies (other than with respect to his own compensation, for which he recuses himself from all discussions and recommendations). 
+Peer Group Development and Use in Executive Compensation Decisions 
+The Compensation Committee considers publicly available compensation data from peer companies when setting pay levels for our NEOs. With support from Semler Brossy, the Compensation Committee established a peer group composed of companies with similar financial characteristics and industry focus, including e-commerce, retail and technology. Selection criteria included U.S.-based operations, publicly traded equity and revenue generally between 0.5x and 2.0x of Chewy’s. This peer group served as the reference point for evaluating executive compensation for Fiscal Year 2025. 
+
+| |
+
+| 33 |
+
+| |
+
+TABLE OF CONTENTS
+Fiscal Year 2025 Peer Group Companies 
+
+| |
+
+| Bath & Body Works, Inc. | eBay Inc. | Spotify Technology S.A. |
+
+| Best Buy Co., Inc. | Etsy, Inc. | Tractor Supply Company |
+
+| Booking Holdings, Inc. | Expedia Group, Inc. | ULTA Beauty, Inc. |
+
+| Carvana Co. | Maplebear, Inc. (DBA Instacart) | Wayfair Inc. |
+
+| DICK’s Sporting Goods, Inc. | Petco Health and Wellness Company, Inc. | Williams-Sonoma, Inc. |
+
+| DoorDash, Inc. | Signet Jewelers Limited |
+
+| |
+
+Role of Compensation Consultant 
+Management engages an independent compensation consultant to provide advice regarding compensation decisions for our executive officers and to assist management in evaluating our compensation objectives, obtain market information and design various aspects of our compensation program. Specific responsibilities for 2025 included benchmarking NEO positions, assistance setting 2025 STI program and LTI plan metrics based on competitive market practices and validation of Chewy’s peer group. Management has the sole authority to appoint, retain or replace the independent compensation consultant. During Fiscal Year 2025, management engaged Semler Brossy. Semler Brossy’s engagement does not raise any conflict of interest pursuant to SEC rules and the NYSE listing standards. 
+Say-on-Pay 
+In the advisory vote held at our 2025 Annual Meeting, stockholders voted overwhelmingly in favor of our Fiscal Year 2024 executive compensation programs for our NEOs. The Compensation Committee considered the voting results with respect to our executive compensation policies and programs. The Compensation Committee will continue to review stockholder votes and feedback on our executive compensation programs to ensure alignment with stockholder interests. 
+Say-on-Frequency 
+We held an advisory vote on the frequency of future “say-on-pay” advisory votes (referred to as the “say-on-frequency” vote) at our 2020 annual meeting of stockholders, pursuant to which the majority of the advisory votes cast voted to hold our “say-on-pay” votes every year. The Board considered the outcome of this advisory vote and determined that future “say-on-pay” votes will be conducted every year. The Board will re-evaluate this determination after the next stockholder advisory “say-on-frequency” vote, which will be at the Annual Meeting of stockholders. 
+
+| |
+
+| 34 |
+
+| |
+
+TABLE OF CONTENTS
+Elements of NEO Compensation 
+Our executive compensation program is comprised of the following key elements: 
+
+| |
+
+| Element | Objective | Key Features |
+
+| Base Salary | Recognizes market factors and individual experience, performance and level of responsibility. | Fixed compensation designed to attract and retain talent. |
+
+| Annual Short-Term Incentive | Motivates and establishes a strong link between pay and performance. | Variable at-risk compensation directly tied to the achievement of financial and strategic annual goals. STI thresholds, targets and maximums are set as a percentage of base salary. |
+
+| Long-Term Equity Incentives | Aligns compensation with creating long-term stockholder value and retains talent through multiyear vesting. | Variable at-risk compensation in the form of RSUs that vest upon satisfaction of Service Conditions and PRSUs that vest upon satisfaction of Service Conditions and Performance Conditions. |
+
+| |
+
+Since a significant portion of our executive compensation is variable, at-risk and tied directly to measurable performance objectives, we believe our executive compensation program is reasonable, competitive and appropriately balances the goals of attracting, motivating, rewarding and retaining individuals while directly aligning their interests with those of our stockholders. 
+Base salary is a standard element of compensation designed to attract and retain talent and provide executives with cash income predictability. Our Compensation Committee reviews and determines base salary adjustments as part of its annual executive officer compensation review. Factors that affect the amount of base salary include experience, market data, role and responsibilities, recruitment and retention considerations, company performance and individual performance. The following table sets forth NEO base salaries for Fiscal Year 2025 and the fiscal year ended February 2, 2025 (“Fiscal Year 2024”): 
+
+| |
+
+| Named Executive Officer | FY 2025 Base Salary | FY 2024 Base Salary |
+
+| Sumit Singh | $1,200,000 | $1,200,000 |
+
+| David Reeder | $ 600,000 | $ 600,000 |
+
+| Satish Mehta | $ 475,000 | $ 475,000 |
+
+| William Billings | $ 400,000 | N/A |
+
+| |
+
+| |
+
+| 35 |
+
+| |
+
+TABLE OF CONTENTS
+Annual Short-Term Incentive 
+In Fiscal Year 2025, we continued our annual STI program for our NEOs that is intended to establish a strong link between pay and performance by rewarding the achievement of annual financial and strategic objectives. 100% of the STI payment was based on the achievement of pre-established Company-level performance metrics. The performance metrics included goals related to net sales and adjusted EBITDA margin. These performance metrics were selected because they provide a balance of both top-line and bottom-line financial goals while also incenting responsible cash utilization. Our NEOs participate in the STI program at a target payout of 75% to 150% of eligible earnings, with a threshold payout of 50% per metric and maximum payout of 200% of target to provide an additional incentive to meet or exceed the maximum threshold and to align our practice with the prevailing market practice. Due to his career level, Mr. Billings’ STI payout is partially determined by an individual performance modifier tied to his annual performance rating, where he receives a standard payout if expectations are met, and the modifier can range from 0% for low performance to above 100% for top performance based on the Fiscal Year 2025 distribution. No STI payment is made if achievement of all performance goals is less than the threshold. The following table shows weighting, achievement level, weighted achievement with respect to each metric and the total weighted achievement for the Fiscal Year 2025 STI program: 
+
+| |
+
+| Metric | Weighting | Achievement (% of Target) | Weighted Achievement |
+
+| Net Sales Growth | 50.00% | 200.00% | 100.00% |
+
+| Adjusted EBITDA Margin | 50.00% | 153.72% | 76.86% |
+
+| Total | 100.00% | 176.86% |
+
+STI payments for Fiscal Year 2025 were determined and paid to the NEOs during Fiscal Year 2026 and are included in the Non-Equity Incentive Plan Compensation column of the 2025 Summary Compensation Table. Based on a total weighted achievement of 176.86% of target, our NEOs received the following STI payments for Fiscal Year 2025: 
+
+| |
+
+| NEO (1) | Eligible Earnings (2) | Target % of Eligible Earnings | Award at Target | Achievement | Payout (3) |
+
+| Sumit Singh | $1,200,000 | 150.00% | $1,800,000 | 176.86% | $3,183,480 |
+
+| William Billings (3) | $ 400,000 | 75.00% | $ 300,000 | 194.55% | $ 583,638 |
+
+| |
+
+| (1) | Messrs. Reeder and Mehta did not receive STI payments due to their departures from the Company. |
+
+| (2) | Eligible Earnings means the portion of the NEO’s base salary earned while in a STI eligible position and excludes any one-off bonus or other types of compensation. |
+
+| (3) | Mr. Billings’ Achievement reflects an individual performance multiplier to his STI payment for Fiscal Year 2025, which he is eligible for due to his career level, resulting in a 10% increase to his payout. |
+
+Long-Term Equity Incentives 
+We view long-term incentive compensation in the form of equity awards as a critical element of our executive compensation program. As such, a significant portion of the total compensation for our NEOs is stock-based compensation designed to create a strong link between pay and performance. The realized value of these equity awards over time has a direct relationship to our stock price and establishes an incentive for our NEOs to create sustainable, long-term value for our stockholders, while retaining our NEOs in a highly competitive market. 
+As a variable and at-risk component of compensation, the amount realized from equity compensation will vary based on the long-term performance of the Company. PRSUs are only earned if the Performance Condition is achieved over the applicable performance periods and Service RSUs are only earned if the NEO satisfies the Service Condition. The PRSUs for our NEOs include goals related to net sales, adjusted EBITDA margin and free cash flow, each with a threshold payment of 50%. The PRSUs are weighted 50% for net sales, 30% for adjusted EBITDA margin and 20% for free cash flow. 
+
+| |
+
+| 36 |
+
+| |
+
+TABLE OF CONTENTS
+Outlined below are equity awards received by our NEOs in Fiscal Year 2025. 
+In April 2025, Mr. Singh was granted 307,660 RSUs and 307,660 PRSUs in connection with performance awards and retention purposes. With respect to the RSUs, 25.00% vested on March 1, 2026 and 6.25% will vest on each three-month anniversary thereafter, subject to Mr. Singh’s continued employment with the Company through the applicable vesting date. In March 2026, the Company’s Compensation Committee certified the achievement of the performance condition for the April 2025 PRSUs, which resulted in 526,284 PRSUs that vest on March 1, 2028, subject to Mr. Singh’s continued employment through the vesting date. 
+In April 2025, Mr. Reeder was granted 152,261 RSUs and 152,261 PRSUs in connection with performance awards and retention purposes, which were all forfeited in connection with his departure during Fiscal Year 2025. 
+In April 2025, Mr. Mehta was granted 62,097 RSUs and 62,097 PRSUs in connection with performance awards and retention purposes, which were all forfeited in connection with his departure in February 2026. 
+In April 2025, Mr. Billings was granted 25,377 RSUs and 8,459 PRSUs in connection with performance awards and retention purposes. With respect to the RSUs, 25.00% vested on March 1, 2026 and 6.25% will vest on each three-month anniversary thereafter, subject to Mr. Billings’ continued employment with the Company through the applicable vesting date. In March 2026, the Company’s Compensation Committee certified the achievement of the performance condition for the April 2025 PRSUs, which resulted in 14,470 PRSUs that vest on March 1, 2028, subject to Mr. Billings’ continued employment through the vesting date. 
+Our NEOs are eligible to receive additional equity awards at the discretion of our Compensation Committee but may or may not receive equity awards on an annual basis and, consequently, their compensation, as reported in the 2025 Summary Compensation Table below, may fluctuate materially from year to year depending on whether a grant was made in a particular year. Equity awards are subject to the provisions of the Company’s Clawback Policy and other policies implemented by the Company and/or in the applicable equity award agreement. 
+Additional NEO Compensation 
+401(k) Plan 
+We have a 401(k) retirement savings plan for our employees, including our NEOs, who satisfy certain eligibility requirements (the “401(k) Plan”). Under the 401(k) Plan, eligible employees may defer receipt of portions of their eligible salaries, subject to certain limitations imposed by the Internal Revenue Code (the “Code”), by making contributions to the 401(k) Plan. This plan provides for matching contributions made by us equal to 50% of the first 6% of an employee’s covered compensation. The employee becomes vested in our matching contribution ratably over a four-year period. 
+Employee Benefits and Perquisites 
+Our NEOs are eligible to receive the same employee benefits that are generally available to all of our full-time employees, subject to the satisfaction of certain eligibility requirements. This includes medical, dental and vision benefits, flexible spending accounts, short-term and long-term disability insurance, life insurance and accidental death and dismemberment insurance. Our employee benefits programs are designed to be affordable and competitive in the market in which we compete for talent. 
+In addition, we have provided certain perquisites and other personal benefits in limited circumstances where we believe it is appropriate to assist a NEO in the performance of their duties, to make our NEOs more efficient and effective, for security purposes and for recruitment, motivation and retention 
+
+| |
+
+| 37 |
+
+| |
+
+TABLE OF CONTENTS
+purposes. During Fiscal Year 2025, none of our NEOs received material perquisites or other personal benefits that are not generally made available to all of our full-time employees, with the exception of personal security-related services and executive medical benefits provided to Mr. Singh, which we have deemed to be necessary and appropriate. 
+Non-qualified Deferred Compensation 
+We have a non-qualified deferred compensation plan (the “NQDCP”) to provide eligible employees the opportunity to defer compensation into the NQDCP. There are no employer contributions to the NQDCP. The NQDCP permits eligible employees to defer up to 50% of base salary and up to 80% of STI on a tax-advantaged basis. Amounts contributed by eligible employees to the NQDCP are fully vested at the time of contribution. As part of the NQDCP deferral election, the participant decides whether to receive distributions at a set date or upon the earliest of the participant’s death, disability, retirement or separation from service or a change in control. Distributions from the participant’s account may generally be made either in a lump sum or consecutive annual installments over a period that may be between two years and ten years (or up to fifteen years for retirement-related distributions). The NQDCP is administered by our 401(k) Plan Committee. Although not legally required, we have chosen to fund the NQDCP liability by means of a rabbi trust. No NEOs participated in the NQDCP in Fiscal Year 2025. 
+Pension Benefits 
+Our NEOs did not participate in, or earn any benefits under, any defined benefit pension or retirement plan sponsored by us during Fiscal Year 2025 (other than the 401(k) Plan as described above and in the 2025 Summary Compensation Table below). 
+Severance Benefits 
+Mr. Singh’s employment agreement provides for certain severance benefits upon qualifying terminations. As of the end of Fiscal Year 2025, none of the other NEOs had an employment agreement. The compensation that our NEOs could receive upon a qualifying termination or a change in control are described and quantified in the Potential Payments Upon Termination or Change in Control section below. Other than as described above and in the Employment Agreements and Potential Payments Upon Termination or Change in Control section, our NEOs are not entitled to severance payments or benefits upon a termination of employment. 
+Other Compensation Policies and Practices 
+Clawback Policy 
+The Compensation Committee adopted a clawback policy (the “Clawback Policy”) to adhere to the listing standards of the NYSE and the rules of the SEC implementing Section 954 of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010. The Clawback Policy requires the Compensation Committee to recoup certain incentive-based compensation paid to current and former executive officers in the event the Company is required to prepare an accounting restatement due to material noncompliance with any financial reporting requirement under the federal securities laws. Under the policy, the Compensation Committee will require recoupment of certain incentive-based compensation paid to current and former executive officers if it determines that such compensation received by a current or former executive officer exceeded the amount of incentive-based compensation that otherwise would have been received, had it been calculated based on the restated amounts. In addition to the Clawback Policy, the STI and LTI plans include “clawback” provisions under which the repayment of awards may be required under certain circumstances. 
+Stock Ownership Guidelines 
+Our Stock Ownership Guidelines require our executive officers (including our NEOs) and independent directors to hold an aggregate value of qualifying Company equity for so long as the individual serves as an executive officer or independent director and for ninety (90) days following termination of service. 
+
+| |
+
+| 38 |
+
+| |
+
+TABLE OF CONTENTS
+Qualifying Company equity includes our Class A common stock, deferred stock units, unvested restricted stock or RSUs, vested shares in the 401(k) Plan and common stock beneficially owned in a family trust or by a spouse or minor children. Our stock ownership requirements are: 
+
+| • | CEO - six (6) times annual base salary |
+
+| • | CFO - three (3) times annual base salary |
+
+| • | Other officers for purposes of Section 16 of the Exchange Act - three (3) times annual base salary |
+
+| • | Independent Director - five (5) times annual equity retainer |
+
+Our executive officers (including our NEOs) and independent directors are required to achieve the stock ownership requirements within five (5) years after becoming subject to the Stock Ownership Guidelines. If an executive officer or independent director becomes subject to a greater stock ownership requirement, such as due to a promotion or an increase in base salary or annual retainer, the executive officer or independent director is expected to meet the higher stock ownership requirement within three (3) years. Until the stock ownership requirement is satisfied, an executive officer or director is required to retain a minimum of 50% of the net shares received as the result of exercise, vesting or payment of any equity awards granted by the Company. All NEOs and independent directors have been subject to the Stock Ownership Guidelines for less than five (5) years and are in the transition period for compliance with the Stock Ownership Guidelines. 
+Insider Trading Policy
+; Hedging and Pledging Activities 
+Our Board has adopted an insider trading policy (the “Insider Trading Policy”) to promote compliance with insider trading laws, rules and regulations and any applicable listing standards that prohibit certain persons who are aware of material non-public information about a company from (i) trading in securities of that company; or (ii) providing material non-public information to other persons who may trade on the basis of that information. Under the Insider Trading Policy, our employees, including our NEOs and members of our Board, are prohibited from short-term trading, short sales, derivative transactions, hedging transactions, trading on margin or pledging and standing and limit orders, except for very limited duration. 
+Policies and Practices Related to the Grant of Certain Equity Awards Close in Time to the Release of Material Nonpublic Information 
+The Company does not currently grant new awards of stock options, stock appreciation rights or similar option-like instruments.
+
+Accordingly, the Company does not have a specific policy or practice on the timing of such awards in relation to the disclosure of material nonpublic information by the Company. In the event the Company determines to grant such awards in the future, the Board and the Compensation Committee will evaluate the appropriate steps to take in relation to the foregoing.
+
+Tax Implications of Executive Compensation 
+Section 162(m) of the Code places a limit of $1 million on the amount of compensation per year that a public company may deduct for federal income tax purposes with respect to certain executive officers. Our pay-for-performance philosophy remains central to our compensation program, even though some compensation could be non-deductible compensation expenses. 
+Accounting for Stock-Based Compensation 
+We follow ASC 718 for our stock-based compensation awards. ASC 718 requires us to measure the compensation expense for all share-based payment awards made to our employees and independent members of our Board, including equity awards, based on the grant date fair value. This calculation is performed for accounting purposes and reported in the executive compensation tables required by federal securities laws, even though the recipient of the awards may never realize any value from their awards. 
+
+| |
+
+| 39 |
+
+| |
+
+TABLE OF CONTENTS
+Compensation Related Risks 
+Our Compensation Committee has reviewed our compensation policies and practices to assess whether they encourage our NEOs to take inappropriate risk. Our Compensation Committee believes that the mix and design of the elements of executive compensation, individually or in their entirety, do not encourage NEOs to take inappropriate risks. The mix of fixed and variable compensation prevents undue focus on short-term results and is intended to align the long-term interests of our NEOs with those of our stockholders. 
+Compensation Committee Report 
+Our Compensation Committee has reviewed and discussed with management this Compensation Discussion and Analysis. Based on that review and discussion, we recommended to our Board that the Compensation Discussion and Analysis be included in this Proxy Statement and incorporated into Chewy’s Annual Report on Form 10-K for the fiscal year ended February 1, 2026. 
+THE COMPENSATION COMMITTEE 
+Raymond Svider, Chair 
+Fahim Ahmed 
+
+| |
+
+| 40 |
+
+| |
+
+TABLE OF CONTENTS
+Compensation Tables 
+2025 Summary Compensation Table 
+The following table provides information with respect to the compensation of our NEOs for the fiscal years indicated: 
+
+| |
+
+| Name and Principal Position | Year | Salary ($) (1) | Stock Awards ($) (2) | Non-Equity Incentive Plan Compensation ($) (3) | All Other Compensation ($) (4) | Total ($) |
+
+| Sumit Singh Chief Executive Officer | FY25 | 1,200,000 | 20,004,002 | 3,183,480 | 1,334,269 | 25,721,751 |
+
+| FY24 | 1,246,154 | 23,889,477 | 2,743,657 | 1,859,540 (5) | 29,738,828 |
+
+| FY23 | 1,200,000 | 31,048,358 | 2,358,000 | 579,837 | 35,186,195 |
+
+| David Reeder Former Chief Financial Officer | FY25 | 263,077 | 9,900,003 | — | 1,385 | 10,164,465 |
+
+| FY24 | 572,308 | 26,431,456 | 840,033 | 1,269 | 27,845,066 |
+
+| Satish Mehta Former Chief Technology Officer | FY25 | 475,000 | 4,037,502 | — | 10,500 | 4,523,002 |
+
+| FY24 | 493,269 | 4,645,909 | 724,021 | 6,789 | 5,869,988 |
+
+| FY23 | 475,000 | 10,556,862 | 622,250 | 8,532 | 11,662,644 |
+
+| William Billings Chief Accounting Officer and Former principal financial officer | FY25 | 400,000 | 1,100,000 | 583,638 | 18,300 | 2,101,938 |
+
+| |
+
+| (1) | These amounts reflect the actual salary earned by each NEO during fiscal years 2023, 2024 and 2025. |
+
+| (2) | These amounts reflect the aggregate grant date fair value of the RSUs and PRSUs awarded to the NEOs, as computed in accordance with ASC 718. For a discussion of the assumptions used in the calculation of the grant date fair value, refer to Part II, Item 8 “Financial Statements and Supplementary Data–Note 11 – Share-Based Compensation” of our Annual Report on Form 10-K for the fiscal year ended February 1, 2026. The PRSUs are subject to performance conditions for which the achievement is not known as of the grant date. If the highest level of performance conditions were achieved, the value of these awards for Fiscal Year 2025 would be $30,006,003, $14,850,004, $6,056,253 and $1,375,000, for Mr. Singh, Mr. Reeder, Mr. Mehta and Mr. Billings, respectively. |
+
+| (3) | For Fiscal Year 2025, these amounts reflect payouts for performance under our 2025 STI program. For additional information regarding these amounts refer to Annual Short-Term Incentive in the Elements of NEO Compensation section above. |
+
+| (4) | The amounts disclosed for Fiscal Year 2025 reflect the following for each NEO: For Mr. Singh, $5,538 of Company matching contributions made to his account under the 401(k) Plan, $1,320,747 for the value of certain personal security-related services, which included home security, security employees (including meals, travel and incidentals for the security employees) and certain other security-related services (such as threat and risk monitoring), $6,791 for executive medical benefits and $1,193 for meals. For Mr. Reeder, $1,385 of Company matching contributions made to his account under the 401(k) Plan. For Mr. Mehta, $10,500 of Company matching contributions made to his account under the 401(k) Plan. For Mr. Billings, $10,500 of Company matching contributions made to his account under the 401(k) Plan and $7,800 as a one-time payment in lieu of a salary increase. |
+
+| (5) | The Summary Compensation Table included in our proxy statement filed with the SEC on May 23, 2025 (the “2024 SCT”) inadvertently omitted $66,877 related to security charges and $354,552 related to automobile charges for Mr. Singh in Fiscal Year 2024. The amount reflected in the All Other Compensation column for Fiscal Year 2024 has been adjusted in this 2025 Summary Compensation Table to reflect such security and automobile charges. The following amounts would have been included in footnote 4 of the 2024 SCT if such security and automobile charges had not been inadvertently omitted: $1,074,319 for security charges and $779,025 for automobile charges. |
+
+| |
+
+| 41 |
+
+| |
+
+TABLE OF CONTENTS
+2025 Grants of Plan-Based Awards 
+The following table provides certain information with respect to grants of plan-based awards to our NEOs during Fiscal Year 2025. 
+
+| |
+
+| Name | Estimated Future Payouts Under Non-Equity Incentive Plan Awards (1) | Estimated Future Payouts Under Equity Incentive Plan Awards (2) | All Other Stock Awards: Number of Shares of Stock or Units (3) (#) | Grant Date Fair Value of Stock Awards (4) ($) |
+
+| Grant Date | Threshold ($) | Target ($) | Maximum ($) | Threshold (#) | Target (#) | Maximum (#) |
+
+| Sumit Singh | — | $450,000 | $1,800,000 | $3,600,000 | — | — | — | — | $ — |
+
+| 4/8/2025 | — | — | — | — | — | — | 307,660 | $10,002,001 |
+
+| 4/8/2025 | — | — | — | 30,766 | 307,660 | 615,320 | — | $10,002,001 |
+
+| David Reeder | — | $150,000 | $ 600,000 | $1,200,000 | — | — | — | — | $ — |
+
+| 4/8/2025 | — | — | — | — | — | — | 152,261 | $ 4,950,001 |
+
+| 4/8/2025 | — | — | — | 15,226 | 152,261 | 304,522 | — | $ 4,950,001 |
+
+| Satish Mehta | — | $ 118,750 | $ 475,000 | $ 950,000 | — | — | — | — | $ — |
+
+| 4/8/2025 | — | — | — | — | — | — | 62,097 | $ 2,018,751 |
+
+| 4/8/2025 | — | — | — | 6,210 | 62,097 | 124,194 | — | $ 2,018,751 |
+
+| William Billings | — | $ 75,000 | $ 300,000 | $ 600,000 | — | — | — | — | $ — |
+
+| 4/8/2025 | — | — | — | — | — | — | 25,377 | $ 825,000 |
+
+| 4/8/2025 | — | — | — | 846 | 8,459 | 16,918 | — | $ 275,000 |
+
+| |
+
+| (1) | These amounts reflect the threshold, target and maximum payouts under our 2025 STI program. For amounts actually earned by each NEO pursuant to our STI program for Fiscal Year 2025, refer to the Non-Equity Incentive Plan Compensation column in the Summary Compensation Table above. The amounts are based on a percentage of expected eligible earnings at the beginning of Fiscal Year 2025. Mr. Reeder and Mr. Mehta did not receive STI payments for Fiscal Year 2025 because of their departures prior to payout. For additional information regarding these amounts, refer to Annual Short-Term Incentive in the Elements of NEO Compensation section above. |
+
+| (2) | These amounts reflect the threshold, target and maximum payouts of PRSUs under our LTI plan, depending on whether specific performance goals are achieved. Earned awards can range from 0% to 200% of the target grant. For additional information regarding these amounts, refer to Long Term Equity Incentives in the Elements of NEO Compensation section above. |
+
+| (3) | These amounts reflect the Service RSUs granted in Fiscal Year 2025. |
+
+| (4) | These amounts reflect the aggregate grant date fair value of the RSUs and the PRSUs, as computed in accordance with ASC 718. For a discussion of the assumptions used in the calculation of the grant date fair value, refer to Part II, Item 8 “Financial Statements and Supplementary Data–Note 11 – Share-Based Compensation” of our Annual Report on Form 10-K for the fiscal year ended February 1, 2026. |
+
+| |
+
+| 42 |
+
+| |
+
+TABLE OF CONTENTS
+Outstanding Equity Awards at 2025 Fiscal Year-End 
+The following table provides certain information with respect to outstanding equity awards as of February 1, 2026: 
+
+| |
+
+| Name | Stock Awards |
+
+| Number of Shares or Units of Stock That Have Not Vested (#) (1) | Market Value of Shares or Units of Stock That Have Not Vested ($) (2) | Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested (#) (3) | Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($) (2) |
+
+| Sumit Singh | 1,492,317 (5) | $43,441,348 | 307,660 (7) | $8,955,983 |
+
+| Satish Mehta (4) | 301,211 | $ 8,768,252 | 62,097 | $1,807,644 |
+
+| William Billings | 96,153 (6) | $ 2,799,014 | 8,459 (8) | $ 246,241 |
+
+| |
+
+| (1) | These amounts reflect (i) PRSUs that have met the Performance Condition and are subject to the Service Condition and (ii) Service RSUs, each as described in the Long-Term Equity Incentives in the Elements of NEO Compensation section above. |
+
+| (2) | These amounts reflect the closing price of our Class A common stock on the NYSE on January 30, 2026 (the last trading day of Fiscal Year 2025), which was $29.11. |
+
+| (3) | These amounts reflect PRSUs as described in the Long-Term Equity Incentives in the Elements of NEO Compensation section above. |
+
+| (4) | Mr. Mehta’s shares were all forfeited in connection with his departure in February 2026. |
+
+| (5) | Consists of (i) 67,020 Service RSUs that will vest 50.00% on August 1, 2026 and 50% on February 1, 2027, (ii) 314,333 Service RSUs that vested 12.50% on May 1, 2026 and will vest on each three-month anniversary thereafter, (iii) 307,660 Service RSUs that vested 25.00% on March 1, 2026 and will vest 6.25% on June 1, 2026 and on each three-month anniversary thereafter and (iv) 803,304 PRSUs that will vest on March 1, 2027, each subject to Mr. Singh’s continued employment through the applicable vesting date. |
+
+| (6) | Consists of (i) 27,026 Service RSUs that vested 10.00% on May 1, 2026 and will vest on each three-month anniversary thereafter, (ii) 43,750 Service RSUs that will vest 58.00% on August 1, 2026 and 42% on August 1, 2027 and (iii) 25,377 Service RSUs that vested 25.00% on March 1, 2026 and will vest 6.25% on June 1, 2026 and on each three-month anniversary thereafter, each subject to Mr. Billings’ continued employment through the applicable vesting date. |
+
+| (7) | Consists of 307,660 PRSUs that will vest on March 1, 2028 contingent on the achievement of the Performance Condition and Mr. Singh’s continued employment through the vesting date. |
+
+| (8) | Consists of 8,459 PRSUs that will vest on March 1, 2028 contingent on the achievement of the Performance Condition and Mr. Billings’ continued employment through the vesting date. |
+
+| |
+
+| 43 |
+
+| |
+
+TABLE OF CONTENTS
+2025 Option Exercises and Stock Vested 
+The following table provides certain information with respect to shares acquired by our NEOs upon the vesting of stock awards in Fiscal Year 2025: 
+
+| |
+
+| Stock Awards |
+
+| Name | Number of Shares Acquired on Vesting (#) (1) | Value Realized on Vesting ($) (2) |
+
+| Sumit Singh | 779,237 | $25,628,869 |
+
+| David Reeder | 19,445 | $ 729,188 |
+
+| Satish Mehta | 146,798 | $ 4,792,565 |
+
+| William Billings | 55,010 | $ 1,995,116 |
+
+| |
+
+| (1) | These amounts reflect PRSUs and Service RSUs as described in the Long-Term Equity Incentives in the Elements of NEO Compensation section above. |
+
+| (2) | The value realized upon vesting has been calculated by multiplying the gross number of shares acquired on vesting by the closing price of our Class A common stock on the NYSE on the day prior to the vesting date. Therefore, the amounts shown in this column do not represent the actual amounts paid to or realized by the NEO during Fiscal Year 2025. |
+
+2025 Non-Qualified Deferred Compensation 
+None of our NEOs participated in the non-qualified deferred compensation plan in Fiscal Year 2025. 
+
+| |
+
+| 44 |
+
+| |
+
+TABLE OF CONTENTS
+Equity Compensation Plan Information 
+The following table provides information as of February 1, 2026, with respect to the shares of our Class A common stock that may be issued under our 2024 Plan: 
+
+| |
+
+| Number of Securities to be Issued Upon Exercise of Outstanding Options, Warrants and Rights | Weighted-Average Exercise Price of Outstanding Options, Warrants and Rights | Number of Securities Remaining Available for Future Issuance Under Equity Compensation Plans (excluding securities reflected in column (a)) |
+
+| Plan Category | (a) | (b) | (c) |
+
+| Equity Compensation Plans Approved by Security Holders (1) | 22,763,000 (2) | N/A (3) | 76,513,950 |
+
+| Equity Compensation Plans Not Approved by Security Holders | N/A | N/A | N/A |
+
+| Total | 22,763,000 | N/A | 76,513,950 |
+
+| |
+
+| (1) | Includes issuances under the 2022 Omnibus Incentive Plan (through the adoption of the 2024 Plan) and the 2024 Plan. |
+
+| (2) | This amount reflects PRSUs (at max) and Service RSUs issued under the 2024 Plan. |
+
+| (3) | As of fiscal year ended February 1, 2026, no options or other exercisable awards were outstanding under the 2024 Plan. |
+
+| |
+
+| 45 |
+
+| |
+
+TABLE OF CONTENTS
+Employment Agreements and Potential Payments Upon Termination or Change in Control 
+Mr. Singh is eligible for severance payments and benefits described in this section pursuant to his employment agreement. Mr. Singh entered into his employment agreement in May 2018, which was amended and restated in June 2019. As of the end of Fiscal Year 2025, Mr. Reeder, Mr. Mehta and Mr. Billings did not have an employment agreement. All severance payments are contingent upon the executive’s timely execution and non-revocation of a general release of claims. 
+Involuntary Termination of Employment Not Involving a Change in Control 
+In the event Mr. Singh’s employment is terminated by us without “Cause” or by him for “Good Reason” (each as defined in his employment agreement) (each, a “qualifying termination”) not within three (3) months before or twelve (12) months following a “Change in Control” (as defined in the respective employment agreement), Mr. Singh is entitled to the following (collectively, the “Termination Entitlements”): 
+
+| • | all accrued but unpaid base salary through the date of termination, including any unpaid or unreimbursed expenses, accrued vacation that the executive has not taken and any benefits provided under the Company’s employee benefit plans upon a termination of employment; |
+
+| • | twelve (12) months of base salary payable in equal monthly installments over the twelve (12) month period following termination; |
+
+| • | an annual bonus earned for any fiscal year completed prior to the date of termination that remains unpaid as of the date of termination, payable at the same time annual bonuses are paid to executives generally for the relevant year; |
+
+| • | a pro-rated annual bonus for the year of termination based on actual performance, payable at the same time annual bonuses are paid to executives generally for the relevant year; |
+
+| • | an amount equal to eighteen (18) months of premiums for continuation coverage under our group health plans payable in a lump sum payment within thirty (30) days of termination; |
+
+| • | 100% of the Target Bonus (as defined in Mr. Singh’s employment agreement), payable in equal monthly installments over the twelve (12) month period following termination; and |
+
+| • | nine (9) months of service credit with respect to any time- or service-based equity incentive awards (or if greater, service credit for 40% of the awards). |
+
+Involuntary Termination of Employment Involving a Change in Control 
+In the event Mr. Singh experiences a qualifying termination within three (3) months before or twelve (12) months following a “Change in Control,” Mr. Singh is entitled to the following: 
+
+| • | all accrued but unpaid base salary through the date of termination, including any unpaid or unreimbursed expenses, accrued vacation that the executive has not taken and any benefits provided under the Company’s employee benefit plans upon a termination of employment; |
+
+| • | twenty-four (24) months of base salary and 200% of the Target Bonus (as defined in Mr. Singh’s employment agreement), both generally payable in a lump sum within thirty (30) days following termination; |
+
+| • | an annual bonus earned for any fiscal year completed prior to the date of termination that remains unpaid as of the date of termination, payable at the same time annual bonuses are paid to executives generally for the relevant year; |
+
+| |
+
+| 46 |
+
+| |
+
+TABLE OF CONTENTS
+
+| • | a pro-rated annual bonus for the year of termination based on actual performance, payable at the same time annual bonuses are paid to executives generally for the relevant year; |
+
+| • | an amount equal to twenty-four (24) months of premiums for continuation coverage under our group health plans payable in a lump sum within thirty (30) days of termination; and |
+
+| • | nine (9) months of service credit with respect to any time- or service-based equity incentive awards (or if greater, service credit for 40% of the awards). |
+
+Death or Disability and Restrictive Covenants 
+In the event Mr. Singh’s employment is terminated due to his death or “Disability” (as defined in his employment agreement), Mr. Singh is entitled to twelve (12) months of service credit with respect to any time- or service-based equity incentive awards (or if greater, service credit for 40% of the awards), in addition to all accrued but unpaid base salary through the date of termination, including any unpaid or unreimbursed expenses, accrued vacation that he has not taken and any benefits provided under the Company’s employee benefit plans upon a termination of employment. 
+Mr. Singh’s employment agreement is also subject to the following restrictive covenants: (i) during the “Restricted Period” (as defined in the respective employment agreement), a non-competition covenant, customer non-solicitation covenant and an employee non-solicitation covenant and (ii) perpetual confidentiality and mutual non-disparagement covenants. 
+Mr. Singh’s employment agreement includes a Code Section 280G “best-net cutback” provision that provides in the event any payment or benefit provided under the employment agreement or any other arrangement with our Company or its affiliates constitutes “parachute payments” within the meaning of Section 280G of the Code, then such payments and/or benefits will either be (i) provided to the executive in full or (ii) be reduced to the extent necessary to avoid the excise tax imposed by Section 4999 of the Code, whichever results in the executive receiving a greater amount on an after-tax basis. 
+
+| |
+
+| 47 |
+
+| |
+
+TABLE OF CONTENTS
+Potential Payments Upon Termination or Change in Control Table 
+The following table discloses estimates of the potential payments and benefits, other than those available generally on a nondiscriminatory basis to all salaried employees, provided upon a Change in Control or termination of employment for each of the NEOs, calculated as if the Change in Control and/or termination of employment occurred on February 1, 2026. Neither Mr. Reeder nor Mr. Mehta received any severance payments or benefits in connection with their departures. 
+
+| |
+
+| Name | Involuntary Termination (not for Cause; Good Reason) w/ no Change in Control ($) (1) | Change in Control no Termination ($) (2) | Involuntary Termination (not for Cause) in Connection with a Change in Control ($) (3) | Death or Disability ($) (4) |
+
+| Sumit Singh |
+
+| Cash Payments | 3,014,187 | — | 6,018,916 | — |
+
+| Accelerated Equity Vesting | 20,958,932 | 52,397,330 | 20,958,932 | 33,828,382 |
+
+| Total | 23,973,119 | 52,397,330 | 26,977,848 | 33,828,382 |
+
+| William Billings |
+
+| Cash Payments | — | — | — | — |
+
+| Accelerated Equity Vesting | — | 3,045,255 | — | — |
+
+| Total | — | 3,045,255 | — | — |
+
+| |
+
+All equity amounts in the above table reflect full vesting and a closing stock price of $29.11 as of January 30, 2026 (the last trading day of Fiscal Year 2025). 
+
+| (1) | For Mr. Singh, this amount includes (i) cash payments and (ii) partial accelerated vesting of the Service Condition for PRSUs, both as outlined in Involuntary Termination of Employment Not Involving a Change in Control in the Employment Agreements and Potential Payments Upon Termination or Change in Control section above. |
+
+| (2) | These amounts reflect accelerated vesting of the Service Condition upon a Change in Control for each NEO’s respective PRSUs as described in Long-Term Equity Incentives in the Elements of NEO Compensation section above. These amounts are single-trigger. |
+
+| (3) | For Mr. Singh, this amount includes (i) double-trigger cash payments for termination of employment without cause or for good reason within three (3) months before or twelve (12) months following a “Change in Control,” as described in Involuntary Termination of Employment Not Involving a Change in Control in the Employment Agreements and Potential Payments Upon Termination or Change in Control section above and (ii) single-trigger accelerated vesting of the Service Condition upon a Change in Control for PRSUs as described in Long-Term Equity Incentives in the Elements of NEO Compensation section above. |
+
+| (4) | These amounts reflect partial accelerated vesting of the Service Condition for Mr. Singh’s PRSUs as described in Death or Disability and Restrictive Covenants in the Employment Agreements and Potential Payments Upon Termination or Change in Control section above. |
+
+| |
+
+| 48 |
+
+| |
+
+TABLE OF CONTENTS
+CEO Pay Ratio 
+The Company is providing the information below to comply with Item 402(u) of Regulation S-K. 
+Ratio 
+For Fiscal Year 2025, the annual total compensation of the employee identified as the median Chewy employee (excluding the CEO) (the “Median Employee”) was $44,389, and the annual total compensation of the CEO was $25,721,751. Based on this information, for Fiscal Year 2025 the ratio of the annual total compensation of the CEO to the Median Employee was 579:1. 
+Methodology 
+The following information was used to identify the Median Employee: 
+
+| • | As of December 31, 2025, there were 17,800 Chewy employees. |
+
+| • | To determine the Median Employee, Chewy used W-2 earnings (base pay, cash bonuses, overtime, etc., as applicable) reflected in payroll records of all employees in the United States for the calendar year ended December 31, 2025, as its measure of compensation. In making this determination, Chewy annualized the base pay or monthly wages and annual bonus amounts paid in respect of calendar year 2025 for those full-time and part-time employees who did not work for the entire calendar year. |
+
+| • | The Median Employee’s annual total compensation was calculated based on the rules for determining the annual total compensation of our NEOs, which includes base salary, bonus, non-equity incentive plan compensation and other elements of pay, such as 401(k) employer match, stock awards or overtime, as applicable. The pay ratio disclosed is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. |
+
+The Median Employee is a forklift operator. 
+Supplemental CEO Pay Ratio 
+In order to give additional context to the Fiscal Year 2025 CEO pay ratio reported above and our Chief Executive Officer’s annual total compensation for Fiscal Year 2025, we are providing a supplemental pay ratio that compares Mr. Singh’s annual total compensation for Fiscal Year 2025, excluding the Fiscal Year 2025 award granted to him under Chewy’s long-term incentive plan, to the Median Employee’s annual total compensation. For a discussion about this award, refer to the Long Term Equity Incentives in the Elements of NEO Compensation section above. After excluding the value of this award as reported in the Summary Compensation Table, Mr. Singh’s annual total compensation was $5,717,749. The resulting supplemental pay ratio is 129:1. 
+Evaluating the CEO Pay Ratio Disclosure 
+Similar to other organizations with sizable distribution and customer service workforces, as well as the flexibility allowed by the SEC in calculating these ratios, Chewy’s ratios may not be comparable to ratios of other companies. 
+
+| |
+
+| 49 |
+
+| |
+
+TABLE OF CONTENTS
+PROPOSAL 3: Advisory Vote on Named Executive Officer Compensation 
+As required by Section 14A of the Exchange Act, we are providing stockholders with the opportunity to approve, on an advisory basis, the compensation of our NEOs as described in Compensation Discussion and Analysis and the 2025 Summary Compensation Table. This vote is not intended to address any specific item of compensation, but rather the overall compensation of our NEOs and our executive compensation philosophy and practices, as discussed in this proxy statement. As discussed in those disclosures, our compensation programs are designed to align total executive compensation with Company performance, while enabling us to attract, retain and motivate executives who can achieve sustained long-term growth and strong financial performance for our stockholders. Our Compensation Committee continually reviews the compensation program for our NEOs to ensure it achieves the desired goals of aligning our executive compensation structure with our stockholder interests. 
+Although the vote is nonbinding, our Board and Compensation Committee value the opinions of our stockholders and will consider the outcome of the vote when making future compensation decisions for NEOs. The Company’s current policy is to provide stockholders with an opportunity to approve the compensation of our NEOs each year at the annual meeting of stockholders. It is expected that the next such vote will occur at the Annual Meeting. 
+The approval, on an advisory basis, of the compensation of our NEOs requires the affirmative vote of a majority of the voting power of our common stock present virtually or represented by proxy at the Annual Meeting and entitled to vote thereon (meaning that, of the shares represented at the meeting and entitled to vote, a majority of them must vote “For” the proposal for it to be approved). You may vote “For,” “Against,” or “Abstain” with respect to this proposal. Abstentions are considered shares present and entitled to vote on this proposal, and, thus, will have the same effect as a vote “Against” this proposal. Broker non-votes will have no effect on the outcome of this proposal. 
+
+| |
+
+| FOR ✔ | OUR BOARD, UPON RECOMMENDATION OF OUR COMPENSATION COMMITTEE, RECOMMENDS THAT STOCKHOLDERS VOTE “FOR,” THE APPROVAL, ON AN ADVISORY BASIS, OF THE COMPENSATION PAID TO OUR NAMED EXECUTIVE OFFICERS, AS DISCLOSED PURSUANT TO ITEM 402 OF REGULATION S-K, INCLUDING THE COMPENSATION DISCUSSION AND ANALYSIS, COMPENSATION TABLES AND NARRATIVE DISCUSSION PROVIDED IN THIS PROXY STATEMENT. |
+
+| |
+
+| |
+
+| 50 |
+
+| |
+
+TABLE OF CONTENTS
+PROPOSAL 4: Advisory Vote on Frequency of Future Votes on Executive Compensation 
+As required by Section 14A of the Exchange Act, we are providing stockholders with the opportunity to indicate how frequently we should seek an advisory vote on our named executive officer compensation. Under this proposal, commonly known as a “say-on-frequency” proposal, stockholders may express their view on whether we should hold an advisory “say-on-pay” vote every one, two or three years. An annual advisory vote on named executive officer compensation will allow our stockholders to provide direct input on our compensation philosophy and practices as disclosed in the proxy statement every year. Therefore, our Board recommends that future votes on named executive officer compensation occur every year until the next frequency vote. 
+Although the vote is nonbinding, our Board and Compensation Committee value the opinions of our stockholders and will consider the outcome of the vote when determining how frequently we should conduct the named executive officer compensation vote going forward. However, because this vote is advisory and nonbinding, our Board may decide to hold an advisory vote on named executive officer compensation more or less frequently than the option approved by stockholders if it determines that such vote would be in the best interests of our Company and our stockholders. The results of the vote will not be construed to create or imply any change or addition to the fiduciary duties of the Board. 
+The frequency that receives the vote of a majority of the voting power of our common stock present virtually or represented by proxy at the Annual Meeting and entitled to vote thereon will be considered the frequency preferred by stockholders. In the event that no option receives the vote of a majority of the voting power present and entitled to vote, the frequency receiving the highest number of votes cast “For” such frequency will be considered the frequency preferred by the stockholders. In either case, since this proposal is an advisory vote, the result will not be binding on our Board, the Compensation Committee, or the Company. You are not voting to approve or disapprove the Board’s recommendation on this proposal. You may vote for “1-year,” “2-years,” “3-years,” or “Abstain.” If you vote to “Abstain,” your shares will not be voted for any frequency. An abstention, therefore, will have the same effect as a vote “Against” in determining whether any of the frequencies received the vote of a majority of the voting power present and will also reduce the likelihood that one of the alternatives will receive a majority vote. In the event no alternative receives a majority vote, an abstention will have no effect on the outcome of this proposal as the alternative receiving the most votes “FOR” will be deemed to be the alternative approved by the shareholders. Broker non-votes will have no effect on the outcome of this proposal. 
+
+| |
+
+| FOR ✔ | OUR BOARD, UPON RECOMMENDATION OF OUR COMPENSATION COMMITTEE, RECOMMENDS THAT STOCKHOLDERS VOTE, ON AN ADVISORY BASIS, FOR FUTURE ADVISORY VOTES ON NAMED EXECUTIVE OFFICER COMPENSATION TO BE HELD EVERY “1-YEAR.” |
+
+| |
+
+| |
+
+| 51 |
+
+| |
+
+TABLE OF CONTENTS
+Pay Versus Performance 
+As required by Section 953(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act and Item 402(v) of Regulation S-K, we are providing the following pay versus performance table to illustrate the relationship between executive compensation actually paid and certain of the Company’s financial performance measures. For information regarding the Company’s pay-for-performance philosophy and how the Company aligns executive compensation with its performance, refer to the Compensation Discussion and Analysis section above. 
+
+| |
+
+| Fiscal Year (a) | Summary Compensation Table (“SCT”) Total for Principal Executive Officer (“PEO”) (b) (1) | Compensation Actually Paid (“CAP”) to PEO (c) (2) | Average SCT Total for non-PEO NEOs (d) (1) | Average CAP to non-PEO NEOs (e) (2) | Value of Initial Fixed $100 Investment Based On: |
+
+| Total Shareholder Return (“TSR”) (f) (3) | Peer Group TSR (g) (4) | Net Income (Loss) (7) (in millions) (h) (5) | Net Sales (7) (in millions) (i) (6) |
+
+| 2025 | $ 25,721,751 | $ 13,941,635 | $ 5,596,468 | $( 20,186,443 ) | $ 28.59 | $ 206.33 | $ 222.8 | $ 12,601.5 |
+
+| 2024 | $ 29,738,828 | $ 80,467,604 | $ 11,745,207 | $ 26,694,754 | $ 147.04 | $ 145.07 | $ 392.7 | $ 11,861.3 |
+
+| 2023 | $ 35,186,195 | $ 32,600,316 | $ 3,821,594 | $ 1,288,780 | $ 73.10 | $ 76.96 | $ 39.6 | $ 11,147.7 |
+
+| 2022 | $ 2,481,735 | $ ( 2,550,628 ) | $ 896,717 | $ ( 984,632 ) | $ 173.18 | $ 84.41 | $ 49.9 | $ 10,119.0 |
+
+| 2021 | $ 12,450,338 | $( 85,796,398 ) | $ 2,242,415 | $( 32,080,908 ) | $ 165.79 | $ 168.83 | $( 75.2 ) | $ 8,967.4 |
+
+| |
+
+| (1) | Included in column (b) are the total compensation amounts reported in the Summary Compensation Table for Mr. Singh , our PEO for each of the fiscal years presented. Included in column (d) are the average total compensation amounts for non-PEO NEOs reported in the Summary Compensation Table. Our non-PEO NEOs for fiscal years 2021 and 2022 include Mr. Marte, Mr. Mehta and Ms. Helfrick. Our non-PEO NEOs for Fiscal Year 2023 include Mr. Marte, Mr. Mehta, Ms. Helfrick, Ms. Bowman and Mr. Morant. Our non-PEO NEOs for Fiscal Year 2024 include Mr. Reeder, Mr. Mehta and Ms. Bowman. Our non-PEO NEOs for Fiscal Year 2025 include Mr. Reeder, Mr. Mehta and Mr. Billings. |
+
+| (2) | Included in columns (c) and (e) are CAP and average CAP to the PEO and the non-PEO NEOs, respectively, for each of the fiscal years presented. To calculate CAP and average CAP, amounts in columns (b) and (d) are adjusted in accordance with Item 402(v) of Regulation S-K requirements and are presented in the tables below. These amounts do not reflect the actual amount of compensation earned by or paid to the PEO and our non-PEO NEOs for each of the fiscal years presented. |
+
+| |
+
+| PEO SCT to CAP Reconciliation |
+
+| Fiscal Year |
+
+| 2025 | 2024 | 2023 | 2022 | 2021 |
+
+| SCT Total | $ 25,721,751 | $ 29,738,828 | $ 35,186,195 | $ 2,481,735 | $ 12,450,338 |
+
+| Less value of Stock Awards reported in SCT | ( 20,004,002 ) | ( 23,889,477 ) | ( 31,048,358 ) | — | ( 10,106,250 ) |
+
+| Plus year-end fair value of outstanding and unvested equity awards granted in the year | 17,911,965 | 50,724,245 | 31,209,397 | — | 5,493,750 |
+
+| Plus (less) year over year change in fair value of outstanding and unvested equity awards granted in prior years | ( 4,259,758 ) | 9,427,335 | — | 854,397 | ( 64,828,925 ) |
+
+| Plus (less) year over year change in fair value of equity awards granted in prior years that vested in the year | ( 5,428,321 ) | 8,340,381 | ( 2,746,918 ) | ( 5,886,760 ) | ( 28,805,311 ) |
+
+| Plus fair value as of vesting date of equity awards granted and vested in the year | — | 6,126,292 | — | — | — |
+
+| CAP Total | $ 13,941,635 | $ 80,467,604 | $ 32,600,316 | $( 2,550,628 ) | $( 85,796,398 ) |
+
+| |
+
+| |
+
+| 52 |
+
+| |
+
+TABLE OF CONTENTS
+
+| |
+
+| Average of Non-PEO NEOs SCT to CAP Reconciliation |
+
+| Fiscal Year |
+
+| 2025 | 2024 | 2023 | 2022 | 2021 |
+
+| SCT Total | $ 5,596,468 | $ 11,745,207 | $ 3,821,594 | $ 896,717 | $ 2,242,415 |
+
+| Less value of Stock Awards reported in SCT | ( 5,012,522 ) | ( 10,537,614 ) | ( 3,284,969 ) | — | ( 1,347,500 ) |
+
+| Plus year-end fair value of outstanding and unvested equity awards granted in the year | 1,533,418 | 17,445,330 | 1,412,899 | — | 732,500 |
+
+| Plus (less) year over year change in fair value of outstanding and unvested equity awards granted in prior years | ( 2,869,310 ) | 642,118 | ( 61,656 ) | 279,816 | ( 23,338,392 ) |
+
+| Plus (less) year over year change in fair value of equity awards granted in prior years that vested in the year | ( 435,203 ) | 520,322 | ( 723,564 ) | ( 2,161,165 ) | ( 10,369,931 ) |
+
+| Plus fair value as of vesting date of equity awards granted and vested in the year | — | 7,206,596 | 173,563 | — | — |
+
+| Less prior year-end fair value for any equity awards forfeited in the year | ( 18,999,294 ) | ( 327,205 ) | ( 49,087 ) | — | — |
+
+| CAP Total | $( 20,186,443 ) | $ 26,694,754 | $ 1,288,780 | $ ( 984,632 ) | $( 32,080,908 ) |
+
+| |
+
+| (3) | Based on an initial fixed investment of $100 on January 29, 2021, the last business day of our 2020 fiscal year. |
+
+| (4) | Represents the Dow Jones Internet Commerce Index, which we consider to be our peer group under Regulation S-K Item 201(e), as presented in our 2025 Annual Report. Based on an initial fixed investment of $100 on January 29, 2021, the last business day of our 2020 fiscal year. TSR is weighted according to each peer company’s stock market capitalization at the beginning of each period for which a return is indicated. |
+
+| (5) | Represents our net income (loss) amounts for each of the years presented as reported in the respective annual report on Form 10-K. |
+
+| (6) | We have selected net sales as our most important financial measure (that is not otherwise required to be disclosed in the table) used to link the CAP of our NEOs to company performance for Fiscal Year 2025. |
+
+| (7) | Consistent with the Company's Annual Report on Form 10-K for Fiscal Year 2025, the Company has updated historical comparative periods to reflect the operations of Chewy Pharmacy KY beginning with the Company's 2021 Fiscal Year. Any historical comparatives prior to Fiscal Year 2021 are consistent with previously reported financial information. |
+
+| |
+
+| 53 |
+
+| |
+
+TABLE OF CONTENTS
+Pay Versus Performance Comparative Disclosure 
+The following graphs illustrate the relationship between CAP as disclosed in the Pay Versus Performance table and (i) the Company’s cumulative TSR, (ii) the peer group’s cumulative TSR, (iii) the Company’s net income (loss) and (iv) net sales. CAP reflects adjusted values to unvested and vested equity awards during the years shown in the table based on year-end stock prices, grant and vesting date fair values and projected performance modifiers, but does not reflect actual amounts paid out for those awards. CAP generally fluctuates due to stock price volatility and varying levels of projected and actual achievement of performance goals. 
+Compensation Actually Paid versus Company TSR and Peer Group TSR
+
+| |
+
+| 54 |
+
+| |
+
+TABLE OF CONTENTS
+Compensation Actually Paid and Net Income (Loss) 
+
+| |
+
+| 55 |
+
+| |
+
+TABLE OF CONTENTS
+Compensation Actually Paid and Net Sales 
+
+Tabular List of Performance Measures 
+The following table lists our most important performance measures used by us to link CAP of our NEOs to the Company’s performance for Fiscal Year 2025. For more information, refer to “Named Executive Officer Compensation – Compensation Discussion and Analysis.” We are providing this list in accordance with Item 402(v) of Regulation S-K to provide information on performance measures used by the Compensation Committee to determine NEO compensation, as more fully described in “Named Executive Officer Compensation – Compensation Discussion and Analysis.” 
+
+| |
+
+| Most Important Performance Measures |
+
+| Net income (loss) |
+
+| Net sales |
+
+| Adjusted EBITDA margin (1) |
+
+| Free cash flow (1) |
+
+| |
+
+| (1) | Adjusted EBITDA margin and free cash flow are non-GAAP financial measures. For a reconciliation of non-GAAP to GAAP financial measures refer to “Reconciliation of Non-GAAP Financial Measures” in Appendix A. |
+
+| |
+
+| 56 |
+
+| |
+
+TABLE OF CONTENTS
+OTHER MATTERS 
+Materials Not Incorporated by Reference 
+The Audit Committee Report and Compensation Committee Report included in this proxy statement shall not be deemed soliciting material or filed with the SEC and shall not be deemed incorporated by reference into any prior or future filings made by us under the Securities Act or the Exchange Act, except to the extent we specifically incorporate such information by reference. In addition, this document includes website addresses, which are intended to provide inactive, textual references only. The information on these websites does not form part of this document. 
+Annual Report on Form 10-K 
+We have filed our Annual Report on Form 10-K for the fiscal year ended February 1, 2026 with the SEC. It is available free of charge at the SEC’s web site at www.sec.gov and on our web site at https://investor.chewy.com. 
+Paper copies of our Annual Report on Form 10-K, including the financial statements and schedules, may be obtained without charge from the Company. 
+Paper copies of exhibits to the Annual Report on Form 10-K are available, but a reasonable fee per page will be charged to the requesting stockholder. Stockholders may make requests in writing to us at Investor Relations, Chewy, Inc., 7700 West Sunrise Boulevard, Plantation, Florida 33322. The Annual Report is not to be regarded as part of the proxy solicitation material. 
+If you did not receive a printed copy of our proxy materials and you wish to receive a paper proxy card or voting instruction form or other proxy materials for the purposes of the Annual Meeting, you should follow the instructions included in your Notice. 
+
+| |
+
+| 57 |
+
+| |
+
+TABLE OF CONTENTS
+APPENDIX A 
+Reconciliation of Non-GAAP Financial Measures 
+Our Company maintains a 52- or 53-week fiscal year, with our fiscal year ending each year on the Sunday that is closest to January 31 of that year. Our Fiscal Year 2025 ended February 1, 2026 and included 52 weeks. Our Fiscal Year 2024 ended February 2, 2025 and included 53 weeks. 
+To supplement our GAAP results, we present certain non-GAAP financial measures that management uses to evaluate operating performance, assess liquidity and inform capital allocation decisions. These measures include Adjusted EBITDA and Adjusted EBITDA margin, Adjusted net income and Adjusted earnings per share and Free cash flow. 
+Adjusted EBITDA excludes depreciation and amortization, share-based compensation and related taxes, income tax provision (benefit), interest income (expense), transaction-related costs, changes in the fair value of equity warrants, severance and exit costs and other items not considered indicative of our core operations. Adjusted EBITDA margin represents Adjusted EBITDA as a percentage of net sales. 
+Adjusted net income and Adjusted earnings per share exclude certain non-cash and non-recurring items, including share-based compensation and related taxes, releases of valuation allowances associated with deferred tax assets, changes in the fair value of equity warrants and severance and exit costs. 
+Free cash flow represents net cash provided by operating activities less capital expenditures. 
+We believe these measures provide additional insight into the underlying trends in our business and facilitate comparisons across reporting periods. Reconciliations to the most directly comparable GAAP measures are provided below. 
+These non-GAAP measures have limitations and should not be considered in isolation or as a substitute for GAAP results. For example, Adjusted EBITDA does not reflect capital expenditures, working capital requirements, interest income (expense), income taxes or share-based compensation, which remains a recurring component of our compensation structure. In addition, other companies may calculate non-GAAP measures differently, which may limit their comparability. Accordingly, these measures should be considered together with our GAAP financial statements and related disclosures. 
+
+| |
+
+| A-1 |
+
+| |
+
+TABLE OF CONTENTS
+Adjusted EBITDA and Adjusted EBITDA Margin 
+The following table presents a reconciliation of net income to adjusted EBITDA, as well as the calculation of net margin and adjusted EBITDA margin, for each of the periods indicated. 
+
+| |
+
+| (in millions, except percentages) | Fiscal Year |
+
+| Reconciliation of Net Income to Adjusted EBITDA (1) | 2025 | 2024 |
+
+| Net income | $ 222.8 | $ 392.7 |
+
+| Add (deduct): |
+
+| Depreciation and amortization | 129.3 | 114.6 |
+
+| Share-based compensation expense and related taxes | 311.2 | 332.1 |
+
+| Interest income, net | (15.2) | (35.1) |
+
+| Change in fair value of equity warrants | 2.6 | (2.3) |
+
+| Income tax (benefit) provision | 40.5 | (241.0) |
+
+| Severance costs | 6.3 | — |
+
+| Exit costs | — | — |
+
+| Transaction related costs | 13.2 | 1.6 |
+
+| Other | 8.5 | 7.9 |
+
+| Adjusted EBITDA | $ 719.2 | $ 570.5 |
+
+| Net sales | $12,601.5 | $11,861.3 |
+
+| Net margin | 1.8% | 3.3% |
+
+| Adjusted EBITDA margin | 5.7% | 4.8% |
+
+| |
+
+| (1) | Includes the impact of the 53rd week for Fiscal Year 2024. |
+
+We define net margin as net income divided by net sales and adjusted EBITDA margin as adjusted EBITDA divided by net sales. 
+
+| |
+
+| A-2 |
+
+| |
+
+TABLE OF CONTENTS
+Adjusted Net Income and Adjusted Basic and Diluted Earnings per Share 
+The following table presents a reconciliation of net income to adjusted net income, as well as the calculation of adjusted basic and diluted earnings per share, for each of the periods indicated. 
+
+| |
+
+| (in millions, except per share data) | Fiscal Year |
+
+| Reconciliation of Net Income to Adjusted Net Income (1) | 2025 | 2024 |
+
+| Net income | $222.8 | $ 392.7 |
+
+| Add (deduct): |
+
+| Share-based compensation expense and related taxes | 311.2 | 332.1 |
+
+| Change in fair value of equity warrants | 2.6 | (2.3) |
+
+| Deferred tax asset valuation allowance release | (2.4) | (275.7) |
+
+| Severance costs | 6.3 | — |
+
+| Exit costs | — | — |
+
+| Adjusted net income | $540.5 | $ 446.8 |
+
+| Weighted-average common shares used in computing adjusted earnings per share: |
+
+| Basic | 414.1 | 421.4 |
+
+| Effect of dilutive share-based awards | 11.7 | 9.6 |
+
+| Diluted | 425.8 | 431.0 |
+
+| Earnings per share attributable to common Class A and Class B stockholders |
+
+| Basic | $ 0.54 | $ 0.93 |
+
+| Diluted | $ 0.52 | $ 0.91 |
+
+| Adjusted basic | $ 1.31 | $ 1.06 |
+
+| Adjusted diluted | $ 1.27 | $ 1.04 |
+
+| |
+
+| (1) | Includes the impact of the 53rd week in Fiscal Year 2024. |
+
+Free Cash Flow 
+The following table presents a reconciliation of net cash provided by operating activities to free cash flow for each of the periods indicated. 
+
+| |
+
+| (in millions) | Fiscal Year |
+
+| Reconciliation of Net Cash Provided by Operating Activities to Free Cash Flow (1) | 2025 | 2024 |
+
+| Net cash provided by operating activities | $ 691.6 | $ 596.3 |
+
+| Deduct: |
+
+| Capital expenditures | (129.2) | (143.8) |
+
+| Free Cash Flow | $ 562.4 | $ 452.5 |
+
+| |
+
+| (1) | Includes the impact of the 53rd week in Fiscal Year 2024. |
+
+Free cash flow may vary period to period based on the timing and level of capital expenditures, including investments in fulfillment capacity, pharmacy facilities, veterinary clinics, technology infrastructure and other operational initiatives. Free cash flow may also be affected by changes in working capital, including fluctuations in inventory levels, vendor payment terms and other components of the cash conversion cycle. 
+
+| |
+
+| A-3 |
+
+| |
+
+TABLE OF CONTENTS
+
+TABLE OF CONTENTS
+
+TABLE OF CONTENTS
+

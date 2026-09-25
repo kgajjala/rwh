@@ -33,7 +33,7 @@ Add/refresh an Outsider read in the Summary's "Why / Why not" only when a **mate
 
 ---
 
-## Cross-Ticker Scoring (as of 2026-09-17)
+## Cross-Ticker Scoring (as of 2026-09-25)
 
 Anchored on the buyback-timing test, read from each page's §4 capital-allocation block. This table is the authoritative central record; each §4 block is the canonical per-ticker home.
 
@@ -50,6 +50,7 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 
 | Ticker | CEO | Read |
 |---|---|---|
+| **CHWY** | Singh | **New (2026-09-25).** FY2024–25 buybacks (~$1.2B) mostly absorbed BC Partners' secondaries at prices well above today's; 2026 turned countercyclical — authorization doubled in April, **$400M at a $22.88 average** with the heaviest buying at $19–21 near the 52-wk low. ⚠️ Funded alongside a first $600M term loan and $575M of health M&A; SBC (~$300M/yr) sits outside every pay metric. |
 | **UBER** | Khosrowshahi | **On probation (2026-09-07).** First-ever buyback (2024) → **$3B record quarter into the 52-wk low**; $27B authorized, $11.3B executed. ⚠️ Q2 2026 failed the signature test for the first time: $510M repurchased at ~$75 while ~$4B built a Delivery Hero stake and the €41.50 all-cash offer ($13.7B net, gross leverage <2×, accretive high-single-digit by year three) launched. Holds Outsider-leaning only if repurchases are back ≥$1.5B/qtr by the Q4 print. |
 | **ACN** | Sweet | **Countercyclical buybacks at trough multiples** — $4.6B FY25 + $1.7B Q2 FY26 at ≈12–13x fwd EPS (vs. historical 22–28x avg); 20-yr dividend-growth streak blunts pure Singleton profile. |
 | **BKNG** | Fogel | **Peak buyback at fear-driven dips** (FY23 $10.4B), −22% share count / 5 yrs; Q1 2026 $3.6B ≈ $14B annualized into the –28% drawdown. Dividend initiation tempers pure-Singleton profile. |

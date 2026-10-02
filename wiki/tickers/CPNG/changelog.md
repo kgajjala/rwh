@@ -4,6 +4,36 @@
 
 ---
 
+## [2026-10-02] — Q2 2026 Earnings + KFTC Confrontation + v3→v5 Migration
+
+**Trigger**: [Q2 2026 release](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000070/cpng-06302026ex991.htm) and [10-Q](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000073/cpng-20260630.htm) (Aug 4). After them, a −15% slide to $13.87 driven by the KFTC fight: Coupang refused an on-site inspection (Aug 19–21), the KFTC raided again under the Fair Trade Act (Sep 1), and the court rejected Coupang's injunction (Sep 23).
+**Sources**: page §8. **Verification note**: this session's egress blocked sec.gov, data.sec.gov, the IR CDN, Yahoo and every other fetch host. All figures came through web search, and load-bearing ones were cross-checked across ≥2 independent results. Price, Form 4s, XBRL series and the FY2025 Item 1A diff need a click-through on the next touch. No new `raw/` files were stored.
+
+### Scorecard
+- A fourth distinct Korean regulatory action within 12 months — 🔴 Fail — two KFTC raids (large-retail act, then abuse of dominance), a criminal-complaint threat, an obstruction fine and a new investigations bureau
+- Q2 Product Commerce CC growth ≥ high single digits — ✅ Pass — +8% CC; core-cohort spend +16%
+- 2027 margin-expansion commitment survives — ✅ Pass — PC margin back to pre-incident by mid-2027 (Anand)
+
+The failed test moves the Bear from 30% to 35% and adds a model-restriction path to it.
+
+### Changed
+- Q2: revenue $8.9B (+10% CC, ≈$170M below consensus); adj EBITDA $163M against ≈$7M expected; PC margin 5.1% (from 9.0%); net loss −$570M including the $410M PIPC fine; Q3 guide 8–9% CC
+- WOW at an all-time high; active customers 24.7M (+3%)
+- 💰 Q2 buyback $459M at ≈$19.78 (H1 $850M), authorization +$1B; **$750M revolver draw**; short-term borrowings $1.985B. Net cash is ≈$3.5B, not ≈$5.7B: the August page omitted short-term borrowings
+- Incheon center fire (Jul 18): $246M carrying-value impact, missed by the August update
+- TTM FCF $105M
+- Why it fell: the print cost ~7%, much of it recovered in August; September −13% was the KFTC escalation. FX was a tailwind and shares short fell
+- Page migrated v3 → v5. Entry is now hurdle-derived, ≤$11.02 (was $16–18)
+
+### Status
+- **Thesis**: Weakened (regulatory); operating tests strengthened
+- **PW EV**: $21.37 → $20.30 · **PW return/yr**: 5.5% → 7.9% (hurdle 13%) · **R/R**: 2.4 → 4.1 · **BAIT**: Single (B), unchanged
+- **Verbs**: non-holder Watch · holder Hold
+
+**Next trigger**: Q3 2026 earnings, ~Nov 3 (date unconfirmed), or any KFTC sanction decision.
+
+---
+
 ## [2026-08-02] — Korean Regulatory Cluster: PIPC ≈$410M + NTS Tax Assessment + Chaebol-Designation Injunction
 
 **Trigger**: A three-month window (baseline 2026-05-10) containing the densest regulatory sequence in the company's public history — PIPC fines announced June 10–11, National Tax Service preliminary assessment July 9, Seoul High Court injunction July 14 — plus a new 52-wk low of $14.92, a four-reading short-interest build, and the 10-Q disclosure that Q1 buybacks tripled. Q2 2026 earnings land August 4, two days out.

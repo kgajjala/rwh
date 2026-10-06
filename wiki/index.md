@@ -18,8 +18,8 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 |--------|--------|---------|------|-----------|--------------|---------|
 | [ABNB](tickers/ABNB/ABNB.md) | Paused | Airbnb | Wide | Moderate | 2026-05-10 | **v2.4→v2.14** + Q1 2026 — rev +18% beat, GBV +19%, FCF $1.7B, FY26 raised; cross-sell quantified; verb upgrade Watch→**Initiate**; PW EV $189 (5-yr); R/R 5.5:1 |
 | [ACLS](tickers/ACLS/ACLS.md) | Paused | Axcelis Technologies | Narrow | Low-Moderate | 2026-05-10 | **v2.4→v2.14** + Q1 beat ($199M / $0.72 EPS) + Q2 guide above; FY26 reaffirmed; B. Riley PT $150→$180; PW EV $180 (5-yr); R/R ~2:1; **Watch / Hold**; entry $95–115 |
-| [ACN](tickers/ACN/ACN.md) | Active | Accenture plc | Wide | Moderate-High | 2026-05-31 | **v3.0 + Workflow B** — #1 global IT-services/consulting at $187.07 (May 29 close, ~19th %ile) on AI-disintermediation fear; FY25 rev $69.7B / ~9.5% FCF yield / ~13.6× fwd P/E trough / ~3.5% div (20 yrs growth); record $22.1B Q2 FY26 bookings + GenAI $2.2B/qtr + OpenAI Federal partnership (May 2026). Outsider-leaning (trough buybacks). BAIT 3–4 (B-strong); PW EV $233 (5-yr); R/R ~2.2:1; **Watch / Initiate on dips ≤$185 / Hold**; Q3 FY26 Jun 18 |
-| [ADBE](tickers/ADBE/ADBE.md) | Active | Adobe | Wide→Narrowing | High | 2026-06-13 | Q2 FY2026 — rev $6.62B (+13% beat), NGAAP EPS $5.96 (+18%), AI-first ARR >$500M (3× YoY); FY2026 guide raised $26.5–26.6B; CFO Durn departed (→ Marvell), CEO search ongoing — dual vacancy; H2 ARR organic headwind ~$500M (freemium bet + deferred CC price opts); stock $204 (new 52-wk low); ≈8.4× FY26E NGAAP / 11% FCF yield; PW EV $323; R/R ≈8:1. **Initiate gradually / Hold-Add selectively** |
+| [ACN](tickers/ACN/ACN.md) | Active | Accenture plc | Wide, narrowing on price | Moderate | 2026-10-06 | 🟡 **Watch (entry ≤$161) / Hold** — the trough buyback at ~$131 was right; at $195, ~3% organic growth, falling price and $8B of M&A pay 8.9%/yr. **PW EV $254: +30% up / −24% down.** |
+| [ADBE](tickers/ADBE/ADBE.md) | Active | Adobe | Wide, narrowing | Moderate | 2026-10-06 | 🟡 **Watch (entry ≤$207) / Hold** — still beating, but organic ARR ~9%, price increases paused and an internal CEO; the return is mostly buybacks. **PW EV $382: +60% up / −25% down.** |
 | [AMCR](tickers/AMCR/AMCR.md) | Active | Amcor plc | Narrow-and-widening (post-Berry duopoly) | Moderate | 2026-05-10 | **v2.14 ingest** — global packaging at $39.93 / 9.4× FY26E P/E + 6.51% div (51+ yr unbroken); Berry $650M synergy bet; Double BAIT (B+A); PW EV $57 (+43%); R/R ~6:1; Initiate <$44 / Hold |
 | [AMZN](tickers/AMZN/AMZN.md) | Active | Amazon | Wide | Moderate | 2026-08-19 | Q2 FY26 — revenue **$200.6B (+20%)**, op income +43%, **AWS +37%** (fastest in 18 qtrs) w/ op income +64%, 39.4% margin, **$496B backlog**, ads +26%; ⚠️ reported net income $62.6B **includes a ~$50.5B Anthropic mark** → 21.3× reported vs **~34× clean**; **FCF –$7.6B TTM**, capex $200B→**$220B**; **$50B OpenAI investment** completed vs. $100B/8-yr AWS commitment (circularity); crossed **$3T Aug 3**, now –8%; migrated to **v3.0 13-section schema**; §11 3-yr→**5-yr**; PW EV $322→**$370**; R/R 1.4:1→**2.7:1**; **Watch / Hold**; entry $230–277 |
 | [BKNG](tickers/BKNG/BKNG.md) | Active | Booking Holdings | Wide | High | 2026-05-01 | Q1 beat-and-cut on Iran/Hormuz; $3.6B Q1 buyback acceleration; Initiate / Add at $168 |
@@ -31,7 +31,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | [DASH](tickers/DASH/DASH.md) | Active | DoorDash | Narrow | Moderate | 2026-08-26 | **WEEKLY**: Q2 2026 (Aug 5) beat both lines — Adj EBITDA $914M (+40%) *above* the $770–870M guide, revenue $4.454B (+36%), GOV $33.1B (+36%), contribution profit 5.0% of GOV; Q3 guided $950M–$1.1B, midpoint above the printed quarter. New Verticals reaffirmed gross-profit-positive H2; DoorDash Air FAA-certified (Jul 29); Dot targeted at high-single-digit % of Phoenix orders by YE26. 💰 Buyback executed for the first time — $1.049B / 6.8M sh at ≈$154 avg into the drawdown → Outsider grade upgraded to **Outsider-leaning**. Scenario set rebuilt off run-rate: PW EV $133 → **$245**; R/R 0.23:1 → **1.2:1**; BAIT Double → **Triple (A+I+T)**. Stock +26.5% to $233.50 on the same news, so spot is only ≈5% below PW EV (≈+1%/yr) and GAAP NI fell 30% vs. +40% Adj EBITDA. **Watch / Hold** (both +2 notches); entry $184–208; Q3 ~Nov 4, 2026 |
 | [DELL](tickers/DELL/DELL.md) | Active | Dell Technologies | Narrow | Low-Moderate | 2026-08-02 | Q1 FY27 blowout — rev $43.8B (+88%), AI server $16.1B (+757%), backlog $51.3B, FY27 guide raised to $167B/$17.90 EPS/$60B AI server; stock $405 (+89%); PW EV $229→$366 (5-yr); R/R ≈0.8:1; BAIT Double (A+I); **Watch / Hold** |
 | [DIS](tickers/DIS/DIS.md) | Active | The Walt Disney Company | Wide (bifurcated) | Moderate-High | 2026-07-01 | **v3.0 Initial Ingest** — at $98.84 (~21st %ile, –21% from 52-wk high) on sector-wide media stigma, ESPN sports-rights cost step-up (Q3 FY26 guided –14% YoY), and an escalating FCC/ABC broadcast-license dispute; Disney+/Hulu op income +88% YoY, Experiences records almost every quarter ($10.0B FY25); clean CEO handoff to Josh D'Amaro (Mar 18, 2026), Iger stays as senior advisor; buyback raised to $8B, dividend to $1.50/yr, net debt/EBITDA 1.9× (lowest since 2018). Double-Triple BAIT (A-Strong); PW EV $146 (5-yr); R/R ~4.7:1. **Initiate / Hold-Add**; spot already inside the ≤$115 entry zone; Q3 FY26 ~Aug 12 |
-| [DKS](tickers/DKS/DKS.md) | Active | DICK'S Sporting Goods | Narrow, narrowing | Moderate | 2026-09-22 | 🟡 **Watch (entry ≤$131) / Hold** — sum-of-the-parts still cheap and the comp guide held, but DICK'S is now borrowing to fund the dividend. **PW EV $204: +55% up / −24% down.** |
+| [DKS](tickers/DKS/DKS.md) | Active | DICK'S Sporting Goods | Narrow, narrowing | Moderate | 2026-10-06 | 🟡 **Watch (entry ≤$130) / Hold** — sum-of-the-parts still cheap and the comp guide held; $1.0B of new notes fund a dividend FCF doesn't cover, though the CFO is buying. **PW EV $203: +48% up / −29% down.** |
 | [EBAY](tickers/EBAY/EBAY.md) | Active | eBay | Narrow, widening | Moderate-High | 2026-09-07 | 🟢 **Initiate / Add** — Q2 beat and guide raised while Focus Categories crossed 40% of GMV; the stock round-tripped a rejected $125 GameStop bid. PW EV $138: +34% up / −42% down |
 | [FDX](tickers/FDX/FDX.md) | Active | FedEx Corporation | Narrow (eroding) | Moderate | 2026-06-24 | **v3.0 Initial Ingest** — post-spin parcel pure-play (FedEx Freight → FDXF, June 1, 2026; FY-end May→Dec) at ~$297 (−6% on the June 23 Q4 print). Record FY2026 ($94.7B / $20.24 adj EPS +11%) through a ~$1B trade headwind; optical FY2027 continuing-ops guide $16.90–$18.10 (Freight deconsolidation + ~$350M stranded costs + pilot-contract cost). DRIVE ($4B done) + Network 2.0 ($2B by FY27) → FY2029 ~8% margin the crux of lifting sub-WACC ROIC (~6.7%). Amazon now #1 US carrier by volume; Double BAIT (A+B-Mod); Outsider grade Reinvestor (reforming). PW EV $372 (+25% 5-yr); R/R ~3:1. **Initiate (scaled $280–300) / Hold-Add**; entry at 20%-MoS line; next read ~Sept 2026 |
 | [FIG](tickers/FIG/FIG.md) | Active | Figma | Narrow-Emerging Wide | Moderate | 2026-05-10 | **v2.4→v2.14** + Anthropic Claude Design launch Apr 17 (named direct AI-disruption threat); FIG –16% in April; short int 20.67% (+27.5% MoM); Director Reed buy $36.5M; Q1 print May 14; PW EV ~$28 (5-yr); R/R ~5:1; **Initiate (small, contrarian) / Hold** |
@@ -74,8 +74,8 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 |--------|-----------------|----------------|------|--------------------------------------|
 | ABNB | *(Paused 2026-05-18)* | — | — | — |
 | ACLS | *(Paused 2026-05-18)* | — | — | — |
-| ACN | $187.07 (5/29/26) | –42% | 3–4 lens (B-Strong) | Watch / Initiate on dips ≤$185 / Hold |
-| ADBE | $245.44 | –42% | Triple | Initiate / Add |
+| ACN | **$195.05** (10/5/26) | **−33.0%** (~44th %ile) | **Double (B+A)** | 🟡 **Watch / Hold**; entry ≤$161; PW EV $254; 8.9%/yr vs 13% hurdle |
+| ADBE | **$238.79** (10/5/26) | **−34.3%** (~28th %ile) | **Double (B+A)** | 🟡 **Watch / Hold**; entry ≤$207; PW EV $382; 9.9%/yr vs 13% hurdle |
 | AMZN | **$264.16** (8/19/26) | –8.0% | Triple (A-Mod-Strong, I+T-Mod; **B-Weak**) | **Watch / Hold**; entry $230–277; R/R 2.7:1 |
 | BKNG | $180.25 (post-split) | –22.8% | Triple (B+A-Strong) | Initiate / Hold-Add |
 | BRK.B | $469.32 | –13.4% (52-wk low band) | Triple (B+I-Strong, A-Mod) | **Initiate (small/scaled) / Hold-Add** (Abel succession discount; March buyback at zone) |
@@ -86,7 +86,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | DASH | **$233.50** (8/26/26) | –18.2% | Triple (A+I+T-Mod; **B-Weak**) | **Watch / Hold** — PW EV $245 only ≈5% above spot (≈+1%/yr); entry $184–208; ≈41× FY26E adj, ≈120× TTM GAAP; R/R ≈1.2:1 |
 | DELL | $405.37 | –14% | Double (A+I) | Watch / Hold |
 | DIS | $98.84 (7/1/26) | –21% | Double-Triple (A-Strong) | Initiate / Hold-Add |
-| DKS | **$131.77** (9/22/26) | **−46.1%** (~9th %ile) | **Triple (B+A+T)** | 🟡 **Watch / Hold**; entry ≤$131; PW EV $204; 12.9%/yr vs 13% hurdle |
+| DKS | **$137.13** (10/5/26) | **−43.9%** (~14th %ile) | **Triple (B+A+T)** | 🟡 **Watch / Hold**; entry ≤$130; PW EV $203; 11.8%/yr vs 13% hurdle |
 | EBAY | $103.41 (9/4/26) | –13.3% | Single (A-Strong) | **Initiate / Add**; entry ≤$117 |
 | FDX | ~$297 (6/24/26) | –14% (post-spin band) | Double (A+B-Mod) | Initiate (scaled $280–300) / Hold-Add |
 | FIG | $17.47 | –88% (post-IPO) | Triple (B+A+I) | Initiate (small, contrarian) / Hold-Add |
@@ -151,7 +151,9 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | Ticker | Gap | Source Needed |
 |--------|-----|--------------|
 | PEP | 2026 DEF 14A incentive metrics and weightings (CD&A): SEC HTML truncates in the fetcher; SEC and IR PDFs exceed size limits or return 403 | Local parse of `pep_courtesy-pdf.pdf` (SEC accession 0001308179-26-000169) |
-| DKS | House of Sport / Field House per-store sales and return on capital; four-wall margin | Investor deck or Goldman fireside Sep 14, 2026 |
+| DKS | House of Sport / Field House per-store sales and return on capital; four-wall margin (not given at the Sep 14 fireside) | Q3 call ~Nov 24 or FY2026 investor materials |
+| ADBE | Subscriber counts, NRR / gross retention, freemium-to-paid conversion; verbatim Q3 FY26 transcript | Q3 prepared remarks PDF; MAX (Nov 10–12) or Q4 FY26 disclosure |
+| ACN | Utilization and attrition (not disclosed in FY26 releases); FY26 10-K Item 1A diff | FY26 10-K, due mid-October 2026 |
 | CHWY | Customer retention/churn, CAC and LTV; Chewy+ membership count; FY2024–25 shareholder letters (none published); Dec 2023 Investor Day deck; J.P. Morgan (May 19) and Morgan Stanley (Mar) conference transcripts | Q3 FY2026 call; IR events archive; paywalled transcripts |
 | UBER | Q2 2026 segment Adjusted EBITDA (remarks give segment OI margins only); AV fleet commitments by partner | Q2 2026 supplemental slides |
 | LLY | FCF, operating cash flow, capex from 10-K | SEC EDGAR / investor.lilly.com |
@@ -175,4 +177,4 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 
 ---
 
-*Last updated: 2026-10-02*
+*Last updated: 2026-10-06*

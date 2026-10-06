@@ -1,20 +1,20 @@
 # DKS — DICK'S Sporting Goods, Inc.
 
-> **Schema** v5.0 · **Updated** 2026-09-22 · **Status** Active
-> **Price** $131.77 verified Sep 22, 2026 11:46 AM EDT ([Yahoo](https://finance.yahoo.com/quote/DKS/); intraday, **+6.6% on the day**) · 52-wk $120.15–$244.38 · ~9th %ile · **−46.1% from high**
+> **Schema** v5.0 · **Updated** 2026-10-06 · **Status** Active
+> **Price** $137.13 verified Oct 5, 2026 4:00 PM EDT close ([Yahoo](https://finance.yahoo.com/quote/DKS/)) · 52-wk $120.15–$244.38 · ~14th %ile · **−43.9% from high**
 > **Type** Store-based retail — US sporting goods + global sneaker retail · **Stage** Mature compounder (DICK'S) carrying a turnaround (Foot Locker)
 
 ## Verdict
 
-**The market repriced the whole company for a problem confined to a segment that is ~34% of sales and none of its profit, leaving the untouched DICK'S business at ≈8.5× its own guided EBIT — and the fall since has taken the probability-weighted return to within seven basis points of the hurdle. What stops it clearing is no longer the price: it is that DICK'S went to the bond market this week rather than fund the dividend from cash it earns.**
+**The market repriced the whole company for a problem confined to a segment that is ~34% of sales and none of its profit, leaving the untouched DICK'S business at ≈8.5× its own guided EBIT. The new notes priced at $1.0B and 6.2–6.9%, and the CFO bought $1M of stock the day they launched. What keeps the return under the hurdle is that nothing yet shows the proceeds retiring stock rather than carrying the dividend.**
 
-🟡 **Non-holder: Watch (entry ≤$131)** · 🟡 **Holder: Hold**
+🟡 **Non-holder: Watch (entry ≤$130)** · 🟡 **Holder: Hold**
 
 | PW EV | PW return/yr | Compounding/yr | R/R | Entry | Trim | Avoid | FY26E P/E | Yield | BAIT | Moat | Next |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| **$204** | **12.9% (<13%)** | 12.9% | **6.2:1** | ≤$131 | $204–330 | ≥$330 | ≈11.5× | 3.79% | **Triple** (B+A+T) | Narrow, narrowing | 📅 Notes pricing |
+| **$203** | **11.8% (<13%)** | 12.7% | **4.8:1** | ≤$130 | $203–330 | ≥$330 | ≈11.9× | 3.65% | **Triple** (B+A+T) | Narrow, narrowing | 📅 Q3, ~Nov 24 |
 
-💰 **Outsider grade: Steward (not Outsider)**, surfaced on a large debt action (§4): a two-tranche senior notes offering launched Sep 22 whose stated uses include **share repurchases** — the $3.0B authorization has sat unused since the crash.
+💰 **Outsider grade: Steward (not Outsider)**, surfaced on a large debt action (§4): **$1.0B of senior notes** priced Sep 22 at 6.200% (2036) and 6.900% (2056), with stated uses that include share repurchases. The $3.0B authorization was still unused at the last filing.
 
 **Breaks if**: the DICK'S segment comp guide (+2.5% to +4.0%) is cut. It survived Q2 untouched; that single fact carries the whole thesis.
 
@@ -24,15 +24,15 @@ On August 25 DKS fell **30.7% in one session, the worst day in its history**, on
 
 Against $1.54–1.60B of guided DICK'S segment profit, the enterprise value pays a single-digit EBIT multiple for the good business and a **negative** one for Foot Locker (§5), with GameChanger and the Media Network free. That is the mispricing.
 
-The price has now almost closed the gap: at $131.77 the scenario set pays **12.9% a year against the 13% hurdle**, and anything below **$131.41** clears it — a line the stock spent much of the past fortnight beneath, touching a new low of $120.15 where it paid 15.3%.
+At $137.13 the scenario set pays **11.8% a year**. The stock spent Sep 14–21 below the **$130** entry, down to a $120.15 low, and has rallied 14% since.
 
-What changed is not the price but the funding. H1 free cash flow was **$49M against $225M of dividends**, and this week DICK'S launched **two tranches of senior notes** for *"general corporate purposes… repayment of debt, repurchases of shares"* (§4). The dividend is no longer funded from cash the business earns; whether that is opportunistic leverage into a five-year low or a hole being plugged turns on the size, which prices within days. Meanwhile the pro forma filed Sep 21 shows the combined company earned **$6.21 a share** in FY2025, not the $9.97 DICK'S reported alone.
+What changed is the funding. H1 free cash flow was **$49M against $225M of dividends**. On Sep 22 DICK'S priced **$1.0B of 10- and 30-year notes at 6.2% and 6.9%**, roughly double the coupons on its 2032/2052 paper, for uses that include *"repurchases of shares"* (§4). That adds ~$66M a year of interest. The same day the **CFO bought $1.0M of stock** in the open market, the first officer purchase since the crash (§7). Whether the proceeds retire stock at ~12× earnings or carry the dividend is still open, and the Q3 10-Q answers it. Meanwhile the pro forma filed Sep 21 shows the combined company earned **$6.21 a share** in FY2025, not the $9.97 DICK'S reported alone.
 
 ## What I'd Have To Be Wrong About
 
 1. **That Foot Locker is cyclical, not structurally dead.** Test: Q4 FY2026, when its comps first enter the reported base instead of being shown proforma. A print below the −2.0% floor with the loss past $(80)M means the fleet is shrinking faster than the turnaround can fix it.
 2. **That the DICK'S business is insulated.** Management pre-flagged Q3 gross margin as *"most pronounced."* Margin pressure I accept; a cut to the **comp** guide on Nov 24 would mean the promotional cycle reached demand, not just price, and the sum-of-the-parts collapses.
-3. **That the notes are offence, not defence.** The self-funding premise failed this week (§4). Test: the pricing terms within days, then the Q3 10-Q. Proceeds near the $1.5B of existing notes with visible repurchases here is Singleton behaviour; a raise that merely carries the dividend and capex with the buyback still untouched confirms the funding case and deepens the Bear.
+3. **That the notes are offence, not defence.** They priced at $1.0B, between the two sizes this test named. Test now: the Q3 10-Q's repurchase line and nine-month cash bridge (~early December). Several hundred million of repurchases at ~$130–140 is Singleton behaviour. Proceeds sitting in cash while the dividend draws them down confirms the funding case and deepens the Bear.
 
 ---
 
@@ -77,7 +77,7 @@ Two segments, different economics. The **DICK'S Business** (892 stores, 46.0M sq
 | Net debt ÷ EBITDA (ex-leases) | net cash | net cash | net cash | net cash | 0.3× | — |
 | Interest coverage | 35× | 25× | 22× | 28× | 17× | — |
 
-FY2021's margin is a COVID artifact; the honest baseline is FY2022–24's 9.9–11.8%. ⚠️ Three rows carry the page. **FCF has fallen two years running to below the dividend**, and H1 FY2026 produced $49M against $225M paid out. **Invested capital doubled in one year** ($1.5B of Foot Locker goodwill and intangibles plus $2.8B of assumed leases) while NOPAT fell, so the three-year incremental return is **negative**: $7.2B of new capital produced $0.3B less after-tax operating profit. The core business earned ~19–23% on its capital before the deal; the company now earns ~7%. Solvency is not the strain (0.3× ex-lease leverage, 17× coverage, notes due 2029/2032/2052, revolver undrawn); the payout is.
+FY2021's margin is a COVID artifact; the honest baseline is FY2022–24's 9.9–11.8%. ⚠️ Three rows carry the page. **FCF has fallen two years running to below the dividend**, and H1 FY2026 produced $49M against $225M paid out. **Invested capital doubled in one year** ($1.5B of Foot Locker goodwill and intangibles plus $2.8B of assumed leases) while NOPAT fell, so the three-year incremental return is **negative**: $7.2B of new capital produced $0.3B less after-tax operating profit. The core business earned ~19–23% on its capital before the deal; the company now earns ~7%. Solvency is not the strain (0.3× ex-lease leverage, 17× coverage, notes due 2029/2032/2036/2052/2056 after the September issue, revolver undrawn); the payout is.
 
 ### The guidance bridge — May 27 vs. August 25
 
@@ -153,36 +153,36 @@ The Base case rests on **share gain plus a Foot Locker margin recovery to ~1.5%*
 
 💰 **Outsider grade: Steward (not Outsider).** Share count fell ~24% FY2021→FY2024 and the dividend has grown 12 straight years, but the timing is anti-Singleton: the biggest buyback year was FY2021 ($1,145M) at COVID-peak prices alongside a $5.50 special, and H1 FY2026 spent $141M at $196 weeks before the stock hit $124, leaving **$3.0B authorized and unused**. Funding the acquisition in stock at ≈$219 used expensive currency well.
 
-⚠️ **New this window, and the grade now turns on it.** A shelf on Sep 21 and a **two-tranche senior notes offering** on Sep 22 ([424B2](https://www.sec.gov/Archives/edgar/data/1089063/000114036126037299/ny20082094x2_424b2.htm)), sized after this page was written, for *"general corporate purposes… repayment of debt, repurchases of shares."* Against $1.5B of 2032/2052 notes plus $400M of assumed 2029s at Baa2/BBB this is a lever-up from a conservative base, not distress — but it arrives with H1 FCF at $49M against $225M of dividends: **the capital return is no longer funded from cash the business earns.** Borrowing to retire stock at a five-year low would be the first Singleton act in this record; borrowing to carry the dividend is the Bear arriving early. The size tells you which.
+⚠️ **The grade turns on the notes.** They priced at **$1.0B** ([424B2](../../../raw/DKS/filings/2026-09-23_424B2-senior-notes-final.txt)): $400M at 6.200% due 2036 and $600M at 6.900% due 2056, ~$988M net, closed Sep 25 ([8-K](../../../raw/DKS/filings/2026-09-25_8-K-notes-underwriting.txt)). Uses remain *"general corporate purposes… repayment of debt, repurchases of shares… future business acquisitions."* Pro forma cash rises to $1.9B and unsecured debt to $13.5B including $6.1B of leases. At Baa2/BBB this is a lever-up from a conservative base, not distress. But it costs roughly double the 3.15%/4.10% on the 2032/2052 notes and arrives with H1 FCF at $49M against $225M of dividends. **$988M would retire ~8% of the stock at today's price, or cover roughly two years of the dividend shortfall.** Retiring stock would be the first Singleton act in this record; carrying the dividend is the Bear arriving early.
 
-**Appearances (last 90 days)**: two — the [Q2 call](../../../raw/DKS/appearances/2026-08-25_Q2-FY26-earnings-call_stack-hobart-gupta.txt) (Aug 25) and the [Goldman fireside](../../../raw/DKS/appearances/2026-09-14_Goldman-Sachs-fireside_stack-hobart-gupta.txt) (Sep 14). The fireside reaffirmed the DICK'S comp guide, so the "Breaks if" survived another checkpoint, and recast Foot Locker as an assortment problem — Hobart's *"overcapacity in older styles and undercapacity in new products"* — rather than lost demand, adding that it *"needs little additional capital."* On Europe she went further than the release: *"EMEA has been very difficult… when we originally gave our guidance there was not a war going on in the Middle East."* ⚠️ Still **no profitability date and no buyback commentary** — eight days before launching notes that name repurchases as a use of proceeds.
+**Appearances (last 90 days)**: two — the [Q2 call](../../../raw/DKS/appearances/2026-08-25_Q2-FY26-earnings-call_stack-hobart-gupta.txt) (Aug 25) and the [Goldman fireside](../../../raw/DKS/appearances/2026-09-14_Goldman-Sachs-fireside_stack-hobart-gupta.txt) (Sep 14). The fireside reaffirmed the DICK'S comp guide, so the "Breaks if" survived another checkpoint, and recast Foot Locker as an assortment problem — Hobart's *"overcapacity in older styles and undercapacity in new products"* — rather than lost demand, adding that it *"needs little additional capital."* On Europe she went further than the release: *"EMEA has been very difficult… when we originally gave our guidance there was not a war going on in the Middle East."* ⚠️ Still **no profitability date and no buyback commentary**, eight days before launching notes that name repurchases as a use of proceeds. No management appearance in the Sep 22 – Oct 6 window; the next is the Q3 call.
 
 ## 5. Scenarios → PW EV
 
-**Anchor**: EV ≈$12.9B (cap $11.97B + $1.87B notes − $0.91B cash, before the new notes; $6.06B of operating leases sit outside it) = **≈8.2×** guided DICK'S segment profit, Foot Locker negative. ≈11.5× the FY2026 EPS guide midpoint, ≈9.4× FY2027 consensus of $14.00 *[Analyst consensus]*. DKS traded at ~15–17× earnings through FY2024. For scale, the [pro forma](../../../raw/DKS/filings/2026-09-21_proforma-FY2025-FootLocker.txt) filed Sep 21 puts full-year FY2025 combined operating income at **$976M on $21.78B of sales, a 4.5% margin, and diluted EPS at $6.21**.
+**Anchor**: EV ≈$13.4B (cap $12.45B + $2.87B notes − $1.90B cash, including the September issue; $6.06B of operating leases sit outside it) = **≈8.5×** guided DICK'S segment profit, Foot Locker negative. ≈11.9× the FY2026 EPS guide midpoint, ≈9.8× FY2027 consensus of $14.00 *[Analyst consensus]*. DKS traded at ~15–17× earnings through FY2024. For scale, the [pro forma](../../../raw/DKS/filings/2026-09-21_proforma-FY2025-FootLocker.txt) filed Sep 21 puts full-year FY2025 combined operating income at **$976M on $21.78B of sales, a 4.5% margin, and diluted EPS at $6.21**.
 
 | Scenario | 5-yr target (FY2031E) | Prob. | Contribution | Driving assumption |
 |---|---|---|---|---|
 | 🐂 **Bull** | **$330** | 20% | $66.00 | Foot Locker back to the ~5% margin it earned in 2021–22 on ~$8.0B; DICK'S ~$18.5B at 11.5%; buybacks to ~75M shares → EPS ≈$23.50 at 14× |
 | 📊 **Base** | **$215** | 50% | $107.50 | Foot Locker to ~1.5% on ~$7.5B by FY2028 after the full charges; DICK'S ~$17.5B at 11.0%; capex normalizes, shares to ~78M → EPS ≈$17.70 at 12× |
-| 🐻 **Bear** | **$100** | 30% | $30.00 | Fleet to ~1,400 doors and ~$5.5B at −1%; goodwill written down, leases paid regardless; DICK'S to ~+1% comps and 9.5% margin; buyback halted → EPS ≈$10.80 at 9.5× |
-| | | | **PW EV $204** | |
+| 🐻 **Bear** | **$97** | 30% | $29.10 | Fleet to ~1,400 doors and ~$5.5B at −1%; goodwill written down, leases paid regardless; DICK'S to ~+1% comps and 9.5% margin; buyback halted and the new notes' ~$66M of interest carried with nothing retired → EPS ≈$10.25 at 9.5× |
+| | | | **PW EV $203** | |
 
 | Return math | |
 |---|---|
-| PW return/yr | **12.9% (<13%)**: +55% price over five years (9.1%/yr) plus the 3.79% yield. Entry that clears the hurdle: **$131.41** — the stock traded beneath it for much of the past fortnight, and at the $120.15 low the same set paid **15.3%** |
-| Compounding at a flat multiple | Base EPS 9.0%/yr + 3.8% yield = **12.9%**; the Base is struck at 12× against ≈11.5× today, so re-rating adds almost nothing and essentially all of the return is operating. The 30% Bear is what holds the probability-weighted figure just under the hurdle |
-| Price-implied expectations | Steady-state FCF ≈$1.13B (guided segment profit after tax, growth capex excluded) on a $12.9B EV is an 8.8% yield; at a 10% discount rate spot prices **~1.2% growth forever** |
+| PW return/yr | **11.8% (<13%)**: +48% price over five years (8.2%/yr) plus the 3.65% yield. Entry that clears the hurdle: **$130**; at the $120.15 low the same set paid **15.2%** |
+| Compounding at a flat multiple | Base EPS 9.0%/yr + 3.65% yield = **12.7%**. The Base is struck at 12× against ≈11.9× today, so re-rating adds nothing and the return is operating. The 30% Bear is what holds the probability-weighted figure under the hurdle |
+| Price-implied expectations | Steady-state FCF ≈$1.08B (guided segment profit after tax, growth capex excluded, less ~$50M of new after-tax interest) on a $13.4B EV is an 8.1% yield; at a 10% discount rate spot prices **~1.9% growth forever** |
 | Base rate | The Bull needs ~3.7%/yr nominal sales from the FY2026 guide, ≈1.5% real, the **median** for $12–25B companies ([`compounding.md`](../../frameworks/compounding.md)) |
 | Year ten | A mature retailer with its formats built out; growth is comps plus yield, and the 12× terminal multiple is not doing the work. Foot Locker is |
-| R/R | **6.2:1** (Bull +150% / Bear −24%), partly mechanical: spot sits only ~32% above the Bear because the stock already fell |
+| R/R | **4.8:1** (Bull +141% / Bear −29%) |
 
 ## 6. Risks & Triggers
 
 | Risk | Impact | Prob. | Priced in? | Would break the thesis if… |
 |---|---|---|---|---|
 | **Foot Locker never inflects**: ~$6B committed against a permanently loss-making segment | High | Med | Partly: the drop prices a bad year, not a zero | Q4's first reported comp is below −2.0% or the loss passes $(80)M |
-| **FCF below the dividend, now funded with debt**: H1 FCF $49M vs $225M dividends; two-tranche notes launched Sep 22 | High | **Materialized** | 🔴 **No** | ~~Nine-month FCF < ~$340M with the revolver drawn~~ — pre-empted by the notes. Now: proceeds carry the dividend with the buyback still untouched at Q3 |
+| **FCF below the dividend, now funded with debt**: H1 FCF $49M vs $225M dividends; $1.0B of notes at 6.2–6.9% priced Sep 22 | High | **Materialized** | 🔴 **No** | Proceeds carry the dividend with the buyback still untouched at Q3 |
 | **Nike at ~31% of merchandise purchases**, short-term POs, no long-term contracts | High | Low-Med | Partly | A disclosed allocation cut, or Nike restarting an aggressive DTC shift |
 | **Promotional cycle spreads into DICK'S**: segment margin guide already −45 bps | Med | Med-High | Partly | **The DICK'S comp guide itself is cut** |
 | **Management credibility**: a raise in May, a collapse in August, a falsified letter commitment, a CEO sale at $228 | Med | High | Partly | A second guide cut without a replacement timeline |
@@ -194,32 +194,35 @@ New in the FY2025 10-K, all acquisition-derived: integration risk, mall-traffic 
 
 ## 7. Catalysts & Sentiment
 
-**Analysts**: Buy, median **$166** (26). Post-print every target fell and no rating changed; BNP at $99 (Underperform) is the only real bear anchor. **Short interest**: 6.22M shares, **10.3% of float**, down 14% from 7.23M the prior month, 4.9 days to cover ([StockAnalysis](https://stockanalysis.com/stocks/dks/statistics/)); the first post-crash settlement publishes mid-September.
+**Analysts**: Buy, median **$150** (27; from $166). Truist $135→$128 Hold (Oct 1); BMO initiated at Sell, $110 (Sep 8); Goldman Buy, $170 (Sep 15); BNP's $99 is the low ([StockAnalysis](https://stockanalysis.com/stocks/dks/forecast/)). ⚠️ **Short interest**: 8.01M shares, **13.3% of float, +29% MoM** from 6.22M, 1.4 days to cover ([StockAnalysis](https://stockanalysis.com/stocks/dks/statistics/)). Shorts added into the notes launch.
 
-🟢 **Insiders (last 90 days)**: five open-market director purchases totalling **≈$3.84M**, all Form 4 code "P", zero sales in the window. Verified from raw XML:
+🟢 **Insiders (last 90 days)**: eight open-market purchases totalling **≈$5.6M**, all Form 4 code "P", zero sales. **The cluster reached management this window**: the CFO and the head of Foot Locker International. Verified from raw XML:
 
-| Date | Director | Shares | Price | Value |
+| Date | Insider | Shares | Price | Value |
 |---|---|---|---|---|
+| Sep 30 | [Barnes](https://www.sec.gov/Archives/edgar/data/1089063/000210057326000006/) (President, Foot Locker Intl) | 3,665 | $136.39 | $0.50M |
+| Sep 23 | [Fitzgerald](https://www.sec.gov/Archives/edgar/data/1089063/000181729326000006/) (director) | 1,860 | $131.67 | $0.24M |
+| Sep 22 | [Gupta](https://www.sec.gov/Archives/edgar/data/1089063/000177240926000009/) (**CFO**) | 7,707 | $129.75 | **$1.00M** |
 | Sep 2 | [Colombo](https://www.sec.gov/Archives/edgar/data/1089063/000119890626000008/xslF345X06/wk-form4_1788380636.xml) | 913 | $133.19 | $0.12M |
 | Aug 27 | [Barrenechea](https://www.sec.gov/Archives/edgar/data/1089063/000129093626000010/wk-form4_1787948645.xml) | 17,000 | $130.72 | **$2.22M** |
 | Aug 26/27 | [Colombo](https://www.sec.gov/Archives/edgar/data/1089063/000119890626000006/wk-form4_1787948603.xml) | 6,100 | $128.72 / $129.00 | $0.79M |
 | Aug 26 | [Eddy](https://www.sec.gov/Archives/edgar/data/1089063/000151071226000010/wk-form4_1787948626.xml) | 4,000 | $128.695 | $0.51M |
 | Aug 26 | [Mathrani](https://www.sec.gov/Archives/edgar/data/1089063/000124648526000005/wk-form4_1787948668.xml) | 1,550 | $128.892 | $0.20M |
 
-**Window events (Sep 7 – Sep 22)**
+**Window events (Sep 22 – Oct 6)**
 
 | Date | Event | Read |
 |---|---|---|
-| Sep 14 | ✅ Goldman Sachs fireside (Stack, Hobart, Gupta) | Comp guide reaffirmed; Foot Locker framed as an assortment problem, EMEA blamed on the Middle East war (§4) |
-| Sep 17 | Securities class action escalates — Rosen and Kaplan Fox notices; **lead-plaintiff deadline Nov 3**, class period Sep 8 2025 – Aug 24 2026 | A filed complaint rather than a solicitation, but still pre-dismissal; §6 unchanged |
-| Sep 21 | 8-K: **pro forma FY2025 combined financials** for the Foot Locker merger | New primary data — combined EPS $6.21 vs $9.97 standalone (§5) |
-| Sep 21–22 | **S-3ASR shelf + 424B2 two-tranche senior notes**, size and coupon TBD | The material event of the window (§4) |
-| Sep 22 | Stock **+6.6% intraday to $131.77** | ⚠️ No public source explains the move; the notes launch is the only identifiable same-day corporate event. Recorded as unexplained rather than attributed |
+| Sep 22–25 | 💰 **$1.0B senior notes priced** (6.200% 2036, 6.900% 2056); closed Sep 25 | Test 3 (§4) |
+| Sep 22 | CFO buys $1.0M at $129.75 | First officer purchase since the crash |
+| Sep 23, 30 | A director and the Foot Locker International president buy $0.74M combined | Cluster extends to management |
+| Oct 1 | Truist trims target to $128, Hold | — |
+| Early Oct | Short interest reaches 13.3% of float, +29% MoM | Shorts positioned into Q3 |
 
-Through the window the stock set a new 52-week low of **$120.15**, ~9% below where it now trades.
+The stock rose 4.1% across the window. No management appearance and no new 8-K beyond the notes.
 
-**Upcoming**: 📅 **within days**, the notes price — size and use is test 3 · 📅 **~Nov 24** Q3 FY2026: nine-month FCF, buyback line, comp guide · 📅 **Nov 3** lead-plaintiff deadline · 📅 Q4 FY2026, Foot Locker enters the reported comp base · 📅 Holiday 2026, the first peak season at scale.
+**Upcoming**: 📅 **Nov 3** lead-plaintiff deadline · 📅 **~Nov 24** Q3 FY2026: comp guide, nine-month FCF, and where the note proceeds went (test 3) · 📅 Q4 FY2026, Foot Locker enters the reported comp base · 📅 Holiday 2026, the first peak season at scale.
 
 ## 8. Sources
 
-[Q2 FY2026 release](../../../raw/DKS/press-releases/2026-08-25_Q2-FY26_earnings.txt) · [8-K](https://www.sec.gov/Archives/edgar/data/1089063/000108906326000033/dks-20260824.htm) · [Q2 FY2026 10-Q](https://www.sec.gov/Archives/edgar/data/1089063/000108906326000036/dks-20260801.htm) · [Q1 FY2026 release](https://www.sec.gov/Archives/edgar/data/1089063/000108906326000021/dks-2026502xex991earningsr.htm) · [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1089063/000108906326000007/dks-20260131.htm) · [2026 DEF 14A](https://www.sec.gov/Archives/edgar/data/1089063/000108906326000015/dks-20260501.htm) · [FY2025 CEO letter](../../../raw/DKS/shareholder-letters/2025_letter.txt) · [Foot Locker deal release](https://investors.footlocker-inc.com/news-releases/news-release-details/dicks-sporting-goods-acquire-foot-locker-create-global-leader) · [Q2 call synthesis](../../../raw/DKS/appearances/2026-08-25_Q2-FY26-earnings-call_stack-hobart-gupta.txt) · [transcript](https://www.fool.com/earnings/call-transcripts/2026/09/01/dicks-sporting-goods-dks-q2-2026-earnings-call-transcript/) · [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001089063.json) · [Yahoo price](https://finance.yahoo.com/quote/DKS/) · [StockAnalysis statistics](https://stockanalysis.com/stocks/dks/statistics/) · [MarketBeat earnings history](https://www.marketbeat.com/stocks/NYSE/DKS/earnings/) · [SecForm4 insiders](https://www.secform4.com/insider-trading/1089063.htm) · [IBISWorld market size](https://www.ibisworld.com/united-states/market-size/sporting-goods-stores/1079/) · [Base rates](../../frameworks/compounding.md)
+[424B2 final terms](../../../raw/DKS/filings/2026-09-23_424B2-senior-notes-final.txt) · [8-K notes](../../../raw/DKS/filings/2026-09-25_8-K-notes-underwriting.txt) · [Q2 FY2026 release](../../../raw/DKS/press-releases/2026-08-25_Q2-FY26_earnings.txt) · [8-K](https://www.sec.gov/Archives/edgar/data/1089063/000108906326000033/dks-20260824.htm) · [Q2 FY2026 10-Q](https://www.sec.gov/Archives/edgar/data/1089063/000108906326000036/dks-20260801.htm) · [Q1 FY2026 release](https://www.sec.gov/Archives/edgar/data/1089063/000108906326000021/dks-2026502xex991earningsr.htm) · [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1089063/000108906326000007/dks-20260131.htm) · [2026 DEF 14A](https://www.sec.gov/Archives/edgar/data/1089063/000108906326000015/dks-20260501.htm) · [FY2025 CEO letter](../../../raw/DKS/shareholder-letters/2025_letter.txt) · [Foot Locker deal release](https://investors.footlocker-inc.com/news-releases/news-release-details/dicks-sporting-goods-acquire-foot-locker-create-global-leader) · [Q2 call synthesis](../../../raw/DKS/appearances/2026-08-25_Q2-FY26-earnings-call_stack-hobart-gupta.txt) · [transcript](https://www.fool.com/earnings/call-transcripts/2026/09/01/dicks-sporting-goods-dks-q2-2026-earnings-call-transcript/) · [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001089063.json) · [Yahoo price](https://finance.yahoo.com/quote/DKS/) · [StockAnalysis statistics](https://stockanalysis.com/stocks/dks/statistics/) · [MarketBeat earnings history](https://www.marketbeat.com/stocks/NYSE/DKS/earnings/) · [SecForm4 insiders](https://www.secform4.com/insider-trading/1089063.htm) · [IBISWorld market size](https://www.ibisworld.com/united-states/market-size/sporting-goods-stores/1079/) · [Base rates](../../frameworks/compounding.md)

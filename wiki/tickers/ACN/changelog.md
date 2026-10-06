@@ -4,6 +4,36 @@ Append-only. Most recent entry first.
 
 ---
 
+## [2026-10-06] — Q3 + Q4 FY2026 · buyback acceleration · $5B notes · migrated v3.0 → v5.0
+
+**Trigger**: [Q4 FY26 release](../../../raw/ACN/press-releases/2026-10-01-Q4-FY2026-results.txt) (Oct 1), and everything since the May 31 baseline, including [Q3 FY26](../../../raw/ACN/press-releases/2026-06-18-Q3-FY2026-results.txt) (Jun 18).
+**Sources**: [Buyback increase](../../../raw/ACN/press-releases/2026-06-23-FY26-buyback-increase.txt) · [$5B notes 8-K](../../../raw/ACN/filings/2026-07-10_8-K-senior-notes-5B.txt) · [Q4 call synthesis](../../../raw/ACN/appearances/2026-10-01_Q4-FY26-earnings-call_sweet-park.txt) · [Anthropic release](https://newsroom.accenture.com/news/2026/accenture-and-anthropic-partner-to-build-team-of-embedded-evaluators-at-anthropic) · [XBRL](https://data.sec.gov/api/xbrl/companyfacts/CIK0001467373.json) · [2025 proxy](../../../raw/ACN/filings/ACN-DEF14A-2025.htm) · Form 4 XML · [StockAnalysis](https://stockanalysis.com/stocks/acn/forecast/) · [Yahoo](https://finance.yahoo.com/quote/ACN/) Oct 5 close
+
+### Scorecard
+*Prior page carried thesis-break triggers rather than tests; scored here.*
+- Two consecutive quarters of negative LC growth — ✅ Pass — Q3 +3%, Q4 +7%
+- Book-to-bill sustainably below 1.0 — ✅ Pass — Q3 ~1.0, Q4 1.2, FY 1.1
+- Adjusted operating margin below 14% — ✅ Pass — FY26 15.8%
+- GenAI bookings reversing — 🟡 Unscorable — separate AI disclosure discontinued after Q1 FY26; replaced by an organic-growth test
+
+### Changed
+- **Price $187.07 → $195.05**, via a **$118.15 low on Jun 22** and a +15.8% session on Oct 1.
+- **FY26**: revenue $74.2B (+5% LC, **~3% organic**); adjusted EPS $13.97 (+8%); FCF $11.6B.
+- **FY27 guide**: +3–6% LC including **2–2.5 pts inorganic**; EPS $14.39–14.81; ~$8B of M&A.
+- **Q4 pricing**: *"lower pricing in many areas"* (Sweet).
+- 💰 **Capital**: $2B buyback acceleration on Jun 23, with 17.6M shares bought in Q4 at ≈$131. Also $5B of notes, a $6B new authorization and the dividend raise slowed to +5%. Net cash $6.3B → ~zero after the ~$3B Cyber OT closes. Outsider grade held at Outsider-leaning.
+- **New v5 rows**: ROIC 39% → 25% (FY22 → FY26); 3-yr incremental ROIC 13.6% GAAP / 9.3% adjusted; SBC 2.8%; FCF/NI 139%.
+- **Valuation reset to the hurdle**: PW EV $233 → **$254**; Bear $135 → $148, Base $235 → $263, Bull $300 → $392; probabilities 25/45/30 → 30/50/20.
+
+### Status
+- **Thesis**: Unchanged on the business (the AI-disintermediation bear was not confirmed); **Weakened on price** (stock +4% from baseline, +65% from the low).
+- **PW EV**: $233 → $254 · **PW return/yr**: n/a → **8.9%** (hurdle 13%) · **R/R**: 2.2 → 4.2 · **BAIT**: 3–4 lens → Double (B+A), moderate
+- **Verbs**: non-holder Watch / Initiate on dips ≤$185 → **Watch (entry ≤$161)** · holder Hold
+
+**Next trigger**: 📅 mid-Oct FY26 10-K (Item 1A diff); 📅 ~Dec 17 Q1 FY27, the first organic read.
+
+---
+
 ## [2026-05-31] — Workflow B + v3.0 Schema Upgrade
 
 **Trigger**: Scheduled incremental update (2026-05-18 → 2026-05-31) + v3.0 schema rewrite.

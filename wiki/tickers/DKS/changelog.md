@@ -4,6 +4,34 @@ Append-only. Most recent entry first.
 
 ---
 
+## [2026-10-06] — Notes priced · officer buying · short interest +29%
+
+**Trigger**: [424B2 final terms](../../../raw/DKS/filings/2026-09-23_424B2-senior-notes-final.txt) (Sep 23) and [closing 8-K](../../../raw/DKS/filings/2026-09-25_8-K-notes-underwriting.txt) (Sep 25); three Form 4 purchases; user-requested refresh.
+**Sources**: Form 4s [Gupta](https://www.sec.gov/Archives/edgar/data/1089063/000177240926000009/) · [Fitzgerald](https://www.sec.gov/Archives/edgar/data/1089063/000181729326000006/) · [Barnes](https://www.sec.gov/Archives/edgar/data/1089063/000210057326000006/) · [StockAnalysis statistics](https://stockanalysis.com/stocks/dks/statistics/) · [forecast](https://stockanalysis.com/stocks/dks/forecast/) · [Yahoo](https://finance.yahoo.com/quote/DKS/) Oct 5 close
+
+### Scorecard
+- Foot Locker cyclical, not structural — 🟡 Pending — no new data; Q4 is the test
+- DICK'S insulated — 🟡 Pending — no checkpoint in the window; Nov 24 comp guide
+- Notes are offence, not defence — 🟡 Pending — **$1.0B** priced, between the two sizes the test named; use of proceeds still unspecified. Kept, re-pointed at the Q3 10-Q repurchase line
+
+### Changed
+- **Notes**: $400M 6.200% due 2036 + $600M 6.900% due 2056; ~$988M net; ~$66M a year of new interest, roughly double the existing coupons.
+- **Bear $100 → $97** (new interest carried with nothing retired); PW EV $204 → **$203**.
+- **Price $131.77 → $137.13** (+4.1%); ~9th → ~14th %ile.
+- 🟢 **Officer buying**: CFO Gupta **$1.0M at $129.75** on the launch day; Foot Locker International president Barnes $0.50M; director Fitzgerald $0.24M. The 90-day total rises to ≈$5.6M with zero sales.
+- ⚠️ **Short interest 10.3% → 13.3% of float** (+29% MoM).
+- **Analysts**: median $166 → $150; Truist $135 → $128 Hold.
+- Yield 3.79% → 3.65%; EV $12.9B → $13.4B; P/E 11.5× → 11.9×.
+
+### Status
+- **Thesis**: Unchanged — the size answered nothing either way; insider buying offsets the rising short base.
+- **PW EV**: $204 → $203 · **PW return/yr**: 12.9% → **11.8%** (hurdle 13%) · **R/R**: 6.2 → 4.8 · **BAIT**: Triple, held
+- **Verbs**: non-holder Watch (entry ≤$131 → **≤$130**) · holder Hold
+
+**Next trigger**: 📅 ~Nov 24 Q3 FY2026 — comp guide (test 2) and where the note proceeds went (test 3).
+
+---
+
 ## [2026-09-22] — Price action · senior notes offering · Goldman fireside
 
 **Trigger**: user-requested price update; window produced three filings and the standing Sep 14 catalyst.

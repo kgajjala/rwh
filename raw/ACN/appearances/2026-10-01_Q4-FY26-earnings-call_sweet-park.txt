@@ -1,0 +1,31 @@
+Accenture Q4 FY2026 earnings call, October 1, 2026, 8:00 a.m. EDT. Julie Sweet (Chair & CEO), Angie Park (CFO).
+Synthesis of the Motley Fool transcript (https://www.fool.com/earnings/call-transcripts/2026/10/01/accenture-acn-q4-2026-earnings-call-transcript/)
+cross-checked against the Mitrade write-up (https://www.mitrade.com/insights/news/live-news/article-0-2132323-20261002).
+Extracted by the wiki agent on 2026-10-06; quotes are as rendered in those secondary transcripts. IR prepared remarks not parsed.
+
+ORGANIC GROWTH
+- Sweet: FY26 revenue of $74B, ~5% in local currency, "approximately 3% organic growth."
+- Park: FY26 absorbed "approximately 1 percentage point impact from our federal business."
+
+FY27 GUIDANCE ASSUMPTIONS
+- Park: "We expect an inorganic contribution of 2% to 2.5%" in FY27 (guide: 3-6% LC => ~0.5-4% organic).
+- Park: "approximately $5 billion in acquisitions in fiscal '27" plus "$3 billion for Cyber OT deals."
+- Sweet: "Approximately $3 billion of capital related to the Cyber OT acquisitions, including Dragos, shifted into September due to regulatory timing, and we are pleased those transactions have now closed."
+- Sweet: federal will be "a significant contributor" in FY27 ("data platform at the Department of War").
+- Park: "broad-based and balanced growth in '27" by market, industry and type of work.
+
+PRICING / AI PRODUCTIVITY
+- Sweet: "In Q4, we saw lower pricing in many areas of our business"; "highly competitive environment."
+- Sweet: "Definitely giving more productivity due to AI...offsetting as we have in the past with new kinds of work, more scope."
+- Park (to BMO's Keith Bachman on AI deflation in renewals): productivity "has always been a part of what we do"; renewal "pace, duration, all of those things remain steady."
+
+PEOPLE
+- ~814,000 people at FY-end (release). Nearly 110,000 AI & data professionals. >400 clients began advanced-AI work in FY26, nearly 100 in Q4.
+- Sweet: FY27 hiring "in every market, but it will be below what we've been hiring this year"; revenue per person rose in FY26.
+
+PARTNERSHIPS
+- Sweet on Anthropic (Sep 18 announcement): "our relationship is nonexclusive"; "investing $1 billion over the next 5 years to build out that safety business."
+
+CAPITAL
+- Park: $11.5B returned in FY26 incl. $2B additional repurchases; "$5.5 billion planned" buybacks in FY27, reducing weighted average share count ~3%.
+- Park: "We just did a $5 billion debt offering in Q4."

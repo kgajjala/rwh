@@ -4,6 +4,36 @@
 
 ---
 
+## [2026-10-06] — CEO named · Q3 FY2026 · migrated v3.0 → v5.0
+
+**Trigger**: [8-K](../../../raw/ADBE/filings/2026-09-08_8-K-CEO-appointment.txt) naming Anil Chakravarthy CEO (Sep 2) and the [Q3 FY26 release](../../../raw/ADBE/press-releases/2026-09-10_Q3-FY26_earnings.txt) (Sep 10); the window runs from the Jun 13 baseline.
+**Sources**: [Q3 call synthesis](../../../raw/ADBE/appearances/2026-09-10_Q3-FY26-earnings-call_narayen-day.txt) · [CLO retention 8-K](../../../raw/ADBE/filings/2026-07-17_8-K-CLO-retention.txt) · [2026 proxy](../../../raw/ADBE/filings/2026-02-27_DEF14A.txt) · [XBRL](https://data.sec.gov/api/xbrl/companyfacts/CIK0000796343.json) · [Narayen Form 4](https://www.sec.gov/Archives/edgar/data/796343/000122415426000003/) · [StockAnalysis](https://stockanalysis.com/stocks/adbe/forecast/) · [Yahoo](https://finance.yahoo.com/quote/ADBE/) Oct 5 close
+
+### Scorecard
+*Prior page carried thesis-break triggers rather than tests; the load-bearing ones are scored here.*
+- No CEO named by June 2027 — ✅ Pass — Chakravarthy named Sep 2, effective Dec 1 (an internal customer-experience hire, not the AI-native outsider the prior page hoped for)
+- Freemium shows no ARR rebound in Q3 — 🟡 Pending — free creative users >100M (+70%), but Q3 net new ARR was $0.40B and no conversion rate was disclosed
+- Organic ARR growth below 8% for two quarters — ✅ Pass — ~9% ex-SEMrush
+- AI-first ARR growth below 100% — ✅ Pass — +150% to >$650M
+- Interim CFO beyond December 2026 — 🟡 Pending — Day still interim at month four
+
+### Changed
+- **Price $204.02 → $238.79** (+17%), via a **$190.12 low on Jun 18**, a peak of $286 on Sep 1, and −17% since the CEO news.
+- **Q3**: revenue $6.76B (+13%); NGAAP EPS $6.13; ARR $27.50B (+11.2%, ~9% organic); 1B MAU; FY26 targets raised again.
+- ⚠️ **Wadhwani** (creative business, ~75% of revenue) left Sep 27; CLO retention letter (July).
+- **New v5 rows**: ROIC 36% → 61% (FY21 → FY25) on shrinking invested capital; incremental ROIC n/m; SBC 8.2% of revenue; FCF − SBC $7.9B.
+- **Horizon moved 3-yr → 5-yr**: PW EV $323 → **$382**; Bull $480 → $690, Base $320 → $432, Bear $170 → $178; probabilities 25/50/25 → 15/50/35.
+- Incentives recorded: half the PSP pays on ARR growth, the metric the freemium pivot depresses.
+
+### Status
+- **Thesis**: Weakened on growth quality and succession, while capital return is intact.
+- **PW EV**: $323 (3-yr) → $382 (5-yr) · **PW return/yr**: n/a → **9.9%** (hurdle 13%) · **R/R**: 8 → 7.4 · **BAIT**: Triple → Double (B+A)
+- **Verbs**: non-holder Initiate → **Watch (entry ≤$207)** · holder Hold-Add selectively → **Hold**
+
+**Next trigger**: 📅 Nov 10–12 MAX; 📅 ~Dec 10 Q4 FY26 and the FY27 guide.
+
+---
+
 ## [2026-06-13] — Earnings Q2 FY2026 + CFO Departure + SEMrush Close
 
 **Trigger**: Adobe reported Q2 FY2026 results on June 11, 2026. Stock fell 6.76% to $204.02 (new 52-wk low $196.90) despite a revenue beat and raised guidance — driven by simultaneous CFO departure and H2 ARR organic headwind from freemium acceleration. SEMrush acquisition (closed April 28, 2026) also incorporated.

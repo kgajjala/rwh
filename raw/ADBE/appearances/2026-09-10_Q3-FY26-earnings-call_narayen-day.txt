@@ -1,0 +1,20 @@
+Adobe Q3 FY2026 earnings call, September 10, 2026. Shantanu Narayen (Chair & CEO), Steve Day (interim CFO), Anil Chakravarthy (CEO-designate).
+Synthesis of MarketBeat call highlights (https://www.marketbeat.com/instant-alerts/transcript-adobe-q3-earnings-call-highlights-2026-09-10/),
+Quartr summary (https://quartr.com/events/adobe-inc-adbe-q3-2026_3evRzFDg) and the Sep 10 press release (8-K Ex. 99.1).
+Extracted 2026-10-06. Gap: full verbatim transcript (Motley Fool URL 404; IR prepared remarks not parsed) - freemium conversion
+rates, net new ARR commentary and Creative Cloud price-optimization timing could not be confirmed verbatim.
+
+KEY METRICS DISCLOSED
+- Total ARR $27.50B, +11.2% YoY (includes ~$480M SEMrush acquired Apr 28, 2026 => ~9% organic [Derived]).
+- AI-first ending ARR >$650M, +>150% YoY (Q2: >$500M).
+- >1 billion MAU across creativity and productivity; Acrobat + Express MAU >900M (+25%); Acrobat AI Assistant MAU doubled sequentially.
+- Creative freemium users >100M, +>70% YoY.
+- Firefly app + credit-pack ending ARR +40% sequentially; video generation cited as driver.
+- ~9.5M shares repurchased in Q3 ($2.23B cash); ~$24.55B authorization remaining.
+- New reporting: Business Professionals & Consumers subscription $1.91B (+16%); Creative & Marketing Professionals $4.65B (+13%).
+- FY26 targets raised: revenue $26.576-26.626B; non-GAAP EPS $24.45-24.50; total ARR growth 10.2%; Q4 non-GAAP op margin ~44%.
+
+STATEMENTS (release)
+- Day: "We are expanding our user base through a freemium strategy and deepening engagement with agentic experiences to deliver long-term durable growth."
+- Chakravarthy (call, per MarketBeat): opportunity in "agentic software" across creativity, productivity and customer experience.
+- No FY27 commentary; FY27 guidance to come with Q4 in December under the new CEO.

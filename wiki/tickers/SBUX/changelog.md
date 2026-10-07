@@ -4,6 +4,38 @@
 
 ---
 
+## [2026-10-07] — Skill v6.0 regeneration · Sep 22 store closures
+
+**Trigger**: user-requested rerun under kg-investment-analysis v6.0. Window Sep 23 → Oct 7: one 8-K (Sep 22 closures and lower FY2026 openings); no appearances; Form 4s quiet since Sep 17.
+**Sources**: [Sep 22 8-K](../../../raw/SBUX/filings/2026-09-24_8-K_store-closures.txt) · [XBRL](https://data.sec.gov/api/xbrl/companyfacts/CIK0000829224.json) · [Yahoo](https://finance.yahoo.com/quote/SBUX/) Oct 7 12:06 ET · [StockAnalysis](https://stockanalysis.com/stocks/sbux/statistics/) · [FRED DGS10](https://fred.stlouisfed.org/series/DGS10)
+
+### Scorecard
+- Margin walk holds without the refund — 🟡 Pending — Q4 FY26, ~Oct 28.
+- Traffic survives the toughest compare — 🟡 Pending — Q4 FY26, ~Oct 28.
+- New capital earns again / FCF covers the dividend — 🟡 Pending — FY2026 10-K, mid-November; the test is restated on owner earnings.
+
+### Changed
+- **Price**: $94.10 → **$94.42** (+0.3%); 51st %ile.
+- **Sep 22 8-K**: ~250 North America closures (~1%), $300M of charges ($200M cash); FY2026 net new stores ~440, down from 600–650.
+- **Owner earnings** (new row): FY2025 $2.3B ($2.05/share), down from $5.4B in FY2021.
+- **Dividends ÷ owner earnings**: 118% in FY2025.
+- **$1 retention test** (new): n/m; five-year dividends + buybacks ($18.4B) exceeded net income ($17.2B); net debt +$2.7B.
+- **EPV floor** (new): $26–35 per share; about two-thirds of the price is growth.
+- **Bull**: $164 → **$153**; the 30× multiple implied 5.5% perpetual growth, above the 5.31% 10-year Treasury, so it is capped at 28×.
+- **Break-even Bear odds** (new): <0%; no Bear probability clears 13%.
+- **Price-implied Bear odds** (new): ~2% at 9%.
+- **ROIC rebuilt**: FY2025 16.1% under the stated build (was 14.5%); 3-yr ROIIC still negative.
+- **Kill criteria**: each test now carries a pre-committed consequence.
+
+### Status
+- **Thesis**: **Unchanged.**
+- **PW EV**: $117 → **$114.5** · **PW return/yr**: 7.1% → **6.6%** (hurdle 13%) · **R/R**: 2.8 → 2.3 · **BAIT**: Single (A), held
+- **Verbs**: non-holder **Watch (entry ≤$70)** · holder **Hold**
+
+**Next trigger**: 📅 ~Oct 28 Q4 FY2026 and the FY2027 guide (tests 1–2).
+
+---
+
 ## [2026-09-23] — Price −10.5% · Japan stake report · Niccol interviews · migrated v3.0 → v5.0
 
 **Trigger**: user-requested update. Window Aug 6 → Sep 23: no filings beyond Form 4/144; Niccol on Reuters and CNBC (Sep 9–10); Reuters report of a Japan majority-stake sale (Sep 16). The v5 rebuild used the Q3 release and 10-Q, which the v3 page summarized but never stored.

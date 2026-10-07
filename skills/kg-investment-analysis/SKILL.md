@@ -3,17 +3,14 @@ name: kg-investment-analysis
 description: >
   Karthik's single-equity investment framework for 5–10-year holders. Turns a ticker into a
   decision (Initiate / Add / Hold / Trim / Exit / Watch / Avoid), tested against a fixed 13%
-  annual hurdle on a probability-weighted five-year value. The value is built from unit
-  economics, ROIC, owner earnings and a moat read. Use this skill whenever the user asks:
-  "analyze [ticker]", "give me your take on [company]", "is [stock] a buy", "should I
-  buy/hold/sell [ticker]", "what is [company] worth", "bull/bear case for [ticker]", "deep dive
-  on [company]", "walk me through [ticker]", "what's the BAIT on [stock]", "summarize the
-  earnings call for [company]", "what happened to [stock]", "price history / price action for
-  [ticker]". Also use it for any request for financial, strategic, valuation or price analysis
-  of a named public company, even when the word "analysis" is never used; over-triggering
-  beats missing. Covers one equity at a time; peers appear only as context. Mode A writes the
-  full decision report, B handles an earnings update, C news and price moves, D price history.
-  It never sizes positions.
+  annual hurdle on a probability-weighted five-year value built from unit economics, ROIC,
+  owner earnings and a moat read. Use whenever the user asks "analyze [ticker]", "is [stock] a
+  buy", "should I buy/hold/sell [ticker]", "what is [company] worth", "bull/bear case for
+  [ticker]", "deep dive on [company]", "what's the BAIT on [stock]", "summarize the earnings
+  call for [company]", "what happened to [stock]", or "price history for [ticker]". Also use it
+  for any financial, valuation or price analysis of a named public company, even when
+  "analysis" is never said; over-triggering beats missing. One equity at a time. Mode A writes
+  the full Markdown report; B earnings; C news; D price history. Never sizes positions.
 ---
 
 # kg-investment-analysis · v6.0

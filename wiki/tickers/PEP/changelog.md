@@ -4,6 +4,42 @@
 
 ---
 
+## [2026-10-07] — Skill v6.0 regeneration · price crosses entry ahead of Q3
+
+**Trigger**: page regenerated under kg-investment-analysis v6.0; price fell to a new 52-week low the day before Q3.
+**Sources**: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000077476.json) · [Yahoo](https://finance.yahoo.com/quote/PEP/) Oct 6 close · [StockAnalysis](https://stockanalysis.com/stocks/pep/statistics/) · [FRED DGS10](https://fred.stlouisfed.org/series/DGS10) · [FRED SP500](https://fred.stlouisfed.org/series/SP500) · [EDGAR Form 4s](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000077476&type=4) · [Campbell's dividend cut](https://247wallst.com/investing/2026/09/04/campbells-just-cut-a-dividend-it-had-not-touched-since-2001-and-the-snack-aisle-is-why/)
+
+### Scorecard
+- Volume-for-price trade accretive — 🟡 Pending; resolves Oct 8 on PFNA net revenue.
+- Back-half acceleration real — 🟡 Pending; resolves Oct 8 on the +4–6% guide.
+- Incremental returns recover — 🟡 Pending; resolves at the FY2026 10-K, Feb 2027.
+
+### Changed
+- **Price**: $130.82 → **$125.71** (−3.9%); new 52-week low $124.22; ~3rd %ile.
+- **Yield**: 4.53% → 4.71%.
+- **Owner earnings** (new row): five-year average $8.1B, ~80% of core net income.
+- **Dividend ÷ owner earnings**: 82% over five years; 99% at the forward rate.
+- **$1 retention test** (new): fail, −$0.61 per $1 retained vs. S&P +87%.
+- **EPV floor** (new): $65–75 per share; ~41% of price pays for growth.
+- **Bear**: $119 → **$115**, re-based to owner earnings with inflation-only terminal growth.
+- **Bull**: $249 → $250 (rounding).
+- **Break-even Bear odds** (new): 30% vs. 28% assigned (probability-fragile).
+- **Price-implied Bear odds** (new): 68% at 8%.
+- **Earnings quality** (new): accruals −3.4% of assets; Beneish M −2.54; clear.
+- **Kill criteria**: each test now carries a pre-committed "If Fail → Watch" consequence.
+- **Scuttlebutt**: Campbell's snacks −6% organic, dividend cut 36%; share is coming from a retreating rival.
+- **Short interest**: 1.90% of float, +21% MoM.
+- **Insiders**: ten director Form 4s on Oct 5, all code A; no purchases.
+
+### Status
+- **Thesis**: **Unchanged.** The verb change is price-driven; the bias check passed.
+- **PW EV**: $191 → $190 · **PW return/yr**: 12.4% → **13.3%** (hurdle 13%) · **R/R**: 10.0 → 11.5 · **BAIT**: Double, held
+- **Verbs**: non-holder **Initiate** (entry ≤$127.42) · holder **Add**
+
+**Next trigger**: Q3 2026 results, Oct 8, 6:00 a.m. EDT (tests 1 and 2).
+
+---
+
 ## [2026-09-22] — Price action · new 52-week low · Duato elected · Elliott engagement audited
 
 **Trigger**: user-requested price update. One filing in the window.

@@ -49,7 +49,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | [NKE](tickers/NKE/NKE.md) | Active | Nike | Wide, stressed | Moderate | 2026-08-19 | **WEEKLY**: FY2026 10-K (Jul 15) + China online-distributor overhaul (Jul 23, effective Jan 1 2027) + JPM downgrade to **Sell** (Aug 4) + CAO resignation → CFO Denton also interim Controller; **China re-diagnosed**: Nike –13% c-c vs. **Adidas +16% c-c**, Anta core/FILA low-single-digit (brand CEO resigned), Li-Ning +3.3% with GM down on promotions, Xtep core negative → execution, not *guochao*; China $5.85B, EBIT –20%, **digital –29% vs stores –4%**; wholesale **+6% to $27.5B**; Wembanyama extended w/ signature line; 12-yr low $38.86; §11 migrated 3-yr→**5-yr**; PW EV $60.50→**$63**; R/R **4.9:1**; **Initiate (small,scaled) / Hold-Add**; entry $38–48 |
 | [ONON](tickers/ONON/ONON.md) | Active | On Holding | Narrow | **Mod-High** | 2026-08-27 | Q2 2026 (Aug 11): **deliberate US wholesale sell-in cut to protect full-price integrity** — wholesale +12.7% c-c (from +25.1%), rev CHF 850.3M missed; **revenue guide cut to low-20s c-c while GM guide RAISED to ≥65%**; record GM **65.4%**, DTC +34.3% c-c to record **45.7%** mix, APAC +54.7%; stock **–22%** to $31.18; ⚠️ **inventory +31% vs +13.5% reported sales**; 2nd founder cluster **$4.0M at $30.67**; Outsider **Reinvestor→Outsider-leaning**; BAIT Double→**Triple**; PW EV $59→**$55.50**; R/R **8.7:1**; **Initiate / Add**; entry $28–42; Q3 ~Nov |
 | [PG](tickers/PG/PG.md) | Active | Procter & Gamble | Wide | Low-Moderate | 2026-09-02 | 🟡 **Watch / Hold** — recovery stalled: FY26 organic growth was entirely price, Q4 volume 0%, FY27 core EPS guided ~1.5% against an 8% cost drag, still at 21×. **PW EV $164: +12% up / −15% down.** |
-| [PEP](tickers/PEP/PEP.md) | Active | PepsiCo | Wide, narrowing | Moderate | 2026-09-22 | 🟡 **Watch (entry ≤$127) / Hold** — Dividend King at a 4.5% yield and a new 52-wk low; three years of new capital still earned nothing. **PW EV $191: +46% up / −9% down.** |
+| [PEP](tickers/PEP/PEP.md) | Active | PepsiCo | Wide, narrowing | Moderate | 2026-10-07 | 🟢 **Initiate / Add** — Dividend King at a 4.7% yield and a new low; clears 13% only while Bear odds stay under 30%; Q3 Oct 8 decides. **PW EV $190: +51% up / −9% down.** |
 | [RH](tickers/RH/RH.md) | Active | RH (Restoration Hardware) | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (B-Strong, T-Mod via 35.6% short); deep cyclical trough; Watch / selective Initiate |
 | [RIVN](tickers/RIVN/RIVN.md) | Active | Rivian Automotive | Narrow | Moderate | 2026-05-18 | Post-earnings weakness + dilution deep-dive — $13.79 (2026-05-15, −16.6% from pre-print close on a Q1 beat) on financing overhang (mixed-shelf S-3 + DOE cut $6.57B→$4.5B + Georgia 400K→300K + R2 slip late 2028). Dilution ~850M IPO→~1.28B (~+50%); VW largest holder 15.9%; fully-loaded ~1.6–1.9B but bull-path-weighted — priced, not thesis-breaking. PW EV $21.10→$19.90; R/R 2.1→2.4:1; **Watch / Hold**; entry $11–13 |
 | [RKT](tickers/RKT/RKT.md) | Active | Rocket Companies | Narrow-Emerging Wide | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 most-profitable in 4 yrs — EBITDA $738M (26% margin); **Mr. Cooper $400M synergies pulled 1 yr forward to end-2026**; Redfin attach 45% w/ "line of sight to 50%"; AI capacity $300B 2 yrs early; +10.88% to $15.69; PW EV $25.80 (5-yr); R/R 3.6:1; verb upgrade **Add / Hold-Add** |
@@ -103,7 +103,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | NKE | **$40.96** (8/19/26) | –48.9% (12-yr low) | Triple (B-Strong, A-Mod, I-Mod) | Initiate (small,scaled) / Hold-Add; entry $38–48; R/R 4.9:1 |
 | ONON | **$29.10** (8/27/26) | –43.0% | **Triple** (B-Strong, A/I-Mod-Strong) | **Initiate / Add**; entry $28–42; R/R 13.6:1 ⚠️ spot-driven |
 | PG | **$147.40** (9/2/26) | –11.9% (~33rd %ile) | **Single (A-Mod)** | 🟡 **Watch / Hold**; entry ≤$132; PW EV $164; R/R 2.6:1 |
-| PEP | **$130.82** (9/22/26) | **−23.7%** (~7th %ile) | **Double (B+A)** | 🟡 **Watch / Hold**; entry ≤$127; PW EV $191; 12.4%/yr vs 13% hurdle |
+| PEP | **$125.71** (10/6/26) | **−26.7%** (~3rd %ile) | **Double (B+A)** | 🟢 **Initiate / Add**; entry ≤$127.42; PW EV $190; 13.3%/yr vs 13% hurdle (fragile) |
 | RH | $137.51 | –46.5% | Double (B-Strong, T-Mod via 35.6% short) | Watch / selective Initiate; entry $110–135 |
 | RIVN | $13.79 (5/15/26) | –41% from high | Triple (B+A+I-Mod, T-Mod) | Watch / Hold; entry $11–13 |
 | RKT | $15.60 | –35.9% | Double (B+A-Mod-Strong) | Initiate Spec. / Hold-Add; entry $11–14 |
@@ -177,4 +177,4 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 
 ---
 
-*Last updated: 2026-10-06*
+*Last updated: 2026-10-07*

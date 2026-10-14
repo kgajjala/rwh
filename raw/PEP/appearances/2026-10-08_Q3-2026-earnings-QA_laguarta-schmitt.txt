@@ -1,0 +1,18 @@
+PepsiCo Q3 2026 results Q&A, Oct 8, 2026, 8:15 a.m. EDT (Ramon Laguarta, CEO; Steve Schmitt, CFO).
+Full transcript not retrievable at capture (Bullfincher page truncated; IR prepared-remarks PDF not fetched). Notes compiled from the 8-K Ex-99.1 and two trade-press write-ups. Captured 2026-10-14.
+
+Sources:
+- 8-K Ex-99.1: https://www.sec.gov/Archives/edgar/data/77476/000007747626000050/q320268-kxexhibit991.htm
+- Just Food write-up: https://www.just-food.com/?p=213825
+- Stocktwits write-up: https://stocktwits.com/news-articles/markets/equity/pepsi-co-tops-q3-estimates-as-international-growth-accelerates-cfo-sees-north-america-core-operating-margin-facing-pressure-in-q4/cZDUKgZRBNf
+
+Points:
+- FY2026 guide cut: core constant-currency EPS +1% to +2% (was low end of +4% to +6%); core EPS +2.5% to +3.5%; organic revenue ~+3% (was +2% to +4%); core tax rate ~21%; cash returns unchanged at $8.9B ($7.9B dividends, $1.0B buybacks).
+- North America convenient foods (PFNA) core operating margin down 280 bps in Q3 (Laguarta, per Just Food): affordability investment, lapping a prior-year asset-sale gain, higher A&M. PBNA core margin -15 bps on volume/channel mix and A&M.
+- Laguarta: NA core operating margin expected to remain under pressure in Q4, partly offset by productivity.
+- Schmitt (per Stocktwits): improving NA growth and margins is "taking more time than we planned"; rising input costs.
+- Additional structural cost reductions (corporate costs, discretionary spend, non-growth initiatives) to be implemented in coming months, funding growth investment and offsetting input-cost inflation.
+- International organic revenue +8%, fastest since Q1 2024 (Laguarta); international margin +105 bps (secondary, AI-generated summary).
+- Q3 core operating profit +3% included a 4-point benefit from tariff refunds (8-K).
+- No quantified 2027 commentary in the write-ups reviewed. No update on the Elliott-committed North America supply-chain review in the write-ups reviewed.
+- Media sweep: no CNBC/Bloomberg appearance by Laguarta or Schmitt found for Oct 7-14.

@@ -4,6 +4,43 @@
 
 ---
 
+## [2026-10-14] — Q3 2026 earnings · guidance cut · both kill criteria fail
+
+**Trigger**: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/77476/000007747626000050/q320268-kxexhibit991.htm), Oct 8. FY2026 core cc EPS guidance cut to +1–2%.
+**Sources**:
+- [Q3 release (raw)](../../../raw/PEP/press-releases/2026-10-08_Q3-2026_earnings.txt)
+- [Q&A notes](../../../raw/PEP/appearances/2026-10-08_Q3-2026-earnings-QA_laguarta-schmitt.txt)
+- [Just Food](https://www.just-food.com/?p=213825) and [Stocktwits](https://stocktwits.com/news-articles/markets/equity/pepsi-co-tops-q3-estimates-as-international-growth-accelerates-cfo-sees-north-america-core-operating-margin-facing-pressure-in-q4/cZDUKgZRBNf) Q3 write-ups
+- [Q3 10-Q filing](https://www.sec.gov/Archives/edgar/data/77476/000007747626000048/0000077476-26-000048-index.htm)
+- [€ notes FWP](https://www.sec.gov/Archives/edgar/data/77476/000110465926115063/tm2626837d3_fwp.htm)
+- [Yahoo](https://finance.yahoo.com/quote/PEP/) Oct 13 close, [StockAnalysis](https://stockanalysis.com/stocks/pep/statistics/), [FRED DGS10](https://fred.stlouisfed.org/series/DGS10), [Barclays cut](https://www.marketbeat.com/instant-alerts/analyst-pepsico-nasdaq-pep-stock-price-target-lowered-at-barclays-2026-10-12/)
+
+### Scorecard
+- Volume-for-price trade accretive (PFNA revenue ≥ prior year with share up) — 🔴 Fail — PFNA net revenue $6,504M vs. $6,526M (−0.3%), with volume share up; PFNA core cc operating profit −12%.
+- Back-half acceleration real (+4–6% guide reaffirmed) — 🔴 Fail — cut to +1–2% core cc EPS, from the low end of +4–6%.
+- Incremental returns recover — 🟡 Pending (FY2026 10-K, Feb 2027); tracking to Fail, with core margin −25 bps year to date and Q4 North America guided down.
+
+Both pre-committed consequences applied as written: 10 points Base → Bear, and Base EPS growth to 4% from a lower FY2026 base ($8.38).
+
+### Changed
+- **Price**: $125.71 → **$127.30** (+1.3%); low $123.47 on Oct 7, then +3.7% on results day.
+- **Q3**: organic +3.1%, international +8%; core EPS $2.34 (+2%); core margin −35 bps; 4 points of core profit growth from tariff refunds.
+- **Scenarios**: Bull $250 → $247; Base $205 → $194; Bear $115 → $114. Probabilities 22/50/28 → **22/40/38**.
+- **Bear odds**: break-even 30% → 23%; price-implied 68% → 63%.
+- **Guidance grade**: Mixed → Misser on the year. Promises-ledger margin row 🟡 → 🔴.
+- **Tests**: two replaced, both resolving Feb 2027. They cover a sized cost programme or supply-chain review, and a FY2027 guide of at least +4% core cc EPS.
+- **BAIT**: Double (B+A) → Single (B).
+- **Analysts**: mean target $148.64 → $142.41. **Short interest**: 1.90% → 1.71% of float.
+
+### Status
+- **Thesis**: Weakened
+- **PW EV**: $190 → **$175** · **PW return/yr**: 13.3% → **11.3%** (hurdle 13%) · **R/R**: 11.5:1 → 9.0:1 · **BAIT**: Double → Single
+- **Verbs**: non-holder Initiate → **Watch** (entry ≤$117) · holder Add → **Hold**
+
+**Next trigger**: Elliott supply-chain review (overdue), then the Q4/FY2026 release with FY2027 guidance in early February 2027.
+
+---
+
 ## [2026-10-07] — Skill v6.0 regeneration · price crosses entry ahead of Q3
 
 **Trigger**: page regenerated under kg-investment-analysis v6.0; price fell to a new 52-week low the day before Q3.

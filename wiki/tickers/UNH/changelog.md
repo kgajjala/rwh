@@ -4,6 +4,43 @@
 
 ---
 
+## [2026-10-14] — Q3 2026 earnings · guide raised to ≥$20.50 · page migrated to v6.0
+
+**Trigger**: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/731766/000073176626000255/earningsrelease3q26unh.htm) on Oct 13. Window events: the Wells Fargo conference and the TPG Florida WellMed stake (Sep 9).
+**Sources**:
+- [Q3 release (raw)](../../../raw/UNH/press-releases/2026-10-13_Q3-2026_earnings.txt)
+- [Q3 call notes](../../../raw/UNH/appearances/2026-10-13_Q3-2026-earnings-call_hemsley-deveydt.txt), [Wells Fargo notes](../../../raw/UNH/appearances/2026-09-09_wells-fargo-conference_deveydt-nelson.txt)
+- [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000731766.json), EDGAR Form 4 XML
+- [Yahoo](https://finance.yahoo.com/quote/UNH/) Oct 13 close, [StockAnalysis](https://stockanalysis.com/stocks/unh/statistics/), [MarketBeat](https://www.marketbeat.com/stocks/NYSE/UNH/forecast/), [FRED](https://fred.stlouisfed.org/series/DGS10)
+
+### Scorecard
+The prior page carried thesis-break triggers rather than three tests; they are scored here.
+- H2 MCR stays below 89% — ✅ Pass on the reported 88.4%; borderline underlying, at ~89.1% excluding $610M of favorable development.
+- FY2027 normalization to $27–31 — 🔴 Fail. Management framed FY2027 at the low end of 13–16% on $20.50, ≈$23.2.
+- No DOJ/Claritev formal complaint — 🟡 Pending; nothing filed in the window, and the call did not address it.
+- Optum Health FY2026 ≥$2B, commercial trend ≤150 bps excess — 🟡 Pending. Optum Health earned $735M in Q3 but Q4 is guided to a loss; commercial trend is still above 11%.
+
+### Changed
+- **Price**: $412.75 → **$377.76** (−8.5%).
+- **Q3**: adjusted EPS $4.69 vs. ≈$4.15 consensus; MCR 88.4% (−150 bps); operating earnings +53%; medical members −1.8M YoY.
+- **FY2026**: adjusted EPS guide $19.50–20.00 → **≥$20.50**. Buybacks $5.0B and dividends $6.2B year to date.
+- **New rows**: ROIC 20.7% (FY2023) → 10.8% (FY2025); 3-yr ROIIC −14.8%; $1 retention −$1.81 vs. S&P +82%.
+- **Classification**: Cyclical Yes (10-yr margin 4.2–8.8%, median 8.1%), so terminal values use normalized margins. Competence: Edge.
+- **Scenarios**: re-based to a 5-year horizon. Bull $711 / Base $508 / Bear $281 at 25/50/25, replacing 24-month targets of $560 / $475 / $310 at 35/50/15.
+- **Bear odds**: break-even <0%; price-implied 19%.
+- **Management**: CFO is Wayne DeVeydt (since Sep 2025). Guidance grade Mixed. Outsider grade unchanged.
+- **BAIT**: Triple → Single (B).
+- **Gaps logged**: FY2025 10-K Item 1A diff; NEO incentive weights; five years of letters.
+
+### Status
+- **Thesis**: Unchanged on the business (recovery on track); weakened on value, because the price already capitalizes normalization.
+- **PW EV**: $480 (24-month) → **$502** (5-year) · **PW return/yr**: ~8% → **8.3%** (hurdle 13%) · **R/R**: 1.4:1 → 3.4:1 · **BAIT**: Triple → Single
+- **Verbs**: non-holder Watch (entry ≤$304, from $365–410) · holder Hold (Trim $502–711)
+
+**Next trigger**: the 2027 outlook, promised before year-end; then the Q4 release in mid-January 2027.
+
+---
+
 ## [2026-08-06] — Q2 2026 Earnings BEAT + Guide Raise + DOJ/Claritev Probe Expansion
 
 **Trigger**: Two material events since 2026-04-28 baseline:

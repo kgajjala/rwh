@@ -49,7 +49,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | [NKE](tickers/NKE/NKE.md) | Active | Nike | Wide, stressed | Moderate | 2026-08-19 | **WEEKLY**: FY2026 10-K (Jul 15) + China online-distributor overhaul (Jul 23, effective Jan 1 2027) + JPM downgrade to **Sell** (Aug 4) + CAO resignation → CFO Denton also interim Controller; **China re-diagnosed**: Nike –13% c-c vs. **Adidas +16% c-c**, Anta core/FILA low-single-digit (brand CEO resigned), Li-Ning +3.3% with GM down on promotions, Xtep core negative → execution, not *guochao*; China $5.85B, EBIT –20%, **digital –29% vs stores –4%**; wholesale **+6% to $27.5B**; Wembanyama extended w/ signature line; 12-yr low $38.86; §11 migrated 3-yr→**5-yr**; PW EV $60.50→**$63**; R/R **4.9:1**; **Initiate (small,scaled) / Hold-Add**; entry $38–48 |
 | [ONON](tickers/ONON/ONON.md) | Active | On Holding | Narrow | **Mod-High** | 2026-08-27 | Q2 2026 (Aug 11): **deliberate US wholesale sell-in cut to protect full-price integrity** — wholesale +12.7% c-c (from +25.1%), rev CHF 850.3M missed; **revenue guide cut to low-20s c-c while GM guide RAISED to ≥65%**; record GM **65.4%**, DTC +34.3% c-c to record **45.7%** mix, APAC +54.7%; stock **–22%** to $31.18; ⚠️ **inventory +31% vs +13.5% reported sales**; 2nd founder cluster **$4.0M at $30.67**; Outsider **Reinvestor→Outsider-leaning**; BAIT Double→**Triple**; PW EV $59→**$55.50**; R/R **8.7:1**; **Initiate / Add**; entry $28–42; Q3 ~Nov |
 | [PG](tickers/PG/PG.md) | Active | Procter & Gamble | Wide | Low-Moderate | 2026-09-02 | 🟡 **Watch / Hold** — recovery stalled: FY26 organic growth was entirely price, Q4 volume 0%, FY27 core EPS guided ~1.5% against an 8% cost drag, still at 21×. **PW EV $164: +12% up / −15% down.** |
-| [PEP](tickers/PEP/PEP.md) | Active | PepsiCo | Wide, narrowing | Moderate | 2026-10-07 | 🟢 **Initiate / Add** — Dividend King at a 4.7% yield and a new low; clears 13% only while Bear odds stay under 30%; Q3 Oct 8 decides. **PW EV $190: +51% up / −9% down.** |
+| [PEP](tickers/PEP/PEP.md) | Active | PepsiCo | Wide, narrowing | Moderate | 2026-10-14 | 🟡 **Watch / Hold** — Both Oct 8 tests failed: guidance cut to +1–2% core cc EPS, and NA snacks share gains still aren't paying. Clears 13% only at $117. **PW EV $175: +38% up / −10% down.** |
 | [RH](tickers/RH/RH.md) | Active | RH (Restoration Hardware) | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (B-Strong, T-Mod via 35.6% short); deep cyclical trough; Watch / selective Initiate |
 | [RIVN](tickers/RIVN/RIVN.md) | Active | Rivian Automotive | Narrow | Moderate | 2026-05-18 | Post-earnings weakness + dilution deep-dive — $13.79 (2026-05-15, −16.6% from pre-print close on a Q1 beat) on financing overhang (mixed-shelf S-3 + DOE cut $6.57B→$4.5B + Georgia 400K→300K + R2 slip late 2028). Dilution ~850M IPO→~1.28B (~+50%); VW largest holder 15.9%; fully-loaded ~1.6–1.9B but bull-path-weighted — priced, not thesis-breaking. PW EV $21.10→$19.90; R/R 2.1→2.4:1; **Watch / Hold**; entry $11–13 |
 | [RKT](tickers/RKT/RKT.md) | Active | Rocket Companies | Narrow-Emerging Wide | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 most-profitable in 4 yrs — EBITDA $738M (26% margin); **Mr. Cooper $400M synergies pulled 1 yr forward to end-2026**; Redfin attach 45% w/ "line of sight to 50%"; AI capacity $300B 2 yrs early; +10.88% to $15.69; PW EV $25.80 (5-yr); R/R 3.6:1; verb upgrade **Add / Hold-Add** |
@@ -62,7 +62,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | [TREX](tickers/TREX/TREX.md) | Active | Trex Company | Narrow & Widening | Moderate | 2026-05-10 | **v2.9→v2.14** + Q1 beat ($343M / $0.59 EPS / GM 40.5% +100bps); FY26 reaffirmed; capex cut $224M→$100–120M; **channel inventory 30–40 days vs. 90–120 historical = thesis-break trigger DE-RISKED ✅**; Arkansas plant 2027; PW EV $58 (5-yr); R/R 3.7:1; **Initiate / Hold (add <$37)** |
 | [TSLA](tickers/TSLA/TSLA.md) | Active | Tesla | Narrow auto + Optional Wide autonomy | Moderate | 2026-09-07 | 🟡 **Watch / Hold** — Cybercab live and Optimus reportedly in production, but the stock re-rated +13.8% to meet both; forward P/E ~200×. PW EV $381: +8% up / −66% down |
 | [UBER](tickers/UBER/UBER.md) | Active | Uber Technologies | Wide (network + scale), widening | High | 2026-09-07 | 🟢 **Initiate / Add** — bookings +22% on flat invested capital at a 6.3% FCF yield; Delivery Hero and a paused buyback are the open test. **PW EV $178: +134% up / −27% down.** |
-| [UNH](tickers/UNH/UNH.md) | Active | UnitedHealth Group | Wide | Moderate-High | 2026-08-06 | v3.0 — Triple BAIT (B dropped Mod); Q2 BEAT (Adj EPS $6.38 +29%, MCR 86.7%) + **FY26 guide raised $19.50–$20.00** + 💰 buyback doubled ≥$5B (Outsider-leaning); DOJ/Claritev probe expanded Jul 14; $413 / ≈21× FY26; PW EV $480 (+16%); R/R 1.4:1; **Watch-Initiate on pullback / Hold** |
+| [UNH](tickers/UNH/UNH.md) | Active | UnitedHealth Group | Wide, narrowing | Moderate | 2026-10-14 | 🟡 **Watch / Hold** — Recovery ahead of plan (FY26 ≥$20.50 after three raises), but 18.4× already capitalizes normalized margins; 2027 framed near $23. Clears 13% only at $304. **PW EV $502: +33% up / −26% down.** |
 | [WING](tickers/WING/WING.md) | Active | Wingstop | Narrow | Lower-Moderate | 2026-05-01 | 5-firm post-Q1 analyst cluster confirms thesis-weakening (Goldman Buy→Neutral $190); zones unchanged; Watch / Reduce on bounce |
 | [ZG](tickers/ZG/ZG.md) | Active | Zillow Group | Wide consumer / Narrow agent | Moderate | 2026-05-10 | **v2.9→v2.14** + Q1 (May 6) rev $708M (+18%) beat / EBITDA $182M (26%) beat; **record $626M Q1 buyback**; Showcase 4.3% (from 1.7%); mortgage +96%; Q2 guide incl. $20M FTC trial costs; **FTC motion-to-dismiss DENIED May 7** — risk escalated; Zillow+Realtor.com Preview May 5; PW EV $75 (5-yr); R/R ~4:1; **Initiate <$50 / Hold (selective add $38–45)** |
 
@@ -103,7 +103,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | NKE | **$40.96** (8/19/26) | –48.9% (12-yr low) | Triple (B-Strong, A-Mod, I-Mod) | Initiate (small,scaled) / Hold-Add; entry $38–48; R/R 4.9:1 |
 | ONON | **$29.10** (8/27/26) | –43.0% | **Triple** (B-Strong, A/I-Mod-Strong) | **Initiate / Add**; entry $28–42; R/R 13.6:1 ⚠️ spot-driven |
 | PG | **$147.40** (9/2/26) | –11.9% (~33rd %ile) | **Single (A-Mod)** | 🟡 **Watch / Hold**; entry ≤$132; PW EV $164; R/R 2.6:1 |
-| PEP | **$125.71** (10/6/26) | **−26.7%** (~3rd %ile) | **Double (B+A)** | 🟢 **Initiate / Add**; entry ≤$127.42; PW EV $190; 13.3%/yr vs 13% hurdle (fragile) |
+| PEP | **$127.30** (10/13/26) | **−25.8%** (~8th %ile) | **Single (B)** | 🟡 **Watch / Hold**; entry ≤$117; PW EV $175; 11.3%/yr vs 13% hurdle |
 | RH | $137.51 | –46.5% | Double (B-Strong, T-Mod via 35.6% short) | Watch / selective Initiate; entry $110–135 |
 | RIVN | $13.79 (5/15/26) | –41% from high | Triple (B+A+I-Mod, T-Mod) | Watch / Hold; entry $11–13 |
 | RKT | $15.60 | –35.9% | Double (B+A-Mod-Strong) | Initiate Spec. / Hold-Add; entry $11–14 |
@@ -116,7 +116,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | TREX | $41.90 | –39% | Double (B+A-Mod) | Initiate (patient) / Hold; entry $30–42 |
 | TSLA | $354.08 (9/4/26) | –29.0% | None (no Strong lens) | Watch / Hold; entry ≤$324 |
 | UBER | **$75.76** (9/4/26) | –25.7% (~28th %ile) | Triple (B+A+I; T Weak) | 🟢 **Initiate / Add**; entry ≤$96; PW EV $178; R/R 12.2:1 |
-| UNH | **$412.75** (8/6/26) | –11% | Triple (B-Mod; A-Strong; I-Mod-Strong; T-Mod) | **Watch / Initiate on pullback / Hold** (Q2 BEAT + guide raised; R/R 1.4:1) |
+| UNH | **$377.76** (10/13/26) | −18.2% (~59th %ile) | **Single (B)** | 🟡 **Watch / Hold**; entry ≤$304; PW EV $502; 8.3%/yr vs 13% hurdle |
 | WING | $165.64 | –57% | Triple (B-Strong, A-Mod, T-Weak) | Watch / Reduce on bounce >$180; entry $135–150 |
 | ZG | $45.41 | –51.6% | Triple (B+A-Strong, I-Mod) | Initiate / Add; entry $38–50 |
 
@@ -160,7 +160,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | LLY | Precise drug revenue breakdown FY2025 full year | LLY 10-K or Q4 press release |
 | LLY | Geographic revenue by region (exact %) | LLY 10-K segment note |
 | WING | FCF, operating cash flow from 10-K | SEC EDGAR / ir.wingstop.com |
-| UNH | Full balance sheet: debt structure, dividend coverage | UNH 10-K |
+| UNH | FY2025 10-K Item 1A diff; non-CEO annual-incentive metrics and weights; five years of chairman's letters; post-Q3 analyst actions | EDGAR 10-K and DEF 14A HTML; annual reports page; MarketBeat after indexing |
 | SCHW | Management appearances calendar (aboutschwab.com/schwabevents returned 403); Barclays Sep 15 conference participation unconfirmed | IR events page via browser; conference transcript |
 | SBUX | Uplift-store return (sales lift vs. control, payback on ~$150K); four-wall margin; Niccol Sep 10 CNBC full transcript | Q4 FY26 call; CNBC transcript |
 | SHOP | Executed insider sales behind the Aug–Sep Form 144 notices (insiders report on SEDI, not Form 4); merchant count; agentic GMV | SEDI; Q3 2026 call |
@@ -177,4 +177,4 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 
 ---
 
-*Last updated: 2026-10-07*
+*Last updated: 2026-10-14*

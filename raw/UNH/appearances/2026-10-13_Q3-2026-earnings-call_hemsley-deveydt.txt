@@ -1,0 +1,18 @@
+UnitedHealth Group Q3 2026 earnings call, Oct 13, 2026, 8:00 a.m. ET.
+Speakers incl. Stephen Hemsley (CEO), Wayne DeVeydt (CFO), Tim Noel (CEO UnitedHealthcare), Bobby Hunter (Government Programs), Mike Cotton (Medicaid), Krista Nelson (Optum Health), Jon Mahrt (Optum Rx), Sandeep Dadlani (Optum Insight).
+Notes from two transcript write-ups, captured 2026-10-14:
+- Investing.com transcript: https://ng.investing.com/news/stock-market-news/earnings-call-transcript-unitedhealth-beats-q3-2026-estimates-lifts-outlook-93CH-2733997
+- Yahoo Finance call summary: https://finance.yahoo.com/healthcare/articles/unitedhealth-group-unh-said-q3-150258307.html
+
+Points:
+- FY2026 adjusted EPS outlook raised to at least $20.50 (third raise of 2026; initial floor >$17.75). DeVeydt: $20.50 "a solid run rate on which to grow"; the lower end of the 13-16% long-term growth target is "a more reasonable starting point" for 2027 than current consensus. Fuller 2027 outlook before year-end; no date given.
+- Hemsley on Optum Health 2027 margin (Erin Wright, MS): "we can't really get to precision at this range."
+- Commercial trend (Noel): above the initial 11% assumption, "still tracking north of 11%"; 2027 pricing assumes current trend persists; long-term commercial margin targets will take longer. Rejected the premise that trend accelerated through 2026 (Fischbeck, BofA). IDR awards up to ~6% of medical spend in some regions; some awards 10-11x Medicare.
+- MA (Hunter): 2026 margin near top of 2-4%; 2027 focus D-SNP, C-SNP, high-value HMO; formal 2027 membership guidance later this year; ~75% of members in 4+ Star plans targeted by 2028. MA seniors down 935K since YE2025 (release).
+- Medicaid (Cotton): core margin moderately better than -1% in 2026; targeted margins by end-2028. No answer on average 2027-30 margins (Fidel, GS) or break-even (Lake, Wolfe).
+- Optum Health (Nelson): 6-8% margin by 2028; Q4 to carry risk seasonality plus investments; Barclays (Mok) noted guide implies a meaningfully negative Q4 for the segment; not quantified.
+- Optum Rx (Mahrt): >50% of membership external; retention high-90s%; 100% rebate pass-through to clients by Jan 1, 2028 (release).
+- Capital: $5.0B buybacks and $6.2B dividends YTD; >$8.0B dividends for FY; debt-to-cap 41.7%, ~40% by year-end.
+- DOJ: not addressed in the write-ups reviewed.
+- Stock: opened ~$397.6 (+5% intraday high $399.88), closed $377.76 (-0.2%).
+- Media sweep: no CNBC/Bloomberg appearance by Hemsley or DeVeydt found for Aug 6-Oct 14.

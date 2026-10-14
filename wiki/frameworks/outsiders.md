@@ -91,7 +91,7 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 | **SBUX** | Dividend first (~95% of FY26 non-GAAP EPS; FY25 dividend exceeded FCF); no buyback since FY24; China and possibly Japan moved to licensed models, with proceeds to debt reduction. |
 | **MSFT** | $20B+ annual programmatic buybacks + dividend growing since 2003; M&A at strategic premiums. Nadella is an exceptional steward — the Outsider test doesn't fit a patterned return program. |
 | **DELL** | 40-yr strategic capital-allocation mastery (LBO, EMC, VMware spin) but public-company framework is committed programmatic cadence. SLTA insider sales blunt the timing signal. |
-| **UNH** | **Outsider-leaning** *(upgraded 2026-08-06)*: countercyclical $2B+ at $300–355 in Q1 2026, then **doubled FY26 target to ≥$5B** ($4B executed at ~$378 avg); dividend raised to $9.28/yr. The Q1 trough-buy + Q2 acceleration is the clearest Outsider signal in UNH's history; historical programmatic pattern partially offsets. |
+| **UNH** | **Outsider-leaning**: bought countercyclically — $2B+ at $300–355 in Q1 2026 and $5.0B by Q3 while 20–35% below the high. Capped by $54B of 2021–25 acquisitions at a −15% 3-yr ROIIC. |
 | **RKT** | $16B all-stock dilutive acquisitions (Mr. Cooper + Redfin); long-duration orientation, bold, but fails Thorndike's per-share discipline test; no buybacks during integration. |
 | **SCHW** | Bought $2.4B at ~$99 in Q1 2026, then only $1.0B at ~$89 in Q2 as the stock made its 52-wk low, while issuing $5.85B of senior notes. The inverse of the countercyclical test. |
 

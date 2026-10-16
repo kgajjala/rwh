@@ -1,0 +1,19 @@
+PepsiCo Q3 2026 earnings Q&A, Oct 8, 2026. Verbatim excerpts used in wiki/insights/PEP-deep-dive-2026-10-15.html.
+Source: Benzinga full transcript (automated transcription), https://www.benzinga.com/news/26/10/62244871/pepsico-q3-2026-earnings-call-complete-transcript
+Captured 2026-10-16.
+
+Laguarta (to Mohsenian, MS): "The scale of the business now is to the point that we put on the remarks that year-to-date International is already 45% of our profit."
+Laguarta: "The volume bet that we made in Snacks North America, especially with the price reset — we're happy with the turnaround in the volume performance. If you think about last year, that business was low single-digit negative volume growth. This year we're low single-digit positive volume growth. That is a major turnaround ... We gained share in volume now for multiple quarters in Foods North America and Snacks North America. We're starting to turn that into value share as well."
+Laguarta: "We don't feel good about the beverage business. I think the beverage business, as we put in our remarks, we're competing well in some platforms like hydration, like energy. We're not competing well in soft drinks. So we're putting all the urgency of the business and the focus in improving our performance in soft drinks."
+Laguarta (to Herzog, GS): "we don't expect the consumer to suddenly become, you know, in a much better place in the next 12, 18 months." Portion-control packs "already three-plus billion dollars"; "over $3 billion as well of permissible portfolio".
+Schmitt (to Lieberman, Barclays): hedging programs "are typically six to 12 months ... we're starting to see these hedges roll off and essentially our input costs starting to ramp." Q3 PBNA tariff-refund benefit goes away in Q4.
+Laguarta (to Jefferies): "this new wave of inflation that is coming to every country"; "We're putting some guardrails to our people" on next year's pricing.
+Laguarta (to Grundy, BNP Paribas, on splits/refranchising): "we're open to revisiting every option ... we're looking at whether there are opportunities to expand or accelerate some of the refranchising in some parts of the country where we have good partners and where it makes sense that that partnership will drive better execution and potentially better margin for the company."
+Laguarta (to Ottenstein, Evercore): One North America integration pilot (Texas) "working well on the physical side with warehouses and transportation"; hybrid approach by geography; Carlsberg partnership expanding.
+Schmitt: 2027 detail "in February when we report the fourth quarter."
+
+2026 proxy (DEF 14A, pages 9, 57, 61), https://www.sec.gov/Archives/edgar/data/77476/000130817926000169/pep015012_def14a.htm:
+- LTI: 66% PSUs (50% 3-yr avg core cc EPS change, 50% 3-yr avg organic revenue), 34% long-term cash on 3-yr relative TSR.
+- 2023-25 PSUs paid 88.4% (EPS 7.7% vs 7.2% target; organic 4.4% vs 5.0%). 2023 LTC paid 50% (25th percentile TSR).
+- 2025 annual incentive targets: organic 3.0% (actual 1.7%), FCF ex items $9.9B ($10.0B), core cc EPS 7.0% (0%). NEO average payout 77%.
+- CEO: 2026 salary $1.85M; 2025 annual incentive $3.136M; 2026 LTI grant $19.0M. No ROIC metric in either plan.

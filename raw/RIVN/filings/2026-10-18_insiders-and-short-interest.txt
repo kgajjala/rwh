@@ -1,0 +1,36 @@
+RIVN insider Form 4s (Jul 20 - Oct 18, 2026) and short-interest data — compiled 2026-10-19
+Form 4 XML read directly from EDGAR (CIK 1874178) submissions list.
+
+| Filed | Insider | Role | Date | Code | Shares | Price |
+| 2026-10-02 | Michael J. Callahan | Chief Administrative Officer | 2026-10-01 | S (10b5-1) | 15,000 | $15.00 |
+| 2026-09-16 | Michael J. Callahan | CAO | 2026-09-11 | S (10b5-1) | 15,000 | $16.29 |
+| 2026-08-21 | Claire McDonough | CFO | 2026-08-20 | S (10b5-1) | 8,023 | $16.00 |
+| 2026-08-18 | Claire McDonough | CFO | 2026-08-15/18 | F 38,640 @ $15.36; S (10b5-1) 13,144 @ $14.50 |
+| 2026-08-18 | Robert J. Scaringe | CEO | 2026-08-15 | F (tax withholding) | 44,033 | $15.36 |
+| 2026-08-18 | Callahan / Venkataratnam (CAO-acctg) | | 2026-08-15 | F | 42,082 / 20,297 | $15.36 |
+| 2026-07-22 | Directors (Gomez, Krafcik, Krawiec, Schwartz) | | 2026-07-20 | A (awards) | small | — |
+No open-market purchases (code P). Open-market sales ~51K shares, ~$0.8M, all 10b5-1. The Oct 1 Form 144 flagged in news = Callahan's 15,000-share 10b5-1 sale (~$225K).
+
+Official short interest (Nasdaq, https://www.nasdaq.com/market-activity/stocks/rivn/short-interest):
+| Settlement | Shares short | Avg daily vol | Days to cover |
+| 2026-05-15 | 145,307,835 | 31.9M | 4.6 |
+| 2026-06-30 | 150,409,525 | 30.2M | 5.0 |
+| 2026-07-31 | 152,494,676 | 28.2M | 5.4 |
+| 2026-08-31 | 159,880,400 | 24.9M | 6.4 |
+| 2026-09-15 | 154,207,256 | 16.9M | 9.1 |
+| 2026-09-30 | 169,060,977 | 24.4M | 6.9 |
+Sep 30 = ~14.9% of float (Yahoo/StatMuse). +9.6% vs Sep 15; +16% vs May 15. Next print (Oct 15 settlement) due ~Oct 23-24.
+ORTEX estimate Oct 14 (https://ortex.news/articles/188485/rivian-short-interest-hits-14-as-earnings-loom): >172M shares, 14.1% of ORTEX free float (12.7% a week earlier), +8.3% w/w; cost to borrow 0.57%; availability 162% (from >200% late Sep).
+
+FINRA Reg SHO daily short-sale volume (off-exchange/TRF, https://cdn.finra.org/equity/regsho/daily/), weekly averages:
+| Week of | Short vol/day | Reported vol/day | Short ratio |
+| Jul 6 | 14.5M | 30.6M | 47.2% |
+| Jul 27 | 9.3M | 15.8M | 59.1% |
+| Aug 17 | 6.5M | 14.2M | 45.7% |
+| Sep 7 | 3.9M | 9.3M | 42.3% |
+| Sep 14 | 5.8M | 12.3M | 47.3% |
+| Sep 21 | 4.7M | 10.0M | 46.5% |
+| Sep 28 | 7.5M | 15.1M | 49.7% |
+| Oct 5 | 5.3M | 11.2M | 47.5% |
+| Oct 12 | 5.5M | 11.4M | 48.4% |
+Oct 2 alone: 15.2M of 30.7M (49.3%). Ratio is flat at 42-50% through the slide; it mostly reflects market-maker short sales, not new directional positions.

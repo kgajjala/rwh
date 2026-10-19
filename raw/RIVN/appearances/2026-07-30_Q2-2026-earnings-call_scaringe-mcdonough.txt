@@ -1,0 +1,11 @@
+Rivian Q2 2026 earnings call, July 30, 2026, 5:00 p.m. ET. Speakers: RJ Scaringe (CEO), Claire McDonough (CFO), Javier Varela (COO).
+Notes from secondary write-ups (no IR transcript parsed), captured 2026-10-19:
+- Zacks via Yahoo: https://finance.yahoo.com/markets/stocks/articles/rivian-q2-earnings-call-spotlights-140000378.html
+- GuruFocus via Yahoo: https://finance.yahoo.com/markets/stocks/articles/rivian-automotive-inc-rivn-q2-050104636.html
+- 247wallst (credits quote): https://247wallst.com/investing/2026/08/17/rivian-drops-25-this-year-with-164m-of-credits-vanishing-in-the-second-half/
+Points:
+- Scaringe: supplier readiness is the binding R2 constraint; launch deliberately simpler than R1 (fewer build combinations). R2 Launch Edition ($57,990) reservation-to-order conversion "meaningfully above expectations"; many first-time EV buyers; record 57,000+ demo drives. Most non-converters waiting for other trims (premium/standard) expected early 2027.
+- Varela: second R2 shift by end of Q3; volume contribution mainly Q4.
+- McDonough: R2 positive gross profit at the 2026 exit rate; Q4 production a reasonable benchmark for normalized cost though R2 not fully ramped; Q3 carries a full quarter of ramp cost. $164M of H1 regulatory credits "largely" absent in H2 — "the bigger driver" of a steeper H2 EBITDA loss. Autonomy spend rises in H2 (GPU for training).
+- Autonomy: point-to-point assisted driving by YE2026; hands-off/eyes-off 2027; Level 4 2028. RAP1 / Gen3 hardware on track for late 2026.
+Also: CNBC interview with Scaringe the same day on R2 demand and autonomy (https://www.cnbc.com/video/2026/07/30/rivian-ceo-rj-scaringe-on-r2-demand-and-autonomous-driving-development.html) — video description only; content not captured [gap].

@@ -1,0 +1,8 @@
+Rivian 8-K Item 2.03, Oct 7, 2026 — funding of $1.0B Volkswagen Group term loan
+Source: https://www.sec.gov/Archives/edgar/data/1874178/000187417826000061/rivn-20261007.htm
+Captured 2026-10-19.
+- Committed $1.0B 10-year term loan funded Oct 7, 2026 (Loan A VW SPV -> JV at 5.93%; Loan B JV -> Rivian SPV at 6.03% fixed).
+- Non-recourse to Rivian; Loan B secured only by Rivian's 50% equity interest in the JV. No guarantee.
+- Matures Oct 7, 2036. Amortization from year 3: $100M/yr per loan ($50M semiannual). First interest payment due on the second anniversary.
+- Prepayable without penalty. Proceeds distributed to Rivian for general corporate purposes.
+Note: debt, not equity — no dilution.

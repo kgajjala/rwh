@@ -1,0 +1,13 @@
+Rivian Releases Q3 2026 Production and Delivery Figures and Sets Date for Third Quarter 2026 Financial Results (Oct 2, 2026)
+Source: 8-K Ex. 99.1, https://www.sec.gov/Archives/edgar/data/0001874178/000187417826000057/ex-9913q26deliveryproducti.htm
+Captured 2026-10-19.
+
+- Q3 2026 production 19,751; deliveries 19,248 (Normal, IL). Production exceeded deliveries by 503.
+- Results described as "in line with Rivian's outlook". FY2026 delivery guidance reaffirmed at 65,000-70,000 (not raised).
+- YTD deliveries 41,807 (Q1 10,365 + Q2 12,194 + Q3 19,248) -> Q4 implied 23,193-28,193 [Derived], +20% to +46% QoQ.
+- No model mix disclosed (no R2/R1/EDV split). No inventory commentary.
+- Q3 results Oct 29, 2026 after close; webcast 5:00 p.m. ET.
+
+Consensus context (secondary): ~18,000 (FactSet via CNBC); 18,547 (Visible Alpha via Rivian_DD preview, https://riviandd.substack.com/p/rivian-q3-2026-production-and-delivery); 17,792 (Zacks).
+Rivian_DD mix estimate [Estimate, author long RIVN]: R2 8.4k, EDV 5.9k, R1 4.3k. Same author expected the bottom of the FY range to rise if supply chain unchanged.
+Stock: Oct 2 close $14.30 (-3.1%) on 60.9M shares (~2.5x average).

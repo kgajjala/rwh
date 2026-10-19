@@ -1,0 +1,33 @@
+Rivian Q2 2026 financial results (July 30, 2026)
+Sources: 8-K Ex. 99.2 presentation https://www.sec.gov/Archives/edgar/data/0001874178/000187417826000053/ex-9922q26rivianearnings.htm ; release https://rivian.com/newsroom/article/rivian-releases-second-quarter-2026-financial-results
+Captured 2026-10-19. $M unless noted.
+
+| Metric | Q2 2026 | Q2 2025 | 6M 2026 | 6M 2025 |
+| Revenue | 1,658 | 1,303 | 3,039 | 2,543 |
+| Automotive revenue | 1,143 | 927 | 2,051 | 1,849 |
+| of which regulatory credits | 108 | ~5 | | |
+| Software & services revenue | 515 | 376 | 988 | 694 |
+| Gross profit | 179 | (206) | 298 | 0 |
+| Automotive gross profit | (36) | (335) | | |
+| Software & services gross profit | 215 (42%) | 129 | | |
+| R&D | 466 | 410 | 924 | 791 |
+| SG&A | 549 | 498 | 1,091 | 978 |
+| Loss from operations | (836) | (1,114) | (1,717) | (1,769) |
+| Net loss attrib. common | (833) | (1,117) | (1,249) | (1,662) |
+| EPS | (0.63) | (0.97) | (0.97) | (1.45) |
+| Wtd avg shares (M) | 1,325 | 1,155 | 1,287 | 1,146 |
+| Adjusted EBITDA | (379) | (667) | (851) | (996) |
+| Operating cash flow | (487) | 64 | (1,190) | (124) |
+| Capex | (362) | (462) | (734) | (800) |
+| Free cash flow | (849) | (398) | (1,924) | (924) |
+| Production / deliveries | 12,613 / 12,194 | 5,979 / 10,661 | | |
+6M 2026 net loss includes a $506M gain on the Mind Robotics Series A / deconsolidation.
+Q2 automotive gross profit includes ~$100M of incremental R2 ramp costs (expedited freight, supplier premiums, unabsorbed fixed cost).
+
+Balance sheet Jun 30, 2026: cash + STI $5,310M; ABL availability $536M; long-term debt $4,444M. Pro-forma liquidity $7,163M incl. ~$1,317M net from the July equity offering.
+2026 guidance: deliveries 65-70K; adjusted EBITDA $(2.0)-(1.8)B (midpoint +$50M); capex $1.70-1.80B (midpoint -$250M).
+External R2 deliveries began June 9, 2026. Two R2 shifts targeted by end of Q3, volume mainly Q4.
+VW: $1.0B non-recourse loan (Oct 2026, at Rivian's option); $460M equity at earlier of first RV Tech vehicle SOP or Jan 2028.
+Uber: $250M milestone-based investment targeted by end of 2026; up to $700M more through 2031 on autonomy milestones.
+Call (secondary): CFO said $164M of H1 regulatory credits benefited gross profit and "largely" fall away in H2 — "the bigger driver" of a steeper H2 EBITDA loss (247wallst 2026-08-17). Q3 to carry a full quarter of R2 ramp cost.
+Stock: Jul 30 close $16.83 -> Jul 31 $15.22 (-9.6%).

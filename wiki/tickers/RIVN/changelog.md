@@ -4,6 +4,34 @@
 
 ---
 
+## [2026-10-19] — Q2 2026 Earnings, Q3 Deliveries, July Equity Offering, CFO Departure; migrated to v6.0
+
+**Trigger**: Window May 18 → Oct 19. Q2 deliveries and guide raise (Jul 2), the $15.50 offering (Jul 7), Q2 results (Jul 30), the CFO resignation (Aug 27), Q3 deliveries without a raise (Oct 2), the $1.0B VW loan (Oct 7), and a new 52-week low of $12.42 (Oct 16).
+**Sources**: [Q3 deliveries](../../../raw/RIVN/press-releases/2026-10-02_Q3-2026_production-deliveries.txt) · [Q2 deliveries](../../../raw/RIVN/press-releases/2026-07-02_Q2-2026_production-deliveries.txt) · [Q2 results](../../../raw/RIVN/press-releases/2026-07-30_Q2-2026_earnings.txt) · [10-Q excerpts](../../../raw/RIVN/filings/2026-07-30_10-Q_Q2-2026_excerpts.txt) · [CFO 8-K](../../../raw/RIVN/filings/2026-08-27_8-K_CFO-transition.txt) · [VW loan 8-K](../../../raw/RIVN/filings/2026-10-07_8-K_VW-term-loan.txt) · [insiders and short interest](../../../raw/RIVN/filings/2026-10-18_insiders-and-short-interest.txt) · [appearances](../../../raw/RIVN/appearances/)
+
+### Scorecard
+- FY2026 delivery guide cut below 60K — ✅ Pass — raised to 65–70K on Jul 2, reaffirmed Oct 2
+- Equity takedown at a deep discount to spot — 🔴 Fail — 86.25M shares at $15.50, 23% below the $20.14 close (above May's price, so opportunistic rather than distressed; applied as a wider Bear and dilution in every scenario)
+- Software & services growth below 50% — 🔴 Fail — +37% in Q2 (gross profit +67%); the S&S margin case is intact, but growth is not
+- R2 rate ≥1,000 a week by end-Q3 — 🟡 Pending — not disclosed; ~8.4K Q3 R2 deliveries `[Estimate]`
+
+### Changed
+- Share count 1,240M → 1,448M (+16.8%) since Dec 2025: VW 63M, Uber 20M, offering 86M, employees ~39M
+- Q2: revenue $1.66B (+27%), gross profit $179M incl. $108M credits, FCF −$849M; credits largely end in H2
+- Liquidity ≈$6.6B after the non-recourse VW loan; DOE first draw needs positive gross margin
+- CFO McDonough leaves Oct 30; interim Derek Mulvey
+- Short interest 145M → 169M shares (≈14.9% of float); borrow cheap
+- Valuation moved to a 5-year lens with funding and SBC dilution explicit; 2027 EBITDA-positive target recorded as withdrawn
+
+### Status
+- **Thesis**: Weakened
+- **PW EV**: $19.90 (2-yr, v3) → $10.30 (5-yr) · **PW return/yr**: n/a → −3.7% (hurdle 13%) · **R/R**: 2.4 → 0.9 · **BAIT**: Triple (Moderate) → Single (B)
+- **Verbs**: non-holder Watch (entry $11–13 → ≤$5.59) · holder Hold → **Trim**
+
+**Next trigger**: 📅 Q3 results, Oct 29 (test 1, first read).
+
+---
+
 ## [2026-05-18] — Post-Earnings Weakness + Share-Dilution Deep-Dive (IPO→present + forward path); PW EV $21.10→$19.90 on larger diluted count; R/R 2.1→2.4:1
 
 **Trigger**: Owner-requested rigorous share-dilution analysis + explanation of the post-Q1 price weakness. The decisive new event is the **May 15, 2026** disclosure cluster: automatic mixed-shelf (S-3) registration, DOE loan renegotiated **down** $6.57B→$4.5B (only one Georgia phase funded), Georgia capacity cut **400K→300K**, R2-Georgia slipped to **late 2028**. Stock −5.0% that session; −16.6% cumulative from the $16.54 pre-print close.

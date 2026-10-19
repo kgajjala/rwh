@@ -51,7 +51,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | [PG](tickers/PG/PG.md) | Active | Procter & Gamble | Wide | Low-Moderate | 2026-09-02 | 🟡 **Watch / Hold** — recovery stalled: FY26 organic growth was entirely price, Q4 volume 0%, FY27 core EPS guided ~1.5% against an 8% cost drag, still at 21×. **PW EV $164: +12% up / −15% down.** |
 | [PEP](tickers/PEP/PEP.md) | Active | PepsiCo | Wide, narrowing | Moderate | 2026-10-14 | 🟡 **Watch / Hold** — Both Oct 8 tests failed: guidance cut to +1–2% core cc EPS, and NA snacks share gains still aren't paying. Clears 13% only at $117. **PW EV $175: +38% up / −10% down.** |
 | [RH](tickers/RH/RH.md) | Active | RH (Restoration Hardware) | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (B-Strong, T-Mod via 35.6% short); deep cyclical trough; Watch / selective Initiate |
-| [RIVN](tickers/RIVN/RIVN.md) | Active | Rivian Automotive | Narrow | Moderate | 2026-05-18 | Post-earnings weakness + dilution deep-dive — $13.79 (2026-05-15, −16.6% from pre-print close on a Q1 beat) on financing overhang (mixed-shelf S-3 + DOE cut $6.57B→$4.5B + Georgia 400K→300K + R2 slip late 2028). Dilution ~850M IPO→~1.28B (~+50%); VW largest holder 15.9%; fully-loaded ~1.6–1.9B but bull-path-weighted — priced, not thesis-breaking. PW EV $21.10→$19.90; R/R 2.1→2.4:1; **Watch / Hold**; entry $11–13 |
+| [RIVN](tickers/RIVN/RIVN.md) | Active | Rivian Automotive | Narrow, stable | Low-Moderate | 2026-10-19 | 🟡 **Watch** / 🔴 **Trim** — The R2 ramp is real and VW's loan eased funding, but shares grow ~6% a year and the price already needs the Bull. Clears 13% only at $5.59. **PW EV $10.30: −17% vs. spot / −84% down.** |
 | [RKT](tickers/RKT/RKT.md) | Active | Rocket Companies | Narrow-Emerging Wide | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 most-profitable in 4 yrs — EBITDA $738M (26% margin); **Mr. Cooper $400M synergies pulled 1 yr forward to end-2026**; Redfin attach 45% w/ "line of sight to 50%"; AI capacity $300B 2 yrs early; +10.88% to $15.69; PW EV $25.80 (5-yr); R/R 3.6:1; verb upgrade **Add / Hold-Add** |
 | [SBUX](tickers/SBUX/SBUX.md) | Active | Starbucks | Wide, stable | Moderate | 2026-10-07 | 🟡 **Watch (entry ≤$70) / Hold** — U.S. traffic back three quarters, but the price implies ~2% Bear odds and the dividend exceeds owner earnings. **PW EV $114.5: +21% up / −26% down.** |
 | [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Wide, stable | Moderate | 2026-09-23 | 🟡 **Watch (entry ≤$98) / Hold** — the lowest-cost custodian compounding on almost no new capital; Q2 beat-and-raise, but the rally leaves 12.4%/yr. **PW EV $171: +69% up / −16% down.** |
@@ -105,7 +105,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | PG | **$147.40** (9/2/26) | –11.9% (~33rd %ile) | **Single (A-Mod)** | 🟡 **Watch / Hold**; entry ≤$132; PW EV $164; R/R 2.6:1 |
 | PEP | **$127.30** (10/13/26) | **−25.8%** (~8th %ile) | **Single (B)** | 🟡 **Watch / Hold**; entry ≤$117; PW EV $175; 11.3%/yr vs 13% hurdle |
 | RH | $137.51 | –46.5% | Double (B-Strong, T-Mod via 35.6% short) | Watch / selective Initiate; entry $110–135 |
-| RIVN | $13.79 (5/15/26) | –41% from high | Triple (B+A+I-Mod, T-Mod) | Watch / Hold; entry $11–13 |
+| RIVN | **$12.42** (10/16/26) | **−45%** (0th %ile, 52-wk low) | **Single (B)** | 🟡 **Watch** / 🔴 **Trim**; entry ≤$5.59; PW EV $10.30; −3.7%/yr vs 13% hurdle |
 | RKT | $15.60 | –35.9% | Double (B+A-Mod-Strong) | Initiate Spec. / Hold-Add; entry $11–14 |
 | SBUX | **$94.42** (10/7/26) | −14.6% (51st %ile) | **Single (A)** | 🟡 **Watch / Hold**; entry ≤$70; PW EV $114.5; 6.6%/yr vs 13% hurdle |
 | SCHW | **$101.14** (9/23/26) | −11.7% (56th %ile) | **Double (B+A)** | 🟡 **Watch / Hold**; entry ≤$98; PW EV $171; 12.4%/yr vs 13% hurdle |
@@ -177,4 +177,4 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 
 ---
 
-*Last updated: 2026-10-14*
+*Last updated: 2026-10-19*

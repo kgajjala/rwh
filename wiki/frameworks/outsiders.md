@@ -76,7 +76,7 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 | **FIG** | Pre-revenue; $1.7B war chest into product expansion; too early for buyback test. Walked from Adobe deal cleanly (only capital-discipline data point). |
 | **HOOD** | **Reinvestor (improving)** — $664M YTD buybacks (7.5M shares) funded partly by $2.2B zero-coupon convertible at 0% / $300 conversion (clever arbitrage); ~290-person layoff signals cost discipline. Pace accelerating but still small vs. $82B cap. |
 | **LLY** | CapEx $1.3B → $7.8B; R&D >$10B/yr; bold pipeline M&A; deploying all capital at highest-IRR moment in Lilly history. Outsider test applies post-capex-cycle maturation. |
-| **RIVN** | Pre-profitability; all capital into R2 + VW JV + Adventure Network. Scaringe $5B performance-equity aligns with per-share outcomes (Outsider spirit); buyback test can't apply before FCF. |
+| **RIVN** | Pre-profitability; all capital into the R2, Georgia and autonomy. 2026 funding: $1.3B of strategic equity (VW $15.90, Uber $15.34), a $1.34B offering at $15.50 into a rally (23% below the prior close) and a $1.0B non-recourse VW loan. $0.52 of market value per $1 paid in. |
 
 ### Tier 4 — Stewards (excellent, but **not** Outsiders by Thorndike's test)
 

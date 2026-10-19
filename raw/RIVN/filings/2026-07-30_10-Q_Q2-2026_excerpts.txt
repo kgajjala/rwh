@@ -1,0 +1,19 @@
+Rivian 10-Q for quarter ended June 30, 2026 — extracted passages
+Source: https://www.sec.gov/Archives/edgar/data/0001874178/000187417826000054/rivn-20260630.htm
+Captured 2026-10-19.
+
+Cover: As of July 21, 2026, 1,443,948,130 Class A and 3,912,500 Class B shares outstanding (total 1,447.9M).
+
+Equity statement (shares, M): Dec 31, 2025 1,240 -> Q1 capital stock issuance +20 -> Mar 31, 2026 1,260 -> Q2: issued to Volkswagen Group +63; capital stock issuance incl. ESPP +39 (includes ~20M to Uber) -> Jun 30 ~1,362 -> July offering +86.25 -> 1,448 (Jul 21).
+
+VW Investment Agreement: Testing Milestones achieved March 2026; April 2026 received $1,000M for ~63M Class A shares at 30-day VWAP $15.90. Remaining: $460M at earlier of Jan 3, 2028 or Start of Production Milestone (may be partly a convertible instrument; $210M of it recognized as revenue for JV services). "We expect to receive up to an additional $1.5 billion from Volkswagen Group" (equity $460M + $1.0B loan).
+
+Uber Subscription Agreement (March 2026, SMB Holding Corporation and Uber Technologies): May 2026 received $300M for ~20M Class A shares at 30-day VWAP $15.34 (ending Mar 17, 2026). Up to an aggregate $950M across four remaining Milestones, "certain of which require the fulfillment of proven autonomy quality"; settled in warrants or shares. Master framework and vehicle production agreements for R2-based vehicles with Rivian's Level 4 system on Uber's platform.
+
+July 7, 2026 underwriting agreement (Goldman Sachs representative): 75M shares at $15.50; option for 11.25M exercised July 8; closed July 9; ~$1.3B net. Use: general corporate purposes incl. DOE equity contributions.
+
+Green convertible notes: 2029 notes $1,500M, 4.625%, initial conversion price ~$20.13; 2030 notes $1,725M, conversion price ~$23.29. Total long-term debt principal $4,475M.
+
+DOE Loan (A&R LARSSA, April 2026): Note A up to $3,355M + $315M capitalized interest (~15-yr); Note B up to $651M + $179M (~10-yr); for Stanton Springs North (Georgia). Conditions to first advance include "the Sponsor maintaining positive gross margin for certain periods prior to the first advance, the Borrower achieving certain vehicle sales metrics prior to the first advance, the funding of certain equity contributions and reserves". Note A advances available through April 16, 2031. No draws as of Q2; first draw expected by early 2027.
+
+Liquidity table: cash $3,592M + STI $1,718M + ABL $536M = $5,846M at Jun 30, 2026 (pre-offering).

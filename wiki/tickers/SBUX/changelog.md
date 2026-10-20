@@ -4,6 +4,39 @@
 
 ---
 
+## [2026-10-20] — FT reports Chipotle bid exploration (denied) · price +3.7% · deep dive published
+
+**Trigger**: [FT report](https://www.cnbc.com/amp/2026/10/12/starbucks-denies-chipotle-takeover.html) on Oct 8 that Starbucks worked with advisers on a possible Chipotle takeover proposal; Starbucks said on Oct 12 it is "not buying Chipotle." Price $94.42 → $97.87.
+**Sources**:
+- [CNBC, Oct 12](https://www.cnbc.com/amp/2026/10/12/starbucks-denies-chipotle-takeover.html)
+- [Q4 date announcement](https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Announces-Q4-and-Full-Fiscal-Year-2026-Results-Conference-Call/default.aspx)
+- [Q3 FY2026 call transcript (raw)](../../../raw/SBUX/transcripts/2026-07-29_Q3-FY26_call.txt)
+- [Yahoo](https://finance.yahoo.com/quote/SBUX/) Oct 19 close, [StockAnalysis](https://stockanalysis.com/stocks/sbux/statistics/)
+- [SBUX deep dive](../../insights/SBUX-deep-dive-2026-10-20.html)
+
+### Scorecard
+- Margin walk holds without the refund — 🟡 Pending; resolves Oct 29 (Q4 FY2026).
+- Traffic survives the toughest compare — 🟡 Pending; resolves Oct 29, then late January.
+- Owner earnings cover the dividend — 🟡 Pending; FY2026 10-K, mid-November.
+
+### Changed
+- **Price**: $94.42 → **$97.87** (+3.7%); dipped to $90.75 on Oct 9 after the FT report, recovered after the denial.
+- **Return math** at the new price: PW EV unchanged at $114.5; PW return 6.6% → **5.7%**; entry ≤$70 → **≤$69**; R/R 2.3 → 1.9:1.
+- **Bear odds**: price-implied ~2% → **<0%** at 9%. Spot needs FY2031 EPS near $5.14, close to the Bull.
+- **§4 capital allocation**: Chipotle adviser work added as a yellow flag; new §6 risk row (acquisition above ~$5B before North America margin recovers).
+- **Analysts**: mean target $111.57 → $110.97; UBS ($105) and Citi ($104) trims. **Short interest** 3.51% → 3.69% of float.
+- **Q4 date** confirmed: Oct 29, after the close.
+- Deep dive published (segment model, Niccol's Chipotle record, incentives); its numbers reconcile to this page.
+
+### Status
+- **Thesis**: Unchanged
+- **PW EV**: $114.5 → $114.5 · **PW return/yr**: 6.6% → 5.7% (hurdle 13%) · **R/R**: 2.3 → 1.9 · **BAIT**: unchanged
+- **Verbs**: non-holder Watch · holder Hold
+
+**Next trigger**: Q4 FY2026 and FY2027 guidance, Oct 29.
+
+---
+
 ## [2026-10-07] — Skill v6.0 regeneration · Sep 22 store closures
 
 **Trigger**: user-requested rerun under kg-investment-analysis v6.0. Window Sep 23 → Oct 7: one 8-K (Sep 22 closures and lower FY2026 openings); no appearances; Form 4s quiet since Sep 17.

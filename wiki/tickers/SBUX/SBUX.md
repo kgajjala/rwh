@@ -1,18 +1,18 @@
 # SBUX — Starbucks Corporation
 
-> **Schema** v6.0 · **Updated** 2026-10-07 · **Status** Active
-> **Price** $94.42 verified Oct 7, 2026, 12:06 PM EDT ([Yahoo](https://finance.yahoo.com/quote/SBUX/), cross-checked [StockAnalysis](https://stockanalysis.com/stocks/sbux/statistics/) $94.43) · 52-wk $77.99–$110.51 · 51st %ile · −14.6% from high
+> **Schema** v6.0 · **Updated** 2026-10-20 · **Status** Active
+> **Price** $97.87 verified Oct 19, 2026, 4:00 PM EDT close ([Yahoo](https://finance.yahoo.com/quote/SBUX/), cross-checked [StockAnalysis](https://stockanalysis.com/stocks/sbux/statistics/)) · 52-wk $77.99–$110.51 · 61st %ile · −11.4% from high
 > **Type** Global specialty-coffee retail, shifting from company-operated toward licensed · **Stage** Turnaround · **Cyclical** No · **Competence** Core
 
 ## Verdict
 
-**The traffic turnaround is real, but the price assumes it without a Bear. Five years of owner earnings went out as dividends and buybacks, new capital earns nothing, and the probability-weighted case pays 6.6% a year.**
+**The traffic turnaround is real, but the price assumes it without a Bear. Five years of owner earnings went out as dividends and buybacks, new capital earns nothing, and the probability-weighted case pays 5.7% a year.**
 
-🟡 **Non-holder: Watch (entry ≤$70)** · 🟡 **Holder: Hold**
+🟡 **Non-holder: Watch (entry ≤$69)** · 🟡 **Holder: Hold**
 
 | PW EV | PW return/yr | Compounding/yr | R/R | Entry | Trim | Avoid | FY26E non-GAAP P/E | Yield | BAIT | Moat | Next |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| **$114** | **6.6% (<13%)** | 14.4% | **2.3:1** | ≤$70 | $114–153 | ≥$153 | ≈36× | **2.63%** | **Single** (A) | Wide, stable | 📅 ~Oct 28 |
+| **$114** | **5.7% (<13%)** | 14.3% | **1.9:1** | ≤$69 | $114–153 | ≥$153 | ≈38× | **2.53%** | **Single** (A) | Wide, stable | 📅 Oct 29 |
 
 **Breaks if**: Q4 non-GAAP operating margin falls back below ~12% once the one-time tariff refund is gone. That would put the FY2028 target of 13.5–15%, which the price already pays for, out of reach.
 
@@ -20,15 +20,15 @@
 
 Niccol has done the hard part. U.S. transactions have grown three quarters running (**+3.0%, +4.3%, +4.2%**), with ticket rising alongside traffic for the first time in years.
 
-The price has banked it and then some. Holding our Bull-to-Base mix fixed, $94 earns an ordinary 9% return only if the Bear is **~2% likely**; at 10% no Bear probability works at all. The market is pricing the turnaround as close to certain. We give the Bear 25% because the numbers behind the margin walk are weaker than the headline. Q3's **14.4%** margin carried ~80 bps of one-time tariff refunds. The September 8-K adds ~250 North America closures and **$300M of restructuring**, and cuts FY2026 net new stores to ~440 from 600–650. Over five years, dividends and buybacks (**$18.4B**) exceeded net income (**$17.2B**), so there is no retained capital to test, and FY2025 dividends took **118% of owner earnings**.
+The price has banked it and then some. Holding our Bull-to-Base mix fixed, no Bear probability lets $98 earn even an ordinary 9% a year; it needs FY2031 EPS near **$5.14**, close to our Bull. The market is pricing the turnaround as close to certain. We give the Bear 25% because the numbers behind the margin walk are weaker than the headline. Q3's **14.4%** margin carried ~80 bps of one-time tariff refunds. The September 8-K adds ~250 North America closures and **$300M of restructuring**, and cuts FY2026 net new stores to ~440 from 600–650. Over five years, dividends and buybacks (**$18.4B**) exceeded net income (**$17.2B**), so there is no retained capital to test, and FY2025 dividends took **118% of owner earnings**.
 
-The business can compound at **~14% a year at a flat multiple**. But from 36× this year's earnings, de-rating to a mature 26× costs ~6.5 points a year, and no Bear probability lets the PW case reach 13%. Good business, priced for perfection.
+The business can compound at **~14% a year at a flat multiple**. But from 38× this year's earnings, de-rating to a mature 26× costs ~7 points a year, and no Bear probability lets the PW case reach 13%. Good business, priced for perfection. The FT's Oct 8 report that management hired advisers on a possible Chipotle bid, denied on Oct 12, adds a capital-allocation question to a balance sheet with nothing spare (§4).
 
 ## What I'd Have To Be Wrong About
 
-1. **That the margin walk holds without the refund.** Test: in **Q4 FY2026 (~Oct 28)**, non-GAAP operating margin ≥13% for the quarter, the >11% full-year guide delivered, and an FY2027 guide that keeps 13.5–15% in FY2028 in reach. **If Fail →** move 10 points from Bull to Bear (PW EV $106, 5.0%/yr) → stays **Watch**, entry falls to ≈$65.
-2. **That traffic survives the toughest compare.** Test: Q4 U.S. comp at or above the 6.5% guide with transactions positive, then Q1 FY2027 (late January) positive against Q1's +3%. **If Fail →** Base FY2031 EPS cut to ≈$4.20 (margin-only growth) (PW EV $110, 5.8%/yr) → stays **Watch**, entry ≈$67.
-3. **That owner earnings cover the dividend.** Test: in the FY2026 10-K (mid-November), owner earnings ≥ the ~$2.8B dividend, plus a disclosed uplift sales lift against control stores by the Q1 FY2027 print. **If Fail →** move 10 points from Base to Bear (PW EV $110, 5.7%/yr) → **Watch**; the Outsider grade drops to Anti-Outsider for a dividend funded by debt.
+1. **That the margin walk holds without the refund.** Test: in **Q4 FY2026 (Oct 29)**, non-GAAP operating margin ≥13% for the quarter, the >11% full-year guide delivered, and an FY2027 guide that keeps 13.5–15% in FY2028 in reach. **If Fail →** move 10 points from Bull to Bear (PW EV $106, 4.2%/yr) → stays **Watch**, entry falls to ≈$64.
+2. **That traffic survives the toughest compare.** Test: Q4 U.S. comp at or above the 6.5% guide with transactions positive, then Q1 FY2027 (late January) positive against Q1's +3%. **If Fail →** Base FY2031 EPS cut to ≈$4.20 (margin-only growth) (PW EV $110, 4.9%/yr) → stays **Watch**, entry ≈$67.
+3. **That owner earnings cover the dividend.** Test: in the FY2026 10-K (mid-November), owner earnings ≥ the ~$2.8B dividend, plus a disclosed uplift sales lift against control stores by the Q1 FY2027 print. **If Fail →** move 10 points from Base to Bear (PW EV $110, 4.8%/yr) → **Watch**; the Outsider grade drops to Anti-Outsider for a dividend funded by debt.
 
 ---
 
@@ -169,13 +169,14 @@ FY2026 guide (raised twice):
 - **$1 retention test: n/m.** Over FY2021–25, net income was $17.2B, dividends $12.2B and buybacks $6.3B, so retained capital was **−$1.2B**. Net debt including leases rose from $19.2B to $21.9B.
 - **Dividends ÷ owner earnings**: 118% in FY2025; 72% on the five-year average ($3.6B of owner earnings against $2.4B of dividends).
 - **Portfolio**: the Boyu proceeds went to deleveraging; a Japan majority-stake process (~$3B) may start in Q4.
+- ⚠️ **Chipotle**: the FT reported on Oct 8 that Starbucks had worked with advisers on a possible takeover proposal for Chipotle (~$40B market value, down ~47% since Niccol left). On Oct 12 a spokesperson told CNBC the company is "not buying Chipotle" ([CNBC](https://www.cnbc.com/amp/2026/10/12/starbucks-denies-chipotle-takeover.html)). No deal, but hiring advisers at 2.9× leverage with the dividend above owner earnings is a yellow flag for the first real capital-allocation test.
 - **Outsider grade: Steward (not Outsider).** The dividend ($2.48 a share, ~95% of FY2026 non-GAAP EPS) comes first, and there has been no buyback since FY2024. Moving China and possibly Japan to licensed models is genuine capital discipline; paying a dividend above owner earnings is not.
 
-**Letters and appearances (Sep 23 – Oct 7): none located.** The Sep 22 closures were disclosed by 8-K, not by an appearance. The last off-script remarks were the [Reuters and CNBC interviews](../../../raw/SBUX/appearances/2026-09-10_cnbc_niccol.txt) on Sep 9–10. There, Niccol said ~1,500 uplifts would be done by year-end, "thousands more" are coming, the target is 8,000–9,000, and Boyu sees China at 15,000–20,000 stores. He said nothing on FY2027, buybacks or pricing. The CEO letter is in the proxy (Pattern C).
+**Appearances (Oct 7 – Oct 20): none.** The only management communication was the Oct 12 spokesperson statement to CNBC denying a Chipotle bid. **Earlier window (Sep 23 – Oct 7): none located.** The Sep 22 closures were disclosed by 8-K, not by an appearance. The last off-script remarks were the [Reuters and CNBC interviews](../../../raw/SBUX/appearances/2026-09-10_cnbc_niccol.txt) on Sep 9–10. There, Niccol said ~1,500 uplifts would be done by year-end, "thousands more" are coming, the target is 8,000–9,000, and Boyu sees China at 15,000–20,000 stores. He said nothing on FY2027, buybacks or pricing. The CEO letter is in the proxy (Pattern C).
 
 ## 5. Scenarios → PW EV
 
-**Anchor**: $94.42 is ≈36× the FY2026 non-GAAP guide midpoint of $2.60, and ~26× the FY2028 target midpoint. EV is $126.5B including leases; EV/EBITDA is 22.5×.
+**Anchor**: $97.87 is ≈38× the FY2026 non-GAAP guide midpoint of $2.60, and ~27× the FY2028 target midpoint. EV is $130.4B including leases ([StockAnalysis](https://stockanalysis.com/stocks/sbux/statistics/)).
 
 **EPV floor: ≈$26–35 per share.**
 - Owner-earnings basis: $35 (five-year average $3.6B ÷ 9%).
@@ -191,27 +192,28 @@ FY2026 guide (raised twice):
 
 | Return math | |
 |---|---|
-| PW return/yr vs. hurdle | **6.6% (<13%)**: +21% over five years (3.9%/yr) plus the 2.63% yield. **Entry ≤$70**. The 10-year Treasury is 5.31% ([FRED](https://fred.stlouisfed.org/series/DGS10)) |
-| Compounding at a flat multiple | Base EPS ~11.7%/yr + 2.6% yield = **14.4%**. De-rating from 36× to 26× costs ~6.5 points a year: **re-rating is negative, and it is the whole gap to the hurdle** |
+| PW return/yr vs. hurdle | **5.7% (<13%)**: +17% over five years (3.2%/yr) plus the 2.53% yield. **Entry ≤$69**. The 10-year Treasury is ~5.2% ([FRED](https://fred.stlouisfed.org/series/DGS10)) |
+| Compounding at a flat multiple | Base EPS ~11.8%/yr + 2.5% yield = **14.3%**. De-rating from 38× to 26× costs ~7 points a year: **re-rating is negative, and it is the whole gap to the hurdle** |
 | Optionality | Japan majority-stake sale (~$3B, ≈$2.60/share) and China JV growth: not valued separately; a sale converts earnings to cash at a fair price |
 | Price-implied expectations | FY2026 FCF of ≈$3.0B on a $126.5B EV: at 9%, spot requires **~13% FCF growth for ten years**, then 4% |
 | EPV floor | $26–35; growth is ~two-thirds of the price. The Bear ($69) sits well above EPV because it keeps ~5% EPS growth and a 20× multiple; a no-growth Bear would be ≈$35 |
 | Base rate / 3P | The Bull needs only ~5–6% nominal (~3% real) revenue growth, the FY2028 target; for companies above $25B the five-year median is 2.0% real and 31.8% reach 5% ([`compounding.md`](../../frameworks/compounding.md)), so it is plausible. The constraint is margin, not sales |
 | Terminal-growth check | Owner earnings ≈ non-GAAP earnings (five-year conversion ~100%); at r = 9% the implied perpetual growth is Bull 5.2% (capped from 30× → 28×, which implied 5.5%), Base 5.0%, Bear 3.8%; all are now below the 5.31% 10-year Treasury, but the Base sits at the edge |
-| Break-even and price-implied Bear odds | **Break-even: <0%.** Even at zero Bear odds the PW case misses 13%. **Price-implied: ~2% at 9%** (<0% at 10%): the price assumes the Bear away |
+| Break-even and price-implied Bear odds | **Break-even: <0%.** Even at zero Bear odds the PW case misses 13%. **Price-implied: <0% at 9%**: even the Bull-to-Base mix alone ($129) falls short of the $134 that spot needs; the price assumes the Bear away and part of the Bull in |
 | Year ten | Still growing mid-single digits through licensed international stores and royalties; in the Bull the terminal multiple does much of the work |
-| R/R | **2.3:1** (Bull +62% / Bear −26%) |
+| R/R | **1.9:1** (Bull +56% / Bear −29%) |
 
 ## 6. Risks & Triggers
 
 | Risk | Impact | Prob. | Priced in? | Would break the thesis if… |
 |---|---|---|---|---|
-| ⚠️ **Refund-flattered margin**: Q3 included about three quarters of tariff refunds | High | Med | 🔴 **No**: the price implies ~2% Bear odds | Q4 non-GAAP operating margin below 12% (test 1) |
+| ⚠️ **Refund-flattered margin**: Q3 included about three quarters of tariff refunds | High | Med | 🔴 **No**: the price implies <0% Bear odds | Q4 non-GAAP operating margin below 12% (test 1) |
 | ⚠️ **Reinvestment does not earn**: negative 3-yr ROIIC; 8–9K uplifts at ~$150K each | High | Med | 🔴 **No** | FY2026 ROIC does not recover above ~18%, or uplift returns stay undisclosed through FY2027 (test 3) |
 | ⚠️ **Dividend above owner earnings** (118% in FY2025); five-year payout above net income | Med | Med | 🔴 **No** | FY2026 owner earnings below the ~$2.8B dividend (test 3) |
 | **Unit growth slowing**: FY2026 net new stores cut to ~440 from 600–650; ~250 North America closures, $300M of charges | Med | Observed | Partly | FY2027 guide cuts North America openings again |
 | **Competition for young consumers** (Dutch Bros) and on value (McDonald's) | Med | Med | Partly | U.S. transactions turn negative (test 2) |
 | **Niccol key-person risk** | High | Low | Partly | Departure before FY2028 |
+| **Capital-allocation drift**: advisers hired on a Chipotle bid (FT, Oct 8; denied Oct 12) | High | Low | 🔴 No | Any acquisition above ~$5B before North America margin is back above 15% |
 | Coffee and dairy costs | Med | Med | Partly | An arabica spike not offset by ticket |
 | ~~China operating drag~~ | — | — | ✅ | *DE-RISKED Apr 2026: Boyu JV closed.* |
 
@@ -219,14 +221,15 @@ There is no reflexive loop: the company has no funding need and does not use its
 
 ## 7. Catalysts & Sentiment
 
-- **Analysts**: consensus **Buy**, mean target $111.57 (36) ([StockAnalysis](https://stockanalysis.com/stocks/sbux/statistics/)); no rating change located since Seaport's Hold initiation on Sep 16 `[Analyst consensus]`.
-- **Short interest**: 39.88M shares, **3.51% of float**, flat against 40.01M the prior month.
+- **Analysts**: consensus **Buy**, mean target $110.97 (35) ([StockAnalysis](https://stockanalysis.com/stocks/sbux/statistics/)). Pre-print trims: UBS Hold $112 → $105 (Oct 8), Citi $112 → $104 (Oct 19); BTIG Buy $115 and DA Davidson Neutral $110 reiterated `[Analyst consensus]`.
+- **Short interest**: 41.97M shares, **3.69% of float**, up 5% from 39.88M.
 - **Insiders** (90 days, [Form 4](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000829224&type=4)): the last filing was on Sep 17; Brady Brewer (CEO International) sold ~$0.7M under a 10b5-1 plan. No purchases.
 
 | Date | Catalyst | Why it matters |
 |---|---|---|
 | ✅ Sep 22 | ~250 North America closures, $300M of charges, FY2026 openings ~440 ([8-K](https://www.sec.gov/Archives/edgar/data/829224/000082922426000145/sbux-20260922.htm)) | Margin-positive pruning; unit growth lower (§1) |
-| 📅 **~Oct 28** | Q4 FY2026 and the FY2027 guide | Tests 1 and 2 |
+| ✅ Oct 8–12 | FT reports a possible Chipotle bid; Starbucks says it is "not buying Chipotle" | Capital-allocation flag (§4) |
+| 📅 **Oct 29**, after the close | Q4 FY2026 and the FY2027 guide ([announcement](https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Announces-Q4-and-Full-Fiscal-Year-2026-Results-Conference-Call/default.aspx)) | Tests 1 and 2 |
 | 📅 Mid-November | FY2026 10-K | Test 3: owner earnings vs. dividend |
 | 📅 Q4 | Possible start of the Japan stake process | Asset-light shift; cash at a fair price |
 | 📅 Late January | Q1 FY2027 | Test 2: traffic against +3% |
@@ -235,7 +238,7 @@ There is no reflexive loop: the company has no funding need and does not use its
 
 ## 8. Sources
 
-[Sep 22 8-K, store closures](../../../raw/SBUX/filings/2026-09-24_8-K_store-closures.txt) ([EDGAR](https://www.sec.gov/Archives/edgar/data/829224/000082922426000145/sbux-20260922.htm)) · [Q3 FY2026 release](../../../raw/SBUX/press-releases/2026-07-29_Q3-FY26_earnings.txt) ([EDGAR](https://www.sec.gov/Archives/edgar/data/829224/000082922426000129/sbux-06282026xearningsrele.htm)) · [Q3 FY2026 10-Q](../../../raw/SBUX/filings/SBUX-10Q-FY26Q3.txt) ([EDGAR](https://www.sec.gov/Archives/edgar/data/829224/000082922426000130/sbux-20260628.htm)) · [Q2 FY2026 summary](../../../raw/SBUX/press-releases/2026-04-28-Q2-FY26-results.md) · [Q4/FY2025 release](https://investor.starbucks.com/news/financial-releases/news-details/2025/Starbucks-Reports-Q4-and-Full-Fiscal-Year-2025-Results/default.aspx) · [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/sbux-20250928.htm) · [2026 DEF 14A](../../../raw/SBUX/filings/SBUX-DEF14A-2026.txt) ([EDGAR](https://www.sec.gov/Archives/edgar/data/829224/000121390026007780/ea0270973-01.htm)) · [Niccol interviews](../../../raw/SBUX/appearances/2026-09-10_cnbc_niccol.txt) · [Jan 2026 investor day summary](https://finance.yahoo.com/news/starbucks-investor-day-back-starbucks-140638312.html) · [2022 investor day](https://investor.starbucks.com/news/financial-releases/news-details/2022/Starbucks-Enters-New-Era-of-Growth-Driven-by-an-Unparalleled-Reinvention-Plan/default.aspx) · [Boyu JV close](https://about.starbucks.com/press/2026/starbucks-and-boyu-capital-finalize-joint-venture-to-accelerate-long-term-growth-in-china/) · [Japan stake report](https://www.cnbc.com/2026/09/16/starbucks-considers-selling-majority-stake-japan.html) · [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000829224.json) · [Yahoo price](https://finance.yahoo.com/quote/SBUX/) · [StockAnalysis statistics](https://stockanalysis.com/stocks/sbux/statistics/) · [FRED DGS10](https://fred.stlouisfed.org/series/DGS10) · [EDGAR Form 4 list](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000829224&type=4) · [Base rates](../../frameworks/compounding.md)
+[SBUX deep dive, Oct 20](../../insights/SBUX-deep-dive-2026-10-20.html) · [CNBC: Chipotle denial](https://www.cnbc.com/amp/2026/10/12/starbucks-denies-chipotle-takeover.html) · [Q3 FY2026 call transcript](../../../raw/SBUX/transcripts/2026-07-29_Q3-FY26_call.txt) · [Sep 22 8-K, store closures](../../../raw/SBUX/filings/2026-09-24_8-K_store-closures.txt) ([EDGAR](https://www.sec.gov/Archives/edgar/data/829224/000082922426000145/sbux-20260922.htm)) · [Q3 FY2026 release](../../../raw/SBUX/press-releases/2026-07-29_Q3-FY26_earnings.txt) ([EDGAR](https://www.sec.gov/Archives/edgar/data/829224/000082922426000129/sbux-06282026xearningsrele.htm)) · [Q3 FY2026 10-Q](../../../raw/SBUX/filings/SBUX-10Q-FY26Q3.txt) ([EDGAR](https://www.sec.gov/Archives/edgar/data/829224/000082922426000130/sbux-20260628.htm)) · [Q2 FY2026 summary](../../../raw/SBUX/press-releases/2026-04-28-Q2-FY26-results.md) · [Q4/FY2025 release](https://investor.starbucks.com/news/financial-releases/news-details/2025/Starbucks-Reports-Q4-and-Full-Fiscal-Year-2025-Results/default.aspx) · [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/sbux-20250928.htm) · [2026 DEF 14A](../../../raw/SBUX/filings/SBUX-DEF14A-2026.txt) ([EDGAR](https://www.sec.gov/Archives/edgar/data/829224/000121390026007780/ea0270973-01.htm)) · [Niccol interviews](../../../raw/SBUX/appearances/2026-09-10_cnbc_niccol.txt) · [Jan 2026 investor day summary](https://finance.yahoo.com/news/starbucks-investor-day-back-starbucks-140638312.html) · [2022 investor day](https://investor.starbucks.com/news/financial-releases/news-details/2022/Starbucks-Enters-New-Era-of-Growth-Driven-by-an-Unparalleled-Reinvention-Plan/default.aspx) · [Boyu JV close](https://about.starbucks.com/press/2026/starbucks-and-boyu-capital-finalize-joint-venture-to-accelerate-long-term-growth-in-china/) · [Japan stake report](https://www.cnbc.com/2026/09/16/starbucks-considers-selling-majority-stake-japan.html) · [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000829224.json) · [Yahoo price](https://finance.yahoo.com/quote/SBUX/) · [StockAnalysis statistics](https://stockanalysis.com/stocks/sbux/statistics/) · [FRED DGS10](https://fred.stlouisfed.org/series/DGS10) · [EDGAR Form 4 list](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000829224&type=4) · [Base rates](../../frameworks/compounding.md)
 
 ---
 

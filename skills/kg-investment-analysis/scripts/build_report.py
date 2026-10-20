@@ -1,30 +1,35 @@
 #!/usr/bin/env python3
-"""Build the deep-dive page and the decision card (kg-investment-analysis v7).
+"""Build the v7 report: one Markdown file = decision front matter + deep dive (kg-investment-analysis v7).
 
-Usage:  python3 -I build_report.py REPORT_DIR [--check]
+Usage:  python3 -I build_report.py REPORT_DIR [--check] [--html]
 
 REPORT_DIR holds:
   report.md        the essay: Markdown plus directives on their own line (below)
   data.json        meta, verdict, call, tests, updates, tables, charts, sources, vars
-  model_out.json   written by model.py (optional but expected for a full report)
-  updates/*.md     dated update notes (Mode B/C), referenced from data.json "updates"
+  model_out.json   written by model.py
+  updates/*.md     dated update notes (Modes B/C), listed in data.json "updates"
+  series/*.json    total-return series written by prices.py
 Writes:
-  <meta.html_name or TICKER-deep-dive.html> in REPORT_DIR, and the decision card at
-  meta.card_path (default ../TICKER.md relative to REPORT_DIR).
+  the report at meta.report_path (default ../TICKER.md): header, Verdict, The Call, the three
+  tests, the latest update with its scorecard, then the deep dive and its appendix, in
+  GitHub-flavored Markdown with no HTML;
+  charts as static SVG images in REPORT_DIR/charts/, referenced from the Markdown;
+  --html  also writes an optional interactive page (TICKER-deep-dive.html) for publishing.
 
 Directives (one per line):
-  ::toc                      section links built from the ## headings
-  ::updates                  latest update note in full, older ones collapsed
-  ::tests                    the three kill criteria from data.json "tests"
-  ::table ID                 data.json tables[ID]
-  ::chart ID                 data.json charts[ID]  (type "line" or "bar100"; a "file" key loads prices.py output)
-  ::model_build CASE         segment build table for one model case
+  ::toc                      contents line linking the ## chapters (GitHub heading anchors)
+  ::updates                  placeholder; the latest update renders in the front matter
+  ::tests                    a pointer to the tests in the front matter
+  ::table ID                 data.json tables[ID] as a GFM table, with its note
+  ::chart ID                 data.json charts[ID] (type "line" or "bar100") as an SVG image plus a data table
+  ::model_build CASE         segment build table for one model case (bold cells are inputs)
   ::scenarios                scenario and diagnostic table from model_out.json
   ::sources                  data.json "sources"
-  ::disclaimer               the standard closing line
-Tokens: [[name]] anywhere in prose, tables, notes or the card is replaced from the model and
-data.json "vars": price, yield, pw_ev, pw_return, entry, rr, breakeven_bear, implied_bear,
-hurdle, "<Case>.value|return|eps|eps0|cagr|pe|prob", "<Diagnostic>.value|eps|cagr|pe|return".
+  ::disclaimer               placeholder; the fixed footer closes the file
+Tokens: [[name]] in prose, tables, notes, tests and the call are filled from the model and
+data.json "vars": price, yield, pw_ev, pw_return, entry, rr, trim, avoid, breakeven_bear,
+implied_bear, hurdle, "<Case>.value|return|eps|eps0|cagr|pe|prob",
+"<Diagnostic>.value|eps|cagr|pe|return", "testN.pw_ev|pw_return|entry|verb" (from a test's "shift").
 --check  reports unresolved tokens and missing ids, and exits non-zero if any.
 Standard library only.
 """
@@ -191,7 +196,7 @@ def model_build(mo, case):
     lab = mo.get("eps_label", "EPS")
     rows.append({"cells": [lab] + ([money(act["eps"], 2)] if act and "eps" in act else (["—"] if act else [])) + [money(v, 2) for v in r["eps"]], "cls": "tot"})
     rows.append({"cells": ["YoY growth"] + ([ "—"] if act else []) + [(pc(r["eps"][0] / act["eps"] - 1) if act and "eps" in act else "—")] + [pc(g(r["eps"], i)) for i in range(1, len(r["eps"]))], "cls": "sub"})
-    return table_html({"columns": cols, "rows": rows})
+    return {"columns": cols, "rows": rows}
 
 def scenarios(mo, spec):
     cols = ["Case", "Prob."] + [f"{mo.get('segment_names', {}).get(s, s)} growth / margin" for s in spec.get("segments_shown", mo["segments"])] + \
@@ -206,7 +211,7 @@ def scenarios(mo, spec):
     s = mo.get("summary")
     if s:
         rows.append({"cells": ["Probability-weighted", "100%"] + [""] * len(spec.get("segments_shown", mo["segments"])) + ["", "", "", money(s["pw_ev"]), pct(s["pw_return"])], "cls": "tot"})
-    return table_html({"columns": cols, "rows": rows})
+    return {"columns": cols, "rows": rows}
 
 # ---------- page pieces ----------
 def header(data, V):
@@ -241,10 +246,7 @@ def render_updates(data, rdir, V):
         else: parts.append(f'<details class="older"><summary>Earlier update · {u["date"]} · {inline(u["title"])}</summary>{inner}</details>')
     return parts[0] + (f'<div class="update">{"".join(parts[1:])}</div>' if len(parts) > 1 else "")
 
-def build(rdir, check=False):
-    data = json.load(open(os.path.join(rdir, "data.json")))
-    mo_p = os.path.join(rdir, "model_out.json"); mo = json.load(open(mo_p)) if os.path.exists(mo_p) else None
-    V = build_vars(data, mo)
+def build_html(rdir, data, mo, V):
     raw = re.sub(r"<!--.*?-->", "", open(os.path.join(rdir, "report.md")).read(), flags=re.S)
     text = subst(raw, V)
     charts = {}
@@ -279,11 +281,11 @@ def build(rdir, check=False):
         if name == "model_build":
             if not mo: PROBLEMS.append("model_out.json missing"); return ""
             mb = data.get("model_build", {})
-            return figure(f'<div class="frame">{model_build(mo, arg)}</div>', subst(mb.get("note", ""), V))
+            return figure(f'<div class="frame">{table_html(model_build(mo, arg))}</div>', subst(mb.get("note", ""), V))
         if name == "scenarios":
             if not mo: PROBLEMS.append("model_out.json missing"); return ""
             sc = data.get("scenarios", {})
-            return figure(f'<div class="frame">{scenarios(mo, sc)}</div>', subst(sc.get("note", ""), V))
+            return figure(f'<div class="frame">{table_html(scenarios(mo, sc))}</div>', subst(sc.get("note", ""), V))
         if name == "sources":
             return '<p class="sources">' + " · ".join(f'<a href="{s["url"]}">{inline(s["label"])}</a>' if s.get("url") else inline(s["label"]) for s in data.get("sources", [])) + "</p>"
         if name == "disclaimer":
@@ -299,31 +301,197 @@ def build(rdir, check=False):
                 .replace("{{HEADER}}", header(data, V)).replace("{{BODY}}", body)
                 .replace("{{CHARTS_JSON}}", json.dumps(charts, separators=(",", ":"), ensure_ascii=False)))
     out = os.path.join(rdir, m.get("html_name", f"{m['ticker']}-deep-dive.html"))
-    card = card_md(data, mo, V, os.path.basename(out))
-    if check or PROBLEMS:
-        for p in PROBLEMS: print("PROBLEM:", p)
-        if check: sys.exit(1 if PROBLEMS else 0)
     open(out, "w").write(page)
-    cp = os.path.normpath(os.path.join(rdir, m.get("card_path", f"../{m['ticker']}.md")))
-    open(cp, "w").write(card)
-    words = len(re.sub(r"<[^>]+>", " ", body).split())
-    print(f"wrote {out} ({os.path.getsize(out)//1024} KB, ~{words} words incl. tables) and {cp}")
+    print(f"wrote optional HTML page {out} ({os.path.getsize(out)//1024} KB)")
 
-# ---------- decision card ----------
-def card_md(data, mo, V, html_name):
+
+# =====================================================================================
+# Markdown report (the v7 output): one [TICKER].md = decision front matter + deep dive
+# =====================================================================================
+SLOT = ["#2a78d6", "#eb6834", "#1baf7a", "#eda100"]   # reference categorical palette, fixed order
+INK2 = "#6f6e69"; GRID = "#8a8a8a"; FONT = "system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
+
+def gh_slug(text):
+    s = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
+    s = re.sub(r"[*_`~]", "", s).strip().lower()
+    s = re.sub(r"[^\w\- ]", "", s, flags=re.U)
+    return s.replace(" ", "-")
+
+def md_cell(c, cls_row=""):
+    v = str(c.get("v", "")) if isinstance(c, dict) else str(c)
+    cls = c.get("cls", "") if isinstance(c, dict) else ""
+    if "in" in cls.split() and v and not v.startswith("**"): v = f"**{v}**"
+    return v.replace("|", "\\|").replace("\n", " ")
+
+def md_table(t):
+    cols = [str(c)[1:] if str(c).startswith("~") else str(c) for c in t["columns"]]
+    L = ["| " + " | ".join(c.replace("|", "\\|") for c in cols) + " |", "|" + "---|" * len(cols)]
+    for r in t["rows"]:
+        cells, cls = (r["cells"], r.get("cls", "")) if isinstance(r, dict) else (r, "")
+        out = [md_cell(c) for c in cells]
+        if cls == "sub" and out: out[0] = "\u2003" + out[0]
+        if cls == "tot" and out and not out[0].startswith("**"): out[0] = f"**{out[0]}**"
+        out += [""] * (len(cols) - len(out))
+        L.append("| " + " | ".join(out) + " |")
+    return "\n".join(L)
+
+def md_note(n): return f"\n\n*{n.strip()}*" if n and n.strip() else ""
+
+def esc_x(s): return html.escape(str(s), quote=True)
+
+def nice_ticks(lo, hi, n=6):
+    import math
+    span = (hi - lo) or 1; raw = span / n; mag = 10 ** math.floor(math.log10(raw))
+    step = next((s * mag for s in (1, 2, 2.5, 5, 10) if span / (s * mag) <= n), 10 * mag)
+    v = math.floor(lo / step) * step; out = []
+    while v <= hi + 1e-9: out.append(round(v, 2)); v += step
+    if out[-1] < hi: out.append(round(out[-1] + step, 2))
+    return out
+
+def svg_line(c):
+    W, H = 760, 380; m = dict(l=48, r=120, t=46, b=34)
+    D = c["dates"]; n = len(D); order = c["order"]; S = c["series"]; names = c.get("names", {})
+    allv = [v for k in order for v in S[k]] + ([c["baseline"]] if c.get("baseline") is not None else [])
+    ticks = c.get("yTicks") or nice_ticks(min(allv), max(allv))
+    if min(allv) < ticks[0] or max(allv) > ticks[-1]:            # data outside the requested ticks: widen to fit
+        ticks = nice_ticks(min(min(allv), ticks[0]), max(max(allv), ticks[-1]))
+    lo, hi = ticks[0], ticks[-1]
+    X = lambda i: m["l"] + (W - m["l"] - m["r"]) * i / (n - 1)
+    Y = lambda v: m["t"] + (H - m["t"] - m["b"]) * (1 - (v - lo) / (hi - lo))
+    o = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" font-family="{FONT}" font-size="12">']
+    if c.get("title"): o.append(f'<title>{esc_x(c["title"])}</title>')
+    o.append(f'<defs><clipPath id="plot"><rect x="{m["l"]}" y="{m["t"]-6}" width="{W-m["l"]-m["r"]+6}" height="{H-m["t"]-m["b"]+12}"/></clipPath></defs>')
+    x0 = m["l"]
+    for i, k in enumerate(order):                                    # legend row
+        o.append(f'<rect x="{x0}" y="12" width="14" height="3" rx="1.5" fill="{SLOT[i]}"/>')
+        o.append(f'<text x="{x0+20}" y="17" fill="{INK2}">{esc_x(names.get(k, k))}</text>')
+        x0 += 28 + 7.2 * len(names.get(k, k))
+    for v in ticks:
+        base = c.get("baseline") is not None and abs(v - c["baseline"]) < 1e-9
+        o.append(f'<line x1="{m["l"]}" x2="{W-m["r"]}" y1="{Y(v):.1f}" y2="{Y(v):.1f}" stroke="{GRID}" stroke-opacity="{0.6 if base else 0.25}" stroke-width="1"/>')
+        o.append(f'<text x="{m["l"]-8}" y="{Y(v)+4:.1f}" text-anchor="end" fill="{INK2}">{v:g}</text>')
+    seen = set(); yrs = sorted({d[:4] for d in D}); step = 2 if len(yrs) > 9 else 1
+    for i, d in enumerate(D):
+        yr = d[:4]
+        if i == 0:
+            o.append(f'<text x="{X(0):.1f}" y="{H-10}" text-anchor="start" fill="{INK2}">{esc_x(d[:7])}</text>'); seen.add(yr); continue
+        if yr not in seen and int(yr) % step == 0 and X(i) > X(0) + 60 and X(i) < W - m["r"] - 16:
+            o.append(f'<text x="{X(i):.1f}" y="{H-10}" text-anchor="middle" fill="{INK2}">{yr}</text>')
+        seen.add(yr)
+    ends = []
+    for i, k in enumerate(order):
+        pts = " ".join(f"{X(j):.1f},{Y(v):.1f}" for j, v in enumerate(S[k]))
+        o.append(f'<polyline clip-path="url(#plot)" points="{pts}" fill="none" stroke="{SLOT[i]}" stroke-width="{2.5 if i == 0 else 2}" stroke-linejoin="round" stroke-linecap="round"/>')
+        o.append(f'<circle cx="{X(n-1):.1f}" cy="{Y(S[k][-1]):.1f}" r="4" fill="{SLOT[i]}"/>')
+        ends.append([Y(S[k][-1]), k, S[k][-1]])
+    ends.sort()
+    for j in range(1, len(ends)):
+        if ends[j][0] - ends[j-1][0] < 15: ends[j][0] = ends[j-1][0] + 15
+    for y, k, v in ends:
+        o.append(f'<text x="{X(n-1)+9:.1f}" y="{y+4:.1f}" fill="{INK2}">{esc_x(names.get(k, k))} {v:.0f}</text>')
+    o.append("</svg>")
+    return "\n".join(o)
+
+def svg_bar100(c):
+    W = 760; rowH, gap = 24, 18; m = dict(l=96, r=12, t=40, b=26)
+    H = m["t"] + len(c["rows"]) * rowH + (len(c["rows"]) - 1) * gap + m["b"]
+    X = lambda f: m["l"] + (W - m["l"] - m["r"]) * f
+    o = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" font-family="{FONT}" font-size="12">']
+    x0 = m["l"]
+    for i, k in enumerate(c["keys"]):
+        o.append(f'<rect x="{x0}" y="10" width="12" height="12" rx="3" fill="{SLOT[i]}"/>')
+        o.append(f'<text x="{x0+18}" y="20" fill="{INK2}">{esc_x(k)}</text>'); x0 += 30 + 7.2 * len(k)
+    for f in (0, .25, .5, .75, 1):
+        o.append(f'<line x1="{X(f):.1f}" x2="{X(f):.1f}" y1="{m["t"]-4}" y2="{H-m["b"]}" stroke="{GRID}" stroke-opacity="0.25"/>')
+        anc = "start" if f == 0 else "end" if f == 1 else "middle"
+        o.append(f'<text x="{X(f):.1f}" y="{H-8}" text-anchor="{anc}" fill="{INK2}">{int(f*100)}%</text>')
+    for ri, r in enumerate(c["rows"]):
+        tot = sum(r["values"]); y = m["t"] + ri * (rowH + gap); acc = 0
+        o.append(f'<text x="{m["l"]-10}" y="{y+rowH/2+4:.1f}" text-anchor="end" fill="{INK2}">{esc_x(r["label"])}</text>')
+        for i, v in enumerate(r["values"]):
+            a, b = X(acc / tot) + (1 if i else 0), X((acc + v) / tot) - (1 if i < len(r["values"]) - 1 else 0); acc += v
+            o.append(f'<rect x="{a:.1f}" y="{y}" width="{max(0.5,b-a):.1f}" height="{rowH}" fill="{SLOT[i]}"/>')
+            if b - a > 44:
+                tc = "#ffffff" if i < 2 else "#1a1a19"
+                o.append(f'<text x="{(a+b)/2:.1f}" y="{y+rowH/2+4:.1f}" text-anchor="middle" fill="{tc}" font-weight="600">{v/tot*100:.0f}%</text>')
+    o.append("</svg>")
+    return "\n".join(o)
+
+def chart_md(arg, c, rdir, rel_report, V):
+    os.makedirs(os.path.join(rdir, "charts"), exist_ok=True)
+    svg = svg_line(c) if c["type"] == "line" else svg_bar100(c)
+    open(os.path.join(rdir, "charts", f"{arg}.svg"), "w").write(svg)
+    alt = c.get("aria", arg).replace("[", "(").replace("]", ")")
+    out = f"![{alt}]({rel_report}/charts/{arg}.svg)" + md_note(subst(c.get("note", ""), V))
+    if c["type"] == "line":                                           # compact data table under the chart
+        D = c["dates"]; n = len(D); k = max(1, round(n / 6)); idx = sorted(set(list(range(0, n, k)) + [n - 1]))
+        t = {"columns": ["Date"] + [c.get("names", {}).get(s, s) for s in c["order"]],
+             "rows": [[D[i]] + [f"{c['series'][s][i]:.0f}" for s in c["order"]] for i in idx]}
+    else:
+        t = {"columns": ["Period"] + c["keys"] + [f"Total{(' (' + c['unit'] + ')') if c.get('unit') else ''}"],
+             "rows": [[r["label"]] + [f"{v:,.0f} ({v/sum(r['values'])*100:.0f}%)" for v in r["values"]] + [f"{sum(r['values']):,.0f}"] for r in c["rows"]]}
+    return out + "\n\n" + md_table(t)
+
+def load_chart(data, rdir, arg):
+    c = data["charts"].get(arg)
+    if not c: PROBLEMS.append(f"chart {arg} missing"); return None
+    c = dict(c)
+    if "file" in c:
+        f = json.load(open(os.path.join(rdir, c["file"])))
+        for k in ("dates", "order", "series"): c.setdefault(k, f[k])
+        c["names"] = {**f.get("names", {}), **data["charts"][arg].get("names", {})}
+    return c
+
+def essay_md(data, mo, V, rdir, rel_report):
+    raw = re.sub(r"<!--.*?-->", "", open(os.path.join(rdir, "report.md")).read(), flags=re.S)
+    text = subst(raw, V)
+    heads = [h for h in re.findall(r"^##\s+(.*?)(?:\s*\{#[\w-]+\})?\s*$", text, flags=re.M)]
+    out = []
+    for ln in text.split("\n"):
+        st = ln.strip()
+        hm = re.match(r"^(#{1,3})\s+(.*?)(?:\s*\{#[\w-]+\})?\s*$", st)
+        if hm:                                                        # demote one level under "## Deep Dive"
+            out.append("#" * (len(hm.group(1)) + 1) + " " + hm.group(2)); continue
+        if not st.startswith("::"): out.append(ln); continue
+        parts = st[2:].split(None, 1); name = parts[0]; arg = parts[1].strip() if len(parts) > 1 else ""
+        if name == "toc":
+            out.append("**Contents**: " + " · ".join(f"[{re.sub(r'[*_]','',h)}](#{gh_slug(h)})" for h in heads))
+        elif name in ("updates", "disclaimer"):
+            pass                                                      # updates sit in the front matter; footer is fixed
+        elif name == "tests":
+            out.append("*The three tests, with their pre-committed consequences, are listed at the top of this report under [What I'd Have To Be Wrong About](#what-id-have-to-be-wrong-about).*")
+        elif name == "table":
+            t = data["tables"].get(arg)
+            if not t: PROBLEMS.append(f"table {arg} missing"); continue
+            t = json.loads(subst(json.dumps(t, ensure_ascii=False), V))
+            out.append(md_table(t) + md_note(t.get("note")))
+        elif name == "chart":
+            c = load_chart(data, rdir, arg)
+            if c: out.append(chart_md(arg, c, rdir, rel_report, V))
+        elif name == "model_build":
+            if not mo: PROBLEMS.append("model_out.json missing"); continue
+            out.append(md_table(model_build(mo, arg)) + md_note(subst(data.get("model_build", {}).get("note", ""), V) + " Bold cells are model inputs."))
+        elif name == "scenarios":
+            if not mo: PROBLEMS.append("model_out.json missing"); continue
+            sc = data.get("scenarios", {})
+            out.append(md_table(scenarios(mo, sc)) + md_note(subst(sc.get("note", ""), V)))
+        elif name == "sources":
+            out.append(" · ".join(f"[{s['label']}]({s['url']})" if s.get("url") else s["label"] for s in data.get("sources", [])))
+        else:
+            PROBLEMS.append(f"unknown directive ::{name}")
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(out)).strip()
+
+def front_matter(data, mo, V, rdir, rel_report):
     m = data["meta"]; vd = data["verdict"]; s = (mo or {}).get("summary", {})
     lo, hi = m["range52"]; pctl = round((m["price"] - lo) / (hi - lo) * 100) if hi > lo else 0
     ordn = lambda n: f"{n}{'th' if 10 <= n % 100 <= 20 else {1:'st',2:'nd',3:'rd'}.get(n % 10,'th')}"
     chg = (m["price"] / hi - 1) * 100; chg_s = f"{'+' if chg >= 0 else '−'}{abs(chg):.1f}%"
-    rel = os.path.basename(os.path.normpath(os.path.join(os.path.abspath("."), ".")))
-    link = f"report/{html_name}"
-    pub = f" · [published page]({m['artifact_url']})" if m.get("artifact_url") else ""
     flags = f" · **Cyclical** {m['cyclical']} · **Competence** {m['competence']}" + (" · 🔁 **High-ROIIC compounder** (no Trim zone)" if m.get("compounder") else "")
+    pub = f" · [published page]({m['artifact_url']})" if m.get("artifact_url") else ""
     L = [f"# {m['ticker']} — {m['company']}", "",
          f"> **Schema** v7.0 · **Updated** {m['date']} · **Status** {m.get('status','Active')}",
          f"> **Price** {V['price']} verified {m['price_note']} ([Yahoo]({m.get('price_url','https://finance.yahoo.com/quote/'+m['ticker']+'/')})) · 52-wk ${lo:,.2f}–${hi:,.2f} · {ordn(pctl)} %ile · {chg_s} from high",
-         f"> **Type** {m['type']} · **Stage** {m['stage']}{flags}",
-         f"> **Deep dive**: [{m['title']}]({link}){pub}", "",
+         f"> **Type** {m['type']} · **Stage** {m['stage']}{flags}{pub}", "",
          "## Verdict", "", f"**{subst(vd['sentence'],V)}**", "",
          f"{vd['non_holder']['emoji']} **Non-holder: {subst(vd['non_holder']['verb'],V)}** · {vd['holder']['emoji']} **Holder: {subst(vd['holder']['verb'],V)}**", "",
          f"| PW EV | PW return/yr | Compounding/yr | R/R | Entry | Trim | Avoid | {vd['multiple_label']} | Yield | BAIT | Moat | Next |",
@@ -336,23 +504,40 @@ def card_md(data, mo, V, html_name):
     for i, t in enumerate(data["tests"], 1):
         L.append(f"{i}. **{subst(t['claim'],V)}** Test: {subst(t['test'],V)} **If Fail →** {subst(t['if_fail'],V)}")
     ups = sorted(data.get("updates", []), key=lambda u: u["date"], reverse=True)
-    if ups and ups[0].get("scorecard"):
-        L += ["", f"## Latest scorecard ({ups[0]['date']})", ""]
-        icon = {"pass": "✅ Pass", "fail": "🔴 Fail", "pending": "🟡 Pending"}
-        L += [f"- {subst(x['test'],V)} — {icon[x['result']]} — {subst(x['evidence'],V)}" for x in ups[0]["scorecard"]]
-    if mo and mo.get("cases"):
-        L += ["", "## Scenarios", "", "| Case | Prob. | Terminal EPS | Exit P/E | Value | Return/yr |", "|---|---|---|---|---|---|"]
-        for n, c in mo["cases"].items():
-            L.append(f"| {n} | {pct(c['prob'],0) if c.get('prob') else '—'} | {money(c['rows']['eps'][-1],2)} | {c['inputs']['pe']:.1f}× | {money(c['value'])} | {pct(c['return'])} |")
-        for n, c in mo.get("diagnostics", {}).items():
-            if "rows" in c: L.append(f"| {c.get('label',n)} | — | {money(c['rows']['eps'][-1],2)} | {c['pe']:.1f}× | {money(c['value'])} | {pct(c['return'])} |")
-        if s: L.append(f"| **Probability-weighted** | 100% | | | **{money(s['pw_ev'])}** | **{pct(s['pw_return'])}** |")
-        if s.get("breakeven_bear") is not None:
-            L += ["", f"Break-even Bear odds {odds(s['breakeven_bear'])} vs. {pct(s.get('bear_prob'),0)} assigned · price-implied {odds(s['implied_bear'])} at {pct(s['discount_rate'],0)}."]
-    L += ["", "## Sources", "", f"Full source list in the [deep dive]({link}#sources).", "", "---", "",
-          "*Analysis, not personal investment advice. Generated from report/data.json by kg-investment-analysis v7 build_report.py; edit the report source, not this file. No position sizing by design.*", ""]
+    if ups:
+        u = ups[0]; p = os.path.join(rdir, u["file"])
+        L += ["", f"## Latest update: {u['date']} · {u['title']}", ""]
+        if u.get("scorecard"):
+            icon = {"pass": "✅ Pass", "fail": "🔴 Fail", "pending": "🟡 Pending"}
+            L += [f"- {subst(x['test'],V)} — {icon[x['result']]} — {subst(x['evidence'],V)}" for x in u["scorecard"]] + [""]
+        if os.path.exists(p): L.append(subst(re.sub(r"<!--.*?-->", "", open(p).read(), flags=re.S), V).strip())
+        else: PROBLEMS.append(f"update file missing: {u['file']}")
+        if len(ups) > 1:
+            L += ["", "**Earlier updates**: " + " · ".join(f"[{x['date']} · {x['title']}]({rel_report}/{x['file']})" for x in ups[1:])]
     return "\n".join(L)
+
+def build(rdir, check=False, want_html=False):
+    data = json.load(open(os.path.join(rdir, "data.json")))
+    mo_p = os.path.join(rdir, "model_out.json"); mo = json.load(open(mo_p)) if os.path.exists(mo_p) else None
+    V = build_vars(data, mo); m = data["meta"]
+    out = os.path.normpath(os.path.join(rdir, m.get("report_path", m.get("card_path", f"../{m['ticker']}.md"))))
+    rel_report = os.path.relpath(os.path.abspath(rdir), os.path.dirname(os.path.abspath(out)))
+    fm = front_matter(data, mo, V, rdir, rel_report)
+    essay = essay_md(data, mo, V, rdir, rel_report)
+    doc = (fm + "\n\n---\n\n" + f"## Deep Dive: {m['title']}\n\n*{subst(m['dek'],V)}*\n\n" + essay +
+           "\n\n---\n\n*Analysis, not personal investment advice. Every figure traces to a linked primary source or carries a tag "
+           "([Estimate], [Analyst consensus], [Management guidance], [Derived]). No position sizing by design. Built from "
+           f"[{rel_report}/]({rel_report}/) by kg-investment-analysis v7; edit the sources there, not this file.*\n")
+    if check:
+        for p in PROBLEMS: print("PROBLEM:", p)
+        sys.exit(1 if PROBLEMS else 0)
+    for p in PROBLEMS: print("PROBLEM:", p)
+    open(out, "w").write(doc)
+    prose = re.sub(r"^\|.*\|$", "", essay, flags=re.M)
+    print(f"wrote {out} (~{len(prose.split())} words of essay prose excl. tables; {len(doc.split())} words total)")
+    if want_html:
+        build_html(rdir, data, mo, V)
 
 if __name__ == "__main__":
     a = [x for x in sys.argv[1:] if not x.startswith("--")]
-    build(a[0], check="--check" in sys.argv)
+    build(a[0], check="--check" in sys.argv, want_html="--html" in sys.argv)

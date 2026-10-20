@@ -1,12 +1,12 @@
 ---
 name: kg-investment-analysis
 description: >
-  Karthik's single-equity investment framework for 5–10-year holders. Writes a long-form deep dive in the MBI Deep Dives style (history, the key debate argued from management's own words, unit economics, management and incentives, a segment model with priced-in and hurdle cases) that ends in a decision (Initiate / Add / Hold / Trim / Exit / Watch / Avoid) tested against a fixed 13% hurdle on a probability-weighted five-year value. Use whenever the user asks "analyze [ticker]", "is [stock] a buy", "should I buy/hold/sell [ticker]", "what is [company] worth", "deep dive on [company]", "update [ticker]", "summarize the earnings call for [company]", "what happened to [stock]" or "price history for [ticker]", or for any valuation or price analysis of a named public company. Mode A writes the deep dive; B and C update it in place; D is price history. Builds an HTML page with charts plus a decision card. Never sizes positions.
+  Karthik's single-equity investment framework for 5–10-year holders. Writes a long-form deep dive in the MBI Deep Dives style (history, the key debate argued from management's own words, unit economics, management and incentives, a segment model with priced-in and hurdle cases) that ends in a decision (Initiate / Add / Hold / Trim / Exit / Watch / Avoid) tested against a fixed 13% hurdle on a probability-weighted five-year value. Use whenever the user asks "analyze [ticker]", "is [stock] a buy", "should I buy/hold/sell [ticker]", "what is [company] worth", "deep dive on [company]", "update [ticker]", "summarize the earnings call for [company]", "what happened to [stock]" or "price history for [ticker]", or for any valuation or price analysis of a named public company. Mode A writes the deep dive; B and C update it in place; D is price history. Writes one Markdown report with SVG charts. Never sizes positions.
 ---
 
 # kg-investment-analysis · v7.0
 
-Every report answers one question: **what should someone do about this stock, and what would change that answer?** In v7 the answer is told as a long-form deep dive. It is an argued essay that starts from the company's history, works through the debate that decides the stock using management's own words and the numbers, and ends in a verdict. A short decision card is generated from the same data, so the verdict, zones and tests never drift from the essay.
+Every report answers one question: **what should someone do about this stock, and what would change that answer?** In v7 the answer is told as a long-form deep dive. It is an argued essay that starts from the company's history, works through the debate that decides the stock using management's own words and the numbers, and ends in a verdict. **The output is one Markdown file, `[TICKER].md`, as in v6.0.** The decision front matter comes first (header, Verdict, The Call, the three tests, the latest update), then the deep dive and its appendix. All of it is generated from one set of sources, so the verdict, zones and tests never drift from the essay.
 
 ## The lens: why the rules exist
 
@@ -30,7 +30,7 @@ Every report answers one question: **what should someone do about this stock, an
 
 ## What a report is (v7)
 
-A report is a folder of source files and two built outputs:
+A report is a folder of source files that builds into one Markdown file:
 
 | File | What it holds | Who writes it |
 |---|---|---|
@@ -40,8 +40,9 @@ A report is a folder of source files and two built outputs:
 | `updates/YYYY-MM-DD.md` | Dated update notes (Modes B and C) | You |
 | `series/*.json` | Total-return series for line charts | `scripts/prices.py` |
 | `model_out.json` | Cases, PW EV, return, entry, R/R, Bear odds, solved diagnostics | `scripts/model.py` |
-| `TICKER-deep-dive.html` | The published deep dive, with charts and data tables | `scripts/build_report.py` |
-| `../TICKER.md` | The decision card: header, verdict table, The Call, tests, latest scorecard, scenarios, link to the deep dive | `scripts/build_report.py` |
+| `../TICKER.md` | **The report**: decision front matter, then the deep dive and appendix, in GitHub-flavored Markdown with no HTML | `scripts/build_report.py` |
+| `charts/*.svg` | Static chart images referenced from the report (legend, end labels, a data table follows each) | `scripts/build_report.py` |
+| `TICKER-deep-dive.html` | Optional interactive page, built only with `--html`, for publishing | `scripts/build_report.py --html` |
 
 A complete worked example lives in `examples/SBUX/report/`; copy its shape. `assets/skeleton/` has empty starting files.
 
@@ -56,7 +57,7 @@ python3 -I SKILL_DIR/scripts/build_report.py . --check
 python3 -I SKILL_DIR/scripts/build_report.py .
 ```
 
-`--check` lists unresolved tokens and missing tables, charts or update files; fix everything it reports. Then look at the rendered page once (desktop and phone width), fix what you see, and publish.
+`--check` lists unresolved tokens and missing tables, charts or update files; fix everything it reports. Then read the rendered Markdown once (a preview, or the file), and look at each chart SVG. Fix what you see.
 
 ---
 
@@ -140,7 +141,7 @@ The definitions behind each line are in `references/valuation.md`.
     - a reinvestment rate ≥ 25% of NOPAT;
     - at least one growth lever with ≥ 5 years of runway at stage proven or scaling.
   - **What changes:** the holder verb is Add at or below Entry and Hold everywhere above it. The holder exits only when a kill criterion fails, never on valuation alone. The non-holder zones are unchanged: don't buy above Bull.
-  - **What to show:** set `meta.compounder: true`; the card flags it and prints `—` in the Trim cell.
+  - **What to show:** set `meta.compounder: true`; the report header flags it and prints `—` in the Trim cell.
   - **Why:** businesses that keep earning 20%+ on new capital tend to outrun the estimates that made them look fully priced. Selling them on valuation is the costliest common mistake (Fundsmith, Akre and the 100-bagger studies).
 - **Re-rating test.** If more than half of the PW return comes from re-rating, the non-holder verb is Watch, not Initiate. The compounding rate at a flat multiple is what a long-term holder actually earns.
 - **Probability-fragile.** If the break-even Bear odds are within 10 points of the Bear odds you assigned, The Call says the verb is fragile and names the test that will settle it.
@@ -154,13 +155,13 @@ The definitions behind each line are in `references/valuation.md`.
 
 ### Report structure
 
-The structure is set by `references/deep-dive-style.md`; the decision card is generated, so its shape is fixed by the build script:
+The essay's structure is set by `references/deep-dive-style.md`. The front matter at the top of `[TICKER].md` is generated, so its shape is fixed by the build script:
 
-- **Header** of the card: schema, updated date, status; price with timestamp and source, 52-week range, percentile, distance from the high; type, stage, Cyclical, Competence, 🔁 if it qualifies; a link to the deep dive.
+- **Header**: schema, updated date, status; price with timestamp and source, 52-week range, percentile, distance from the high; type, stage, Cyclical, Competence, 🔁 if it qualifies; a link to the deep dive.
 - **Verdict**: one sentence, the two verbs, the one-row table (`PW EV | PW return/yr | Compounding/yr | R/R | Entry | Trim | Avoid | multiple | Yield | BAIT | Moat | Next`), **Breaks if**.
 - **The Call** (~200 words, from `data.json` `call`). What the market has priced, what it has wrong, the one number that proves it; say "probability-fragile" when the rule applies.
 - **What I'd Have To Be Wrong About**: exactly three kill criteria, each with source, date and a pre-committed consequence (give the test a `shift` so its PW EV, return and entry are computed).
-- **Latest scorecard**, **Scenarios** and a link to the full sources.
+- **Latest update** with its scorecard, then a rule and **Deep Dive: [title]** with the essay, Appendix and Sources (chapters one heading level down).
 
 ### Research protocol
 
@@ -201,11 +202,12 @@ Pull these for Mode A. Log gaps; never fabricate a number.
 
 ### Writing rules
 
-- **State each fact once.** It lives in one chapter; elsewhere it gets a one-clause reference. Model numbers go through `[[tokens]]` so the essay, tables and card agree.
+- **State each fact once.** It lives in one chapter; elsewhere it gets a one-clause reference. Model numbers go through `[[tokens]]` so the essay, tables and front matter agree.
 - **Quote management where its own words carry the argument**, at length if needed, always attributed to person, venue and date. Paraphrase everything else.
 - **Budget**: about 4,000–7,000 words of prose for a full deep dive, excluding tables, quotes and the Appendix; 600–1,200 words for a Mode B note; 200–500 for Mode C. The budget guards against sprawl, not against evidence.
 - **Tables run time in columns, metrics in rows**; every table and chart has a sourced note.
-- **Emoji** stay out of the essay; they appear only on the generated card, with their usual meanings (🟢 🔴 🟡 ⚠️ ✅ 📅 💰 🎯 🔁).
+- **Emoji** stay out of the essay; they appear only in the generated front matter, with their usual meanings (🟢 🔴 🟡 ⚠️ ✅ 📅 💰 🎯 🔁).
+- **No HTML** anywhere in the sources; the build emits plain GitHub-flavored Markdown.
 - **Closing audit**: no thesis-carrying figure, rate, multiple or named risk more than twice in the prose; every number sourced or tagged; `--check` clean.
 
 ---
@@ -230,13 +232,13 @@ Pull these for Mode A. Log gaps; never fabricate a number.
    - re-base `model.json` (spot, base year when a year closes, case inputs only where evidence moved them) and re-run `model.py`;
    - update `meta`, `verdict` and `call`.
 5. **Edit body prose that the news made false**, in place. The essay must stay true on its own.
-6. Re-derive verbs and zones; run the bias check before changing a verb. Rebuild with `--check`, look once, republish to the same URL.
+6. Re-derive verbs and zones; run the bias check before changing a verb. Rebuild with `--check` and read the result once.
 
 ## Mode C: news and price update
 
 - Write a 200–500-word update note covering what drove the move (earnings, macro, sector or company-specific) and whether the move looks warranted.
 - Set the new spot in `model.json` and re-run the model, because zones can be crossed without news. Say if a kill criterion is touched.
-- Refresh `meta` and anything the news made false. No verb change without the bias check. Rebuild, republish.
+- Refresh `meta` and anything the news made false. No verb change without the bias check. Rebuild.
 
 ## Mode D: price history
 
@@ -252,10 +254,11 @@ Answer in chat or as a short note; don't rebuild the deep dive.
 ## Output
 
 - **Where it goes:**
-  - In a research repo with one folder per ticker under `wiki/tickers/` (like the one this skill ships in), the report folder is `wiki/tickers/[TICKER]/report/` and the decision card is `wiki/tickers/[TICKER]/[TICKER].md`. Follow the repo's rules for the changelog and its cross-files.
-  - Anywhere else: `outputs/[TICKER]/report/` with the card at `outputs/[TICKER]/[TICKER].md`. In Cowork, use `/mnt/user-data/outputs/` and call `present_files`.
-- **Publishing:** when an Artifact tool is available, publish `TICKER-deep-dive.html` and store its URL in `meta.artifact_url`. Republish updates to the same URL. Otherwise hand the user the HTML file.
-- Links inside the essay are absolute URLs (the page is published alone). Local `raw/` files are cited on the card and in the changelog.
+  - **Format: Markdown.** The report is `[TICKER].md`; charts are SVG files beside it in `report/charts/`, linked as images. No HTML.
+  - In a research repo with one folder per ticker under `wiki/tickers/` (like the one this skill ships in), the sources live in `wiki/tickers/[TICKER]/report/` and the report is `wiki/tickers/[TICKER]/[TICKER].md`. Follow the repo's rules for the changelog and its cross-files.
+  - Anywhere else: `outputs/[TICKER]/report/` with the report at `outputs/[TICKER]/[TICKER].md`. In Cowork, use `/mnt/user-data/outputs/` and call `present_files`.
+- **Sharing (optional):** to share a page, publish `[TICKER].md` as an Artifact with its `report/charts/*.svg` as supporting files, or build the interactive page with `--html` and publish that. Store the URL in `meta.artifact_url` so the header links it.
+- Links inside the essay are absolute URLs. Local `raw/` files are cited in the changelog.
 - Show the user the page or the diff, and end with the disclaimer: this is analysis, not personal investment advice.
 
 ## Reference files
@@ -270,7 +273,7 @@ Read each one when you reach the step that needs it.
 ## Version history
 
 - **v7.0 (October 2026).** The deep dive becomes the report.
-  - Long-form essay in the MBI Deep Dives style, built from `report.md` + `data.json` + `model.json` into an HTML page with charts, plus a generated decision card.
+  - Long-form essay in the MBI Deep Dives style, built from `report.md` + `data.json` + `model.json` into one Markdown report (decision front matter + essay + appendix) with SVG charts; an optional interactive HTML page via `--html`.
   - New scripts: `model.py` (cases, PW maths, solved Priced-in and Hurdle diagnostics), `build_report.py`, `prices.py`, `xbrl.py`.
   - Kill-criteria consequences computed from the model; incremental updates as dated notes with scorecards plus in-place edits; worked SBUX example.
   - The decision rules and the 13% hurdle are unchanged from v6.0.

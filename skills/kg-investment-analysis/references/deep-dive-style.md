@@ -35,8 +35,8 @@ Use these chapters in this order. Rename them to fit the company (e.g. "North Am
 
 | # | Chapter | Its job | Typical length |
 |---|---|---|---|
-| — | **Header** (built from data.json) | Title, dek, kicker, verdict tiles | — |
-| — | `::toc`, then `::updates` | Section links; latest update note on top (Modes B/C) | — |
+| — | **Front matter** (generated from data.json) | Header, Verdict, The Call, the three tests, latest update with scorecard; then the essay title and dek | — |
+| — | `::toc` | A contents line linking the chapters | — |
 | 0 | **Opening** (no heading) | The history in 3–5 paragraphs: a dated, concrete moment (a CEO hire, an IPO, a crash); what the business did since; what the stock did, against a named rival and the S&P 500 (`::chart`); the question the market can't answer; a roadmap paragraph listing the chapters and ending with the valuation question | 400–700 words |
 | 1 | **Business Overview** | Segments in one table (revenue, operating income, margin across 3–5 periods); the profit mix (`bar100` chart); "a few accounting points" the reader needs before the debate (non-GAAP adjustments, one-offs, deconsolidations) | 400–700 |
 | 2 | **The key debate** | Where things stand (a table) → **Management's narrative** (h3; 1–3 long quotes, attributed) → **Poking holes in it** (h3; 3–4 numbered-in-prose holes, each with a number) → the illustrative unit-economics table → "Where I come out" paragraph | 1,200–2,000 |
@@ -74,8 +74,8 @@ Nothing the framework requires is dropped; it moves to where it reads best.
 
 | Framework item (v6 section) | Deep-dive home |
 |---|---|
-| Verdict, verbs, zones, PW EV, R/R, Breaks if, The Call | `data.json` (verdict, call); header tiles and the generated decision card. The Call is also the backbone of Final Words; don't restate it word for word |
-| Three kill criteria with pre-committed consequences | `data.json` tests (with `shift` so consequences compute); rendered by `::tests` in Final Words or the Appendix and on the card |
+| Verdict, verbs, zones, PW EV, R/R, Breaks if, The Call | `data.json` (verdict, call); rendered in the generated front matter. The Call is also the backbone of Final Words; don't restate it word for word |
+| Three kill criteria with pre-committed consequences | `data.json` tests (with `shift` so consequences compute); rendered in the front matter; `::tests` in Final Words places a pointer to them |
 | Driver tree (R16) | The key-debate chapter ("where things stand") or the Appendix |
 | Five-year record with ROIC, 3-yr ROIIC, reinvestment, owner earnings, quality and earnings-quality rows | Appendix table (required). Its conclusions are argued in Management & Capital |
 | Growth levers | Appendix table; the Base/Bull lever sentence goes in Valuation |
@@ -93,16 +93,17 @@ Nothing the framework requires is dropped; it moves to where it reads best.
 - **Admit uncertainty and past errors.** "I was skeptical about X; that was a mistake." "There may be too much noise to conclude anything."
 - **Mr. Market** is fine, used sparingly. No hype words, no "game-changer".
 - **No mannered devices**: no em-dash asides, no "not X, but Y" constructions, no colon-then-reveal, no scare quotes, no "worth noting".
-- **Numbers that matter come from the model or data** through `[[tokens]]`, so they stay consistent across the essay, the tables and the card.
+- **Numbers that matter come from the model or data** through `[[tokens]]`, so they stay consistent across the essay, the tables and the front matter.
 - **Tags still apply**: estimates are labelled in the table note or the sentence (`[Estimate]`, "author's estimate"), consensus as `[Analyst consensus]`.
 - **Every source is a link** in the sentence or the table note, and in `data.json` sources.
 
 ## 6. Charts and tables
 
-- **Charts**: `line` for total-return comparisons (one to four series, from `prices.py`); `bar100` for profit or revenue mix over periods. One chart per point. Two or three charts per report is typical. Each has a note with the definition, base date and source, and an automatic data table.
+- **Charts** are rendered as static SVG images (light and dark backgrounds both work), each followed by its note and a small data table.
+- **Chart types**: `line` for total-return comparisons (one to four series, from `prices.py`); `bar100` for profit or revenue mix over periods. One chart per point. Two or three charts per report is typical. Each has a note with the definition, base date and source, and an automatic data table.
 - **Palette**: the four categorical slots in fixed order; the subject company is always slot 1. Never more than four series.
 - **Tables**: years or periods in columns, metrics in rows. `grp` for segment headers, `sub` for indented detail rows, `tot` for totals. `in` marks model inputs. `neg`/`pos` mark the cells that carry the point. A leading `~` on a column name makes it a wrapping text column. Every table has a note with the source.
-- **Accent color**: one per company (`meta.accent`), used for links and quote rules only; pick a muted version of the brand color with a lighter dark-mode variant.
+- **Accent color** (`meta.accent`) applies only to the optional `--html` page.
 
 ## 7. Incremental updates (Modes B and C)
 
@@ -117,15 +118,15 @@ An update keeps the deep dive true and puts the news on top. It never starts a n
    - Update `meta` (price, date, range) and `verdict`.
    - Replace a resolved test with a new one.
 3. **Edit body prose that is now false.** Any sentence the news contradicts gets rewritten in place, so the essay stays true on its own. Don't leave a contradiction for the update note to explain. Git holds the old text.
-4. **Rebuild with `--check`, then republish** to the same artifact URL.
-5. **Full rewrite (Mode A again) when the thesis changes**, a year has passed since the last full report, or more than four update notes have accumulated. Older notes stay in `updates/` and remain on the page, collapsed.
+4. **Rebuild with `--check`** and read the result once. If the report is shared as an Artifact, republish it to the same URL.
+5. **Full rewrite (Mode A again) when the thesis changes**, a year has passed since the last full report, or more than four update notes have accumulated. Older notes stay in `updates/`; the report links them under "Earlier updates".
 
 ## 8. Length
 
 - Full deep dive: **about 4,000–7,000 words of prose**, excluding tables, quotes and the Appendix. The Uber piece that set the style runs about 11,000 words including long quotes; aim shorter.
 - The budget guards against sprawl. When a draft runs long, cut restated claims and second examples before cutting evidence.
 - Update notes: 600–1,200 words (Mode B) or 200–500 words (Mode C).
-- Decision card: generated; ~400–600 words.
+- Front matter: generated; about 400–700 words including the latest update's scorecard.
 - **Closing audit**: no thesis-carrying number or claim more than twice in the prose (tables and tokens excepted); every number sourced or tagged; `build_report.py --check` clean.
 
 ## 9. Checklist before building
@@ -138,4 +139,4 @@ An update keeps the deep dive true and puts the news on top. It never starts a n
 - [ ] Valuation: `::model_build`, `::scenarios`, Priced-in and Hurdle paragraphs, PW return and entry, EPV floor
 - [ ] Final Words names the three tests and dates
 - [ ] Appendix has the five-year record with ROIC, ROIIC and owner earnings, plus the risks and catalysts tables
-- [ ] Sources section, disclaimer, `--check` clean, one render look
+- [ ] Sources section, `--check` clean, one read of the Markdown and each chart SVG

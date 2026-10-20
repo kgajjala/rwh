@@ -25,8 +25,8 @@
    "dark": "#86b6ef"
   },
   "html_name": "TICK-deep-dive.html",
-  "card_path": "../TICK.md",
-  "artifact_url": ""
+  "artifact_url": "",
+  "report_path": "../TICK.md"
  },
  "verdict": {
   "sentence": "One sentence: what this is and what to do; return [[pw_return]] against the 13% hurdle.",

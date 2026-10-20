@@ -11,9 +11,9 @@ A personal, position-agnostic investment knowledge base. Knowledge compounds fro
 **Owner**: Karthik G · **Started**: April 2026 · **Schema**: v7.0
 **Lens**: a 5–10-year holder who wants the *business* to compound at a teens rate. The hurdle is **13%/yr total return on the probability-weighted case** (R8). Re-rating is upside, never the thesis; momentum, sentiment and technicals are context, never the reason to act.
 
-**The deliverable is a decision, argued as a deep dive.** Each ticker has a long-form **deep dive**: an essay in the style of MBI Deep Dives that starts from the history, argues the debate that decides the stock from management's own words and the numbers, and ends in a verdict. It is built by the `kg-investment-analysis` skill (v7.0, `skills/kg-investment-analysis/`) from source files in `wiki/tickers/[TICKER]/report/`. The same build generates **`[TICKER].md`, the decision card**: what to do about the stock, at what prices, and what would change that answer. Everything in the deep dive either supports that decision or does not belong.
+**The deliverable is a decision, argued as a deep dive.** Each ticker has a long-form **deep dive**: an essay in the style of MBI Deep Dives that starts from the history, argues the debate that decides the stock from management's own words and the numbers, and ends in a verdict. It is built by the `kg-investment-analysis` skill (v7.0, `skills/kg-investment-analysis/`) from source files in `wiki/tickers/[TICKER]/report/` into **one Markdown file, `[TICKER].md`**. Its front matter states what to do about the stock, at what prices, and what would change that answer; the deep dive below it makes the argument. Everything in it either supports that decision or does not belong.
 
-**Schema v7.0 is mandatory for all new work.** Every Workflow A ingest produces a v7 deep dive and card. Every Workflow B update to a ticker that already has a v7 report adds an update note and rebuilds it.
+**Schema v7.0 is mandatory for all new work.** Every Workflow A ingest produces a v7 report. Every Workflow B update to a ticker that already has one adds an update note and rebuilds it.
 
 **Migration is opportunistic, never bulk.** A v3/v5/v6 page migrates to v7 the next time a *material event* touches it: that update is done as a v7 full deep dive (Workflow A shape) instead of a page edit. Never run a mass migration, and never rewrite a page just to change its format. A quiet week migrates nothing. Mixed v3–v7 pages are the expected steady state for months; `git log` records which is which.
 
@@ -37,10 +37,10 @@ rwh/
     ├── watchlist.md           ← attractiveness ranking (§8)
     ├── insights/              ← cross-ticker studies; pre-v7 standalone deep dives
     ├── tickers/[TICKER]/
-    │   ├── [TICKER].md        ← the decision card (generated; v7) or the legacy page (v3–v6)
+    │   ├── [TICKER].md        ← the report: generated Markdown in v7 (front matter + deep dive), hand-written in v3–v6
     │   ├── changelog.md       ← append-only event log
-    │   └── report/            ← v7 deep-dive sources and build (report.md, data.json, model.json,
-    │                             model_out.json, updates/, series/, [TICKER]-deep-dive.html)
+    │   └── report/            ← v7 sources (report.md, data.json, model.json, model_out.json,
+    │                             updates/, series/) and charts/*.svg referenced by [TICKER].md
     └── frameworks/            ← compounding.md, powers.md, bait.md, moneyball.md, asset-types.md, outsiders.md
 ```
 
@@ -62,21 +62,21 @@ rwh/
 
 **R7 — State once.**
 - Every fact has exactly one home in the deep dive. Elsewhere it is **referenced in a clause**, never re-explained. Canonical homes:
-  - price, range, verdict, zones → `data.json` (rendered in the header and the card);
+  - price, range, verdict, zones → `data.json` (rendered in the front matter);
   - the argument → The Call (`data.json`) and the debate chapters;
   - segment economics → Business Overview;
   - driver tree, five-year record with ROIC and quality rows, growth levers, moat table, risks, catalysts → the Appendix;
   - capital allocation, incentives, credibility, Outsider grade → Management, Capital Allocation and Incentives;
   - scenarios, PW EV, return decomposition, hurdle, R/R, Priced-in and Hurdle cases → Valuation;
   - sentiment, analysts, insiders, short interest → the update note or the Appendix.
-- **Model numbers go through tokens.** Any figure the model produces is written as a `[[token]]` in prose, tables and the card, so it is stated once and cannot drift.
+- **Model numbers go through tokens.** Any figure the model produces is written as a `[[token]]` in prose, tables and the front matter, so it is stated once and cannot drift.
 - **Quote where it earns its place.** Management's own words carry the debate chapters, at length where paraphrase would weaken them, always attributed to person, venue and date. Never a chronological table of source extracts where 2–3 sentences would do.
 - **No schema mechanics in the report.** No references to this file, no "corrected from" / "prior framing" / "previously we said". Git is the audit trail.
 - **Budget — a guardrail against sprawl, not a hard cap.** Prose only, excluding tables, block quotes, the Appendix and source lists:
   - **~4,000–7,000 words** for a full deep dive;
   - **600–1,200 words** for a Mode B update note, **200–500** for Mode C;
   - **~250 words** for a changelog entry.
-  - The decision card is generated and has no budget of its own.
+  - The front matter is generated and has no budget of its own.
   - When a draft runs long, compress before deleting: collapse a restated claim to a reference, drop a second example, cut a quote that paraphrase would carry. Overshooting by 10–15% to keep load-bearing evidence is correct; cutting evidence to hit the number is not.
 - **Closing audit, required**: scan the prose for any thesis-carrying *claim* — a figure, a rate, a named risk, a valuation multiple — appearing more than twice, and collapse the extras to a reference. Proper nouns are exempt. Then run `build_report.py --check`; it must be clean.
 
@@ -141,30 +141,26 @@ Cross-ticker and schema-only events live in **commit messages**, not in any wiki
 
 ## 4. The Report
 
-A v7 report has two outputs built from one set of sources in `wiki/tickers/[TICKER]/report/`:
+A v7 report is **one Markdown file, `[TICKER].md`**, built from the sources in `wiki/tickers/[TICKER]/report/` (GitHub-flavored Markdown, no HTML; charts are SVG images in `report/charts/`). Never hand-edit it; edit the sources and rebuild. In order:
 
-**The deep dive** (`[TICKER]-deep-dive.html`, published as an Artifact).
-- **Chapters**, in order:
-  1. an untitled opening (a dated moment, the stock against the business, the question);
-  2. Business Overview;
-  3. the key debate (management's narrative, then the holes, then an illustrative unit-economics table, then rings of profit);
-  4. the second debate;
-  5. Management, Capital Allocation and Incentives;
-  6. Valuation and Model Assumptions;
-  7. Final Words;
-  8. Appendix: The Numbers;
-  9. Sources.
-- The skill's `references/deep-dive-style.md` is authoritative for the structure, devices, voice, charts and update notes. Its section 4 maps every required item (R8–R12, R16) to its home.
-- **Update notes** sit at the top of the page, newest first, each with its scorecard.
+1. **Front matter** (generated):
+   - the header (schema, updated, status, verified price, 52-week range, type, stage, flags);
+   - the Verdict (one sentence, two verbs, the one-row table `PW EV | PW return/yr | Compounding/yr | R/R | Entry | Trim | Avoid | multiple | Yield | BAIT | Moat | Next`, **Breaks if**);
+   - The Call (~200 words);
+   - What I'd Have To Be Wrong About (exactly three kill criteria with pre-committed, model-computed consequences);
+   - the latest update with its scorecard, and links to earlier updates.
+2. **Deep Dive: [title]**, chapters in order:
+   1. an untitled opening (a dated moment, the stock against the business, the question);
+   2. Business Overview;
+   3. the key debate (management's narrative, then the holes, then an illustrative unit-economics table, then rings of profit);
+   4. the second debate;
+   5. Management, Capital Allocation and Incentives;
+   6. Valuation and Model Assumptions;
+   7. Final Words;
+   8. Appendix: The Numbers;
+   9. Sources.
 
-**The decision card** (`[TICKER].md`, generated; never hand-edited). It carries:
-- the header (schema, updated, status, verified price, 52-week range, type, stage, flags, deep-dive link);
-- the Verdict (one sentence, two verbs, the one-row table `PW EV | PW return/yr | Compounding/yr | R/R | Entry | Trim | Avoid | multiple | Yield | BAIT | Moat | Next`, **Breaks if**);
-- The Call (~200 words);
-- What I'd Have To Be Wrong About (exactly three kill criteria with pre-committed, model-computed consequences);
-- the latest scorecard, the scenarios table and a sources pointer.
-
-Tests resolved in a window are scored in the update note and the changelog, then replaced.
+The skill's `references/deep-dive-style.md` is authoritative for structure, devices, voice, charts and update notes. Its section 4 maps every required item (R8–R12, R16) to its home. Tests resolved in a window are scored in the update and the changelog, then replaced. An optional interactive page (`--html`) may be published for sharing; the Markdown file remains the report.
 
 **Legacy pages** (v3–v6) keep their eight-section layout until their next material event (§1).
 
@@ -204,10 +200,9 @@ Trigger: *"ingest [TICKER]"* / *"add [TICKER]"* / *"build a page for [TICKER]"*,
 
    Classify the asset type from `asset-types.md`, adding a row if the type is new.
 4. **Write the report** per the skill: grade before valuing, run the premortem, build `model.json` and run `model.py`, then write `report.md` + `data.json` in the deep-dive style (§4), applying R7–R12 and R16.
-5. **Build and check**: `build_report.py report --check`, then build. This writes the HTML and regenerates `[TICKER].md`. Look at the page once and fix what you see. Write the `changelog.md` initial entry. Delete any legacy `overview.md` / `thesis.md` / `financials.md`.
-6. **Publish** the HTML as an Artifact and store the URL in `data.json` `meta.artifact_url`. Rebuild so the card links it.
-7. **Run the closing audit** (R7).
-8. **Update the cross-file layer** (§8), including the `index.md` Summary cell with its verb and fresh upside/downside pair, and the `Updated` date in the same edit. Then **commit and push** (§9).
+5. **Build and check**: `build_report.py report --check`, then build. This writes `[TICKER].md` and the chart SVGs. Read the result once and fix what you see. Write the `changelog.md` initial entry. Delete any legacy `overview.md` / `thesis.md` / `financials.md`.
+6. **Run the closing audit** (R7).
+7. **Update the cross-file layer** (§8), including the `index.md` Summary cell with its verb and fresh upside/downside pair, and the `Updated` date in the same edit. Then **commit and push** (§9).
 
 ## 7. Workflow B — Incremental Update
 
@@ -220,9 +215,9 @@ Trigger: *"weekly update"* / *"update [TICKER]"*.
    - write the **update note** (`report/updates/YYYY-MM-DD.md`, Mode B or C per the skill) and record its scorecard in `data.json`;
    - refresh the data that moved: new quarter rows in the tables, the Appendix five-year record when a fiscal year closes, `model.json` spot (and inputs only where evidence moved them) → `model.py`, plus `meta`, `verdict`, `call` and any replaced tests;
    - edit body prose the news made false, in place;
-   - rebuild with `--check`, look once, republish to the same Artifact URL.
+   - rebuild with `--check` and read the result once.
 
-   **Material event on a pre-v7 page** → migrate: do the update as a v7 full deep dive (Workflow A steps 3–7), with the event as its first update note.
+   **Material event on a pre-v7 page** → migrate: do the update as a v7 full deep dive (Workflow A steps 3–6), with the event as its first update note.
 
    Do not touch chapters the news did not touch. The key-debate and moat chapters rarely move on a single print.
 5. **Quiet week** → write only a `[YYYY-MM-DD] — No Material Events` changelog entry with a price / short-interest / consensus snapshot. **Do not rebuild the report or modify `[TICKER].md`, and do not bump any dates.**
@@ -261,8 +256,6 @@ The one place a reader can scan the whole book and see, per ticker, *what to do 
 - Update: `WEEKLY YYYY-MM-DD: [N] events / [M] quiet — <headline>`
 - Pause/resume: `PAUSE [TICKER]: <reason>` / `RESUME [TICKER]: catch-up over [N] days — <headline>`
 - Schema: `SCHEMA: vX.Y — <what changed and why>`
-
-For v7 tickers, republish the deep dive to its Artifact URL before committing, so the card's link and the published page match the commit.
 
 The commit body is where rationale, migration history and cross-ticker context live.
 

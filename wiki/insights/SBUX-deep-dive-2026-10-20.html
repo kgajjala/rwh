@@ -280,7 +280,7 @@ const MIX=[{"p": "FY2023", "v": [5496, 1231, 968]}, {"p": "FY2024", "v": [5355, 
   const MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
   const fmtD=d=>{const p=d.split('-');return (p.length===3?(+p[2])+' ':'')+MON[+p[1]-1]+' '+p[0];};
   const charts=[
-    {id:'b',data:TRB,order:['SBUX','BROS','CMG','SPY'],names:{SBUX:'Starbucks',BROS:'Dutch Bros',CMG:'Chipotle',SPY:'S&P 500'},cols:{SBUX:'--s1',BROS:'--s2',CMG:'--s3',SPY:'--s4'},ticks:[40,60,80,100,120,140,160,180],min:40,max:185,step:4},
+    {id:'b',data:TRB,order:['SBUX','BROS','CMG','SPY'],names:{SBUX:'Starbucks',BROS:'Dutch Bros',CMG:'Chipotle',SPY:'S&P 500'},cols:{SBUX:'--s1',BROS:'--s2',CMG:'--s3',SPY:'--s4'},ticks:[0,50,100,150,200,250,300],min:0,max:300,step:4},
     {id:'a',data:TRA,order:['CMG','SPY','SBUX'],names:{CMG:'Chipotle',SPY:'S&P 500',SBUX:'Starbucks'},cols:{CMG:'--s1',SPY:'--s2',SBUX:'--s3'},ticks:[0,200,400,600,800,1000],min:0,max:1050,step:6,yearTicks:true}
   ];
   charts.forEach(c=>{

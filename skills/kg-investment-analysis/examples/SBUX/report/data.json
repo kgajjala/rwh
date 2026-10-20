@@ -25,8 +25,8 @@
    "dark": "#7fd1a8"
   },
   "html_name": "SBUX-deep-dive.html",
-  "card_path": "../SBUX.md",
-  "artifact_url": "https://claude.ai/artifact/1NjszwpatKsnc7JBwZpXuU"
+  "artifact_url": "https://claude.ai/artifact/1NjszwpatKsnc7JBwZpXuU",
+  "report_path": "../SBUX.md"
  },
  "verdict": {
   "sentence": "The traffic turnaround is real, but at 38× earnings the price already assumes near-Bull margins; the probability-weighted case pays [[pw_return]] a year against the 13% hurdle.",

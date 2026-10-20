@@ -1,4 +1,4 @@
-# Moat, Management and Edge: §3, §4, §6, §7 and the tests
+# Moat, Management and Edge: the debates, Management chapter, risks and the tests
 
 Contents:
 1. Moat: 7 Powers, trend, profit pool, customer
@@ -33,7 +33,7 @@ Common mislabels:
 - A loyalty program without a price premium is not branding.
 - First-mover status without embedded data is not a switching cost.
 
-**The §3 moat table has four rows:**
+**The moat table has four rows:**
 
 | Row | What it says |
 |---|---|
@@ -106,7 +106,7 @@ This applies to any company whose Power is Scale. The Trend row states whether *
 
 ## 7. Risks: the materiality filter
 
-§6 covers only the risks that matter to the *decision*. Drop the boilerplate: "revenue could fluctuate", generic cyber risk, generic key-person risk.
+The risks table covers only the risks that matter to the *decision*. Drop the boilerplate: "revenue could fluctuate", generic cyber risk, generic key-person risk.
 
 Keep a risk only if it passes at least one test:
 1. it is materially worse here than at peers;
@@ -127,11 +127,11 @@ Source: Mauboussin, *Who Is on the Other Side?* (2019). BAIT names *why* a price
 | **I**nformational | What do primary sources show that summaries don't? | Transcript detail, footnotes, appearances, scuttlebutt |
 | **T**echnical | Is non-fundamental flow moving the price? | Index changes, forced selling, spin-off orphans, buyback mechanics |
 
-Rate each lens Strong, Moderate or Weak. The Verdict cell shows the overlap: `None`, `Single (B)`, `Double (B+A)`, `Triple (B+A+I)`, `Quad`. Justify a lens in §7 only where the rating isn't obvious.
+Rate each lens Strong, Moderate or Weak. The Verdict cell shows the overlap: `None`, `Single (B)`, `Double (B+A)`, `Triple (B+A+I)`, `Quad`. Justify a lens (in the Appendix or an update note) only where the rating isn't obvious.
 
 ## 9. Kill criteria and the premortem
 
-- **Premortem** (Klein). Before writing the Bear, assume it is five years from now and the stock has returned nothing. Write the three most likely reasons. These feed the Bear's mechanism, §6, and the tests.
+- **Premortem** (Klein). Before writing the Bear, assume it is five years from now and the stock has returned nothing. Write the three most likely reasons. These feed the Bear's mechanism, the risks table and the tests.
 - **Kill criteria** (Duke, *Quit*). There are exactly three tests. Each one is a *state* (a measurable threshold), a *source*, a *date*, and a **pre-committed consequence**:
 
   > **[Claim being tested].** Test: [metric and threshold], in [source], by [date]. **If Fail →** [scenario-probability shift or target change, and the verb it produces].
@@ -139,11 +139,11 @@ Rate each lens Strong, Moderate or Weak. The Verdict cell shows the overlap: `No
   - Compute the consequence when you write the test. For example: "move 10 points from Base to Bear → PW return 12.2% → Watch."
   - In Mode B, apply it exactly as written. Override it only with evidence that did not exist when the test was written, and name that evidence.
   - Why: deciding the consequence while you are not yet attached removes the "one sentence explaining why not" escape hatch, which is where consistency bias and sunk cost do their damage.
-- **A test is not a hazard.** A test is a disconfirming observation with a date; a hazard belongs in §6.
+- **A test is not a hazard.** A test is a disconfirming observation with a date; a hazard belongs in the risks table.
 
 ## 10. Bias check before a verb change
 
-Run this whenever the new verb differs from a previous report's. Answer each question in a clause, and print the result as one line in §7.
+Run this whenever the new verb differs from a previous report's. Answer each question in a clause, and print the result as one line in the update note (or the Valuation chapter for a full report).
 
 1. **Incentive:** does any input pushing the change come from someone paid to hold that view (guidance, sell-side, an activist)?
 2. **Consistency:** would I write this verb if there were no previous report? Conversely, am I defending the old verb only because I wrote it?

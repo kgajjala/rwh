@@ -1,0 +1,160 @@
+{
+ "meta": {
+  "ticker": "TICK",
+  "company": "Company, Inc.",
+  "title": "A Name for the Piece",
+  "dek": "One or two sentences that pose the question the piece answers.",
+  "date": "YYYY-MM-DD",
+  "date_long": "Month D, YYYY",
+  "status": "Active",
+  "price": 0.0,
+  "price_note": "Mon D, YYYY close",
+  "price_url": "https://finance.yahoo.com/quote/TICK/",
+  "range52": [
+   0.0,
+   0.0
+  ],
+  "type": "asset type, one line",
+  "stage": "mature compounder",
+  "cyclical": "No",
+  "competence": "Core",
+  "compounder": false,
+  "terminal_label": "FY2031",
+  "accent": {
+   "light": "#1a4f9e",
+   "dark": "#86b6ef"
+  },
+  "html_name": "TICK-deep-dive.html",
+  "card_path": "../TICK.md",
+  "artifact_url": ""
+ },
+ "verdict": {
+  "sentence": "One sentence: what this is and what to do; return [[pw_return]] against the 13% hurdle.",
+  "non_holder": {
+   "emoji": "🟡",
+   "verb": "Watch (entry ≤[[entry]])"
+  },
+  "holder": {
+   "emoji": "🟡",
+   "verb": "Hold"
+  },
+  "breaks_if": "the single most load-bearing fact.",
+  "multiple_label": "FY26E P/E",
+  "multiple": "—",
+  "bait": "Single (A)",
+  "moat": "Wide, stable",
+  "next": "date (event)",
+  "compounding": "—",
+  "price_implies": "~[[Priced-in.cagr]] EPS growth"
+ },
+ "call": "~200 words: what the price assumes ([[implied_bear]] Bear odds; [[Priced-in.eps]] EPS), what it has wrong, the one number that proves it.",
+ "tests": [
+  {
+   "claim": "That …",
+   "test": "metric and threshold, in source, by date.",
+   "shift": {
+    "from": "Bull",
+    "to": "Bear",
+    "points": 0.1
+   },
+   "if_fail": "move 10 points from Bull to Bear (PW EV [[test1.pw_ev]], [[test1.pw_return]]/yr) → **[[test1.verb]]** (entry [[test1.entry]])."
+  },
+  {
+   "claim": "That …",
+   "test": "…",
+   "shift": {
+    "case": "Base",
+    "eps": 0.0
+   },
+   "if_fail": "Base terminal EPS cut to … (PW EV [[test2.pw_ev]], [[test2.pw_return]]/yr) → **[[test2.verb]]**."
+  },
+  {
+   "claim": "That …",
+   "test": "…",
+   "shift": {
+    "from": "Base",
+    "to": "Bear",
+    "points": 0.1
+   },
+   "if_fail": "… (PW EV [[test3.pw_ev]], [[test3.pw_return]]/yr) → **[[test3.verb]]**."
+  }
+ ],
+ "updates": [],
+ "tables": {
+  "segments": {
+   "columns": [
+    "$ Million",
+    "FY-2",
+    "FY-1",
+    "FY"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "**Segment A**",
+      "",
+      "",
+      ""
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Operating income",
+      "",
+      "",
+      ""
+     ],
+     "cls": "sub"
+    }
+   ],
+   "note": "Source: [10-K](URL). Built with Claude."
+  }
+ },
+ "charts": {
+  "stock_record": {
+   "type": "line",
+   "file": "series/stock_record.json",
+   "baseline": 100,
+   "aria": "Total return index",
+   "note": "Total return including dividends, base = 100. Source: Yahoo Finance adjusted closes. Built with Claude."
+  },
+  "profit_mix": {
+   "type": "bar100",
+   "keys": [
+    "A",
+    "B",
+    "C"
+   ],
+   "rows": [
+    {
+     "label": "FY",
+     "values": [
+      1,
+      1,
+      1
+     ]
+    }
+   ],
+   "unit": "$M",
+   "valueLabel": "Operating income",
+   "prefix": "$",
+   "suffix": "M",
+   "aria": "Profit mix",
+   "note": "Source: company filings. Built with Claude."
+  }
+ },
+ "model_build": {
+  "note": "Base case. Highlighted cells are inputs; margins move linearly to the terminal input. Source: author's model. Built with Claude."
+ },
+ "scenarios": {
+  "note": "Annual return = price change to the terminal value plus today's [[yield]] dividend yield. Priced-in and Hurdle rows are solved by the model. Built with Claude."
+ },
+ "sources": [
+  {
+   "label": "10-K",
+   "url": "https://www.sec.gov/"
+  }
+ ],
+ "vars": {}
+}

@@ -1,0 +1,1295 @@
+{
+ "meta": {
+  "ticker": "SBUX",
+  "company": "Starbucks Corporation",
+  "title": "Starbucks, Priced for the Comeback",
+  "dek": "Brian Niccol has brought the customers back. The stock got paid for that on the day he was hired. What does $98 assume about the part that hasn’t come back yet, the margin?",
+  "date": "2026-10-20",
+  "date_long": "October 20, 2026",
+  "status": "Active",
+  "price": 97.87,
+  "price_note": "Oct 19, 2026 close",
+  "price_url": "https://finance.yahoo.com/quote/SBUX/",
+  "range52": [
+   77.99,
+   110.51
+  ],
+  "type": "Global specialty-coffee retail, shifting from company-operated toward licensed",
+  "stage": "Turnaround",
+  "cyclical": "No",
+  "competence": "Core",
+  "compounder": false,
+  "terminal_label": "FY2031",
+  "accent": {
+   "light": "#1d6a4c",
+   "dark": "#7fd1a8"
+  },
+  "html_name": "SBUX-deep-dive.html",
+  "card_path": "../SBUX.md",
+  "artifact_url": "https://claude.ai/artifact/1NjszwpatKsnc7JBwZpXuU"
+ },
+ "verdict": {
+  "sentence": "The traffic turnaround is real, but at 38× earnings the price already assumes near-Bull margins; the probability-weighted case pays [[pw_return]] a year against the 13% hurdle.",
+  "non_holder": {
+   "emoji": "🟡",
+   "verb": "Watch (entry ≤[[entry]])"
+  },
+  "holder": {
+   "emoji": "🟡",
+   "verb": "Hold"
+  },
+  "breaks_if": "Q4 non-GAAP operating margin falls back below ~12% once the one-time tariff refund is gone, putting the FY2028 target of 13.5–15% out of reach.",
+  "multiple_label": "FY26E non-GAAP P/E",
+  "multiple": "≈38×",
+  "bait": "Single (A)",
+  "moat": "Wide, stable",
+  "next": "Oct 29 (Q4)",
+  "compounding": "14.3%",
+  "price_implies": "~[[Priced-in.cagr]] EPS growth"
+ },
+ "call": "Niccol has done the hard part: US transactions have grown three quarters running (+3.0%, +4.3%, +4.2%), with ticket rising alongside traffic. The price banked it on August 13, 2024 and then some. At $98 no Bear probability earns even an ordinary 9% a year; the price needs FY2031 non-GAAP EPS of about [[Priced-in.eps]], close to our Bull. We give the Bear 25% because the margin walk is weaker than the headline: Q3's 14.4% carried ~80 bps of one-time tariff refunds, North America is still ~9 points below FY2023, and two-year traffic is only +0.3%. Five years of dividends and buybacks exceeded net income, so nothing is retained to fund the 8,000 uplifts, and the FT's report of a Chipotle bid exploration (denied) is a capital-allocation flag. Good business; the PW case returns [[pw_return]] and clears 13% only at [[entry]].",
+ "tests": [
+  {
+   "claim": "That the margin walk holds without the refund.",
+   "test": "in Q4 FY2026 (Oct 29), non-GAAP operating margin ≥13% for the quarter, the >11% full-year guide delivered, and an FY2027 guide that keeps 13.5–15% in FY2028 in reach.",
+   "if_fail": "move 10 points from Bull to Bear (PW EV [[test1.pw_ev]], [[test1.pw_return]]/yr) → stays **[[test1.verb]]**, entry falls to [[test1.entry]].",
+   "shift": {
+    "from": "Bull",
+    "to": "Bear",
+    "points": 0.1
+   }
+  },
+  {
+   "claim": "That traffic survives the toughest compare.",
+   "test": "Q4 US comp at or above the 6.5% guide with transactions positive, then Q1 FY2027 (late January) positive against Q1's +3%.",
+   "if_fail": "Base FY2031 EPS cut to ≈$4.20, margin-only growth (PW EV [[test2.pw_ev]], [[test2.pw_return]]/yr) → stays **[[test2.verb]]**, entry [[test2.entry]].",
+   "shift": {
+    "case": "Base",
+    "eps": 4.2
+   }
+  },
+  {
+   "claim": "That owner earnings cover the dividend.",
+   "test": "in the FY2026 10-K (mid-November), owner earnings ≥ the ~$2.8B dividend, plus a disclosed uplift sales lift against control stores by the Q1 FY2027 print.",
+   "if_fail": "move 10 points from Base to Bear (PW EV [[test3.pw_ev]], [[test3.pw_return]]/yr) → **[[test3.verb]]**; the Outsider grade drops to Anti-Outsider for a dividend funded by debt.",
+   "shift": {
+    "from": "Base",
+    "to": "Bear",
+    "points": 0.1
+   }
+  }
+ ],
+ "updates": [
+  {
+   "date": "2026-10-20",
+   "title": "The Chipotle episode, and a 3.7% rise into the print",
+   "file": "updates/2026-10-20.md",
+   "scorecard": [
+    {
+     "test": "Margin walk holds without the refund",
+     "result": "pending",
+     "evidence": "resolves Oct 29 (Q4 FY2026)"
+    },
+    {
+     "test": "Traffic survives the toughest compare",
+     "result": "pending",
+     "evidence": "resolves Oct 29, then late January"
+    },
+    {
+     "test": "Owner earnings cover the dividend",
+     "result": "pending",
+     "evidence": "FY2026 10-K, mid-November"
+    }
+   ]
+  }
+ ],
+ "tables": {
+  "segments": {
+   "columns": [
+    "$ Million",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "9M FY2025",
+    "9M FY2026"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "**North America**",
+      "26,570",
+      "27,010",
+      "27,373",
+      "20,472",
+      "21,569"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Operating income",
+      "5,496",
+      "5,355",
+      "3,157",
+      "2,848",
+      "2,556"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Operating margin",
+      "20.7%",
+      "19.8%",
+      "11.5%",
+      "13.9%",
+      "11.8%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**International**",
+      "7,488",
+      "7,339",
+      "7,820",
+      "5,749",
+      "5,439"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Operating income",
+      "1,231",
+      "1,046",
+      "950",
+      "727",
+      "934"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Operating margin",
+      "16.4%",
+      "14.2%",
+      "12.1%",
+      "12.6%",
+      "17.2%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Channel Development**",
+      "1,894",
+      "1,770",
+      "1,872",
+      "1,329",
+      "1,678"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Operating income",
+      "968",
+      "926",
+      "885",
+      "620",
+      "752"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Operating margin",
+      "51.1%",
+      "52.3%",
+      "47.3%",
+      "46.6%",
+      "44.8%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Total net revenue",
+      "35,976",
+      "36,176",
+      "37,184",
+      "27,615",
+      "28,769"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "Consolidated operating income (GAAP)",
+      "5,871",
+      "5,409",
+      "2,937",
+      "2,658",
+      "2,699"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "Operating margin (GAAP)",
+      "16.3%",
+      "15.0%",
+      "7.9%",
+      "9.6%",
+      "9.4%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Non-GAAP EPS",
+      "$3.54",
+      "$3.31",
+      "$2.13",
+      "—",
+      "$2.55–2.65 FY guide"
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "GAAP segment operating income; FY2025 and 9M FY2026 include restructuring. Corporate and other not shown. Source: [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/sbux-20250928.htm), [Q3 FY2026 release](https://www.sec.gov/Archives/edgar/data/829224/000082922426000129/sbux-06282026xearningsrele.htm). Built with Claude."
+  },
+  "drivers": {
+   "columns": [
+    "US, year over year",
+    "Q2 FY2025",
+    "Q3 FY2025",
+    "Q1 FY2026",
+    "Q2 FY2026",
+    "Q3 FY2026"
+   ],
+   "rows": [
+    [
+     "Comparable store sales",
+     {
+      "v": "−2%",
+      "cls": "neg"
+     },
+     {
+      "v": "−2.2%",
+      "cls": "neg"
+     },
+     "+4%",
+     "+7.1%",
+     "**+7.9%**"
+    ],
+    [
+     "Transactions",
+     {
+      "v": "−4%",
+      "cls": "neg"
+     },
+     {
+      "v": "−3.7%",
+      "cls": "neg"
+     },
+     "+3.0%",
+     "+4.3%",
+     "**+4.2%**"
+    ],
+    [
+     "Average ticket",
+     "+3%",
+     "+1.6%",
+     "+1%",
+     "+2.7%",
+     "+3.6%"
+    ],
+    {
+     "cells": [
+      "Two-year transactions",
+      "—",
+      "—",
+      "n/a",
+      "+0.1%",
+      "**+0.3%**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "North America operating margin (GAAP)",
+     "—",
+     "13.3%",
+     "—",
+     "—",
+     "13.6%"
+    ]
+   ],
+   "note": "US comparable store sales, transactions and ticket. Two-year transactions compound the current quarter with the same quarter a year earlier. Source: Starbucks quarterly releases and the [Q3 FY2026 call](https://s203.q4cdn.com/326826266/files/doc_financials/2026/q3/Q3-FY26-SBUX-Transcript.pdf). Built with Claude."
+  },
+  "store": {
+   "columns": [
+    "Illustrative US company-operated store",
+    "Per store, per year",
+    "Sales needed to pay for it",
+    "As a comp"
+   ],
+   "rows": [
+    [
+     "Revenue (Q3 FY2026 run-rate)",
+     "$1.63M",
+     "—",
+     "—"
+    ],
+    [
+     "Segment-level operating profit at 13.6%",
+     "$222K",
+     "—",
+     "—"
+    ],
+    [
+     "Green Apron labor reinvestment (~$500M ÷ ~10,000 stores)",
+     "$50K",
+     "$111K",
+     "+6.8%"
+    ],
+    [
+     "Uplift: $150K once, earning 15% a year pre-tax",
+     "$22.5K",
+     "$50K",
+     "+3.1%"
+    ],
+    {
+     "cells": [
+      "**Both together**",
+      "$72.5K",
+      "$161K",
+      "**+9.9%**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Then, to lift margin from 13.6% to 16% (Base case), with costs per store flat",
+     "—",
+     "$135K more",
+     "+8.3% more"
+    ],
+    {
+     "cells": [
+      "Actual: US comp, Q3 FY2026 (about 1 point from price)",
+      "—",
+      "—",
+      "+7.9%"
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "Source: company filings, author’s estimates. Revenue per US store from Q3 FY2026; the labor figure spreads the $500M+ Green Apron investment across ~10,000 company-operated US stores; the 45% flow-through on extra sales and the 15% target return are estimates. Built with Claude."
+  },
+  "rings": {
+   "columns": [
+    "Ring",
+    "Share of segment profit",
+    "Operating margin",
+    "Main threat",
+    "~Exposure"
+   ],
+   "rows": [
+    [
+     "**1 · North America**",
+     "60%",
+     "11.8%",
+     "Labor costs, traffic durability, Dutch Bros, fewer new stores",
+     "High; this is the turnaround"
+    ],
+    [
+     "**2 · International (≈90% licensed)**",
+     "22%",
+     "17.2%",
+     "China competition (Luckin, Cotti) now borne mainly by the JV; partner execution",
+     "Moderate; capital-light royalties"
+    ],
+    [
+     "**3 · Channel Development**",
+     "18%",
+     "44.8%",
+     "Nestlé execution, coffee prices",
+     "Low; a royalty on the brand"
+    ]
+   ],
+   "note": "Shares of GAAP segment operating income, first nine months of FY2026. Source: Q3 FY2026 release; exposure assessments are the author’s. Built with Claude."
+  },
+  "chipotle": {
+   "columns": [
+    "Chipotle under Niccol",
+    "FY2017 (before)",
+    "FY2023",
+    "FY2024",
+    "Change, 2017→2023"
+   ],
+   "rows": [
+    [
+     "Revenue ($B)",
+     "4.48",
+     "9.87",
+     "11.31",
+     "2.2×"
+    ],
+    [
+     "Operating income ($B)",
+     "0.27",
+     "1.56",
+     "1.92",
+     "5.8×"
+    ],
+    [
+     "Operating margin",
+     "6.0%",
+     "15.8%",
+     "17.0%",
+     "+9.8 pts"
+    ],
+    [
+     "Net income ($B)",
+     "0.18",
+     "1.23",
+     "1.53",
+     "6.8×"
+    ],
+    {
+     "cells": [
+      "Total return, Mar 2018 → Aug 2024",
+      "",
+      "",
+      "",
+      "**+768% (40%/yr)**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Starbucks over the same period",
+     "",
+     "",
+     "",
+     "+87% (10%/yr)"
+    ],
+    [
+     "S&P 500 over the same period",
+     "",
+     "",
+     "",
+     "+137% (14%/yr)"
+    ],
+    [
+     "Chipotle since Niccol left (Aug 12, 2024 → now)",
+     "",
+     "",
+     "",
+     {
+      "v": "−47%",
+      "cls": "neg"
+     }
+    ]
+   ],
+   "note": "Source: Chipotle 10-Ks via [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001058090.json); stock returns from Yahoo Finance. Built with Claude."
+  },
+  "capital": {
+   "columns": [
+    "$ Billion",
+    "Revenue",
+    "YoY",
+    "Non-GAAP EPS",
+    "OCF",
+    "Capex",
+    "FCF",
+    "Dividends",
+    "% FCF",
+    "Buybacks",
+    "% FCF",
+    "Acquisitions",
+    "Total debt",
+    "Dil. shares"
+   ],
+   "rows": [
+    [
+     "FY2018",
+     "24.7",
+     "—",
+     "$2.42",
+     "11.9",
+     "2.0",
+     "10.0",
+     "1.7",
+     "17%",
+     "7.1",
+     "72%",
+     "1.3",
+     "9.1",
+     "1.39"
+    ],
+    [
+     "FY2019",
+     "26.5",
+     "7.2%",
+     "$2.83",
+     "5.0",
+     "1.8",
+     "3.2",
+     "1.8",
+     "54%",
+     "10.2",
+     "315%",
+     "0.0",
+     "11.2",
+     "1.23"
+    ],
+    [
+     "FY2020",
+     "23.5",
+     "-11.3%",
+     "$1.17",
+     "1.6",
+     "1.5",
+     "0.1",
+     "1.9",
+     "n/m",
+     "1.7",
+     "n/m",
+     "0.0",
+     "15.4",
+     "1.18"
+    ],
+    [
+     "FY2021",
+     "29.1",
+     "23.6%",
+     "$3.24",
+     "6.0",
+     "1.5",
+     "4.5",
+     "2.1",
+     "47%",
+     "0.0",
+     "0%",
+     "0.0",
+     "14.6",
+     "1.19"
+    ],
+    [
+     "FY2022",
+     "32.2",
+     "11.0%",
+     "$2.96",
+     "4.4",
+     "1.8",
+     "2.6",
+     "2.3",
+     "88%",
+     "4.0",
+     "157%",
+     "0.0",
+     "14.9",
+     "1.16"
+    ],
+    [
+     "FY2023",
+     "36.0",
+     "11.6%",
+     "$3.54",
+     "6.0",
+     "2.3",
+     "3.7",
+     "2.4",
+     "66%",
+     "1.0",
+     "27%",
+     "0.0",
+     "14.7",
+     "1.15"
+    ],
+    [
+     "FY2024",
+     "36.2",
+     "0.6%",
+     "$3.31",
+     "6.1",
+     "2.8",
+     "3.3",
+     "2.6",
+     "78%",
+     "1.3",
+     "38%",
+     "0.0",
+     "15.6",
+     "1.14"
+    ],
+    [
+     "FY2025",
+     "37.2",
+     "2.8%",
+     "$2.13",
+     "4.8",
+     "2.3",
+     "2.4",
+     "2.8",
+     "114%",
+     "0.0",
+     "0%",
+     "0.2",
+     "16.1",
+     "1.14"
+    ],
+    [
+     "9M FY2026",
+     "28.8",
+     "+4.2%",
+     "—",
+     "3.6",
+     "0.9",
+     "2.7",
+     "2.1",
+     "78%",
+     "0.0",
+     "0%",
+     "—",
+     "~13.3",
+     "1.14"
+    ],
+    {
+     "cells": [
+      "Cum. FY2018–25",
+      "245.4",
+      "",
+      "",
+      "45.8",
+      "16.0",
+      "29.8",
+      "17.6",
+      "59%",
+      "25.3",
+      "85%",
+      "1.5",
+      "+$7.0B",
+      "−18%"
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "FCF = operating cash flow − capital expenditure. FY2018 operating cash flow includes Nestlé’s ~$7.1B upfront payment for the Global Coffee Alliance. Non-GAAP EPS from company releases. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000829224.json), Q3 FY2026 10-Q. Built with Claude."
+  },
+  "incentives": {
+   "columns": [
+    "Component",
+    "Size / weight",
+    "What it pays for",
+    "~Status"
+   ],
+   "rows": [
+    [
+     "**Sign-on cash**",
+     "—",
+     "$10M, paid in FY2025",
+     "Paid"
+    ],
+    [
+     "**Replacement grant: performance units**",
+     "$48M (60% of $80M)",
+     "3-year TSR vs. the S&P 500 from Sep 9, 2024; 40th percentile pays 50%, 65th pays 100%, 75th pays 200%",
+     "SBUX +12% vs. index +44%; 33rd percentile at FY2025 end, tracking 0%"
+    ],
+    [
+     "**Replacement grant: time-based units**",
+     "$32M (40% of $80M)",
+     "Vest over three years",
+     "Vesting"
+    ],
+    [
+     "**Annual bonus**",
+     "75% / 25%",
+     "Adjusted revenue and adjusted operating income / individual goals",
+     "FY2025 paid 54.8% of target"
+    ],
+    [
+     "**Annual performance units (60% of yearly equity)**",
+     "50% / 50%",
+     "3-year adjusted EPS / comparable store sales, ±25% for relative TSR",
+     "—"
+    ],
+    [
+     "**“Back to Starbucks” units**",
+     "$6M target",
+     "Strategy milestones; nothing vests without meaningful operating-cost cuts",
+     "—"
+    ],
+    [
+     "**Return on invested capital**",
+     "0%",
+     "Not measured anywhere in the plan",
+     "—"
+    ]
+   ],
+   "note": "Source: Starbucks 2026 proxy statement. TSR since September 9, 2024 computed from Yahoo Finance adjusted closes through October 19, 2026. Built with Claude."
+  },
+  "five_year": {
+   "columns": [
+    "$B, except per share",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025"
+   ],
+   "rows": [
+    [
+     "Revenue",
+     "29.1",
+     "32.3",
+     "36.0",
+     "36.2",
+     "**37.2**"
+    ],
+    [
+     "Operating margin (GAAP)",
+     "16.8%",
+     "14.3%",
+     "16.3%",
+     "15.0%",
+     "**7.9%**"
+    ],
+    [
+     "Non-GAAP EPS",
+     "$3.24",
+     "$2.96",
+     "$3.54",
+     "$3.31",
+     "**$2.13**"
+    ],
+    [
+     "GAAP EPS",
+     "$3.54",
+     "$2.83",
+     "$3.58",
+     "$3.31",
+     "$1.63"
+    ],
+    [
+     "Operating cash flow",
+     "6.0",
+     "4.4",
+     "6.0",
+     "6.1",
+     "4.8"
+    ],
+    [
+     "Capex",
+     "1.5",
+     "1.8",
+     "2.3",
+     "2.8",
+     "2.3"
+    ],
+    [
+     "Maintenance capex (est.)",
+     "0.3",
+     "1.2",
+     "1.5",
+     "2.7",
+     "2.1"
+    ],
+    [
+     "**Owner earnings**",
+     "5.4",
+     "3.0",
+     "4.2",
+     "3.1",
+     "**2.3**"
+    ],
+    [
+     "Owner earnings per share",
+     "$4.55",
+     "$2.57",
+     "$3.63",
+     "$2.68",
+     "**$2.05**"
+    ],
+    [
+     "Owner-earnings conversion (÷ non-GAAP NI)",
+     "140%",
+     "87%",
+     "102%",
+     "81%",
+     "96%"
+    ],
+    [
+     "Dividends",
+     "2.1",
+     "2.3",
+     "2.4",
+     "2.6",
+     "2.8"
+    ],
+    [
+     "Dividends ÷ owner earnings",
+     "39%",
+     "76%",
+     "58%",
+     "85%",
+     "**118%**"
+    ],
+    [
+     "Buybacks",
+     "0",
+     "4.0",
+     "1.0",
+     "1.3",
+     "0"
+    ],
+    [
+     "Net debt incl. leases",
+     "19.5",
+     "20.5",
+     "20.7",
+     "21.9",
+     "21.9"
+    ],
+    [
+     "Invested capital",
+     "11.0",
+     "11.8",
+     "12.1",
+     "14.4",
+     "13.5"
+    ],
+    [
+     "**ROIC**",
+     "34.6%",
+     "30.3%",
+     "37.0%",
+     "28.4%",
+     "**16.1%**"
+    ],
+    [
+     "**3-yr incremental ROIC**",
+     "—",
+     "—",
+     "—",
+     "—",
+     "**Negative** (NOPAT −$1.4B on +$1.7B of capital)"
+    ],
+    [
+     "SBC % of revenue",
+     "1.1%",
+     "0.8%",
+     "0.8%",
+     "0.9%",
+     "0.9%"
+    ],
+    [
+     "FCF conversion (FCF ÷ NI)",
+     "108%",
+     "78%",
+     "89%",
+     "88%",
+     "132%"
+    ],
+    [
+     "Net debt ÷ EBITDA (ex-leases)",
+     "—",
+     "—",
+     "—",
+     "—",
+     "2.7×"
+    ],
+    [
+     "Interest coverage",
+     "10.4×",
+     "9.6×",
+     "10.7×",
+     "9.6×",
+     "**5.4×**"
+    ],
+    [
+     "SBC-adjusted accruals ÷ assets",
+     "−5.0%",
+     "−3.0%",
+     "−5.5%",
+     "−6.6%",
+     "−8.0%"
+    ]
+   ],
+   "note": "Fiscal years end late September. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000829224.json); non-GAAP EPS from releases. Capital rows are [Derived]: invested capital = equity + debt + operating leases − cash; owner earnings = CFO − SBC − maintenance capex (capex − 0.216 × Δ revenue). Built with Claude."
+  },
+  "levers": {
+   "columns": [
+    "Lever",
+    "Contribution now",
+    "Runway",
+    "~Evidence",
+    "Management intent",
+    "Stage"
+   ],
+   "rows": [
+    [
+     "Market growth",
+     "~1–2 pts",
+     "Indefinite",
+     "Away-from-home coffee grows low single digits",
+     "—",
+     "Proven"
+    ],
+    [
+     "Share gain (traffic)",
+     "**+4.2%** U.S. transactions",
+     "2–3 yrs",
+     "Three quarters positive after eight negative",
+     "Green Apron service, throughput",
+     "Scaling"
+    ],
+    [
+     "Price and mix",
+     "**+3.6%** ticket",
+     "Ongoing",
+     "Ticket and traffic up together, the first time in years",
+     "3%+ comps (FY2028)",
+     "Proven (returning)"
+    ],
+    [
+     "Attach / new products",
+     "Food attach, modifiers",
+     "3–5 yrs",
+     "Protein, Refreshers afternoon daypart",
+     "Menu innovation",
+     "Scaling"
+    ],
+    [
+     "New geographies",
+     "~440 net new stores in FY2026",
+     "10+ yrs",
+     "China JV 8,000 → 15–20K stores (royalty + 40% equity); North America openings cut",
+     ">2,000 net new by 2028",
+     "Option (China)"
+    ],
+    [
+     "M&A / portfolio",
+     "Boyu done; **Japan majority stake (~$3B)** explored",
+     "1–2 yrs",
+     "Conversions to licensed models",
+     "Asset-light",
+     "Scaling"
+    ],
+    [
+     "Margin",
+     "~10% FY2025 → >11% FY2026",
+     "To FY2028",
+     ">$2B cost savings; uplifts; ~250 closures; tariff refunds flatter FY2026",
+     "**13.5–15% by FY2028**",
+     "Scaling"
+    ],
+    [
+     "Share count",
+     "0",
+     "—",
+     "No buyback since FY2024",
+     "Dividend first",
+     "None"
+    ]
+   ],
+   "note": "Source: company filings and the January 2026 investor day. Built with Claude."
+  },
+  "moat": {
+   "columns": [
+    "Read",
+    "Call",
+    "~Evidence"
+   ],
+   "rows": [
+    [
+     "Mechanism",
+     "**Branding** + **scale economies**",
+     "The premium ritual brand; U.S. real-estate density; Rewards data; the Nestlé alliance royalty. EPV ÷ invested capital ≈ ROIC ÷ r ≈ 1.8: still a franchise, though half what it was in FY2023"
+    ],
+    [
+     "Trend",
+     "**Stable** (re-sharpening)",
+     "Pricing power is back (ticket +3.6% with traffic +4.2%), but North America margin is still ~7 pts below FY2023"
+    ],
+    [
+     "Profit pool",
+     "Shifting toward labor and licensees",
+     "$500M+ labor reinvestment; delivery lifts ticket at lower margin; China and potentially Japan move to partners"
+    ],
+    [
+     "Customer",
+     "Daily-habit buyers, 35.5M U.S. Rewards members; the job is an affordable daily treat and a third place",
+     "The 2022–24 price increases cost traffic; the current ticket gain is mix, not list price; retention and cohort data n/d"
+    ]
+   ],
+   "note": "7 Powers vocabulary (Helmer). Source: company filings; assessments are the author’s. Built with Claude."
+  },
+  "promises": {
+   "columns": [
+    "~Promised",
+    "Where, when",
+    "~Outcome"
+   ],
+   "rows": [
+    [
+     "FY2023–25: 7–9% comps, 10–12% revenue growth, **15–20% non-GAAP EPS growth** a year",
+     "[\"Reinvention\" investor day](https://investor.starbucks.com/news/financial-releases/news-details/2022/Starbucks-Enters-New-Era-of-Growth-Driven-by-an-Unparalleled-Reinvention-Plan/default.aspx), Sep 2022",
+     "🔴 FY2025 EPS $2.13 vs. $2.96 in FY2022"
+    ],
+    [
+     "Return U.S. transactions to growth (\"Back to Starbucks\")",
+     "Niccol, from Oct 2024",
+     "✅ Q1–Q3 FY2026: +3.0%, +4.3%, +4.2%"
+    ],
+    [
+     "FY2028: EPS $3.35–4.00, operating margin 13.5–15%, 5%+ revenue growth",
+     "[Investor day](https://finance.yahoo.com/news/starbucks-investor-day-back-starbucks-140638312.html), Jan 2026",
+     "🟡 On track at $2.60 and >11% for FY2026; FY2026 store openings already cut by a third"
+    ]
+   ],
+   "note": "Source: Starbucks investor days (2022, 2026) and releases. Built with Claude."
+  },
+  "risks": {
+   "columns": [
+    "~Risk",
+    "Impact",
+    "Prob.",
+    "Priced in?",
+    "~Would break the thesis if…"
+   ],
+   "rows": [
+    [
+     "⚠️ **Refund-flattered margin**: Q3 included about three quarters of tariff refunds",
+     "High",
+     "Med",
+     "🔴 **No**: the price implies <0% Bear odds",
+     "Q4 non-GAAP operating margin below 12% (test 1)"
+    ],
+    [
+     "⚠️ **Reinvestment does not earn**: negative 3-yr ROIIC; 8–9K uplifts at ~$150K each",
+     "High",
+     "Med",
+     "🔴 **No**",
+     "FY2026 ROIC does not recover above ~18%, or uplift returns stay undisclosed through FY2027 (test 3)"
+    ],
+    [
+     "⚠️ **Dividend above owner earnings** (118% in FY2025); five-year payout above net income",
+     "Med",
+     "Med",
+     "🔴 **No**",
+     "FY2026 owner earnings below the ~$2.8B dividend (test 3)"
+    ],
+    [
+     "**Unit growth slowing**: FY2026 net new stores cut to ~440 from 600–650; ~250 North America closures, $300M of charges",
+     "Med",
+     "Observed",
+     "Partly",
+     "FY2027 guide cuts North America openings again"
+    ],
+    [
+     "**Competition for young consumers** (Dutch Bros) and on value (McDonald's)",
+     "Med",
+     "Med",
+     "Partly",
+     "U.S. transactions turn negative (test 2)"
+    ],
+    [
+     "**Niccol key-person risk**",
+     "High",
+     "Low",
+     "Partly",
+     "Departure before FY2028"
+    ],
+    [
+     "**Capital-allocation drift**: advisers hired on a Chipotle bid (FT, Oct 8; denied Oct 12)",
+     "High",
+     "Low",
+     "🔴 No",
+     "Any acquisition above ~$5B before North America margin is back above 15%"
+    ],
+    [
+     "Coffee and dairy costs",
+     "Med",
+     "Med",
+     "Partly",
+     "An arabica spike not offset by ticket"
+    ],
+    [
+     "~~China operating drag~~",
+     "—",
+     "—",
+     "✅",
+     "*DE-RISKED Apr 2026: Boyu JV closed.*"
+    ]
+   ],
+   "note": "Filtered for materiality. Assessments are the author’s. Built with Claude."
+  },
+  "catalysts": {
+   "columns": [
+    "Date",
+    "Catalyst",
+    "~Why it matters"
+   ],
+   "rows": [
+    [
+     "✅ Sep 22",
+     "~250 North America closures, $300M of charges, FY2026 openings ~440 ([8-K](https://www.sec.gov/Archives/edgar/data/829224/000082922426000145/sbux-20260922.htm))",
+     "Margin-positive pruning; unit growth lower (§1)"
+    ],
+    [
+     "✅ Oct 8–12",
+     "FT reports a possible Chipotle bid; Starbucks says it is \"not buying Chipotle\"",
+     "Capital-allocation flag (§4)"
+    ],
+    [
+     "📅 **Oct 29**, after the close",
+     "Q4 FY2026 and the FY2027 guide ([announcement](https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Announces-Q4-and-Full-Fiscal-Year-2026-Results-Conference-Call/default.aspx))",
+     "Tests 1 and 2"
+    ],
+    [
+     "📅 Mid-November",
+     "FY2026 10-K",
+     "Test 3: owner earnings vs. dividend"
+    ],
+    [
+     "📅 Q4",
+     "Possible start of the Japan stake process",
+     "Asset-light shift; cash at a fair price"
+    ],
+    [
+     "📅 Late January",
+     "Q1 FY2027",
+     "Test 2: traffic against +3%"
+    ]
+   ],
+   "note": "Source: company announcements. Built with Claude."
+  }
+ },
+ "charts": {
+  "since_niccol": {
+   "type": "line",
+   "file": "series/since_niccol.json",
+   "baseline": 100,
+   "yTicks": [
+    40,
+    60,
+    80,
+    100,
+    120,
+    140,
+    160
+   ],
+   "tableEvery": 8,
+   "aria": "Total return index from August 12, 2024 = 100 for Starbucks, Dutch Bros, Chipotle and the S&P 500",
+   "note": "Total return including dividends, weekly, August 12, 2024 (the day before Niccol’s hiring was announced) = 100. Source: Yahoo Finance adjusted closes. Built with Claude."
+  },
+  "chipotle_tenure": {
+   "type": "line",
+   "file": "series/chipotle_tenure.json",
+   "baseline": 100,
+   "yTicks": [
+    0,
+    200,
+    400,
+    600,
+    800,
+    1000
+   ],
+   "tableEvery": 6,
+   "aria": "Total return index from March 2018 = 100 for Chipotle, the S&P 500 and Starbucks through August 2024",
+   "note": "Total return including dividends, monthly, March 2018 = 100, through Niccol’s last month at Chipotle (August 2024). Source: Yahoo Finance adjusted closes. Built with Claude."
+  },
+  "profit_mix": {
+   "type": "bar100",
+   "keys": [
+    "North America",
+    "International",
+    "Channel Development"
+   ],
+   "unit": "$M",
+   "valueLabel": "Operating income",
+   "prefix": "$",
+   "suffix": "M",
+   "rows": [
+    {
+     "label": "FY2023",
+     "values": [
+      5496,
+      1231,
+      968
+     ]
+    },
+    {
+     "label": "FY2024",
+     "values": [
+      5355,
+      1046,
+      926
+     ]
+    },
+    {
+     "label": "FY2025",
+     "values": [
+      3157,
+      950,
+      885
+     ]
+    },
+    {
+     "label": "9M FY2026",
+     "values": [
+      2556,
+      934,
+      752
+     ]
+    }
+   ],
+   "aria": "Share of segment operating income by segment, FY2023 to 9M FY2026",
+   "note": "Share of GAAP segment operating income, before corporate costs. Source: company filings. Built with Claude."
+  }
+ },
+ "model_build": {
+  "note": "Base case. Highlighted cells are inputs; margins move linearly from the FY2026 estimate to the FY2031 input. Source: author’s model (model.json). Built with Claude."
+ },
+ "scenarios": {
+  "note": "Annual return = price change to the FY2031 value plus today’s [[yield]] dividend yield. Probabilities apply to Bull, Base and Bear; the Priced-in and Hurdle rows are solved by the model along the Base→Bull path at a 26× exit. Source: author’s model. Built with Claude."
+ },
+ "sources": [
+  {
+   "label": "FY2025 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/sbux-20250928.htm"
+  },
+  {
+   "label": "Q3 FY2026 release",
+   "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922426000129/sbux-06282026xearningsrele.htm"
+  },
+  {
+   "label": "Q3 FY2026 call transcript",
+   "url": "https://s203.q4cdn.com/326826266/files/doc_financials/2026/q3/Q3-FY26-SBUX-Transcript.pdf"
+  },
+  {
+   "label": "2026 proxy",
+   "url": "https://www.sec.gov/Archives/edgar/data/829224/000121390026007780/ea0270973-01.htm"
+  },
+  {
+   "label": "CNBC: Chipotle denial",
+   "url": "https://www.cnbc.com/amp/2026/10/12/starbucks-denies-chipotle-takeover.html"
+  },
+  {
+   "label": "SEC XBRL company facts (SBUX)",
+   "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000829224.json"
+  },
+  {
+   "label": "SEC XBRL company facts (CMG)",
+   "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001058090.json"
+  },
+  {
+   "label": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/SBUX/"
+  }
+ ],
+ "vars": {}
+}

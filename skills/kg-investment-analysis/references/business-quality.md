@@ -1,4 +1,4 @@
-# Business & Quality: §1 and §2
+# Business & Quality: the numbers behind the economics
 
 Contents:
 1. Unit of value by asset type
@@ -10,7 +10,7 @@ Contents:
 7. Earnings-quality screens
 8. Cyclical flag and cycle position
 9. Lifecycle stages
-10. Growth levers (§2)
+10. Growth levers
 
 ---
 
@@ -88,7 +88,7 @@ State each source, and tag every derived row `[Derived]`.
   - ROIC ≥ 20% in at least 4 of the last 5 years;
   - 3-year ROIIC ≥ 20%;
   - reinvestment rate ≥ 25%;
-  - a §2 lever with at least 5 years of runway at stage proven or scaling.
+  - a growth lever with at least 5 years of runway at stage proven or scaling.
 
   A flagged company has no Trim zone (see SKILL.md).
 
@@ -159,7 +159,7 @@ Compute these on every Mode A run, and mention them in the text only when one tr
 - **Set Cyclical = Yes** when either holds:
   - the asset type is cycle-exposed (see `valuation.md` section 5);
   - over 10 years, operating margin max − min exceeds half the median, or revenue fell 10% or more in a year for macro reasons.
-- **Cycle position** (§1 line): current operating margin, its percentile within the 10-year range, and the median.
+- **Cycle position** (a line under the five-year record): current operating margin, its percentile within the 10-year range, and the median.
 - **Normalized margin** = the 10-year median (or the sector's through-cycle average). For a Yes, every terminal value uses it.
 - For a non-cyclical company, show the 10-year margin range anyway when today's margin sits at an extreme, and say what caused it (for example impairments versus structural).
 
@@ -178,7 +178,7 @@ The header's `Stage` field. The stage sets the prior for what a Base case may as
 
 Two of Lynch's categories cut across stage: **cyclical** is handled by the flag above, and **asset plays** by sum of the parts.
 
-## 10. Growth levers (§2)
+## 10. Growth levers
 
 The lever list is fixed:
 
@@ -196,6 +196,6 @@ The lever list is fixed:
 - **Columns for each lever:** contribution now · runway in years · evidence · management's stated intent · stage. The stage is one of:
   - `proven`: in the reported numbers for two or more years;
   - `scaling`: disclosed and growing, but not yet material;
-  - `option`: announced or plausible, with no revenue yet. An option also gets a valued line in §5.
+  - `option`: announced or plausible, with no revenue yet. An option also gets a valued line in Valuation.
 - **Adjacency test (Zook).** A new lever must share customers, costs or capabilities with the core business. If it shares none, grade it as diversification, whatever management calls it.
 - **After the table:** two or three sentences on which lever carries the Base and which the Bull.

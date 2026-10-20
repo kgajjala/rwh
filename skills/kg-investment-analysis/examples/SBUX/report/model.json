@@ -1,0 +1,20 @@
+{
+  "spot": 97.87, "dps": 2.48, "discount_rate": 0.09, "hurdle": 0.13,
+  "last_year": 2031, "fy_prefix": "FY", "eps_label": "Non-GAAP EPS",
+  "segment_names": {"NA": "North America", "INTL": "International", "CD": "Channel Development"},
+  "base": {"year": 2026, "shares": 1.14, "corp_pct": 0.040, "other": -0.47, "tax": 0.24,
+           "segments": {"NA": {"rev": 28.90, "margin": 0.126}, "INTL": {"rev": 6.75, "margin": 0.180}, "CD": {"rev": 2.25, "margin": 0.450}}},
+  "other_growth": 0.0,
+  "cases": {
+    "Bull": {"role": "bull", "prob": 0.25, "pe": 28, "corp_pct": 0.035, "share_change": -0.003,
+             "segments": {"NA": {"g": 0.060, "m": 0.178}, "INTL": {"g": 0.080, "m": 0.215}, "CD": {"g": 0.05, "m": 0.46}}},
+    "Base": {"role": "base", "prob": 0.50, "pe": 26, "corp_pct": 0.036, "share_change": 0.0,
+             "segments": {"NA": {"g": 0.050, "m": 0.161}, "INTL": {"g": 0.065, "m": 0.200}, "CD": {"g": 0.04, "m": 0.45}}},
+    "Bear": {"role": "bear", "prob": 0.25, "pe": 20, "corp_pct": 0.039, "share_change": 0.0,
+             "segments": {"NA": {"g": 0.035, "m": 0.1415}, "INTL": {"g": 0.045, "m": 0.175}, "CD": {"g": 0.02, "m": 0.43}}}
+  },
+  "diagnostics": {
+    "Priced-in": {"label": "Priced-in (9%/yr)", "target_return": 0.09, "pe": 26, "path": ["Base", "Bull"]},
+    "Hurdle": {"label": "Hurdle (13%/yr)", "target_return": 0.13, "pe": 26, "path": ["Base", "Bull"]}
+  }
+}

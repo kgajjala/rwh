@@ -1,4 +1,4 @@
-# Valuation: §5 and the Verdict
+# Valuation: the Valuation chapter and the Verdict
 
 Contents:
 1. Method by situation
@@ -11,7 +11,7 @@ Contents:
 8. Ruin paths and failure odds
 9. Sum of the parts
 10. Return-math table (fixed row order)
-11. Break-even and price-implied Bear odds
+11. Break-even and price-implied Bear odds; the Priced-in and Hurdle diagnostics
 12. Base rates for sales growth
 13. Worked example
 
@@ -84,10 +84,10 @@ Multiples (P/E, EV/EBITDA, P/FCF, EV/sales) and a 2–3 peer table sit above the
 - **Flag.** Set Cyclical = Yes when either holds:
   - the asset type is cycle-exposed: industrial materials, capital-intensive OEM, semiconductor equipment, mortgage and housing finance, logistics, housing-linked retail, energy, commodities;
   - over the last ten years, operating margin swung by more than half of its median (max − min > 0.5 × median), or revenue fell 10% or more in any year for macro reasons.
-- **Cycle position.** This is a §1 line: the current operating margin as a percentile of its 10-year range, with the median. Use a scaled ratio (margin), not an average of absolute earnings.
+- **Cycle position.** This is a line under the Appendix five-year record: the current operating margin as a percentile of its 10-year range, with the median. Use a scaled ratio (margin), not an average of absolute earnings.
 - **Terminal values.** All three scenarios apply the **normalized margin** (10-year median, or the sector's through-cycle average when the company's history is short) to terminal revenue.
   - The scenarios differ in the normalized *level* (a structural improvement in the Bull, a structural reset in the Bear), not in where year five happens to fall in the cycle.
-  - A Bull that keeps an above-median margin must point to the §2 lever that makes it structural.
+  - A Bull that keeps an above-median margin must point to the growth lever that makes it structural.
 - **Commodity prices.** Use the futures curve for the near term, and a normalized real price for the terminal year, rather than your own forecast.
 - **Multiples row.** Show P/E and EV/EBIT on normalized earnings next to the reported ones. A cyclical looks cheapest on reported P/E at the peak (Lynch).
 
@@ -116,7 +116,7 @@ Multiples (P/E, EV/EBITDA, P/FCF, EV/sales) and a 2–3 peer table sit above the
   Where any loop applies, the Bear must be reflexive:
   - **Bear value per share = (Bear equity value − outside capital the Bear requires) ÷ current shares.**
   - If the capital would have to be raised below value, the cost is higher. For example: Bear equity of $6B, 1.0B shares and $2B to raise give $4.00 per share, not $6.00; a forced raise at $3 gives $3.60.
-  - Name the loop in the §6 risk table.
+  - Name the loop in the risks table.
 
 ## 8. Ruin paths and failure odds
 
@@ -144,12 +144,12 @@ Use this when segments fall under different asset types.
 | PW return/yr vs. hurdle | `(PW EV ÷ spot)^(1/5) − 1 + yield`, marked `≥13%` or `<13%`. Then Entry. Then, as context, the 10-year Treasury and the spread from 13% to it. |
 | Compounding at a flat multiple | Owner-earnings (or core EPS) growth per share in the Base case, plus shareholder yield (dividend + net buyback). State what share of the Base return comes from re-rating. Re-rating above half the return means Watch. |
 | Optionality | Probability × value per share, so the core reads without it; or "none". |
-| Price-implied expectations | Perpetual: g = r − (unlevered FCF ÷ EV). Or two-stage: the 5-year growth that, followed by inflation-level terminal growth, equates PV to EV. State r. |
+| Price-implied expectations | The **Priced-in** diagnostic (section 11): the terminal EPS and growth that earn the discount rate at a stated exit multiple. Cross-check with the perpetual form, g = r − (unlevered FCF ÷ EV). State r. |
 | EPV floor | EPV per share, growth share of price, and where the Bear sits relative to EPV. |
 | Base rate / 3P | Where the Bull growth rate sits in section 12, and the 3P tier of each scenario. |
 | Terminal-growth check | Implied g for each scenario versus the 10-year Treasury, and whether each fits its story. |
 | Break-even and price-implied Bear odds | Section 11. Flag "probability-fragile" when the break-even odds are within 10 points of the assigned odds. |
-| Year ten | One sentence: is the business still growing at year ten (runway from §2), or is the terminal multiple doing the work? |
+| Year ten | One sentence: is the business still growing at year ten (runway from the growth-levers table), or is the terminal multiple doing the work? |
 | R/R | (Bull % upside) ÷ (Bear % downside) against spot. Use this one figure everywhere. Note when it is mechanically flattered, for example when spot sits just above the Bear. |
 
 ## 11. Break-even and price-implied Bear odds
@@ -166,6 +166,15 @@ Read it two ways:
 - **Price-implied Bear odds** (h = r, the page's discount rate): the Bear probability at which today's price earns an ordinary return. This is a reverse DCF expressed in scenario terms, and it is The Call's one-number statement of what the market is pricing.
 
 Results above 100% or below 0% mean that no Bear probability makes the equation hold; report them as ">100%" or "<0%".
+
+**The Priced-in and Hurdle diagnostics** (v7) say the same thing in operating terms. They are what the deep dive's valuation chapter argues from.
+- `model.py` interpolates every case input (segment growth, terminal margin, corporate costs, share change) along a path between two cases, usually Base→Bull or Bear→Bull. Positions beyond the endpoints are allowed.
+- It solves by bisection for the point where the annual return equals a target, at a fixed exit multiple:
+  - **Priced-in**: the target is the discount rate r. This gives the EPS and growth today's price assumes.
+  - **Hurdle**: the target is 13%. This gives what a buyer needs to believe.
+- Use a mature, normal exit multiple for both, usually the Base multiple, and say which one in the scenario note.
+- Read the result against the cases: "the price assumes roughly our Bull" or "the price is gloomier than our Base" is the sentence The Call is built on.
+- If the target is unreachable along the path, the model says so; use a wider path.
 
 ## 12. Base rates for sales growth
 

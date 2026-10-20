@@ -1,21 +1,12 @@
 ---
 name: kg-investment-analysis
 description: >
-  Karthik's single-equity investment framework for 5–10-year holders. Turns a ticker into a
-  decision (Initiate / Add / Hold / Trim / Exit / Watch / Avoid), tested against a fixed 13%
-  annual hurdle on a probability-weighted five-year value built from unit economics, ROIC,
-  owner earnings and a moat read. Use whenever the user asks "analyze [ticker]", "is [stock] a
-  buy", "should I buy/hold/sell [ticker]", "what is [company] worth", "bull/bear case for
-  [ticker]", "deep dive on [company]", "what's the BAIT on [stock]", "summarize the earnings
-  call for [company]", "what happened to [stock]", or "price history for [ticker]". Also use it
-  for any financial, valuation or price analysis of a named public company, even when
-  "analysis" is never said; over-triggering beats missing. One equity at a time. Mode A writes
-  the full Markdown report; B earnings; C news; D price history. Never sizes positions.
+  Karthik's single-equity investment framework for 5–10-year holders. Writes a long-form deep dive in the MBI Deep Dives style (history, the key debate argued from management's own words, unit economics, management and incentives, a segment model with priced-in and hurdle cases) that ends in a decision (Initiate / Add / Hold / Trim / Exit / Watch / Avoid) tested against a fixed 13% hurdle on a probability-weighted five-year value. Use whenever the user asks "analyze [ticker]", "is [stock] a buy", "should I buy/hold/sell [ticker]", "what is [company] worth", "deep dive on [company]", "update [ticker]", "summarize the earnings call for [company]", "what happened to [stock]" or "price history for [ticker]", or for any valuation or price analysis of a named public company. Mode A writes the deep dive; B and C update it in place; D is price history. Builds an HTML page with charts plus a decision card. Never sizes positions.
 ---
 
-# kg-investment-analysis · v6.0
+# kg-investment-analysis · v7.0
 
-Every report answers one question: **what should someone do about this stock, and what would change that answer?** Each part of the report either supports that decision or is left out.
+Every report answers one question: **what should someone do about this stock, and what would change that answer?** In v7 the answer is told as a long-form deep dive. It is an argued essay that starts from the company's history, works through the debate that decides the stock using management's own words and the numbers, and ends in a verdict. A short decision card is generated from the same data, so the verdict, zones and tests never drift from the essay.
 
 ## The lens: why the rules exist
 
@@ -37,25 +28,57 @@ Every report answers one question: **what should someone do about this stock, an
    - If Yahoo looks stale (a banner, or data more than 3 days old), say so and use the cross-check.
 3. Re-verify the price before computing any multiple if much time has passed since step 2.
 
+## What a report is (v7)
+
+A report is a folder of source files and two built outputs:
+
+| File | What it holds | Who writes it |
+|---|---|---|
+| `report.md` | The essay in Markdown, with directives (`::table`, `::chart`, `::model_build`, `::scenarios`, `::tests`, `::updates`, `::toc`, `::sources`, `::disclaimer`) and `[[tokens]]` for model numbers | You |
+| `data.json` | `meta` (ticker, price, dates, type, stage, flags, accent, artifact URL), `verdict`, `call`, `tests` (with `shift` so consequences compute), `updates` (with scorecards), `tables`, `charts`, `sources`, `vars` | You |
+| `model.json` | Segment model: base year, cases (role, probability, growth and terminal margin per segment, exit multiple), diagnostics (Priced-in, Hurdle) | You |
+| `updates/YYYY-MM-DD.md` | Dated update notes (Modes B and C) | You |
+| `series/*.json` | Total-return series for line charts | `scripts/prices.py` |
+| `model_out.json` | Cases, PW EV, return, entry, R/R, Bear odds, solved diagnostics | `scripts/model.py` |
+| `TICKER-deep-dive.html` | The published deep dive, with charts and data tables | `scripts/build_report.py` |
+| `../TICKER.md` | The decision card: header, verdict table, The Call, tests, latest scorecard, scenarios, link to the deep dive | `scripts/build_report.py` |
+
+A complete worked example lives in `examples/SBUX/report/`; copy its shape. `assets/skeleton/` has empty starting files.
+
+### Pipeline
+
+Run the scripts with `python3 -I` (standard library only), from the report folder:
+
+```
+python3 -I SKILL_DIR/scripts/prices.py series/NAME.json TICK,RIVAL,SPY --start YYYY-MM-DD --interval 1mo --names "TICK=Company,SPY=S&P 500"
+python3 -I SKILL_DIR/scripts/model.py model.json
+python3 -I SKILL_DIR/scripts/build_report.py . --check
+python3 -I SKILL_DIR/scripts/build_report.py .
+```
+
+`--check` lists unresolved tokens and missing tables, charts or update files; fix everything it reports. Then look at the rendered page once (desktop and phone width), fix what you see, and publish.
+
+---
+
 ## Classify the request
 
 | Request | Mode |
 |---|---|
-| "Analyze / deep dive / is X a buy / what is X worth" | **A**: full decision report |
-| "Summarize earnings / what did X report" | **B**: earnings update |
-| "What happened today / this week / why did X move" | **C**: news and price action |
+| "Analyze / deep dive / is X a buy / what is X worth", or no report exists yet | **A**: full deep dive |
+| "Summarize earnings / what did X report / update X" after a print or material event | **B**: incremental update |
+| "What happened today / this week / why did X move" | **C**: news and price update |
 | "Price history / what drove X" | **D**: price history |
 
 ---
 
-## Mode A: the decision report
+## Mode A: the full deep dive
 
 ### Work order
 
 The order matters. Grading the business before valuing it keeps the price from coloring the judgment.
 
 1. **Gather** the sources listed under *Research protocol* below.
-2. **Build the economics (§1).** Read `references/business-quality.md` and build:
+2. **Build the economics** (the Appendix tables and the Business Overview). Read `references/business-quality.md` and build:
    - the driver tree from the unit of value;
    - invested capital, ROIC and 3-year ROIIC;
    - the reinvestment rate;
@@ -64,15 +87,15 @@ The order matters. Grading the business before valuing it keeps the price from c
    - the **cyclical flag** and **cycle position**.
 3. **Commit the grades before you value anything.**
    - Write these down, each one from its own evidence and with an outside view where one exists:
-     - the §1 quality read;
-     - the §3 moat rating and trend;
-     - the §4 management grades;
+     - the quality read;
+     - the moat rating and trend;
+     - the management grades;
      - the **competence** call;
      - the lifecycle **stage**.
    - Don't revise them after seeing the return unless new evidence arrives.
    - Why: one strong impression, usually the price or the story, otherwise bleeds into every other judgment. This is the mediating-assessments protocol from Kahneman, Lovallo and Sibony.
 4. **Run a premortem.** Assume it is five years from now and the stock returned nothing; write down why. The top answers become the Bear's mechanism and the candidates for the three tests. People find more failure reasons by imagining a failure that already happened (Klein) than by asking what might go wrong.
-5. **Value it (§5).** Read `references/valuation.md` and work through it in this order:
+5. **Value it.** Read `references/valuation.md` and work through it in this order:
    1. Pick the method that fits the situation.
    2. Build the scenarios and sort them with the 3P test.
    3. Apply the floors and the special cases.
@@ -80,7 +103,18 @@ The order matters. Grading the business before valuing it keeps the price from c
 6. **Decide.** Set the verbs, zones and flags using the *Decision rules* below.
 7. **Write the three tests as kill criteria**, each with its consequence fixed now (see `references/moat-management-edge.md`).
 8. **Run the bias check** if a previous report or page gave a different verb. List what changed and run the five questions in `references/moat-management-edge.md` before writing the new verb.
-9. **Write the report** in Markdown from `assets/report-template.md`, then run the closing audit (*Writing rules*).
+9. **Write the deep dive** as `report.md` + `data.json` + `model.json` in the report folder, following `references/deep-dive-style.md`. Run the pipeline below, then the closing audit (*Writing rules*).
+
+10. **Write in the deep-dive style.** Chapter structure, devices, voice, charts and length are in `references/deep-dive-style.md`; the framework's required content and where it goes are in its section 4. In short:
+    - an opening built on a dated moment and a stock-vs-business chart;
+    - Business Overview with a segment table and a profit-mix chart;
+    - the key debate (management's case quoted, then the holes, then an illustrative unit-economics table, then rings of profit);
+    - the second debate;
+    - Management, Capital Allocation and Incentives (prior record, deal list, capital-allocation table, incentive table);
+    - Valuation (model build, scenarios, Priced-in and Hurdle);
+    - Final Words;
+    - Appendix: The Numbers (five-year record with ROIC, ROIIC and owner earnings, levers, moat, risks, catalysts);
+    - Sources.
 
 ### Decision rules
 
@@ -106,7 +140,7 @@ The definitions behind each line are in `references/valuation.md`.
     - a reinvestment rate ≥ 25% of NOPAT;
     - at least one growth lever with ≥ 5 years of runway at stage proven or scaling.
   - **What changes:** the holder verb is Add at or below Entry and Hold everywhere above it. The holder exits only when a kill criterion fails, never on valuation alone. The non-holder zones are unchanged: don't buy above Bull.
-  - **What to show:** flag it in the header and print `—` in the Trim cell.
+  - **What to show:** set `meta.compounder: true`; the card flags it and prints `—` in the Trim cell.
   - **Why:** businesses that keep earning 20%+ on new capital tend to outrun the estimates that made them look fully priced. Selling them on valuation is the costliest common mistake (Fundsmith, Akre and the 100-bagger studies).
 - **Re-rating test.** If more than half of the PW return comes from re-rating, the non-holder verb is Watch, not Initiate. The compounding rate at a flat multiple is what a long-term holder actually earns.
 - **Probability-fragile.** If the break-even Bear odds are within 10 points of the Bear odds you assigned, The Call says the verb is fragile and names the test that will settle it.
@@ -114,46 +148,25 @@ The definitions behind each line are in `references/valuation.md`.
   - **Outside** applies when the outcome turns on knowledge we lack, such as a clinical readout, frontier engineering, regulatory science or protocol economics. It **widens the scenarios**:
     - Bull and Bear each get at least 25%, and Base at most 50%;
     - the Bear includes the binary failure outcome where one exists;
-    - §5 carries a one-line confidence note naming what we cannot judge.
+    - the Valuation chapter carries a one-line confidence note naming what we cannot judge.
   - **Edge** gets the confidence note only.
 - **Cyclical: Yes / No.** For a Yes, every terminal value uses the **normalized (through-cycle) margin**, never the current one (`references/valuation.md`).
 
 ### Report structure
 
-Reports are Markdown. Use `assets/report-template.md`. The front matter *is* the deliverable; the numbered sections exist to support it.
+The structure is set by `references/deep-dive-style.md`; the decision card is generated, so its shape is fixed by the build script:
 
-**Header** (a three-line blockquote under the `# TICKER — Company` title)
-- Line 1: schema version, updated date, status.
-- Line 2: price with its timestamp and source link · 52-week range · percentile · % from the high.
-- Line 3: asset type · lifecycle stage · **Cyclical** Y/N · **Competence** Core/Edge/Outside · 🔁 compounder (only if it qualifies).
-
-**Verdict**
-- One sentence that carries the whole call.
-- 🟢/🟡/🔴 **Non-holder: verb** · **Holder: verb**.
-- A one-row table: `PW EV | PW return/yr (≥/<13%) | Compounding/yr | R/R | Entry | Trim | Avoid | primary multiple | Yield | BAIT | Moat | Next`.
-- **Breaks if:** the single most load-bearing fact.
-
-**The Call** (~200 words). What the market has priced (the price-implied Bear odds, in one number), what it has wrong, and the one number that proves it. This is the only place the argument is made; §1–§8 supply evidence and don't re-argue. Say "probability-fragile" here when the rule applies.
-
-**What I'd Have To Be Wrong About.** Exactly three kill criteria: state, source, date, **If Fail →** a pre-committed consequence.
-
-| § | Contents |
-|---|---|
-| 1. Business & Numbers | Lead with what changed. Then: the driver tree (unit, count, revenue per unit, contribution per unit, growth from units vs. per unit); a five-year table with the ROIC, ROIIC, reinvestment, **owner earnings**, quality and **earnings-quality** rows; cycle position; recent quarters; segments and geography. |
-| 2. Growth Levers | One table over the fixed lever list (market growth · share gain · price and mix · attach / new products · new geographies · M&A · margin · share count). For each lever: contribution now, runway, evidence, management intent and stage. Then say which levers carry the Base and which carry the Bull, and which are optionality. |
-| 3. Moat, Customer & Competition | A four-row moat table (Mechanism in 7 Powers terms · Trend with the number that decides it · Profit pool · Customer) and the rating in one sentence. Add the scale-economies-shared line where Scale is a Power. Then a competitor table, scuttlebutt findings, industry structure and TAM. |
-| 4. Management & Capital | Incentives (proxy metrics and weights) · guidance grade · promises ledger (3 rows) · CEO/CFO read · capital-allocation record with the **$1 retention test** and the Outsider grade · appearances, each attributed to its venue (or a line saying there were none). |
-| 5. Scenarios → PW EV | Multiples and peers as the anchor · EPV floor · one scenario table (target, probability, contribution, driving assumption, 3P tier) · the return-math table in the fixed row order from `references/valuation.md`. |
-| 6. Risks & Triggers | One table: `Risk \| Impact \| Prob \| Priced in? \| Would break the thesis if…`, filtered for materiality. Name any reflexive loop or ruin path here. |
-| 7. Catalysts & Sentiment | Analysts and short interest in one line each · 90 days of insiders from Form 4 XML · dated catalysts · BAIT justification only where it isn't obvious. None of it moves a verb. |
-| 8. Sources | Links to every document used. |
+- **Header** of the card: schema, updated date, status; price with timestamp and source, 52-week range, percentile, distance from the high; type, stage, Cyclical, Competence, 🔁 if it qualifies; a link to the deep dive.
+- **Verdict**: one sentence, the two verbs, the one-row table (`PW EV | PW return/yr | Compounding/yr | R/R | Entry | Trim | Avoid | multiple | Yield | BAIT | Moat | Next`), **Breaks if**.
+- **The Call** (~200 words, from `data.json` `call`). What the market has priced, what it has wrong, the one number that proves it; say "probability-fragile" when the rule applies.
+- **What I'd Have To Be Wrong About**: exactly three kill criteria, each with source, date and a pre-committed consequence (give the test a `shift` so its PW EV, return and entry are computed).
+- **Latest scorecard**, **Scenarios** and a link to the full sources.
 
 ### Research protocol
 
 Pull these for Mode A. Log gaps; never fabricate a number.
 
-1. **Multi-year numbers:** the SEC XBRL company-facts API.
-   - Command: `curl -A "Name email@domain" https://data.sec.gov/api/xbrl/companyfacts/CIK##########.json` (CIK zero-padded to 10 digits; `www.sec.gov` blocks requests without a User-Agent).
+1. **Multi-year numbers:** the SEC XBRL company-facts API, via `scripts/xbrl.py CIK out.json "Name email"` (or `curl -A "Name email@domain" https://data.sec.gov/api/xbrl/companyfacts/CIK##########.json`; `www.sec.gov` blocks requests without a User-Agent).
    - Pull 10 years of revenue, operating income, net income, operating cash flow, SBC, capex, D&A, dividends, buybacks, receivables, current assets and liabilities, PP&E, total assets, debt, cash, leases and equity.
    - Prefer annual `frame` values (`CY2025`, `CY2025Q4I`).
 2. **Latest 10-K:**
@@ -179,7 +192,8 @@ Pull these for Mode A. Log gaps; never fabricate a number.
    - Suppliers' and customers' 10-K disclosures of 10%-of-revenue customers.
    - Public pricing pages, captured with a date.
    - Third-party app, web or hiring data is allowed only with a tag.
-8. **Market data:**
+8. **Price history** for the charts: `scripts/prices.py` (total return, dividend-adjusted) for the company, its closest rival and the S&P 500 over the window the opening argues about, plus any prior-tenure window.
+9. **Market data:**
    - analyst consensus and recent rating or target changes;
    - short interest and its month-over-month change (Fintel, NASDAQ, StockAnalysis);
    - 90 days of Form 4 filings, read from the XML (codes: P = open-market buy, S = sale, A = award);
@@ -187,75 +201,78 @@ Pull these for Mode A. Log gaps; never fabricate a number.
 
 ### Writing rules
 
-- **State each fact once.** It lives in one section; elsewhere it gets a one-clause reference, not a re-explanation.
-- **Synthesis, not transcription.** Use a quote only where paraphrase would weaken it, and attribute it to its venue.
-- **Budget: about 1,500 words of prose,** excluding tables and source lists. Overshooting by 10–15% to keep load-bearing evidence is fine. When a draft runs long, compress first (turn bullets into a table, collapse a restated claim into a reference); cut only the least load-bearing item.
-- **Emoji carry meaning:** 🟢 bullish/add · 🔴 bearish/exit · 🟡 neutral/hold · ⚠️ material risk · ✅ resolved · 📅 dated catalyst · 💰 capital allocation · 🎯 price zone · 🔁 high-ROIIC compounder.
-- **Bold only punchlines** and thesis-carrying numbers.
-- **Tables run time in columns, metrics in rows.**
-- **Closing audit:** any thesis-carrying figure, rate, multiple or named risk that appears more than twice gets collapsed to a reference. Then check that every number has a source or a tag.
+- **State each fact once.** It lives in one chapter; elsewhere it gets a one-clause reference. Model numbers go through `[[tokens]]` so the essay, tables and card agree.
+- **Quote management where its own words carry the argument**, at length if needed, always attributed to person, venue and date. Paraphrase everything else.
+- **Budget**: about 4,000–7,000 words of prose for a full deep dive, excluding tables, quotes and the Appendix; 600–1,200 words for a Mode B note; 200–500 for Mode C. The budget guards against sprawl, not against evidence.
+- **Tables run time in columns, metrics in rows**; every table and chart has a sourced note.
+- **Emoji** stay out of the essay; they appear only on the generated card, with their usual meanings (🟢 🔴 🟡 ⚠️ ✅ 📅 💰 🎯 🔁).
+- **Closing audit**: no thesis-carrying figure, rate, multiple or named risk more than twice in the prose; every number sourced or tagged; `--check` clean.
 
 ---
 
-## Mode B: earnings update
+## Mode B: incremental update (earnings or a material event)
 
-1. Run Step 0, then fetch the release, the 10-Q and two transcripts. Don't summarize from snippets.
-2. Report:
-   - headline numbers against consensus and against last year;
-   - segments;
-   - guidance changes and why;
-   - the three to five points management emphasized;
-   - notable Q&A pushback and non-answers.
-3. **Score the three kill criteria** as ✅ Pass, 🔴 Fail or 🟡 Pending, each with the number that decided it.
+1. Run Step 0, then fetch the release, the 10-Q (or 8-K) and two transcripts. Don't summarize from snippets.
+2. **Score the three kill criteria** as `pass`, `fail` or `pending`, each with the number that decided it. Record them as the update's `scorecard` in `data.json`.
    - Apply each pre-committed consequence exactly as written.
    - Overriding a consequence requires evidence that did not exist when the test was written; name that evidence.
-   - Then write a replacement test.
-4. Refresh §1 (the new quarter, trailing twelve months, owner earnings) and the §5 return math at the current price. Then:
-   - re-derive the verbs and zones;
-   - run the bias check before changing a verb;
-   - output the updated report.
+   - Write a replacement for each resolved test.
+3. **Write the update note** `updates/YYYY-MM-DD.md` (600–1,200 words) in the deep-dive voice. Cover:
+   - the numbers against consensus and last year;
+   - segments;
+   - guidance and why it changed;
+   - management's three to five points, quoted where it matters;
+   - Q&A pushback and non-answers;
+   - what it does to the debate;
+   - the verdict.
+4. **Refresh the data**:
+   - add the new quarter to the tables and roll the Appendix's five-year record when a fiscal year closes;
+   - re-base `model.json` (spot, base year when a year closes, case inputs only where evidence moved them) and re-run `model.py`;
+   - update `meta`, `verdict` and `call`.
+5. **Edit body prose that the news made false**, in place. The essay must stay true on its own.
+6. Re-derive verbs and zones; run the bias check before changing a verb. Rebuild with `--check`, look once, republish to the same URL.
 
-## Mode C: news and price action
+## Mode C: news and price update
 
-- Give three to five bullets on what drove the move, classed as earnings, macro, sector or company-specific, and say whether the move looks warranted or an overreaction.
-- Re-run the return math at the new price, because zones can be crossed without any news.
-- If the move touches a kill criterion, say which one.
-- No verb changes without the bias check.
+- Write a 200–500-word update note covering what drove the move (earnings, macro, sector or company-specific) and whether the move looks warranted.
+- Set the new spot in `model.json` and re-run the model, because zones can be crossed without news. Say if a kill criterion is touched.
+- Refresh `meta` and anything the news made false. No verb change without the bias check. Rebuild, republish.
 
 ## Mode D: price history
 
 Run Step 0, then:
 - a one-year phase table: `Phase | Period | Move | % | Tag | What happened`, with tags `INT-FUND`, `INT-PEOPLE`, `INT-STRAT`, `EXT-MACRO`, `EXT-MARKET` and `EXT-SECTOR`;
-- one paragraph of five-year context against the S&P 500;
+- one paragraph of five-year context against the S&P 500 (a `prices.py` series helps);
 - where the price sits against the current zones, if a report exists.
 
-Technical levels are context only. Answer in chat, or as a short Markdown note if the user wants a file; don't rewrite the report.
+Answer in chat or as a short note; don't rebuild the deep dive.
 
 ---
 
 ## Output
 
-- **Format: Markdown.** Copy `assets/report-template.md` and fill it in. Use GitHub-flavored Markdown tables; no HTML.
 - **Where it goes:**
-  - In a research repo that keeps one page per ticker under `wiki/tickers/` (like the one this skill ships in), the report *is* `wiki/tickers/[TICKER]/[TICKER].md`. Update it in place, so it always shows the current call; git holds the history. If the folder also has a `changelog.md`, follow that repo's rules for logging the update.
-  - Anywhere else, save `outputs/[TICKER]_analysis_[YYYY-MM-DD].md` in the working directory. In Cowork, save to `/mnt/user-data/outputs/` and call `present_files`.
-- **Modes B and C** update the existing report in place: the sections that moved, plus the Verdict.
-- **Links** to local files are relative to the report's own location.
-- Show the user the file, or the diff when you updated one.
-- End with the template's disclaimer line: this is analysis, not personal investment advice.
+  - In a research repo with one folder per ticker under `wiki/tickers/` (like the one this skill ships in), the report folder is `wiki/tickers/[TICKER]/report/` and the decision card is `wiki/tickers/[TICKER]/[TICKER].md`. Follow the repo's rules for the changelog and its cross-files.
+  - Anywhere else: `outputs/[TICKER]/report/` with the card at `outputs/[TICKER]/[TICKER].md`. In Cowork, use `/mnt/user-data/outputs/` and call `present_files`.
+- **Publishing:** when an Artifact tool is available, publish `TICKER-deep-dive.html` and store its URL in `meta.artifact_url`. Republish updates to the same URL. Otherwise hand the user the HTML file.
+- Links inside the essay are absolute URLs (the page is published alone). Local `raw/` files are cited on the card and in the changelog.
+- Show the user the page or the diff, and end with the disclaimer: this is analysis, not personal investment advice.
 
 ## Reference files
 
 Read each one when you reach the step that needs it.
 
-- `references/business-quality.md`: for **§1–§2**. Unit-of-value table by asset type, invested capital, ROIC/ROIIC, owner earnings and maintenance capex, quality rows, earnings-quality screens (accruals, Beneish, Piotroski, Altman), the cyclical flag and cycle position, lifecycle stages, the growth-lever table.
-- `references/valuation.md`: for **§5 and the Verdict**. Method by situation, scenario construction and the 3P sort, discount rates, the terminal-growth check, the EPV floor, normalized margins for cyclicals, justified P/TBV for financials, sales-to-capital and the reflexive Bear, ruin paths and failure odds, sum of the parts, break-even and price-implied Bear odds, base-rate table, return-math table, worked example.
-- `references/moat-management-edge.md`: for **§3, §4, §6, §7 and the tests**. 7 Powers and moat trend, the scale-economies-shared test, the customer block, the big-market check, incentives and guidance grade, the promises ledger, Outsider grades, the $1 retention test, BAIT, kill criteria and the premortem, the bias check, the risk materiality filter.
+- `references/deep-dive-style.md`: **for every report and update.** Chapter structure, recurring devices, where each framework item goes, voice, charts, update notes, length, checklist.
+- `references/business-quality.md`: unit-of-value table by asset type, invested capital, ROIC/ROIIC, owner earnings and maintenance capex, quality and earnings-quality rows, cyclical flag, lifecycle stages, growth levers.
+- `references/valuation.md`: method by situation, scenarios and the 3P sort, discount rates, terminal-growth check, EPV floor, normalized margins, justified P/TBV, reflexive Bear, ruin paths, sum of the parts, break-even and price-implied Bear odds, the Priced-in and Hurdle diagnostics, base rates, the return-math table.
+- `references/moat-management-edge.md`: 7 Powers and moat trend, scale economies shared, customer block, incentives and guidance grade, promises ledger, Outsider grades, the $1 retention test, BAIT, kill criteria and the premortem, the bias check, the risk materiality filter.
 
 ## Version history
 
-- **v6.0 (October 2026).** Rebuilt as a decision report with a 5-year lens.
-  - Added: the 13% fixed hurdle; hurdle-derived entry; owner earnings; ROIC/ROIIC; EPV floor; normalized margins for cyclicals; justified P/TBV; reflexive Bear; earnings-quality row; $1 retention test; break-even and price-implied Bear odds; 3P sort; kill criteria; mediating-assessment order; scuttlebutt; bias check; high-ROIIC compounder flag (no Trim zone); competence widening.
-  - Removed: allocation %, the stock/options split, 1- and 3-year targets, and the technical verdict as a decision input.
-  - Output: a Markdown report in the one-page-per-ticker shape replaces the styled HTML file.
+- **v7.0 (October 2026).** The deep dive becomes the report.
+  - Long-form essay in the MBI Deep Dives style, built from `report.md` + `data.json` + `model.json` into an HTML page with charts, plus a generated decision card.
+  - New scripts: `model.py` (cases, PW maths, solved Priced-in and Hurdle diagnostics), `build_report.py`, `prices.py`, `xbrl.py`.
+  - Kill-criteria consequences computed from the model; incremental updates as dated notes with scorecards plus in-place edits; worked SBUX example.
+  - The decision rules and the 13% hurdle are unchanged from v6.0.
+- v6.0 (October 2026). A one-page Markdown decision report with a 5-year lens, owner earnings, EPV floor, kill criteria and Bear odds; superseded as the output format, rules retained.
 - v5.3 (April 2026). 15-section thesis with multiples-based valuation; superseded.

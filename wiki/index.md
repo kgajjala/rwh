@@ -3,8 +3,8 @@
 Master catalog of all wiki pages. Updated by the LLM agent on every ingest or
 substantial wiki change. Each entry: link, one-line summary, last updated, status.
 
-**Schema**: v5.0 (current) — decision-first eight-section page (CLAUDE.md §4), single consolidated
-`[TICKER].md` per ticker, position-agnostic; v3/v4 pages migrate on their next material touch.
+**Schema**: v7.0 (current) — a long-form deep dive per ticker (`report/`, built by the kg-investment-analysis skill) plus a
+generated `[TICKER].md` decision card (CLAUDE.md §4), position-agnostic; v3–v6 pages migrate on their next material event.
 Active / Paused status governs weekly-update coverage (R14). 4 tickers Paused (ABNB, ACLS, LNTH, MP —
 user-directed, Workflow C). Per-page schema-version history lives in git.
 

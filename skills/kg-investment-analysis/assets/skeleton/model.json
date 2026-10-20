@@ -1,0 +1,94 @@
+{
+ "spot": 0.0,
+ "dps": 0.0,
+ "discount_rate": 0.09,
+ "hurdle": 0.13,
+ "last_year": 2031,
+ "fy_prefix": "FY",
+ "eps_label": "EPS",
+ "segment_names": {
+  "A": "Segment A"
+ },
+ "actual": {
+  "year": 2025,
+  "segments": {
+   "A": {
+    "rev": 0.0,
+    "op": 0.0
+   }
+  },
+  "corp": 0.0,
+  "ni": 0.0,
+  "shares": 0.0,
+  "eps": 0.0
+ },
+ "base": {
+  "year": 2026,
+  "shares": 1.0,
+  "corp_pct": 0.02,
+  "other": 0.0,
+  "tax": 0.21,
+  "segments": {
+   "A": {
+    "rev": 10.0,
+    "margin": 0.2
+   }
+  }
+ },
+ "other_growth": 0.0,
+ "cases": {
+  "Bull": {
+   "role": "bull",
+   "prob": 0.25,
+   "pe": 20,
+   "segments": {
+    "A": {
+     "g": 0.08,
+     "m": 0.24
+    }
+   }
+  },
+  "Base": {
+   "role": "base",
+   "prob": 0.5,
+   "pe": 18,
+   "segments": {
+    "A": {
+     "g": 0.05,
+     "m": 0.21
+    }
+   }
+  },
+  "Bear": {
+   "role": "bear",
+   "prob": 0.25,
+   "pe": 14,
+   "segments": {
+    "A": {
+     "g": 0.02,
+     "m": 0.17
+    }
+   }
+  }
+ },
+ "diagnostics": {
+  "Priced-in": {
+   "label": "Priced-in (9%/yr)",
+   "target_return": 0.09,
+   "pe": 18,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  },
+  "Hurdle": {
+   "label": "Hurdle (13%/yr)",
+   "target_return": 0.13,
+   "pe": 18,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  }
+ }
+}

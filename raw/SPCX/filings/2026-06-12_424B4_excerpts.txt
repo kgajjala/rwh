@@ -1,0 +1,140 @@
+SpaceX final prospectus (424B4, filed 2026-06-12) — excerpts: summary financial data FY2023–Q1 2026, revenue by type and segment, Musk performance awards (Mars colony; orbital compute), principal shareholders, conflicts/corporate-opportunity risk factor, Terafab and Macrohard collaboration with Tesla
+Source: https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm
+
+Year Ended December 31, | 2026 | 2025 | 2025 | 2024 | 2023 | (in millions, except per share data ) | (unaudited) | Revenue | $ 4,694 | $ 4,067 | $ 18,674 | $ 14,015 | $ 10,387 | Total costs and expenses | 6,637 | 4,040 | 21,263 | 13,549 | 13,892 | Income (loss) from operations | (1,943) | 27 | (2,589) | 466 | (3,505) | Net income (loss) | $ (4,276) | $ (528) | $ (4,937) | $ 791 | $ (4,628) | Net income (loss) per share of 
+ common stock attributable to 
+ common shareholders (1) | Basic | $ (1.27) | $ (0.18) | $ (1.69) | $ 0.01 | $ (1.68) | Diluted | $ (1.27) | $ (0.18) | $ (1.69) | $ 0.00 | $ (1.68) | Weighted average shares used in 
+ computing net income (loss) per 
+ share of common stock (1) | Basic | 3,884 | 2,875 | 2,926 | 2,848 | 2,759 | Diluted | 3,884 | 2,875 | 2,926 | 9,956 | 2,759 | __________________ 
+ (1) Please refer to Note 14 , Earnings per Share to our audited consolidated financial statements appearing elsewhere in this prospectus for an 
+ explanation of our calculation of basic and diluted net income (loss) per share of common stock attributable to common shareholders. 
+ 23 
+ Table of Contents 
+ The following table sets forth the computation of unaudited pro forma basic and diluted net loss per share of 
+ common stock attributable to common shareholders for the period presented : | (in millions, except per share data) | Three Months 
+ Ended 
+ March 31, 2026 | Year Ended 
+ December 31, 
+ 2025 | Numerator: | Net loss attributable to common shareholders, basic and diluted | $ (4,947) | $ (4,937) | Pro forma adjustment to reverse the deemed dividend on SpaceX Redeemable 
+ Convertible Preferred Stock, basic and diluted | 565 | — | Pro Forma net loss attributable to common shareholders, basic and diluted | $ (4,382) | $ (4,937) | Denominator: | Weighted average shares used in computing net loss per share of common 
+ stock, basic and diluted | 3,884 | 2,926 | Pro forma adjustment to reflect the Preferred Conversion as if the conversion 
+ occurred on January 1, 2025, basic and diluted | 6,723 | 6,723 | Weighted average shares used in computing pro forma net loss per share of 
+ common stock, basic and diluted | 10,607 | 9,649 | Pro forma net loss per share of common stock attributable to common 
+ shareholders, basic and diluted (2) | $ (0.41) | $ (0.51) | __________________ 
+ (2) Pro forma basic and diluted net loss per share of common stock attributable to common shareholders and weighted-average number of 
+ shares used in the computation of the per share amount gives effect to (i) the Preferred Conversion as if such conversion had occurred as of 
+ January 1, 2025, (ii) the Class C Reclassification as if such reclassification had occurred as of January 1, 2025, and (iii) the effectiveness of 
+ our charter, which will become effective upon the completion of this offering. 
+ Statement of Cash Flows Data: | Three Months Ended March 31, | Year Ended December 31, | 2026 | 2025 | 2025 | 2024 | 2023 | (in millions) | (unaudited) | Net cash provided by operating 
+ activities | $ 1,047 | $ 727 | $ 6,785 | $ 5,776 | $ 4,520 | Net cash used in investing activities .. | $ (16,724) | $ (4,170) | $ (19,575) | $ (10,796) | $ (4,867) | Net cash provided by financing 
+ activities | $ 7,125 | $ 354 | $ 26,350 | $ 11,830 | $ 422 | Capital Expenditures: 
+ The following table presents our capital expenditures by segment: | Three Months Ended March 31, | Year Ended December 31, | 2026 | 2025 | 2025 | 2024 | 2023 | (in millions) | (unaudited) | Space | $ 1,052 | $ 759 | $ 3,832 | $ 2,032 | $ 1,497 | Connectivity | 1,332 | 814 | 4,178 | 3,498 | 2,455 | AI | 7,723 | 2,567 | 12,727 | 5,633 | 463 | Total Capital Expenditures | $ 10,107 | $ 4,140 | $ 20,737 | $ 11,163 | $ 4,415 | 24 
+ Table of Contents 
+ Balance Sheet Data: | March 31, | December 31, | 2026 | 2025 | 2024 | (in millions) | (unaudited) | Cash and cash equivalents | $ 15,852 | $ 24,747 | $ 11,385 | Total current assets | 29,732 | 30,952 | 16,108 | Property, plant, and equipment, net | 53,879 | 42,602 | 21,147 | Total assets | 102,094 | 92,079 | 57,062 | Debt and finance leases, current | 1,538 | 928 | 372 | Total current liabilities | 24,436 | 21,400 | 11,791 | Total liabilitie
+
+----------
+
+ectivity segment. 
+ Revenue disaggregated by type and segment is as follows: | Year Ended December 31, | 2025 | 2024 | 2023 | Launch Services | $ 2,576 | $ 2,584 | $ 1,964 | Launch & Development | 1,510 | 1,212 | 1,593 | Space | 4,086 | 3,796 | 3,557 | Consumer | 7,208 | 4,830 | 2,817 | Enterprise & Government (1) | 4,179 | 2,769 | 1,052 | Connectivity | 11,387 | 7,599 | 3,869 | Advertising | 1,844 | 1,728 | 2,323 | AI Solutions & Infrastructure | 1,357 | 892 | 638 | AI | 3,201 | 2,620 | 2,961 | Total revenues | $ 18,674 | $ 14,015 | $ 10,387 | ___________________ 
+ (1) Enterprise & Government revenue includes revenue from Starlink Mobile service offerings. 
+ Deferred revenue 
+ Deferred revenue is recorded when cash payments are received or due, in advance of the Company’s performance. 
+ Deferred revenu e primarily relates to Space agreements and Connectivity enterprise and government contracts. Total 
+ deferred revenue as of December 31, 2024 was $10,179 million , of which $4,080 million was recognized as revenue 
+ for the year ended December 31, 2025 . Total deferred revenue as of December 31, 2025 was $12,116 million . 
+ Revenue recognized during the years ended December 31, 2024 and 2023 that were included in the deferred revenue 
+ balance at the beginning of each period was $3,414 million and $2,691 million , respectively. 
+ Backlog 
+ The Company’s backlog represents the transaction price of performance obligations to customers for which work 
+ remains to be performed. T
+
+----------
+
+incremental cost of these security benefits are reported in the “—Executive Compensation Tables—2025 Summary 
+ Compensation Table” below. No other material perquisites are provided to our NEOs. 
+ Other Matters 
+ 2026 Compensation Developments 
+ On January 13, 2026, our board approved the grant of 1 billion performance-based restricted shares of Class B 
+ common stock to Mr. Musk. The restricted shares vest upon (i) our achievement of specified market capitalization 
+ milestones across 15 equal tranches and (ii) the Company’s establishment of a permanent human colony on Mars 
+ with at least one million inhabitants, in each case, subject to Mr. Musk’s continued employment with us through the 
+ date on which achievement is certified by our board. Mr. Musk has the right to vote all of these performance-based 
+ restricted shares of Class B common stock that remain outstanding. For any tranche of the award to vest, both the 
+ applicable market capitalization milestone for such tranche and the human colony milestone must be met. In 
+ connection with the xAI Merger that closed on February 2, 2026, the market capitalization milestones were 
+ equitably adjusted in accordance with the terms of the award agreement to the following: | Restricted Shares Subject to Tranche | Market Capitalization 
+ Milestone | 66,666,665 | $ 500,000,000,000 | 66,666,665 | $ 1,000,000,000,000 | 66,666,665 | $ 1,500,000,000,000 | 66,666,665 | $ 2,000,000,000,000 | 66,666,665 | $ 2,500,000,000,000 | 66,666,665 | $ 3,000,000,000,000 | 66,666,665 | $ 3,500,000,000,000 | 66,666,665 | $ 4,000,000,000,000 | 66,666,665 | $ 4,500,000,000,000 | 66,666,665 | $ 5,000,000,000,000 | 66,666,670 | $ 5,500,000,000,000 | 66,666,670 | $ 6,000,000,000,000 | 66,666,670 | $ 6,500,000,000,000 | 66,666,670 | $ 7,000,000,000,000 | 66,666,670 | $ 7,500,000,000,000 | In connection with the xAI Merger, we also assumed a performance stock award originally granted to Mr. Musk by 
+ xAI on November 26, 2025. In accordance with the terms of that award agreement, the award was adjusted to 
+ account for the xAI Merger and, following such adjustment, reflected Mr. Musk’s right to receive shares of our 
+ Class A common stock equal to 0.20% of the fully diluted capitalization of the Company upon achievement of each 
+ 236 
+ Table of Contents 
+ of 12 valuation milestones ranging from $1.065 trillion to $6.565 trillion, with each milestone reflecting $500 billion 
+ in additional valuation, in each case, subject to Mr. Musk’s continued employment with us. The first valuation 
+ milestone was achieved prior to the xAI Merger, and Mr. Musk was issued 25,172,695 shares of our Class A 
+ common stock in settlement of that portion of the award. On March 23 , 2026, this award and the 25,172,695 shares 
+ earned upon achievement of the first valuation milestone were cancelled and replaced with a grant of 302,072,285 
+ performance-based restricted shares of Class B common stock, which vest upon both (i) achievement of specified 
+ market capitalization milestones across 12 equal tranches ranging from $1.065 trillion to $6.565 trillion, with each 
+ milestone reflecting $500 billion in additional valuation, and (ii) the Company’s completion of non-Earth-based data 
+ centers capable of delivering 100 terawatts of compute per yea
+
+----------
+
+ | Number | % | Number | % | % | Number | % | Number | % | % | 5% Shareholders: | Elon Musk (1) | 849,494,440 | 12.3 % | 5,569,053,075 | 93.6 % | 85.1 % | 849,494,440 | 11.3 % | 5,569,053,075 | 93.6 % | 84.4 % | Named Executive Officers and 
+ Directors: | Elon Musk (1) | 849,494,440 | 12.3 % | 5,569,053,075 | 93.6 % | 85.1 % | 849,494,440 | 11.3 % | 5,569,053,075 | 93.6 % | 84.4 % | Gwynne Shotwell (2) | 5,759,610 | * | 7,113,550 | * | * | 5,759,610 | * | 7,113,550 | * | * | Bret Johnsen (3) | 9,048,565 | * | — | * | * | 9,048,565 | * | — | * | * | Ira Ehrenpreis (4) | 809,050 | * | 564,650 | * | * | 809,050 | * | 564,650 | * | * | Randy Glein (5) | 277,800 | * | — | * | * | 277,800 | * | — | * | * | Antonio J. Gracias (6) | 503,414,530 | 7.3 % | — | * | * | 503,414,530 | 6.7 % | — | * | * | Donald Harrison | — | * | — | * | * | — | * | — | * | * | Steve Jurvetson | — | * | — | * | * | — | * | — | * | * | Luke Nosek (7) | 32,987,360 | * | — | * | * | 32,987,360 | * | — | * | * | All executive officers and 
+ directors as a group (9 persons) . | 1,401,791,355 | 20.2 % | 5,576,731,275 | 93.7 % | 86.0 % | 1,401,791,355 | 18.7 % | 5,576,731,275 | 93.7 % | 85.3 % | __________________ 
+ * Represents beneficial ownership or voting power of less tha n 1%. 
+ (1) Includes (i) 1,302,072,285 shares of restricted Class B common stock issued to and held of record by Mr. Musk, which may be voted by Mr. Musk, and the 
+ vesting of which is subject to the satisfaction of certain performance and other conditions, (ii) 842,091,670 shares of Class A common stock and 3,788,654,145 
+ shares of Class B common stock held of record by the Elon Musk Revocable Trust dated July 22, 2003, of which Mr. Musk serves as trustee, (iii) 900,495 shares 
+ of Class B common stock held of record by the Musk 2017 Sprinkling Trust dated 12/12/2017, of which Mr. Musk serves as trustee, (iv) 7,402,770 shares of Class 
+ A common stock held of record by the EM 2024 GRAT-A under agreement dated November 26, 2024, of which Mr. Musk serves as trustee, (v) 127,426,150 
+ shares of Class B common stock held of record by the Mission Trust dated December 12, 2019, of which Mr. Musk serves as trustee, and (vi) 350,000,000 shares 
+ of Class B common stock issuable to Mr. Musk upon exercise of options exercisable within 60 days of May 1, 2026. The reported amounts include 237,530 shares 
+ of Class A common stock pledged as security for personal indebtedness. 
+ (2) Includes (i) 2,472,035 shares of Class A common stock and 7,113,550 shares of Class B common stock held of record by Ms. Shotwell, (ii) 1,556,055 shares of 
+ Class A common stock held of record by QM GS 2021 Exempt Trust, of which Ms. Shotwell and her spouse serve as trustees, (iii) 1,556,005 shares of Class A 
+ common stock held of record by QM RS 2021 Exempt Trust, of which Ms. Shotwell and her spouse serve as trustees, and (iv) 175,515 shares of Class A common 
+ stock issuable to Ms. Shotwell upon exercise of options exercisable within 60 days of May 1, 2026. 
+ (3) Includes (i) 2,518,540 shares of Class A common stock held of record by B & C Johnsen Holdings LLC, of which Mr. Johnsen and his spouse serve as managers, 
+ (ii) 3,867,560 sh
+
+----------
+
+ld create actual or perceived conflicts of interest, particularly with respect to the 
+ allocation of time, resources, business opportunities, or strategic decisions. In addition, our charter provides that, to 
+ the fullest extent permitted by applicable law, we renounce certain corporate opportunities that may be presented to 
+ Mr. Musk and certain of our directors and their respective affiliates, and such persons may have no duty to present 
+ such opportunities to us. Please refer to “Description of Capital Stock—Corporate Opportunities.” Any actual or 
+ perceived conflicts of interest could harm our reputation, lead to disputes, divert management attention, or result in 
+ decisions that are not in the best interests of us or our shareholders, which could materially and adversely affect our 
+ business, financial condition, results of operations, and future prospects. 
+ We are highly de
+
+----------
+
+ompany to deploy a coherent gigawatt-scale AI training cluster. We 
+ own and operate what we believe to be the largest AI training data center clusters on Earth, including 
+ COLOSSUS and COLOSSUS II. The addition of Terafab, a chip manufacturing initiative with Tesla and Intel, 
+ aims to further extend our vertical integration to chip design and manufacturing to alleviate potential future chip 
+ shortages at SpaceX, optimize compute performance, and potentially reduce overall compute costs. In 
+ connection with such collaboration, we have agreed with Tesla on a general framework for the future 
+ development of Terafab. Any specific projects undertaken pursuant to this framework will be subject to separate 
+ negotiations and agreements (including any development timelines, milestones and capital expenditures) and 
+ have not yet been determined. We believe that the key constraints in the continued growth of AI are physical— 
+ 7 
+ Table of Contents 
+ chip manufacturing, data center infrastructure, and power generation; the future of AI will be determined by the 
+ control of the physical
+
+----------
+
+ading frontier models and compute infrastructure 
+ to deliver consumer and enterprise applications. Together with Tesla, we are also developing Macrohard, an 
+ agentic AI platform designed to be capable of fully emulating digital workflows and augmenting human 
+ operation of computers using sophisticated autonomous agents. We believe Macrohard will have the potential to 
+ fundamentally transform how companies are structured and operate, thereby allowing dramatic increases in 
+ human productivity. 
+ Our Repeatable Business Model 
+ Our business model is built on a repeatable, engineering-driven

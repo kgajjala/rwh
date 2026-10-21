@@ -4,6 +4,35 @@
 
 ---
 
+## [2026-10-21] — Q3 2026 earnings + Tesla merger committees (v7.0 migration)
+
+**Trigger**: Q3 2026 results and call, Oct 20 ([8-K](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm)); Musk confirmed SpaceX and Tesla special committees are studying a merger. First material event since the v3.0 ingest, so the page migrates to a v7 deep dive.
+**Sources**: [Q3 release](../../../raw/SPCX/press-releases/2026-10-20_Q3-2026_release.txt) · [Q3 call](../../../raw/SPCX/transcripts/2026-10-20_Q3-2026_call.txt) · [Q2 release](../../../raw/SPCX/press-releases/2026-08-04_Q2-2026_release.txt) · [prospectus excerpts](../../../raw/SPCX/filings/2026-06-12_424B4_excerpts.txt) · [Cursor 8-K](../../../raw/SPCX/filings/2026-08-14_8-K_Cursor-close.txt) · [merger study](../../insights/SPCX-TSLA-merger-exchange-ratio-2026-10-21.md) · Yahoo / StockAnalysis (Oct 20 close)
+
+### Scorecard
+- Starlink ARPU stabilizes — ✅ Pass — $66 → $69, first rise in the disclosed series
+- AI compute revenue on schedule — ✅ Pass — SI solutions and infrastructure $7.0B (from $0.36B); 1.7 GW
+- Cursor rationale and cash burn explained — ✅ Pass — $608M of revenue in six weeks; $23B of the $60B is retention pay; Q4 capex $35–40B
+
+### Changed
+- **Schema**: v3.0 → **v7.0** (segment model on the Q1 2027 run-rate; competence Outside, 25/50/25)
+- **Revenue**: Q3 $14.6B (+161%); SI $7.6B is now the largest segment; Q1 2027 guided to $33–37B
+- **Price**: $145.30 → **$147.79** (≈$161 overnight)
+- **Economic shares**: 12.7B diluted, excluding 1.30B unvested Musk award shares
+- **New tests**: the Q1 2027 guide, funding without cheap equity, and Starship full reuse
+- **Merger**: an option line at 65% × −$8 (premium paid to Tesla holders)
+- **BAIT**: Double (B+I) → **Single (I)**
+- **Outsider grade**: Reinvestor, Anti-Outsider-leaning on M&A
+
+### Status
+- **Thesis**: Strengthened (business); the price absorbed it
+- **PW EV**: $185 → **$220** · **PW return/yr**: ≈4.9% → **8.3%** (hurdle 13%) · **R/R**: 2.3 → **3.0** · **BAIT**: Double → Single (I)
+- **Verbs**: non-holder Watch (entry <$110 → **≤$120**) · holder Hold
+
+**Next trigger**: Tesla Q3 (Oct 21); Starship Flight 15 (Nov); merger terms; Q4 print (late Jan 2027).
+
+---
+
 ## [2026-07-13] — AI/Compute Deep Dive: Chip Mix + GPU Market Pricing Back-Calculation
 
 **Trigger**: User-requested deep dive on the GPU-compute-leasing business, same day as initial ingest — (1) identify the specific Nvidia chip generations leased to Anthropic, Google, and Reflection; (2) research third-party GPU cloud-rental price trackers for hourly rates; (3) back-calculate implied capacity-share and $/GPU-hour pricing for each customer against those market benchmarks; (4) add as a subsection to the AI/Compute Top-to-Bottom funnel.

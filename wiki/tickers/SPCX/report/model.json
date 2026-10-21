@@ -1,0 +1,151 @@
+{
+ "spot": 147.79,
+ "dps": 0.0,
+ "discount_rate": 0.1,
+ "hurdle": 0.13,
+ "last_year": 2031,
+ "risk_free": 0.0515,
+ "fy_prefix": "FY",
+ "eps_label": "GAAP EPS",
+ "segment_names": {
+  "SI": "Super Intelligence",
+  "CONN": "Connectivity",
+  "SPACE": "Space"
+ },
+ "base": {
+  "year": 2026,
+  "shares": 12.7,
+  "corp_pct": 0.0,
+  "other": -1.5,
+  "tax": 0.18,
+  "sbc_pct": 0.08,
+  "eps_excludes_sbc": false,
+  "oe_conversion": 0.85,
+  "segments": {
+   "SI": {
+    "rev": 106.0,
+    "margin": 0.2
+   },
+   "CONN": {
+    "rev": 26.0,
+    "margin": 0.44
+   },
+   "SPACE": {
+    "rev": 8.0,
+    "margin": -0.05
+   }
+  }
+ },
+ "other_growth": 0.12,
+ "cases": {
+  "Bull": {
+   "role": "bull",
+   "prob": 0.25,
+   "pe": 35,
+   "tax": 0.21,
+   "sbc_pct": 0.05,
+   "dilution": 0.015,
+   "buyback": 0.0,
+   "segments": {
+    "SI": {
+     "g": 0.414,
+     "m": 0.35
+    },
+    "CONN": {
+     "g": 0.267,
+     "m": 0.5
+    },
+    "SPACE": {
+     "g": 0.14,
+     "m": 0.2
+    }
+   },
+   "tier": "Plausible",
+   "story": "About 30 GW installed by 2031 renting near $20B per GW-year: Super Intelligence revenue about $600B at a 35% operating margin; Starlink compounds about 27% a year from its run-rate as V3 and Mobile V2 fill; Starship makes Space profitable. 35× a business still growing fast."
+  },
+  "Base": {
+   "role": "base",
+   "prob": 0.5,
+   "pe": 30,
+   "tax": 0.21,
+   "sbc_pct": 0.06,
+   "dilution": 0.02,
+   "buyback": 0.0,
+   "segments": {
+    "SI": {
+     "g": 0.187,
+     "m": 0.25
+    },
+    "CONN": {
+     "g": 0.17,
+     "m": 0.45
+    },
+    "SPACE": {
+     "g": 0.05,
+     "m": 0.1
+    }
+   },
+   "tier": "Probable",
+   "story": "Management's 13 GW lands about a year late, then about 15 GW renting near $16B per GW-year as GPU prices deflate: Super Intelligence revenue about $250B at a cloud-like 25% margin; Starlink about 17% a year at 45%; 2% a year dilution from stock pay and funding."
+  },
+  "Bear": {
+   "role": "bear",
+   "prob": 0.25,
+   "pe": 22,
+   "tax": 0.21,
+   "sbc_pct": 0.07,
+   "dilution": 0.045,
+   "buyback": 0.0,
+   "segments": {
+    "SI": {
+     "g": 0.025,
+     "m": 0.12
+    },
+    "CONN": {
+     "g": 0.09,
+     "m": 0.35
+    },
+    "SPACE": {
+     "g": -0.032,
+     "m": -0.05
+    }
+   },
+   "tier": "Probable",
+   "story": "Compute turns into a commodity: rental prices fall faster than chips depreciate, Super Intelligence revenue stalls near $120B at a 12% margin, and the build is funded partly with equity sold low (4.5% a year dilution). Starlink keeps growing but cannot carry the price."
+  }
+ },
+ "optionality": [
+  {
+   "name": "Orbital compute and Musk's $500B+ ARR path",
+   "prob": 0.02,
+   "value": 900,
+   "story": "Musk's end-2027 ARR target of $500B–$1T met and sustained, then orbital data centers on a reusable Starship; possible, not plausible"
+  },
+  {
+   "name": "Tesla merger: premium paid to Tesla holders",
+   "prob": 0.65,
+   "value": -8,
+   "story": "about a 4% transfer of value to Tesla holders if the deal closes on PW terms (see the merger chapter)"
+  }
+ ],
+ "diagnostics": {
+  "Priced-in": {
+   "label": "Priced-in (10%/yr)",
+   "target_return": 0.1,
+   "pe": 30,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  },
+  "Hurdle": {
+   "label": "Hurdle (13%/yr)",
+   "target_return": 0.13,
+   "pe": 30,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  }
+ }
+}

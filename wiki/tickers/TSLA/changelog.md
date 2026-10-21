@@ -4,6 +4,35 @@
 
 ---
 
+## [2026-10-21] — SpaceX merger committees, $30B credit lines, Q3 deliveries, 2026 proxy (v7.0 migration)
+
+**Trigger**: Musk confirmed on SpaceX's Q3 call (Oct 20) that Tesla and SpaceX formed special committees to study a merger. Also in the window: the [$30B credit facilities 8-K](../../../raw/TSLA/filings/2026-09-29_8-K_credit-facilities.txt) (Sep 29), [Q3 deliveries](../../../raw/TSLA/press-releases/2026-10-02_Q3-2026_production-deliveries.txt) (Oct 2) and the [2026 proxy](../../../raw/TSLA/filings/2026-10-19_DEF14A_excerpts.txt) (Oct 19). Material event on a pre-v7 page, so the page migrates to a v7 deep dive. Baseline 2026-09-07.
+**Sources**: [Q2 Update](../../../raw/TSLA/press-releases/2026-07-22_Q2-2026_update.txt) · [Q2 call](../../../raw/TSLA/transcripts/2026-07-22_Q2-2026_call.txt) · [SpaceX Q3 call](../../../raw/SPCX/transcripts/2026-10-20_Q3-2026_call.txt) · [SEC XBRL](https://data.sec.gov/api/xbrl/companyfacts/CIK0001318605.json) · [merger study](../../insights/SPCX-TSLA-merger-exchange-ratio-2026-10-21.md) · Yahoo / StockAnalysis (Oct 20 close)
+
+### Scorecard
+- Robotaxi economics disclosed — 🟡 Pending — nothing filed; resolves in the Q3 update (Oct 21)
+- Optimus is production — 🟡 Pending — the Q3 delivery release is silent; resolves in the Q3 update
+- Europe is a model-year gap — 🟡 Pending — EU Jan–Aug: BYD 177,752 vs Tesla 142,165; September ACEA data due late October
+
+### Changed
+- **Schema**: v4.0 → **v7.0** (four-segment model; competence Outside, 25/45/30)
+- **Price**: $354.08 → **$373.71** (+5.5%)
+- **Q3 deliveries**: 486,532 (**−2%** YoY); storage 13.7 GWh
+- **Credit**: $30B of new facilities ($20B delayed-draw term loan); none drawn
+- **Proxy**: meeting Dec 3, with no merger item. Musk owns 19.8%, with 207.5M shares pledged. In a change in control, unearned 2025-award shares vest only on market-cap milestones (first at $2T)
+- **Bear**: $120 → **$57**. A no-recovery Bear can't carry 2023-level earnings; EPV ≈$34
+- **Base**: $330 → **$234**; **Bull**: $850 → **$548**. Optimus moved to an option line (10% × $250)
+- **Merger**: an option line at 65% × $16
+
+### Status
+- **Thesis**: Weakened (method plus capital intensity; the merger premium partly offsets)
+- **PW EV**: $381 → **$295** · **PW return/yr**: ≈+1.5% → **−4.6%** (hurdle 13%) · **R/R**: 2.1 → **0.5** · **BAIT**: None
+- **Verbs**: non-holder Watch (entry ≤$324 → **≤$160**) · holder Hold → **Trim** (bias check in the Valuation chapter: evidence and method, not price)
+
+**Next trigger**: Q3 update and call **tonight (Oct 21)**; ACEA September data; merger terms.
+
+---
+
 ## [2026-09-07] — Cybercab Commercial Launch + NHTSA Audit + Optimus Production (v4.0 migration)
 
 **Trigger**: Five-week window, no earnings. Cybercab began charging fares in Austin (Sep 3); NHTSA opened audit [AQ26002](https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification) into its FMVSS self-certification the same day (stock −5.9% Sep 4). Optimus reportedly entered production at Fremont ~Aug 31 (+4.7%). Baseline 2026-08-02.

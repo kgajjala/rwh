@@ -1,0 +1,165 @@
+{
+ "spot": 373.71,
+ "dps": 0.0,
+ "discount_rate": 0.1,
+ "hurdle": 0.13,
+ "last_year": 2031,
+ "risk_free": 0.0515,
+ "fy_prefix": "FY",
+ "eps_label": "GAAP EPS",
+ "segment_names": {
+  "AUTO": "Automotive",
+  "ENERGY": "Energy storage",
+  "SERV": "Services and other",
+  "AUTON": "Autonomy (FSD + robotaxi)"
+ },
+ "base": {
+  "year": 2026,
+  "shares": 3.54,
+  "corp_pct": 0.03,
+  "other": 1.2,
+  "tax": 0.2,
+  "sbc_pct": 0.026,
+  "eps_excludes_sbc": false,
+  "oe_conversion": 1.0,
+  "segments": {
+   "AUTO": {
+    "rev": 74.0,
+    "margin": 0.025
+   },
+   "ENERGY": {
+    "rev": 12.5,
+    "margin": 0.14
+   },
+   "SERV": {
+    "rev": 18.9,
+    "margin": 0.08
+   },
+   "AUTON": {
+    "rev": 1.6,
+    "margin": 0.5
+   }
+  }
+ },
+ "other_growth": 0.0,
+ "cases": {
+  "Bull": {
+   "role": "bull",
+   "prob": 0.25,
+   "pe": 50,
+   "corp_pct": 0.02,
+   "dilution": 0.02,
+   "buyback": 0.0,
+   "segments": {
+    "AUTO": {
+     "g": 0.08,
+     "m": 0.09
+    },
+    "ENERGY": {
+     "g": 0.28,
+     "m": 0.17
+    },
+    "SERV": {
+     "g": 0.14,
+     "m": 0.12
+    },
+    "AUTON": {
+     "g": 1.1,
+     "m": 0.55
+    }
+   },
+   "tier": "Plausible",
+   "story": "Unsupervised robotaxi in 50+ metros with disclosed per-mile economics; FSD and robotaxi revenue about $65B; storage compounds 28% a year; auto margin rebuilds to 9%. Half the CEO award's tranches vest (2% a year dilution). 50× a business still growing over 20%."
+  },
+  "Base": {
+   "role": "base",
+   "prob": 0.45,
+   "pe": 50,
+   "corp_pct": 0.025,
+   "dilution": 0.01,
+   "buyback": 0.0,
+   "segments": {
+    "AUTO": {
+     "g": 0.04,
+     "m": 0.065
+    },
+    "ENERGY": {
+     "g": 0.2,
+     "m": 0.15
+    },
+    "SERV": {
+     "g": 0.1,
+     "m": 0.1
+    },
+    "AUTON": {
+     "g": 0.7,
+     "m": 0.5
+    }
+   },
+   "tier": "Probable",
+   "story": "Autonomy real but regional: about 300K robotaxis and 5M FSD subscribers make about $23B of revenue at 50%; storage 20% a year; auto margin back to 6.5%. The premium persists because the story keeps growing: 50×."
+  },
+  "Bear": {
+   "role": "bear",
+   "prob": 0.3,
+   "pe": 27,
+   "corp_pct": 0.025,
+   "dilution": 0.01,
+   "buyback": 0.0,
+   "segments": {
+    "AUTO": {
+     "g": 0.02,
+     "m": 0.05
+    },
+    "ENERGY": {
+     "g": 0.15,
+     "m": 0.13
+    },
+    "SERV": {
+     "g": 0.08,
+     "m": 0.09
+    },
+    "AUTON": {
+     "g": 0.25,
+     "m": 0.45
+    }
+   },
+   "tier": "Probable",
+   "story": "Camera-only autonomy stays geofenced and supervised in most places; BYD holds price in Europe and Asia; auto margin recovers only to 5% as capex ends. A car-and-storage company with a brand premium: 27×."
+  }
+ },
+ "optionality": [
+  {
+   "name": "Optimus at scale",
+   "prob": 0.1,
+   "value": 250,
+   "story": "a million-plus humanoid robots a year by 2031; possible, not plausible, given Musk's own warning that the ramp starts flat and long"
+  },
+  {
+   "name": "SpaceX merger premium",
+   "prob": 0.65,
+   "value": 16,
+   "story": "about a 6% gain for Tesla holders if the deal closes on PW terms (see the merger chapter)"
+  }
+ ],
+ "diagnostics": {
+  "Priced-in": {
+   "label": "Priced-in (10%/yr)",
+   "target_return": 0.1,
+   "pe": 50,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  },
+  "Hurdle": {
+   "label": "Hurdle (13%/yr)",
+   "target_return": 0.13,
+   "pe": 50,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  }
+ }
+}

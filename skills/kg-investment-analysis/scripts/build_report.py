@@ -82,7 +82,7 @@ def build_vars(data, mo):
                 probs[sh["from"]] -= sh["points"]; probs[sh["to"]] += sh["points"]
             if "value" in sh: vals[sh["case"]] = sh["value"]
             if "eps" in sh: vals[sh["case"]] = sh["eps"] * mo["cases"][sh["case"]]["inputs"]["pe"]
-            pw = sum(vals[n] * p for n, p in probs.items())
+            pw = sum(vals[n] * p for n, p in probs.items()) + s.get("optionality_value", 0)   # option lines stay in, as in the headline PW EV
             ret = (pw / spot) ** (1 / yrs) - 1 + y; ent = pw / (1 + s["hurdle"] - y) ** yrs
             v[f"test{i}.pw_ev"] = money(pw); v[f"test{i}.pw_return"] = pct(ret); v[f"test{i}.entry"] = money(ent)
             v[f"test{i}.verb"] = "Initiate" if ret >= s["hurdle"] and spot <= ent else "Watch"
@@ -249,7 +249,7 @@ def return_math(mo, data, V):
         rows.append(["Compounding at a flat multiple", T("compounding", f"Base per-share earnings growth {pct(cases[roles['base']]['eps_cagr'])} + {pct(mo['yield'])} dividend = **{pct(s['compounding'])}**. " +
                      (f"Re-rating adds {rr*100:.1f} points to the Base return ({share:.0%} of it)" if rr >= 0 and share is not None else
                       f"Re-rating subtracts {abs(rr)*100:.1f} points from the Base return: the multiple compresses") +
-                     (". More than half the return from re-rating means Watch." if share is not None and share > 0.5 else "."))])
+                     (". More than half the return from re-rating means Watch." if share is not None and rr > 0 and share > 0.5 else "."))])
     opts = s.get("optionality", [])
     rows.append(["Optionality", "; ".join(f"{o['name']}: {pct(o['prob'],0)} × {money(o['value'])} = {money(o['prob']*o['value'],1)}" for o in opts) if opts else T("optionality", "None valued.")])
     pi = mo["diagnostics"].get("Priced-in")
@@ -565,7 +565,7 @@ def front_matter(data, mo, V, rdir, rel_report):
          f"**Breaks if**: {subst(vd['breaks_if'],V)}", ""]
     warn = []
     if s.get("fragile"): warn.append(f"⚠️ **Probability-fragile**: break-even Bear odds {V.get('breakeven_bear')} against {pct(s.get('bear_prob'),0)} assigned.")
-    if s.get("rerating_share") is not None and s["rerating_share"] > 0.5: warn.append(f"⚠️ **Re-rating test**: {V['rerating_share']} of the Base return comes from the multiple, so the non-holder verb is Watch, not Initiate.")
+    if s.get("rerating_share") is not None and s.get("rerating", 0) > 0 and s["rerating_share"] > 0.5: warn.append(f"⚠️ **Re-rating test**: {V['rerating_share']} of the Base return comes from the multiple, so the non-holder verb is Watch, not Initiate.")
     if s.get("g_above_risk_free"): warn.append(f"⚠️ **Terminal-growth check**: implied perpetual growth exceeds the risk-free rate in {', '.join(s['g_above_risk_free'])}.")
     if warn: L += warn + [""]
     L += ["## The Call", "", subst(data["call"], V).strip(), "",

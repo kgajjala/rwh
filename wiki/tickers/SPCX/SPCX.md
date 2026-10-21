@@ -1,480 +1,515 @@
 # SPCX — Space Exploration Technologies Corp.
 
-**Schema**: v3.0
-**Last Updated**: 2026-07-13
-**Status**: Active
-**Live Price**: $145.30 (intraday, July 13, 2026; prior close $152.16) — [stockanalysis-style aggregator via WebSearch synthesis; direct Yahoo/SEC fetch returned 403 this session]
+> **Schema** v7.0 · **Updated** 2026-10-21 · **Status** Active
+> **Price** $147.79 verified Oct 20, 2026 close; ≈$161 overnight after the Q3 print ([Yahoo](https://finance.yahoo.com/quote/SPCX/)) · 52-wk $104.83–$225.64 · 36th %ile · −34.5% from high
+> **Type** Launch, LEO satellite connectivity and AI compute (Super Intelligence) under one roof · **Stage** Early growth · **Cyclical** No · **Competence** Outside
 
----
+## Verdict
 
-## Summary
+**SpaceX now earns real money, but at $148 the price already pays for my Base case of a compute business that keeps its pricing; the probability-weighted case returns 8.3% a year against the 13% hurdle.**
 
-**Thesis**: SpaceX is a five-week-old public company (Nasdaq debut June 12, 2026, the largest IPO in history at a ~$1.8T valuation) that is really three businesses in one filing: a dominant, profitable launch-and-satellite-internet operator (Starlink threw off $7B of segment EBITDA at 63% margin in FY2025) that has, via the February 2026 xAI merger, bolted on a third, fast-scaling AI-compute-leasing business (Anthropic and Google have signed a combined ≈$75B of multi-year GPU-rental contracts). The stock rocketed from its $135 offer price to a $225.64 ATH in four trading days, then round-tripped to a fresh all-time low of $145.07 as a surprise $60B all-stock acquisition (Cursor/Anysphere), a $25B bond sale that immediately traded like junk despite an investment-grade rating, and a brutal freefloat/short-interest technical setup (only ≈4–5% of shares are freely tradable; ≈31% of that float is short) collided with a broader tech selloff. Company-disclosed 2028–2030 revenue targets ($120–180B → $200–300B → $400–500B+) require the AI segment to compound at a pace no space or satellite company has ever sustained, gated almost entirely on Starship's unproven at-scale reusability.
-🟡 **Non-holder**: Watch · 🟡 **Holder**: N/A (5-week-old listing; no holders pre-IPO in this wiki's position-agnostic frame)
+🟡 **Non-holder: Watch (entry ≤$120)** · 🟡 **Holder: Hold**
 
-### Scenario Table (5-year terminal, FY2031E)
+| PW EV | PW return/yr | Compounding/yr | R/R | Entry | Trim | Avoid | P/E on run-rate EPS | Yield | BAIT | Moat | Next |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| **$220** | **8.3% (<13%)** | 19.7% EPS, but the multiple halves | 3.0:1 | ≤$120 | $220–$510 | ≥$510 | ≈75× | 0.0% | Single (I) | Wide in launch and Starlink; none yet in compute | 📅 Tesla Q3 Oct 21; Flight 15 Nov |
 
-| 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
-|---|---|---|---|---|---|---|---|
-| $145.07 – $225.64 (5 wks of trading) | $145.30 (≈0th %ile) | $60 | <$110 | $180 / **$185** | $185 – $340 | $340 | **≈2.4:1** |
+**Breaks if**: Compute rental prices fall faster than the GPUs depreciate. Watch the Q1 2027 print against the $33–37B revenue guide, and the funding of a $35–40B capex quarter without selling stock low.
 
-### KPI Strip
+⚠️ **Terminal-growth check**: implied perpetual growth exceeds the risk-free rate in Bull, Base, Bear.
 
-| BAIT | Moat | FY25 P/S (blended) | Free Float | Short % of Float | Next catalyst |
-|---|---|---|---|---|---|
-| **Moderate** (B+I, A-Mixed) | **Wide (Launch/Starlink) / None yet (AI)** | ≈100× | ≈4–5% | ≈31% | Q2 2026 earnings — first print as a public co. (~Aug 2026, unconfirmed) |
+## The Call
 
-### Why / Why not / Next read
+Q3 settled the first question about SpaceX: the AI build earns money. Super Intelligence revenue rose to $7.6B from $0.8B a year ago, the segment made a profit, and management guided Q1 2027 revenue to $33–37B, roughly a $140B run-rate. The price settled the second question too, in the other direction. At $148, about 75 times run-rate earnings, the stock needs FY2031 EPS near $7.93 to earn an ordinary 10% a year. That is about 40% of the way from my Base case to my Bull. The Base assumes a 15 GW compute business whose rental price falls to a third of today's scarcity level, and on it the stock earns nothing. So the whole return rests on how long a watt of compute rents for $30–50 a year. Management's answer is that the price per watt is rising and short contracts capture it. Mine is that short contracts cut both ways, and that a $35–40B capex quarter has to be funded at whatever the stock price is. I give the Bear 25%; the price implies 12%. Excellent businesses, a price that leaves no room: 8.3% a year, clearing 13% only at $120.
 
-🟢 **Why**:
-- Starlink is a real, profitable, structurally-advantaged business today — 10.3M subscribers (Q1 2026, from 2.3M in 2023), $11.4B FY2025 revenue at 63% segment EBITDA margin — and Falcon 9's reusability gives SpaceX ≈80%+ share of global launch, funded by >$22B of cumulative federal contracts
-- The AI-compute pivot is not vaporware: Anthropic ($1.25B/mo through May 2029, exclusive access to a ≈230,000-GPU Memphis cluster), Google ($920M/mo from Oct 2026 through June 2029), and Reflection ($150M/mo from Jul 2026) are signed, named, dollar-quantified contracts — together ramping toward ≈$27.8B/yr of recurring revenue, layered on top of Starlink/Launch
-- The post-IPO crash has already repriced a lot of euphoria out: down ≈36% from the June 16 ATH to a fresh all-time low set just three days before this ingest, with 27 analysts (22–26 Buy) initiating post-quiet-period at targets mostly $190–$300 (Raymond James' outlier $800) versus a $145 spot
+## What I'd Have To Be Wrong About
 
-⚠️ **Why not**:
-- The bond market's own money says this isn't a clean growth story: a $25B bond sale (investment-grade rated) drew $89B of orders two weeks post-IPO, then immediately traded down to junk-like levels in the secondary market — sophisticated credit investors are pricing more execution risk than the equity market initially did
-- A $60B all-stock acquisition of an AI-coding-assistant maker (Cursor/Anysphere), announced the same day as the ATH, diluted shareholders ≈4% with no clearly articulated strategic rationale yet disclosed — a five-day-old public company already testing investor trust in its capital allocation
-- The float is almost artificially thin (≈4–5% of shares outstanding) with ≈31% of that float sold short, and the first of four staggered lockup unlocks hits August 11, 2026 — a known, dated supply overhang arriving alongside the company's first-ever quarterly earnings print as a public company
+1. **That compute pricing holds through the build.** Test: Q1 2027 revenue (reported late April 2027) inside the $33–37B guide, with Q4 2026 Super Intelligence revenue at or above $12B (late January 2027). **If Fail →** move 10 points from Bull to Bear (PW EV $172, 3.1%/yr) → **Watch**, entry $93.
+2. **That the build funds itself without cheap equity.** Test: through the Q2 2027 10-Q (early August 2027), no common-stock sale beyond employee pay and announced acquisitions above 2% of shares, the investment-grade rating kept, and cash and securities above $40B. **If Fail →** move 10 points from Base to Bear (PW EV $209, 7.1%/yr) → **Watch**, entry $113; the reflexive funding loop is live.
+3. **That Starship becomes a reusable launch system.** Test: both stages caught and a ship reflown by June 30, 2027 (Flight 15 in November is the first catch attempt). **If Fail →** move 10 points from Bull to Base (PW EV $184, 4.5%/yr) → **Watch**, entry $100; V3 Starlink and Mobile V2 slip a year.
 
-📅 **Next read**: First earnings report as a public company (Q2 2026, timing unconfirmed — likely late July/August 2026, probably straddling the August 11 lockup unlock) — does Starlink ARPU stabilize, does the Anthropic/Google compute revenue show up on schedule, and does management address the Cursor/Anysphere rationale and cash burn trajectory explicitly for the first time under public-company disclosure.
+## Latest update: 2026-10-21 · Q3 2026: compute turns profitable, and a Tesla merger is on the table
 
----
+- Starlink ARPU stabilizes — ✅ Pass — consumer ARPU $66 → $69 in Q3, the first sequential rise in the disclosed series
+- AI compute revenue arrives on schedule — ✅ Pass — Super Intelligence solutions and infrastructure revenue $7.0B, from $0.36B a year earlier; nameplate 1.7 GW
+- Management explains Cursor and the cash burn — ✅ Pass — Cursor added $608M of revenue in six weeks, but $23B of its $60B price is retention stock pay; Q4 capex guided to $35–40B
 
-## Business Overview
+SpaceX reported its second quarter as a public company after the close on October 20. Revenue was $14.6 billion, up 161% and about $1.8 billion above the roughly $12.8 billion consensus. Adjusted EBITDA was $8.8 billion, and diluted GAAP EPS was $0.35 against about $0.13 expected ([release](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm)). The stock closed at $147.79 before the print and traded near $161 overnight. This report uses the verified close, and a $161 open would lower the PW return by about two points without changing a verb.
 
-Space Exploration Technologies Corp. (Nasdaq: SPCX), commonly SpaceX, is a Hawthorne, California-based aerospace manufacturer and space transportation company founded by Elon Musk in 2002 on the insight that reusable rockets could collapse the cost of access to space by an order of magnitude. That insight compounded for two decades into three distinct, now-public businesses under one roof: **Launch** (Falcon 9, Falcon Heavy, and the in-development Starship), **Starlink** (a low-earth-orbit satellite broadband constellation with 10.3 million subscribers across 164 countries), and — newest and fastest-growing — **AI Infrastructure/Compute**, added via the February 2, 2026 all-stock merger with Elon Musk's xAI (which valued the combined entity at $1.25 trillion). The AI segment leases GPU capacity at SpaceX's Colossus data centers (originally built to train xAI's Grok models) to external customers, with Anthropic and Google now the two largest disclosed tenants.
-
-SpaceX confidentially submitted its S-1 on April 1, 2026, filed publicly on May 20, priced at $135/share on June 11, and began trading June 12, 2026 — the largest IPO in history (segment financials in Key Stats and §1–§2 below). The company is still investing far ahead of GAAP profitability, funding a capex run-rate that hit $10.1B in Q1 2026 alone, the bulk of it now AI-data-center buildout rather than rockets or satellites.
-
-**Leadership**: Elon Musk is CEO and controls ≈79% of total voting power via 94% ownership of 10-vote Class B shares; the S-1 itself discloses he does not devote full time to SpaceX, given concurrent roles at Tesla and (now-merged) xAI. Gwynne Shotwell, President & COO since SpaceX's earliest years, runs day-to-day operations for the ≈22,000-person workforce.
-
----
-
-## Pivotal Investment Question
-
-> **Is SpaceX a profitable, wide-moat launch-and-satellite-internet company that happens to have bolted on a genuinely large, contracted AI-compute business — or is it a rocket company whose stock is now pricing in a 25×-in-five-years AI-infrastructure fantasy that depends entirely on an unproven next-generation rocket (Starship) and a founder who is explicitly disclosed as not full-time?**
-
-The S-1's own 2028–2030 revenue targets ($120–180B → $200–300B → $400–500B+) require the AI segment to become several multiples the size of Starlink and Launch combined within five years, and the filing is explicit that "AI compute satellites at scale need full Starship reusability to be economically compelling" — tying the entire long-dated bull case to a rocket that has flown 11 full-stack test flights and has not yet demonstrated in-orbit refueling. The bond market's skepticism (an investment-grade-rated $25B offering trading at junk-like levels within two weeks) and the stock's round-trip from $225.64 to a fresh $145.07 low are the market's real-time verdict that this question is very much open. This wiki treats SPCX as a single position-agnostic name spanning three underlying businesses of very different quality — a genuinely rare structure that the standard 13-section template stretches to accommodate.
-
----
-
-## Key Stats Snapshot
-
-| Metric | Value | Notes |
-|--------|-------|-------|
-| Live Price | **$145.30** | Intraday, July 13, 2026 |
-| IPO Price | $135.00 | Priced June 11, 2026 |
-| First-Day Open / Close | $150.00 / ≈$160.95 | +11% open, +19% close vs. IPO price |
-| All-Time High | $225.64 | June 16, 2026 (4 trading days post-IPO) |
-| All-Time Low (post-listing) | $145.07 | July 10, 2026 |
-| % From ATH | –35.6% | |
-| % Above ATL | +0.16% | Trading essentially at its post-IPO low |
-| Market Cap | ≈$1.9T | ≈13B shares × $145.30 |
-| Shares Outstanding | ≈13B | [*Estimate*, aggregator-sourced] |
-| Free Float | ≈555.6M–639M (≈4–5% of shares out) | Unusually thin for a mega-cap listing |
-| Short Interest | ≈196M shares (≈31% of float) | Enabled by the thin float; not 31% of total shares |
-| FY2025 Revenue | $18.674B | Starlink 61% / Launch 22% / AI 17% |
-| FY2025 Loss from Operations | –$2.589B | GAAP |
-| FY2025 Adjusted EBITDA | $6.584B | Non-GAAP |
-| Q1 2026 Revenue | $4.694B | Last reported quarter (in the S-1) |
-| Q1 2026 Loss from Operations | –$1.943B | GAAP |
-| Q1 2026 Adjusted EBITDA | $1.127B | Non-GAAP |
-| Q1 2026 Total Capex | $10.1B | Single quarter; >$40B/yr annualized pace |
-| Cash (Mar 31, 2026, pre-IPO) | $15.8B | Pre-IPO-proceeds balance; post-IPO cash materially higher, not yet reported |
-| IPO Net Proceeds | ≈$75B (≈$86B w/ over-allotment) | Largest IPO in history |
-| $25B Bond Sale | Priced ~June 22–23, 2026 | Investment-grade rated; trades at junk-like levels in secondary market |
-| Analyst Consensus | Buy (22–26 Buy / 4 Hold / 1 Sell of 27) | Avg PT ≈$242 across a still-settling panel |
-
----
-
-## Section 1 — Annual Financial Metrics
-
-*SpaceX has no five-year public-company financial history — it IPO'd June 12, 2026. The table below is built from the S-1's disclosed historicals (FY2023–FY2025 + Q1 2026), the only primary-source financial data available. Future weekly/quarterly updates will extend this table with public-company quarters as they are reported.*
-
-| Metric | FY2023 | FY2024 | FY2025 | Q1 2026 |
-|--------|--------|--------|--------|---------|
-| Revenue | [link pending — not captured this pass] | [link pending] | $18.674B | $4.694B |
-| Loss from Operations (GAAP) | [link pending] | [link pending] | –$2.589B | –$1.943B |
-| Adjusted EBITDA | [link pending] | [link pending] | $6.584B | $1.127B |
-| Total Capex | $4.4B | [link pending] | $20.7B | $10.1B |
-| AI-Specific Capex | — | — | [link pending] | $7.723B (vs. $2.567B Q1 2025) |
-| Cash & Equivalents (period end) | [link pending] | [link pending] | [link pending] | $15.8B |
-
-*Sources: [S-1 extraction notes](../../../raw/SPCX/filings/SPCX-S1-2026-notes.md); Kobeissi Letter (X) S-1 citation; Yahoo Finance "SpaceX files IPO prospectus."*
-
-**Key read**: FY2025's $18.674B revenue produced a GAAP operating *loss* of $2.589B but a substantially positive adjusted EBITDA of $6.584B — the gap is heavy depreciation/amortization and stock-based comp layered on an already-massive capex base, not an operationally unprofitable core business. Segment-level detail (§2) shows this GAAP-vs-EBITDA gap is almost entirely a Starlink-plus-AI-buildout phenomenon: Starlink alone was solidly GAAP-operating-profitable ($4.4B) in FY2025. The Q1 2026 AI capex figure ($7.7B, up from $2.6B a year earlier) shows the buildout accelerating sharply right into the IPO window — this is the single most important number in the filing for understanding why the company needed $75–86B of primary IPO proceeds plus a $25B bond raise within weeks of listing.
-
----
-
-## Section 2 — Revenue Mix & Segment Funnels
-
-SpaceX discloses three effective business lines. Rule #26 discipline: each segment's funnel is described once here; §5 (growth) and §6 (risk) reference rather than repeat this detail.
-
-### Segment Revenue Split (FY2025, $18.674B total)
-
-| Segment | FY2025 Revenue | % of Total | Segment Profitability |
-|---------|---------------|-----------|----------------------|
-| **Starlink** | $11.4B | 61% | $4.4B operating profit; ≈$7B segment EBITDA at 63% margin — **the only segment producing meaningful operating income** |
-| **Launch** | ≈$4.1B | 22% | Not separately disclosed as profitable in sources captured this pass — [link pending]; functions partly as a strategic enabler (cheap reusable launch underwrites both Starlink deployment and the AI-satellite ambition) rather than a standalone profit center |
-| **AI/Compute** | ≈$3.2B | 17% | Pre-Anthropic/pre-Google-contract revenue (internal xAI usage transitioning to external leasing); economics not yet disclosed at segment level — this figure will look very different in FY2026 once the external contracts ramp |
-
-### Starlink — Top-to-Bottom Funnel
-1. **Capacity (top of funnel)**: LEO satellite constellation coverage, deployed via SpaceX's own low-cost Falcon 9 launches — coverage now spans 164 countries
-2. **Acquisition (mid-funnel)**: Subscriber growth 2.3M (2023) → 4.4M (2024) → 8.9M (2025) → 10.3M (Q1 2026) — roughly 4.5× in a little over two years
-3. **Monetization (bottom of funnel)**: Monthly ARPU has fallen every period disclosed — $99 → $91 → $81 → $66 (Q1 2026) — as growth pushes into lower-income international markets and cheaper hardware/service tiers (Starlink Mini). **Revenue is still growing because subscriber growth is outrunning ARPU decline**, but the trend raises a real analytical question: is this durable volume-led compounding enabled by falling satellite unit costs (via Starship reusability), or a land-grab that will need re-pricing power later. This is the one segment where the funnel converts cleanly into GAAP profit today.
-
-### Launch — Top-to-Bottom Funnel
-1. **Manifest (top of funnel)**: A mix of internal Starlink-replenishment launches, external commercial launches, and government/NASA/DoD/NRO missions — cumulative federal contracts exceed $22B
-2. **Cadence (mid-funnel)**: ≈140–145 Falcon 9 launches guided for 2026 (Shotwell); SpaceX alone is expected to account for 80–100+ of 250+ total global orbital launches this year — ≈80%+ share of global commercial launch by most measures (methodology varies by source, see §3)
-3. **Monetization (bottom of funnel)**: Per-launch commercial pricing plus large fixed-price government contracts; Falcon Heavy carries higher-value classified NRO/DoD payloads. Booster reuse (now 20+ flights per core on the best-flown vehicles) is the structural cost advantage that makes this cadence commercially viable at all. Segment margin is not separately disclosed in sources captured this pass, but Launch functions as much as a strategic enabler — the cheap-access-to-space engine that makes Starlink *and* the AI-satellite ambition possible — as a standalone profit center.
-
-### AI/Compute — Top-to-Bottom Funnel (the newest, fastest-growing, least-proven segment)
-1. **Capacity (top of funnel)**: Colossus data centers, originally built for internal xAI/Grok training, now being transitioned to external leasing following the Feb 2026 xAI merger. Colossus 1 (Memphis, TN): 220,000+ Nvidia GPUs, 300MW+ power. Colossus 2: went live January 2026 as the world's first gigawatt-scale AI training cluster, upgrading toward 1.5GW.
-2. **Contracting (mid-funnel)**: Three named external customers to date, each tied to a specific Nvidia chip generation. **Anthropic** (signed May 2026, $1.25B/month through May 2029, exclusive access to the *entire* Colossus 1 cluster — a reported mix of ≈150,000 H100 + ≈50,000 H200 + ≈30,000 GB200, ≈230,000 GPUs total, ≈$45B total contract value). **Google** ($920M/month at full rate — ramping through Sept 2026 at a reduced fee first — Oct 2026 through June 2029, ≈110,000 Nvidia GPUs drawn from Colossus 2; chip generation not separately disclosed, though Colossus 2 is reported as predominantly GB200/GB300; ≈$30B total contract value; Google may terminate or accept a reduced fee if SpaceX under-delivers the committed GPU count by Sept 30, 2026). **Reflection** (open-source AI startup; $150M/month starting July 1, 2026, on Nvidia **GB300** chips at Colossus 2, ≈$6.3B if the contract runs through 2029 — the loosest-locked-in of the three, with a 90-day termination clause after an initial 3-month commitment).
-3. **Monetization (bottom of funnel)**: Monthly recurring compute-lease revenue. All three contracts combined ramp toward **≈$27.8B/year** in run-rate revenue once Google's tranche is fully online — a FY2027 event, since Google's contract doesn't reach full rate until October 2026. This is already, on a run-rate basis, larger than either of the other two segments' entire FY2025 revenue — the clearest evidence that AI/Compute is the segment actually driving the company's valuation.
-4. **Longest-dated extension (beyond the current funnel)**: SpaceX has requested FCC authorization for up to 1 million satellites to build "orbital data centers," targeting deployment "as early as 2028," with a stated long-term goal of 100 gigawatts of orbital compute capacity per year. The S-1 itself ties this explicitly to Starship: *"AI compute satellites at scale need full Starship reusability to be economically compelling."* Treat this as a real disclosed ambition, not a near-term revenue driver — see §5 and §6.
-
-#### Deep Dive — Chip Mix, Market Rental Pricing & Back-of-the-Envelope Capacity/Rate Analysis
-
-None of the three contracts disclose an all-in $/GPU-hour rate — the figures below back-calculate one from the disclosed monthly fee, disclosed (or estimated) GPU count, and third-party GPU cloud-rental price trackers, to sanity-check what SpaceX may actually be capturing per chip. **Treat every number in this subsection as a derived estimate, not a disclosed fact** — built on trade-press-reported chip mixes (not S-1/10-Q line items), a 720 hrs/month (24/7, 100%-utilization) assumption, and aggregator pricing that itself varies widely by provider, region, and commitment term.
-
-**Chip mix by customer:**
-
-| Customer | Cluster | GPU Count | Chip Generation(s) | Source |
-|---|---|---|---|---|
-| Anthropic | Colossus 1 (100% exclusive) | ≈230,000 | ≈150K H100 + ≈50K H200 + ≈30K GB200 — a mixed Hopper/early-Blackwell fleet | [HotHardware](https://hothardware.com/news/anthropic-leases-spacexais-220000-nvidia-gpu-colossus), [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-spacex-has-rented-out-access-to-its-supercomputers-220-000-nvidia-gpus-and-300-megawatts-of-ai-compute-power-to-rival-anthropic-musk-says-no-one-set-off-my-evil-detector-antrhropic-also-interested-in-orbital-data-centers) |
-| Google | Colossus 2 (partial) | ≈110,000 | Not separately disclosed; Colossus 2 reported as predominantly GB200/GB300 | [TechCrunch](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/), [MLQ News](https://mlq.ai/news/spacex-signs-920m-per-month-deal-to-lease-110000-nvidia-gpus-to-google-ahead-of-ipo/) |
-| Reflection | Colossus 2 (partial) | Not disclosed — back-calculated below | **GB300** (confirmed — Nvidia's newest Blackwell Ultra chip) | [CNBC](https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html), [Mezha](https://mezha.net/eng/bukvy/8dc1e9a2_reflection_ai_signed/) |
-
-**Market rental price benchmarks (GPU cloud price trackers, as of ~July 2026):**
-
-| Chip | Market On-Demand Range | Mid-Point Used Below | Source |
+| Q3 2026 | Reported | Consensus | Year ago |
 |---|---|---|---|
-| H100 | $1.49–$12.29/hr; cohort median ≈$2.99/hr | $3.00/hr | [Spheron](https://www.spheron.network/blog/gpu-cloud-pricing-comparison-2026/), [IntuitionLabs](https://intuitionlabs.ai/articles/h100-rental-prices-cloud-comparison), [GetDeploying](https://getdeploying.com/gpus/nvidia-h100) |
-| H200 | $2.30–$13.78/hr; cohort median ≈$4.00/hr | $4.00/hr | [Jarvislabs](https://jarvislabs.ai/blog/h200-price), [aimultiple GPU Index](https://aimultiple.com/gpu-index) |
-| GB200/B200 | $4.95–$18.00/hr; on-demand ≈$6.02/hr, spot ≈$5.34/hr | $6.00/hr | [Spheron Network](https://www.spheron.network/gpu-rental/b300/) |
-| GB300 | $4.00–$9.16+/hr; firming near $8.62–$9.16/hr on-demand as of Jul 2026 | $9.00/hr | [Runcrate](https://www.runcrate.ai/pricing/gpu/gb300), [GetDeploying](https://getdeploying.com/gpus/nvidia-b300) |
+| Revenue | **$14.58B** | ≈$12.8B `[Analyst consensus]` | $5.58B |
+| Adjusted EBITDA | **$8.81B** | — | $2.17B |
+| Diluted EPS (GAAP) | **$0.35** | ≈$0.13 `[Analyst consensus]` | $(0.36) |
+| Capex | $19.59B | — | $6.88B |
+| Starlink consumer subscribers | 13.6M | — | 7.2M |
+| Nameplate compute | 1.7 GW | — | 0.6 GW |
 
-**Back-calculation:**
+*Source: Q3 release; consensus from [Benzinga](https://www.benzinga.com/quote/SPCX/earnings-forecasts) before the print.*
 
-| Customer | Monthly Fee | GPU-Hours/Mo (720 hrs) | Implied Blended $/GPU-hr | Market-Rate Comp (mix-weighted) | Implied Premium | Est. % of Colossus (555K total) |
+**What drove it.**
+- **Super Intelligence revenue tripled from Q2 to $7.6 billion.** $608 million of it came from Cursor's first six weeks, and almost all the rest from cloud-services contracts as nameplate compute rose from 1.4 to 1.7 GW. The segment made $431 million of operating profit after $1.2 billion of Cursor stock pay, against a $1.3 billion loss in Q2.
+- **Connectivity grew 69% with a 45% margin**, including about three points of one-time tariff refunds. Consumer ARPU rose for the first time in the disclosed series, to $69 from $66.
+- **Space was roughly breakeven** on $1.8 billion of revenue.
+- **Capex was $19.6 billion and cash fell about $10 billion in the quarter**, to $90 billion of cash and securities.
+
+**Guidance.**
+- **Q4 capex of $35–40 billion**, about double Q3.
+- **Q1 2027 revenue of $33–37 billion**, which management said reflects "increased visibility into our compute contract pipeline."
+- **The $100 billion December ARR goal**, reaffirmed.
+
+Management chose to guide a quarter further out than it needed to. That reads as confidence, and it also sets a public bar for test 1.
+
+**Management's points.**
+- **Musk on compute.** He was "highly confident" of 10 GW of new compute in 2027 and "would be surprised" by fewer than 13 GW in total by the end of 2027. He prefers short contracts at spot prices because "the value of compute per watt will increase over time."
+- **Johnsen on returns and funding.** Pricing is "slightly above the high end of the $30 to $50 per watt range," with paybacks under a year. Funding will come from operating cash, investment-grade debt and "the whole value chain."
+- **Musk on revenue.** He put end-2027 ARR at "somewhere between $500 billion and $1 trillion." Shotwell's reply on the call was "On that crazy note." I give that path a 2% weight as an option line.
+- **Musk on Tesla.** Both companies formed special committees, he is recused, and the deal is "not a certainty." He framed Tesla's required vote of 50% of all shares as "quite a high hurdle."
+
+**What wasn't answered.** Nobody gave a 2027 capex figure or a funding mix for 10 GW. At industry costs near $40 billion per GW, 10 GW is about $400 billion. No one said how long the GPUs are depreciated over, and no one split cloud revenue by customer. These are the numbers the key debate turns on.
+
+**What it does to the debate.** Q3 resolves the July page's open questions in management's favor: the compute revenue arrived, ARPU turned, and the Cursor cost is now disclosed. It also sharpens the main question. Blended Super Intelligence revenue per gigawatt was about $16.6 billion a year, a third of the headline rental price, and the company is about to more than double its capacity in two quarters. The build is now big enough that SpaceX's own supply moves the price it earns.
+
+**The verdict.** I migrated the page to a segment model based on the guided run-rate, with competence Outside and the Bear weighted at 25%. PW EV is now about $220 a share, up from $185 in July, mostly because the Base starts from a $140 billion run-rate rather than $18.7 billion of 2025 revenue. The price rose about as much, so the PW return is 8.3% against 13%. The non-holder verb stays **Watch**, with entry at about $120, up from $110. The holder verb is **Hold**. The verb is unchanged, so no bias check was needed.
+
+**Appearances in the window (July 13 – October 20).** Two earnings calls (Q2 on August 4 and Q3 on October 20) plus IPO-period media. I found no CEO podcast or conference transcript with strategy detail beyond the calls.
+
+**Merger.** I treat it as an option line: about −$8 a share at 65% for the premium SpaceX would likely pay. The full exchange-ratio analysis is in the [merger study](../../insights/SPCX-TSLA-merger-exchange-ratio-2026-10-21.md).
+
+---
+
+## Deep Dive: SpaceX, Landlord to the AI Boom
+
+*Four months after the largest IPO in history, renting computers has become SpaceX's biggest business. What does $148 assume about the price of a watt of compute, and what does a Tesla merger do to the answer?*
+
+**Contents**: [Business Overview](#business-overview) · [Super Intelligence: A Toll Road or a Commodity?](#super-intelligence-a-toll-road-or-a-commodity) · [Starlink and Starship: The Part That Already Works](#starlink-and-starship-the-part-that-already-works) · [Musk, Capital Allocation and Incentives](#musk-capital-allocation-and-incentives) · [Valuation and Model Assumptions](#valuation-and-model-assumptions) · [Final Words](#final-words) · [Appendix: The Numbers](#appendix-the-numbers) · [Sources](#sources)
+
+On June 11, 2026, SpaceX priced the largest initial public offering in history at $135 a share and raised about $86 billion. The stock closed its first day at $160.95. Four trading days later it touched $225.64, on the same day the company announced an all-stock purchase of Cursor, the AI coding tool. By August 3 it had traded as low as $104.83. Yesterday, October 20, it closed at $147.79 and then jumped about 9% overnight on its third-quarter results.
+
+The business moved faster than the stock. A year ago SpaceX was a launch company with a satellite-internet business and a money-losing AI lab bolted on in February. In the third quarter of 2026 its Super Intelligence segment, the renamed AI business, brought in $7.6 billion of revenue, up from $0.8 billion a year earlier, and became the largest of the three segments. Total revenue rose 161% to $14.6 billion. Management then guided the first quarter of 2027 to $33–37 billion of revenue, which annualizes to about $140 billion.
+
+Measured from its first close, the stock is down about 8%. Nvidia, the company that sells SpaceX most of its chips, is up 6% over the same weeks, the S&P 500 is up 4%, and Rocket Lab, the closest listed launch company, has halved.
+
+![Total return index from June 12, 2026 = 100 for SpaceX, Nvidia, Rocket Lab and the S&P 500](report/charts/since_ipo.svg)
+
+*Total return, weekly, first-day close on June 12, 2026 = 100 (SpaceX closed at $160.95 against a $135 IPO price). Source: Yahoo Finance adjusted closes through October 20, 2026. Built with Claude.*
+
+| Date | SpaceX | Nvidia | Rocket Lab | S&P 500 |
+|---|---|---|---|---|
+| 2026-06-12 | 100 | 100 | 100 | 100 |
+| 2026-07-17 | 77 | 99 | 66 | 100 |
+| 2026-08-07 | 83 | 109 | 81 | 104 |
+| 2026-08-28 | 88 | 106 | 63 | 104 |
+| 2026-09-18 | 95 | 108 | 63 | 103 |
+| 2026-10-09 | 101 | 112 | 67 | 106 |
+| 2026-10-20 | 92 | 106 | 50 | 104 |
+
+So the market has been handed a lot of good news and has paid little more for it. I think the reason is the question this piece is about. SpaceX's new profits come from renting computers to AI labs at a price, about $50 a year for each watt of capacity, that exists because there are not enough of those computers. Management believes the scarcity will last and that short contracts let SpaceX capture whatever the price does next. If that is right, today's price is cheap. If compute becomes a commodity, as every rented technology before it has, the company is spending tens of billions a quarter to build a very large, very fast-depreciating landlord.
+
+I take the compute question first, then Starlink and Starship, the part of SpaceX that already works. Then come Musk, the capital record and the incentives, which include a proposed merger with Tesla that the two boards' committees began studying this month. I finish with valuation: what $148 assumes, and what it would take to earn 13% a year from here.
+
+### Business Overview
+
+SpaceX reports three segments. **Space** is the launch business: Falcon 9, Falcon Heavy, Dragon and now Starship, flying for NASA, the Pentagon, commercial customers and SpaceX itself. **Connectivity** is Starlink: broadband to 13.6 million consumers in 174 markets, plus airlines, ships, governments (Starshield) and a growing direct-to-phone business. **Super Intelligence** is what came with xAI in February: the Colossus data centers in Memphis and Southaven, the Grok models and apps, X's advertising and, since August 14, Cursor.
+
+| $ Billion | FY2023 | FY2024 | FY2025 | Q1 2026 | Q2 2026 | Q3 2026 |
 |---|---|---|---|---|---|---|
-| Anthropic | $1.25B | 165.6M | **≈$7.55** | ≈$3.61 (150K×$3 + 50K×$4 + 30K×$6, weighted) | **≈2.1×** | ≈41% (all of C1) |
-| Google | $920M | 79.2M | **≈$11.62** | ≈$6.00–7.50 (GB200/GB300 blend, assumed) | **≈1.5–1.9×** | ≈20% of total; ≈34% of C2 |
-| Reflection | $150M | *(solve for GPU count)* | *(assume same 1.5–2.1× premium band)* | $9.00 GB300 base → $13.50–$18.90/hr implied | — | Implied **≈11,000–23,000 GPUs**; ≈2–4% of total; ≈3–7% of C2 |
+| **Super Intelligence (AI)** | 2.96 | 2.62 | 3.20 | 0.82 | 2.56 | **7.56** |
+|  Operating income | (3.97) | (1.56) | (6.36) | (2.47) | (1.26) | 0.43 |
+|  Segment adj. EBITDA | 1.22 | 0.35 | (1.24) | (0.61) | 1.15 | **4.95** |
+| **Connectivity (Starlink)** | 3.87 | 7.60 | 11.39 | 3.26 | 4.29 | **5.25** |
+|  Operating income | 0.47 | 2.01 | 4.42 | 1.19 | 1.66 | 2.37 |
+|  Operating margin | 12.1% | 26.4% | 38.8% | 36.5% | 38.6% | 45.1% |
+| **Space (launch)** | 3.56 | 3.80 | 4.09 | 0.62 | 0.96 | 1.77 |
+|  Operating income | (0.00) | 0.02 | (0.66) | (0.66) | (0.54) | (0.01) |
+| **Total revenue** | 10.39 | 14.02 | 18.67 | 4.69 | 7.81 | **14.58** |
+| **Operating income (GAAP)** | (3.51) | 0.47 | (2.59) | (1.94) | (0.14) | **2.79** |
+| **Adjusted EBITDA** | 3.82 | 5.35 | 6.58 | 1.13 | 3.54 | **8.81** |
+| **Capital expenditure** | 4.42 | 11.16 | 20.74 | 10.11 | 18.37 | **19.59** |
 
-Solving Reflection's GPU count backward at a $9.00/hr *pure market* rate implies ≈23,100 GB300s; applying the same ≈1.5–2.1× premium the other two deals appear to carry implies a smaller ≈11,000–15,400 GB300s instead — a wide range, but either end is a small slice (2–4%) of total Colossus capacity, consistent with Reflection being the newest, smallest, and most cancelable of the three deals.
+*FY2023–FY2025 include xAI and X as combined under common control. The AI segment was renamed Super Intelligence (SI) in Q3 2026. Q3 2026 SI operating income is after $1.22B of Cursor acquisition stock pay. Source: [prospectus](https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm), [Q2 2026 release](https://www.sec.gov/Archives/edgar/data/1181412/000162828026052515/earningsreleaseq22608042.htm), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm). Built with Claude.*
 
-**Synthesis**: All three deals appear to price at roughly **1.5×–2.1× observed on-demand market rates** for comparable chips — a real, consistent premium, not noise from a single outlier. That premium is plausibly explained by what the fee actually bundles beyond bare silicon: fully exclusive (not shared-tenant) access to hundreds of megawatts of dedicated power, Nvidia Spectrum-X/InfiniBand networking fabric holding the cluster coherent, facility operations and cooling, and multi-year capacity guarantees at a scale (a single 230,000-GPU coherent cluster) no public cloud on-demand listing can actually match — scarcity and exclusivity command a premium over a shared spot market. If SpaceX's own all-in cost per GPU-hour (power + capex depreciation + opex) sits meaningfully below the ≈$3.60–$9.00 market benchmarks used here, that ≈2× captured premium is a genuine data point *for* the bull case that AI/Compute could be a high-margin segment — though the company does not disclose AI-segment margin separately (§1), so this remains inference, not a confirmed unit-economics fact. Combined, the three disclosed/estimated allocations (≈351,000–363,000 GPUs) account for **≈63–65% of total reported Colossus capacity (555,000 GPUs)**, leaving roughly a third presumably reserved for xAI's own Grok training, buffer, and undeployed future growth — worth watching, since that's also the capacity xAI would need to reclaim if it wanted to meaningfully re-accelerate its own frontier-model training (§6).
+The table tells the story of three different businesses. Space is roughly breakeven because Starship development runs through it. Connectivity turned from a 12% operating margin in 2023 to 45% in the third quarter, and it earns most of the company's operating profit. Super Intelligence lost $6.4 billion in 2025, then turned to a $0.4 billion operating profit in the third quarter, after $1.2 billion of Cursor stock pay, as rented capacity came online.
 
-*Sources: [S-1 extraction notes](../../../raw/SPCX/filings/SPCX-S1-2026-notes.md); [post-IPO events notes](../../../raw/SPCX/filings/SPCX-post-IPO-events-notes.md); CNBC (Google deal, June 5, 2026; Reflection deal, June 22, 2026); DataCenterDynamics; TechCrunch; GPU price trackers (Spheron, IntuitionLabs, GetDeploying, Jarvislabs, aimultiple, Runcrate) — full list in Sources.*
+![Share of revenue by segment, FY2023 to Q3 2026](report/charts/revenue_mix.svg)
 
-### Total Addressable Market (management's own framing)
-The S-1 claims a **$28.5 trillion** "actionable TAM": $370B Space, $1.6T Connectivity ($870B Starlink Broadband + $740B Starlink Mobile), and **$26.5T AI** ($2.4T AI infrastructure + $760B consumer subscriptions + $600B digital advertising + $22.7T enterprise applications). Independent commentary (Axios, Yahoo Finance) is skeptical that the $22.7T "enterprise applications" bucket in particular is a defensible, SpaceX-specific addressable market rather than a loosely-associated category-wide AI TAM — **treat the $28.5T figure as IPO-marketing framing, not an independently validated estimate.**
+*Share of revenue by segment; FY2023–FY2025 include xAI and X. Source: [prospectus](https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm), [Q3 release](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm). Built with Claude.*
 
----
+| Period | Super Intelligence | Connectivity | Space | Total ($M) |
+|---|---|---|---|---|
+| FY2023 | 2,961 (29%) | 3,869 (37%) | 3,557 (34%) | 10,387 |
+| FY2024 | 2,620 (19%) | 7,599 (54%) | 3,796 (27%) | 14,015 |
+| FY2025 | 3,201 (17%) | 11,387 (61%) | 4,086 (22%) | 18,674 |
+| Q3 2026 | 7,560 (52%) | 5,248 (36%) | 1,767 (12%) | 14,575 |
 
-## Section 3 — Competitive Moat & Landscape
+A few accounting points before the debate.
 
-**Moat rating: differs sharply by segment** — Wide (Launch, Starlink) / Not yet established (AI/Compute).
+First, the 2023–2025 figures include xAI and X, which merged into SpaceX in February under common control, so the history mixes a rocket company with a social network.
 
-### Moat Sources
+Second, Q3 net income of $4.4 billion flatters the run-rate. It includes $1.0 billion of other income ($561 million from a related party), $873 million of interest income on the IPO cash and a $390 million tax benefit. Operating income was $2.8 billion.
 
-- **Launch cost/reusability advantage** (Wide): Falcon 9 booster reuse (20+ flights on leading cores) gives SpaceX a structural cost advantage no competitor has matched at scale; this is the foundational moat the other two segments are built on
-- **Launch cadence/manufacturing scale** (Wide): ≈80%+ share of global commercial launch by most measures (source methodologies vary: 82% commercial, 87% by orbital mass, >90% in some broader estimates — directionally dominant regardless of exact figure)
-- **Starlink constellation + spectrum** (Wide): First-mover LEO broadband scale, 164-country coverage, 10.3M subscribers — a genuine network/infrastructure moat expensive to replicate
-- **Government relationships** (Wide, concentrated): >$22B cumulative NASA/DoD/Space Force/NRO contracts — deep, sticky, but also a concentration risk (§6)
-- **AI/Compute** (None yet): Leasing GPU capacity is structurally a commodity business relative to hyperscalers (AWS, Azure, Google Cloud) unless SpaceX's power-cost and data-center-speed-to-market advantages (enabled by the same capital intensity that built Colossus) prove durable — unproven at this stage; the moat case here rests on execution, not yet evidence
+Third, adjusted EBITDA of $8.8 billion excludes $2.4 billion of stock pay, half of it from Cursor. Of Cursor's $60 billion price, $23 billion is retention stock that will run through the income statement over about three years.
 
-### Competitive Landscape
+Fourth, the headline share count of 13.58 billion includes 1.3 billion restricted Class B shares granted to Musk that vest only with a million-person Mars colony or 100 terawatts of off-planet compute. They carry his votes but no economics I can value, so I use about 12.7 billion diluted economic shares.
 
-| Competitor | Segment | Position | Moat / Threat Read |
-|-----------|---------|---------|---------------------|
-| **Blue Origin** | Launch | New Glenn flew first commercial missions early 2026; won a NASA lunar cargo contract (~$468M) | **Currently grounded** following a launchpad explosion May 28, 2026 — near-term competitive relief for SpaceX, but a credible long-term rival if it recovers |
-| **Rocket Lab (RKLB)** | Launch (smallsat niche) | Electron rocket, 21 launches in 2025; Q1 2026 backlog >$2.2B (+108% YoY) | Not a heavy-lift/Starlink-scale competitor; growing fast in a dedicated-smallsat niche adjacent to, not directly against, SpaceX's core |
-| **Amazon Kuiper** | Satellite broadband | 3,236-satellite constellation fully licensed; FCC mandate requires 50% deployed by July 2026, likely to be missed | Direct Starlink competitor, but structurally dependent on competitors' rockets (including SpaceX's own Falcon 9) for some deployment — an ironic "funding the rival" dynamic; regulatory deadline risk is Kuiper's problem, not SpaceX's |
-| **OneWeb/Eutelsat** | Satellite broadband | Smaller LEO constellation, enterprise/government focus | Sub-scale versus Starlink's subscriber base and cost structure |
-| **AWS / Azure / Google Cloud** | AI/Compute (the real long-term competitive set for this segment) | Hyperscale, diversified, enterprise-trusted GPU/cloud providers | The segment where SpaceX has the least differentiated position — competing for the same Nvidia GPU supply and the same AI-lab customers as the established hyperscalers, with no cloud-software/enterprise-relationship moat of its own yet |
+### Super Intelligence: A Toll Road or a Commodity?
 
-**How SpaceX's moat differs**: No other company combines a cost-advantaged reusable launch system, a scaled LEO broadband network, and gigawatt-class AI data centers under one roof — the vertical integration (cheap launch → cheap satellite deployment → cheap-to-build data centers → eventually cheap orbital compute) is the genuine long-term differentiation thesis. **Honest tail risk**: that same vertical integration means a single point of failure (Starship, per the S-1's own language) sits underneath the *entire* multi-segment growth story, not just one segment — an unusually concentrated structural risk for a company this large.
+Let me start with where things stand.
 
----
+| Super Intelligence | Q3 2025 | Q1 2026 | Q2 2026 | Q3 2026 | Q4 2026 guide |
+|---|---|---|---|---|---|
+| Nameplate compute, period end (GW) | 0.6 | 1.0 | 1.4 | **1.7** | 2.5–3.0 |
+| SI solutions and infrastructure revenue ($B) | 0.36 | 0.48 | 2.19 | **7.02** | — |
+| of which Cursor ($B) | — | — | — | 0.61 | — |
+| Annualized revenue per average GW, ex-Cursor ($B) [Derived] | 2.9 | 2.1 | 7.3 | **16.6** | — |
+| SI capex ($B) | 4.76 | 7.72 | 15.83 | 16.44 | Company: 35–40 |
+| SI adjusted EBITDA ($B) | (0.43) | (0.61) | 1.15 | **4.95** | — |
+| **SI operating income ($B)** | (1.72) | (2.47) | (1.26) | 0.43 | — |
 
-## Section 4 — Management & Leadership
+*Revenue per GW divides annualized revenue by the average of opening and closing nameplate capacity; it blends rented capacity with capacity used for Grok's own training, which earns nothing directly. Source: [Q2](https://www.sec.gov/Archives/edgar/data/1181412/000162828026052515/earningsreleaseq22608042.htm) and [Q3](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm) releases; [Q3 call](https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/). Built with Claude.*
 
-**Elon Musk (CEO)**: Founded SpaceX in 2002. Holds 94% of Class B shares (10 votes/share), translating to ≈79% of total voting power — effectively unchecked control. The S-1 itself discloses Musk "does not devote his full time and attention" to SpaceX, given concurrent roles as CEO of Tesla and (now merged) leadership of xAI, plus Neuralink and The Boring Company. No key-person insurance is carried on Musk. Separately, Musk's ≈130-day tenure leading a 2025 federal cost-cutting effort that reviewed and in some cases terminated competitors' government contracts — while SpaceX itself derives an estimated $10–12B of annual revenue from government contracts — is a disclosed political/conflict-of-interest risk factor, not merely a media narrative.
+#### Management's narrative
 
-**Gwynne Shotwell (President & COO)**: One of Musk's earliest hires, runs day-to-day operations for the ≈22,000-person workforce; widely credited (Fortune, CNBC) as the operational counterweight that made the IPO executable. Reportedly had reservations about going public for years. FY2025 compensation $85.8M (mostly options), $1.08M base salary.
+Management's case is that compute is scarce, will stay scarce, and that SpaceX can build it faster than anyone. Musk said he spends four days a week in Memphis and that the company is turning on about 20,000 Nvidia GB300s a month. He said he is "highly confident" of 10 more gigawatts in 2027, for about 13 in total, and that there is a non-zero chance of more than 20. On pricing, he was explicit about the strategy:
 
-**[Outsider grade](../../frameworks/outsiders.md) — Insufficient track record (recent IPO); early signal Anti-Outsider-leaning**: SpaceX has no public-company capital-allocation history to grade against Thorndike's tests. The one disclosed action since listing — a **$60B all-stock acquisition of Cursor/Anysphere announced June 16, 2026** (the same day the stock hit its ATH), diluting shareholders ≈4% with no clearly articulated strategic rationale captured in sources reviewed this pass — is the opposite of countercyclical discipline: a large, dilutive, non-core-adjacent deal struck at the moment of maximum stock-price euphoria, four days after the largest IPO in history. This is a single data point, not a track record, but it is the only data point available and it points the wrong direction for an Outsider-style grade. Revisit after the company's first full year of public-company capital-allocation decisions.
+> "Our approach is to rent at the — effectively the spot market rate as opposed to sign these long-term deals. Our belief is that the value of compute per watt will increase over time, not decrease... And if you look at, say, how are our short-term contracts renewing? Are they renewing at higher dollars per watt or lower? And we see them renewing at higher dollars per watt, not lower dollars per watt. We are also, frankly, hounded relentlessly by every hyperscaler and by dozens of smaller companies to rent more of our compute. So we could rent out our compute several times over if we said yes to everyone."
+> — Elon Musk, Q3 2026 earnings call, October 20, 2026
 
-**Capital allocation since IPO**:
-- $75B (≈$86B with over-allotment) raised in the IPO itself
-- $60B all-stock acquisition of Cursor/Anysphere (June 16, 2026) — rationale not yet clearly disclosed
-- $25B bond offering (~June 22–23, 2026), drew ≈$89B of orders, proceeds earmarked to repay a bridge-loan facility and for general corporate purposes; investment-grade rated but trading at junk-like levels in the secondary market within days
-- No dividend; no buyback program disclosed (capital is entirely being directed toward growth capex and M&A at this stage)
+CFO Bret Johnsen put numbers on it:
 
-*Recent Management Commentary*: No public-company earnings call has occurred yet as of this ingest (SPCX has not reported a quarter since listing). Primary management voice to date is S-1 disclosure language and IPO-week media commentary (Shotwell's CNBC interviews on IPO day; Musk's public framing of the xAI merger and orbital-data-center ambition). The first earnings call — whenever scheduled — will be this page's first opportunity to synthesize verbatim public-company management commentary per Rule #18/§4 convention; until then, this subsection will remain thinner than a mature ticker's.
+> "At current pricing, new compute deployments are generating a payback of less than a year. Pricing is currently tracking slightly above the high end of the $30 to $50 per watt range we were discussing just last quarter."
+> — Bret Johnsen, CFO, Q3 2026 earnings call, October 20, 2026
 
----
+Musk also explained why SpaceX can build faster than rivals. The bottleneck in new gas turbines is the cast blades and vanes, which turbine makers deliver 12–18 months after the rest of the machine. SpaceX already casts rocket-engine parts, so it is casting its own. If that works, it is the kind of advantage that is hard to copy. The backlog rose to $63 billion, $42 billion of it due within a year. Demand is not the problem.
 
-## Section 5 — Strategic Growth Initiatives
+#### Poking holes in it
 
-1. **AI/Compute scale-up (the dominant near-term growth driver)**: Anthropic, Google, and Reflection contracts combined ramp toward ≈$27.8B/yr run-rate by FY2027 (§2 deep dive, incl. a back-calculated Reflection GPU-count estimate). This is the segment management is explicitly betting the company's forward valuation on.
-2. **Starlink international/tier expansion**: Continued subscriber growth into lower-ARPU international markets and cheaper hardware tiers (Starlink Mini) — a volume-over-value strategy that has kept revenue growing even as ARPU falls (§2); Starlink Mobile ($740B of the claimed TAM) is an early-stage extension beyond fixed broadband.
-3. **Starship transition**: 2025–2026 is likely peak Falcon-family launch activity; the company plans to progressively shift missions to Starship, targeting a first Block 3 flight in Q2 2026 after 11 full-stack test flights. This is simultaneously the largest growth lever (cheaper, higher-capacity launch unlocks both Starlink next-gen and the AI-satellite plan) and the largest single risk (§6).
-4. **Orbital data centers (longest-dated, most speculative)**: FCC authorization requested for up to 1 million satellites; target to begin deploying AI compute satellites in Sun-synchronous orbit "as early as 2028," with a stated long-term goal of 100 gigawatts of annual orbital compute capacity. Explicitly gated on Starship reusability per the S-1's own language (§2). This should be read as a 2028+ optionality story, not a near-term financial driver.
-5. **Cursor/Anysphere ($60B, AI coding-assistant maker)**: The most recently announced, least-explained growth/diversification move; whether this represents genuine strategic logic (e.g., embedding AI development tooling across SpaceX's own engineering stack, or building an AI-software layer atop the compute infrastructure) or opportunistic stock-funded empire-building at a moment of maximum currency value is an open question this page will revisit once management addresses it directly (likely on the first earnings call).
-6. **Growth targets (management framing, extremely aggressive)**: S-1-associated materials point to 2028E revenue of $120–180B, 2029E $200–300B, 2030E $400–500B+ "with AI dominating" — implying sustained 50–100%+ YoY growth and 50%+ EBITDA margins for several consecutive years. No space, satellite, or launch company has ever compounded at this rate; treat as a best-case management target, not a base-case expectation (see §11 for this page's own, more conservative scenario framing).
+The first hole is that short contracts cut both ways. Renting at spot is a great strategy while prices rise, and SpaceX says renewals are repricing upward. But it means none of today's revenue is protected when prices fall, and in rented technology they always have. The GPU price trackers this wiki follows put the median H100 rental near $3 an hour in mid-2026, against roughly $8 at the 2023 peak `[Estimate]`. The fall happened because more supply arrived, and supply is exactly what SpaceX, Oracle, CoreWeave and the hyperscalers are all building as fast as they can. Musk's argument that better models make each watt more valuable is plausible. It is also an argument that the AI labs keep most of that value, since they own the models and the landlord only owns the building.
 
----
+The second hole is the size of the bill. Industry estimates put a gigawatt of GB300 or Vera Rubin capacity, including power and cooling, at about $40 billion `[Estimate]`. Ten more gigawatts in 2027 would therefore cost on the order of $400 billion. SpaceX ended September with $90 billion of cash and securities, after spending $19.6 billion on capex in the third quarter, and it has guided the fourth quarter to $35–40 billion. Johnsen named the sources: operating cash flow, the investment-grade debt market, and partners "on the vendor and customer side." Even if the guide comes in, I doubt operating cash flow in 2027 exceeds $70–80 billion `[Estimate]`. Somebody else's money has to pay for the rest, and the price of that money depends on the stock.
 
-## Section 6 — Key Risks
+The third hole is depreciation. A payback of under a year is an EBITDA statement. GPU generations now turn over every 12–18 months, and SpaceX's own 2027 build is "primarily Rubin." A cluster that pays back in one year at today's price needs to keep renting near today's price for its whole useful life to earn a real return, and that life may be closer to four years than six.
 
-*Materiality-filtered per Rule #23: differentiated from peers, not fully priced, tied to a specific thesis-break trigger, or tied to a large discretionary investment. Given SPCX's ~1-month public history, several risks below are necessarily less quantified (probability/priced-in columns) than a mature ticker's — flagged explicitly rather than guessed.*
+The fourth hole is who the customers are. About half of the capacity serves SpaceX's own Grok and Grok Bot, which earn revenue only to the extent consumers and enterprises pay for them. Grok Bot has 800,000 paid weekly users, a good start but a small one. The rented half goes to a short list of AI labs, two of which (Anthropic and Google) compete with Grok. SpaceX is renting its rivals the tools to beat its own model, at a premium, for as long as there is no alternative.
 
-| Risk | Impact | Probability | Priced In? | Notes |
-|------|--------|-------------|-----------|-------|
-| **Elon Musk key-person risk** | Critical | Low-moderate (structural, not imminent) | Partially | No key-person insurance carried; S-1's own language on the consequences of losing Musk is unusually direct for a filing document. 94%-of-Class-B / ≈79%-voting-power concentration compounds this — no other public company of this scale has comparable single-person dependency across five affiliated entities (SpaceX, Tesla, xAI/X, Neuralink, Boring Co.) |
-| **Starship execution — single point of failure for the entire multi-segment thesis** | Critical | Moderate-high | Not priced | S-1 explicitly ties next-gen Starlink satellites *and* the orbital-AI-compute ambition to Starship succeeding "at scale." In-orbit refueling "not yet demonstrated or attempted." 11 test flights in, first Block 3 targeted Q2 2026. A delay here cascades through every growth initiative in §5 simultaneously — an unusually concentrated risk for a company this large. |
-| **Capital intensity / cash burn vs. revenue base** | High | High (already materializing) | Partially | Q1 2026 capex alone ($10.1B) annualizes above $40B/yr against a $18.7B FY2025 revenue base; GAAP operating losses persist despite positive adjusted EBITDA. The IPO + bond raise fund this for now, but the burn rate assumes the AI-segment growth targets (§5) largely materialize. |
-| **Bond market skepticism** | High | Already realized | Yes (in credit, not fully in equity) | A $25B, investment-grade-rated bond sale traded to junk-like levels within days in the secondary market — sophisticated fixed-income investors are pricing more risk than the initial equity euphoria did. A genuine informational signal (§10). |
-| **Extreme technical/float fragility** | High | Already realized (volatility) | Partially | Only ≈4–5% of shares are freely floated; ≈31% of that float is short. This structure mechanically amplifies both up and down moves (as the ATH→ATL round-trip demonstrates) independent of fundamentals — a real trading-liquidity risk for any position size. |
-| **Staggered lockup unlocks beginning August 11, 2026** | High | Certain (scheduled) | Partially | ≈20% of shares unlock Aug 11, ≈35% more Oct 25, ≈28% more Nov 9, remaining ≈12% Jun 13, 2027 — a known, dated supply overhang arriving right around the company's likely first public-company earnings report. |
-| **Government customer concentration + termination-for-convenience** | Medium-High | Moderate | Partially | U.S. government contracts ≈35% of total revenue; government contracts can be unilaterally terminated, reduced, or delayed. Classified-customer disclosure carve-outs (customers >10% of revenue can be withheld from naming on national-security grounds) also reduce transparency for investors. |
-| **AI segment customer concentration** | Medium-High | Moderate | Not priced | Two customers (Anthropic, Google) account for ≈93% of the ≈$27.8B/yr AI run-rate the market is valuing most highly (Reflection is the remaining ≈7%); loss or renegotiation of either large contract would disproportionately hit the segment the market is paying the largest multiple for. |
-| **Capital allocation discipline (Cursor/Anysphere precedent)** | Medium | Realized once; recurrence unknown | Not priced | A $60B, non-obviously-core-adjacent, all-stock acquisition announced at the moment of maximum share-price euphoria is the only capital-allocation data point available post-IPO (§4) — a real, if early, signal worth monitoring rather than dismissing. |
-| **Political/regulatory conflict-of-interest exposure** | Medium | Ongoing | Not priced | Musk's prior federal cost-cutting role, set against SpaceX's own ~$10–12B of annual government revenue, is a disclosed risk factor with no clean resolution — regulatory/political sentiment toward SpaceX could shift with the broader political environment. |
-| **TAM / valuation narrative risk** | Medium | Ongoing | Partially | The S-1's own $28.5T TAM claim (93% of it "AI," including a $22.7T "enterprise applications" bucket independent commentators view skeptically) sets a high bar for what "success" needs to look like to justify a mega-cap valuation — a narrative-vs-numbers gap that the bond market has already started pricing (see above). |
+Here is the arithmetic for a single gigawatt:
 
-**Risk synthesis**: unusually for a first-ingest page, nearly every risk above traces back to two root causes — (1) the entire multi-segment growth thesis is gated on a single unproven rocket (Starship), and (2) the company went from private to a >$1.8T public entity in five weeks with no public-market capital-allocation track record, and its first major disclosed decision (Cursor/Anysphere) has not yet been explained to public shareholders. Both are resolvable with time and disclosure; neither is resolved today.
+| Illustrative 1 GW of compute, $B per year | At today's ≈$50 per watt | If the price halves | Price −75%, 4-year chip life |
+|---|---|---|---|
+| Capex to build (chips, power, cooling) | 40 | 40 | 40 |
+| Revenue if fully rented | 50.0 | 25.0 | 12.5 |
+| Cash operating cost (power, staff, sites) | (4.0) | (4.0) | (4.0) |
+| **EBITDA** | 46.0 | 21.0 | 8.5 |
+| Payback on capex (years) | **0.9** | 1.9 | 4.7 |
+| Depreciation (5-year life; 4-year in the last column) | (8.0) | (8.0) | (10.0) |
+| **Operating profit** | 38.0 | 13.0 | (1.5) |
+| Pre-tax return on the $40B | 95% | 33% | −4% |
+| **Actual: Q3 2026 SI revenue per average GW, ex-Cursor** | 16.6 |  |  |
 
----
+*Author's estimates, except the price and payback. CFO Bret Johnsen said on the Q3 call that pricing is 'slightly above the high end of the $30 to $50 per watt range' and that new deployments pay back in under a year. Capex per GW of about $40B is an industry estimate for GB300 and Vera Rubin clusters including power and cooling; the cash-cost line assumes about 8.8 TWh of power at roughly $60 per MWh plus site staff. The actual row blends rented and internal capacity. Built with Claude.*
 
-## Section 7 — Industry-Specific Macro Analysis
+At today's price a gigawatt earns a 95% pre-tax return on its capital. If the price halves, it is still a good business. If it falls 75% and the chips last four years, the gigawatt loses money. The last row is what actually happened in Q3. Blended across rented and internal capacity, Super Intelligence earned about $16.6 billion per gigawatt-year, a third of the headline rate, because half the capacity serves Grok and new halls take time to fill.
 
-**Launch services market**: Grew from $10.34B (2024) to $11.9B (2025), projected to reach $22.18B by 2029 — this is the traditional, addressable launch-services TAM, dwarfed by SpaceX's own $28.5T claimed TAM (which leans almost entirely on AI). SpaceX's own dominance (≈80%+ share by most measures) means this market's growth is largely a function of SpaceX's own cadence decisions, not external demand SpaceX must win share within.
+Where I come out: management is right that demand exceeds supply today and right that SpaceX builds faster than anyone. The business is real and, for now, highly profitable. But the price SpaceX is earning is a scarcity price, the contracts are designed to follow the market, and the build is so large that SpaceX will be part of the supply that ends the scarcity. My Base case assumes compute revenue per gigawatt falls to about a third of today's headline rate by 2031. That is roughly where Q3's blended number already sits.
 
-**Satellite broadband macro**: LEO broadband is still in a land-grab phase globally — Starlink's international expansion into lower-ARPU markets (§2) reflects both genuine underserved-market opportunity (rural/developing-world connectivity) and early evidence of price competition as Amazon Kuiper and others attempt to enter. Regulatory approval (spectrum, landing rights) varies significantly by country and is a real, if second-order, execution variable.
+#### Four rings of profit
 
-**AI infrastructure macro (the segment now driving the valuation)**: Nvidia GPU supply remains the binding constraint across the entire AI-infrastructure industry — SpaceX's Colossus buildout competes for the same chips as every hyperscaler and neocloud. Power availability (Colossus 2's 1GW→1.5GW upgrade path) is the other binding constraint; SpaceX's access to power and speed of data-center construction are the closest thing this segment has to a differentiated advantage today, though unproven relative to AWS/Azure/Google Cloud's scale and enterprise relationships. The macro question that matters most for this segment specifically: does frontier AI-lab demand for dedicated, contracted GPU capacity (as opposed to flexible hyperscaler cloud capacity) remain structurally attractive enough to support $1B+/month bilateral contracts at the pace SpaceX's growth targets assume.
+It helps to sort SpaceX's profit by how exposed it is to that question.
 
-**Regulatory/political macro**: FAA launch-licensing cadence, FCC spectrum coordination, and — for the orbital-data-center ambition specifically — orbital debris mitigation and international regulatory approval are all explicit, unresolved S-1 risk factors (§6). Separately, the political environment around Musk personally (DOGE-era conflict-of-interest scrutiny) is a macro variable unique to this name among the tickers in this wiki.
+| Ring | Share of Q3 segment adj. EBITDA | Margin | Main threat | Exposure to compute pricing |
+|---|---|---|---|---|
+| **1 · SI cloud services** (Anthropic, Google, others) | 56% (rings 1–2 together; split not disclosed) | EBITDA 66% for the segment | Rental prices normalize as supply catches up; short contracts reprice down | **High** |
+| **2 · SI products** (Grok, Grok Bot, Cursor, X ads) | (in ring 1) | n/d | Competing with OpenAI, Anthropic and Google at the model layer; $23B of Cursor retention pay | Medium; compute is their input cost |
+| **3 · Connectivity** (Starlink consumer, enterprise, Starshield) | 40% | EBITDA 67% | Amazon Leo; spectrum; ARPU dilution in new markets | Low |
+| **4 · Space** (launch, Dragon, NSSL) | 4% | EBITDA 20% | Starship cost; Blue Origin | Low |
 
----
+*Q3 2026 segment adjusted EBITDA: SI $4.95B, Connectivity $3.50B, Space $0.36B. Source: [Q3 release](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm); exposure is the author's assessment. Built with Claude.*
 
-## Section 8 — Valuation & Comparable Analysis
+More than half of segment EBITDA now sits in the two rings most exposed to compute pricing. A year ago it was none. Starlink and launch, 44% of Q3 EBITDA, are the parts I would underwrite with the most confidence, and they are also the parts the market priced at the IPO, before the compute business existed in its current form.
 
-### Current Multiples (July 13, 2026; $145.30 / ≈$1.9T market cap)
+### Starlink and Starship: The Part That Already Works
 
-| Metric | Value | Notes |
-|--------|-------|-------|
-| Market Cap | ≈$1.9T | Down from a ≈$2.9T peak market cap at the June 16 ATH |
-| P/S (FY2025 revenue $18.674B) | ≈100× | Extreme by any conventional standard; reflects the market valuing SPCX far closer to an AI-infrastructure/hyperscaler multiple than a launch/satellite-company multiple |
-| P/S (if AI run-rate ≈$26B/yr is added to FY2025's $18.7B, ≈$45B pro forma) | ≈42× | Still very rich, but the more relevant forward-looking denominator once Anthropic + Google are both fully ramped (FY2027) |
-| EV/Adj. EBITDA (FY2025 $6.584B) | [link pending — post-IPO net debt/cash not cleanly established this pass] | Directionally still very rich given the ≈$1.9T equity value alone |
-| Analyst Average PT | ≈$242 | 27 analysts, 22–26 Buy-equivalent / 4 Hold / 1 Sell; range $131 (MoffettNathanson) to $800 (Raymond James, outlier) |
+Starlink is one of the best businesses in the world, and the third quarter made it look better. Consumer subscribers rose 89% in a year to 13.6 million. Consumer ARPU, which fell in every period the IPO prospectus disclosed (from $99 a month in 2023 to $66 in Q1 2026), rose 5% to $69. Johnsen attributed the rise to mix, as growth came from developed markets. Enterprise and government revenue rose 91% to $2.1 billion. Connectivity's operating margin reached 45%, including about three points of one-time tariff refunds.
 
-### Peer Comparison (imperfect — no clean public comp spans all three segments)
+The growth levers are visible. Shotwell said Starlink is contracted on about 12,000 aircraft, nearly a quarter of the world's fleet, with three of the four major U.S. carriers signed. Starshield won more than $6 billion of multi-year Space Force contracts in the second quarter. Starlink Mobile reaches 22 million monthly users through carrier partners. SpaceX bought EchoStar's AWS-4 and H-block spectrum in 2025 and has now agreed to buy 800 MHz low-band spectrum, with a stated goal of becoming "a major mobile carrier in the United States" by early 2028. Musk went further:
 
-| Company | Closest Comparable Segment | Fwd Multiple Character | Read |
-|---------|---------------------------|------------------------|------|
-| Rocket Lab (RKLB) | Launch | Smaller-scale, high-growth launch multiple | Useful sanity check for the Launch segment alone; SPCX's blended multiple is far richer than any pure-play launch comp because the market is valuing the AI segment on a hyperscaler-like basis |
-| Amazon Kuiper (segment of AMZN) | Satellite broadband | Embedded in a mega-cap diversified multiple | Not separately valued; limited standalone comp value |
-| AWS / Azure / Google Cloud (segments of AMZN/MSFT/GOOGL) | AI/Compute | Hyperscaler multiples, but embedded in diversified, profitable parents with decades of capital-allocation track record | SPCX's AI segment is being valued in this neighborhood despite being <18 months old and carrying none of the diversification or track-record cushion these comps have |
+> "I can say we do see a clear path to several hundred billion dollars a year in connectivity revenue."
+> — Elon Musk, Q3 2026 earnings call, October 20, 2026
 
-### Valuation Assessment
+I don't underwrite that. But even my Base case has Connectivity compounding about 17% a year from its $26 billion run-rate at a 45% margin. That is a business worth several hundred billion dollars by itself.
 
-At $145.30, SPCX trades at a blended multiple that only makes sense if the AI/Compute segment's growth targets (§5) are taken largely at face value — the Launch and Starlink segments alone, even generously valued at premium industrial/infrastructure multiples, would not support a ≈$1.9T market cap. This is not inherently irrational (the Anthropic and Google contracts are real, signed, and large), but it means SPCX today is best understood as **an AI-infrastructure bet wrapped in a rocket company**, priced accordingly, with the rocket company's own execution risk (Starship) sitting underneath the AI bet's long-term optionality (orbital data centers) as well as its near-term credibility (cheap launch enables cheap data-center buildout). The bond market's junk-like pricing of investment-grade paper, three days after a fresh post-IPO low, is this page's best available signal that the multiple is not yet a settled question even among sophisticated capital.
+What Starlink needs is capacity, and capacity depends on Starship. Flight 14 in September reached orbit for the first time and deployed 26 V3 satellites, adding about 26 terabits per second of downlink, roughly ten Falcon 9 launches' worth on a half-loaded rocket. Flight 15, expected in November, will try to catch both the booster and the ship. Musk called success "more likely than not" and said Starship should fly weekly in the first half of 2027. His Starship timelines have slipped before: the first operational flights were expected years earlier than September 2026. So I treat the 2027 cadence as Bull-case material and make full reuse by mid-2027 my third test.
 
----
+The Space segment itself matters less than what it enables. Its revenue grew 6% in the third quarter to $1.8 billion and it lost $7 million. SpaceX flew 90% of the world's mass to orbit, China about 6%, everyone else 4%. The segment's job is to make satellites and, eventually, orbital data centers cheap to deploy. On that, its record is the best of any company in this wiki.
 
-## Section 9 — Catalyst & Sentiment Tracker
+### Musk, Capital Allocation and Incentives
 
-### Live Price & Positioning
-- **Price**: $145.30 intraday, July 13, 2026 (prior close $152.16; day range $145.07–$150.57; after-hours $144.01)
-- **All-time range**: $145.07 (Jul 10, 2026 low) – $225.64 (Jun 16, 2026 high); IPO price $135.00 (Jun 11)
-- **% from ATH**: –35.6% | **% above ATL**: +0.16% — trading essentially at its post-IPO low
-- **5 weeks of trading history** — no meaningful 52-week context yet exists
+Musk founded SpaceX in 2002, and his record here is the strongest part of his record anywhere. Reusable boosters took the cost of reaching orbit from about $18,500 a kilogram, the historical average, to about $2,700 with the first Falcon 9 and lower since. Starlink went from nothing to the most profitable satellite business ever built. Gwynne Shotwell has run operations since the early years.
 
-### Analyst Consensus
-- 27 analysts: 22–26 Buy-equivalent / 4 Hold / 1 Sell (panel composition still settling as banks initiate post-quiet-period)
-- Average PT ≈$242; range $131 (MoffettNathanson, Neutral) to $800 (Raymond James, Buy-equiv., the Street-high outlier)
-- **Initiations (all ~July 7, 2026, as the post-IPO quiet period ended)**: Raymond James $800, Morgan Stanley Overweight $300, Deutsche Bank Buy $255, Wells Fargo Overweight $230, Goldman Sachs Buy $205, Citi Buy $200, Wedbush Outperform $190, MoffettNathanson Neutral $131
-- **Pattern**: every major bank that initiated coverage did so at a Buy-equivalent rating, but the *dispersion* ($131–$800, a >6× spread) is unusually wide even for a speculative name — reflects genuine, unresolved disagreement about whether to value this as a launch company, a satellite company, or an AI infrastructure company
+The record as a capital allocator for public shareholders is four months long, and it is mostly deals.
 
-### Short Interest
-- ≈196M shares short ≈31% of the ≈555.6–639M-share free float (not 31% of total shares outstanding — the ≈13B total share count makes that distinction critical)
-- Enabled specifically by the unusually thin float (≈4–5% of shares outstanding); every $1 of price move is estimated to cost short-sellers roughly $200M in aggregate
-- This is a genuine two-way-volatility risk factor, not a clean "squeeze setup" or "bearish conviction" signal in isolation — the thin float mechanically amplifies moves regardless of which direction sentiment breaks
+| Year | Deal | Price | What happened | Verdict |
+|---|---|---|---|---|
+| 2025 | EchoStar AWS-4 and H-block spectrum | ≈$17B, about half in SpaceX stock | FCC approved the license transfer in Q2 2026; the base for Starlink Mobile | Good (strategic) |
+| 2026 (Feb) | xAI Holdings (xAI and X) | All-stock; xAI at $250B, SpaceX at $1T; 0.1433 SpaceX shares per xAI share | Became the SI segment; $1.8B of advertising and $1.4B of AI solutions revenue in 2025, against a $6.4B operating loss | Too early; it is now the thesis |
+| 2026 (Jun–Aug) | Cursor (Anysphere) | $60B in stock: 391M Class A shares; $23B of it is retention stock pay over ~3 years | $608M of revenue in its first six weeks; Grok, Cursor and X Premium now sold as one plan | Unclear; struck the day of the all-time high |
+| 2026 (Oct) | 800 MHz low-band spectrum | Not disclosed | Needed for building penetration in Starlink Mobile | Too early |
+| 2026 (Oct) | Tesla, Inc. | Exploring; special committees formed, no terms | See the merger section | Pending |
 
-### Insider Activity
-- No open-market insider transactions identified this pass (company is 5 weeks public; insiders remain lockup-restricted — see below)
-- Musk's 94%-of-Class-B / ≈79%-voting-power position is a pre-IPO structural fact, not a new transaction
+*Source: [prospectus](https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm); [8-K, Aug 14, 2026](https://www.sec.gov/Archives/edgar/data/1181412/000162828026056945/spcx-20260814.htm); [Q2](https://www.sec.gov/Archives/edgar/data/1181412/000162828026052515/earningsreleaseq22608042.htm) and [Q3](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm) releases; [xAI terms](https://www.implicator.ai/spacex-acquires-xai-in-1-25-trillion-deal-creating-worlds-most-valuable-private-company/); EchoStar price from press reports at signing [link pending]. Built with Claude.*
 
-### Recent Corporate News (since IPO)
-- **[2026-06-12] [IPO]** ✅ — Nasdaq debut; priced $135, opened $150 (+11%), closed ≈$160.95 (+19%)
-- **[2026-06-16] [Price / M&A]** — Stock hits ATH $225.64 same day SpaceX announces $60B all-stock acquisition of Cursor/Anysphere (≈4% dilution)
-- **[2026-06-22/23] [Capital markets]** — $25B bond offering prices (~$89B of orders); stock falls sharply (one source: –16% in a session) around the same window
-- **[2026-06-29 – 07-02] [Credit]** — Secondary-market bond trading reveals the investment-grade-rated paper pricing at junk-like levels; Bloomberg: "SpaceX Is Junk. That's What the Bond Market Says"
-- **[2026-07-01] [Price]** — Shares fall ≈8% intraday to ≈$157.54 amid a broader ≈$600B tech-sector selloff
-- **[2026-07-07] [Analyst]** — Post-quiet-period coverage-initiation wave (6+ major banks, all Buy-equivalent; see above)
-- **[2026-07-10] [Price]** — Fresh all-time low $145.07
-- **[2026-07-13] [Price]** — Trading ≈$145.30, essentially at the all-time low
+Two of these were struck at moments that suited the seller. The xAI merger valued Musk's own AI company at $250 billion against SpaceX's $1 trillion, with no premium either way, four months before the IPO. Cursor was announced on June 16, the day SpaceX hit its all-time high, paid in stock at that price, and $23 billion of it is retention pay. I don't know yet whether Cursor was a good purchase. Grok Enterprise customers above $1 million of run-rate revenue rose 50% in a quarter including Cursor, and the bundle with Grok and X Premium is sensible. What I do know is that the deal's cost to shareholders is closer to $60 billion of stock plus three years of dilution than to the $37 billion that the purchase accounting attributes to the business.
 
-### Upcoming Catalysts
+#### The cash
 
-| Date | Event | Why It Matters |
-|------|-------|---------------|
-| 📅 **Aug 11, 2026** | First lockup unlock (≈20% of shares) | First real test of the float/short-interest dynamic (§9 above) against genuine new sell-side supply |
-| 📅 **~Late July–Aug 2026 (unconfirmed)** | First public-company earnings report (Q2 2026) | First opportunity for management to address the Cursor/Anysphere rationale, Starlink ARPU trajectory, AI-contract revenue recognition, and cash-burn/capex guidance under public-company disclosure discipline |
-| 📅 **Oct 2026** | Google compute contract begins ($920M/mo) | First hard evidence the AI segment's largest disclosed contract is converting to real revenue on schedule |
-| 📅 **Oct 25, 2026** | Second lockup unlock (≈35% of shares) | Larger supply event than August's |
-| 📅 **Nov 9, 2026** | Third lockup unlock (≈28% of shares) | |
-| 📅 **Q2 2026 (target)** | First Starship Block 3 flight | Direct read on the single point of failure underlying nearly every §6 risk |
-| Ongoing | Reflection contract sizing, any additional AI-compute customer announcements | Would test whether Anthropic/Google are the start of a durable multi-customer business or a two-customer concentration risk (§6) |
+| $ Billion | Revenue | YoY | OCF | Capex | FCF | SBC | Net financing raised | Shares issued for deals | Diluted shares (B) |
+|---|---|---|---|---|---|---|---|---|---|
+| FY2023 | 10.4 | — | 4.5 | 4.4 | 0.1 | 0.7 | 0.4 | — | n/m |
+| FY2024 | 14.0 | +35% | 5.8 | 11.2 | (5.4) | 0.8 | 11.8 | — | n/m |
+| FY2025 | 18.7 | +33% | 6.8 | 20.7 | (14.0) | 1.9 | 26.4 | EchoStar (part) | 9.65 pro forma |
+| 9M 2026 | 27.1 | +97% | 13.1 | 48.1 | (35.0) | 3.8 | 99.8 (IPO $85.7) | xAI; Cursor 391M | 12.48 (Q3) |
+| **Cum. FY2023–9M 2026** | 70.2 |  | 30.2 | 84.4 | (54.2) | 7.2 | 138.4 |  |  |
 
----
+*FCF = operating cash flow − capital expenditure. Net financing raised is cash from financing activities: IPO proceeds, debt (the $25B bond in June 2026), preferred and common sales, less repayments and $4.4B of 2026 repurchases. Earlier share counts are not comparable because preferred stock converted at the IPO. Source: [prospectus](https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm), [Q3 release](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm). Built with Claude.*
 
-## Section 10 — BAIT Framework
+Since 2023 SpaceX has generated about $30 billion of operating cash flow and spent $84 billion on capital projects. It has raised $138 billion from outside: the IPO, $25 billion of investment-grade bonds in June, preferred stock before the IPO and other debt. It has also issued stock for xAI, Cursor and EchoStar. Free cash flow in the first nine months of 2026 was minus $35 billion, and the fourth quarter alone will be worse. Management describes the spending as demand-led and fast-paying, and it may be. Either way, for at least the next two years the compute plan depends on capital markets staying open to SpaceX at good prices. The only repurchases, $4.4 billion of common and preferred stock in the first nine months of 2026, are not explained in the release.
 
-### B — Behavioral: **Strong**
+**Outsider grade: Reinvestor, Anti-Outsider-leaning on M&A.** All cash goes back into the business, which is right if returns are as described. But the two large deals were paid in stock near peak valuations, and no capital is ever returned, the opposite of the countercyclical discipline the [Outsiders](../../frameworks/outsiders.md) test rewards.
 
-Few stocks in this wiki have shown a cleaner behavioral round-trip: euphoric +67% gain from IPO price to ATH in four trading days, followed by a –36% collapse to a fresh all-time low three days before this ingest — all without a single earnings report as a public company. That is textbook sentiment-driven overshoot in both directions, not fundamentals repricing on new information (the Anthropic and Google contracts, the biggest genuine fundamental facts, were both known *before* the ATH). Whether the current price represents "fear has overshot" or "euphoria hasn't finished unwinding" is genuinely unresolved — this page leans toward the latter being more likely resolved by the August/September catalysts (lockup unlocks, first earnings) than by sentiment alone.
+#### The incentives
 
-### A — Analytical: **Mixed / Moderate**
+| Component | Size | What it pays for | Status |
+|---|---|---|---|
+| **Musk: Mars award** (Jan 2026) | 1.0B restricted Class B shares, 15 tranches | Market cap from $0.5T to $7.5T in $0.5T steps **and** a permanent Mars colony of at least one million people | Musk votes all of the shares now; none vests without the colony |
+| **Musk: orbital-compute award** (Mar 2026) | 302M restricted Class B shares, 12 tranches | Market cap from $1.065T to $6.565T **and** non-Earth data centers delivering 100 TW of compute a year | Musk votes all of the shares now; none vests without the orbital compute |
+| **CFO Bret Johnsen: options** | 4M options | 371,125 options vest for each $10B of adjusted EBITDA earned in 2025–2029 | None earned on FY2025 |
+| **Gwynne Shotwell, President** | $85.8M in FY2025, mostly options | Service-based | Sold ≈342K shares at $151–155 on Sep 22 under a 10b5-1 plan |
+| **Return on invested capital** | 0% | Not measured anywhere in the plans | — |
 
-What's analytically real: Starlink's unit economics and profitability are genuine and disclosed; the Anthropic and Google AI contracts are signed, named, and dollar-quantified — not speculative. What's analytically unresolved: segment-level Launch profitability is not cleanly disclosed in sources available this pass; the S-1's 2028–2030 growth targets require sustained compounding no comparable company has achieved; and the entire structure is gated on Starship, whose in-orbit refueling capability "has not yet been demonstrated or attempted" per the S-1's own words. The analytical case is genuinely two-sided rather than a clean mispricing in either direction — unusual for this wiki's typical setups, and a fair reflection of a five-week-old, three-segment, unprecedented business.
+*Source: [prospectus](https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm) (executive compensation and principal shareholders); [Form 4, Sep 24, 2026](https://www.sec.gov/Archives/edgar/data/1181412/000162828026063378/0001628280-26-063378-index.htm). Built with Claude.*
 
-### I — Informational: **Moderate-Strong**
+Musk's two awards are the most unusual incentive plans I have seen. Both pay only for things no company has done: a million people living on Mars, or 100 terawatts a year of compute in space. Both also require market-cap milestones that run to $7.5 trillion. Because the shares are issued now and Musk votes them, they give him about 84% of SpaceX's votes on about 42% of its economics. Like Tesla's 2025 award, they reward scale and ambition, and nothing in any SpaceX plan measures return on capital. For a company about to spend several hundred billion dollars, that gap matters more here than almost anywhere.
 
-The single most useful informational signal available is the bond market's reaction: a $25B, investment-grade-rated offering that drew $89B of orders and then immediately traded down to junk-like secondary-market levels is sophisticated fixed-income capital revealing skepticism that the equity market's initial euphoria did not price in. That is a genuine edge for anyone reading past the equity headlines. The Cursor/Anysphere acquisition's lack of a clearly articulated rationale (as of this ingest) is a second informational gap worth monitoring rather than ignoring.
+#### The Tesla question
 
-### T — Technical: **Weak, structurally fragile**
+On the Q3 call, Musk confirmed that SpaceX and Tesla have each formed special committees of independent directors to study a combination, at shareholders' request, and that he is recused:
 
-- Free float ≈4–5% of shares outstanding with ≈31% of that float short — a structurally amplifying setup that will keep producing outsized moves on modest volume regardless of fundamentals
-- No technical floor established — the stock is trading at its all-time low as of this ingest, with zero prior-cycle support levels to reference
-- Four staggered lockup unlocks between August 2026 and June 2027 are known, dated supply events still ahead
-- No buyback program (all capital directed to growth capex/M&A) — no technical floor from that channel either
+> "Some people out there assume that a SpaceX and Tesla merger is a certainty. And I think that would be overstating it. Do I think it would be a good idea, yes... the special committees have not reached agreement on the terms of any transaction. And obviously, there's no guarantee that they will."
+> — Elon Musk, Q3 2026 earnings call, October 20, 2026
 
-### BAIT Verdict
+For SpaceX holders the deal is mostly about price. SpaceX would most likely be the acquirer, and Tesla's holders control the vote that matters (50% of all outstanding Tesla shares). So any premium would flow from SpaceX's public holders to Tesla's. In the [exchange-ratio study](../../insights/SPCX-TSLA-merger-exchange-ratio-2026-10-21.md), I put the most likely terms at the market ratio plus a 10–20% premium. The probability-weighted outcome is about 2.66 SpaceX shares per Tesla share, a 42/58 split, and a 65% chance of closing. On those terms SpaceX holders give up about 4% of value if it closes. I carry that as an optionality line in the valuation. Musk owns about 42% of SpaceX and about 20% of Tesla, so his own money favors a SpaceX-friendly ratio; the Tesla vote pulls the other way.
 
-**Double overlap (B Strong + I Moderate-Strong; A genuinely Mixed; T Weak)**. **Conviction: Low-Moderate, appropriately cautious for a 5-week-old, three-segment, unprecedented listing.** This is not a standard "cheap wide-moat compounder" setup this wiki typically favors at Initiate-level conviction — it is a genuinely open question spanning a real, profitable satellite/launch business, a real but young and concentrated AI-compute business, and a founder-dependency + execution-dependency risk profile with no peer precedent. The next two catalysts (first public-company earnings, first lockup unlock) are more likely to resolve this than continued sentiment-watching.
+The strategic case is real but overlapping: Terafab is already a three-way chip initiative with Tesla and Intel, Tesla sold xAI $430 million of Megapacks in 2025, and the two companies are building the Macrohard agent platform together. Most of those benefits are available by contract. My test for the deal is whether Tesla's committee insists on a majority-of-the-minority vote and SpaceX's committee holds the premium under 20%. If both happen, the committees did their jobs.
 
----
+#### Promises
 
-## Section 11 — Bull / Bear / Base Cases
+| Promised | Where, when | Outcome |
+|---|---|---|
+| 2028 revenue of $120–180B | IPO materials, May–June 2026 | 🟢 Ahead: the Q1 2027 guide of $33–37B annualizes to $132–148B, a year early |
+| $100B of annualized revenue (December run-rate) by the end of 2026 | CFO, Q2 and Q3 2026 calls | 🟡 Reaffirmed in October; resolves in the Q4 print |
+| Operational, reusable Starship | Musk's public targets from 2023 onward | 🟡 First orbital, revenue-earning flight in September 2026; full reuse not yet shown |
 
-*5-year terminal scenarios (FY2031E) per Rule #24. Given SPCX's ~1-month public history and unprecedented three-segment structure, these are built on wider, more explicitly-labeled assumption bands than a mature ticker's — treat the dollar figures as illustrative anchors, not precise models. Probabilities sum to 100%.*
+*Source: [S-1 notes](../../../raw/SPCX/filings/SPCX-S1-2026-notes.md), [Q3 call](https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/), [Q3 release](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm). Built with Claude.*
 
-### 🟢 Bull Case — $340 (5-yr, +134% from $145.30) — **Probability: 25%**
-- AI/Compute segment scales toward the low end of management's own 2030 targets (say $150–200B total company revenue by FY2031, still well below the S-1's $400–500B framing); Anthropic/Google contracts renew and are joined by 3–4 additional large AI-lab customers
-- Starship achieves reliable at-scale reusability by 2027–2028, unlocking both next-gen Starlink economics and early orbital-compute optionality
-- Bond market skepticism proves overdone as execution derisks the credit story; multiple re-rates toward hyperscaler-adjacent territory for the AI segment specifically, blended with a premium industrial multiple for Launch/Starlink
-- **Requires**: Starship de-risked, AI customer base diversifies beyond two names, Cursor/Anysphere rationale proves additive rather than distracting, no material Musk key-person event
+Management's financial promises have been kept so far, for two quarters, and the 2028 revenue target now looks conservative. Its engineering timelines have run late for years, but Starship reached orbit with a paying payload. So is Musk the right manager? For building, without question. For capital, the evidence is thin and points toward stock-funded expansion, and his incentives reward exactly that.
 
-### 🟡 Base Case — $185 (5-yr, +27% from $145.30) — **Probability: 45%**
-- Starlink continues compounding (subscriber growth outrunning ARPU decline, as today), Launch stays the dominant global player but does not itself re-rate, AI/Compute reaches a meaningful multiple of its current run-rate but well short of the S-1's most aggressive framing (say $60–100B total company revenue by FY2031)
-- Starship achieves partial success — enough to sustain Falcon-to-Starship transition on a delayed timeline, without unlocking the full orbital-data-center ambition within the 5-year window
-- Multiple normalizes somewhat from today's ≈100× P/S but stays rich relative to pure launch/satellite peers, reflecting a real (if smaller-than-promised) AI business
-- **Requires**: no major Starship setback, Anthropic/Google contracts perform as written, Musk remains engaged, lockup unlocks absorb without a disorderly repricing
+### Valuation and Model Assumptions
 
-### 🔴 Bear Case — $60 (5-yr, –59% from $145.30) — **Probability: 30%**
-- Starship suffers a material multi-year setback (a real possibility explicitly flagged by the S-1's own "not yet demonstrated" refueling language); AI/Compute growth stalls or one of the two anchor contracts (Anthropic/Google) is renegotiated down or not renewed
-- Bond market skepticism proves prescient — credit costs rise, capital discipline is forced, and the Cursor/Anysphere-style acquisitions stop
-- Market re-rates the entire company toward a more conventional capital-intensive-industrial multiple once the AI-infrastructure narrative fails to convert to durable, diversified revenue
-- **Requires**: Starship setback, AI customer concentration proves a real vulnerability (not just a theoretical risk), a Musk key-person event or a further capital-allocation misstep erodes investor trust
+SpaceX is an early-growth company with three businesses of very different quality, so I build each segment separately: revenue growth and an operating margin, down to GAAP EPS after stock pay and dilution. I start from the exit run-rate (the Q1 2027 guide annualized, with Q3 margins) rather than from calendar 2026, whose $48 billion of revenue the company will have outgrown by January. The 2031 value is EPS times an exit multiple, 30× in the Base. Competence is Outside: Starship's reuse and the long-run price of compute are questions I can't answer with an edge. So Bull and Bear each get 25%, and the Bear includes the funding loop: equity sold low to finish the build. Here is the Base:
 
-*Given this page's own reading of the risk balance (§6), Bear carries a meaningfully higher probability weight than this wiki typically assigns a first-ingest Bull/Bear split — a deliberate reflection of the concentration and execution risks unique to this name, not a house view that space/AI infrastructure is a bad long-term business.*
+| $ Billion | FY2026E | FY2027E | FY2028E | FY2029E | FY2030E | FY2031E |
+|---|---|---|---|---|---|---|
+| **Super Intelligence revenue** | 106.0 | 125.8 | 149.4 | 177.3 | 210.4 | 249.8 |
+|  YoY growth | 18.7% | **18.7%** | **18.7%** | **18.7%** | **18.7%** | **18.7%** |
+|  Operating margin | 20.0% | 21.0% | 22.0% | 23.0% | 24.0% | **25.0%** |
+|  Operating profit | 21.20 | 26.42 | 32.86 | 40.77 | 50.50 | 62.45 |
+| **Connectivity revenue** | 26.0 | 30.4 | 35.6 | 41.6 | 48.7 | 57.0 |
+|  YoY growth | 17.0% | **17.0%** | **17.0%** | **17.0%** | **17.0%** | **17.0%** |
+|  Operating margin | 44.0% | 44.2% | 44.4% | 44.6% | 44.8% | **45.0%** |
+|  Operating profit | 11.44 | 13.45 | 15.80 | 18.57 | 21.83 | 25.65 |
+| **Space revenue** | 8.0 | 8.4 | 8.8 | 9.3 | 9.7 | 10.2 |
+|  YoY growth | 5.0% | **5.0%** | **5.0%** | **5.0%** | **5.0%** | **5.0%** |
+|  Operating margin | -5.0% | -2.0% | 1.0% | 4.0% | 7.0% | **10.0%** |
+|  Operating profit | -0.40 | -0.17 | 0.09 | 0.37 | 0.68 | 1.02 |
+| Corporate and other | (0.00) | (0.00) | (0.00) | (0.00) | (0.00) | (0.00) |
+| **Total revenue** | 140.0 | 164.6 | 193.8 | 228.2 | 268.9 | 317.0 |
+| **Operating profit** | 32.24 | 39.70 | 48.75 | 59.72 | 73.01 | 89.12 |
+|  Operating margin | 23.0% | 24.1% | 25.2% | 26.2% | 27.2% | 28.1% |
+| Net income | 25.21 | 30.95 | 37.87 | 46.20 | 56.24 | 68.31 |
+| Diluted shares (B) | 12.700 | 12.954 | 13.213 | 13.477 | 13.747 | 14.022 |
+|  Net share change | — | +2.0% | +2.0% | +2.0% | +2.0% | +2.0% |
+|  SBC (% of revenue) | 8.0% | 7.6% | 7.2% | 6.8% | 6.4% | 6.0% |
+| **GAAP EPS** | $1.98 | $2.39 | $2.87 | $3.43 | $4.09 | $4.87 |
+|  YoY growth | — | 20.4% | 20.0% | 19.6% | 19.3% | 19.1% |
+| **Owner earnings per share (after SBC)** | $1.69 | $2.03 | $2.44 | $2.91 | $3.48 | $4.14 |
 
----
+*Base case. The first column is the exit run-rate (Q1 2027 revenue guidance of $33–37B annualized, with Q3 2026 segment margins), labelled FY2026E because the model counts five years from it; calendar 2026 revenue will be about $48B. Margins move linearly to the FY2031 inputs. GAAP EPS includes stock pay. Source: author's model (model.json). Bold cells are model inputs.*
 
-## Section 12 — Probability-Weighted Expected Value
+In the Base, Super Intelligence grows about 19% a year to roughly $250 billion of revenue at a 25% operating margin. That is about 15 GW renting near $16 billion per GW-year, management's 13 GW arriving a year late with prices a third of today's. Starlink compounds about 17% a year at 45%, and Space grows slowly as Starship costs settle. Net dilution runs 2% a year. Run-rate EPS of $1.98 grows to $4.87 in 2031, about 19.7% a year, and at 30× the stock is worth about $146. That is roughly today's price.
 
-| Scenario | FY2031E Price | Probability | PW Contribution |
-|----------|---------------|-------------|-----------------|
-| 🟢 Bull | $340 | 25% | $85.00 |
-| 🟡 Base | $185 | 45% | $83.25 |
-| 🔴 Bear | $60 | 30% | $18.00 |
-| **PW EV (5-year)** | | | **≈$186.25 (≈$185)** |
+| Case | Prob. | 3P | Super Intelligence growth / margin | Connectivity growth / margin | Space growth / margin | Net shares/yr | Per-share earnings FY2031 | CAGR | Exit multiple | Value | Return/yr | Implied g | Driving assumption |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| **Bull** | 25% | Plausible | +41.4% / 35.0% | +26.7% / 50.0% | +14.0% / 20.0% | +1.5% | $14.59 | 49.0% | 35.0× GAAP EPS | $510 | 28.1% | 7.4% | About 30 GW installed by 2031 renting near $20B per GW-year: Super Intelligence revenue about $600B at a 35% operating margin; Starlink compounds about 27% a year from its run-rate as V3 and Mobile V2 fill; Starship makes Space profitable. 35× a business still growing fast. |
+| **Base** | 50% | Probable | +18.7% / 25.0% | +17.0% / 45.0% | +5.0% / 10.0% | +2.0% | $4.87 | 19.7% | 30.0× GAAP EPS | $146 | -0.2% | 7.0% | Management's 13 GW lands about a year late, then about 15 GW renting near $16B per GW-year as GPU prices deflate: Super Intelligence revenue about $250B at a cloud-like 25% margin; Starlink about 17% a year at 45%; 2% a year dilution from stock pay and funding. |
+| **Bear** | 25% | Probable | +2.5% / 12.0% | +9.0% / 35.0% | -3.2% / -5.0% | +4.5% | $1.27 | -8.6% | 22.0× GAAP EPS | $28 | -28.4% | 5.9% | Compute turns into a commodity: rental prices fall faster than chips depreciate, Super Intelligence revenue stalls near $120B at a 12% margin, and the build is funded partly with equity sold low (4.5% a year dilution). Starlink keeps growing but cannot carry the price. |
+| **Priced-in (10%/yr)** | — | diagnostic | +28.4% / 29.3% | +21.1% / 47.1% | +8.8% / 14.3% | +1.8% | $7.93 | 31.9% | 30.0× GAAP EPS | $238 | 10.0% | 7.0% | Solved along Base → Bull for 10%/yr |
+| **Hurdle (13%/yr)** | — | diagnostic | +31.2% / 30.5% | +22.3% / 47.7% | +9.9% / 15.5% | +1.7% | $9.08 | 35.5% | 30.0× GAAP EPS | $272 | 13.0% | 7.0% | Solved along Base → Bull for 13%/yr |
+| Option: Orbital compute and Musk's $500B+ ARR path | 2% | possible |  |  |  |  |  |  |  | $900 |  |  | Musk's end-2027 ARR target of $500B–$1T met and sustained, then orbital data centers on a reusable Starship; possible, not plausible |
+| Option: Tesla merger: premium paid to Tesla holders | 65% | possible |  |  |  |  |  |  |  | $-8 |  |  | about a 4% transfer of value to Tesla holders if the deal closes on PW terms (see the merger chapter) |
+| **Probability-weighted** | 100% |  |  |  |  |  |  |  |  | $220 | 8.3% |  |  |
 
-| Current Price | PW EV | Price Return (5-yr) | Annualized |
-|--------------|-------|---------------------|-----------|
-| $145.30 | ≈$185 | **+27.3%** | ≈+5%/yr |
+*Annual return = price change to the FY2031 value (no dividend). Probabilities apply to Bull, Base and Bear; competence is Outside, so Bull and Bear each get at least 25%. The Priced-in and Hurdle rows are solved along the Base→Bull path at a 30× exit. Option lines are added to the PW value. Source: author's model. Built with Claude.*
 
-**R/R**: Bull upside +134% vs. Bear downside –59% = **≈2.3:1** (using the Bull/Bear extremes) — modest by this wiki's usual standard for an Initiate-level setup, and the honest reflection of a scenario set with a wider bear tail than most tickers here carry. No dividend (none paid; unlikely for years given the capex intensity).
+| Return math |  |
+|---|---|
+| PW return/yr vs. hurdle | **8.3% (<13%)**, of which 0.0% is the dividend yield. Entry ≤$120. 10-year Treasury 5.15%; the hurdle sits 7.9 points above it. |
+| Compounding at a flat multiple | Base run-rate EPS grows 19.7% a year to $4.87, but the multiple falls from about 75× to 30×, so the Base earns about nothing (-0.2% a year). There is no dividend or buyback; net dilution runs 2% a year in the Base. All of the PW return above the Base comes from the Bull's tail, not from compounding at a flat multiple. |
+| Optionality | Orbital compute and Musk's $500B+ ARR path: 2% × $900 = $18.0; Tesla merger: premium paid to Tesla holders: 65% × $-8 = $-5.2 |
+| Price-implied expectations | At 10%, spot needs $7.93 of per-share earnings in the terminal year (31.9% a year) at 30×. |
+| EPV floor | About $20–25 a share: run-rate net income of roughly $25B at 85% owner-earnings conversion, capitalized at 10%, plus $51B of net cash. About 85% of the price pays for growth. The Bear ($28) sits just above EPV because it keeps Starlink growing while compute stalls. |
+| Base rate / 3P | From a $140B run-rate, the Base grows revenue about 18% a year and the Bull about 38%; fewer than 2% of companies above $50B of sales have grown 20% a year in real terms for five years, so the Bull is possible-to-plausible only because the run-rate itself is brand new. The Base is probable only if the 2027 guide holds; it leans on management's own numbers. |
+| Terminal-growth check | Implied perpetual growth at 10%: Bull 7.4%, Base 7.0%, Bear 5.9%, all above the 5.15% Treasury, so every case leans on growth beyond year five. I accept the flag for the Bull and Base, whose stories still grow at year five; the Bear's 22× is generous for a business whose compute stalls. |
+| Break-even and price-implied Bear odds | Break-even <0% against 25% assigned; price-implied 12% at 10%. |
+| Year ten | In the Bull, still growing at year ten on compute and Starlink Mobile. In the Base the terminal multiple does most of the work, since compute revenue per GW is assumed to fall. |
+| R/R | **3.0:1** (Bull +245% / Bear −81%) |
 
-**Interpretation**: At $145.30, SPCX trades modestly below this page's PW EV (≈$185, +27% implied), but the R/R is meaningfully less asymmetric than the typical setup this wiki initiates on — a fair reflection of a stock whose bear case (Starship setback, AI-contract concentration unwinding) is not a tail-risk footnote but a live, S-1-disclosed possibility. This is a name where price alone does not yet resolve the underlying uncertainty; the next two catalysts (first earnings, first lockup unlock) carry more information value than further price-level analysis.
+*Computed rows come from model.json; EPV, base rate, year ten and the terminal-growth reading are the author's. Built with Claude.*
 
----
+At a 10% cost of equity and a 30× exit, the price needs FY2031 EPS of about $7.93, roughly 31.9% growth a year from the run-rate. That is about 40% of the way from my Base to my Bull: a compute business that keeps most of today's pricing while it quadruples in size. In scenario terms, the price implies a 12% chance of the Bear against my 25%.
 
-## Section 13 — Recommendation & Bottom Line
+To earn 13% a year, SpaceX would need about $9.08 of EPS, more than halfway to the Bull. Weighting the cases 25/50/25 and adding the two option lines (Musk's $500 billion-plus revenue path at 2%, the Tesla premium at minus) gives about $220 a share and 8.3% a year. The price that clears the hurdle on the same cases is about $120. The Bull returns 28.1% a year and carries almost all of the upside; R/R is 3.0:1, but the Base earns nothing. Capitalizing today's earnings with no growth gives about $20–25 a share, so about 85% of the price pays for growth.
 
-**Thesis in one sentence**: SpaceX is a profitable, wide-moat launch-and-satellite-internet company that has, via the Feb 2026 xAI merger, added a real but young and concentrated AI-compute-leasing business generating ≈$27.8B/yr of contracted run-rate — priced by the market at a blended multiple that only works if that AI segment scales toward management's own aggressive 2028–2030 targets, all of it gated on an unproven next-generation rocket (Starship) and a founder explicitly disclosed as not full-time, with the bond market already signaling more skepticism than the equity market has fully absorbed.
+*Confidence note: I cannot judge Starship's path to rapid reuse, or how fast AI-compute rental prices normalize; both are frontier questions, which is why the scenario weights are wide.*
 
-**For a non-holder**: 🟡 **Watch** — the underlying businesses (Starlink, Launch) are genuinely high-quality, but a 5-week-old listing with no earnings report yet, a fresh all-time low, an unexplained $60B acquisition, junk-pricing on investment-grade debt, and a lockup unlock three to four weeks out mean the entry-timing evidence base is too thin for a scaled Initiate; PW EV (§12) implies modest upside from spot, but the honest read is to wait for the two near-term catalysts (first earnings, Aug 11 unlock) before sizing a position. A deep-discount starter position below the $110 entry zone is defensible for investors comfortable with the risk profile in §6.
+### Final Words
 
-**For a current holder**: 🟡 **N/A / Hold if positioned pre-IPO** — this wiki is position-agnostic and SPCX has no prior page; a reader who received shares via the IPO or pre-IPO markets should weigh the same catalysts (first earnings, Aug 11 lockup unlock) before adding, consistent with the non-holder framing above.
+SpaceX is better than the market thought in July, when I first wrote about it at $145. The compute business turned profitable a quarter early, Starlink's prices turned up, and management's own revenue targets now look conservative. If you asked me which company in this wiki has the most remarkable set of businesses, I would probably say this one.
 
-🎯 **Attractive entry zone**: **<$110** (≈40%+ discount to PW EV, reflecting the wider-than-usual Bear tail — a deliberately larger margin of safety than this wiki's typical 15–25% MoS, given the concentration/execution risk profile)
+But the stock is back near where it was, so the improvement went into a higher bar. At $148 the price already assumes the compute business keeps a good part of its scarcity pricing while it grows several times over, and that it gets funded on good terms. That is possible. Management believes it, and it has delivered on everything financial it has promised so far. It is not a case I would pay for in advance, because the contracts that capture rising prices will also pass on falling ones, and the build is large enough to help make prices fall.
 
-🎯 **Trim zone**: **$185 – $340** (PW EV to Bull)
+What would change my mind? The Q4 and Q1 prints will show whether $33–37 billion of quarterly revenue arrives with its margins intact. The next three quarters will show how a $35–40 billion capex quarter gets financed. Flight 15 and its successors will show whether Starship becomes the cheap, reusable rocket that every long-run plan here assumes. The price at which I would buy on today's cases is about $120. Until then I'll watch, and I'll watch the merger terms as closely as the rockets.
 
-🔴 **Exit / avoid zone**: **≥$340** (≥ Bull case)
+Here are the three tests written as kill criteria, each with its consequence fixed in advance:
 
-**Thesis-break triggers** ⚠️:
-- ⚠️ Material Starship setback (test-flight failure with a multi-quarter delay, or continued failure to demonstrate in-orbit refueling into 2027+)
-- ⚠️ Anthropic or Google renegotiates, delays, or exits its compute contract
-- ⚠️ First public-company earnings report shows capex/cash-burn trajectory materially worse than the S-1 implied, or fails to explain the Cursor/Anysphere rationale
-- ⚠️ Further large, dilutive, non-core-adjacent acquisitions in the Cursor/Anysphere mold
-- ⚠️ Musk key-person event (departure, incapacitation, or explicit further disengagement from SpaceX in favor of Tesla/xAI/other ventures)
-- ⚠️ Starlink ARPU decline accelerates without offsetting subscriber growth (margin, not just mix, deterioration)
-- ⚠️ Additional bond issuance prices even more punitively, signaling credit markets losing confidence further
-- ⚠️ Material adverse regulatory or national-security development tied to Musk's political exposure
+*The three tests, with their pre-committed consequences, are listed at the top of this report under [What I'd Have To Be Wrong About](#what-id-have-to-be-wrong-about).*
 
-📅 **Next review trigger**: **First public-company earnings report** (targeted late July–August 2026, unconfirmed) and the **August 11, 2026 lockup unlock**, whichever comes first — both are likely to land within weeks of each other and together will be this page's first real fundamental (not just sentiment) update since ingest.
+### Appendix: The Numbers
 
----
+The tables below carry the framework's required numbers. The argument for each is made in the chapters above.
+
+#### Five-year record
+
+| $B, except per share | FY2023 | FY2024 | FY2025 | 9M 2026 | Q3 2026 ann. |
+|---|---|---|---|---|---|
+| Revenue | 10.39 | 14.02 | 18.67 | 27.08 | **58.3** |
+| Operating income (GAAP) | (3.51) | 0.47 | (2.59) | 0.71 | **11.2** |
+| Net income | (4.63) | 0.79 | (4.94) | (0.41) | 17.6 |
+| Adjusted EBITDA | 3.82 | 5.35 | 6.58 | 13.47 | 35.2 |
+| Operating cash flow | 4.52 | 5.78 | 6.79 | 13.10 | — |
+| Capex | 4.42 | 11.16 | 20.74 | 48.07 | 78.4 |
+| Free cash flow | 0.11 | (5.39) | (13.95) | (34.97) | — |
+| Depreciation and amortization | 2.64 | 3.82 | 6.70 | 8.93 | 14.6 |
+| Share-based compensation (incl. acquisition-related) | 0.68 | 0.78 | 1.95 | 3.83 | 9.5 |
+| SBC % of revenue | 6.5% | 5.6% | 10.4% | 14.2% | 16.2% |
+| **Owner earnings** (CFO − SBC − D&A as maintenance) [Derived] | 1.21 | 1.17 | (1.86) | 0.33 | — |
+| Net cash / (debt), ex-leases | n/d | (2.41) | 1.85 | **51.0** | — |
+| Invested capital [Derived] | n/d | 29.9 | 41.0 | 127.3 | — |
+| of which goodwill and intangibles | n/d | n/d | 13.4 | 54.8 | — |
+| **ROIC** (NOPAT at 21% ÷ invested capital) [Derived] | n/m | 1.2% | −5.0% | — | **6.9%** (12.2% ex-goodwill) |
+| **3-yr incremental ROIC** | — | — | — | — | n/m: NOPAT was negative in the base years |
+| Diluted shares (B) | n/m | n/m | 9.65 pro forma | 12.48 (Q3 weighted) | ≈12.7 at quarter end |
+| Interest coverage (EBIT ÷ interest) | neg. | 0.3× | neg. | 0.4× | 4.1× |
+| SBC-adjusted accruals ÷ assets | — | — | — | −5.6% | — |
+
+*FY2023–FY2025 include xAI and X. Invested capital = equity + redeemable preferred + debt and finance leases + operating leases − cash and marketable securities. Owner earnings use D&A as the maintenance-capex proxy, because a revenue-based split breaks when capex is 2.5× revenue. Q3 annualized multiplies the quarter by four. Source: [prospectus](https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm), [Q2](https://www.sec.gov/Archives/edgar/data/1181412/000162828026052515/earningsreleaseq22608042.htm) and [Q3](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm) releases, [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001181412.json). Built with Claude.*
+
+Cycle position: not meaningful; the company has reported positive operating income in one full year of three, and its current margin reflects a business that did not exist eighteen months ago.
+
+#### Growth levers
+
+| Lever | Contribution now | Runway | Evidence | Management intent | Stage |
+|---|---|---|---|---|---|
+| Market growth | AI compute demand; LEO broadband demand | 5+ yrs | Musk: 'We could rent out our compute several times over' | 13 GW of compute by end-2027 | Scaling |
+| Share gain | 90% of global mass to orbit | Indefinite | Q3 call; China ≈6%, everyone else ≈4% | Starship cadence weekly in H1 2027 | Proven |
+| Price and mix | Starlink ARPU +5% QoQ; compute $/W above $50 | 1–3 yrs | Johnsen: renewals 'at higher dollars per watt' | Short contracts at spot | Scaling (compute) / Proven (Starlink) |
+| Attach / new products | Starlink Mobile (22M users), aviation (12,000 planes contracted), Grok Bot (800K paid weekly users), Cursor | 5+ yrs | Q3 release and call | U.S. mobile carrier by early 2028 | Scaling |
+| New geographies | 174 Starlink markets | 3–5 yrs | Vietnam, Uganda added in Q3 | — | Proven |
+| M&A | xAI, Cursor, spectrum; Tesla under study | — | $60B Cursor at the stock's high | Vertical integration | Option |
+| Margin | SI operating leverage | 2–3 yrs | SI EBITDA margin −53% → 66% in a year | — | Scaling |
+| Share count | Dilution ≈2% a year | — | SBC 14% of revenue; $23B Cursor retention pay | No buyback program | Negative |
+
+*Market growth, price and margin in Super Intelligence carry the Base; Starship-driven Starlink capacity carries the Bull. Source: Q3 2026 release and call. Built with Claude.*
+
+#### Moat, customer and profit pool
+
+| Read | Call | Evidence |
+|---|---|---|
+| Mechanism | **Scale economies** (launch) + **cornered resource** (spectrum and orbital shells, filled with satellites launched on its own rockets) in Starlink; in compute, a claimed **process power** in building power and cooling fast | 90% of mass to orbit; Starlink EBITDA margin 67%; Musk says in-house turbine blade casting brings power online 12–18 months sooner |
+| Trend | **Widening** in launch and Starlink; **unproven** in compute | Starlink ARPU turned up while subscribers grew 89% a year; compute pricing is a scarcity rent until supply catches up |
+| Profit pool | Nvidia captures most of the compute value chain's margin; SpaceX earns a rent on power, speed and scale | Q3 SI capex $16.4B against $4.95B of segment EBITDA; chips are most of the bill |
+| Customer | Starlink: 13.6M consumers at $69/month plus airlines and governments; SI: Anthropic, Google and others on short contracts, with about half the capacity used internally | Retention and CAC not disclosed; ARPU and backlog ($63B, $42B within 12 months) are the proxies |
+
+*7 Powers vocabulary (Helmer). Source: Q3 2026 release and call; assessments are the author's. Built with Claude.*
+
+#### Competitors
+
+| Competitor | Arena | Threat |
+|---|---|---|
+| **Amazon Leo (Kuiper)** | LEO broadband | Medium; well funded, years behind, launches partly on Falcon 9 |
+| **AST SpaceMobile** | Direct-to-cell | Medium; partnered with AT&T and Verizon where Starlink Mobile wants to be a carrier |
+| **Blue Origin, Rocket Lab, ULA** | Launch | Low today; New Glenn is the only heavy-lift alternative |
+| **Oracle, CoreWeave, hyperscalers** | Rented AI compute | High over time; the same Nvidia supply and the same AI-lab customers |
+| **OpenAI, Anthropic, Google** | Frontier models | High for Grok; two of them are also SpaceX compute customers |
+
+*Source: company filings and press; threat reads are the author's. Built with Claude.*
+
+#### Risks and triggers
+
+| Risk | Impact | Prob. | Priced in? | Would break the thesis if… |
+|---|---|---|---|---|
+| ⚠️ **Compute price normalization**: short contracts reprice down as GPU supply catches up | Critical | Med | 🔴 **No**: the price implies 12% Bear odds | Q1 2027 revenue below $33B (test 1) |
+| ⚠️ **Funding the build** (reflexive loop): Q4 capex $35–40B against $90B of cash; 2027 plan implies several hundred billion | High | Med | Partly | Equity sold below value or the IG rating lost (test 2) |
+| ⚠️ **Musk key-person and control**: 84% of votes, no key-person insurance, CEO of Tesla too; the charter renounces some corporate opportunities | High | Low | Partly | Musk's time or a conflicted Tesla deal visibly costs SpaceX holders |
+| ⚠️ **Tesla merger premium** paid from SpaceX holders | Med | Med | Partly | A premium above 20%, or a deal without a majority-of-minority vote at Tesla |
+| **Starship** gates V3 Starlink, Mobile V2 and orbital compute | High | Med | Partly | No full reuse by mid-2027 (test 3) |
+| **Customer concentration** in SI: a handful of AI labs, two of them competitors to Grok | Med | Med | No | A large customer walks at renewal |
+| **Stock pay**: SBC 14% of revenue, Cursor's $23B vesting over 3 years | Med | Observed | Partly | SBC stays above 10% of revenue in 2028 |
+| **Lockups and distributions**: further unlocks scheduled through June 2027; Valor distributed 42.8M shares in kind in September | Med | Certain | Partly | Disorderly trading around the Oct 25 and Nov 9 unlocks |
+| ~~ARPU dilution in Starlink~~ | — | — | ✅ | *Eased Q3 2026: ARPU rose to $69 from $66.* |
+
+*Filtered for materiality. Assessments are the author's. Built with Claude.*
+
+Reflexive loop: **funding**. The compute plan needs outside capital for at least two years, and the lower the stock, the more shares that capital costs. The Bear carries 4.5% a year of dilution for this reason. Ruin path: none within five years. $51 billion of net cash and an investment-grade rating cover the bonds; the risk is dilution, and default is remote.
+
+#### Catalysts
+
+| Date | Catalyst | Why it matters |
+|---|---|---|
+| ✅ Oct 20 | Q3 2026 print and call; Q1 2027 guide $33–37B; merger committees disclosed | Update note |
+| 📅 **Oct 21**, after the close | Tesla Q3 2026 print and call | Tesla's side of the merger; it resets the market ratio |
+| 📅 Oct 25 and Nov 9 | Scheduled lockup releases (per IPO terms) | Supply |
+| 📅 November | Starship Flight 15: first attempt to catch both stages | Test 3 |
+| 📅 Dec 3 | Tesla annual meeting (no merger item on the agenda) | Barclays sees terms possibly before it |
+| 📅 Late Jan 2027 | Q4 2026 print: the $100B ARR promise, Q4 SI revenue | Test 1 (first half) |
+| 📅 Late Apr 2027 | Q1 2027 print against the $33–37B guide | Test 1 |
+
+*Source: company releases and the Q3 call; lockup dates from the IPO terms as recorded in [post-IPO notes](../../../raw/SPCX/filings/SPCX-post-IPO-events-notes.md). Built with Claude.*
+
+#### Sentiment and positioning
+
+| Signal | Read |
+|---|---|
+| Analysts | Consensus Buy (38), mean target $222.71, range $118–$450 `[Analyst consensus]`; FY2027E EPS $1.99 predates the Q1 guide |
+| Short interest | 181.0M shares, 7.1% of a 2.56B float, up 11.6% month over month; 2.0 days to cover |
+| Insiders (90 days, Form 4) | Shotwell sold ≈342K shares (≈$52M) at $151–155 under a 10b5-1 plan; Valor (Gracias) distributed 42.8M shares to its partners; no open-market buying |
+| BAIT | Single (I): the transcripts and filings say more than the headline (Cursor's $23B of stock pay, the per-watt price, the funding gap); behavioral and analytical edges are gone after the rebound from $105 |
+
+*Context only; none of it moves a verb. Source: [StockAnalysis](https://stockanalysis.com/stocks/spcx/statistics/), [forecast](https://stockanalysis.com/stocks/spcx/forecast/), [EDGAR Form 4](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001181412&type=4). Built with Claude.*
 
 ### Sources
 
-- [SPCX S-1 extraction notes (raw/)](../../../raw/SPCX/filings/SPCX-S1-2026-notes.md)
-- [SPCX post-IPO events extraction notes (raw/)](../../../raw/SPCX/filings/SPCX-post-IPO-events-notes.md)
-- [SPCX management & launch ops extraction notes (raw/)](../../../raw/SPCX/filings/SPCX-management-and-launch-ops-notes.md)
-- [SEC EDGAR — SPCX S-1 (CIK 0001181412)](https://www.sec.gov/Archives/edgar/data/0001181412/000162828026036936/spaceexplorationtechnologi.htm) (direct fetch blocked this session)
-- [Fortune — SpaceX IPO filing $28.5T TAM](https://fortune.com/2026/05/20/spacex-ipo-filing-s1-total-addressable-market-make-life-multiplanetary/)
-- [TechCrunch — The SpaceX IPO filing has arrived](https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-has-arrived/)
-- [Axios — Understanding the SpaceX TAM numbers](https://www.axios.com/2026/05/24/musk-spacex-ipo-tam)
-- [CNBC — SpaceX IPO takeaways, SPCX closes at $161](https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html)
-- [CNBC — Gwynne Shotwell profile](https://www.cnbc.com/2026/06/16/gwynne-shotwell-spacex-elon-musk-ipo.html)
-- [CNBC — Google to pay SpaceX $920M/month](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html)
-- [CNBC — SpaceX signs compute deal with Reflection](https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html)
-- [Bloomberg — SpaceX Is Junk. That's What the Bond Market Says](https://www.bloomberg.com/opinion/articles/2026-07-02/spacex-is-junk-that-s-what-the-bond-market-says)
-- [Bloomberg — SpaceX's $25B Bond Weakens Quickly in Secondary Market](https://www.bloomberg.com/news/articles/2026-07-02/invesco-s-brill-gives-spacex-bond-a-red-card-for-very-sloppy-performance)
-- [Forbes — SpaceX Stock Slides As Debt Markets Flash Warning Signs](https://www.forbes.com/sites/petercohan/2026/07/10/spacex-stock-down-25-inside-the-debt-and-equity-risks/)
-- [The Motley Fool — How Low Can SpaceX Stock Go?](https://www.fool.com/investing/2026/07/13/how-low-can-spacex-stock-go/)
-- [The Motley Fool — Precise Timeline of Insider Lockup Unlocks](https://www.fool.com/investing/2026/07/04/precise-timeline-spacex-insider-dump-shares-retail/)
-- [The Motley Fool — $76B Data Center Deals Through 2029](https://www.fool.com/investing/2026/06/27/spacex-data-center-deals-anthropic-googl-stock/)
-- [Yahoo Finance — A Third of SpaceX's Tradable Shares Are Betting Against It](https://finance.yahoo.com/markets/stocks/articles/third-spacex-tradable-shares-now-145131198.html)
-- [Al Jazeera — SpaceX shares drop below debut price amid $600bn selloff](https://www.aljazeera.com/economy/2026/6/23/spacex-shares-drop-below-debut-price-before-jumping-amid-600bn-sell-off)
-- [mostlymetrics.com — SpaceX S-1: Starlink Revenue, Launch Margins, Musk's Mars Pay](https://www.mostlymetrics.com/p/spacex-ipo-s1-breakdown)
-- [Tom Tunguz — SpaceX's Limitless Ambition: An AI Conglomerate](https://tomtunguz.com/spacex-s1-analysis/)
-- [Morningstar — 6 Charts on SpaceX's Pre-IPO Financials](https://www.morningstar.com/stocks/6-charts-spacexs-s-1-financials)
-- [Trefis/Yahoo Finance — SpaceX vs. Blue Origin, Rocket Lab](https://www.trefis.com/stock/spcx/articles/603095/spacex-vs-blue-origin-rocket-lab-what-the-numbers-show/2026-06-16)
-- [moneywise.com — SpaceX S-1 risk factors, 38 pages, including Elon Musk himself](https://moneywise.com/investing/stocks/spacex-ipo-s1-risk-factors-elon-musk)
-- [HotHardware — Anthropic Leases SpaceX/xAI's 220,000 GPU Colossus Cluster](https://hothardware.com/news/anthropic-leases-spacexais-220000-nvidia-gpu-colossus)
-- [Tom's Hardware — Musk's SpaceX rents Colossus GPUs to Anthropic](https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-spacex-has-rented-out-access-to-its-supercomputers-220-000-nvidia-gpus-and-300-megawatts-of-ai-compute-power-to-rival-anthropic-musk-says-no-one-set-off-my-evil-detector-antrhropic-also-interested-in-orbital-data-centers)
-- [Introl Blog — xAI Colossus Hits 2GW: 555,000 GPUs](https://introl.com/blog/xai-colossus-2-gigawatt-expansion-555k-gpus-january-2026)
-- [TechCrunch — Google will pay SpaceX $920M/month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
-- [MLQ News — SpaceX signs $920M/month deal to lease 110,000 GPUs to Google](https://mlq.ai/news/spacex-signs-920m-per-month-deal-to-lease-110000-nvidia-gpus-to-google-ahead-of-ipo/)
-- [MLQ News — SpaceX signs $6.3B compute deal with Reflection AI](https://mlq.ai/news/spacex-signs-63b-compute-deal-with-reflection-ai-for-colossus-data-center/)
-- [Mezha — Reflection AI signed multibillion dollar access deal for Nvidia GB300 chips](https://mezha.net/eng/bukvy/8dc1e9a2_reflection_ai_signed/)
-- [Spheron — GPU Cloud Pricing Comparison 2026](https://www.spheron.network/blog/gpu-cloud-pricing-comparison-2026/)
-- [Spheron — NVIDIA B300 Blackwell Ultra pricing](https://www.spheron.network/gpu-rental/b300/)
-- [IntuitionLabs — H100 Rental Prices Compared Across 15+ Cloud Providers](https://intuitionlabs.ai/articles/h100-rental-prices-cloud-comparison)
-- [GetDeploying — H100 Cloud Pricing](https://getdeploying.com/gpus/nvidia-h100) / [B300 Cloud Pricing](https://getdeploying.com/gpus/nvidia-b300)
-- [Jarvislabs — NVIDIA H200 Price Guide 2026](https://jarvislabs.ai/blog/h200-price)
-- [aimultiple — Cloud GPU Rental Price Index](https://aimultiple.com/gpu-index)
-- [Runcrate — NVIDIA GB300 Price](https://www.runcrate.ai/pricing/gpu/gb300)
-- [Benzinga — SpaceX Wins Goldman Buy Rating, $205 PT](https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60303994/spacex-spcx-goldman-buy-rating-205-price-target)
-- [The Motley Fool — Raymond James Sets Street's Highest PT at $800](https://www.fool.com/investing/2026/07/10/raymond-james-sets-wall-streets-highest-price-targ/)
+[Q3 2026 release (8-K)](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm) · [Q2 2026 release (8-K)](https://www.sec.gov/Archives/edgar/data/1181412/000162828026052515/earningsreleaseq22608042.htm) · [Final prospectus (424B4)](https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm) · [Q3 2026 call transcript](https://www.fool.com/earnings/call-transcripts/2026/10/20/spacex-spcx-q3-2026-earnings-call-transcript/) · [8-K: Cursor closing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026056945/spcx-20260814.htm) · [SEC XBRL company facts (SPCX)](https://data.sec.gov/api/xbrl/companyfacts/CIK0001181412.json) · [Tesla 2026 proxy (related-party and ownership)](https://www.sec.gov/Archives/edgar/data/1318605/000110465926116700/tm267596-1_def14a.htm) · [CNBC Q3 live blog](https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html) · [Electrek on the merger](https://electrek.co/2026/10/20/tesla-and-spacex-take-first-step-towards-merger-would-dilute-all-shareholders/) · [Barclays view (INDmoney)](https://www.indmoney.com/blog/us-stocks/tesla-spacex-merger-barclays-shareholder-impact) · [RBC view (MarketWatch via iTiger)](https://www.itiger.com/news/2649858934) · [Merger exchange-ratio study (wiki)](../../insights/SPCX-TSLA-merger-exchange-ratio-2026-10-21.md) · [StockAnalysis statistics](https://stockanalysis.com/stocks/spcx/statistics/) · [Yahoo Finance](https://finance.yahoo.com/quote/SPCX/) · [FRED DGS10](https://fred.stlouisfed.org/series/DGS10)
+
+---
+
+*Analysis, not personal investment advice. Every figure traces to a linked primary source or carries a tag ([Estimate], [Analyst consensus], [Management guidance], [Derived]). No position sizing by design. Built from [report/](report/) by kg-investment-analysis v7; edit the sources there, not this file.*

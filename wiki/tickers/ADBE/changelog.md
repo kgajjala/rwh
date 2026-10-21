@@ -4,6 +4,22 @@
 
 ---
 
+## [2026-10-21] — No Material Events
+
+**Window**: 2026-10-06 → 2026-10-21
+**Snapshot**: price **$256.40** (Oct 21 intraday, ~12:50 PM ET, [Yahoo](https://finance.yahoo.com/quote/ADBE/); +7.4% vs. $238.79) · 52-wk $190.12–$363.70, ~38th %ile · short interest 17.7M shares on Sep 30 (−4% vs. Sep 15, +2% vs. Aug 31; 3.5 days to cover, [FINRA via Curvedtrading](https://curvedtrading.com/stocks/adbe/short-interest/)) · consensus $272.31, Hold, 39 analysts ([StockAnalysis](https://stockanalysis.com/stocks/adbe/forecast/))
+**Tests**: all three 🟡 Pending. None can resolve before the Q4 print and FY27 guide, now confirmed for 📅 Dec 9 ([IR calendar](https://www.adobe.com/investor-relations/calendar.html)).
+**Dismissed**:
+- Wells Fargo double-downgrade to Underweight, $225 target (Oct 12, [247 Wall St.](https://247wallst.com/investing/2026/10/12/adobe-falls-4-as-wells-fargo-cuts-to-underweight-with-225-target-servicenow-climbs-3-intuit-ticks-up/)), and HSBC to Hold, $267 target (Oct 13). Two firms do not make a cluster. Wells' main point, that organic net new ARR fell >40% in Q3 and Q4 must nearly double to hit the year, is a reading of disclosed data already behind test 1 `[Analyst consensus]`.
+- Expanded Nvidia partnership (Oct 15; RTX Spark optimizations for Photoshop, Premiere and Substance 3D, plus Brand Concierge on Nemotron, [TV Technology](https://www.tvtechnology.com/production/adobe-nvidia-expand-their-ai-partnership)). It extends the March deal and has no disclosed economics. Heathrow customer-experience deal (Oct 8): one customer.
+- Seven Form 4s on Oct 19 (Narayen, Chakravarthy, Day, Pentland, Chen, Balazs, Forusz). All are Oct 15 RSU vesting with shares withheld for tax (code F, $251.67), with no open-market sales ([EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000796343&type=4)).
+- No 8-K in the window. No executive appearances: the IR calendar lists none between the Q3 call and Dec 9, and none were found on the wider sweep. MAX (Nov 10–12) is the next.
+- The Oct 15 (+4.6%) and Oct 20 (+3.3%) gains carried no company-specific news beyond the Nvidia release.
+
+**Recommendation**: Unchanged. **Next trigger**: 📅 MAX Nov 10–12 (any freemium conversion metric; Chakravarthy's first investor remarks as CEO-designate); 📅 Dec 9 Q4 FY26 + FY27 guide.
+
+---
+
 ## [2026-10-06] — CEO named · Q3 FY2026 · migrated v3.0 → v5.0
 
 **Trigger**: [8-K](../../../raw/ADBE/filings/2026-09-08_8-K-CEO-appointment.txt) naming Anil Chakravarthy CEO (Sep 2) and the [Q3 FY26 release](../../../raw/ADBE/press-releases/2026-09-10_Q3-FY26_earnings.txt) (Sep 10); the window runs from the Jun 13 baseline.

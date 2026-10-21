@@ -1,0 +1,1462 @@
+{
+ "meta": {
+  "ticker": "ADBE",
+  "company": "Adobe Inc.",
+  "title": "Adobe, Giving It Away",
+  "dek": "Adobe has stopped raising prices and started giving its creative tools away to win the next generation of users, and it has handed the company to the man who built its smaller business. At $256 the stock prices in almost no growth. Is that a bargain, or is the market right about the creative seat?",
+  "date": "2026-10-21",
+  "date_long": "October 21, 2026",
+  "status": "Active",
+  "price": 255.69,
+  "price_note": "Oct 21, 2026, 1:04 PM EDT (intraday; StockAnalysis $255.97 at 1:00 PM)",
+  "price_url": "https://finance.yahoo.com/quote/ADBE/",
+  "range52": [
+   190.12,
+   363.7
+  ],
+  "type": "Software — subscription creative, document and customer-experience platform",
+  "stage": "Mature compounder, decelerating",
+  "cyclical": "No",
+  "competence": "Edge",
+  "compounder": false,
+  "terminal_label": "FY2031",
+  "accent": {
+   "light": "#c4161c",
+   "dark": "#ff8a80"
+  },
+  "html_name": "ADBE-deep-dive.html",
+  "report_path": "../ADBE.md"
+ },
+ "verdict": {
+  "sentence": "Adobe still beats its own guidance, but it has paused price increases and is giving its creative tools away to defend the seat against AI; at $256 the probability-weighted case pays [[pw_return]] a year, close to half of it from the buyback, and clears 13% only at [[entry]].",
+  "non_holder": {
+   "emoji": "🟡",
+   "verb": "Watch (entry ≤[[entry]])"
+  },
+  "holder": {
+   "emoji": "🟡",
+   "verb": "Hold"
+  },
+  "breaks_if": "the FY2027 ARR guide on December 9, the new CEO's first, implies organic growth below ~8%. The buyback can carry per-share earnings for a while, but not for a book of business slowing toward GDP growth.",
+  "multiple_label": "FY26E P/E (non-GAAP / owner earnings)",
+  "multiple": "≈10.4× / 12.7×",
+  "bait": "Double (B+A)",
+  "moat": "Wide, narrowing",
+  "next": "MAX Nov 10–12; Q4 + FY27 targets Dec 9",
+  "price_implies": "~[[Priced-in.cagr]] owner-EPS growth"
+ },
+ "call": "At $256 the market is pricing Adobe's creative business as a melting asset. The price implies Bear odds of [[implied_bear]] at a 9% discount rate, almost exactly the 35% I assign, and it needs owner earnings per share to grow only about [[Priced-in.cagr]] a year, mostly from the buyback. The market isn't wrong. Organic ARR growth is slowing toward 8%. Q3 net new ARR of $0.40B was down roughly 37% from a year earlier. And the Creative Cloud price increases that carried 2024–25 were deferred in June so that a freemium funnel could run, with no conversion rate disclosed. The CEO-designate built the customer-experience business, not the creative one. What keeps the case alive is cash: about $8.5B of owner earnings a year, nearly all of it spent retiring ~7% of the shares. That turns ~6% revenue growth into [[compounding]] compounding at a flat multiple. It is a good return, but not 13%. The verb is not probability-fragile: break-even Bear odds are [[breakeven_bear]] against 35% assigned. The price that clears the hurdle is [[entry]], where the stock traded as recently as June.",
+ "tests": [
+  {
+   "claim": "That freemium converts.",
+   "test": "the FY2027 total ARR growth target (Dec 9) at or above 9% excluding acquisitions, and a disclosed free-to-paid conversion rate or paid Firefly subscriber count by the Q1 FY2027 print (mid-March 2027).",
+   "if_fail": "move 10 points from Base to Bear (PW EV [[test1.pw_ev]], [[test1.pw_return]]/yr) → stays **[[test1.verb]]**, entry falls to [[test1.entry]]; with no conversion data by March, the Bull is cut to 10% as well.",
+   "shift": {
+    "from": "Base",
+    "to": "Bear",
+    "points": 0.1
+   }
+  },
+  {
+   "claim": "That the creative franchise holds through a CEO change centred on customer experience.",
+   "test": "reported Creative & Marketing Professionals subscription growth of at least 11% in Q4 FY2026 (Dec 9) and Q1 FY2027 (March), against 13% in Q3, about 3 points of which is SEMrush until April 2027, with no further senior creative-product departures.",
+   "if_fail": "Base Creative revenue held flat for five years (Base value $428; PW EV [[test2.pw_ev]], [[test2.pw_return]]/yr) → stays **[[test2.verb]]**, entry [[test2.entry]]; moat trend recorded as narrowing faster.",
+   "shift": {
+    "case": "Base",
+    "value": 428.3
+   }
+  },
+  {
+   "claim": "That AI costs don't take the margin.",
+   "test": "the FY2027 non-GAAP operating-margin target (Dec 9) at or above 42%, against ~45% for FY2026 and ~44% guided for Q4.",
+   "if_fail": "Base terminal margin cut ~3 points to ~41% (Base value $421; PW EV [[test3.pw_ev]], [[test3.pw_return]]/yr) → stays **[[test3.verb]]**, entry [[test3.entry]]; per-share growth then rests almost wholly on the buyback.",
+   "shift": {
+    "case": "Base",
+    "value": 421.0
+   }
+  }
+ ],
+ "updates": [
+  {
+   "date": "2026-10-21",
+   "title": "Two downgrades, a Nvidia deal and a 7% bounce",
+   "file": "updates/2026-10-21.md",
+   "scorecard": [
+    {
+     "test": "Freemium converts",
+     "result": "pending",
+     "evidence": "resolves with the FY2027 ARR target on Dec 9; no conversion metric disclosed yet"
+    },
+    {
+     "test": "Creative franchise holds through the CEO change",
+     "result": "pending",
+     "evidence": "Q4 Creative & Marketing Professionals growth, Dec 9; no further creative departures since Wadhwani (Sep 27)"
+    },
+    {
+     "test": "AI costs don't take the margin",
+     "result": "pending",
+     "evidence": "FY2027 margin target, Dec 9"
+    }
+   ]
+  }
+ ],
+ "model_build": {
+  "note": "Base case. FY2026 is calibrated to the $24.45–24.50 non-GAAP EPS target; the split of revenue and margin into three businesses is the author's estimate, since Adobe reports subscription revenue by customer group and gross profit by legacy segment but no segment operating income. Margins move linearly from FY2026 to the FY2031 input. Owner earnings deduct after-tax SBC, which non-GAAP EPS excludes. Source: author's model (model.json)."
+ },
+ "scenarios": {
+  "note": "Values are FY2031 owner earnings per share × the exit multiple; annual return is the price change to that value (no dividend). Probabilities apply to Bull, Base and Bear. The Priced-in row is solved along Bear→Base and the Hurdle row along Base→Bull, both at a 14× owner-earnings exit. Source: author's model."
+ },
+ "return_math": {
+  "optionality": "None valued separately. Freemium conversion and resumed pricing are the Bull; Topaz Labs (~$340M) is too small to move the value.",
+  "epv": "About $176 per share on five-year average owner earnings ($6.2B ÷ 9%, 391M shares), or ≈$239 on trailing owner earnings of $8.5B after ~$1.1B of net debt. On current earnings, only ~7% of the price pays for growth. The Bear ($179) sits below trailing EPV because it names the damage: creative revenue shrinking 3% a year and margin down ~6 points. EPV ÷ invested capital ≈ 7, so the business is still a franchise.",
+  "base_rate": "The Bull needs ~8.7% nominal (~6% real) revenue growth for five years from $26.6B. Of companies above $25B, 31.8% reach ≥5% real growth and 13.7% reach ≥10%, so the Bull is plausible. The Base's ~5.8% nominal sits near the middle of the class (probable); the Bear is probable for a franchise under technology attack.",
+  "year_ten": "Documents and customer experience should still grow high single digits at year ten; Creative is the open question. At 14× owner earnings (1.7% implied perpetual growth), the terminal multiple isn't doing the work; the buyback is.",
+  "rr_note": ". The figure is large because the multiple is already low, not because the Bull is likely.",
+  "note": "Computed rows come from model.json; EPV, base rate and year ten are the author's. 10-year Treasury from [Treasury.gov daily par yields](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026), Oct 20, 2026.",
+  "price_implied": "At 9%, spot needs [[Priced-in.owner_eps]] of owner earnings per share in FY2031 ([[Priced-in.cagr]] a year) at 14×: revenue up ~4% a year, margin ~42%, ~4% net buyback. Perpetual cross-check: trailing owner earnings of $8.5B are 8.5% of the ~$101B enterprise value, so g ≈ 9% − 8.5% ≈ 0.5%."
+ },
+ "vars": {},
+ "charts": {
+  "since_figma": {
+   "type": "line",
+   "file": "series/since_figma.json",
+   "baseline": 100,
+   "yTicks": [
+    50,
+    100,
+    150,
+    200
+   ],
+   "tableEvery": 26,
+   "aria": "Total return index from September 14, 2022 = 100 for Adobe, Autodesk, the IGV software ETF and the S&P 500",
+   "note": "Total return including dividends, weekly, September 14, 2022 (the day before the Figma deal was announced) = 100, through October 21, 2026. Source: Yahoo Finance adjusted closes via prices.py."
+  },
+  "gp_mix": {
+   "type": "bar100",
+   "keys": [
+    "Digital Media",
+    "Digital Experience",
+    "Publishing & Advertising"
+   ],
+   "unit": "$M",
+   "valueLabel": "Gross profit",
+   "prefix": "$",
+   "suffix": "M",
+   "rows": [
+    {
+     "label": "FY2021",
+     "values": [
+      11091,
+      2546,
+      283
+     ]
+    },
+    {
+     "label": "FY2022",
+     "values": [
+      12281,
+      2920,
+      240
+     ]
+    },
+    {
+     "label": "FY2023",
+     "values": [
+      13551,
+      3290,
+      214
+     ]
+    },
+    {
+     "label": "FY2024",
+     "values": [
+      15184,
+      3777,
+      186
+     ]
+    },
+    {
+     "label": "FY2025",
+     "values": [
+      16808,
+      4239,
+      171
+     ]
+    }
+   ],
+   "aria": "Share of Adobe gross profit by legacy segment, FY2021 to FY2025",
+   "note": "Gross profit by reportable segment; Adobe does not report segment operating income. Digital Experience includes Workfront from FY2021. Source: segment notes in the [FY2022](https://www.sec.gov/Archives/edgar/data/796343/000079634323000007/adbe-20221202.htm) and [FY2025](https://www.sec.gov/Archives/edgar/data/796343/000079634326000003/adbe-20251128.htm) 10-Ks."
+  }
+ },
+ "tables": {
+  "segments": {
+   "columns": [
+    "$ Million",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "Q3 FY2026",
+    "Q3 YoY"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "**Creative & Marketing Professionals subscription**",
+      "13,425",
+      "14,749",
+      "16,303",
+      "4,650",
+      "+13%"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Growth",
+      "—",
+      "9.9%",
+      "10.5%",
+      "—",
+      "12% cc"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Business Professionals & Consumers subscription**",
+      "4,744",
+      "5,662",
+      "6,495",
+      "1,910",
+      "+16%"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Growth",
+      "—",
+      "19.4%",
+      "14.7%",
+      "—",
+      "15% cc"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Product, services, other and Publishing & Advertising",
+      "1,240",
+      "1,094",
+      "971",
+      "200",
+      "—"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Total revenue",
+      "19,409",
+      "21,505",
+      "23,769",
+      "6,760",
+      "+13%"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "**Legacy view: Digital Media revenue**",
+      "14,216",
+      "15,864",
+      "17,649",
+      "n/r",
+      "—"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Gross margin",
+      "95%",
+      "96%",
+      "95%",
+      "n/r",
+      "—"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Legacy view: Digital Experience revenue**",
+      "4,893",
+      "5,366",
+      "5,864",
+      "n/r",
+      "—"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Gross margin",
+      "67%",
+      "70%",
+      "72%",
+      "n/r",
+      "—"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "GAAP operating margin (company)",
+      "34.3%",
+      "31.3%",
+      "36.6%",
+      "34.8%",
+      "—"
+     ],
+     "cls": "sub"
+    }
+   ],
+   "note": "Fiscal years end late November or early December. Customer-group revenue covers Digital Media and Digital Experience subscriptions; Creative & Marketing Professionals mixes Creative Cloud with the customer-experience (marketing) business. Q3 FY2026 includes ~3 points from SEMrush (~$480M ARR, closed April 28) [Estimate]. n/r = no longer reported in releases from FY2026. FY2024 GAAP margin includes the $1B Figma termination fee. Source: [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/796343/000079634326000003/adbe-20251128.htm) MD&A and segment note; [Q3 FY2026 release](https://www.sec.gov/Archives/edgar/data/796343/000079634326000147/adbeex991q326.htm)."
+  },
+  "drivers": {
+   "columns": [
+    "Metric",
+    "Q3 FY2025",
+    "Q3 FY2026",
+    "~Read"
+   ],
+   "rows": [
+    [
+     "Total Adobe ARR",
+     "~$24.7B",
+     "**$27.50B** (+11.2%)",
+     "~9% organic; SEMrush added ~$480M from April"
+    ],
+    [
+     "Net new ARR in the quarter",
+     "~$0.63B",
+     "**$0.40B**",
+     "Down ~37% year over year"
+    ],
+    [
+     "FY2026 net new ARR target",
+     "—",
+     "$2.62B (10.2% on $25.66B)",
+     "$1.84B year to date incl. SEMrush; Q4 needs ~$0.78B"
+    ],
+    [
+     "Monthly active users (creativity + productivity)",
+     "—",
+     ">1 billion (+20%)",
+     "Acrobat + Express >900M (+25%)"
+    ],
+    [
+     "Creative freemium MAU",
+     "~59M",
+     "**>100M** (+70%)",
+     "Conversion rate not disclosed"
+    ],
+    [
+     "AI-first ARR",
+     "~$260M",
+     ">$650M (+150%)",
+     "2.4% of total ARR"
+    ],
+    [
+     "Firefly app + credit-pack ARR",
+     "—",
+     "+40% QoQ",
+     "After ~+50% QoQ in Q2"
+    ],
+    [
+     "Creative & Marketing Professionals subscription growth",
+     "—",
+     "13% (12% cc)",
+     "~3 points are SEMrush, a full quarter for the first time; organic ~9–10% [Estimate]"
+    ],
+    [
+     "Remaining performance obligations",
+     "~$20.5B",
+     "$22.16B (+8%)",
+     "First single-digit growth since early FY2023; cRPO +9%"
+    ]
+   ],
+   "note": "Q3 FY2025 ARR, RPO and net new ARR are [Derived] from Q3 FY2026 growth rates; the ~37% decline in net new ARR is the figure Evercore ISI put to management on the call, which did not dispute it. ARR was revalued +$460M (mostly FX) entering FY2026. Source: [Q3 FY2026 release](https://www.sec.gov/Archives/edgar/data/796343/000079634326000147/adbeex991q326.htm), [Q3 call](https://transcripts.platformaeronaut.com/transcripts/ADBE-3Q26-transcript), [Q4 FY2025 release](https://www.sec.gov/Archives/edgar/data/796343/000079634325000135/adbeex991q425.htm)."
+  },
+  "freemium": {
+   "columns": [
+    "Illustrative, per year",
+    "Low",
+    "Mid",
+    "High"
+   ],
+   "rows": [
+    [
+     "Free creative users added in a year",
+     "40M",
+     "40M",
+     "40M"
+    ],
+    [
+     {
+      "v": "Paid conversion within 12 months",
+      "cls": "in"
+     },
+     {
+      "v": "2%",
+      "cls": "in"
+     },
+     {
+      "v": "4%",
+      "cls": "in"
+     },
+     {
+      "v": "6%",
+      "cls": "in"
+     }
+    ],
+    [
+     "New paying subscribers",
+     "0.8M",
+     "1.6M",
+     "2.4M"
+    ],
+    [
+     {
+      "v": "Blended revenue per paying user",
+      "cls": "in"
+     },
+     {
+      "v": "$180",
+      "cls": "in"
+     },
+     {
+      "v": "$180",
+      "cls": "in"
+     },
+     {
+      "v": "$180",
+      "cls": "in"
+     }
+    ],
+    [
+     "New ARR created",
+     "$144M",
+     "$288M",
+     "$432M"
+    ],
+    [
+     {
+      "v": "Cost to serve free users (inference, $2/user)",
+      "cls": "in"
+     },
+     {
+      "v": "−$80M",
+      "cls": "in"
+     },
+     {
+      "v": "−$80M",
+      "cls": "in"
+     },
+     {
+      "v": "−$80M",
+      "cls": "in"
+     }
+    ],
+    [
+     "Net annual contribution",
+     "$64M",
+     "$208M",
+     "$352M"
+    ],
+    [
+     "ARR given up in H2 FY2026 (deferred pricing + rerouted traffic)",
+     "~$500M",
+     "~$500M",
+     "~$500M"
+    ],
+    {
+     "cells": [
+      "Years to recoup",
+      "**~8**",
+      "**~2.4**",
+      "**~1.4**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Reported check",
+     "Firefly app + credit-pack ARR +40% QoQ in Q3; total net new ARR $0.40B against ~$0.63B a year earlier",
+     "",
+     ""
+    ]
+   ],
+   "note": "Author's estimates [Estimate]. Free users added = >100M creative freemium MAU at +70% (≈59M a year earlier). Revenue per paying user assumes a mix weighted to Firefly's entry plans (US list ~$10–20 a month) with some upgrades to Creative Cloud; inference cost is a placeholder. The ~$500M is the analyst figure put to management on the Q2 call; Narayen split it roughly half deferred pricing, half freemium routing. Bold cells are inputs."
+  },
+  "rings": {
+   "columns": [
+    "Ring",
+    "Share of revenue",
+    "Share of segment profit (est.)",
+    "Main threat",
+    "~Exposure"
+   ],
+   "rows": [
+    [
+     "**1 · Documents & Express** (Acrobat, Reader funnel)",
+     "28%",
+     "32%",
+     "Copilot and ChatGPT reading and drafting documents; free PDF tools",
+     "Moderate; growing 16%"
+    ],
+    [
+     "**2 · Creative professionals** (Creative Cloud apps, enterprise licences)",
+     "36%",
+     "42%",
+     "AI lowers the skill premium; Figma owns UI design; price increases paused",
+     "Moderate to high"
+    ],
+    [
+     "**3 · Creators and content** (Firefly, single apps, Stock)",
+     "12%",
+     "14%",
+     "Free generation from OpenAI, Google, Midjourney and Canva; Stock already shrinking",
+     "High"
+    ],
+    [
+     "**4 · Customer experience** (AEM, AEP, GenStudio, SEMrush)",
+     "23%",
+     "12%",
+     "Salesforce and Microsoft; budgets shifting to AI infrastructure",
+     "Low to moderate; lower margin"
+    ]
+   ],
+   "note": "Revenue shares from the FY2026 model base; profit shares apply the author's segment-margin estimates (55% / 55% / 25%, before 3% corporate costs) and split Creative 75/25 between professionals and creators [Estimate]. Source: author's model; FY2025 10-K segment gross margins."
+  },
+  "dx_record": {
+   "columns": [
+    "$ Million",
+    "FY2020",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "**Digital Experience revenue**",
+      "3,125",
+      "3,867",
+      "4,422",
+      "4,893",
+      "5,366",
+      "5,864"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Growth",
+      "—",
+      "23.7%",
+      "14.4%",
+      "10.7%",
+      "9.7%",
+      "9.3%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Gross margin",
+      "64%",
+      "66%",
+      "66%",
+      "67%",
+      "70%",
+      "**72%**"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Share of Adobe gross profit",
+      "17.9%",
+      "18.3%",
+      "18.9%",
+      "19.3%",
+      "19.7%",
+      "20.0%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Digital Media revenue growth, for comparison",
+      "—",
+      "24.8%",
+      "11.5%",
+      "10.7%",
+      "11.6%",
+      "11.3%"
+     ],
+     "cls": "sub"
+    }
+   ],
+   "note": "Chakravarthy joined in January 2020 as president of Digital Experience. FY2021 includes Workfront ($1.5B, closed December 2020). Source: segment notes in the [FY2021](https://www.sec.gov/Archives/edgar/data/796343/000079634322000032/adbe-20211203.htm), [FY2023](https://www.sec.gov/Archives/edgar/data/796343/000079634324000006/adbe-20231201.htm) and [FY2025](https://www.sec.gov/Archives/edgar/data/796343/000079634326000003/adbe-20251128.htm) 10-Ks."
+  },
+  "deals": {
+   "columns": [
+    "Year",
+    "Deal",
+    "Price",
+    "~What happened",
+    "Verdict"
+   ],
+   "rows": [
+    [
+     "2018",
+     "Magento (commerce)",
+     "$1.68B",
+     "Became Adobe Commerce; lost the mid-market to Shopify",
+     "Mixed"
+    ],
+    [
+     "2018",
+     "Marketo (B2B marketing automation)",
+     "$4.75B",
+     "Folded into Digital Experience; a solid number two",
+     "Mixed"
+    ],
+    [
+     "2020",
+     "Workfront (work management)",
+     "$1.5B",
+     "The workflow layer of GenStudio, now growing >20%",
+     "Good"
+    ],
+    [
+     "2021",
+     "Frame.io (video review)",
+     "$1.28B",
+     "Central to video workflows; assets under management doubled in a year",
+     "Good"
+    ],
+    [
+     "2022–23",
+     "Figma (collaborative design)",
+     "$20B, abandoned",
+     "Blocked by UK and EU regulators; $1B termination fee; Figma kept UI design",
+     "Poor"
+    ],
+    [
+     "2026",
+     "SEMrush (search and AI visibility)",
+     "$1.9B",
+     "~$480M ARR; brand-visibility paying customers doubled in Q3",
+     "Too early"
+    ],
+    [
+     "2026",
+     "Topaz Labs (AI image and video enhancement)",
+     "~$340M",
+     "Signed June 24; closing expected in Q4 FY2026",
+     "Too early"
+    ]
+   ],
+   "note": "Source: Adobe deal announcements and 10-Ks; Topaz price from the [Q3 FY2026 10-Q](https://www.sec.gov/Archives/edgar/data/796343/000079634326000156/adbe-20260828.htm)."
+  },
+  "capital": {
+   "columns": [
+    "$ Billion",
+    "Revenue",
+    "YoY",
+    "Non-GAAP EPS",
+    "OCF",
+    "SBC",
+    "Capex",
+    "FCF",
+    "FCF margin",
+    "Buybacks",
+    "% FCF",
+    "Acquisitions",
+    "Total debt",
+    "Dil. shares (M)"
+   ],
+   "rows": [
+    [
+     "FY2021",
+     "15.79",
+     "22.7%",
+     "$12.48",
+     "7.23",
+     "1.07",
+     "0.35",
+     "6.88",
+     "43.6%",
+     "3.95",
+     "57%",
+     "2.68",
+     "4.12",
+     "481"
+    ],
+    [
+     "FY2022",
+     "17.61",
+     "11.5%",
+     "$13.71",
+     "7.84",
+     "1.44",
+     "0.44",
+     "7.40",
+     "42.0%",
+     "6.55",
+     "89%",
+     "0.13",
+     "4.13",
+     "471"
+    ],
+    [
+     "FY2023",
+     "19.41",
+     "10.2%",
+     "$16.07",
+     "7.30",
+     "1.72",
+     "0.36",
+     "6.94",
+     "35.8%",
+     "4.40",
+     "63%",
+     "0",
+     "3.63",
+     "459"
+    ],
+    [
+     "FY2024",
+     "21.51",
+     "10.8%",
+     "$18.42",
+     "8.06",
+     "1.83",
+     "0.18",
+     "7.87",
+     "36.6%",
+     "9.50",
+     "121%",
+     "1.00 (Figma fee)",
+     "5.63",
+     "450"
+    ],
+    [
+     "FY2025",
+     "23.77",
+     "10.5%",
+     "$20.94",
+     "10.03",
+     "1.94",
+     "0.18",
+     "9.85",
+     "41.4%",
+     "11.28",
+     "115%",
+     "0.02",
+     "6.21",
+     "427"
+    ],
+    [
+     "9M FY2026",
+     "19.78",
+     "12.5%",
+     "$18.15",
+     "7.65",
+     "1.58",
+     "0.18",
+     "7.47",
+     "37.8%",
+     "6.82",
+     "91%",
+     "1.56",
+     "6.36",
+     "403"
+    ],
+    {
+     "cells": [
+      "**Cumulative**",
+      "—",
+      "—",
+      "—",
+      "48.10",
+      "9.58",
+      "1.69",
+      "**46.41**",
+      "—",
+      "**42.50**",
+      "**92%**",
+      "5.39",
+      "—",
+      "−16%"
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "No dividend. FY2023 operating cash flow absorbed ~$1.1B of extra cash tax from R&D capitalization; FY2024 includes the $1B Figma fee in operating cash flow. Average buyback price: $543 in FY2024 (17.5M shares), $366 in FY2025 (30.8M), ~$261 in 9M FY2026 (26.1M) [Derived]. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000796343.json); non-GAAP EPS from releases; FY2025 10-K Note 14."
+  },
+  "incentives": {
+   "columns": [
+    "Component",
+    "Weight / size",
+    "What it pays for",
+    "~Latest outcome"
+   ],
+   "rows": [
+    [
+     "**Annual cash incentive**",
+     "Target % of salary",
+     "Revenue and non-GAAP EPS (95% threshold for any payout), ±25 points for strategic goals",
+     "FY2025 paid 104% (110% financial, −6 points)"
+    ],
+    [
+     "**Performance shares: relative TSR**",
+     "50% of PSP",
+     "Three-year TSR against the Nasdaq-100; 55th percentile pays 100%; capped at 100% if absolute TSR is negative",
+     "2023–25 cycle paid 45%"
+    ],
+    [
+     "**Performance shares: Net New Sales**",
+     "50% of PSP",
+     "Annual net new Digital Media ARR plus Digital Experience subscription bookings, excluding acquisitions and FX; FY2025 target $2.43B",
+     "FY2025 paid 99%; the FY2026 tranche absorbs the freemium shift"
+    ],
+    [
+     "**Restricted stock units**",
+     "Time-based",
+     "Retention; vest quarterly",
+     "Vesting"
+    ],
+    [
+     "**Return on invested capital**",
+     "**0%**",
+     "—",
+     "—"
+    ]
+   ],
+   "note": "Source: [2026 proxy (DEF 14A)](https://www.sec.gov/Archives/edgar/data/796343/000079634326000043/adbe-20260227.htm), CD&A."
+  },
+  "promises": {
+   "columns": [
+    "~Promised",
+    "Where, when",
+    "~Outcome"
+   ],
+   "rows": [
+    [
+     "Acquire Figma for $20B",
+     "Deal announcement, Sep 15, 2022",
+     "🔴 Abandoned Dec 2023; $1B termination fee"
+    ],
+    [
+     "\"We continue to see a lot of value to pricing opportunity with creative professionals, and I think there's a lot more ahead of us\"",
+     "Wadhwani, Q4 FY2025 call, Dec 10, 2025",
+     "🔴 Creative Cloud price increases deferred six months later (June 11, 2026)"
+    ],
+    [
+     "FY2026 total ARR growth of 10.2%, ~$2.6B of net new ARR, \"our highest beginning of year guide\"",
+     "FY2026 targets, Dec 10, 2025",
+     "🟡 Held only with ~$480M of SEMrush ARR; organic $1.36B through Q3; resolves Dec 9"
+    ]
+   ],
+   "note": "Also kept: AI-first ARR above $250M by FY2025 exit, exceeded (>$650M by Q3 FY2026). Source: [Q4 FY2025 call](https://transcripts.platformaeronaut.com/transcripts/ADBE-4Q25-transcript), [Q4 FY2025 release](https://www.sec.gov/Archives/edgar/data/796343/000079634325000135/adbeex991q425.htm)."
+  },
+  "five_year": {
+   "columns": [
+    "$B, except per share",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025"
+   ],
+   "rows": [
+    [
+     "Revenue",
+     "15.79",
+     "17.61",
+     "19.41",
+     "21.51",
+     "**23.77**"
+    ],
+    [
+     "Operating margin (GAAP / non-GAAP)",
+     "36.8% / ~45%",
+     "34.6% / ~45%",
+     "34.3% / ~45%",
+     "31.3% / ~46%",
+     "36.6% / ~46%"
+    ],
+    [
+     "Non-GAAP EPS",
+     "$12.48",
+     "$13.71",
+     "$16.07",
+     "$18.42",
+     "**$20.94**"
+    ],
+    [
+     "GAAP EPS",
+     "$10.02",
+     "$10.10",
+     "$11.82",
+     "$12.36",
+     "$16.70"
+    ],
+    [
+     "Free cash flow",
+     "6.88",
+     "7.40",
+     "6.94",
+     "7.87",
+     "9.85"
+    ],
+    [
+     "SBC",
+     "1.07",
+     "1.44",
+     "1.72",
+     "1.83",
+     "1.94"
+    ],
+    [
+     "**Owner earnings** (FCF − SBC)",
+     "5.81",
+     "5.96",
+     "5.22",
+     "6.04",
+     "**7.91**"
+    ],
+    [
+     "Owner earnings per share",
+     "$12.08",
+     "$12.65",
+     "$11.37",
+     "$13.42",
+     "**$18.52**"
+    ],
+    [
+     "Owner-earnings conversion (÷ non-GAAP NI)",
+     "97%",
+     "92%",
+     "71%",
+     "73%",
+     "88%"
+    ],
+    [
+     "Net debt incl. leases",
+     "−1.13",
+     "−1.47",
+     "−3.76",
+     "−1.83",
+     "0.05"
+    ],
+    [
+     "Invested capital",
+     "13.7",
+     "12.6",
+     "12.8",
+     "12.3",
+     "11.7"
+    ],
+    [
+     "**ROIC**",
+     "35.9%",
+     "38.4%",
+     "41.6%",
+     "44.1%",
+     "**60.9%**"
+    ],
+    [
+     "**3-yr incremental ROIC**",
+     "—",
+     "—",
+     "—",
+     "—",
+     "**n/m**: NOPAT +$2.3B on −$0.9B of capital"
+    ],
+    [
+     "Net reinvestment ÷ NOPAT (capex − D&A + acquisitions)",
+     "46%",
+     "−6%",
+     "−10%",
+     "−12%",
+     "−9%"
+    ],
+    [
+     "SBC % of revenue",
+     "6.8%",
+     "8.2%",
+     "8.9%",
+     "8.5%",
+     "8.2%"
+    ],
+    [
+     "FCF conversion (FCF ÷ GAAP NI)",
+     "143%",
+     "156%",
+     "128%",
+     "142%",
+     "138%"
+    ],
+    [
+     "Interest coverage",
+     "51×",
+     "54×",
+     "59×",
+     "40×",
+     "33×"
+    ],
+    [
+     "SBC-adjusted accruals ÷ assets",
+     "−4.9%",
+     "−6.0%",
+     "−0.5%",
+     "−2.2%",
+     "−3.3%"
+    ],
+    [
+     "Diluted shares (M)",
+     "481",
+     "471",
+     "459",
+     "450",
+     "**427**"
+    ],
+    [
+     "Net share change",
+     "−0.8%",
+     "−2.1%",
+     "−2.5%",
+     "−2.0%",
+     "**−5.1%**"
+    ],
+    [
+     "Buybacks ÷ SBC",
+     "3.7×",
+     "4.5×",
+     "2.6×",
+     "5.2×",
+     "5.8×"
+    ],
+    [
+     "SBC ÷ owner earnings",
+     "18%",
+     "24%",
+     "33%",
+     "30%",
+     "25%"
+    ]
+   ],
+   "note": "Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000796343.json); non-GAAP EPS and margins from releases. Capital rows are [Derived]: invested capital = equity + debt + operating leases − cash and short-term investments (it includes ~$12.9B of goodwill; tangible capital is negative); NOPAT = GAAP operating income × (1 − effective tax rate); owner earnings treat all capex as maintenance. FY2024 owner earnings are after the $1B Figma fee ($7.04B before it). Not cyclical: GAAP operating margin has stayed within 31–37% for five years."
+  },
+  "levers": {
+   "columns": [
+    "Lever",
+    "Contribution now",
+    "Runway",
+    "~Evidence",
+    "Management intent",
+    "Stage"
+   ],
+   "rows": [
+    [
+     "Market growth",
+     "~3–4 pts",
+     "Long",
+     "AI lowers the barrier to making content; 1B MAU",
+     "\"Empower everyone to create\"",
+     "Proven"
+    ],
+    [
+     "Share gain",
+     "**Negative at the low end**",
+     "—",
+     "Canva, Figma and AI-native generators take entry users; Stock declining faster than planned",
+     "Freemium as defence",
+     "Contested"
+    ],
+    [
+     "Price and mix",
+     "~0 now",
+     "Deferred",
+     "Creative Cloud Pro migration carried FY2025; increases deferred June 2026",
+     "\"We can defer. It's not going away\"",
+     "Option"
+    ],
+    [
+     "Attach / AI products",
+     "~2–3 pts",
+     "5+ yrs",
+     "AI-first ARR >$650M (+150%); Acrobat AI Assistant MAU doubled QoQ; Firefly ARR +40% QoQ",
+     "Primary vector",
+     "Scaling"
+    ],
+    [
+     "New users (freemium)",
+     "Negative now",
+     "Payback 2027+",
+     ">100M free creative users (+70%); agents inside ChatGPT, Claude and Copilot",
+     "Convert through 2027",
+     "Option"
+    ],
+    [
+     "New geographies",
+     "~1 pt",
+     "Long",
+     "EMEA +13% in FY2025; Saudi national Firefly/Express partnership",
+     "Next-generation creators globally",
+     "Scaling"
+    ],
+    [
+     "M&A",
+     "~2 pts in FY2026 (one-time)",
+     "—",
+     "SEMrush $1.9B; Topaz ~$340M",
+     "Bolt-ons",
+     "Done"
+    ],
+    [
+     "Margin",
+     "**Negative**: ~46% → ~44%",
+     "—",
+     "Inference costs and free users",
+     "Invest",
+     "—"
+    ],
+    [
+     "Share count",
+     "**−7% a year** (outstanding)",
+     "As long as FCF holds",
+     "$24.55B authorization left; ~9.5M shares a quarter",
+     "Continuous",
+     "Proven"
+    ]
+   ],
+   "note": "The Base rests on attach plus the buyback; the Bull needs freemium conversion and resumed pricing together; both are valued inside the Bull, not as optionality lines. SEMrush and Topaz pass the Zook adjacency test (same buyers and workflows). Source: releases and calls, FY2025 10-K."
+  },
+  "moat": {
+   "columns": [
+    "Read",
+    "Call",
+    "~Evidence"
+   ],
+   "rows": [
+    [
+     "Mechanism",
+     "**Switching costs** + **scale economies** + branding",
+     "PSD, PDF, AI and INDD formats and decades of trained skills; 1B MAU; Firefly's licensed training data is the enterprise-safe claim. EPV ÷ invested capital ≈ 7"
+    ],
+    [
+     "Trend",
+     "**Narrowing**",
+     "Organic ARR ~9% against 11–13% in FY2023–24; net new ARR down ~37%; price increases deferred; Stock shrinking. AI erodes the skill premium Photoshop monetized"
+    ],
+    [
+     "Profit pool",
+     "Shifting to the model layer",
+     "Generation is captured by OpenAI and Google; Adobe now puts its agents inside their chat apps and bets on owning workflow, brand safety and orchestration"
+    ],
+    [
+     "Customer",
+     "Creative pros, marketers, knowledge workers (Acrobat), 20,000+ enterprises",
+     "Job: produce and manage content to a professional, brand-safe standard. Retention, NRR and CAC not disclosed. Last price move: the 2025 Creative Cloud Pro repricing held; the next was deferred"
+    ]
+   ],
+   "note": "7 Powers vocabulary (Helmer). Rating: **wide, narrowing**. The document and enterprise layers hold; the individual creative seat is where the narrowing shows."
+  },
+  "competitors": {
+   "columns": [
+    "Competitor",
+    "Position",
+    "~Threat"
+   ],
+   "rows": [
+    [
+     "**Canva** (private)",
+     "~$3.5B revenue, ~260M MAU `[Estimate]`",
+     "Owns SMB and non-professional creation; caps Express and entry-level pricing"
+    ],
+    [
+     "**Figma** (FIG)",
+     "Collaborative UI/UX design",
+     "Owns product design; Adobe XD is gone"
+    ],
+    [
+     "**OpenAI / Google / Midjourney / Runway**",
+     "Image and video generation",
+     "Remove the skill premium at the low end; weaker on enterprise workflow and indemnified training data. Adobe partners with them"
+    ],
+    [
+     "**Microsoft**",
+     "Copilot and Designer in Microsoft 365",
+     "The most credible bundling threat to Acrobat and Express"
+    ],
+    [
+     "**Salesforce / HubSpot**",
+     "Marketing clouds",
+     "Customer experience is a #2–3 position"
+    ]
+   ],
+   "note": "Canva figures from [Sacra](https://sacra.com/c/canva/) `[Estimate]`. Wells Fargo's October CIO survey read Adobe as losing AI-era budget share `[Analyst consensus]`."
+  },
+  "risks": {
+   "columns": [
+    "~Risk",
+    "Impact",
+    "Prob.",
+    "Priced in?",
+    "~Would break the thesis if…"
+   ],
+   "rows": [
+    [
+     "⚠️ **AI commoditizes the creative seat**",
+     "High",
+     "Med",
+     "Largely: price-implied Bear odds ≈ assigned",
+     "Creative & Marketing Professionals growth below 11% reported, ~8% organic (test 2)"
+    ],
+    [
+     "⚠️ **Freemium cannibalizes instead of converting**; pricing stays deferred",
+     "High",
+     "Med",
+     "Partly",
+     "FY2027 ARR target below 9% ex-acquisitions with no conversion data (test 1)"
+    ],
+    [
+     "⚠️ **Leadership transition**: CEO from customer experience, creative head gone, CFO interim since June",
+     "Med",
+     "High (occurring)",
+     "Partly",
+     "Further senior creative departures, or no permanent CFO by Q1 FY2027"
+    ],
+    [
+     "**AI inference costs take margin**: ~46% → ~44%",
+     "Med",
+     "Med",
+     "No",
+     "FY2027 non-GAAP margin target below 42% (test 3)"
+    ],
+    [
+     "**SBC at ~8% of revenue** flatters non-GAAP EPS",
+     "Med",
+     "Certain",
+     "Partly; valued on owner earnings",
+     "SBC above 9% of revenue while the buyback slows"
+    ],
+    [
+     "**Microsoft bundles document and design tools into Copilot**",
+     "High",
+     "Low–Med",
+     "No",
+     "An explicit Acrobat or Express replacement offer to enterprises"
+    ]
+   ],
+   "note": "Item 1A has carried AI competition since the FY2023 10-K (\"competitors … may incorporate AI into their offerings more successfully than we do\"). The FY2025 filing sharpens it `[NEW in FY2025 10-K]`: \"we face increasing competition from companies offering generative and agentic AI solutions, including but not limited to prompt-based and multi-modal creation and editing,\" and it adds \"AI or cloud-native companies\" to the competitor list. M&A regulatory risk has been permanent since Figma. Source: [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/796343/000079634326000003/adbe-20251128.htm) and [FY2023 10-K](https://www.sec.gov/Archives/edgar/data/796343/000079634324000006/adbe-20231201.htm), Item 1A."
+  },
+  "catalysts": {
+   "columns": [
+    "Date",
+    "Event",
+    "~What to watch"
+   ],
+   "rows": [
+    [
+     "📅 Nov 10–12",
+     "Adobe MAX, Miami Beach",
+     "Chakravarthy's first MAX; any paid-conversion metric; Topaz and Nvidia integrations"
+    ],
+    [
+     "📅 Dec 1",
+     "Chakravarthy becomes CEO; Narayen executive chair",
+     "Leadership team, CFO"
+    ],
+    [
+     "📅 Dec 9",
+     "Q4 FY2026 results and FY2027 targets",
+     "Tests 1–3: ARR target, Creative & Marketing growth, margin"
+    ],
+    [
+     "📅 Q4 FY2026",
+     "Topaz Labs closes (~$340M)",
+     "—"
+    ],
+    [
+     "📅 Jan 2027",
+     "FY2026 10-K",
+     "Item 1A changes; Net New Sales payout in the 2027 proxy"
+    ],
+    [
+     "📅 Mid-Mar 2027",
+     "Q1 FY2027 results",
+     "Conversion disclosure (test 1); Creative & Marketing growth (test 2)"
+    ]
+   ],
+   "note": "Source: [Adobe IR calendar](https://www.adobe.com/investor-relations/calendar.html), [Q3 FY2026 10-Q](https://www.sec.gov/Archives/edgar/data/796343/000079634326000156/adbe-20260828.htm)."
+  },
+  "sentiment": {
+   "columns": [
+    "Signal",
+    "~Read"
+   ],
+   "rows": [
+    [
+     "Analysts",
+     "Hold consensus (39), mean target $272; Wells Fargo cut to Underweight, $225 (Oct 12); HSBC to Hold, $267 (Oct 13) `[Analyst consensus]`"
+    ],
+    [
+     "Short interest",
+     "17.7M shares, ~4.6% of float (Sep 30), down 4% from mid-September; 3.5 days to cover"
+    ],
+    [
+     "Insiders (90 days, Form 4)",
+     "No open-market purchases. Narayen sold 125,000 shares (~$31M) at $246–254 on Sep 16–17; the Oct 15 filings are tax withholding on vesting"
+    ],
+    [
+     "Appearances",
+     "Q3 call (Sep 10) and the CEO announcement (Sep 3); no conference, media or podcast appearance by Narayen, Chakravarthy or Day found since. MAX is the next"
+    ],
+    [
+     "BAIT",
+     "Double (B+A): behavioural (the market extrapolates AI disruption into a ~10× multiple) and analytical (owner earnings and buyback arithmetic); no informational or technical edge"
+    ]
+   ],
+   "note": "Context only; none of it moves a verb. Source: [StockAnalysis](https://stockanalysis.com/stocks/adbe/forecast/), [FINRA via Curvedtrading](https://curvedtrading.com/stocks/adbe/short-interest/), [EDGAR Form 4](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000796343&type=4)."
+  }
+ },
+ "sources": [
+  {
+   "label": "FY2025 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000003/adbe-20251128.htm"
+  },
+  {
+   "label": "FY2024 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000004/adbe-20241129.htm"
+  },
+  {
+   "label": "FY2023 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000006/adbe-20231201.htm"
+  },
+  {
+   "label": "FY2022 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634323000007/adbe-20221202.htm"
+  },
+  {
+   "label": "FY2021 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634322000032/adbe-20211203.htm"
+  },
+  {
+   "label": "Q3 FY2026 10-Q",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000156/adbe-20260828.htm"
+  },
+  {
+   "label": "Q3 FY2026 release",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000147/adbeex991q326.htm"
+  },
+  {
+   "label": "Q2 FY2026 release",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000109/adbeex991q226.htm"
+  },
+  {
+   "label": "Q1 FY2026 release",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000048/adbeex991q126.htm"
+  },
+  {
+   "label": "Q4 FY2025 release and FY2026 targets",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000135/adbeex991q425.htm"
+  },
+  {
+   "label": "Q3 FY2026 call",
+   "url": "https://transcripts.platformaeronaut.com/transcripts/ADBE-3Q26-transcript"
+  },
+  {
+   "label": "Q2 FY2026 call",
+   "url": "https://transcripts.platformaeronaut.com/transcripts/ADBE-2Q26-transcript"
+  },
+  {
+   "label": "Q2 FY2026 call (Motley Fool via Globe and Mail)",
+   "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/2431660/adobe-adbe-q2-2026-earnings-transcript/"
+  },
+  {
+   "label": "Q1 FY2026 call",
+   "url": "https://transcripts.platformaeronaut.com/transcripts/ADBE-1Q26-transcript"
+  },
+  {
+   "label": "Q4 FY2025 call",
+   "url": "https://transcripts.platformaeronaut.com/transcripts/ADBE-4Q25-transcript"
+  },
+  {
+   "label": "Official Q3 FY2026 transcript (FactSet PDF)",
+   "url": "https://www.adobe.com/cc-shared/assets/investor-relations/pdfs/adbe-q3fy26-transcript.pdf"
+  },
+  {
+   "label": "CEO appointment 8-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000144/adbe-20260902.htm"
+  },
+  {
+   "label": "CFO departure 8-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/0000796343/000079634326000109/adbe-20260608.htm"
+  },
+  {
+   "label": "CLO retention 8-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000120/adbe-20260714.htm"
+  },
+  {
+   "label": "2026 proxy (DEF 14A)",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000043/adbe-20260227.htm"
+  },
+  {
+   "label": "SEC XBRL company facts",
+   "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000796343.json"
+  },
+  {
+   "label": "Narayen Form 4 (Sep 2026)",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000122415426000003/"
+  },
+  {
+   "label": "Wells Fargo downgrade (247 Wall St.)",
+   "url": "https://247wallst.com/investing/2026/10/12/adobe-falls-4-as-wells-fargo-cuts-to-underweight-with-225-target-servicenow-climbs-3-intuit-ticks-up/"
+  },
+  {
+   "label": "Adobe–Nvidia expansion (TV Technology)",
+   "url": "https://www.tvtechnology.com/production/adobe-nvidia-expand-their-ai-partnership"
+  },
+  {
+   "label": "Adobe IR calendar",
+   "url": "https://www.adobe.com/investor-relations/calendar.html"
+  },
+  {
+   "label": "StockAnalysis statistics",
+   "url": "https://stockanalysis.com/stocks/adbe/statistics/"
+  },
+  {
+   "label": "StockAnalysis forecast",
+   "url": "https://stockanalysis.com/stocks/adbe/forecast/"
+  },
+  {
+   "label": "Yahoo Finance quote",
+   "url": "https://finance.yahoo.com/quote/ADBE/"
+  },
+  {
+   "label": "Treasury daily par yield curve",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
+  },
+  {
+   "label": "Base rates: Mauboussin, The Base Rate Book (Credit Suisse HOLT, 2016)"
+  }
+ ]
+}

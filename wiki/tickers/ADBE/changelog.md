@@ -4,6 +4,32 @@
 
 ---
 
+## [2026-10-21] — Full deep dive (v5.0 → v7.0, at the owner's request)
+
+**Trigger**: Owner asked for the v7 rebuild on a quiet week; no new event beyond the entry below.
+**Sources**: FY2021–FY2025 10-Ks, Items 1–7A ([raw/ADBE/filings/](../../../raw/ADBE/filings/)) · Q4 FY25–Q2 FY26 releases ([raw/ADBE/press-releases/](../../../raw/ADBE/press-releases/)) · Q4 FY25–Q3 FY26 call transcripts ([raw/ADBE/transcripts/](../../../raw/ADBE/transcripts/)) · [XBRL](https://data.sec.gov/api/xbrl/companyfacts/CIK0000796343.json) · [Treasury yields](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026) · [Yahoo](https://finance.yahoo.com/quote/ADBE/) Oct 21, 1:04 PM
+
+### Scorecard
+- Freemium converts — 🟡 Pending — FY27 ARR target Dec 9
+- Creative franchise survives the leadership change — 🟡 Pending — threshold now **≥11% reported** (Q3's 13% includes ~3 pts SEMrush)
+- AI costs don't take the margin — 🟡 Pending — FY27 margin target Dec 9
+
+### Changed
+- **Model rebuilt**: three businesses, valued on owner earnings (non-GAAP NI − after-tax SBC). Bull $690 → $704, Base $432 → $459, Bear $178 → $179. Probabilities held at 15/50/35.
+- **New evidence from verbatim calls**: Wadhwani (Dec 2025) saw "a lot more ahead" on creative pricing, then the deferral came six months later; Stock declined "more quickly than we had planned" (Q1); Q4 must deliver ~$0.78B of net new ARR, against $0.40B in Q3.
+- 💰 **Outsider → Outsider-leaning**: average buyback price was $543 in FY24, $366 in FY25 and ~$261 in FY26. Buybacks are paced by FCF rather than countercyclical; the Figma bid also counts against. `outsiders.md` is synced.
+- Corrected: Item 1A has carried AI competition since FY23; FY25 adds the generative and agentic AI language.
+- ⚠️ **Gaps**: official FactSet transcripts and letter PDFs on Adobe's CDN return 403. Q3 quotes rest on one ASR transcript; Q2 quotes are cross-checked with SiliconANGLE and Motley Fool.
+
+### Status
+- **Thesis**: Unchanged
+- **PW EV**: $382 → $398 · **PW return/yr**: 9.9% → 9.2% (hurdle 13%; price +7%) · **R/R**: 7.4 → 5.9 · **BAIT**: unchanged
+- **Verbs**: non-holder Watch (entry ≤$207 → **≤$216**) · holder Hold
+
+**Next trigger**: 📅 MAX Nov 10–12; 📅 Dec 9 Q4 + FY27 targets.
+
+---
+
 ## [2026-10-21] — No Material Events
 
 **Window**: 2026-10-06 → 2026-10-21

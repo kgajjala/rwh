@@ -19,7 +19,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | [ABNB](tickers/ABNB/ABNB.md) | Paused | Airbnb | Wide | Moderate | 2026-05-10 | **v2.4→v2.14** + Q1 2026 — rev +18% beat, GBV +19%, FCF $1.7B, FY26 raised; cross-sell quantified; verb upgrade Watch→**Initiate**; PW EV $189 (5-yr); R/R 5.5:1 |
 | [ACLS](tickers/ACLS/ACLS.md) | Paused | Axcelis Technologies | Narrow | Low-Moderate | 2026-05-10 | **v2.4→v2.14** + Q1 beat ($199M / $0.72 EPS) + Q2 guide above; FY26 reaffirmed; B. Riley PT $150→$180; PW EV $180 (5-yr); R/R ~2:1; **Watch / Hold**; entry $95–115 |
 | [ACN](tickers/ACN/ACN.md) | Active | Accenture plc | Wide, narrowing on price | Moderate | 2026-10-06 | 🟡 **Watch (entry ≤$161) / Hold** — the trough buyback at ~$131 was right; at $195, ~3% organic growth, falling price and $8B of M&A pay 8.9%/yr. **PW EV $254: +30% up / −24% down.** |
-| [ADBE](tickers/ADBE/ADBE.md) | Active | Adobe | Wide, narrowing | Moderate | 2026-10-06 | 🟡 **Watch (entry ≤$207) / Hold** — still beating, but organic ARR ~9%, price increases paused and an internal CEO; the return is mostly buybacks. **PW EV $382: +60% up / −25% down.** |
+| [ADBE](tickers/ADBE/ADBE.md) | Active | Adobe | Wide, narrowing | Moderate | 2026-10-21 | 🟡 **Watch (entry ≤$216) / Hold**. A free funnel and paused pricing defend the creative seat; organic ARR is slowing toward 8% and the buyback does half the compounding. **PW EV $398: +56% up / −30% down.** |
 | [AMCR](tickers/AMCR/AMCR.md) | Active | Amcor plc | Narrow-and-widening (post-Berry duopoly) | Moderate | 2026-05-10 | **v2.14 ingest** — global packaging at $39.93 / 9.4× FY26E P/E + 6.51% div (51+ yr unbroken); Berry $650M synergy bet; Double BAIT (B+A); PW EV $57 (+43%); R/R ~6:1; Initiate <$44 / Hold |
 | [AMZN](tickers/AMZN/AMZN.md) | Active | Amazon | Wide | Moderate | 2026-08-19 | Q2 FY26 — revenue **$200.6B (+20%)**, op income +43%, **AWS +37%** (fastest in 18 qtrs) w/ op income +64%, 39.4% margin, **$496B backlog**, ads +26%; ⚠️ reported net income $62.6B **includes a ~$50.5B Anthropic mark** → 21.3× reported vs **~34× clean**; **FCF –$7.6B TTM**, capex $200B→**$220B**; **$50B OpenAI investment** completed vs. $100B/8-yr AWS commitment (circularity); crossed **$3T Aug 3**, now –8%; migrated to **v3.0 13-section schema**; §11 3-yr→**5-yr**; PW EV $322→**$370**; R/R 1.4:1→**2.7:1**; **Watch / Hold**; entry $230–277 |
 | [BKNG](tickers/BKNG/BKNG.md) | Active | Booking Holdings | Wide | High | 2026-05-01 | Q1 beat-and-cut on Iran/Hormuz; $3.6B Q1 buyback acceleration; Initiate / Add at $168 |
@@ -75,7 +75,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | ABNB | *(Paused 2026-05-18)* | — | — | — |
 | ACLS | *(Paused 2026-05-18)* | — | — | — |
 | ACN | **$195.05** (10/5/26) | **−33.0%** (~44th %ile) | **Double (B+A)** | 🟡 **Watch / Hold**; entry ≤$161; PW EV $254; 8.9%/yr vs 13% hurdle |
-| ADBE | **$238.79** (10/5/26) | **−34.3%** (~28th %ile) | **Double (B+A)** | 🟡 **Watch / Hold**; entry ≤$207; PW EV $382; 9.9%/yr vs 13% hurdle |
+| ADBE | **$255.69** (10/21/26) | **−29.7%** (~38th %ile) | **Double (B+A)** | 🟡 **Watch / Hold**; entry ≤$216; PW EV $398; 9.2%/yr vs 13% hurdle |
 | AMZN | **$264.16** (8/19/26) | –8.0% | Triple (A-Mod-Strong, I+T-Mod; **B-Weak**) | **Watch / Hold**; entry $230–277; R/R 2.7:1 |
 | BKNG | $180.25 (post-split) | –22.8% | Triple (B+A-Strong) | Initiate / Hold-Add |
 | BRK.B | $469.32 | –13.4% (52-wk low band) | Triple (B+I-Strong, A-Mod) | **Initiate (small/scaled) / Hold-Add** (Abel succession discount; March buyback at zone) |
@@ -152,7 +152,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 |--------|-----|--------------|
 | PEP | 2026 DEF 14A incentive metrics and weightings (CD&A): SEC HTML truncates in the fetcher; SEC and IR PDFs exceed size limits or return 403 | Local parse of `pep_courtesy-pdf.pdf` (SEC accession 0001308179-26-000169) |
 | DKS | House of Sport / Field House per-store sales and return on capital; four-wall margin (not given at the Sep 14 fireside) | Q3 call ~Nov 24 or FY2026 investor materials |
-| ADBE | Subscriber counts, NRR / gross retention, freemium-to-paid conversion; verbatim Q3 FY26 transcript | Q3 prepared remarks PDF; MAX (Nov 10–12) or Q4 FY26 disclosure |
+| ADBE | Freemium-to-paid conversion, paid Firefly subscribers, NRR / gross retention; official FactSet transcripts and 2021–25 letters (Adobe CDN returns 403 to scripted fetch) | MAX (Nov 10–12), Q4 FY26 (Dec 9); manual download of IR PDFs |
 | ACN | Utilization and attrition (not disclosed in FY26 releases); FY26 10-K Item 1A diff | FY26 10-K, due mid-October 2026 |
 | CHWY | Customer retention/churn, CAC and LTV; Chewy+ membership count; FY2024–25 shareholder letters (none published); Dec 2023 Investor Day deck; J.P. Morgan (May 19) and Morgan Stanley (Mar) conference transcripts | Q3 FY2026 call; IR events archive; paywalled transcripts |
 | UBER | Q2 2026 segment Adjusted EBITDA (remarks give segment OI margins only); AV fleet commitments by partner | Q2 2026 supplemental slides |

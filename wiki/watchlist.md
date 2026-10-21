@@ -3,7 +3,7 @@
 *Position-agnostic per v2.1 schema (Core Rule #3): no portfolio allocation, no target %, no form (stock/options) splits. This file is pure analysis.*
 
 *Updated by LLM agent after each full thesis cycle, earnings update, or v2.x schema migration.*
-*Updated: 2026-10-21 — SPCX and TSLA migrated to v7 after SpaceX's Q3 print and the merger committees. SPCX stays Watch at 8.3%/yr; TSLA moves to Watch / Trim with PW EV below spot. Merger study in `insights/`.*
+*Updated: 2026-10-21 — SPCX and TSLA migrated to v7 after SpaceX's Q3 print and the merger committees. SPCX stays Watch at 8.3%/yr; TSLA moves to Watch / Trim with PW EV below spot. Merger study in `insights/`. ADBE rebuilt as a v7 deep dive: Watch at 9.2%/yr, entry ≤$216.*
 *Prior 2026-10-14 — PEP and UNH refreshed on Q3. PEP failed both Oct 8 kill criteria and moves to Watch; UNH migrates to v6.0 and stays Watch at 8.3%/yr.*
 *Prior 2026-10-06 — ACN, ADBE and DKS refreshed. ACN and ADBE migrate to v5, fall short of the 13% hurdle, and move to 10g/10h as Watch. Detail on the pages and in `git log`.*
 *Prior 2026-10-02 — CPNG refreshed at #16 (Q2 print + KFTC confrontation; v5).*
@@ -57,7 +57,7 @@
 | 10c | DKS | **Moderate** | **Triple** (B+A+T) | PW EV $203 vs. $137.13 = **+48%** + 3.65% yield; **11.8%/yr vs the 13% hurdle**. $1.0B of notes priced at 6.2–6.9%; the CFO bought $1M the same day | 🟡 **Watch (entry ≤$130) / Hold** | 📅 Q3 ~Nov 24 |
 | 10e | SCHW | **Moderate** | **Double** (B+A) | PW EV $171 vs. $101.14 = **+69%** + 1.27% yield; **12.4%/yr vs the 13% hurdle**. Q2 beat-and-raise; the Sep 22 low of $100.35 missed the entry by ~2% | 🟡 **Watch (entry ≤$98) / Hold** | 📅 Q3 — Oct 15, 2026 |
 | 10f | SHOP | **Moderate** | **Single** (A) | PW EV $217 vs. $138.91 = **+56%**; **9.3%/yr vs the 13% hurdle**. FCF/share compounds ~27%/yr, but ~60× FCF halves on the way; the company bought at $114.63 | 🟡 **Watch (entry ≤$117) / Hold** | 📅 Q3 — ~Nov 3, 2026 |
-| 10g | ADBE | **Moderate** | **Double** (B+A) | PW EV $382 vs. $238.79 = **+60%**, no dividend; **9.9%/yr vs the 13% hurdle**. Revenue +13% and 1B MAU, but organic ARR ~9%, price increases deferred, internal CEO from the smaller business | 🟡 **Watch (entry ≤$207) / Hold** | 📅 MAX Nov 10–12; Q4 + FY27 guide Dec 9 |
+| 10g | ADBE | **Moderate** | **Double** (B+A) | PW EV $398 vs. $255.69 = **+56%**, no dividend; **9.2%/yr vs the 13% hurdle**. Free funnel and paused pricing defend the creative seat; organic ARR slowing toward 8%; CEO from the smaller business | 🟡 **Watch (entry ≤$216) / Hold** | 📅 MAX Nov 10–12; Q4 + FY27 guide Dec 9 |
 | 10h | ACN | **Moderate** | **Double** (B+A) | PW EV $254 vs. $195.05 = **+30%** + 3.51% yield; **8.9%/yr vs the 13% hurdle**. Bought 3% of itself at ~$131 in the trough; now ~3% organic growth, falling price, $8B of M&A | 🟡 **Watch (entry ≤$161) / Hold** | 📅 FY26 10-K mid-Oct; Q1 FY27 ~Dec 17 |
 | 10i | UNH | **Moderate** | **Single** (B) | PW EV $502 vs. $377.76 = **+33%** + 2.46% yield; **8.3%/yr vs the 13% hurdle**. Guide raised to ≥$20.50, but 18.4× already capitalizes normalized margins; 2027 framed at the low end of 13–16% | 🟡 **Watch (entry ≤$304) / Hold** | 📅 2027 outlook — by Dec 31, 2026 |
 | 10j | SPCX | **Low-Moderate** | **Single** (I) | PW EV $220 vs. $147.79 = **+49%**, no dividend; **8.3%/yr vs the 13% hurdle**. Compute revenue $7.6B in Q3 and a $33–37B Q1 guide, but the price already pays for my Base | 🟡 **Watch (entry ≤$120) / Hold** | 📅 Starship Flight 15 (Nov); Q4 print late Jan |
@@ -214,7 +214,7 @@
 | DIS | $98.84 (7/1/26) | $75 (25%) | $150 (50%) | $210 (25%) | ~$146 | +48% (5yr) + ~1.5% div; R/R ~4.7:1 |
 | MSFT | $424.62 | $360 (20%) | $560 (50%) | $740 (30%) | ~$565 | +33% (3yr / ~10%/yr) |
 | AMZN | **$264.16** (8/19/26) | $160 (25%) | $385 (50%) | $550 (25%) | **~$370** (5-yr) | **+40% (~7.0%/yr); R/R ~2.7:1** |
-| ADBE | **$238.79** (10/5/26) | $178 (35%) | $432 (50%) | $690 (15%) | **~$382** | **+60% (5yr); 9.9%/yr vs 13% hurdle; R/R 7.4:1** |
+| ADBE | **$255.69** (10/21/26) | $179 (35%) | $459 (50%) | $704 (15%) | **~$398** | **+56% (5yr); 9.2%/yr vs 13% hurdle; R/R 5.9:1** |
 | ACN | **$195.05** (10/5/26) | $148 (30%) | $263 (50%) | $392 (20%) | **~$254** | **+30% (5yr); 8.9%/yr vs 13% hurdle; R/R 4.2:1** |
 | HD | ~$320 (5/31/26) | $215 (25%) | $395 (55%) | $530 (20%) | ~$377 | +18% (5yr); R/R ~2.0:1 |
 | INTU | $341.75 (8/26/26) | $265 (30%) | $530 (45%) | $845 (25%) | **~$529** | +55% (5yr); R/R ≈6.5:1 |

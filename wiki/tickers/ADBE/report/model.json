@@ -1,0 +1,101 @@
+{
+ "spot": 255.69,
+ "dps": 0.0,
+ "discount_rate": 0.09,
+ "hurdle": 0.13,
+ "last_year": 2031,
+ "fy_prefix": "FY",
+ "eps_label": "Non-GAAP EPS",
+ "risk_free": 0.0512,
+ "segment_names": {
+  "CR": "Creative (Creative Cloud, Firefly, Stock)",
+  "DOC": "Documents & Express (Business Professionals & Consumers)",
+  "CX": "Customer experience (marketing professionals, incl. SEMrush)"
+ },
+ "base": {
+  "year": 2026,
+  "shares": 0.401,
+  "corp_pct": 0.03,
+  "other": 0.0,
+  "tax": 0.18,
+  "segments": {
+   "CR": {"rev": 12.9, "margin": 0.55},
+   "DOC": {"rev": 7.48, "margin": 0.55},
+   "CX": {"rev": 6.22, "margin": 0.25}
+  },
+  "sbc_pct": 0.08,
+  "eps_excludes_sbc": true,
+  "oe_conversion": 1.0
+ },
+ "other_growth": 0.0,
+ "cases": {
+  "Bull": {
+   "role": "bull",
+   "prob": 0.15,
+   "pe": 18,
+   "basis": "owner",
+   "corp_pct": 0.03,
+   "tax": 0.19,
+   "sbc_pct": 0.075,
+   "dilution": 0.018,
+   "buyback": 0.058,
+   "segments": {
+    "CR": {"g": 0.07, "m": 0.55},
+    "DOC": {"g": 0.11, "m": 0.57},
+    "CX": {"g": 0.09, "m": 0.30}
+   },
+   "tier": "Plausible",
+   "story": "Freemium converts through 2027 and the deferred Creative Cloud price increases land: Creative back to ~7%/yr, Acrobat compounding at 11%, margin held near 46%; 18× owner earnings."
+  },
+  "Base": {
+   "role": "base",
+   "prob": 0.5,
+   "pe": 14,
+   "basis": "owner",
+   "corp_pct": 0.03,
+   "tax": 0.19,
+   "sbc_pct": 0.075,
+   "dilution": 0.018,
+   "buyback": 0.063,
+   "segments": {
+    "CR": {"g": 0.03, "m": 0.52},
+    "DOC": {"g": 0.09, "m": 0.56},
+    "CX": {"g": 0.07, "m": 0.27}
+   },
+   "tier": "Probable",
+   "story": "AI attach offsets seat pressure: Creative ~3%/yr, Documents 9%, CX 7%, about 6% in total; margin drifts to ~44% on inference costs; the buyback retires ~4.5% net a year; 14× owner earnings."
+  },
+  "Bear": {
+   "role": "bear",
+   "prob": 0.35,
+   "pe": 9,
+   "basis": "owner",
+   "corp_pct": 0.03,
+   "tax": 0.19,
+   "sbc_pct": 0.08,
+   "dilution": 0.02,
+   "buyback": 0.05,
+   "segments": {
+    "CR": {"g": -0.03, "m": 0.45},
+    "DOC": {"g": 0.05, "m": 0.52},
+    "CX": {"g": 0.03, "m": 0.22}
+   },
+   "tier": "Probable",
+   "story": "AI tools commoditize the creative seat: Creative shrinks 3%/yr with price cuts to hold users, Acrobat slows to 5%, margin falls to ~39%; buybacks continue; 9× owner earnings, a no-growth multiple."
+  }
+ },
+ "diagnostics": {
+  "Priced-in": {
+   "label": "Priced-in (9%/yr)",
+   "target_return": 0.09,
+   "pe": 14,
+   "path": ["Bear", "Base"]
+  },
+  "Hurdle": {
+   "label": "Hurdle (13%/yr)",
+   "target_return": 0.13,
+   "pe": 14,
+   "path": ["Base", "Bull"]
+  }
+ }
+}

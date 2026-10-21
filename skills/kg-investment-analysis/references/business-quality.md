@@ -69,6 +69,7 @@ Columns are fiscal years, plus the current-year estimate. Rows:
 - dividends and buybacks;
 - invested capital, **ROIC**, **3-year ROIIC**, reinvestment rate;
 - SBC % of revenue, FCF conversion, owner-earnings conversion (÷ core net income);
+- **dilution**: diluted shares, net share change per year, SBC ÷ owner earnings, and buybacks against SBC (is the buyback only offsetting issuance?). For early-growth companies also equity raised and convertible dilution;
 - net debt/EBITDA, interest coverage, nearest maturity wall;
 - the **earnings-quality** row.
 

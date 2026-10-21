@@ -117,6 +117,8 @@ In the Base case, North America grows 5% a year and its margin rebuilds to 16%, 
 
 ::scenarios
 
+::return_math
+
 This is where Starbucks and PepsiCo part ways. With PepsiCo, the price was gloomier than my Base case. With Starbucks, it is more optimistic. To earn an ordinary 9% at a 26 times exit, Starbucks needs fiscal 2031 EPS of about [[Priced-in.eps]], roughly [[Priced-in.cagr]] growth a year and a consolidated margin near 16%. That is close to my Bull case. In scenario terms, even with no Bear at all, my Bull-to-Base mix doesn’t earn 9% from here. The market is pricing the comeback as close to certain.
 
 To earn 13% a year, Starbucks would need about [[Hurdle.eps]] of EPS in 2031, [[Hurdle.cagr]] growth a year with North American margins back near 19%. That is better than the business has been since fiscal 2023. Weighting the cases 25% Bull, 50% Base and 25% Bear gives a value of about [[pw_ev]] and an annual return of [[pw_return]] including the dividend. The price at which the same case clears 13% is about [[entry]]. Capitalizing five-year average owner earnings with no growth gives an earnings-power value of only $26–35 a share, so about two-thirds of today’s price is paying for growth that hasn’t happened yet.
@@ -149,6 +151,10 @@ The tables below carry the framework's required numbers. The argument for each i
 
 ::table moat
 
+### Competitors
+
+::table competitors
+
 ### Promises ledger
 
 ::table promises
@@ -157,9 +163,15 @@ The tables below carry the framework's required numbers. The argument for each i
 
 ::table risks
 
+No reflexive loop: the company has no funding need and does not use its stock as currency. No ruin path: maturities are covered by cash flow and a $3.0B undrawn revolver.
+
 ### Catalysts
 
 ::table catalysts
+
+### Sentiment and positioning
+
+::table sentiment
 
 ## Sources {#sources}
 

@@ -83,7 +83,17 @@ Nothing the framework requires is dropped; it moves to where it reads best.
 | Incentives, guidance grade, promises ledger, $1 retention test, Outsider grade | Management & Capital (incentive table, capital-allocation table, promises ledger as a table, grade in one sentence) |
 | Appearances (R9) | Quoted in the debate chapters; the list of appearances (or "none") goes in the update note or the Appendix |
 | Scenarios, return math, EPV floor, break-even and price-implied Bear odds, terminal-growth check, base rate, year ten | Valuation (`::model_build`, `::scenarios`, prose) plus a return-math table in the Appendix |
-| Risks table, catalysts, analysts, short interest, insiders, BAIT | Appendix tables; analysts and insiders get one line each |
+| Risks table, catalysts, analysts, short interest, insiders, BAIT | Appendix tables (`risks`, `catalysts`, `sentiment`); analysts and insiders get one line each |
+| **Dilution and share count**: diluted shares, net share change, SBC % of revenue, SBC ÷ owner earnings, buybacks vs. SBC; equity raises and convert dilution for early-growth companies | Rows in the five-year record; the capital-allocation table's share columns; `dilution`/`buyback` per case in `model.json`, rendered as "Net shares/yr" in `::scenarios` and "Net share change" in `::model_build`. When EPS excludes SBC, set `eps_excludes_sbc` and value on owner earnings (`basis: "owner"`) |
+| Owner earnings as the valuation basis; owner-earnings conversion | `model.json` (`oe_conversion`, `basis`); the model build shows owner earnings per share when it differs from EPS |
+| Return-math table in the v6 fixed row order (PW return vs. hurdle, compounding at a flat multiple and re-rating share, optionality, price-implied, EPV floor, base rate/3P, terminal-growth check, Bear odds, year ten, R/R) | `::return_math` in Valuation (computed rows from the model; `data.json` `return_math` supplies EPV, base rate and year ten) |
+| Scenario driving assumption and 3P tier; optionality valued outside the core | `story` and `tier` per case; `optionality` lines in `model.json` (added to PW EV and listed in `::scenarios`) |
+| Re-rating test, probability-fragile flag, terminal-growth flag | Computed by `model.py`; printed as warnings in the front matter and in `::return_math` |
+| Latest-quarter table | The Mode B update note (`latest_quarter` table); the full report's Business Overview when written after a print |
+| Competitor table, scuttlebutt, industry structure and TAM, big-market check; scale-economies-shared line | The debate chapters argue them; the `competitors` table goes in the Appendix |
+| Cycle position line; Cyclical and Competence flags; confidence note | Flags in `meta` (front matter); the cycle-position line under the five-year record; the confidence note in Valuation |
+| Reflexive loops and ruin paths (one line, even when none); funding need for early-growth companies | Under the risks table; the funding need in Valuation |
+| Bias check when the verb changes | The update note (or Valuation in a full report), one line with the five answers |
 
 ## 5. Voice and copy rules
 
@@ -138,5 +148,7 @@ An update keeps the deep dive true and puts the news on top. It never starts a n
 - [ ] Management: prior record, deal list, capital-allocation table, incentive table with a ROIC row
 - [ ] Valuation: `::model_build`, `::scenarios`, Priced-in and Hurdle paragraphs, PW return and entry, EPV floor
 - [ ] Final Words names the three tests and dates
-- [ ] Appendix has the five-year record with ROIC, ROIIC and owner earnings, plus the risks and catalysts tables
+- [ ] Appendix has the five-year record with ROIC, ROIIC, owner earnings and the dilution rows (diluted shares, net share change, SBC % of revenue, SBC ÷ owner earnings), plus levers, moat, competitors, risks (with the reflexive-loop/ruin-path line), catalysts and sentiment
+- [ ] `::return_math` present; model `story`/`tier` set for every case; `dilution`/`buyback` set where share count moves; owner-earnings basis used when EPS excludes SBC
+- [ ] Front matter warnings (fragile, re-rating, terminal growth) addressed in The Call when they fire
 - [ ] Sources section, `--check` clean, one read of the Markdown and each chart SVG

@@ -33,7 +33,10 @@
     "rev": 10.0,
     "margin": 0.2
    }
-  }
+  },
+  "sbc_pct": 0.0,
+  "eps_excludes_sbc": false,
+  "oe_conversion": 1.0
  },
  "other_growth": 0.0,
  "cases": {
@@ -46,7 +49,12 @@
      "g": 0.08,
      "m": 0.24
     }
-   }
+   },
+   "dilution": 0.0,
+   "buyback": 0.0,
+   "basis": "eps",
+   "story": "driving assumption and terminal math",
+   "tier": "Plausible"
   },
   "Base": {
    "role": "base",
@@ -57,7 +65,12 @@
      "g": 0.05,
      "m": 0.21
     }
-   }
+   },
+   "dilution": 0.0,
+   "buyback": 0.0,
+   "basis": "eps",
+   "story": "driving assumption and terminal math",
+   "tier": "Probable"
   },
   "Bear": {
    "role": "bear",
@@ -68,7 +81,12 @@
      "g": 0.02,
      "m": 0.17
     }
-   }
+   },
+   "dilution": 0.0,
+   "buyback": 0.0,
+   "basis": "eps",
+   "story": "driving assumption and terminal math",
+   "tier": "Probable"
   }
  },
  "diagnostics": {
@@ -90,5 +108,7 @@
     "Bull"
    ]
   }
- }
+ },
+ "risk_free": 0.05,
+ "optionality": []
 }

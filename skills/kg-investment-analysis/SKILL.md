@@ -36,7 +36,7 @@ A report is a folder of source files that builds into one Markdown file:
 |---|---|---|
 | `report.md` | The essay in Markdown, with directives (`::table`, `::chart`, `::model_build`, `::scenarios`, `::tests`, `::updates`, `::toc`, `::sources`, `::disclaimer`) and `[[tokens]]` for model numbers | You |
 | `data.json` | `meta` (ticker, price, dates, type, stage, flags, accent, artifact URL), `verdict`, `call`, `tests` (with `shift` so consequences compute), `updates` (with scorecards), `tables`, `charts`, `sources`, `vars` | You |
-| `model.json` | Segment model: base year, cases (role, probability, growth and terminal margin per segment, exit multiple), diagnostics (Priced-in, Hurdle) | You |
+| `model.json` | Segment model: base year (with SBC % and owner-earnings conversion), cases (role, probability, growth and terminal margin per segment, dilution and buybacks, exit multiple and its basis, story, 3P tier), optionality lines, risk-free rate, diagnostics (Priced-in, Hurdle) | You |
 | `updates/YYYY-MM-DD.md` | Dated update notes (Modes B and C) | You |
 | `series/*.json` | Total-return series for line charts | `scripts/prices.py` |
 | `model_out.json` | Cases, PW EV, return, entry, R/R, Bear odds, solved diagnostics | `scripts/model.py` |
@@ -85,6 +85,7 @@ The order matters. Grading the business before valuing it keeps the price from c
    - the reinvestment rate;
    - **owner earnings**;
    - the quality and earnings-quality rows;
+   - the **dilution** rows (diluted shares, net share change, SBC ÷ owner earnings, buybacks against SBC);
    - the **cyclical flag** and **cycle position**.
 3. **Commit the grades before you value anything.**
    - Write these down, each one from its own evidence and with an outside view where one exists:

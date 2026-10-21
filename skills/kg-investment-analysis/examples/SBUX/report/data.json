@@ -44,7 +44,6 @@
   "bait": "Single (A)",
   "moat": "Wide, stable",
   "next": "Oct 29 (Q4)",
-  "compounding": "14.3%",
   "price_implies": "~[[Priced-in.cagr]] EPS growth"
  },
  "call": "Niccol has done the hard part: US transactions have grown three quarters running (+3.0%, +4.3%, +4.2%), with ticket rising alongside traffic. The price banked it on August 13, 2024 and then some. At $98 no Bear probability earns even an ordinary 9% a year; the price needs FY2031 non-GAAP EPS of about [[Priced-in.eps]], close to our Bull. We give the Bear 25% because the margin walk is weaker than the headline: Q3's 14.4% carried ~80 bps of one-time tariff refunds, North America is still ~9 points below FY2023, and two-year traffic is only +0.3%. Five years of dividends and buybacks exceeded net income, so nothing is retained to fund the 8,000 uplifts, and the FT's report of a Chipotle bid exploration (denied) is a capital-allocation flag. Good business; the PW case returns [[pw_return]] and clears 13% only at [[entry]].",
@@ -916,6 +915,30 @@
      "−5.5%",
      "−6.6%",
      "−8.0%"
+    ],
+    [
+     "Diluted shares (B)",
+     "1.19",
+     "1.16",
+     "1.15",
+     "1.14",
+     "**1.14**"
+    ],
+    [
+     "Net share change",
+     "+0.8%",
+     "−2.5%",
+     "−0.9%",
+     "−0.9%",
+     "**0.0%**"
+    ],
+    [
+     "SBC ÷ owner earnings",
+     "5.9%",
+     "9.0%",
+     "7.1%",
+     "10.0%",
+     "**13.9%**"
     ]
    ],
    "note": "Fiscal years end late September. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000829224.json); non-GAAP EPS from releases. Capital rows are [Derived]: invested capital = equity + debt + operating leases − cash; owner earnings = CFO − SBC − maintenance capex (capex − 0.216 × Δ revenue). Built with Claude."
@@ -1166,6 +1189,66 @@
     ]
    ],
    "note": "Source: company announcements. Built with Claude."
+  },
+  "competitors": {
+   "columns": [
+    "Competitor",
+    "~Position",
+    "~Threat"
+   ],
+   "rows": [
+    [
+     "**Dutch Bros**",
+     "Fastest-growing U.S. drive-thru chain, skews young",
+     "Rising; the share-taker with younger consumers"
+    ],
+    [
+     "**McDonald's (McCafé)**",
+     "Value and speed at breakfast",
+     "Medium, stable; a price ceiling in a trade-down"
+    ],
+    [
+     "**Dunkin'**",
+     "Value and speed at breakfast",
+     "Medium, stable; a price ceiling in a trade-down"
+    ],
+    [
+     "**Luckin, Cotti**",
+     "China value leaders",
+     "Now mainly the JV's problem; they cap royalty growth"
+    ],
+    [
+     "**Independents / specialty**",
+     "Premium experience",
+     "Low at scale"
+    ]
+   ],
+   "note": "Source: company filings and press; threat reads are the author's. Built with Claude."
+  },
+  "sentiment": {
+   "columns": [
+    "Signal",
+    "~Read"
+   ],
+   "rows": [
+    [
+     "Analysts",
+     "Consensus Buy (35), mean target $110.97; pre-print trims at UBS ($105) and Citi ($104) `[Analyst consensus]`"
+    ],
+    [
+     "Short interest",
+     "41.97M shares, 3.69% of float, up 5% month over month"
+    ],
+    [
+     "Insiders (90 days, Form 4)",
+     "No open-market purchases; Brady Brewer (CEO International) sold ~$0.7M under a 10b5-1 plan"
+    ],
+    [
+     "BAIT",
+     "Single (A): the analytical edge (refund-flattered margin, negative incremental returns, dividend above owner earnings) points the wrong way for a buyer"
+    ]
+   ],
+   "note": "Context only; none of it moves a verb. Source: [StockAnalysis](https://stockanalysis.com/stocks/sbux/statistics/), [EDGAR Form 4](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000829224&type=4). Built with Claude."
   }
  },
  "charts": {
@@ -1291,5 +1374,11 @@
    "url": "https://finance.yahoo.com/quote/SBUX/"
   }
  ],
- "vars": {}
+ "vars": {},
+ "return_math": {
+  "epv": "$26–35 per share (five-year owner earnings of $3.6B ÷ 9%; enterprise basis at the 15.5% median margin ≈$26). About two-thirds of the price pays for growth. The Bear ($69) sits well above EPV because it keeps ~5% growth and a 20× multiple; a no-growth Bear would be ≈$35.",
+  "base_rate": "The Bull needs only ~5–6% nominal (~3% real) revenue growth, the FY2028 target; for companies above $25B, 31.8% reach 5% real growth over five years, so it is plausible. The constraint is margin, not sales.",
+  "year_ten": "Still growing mid-single digits through licensed international stores and royalties; in the Bull the terminal multiple does much of the work.",
+  "note": "Computed rows come from model.json; EPV, base rate and year ten are the author's. Built with Claude."
+ }
 }

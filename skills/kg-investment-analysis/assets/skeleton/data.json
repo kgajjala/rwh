@@ -44,7 +44,6 @@
   "bait": "Single (A)",
   "moat": "Wide, stable",
   "next": "date (event)",
-  "compounding": "—",
   "price_implies": "~[[Priced-in.cagr]] EPS growth"
  },
  "call": "~200 words: what the price assumes ([[implied_bear]] Bear odds; [[Priced-in.eps]] EPS), what it has wrong, the one number that proves it.",
@@ -109,6 +108,263 @@
     }
    ],
    "note": "Source: [10-K](URL). Built with Claude."
+  },
+  "five_year": {
+   "columns": [
+    "$B, except per share",
+    "FY-4",
+    "FY-3",
+    "FY-2",
+    "FY-1",
+    "FY",
+    "FY+1E"
+   ],
+   "rows": [
+    [
+     "Net revenue",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Organic growth",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Operating income (GAAP)",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Operating margin (GAAP)",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Core EPS",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Operating cash flow",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Capex",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Maintenance capex (est.)",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "**Owner earnings**",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Owner earnings per share",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Owner-earnings conversion (÷ core NI)",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Dividends",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Buybacks",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Diluted shares (B)",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Net share change",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "SBC % of revenue",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "SBC ÷ owner earnings",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Net debt incl. leases",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Invested capital",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "**ROIC**",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "**3-yr ROIIC**",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Reinvestment rate",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "FCF conversion (FCF ÷ NI)",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Net debt ÷ EBITDA",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Interest coverage",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "SBC-adjusted accruals ÷ assets",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Beneish M-score",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "note": "Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK##########.json). Capital rows [Derived]; state the invested-capital build and the maintenance-capex method. Built with Claude."
   }
  },
  "charts": {
@@ -156,5 +412,11 @@
    "url": "https://www.sec.gov/"
   }
  ],
- "vars": {}
+ "vars": {},
+ "return_math": {
+  "epv": "EPV per share, growth share of price, where the Bear sits.",
+  "base_rate": "Where the Bull's real growth sits in the base-rate table; 3P tiers.",
+  "year_ten": "Still growing at year ten, or is the multiple doing the work?",
+  "note": "Computed rows come from model.json. Built with Claude."
+ }
 }

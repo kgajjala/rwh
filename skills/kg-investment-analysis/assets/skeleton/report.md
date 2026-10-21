@@ -43,6 +43,8 @@
 
 ::scenarios
 
+::return_math
+
 <!-- Priced-in: "To earn an ordinary [[...]] … EPS of [[Priced-in.eps]] ([[Priced-in.cagr]] a year)". Hurdle: "[[Hurdle.eps]]". PW: [[pw_ev]], [[pw_return]], entry [[entry]]. -->
 
 ## Final Words {#final}
@@ -57,9 +59,15 @@
 
 ::table moat
 
+::table competitors
+
 ::table risks
 
+<!-- One line: reflexive loops and ruin paths, even when there are none. -->
+
 ::table catalysts
+
+::table sentiment
 
 ## Sources {#sources}
 

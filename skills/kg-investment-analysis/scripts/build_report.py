@@ -23,7 +23,8 @@ Directives (one per line):
   ::table ID                 data.json tables[ID] as a GFM table, with its note
   ::chart ID                 data.json charts[ID] (type "line" or "bar100") as an SVG image plus a data table
   ::model_build CASE         segment build table for one model case (bold cells are inputs)
-  ::scenarios                scenario and diagnostic table from model_out.json
+  ::scenarios                scenario and diagnostic table (3P tier, net shares/yr, implied g, story)
+  ::return_math              the v6 return-math table in fixed row order (computed rows + data.json "return_math" text)
   ::sources                  data.json "sources"
   ::disclaimer               placeholder; the fixed footer closes the file
 Tokens: [[name]] in prose, tables, notes, tests and the call are filled from the model and
@@ -56,6 +57,10 @@ def build_vars(data, mo):
                       "breakeven_bear": odds(s.get("breakeven_bear")), "implied_bear": odds(s.get("implied_bear")),
                       "trim": f"{money(s['pw_ev'])}–{money(s['trim_high'])}" if s.get("trim_high") else "—",
                       "avoid": f"≥{money(s['avoid'])}" if s.get("avoid") else "—"})
+            if s.get("compounding") is not None:
+                v["compounding"] = pct(s["compounding"]); v["rerating"] = f"{s['rerating']*100:+.1f} pts"
+                v["rerating_share"] = pct(s["rerating_share"], 0) if s.get("rerating_share") is not None else "n/m"
+            v["optionality_value"] = money(s.get("optionality_value", 0)); v["core_pw_ev"] = money(s.get("core_pw_ev", s["pw_ev"]))
         for group in ("cases", "diagnostics"):
             for name, c in mo.get(group, {}).items():
                 if "rows" not in c: continue
@@ -63,6 +68,9 @@ def build_vars(data, mo):
                 v[f"{name}.eps"] = money(c["rows"]["eps"][-1], 2); v[f"{name}.eps0"] = money(c["rows"]["eps"][0], 2)
                 v[f"{name}.cagr"] = pct(c["eps_cagr"]); v[f"{name}.pe"] = f"{c['inputs']['pe']:.1f}×".replace(".0×", "×")
                 if c.get("prob"): v[f"{name}.prob"] = pct(c["prob"], 0)
+                v[f"{name}.owner_eps"] = money(c["rows"]["owner_eps"][-1], 2)
+                if c.get("implied_g") is not None: v[f"{name}.g"] = pct(c["implied_g"])
+                v[f"{name}.cagr"] = pct(c["eps_cagr"]) if c.get("eps_cagr") is not None else "n/m"
     if mo and mo.get("summary"):
         s = mo["summary"]; yrs = mo["years"]; spot = mo["spot"]; y = mo["yield"]
         for i, t in enumerate(data.get("tests", []), 1):
@@ -178,9 +186,9 @@ def model_build(mo, case):
         seg = r["seg"][s]; a = act["segments"].get(s) if act else None
         lab = names.get(s, s)
         rows.append({"cells": [f"**{lab} revenue**"] + ([f"{a['rev']:.1f}"] if a else []) + [f"{v:.1f}" for v in seg["rev"]], "cls": "grp"})
-        rows.append({"cells": ["YoY growth"] + (["—"] if a else []) + [pc(g(seg["rev"], 1)) if a is None else pc(seg["rev"][0] / a["rev"] - 1)]
+        rows.append({"cells": ["YoY growth"] + (["—"] if a else []) + [pc(g(seg["rev"], 1)) if a is None else (pc(seg["rev"][0] / a["rev"] - 1) if a["rev"] else "—")]
                      + [{"v": pc(g(seg["rev"], i)), "cls": "in"} for i in range(1, len(seg["rev"]))], "cls": "sub"})
-        rows.append({"cells": ["Operating margin"] + ([pc(a["op"] / a["rev"])] if a else [])
+        rows.append({"cells": ["Operating margin"] + ([pc(a["op"] / a["rev"]) if a["rev"] else "—"] if a else [])
                      + [({"v": pc(m), "cls": "in"} if i == len(seg["margin"]) - 1 else pc(m)) for i, m in enumerate(seg["margin"])], "cls": "sub"})
         rows.append({"cells": ["Operating profit"] + ([f"{a['op']:.2f}"] if a else []) + [f"{v:.2f}" for v in seg["op"]], "cls": "sub"})
     if act and "corp" in act: corp_a = [f"({-act['corp']:.2f})"]
@@ -190,28 +198,78 @@ def model_build(mo, case):
     op_a = (sum(x["op"] for x in act["segments"].values()) + act.get("corp", 0)) if act else None
     rows.append({"cells": ["Total revenue"] + ([f"{tot_a:.1f}"] if act else []) + [f"{v:.1f}" for v in r["rev"]], "cls": "tot"})
     rows.append({"cells": ["Operating profit"] + ([f"{op_a:.2f}"] if act else []) + [f"{v:.2f}" for v in r["op"]], "cls": "tot"})
-    rows.append({"cells": ["Operating margin"] + ([pc(op_a / tot_a)] if act else []) + [pc(v) for v in r["opm"]], "cls": "sub"})
+    rows.append({"cells": ["Operating margin"] + ([pc(op_a / tot_a) if tot_a else "—"] if act else []) + [pc(v) for v in r["opm"]], "cls": "sub"})
     rows.append(["Net income"] + ([f"{act['ni']:.2f}"] if act and "ni" in act else (["—"] if act else [])) + [f"{v:.2f}" for v in r["ni"]])
     rows.append(["Diluted shares (B)"] + ([f"{act['shares']:.3f}"] if act and "shares" in act else (["—"] if act else [])) + [f"{v:.3f}" for v in r["shares"]])
+    rows.append({"cells": ["Net share change"] + (["—"] if act else []) + ["—"] + [f"{x*100:+.1f}%" for x in r["share_change"][1:]], "cls": "sub"})
+    if any(x for x in r["sbc"]):
+        rows.append({"cells": ["SBC (% of revenue)"] + (["—"] if act else []) + [pct(sb / rv) for sb, rv in zip(r["sbc"], r["rev"])], "cls": "sub"})
     lab = mo.get("eps_label", "EPS")
     rows.append({"cells": [lab] + ([money(act["eps"], 2)] if act and "eps" in act else (["—"] if act else [])) + [money(v, 2) for v in r["eps"]], "cls": "tot"})
-    rows.append({"cells": ["YoY growth"] + ([ "—"] if act else []) + [(pc(r["eps"][0] / act["eps"] - 1) if act and "eps" in act else "—")] + [pc(g(r["eps"], i)) for i in range(1, len(r["eps"]))], "cls": "sub"})
+    rows.append({"cells": ["YoY growth"] + ([ "—"] if act else []) + [(pc(r["eps"][0] / act["eps"] - 1) if act and act.get("eps") else "—")] + [pc(g(r["eps"], i)) for i in range(1, len(r["eps"]))], "cls": "sub"})
+    if any(abs(a - b) > 1e-9 for a, b in zip(r["owner_eps"], r["eps"])):
+        rows.append({"cells": ["Owner earnings per share (after SBC)"] + (["—"] if act else []) + [money(x, 2) for x in r["owner_eps"]], "cls": "tot"})
     return {"columns": cols, "rows": rows}
 
 def scenarios(mo, spec):
-    cols = ["Case", "Prob."] + [f"{mo.get('segment_names', {}).get(s, s)} growth / margin" for s in spec.get("segments_shown", mo["segments"])] + \
-           [f"{mo.get('eps_label','EPS')} {mo.get('fy_prefix','FY')}{mo['cases'][next(iter(mo['cases']))]['rows']['year'][-1]}", "EPS CAGR", "Exit P/E", "Value", "Return/yr"]
+    segs = spec.get("segments_shown", mo["segments"]); names = mo.get("segment_names", {})
+    last = mo["cases"][next(iter(mo["cases"]))]["rows"]["year"][-1]
+    cols = ["Case", "Prob.", "3P"] + [f"{names.get(s, s)} growth / margin" for s in segs] + \
+           ["Net shares/yr", f"Per-share earnings {mo.get('fy_prefix','FY')}{last}", "CAGR", "Exit multiple", "Value", "Return/yr", "Implied g", "~Driving assumption"]
     rows = []
     order = list(mo["cases"].items()) + [(k, v) for k, v in mo["diagnostics"].items() if "rows" in v]
     for name, c in order:
-        inp = c["inputs"]; label = c.get("label", name)
-        rows.append([f"**{label}**", pct(c["prob"], 0) if c.get("prob") else "—"] +
-                    [f"{inp['segments'][s]['g']*100:+.1f}% / {inp['segments'][s]['m']*100:.1f}%" for s in spec.get("segments_shown", mo["segments"])] +
-                    [money(c["rows"]["eps"][-1], 2), pct(c["eps_cagr"]), f"{inp['pe']:.1f}×", money(c["value"]), pct(c["return"])])
+        inp = c["inputs"]; label = c.get("label", name); basis = c.get("basis", "eps")
+        per = c["rows"]["owner_eps"] if basis == "owner" else c["rows"]["eps"]
+        mult = f"{inp['pe']:.1f}× {'owner earnings' if basis == 'owner' else mo.get('eps_label','EPS')}" if "value_override" not in inp else "override"
+        net = c["rows"]["share_change"][-1]
+        rows.append([f"**{label}**", pct(c["prob"], 0) if c.get("prob") else "—", c.get("tier") or ("diagnostic" if name in mo["diagnostics"] else "—")] +
+                    [f"{inp['segments'][s]['g']*100:+.1f}% / {inp['segments'][s]['m']*100:.1f}%" for s in segs] +
+                    [f"{net*100:+.1f}%", money(per[-1], 2), pct(c["eps_cagr"]) if c.get("eps_cagr") is not None else "n/m", mult,
+                     money(c["value"]), pct(c["return"]), pct(c.get("implied_g")) if c.get("implied_g") is not None else "n/a",
+                     c.get("story") or (f"Solved along {' → '.join(c['path'])} for {pct(c['target_return'],0)}/yr" if c.get("path") else "")])
     s = mo.get("summary")
     if s:
-        rows.append({"cells": ["Probability-weighted", "100%"] + [""] * len(spec.get("segments_shown", mo["segments"])) + ["", "", "", money(s["pw_ev"]), pct(s["pw_return"])], "cls": "tot"})
+        for o in s.get("optionality", []):
+            rows.append([f"Option: {o['name']}", pct(o["prob"], 0), "possible"] + [""] * len(segs) + ["", "", "", "", money(o["value"]), "", "", o.get("story", "valued as probability × value, outside the core")])
+        rows.append({"cells": ["Probability-weighted", "100%", ""] + [""] * len(segs) + ["", "", "", "", money(s["pw_ev"]), pct(s["pw_return"]), "", ""], "cls": "tot"})
     return {"columns": cols, "rows": rows}
+
+def return_math(mo, data, V):
+    """The v6 return-math table, fixed row order (valuation.md section 10); text rows come from data.json "return_math"."""
+    s = mo["summary"]; rm = data.get("return_math", {}); h = s["hurdle"]
+    cases = mo["cases"]; roles = {c.get("role"): n for n, c in cases.items() if c.get("role")}
+    def T(k, default): return subst(rm[k], V) if k in rm else default
+    rf = s.get("risk_free")
+    rows = []
+    rows.append(["PW return/yr vs. hurdle", f"**{pct(s['pw_return'])} ({'≥' if s['pw_return'] >= h else '<'}13%)**, of which {pct(mo['yield'])} is the dividend yield. Entry ≤{money(s['entry'])}."
+                 + (f" 10-year Treasury {pct(rf,2)}; the hurdle sits {(h-rf)*100:.1f} points above it." if rf else "")])
+    if s.get("compounding") is not None:
+        rr = s["rerating"]; share = s.get("rerating_share")
+        rows.append(["Compounding at a flat multiple", T("compounding", f"Base per-share earnings growth {pct(cases[roles['base']]['eps_cagr'])} + {pct(mo['yield'])} dividend = **{pct(s['compounding'])}**. " +
+                     (f"Re-rating adds {rr*100:.1f} points to the Base return ({share:.0%} of it)" if rr >= 0 and share is not None else
+                      f"Re-rating subtracts {abs(rr)*100:.1f} points from the Base return: the multiple compresses") +
+                     (". More than half the return from re-rating means Watch." if share is not None and share > 0.5 else "."))])
+    opts = s.get("optionality", [])
+    rows.append(["Optionality", "; ".join(f"{o['name']}: {pct(o['prob'],0)} × {money(o['value'])} = {money(o['prob']*o['value'],1)}" for o in opts) if opts else T("optionality", "None valued.")])
+    pi = mo["diagnostics"].get("Priced-in")
+    rows.append(["Price-implied expectations", T("price_implied", (f"At {pct(s['discount_rate'],0)}, spot needs {money(pi['rows']['eps'][-1],2)} of per-share earnings in the terminal year ({pct(pi['eps_cagr'])} a year) at {pi['pe']:.0f}×." if pi and "rows" in pi else "See the Priced-in case."))])
+    rows.append(["EPV floor", T("epv", "State EPV per share, the growth share of price and where the Bear sits relative to EPV.")])
+    rows.append(["Base rate / 3P", T("base_rate", "State where the Bull's real growth rate sits in the base-rate table, and each case's 3P tier.")])
+    gl = "; ".join(f"{n} {pct(c['implied_g'])}" for n, c in cases.items() if c.get("implied_g") is not None)
+    flag = (f" ⚠️ Above the risk-free rate: {', '.join(s['g_above_risk_free'])}." if s.get("g_above_risk_free") else (" All below the risk-free rate." if rf else ""))
+    rows.append(["Terminal-growth check", T("terminal_growth", f"Implied perpetual growth on owner earnings at {pct(s['discount_rate'],0)}: {gl}.{flag}")])
+    if s.get("breakeven_bear") is not None:
+        rows.append(["Break-even and price-implied Bear odds", f"Break-even {odds(s['breakeven_bear'])} against {pct(s['bear_prob'],0)} assigned"
+                     + (" — ⚠️ **probability-fragile**" if s.get("fragile") else "") + f"; price-implied {odds(s['implied_bear'])} at {pct(s['discount_rate'],0)}."])
+    rows.append(["Year ten", T("year_ten", "One sentence: is the business still growing at year ten, or is the terminal multiple doing the work?")])
+    if s.get("rr") is not None:
+        bu, be = cases[roles["bull"]], cases[roles["bear"]]
+        sg = lambda x: f"{'+' if x >= 0 else '−'}{abs(x):.0f}%"
+        rows.append(["R/R", f"**{s['rr']:.1f}:1** (Bull {sg((bu['value']/mo['spot']-1)*100)} / Bear {sg((be['value']/mo['spot']-1)*100)})" + T("rr_note", "")])
+    for k in ("epv", "base_rate", "year_ten"):
+        if k not in rm: PROBLEMS.append(f'return_math text "{k}" missing in data.json')
+    return {"columns": ["Return math", "~"], "rows": rows}
 
 # ---------- page pieces ----------
 def header(data, V):
@@ -282,6 +340,9 @@ def build_html(rdir, data, mo, V):
             if not mo: PROBLEMS.append("model_out.json missing"); return ""
             mb = data.get("model_build", {})
             return figure(f'<div class="frame">{table_html(model_build(mo, arg))}</div>', subst(mb.get("note", ""), V))
+        if name == "return_math":
+            if not mo or not mo.get("summary"): PROBLEMS.append("model_out.json missing"); return ""
+            return figure(f'<div class="frame">{table_html(return_math(mo, data, V))}</div>', subst(data.get("return_math", {}).get("note", ""), V))
         if name == "scenarios":
             if not mo: PROBLEMS.append("model_out.json missing"); return ""
             sc = data.get("scenarios", {})
@@ -471,6 +532,9 @@ def essay_md(data, mo, V, rdir, rel_report):
         elif name == "model_build":
             if not mo: PROBLEMS.append("model_out.json missing"); continue
             out.append(md_table(model_build(mo, arg)) + md_note(subst(data.get("model_build", {}).get("note", ""), V) + " Bold cells are model inputs."))
+        elif name == "return_math":
+            if not mo or not mo.get("summary"): PROBLEMS.append("model_out.json missing"); continue
+            out.append(md_table(return_math(mo, data, V)) + md_note(subst(data.get("return_math", {}).get("note", ""), V)))
         elif name == "scenarios":
             if not mo: PROBLEMS.append("model_out.json missing"); continue
             sc = data.get("scenarios", {})
@@ -496,10 +560,15 @@ def front_matter(data, mo, V, rdir, rel_report):
          f"{vd['non_holder']['emoji']} **Non-holder: {subst(vd['non_holder']['verb'],V)}** · {vd['holder']['emoji']} **Holder: {subst(vd['holder']['verb'],V)}**", "",
          f"| PW EV | PW return/yr | Compounding/yr | R/R | Entry | Trim | Avoid | {vd['multiple_label']} | Yield | BAIT | Moat | Next |",
          "|---|---|---|---|---|---|---|---|---|---|---|---|",
-         f"| **{V.get('pw_ev','—')}** | **{V.get('pw_return','—')} ({'≥' if s and s['pw_return']>=s['hurdle'] else '<'}13%)** | {subst(vd.get('compounding','—'),V)} | {V.get('rr','—')} | ≤{V.get('entry','—')} | "
+         f"| **{V.get('pw_ev','—')}** | **{V.get('pw_return','—')} ({'≥' if s and s['pw_return']>=s['hurdle'] else '<'}13%)** | {subst(vd.get('compounding', V.get('compounding','—')),V)} | {V.get('rr','—')} | ≤{V.get('entry','—')} | "
          f"{'—' if m.get('compounder') else V.get('trim','—')} | {V.get('avoid','—')} | {subst(vd['multiple'],V)} | {V.get('yield','—')} | {vd['bait']} | {vd['moat']} | 📅 {vd['next']} |", "",
-         f"**Breaks if**: {subst(vd['breaks_if'],V)}", "",
-         "## The Call", "", subst(data["call"], V).strip(), "",
+         f"**Breaks if**: {subst(vd['breaks_if'],V)}", ""]
+    warn = []
+    if s.get("fragile"): warn.append(f"⚠️ **Probability-fragile**: break-even Bear odds {V.get('breakeven_bear')} against {pct(s.get('bear_prob'),0)} assigned.")
+    if s.get("rerating_share") is not None and s["rerating_share"] > 0.5: warn.append(f"⚠️ **Re-rating test**: {V['rerating_share']} of the Base return comes from the multiple, so the non-holder verb is Watch, not Initiate.")
+    if s.get("g_above_risk_free"): warn.append(f"⚠️ **Terminal-growth check**: implied perpetual growth exceeds the risk-free rate in {', '.join(s['g_above_risk_free'])}.")
+    if warn: L += warn + [""]
+    L += ["## The Call", "", subst(data["call"], V).strip(), "",
          "## What I'd Have To Be Wrong About", ""]
     for i, t in enumerate(data["tests"], 1):
         L.append(f"{i}. **{subst(t['claim'],V)}** Test: {subst(t['test'],V)} **If Fail →** {subst(t['if_fail'],V)}")

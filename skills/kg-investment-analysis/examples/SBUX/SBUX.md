@@ -12,9 +12,11 @@
 
 | PW EV | PW return/yr | Compounding/yr | R/R | Entry | Trim | Avoid | FY26E non-GAAP P/E | Yield | BAIT | Moat | Next |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| **$114** | **5.7% (<13%)** | 14.3% | 1.9:1 | ≤$69 | $114–$153 | ≥$153 | ≈38× | 2.5% | Single (A) | Wide, stable | 📅 Oct 29 (Q4) |
+| **$114** | **5.7% (<13%)** | 14.4% | 1.9:1 | ≤$69 | $114–$153 | ≥$153 | ≈38× | 2.5% | Single (A) | Wide, stable | 📅 Oct 29 (Q4) |
 
 **Breaks if**: Q4 non-GAAP operating margin falls back below ~12% once the one-time tariff refund is gone, putting the FY2028 target of 13.5–15% out of reach.
+
+⚠️ **Terminal-growth check**: implied perpetual growth exceeds the risk-free rate in Bull.
 
 ## The Call
 
@@ -281,6 +283,8 @@ As with PepsiCo, I ask what has to be true to earn 13% a year from today’s pri
 |  Operating margin | 11.5% | 12.2% | 12.8% | 13.5% | 14.2% | 14.9% |
 | Net income | 2.95 | 3.33 | 3.73 | 4.17 | 4.65 | 5.16 |
 | Diluted shares (B) | 1.140 | 1.140 | 1.140 | 1.140 | 1.140 | 1.140 |
+|  Net share change | — | +0.0% | +0.0% | +0.0% | +0.0% | +0.0% |
+|  SBC (% of revenue) | 0.9% | 0.9% | 0.9% | 0.9% | 0.9% | 0.9% |
 | **Non-GAAP EPS** | $2.59 | $2.92 | $3.28 | $3.66 | $4.08 | $4.53 |
 |  YoY growth | — | 12.8% | 12.2% | 11.8% | 11.4% | 11.0% |
 
@@ -288,16 +292,31 @@ As with PepsiCo, I ask what has to be true to earn 13% a year from today’s pri
 
 In the Base case, North America grows 5% a year and its margin rebuilds to 16%, International grows 6.5% with a 20% margin, and the consolidated margin reaches about 15% by fiscal 2031. EPS grows about 11.8% a year to $4.53. Fiscal 2028 EPS lands at about $3.28, just below the bottom of management’s $3.35–4.00 target. At 26 times, the stock is worth about $118 in 2031.
 
-| Case | Prob. | North America growth / margin | International growth / margin | Channel Development growth / margin | Non-GAAP EPS FY2031 | EPS CAGR | Exit P/E | Value | Return/yr |
-|---|---|---|---|---|---|---|---|---|---|
-| **Bull** | 25% | +6.0% / 17.8% | +8.0% / 21.5% | +5.0% / 46.0% | $5.46 | 16.1% | 28.0× | $153 | 11.9% |
-| **Base** | 50% | +5.0% / 16.1% | +6.5% / 20.0% | +4.0% / 45.0% | $4.53 | 11.8% | 26.0× | $118 | 6.3% |
-| **Bear** | 25% | +3.5% / 14.1% | +4.5% / 17.5% | +2.0% / 43.0% | $3.44 | 5.9% | 20.0× | $69 | -4.3% |
-| **Priced-in (9%/yr)** | — | +5.7% / 17.3% | +7.5% / 21.0% | +4.7% / 45.7% | $5.15 | 14.7% | 26.0× | $134 | 9.0% |
-| **Hurdle (13%/yr)** | — | +6.7% / 19.0% | +9.1% / 22.6% | +5.7% / 46.7% | $6.19 | 19.1% | 26.0× | $161 | 13.0% |
-| **Probability-weighted** | 100% |  |  |  |  |  |  | $114 | 5.7% |
+| Case | Prob. | 3P | North America growth / margin | International growth / margin | Channel Development growth / margin | Net shares/yr | Per-share earnings FY2031 | CAGR | Exit multiple | Value | Return/yr | Implied g | Driving assumption |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| **Bull** | 25% | Plausible | +6.0% / 17.8% | +8.0% / 21.5% | +5.0% / 46.0% | -0.3% | $5.46 | 16.1% | 28.0× Non-GAAP EPS | $153 | 11.9% | 5.2% | FY2028 at the top of the target ($4.00), then ~11%/yr on international royalties and North America margin above 17%; 28×, capped so implied growth stays under the 10-year Treasury. |
+| **Base** | 50% | Probable | +5.0% / 16.1% | +6.5% / 20.0% | +4.0% / 45.0% | +0.0% | $4.53 | 11.8% | 26.0× Non-GAAP EPS | $118 | 6.3% | 5.0% | FY2028 near the low end of the target, then ~9%/yr as North America margin rebuilds to ~16%; 26×, a normal mature-restaurant multiple. |
+| **Bear** | 25% | Probable | +3.5% / 14.1% | +4.5% / 17.5% | +2.0% / 43.0% | +0.0% | $3.44 | 5.9% | 20.0× Non-GAAP EPS | $69 | -4.3% | 3.8% | Margin stalls near 12% once refunds and uplift costs net out; ~5%/yr growth; 20×. |
+| **Priced-in (9%/yr)** | — | diagnostic | +5.7% / 17.3% | +7.5% / 21.0% | +4.7% / 45.7% | -0.2% | $5.15 | 14.7% | 26.0× Non-GAAP EPS | $134 | 9.0% | 5.0% | Solved along Base → Bull for 9%/yr |
+| **Hurdle (13%/yr)** | — | diagnostic | +6.7% / 19.0% | +9.1% / 22.6% | +5.7% / 46.7% | -0.5% | $6.19 | 19.1% | 26.0× Non-GAAP EPS | $161 | 13.0% | 5.0% | Solved along Base → Bull for 13%/yr |
+| **Probability-weighted** | 100% |  |  |  |  |  |  |  |  | $114 | 5.7% |  |  |
 
 *Annual return = price change to the FY2031 value plus today’s 2.5% dividend yield. Probabilities apply to Bull, Base and Bear; the Priced-in and Hurdle rows are solved by the model along the Base→Bull path at a 26× exit. Source: author’s model. Built with Claude.*
+
+| Return math |  |
+|---|---|
+| PW return/yr vs. hurdle | **5.7% (<13%)**, of which 2.5% is the dividend yield. Entry ≤$69. 10-year Treasury 5.20%; the hurdle sits 7.8 points above it. |
+| Compounding at a flat multiple | Base per-share earnings growth 11.8% + 2.5% dividend = **14.4%**. Re-rating subtracts 8.1 points from the Base return: the multiple compresses. |
+| Optionality | None valued. |
+| Price-implied expectations | At 9%, spot needs $5.15 of per-share earnings in the terminal year (14.7% a year) at 26×. |
+| EPV floor | $26–35 per share (five-year owner earnings of $3.6B ÷ 9%; enterprise basis at the 15.5% median margin ≈$26). About two-thirds of the price pays for growth. The Bear ($69) sits well above EPV because it keeps ~5% growth and a 20× multiple; a no-growth Bear would be ≈$35. |
+| Base rate / 3P | The Bull needs only ~5–6% nominal (~3% real) revenue growth, the FY2028 target; for companies above $25B, 31.8% reach 5% real growth over five years, so it is plausible. The constraint is margin, not sales. |
+| Terminal-growth check | Implied perpetual growth on owner earnings at 9%: Bull 5.2%; Base 5.0%; Bear 3.8%. ⚠️ Above the risk-free rate: Bull. |
+| Break-even and price-implied Bear odds | Break-even <0% against 25% assigned; price-implied <0% at 9%. |
+| Year ten | Still growing mid-single digits through licensed international stores and royalties; in the Bull the terminal multiple does much of the work. |
+| R/R | **1.9:1** (Bull +56% / Bear −30%) |
+
+*Computed rows come from model.json; EPV, base rate and year ten are the author's. Built with Claude.*
 
 This is where Starbucks and PepsiCo part ways. With PepsiCo, the price was gloomier than my Base case. With Starbucks, it is more optimistic. To earn an ordinary 9% at a 26 times exit, Starbucks needs fiscal 2031 EPS of about $5.15, roughly 14.7% growth a year and a consolidated margin near 16%. That is close to my Bull case. In scenario terms, even with no Bear at all, my Bull-to-Base mix doesn’t earn 9% from here. The market is pricing the comeback as close to certain.
 
@@ -345,6 +364,9 @@ The tables below carry the framework's required numbers. The argument for each i
 | Net debt ÷ EBITDA (ex-leases) | — | — | — | — | 2.7× |
 | Interest coverage | 10.4× | 9.6× | 10.7× | 9.6× | **5.4×** |
 | SBC-adjusted accruals ÷ assets | −5.0% | −3.0% | −5.5% | −6.6% | −8.0% |
+| Diluted shares (B) | 1.19 | 1.16 | 1.15 | 1.14 | **1.14** |
+| Net share change | +0.8% | −2.5% | −0.9% | −0.9% | **0.0%** |
+| SBC ÷ owner earnings | 5.9% | 9.0% | 7.1% | 10.0% | **13.9%** |
 
 *Fiscal years end late September. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000829224.json); non-GAAP EPS from releases. Capital rows are [Derived]: invested capital = equity + debt + operating leases − cash; owner earnings = CFO − SBC − maintenance capex (capex − 0.216 × Δ revenue). Built with Claude.*
 
@@ -374,6 +396,18 @@ The tables below carry the framework's required numbers. The argument for each i
 
 *7 Powers vocabulary (Helmer). Source: company filings; assessments are the author’s. Built with Claude.*
 
+#### Competitors
+
+| Competitor | Position | Threat |
+|---|---|---|
+| **Dutch Bros** | Fastest-growing U.S. drive-thru chain, skews young | Rising; the share-taker with younger consumers |
+| **McDonald's (McCafé)** | Value and speed at breakfast | Medium, stable; a price ceiling in a trade-down |
+| **Dunkin'** | Value and speed at breakfast | Medium, stable; a price ceiling in a trade-down |
+| **Luckin, Cotti** | China value leaders | Now mainly the JV's problem; they cap royalty growth |
+| **Independents / specialty** | Premium experience | Low at scale |
+
+*Source: company filings and press; threat reads are the author's. Built with Claude.*
+
 #### Promises ledger
 
 | Promised | Where, when | Outcome |
@@ -400,6 +434,8 @@ The tables below carry the framework's required numbers. The argument for each i
 
 *Filtered for materiality. Assessments are the author’s. Built with Claude.*
 
+No reflexive loop: the company has no funding need and does not use its stock as currency. No ruin path: maturities are covered by cash flow and a $3.0B undrawn revolver.
+
 #### Catalysts
 
 | Date | Catalyst | Why it matters |
@@ -412,6 +448,17 @@ The tables below carry the framework's required numbers. The argument for each i
 | 📅 Late January | Q1 FY2027 | Test 2: traffic against +3% |
 
 *Source: company announcements. Built with Claude.*
+
+#### Sentiment and positioning
+
+| Signal | Read |
+|---|---|
+| Analysts | Consensus Buy (35), mean target $110.97; pre-print trims at UBS ($105) and Citi ($104) `[Analyst consensus]` |
+| Short interest | 41.97M shares, 3.69% of float, up 5% month over month |
+| Insiders (90 days, Form 4) | No open-market purchases; Brady Brewer (CEO International) sold ~$0.7M under a 10b5-1 plan |
+| BAIT | Single (A): the analytical edge (refund-flattered margin, negative incremental returns, dividend above owner earnings) points the wrong way for a buyer |
+
+*Context only; none of it moves a verb. Source: [StockAnalysis](https://stockanalysis.com/stocks/sbux/statistics/), [EDGAR Form 4](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000829224&type=4). Built with Claude.*
 
 ### Sources
 

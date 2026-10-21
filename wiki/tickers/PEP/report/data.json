@@ -1,0 +1,1622 @@
+{
+ "meta": {
+  "ticker": "PEP",
+  "company": "PepsiCo, Inc.",
+  "title": "PepsiCo and the Price of Volume",
+  "dek": "PepsiCo cut prices to win back North American snackers, and it worked on volume. The profit did not come with it. What does the stock price assume about whether it ever will?",
+  "date": "2026-10-15",
+  "date_long": "October 15, 2026",
+  "status": "Active",
+  "price": 128.38,
+  "price_note": "Oct 15, 2026 close",
+  "price_url": "https://finance.yahoo.com/quote/PEP/",
+  "range52": [
+   123.47,
+   171.48
+  ],
+  "type": "Consumer staples — global convenient foods + beverages",
+  "stage": "Mature ex-growth",
+  "cyclical": "No",
+  "competence": "Core",
+  "compounder": false,
+  "terminal_label": "2031",
+  "accent": {
+   "light": "#1a4f9e",
+   "dark": "#86b6ef"
+  },
+  "report_path": "../PEP.md",
+  "artifact_url": "https://claude.ai/artifact/MKXM26B5j6B2euJRawonua"
+ },
+ "verdict": {
+  "sentence": "Both Oct 8 kill criteria failed: full-year guidance was cut, and North American snacks revenue slipped even as share rose. The pre-committed move to Watch applies; the probability-weighted case returns [[pw_return]] against the 13% hurdle.",
+  "non_holder": {
+   "emoji": "🟡",
+   "verb": "Watch (entry ≤[[entry]])"
+  },
+  "holder": {
+   "emoji": "🟡",
+   "verb": "Hold"
+  },
+  "breaks_if": "the price investment in North American snacks never earns back margin: PepsiCo Foods North America revenue flat to down while volume share rises, with core margin still falling through 2027.",
+  "multiple_label": "FY26E core P/E",
+  "multiple": "15.3×",
+  "bait": "Single (B)",
+  "moat": "Wide, narrowing",
+  "next": "Feb 2027 (Q4 + FY27 guide)",
+  "price_implies": "~[[Priced-in.cagr]] EPS growth"
+ },
+ "call": "The Oct 8 print failed both tests written the day before: core constant-currency EPS guidance fell to +1–2% from the low end of +4–6%, and PFNA net revenue slipped 0.3% even though volume share rose. Each failure was pre-committed to Watch, and the rebuilt case agrees: the probability-weighted value of [[pw_ev]] returns [[pw_return]] a year, below the hurdle. The market had already priced worse; the stock rose 3.7% on the day. At $128 an ordinary 8% return needs only about [[Priced-in.cagr]] EPS growth, and in scenario terms a [[implied_bear]] Bear probability against our [[Bear.prob]]. That gap is not yet an opportunity, because the evidence moved the wrong way: the price cuts are buying volume but not revenue, PFNA core profit fell 12%, and Q3's 3% core profit growth needed 4 points of tariff refunds. The case clears 13% only at [[entry]]. The number that settles it is the FY2027 guide in February.",
+ "tests": [
+  {
+   "claim": "That the new cost programme is real money.",
+   "test": "by the Q4 release (early February 2027), PepsiCo quantifies the structural cost programme and the Elliott-committed North America supply-chain review, either as ≥$1B of savings or as a reaffirmed ≥100 bps 2026–28 core margin target.",
+   "shift": {
+    "from": "Bull",
+    "to": "Base",
+    "points": 0.07
+   },
+   "if_fail": "move 7 points from Bull to Base (PW EV [[test1.pw_ev]], [[test1.pw_return]]/yr) → **[[test1.verb]]** (entry [[test1.entry]])."
+  },
+  {
+   "claim": "That 2026 is the trough year for earnings growth.",
+   "test": "FY2027 guidance in the Q4 release (February 2027) calls for at least +4% core constant-currency EPS.",
+   "shift": {
+    "case": "Base",
+    "eps": 9.72
+   },
+   "if_fail": "Base EPS growth falls to 3% a year (PW EV [[test2.pw_ev]], [[test2.pw_return]]/yr) → **[[test2.verb]]** (entry [[test2.entry]])."
+  },
+  {
+   "claim": "That incremental returns recover.",
+   "test": "in the FY2026 10-K (February 2027), core operating margin is up year over year, capex is under 5% of sales, and owner earnings cover the dividend. This test is tracking to fail: core margin is −25 bps year to date and the Q4 North America margin is guided down.",
+   "shift": {
+    "from": "Bull",
+    "to": "Bear",
+    "points": 0.07
+   },
+   "if_fail": "move 7 points from Bull to Bear (PW EV [[test3.pw_ev]], [[test3.pw_return]]/yr) → **[[test3.verb]]** (entry [[test3.entry]]); the stage stays mature ex-growth."
+  }
+ ],
+ "updates": [
+  {
+   "date": "2026-10-14",
+   "title": "Q3 2026: guidance cut, both kill criteria fail",
+   "file": "updates/2026-10-14.md",
+   "scorecard": [
+    {
+     "test": "Volume-for-price trade accretive (PFNA revenue ≥ prior year with share up)",
+     "result": "fail",
+     "evidence": "PFNA net revenue $6,504M vs. $6,526M (−0.3%) with volume share up; PFNA core cc operating profit −12%"
+    },
+    {
+     "test": "Back-half acceleration real (+4–6% guide reaffirmed)",
+     "result": "fail",
+     "evidence": "cut to +1–2% core cc EPS, from the low end of +4–6%"
+    },
+    {
+     "test": "Incremental returns recover",
+     "result": "pending",
+     "evidence": "FY2026 10-K, Feb 2027; tracking to fail (core margin −25 bps YTD)"
+    }
+   ]
+  }
+ ],
+ "tables": {
+  "segments": {
+   "columns": [
+    "$ Million",
+    "FY2024",
+    "FY2025",
+    "9M 2025",
+    "9M 2026"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "**PepsiCo Foods North America**",
+      "27,431",
+      "27,528",
+      "19,215",
+      "19,204"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Core operating profit",
+      "6,982",
+      "6,545",
+      "4,633",
+      "4,256"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Core operating margin",
+      "25.5%",
+      "23.8%",
+      "24.1%",
+      "22.2%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**PepsiCo Beverages North America**",
+      "27,769",
+      "28,197",
+      "19,999",
+      "21,340"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Core operating profit",
+      "3,104",
+      "3,285",
+      "2,564",
+      "2,643"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Core operating margin",
+      "11.2%",
+      "11.7%",
+      "12.8%",
+      "12.4%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**EMEA**",
+      "16,658",
+      "18,025",
+      "11,946",
+      "13,219"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Core operating profit",
+      "2,232",
+      "2,571",
+      "1,698",
+      "2,008"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Core operating margin",
+      "13.4%",
+      "14.3%",
+      "14.2%",
+      "15.2%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Latin America Foods**",
+      "10,568",
+      "10,549",
+      "6,865",
+      "7,895"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Core operating profit",
+      "2,101",
+      "2,144",
+      "1,419",
+      "1,677"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Core operating margin",
+      "19.9%",
+      "20.3%",
+      "20.7%",
+      "21.2%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Asia Pacific Foods**",
+      "4,549",
+      "4,629",
+      "3,139",
+      "3,492"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Core operating profit",
+      "391",
+      "464",
+      "410",
+      "531"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Core operating margin",
+      "8.6%",
+      "10.0%",
+      "13.1%",
+      "15.2%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**International Beverages Franchise**",
+      "4,879",
+      "4,997",
+      "3,418",
+      "3,748"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Core operating profit",
+      "1,708",
+      "1,856",
+      "1,328",
+      "1,530"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Core operating margin",
+      "35.0%",
+      "37.1%",
+      "38.9%",
+      "40.8%"
+     ],
+     "cls": "sub"
+    },
+    [
+     "Corporate unallocated",
+     "(1,820)",
+     "(1,953)",
+     "(1,215)",
+     "(1,251)"
+    ],
+    {
+     "cells": [
+      "Total net revenue",
+      "91,854",
+      "93,925",
+      "64,582",
+      "68,898"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "Total core operating profit",
+      "14,698",
+      "14,912",
+      "10,837",
+      "11,394"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "Core operating margin",
+      "16.0%",
+      "15.9%",
+      "16.8%",
+      "16.5%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Core EPS",
+      "$8.16",
+      "$8.14",
+      "$5.88",
+      "$6.15"
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "Core figures exclude restructuring, impairments, mark-to-market and acquisition charges, as PepsiCo reports them. Segment operating profit is before $1.3–2.0 billion of corporate unallocated costs. Source: [Q4 2025 release](https://www.sec.gov/Archives/edgar/data/77476/000007747626000009/q420258-kxexhibit991.htm), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/77476/000007747626000050/q320268-kxexhibit991.htm). Built with Claude."
+  },
+  "unit_economics": {
+   "columns": [
+    "Illustrative $1.00 of PFNA net revenue: core profit ~$0.24",
+    "Volume change",
+    "Profit per original $1.00",
+    "Profit change"
+   ],
+   "rows": [
+    [
+     "Today (FY2025)",
+     "—",
+     "$0.238",
+     "—"
+    ],
+    [
+     "Price −1%, volume +0.5% (roughly 2026 so far)",
+     "+0.5%",
+     "$0.231",
+     {
+      "v": "-3%",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Price −1%: volume needed to hold profit flat",
+     "**+1.9%**",
+     "$0.238",
+     "0%"
+    ],
+    [
+     "Price −5%: volume needed to hold profit flat",
+     "**+10.0%**",
+     "$0.238",
+     "0%"
+    ],
+    [
+     "Price −1%, volume +0.5%, input costs +3%",
+     "+0.5%",
+     "$0.217",
+     {
+      "v": "-9%",
+      "cls": "neg"
+     }
+    ],
+    [
+     "…plus fixed costs +4% (advertising up double digits)",
+     "+0.5%",
+     "$0.205",
+     {
+      "v": "-14%",
+      "cls": "neg"
+     }
+    ],
+    [
+     "…volume needed to hold profit flat in that world",
+     "**+6.8%**",
+     "$0.238",
+     "0%"
+    ],
+    {
+     "cells": [
+      "Actual: PFNA Q3 2026 core constant-currency operating profit",
+      "+0.5%",
+      "—",
+      {
+       "v": "−12%",
+       "cls": "neg"
+      }
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "Source: company filings, author’s estimates. PFNA core operating margin of 23.8% from FY2025 segment data; the 45% variable-cost share is an estimate. Built with Claude."
+  },
+  "rings": {
+   "columns": [
+    "Ring",
+    "Share of segment profit",
+    "Core margin",
+    "Main threat",
+    "~Exposure to the squeeze"
+   ],
+   "rows": [
+    [
+     "**1 · PepsiCo Foods North America**",
+     "34%",
+     "22.2%",
+     "Affordability, private label, input costs, GLP-1",
+     "High, now"
+    ],
+    [
+     "**2 · PepsiCo Beverages North America**",
+     "21%",
+     "12.4%",
+     "Soft-drink share loss to Coca-Cola; owned bottling and trucks",
+     "High; refranchising is the option"
+    ],
+    [
+     "**3 · EMEA, LatAm and Asia Pacific**",
+     "33%",
+     "17.1%",
+     "Currency, emerging-market consumers",
+     "Low to moderate; volume-led growth"
+    ],
+    [
+     "**4 · International Beverages Franchise**",
+     "12%",
+     "40.8%",
+     "Bottler health, currency",
+     "Low; the asset-light model Elliott wants for PBNA"
+    ]
+   ],
+   "note": "Shares of core segment operating profit, first nine months of 2026. Source: company releases; risk assessments are the author’s. Built with Claude."
+  },
+  "deals": {
+   "columns": [
+    "Deal",
+    "Year",
+    "Price",
+    "What happened",
+    "~Verdict"
+   ],
+   "rows": [
+    [
+     "**SodaStream**",
+     "2018",
+     "$3.2B",
+     "Agreed under Nooyi, closed in December 2018; not disclosed separately since",
+     "Unclear"
+    ],
+    [
+     "**Rockstar Energy**",
+     "2020",
+     "$3.85B",
+     "$1.9B brand impairment in 2025; US and Canada rights passed to Celsius at a $0.5B value",
+     "Poor"
+    ],
+    [
+     "**Pioneer Foods (South Africa)**",
+     "2020",
+     "$1.7B",
+     "Low-margin grains business; management now strips it out of food volume",
+     "Weak"
+    ],
+    [
+     "**Be & Cheery (China)**",
+     "2020",
+     "$0.7B",
+     "Brand impaired in 2025",
+     "Poor"
+    ],
+    [
+     "**Tropicana, Naked and juice brands (sale)**",
+     "2022",
+     "$3.3B cash + 39% stake",
+     "Retained stake and receivables impaired in 2024",
+     "Mixed"
+    ],
+    [
+     "**Celsius stake**",
+     "2022 / 2025",
+     "$0.55B + $0.59B + US Rockstar",
+     "~11% stake; PepsiCo distributes Celsius and Alani Nu",
+     "Too early"
+    ],
+    [
+     "**Siete Foods**",
+     "2025",
+     "$1.2B",
+     "Grain-free Mexican-American snacks inside PFNA",
+     "Too early"
+    ],
+    [
+     "**Poppi**",
+     "2025",
+     "$1.95B",
+     "Prebiotic soda inside PBNA",
+     "Too early"
+    ]
+   ],
+   "note": "Source: company releases and 10-Ks; Celsius 2025 terms from the FY2025 10-K. Outcomes are the author’s assessment. Built with Claude."
+  },
+  "capital": {
+   "columns": [
+    "$ Billion",
+    "Revenue",
+    "YoY",
+    "Core EPS",
+    "OCF",
+    "SBC",
+    "Net capex",
+    "FCF",
+    "FCF margin",
+    "Dividends",
+    "% FCF",
+    "Buybacks",
+    "% FCF",
+    "Acquisitions",
+    "Dil. shares"
+   ],
+   "rows": [
+    [
+     "2018",
+     "64.7",
+     "—",
+     "$5.66",
+     "9.4",
+     "0.26",
+     "3.1",
+     "6.3",
+     "9.7%",
+     "4.9",
+     "79%",
+     "2.0",
+     "32%",
+     "1.5",
+     "1.43"
+    ],
+    [
+     "2019",
+     "67.2",
+     "3.9%",
+     "$5.53",
+     "9.7",
+     "0.24",
+     "4.1",
+     "5.6",
+     "8.3%",
+     "5.3",
+     "95%",
+     "3.0",
+     "54%",
+     "2.7",
+     "1.41"
+    ],
+    [
+     "2020",
+     "70.4",
+     "4.8%",
+     "$5.52",
+     "10.6",
+     "0.26",
+     "4.2",
+     "6.4",
+     "9.1%",
+     "5.5",
+     "86%",
+     "2.0",
+     "31%",
+     "6.4",
+     "1.39"
+    ],
+    [
+     "2021",
+     "79.5",
+     "12.9%",
+     "$6.26",
+     "11.6",
+     "0.30",
+     "4.5",
+     "7.2",
+     "9.0%",
+     "5.8",
+     "81%",
+     "0.1",
+     "2%",
+     "0.1",
+     "1.39"
+    ],
+    [
+     "2022",
+     "86.4",
+     "8.7%",
+     "$6.73",
+     "10.8",
+     "0.34",
+     "5.0",
+     "5.9",
+     "6.8%",
+     "6.2",
+     "105%",
+     "1.5",
+     "26%",
+     "0.9",
+     "1.39"
+    ],
+    [
+     "2023",
+     "91.5",
+     "5.9%",
+     "$7.62",
+     "13.4",
+     "0.38",
+     "5.3",
+     "8.1",
+     "8.9%",
+     "6.7",
+     "82%",
+     "1.0",
+     "12%",
+     "0.3",
+     "1.38"
+    ],
+    [
+     "2024",
+     "91.8",
+     "0.4%",
+     "$8.16",
+     "12.5",
+     "0.36",
+     "5.0",
+     "7.5",
+     "8.2%",
+     "7.2",
+     "96%",
+     "1.0",
+     "13%",
+     "0.3",
+     "1.38"
+    ],
+    [
+     "2025",
+     "93.9",
+     "2.3%",
+     "$8.14",
+     "12.1",
+     "0.29",
+     "3.9",
+     "8.2",
+     "8.7%",
+     "7.6",
+     "93%",
+     "1.0",
+     "12%",
+     "3.4",
+     "1.37"
+    ],
+    [
+     "9M 2026",
+     "68.9",
+     "+6.7%",
+     "$6.15",
+     "8.0",
+     "0.24",
+     "2.1",
+     "5.9",
+     "8.5%",
+     "5.9",
+     "101%",
+     "0.7",
+     "13%",
+     "0.1",
+     "1.37"
+    ],
+    {
+     "cells": [
+      "Cum. 2018–25",
+      "645.3",
+      "",
+      "",
+      "90.1",
+      "2.4",
+      "35.0",
+      "55.2",
+      "8.5%",
+      "49.3",
+      "89%",
+      "11.6",
+      "21%",
+      "15.5",
+      "−4%"
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "FCF = operating cash flow – capital spending + proceeds from PP&E sales (PepsiCo’s definition). Acquisitions = cash paid for businesses and affiliate stakes. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000077476.json), Q3 2026 release. Built with Claude."
+  },
+  "incentives": {
+   "columns": [
+    "Component",
+    "Weight",
+    "Metric",
+    "~Latest outcome"
+   ],
+   "rows": [
+    [
+     "**Annual cash incentive**",
+     "—",
+     "Organic revenue, core constant-currency EPS (or profit) change, free cash flow, relative market share",
+     "2025: organic 1.7% vs 3.0% target; core cc EPS 0% vs 7.0%; FCF $10.0B vs $9.9B. Average NEO payout 77%"
+    ],
+    [
+     "**Performance stock units (66% of long-term pay)**",
+     "50%",
+     "3-year average core constant-currency EPS change",
+     "2023–25: 7.7% vs 7.2% target"
+    ],
+    [
+     "****",
+     "50%",
+     "3-year average organic revenue (price and volume count the same)",
+     "2023–25: 4.4% vs 5.0% target. Units paid 88.4%"
+    ],
+    [
+     "**Long-term cash (34% of long-term pay)**",
+     "100%",
+     "3-year total shareholder return vs proxy peers",
+     "2023–25: 25th percentile, paid 50%"
+    ],
+    [
+     "**Return on invested capital**",
+     "0%",
+     "Not measured anywhere in the plan",
+     "—"
+    ]
+   ],
+   "note": "Source: PepsiCo 2026 proxy statement, pages 9, 57 and 61. Built with Claude."
+  },
+  "drivers": {
+   "columns": [
+    "Division",
+    "FY2025 organic volume",
+    "FY2025 pricing",
+    "FY2025 organic",
+    "~36 weeks 2026: volume / price / organic"
+   ],
+   "rows": [
+    [
+     "PepsiCo Foods North America",
+     "−2%",
+     "+1%",
+     "**−2%**",
+     "+1% / −1% / **0%**"
+    ],
+    [
+     "PepsiCo Beverages North America",
+     "−3.5%",
+     "+5%",
+     "+1%",
+     "−3% / +4% / +1%"
+    ],
+    [
+     "International Beverages Franchise",
+     "0%",
+     "+2%",
+     "+3%",
+     "+4% / +4% / +8%"
+    ],
+    [
+     "EMEA",
+     "−3%",
+     "+9%",
+     "+6%",
+     "+3% / +4% / +7%"
+    ],
+    [
+     "LatAm Foods",
+     "0%",
+     "+4%",
+     "+4.5%",
+     "0% / +4% / +4.5%"
+    ],
+    [
+     "APAC Foods",
+     "+5%",
+     "−3%",
+     "+1.5%",
+     "+10% / −2% / +9%"
+    ],
+    [
+     "**Total**",
+     "**≈−1.5%**",
+     "**≈+3.2%**",
+     "**+1.7%**",
+     "**+0.5% / +2% / +2.7%**"
+    ]
+   ],
+   "note": "Unit = case volume. Source: [Q4/FY2025 release](https://www.sec.gov/Archives/edgar/data/77476/000007747626000009/q420258-kxexhibit991.htm), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/77476/000007747626000050/q320268-kxexhibit991.htm). Built with Claude."
+  },
+  "five_year": {
+   "columns": [
+    "$B, except per share",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "FY2026E"
+   ],
+   "rows": [
+    [
+     "Net revenue",
+     "79.5",
+     "86.4",
+     "91.5",
+     "91.9",
+     "**93.9**",
+     "≈99.5"
+    ],
+    [
+     "Organic revenue growth",
+     "~+8%",
+     "~+14%",
+     "~+10%",
+     "~+2%",
+     "**+1.7%**",
+     "≈+3%"
+    ],
+    [
+     "Operating income (GAAP)",
+     "11.2",
+     "11.5",
+     "12.0",
+     "12.9",
+     "**11.5**",
+     "—"
+    ],
+    [
+     "Operating margin (GAAP)",
+     "14.0%",
+     "13.3%",
+     "13.1%",
+     "14.0%",
+     "**12.2%**",
+     "—"
+    ],
+    [
+     "Core EPS",
+     "$6.26",
+     "$6.73",
+     "$7.62",
+     "$8.16",
+     "**$8.14**",
+     "**≈$8.38**"
+    ],
+    [
+     "Diluted EPS",
+     "$5.49",
+     "$6.42",
+     "$6.56",
+     "$6.95",
+     "$6.00",
+     "—"
+    ],
+    [
+     "Operating cash flow",
+     "11.6",
+     "10.8",
+     "13.4",
+     "12.5",
+     "12.1",
+     "—"
+    ],
+    [
+     "Capex",
+     "4.6",
+     "5.2",
+     "5.5",
+     "5.3",
+     "4.4",
+     "<5% of sales"
+    ],
+    [
+     "Maintenance capex (est.)",
+     "2.1",
+     "3.2",
+     "4.1",
+     "5.2",
+     "3.8",
+     "—"
+    ],
+    [
+     "**Owner earnings**",
+     "9.3",
+     "7.2",
+     "9.0",
+     "6.9",
+     "**8.0**",
+     "—"
+    ],
+    [
+     "Owner earnings per share",
+     "$6.67",
+     "$5.22",
+     "$6.52",
+     "$5.04",
+     "**$5.83**",
+     "—"
+    ],
+    [
+     "Owner-earnings conversion (÷ core NI)",
+     "107%",
+     "77%",
+     "86%",
+     "62%",
+     "**72%**",
+     "—"
+    ],
+    [
+     "Dividends",
+     "5.8",
+     "6.2",
+     "6.7",
+     "7.2",
+     "7.6",
+     "7.9"
+    ],
+    [
+     "Dividends ÷ owner earnings",
+     "63%",
+     "85%",
+     "74%",
+     "**104%**",
+     "**96%**",
+     "—"
+    ],
+    [
+     "Buybacks",
+     "0.1",
+     "1.5",
+     "1.0",
+     "1.0",
+     "1.0",
+     "1.0"
+    ],
+    [
+     "Diluted shares (B)",
+     "1.39",
+     "1.39",
+     "1.38",
+     "1.38",
+     "**1.37**",
+     "≈1.37"
+    ],
+    [
+     "Net share change",
+     "0.0%",
+     "0.0%",
+     "−0.7%",
+     "0.0%",
+     "**−0.7%**",
+     "≈−0.3%"
+    ],
+    [
+     "SBC ÷ owner earnings",
+     "3.2%",
+     "4.7%",
+     "4.2%",
+     "5.2%",
+     "**3.6%**",
+     "—"
+    ],
+    [
+     "Net debt incl. leases",
+     "36.4",
+     "36.1",
+     "37.1",
+     "38.5",
+     "**43.5**",
+     "—"
+    ],
+    [
+     "Invested capital",
+     "52.4",
+     "53.3",
+     "55.6",
+     "56.5",
+     "63.9",
+     "—"
+    ],
+    [
+     "**ROIC** (GAAP)",
+     "16.6%",
+     "18.1%",
+     "17.3%",
+     "18.4%",
+     "**14.6%**",
+     "—"
+    ],
+    [
+     "ROIC (core)",
+     "—",
+     "—",
+     "—",
+     "—",
+     "18.9%",
+     "—"
+    ],
+    [
+     "**3-yr incremental ROIC** (GAAP)",
+     "—",
+     "—",
+     "—",
+     "—",
+     "**−3.2%**",
+     "—"
+    ],
+    [
+     "Reinvestment rate (incl. $3.4B M&A)",
+     "—",
+     "—",
+     "—",
+     "—",
+     "≈47%",
+     "—"
+    ],
+    [
+     "SBC % of revenue",
+     "0.38%",
+     "0.39%",
+     "0.42%",
+     "0.39%",
+     "0.31%",
+     "—"
+    ],
+    [
+     "FCF conversion (FCF ÷ NI)",
+     "92%",
+     "63%",
+     "87%",
+     "75%",
+     "93%",
+     "≥80%"
+    ],
+    [
+     "Net debt ÷ EBITDA (GAAP)",
+     "—",
+     "—",
+     "—",
+     "—",
+     "2.9×",
+     "—"
+    ],
+    [
+     "Net debt ÷ EBITDA (core)",
+     "—",
+     "—",
+     "—",
+     "—",
+     "2.4×",
+     "—"
+    ],
+    [
+     "Interest coverage",
+     "—",
+     "—",
+     "—",
+     "—",
+     "10.3×",
+     "—"
+    ],
+    [
+     "SBC-adjusted accruals ÷ assets",
+     "—",
+     "—",
+     "−4.1%",
+     "−2.6%",
+     "−3.4%",
+     "—"
+    ],
+    [
+     "Beneish M-score (flag > −1.78)",
+     "—",
+     "—",
+     "−2.67",
+     "−2.67",
+     "−2.54",
+     "—"
+    ]
+   ],
+   "note": "Fiscal years end late December. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000077476.json); core EPS and organic growth from releases; FY2026E from guidance [Management guidance]. Capital rows [Derived]: invested capital = equity + debt + operating leases − cash and short-term investments; owner earnings = CFO − SBC − maintenance capex (capex − 0.296 × Δ revenue). Built with Claude."
+  },
+  "latest_quarter": {
+   "columns": [
+    "$M, except EPS",
+    "Q3 2026",
+    "Q3 2025",
+    "Change",
+    "YTD 2026",
+    "YTD change"
+   ],
+   "rows": [
+    [
+     "Net revenue",
+     "**25,274**",
+     "23,937",
+     "+5.6%",
+     "68,898",
+     "+6.7%"
+    ],
+    [
+     "Organic revenue",
+     "—",
+     "—",
+     "**+3.1%**",
+     "—",
+     "+2.7%"
+    ],
+    [
+     "PFNA net revenue",
+     "**6,504**",
+     "6,526",
+     "**−0.3%**",
+     "19,204",
+     "−0.1%"
+    ],
+    [
+     "PFNA core cc operating profit",
+     "—",
+     "—",
+     "**−12%**",
+     "—",
+     "−8%"
+    ],
+    [
+     "Core operating margin",
+     "16.9%",
+     "17.3%",
+     "−35 bps",
+     "16.5%",
+     "−25 bps"
+    ],
+    [
+     "Core EPS",
+     "**$2.34**",
+     "$2.29",
+     "+2%",
+     "$6.15",
+     "+5%"
+    ],
+    [
+     "Core constant-currency EPS",
+     "—",
+     "—",
+     "+1.5%",
+     "—",
+     "+2%"
+    ],
+    [
+     "Operating cash flow",
+     "—",
+     "—",
+     "—",
+     "7,950",
+     "+45%"
+    ]
+   ],
+   "note": "Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/77476/000007747626000050/q320268-kxexhibit991.htm), Oct 8, 2026. Built with Claude."
+  },
+  "levers": {
+   "columns": [
+    "Lever",
+    "Contribution now",
+    "Runway",
+    "~Evidence",
+    "Management intent",
+    "Stage"
+   ],
+   "rows": [
+    [
+     "Market growth",
+     "~0–1 pt",
+     "Indefinite",
+     "Developed-market volumes flat; Campbell's snacks −6% organic says the US salty pool is shrinking",
+     "Portfolio evolution",
+     "Proven"
+    ],
+    [
+     "Share gain",
+     "+ in NA snacks, revenue-neutral",
+     "1–2 yrs",
+     "PFNA volume share up in every 2026 quarter; Q3 volume +0.5% against price −1%",
+     "Affordability packs, channel execution",
+     "Scaling (unpaid)"
+    ],
+    [
+     "Price and mix",
+     "Negative in NA foods; +2 pts group",
+     "Exhausted in NA",
+     "PFNA effective net pricing −1% YTD; international pricing +4%",
+     "Reset price points",
+     "Proven (reversing)"
+    ],
+    [
+     "Attach / new products",
+     "~+1 pt",
+     "3–5 yrs",
+     "Protein, fibre, functional hydration, zero sugar; Siete, Poppi",
+     "More innovation spend",
+     "Scaling"
+    ],
+    [
+     "New geographies",
+     "**+8% organic international in Q3**",
+     "5+ yrs",
+     "Every international segment grew; APAC volume +10% YTD; international margin +105 bps [secondary]",
+     "\"Build upon the strength of International\"",
+     "Proven"
+    ],
+    [
+     "M&A",
+     "+1.7 pts reported in Q3",
+     "Episodic",
+     "$3.4B in 2025, debt-funded",
+     "Bolt-ons",
+     "Proven (negative ROIIC, §1)"
+    ],
+    [
+     "Margin",
+     "**Negative in 2026**",
+     "2027–28",
+     "Core margin −25 bps YTD; NA margin guided down in Q4; new structural cost cuts not yet sized",
+     "≥100 bps 2026–28 (Elliott)",
+     "Behind plan"
+    ],
+    [
+     "Share count",
+     "~0.3%/yr net",
+     "Indefinite",
+     "$1.0B/yr buyback; dividend first",
+     "Dividend King",
+     "Proven"
+    ]
+   ],
+   "note": "Source: company filings and calls. Built with Claude."
+  },
+  "moat": {
+   "columns": [
+    "Read",
+    "Call",
+    "~Evidence"
+   ],
+   "rows": [
+    [
+     "Mechanism",
+     "**Branding** + **scale economies**",
+     "Several $1B+ brands; a direct-store-delivery network that controls shelf placement, where distribution *is* the barrier. ROIC of 15–19% against an 8% cost of capital puts EPV ÷ invested capital at ≈1.8–2.4: a franchise"
+    ],
+    [
+     "Trend",
+     "**Narrowing**",
+     "Pricing power, the test that matters for a staple: FY2025 took +3.2% price and lost 1.5% of volume. 2026 gives price back (PFNA −1%) and wins volume, but not revenue"
+    ],
+    [
+     "Profit pool",
+     "Shifting to retailers and private label in the trade-down",
+     "DSD is the counterweight to buyer power; snacks plus beverages gives negotiating leverage neither a pure snack nor a pure beverage company holds"
+    ],
+    [
+     "Customer",
+     "Households buying affordable indulgence many times a week",
+     "Retention proxy is volume share: lost in FY2025, recovering in 2026 at a price. Repeat, CAC and LTV are n/d"
+    ]
+   ],
+   "note": "7 Powers vocabulary (Helmer). Assessments are the author’s. Built with Claude."
+  },
+  "competitors": {
+   "columns": [
+    "Competitor",
+    "~Position",
+    "~Threat"
+   ],
+   "rows": [
+    [
+     "**Private label / value snacks**",
+     "Structurally advantaged in trade-down",
+     "The reason NA convenient-foods net pricing turned negative"
+    ],
+    [
+     "**Campbell's** (Kettle, Cape Cod, Snyder's)",
+     "A leading branded salty-snack portfolio, now retreating",
+     "Weakening, not strengthening. In Q4 FY2026, snacks organic sales fell 6% and operating earnings 34%, and it cut its dividend 36% on Sep 3 ([247 Wall St](https://247wallst.com/investing/2026/09/04/campbells-just-cut-a-dividend-it-had-not-touched-since-2001-and-the-snack-aisle-is-why/)) [secondary]"
+    ],
+    [
+     "**Coca-Cola**",
+     "Larger pure-play beverage company with a stronger international system",
+     "Beats PepsiCo in beverages standalone; PBNA volume −2% in Q3"
+    ],
+    [
+     "**Mondelēz**",
+     "Global snacking scale, weighted to sweet",
+     "Same shelf, same trade-down consumer; adjacent rather than head-on"
+    ],
+    [
+     "**Celsius / functional upstarts**",
+     "Fast-growing energy and functional niches",
+     "Where beverage category growth actually is. See [CELH](../CELH/CELH.md)"
+    ]
+   ],
+   "note": "Source: company filings and press; threat reads are the author’s. Built with Claude."
+  },
+  "promises": {
+   "columns": [
+    "~Promised",
+    "Where, when",
+    "~Outcome"
+   ],
+   "rows": [
+    [
+     "Long-term algorithm: 4–6% organic revenue, high-single-digit core cc EPS",
+     "CAGNY, 2022–23",
+     "🔴 FY2024 ~+2% / +9%; FY2025 +1.7% / 0%; FY2026E ~+3% / +1–2%"
+    ],
+    [
+     "FY2026: +4% to +6% core cc EPS",
+     "Q4 2025 release, Feb 2026; affirmed July",
+     "🔴 Cut to +1% to +2% on Oct 8"
+    ],
+    [
+     "≥100 bps core operating margin expansion 2026–28; 20% SKU cut; NA supply-chain review by late 2026",
+     "Elliott agreement, Dec 2025",
+     "🔴 Year one going backwards: core margin −25 bps YTD, Q4 NA guided down; the review is unannounced"
+    ]
+   ],
+   "note": "Source: CAGNY 2022–23, releases, the December 2025 Elliott agreement. Built with Claude."
+  },
+  "risks": {
+   "columns": [
+    "~Risk",
+    "Impact",
+    "Prob.",
+    "Priced in?",
+    "~Would break the thesis if…"
+   ],
+   "rows": [
+    [
+     "**Volume bought with price, permanently**: PFNA share up, revenue −0.3%, core profit −12%",
+     "High",
+     "**High**",
+     "Mostly: the price implies 63% Bear odds",
+     "PFNA revenue stays flat to down for two more quarters with core margin still falling (Breaks if)"
+    ],
+    [
+     "**Margin programme slips a year**: ≥100 bps 2026–28 target, year one negative",
+     "High",
+     "Med-High",
+     "🔴 Partly",
+     "The Q4 release gives no sized savings figure (test 1) or guides FY2027 below +4% (test 2)"
+    ],
+    [
+     "**Input-cost inflation with tariff refunds non-recurring**: 4 pts of Q3 core profit growth were refunds",
+     "Med",
+     "Med-High",
+     "🔴 **No**",
+     "FY2027 gross margin guided down"
+    ],
+    [
+     "**Dividend at ~99% of owner earnings**; buybacks and M&A debt-funded",
+     "Med",
+     "Med",
+     "🔴 **No**: the yield is read as safe",
+     "Owner earnings fall below the dividend in FY2026 while net debt ÷ EBITDA rises above 3× (test 3)"
+    ],
+    [
+     "**Incremental return stays negative**",
+     "High",
+     "High",
+     "🔴 **No**",
+     "FY2026 core margin down with capex above 5% of sales (test 3)"
+    ],
+    [
+     "**GLP-1 plus private label shrink salty snacks**",
+     "High",
+     "Low-Med",
+     "Partly: the core of the discount",
+     "Category volumes decline for consecutive quarters independent of price"
+    ],
+    [
+     "**Elliott-imposed strategy** with no board seat behind it",
+     "Med",
+     "Certain",
+     "Yes, structural",
+     "The supply-chain review lands without a quantified margin commitment (test 1)"
+    ],
+    [
+     "~~Back-half-loaded guide~~",
+     "—",
+     "—",
+     "—",
+     "🔴 *Realised Oct 8 (§1).*"
+    ],
+    [
+     "~~Elliott proxy battle~~",
+     "—",
+     "—",
+     "✅",
+     "*Settled December 2025 without a proxy fight.*"
+    ]
+   ],
+   "note": "Filtered for materiality. Assessments are the author’s. Built with Claude."
+  },
+  "catalysts": {
+   "columns": [
+    "Date",
+    "Catalyst",
+    "~Why it matters"
+   ],
+   "rows": [
+    [
+     "📅 Late 2026, overdue",
+     "Elliott-committed North America supply-chain review",
+     "Feeds test 1"
+    ],
+    [
+     "📅 Dec 1",
+     "Joaquin Duato joins the board",
+     "Governance quality; not a thesis input"
+    ],
+    [
+     "📅 Early Feb 2027",
+     "Q4/FY2026 release with FY2027 guidance",
+     "Resolves tests 1 and 2"
+    ],
+    [
+     "📅 Feb 2027",
+     "FY2026 10-K; expected 55th consecutive dividend increase",
+     "Resolves test 3; dividend versus owner earnings"
+    ],
+    [
+     "✅ Oct 8, 2026",
+     "~~Q3 2026 results~~",
+     "**Delivered**: both kill criteria failed; verb to Watch"
+    ]
+   ],
+   "note": "Source: company announcements. Built with Claude."
+  },
+  "sentiment": {
+   "columns": [
+    "Signal",
+    "~Read"
+   ],
+   "rows": [
+    [
+     "Analysts",
+     "Consensus Hold (24), mean target $142.41, down from $148.64 before Q3; Barclays $133 → $126 (Equal Weight), JPMorgan $138 → $137 (Neutral) [Analyst consensus]"
+    ],
+    [
+     "Short interest",
+     "23.29M shares, 1.71% of float, down 10% month over month"
+    ],
+    [
+     "Insiders (90 days, Form 4)",
+     "Directors’ code-A deferred-compensation awards on Oct 5; General Counsel sold 2,900 shares ($405K) on Jul 29; no open-market purchases at the low"
+    ],
+    [
+     "BAIT",
+     "Single (B): a stock near its low that rose on a guidance cut; the share-gain analytical edge is not yet converting to revenue"
+    ]
+   ],
+   "note": "Context only; none of it moves a verb. Source: [StockAnalysis](https://stockanalysis.com/stocks/pep/statistics/), [EDGAR Form 4](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000077476&type=4). Built with Claude."
+  }
+ },
+ "charts": {
+  "stock_record": {
+   "type": "line",
+   "file": "series/stock_record.json",
+   "baseline": 100,
+   "tableEvery": 6,
+   "aria": "Total return index, October 2018 = 100, for PepsiCo, Coca-Cola, the S&P 500 and Mondelez through October 2026",
+   "note": "Total return including reinvested dividends, monthly, October 2018 = 100. Source: Yahoo Finance adjusted closes. Built with Claude."
+  },
+  "profit_mix": {
+   "type": "bar100",
+   "keys": [
+    "PFNA",
+    "PBNA",
+    "International",
+    "IB Franchise"
+   ],
+   "unit": "$M",
+   "valueLabel": "Core segment profit",
+   "prefix": "$",
+   "suffix": "M",
+   "rows": [
+    {
+     "label": "FY2024",
+     "values": [
+      6982,
+      3104,
+      4724,
+      1708
+     ]
+    },
+    {
+     "label": "FY2025",
+     "values": [
+      6545,
+      3285,
+      5179,
+      1856
+     ]
+    },
+    {
+     "label": "9M 2026",
+     "values": [
+      4256,
+      2643,
+      4216,
+      1530
+     ]
+    }
+   ],
+   "aria": "Share of core segment operating profit by segment group, FY2024 to 9M 2026",
+   "note": "Share of core segment operating profit, before corporate costs. International = EMEA + LatAm Foods + Asia Pacific Foods. Source: company releases. Built with Claude."
+  }
+ },
+ "model_build": {
+  "note": "Base case. Margins move linearly from the 2026 estimate to the 2031 input. FY2026E is calibrated to guidance (core EPS +2.5–3.5%, about $8.38). Source: author's model (model.json). Built with Claude."
+ },
+ "scenarios": {
+  "note": "Annual return = price change to the 2031 value plus today's [[yield]] dividend yield. Probabilities apply to Bull, Base and Bear; the Priced-in and Hurdle rows are solved by the model at today's 15.3× multiple. Built with Claude."
+ },
+ "return_math": {
+  "epv": "$65–75 per share (five-year owner earnings of $8.1B ÷ 8%; enterprise basis at the 14.2% median margin ≈$65); about 42% of the price pays for growth. The Bear ([[Bear.value]]) sits above EPV because it keeps inflation-level growth after year five; a no-growth Bear would be ≈$75.",
+  "base_rate": "The Bull needs ~4% nominal (~1.5% real) sales growth, the median for companies above $50B of sales: plausible. The Base reconciles to ~3% organic growth and a flat margin: probable. The Bear is now as probable as the Base, because 2026 is its first year of evidence.",
+  "year_ten": "Mature ex-growth: the value is a 3–4% grower's multiple plus the yield. Nothing in the growth levers changes that, so the terminal multiple does the work.",
+  "rr_note": ". Flattered mechanically: spot sits only ~11% above the Bear.",
+  "note": "Computed rows come from model.json; EPV, base rate and year ten are the author's. Built with Claude."
+ },
+ "sources": [
+  {
+   "label": "Q3 2026 release (8-K Ex-99.1)",
+   "url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000050/q320268-kxexhibit991.htm"
+  },
+  {
+   "label": "Q4/FY2025 release",
+   "url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000009/q420258-kxexhibit991.htm"
+  },
+  {
+   "label": "FY2025 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm"
+  },
+  {
+   "label": "Q3 2026 call transcript (Benzinga)",
+   "url": "https://www.benzinga.com/news/26/10/62244871/pepsico-q3-2026-earnings-call-complete-transcript"
+  },
+  {
+   "label": "2026 proxy",
+   "url": "https://www.sec.gov/Archives/edgar/data/77476/000130817926000169/pep015012_def14a.htm"
+  },
+  {
+   "label": "Elliott letter",
+   "url": "https://elliottletters.com/pepsico"
+  },
+  {
+   "label": "Elliott agreement",
+   "url": "https://www.pepsico.com/en/newsroom/press-releases/2025/pepsico-announces-priorities-to-enhance-shareholder-value-and-provides-preliminary-2026-outlook"
+  },
+  {
+   "label": "SEC XBRL company facts",
+   "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000077476.json"
+  },
+  {
+   "label": "Q3 call excerpts (raw)",
+   "url": "../../../raw/PEP/transcripts/2026-10-08_Q3-2026_call-excerpts.txt"
+  },
+  {
+   "label": "Q3 release (raw)",
+   "url": "../../../raw/PEP/press-releases/2026-10-08_Q3-2026_earnings.txt"
+  },
+  {
+   "label": "Campbell's dividend cut (247 Wall St)",
+   "url": "https://247wallst.com/investing/2026/09/04/campbells-just-cut-a-dividend-it-had-not-touched-since-2001-and-the-snack-aisle-is-why/"
+  },
+  {
+   "label": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/PEP/"
+  },
+  {
+   "label": "StockAnalysis",
+   "url": "https://stockanalysis.com/stocks/pep/statistics/"
+  },
+  {
+   "label": "Base rates",
+   "url": "../../frameworks/compounding.md"
+  }
+ ],
+ "vars": {}
+}

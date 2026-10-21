@@ -1,0 +1,131 @@
+{
+ "spot": 97.87,
+ "dps": 2.48,
+ "discount_rate": 0.09,
+ "hurdle": 0.13,
+ "last_year": 2031,
+ "fy_prefix": "FY",
+ "eps_label": "Non-GAAP EPS",
+ "segment_names": {
+  "NA": "North America",
+  "INTL": "International",
+  "CD": "Channel Development"
+ },
+ "base": {
+  "year": 2026,
+  "shares": 1.14,
+  "corp_pct": 0.04,
+  "other": -0.47,
+  "tax": 0.24,
+  "segments": {
+   "NA": {
+    "rev": 28.9,
+    "margin": 0.126
+   },
+   "INTL": {
+    "rev": 6.75,
+    "margin": 0.18
+   },
+   "CD": {
+    "rev": 2.25,
+    "margin": 0.45
+   }
+  },
+  "sbc_pct": 0.009,
+  "eps_excludes_sbc": false,
+  "oe_conversion": 1.0
+ },
+ "other_growth": 0.0,
+ "cases": {
+  "Bull": {
+   "role": "bull",
+   "prob": 0.25,
+   "pe": 28,
+   "corp_pct": 0.035,
+   "share_change": -0.003,
+   "segments": {
+    "NA": {
+     "g": 0.06,
+     "m": 0.178
+    },
+    "INTL": {
+     "g": 0.08,
+     "m": 0.215
+    },
+    "CD": {
+     "g": 0.05,
+     "m": 0.46
+    }
+   },
+   "tier": "Plausible",
+   "story": "FY2028 at the top of the target ($4.00), then ~11%/yr on international royalties and North America margin above 17%; 28\u00d7, capped so implied growth stays under the 10-year Treasury."
+  },
+  "Base": {
+   "role": "base",
+   "prob": 0.5,
+   "pe": 26,
+   "corp_pct": 0.036,
+   "share_change": 0.0,
+   "segments": {
+    "NA": {
+     "g": 0.05,
+     "m": 0.161
+    },
+    "INTL": {
+     "g": 0.065,
+     "m": 0.2
+    },
+    "CD": {
+     "g": 0.04,
+     "m": 0.45
+    }
+   },
+   "tier": "Probable",
+   "story": "FY2028 near the low end of the target, then ~9%/yr as North America margin rebuilds to ~16%; 26\u00d7, a normal mature-restaurant multiple."
+  },
+  "Bear": {
+   "role": "bear",
+   "prob": 0.25,
+   "pe": 20,
+   "corp_pct": 0.039,
+   "share_change": 0.0,
+   "segments": {
+    "NA": {
+     "g": 0.035,
+     "m": 0.1415
+    },
+    "INTL": {
+     "g": 0.045,
+     "m": 0.175
+    },
+    "CD": {
+     "g": 0.02,
+     "m": 0.43
+    }
+   },
+   "tier": "Probable",
+   "story": "Margin stalls near 12% once refunds and uplift costs net out; ~5%/yr growth; 20\u00d7."
+  }
+ },
+ "diagnostics": {
+  "Priced-in": {
+   "label": "Priced-in (9%/yr)",
+   "target_return": 0.09,
+   "pe": 26,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  },
+  "Hurdle": {
+   "label": "Hurdle (13%/yr)",
+   "target_return": 0.13,
+   "pe": 26,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  }
+ },
+ "risk_free": 0.052
+}

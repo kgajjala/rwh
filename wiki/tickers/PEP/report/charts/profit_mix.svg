@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 174" width="760" height="174" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">
+<rect x="96" y="10" width="12" height="12" rx="3" fill="#2a78d6"/>
+<text x="114" y="20" fill="#6f6e69">PFNA</text>
+<rect x="154.8" y="10" width="12" height="12" rx="3" fill="#eb6834"/>
+<text x="172.8" y="20" fill="#6f6e69">PBNA</text>
+<rect x="213.60000000000002" y="10" width="12" height="12" rx="3" fill="#1baf7a"/>
+<text x="231.60000000000002" y="20" fill="#6f6e69">International</text>
+<rect x="337.20000000000005" y="10" width="12" height="12" rx="3" fill="#eda100"/>
+<text x="355.20000000000005" y="20" fill="#6f6e69">IB Franchise</text>
+<line x1="96.0" x2="96.0" y1="36" y2="148" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="96.0" y="166" text-anchor="start" fill="#6f6e69">0%</text>
+<line x1="259.0" x2="259.0" y1="36" y2="148" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="259.0" y="166" text-anchor="middle" fill="#6f6e69">25%</text>
+<line x1="422.0" x2="422.0" y1="36" y2="148" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="422.0" y="166" text-anchor="middle" fill="#6f6e69">50%</text>
+<line x1="585.0" x2="585.0" y1="36" y2="148" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="585.0" y="166" text-anchor="middle" fill="#6f6e69">75%</text>
+<line x1="748.0" x2="748.0" y1="36" y2="148" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="748.0" y="166" text-anchor="end" fill="#6f6e69">100%</text>
+<text x="86" y="56.0" text-anchor="end" fill="#6f6e69">FY2024</text>
+<rect x="96.0" y="40" width="274.6" height="24" fill="#2a78d6"/>
+<text x="233.3" y="56.0" text-anchor="middle" fill="#ffffff" font-weight="600">42%</text>
+<rect x="372.6" y="40" width="120.5" height="24" fill="#eb6834"/>
+<text x="432.9" y="56.0" text-anchor="middle" fill="#ffffff" font-weight="600">19%</text>
+<rect x="495.1" y="40" width="184.5" height="24" fill="#1baf7a"/>
+<text x="587.3" y="56.0" text-anchor="middle" fill="#1a1a19" font-weight="600">29%</text>
+<rect x="681.6" y="40" width="66.4" height="24" fill="#eda100"/>
+<text x="714.8" y="56.0" text-anchor="middle" fill="#1a1a19" font-weight="600">10%</text>
+<text x="86" y="98.0" text-anchor="end" fill="#6f6e69">FY2025</text>
+<rect x="96.0" y="82" width="252.0" height="24" fill="#2a78d6"/>
+<text x="222.0" y="98.0" text-anchor="middle" fill="#ffffff" font-weight="600">39%</text>
+<rect x="350.0" y="82" width="125.0" height="24" fill="#eb6834"/>
+<text x="412.5" y="98.0" text-anchor="middle" fill="#ffffff" font-weight="600">19%</text>
+<rect x="477.0" y="82" width="198.2" height="24" fill="#1baf7a"/>
+<text x="576.1" y="98.0" text-anchor="middle" fill="#1a1a19" font-weight="600">31%</text>
+<rect x="677.2" y="82" width="70.8" height="24" fill="#eda100"/>
+<text x="712.6" y="98.0" text-anchor="middle" fill="#1a1a19" font-weight="600">11%</text>
+<text x="86" y="140.0" text-anchor="end" fill="#6f6e69">9M 2026</text>
+<rect x="96.0" y="124" width="218.4" height="24" fill="#2a78d6"/>
+<text x="205.2" y="140.0" text-anchor="middle" fill="#ffffff" font-weight="600">34%</text>
+<rect x="316.4" y="124" width="134.3" height="24" fill="#eb6834"/>
+<text x="383.6" y="140.0" text-anchor="middle" fill="#ffffff" font-weight="600">21%</text>
+<rect x="452.7" y="124" width="215.4" height="24" fill="#1baf7a"/>
+<text x="560.4" y="140.0" text-anchor="middle" fill="#1a1a19" font-weight="600">33%</text>
+<rect x="670.1" y="124" width="77.9" height="24" fill="#eda100"/>
+<text x="709.1" y="140.0" text-anchor="middle" fill="#1a1a19" font-weight="600">12%</text>
+</svg>

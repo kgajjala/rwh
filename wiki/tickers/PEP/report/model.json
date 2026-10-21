@@ -1,0 +1,25 @@
+{
+  "spot": 128.38, "dps": 5.92, "discount_rate": 0.08, "hurdle": 0.13, "risk_free": 0.0524,
+  "last_year": 2031, "fy_prefix": "FY", "eps_label": "Core EPS",
+  "segment_names": {"PFNA": "PepsiCo Foods North America", "PBNA": "PepsiCo Beverages North America", "INTL": "International (incl. IB Franchise)"},
+  "actual": {"year": 2025, "segments": {"PFNA": {"rev": 27.528, "op": 6.545}, "PBNA": {"rev": 28.197, "op": 3.285}, "INTL": {"rev": 38.200, "op": 7.035}},
+             "corp": -1.953, "ni": 11.17, "shares": 1.373, "eps": 8.14},
+  "base": {"year": 2026, "shares": 1.368, "corp_pct": 0.020, "other": -1.24, "tax": 0.21, "sbc_pct": 0.003, "eps_excludes_sbc": false, "oe_conversion": 0.80,
+           "segments": {"PFNA": {"rev": 27.50, "margin": 0.221}, "PBNA": {"rev": 30.00, "margin": 0.115}, "INTL": {"rev": 42.00, "margin": 0.196}}},
+  "other_growth": 0.02,
+  "cases": {
+    "Bull": {"role": "bull", "prob": 0.22, "pe": 21.0, "corp_pct": 0.017, "dilution": 0.002, "buyback": 0.005, "tier": "Plausible",
+             "story": "The affordability reset works: NA volume starts carrying revenue, the cost programme lifts margins, international compounds; core EPS ~7%/yr. 21× (26× owner earnings).",
+             "segments": {"PFNA": {"g": 0.020, "m": 0.235}, "PBNA": {"g": 0.030, "m": 0.130}, "INTL": {"g": 0.060, "m": 0.210}}},
+    "Base": {"role": "base", "prob": 0.40, "pe": 19.0, "corp_pct": 0.019, "dilution": 0.002, "buyback": 0.005, "tier": "Probable",
+             "story": "International carries growth; productivity roughly offsets NA price investment; core EPS ~4%/yr. 19× (24× owner earnings).",
+             "segments": {"PFNA": {"g": 0.010, "m": 0.220}, "PBNA": {"g": 0.020, "m": 0.115}, "INTL": {"g": 0.050, "m": 0.200}}},
+    "Bear": {"role": "bear", "prob": 0.38, "pe": 13.6, "corp_pct": 0.020, "dilution": 0.002, "buyback": 0.005, "tier": "Probable",
+             "story": "Price cuts buy share but never margin; GLP-1 and private label shrink salty snacks; EPS flat at ~$8.4, then inflation-only growth. 13.6× core (17× owner earnings).",
+             "segments": {"PFNA": {"g": -0.010, "m": 0.200}, "PBNA": {"g": 0.010, "m": 0.100}, "INTL": {"g": 0.035, "m": 0.190}}}
+  },
+  "diagnostics": {
+    "Priced-in": {"label": "Priced-in (8%/yr)", "target_return": 0.08, "pe": 15.3, "path": ["Bear", "Base"]},
+    "Hurdle": {"label": "Hurdle (13%/yr)", "target_return": 0.13, "pe": 15.3, "path": ["Base", "Bull"]}
+  }
+}

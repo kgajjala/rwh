@@ -2,19 +2,19 @@
 
 ::updates
 
-On October 25, 2021, Hertz said it would buy 100,000 Teslas, and Tesla's market value passed $1 trillion for the first time. At the end of that November the stock closed at about $382, split-adjusted. Yesterday, October 20, 2026, it closed at $373.71.
+On October 25, 2021, Hertz said it would buy 100,000 Teslas, and Tesla's market value passed $1 trillion for the first time. At the end of that November the stock closed at about $382, split-adjusted. On October 21, 2026, the day it reported its third quarter, it closed at $386.47.
 
-The business has changed a great deal in between. Tesla's revenue was $53.8 billion in 2021 and is $103.6 billion over the last twelve months. Operating income went the other way, from $6.5 billion to $4.4 billion, and diluted EPS from $1.63 to $1.08. Return on invested capital, 41% in 2022, was 7% last year. Tesla now sells about as many cars as it did in 2023, at lower prices, while spending about two and a half times as much on research as in 2021 and planning about four times as much on capital projects this year.
+The business has changed a great deal in between. Tesla's revenue was $53.8 billion in 2021 and is $103.6 billion over the last twelve months. Operating income went the other way, from $6.5 billion to $4.4 billion, and diluted EPS from $1.63 to $1.08. Return on invested capital, 38% in 2022, was under 7% last year. Tesla now sells about as many cars as it did in 2023, at lower prices, while spending about two and a half times as much on research as in 2021 and planning about four times as much on capital projects this year.
 
 Including dividends, the S&P 500 has returned 81% since the end of November 2021. Toyota has returned 22%. BYD, which outsold Tesla in the European Union this year, is down 27%. Tesla is down 2%.
 
 ::chart since_peak
 
-The stock and the business parted ways because the market stopped valuing Tesla as a car company. At $374 the stock trades at about 215 times this year's expected non-GAAP earnings and about 425 times GAAP earnings. The price is for something else: robotaxis, the FSD software that drives them, Optimus humanoid robots, and the chips and data centers behind all three. Those are real programs. Cybercabs began charging fares in Austin on September 3, about 1.5 million customers pay for FSD, and an Optimus production line is going into the old Model S and X space in Fremont. But none of them yet shows up as a line in Tesla's financial statements.
+The stock and the business parted ways because the market stopped valuing Tesla as a car company. At $386 the stock trades at about 220 times this year's expected non-GAAP earnings and about 400 times GAAP earnings. The price is for something else: robotaxis, the FSD software that drives them, Optimus humanoid robots, and the chips and data centers behind all three. Those are real programs. Cybercabs began charging fares in Austin on September 3, about 1.5 million customers pay for FSD, and an Optimus production line is going into the old Model S and X space in Fremont. But none of them yet shows up as a line in Tesla's financial statements.
 
 And now there is a new variable. On October 20, on SpaceX's earnings call, Elon Musk confirmed that Tesla and SpaceX have formed special committees to study a merger. If it happens, Tesla holders become owners of a combined company that is mostly SpaceX.
 
-This piece takes autonomy first, because that is what the price is for, then the car-and-energy core and its capital needs. Then come Musk, the capital record and the incentives, including what the merger means for a Tesla holder. I finish with valuation: what $374 assumes, and what it would take to earn 13% a year from here. Tesla reports its third quarter after the close tonight, so some of this will be tested within hours.
+This piece takes autonomy first, because that is what the price is for, then the car-and-energy core and its capital needs. Then come Musk, the capital record and the incentives, including what the merger means for a Tesla holder. I finish with valuation: what $386 assumes, and what it would take to earn 13% a year from here. The third-quarter results that came out on October 21 are in the latest update above; where they changed a fact, the text below has been updated.
 
 ## Business Overview {#overview}
 
@@ -22,7 +22,7 @@ Tesla reports revenue in three lines. **Automotive** is vehicle sales, regulator
 
 ::table segments
 
-Two things stand out. Revenue was flat from 2023 to 2025 while operating income fell by half, because prices came down and research spending rose 61% in two years, to $6.4 billion. Then in 2026 revenue started growing again: the second quarter was a record at $28.2 billion, up 26%. Operating income still fell 57% that quarter, to $398 million, because operating expenses rose 47%. Tesla is in what it calls "its largest and most exciting period of investment," and the investment runs through the income statement before it shows up anywhere else.
+Two things stand out. Revenue was flat from 2023 to 2025 while operating income fell by half, because prices came down and research spending rose 61% in two years, to $6.4 billion. Then in 2026 revenue started growing again: the second quarter was a record at $28.2 billion, up 26%, and the third held at $28.0 billion. Operating income still fell 57% in Q2, to $398 million, and 56% in Q3, to $718 million, because operating expenses rose 47% and 39%. Tesla is in what it calls "its largest and most exciting period of investment," and the investment runs through the income statement before it shows up anywhere else.
 
 ::chart revenue_mix
 
@@ -56,13 +56,13 @@ Musk added that FSD is now pulling demand for the cars themselves:
 > "For a lot of people, they're actually buying Tesla full self-driving with a car attached as opposed to a car with FSD... So, clearly, the — this is a significant demand driver."
 > — Elon Musk, Q2 2026 earnings call, July 22, 2026
 
-Fifty-five percent of North American deliveries in Q2 came with an FSD subscription. FSD is now approved in the Netherlands, Lithuania, Estonia, Denmark and Belgium. The Cybercab, which has no steering wheel or pedals, began production in the second quarter and carries paying passengers in Austin. At a Fremont visit in August, Tesla told JPMorgan analysts it is aiming for a long-run Cybercab operating cost of about $0.30 a mile. If the fares stay anywhere near what people pay today, that is an exceptional business.
+Fifty-five percent of North American deliveries in Q2 came with an FSD subscription, and the Q3 update reports a nearly 20-point sequential rise in that take rate. Paid FSD customers reached 1.74 million at the end of September, up 67% in a year. FSD is now approved in nine EU countries. The Cybercab, which has no steering wheel or pedals, began production in the second quarter and carries paying passengers in Austin. At a Fremont visit in August, Tesla told JPMorgan analysts it is aiming for a long-run Cybercab operating cost of about $0.30 a mile. If the fares stay anywhere near what people pay today, that is an exceptional business.
 
 ### Poking holes in it
 
-The first hole is that Tesla hasn't shown the business yet. A year after its first paid rides, the company has not disclosed how many robotaxis it runs, how many paid miles they drive, what a ride earns or what a mile costs. The 380,000 unsupervised miles are a cumulative figure. At 40,000–50,000 miles a year per car, that is about eight to ten vehicle-years of driving, roughly what a small taxi company in one city does in a year. Growing at double digits a week from a small base is still a small base. A business whose unit economics were good would, I think, show them; my first test is that it does.
+The first hole is that Tesla hasn't shown the business yet. A year after its first paid rides, the company has not disclosed how many robotaxis it runs, how many paid miles they drive, what a ride earns or what a mile costs. The Q3 update says cumulative unsupervised miles reached nearly two million by September 30, eight times the June figure. At 40,000–50,000 miles a year per car, that is still only 40–50 vehicle-years of driving, roughly what a mid-sized taxi company in one city does in a year. On the Q3 call Musk said the Austin Cybercab fleet had grown tenfold, without saying from what. Growing fast from a small base is still a small base. A business whose unit economics were good would, I think, show them; my first test is that it does.
 
-The second hole is regulation. On September 3, the day Cybercab started charging fares, NHTSA opened audit AQ26002 into Tesla's self-certification that certain safety standards written for cars with steering wheels do not apply to it. Musk himself named the constraint on the Q2 call: "If we injure even one person, it will be worldwide headline news. And regulators will immediately clamp down on our activities." He is right, and it means the growth rate depends on a regulator as much as on the software.
+The second hole is regulation. On September 3, the day Cybercab started charging fares, NHTSA opened audit AQ26002 into Tesla's self-certification that certain safety standards written for cars with steering wheels do not apply to it. Musk himself named the constraint on the Q2 call: "If we injure even one person, it will be worldwide headline news. And regulators will immediately clamp down on our activities." He is right, and it means the growth rate depends on a regulator as much as on the software. NHTSA has since sent a special order with 21 requests about the self-certification; Tesla's answers are due October 30 ([Yahoo Finance](https://finance.yahoo.com/markets/stocks/article/tesla-q3-preview-delivery-outlook-cash-flow-and-a-dash-of-merger-speculation-on-tap-160637755.html)).
 
 The third hole is price. On a matched Austin route, a Cybercab ride cost $7.77 against $12.10 in a Tesla Model Y robotaxi. That suggests Tesla is pricing to fill the cars, which is sensible, but it also means the per-mile revenue in a mature market may be far below what an Uber driver charges today. Tesla has already removed the FSD purchase option in most markets in favor of subscriptions, which is good for recurring revenue and makes the near-term number smaller.
 
@@ -86,7 +86,7 @@ About 14% of this year's segment profit comes from autonomy. Most of the market 
 
 The car business got worse at the margin and better in volume this year. Deliveries in the second quarter were a record 480,126, up 25%, helped by the Model YL and by FSD demand. The third quarter was flat at 486,532, down 2% from a year earlier. China set records (wholesale up 25.6% through August), while Europe did the opposite. Through August, BYD registered 177,752 vehicles in the EU against Tesla's 142,165.
 
-Auto gross margin excluding credits fell from 19.2% in Q1 to 16.3% in Q2. CFO Vaibhav Taneja said that was roughly flat once Q1's one-time warranty and tariff benefits were removed, and blamed commodity costs and the cost of subsidizing car loans as rates rose. I believe him, and it still leaves a car business with a 1–2% operating margin after the spending on the future.
+Auto gross margin excluding credits fell from 19.2% in Q1 to 16.3% in Q2, then recovered to 18.1% in Q3 on better regional and product mix. CFO Vaibhav Taneja said the Q2 dip was roughly flat once Q1's one-time warranty and tariff benefits were removed. Either way, the company's operating margin was 2.6% in Q3 after the spending on the future.
 
 Energy is the bright spot. Deployments were 13.5 GWh in Q2 and 13.7 GWh in Q3, and the backlog is strong, including sales to the data centers being built for AI: xAI alone bought $430 million of Megapacks in 2025. But the margin is falling. Storage gross margin went from 39.5% in Q1 to 20.4% in Q2, partly on a $240 million warranty charge, and Taneja said where he expects it to settle:
 
@@ -95,19 +95,19 @@ Energy is the bright spot. Deployments were 13.5 GWh in Q2 and 13.7 GWh in Q3, a
 
 That is a good business, but it is a manufacturing margin.
 
-Then there is the spending. Tesla expects more than $25 billion of capex in 2026, three times 2025's $8.5 billion, and Taneja was explicit that it keeps going:
+Then there is the spending. In July Tesla expected more than $25 billion of capex in 2026, three times 2025's $8.5 billion, and Taneja was explicit that it keeps going:
 
 > "CapEx will grow for the next two to three years as we expand our robotaxi fleet, expand our production capacity for Optimus, make investments for semiconductor fab, install solar manufacturing capacity and AI compute infrastructure... we are being opportunistic in securing certain debt facilities that will give us the capacity to borrow up to $30 billion."
 > — Vaibhav Taneja, CFO, Q2 2026 earnings call, July 22, 2026
 
-On September 29 Tesla signed those facilities: a $20 billion delayed-draw term loan, an $8 billion five-year revolver and a $2 billion 364-day revolver, with a $5 billion minimum-liquidity covenant. It says it does not plan to draw in 2026. Free cash flow was negative in Q2 for the first time since early 2024. With $43.5 billion of cash and investments, Tesla is in no danger. But a company whose core earns a 1–2% margin is now funding a chip fab (Terafab, with SpaceX and Intel), a humanoid robot, a robotaxi fleet, solar manufacturing and AI compute at the same time.
+On September 29 Tesla signed those facilities: a $20 billion delayed-draw term loan, an $8 billion five-year revolver and a $2 billion 364-day revolver, with a $5 billion minimum-liquidity covenant. It says it does not plan to draw in 2026. Free cash flow was negative in Q2 for the first time since early 2024, then positive $1.5 billion in Q3, when capex came in at $4.7 billion. On the Q3 call management cut the 2026 capex expectation to about $20 billion, to be funded "primarily from our cash flows from operations," and Musk said spending becomes "more meaningful next year" and reaches "the tens of billions in '28." With $45.4 billion of cash and investments ($35.9 billion net of debt and finance leases), Tesla is in no danger. But a company whose core earns a 1–2% margin is now funding a chip fab (Terafab, with SpaceX and Intel), a humanoid robot, a robotaxi fleet, solar manufacturing and AI compute at the same time.
 
 Optimus deserves its own sentence of caution, and Musk supplied it:
 
 > "This is going to be the hardest product to scale manufacturing that we've ever made at Tesla because everything on the robot is new... Optimus will follow the sort of normal S-curve of a manufacturing ramp, but the initial portion of the S-curve will be quite flat and long."
 > — Elon Musk, Q2 2026 earnings call, July 22, 2026
 
-I take him at his word. Optimus at scale is not in any of my three cases. It is an option line: a 10% chance of a million-plus robots a year by 2031, worth about $250 a share if it happens.
+I take him at his word. The Q3 update confirmed that production began on Fremont's high-volume lines, "the first production-quality bots that we have manufactured," but gave no unit count, and Musk said on the call it would take "at least a year, maybe a little longer" to reach 20,000 a week. Optimus at scale is not in any of my three cases. It is an option line: a 10% chance of a million-plus robots a year by 2031, worth about $250 a share if it happens.
 
 ## Musk, Capital Allocation and Incentives {#mgmt}
 
@@ -121,7 +121,7 @@ The deal record is short and mostly related-party. SolarCity was a rescue of a c
 
 ::table capital
 
-From 2021 through 2025 Tesla generated $69 billion of operating cash flow, spent $42 billion on capital projects and kept the rest: net cash ex-leases rose from $13.5 billion to $37.5 billion. It paid no dividends and bought back no stock. Shares outstanding rose 4%, and stock pay took 15–41% of owner earnings depending on the year. The problem is not the balance sheet, which is strong. Return on capital fell from 41% to 7% while invested capital doubled, so the last three years of reinvestment earned a negative incremental return. I don't hold that against the autonomy bets, which may yet pay. It does mean the five-year record gives no evidence yet that the new capital earns its cost.
+From 2021 through 2025 Tesla generated $69 billion of operating cash flow, spent $42 billion on capital projects and kept the rest: net cash (cash and investments less debt and finance leases) rose from $10.9 billion to $35.7 billion. It paid no dividends and bought back no stock. Shares outstanding rose 4%, and stock pay took 15–41% of owner earnings depending on the year. The problem is not the balance sheet, which is strong. Return on capital fell from 38% to under 7% while invested capital nearly doubled, so the last three years of reinvestment earned a negative incremental return. I don't hold that against the autonomy bets, which may yet pay. It does mean the five-year record gives no evidence yet that the new capital earns its cost.
 
 **Outsider grade: Reinvestor.** No buyback and no dividend, so there is no countercyclical capital return to grade. All cash goes into the company's own projects, now at three times last year's pace, with $30 billion of debt capacity behind it. The grade holds until the capex cycle shows a return.
 
@@ -158,7 +158,7 @@ Is Musk the right manager for Tesla? For building, yes; nobody else would have b
 
 ## Valuation and Model Assumptions {#val}
 
-I model Tesla in four pieces: automotive, energy, services, and autonomy carved out of the first and third. Each gets revenue growth and an operating margin, then unallocated AI and Optimus spending, interest income on the cash, and tax, down to GAAP EPS. FY2026 is calibrated to H1 actuals, Q3 deliveries and consensus revenue of about $107 billion. Tesla discloses no segment profit, so the segment margins are my estimates. Competence is Outside: the timing of unsupervised autonomy and its regulation are things I can't judge with an edge. So Bull and Bear each get at least 25%, and I put the Bear at 30% because the auto core's earnings have already fallen to a level the Bear only has to keep. The 2031 value is EPS times 50 in the Bull and Base (a premium for a business still compounding fast) and 27 in the Bear. Here is the Base:
+I model Tesla in four pieces: automotive, energy, services, and autonomy carved out of the first and third. Each gets revenue growth and an operating margin, then unallocated AI and Optimus spending, interest income on the cash, and tax, down to GAAP EPS. FY2026 is calibrated to nine-month actuals and consensus revenue of about $107 billion. Tesla discloses no segment profit, so the segment margins are my estimates. Competence is Outside: the timing of unsupervised autonomy and its regulation are things I can't judge with an edge. So Bull and Bear each get at least 25%, and I put the Bear at 30% because the auto core's earnings have already fallen to a level the Bear only has to keep. The 2031 value is EPS times 50 in the Bull and Base (a premium for a business still compounding fast) and 27 in the Bear. Here is the Base:
 
 ::model_build Base
 
@@ -174,15 +174,15 @@ Weighting the cases 25/45/30 and adding the two option lines (Optimus at scale, 
 
 *Confidence note: I cannot judge how soon camera-only autonomy earns regulators' trust at scale, or how fast a humanoid robot can be manufactured; both are frontier questions, which is why the Bull and Bear are both wide.*
 
-**Bias check** (holder verb Hold → Trim). *Incentive:* none of the inputs pushing the change comes from someone paid for the view; consensus is a Buy at $398. *Consistency:* I would write the same verb without a prior page, and I am not defending the old one. *Social proof:* the change runs against both the analysts and the recent price trend. *Deprival:* no fresh loss or gain drives it. *Availability:* the five-year record in the Appendix carries it more than any single quarter. The change is driven by evidence and method, not price, which rose only 5.5% since September 7. The segment model shows that a Bear in which the car business doesn't recover is worth about [[Bear.value]], not the $120 the earlier page assumed, and that my Base is below spot.
+**Bias check** (holder verb Hold → Trim). *Incentive:* none of the inputs pushing the change comes from someone paid for the view; consensus is a Buy at $398. *Consistency:* I would write the same verb without a prior page, and I am not defending the old one. *Social proof:* the change runs against both the analysts and the recent price trend. *Deprival:* no fresh loss or gain drives it. *Availability:* the five-year record in the Appendix carries it more than any single quarter. The change was driven by evidence and method, not price (up about 5.5% from September 7 when it was made). The segment model shows that a Bear in which the car business doesn't recover is worth about [[Bear.value]], not the $120 the earlier page assumed, and that my Base is below spot.
 
 ## Final Words {#final}
 
 Tesla is doing more interesting things than at any time since the Model 3 ramp. Robotaxis carry paying passengers without anyone in the driver's seat, FSD is pulling car demand, storage is growing into the AI build, and an Optimus line is going in. If the autonomy economics are as good as Tesla's cost target implies, the business inside the price is enormous.
 
-But the price already assumes that, and more. The stock needs earnings above my Bull case to earn an ordinary return. Meanwhile the parts I can measure, the cars, have gone from a 17% operating margin to under 2%, return on capital has fallen to 7%, and capex is tripling. The nearest source of value for a Tesla holder is not the robots but the merger premium, worth perhaps 6% if it comes, paid in a stock that is not cheap either.
+But the price already assumes that, and more. The stock needs earnings above my Bull case to earn an ordinary return. Meanwhile the parts I can measure have gone from a 17% operating margin to under 3%, and return on capital has fallen below 7% while capex more than doubles. The nearest source of value for a Tesla holder is not the robots but the merger premium, worth perhaps 6% if it comes, paid in a stock that is not cheap either.
 
-What would change my mind? Tonight's Q3 update could disclose robotaxi economics or Optimus units; those are my first two tests. Europe's September-to-December registrations are the third. A merger at a premium well above 20%, with a majority-of-the-minority vote, would change the holder math. The price at which the numbers work for me is about [[entry]]. Until then, I'd watch as a non-holder, and as a holder I'd trim toward a position that doesn't depend on everything Musk has promised arriving on time.
+What would change my mind? The Q3 update confirmed Optimus production and a lower capex bill, but gave no robotaxi fleet size, cost per mile or Optimus unit count; the Q4 update in late January is the second chance on my first two tests. Europe's September-to-December registrations are the third. A merger at a premium well above 20%, with a majority-of-the-minority vote, would change the holder math. The price at which the numbers work for me is about [[entry]]. Until then, I'd watch as a non-holder, and as a holder I'd trim toward a position that doesn't depend on everything Musk has promised arriving on time.
 
 Here are the three tests written as kill criteria, each with its consequence fixed in advance:
 
@@ -196,7 +196,7 @@ The tables below carry the framework's required numbers. The argument for each i
 
 ::table five_year
 
-Cycle position: operating margin 4.6% in FY2025 and 1.4% in Q2 2026, against a ten-year range from −14% (2017) to 16.8% (2022) and a median near 5.5%, so below the median and near the bottom of the post-2020 range. I flag Tesla as cyclical (a capital-intensive OEM) and use through-cycle auto margins of 5–9% in the cases rather than the trough.
+Cycle position: operating margin 4.6% in FY2025, 1.4% in Q2 2026 and 2.6% in Q3, against a ten-year range from −14% (2017) to 16.8% (2022) and a median near 5.5%, so below the median and near the bottom of the post-2020 range. I flag Tesla as cyclical (a capital-intensive OEM) and use through-cycle auto margins of 5–9% in the cases rather than the trough.
 
 ### Growth levers
 
@@ -214,7 +214,7 @@ Cycle position: operating margin 4.6% in FY2025 and 1.4% in Q2 2026, against a t
 
 ::table risks
 
-Reflexive loop: **talent and currency**, mildly. Much of the pay and the merger itself run on the stock price. No funding loop yet: $36 billion of net cash ex-leases and $30 billion of undrawn facilities. Ruin path: none within five years; the $5 billion liquidity covenant is far from binding.
+Reflexive loop: **talent and currency**, mildly. Much of the pay and the merger itself run on the stock price. No funding loop yet: $35.9 billion of net cash (after debt and finance leases, before about $6.5 billion of operating leases) and $30 billion of undrawn facilities. Ruin path: none within five years; the $5 billion liquidity covenant is far from binding.
 
 ### Catalysts
 

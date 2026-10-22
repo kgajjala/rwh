@@ -4,11 +4,11 @@
   "company": "Tesla, Inc.",
   "title": "Tesla, Priced for the Robots",
   "dek": "Since its 2021 peak Tesla's revenue has nearly doubled, its operating profit has fallen by a third and its stock has gone nowhere. Now Musk wants to fold it into SpaceX. What does $374 assume, and who gets paid if the merger happens?",
-  "date": "2026-10-21",
-  "date_long": "October 21, 2026",
+  "date": "2026-10-22",
+  "date_long": "October 22, 2026",
   "status": "Active",
-  "price": 373.71,
-  "price_note": "Oct 20, 2026 close; Q3 results after the close on Oct 21",
+  "price": 386.47,
+  "price_note": "Oct 21, 2026 close; $373.63 after hours on the Q3 print",
   "price_url": "https://finance.yahoo.com/quote/TSLA/",
   "range52": [
    297.38,
@@ -28,7 +28,7 @@
   "report_path": "../TSLA.md"
  },
  "verdict": {
-  "sentence": "Tesla's car business now earns almost nothing and its autonomy business is real but small; at $374 the price assumes more than my Bull, and the probability-weighted case, merger premium included, is worth about [[pw_ev]].",
+  "sentence": "Tesla's car business earns little and its autonomy business is real but undisclosed; at $386 the price assumes more than my Bull, and the probability-weighted case, merger premium included, is worth about [[pw_ev]].",
   "non_holder": {
    "emoji": "🟡",
    "verb": "Watch (entry ≤[[entry]])"
@@ -39,18 +39,18 @@
   },
   "breaks_if": "Tesla discloses robotaxi economics at Tesla's own ~$0.30-a-mile cost target with a fleet growing toward 100,000 vehicles, or the SpaceX committees agree a premium above 20% for Tesla holders.",
   "multiple_label": "FY26E P/E",
-  "multiple": "≈215× non-GAAP (≈425× GAAP)",
+  "multiple": "≈220× non-GAAP (≈400× GAAP)",
   "bait": "None",
   "moat": "Narrow, narrowing in autos; optional Wide in autonomy",
-  "next": "Q3 print Oct 21; ACEA Sep data; meeting Dec 3",
+  "next": "NHTSA reply Oct 30; ACEA Sep data; meeting Dec 3",
   "price_implies": "more than my Bull",
   "compounding": "[[Base.cagr]] EPS from a trough, but the multiple falls ~9×"
  },
- "call": "Tesla has become two companies with one share price. The first builds cars and batteries: 486,532 deliveries in Q3 (−2% a year), auto gross margin ex-credits of 16.3% in Q2 and an operating margin of 1.4%, with BYD outselling it in Europe this year. The second is an autonomy and robotics company: about 1.5M paid FSD customers, a few hundred thousand unsupervised robotaxi miles, an Optimus line under construction. It has not yet disclosed a fleet size, a cost per mile or a revenue line. At $374 the stock is about 425 times this year's GAAP earnings. To earn even 10% a year it needs FY2031 EPS near [[Priced-in.eps]], above my Bull's [[Bull.eps]], which already has unsupervised robotaxis in 50+ metros. The probability-weighted case, including a 10% chance of Optimus at scale and a 65% chance of a SpaceX merger premium, is worth about [[pw_ev]]: [[pw_return]] a year. The merger is the nearest source of value for Tesla holders, worth about +6% if it closes on likely terms, but it is a one-time premium paid in a company whose own price assumes a great deal. Price-implied Bear odds are below zero; R/R is [[rr]].",
+ "call": "Tesla has become two companies with one share price. The first builds cars and batteries: Q3 revenue was flat at $28.0B, auto gross margin ex-credits recovered to 18.1%, and the operating margin was 2.6%, while BYD outsold Tesla in the EU this year. The second is an autonomy and robotics company: 1.74M paid FSD customers, nearly two million cumulative unsupervised robotaxi miles and an Optimus line now producing. It has still not disclosed a fleet size, a cost per mile or a revenue line. Q3 was a good quarter for cash: free cash flow was +$1.5B, cash and investments reached $45.4B ($35.9B net of debt), and 2026 capex was cut to about $20B. None of that changes what the price needs. At $386 the stock needs FY2031 EPS near [[Priced-in.eps]] to earn 10% a year, above my Bull's [[Bull.eps]]. The probability-weighted case, including Optimus at scale (10%) and a SpaceX merger premium (65%), is worth about [[pw_ev]]: [[pw_return]] a year. Price-implied Bear odds are below zero; R/R is [[rr]].",
  "tests": [
   {
    "claim": "That robotaxi economics exist and Tesla says so.",
-   "test": "the Q3 update (Oct 21) or the Q4 update (late January 2027) discloses a robotaxi fleet size and paid miles, plus a cost-per-mile or contribution figure. Continued silence while metros expand is the answer.",
+   "test": "the Q4 update (late January 2027) discloses a robotaxi fleet size and paid miles, plus a cost-per-mile or contribution figure. Q3 gave only cumulative unsupervised miles (nearly two million) and a tenfold Austin Cybercab fleet with no base.",
    "if_fail": "move 10 points from Bull to Bear (PW EV [[test1.pw_ev]], [[test1.pw_return]]/yr) → stays **[[test1.verb]] / Trim**, entry [[test1.entry]]; the autonomy case loses its evidence.",
    "shift": {
     "from": "Bull",
@@ -60,7 +60,7 @@
   },
   {
    "claim": "That Optimus is production, not a press cycle.",
-   "test": "a unit count or weekly run-rate in the Q3 (Oct 21) or Q4 update; the Q2 update said production was 'anticipated later this year'.",
+   "test": "a unit count or weekly run-rate in the Q4 update (late January 2027). Q3 confirmed production on Fremont's high-volume lines but gave no count; Musk put 20,000 a week at least a year away.",
    "if_fail": "the Optimus option falls to 5% (PW EV [[t2_pw]], [[t2_ret]]/yr) → stays **Watch / Trim**, entry [[t2_entry]]."
   },
   {
@@ -96,6 +96,28 @@
      "evidence": "EU registrations January–August: BYD 177,752, Tesla 142,165; September ACEA data due late October"
     }
    ]
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Q3 2026: a cash beat, a capex cut, and still no robotaxi economics",
+   "file": "updates/2026-10-22.md",
+   "scorecard": [
+    {
+     "test": "Robotaxi economics exist and Tesla says so",
+     "result": "pending",
+     "evidence": "Q3 disclosed nearly 2M cumulative unsupervised miles (8× QoQ) but no fleet size or cost per mile; second chance in the Q4 update"
+    },
+    {
+     "test": "Optimus is production, not a press cycle",
+     "result": "pending",
+     "evidence": "production confirmed in the Q3 Update with no unit count; Musk: 20,000 a week is 'at least a year' away; second chance in the Q4 update"
+    },
+    {
+     "test": "Europe is a model-year gap, not brand damage",
+     "result": "pending",
+     "evidence": "September ACEA data due late October; EU Jan–Aug BYD 177,752 vs Tesla 142,165"
+    }
+   ]
   }
  ],
  "tables": {
@@ -106,7 +128,8 @@
     "FY2024",
     "FY2025",
     "Q1 2026",
-    "Q2 2026"
+    "Q2 2026",
+    "Q3 2026"
    ],
    "rows": [
     {
@@ -116,7 +139,8 @@
       "77.07",
       "69.53",
       "16.23",
-      "20.52"
+      "20.52",
+      "20.56"
      ],
      "cls": "grp"
     },
@@ -127,7 +151,8 @@
       "10.09",
       "12.77",
       "2.41",
-      "3.14"
+      "3.14",
+      "2.88"
      ],
      "cls": "sub"
     },
@@ -138,7 +163,8 @@
       "10.53",
       "12.53",
       "3.75",
-      "4.58"
+      "4.58",
+      "4.61"
      ],
      "cls": "sub"
     },
@@ -149,7 +175,8 @@
       "97.69",
       "94.83",
       "22.39",
-      "**28.24**"
+      "**28.24**",
+      "**28.05**"
      ],
      "cls": "tot"
     },
@@ -160,7 +187,8 @@
       "17.9%",
       "18.0%",
       "21.1%",
-      "16.8%"
+      "16.8%",
+      "19.6%"
      ],
      "cls": "sub"
     },
@@ -170,6 +198,7 @@
       "3.97",
       "4.54",
       "6.41",
+      "—",
       "—",
       "—"
      ],
@@ -182,7 +211,8 @@
       "7.08",
       "4.36",
       "0.94",
-      "**0.40**"
+      "**0.40**",
+      "**0.72**"
      ],
      "cls": "tot"
     },
@@ -196,7 +226,8 @@
       {
        "v": "1.4%",
        "cls": "neg"
-      }
+      },
+      "2.6%"
      ],
      "cls": "sub"
     },
@@ -207,7 +238,8 @@
       "—",
       "—",
       "3.67",
-      "3.27"
+      "3.27",
+      "3.90"
      ],
      "cls": "sub"
     },
@@ -218,7 +250,8 @@
       "11.34",
       "8.53",
       "2.49",
-      "**5.79**"
+      "**5.79**",
+      "**4.73**"
      ],
      "cls": "tot"
     },
@@ -232,12 +265,13 @@
       {
        "v": "(1.09)",
        "cls": "neg"
-      }
+      },
+      "**1.53**"
      ],
      "cls": "tot"
     }
    ],
-   "note": "Tesla does not report segment operating profit beyond automotive and energy gross profit. FY2025 segment revenue sums the quarterly updates. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001318605.json), [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm), [Q2 2026 Update](https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/exhibit991.htm). Built with Claude."
+   "note": "Tesla does not report segment operating profit beyond automotive and energy gross profit. FY2025 segment revenue sums the quarterly updates. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001318605.json), [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm), [Q3 2026 Update](https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/exhibit9914.htm), [Q2 2026 Update](https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/exhibit991.htm). Built with Claude."
   },
   "drivers": {
    "columns": [
@@ -246,7 +280,8 @@
     "Q4 2025",
     "Q1 2026",
     "Q2 2026",
-    "Q3 2026"
+    "Q3 2026",
+    "FY2026 guide"
    ],
    "rows": [
     {
@@ -256,7 +291,8 @@
       "418,227",
       "358,023",
       "480,126",
-      "**486,532**"
+      "**486,532**",
+      ""
      ]
     },
     {
@@ -269,7 +305,8 @@
       {
        "v": "−2%",
        "cls": "neg"
-      }
+      },
+      ""
      ]
     },
     {
@@ -279,7 +316,8 @@
       "14.2",
       "8.8",
       "13.5",
-      "13.7"
+      "13.7",
+      ""
      ]
     },
     {
@@ -289,7 +327,8 @@
       "1.10",
       "1.28",
       "1.48",
-      "—"
+      "**1.74**",
+      ""
      ]
     },
     {
@@ -299,7 +338,8 @@
       "—",
       "19.2%",
       "16.3%",
-      "—"
+      "**18.1%**",
+      ""
      ]
     },
     {
@@ -309,7 +349,8 @@
       "—",
       "—",
       "146 (vs 439)",
-      "—"
+      "≈0.4% of auto revenue",
+      ""
      ]
     },
     {
@@ -319,7 +360,8 @@
       "5.7%",
       "4.2%",
       "1.4%",
-      "—"
+      "2.6%",
+      ""
      ]
     },
     {
@@ -329,12 +371,13 @@
       "2.39",
       "2.49",
       "5.79",
-      ">25 for FY2026"
+      "4.73",
+      "≈20 for FY2026 (cut from >25)"
      ],
      "cls": "tot"
     }
    ],
-   "note": "YoY changes are against the same quarter a year earlier. Source: [Q2 2026 Update](https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/exhibit991.htm), [Q3 2026 deliveries release](https://www.sec.gov/Archives/edgar/data/1318605/000162828026064366/exhibit991111111.htm), [Q2 2026 call](https://www.shacknews.com/article/150109/tesla-tsla-q2-2026-earnings-call-transcript). Built with Claude."
+   "note": "YoY changes are against the same quarter a year earlier. The FY2026 capex figure is from the Q3 call as reported by [Yahoo Finance](https://finance.yahoo.com/markets/stocks/article/tesla-q3-preview-delivery-outlook-cash-flow-and-a-dash-of-merger-speculation-on-tap-160637755.html) (single post-call source). Source: [Q3 2026 Update](https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/exhibit9914.htm), [Q2 2026 Update](https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/exhibit991.htm). Built with Claude."
   },
   "robotaxi": {
    "columns": [
@@ -403,15 +446,15 @@
     },
     {
      "cells": [
-      "Actual: unsupervised robotaxi miles to date (July 2026, cumulative)",
-      "380,000",
+      "Actual: cumulative unsupervised robotaxi miles (Sep 30, 2026)",
+      "≈2,000,000",
       "",
       ""
      ],
      "cls": "tot"
     }
    ],
-   "note": "Author's estimates, except the cost target and the actual row. The ≈$0.30-a-mile long-run cost target is what Tesla told JPMorgan at a Fremont site visit around August 19 ([raw note](../../../raw/TSLA/appearances/2026-08-19_JPMorgan_Fremont-site-visit.txt)); 380,000 miles is from VP of AI Ashok Elluswamy on the [Q2 call](https://www.shacknews.com/article/150109/tesla-tsla-q2-2026-earnings-call-transcript). Revenue per mile and vehicle cost are illustrative; Tesla has disclosed neither. Built with Claude."
+   "note": "Author's estimates, except the cost target and the actual row. The ≈$0.30-a-mile long-run cost target is what Tesla told JPMorgan at a Fremont site visit around August 19 ([raw note](../../../raw/TSLA/appearances/2026-08-19_JPMorgan_Fremont-site-visit.txt)); the actual row is from the [Q3 2026 Update](https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/exhibit9914.htm) (nearly two million cumulative, up from 380,000 cited on the [Q2 call](https://www.shacknews.com/article/150109/tesla-tsla-q2-2026-earnings-call-transcript) in July). Revenue per mile and vehicle cost are illustrative; Tesla has disclosed neither. Built with Claude."
   },
   "rings": {
    "columns": [
@@ -612,7 +655,7 @@
       "9.3%",
       "0",
       "0",
-      "4.3",
+      "6.8",
       "3.39"
      ]
     },
@@ -629,7 +672,7 @@
       "9.3%",
       "0",
       "0",
-      "1.0",
+      "3.1",
       "3.48"
      ]
     },
@@ -646,7 +689,7 @@
       "4.5%",
       "0",
       "0.1",
-      "2.7",
+      "5.2",
       "3.48"
      ]
     },
@@ -663,7 +706,7 @@
       "3.7%",
       "0",
       "0",
-      "5.5",
+      "8.2",
       "3.50"
      ]
     },
@@ -680,24 +723,24 @@
       "6.6%",
       "0",
       "0",
-      "6.6",
+      "8.4",
       "3.53"
      ]
     },
     {
      "cells": [
-      "H1 2026",
-      "50.6",
-      "+21%",
-      "$0.45",
-      "8.6",
-      "—",
-      "8.3",
-      "0.4",
-      "0.7%",
+      "9M 2026",
+      "78.7",
+      "+12%",
+      "$0.67",
+      "14.9",
+      "3.3",
+      "13.0",
+      "1.9",
+      "2.4%",
       "0",
-      "2.0 (xAI)",
-      "7.7",
+      "2.0 (xAI → SpaceX)",
+      "9.5",
       "3.54"
      ]
     },
@@ -714,13 +757,13 @@
       "6.3%",
       "0",
       "0.1",
-      "+2.3",
+      "+1.5",
       "+4%"
      ],
      "cls": "tot"
     }
    ],
-   "note": "FCF = operating cash flow − capital expenditure. Debt excludes leases. FY2023 EPS includes a $5.9B deferred-tax valuation release. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001318605.json), [Q2 2026 Update](https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/exhibit991.htm). Built with Claude."
+   "note": "FCF = operating cash flow − capital expenditure. Debt is debt plus finance leases (current and long-term), excluding operating leases. FY2023 EPS includes a $5.9B deferred-tax valuation release. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001318605.json), [Q3 2026 Update](https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/exhibit9914.htm), [Q2 2026 Update](https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/exhibit991.htm). Built with Claude."
   },
   "incentives": {
    "columns": [
@@ -790,7 +833,7 @@
      "cells": [
       "Optimus production 'later this year'",
       "Q2 2026 Update, July 22",
-      "🟡 Press reports of a Fremont start; nothing filed by Tesla"
+      "🟡 Production began on Fremont's high-volume lines (Q3 Update); no unit count; 20,000 a week 'at least a year' away"
      ]
     }
    ],
@@ -919,21 +962,21 @@
     {
      "cells": [
       "Invested capital [Derived]",
-      "18.8",
-      "26.2",
-      "40.6",
-      "47.3",
-      "51.0"
+      "21.4",
+      "28.3",
+      "43.1",
+      "50.0",
+      "52.8"
      ]
     },
     {
      "cells": [
       "**ROIC** (NOPAT at 21%) [Derived]",
-      "27.4%",
-      "41.2%",
-      "17.3%",
-      "11.8%",
-      "**6.7%**"
+      "24.1%",
+      "38.2%",
+      "16.3%",
+      "11.2%",
+      "**6.5%**"
      ]
     },
     {
@@ -944,7 +987,7 @@
       "—",
       "—",
       {
-       "v": "Negative (NOPAT −$7.4B on +$24.8B of capital, 2022→2025)",
+       "v": "Negative (NOPAT −$7.4B on +$24.5B of capital, 2022→2025)",
        "cls": "neg"
       }
      ]
@@ -991,12 +1034,12 @@
     },
     {
      "cells": [
-      "Net cash, ex-leases",
-      "13.5",
-      "21.2",
-      "26.4",
-      "31.0",
-      "37.5"
+      "Net cash (cash and investments − debt and finance leases)",
+      "10.9",
+      "19.1",
+      "23.9",
+      "28.4",
+      "**35.7**"
      ]
     },
     {
@@ -1030,7 +1073,7 @@
      ]
     }
    ],
-   "note": "Invested capital = equity + debt + operating leases − cash and short-term investments; FY2023 equity is inflated by the $5.9B deferred-tax release. Depreciation stands in for maintenance capex because flat revenue makes the revenue-based split meaningless. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001318605.json). Built with Claude."
+   "note": "Invested capital = equity + debt and finance leases + operating leases − cash and short-term investments; FY2023 equity is inflated by the $5.9B deferred-tax release. Depreciation stands in for maintenance capex because flat revenue makes the revenue-based split meaningless. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001318605.json). Built with Claude."
   },
   "levers": {
    "columns": [
@@ -1232,7 +1275,7 @@
       "Critical",
       "Med",
       "No",
-      "NHTSA rejects the FMVSS exemptions, forcing a redesign or recall"
+      "NHTSA rejects the FMVSS exemptions; a special order with 21 requests is due Oct 30"
      ]
     },
     {
@@ -1246,9 +1289,9 @@
     },
     {
      "cells": [
-      "⚠️ **Capex outrunning cash**: >$25B in 2026, rising for 2–3 years; $30B of new credit lines",
-      "High",
+      "**Capex outrunning cash**: 2026 guide cut to ≈$20B, but Musk says spending reaches 'the tens of billions in 28'",
       "Med",
+      "Low-Med",
       "Partly",
       "FCF negative through FY2027 and the $20B term loan drawn"
      ]
@@ -1329,9 +1372,16 @@
     },
     {
      "cells": [
-      "📅 **Oct 21**, after the close",
-      "Q3 2026 update and call",
-      "Tests 1 and 2"
+      "✅ Oct 21",
+      "Q3 2026: EPS $0.48 non-GAAP (≈$0.44 est.); FCF +$1.5B; 2026 capex cut to ≈$20B; Optimus production confirmed",
+      "Tests 1–2 still pending"
+     ]
+    },
+    {
+     "cells": [
+      "📅 Oct 30",
+      "Tesla's answers to NHTSA's special order on Cybercab self-certification",
+      "Regulatory risk"
      ]
     },
     {
@@ -1367,7 +1417,7 @@
     {
      "cells": [
       "Analysts",
-      "Consensus Buy (44), mean target $397.83, median $412.50, range $128–$600 `[Analyst consensus]`; FY2026E non-GAAP EPS $1.74, FY2027E $2.17"
+      "Consensus Buy (44), mean target $397.83 before the print `[Analyst consensus]`; Q3 consensus EPS ≈$0.44 vs $0.48 reported; FY2026E non-GAAP EPS $1.74"
      ]
     },
     {
@@ -1457,7 +1507,7 @@
   }
  },
  "model_build": {
-  "note": "Base case. FY2026E is calibrated to H1 actuals, Q3 deliveries and consensus revenue of about $107B; segment margins are the author's estimates, since Tesla discloses no segment operating profit. Autonomy is carved out of automotive and services revenue. Corporate is unallocated AI, Optimus and Terafab spending. GAAP EPS includes stock pay. Source: author's model (model.json)."
+  "note": "Base case. FY2026E is calibrated to nine-month actuals and consensus revenue of about $107B; segment margins are the author's estimates, since Tesla discloses no segment operating profit. Autonomy is carved out of automotive and services revenue. Corporate is unallocated AI, Optimus and Terafab spending. GAAP EPS includes stock pay. Source: author's model (model.json)."
  },
  "scenarios": {
   "note": "Annual return = price change to the FY2031 value (no dividend). Competence is Outside, so Bull and Bear each get at least 25%. The Priced-in and Hurdle rows are solved along the Base→Bull path at a 50× exit and land beyond the Bull. Option lines are added to the PW value. Source: author's model. Built with Claude."
@@ -1472,6 +1522,14 @@
   "note": "Computed rows come from model.json; EPV, base rate, year ten and the terminal-growth reading are the author's. Built with Claude."
  },
  "sources": [
+  {
+   "label": "Q3 2026 Update (8-K)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/exhibit9914.htm"
+  },
+  {
+   "label": "Q3 call recap (Yahoo Finance)",
+   "url": "https://finance.yahoo.com/markets/stocks/article/tesla-q3-preview-delivery-outlook-cash-flow-and-a-dash-of-merger-speculation-on-tap-160637755.html"
+  },
   {
    "label": "Q2 2026 Update (8-K)",
    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/exhibit991.htm"
@@ -1543,7 +1601,7 @@
  ],
  "vars": {
   "t2_pw": "$282",
-  "t2_ret": "-5.5%",
+  "t2_ret": "−6.1%",
   "t2_entry": "$153"
  }
 }

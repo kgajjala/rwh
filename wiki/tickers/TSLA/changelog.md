@@ -4,6 +4,33 @@
 
 ---
 
+## [2026-10-22] — Earnings Q3 2026
+
+**Trigger**: Q3 2026 results, Oct 21 ([Q3 Update, 8-K Ex-99.1](https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/exhibit9914.htm)); call recap via [Yahoo Finance](https://finance.yahoo.com/markets/stocks/article/tesla-q3-preview-delivery-outlook-cash-flow-and-a-dash-of-merger-speculation-on-tap-160637755.html). Full transcripts returned 403/404; call details rest on one recap (logged as a gap).
+**Sources**: [Q3 Update (raw)](../../../raw/TSLA/press-releases/2026-10-21_Q3-2026_update.txt) · Yahoo quote (Oct 21 close $386.47; $373.63 after hours)
+
+### Scorecard
+- Robotaxi economics disclosed — 🟡 Pending — ≈2M cumulative unsupervised miles (8× QoQ), no fleet or cost per mile; Q4 update is the second chance
+- Optimus is production — 🟡 Pending — production confirmed in the filing, no unit count; 20K/week "at least a year" away
+- Europe is a model-year gap — 🟡 Pending — September ACEA data due late October
+
+### Changed
+- **Results**: revenue $28.05B (flat), non-GAAP EPS **$0.48** vs ≈$0.44, operating margin 2.6%, auto GM ex-credits **18.1%** (from 16.3%)
+- **Cash**: FCF **+$1.53B**; cash and investments **$45.4B**; net of $9.5B debt and finance leases, **$35.9B**
+- **2026 capex**: >$25B → **≈$20B** (call); Musk says "tens of billions in '28"
+- **Data correction**: debt now includes current maturities and finance leases (the XBRL `LongTermDebt` tag is the non-current portion only). Five-year net cash, invested capital and ROIC restated: FY2022 ROIC 41% → 38%, FY2025 6.7% → 6.5%. Q2 net cash was $34.2B, not $36B
+- **Model**: FY2026E auto margin 2.5% → 2.8%, services 8% → 8.5%; terminal cases unchanged
+- **NHTSA**: special order with 21 requests on Cybercab self-certification, due Oct 30
+
+### Status
+- **Thesis**: Unchanged (core slightly better; autonomy still undisclosed)
+- **PW EV**: $295 → **$295** · **PW return/yr**: −4.6% → **−5.3%** (hurdle 13%; price $373.71 → $386.47) · **R/R**: 0.5 → **0.5** · **BAIT**: None
+- **Verbs**: non-holder **Watch** (entry ≤$160) · holder **Trim**
+
+**Next trigger**: NHTSA answers (Oct 30); ACEA September data; merger terms; Q4 update (late Jan 2027).
+
+---
+
 ## [2026-10-21] — SpaceX merger committees, $30B credit lines, Q3 deliveries, 2026 proxy (v7.0 migration)
 
 **Trigger**: Musk confirmed on SpaceX's Q3 call (Oct 20) that Tesla and SpaceX formed special committees to study a merger. Also in the window: the [$30B credit facilities 8-K](../../../raw/TSLA/filings/2026-09-29_8-K_credit-facilities.txt) (Sep 29), [Q3 deliveries](../../../raw/TSLA/press-releases/2026-10-02_Q3-2026_production-deliveries.txt) (Oct 2) and the [2026 proxy](../../../raw/TSLA/filings/2026-10-19_DEF14A_excerpts.txt) (Oct 19). Material event on a pre-v7 page, so the page migrates to a v7 deep dive. Baseline 2026-09-07.

@@ -22,7 +22,7 @@ Both headline share counts include unvested Musk performance shares that carry v
 | of which unvested Musk performance shares | 423.7M (2025 CEO award, voted proportionally) | 1,302.1M Class B (Mars-colony and orbital-compute awards) |
 | Diluted economic shares used here `[Derived]` | **3.54B** | **12.7B** |
 | Economic market value | $1.32T | $1.88T |
-| Net cash | $36B ex-leases ($27B incl. leases) | $51B |
+| Cash and investments / net cash | $45.4B / $35.9B after debt and finance leases (Sep 30, Q3 Update) | $89.9B / $51B (Sep 30) |
 | Musk's economic stake `[Derived]` | 19.8% (proxy) | ≈42% (prospectus, adjusted for Cursor) |
 | Musk's voting power | 19.8% | ≈84% |
 

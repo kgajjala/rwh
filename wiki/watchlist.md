@@ -3,7 +3,7 @@
 *Position-agnostic per v2.1 schema (Core Rule #3): no portfolio allocation, no target %, no form (stock/options) splits. This file is pure analysis.*
 
 *Updated by LLM agent after each full thesis cycle, earnings update, or v2.x schema migration.*
-*Updated: 2026-10-21 — SPCX and TSLA migrated to v7 after SpaceX's Q3 print and the merger committees. SPCX stays Watch at 8.3%/yr; TSLA moves to Watch / Trim with PW EV below spot. Merger study in `insights/`. ADBE rebuilt as a v7 deep dive: Watch at 9.2%/yr, entry ≤$216.*
+*Updated: 2026-10-22 — TSLA refreshed on Q3: a cash beat and a capex cut, but no robotaxi economics; still Watch / Trim at −5.3%/yr.*
 *Prior 2026-10-14 — PEP and UNH refreshed on Q3. PEP failed both Oct 8 kill criteria and moves to Watch; UNH migrates to v6.0 and stays Watch at 8.3%/yr.*
 *Prior 2026-10-06 — ACN, ADBE and DKS refreshed. ACN and ADBE migrate to v5, fall short of the 13% hurdle, and move to 10g/10h as Watch. Detail on the pages and in `git log`.*
 *Prior 2026-10-02 — CPNG refreshed at #16 (Q2 print + KFTC confrontation; v5).*
@@ -86,7 +86,7 @@
 | 32 | DASH | Moderate (execution confirmed; valuation fair, not cheap) | Triple (A+I+T, Mod; B Weak) | PW EV **$245** (5-yr) vs. $233.50 = **+4.9%** (≈+1%/yr); R/R **≈1.2:1** — Q2 Adj EBITDA $914M (+40%) *above* the $770–870M guide, contribution profit 5.0% of GOV, Q3 guided above the printed quarter; New Verticals reaffirmed gross-profit-positive H2; DoorDash Air FAA-certified; 💰 buyback executed $1.049B at ≈$154 avg into the drawdown → **Outsider-leaning**. Offsets: GAAP NI –30% vs. +40% Adj EBITDA, ≈120× TTM GAAP, no margin of safety | **Watch / Hold**; entry $184–208 | Q3 2026 — **~Nov 4, 2026** |
 | 33 | DELL | Low-Moderate | Double (A+I Mod) | PW EV **$366** (5-yr) vs. $405 = **–10%**; R/R **≈0.8:1** — Q1 FY27 blowout (+88% rev, +757% AI server) validated thesis; stock +89% to $405 has priced most of the upside; consensus $185→$503 | **Watch / Hold**; entry $340–365 | 📅 Q2 FY27 — **Sept 3, 2026** |
 | 33b | RIVN | **Low-Moderate** | **Single** (B) | PW EV $10.30 vs. $12.42 = **−17%**, no dividend; **−3.7%/yr vs the 13% hurdle**; R/R 0.9:1. R2 is ramping, but burn and SBC grow shares ~6%/yr; the price implies ~85% odds of the Bull | 🟡 **Watch** / 🔴 **Trim**; entry ≤$5.59 | 📅 Q3 results Oct 29 |
-| 33c | TSLA | **Moderate** | None | PW EV $295 vs. $373.71 = **−21%**, no dividend; **−4.6%/yr vs the 13% hurdle**; R/R 0.5:1. Autonomy real but undisclosed; the merger premium (≈6% if it closes) is included | 🟡 **Watch (entry ≤$160)** / 🔴 **Trim** | 📅 Q3 print Oct 21; ACEA Sep–Dec |
+| 33c | TSLA | **Moderate** | None | PW EV $295 vs. $386.47 = **−24%**, no dividend; **−5.3%/yr vs the 13% hurdle**; R/R 0.5:1. Q3 beat on cash (FCF +$1.5B, capex cut to ≈$20B); robotaxi economics still undisclosed | 🟡 **Watch (entry ≤$160)** / 🔴 **Trim** | 📅 NHTSA reply Oct 30; ACEA Sep–Dec; Q4 late Jan |
 | 35 | PG | **Low** *(was Moderate)* | **Single** (A-Mod) | PW EV $164 vs. $147.40 = **+12%** + 2.98% div; **R/R 2.6:1** — ⚠️ upside below downside (−15% to bear); spot *above* the ≤$132 entry | 🟡 **Watch / Hold** | 📅 Q1 FY2027 — Oct 22, 2026 |
 
 **Ranking rationale notes (2026-05-01 weekly update)**:
@@ -160,7 +160,8 @@
 | 📅 **By Dec 31, 2026** | **UNH** | **2027 outlook + membership guidance** | FY2027 adj EPS ≥$23.00; MA membership direction after −935K in 2026 | ≥$23 with membership stabilizing → Base holds | <$23 → 10 points to the Bear, entry ≤$290 |
 | 📅 **≈late Oct 2026** | **EBAY** | **Q3 2026 earnings** | First full quarter under EU de minimis (live Jul 1); whether take rate compresses on the 8–10% revenue vs 10–12% GMV guide; Depop's ~2.5pp GMV contribution | International FX-neutral GMV holds the 10–12% guide → the cross-border cost step-up is absorbable | International misses by 3–4pp → de minimis is structural, not a one-quarter adjustment |
 | 📅 **Oct 29, 2026** | **RIVN** | **Q3 2026 earnings** | First quarter with full R2 ramp cost and no credits; Q4 delivery and R2 gross-profit commentary; CFO leaves Oct 30 | Automotive gross profit improving without credits → test 1 on track | Automotive gross loss widens and the exit-2026 promise softens → test 1 at risk |
-| 📅 **Oct 21, 2026** | **TSLA** | **Q3 2026 earnings** | Optimus unit count (the ~Aug 31 start is press-attributed, unconfirmed by Tesla); any robotaxi economics vs. the ≈$0.30/mile target; operating-margin trough vs. 1.4%; FCF direction; whether China offsets Europe | Margin troughs and turns, FCF back toward positive, Optimus units shipped | Margin below 1.4% again + FCF deeply negative → reinvestment trough looks structural |
+| ~~Oct 21, 2026~~ ✅ **DELIVERED** | **TSLA** | **Q3 2026 — EPS beat, FCF +$1.5B, capex cut** | Non-GAAP EPS $0.48 vs ≈$0.44; revenue $28.05B flat; auto GM ex-credits 18.1%; Optimus production confirmed, no units; no robotaxi economics | — | — |
+| 📅 **Late Jan 2027** | **TSLA** | **Q4 2026 update** | Robotaxi fleet and cost per mile (test 1); Optimus units (test 2); 2027 capex | Economics disclosed at ≈$0.30/mile | Silence again → Bull to Bear 10 pts |
 | ~~May 12, 2026~~ ✅ **DELIVERED** | **ONON** | **Q1 2026 earnings — beat-and-raise** | GM 64.2% (+430bps), adj EBITDA margin 21%, c-c +26.4%; guide raised GM ≥64.5%, EBITDA 19.5–20%; $6.6M insider buy cluster May 14 | ✅ Clean beat; guidance raised on both margin lines | Short int 9.45% (nearly doubled); stock round-tripped $36→$52→$38 |
 | ~~Aug 11, 2026~~ ✅ **DELIVERED** | **ONON** | **Q2 2026 — split print: revenue guide cut, margin guide raised** | Net sales CHF 850.3M (+21.6% c-c) **missed**; record **GM 65.4%**; DTC +34.3% c-c to record 45.7%; wholesale +12.7% c-c after a deliberate sell-in cut; FY guide: revenue → low-20s c-c, **GM → ≥65%** | ✅ GM record + guide raised; DTC/APAC/apparel all accelerated; 2 founders bought $4.0M three days later | ⚠️ Revenue miss + first guide cut; **inventory +31% vs +13.5% sales**; stock –22% to a fresh low; 11 PT cuts, 2 downgrades |
 | 📅 **Oct 2026** | **ONON** | **Cloudsurfer 3 begins scaling with run-specialty partners** | First sell-out read on the cycle the wholesale cut was made for; SS27 orders from these partners doubled after the June Paris summit | Sell-through confirms the doubled order book → discipline reading gains | Slow sell-out or order cancellations → demand reading wins |
@@ -229,7 +230,7 @@
 | TREX | $41.90 | $28 (25%) | $55 (50%) | $90 (25%) | ~$57 | +36% (3yr); R/R ~3.6:1 |
 | FDX | ~$297 (6/24/26) | $230 (25%) | $380 (50%) | $500 (25%) | ~$372 | +25% (5yr / ~4.6%/yr) + ~1.6% div; R/R ~3:1 |
 | CPNG | **$13.87** (9/30/26) | $8 (35%) | $22 (45%) | $38 (20%) | **~$20.30** | **+46% (5yr / 7.9%/yr); R/R 4.1:1** |
-| TSLA | **$373.71** (10/20/26) | $57 (30%) | $234 (45%) | $548 (25%) | **~$295** (incl. $35 optionality) | **−21% (5yr); −4.6%/yr vs 13% hurdle; R/R 0.5:1** |
+| TSLA | **$386.47** (10/21/26) | $57 (30%) | $234 (45%) | $548 (25%) | **~$295** (incl. $35 optionality) | **−24% (5yr); −5.3%/yr vs 13% hurdle; R/R 0.5:1** |
 | DELL | **$405.37** (8/1/26) | $195 (25%) | $368 (55%) | $576 (20%) | **~$366** | **–10% (5yr); R/R ≈0.8:1** — stock above PW EV |
 | UBER | **$75.76** (9/4/26) | $55 (30%) | $190 (50%) | $330 (20%) | **~$178** | **+134% (5yr / 18.6%/yr); R/R 12.2:1** |
 | RH | $137.51 | $60 (25%) | $230 (50%) | $400 (25%) | ~$208 | +51% (4yr); R/R ~3.4:1 |

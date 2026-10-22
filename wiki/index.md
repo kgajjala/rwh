@@ -60,7 +60,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | [SPCX](tickers/SPCX/SPCX.md) | Active | Space Exploration Technologies (SpaceX) | Wide (launch, Starlink) / none yet (compute) | Low-Moderate | 2026-10-21 | 🟡 **Watch / Hold** — compute rental turned profitable and Starlink ARPU rose, but the price assumes scarcity pricing lasts through a $35–40B-a-quarter build. PW EV $220: +49% up / −81% down |
 | [SPOT](tickers/SPOT/SPOT.md) | Active | Spotify Technology | Wide & Widening | Moderate-High | 2026-05-22 | **v2.9→v2.14** + May 21 Investor Day (2030: 35–40% GM, >20% op margin, 1B MAU) + **landmark UMG AI-covers deal** de-risked label/AI overhang; +17% to ~$490 — thesis strengthened, entry compressed; PW EV ~$680 (+39% 5-yr); R/R ~5:1; Watch / Hold |
 | [TREX](tickers/TREX/TREX.md) | Active | Trex Company | Narrow & Widening | Moderate | 2026-05-10 | **v2.9→v2.14** + Q1 beat ($343M / $0.59 EPS / GM 40.5% +100bps); FY26 reaffirmed; capex cut $224M→$100–120M; **channel inventory 30–40 days vs. 90–120 historical = thesis-break trigger DE-RISKED ✅**; Arkansas plant 2027; PW EV $58 (5-yr); R/R 3.7:1; **Initiate / Hold (add <$37)** |
-| [TSLA](tickers/TSLA/TSLA.md) | Active | Tesla | Narrow, narrowing (autos) + optional Wide (autonomy) | Moderate | 2026-10-21 | 🟡 **Watch** / 🔴 **Trim** — car margins near zero, robotaxi economics undisclosed; $374 needs more than my Bull, and a SpaceX merger premium (≈6% if it closes) is the nearest value. PW EV $295: −21% up / −85% down |
+| [TSLA](tickers/TSLA/TSLA.md) | Active | Tesla | Narrow, narrowing (autos) + optional Wide (autonomy) | Moderate | 2026-10-22 | 🟡 **Watch** / 🔴 **Trim** — Q3 beat on cash and margin, but robotaxi economics and Optimus units still undisclosed; $386 needs more than my Bull. PW EV $295: −24% up / −85% down |
 | [UBER](tickers/UBER/UBER.md) | Active | Uber Technologies | Wide (network + scale), widening | High | 2026-09-07 | 🟢 **Initiate / Add** — bookings +22% on flat invested capital at a 6.3% FCF yield; Delivery Hero and a paused buyback are the open test. **PW EV $178: +134% up / −27% down.** |
 | [UNH](tickers/UNH/UNH.md) | Active | UnitedHealth Group | Wide, narrowing | Moderate | 2026-10-14 | 🟡 **Watch / Hold** — Recovery ahead of plan (FY26 ≥$20.50 after three raises), but 18.4× already capitalizes normalized margins; 2027 framed near $23. Clears 13% only at $304. **PW EV $502: +33% up / −26% down.** |
 | [WING](tickers/WING/WING.md) | Active | Wingstop | Narrow | Lower-Moderate | 2026-05-01 | 5-firm post-Q1 analyst cluster confirms thesis-weakening (Goldman Buy→Neutral $190); zones unchanged; Watch / Reduce on bounce |
@@ -114,7 +114,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | SPCX | $147.79 (10/20/26) | −34.5% | Single (I) | Watch / Hold; entry ≤$120 |
 | SPOT | $489.93 (5/21/26) | –37.6% | Double (A-Mod-Strong, B+I+T-Mod) | Watch / Hold; entry $400–540 |
 | TREX | $41.90 | –39% | Double (B+A-Mod) | Initiate (patient) / Hold; entry $30–42 |
-| TSLA | $373.71 (10/20/26) | −25.1% | None | Watch / Trim; entry ≤$160 |
+| TSLA | $386.47 (10/21/26) | −22.5% | None | Watch / Trim; entry ≤$160 |
 | UBER | **$75.76** (9/4/26) | –25.7% (~28th %ile) | Triple (B+A+I; T Weak) | 🟢 **Initiate / Add**; entry ≤$96; PW EV $178; R/R 12.2:1 |
 | UNH | **$377.76** (10/13/26) | −18.2% (~59th %ile) | **Single (B)** | 🟡 **Watch / Hold**; entry ≤$304; PW EV $502; 8.3%/yr vs 13% hurdle |
 | WING | $165.64 | –57% | Triple (B-Strong, A-Mod, T-Weak) | Watch / Reduce on bounce >$180; entry $135–150 |
@@ -163,7 +163,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | UNH | FY2025 10-K Item 1A diff; non-CEO annual-incentive metrics and weights; five years of chairman's letters; post-Q3 analyst actions | EDGAR 10-K and DEF 14A HTML; annual reports page; MarketBeat after indexing |
 | SCHW | Management appearances calendar (aboutschwab.com/schwabevents returned 403); Barclays Sep 15 conference participation unconfirmed | IR events page via browser; conference transcript |
 | SPCX | GPU depreciation life; cloud revenue by customer; 2027 capex and funding mix for the 10 GW plan; EchoStar spectrum price (primary link); no shareholder letters exist (Pattern C, first proxy due 2027) | Q4 2026 10-K and call; 2027 DEF 14A |
-| TSLA | Q3 2026 Update and call (Oct 21, after this refresh); robotaxi fleet size and paid miles; 2019 Autonomy Day primary link; FY2021–25 Item 1A diff not redone in the v7 migration | Q3 Update; Q4 Update; 10-K |
+| TSLA | Full Q3 2026 call transcript (call details rest on one press recap); robotaxi fleet size and paid miles; Optimus unit count; 2019 Autonomy Day primary link; FY2021–25 Item 1A diff | Q3 transcript (ir.tesla.com replay); Q4 Update; 10-K |
 | SBUX | Uplift-store return (sales lift vs. control, payback on ~$150K); four-wall margin; Niccol Sep 10 CNBC full transcript | Q4 FY26 call; CNBC transcript |
 | SHOP | Executed insider sales behind the Aug–Sep Form 144 notices (insiders report on SEDI, not Form 4); merchant count; agentic GMV | SEDI; Q3 2026 call |
 | RKT | Short interest % of float | Fintel / aggregator |
@@ -179,4 +179,4 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 
 ---
 
-*Last updated: 2026-10-21*
+*Last updated: 2026-10-22*

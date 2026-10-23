@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="760" height="380" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">
+<defs><clipPath id="plot"><rect x="48" y="40" width="598" height="312"/></clipPath></defs>
+<rect x="48" y="12" width="14" height="3" rx="1.5" fill="#2a78d6"/>
+<text x="68" y="17" fill="#6f6e69">Kodiak</text>
+<rect x="119.2" y="12" width="14" height="3" rx="1.5" fill="#eb6834"/>
+<text x="139.2" y="17" fill="#6f6e69">Archrock</text>
+<rect x="204.8" y="12" width="14" height="3" rx="1.5" fill="#1baf7a"/>
+<text x="224.8" y="17" fill="#6f6e69">GE Vernova</text>
+<rect x="304.8" y="12" width="14" height="3" rx="1.5" fill="#eda100"/>
+<text x="324.8" y="17" fill="#6f6e69">S&amp;P 500</text>
+<line x1="48" x2="640" y1="346.0" y2="346.0" stroke="#8a8a8a" stroke-opacity="0.25" stroke-width="1"/>
+<text x="40" y="350.0" text-anchor="end" fill="#6f6e69">80</text>
+<line x1="48" x2="640" y1="296.0" y2="296.0" stroke="#8a8a8a" stroke-opacity="0.6" stroke-width="1"/>
+<text x="40" y="300.0" text-anchor="end" fill="#6f6e69">100</text>
+<line x1="48" x2="640" y1="246.0" y2="246.0" stroke="#8a8a8a" stroke-opacity="0.25" stroke-width="1"/>
+<text x="40" y="250.0" text-anchor="end" fill="#6f6e69">120</text>
+<line x1="48" x2="640" y1="196.0" y2="196.0" stroke="#8a8a8a" stroke-opacity="0.25" stroke-width="1"/>
+<text x="40" y="200.0" text-anchor="end" fill="#6f6e69">140</text>
+<line x1="48" x2="640" y1="146.0" y2="146.0" stroke="#8a8a8a" stroke-opacity="0.25" stroke-width="1"/>
+<text x="40" y="150.0" text-anchor="end" fill="#6f6e69">160</text>
+<line x1="48" x2="640" y1="96.0" y2="96.0" stroke="#8a8a8a" stroke-opacity="0.25" stroke-width="1"/>
+<text x="40" y="100.0" text-anchor="end" fill="#6f6e69">180</text>
+<line x1="48" x2="640" y1="46.0" y2="46.0" stroke="#8a8a8a" stroke-opacity="0.25" stroke-width="1"/>
+<text x="40" y="50.0" text-anchor="end" fill="#6f6e69">200</text>
+<text x="48.0" y="370" text-anchor="start" fill="#6f6e69">2026-02</text>
+<polyline clip-path="url(#plot)" points="48.0,296.0 64.9,245.8 81.8,240.5 98.7,238.2 115.7,214.3 132.6,210.0 149.5,216.5 166.4,206.2 183.3,190.8 200.2,176.8 217.1,161.5 234.1,145.0 251.0,129.5 267.9,122.7 284.8,99.3 301.7,95.0 318.6,137.0 335.5,147.8 352.5,123.3 369.4,79.3 386.3,131.0 403.2,147.2 420.1,184.5 437.0,186.8 453.9,179.5 470.9,146.2 487.8,167.0 504.7,190.5 521.6,160.2 538.5,152.5 555.4,184.0 572.3,219.7 589.3,211.0 606.2,216.5 623.1,255.0 640.0,266.5" fill="none" stroke="#2a78d6" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="640.0" cy="266.5" r="4" fill="#2a78d6"/>
+<polyline clip-path="url(#plot)" points="48.0,296.0 64.9,274.5 81.8,267.2 98.7,265.5 115.7,244.5 132.6,244.8 149.5,250.8 166.4,242.8 183.3,243.0 200.2,239.2 217.1,236.2 234.1,227.5 251.0,213.0 267.9,230.8 284.8,224.8 301.7,226.2 318.6,258.5 335.5,252.5 352.5,231.8 369.4,186.0 386.3,215.2 403.2,227.3 420.1,235.8 437.0,239.0 453.9,260.2 470.9,246.2 487.8,271.2 504.7,276.0 521.6,263.5 538.5,262.8 555.4,273.2 572.3,283.0 589.3,284.0 606.2,284.2 623.1,290.5 640.0,293.5" fill="none" stroke="#eb6834" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="640.0" cy="293.5" r="4" fill="#eb6834"/>
+<polyline clip-path="url(#plot)" points="48.0,296.0 64.9,288.0 81.8,280.5 98.7,271.0 115.7,256.8 132.6,284.8 149.5,279.5 166.4,264.0 183.3,263.2 200.2,217.5 217.1,213.7 234.1,165.2 251.0,193.7 267.9,201.2 284.8,198.3 301.7,201.8 318.6,225.2 335.5,236.7 352.5,234.2 369.4,199.5 386.3,184.3 403.2,195.2 420.1,209.5 437.0,217.7 453.9,217.7 470.9,193.5 487.8,228.8 504.7,243.8 521.6,233.7 538.5,228.8 555.4,234.2 572.3,228.5 589.3,218.2 606.2,213.0 623.1,240.5 640.0,272.0" fill="none" stroke="#1baf7a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="640.0" cy="272.0" r="4" fill="#1baf7a"/>
+<polyline clip-path="url(#plot)" points="48.0,296.0 64.9,297.8 81.8,301.0 98.7,298.2 115.7,299.5 132.6,304.2 149.5,308.0 166.4,312.2 183.3,317.5 200.2,301.0 217.1,290.0 234.1,288.8 251.0,286.2 267.9,280.0 284.8,279.5 301.7,277.2 318.6,273.2 335.5,280.2 352.5,278.5 369.4,282.5 386.3,273.2 403.2,277.2 420.1,279.0 437.0,276.0 453.9,266.5 470.9,265.5 487.8,269.2 504.7,268.0 521.6,267.8 538.5,269.8 555.4,270.0 572.3,266.5 589.3,267.2 606.2,264.0 623.1,269.5 640.0,269.8" fill="none" stroke="#eda100" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="640.0" cy="269.8" r="4" fill="#eda100"/>
+<text x="649.0" y="270.5" fill="#6f6e69">Kodiak 112</text>
+<text x="649.0" y="285.5" fill="#6f6e69">S&amp;P 500 110</text>
+<text x="649.0" y="300.5" fill="#6f6e69">GE Vernova 110</text>
+<text x="649.0" y="315.5" fill="#6f6e69">Archrock 101</text>
+</svg>

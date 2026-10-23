@@ -33,7 +33,7 @@ Add/refresh an Outsider read in the Summary's "Why / Why not" only when a **mate
 
 ---
 
-## Cross-Ticker Scoring (as of 2026-09-25)
+## Cross-Ticker Scoring (as of 2026-10-23)
 
 Anchored on the buyback-timing test, read from each page's §4 capital-allocation block. This table is the authoritative central record; each §4 block is the canonical per-ticker home.
 
@@ -65,6 +65,7 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 | **WING** | Skipworth | Q4 2025 $241 avg buyback — bought into the early SSS reset. ⚠️ Whether $241 avg proves countercyclical-genius or premature depends on 2026–27 SSS recovery. |
 | **MP** | Litinsky | FY24 $225M = 8.6% of shares, trough opportunism *(Paused)*. |
 | **ONON** | Allemann / Coppetti | **Upgraded from Reinvestor 2026-08-19.** Q2 2026 supplied the temperament evidence: management cut its own revenue guide — the metric the market rewards — to protect full-price integrity and *raised* the gross-margin guide in the same release, accepting a 22% single-day drawdown rather than discount. Two co-founders then bought ≈$4.0M personally at $30.67, 16% below their May purchases (≈$10.6M across two clusters). Record CHF 1.21B cash still funds organic build-out; no dividend, no M&A. ⚠️ Stops short of full Outsider because the *corporate* countercyclical-repurchase test is untested — On has never run a buyback, and record cash plus founders buying personally is the natural moment to start one. |
+| **CMG** | Boatwright | **Added 2026-10-23.** Repurchases sized against weakness: $436M at $50 in Q2 2025, $742M at $34 in Q4 2025 and $631M at $33 in Q2 2026, $3.8B in 18 months at a ≈$39 average. No debt, no dividend, no M&A; new restaurants earn ≈60% year-two cash-on-cash. ⚠️ Stops short of Outsider because the buyback ran at 145–168% of free cash flow and drew cash and investments from $2.29B to $0.78B, at prices now 30% above market; from here it can only run at FCF pace. |
 
 ### Tier 3 — Reinvestors (Outsider *philosophy*, low/no buyback)
 

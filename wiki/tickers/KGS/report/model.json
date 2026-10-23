@@ -1,0 +1,140 @@
+{
+ "spot": 45.45,
+ "dps": 1.96,
+ "discount_rate": 0.1,
+ "hurdle": 0.13,
+ "risk_free": 0.0499,
+ "last_year": 2031,
+ "fy_prefix": "FY",
+ "eps_label": "Discretionary cash flow per share",
+ "segment_names": {
+  "COMP": "Compression Infrastructure",
+  "POWER": "Power Infrastructure",
+  "OTHER": "Other Services"
+ },
+ "base": {
+  "year": 2026,
+  "shares": 0.1011,
+  "corp_pct": 0.2567,
+  "other": 0.0,
+  "tax": 0.0,
+  "segments": {
+   "COMP": {
+    "rev": 1.265,
+    "margin": 0.6975
+   },
+   "POWER": {
+    "rev": 0.11,
+    "margin": 0.65
+   },
+   "OTHER": {
+    "rev": 0.1425,
+    "margin": 0.145
+   }
+  },
+  "sbc_pct": 0.02,
+  "eps_excludes_sbc": true,
+  "oe_conversion": 1.0
+ },
+ "other_growth": 0.0,
+ "cases": {
+  "Bull": {
+   "role": "bull",
+   "prob": 0.15,
+   "pe": 12.4,
+   "basis": "owner",
+   "corp_pct": 0.261,
+   "sbc_pct": 0.02,
+   "dilution": 0.026,
+   "buyback": 0.0,
+   "segments": {
+    "COMP": {
+     "g": 0.0705,
+     "m": 0.69
+    },
+    "POWER": {
+     "g": 0.661,
+     "m": 0.65
+    },
+    "OTHER": {
+     "g": 0.07,
+     "m": 0.16
+    }
+   },
+   "tier": "Possible",
+   "story": "5.2M hp at $28.50 a month and a 69% margin; all 2 GW contracted at ≈$58K per MW-month blended, close to management's five-year payback; EBITDA ≈$1.9B at 10.5×, net debt ≈$4.6B, 115M shares."
+  },
+  "Base": {
+   "role": "base",
+   "prob": 0.55,
+   "pe": 9.6,
+   "basis": "owner",
+   "corp_pct": 0.272,
+   "sbc_pct": 0.02,
+   "dilution": 0.0133,
+   "buyback": 0.0,
+   "segments": {
+    "COMP": {
+     "g": 0.0553,
+     "m": 0.67
+    },
+    "POWER": {
+     "g": 0.343,
+     "m": 0.6
+    },
+    "OTHER": {
+     "g": 0.048,
+     "m": 0.15
+    }
+   },
+   "tier": "Probable",
+   "story": "Compression +3% a year on price to 5.0M hp at the normalized 67% margin; power reaches ~1 GW on six-to-ten-year contracts at ≈$40K per MW-month blended (new builds near 10% returns); EBITDA ≈$1.24B at 9×, net debt ≈$3.9B, 108M shares."
+  },
+  "Bear": {
+   "role": "bear",
+   "prob": 0.3,
+   "pe": 6.8,
+   "basis": "owner",
+   "corp_pct": 0.307,
+   "sbc_pct": 0.02,
+   "dilution": 0.0133,
+   "buyback": 0.0,
+   "segments": {
+    "COMP": {
+     "g": -0.0161,
+     "m": 0.64
+    },
+    "POWER": {
+     "g": 0.143,
+     "m": 0.6
+    },
+    "OTHER": {
+     "g": -0.018,
+     "m": 0.12
+    }
+   },
+   "tier": "Probable",
+   "story": "Gas cycle turns in 2028 (utilization 88%, price flat at $24, margin 64%); ~700 MW built, 80% used at legacy rates as AI-backed counterparties retrench; EBITDA ≈$780M at 7.5×, leverage near 4×, dividend cut."
+  }
+ },
+ "diagnostics": {
+  "Priced-in": {
+   "label": "Priced-in (10%/yr)",
+   "target_return": 0.1,
+   "pe": 9.6,
+   "path": [
+    "Bear",
+    "Base"
+   ]
+  },
+  "Hurdle": {
+   "label": "Hurdle (13%/yr)",
+   "target_return": 0.13,
+   "pe": 9.6,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  }
+ }
+}

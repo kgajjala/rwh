@@ -1,0 +1,16 @@
+Kodiak Gas Services — Power supply agreement with West Texas data center (Business Wire, September 21, 2026)
+Original: https://www.poweronline.com/doc/kodiak-gas-services-announces-power-supply-agreement-with-west-texas-data-center-0001
+Cross-checks: https://www.investing.com/news/company-news/kodiak-gas-services-secures-76-mw-data-center-power-contract-93CH-4908730
+              https://www.datacenterdynamics.com/en/news/kodiak-gas-services-to-supply-76mw-of-behind-the-meter-gas-power-to-west-texas-data-center/
+              http://baystreet.ca/articles/stockstowatch/124002/Kodiak-Falls-on-Deal-with-West-Texas-Data-Center
+
+Extracted facts (full text not reproducible through the fetch tool; facts cross-checked across the four sources above):
+- 76 MW of behind-the-meter baseload power, including balance of plant, for a West Texas data center.
+- Term: six years.
+- Equipment: approximately 40 natural-gas-fueled reciprocating generation units from Kodiak's existing fleet (CEO: the size "fits our available power fleet").
+- Customer: a data center operator with an investment-grade hyperscaler under contract; a GPU designer guarantees the data center lease.
+- Deployment begins Q4 2026, scaling into Q1 2027; revenue recognition expected to begin Q1 2027.
+- CEO Mickey McKee: Kodiak's second long-term contract to supply primary power to a data center; about half of the current power portfolio is now under long-term contracts.
+- Contract value and pricing: not disclosed.
+- Stock reaction: −1.6% to $57.77 on Sep 21 (Baystreet); $52.91 by Sep 25 (S-3ASR cover).
+Context: on the Q2 2026 call (Aug 7) management described its West Texas LNTP project as "sub-100-megawatt", supplying power "in early 2027", for a data center "whose capacity is leased out to a hyperscaler" — the Sep 21 contract matches on every disclosed attribute [Derived].

@@ -1,0 +1,1329 @@
+{
+ "meta": {
+  "ticker": "KGS",
+  "company": "Kodiak Gas Services, Inc.",
+  "title": "Kodiak: The Anchor Came In Short",
+  "dek": "The compression business has never been better. The first data-center anchor turned out to be six years on old engines, and since then the stock has traded like an AI-power stock. At $45, is the compressor franchise on sale, or is the power plan still priced too generously?",
+  "date": "2026-10-23",
+  "date_long": "October 23, 2026",
+  "status": "Active",
+  "price": 45.45,
+  "price_note": "Oct 23, 2026, 12:14 PM ET (StockAnalysis $45.43)",
+  "price_url": "https://finance.yahoo.com/quote/KGS/",
+  "range52": [
+   32.55,
+   77.68
+  ],
+  "type": "Contracted infrastructure: contract gas compression plus behind-the-meter power",
+  "stage": "Mature compounder (compression) funding an early-growth power build",
+  "cyclical": "Yes (gas activity)",
+  "competence": "Edge",
+  "compounder": false,
+  "terminal_label": "FY2031",
+  "accent": {
+   "light": "#8a4b14",
+   "dark": "#f0b27a"
+  },
+  "html_name": "KGS-deep-dive.html",
+  "artifact_url": "",
+  "report_path": "../KGS.md"
+ },
+ "verdict": {
+  "sentence": "A best-in-class compression fleet is funding a power build whose first anchor came in at six years on existing engines, not ten on new turbines; at $45 the probability-weighted case pays [[pw_return]] a year against the 13% hurdle, so the selloff is close to an opportunity without yet being one.",
+  "non_holder": {
+   "emoji": "🟡",
+   "verb": "Watch (entry ≤[[entry]])"
+  },
+  "holder": {
+   "emoji": "🟡",
+   "verb": "Hold"
+  },
+  "breaks_if": "credit-agreement leverage goes above 3.5× at the November or February print, or Kodiak issues primary equity to fund power. Then the build costs shareholders more than it earns, and 10 points move from the Base to the Bear.",
+  "multiple_label": "FY26E EV/EBITDA",
+  "multiple": "≈8.6×",
+  "bait": "Double (B+A)",
+  "moat": "Narrow, stable",
+  "next": "early Nov (Q3, ≈Nov 3)",
+  "price_implies": "~[[Priced-in.cagr]] owner cash flow growth at 10%"
+ },
+ "call": "Since September 16 Kodiak has fallen 22% while Archrock fell 6%. Three things did it. On September 21 the West Texas project that management had at limited notice to proceed was signed as a six-year, 76 MW deal served from the existing recip fleet, at an undisclosed price, and the stock lost 10% in four sessions while Archrock lost 3%. The ten-year Treasury went to 5.3%. And from October 14 Kodiak traded with the AI-power complex, as CoreWeave's bonds broke and Meta's spending outlook reopened the financing question; it fell 10% on October 22 alongside GE Vernova and Vistra. Compression, which earns most of the cash, had no news at all. The six-year term fails my first test as written, so I cut the Bull to 15% and take management's new-build economics out of the Base. What remains is a business compounding at about [[compounding]] a year at a flat multiple, 4.3 points of it the dividend, plus a power fleet priced near legacy rates. The price implies [[implied_bear]] Bear odds at a 10% discount rate; I assign 30%. That earns [[pw_return]], short of 13%, and the verb is probability-fragile: break-even Bear odds are [[breakeven_bear]]. Leverage at the Q3 print settles it.",
+ "tests": [
+  {
+   "claim": "That new-build power earns its cost of capital.",
+   "test": "by the Q4 print (late February 2027), a signed contract of seven years or longer for at least 100 MW of the turbine fleet on order (not the existing recips), with management stating returns at or above its 15% unlevered target.",
+   "shift": {
+    "from": "Bull",
+    "to": "Bear",
+    "points": 0.1
+   },
+   "if_fail": "move 10 points from Bull to Bear (PW EV [[test1.pw_ev]], [[test1.pw_return]]/yr) → **[[test1.verb]]**, entry [[test1.entry]]; the 1.8 GW order becomes a funding burden rather than an option."
+  },
+  {
+   "claim": "That the build stays inside the balance sheet.",
+   "test": "credit-agreement leverage at or below 3.5× at both the Q3 (early November) and Q4 (February) prints, a FY2027 capex plan funded from discretionary cash flow, the ABL and notes, and no primary equity issued.",
+   "shift": {
+    "from": "Base",
+    "to": "Bear",
+    "points": 0.1
+   },
+   "if_fail": "move 10 points from Base to Bear (PW EV [[test2.pw_ev]], [[test2.pw_return]]/yr) → **[[test2.verb]]**, entry [[test2.entry]]; the Outsider grade drops to Anti-Outsider for equity issued below May's $71."
+  },
+  {
+   "claim": "That compression pricing holds at peak utilization.",
+   "test": "Q3 and Q4 revenue per horsepower up at least 3.5% year over year (≥$24.40 by Q4), utilization ≥97.5% and compression adjusted gross margin ≥69% despite lube oil.",
+   "shift": {
+    "case": "Base",
+    "value": 60.0
+   },
+   "if_fail": "Base cut to $60 on 2% a year of price and a 66% margin (PW EV [[test3.pw_ev]], [[test3.pw_return]]/yr) → **[[test3.verb]]**, entry [[test3.entry]]."
+  }
+ ],
+ "updates": [
+  {
+   "date": "2026-10-23",
+   "title": "The anchor came in at six years, and Kodiak became an AI-power stock",
+   "file": "updates/2026-10-23.md",
+   "scorecard": [
+    {
+     "test": "The anchor is real: a ten-year-plus West Texas contract at new-build pricing by February 2027",
+     "result": "fail",
+     "evidence": "signed Sep 21 as six years, 76 MW, existing recips, price undisclosed; Bull 25% → 15%, Base power cut"
+    },
+    {
+     "test": "The build stays inside the balance sheet: leverage ≤3.5× at the next two prints, no equity below $71",
+     "result": "pending",
+     "evidence": "3.1× at June 30; first read at the Q3 print"
+    },
+    {
+     "test": "Compression pricing holds: revenue per hp ≥+3.5% YoY at ≥97.5% utilization, margin ≥69%",
+     "result": "pending",
+     "evidence": "Q2 +4.5% at 98.2% and 70.0%; first read at the Q3 print"
+    }
+   ]
+  }
+ ],
+ "tables": {
+  "quarters": {
+   "columns": [
+    "$ Million",
+    "Q2 2025",
+    "Q1 2026",
+    "Q2 2026",
+    "FY2026 guide"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "**Compression Infrastructure revenue**",
+      "293.5",
+      "307.0",
+      "315.1",
+      "1,250–1,280"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Adjusted gross margin",
+      "68.3%",
+      "70.6%",
+      "70.0%",
+      "69.0–70.5%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Revenue per hp-month",
+      "$22.78",
+      "—",
+      "**$23.80** (+4.5%)",
+      "—"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Utilization",
+      "97.2%",
+      "98.0%",
+      "**98.2%**",
+      "—"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Power Infrastructure revenue**",
+      "—",
+      "—",
+      "32.9",
+      "95–125"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Adjusted gross margin",
+      "—",
+      "—",
+      "64.5%",
+      "60–70%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Fleet / utilization",
+      "—",
+      "—",
+      "405 MW / 89.6%",
+      "—"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Other Services revenue**",
+      "29.3",
+      "38.8",
+      "43.1",
+      "125–160"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Adjusted gross margin",
+      "24.5%",
+      "15.9%",
+      "11.3%",
+      "13–16%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Total revenue",
+      "322.8",
+      "345.8",
+      "**391.1**",
+      "≈1,470–1,565"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "Adjusted EBITDA",
+      "178.2",
+      "190.1",
+      "**216.8**",
+      "**830–860**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Discretionary cash flow",
+     "116.4",
+     "126.5",
+     "163.3",
+     "570–600"
+    ],
+    [
+     "Free cash flow (company definition)",
+     "70.3",
+     "37.0",
+     {
+      "v": "−87.5",
+      "cls": "neg"
+     },
+     "capex 805–895"
+    ],
+    [
+     "Net leverage (credit agreement)",
+     "—",
+     "3.6×",
+     "3.1×",
+     "\"peaks in the mid-3s\""
+    ]
+   ],
+   "note": "Adjusted gross margin is revenue less cost of operations before D&A. Discretionary cash flow is adjusted EBITDA less cash interest, cash taxes and maintenance capex. Source: [Q2 2026 release](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000052/kgsq22026earningsrelease.htm), [Q2 10-Q](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000055/kgs-20260630.htm). Built with Claude."
+  },
+  "power_drivers": {
+   "columns": [
+    "Power",
+    "Q2 2026 actual",
+    "Management's new-build case",
+    "The September 21 contract"
+   ],
+   "rows": [
+    [
+     "Unit of value",
+     "1 MW of revenue-generating capacity",
+     "1 MW of new turbine or recip capacity",
+     "76 MW, about 40 recips from the existing fleet"
+    ],
+    [
+     "Units",
+     "363 MW revenue-generating of 405 MW (89.6%)",
+     "≈1.8 GW secured by 2030, ~66% turbines; 1 GW of Baker Hughes turbines firm",
+     "76 MW"
+    ],
+    [
+     "Revenue per MW-month",
+     "≈$30K",
+     "≈$69K needed for the stated payback [Derived]",
+     "**Not disclosed**"
+    ],
+    [
+     "Adjusted gross margin",
+     "64.5%",
+     "60–70% (FY2026 guide range)",
+     "n/d"
+    ],
+    [
+     "Capital per MW",
+     "≈$1.8M (DPS price ÷ 405 MW, incl. goodwill)",
+     "$1.2M equipment + ≈$1.5M balance of plant = **$2.7M**",
+     "Already owned"
+    ],
+    [
+     "Contract term",
+     "Mostly shorter-term; extensions at higher rates",
+     "\"10- to 15-year\" typical; 7–8 years \"depending on the deal\"",
+     "**Six years**"
+    ],
+    [
+     "Counterparty",
+     "Oil-field microgrids, commissioning power, industrial",
+     "Hyperscalers and data-center developers",
+     "Data-center operator; IG hyperscaler tenant; GPU designer guarantees the lease"
+    ]
+   ],
+   "note": "Revenue per MW-month = segment revenue ÷ average revenue-generating MW ÷ 3. The new-build revenue figure is what a five-year payback on $2.7M per MW requires at a 65% margin. Source: [Q2 2026 release](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000052/kgsq22026earningsrelease.htm), [Q2 call](https://www.fool.com/earnings/call-transcripts/2026/08/07/kodiak-gas-services-kgs-q2-2026-earnings-call-transcript/), [Sep 21 release](https://www.poweronline.com/doc/kodiak-gas-services-announces-power-supply-agreement-with-west-texas-data-center-0001). Built with Claude."
+  },
+  "mw_economics": {
+   "columns": [
+    "Illustrative 1 MW, per year",
+    "Legacy fleet today",
+    "New build at management's returns",
+    "New build, six-year term, no residual",
+    "New build, six-year term, 50% residual"
+   ],
+   "rows": [
+    [
+     "Capital per MW",
+     "$1.8M (purchase price)",
+     "$2.7M",
+     "$2.7M",
+     "$2.7M"
+    ],
+    [
+     "Revenue per MW-month needed (65% margin)",
+     "$30K (actual)",
+     "**$69K**",
+     "**$91K**",
+     "$72K"
+    ],
+    [
+     "EBITDA per MW-year",
+     "$235K",
+     "$540K",
+     "$713K",
+     "$559K"
+    ],
+    [
+     "Simple payback",
+     "7.7 yrs",
+     "5.0 yrs",
+     "3.8 yrs",
+     "4.8 yrs"
+    ],
+    [
+     "Return on capital",
+     "≈13% cash yield",
+     "15%+ unlevered IRR (management)",
+     "15% IRR",
+     "15% IRR"
+    ],
+    {
+     "cells": [
+      "**Versus the legacy rate**",
+      "1.0×",
+      "**2.3×**",
+      "**3.0×**",
+      "2.4×"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "Actual: Q2 2026 Power Infrastructure",
+      "$32.9M revenue, 64.5% margin, ≈$30K per MW-month",
+      "",
+      "",
+      ""
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "Source: company filings and the Q2 call, author's estimates. Legacy capital is the DPS purchase price ($726M) ÷ 405 MW. The six-year columns solve for a 15% IRR over six years with zero or 50% equipment value at the end; they show how much of the return rides on re-contracting when the term is short. Built with Claude."
+  },
+  "rings": {
+   "columns": [
+    "Ring",
+    "Share of FY2026E adjusted gross margin",
+    "Margin",
+    "Main threat",
+    "~Exposure to the power debate"
+   ],
+   "rows": [
+    [
+     "**1 · Compression Infrastructure**",
+     "≈91%",
+     "≈70%",
+     "Gas cycle; lube oil; a peak-margin year",
+     "Low; take-or-pay, 98% utilized, ≈9% month-to-month"
+    ],
+    [
+     "**2 · Power Infrastructure**",
+     "≈7%",
+     "≈65%",
+     "Contract term, counterparty credit, turbine cost",
+     "**All of it**; and ~$4B of capex rides on it"
+    ],
+    [
+     "**3 · Other Services**",
+     "≈2%",
+     "≈14%",
+     "Lumpy station construction",
+     "Low"
+    ]
+   ],
+   "note": "Shares of the FY2026 guide midpoints. Source: [Q2 2026 release](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000052/kgsq22026earningsrelease.htm); exposure assessments are the author's. Built with Claude."
+  },
+  "compression": {
+   "columns": [
+    "Compression",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "Q2 2026"
+   ],
+   "rows": [
+    [
+     "Adjusted gross margin",
+     "65.5%",
+     "65.1%",
+     "≈66%",
+     "≈68%",
+     "**70.0%**"
+    ],
+    [
+     "Utilization",
+     "99.9%",
+     "99.9%",
+     "96.5%",
+     "97.7%",
+     "**98.2%**"
+    ],
+    [
+     "Revenue-generating hp (M)",
+     "n/d",
+     "3.26",
+     "4.25",
+     "4.35",
+     "4.41"
+    ],
+    [
+     "Revenue per hp-month",
+     "n/d",
+     "n/d",
+     "n/d",
+     "$22.78 (Q2)",
+     "**$23.80**"
+    ],
+    {
+     "cells": [
+      "Archrock, same quarter: adj. EBITDA growth / leverage",
+      "",
+      "",
+      "",
+      "",
+      "flat / 2.6×"
+     ],
+     "cls": "sub"
+    }
+   ],
+   "note": "FY2024–25 margins approximate (CSI Compressco consolidated from April 2024). Source: Kodiak 10-Ks ([FY2023](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001767042&type=10-K)), [Q2 2026 release](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000052/kgsq22026earningsrelease.htm), [Archrock Q2 2026 release](https://www.sec.gov/Archives/edgar/data/0001389050/000138905026000025/aroc-20260804xex99d1.htm). Built with Claude."
+  },
+  "capital": {
+   "columns": [
+    "$ Million",
+    "Revenue",
+    "YoY",
+    "GAAP EPS",
+    "CFO",
+    "Capex",
+    "FCF",
+    "Dividends",
+    "% FCF",
+    "Buybacks",
+    "Acquisitions",
+    "Equity issued",
+    "Total debt",
+    "Dil. shares (M)"
+   ],
+   "rows": [
+    [
+     "FY2022",
+     "708",
+     "+17%",
+     "$1.80",
+     "220",
+     "259",
+     {
+      "v": "−39",
+      "cls": "neg"
+     },
+     "0",
+     "—",
+     "0",
+     "0",
+     "0",
+     "2,720",
+     "59"
+    ],
+    [
+     "FY2023",
+     "850",
+     "+20%",
+     "$0.29",
+     "266",
+     "220",
+     "46",
+     "30",
+     "65%",
+     "0",
+     "0",
+     "IPO",
+     "1,791",
+     "68"
+    ],
+    [
+     "FY2024",
+     "1,159",
+     "+36%",
+     "$0.56",
+     "328",
+     "337",
+     {
+      "v": "−9",
+      "cls": "neg"
+     },
+     "134",
+     "n/m",
+     "40",
+     "CSI ≈870 (mostly stock and assumed debt)",
+     "CSI units",
+     "2,582",
+     "85"
+    ],
+    [
+     "FY2025",
+     "1,308",
+     "+13%",
+     "$0.89",
+     "600",
+     "315",
+     "285",
+     "160",
+     "56%",
+     "104",
+     "0",
+     "0",
+     "2,555",
+     "89"
+    ],
+    [
+     "H1 2026",
+     "737",
+     "—",
+     "≈$0.73",
+     "171",
+     "≈378 [Derived]",
+     {
+      "v": "≈−207",
+      "cls": "neg"
+     },
+     "≈90",
+     "n/m",
+     "0",
+     "DPS 726 (587 cash + 2.4M shares)",
+     "**836 at $71**",
+     "2,780",
+     "101"
+    ],
+    {
+     "cells": [
+      "Cum. FY2022–25",
+      "4,025",
+      "",
+      "",
+      "1,414",
+      "1,131",
+      "283",
+      "324",
+      "114%",
+      "144",
+      "",
+      "",
+      "−$165M",
+      "+51%"
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "FCF = cash from operations − capex (not the company's definition). H1 2026 capex derived from discretionary cash flow less company-defined FCF plus maintenance capex. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001767042.json), 10-Ks, [Q2 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000055/kgs-20260630.htm). Built with Claude."
+  },
+  "incentives": {
+   "columns": [
+    "Component",
+    "Size / weight",
+    "What it pays for",
+    "~Latest outcome"
+   ],
+   "rows": [
+    [
+     "**Annual bonus**",
+     "50%",
+     "Adjusted EBITDA",
+     "2025 paid 119% of target"
+    ],
+    [
+     "",
+     "20% / 10% / 20%",
+     "Safety (TRIR) / ERP implementation / individual",
+     ""
+    ],
+    [
+     "**Performance shares (60% of long-term pay)**",
+     "30%",
+     "Discretionary cash flow",
+     "2023 grant vested ≈160%"
+    ],
+    [
+     "",
+     "30%",
+     "Net leverage",
+     ""
+    ],
+    [
+     "",
+     "30%",
+     "Absolute TSR",
+     "−42% from the $77.68 high"
+    ],
+    [
+     "",
+     "10%",
+     "ESG",
+     ""
+    ],
+    [
+     "**Time-based units (40% of long-term pay)**",
+     "—",
+     "Vest over three years",
+     "Vesting"
+    ],
+    {
+     "cells": [
+      "**Return on invested capital**",
+      "**0%**",
+      "Not measured anywhere in the plan",
+      "—"
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "Source: [FY2025 proxy statement (DEF 14A)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001767042&type=DEF+14A). Built with Claude."
+  },
+  "promises": {
+   "columns": [
+    "Promised",
+    "Where, when",
+    "~Outcome"
+   ],
+   "rows": [
+    [
+     "150K hp a year of organic growth to ≈5.2M hp by 2030",
+     "Q4 2025 call; March 2026 deck",
+     "✅ 80K hp in H1, ≈170K on pace for 2026; 2027 deliveries half contracted"
+    ],
+    [
+     "Dividend at ≈35% of discretionary cash flow, growing upper single digits",
+     "Prior calls; FY2025 proxy letter",
+     "🟡 Retired on the Q2 call: \"we can't tie the DCF to the dividend anymore\"; $0.49 held flat"
+    ],
+    [
+     "De-lever below 3.0× within six to eight quarters of DPS",
+     "DPS announcement deck, Feb 2026",
+     "🟡 3.1× in one quarter via $836M of equity, now guided to \"peak in the mid-3s\""
+    ],
+    [
+     "A long-term West Texas data-center contract, \"more to share before the end of the year\"",
+     "Q2 call, Aug 7, 2026",
+     "🔴 Delivered Sep 21 as six years on existing recips, against the \"10- to 15-year\" terms described on the same call"
+    ]
+   ],
+   "note": "Source: company calls and decks; [Q2 call](https://www.fool.com/earnings/call-transcripts/2026/08/07/kodiak-gas-services-kgs-q2-2026-earnings-call-transcript/); [Sep 21 release](https://www.poweronline.com/doc/kodiak-gas-services-announces-power-supply-agreement-with-west-texas-data-center-0001). Built with Claude."
+  },
+  "five_year": {
+   "columns": [
+    "$M",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "FY2026E"
+   ],
+   "rows": [
+    [
+     "Revenue",
+     "606",
+     "708",
+     "850",
+     "1,159",
+     "**1,308**",
+     "1,470–1,565 (guide)"
+    ],
+    [
+     "Adjusted EBITDA",
+     "n/d",
+     "399",
+     "438",
+     "610",
+     "**715**",
+     "**830–860**"
+    ],
+    [
+     "Adj. EBITDA margin",
+     "—",
+     "56.4%",
+     "51.5%",
+     "52.6%",
+     "54.7%",
+     "≈56%"
+    ],
+    [
+     "GAAP operating income",
+     "189",
+     "222",
+     "244",
+     "249",
+     "340",
+     "H1 231"
+    ],
+    [
+     "Interest expense",
+     "85",
+     "166",
+     "223",
+     "197",
+     "198",
+     "H1 99"
+    ],
+    [
+     "Net income",
+     "181",
+     "106",
+     "20",
+     "50",
+     "81",
+     "H1 70"
+    ],
+    [
+     "Cash from operations",
+     "250",
+     "220",
+     "266",
+     "328",
+     "600",
+     "H1 171"
+    ],
+    [
+     "Capex",
+     "202",
+     "259",
+     "220",
+     "337",
+     "315",
+     "**805–895**"
+    ],
+    [
+     "Maintenance capex (company)",
+     "n/d",
+     "n/d",
+     "n/d",
+     "≈70",
+     "≈75",
+     "80–90"
+    ],
+    [
+     "**Owner earnings (CFO − SBC − maintenance capex)**",
+     "—",
+     "—",
+     "—",
+     "≈240",
+     "**≈500**",
+     "≈540 (DCF − SBC)"
+    ],
+    [
+     "Revenue-generating hp (M, YE)",
+     "n/d",
+     "n/d",
+     "3.26",
+     "4.25",
+     "4.35",
+     "4.41 (Q2)"
+    ],
+    [
+     "Invested capital",
+     "n/d",
+     "2,939",
+     "2,962",
+     "4,016",
+     "3,809",
+     "4,846 (Q2)"
+    ],
+    [
+     "**ROIC**",
+     "—",
+     "5.7%",
+     "6.2%",
+     "5.4%",
+     "**6.5% [7.7%]**",
+     "—"
+    ],
+    [
+     "**3-yr incremental ROIC (FY22→25)**",
+     "—",
+     "—",
+     "—",
+     "—",
+     "**10.1% [15.4%]**",
+     "—"
+    ],
+    [
+     "Reinvestment rate",
+     "—",
+     "—",
+     "—",
+     "≈180%",
+     "15%",
+     "≈400%"
+    ],
+    [
+     "SBC % of revenue",
+     "0.2%",
+     "0.1%",
+     "0.7%",
+     "1.5%",
+     "1.9%",
+     "2.0% (H1)"
+    ],
+    [
+     "SBC ÷ owner earnings",
+     "—",
+     "—",
+     "—",
+     "7.5%",
+     "5.0%",
+     "≈5.6%"
+    ],
+    [
+     "Net debt ÷ adj. EBITDA",
+     "—",
+     "6.8×",
+     "4.1×",
+     "4.2×",
+     "3.6×",
+     "**3.1×** (Q2)"
+    ],
+    [
+     "Interest coverage (EBIT ÷ interest)",
+     "2.2×",
+     "1.3×",
+     "1.1×",
+     "1.3×",
+     "1.7×",
+     "2.5× (Q2)"
+    ],
+    [
+     "Diluted shares (M)",
+     "59",
+     "59",
+     "68",
+     "85",
+     "89",
+     "101 (Q2)"
+    ],
+    [
+     "Net share change",
+     "—",
+     "0%",
+     "+15%",
+     "+25%",
+     "+5%",
+     "**+13%**"
+    ]
+   ],
+   "note": "Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001767042.json), 10-Ks, [Q2 2026 release](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000052/kgsq22026earningsrelease.htm). [Derived]: invested capital = equity + debt + lease liabilities − cash; NOPAT at a 25% normalized tax rate; brackets exclude FY2025's $61M of Mexico-exit and sales-tax charges. Owner earnings use the company's maintenance capex. Cycle position: compression margin 70.0% sits at the top of its FY2022–Q2 2026 range (65.1–70.6%, median ≈66.5%); the model's terminal margins are normalized to 67% in the Base. Built with Claude."
+  },
+  "levers": {
+   "columns": [
+    "Lever",
+    "Contribution now",
+    "Runway",
+    "~Evidence",
+    "Management intent",
+    "Stage"
+   ],
+   "rows": [
+    [
+     "Market growth",
+     "≈2–3 pts of compression revenue",
+     "5+ yrs",
+     "Permian takeaway to 11.3 Bcf/d by 2029; industry utilization ≈94%; large-hp engine lead times >180 weeks",
+     "150K hp a year to 5.2M by 2030",
+     "Proven"
+    ],
+    [
+     "Share gain",
+     "Small",
+     "—",
+     "Share comes from delivering units into a supply-constrained market",
+     "Opportunistic lease buyouts",
+     "Proven, small"
+    ],
+    [
+     "Price and mix",
+     "**+4.5 pts**",
+     "3–5 yrs",
+     "≈9% of hp month-to-month reprices on renewal; utilization rose with the increase",
+     "\"Pricing improvements\" to offset lube oil",
+     "Proven"
+    ],
+    [
+     "Attach / new products (power)",
+     "$33M a quarter at 64.5%",
+     "5+ yrs",
+     "405 MW → 2 GW plan; first data-center anchor six years; turbine fleet uncontracted",
+     "300–500 MW a year",
+     "Scaling, unproven at new-build returns"
+    ],
+    [
+     "New geographies",
+     "None",
+     "—",
+     "U.S.-only since the Mexico exit; power is sited at load",
+     "—",
+     "n/a"
+    ],
+    [
+     "M&A",
+     "Episodic",
+     "—",
+     "CSI Compressco 2024, DPS 2026, both integrated on schedule",
+     "Fourth priority",
+     "Proven"
+    ],
+    [
+     "Margin",
+     "+170 bps YoY",
+     "1–2 yrs",
+     "70% compression margin, above the ≈66.5% median",
+     "69–70.5% guide",
+     "Near peak"
+    ],
+    [
+     "Share count",
+     {
+      "v": "+13% in 2026",
+      "cls": "neg"
+     },
+     "—",
+     "$836M raised at $71; $150M authorization unused, expiring Dec 31",
+     "Repurchases \"opportunistic\"",
+     "Negative"
+    ]
+   ],
+   "note": "Lever taxonomy per the framework. Source: [Q2 call](https://www.fool.com/earnings/call-transcripts/2026/08/07/kodiak-gas-services-kgs-q2-2026-earnings-call-transcript/), [Aug 2026 investor deck](https://ir.kodiakgas.com/news-events/presentations). Built with Claude."
+  },
+  "moat": {
+   "columns": [
+    "Read",
+    "Call",
+    "~Evidence"
+   ],
+   "rows": [
+    [
+     "Mechanism",
+     "**Scale economies** + a **cornered resource** in equipment slots",
+     "Largest large-hp fleet; ~900 technicians and a Permian training campus (new 22-acre Midland hub opened Oct 21); the order book is the moat while engines are 200 weeks out"
+    ],
+    [
+     "Trend",
+     "**Stable**",
+     "Compression: utilization, price and margin up together. Power: the first anchor's six-year term says customers, not Kodiak, hold the bargaining power on term"
+    ],
+    [
+     "Profit pool",
+     "Operators capture it on renewal; OEMs on new builds; in power, the tenant and the guarantor",
+     "Turbine makers are sold out and pricing up; data-center developers ask for speed but sign short"
+    ],
+    [
+     "Customer",
+     "Midstream and E&P operators: top ten >50% of compression revenue, >60% investment grade",
+     "Job: move associated gas without downtime. Power: speed to power for data centers; CAC/LTV n/d"
+    ]
+   ],
+   "note": "7 Powers vocabulary (Helmer). Source: company filings and calls; assessments are the author's. Built with Claude."
+  },
+  "competitors": {
+   "columns": [
+    "Competitor",
+    "~Position",
+    "~Threat"
+   ],
+   "rows": [
+    [
+     "**Archrock (AROC)**",
+     "#2 U.S. contract compression; Q2 adj. EBITDA $212.6M flat, leverage 2.6×; signed ≈665K hp for eight years with a strategic customer; $1.4–1.6B of 2027–30 growth capex; $29.21, −6% since Sep 16",
+     "Same model, lower leverage; also building distributed power"
+    ],
+    [
+     "**USA Compression (USAC)**",
+     "#3, MLP, ≈8% distribution yield; entered power via J-W Power; −3% since Sep 16",
+     "Slowest grower"
+    ],
+    [
+     "**Private turbine fleets**",
+     "Infrastructure-capital-backed behind-the-meter developers",
+     "The real competition for data-center contracts"
+    ],
+    [
+     "**OEMs and self-build**",
+     "Developers buying their own turbines and hiring operators",
+     "Caps the rent on equipment slots; an O&M opportunity for Kodiak"
+    ]
+   ],
+   "note": "Source: [Archrock Q2 2026 release](https://www.sec.gov/Archives/edgar/data/0001389050/000138905026000025/aroc-20260804xex99d1.htm), Yahoo Finance prices to Oct 23; threat reads are the author's. Built with Claude."
+  },
+  "risks": {
+   "columns": [
+    "~Risk",
+    "Impact",
+    "Prob.",
+    "Priced in?",
+    "~Would break the thesis if…"
+   ],
+   "rows": [
+    [
+     "⚠️ **Externally funded build**: ≈$4B of 2027–30 power capex; ABL floats; ten-year Treasury ≈5%",
+     "High",
+     "Med",
+     "Partly",
+     "Leverage above 3.5× at either of the next two prints, or primary equity (test 2)"
+    ],
+    [
+     "⚠️ **Power earns legacy rates**: the first anchor is six years on existing recips; turbine fleet uncontracted",
+     "High",
+     "Med",
+     "Mostly (Bull cut to 15%)",
+     "No turbine contract of seven years or longer by February (test 1)"
+    ],
+    [
+     "⚠️ **AI counterparty credit** `[NEW]`: the anchor's tenant is guaranteed by a GPU designer; neocloud bonds yield ≈15%",
+     "Med",
+     "Med",
+     "Partly (the Oct 22 rout)",
+     "A tenant or guarantor downgrade, or a deferred or cancelled deployment"
+    ],
+    [
+     "**Compression cycle**: 98% utilization at a 70% margin; ≈83% of the fleet in the Permian and Eagle Ford",
+     "High",
+     "Low-Med",
+     "Partly",
+     "Utilization below 95% or price below +2% for two quarters (test 3)"
+    ],
+    [
+     "**Lube oil at $100 crude**: ≈$18M a year headwind absorbed so far",
+     "Med",
+     "High",
+     "Partly",
+     "Compression margin below 68%"
+    ],
+    [
+     "**Turbine cost and delivery**: $2.7M per MW all-in; tariffs flagged in the FY2025 10-K",
+     "Med",
+     "Med",
+     "Partly",
+     "All-in cost above $3M per MW, or 2027 deliveries slipping"
+    ],
+    [
+     "**Dividend**: covered ≈3× by discretionary cash flow, no longer tied to it",
+     "Med",
+     "Low",
+     "Mostly",
+     "Cut, or held flat through 2027"
+    ]
+   ],
+   "note": "Reflexive loop: yes, mild. If the stock stays low, equity-funded power capex dilutes more, which lowers per-share value, so the funding test matters more than usual. Ruin path: none before the 2030 ABL maturity at leverage under 4×. Source: 10-K Item 1A, author's assessments. Built with Claude."
+  },
+  "catalysts": {
+   "columns": [
+    "Date",
+    "Catalyst",
+    "~Why it matters"
+   ],
+   "rows": [
+    [
+     "✅ Sep 21",
+     "Six-year, 76 MW West Texas data-center contract ([release](https://www.poweronline.com/doc/kodiak-gas-services-announces-power-supply-agreement-with-west-texas-data-center-0001))",
+     "Old test 1 fails; −10% in four sessions"
+    ],
+    [
+     "✅ Sep 28",
+     "S-3ASR registering 2.4M DPS seller shares for resale ([S-3](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000067/kodiak-formsx32026.htm)); Series A preferred eliminated",
+     "≈2.4% overhang; no new money"
+    ],
+    [
+     "✅ Oct 14–22",
+     "AI-infrastructure credit scare (CoreWeave bonds) and the Oct 22 AI-power rout",
+     "Kodiak −10% on Oct 22 with GE Vernova and Vistra"
+    ],
+    [
+     "📅 Oct 27–28",
+     "Archrock Q3; GE Vernova Q3",
+     "Peer compression pricing; turbine demand and pricing"
+    ],
+    [
+     "📅 **Early November (≈Nov 3)**",
+     "Kodiak Q3 and first FY2027 capex framing (date not yet announced)",
+     "Tests 2 and 3"
+    ],
+    [
+     "📅 Dec 31",
+     "$150M repurchase authorization expires",
+     "Renewal or lapse reads the capital-allocation grade"
+    ],
+    [
+     "📅 Late Feb 2027",
+     "Q4, FY2027 guide, FY2026 10-K",
+     "Tests 1, 2 and 3; the leverage peak"
+    ]
+   ],
+   "note": "Source: company releases and filings; market reports. Built with Claude."
+  },
+  "sentiment": {
+   "columns": [
+    "Signal",
+    "~Read"
+   ],
+   "rows": [
+    [
+     "Analysts",
+     "Strong Buy (15), mean target $81 `[Analyst consensus]`; October cuts at Barclays ($72 → $67), Citi ($86 → $82) and RBC ($88 → $82), no three-firm cluster in a week"
+    ],
+    [
+     "Short interest",
+     "8.34M shares, 8.3% of float, flat month over month"
+    ],
+    [
+     "Insiders (Form 4, since Sep 16)",
+     "10b5-1 sales only, all small: CEO McKee 2,666 shares at $53.95 (Oct 5), COO Lenamon 1,000 at $53.25 (Oct 12), CIO Buhigas 3,663 at $58.14 (Sep 16); no purchases"
+    ],
+    [
+     "Appearances (Sep 17 – Oct 23)",
+     "No conference or media appearance located; the Sep 21 release quote, the Oct 21 Midland campus opening and McKee joining Reworld's board (Oct 1) are the only management items. Q3 date not yet on the IR calendar"
+    ],
+    [
+     "BAIT",
+     "Double (B+A): B Moderate (a 22% fall into an AI-financing narrative while compression peers fell 3–6%); A Moderate (the market prices Kodiak as AI-power beta, while earnings power of ≈$55 a share sits above the price). I and T Weak"
+    ]
+   ],
+   "note": "Context only; none of it moves a verb. Source: [StockAnalysis](https://stockanalysis.com/stocks/kgs/statistics/), [EDGAR Form 4](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001767042&type=4), [GuruFocus](https://www.gurufocus.com/news/9124358/kodiak-gas-services-inc-kgs-stock-down-37-but-still-overvalued-gf-score-81100), [CNN quote page](https://www.cnn.com/markets/stocks/KGS). Built with Claude."
+  }
+ },
+ "charts": {
+  "since_dps": {
+   "type": "line",
+   "file": "series/since_dps.json",
+   "baseline": 100,
+   "yTicks": [
+    80,
+    100,
+    120,
+    140,
+    160,
+    180,
+    200
+   ],
+   "tableEvery": 5,
+   "aria": "Total return index from February 2, 2026 = 100 for Kodiak, Archrock, GE Vernova and the S&P 500",
+   "note": "Total return including dividends, weekly, February 2, 2026 (the week Kodiak announced the DPS power acquisition) = 100. Source: Yahoo Finance adjusted closes. Built with Claude."
+  },
+  "gm_mix": {
+   "type": "bar100",
+   "keys": [
+    "Compression",
+    "Power",
+    "Other Services"
+   ],
+   "unit": "$M",
+   "valueLabel": "Adjusted gross margin",
+   "prefix": "$",
+   "suffix": "M",
+   "rows": [
+    {
+     "label": "Q2 2025",
+     "values": [
+      200,
+      0,
+      7
+     ]
+    },
+    {
+     "label": "Q2 2026",
+     "values": [
+      221,
+      21,
+      5
+     ]
+    },
+    {
+     "label": "FY2026E guide",
+     "values": [
+      882,
+      72,
+      21
+     ]
+    },
+    {
+     "label": "FY2031E Base",
+     "values": [
+      1110,
+      288,
+      27
+     ]
+    },
+    {
+     "label": "FY2031E Bull",
+     "values": [
+      1227,
+      905,
+      32
+     ]
+    }
+   ],
+   "aria": "Share of adjusted gross margin by segment, Q2 2025 to the FY2031 Base and Bull cases",
+   "note": "Adjusted gross margin before D&A. FY2026 at guide midpoints; FY2031 from the model. Source: company filings, author's model. Built with Claude."
+  }
+ },
+ "sources": [
+  {
+   "label": "Q2 2026 earnings release (8-K Ex-99.1)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1767042/000176704226000052/kgsq22026earningsrelease.htm"
+  },
+  {
+   "label": "Q2 2026 10-Q",
+   "url": "https://www.sec.gov/Archives/edgar/data/1767042/000176704226000055/kgs-20260630.htm"
+  },
+  {
+   "label": "Q2 2026 call transcript (Motley Fool)",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/08/07/kodiak-gas-services-kgs-q2-2026-earnings-call-transcript/"
+  },
+  {
+   "label": "Q2 2026 call transcript (Investing.com cross-check)",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-kodiak-gas-services-tops-q2-2026-revenue-forecast-93CH-4847197"
+  },
+  {
+   "label": "West Texas power supply agreement, Sep 21, 2026",
+   "url": "https://www.poweronline.com/doc/kodiak-gas-services-announces-power-supply-agreement-with-west-texas-data-center-0001"
+  },
+  {
+   "label": "DCD on the West Texas contract",
+   "url": "https://www.datacenterdynamics.com/en/news/kodiak-gas-services-to-supply-76mw-of-behind-the-meter-gas-power-to-west-texas-data-center/"
+  },
+  {
+   "label": "Baystreet: Kodiak falls on the deal",
+   "url": "http://baystreet.ca/articles/stockstowatch/124002/Kodiak-Falls-on-Deal-with-West-Texas-Data-Center"
+  },
+  {
+   "label": "S-3ASR, Sep 28, 2026 (selling stockholders)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1767042/000176704226000067/kodiak-formsx32026.htm"
+  },
+  {
+   "label": "8-K, Sep 28, 2026 (Series A elimination)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1767042/000176704226000063/kgs-20260928.htm"
+  },
+  {
+   "label": "Baker Hughes turbine agreement, Jul 8, 2026",
+   "url": "https://www.globenewswire.com/news-release/2026/07/08/3323943/0/en/Kodiak-Gas-Services-Baker-Hughes-Announce-Multi-Year-Gas-Turbine-Order-Agreement-to-Support-U-S-Data-Center-Growth.html"
+  },
+  {
+   "label": "DPS closing 8-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/1767042/000176704226000033/kgs-20260401.htm"
+  },
+  {
+   "label": "FY2025 proxy statement",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001767042&type=DEF+14A"
+  },
+  {
+   "label": "SEC XBRL company facts (KGS)",
+   "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001767042.json"
+  },
+  {
+   "label": "Archrock Q2 2026 release",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001389050/000138905026000025/aroc-20260804xex99d1.htm"
+  },
+  {
+   "label": "Morningstar: CoreWeave and data-center bonds slide",
+   "url": "https://www.morningstar.com/bonds/coreweave-data-center-bonds-slide-capex-debt-overhang-concerns"
+  },
+  {
+   "label": "24/7 Wall St.: GE Vernova slumps 11% on AI financing worries (Oct 22)",
+   "url": "https://247wallst.com/investing/2026/10/22/ge-vernova-slumps-11-as-metas-spending-outlook-stokes-ai-financing-worries-vertiv-holdings-drops-7-eaton-slides-6/"
+  },
+  {
+   "label": "CNBC market wrap, Oct 22, 2026",
+   "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
+  },
+  {
+   "label": "Energy Stock Channel: KGS oversold (Oct 15)",
+   "url": "https://www.energystockchannel.com/article/202610/kodiak-gas-services-kgs-stock-enters-oversold-territory-as-rsi-falls-below-30-KGS10152026rsi.htm/"
+  },
+  {
+   "label": "YourBasin: Midland facility opening (Oct 21)",
+   "url": "https://www.yourbasin.com/news/kodiak-gas-services-hosts-ribbon-cutting-at-new-midland-facility/"
+  },
+  {
+   "label": "StockAnalysis statistics",
+   "url": "https://stockanalysis.com/stocks/kgs/statistics/"
+  },
+  {
+   "label": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/KGS/"
+  }
+ ],
+ "vars": {},
+ "return_math": {
+  "price_implied": "At a 10% discount rate, spot needs FY2031 owner cash flow of [[Priced-in.owner_eps]] a share ([[Priced-in.cagr]] a year on discretionary cash flow) at a 9.6× exit: about four-fifths of the way from the Bear to the Base.",
+  "epv": "≈$55 per share: FY2026 owner cash flow of ≈$5.5 a share (discretionary cash flow less SBC) capitalized at 10% with no growth. Spot is about $10 below EPV, so the price gives the power build a negative value: it assumes the ≈$4B still to be spent earns less than its cost. The Bear ($25) sits below EPV because it adds a gas downturn to a stalled build.",
+  "base_rate": "The Bull needs ≈17% nominal (≈14% real) revenue growth for five years from $1.5B; in the nearest base-rate bucket about 12% of companies sustain ≥15% real. Possible, not probable, which is the tier I give it. The Base needs ≈9% nominal, about the median for this size.",
+  "year_ten": "Compression still adds 3–4% a year while engine lead times stay long; power's runway past 2030 depends on behind-the-meter staying a data-center default once grid interconnects catch up. In the Base the 9.6× exit is doing modest work; in the Bull most of the value is the power fleet's re-contracting."
+ }
+}

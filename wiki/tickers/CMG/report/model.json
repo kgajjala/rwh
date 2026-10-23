@@ -1,0 +1,47 @@
+{
+ "spot": 27.50,
+ "dps": 0.0,
+ "discount_rate": 0.09,
+ "hurdle": 0.13,
+ "risk_free": 0.0499,
+ "last_year": 2031,
+ "fy_prefix": "FY",
+ "eps_label": "GAAP EPS",
+ "segment_names": {"REST": "Restaurants (restaurant-level margin)"},
+ "base": {
+  "year": 2026,
+  "shares": 1.27,
+  "corp_pct": 0.097,
+  "other": 0.03,
+  "tax": 0.245,
+  "segments": {"REST": {"rev": 12.93, "margin": 0.242}},
+  "sbc_pct": 0.01,
+  "eps_excludes_sbc": false,
+  "oe_conversion": 1.0
+ },
+ "other_growth": 0.0,
+ "cases": {
+  "Bull": {
+   "role": "bull", "prob": 0.20, "pe": 26, "corp_pct": 0.090, "dilution": 0.005, "buyback": 0.035,
+   "segments": {"REST": {"g": 0.10, "m": 0.27}},
+   "tier": "Plausible",
+   "story": "Comps +4% a year with traffic +2%, 350+ openings a year; restaurant margin back to 27% (2024 level) as price catches beef; 26×, capped so implied growth stays under the 10-year Treasury."
+  },
+  "Base": {
+   "role": "base", "prob": 0.50, "pe": 24, "corp_pct": 0.095, "dilution": 0.005, "buyback": 0.03,
+   "segments": {"REST": {"g": 0.08, "m": 0.25}},
+   "tier": "Probable",
+   "story": "Comps about +2% (price only), ~7% unit contribution; restaurant margin rebuilds to 25%; buyback ~3% a year from free cash flow; 24×, today's multiple."
+  },
+  "Bear": {
+   "role": "bear", "prob": 0.30, "pe": 16, "corp_pct": 0.102, "dilution": 0.005, "buyback": 0.02,
+   "segments": {"REST": {"g": 0.04, "m": 0.215}},
+   "tier": "Probable",
+   "story": "Traffic keeps leaking to CAVA and value chains (comps −1.5% a year), openings slowed to ~250; restaurant margin 21.5%; EPS flat on 2025 for five years; 16×."
+  }
+ },
+ "diagnostics": {
+  "Priced-in": {"label": "Priced-in (9%/yr)", "target_return": 0.09, "pe": 24, "path": ["Bear", "Base"]},
+  "Hurdle": {"label": "Hurdle (13%/yr)", "target_return": 0.13, "pe": 24, "path": ["Base", "Bull"]}
+ }
+}

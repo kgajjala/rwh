@@ -1,0 +1,1437 @@
+{
+ "meta": {
+  "ticker": "CMG",
+  "company": "Chipotle Mexican Grill, Inc.",
+  "title": "Chipotle: Traffic Came Back, the Stock Didn't",
+  "dek": "Chipotle raised its guidance in July, has grown transactions for two quarters and is buying back stock as fast as its cash allows. The stock is at its lowest since January 2023. Is $27.50 the price of a scare that will pass, or of a brand that has lost its edge?",
+  "date": "2026-10-23",
+  "date_long": "October 23, 2026",
+  "status": "Active",
+  "price": 27.5,
+  "price_note": "Oct 23, 2026, 12:15 PM ET (StockAnalysis $27.52)",
+  "price_url": "https://finance.yahoo.com/quote/CMG/",
+  "range52": [
+   27.45,
+   42.19
+  ],
+  "type": "Company-operated fast-casual restaurants (unit: restaurant; AUV and restaurant-level margin)",
+  "stage": "Mature compounder in a traffic reset",
+  "cyclical": "No",
+  "competence": "Core",
+  "compounder": false,
+  "terminal_label": "FY2031",
+  "accent": {
+   "light": "#a3251b",
+   "dark": "#f08a7e"
+  },
+  "html_name": "CMG-deep-dive.html",
+  "artifact_url": "",
+  "report_path": "../CMG.md"
+ },
+ "verdict": {
+  "sentence": "A debt-free restaurant compounder with 7,000 locations of runway is at a three-year low on traffic, margin and food-safety worries; the probability-weighted case pays [[pw_return]] a year against the 13% hurdle, so the price is fair rather than cheap until the two-year traffic stack turns positive.",
+  "non_holder": {
+   "emoji": "🟡",
+   "verb": "Watch (entry ≤[[entry]])"
+  },
+  "holder": {
+   "emoji": "🟡",
+   "verb": "Hold"
+  },
+  "breaks_if": "Q4 2026 transactions are not positive against last year's −3.2%, with October already soft. Then the 2026 recovery was a compare, not a turn, and 10 points move from the Base to the Bear.",
+  "multiple_label": "FY26E P/E",
+  "multiple": "≈24×",
+  "bait": "Single (B)",
+  "moat": "Narrow, narrowing",
+  "next": "Oct 28 (Q3)",
+  "price_implies": "~[[Priced-in.cagr]] EPS growth"
+ },
+ "call": "Chipotle has fallen 26% since September 14 while CAVA fell 2% and consumer stocks were flat. Four things did it: August dining-traffic data that hit the whole group on September 15; a Starbucks takeover report on October 8 that added 6% and a denial four days later that took it back; TD Cowen's October 21 downgrade on a soft October; and a restaurant margin squeezed 220 basis points by beef and freight. The market is right that the recovery is thinner than the headlines. Q2 transactions rose 1.0% against −4.9% a year earlier, so over two years traffic is still down about 4%, AUV is falling, and CAVA's traffic grew five times as fast. It is too gloomy about the machine underneath: no debt, 350 openings a year at about 60% second-year cash-on-cash returns, and a 22% ROIC. At $27.50 the price needs EPS growth of about [[Priced-in.cagr]] to earn 9% and implies [[implied_bear]] Bear odds; I assign 30%. That earns [[pw_return]], close to the [[compounding]] the business compounds at a flat multiple but short of 13%. Entry is [[entry]], or a positive two-year traffic stack.",
+ "tests": [
+  {
+   "claim": "That the traffic recovery is a turn, not a compare.",
+   "test": "Q3 (Oct 28) comps ≥+1% with transactions ≥0% against −0.8%, then Q4 (February) transactions ≥+1.5% against −3.2%, so the two-year transaction stack improves in both quarters.",
+   "shift": {
+    "from": "Base",
+    "to": "Bear",
+    "points": 0.1
+   },
+   "if_fail": "move 10 points from Base to Bear (PW EV [[test1.pw_ev]], [[test1.pw_return]]/yr) → **[[test1.verb]]**, entry [[test1.entry]]."
+  },
+  {
+   "claim": "That pricing catches up with beef.",
+   "test": "Q3 restaurant-level margin ≥24.0% (the guide implies about 24%), Q4 pricing at or above food-cost inflation as the CFO promised, and FY2027 guidance consistent with a restaurant margin of at least 25%.",
+   "shift": {
+    "case": "Base",
+    "value": 44.0
+   },
+   "if_fail": "Base restaurant margin capped at 24%, value cut to $44 (PW EV [[test2.pw_ev]], [[test2.pw_return]]/yr) → **[[test2.verb]]**, entry [[test2.entry]]."
+  },
+  {
+   "claim": "That new units are not eating the old ones.",
+   "test": "trailing-12-month AUV at or above $3.10M in the FY2026 10-K (February), and year-two cash-on-cash returns still about 60% for the 2025 class.",
+   "shift": {
+    "from": "Bull",
+    "to": "Bear",
+    "points": 0.1
+   },
+   "if_fail": "move 10 points from Bull to Bear (PW EV [[test3.pw_ev]], [[test3.pw_return]]/yr) → **[[test3.verb]]**; the $4M AUV goal comes out of the Bull."
+  }
+ ],
+ "updates": [
+  {
+   "date": "2026-10-23",
+   "title": "A 26% fall in five weeks, and why the price is fair rather than cheap",
+   "file": "updates/2026-10-23.md",
+   "scorecard": [
+    {
+     "test": "Q2 2026 comps at or above +1%",
+     "result": "pass",
+     "evidence": "+2.2%, transactions +1.0%; FY guide raised to low single digits"
+    },
+    {
+     "test": "Restaurant-level margin stays above 22%",
+     "result": "pass",
+     "evidence": "25.2% in Q2 (−220 bps YoY); Q3 guide implies about 24%"
+    },
+    {
+     "test": "New-unit returns stay above 15%; no CEO departure",
+     "result": "pass",
+     "evidence": "year-two cash-on-cash ≈60%; Boatwright in place"
+    }
+   ]
+  }
+ ],
+ "tables": {
+  "results": {
+   "columns": [
+    "$ Million",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "H1 2025",
+    "H1 2026"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "Total revenue",
+      "9,872",
+      "11,314",
+      "11,926",
+      "5,939",
+      "6,437"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "YoY",
+      "+14.3%",
+      "+14.6%",
+      "+5.4%",
+      "+6.4%",
+      "+8.4%"
+     ],
+     "cls": "sub"
+    },
+    [
+     "Comparable restaurant sales",
+     "+7.9%",
+     "+7.4%",
+     {
+      "v": "−1.7%",
+      "cls": "neg"
+     },
+     {
+      "v": "−2.3%",
+      "cls": "neg"
+     },
+     "+1.4%"
+    ],
+    [
+     "Transactions",
+     "+5.0%",
+     "+5.3%",
+     {
+      "v": "−2.9%",
+      "cls": "neg"
+     },
+     {
+      "v": "−3.7%",
+      "cls": "neg"
+     },
+     "+0.8%"
+    ],
+    [
+     "Average restaurant sales (AUV, $M)",
+     "3.018",
+     "3.213",
+     "3.104",
+     "3.142 (Q2)",
+     "3.102 (Q2)"
+    ],
+    [
+     "Company-owned restaurants opened",
+     "271",
+     "304",
+     "334",
+     "118",
+     "149"
+    ],
+    {
+     "cells": [
+      "Restaurant-level margin",
+      "26.2%",
+      "26.7%",
+      "25.4%",
+      "26.8%",
+      "24.5%"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Food, beverage and packaging",
+     "29.5%",
+     "29.8%",
+     "29.6%",
+     "29.0%",
+     "29.6%"
+    ],
+    [
+     "Labor",
+     "24.7%",
+     "24.7%",
+     "25.1%",
+     "24.8%",
+     "25.5%"
+    ],
+    {
+     "cells": [
+      "Operating margin (GAAP)",
+      "15.8%",
+      "16.9%",
+      "16.2%",
+      "17.4%",
+      "14.4%"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "Diluted EPS (GAAP)",
+      "$0.89",
+      "$1.11",
+      "$1.14",
+      "$0.60",
+      "$0.55"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Digital share of food and beverage sales",
+     "37.4%",
+     "35.1%",
+     "36.7%",
+     "≈35.5%",
+     "≈38.4%"
+    ]
+   ],
+   "note": "EPS adjusted for the June 2024 50-for-1 split. H1 2025 restaurant-level margin is the reported Q1 and Q2 figures weighted by revenue. Source: [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1058090/000105809026000009/cmg-20251231.htm), [FY2024 10-K](https://www.sec.gov/Archives/edgar/data/1058090/000105809025000014/cmg-20241231.htm), [Q2 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1058090/000105809026000066/cmg-20260630.htm). Built with Claude."
+  },
+  "drivers": {
+   "columns": [
+    "Year over year",
+    "Q2 2025",
+    "Q3 2025",
+    "Q4 2025",
+    "Q1 2026",
+    "Q2 2026",
+    "Q3 2026 guide"
+   ],
+   "rows": [
+    [
+     "Comparable restaurant sales",
+     {
+      "v": "−4.0%",
+      "cls": "neg"
+     },
+     "+0.3%",
+     {
+      "v": "−2.5%",
+      "cls": "neg"
+     },
+     "+0.5%",
+     "**+2.2%**",
+     "≈+1%"
+    ],
+    [
+     "Transactions",
+     {
+      "v": "−4.9%",
+      "cls": "neg"
+     },
+     {
+      "v": "−0.8%",
+      "cls": "neg"
+     },
+     {
+      "v": "−3.2%",
+      "cls": "neg"
+     },
+     "+0.6%",
+     "**+1.0%**",
+     "n/d"
+    ],
+    [
+     "Average check",
+     "+0.9%",
+     "+1.1%",
+     "+0.7%",
+     "−0.1%",
+     "+1.2%",
+     "—"
+    ],
+    [
+     "Menu price",
+     "+1.9%",
+     "n/d",
+     "n/d",
+     "≈+1.0%",
+     "+1.6%",
+     "mid-2%"
+    ],
+    {
+     "cells": [
+      "Two-year transactions",
+      "—",
+      "—",
+      "—",
+      {
+       "v": "−1.7%",
+       "cls": "neg"
+      },
+      {
+       "v": "**−3.9%**",
+       "cls": "neg"
+      },
+      "≈−1% if flat"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Restaurant-level margin",
+     "27.4%",
+     "24.5%",
+     "23.4%",
+     "23.7% (adj.)",
+     "25.2%",
+     "≈24% implied"
+    ],
+    [
+     "Diluted EPS (GAAP)",
+     "$0.32",
+     "$0.29",
+     "$0.25",
+     "$0.23",
+     "$0.32",
+     "$0.29 consensus"
+    ]
+   ],
+   "note": "Two-year transactions compound the current quarter with the same quarter a year earlier (Q1 2025 transactions −2.3%). Q3 2026 margin implied from the CFO's cost guide (cost of sales just under 30%, labor mid-25%, other operating costs mid-15%, occupancy ≈5.2%). Source: quarterly releases ([Q2 2025](https://www.sec.gov/Archives/edgar/data/1058090/000105809025000055/cmg-20250723xex991.htm), [Q3 2025](https://www.sec.gov/Archives/edgar/data/1058090/000105809025000086/cmg-20251029xex991.htm), [Q4 2025](https://www.sec.gov/Archives/edgar/data/1058090/000105809026000007/cmg-20260203xex991.htm), [Q1 2026](https://www.sec.gov/Archives/edgar/data/1058090/000105809026000027/cmg-20260429xex991.htm), [Q2 2026](https://www.sec.gov/Archives/edgar/data/1058090/000105809026000063/cmg-20260729xex991.htm)), [Q2 call](https://www.fool.com/earnings/call-transcripts/2026/08/07/chipotle-cmg-q2-2026-earnings-call-transcript/). Built with Claude."
+  },
+  "restaurant": {
+   "columns": [
+    "Illustrative average restaurant, per year",
+    "Q2 2024 margin",
+    "Q2 2025",
+    "Q2 2026",
+    "FY2031 Base",
+    "Management's long-term goal"
+   ],
+   "rows": [
+    [
+     "AUV (trailing 12 months)",
+     "≈$3.1M",
+     "$3.14M",
+     "$3.10M",
+     "≈$3.42M (+2% a year)",
+     "**$4.0M**"
+    ],
+    [
+     "Restaurant-level margin",
+     "28.9%",
+     "27.4%",
+     "**25.2%**",
+     "25.0%",
+     "\"approaching 30%\""
+    ],
+    {
+     "cells": [
+      "Restaurant-level profit",
+      "≈$900K",
+      "$861K",
+      "**$782K**",
+      "≈$855K",
+      "≈$1.15M"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Change vs. Q2 2026",
+     "+15%",
+     "+10%",
+     "—",
+     "+9%",
+     "+47%"
+    ],
+    [
+     "What closes the gap",
+     "—",
+     "—",
+     "—",
+     "Price matching food inflation; traffic flat",
+     "AUV +29% on traffic; margin +4–5 pts"
+    ],
+    {
+     "cells": [
+      "New restaurant, year two (Q2 2026 disclosure)",
+      "",
+      "",
+      "≈60% cash-on-cash",
+      "",
+      ""
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "Source: company filings, author's estimates. Restaurant-level profit = AUV × restaurant-level margin applied to an average comparable restaurant; Q2 2024 AUV approximated. Long-term goals from the [February 2024 release](https://www.sec.gov/Archives/edgar/data/1058090/000105809024000006/cmg-20240206xex99_1.htm) and the Q4 2025 call. Built with Claude."
+  },
+  "rings": {
+   "columns": [
+    "Ring",
+    "~Share of restaurant-level profit",
+    "Margin",
+    "Main threat",
+    "~Exposure to the traffic debate"
+   ],
+   "rows": [
+    [
+     "**1 · Comparable U.S. restaurants (≈3,800)**",
+     "≈88%",
+     "≈25%",
+     "Traffic share loss to CAVA and value chains; beef; food safety",
+     "**High**; this is the debate"
+    ],
+    [
+     "**2 · New U.S. restaurants and Chipotlanes (opened since 2025, ≈480)**",
+     "≈10%",
+     "Ramping; year-two cash-on-cash ≈60%",
+     "Cannibalization of ring 1; site quality at 350+ a year",
+     "Moderate"
+    ],
+    [
+     "**3 · International company-owned and partner-operated**",
+     "≈2%",
+     "n/d",
+     "Execution; partner quality",
+     "Low"
+    ]
+   ],
+   "note": "Shares are the author's estimates from restaurant counts and the Q2 2026 10-Q's sales bridge (restaurants opened in 2025 and 2026 added $228M of Q2 revenue). Source: [Q2 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1058090/000105809026000066/cmg-20260630.htm). Built with Claude."
+  },
+  "buybacks": {
+   "columns": [
+    "Repurchases",
+    "Q1 2025",
+    "Q2 2025",
+    "Q3 2025",
+    "Q4 2025",
+    "Q1 2026",
+    "Q2 2026",
+    "Total"
+   ],
+   "rows": [
+    [
+     "$ Million",
+     "591",
+     "436",
+     "687",
+     "742",
+     "701",
+     "631",
+     "**3,787**"
+    ],
+    [
+     "Average price",
+     "$54.78",
+     "$50.16",
+     "$42.39",
+     "$34.14",
+     "$36.14",
+     "$32.55",
+     "**≈$39.4**"
+    ],
+    [
+     "Value at $27.50",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     {
+      "v": "≈$2.65B (−30%)",
+      "cls": "neg"
+     }
+    ],
+    {
+     "cells": [
+      "Cash and investments at period end ($B)",
+      "",
+      "",
+      "",
+      "1.25",
+      "",
+      "**0.78**",
+      "from 2.29 at YE2024"
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "Q1 2025 average price from the 10-Q equity roll-forward (10.8M shares for $591M). Source: quarterly releases and 10-Qs, [Q2 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1058090/000105809026000066/cmg-20260630.htm). Built with Claude."
+  },
+  "capital": {
+   "columns": [
+    "$ Billion",
+    "Revenue",
+    "YoY",
+    "Diluted EPS",
+    "CFO",
+    "SBC",
+    "Capex",
+    "FCF",
+    "FCF margin",
+    "Buybacks",
+    "% FCF",
+    "Cash + investments",
+    "Debt",
+    "Dil. shares (B)"
+   ],
+   "rows": [
+    [
+     "FY2021",
+     "7.55",
+     "+26.1%",
+     "$0.46",
+     "1.28",
+     "0.18",
+     "0.44",
+     "0.84",
+     "11.1%",
+     "0.47",
+     "55%",
+     "1.35",
+     "0",
+     "1.42"
+    ],
+    [
+     "FY2022",
+     "8.64",
+     "+14.4%",
+     "$0.64",
+     "1.32",
+     "0.10",
+     "0.48",
+     "0.84",
+     "9.8%",
+     "0.83",
+     "98%",
+     "1.29",
+     "0",
+     "1.40"
+    ],
+    [
+     "FY2023",
+     "9.87",
+     "+14.3%",
+     "$0.89",
+     "1.78",
+     "0.12",
+     "0.56",
+     "1.22",
+     "12.4%",
+     "0.59",
+     "48%",
+     "1.86",
+     "0",
+     "1.39"
+    ],
+    [
+     "FY2024",
+     "11.31",
+     "+14.6%",
+     "$1.11",
+     "2.11",
+     "0.13",
+     "0.59",
+     "1.51",
+     "13.4%",
+     "1.00",
+     "66%",
+     "2.29",
+     "0",
+     "1.38"
+    ],
+    [
+     "FY2025",
+     "11.93",
+     "+5.4%",
+     "$1.14",
+     "2.11",
+     "0.12",
+     "0.67",
+     "1.45",
+     "12.1%",
+     {
+      "v": "2.43",
+      "cls": "neg"
+     },
+     {
+      "v": "168%",
+      "cls": "neg"
+     },
+     "1.25",
+     "0",
+     "1.34"
+    ],
+    [
+     "H1 2026",
+     "6.44",
+     "+8.4%",
+     "$0.55",
+     "1.33",
+     "≈0.07",
+     "0.40",
+     "0.93",
+     "14.5%",
+     {
+      "v": "1.35",
+      "cls": "neg"
+     },
+     {
+      "v": "145%",
+      "cls": "neg"
+     },
+     "0.78",
+     "0",
+     "1.28"
+    ],
+    {
+     "cells": [
+      "Cum. FY2021–25",
+      "49.31",
+      "",
+      "",
+      "8.61",
+      "0.65",
+      "2.74",
+      "5.87",
+      "11.9%",
+      "5.32",
+      "91%",
+      "−0.10",
+      "0",
+      "−5.8%"
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "FCF = CFO − capex. No acquisitions and no dividends in the period; operating leases ($5.4B at June 30) are the only fixed obligations. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001058090.json), 10-Ks, [Q2 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1058090/000105809026000066/cmg-20260630.htm). Built with Claude."
+  },
+  "incentives": {
+   "columns": [
+    "Component",
+    "Size / weight",
+    "What it pays for",
+    "~Latest outcome"
+   ],
+   "rows": [
+    [
+     "**Annual bonus: company factor (75%)**",
+     "40%",
+     "Comparable restaurant sales",
+     "2025 company factor paid 40% of target"
+    ],
+    [
+     "",
+     "40%",
+     "Restaurant cash-flow margin",
+     ""
+    ],
+    [
+     "",
+     "20%",
+     "Site assessment requests (development pipeline)",
+     ""
+    ],
+    [
+     "**Annual bonus: individual (25%)**",
+     "25%",
+     "Individual goals, capped by the company factor; food-safety modifier can cut the whole bonus",
+     ""
+    ],
+    [
+     "**Performance share units**",
+     "90%",
+     "Three-year cumulative restaurant cash-flow dollars from restaurants open before the grant year",
+     "2023–25 grant paid 273%"
+    ],
+    [
+     "",
+     "10%",
+     "New restaurant openings (threshold 1,075 over 2025–27)",
+     ""
+    ],
+    [
+     "",
+     "cap",
+     "Payout capped at 100% if three-year TSR is below the S&P 500's 25th percentile",
+     "Likely to bind on the 2025 grant"
+    ],
+    [
+     "**Stock appreciation rights and RSUs**",
+     "—",
+     "Vest 50/50 on the second and third anniversaries",
+     ""
+    ],
+    {
+     "cells": [
+      "**Return on invested capital**",
+      "**0%**",
+      "Not measured anywhere in the plan",
+      "—"
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "CEO Scott Boatwright's 2025 summary compensation was $15.5M; compensation actually paid was −$16.0M as equity values fell. Source: [2026 proxy statement](https://www.sec.gov/Archives/edgar/data/1058090/000114036126017294/ny20063214x1_def14a.htm). Built with Claude."
+  },
+  "promises": {
+   "columns": [
+    "Promised",
+    "Where, when",
+    "~Outcome"
+   ],
+   "rows": [
+    [
+     "7,000 restaurants in North America",
+     "[February 2024 release](https://www.sec.gov/Archives/edgar/data/1058090/000105809024000006/cmg-20240206xex99_1.htm); reiterated on the Q4 2025 and Q2 2026 calls",
+     "🟡 On pace: 4,042 company-owned at YE2025, 350–370 openings a year → mid-2030s"
+    ],
+    [
+     "$4 million AUVs",
+     "February 2024; reiterated on the Q4 2025 call",
+     "🔴 Moving away: $3.21M (2024) → $3.10M (Q2 2026)"
+    ],
+    [
+     "Restaurant margins \"approaching 30%\"",
+     "Q4 2025 call",
+     "🔴 25.2% in Q2 2026, down 220 bps"
+    ],
+    [
+     "2025 comps \"low to mid-single digit\" growth",
+     "Q4 2024 release, February 2025",
+     "🔴 Cut three times; delivered −1.7%"
+    ],
+    [
+     "2026 comps \"about flat\"",
+     "Q4 2025 release, February 2026",
+     "✅ Raised to low single digits in July; H1 +1.4%"
+    ]
+   ],
+   "note": "Source: company releases and calls. Built with Claude."
+  },
+  "five_year": {
+   "columns": [
+    "$B, except per share",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025"
+   ],
+   "rows": [
+    [
+     "Revenue",
+     "7.55",
+     "8.64",
+     "9.87",
+     "11.31",
+     "**11.93**"
+    ],
+    [
+     "Comparable restaurant sales",
+     "+19.2%",
+     "+7.9%",
+     "+7.9%",
+     "+7.4%",
+     {
+      "v": "**−1.7%**",
+      "cls": "neg"
+     }
+    ],
+    [
+     "AUV ($M)",
+     "n/d",
+     "n/d",
+     "3.02",
+     "3.21",
+     "**3.10**"
+    ],
+    [
+     "Restaurants opened",
+     "215",
+     "236",
+     "271",
+     "304",
+     "334"
+    ],
+    [
+     "Operating margin (GAAP)",
+     "10.7%",
+     "13.4%",
+     "15.8%",
+     "16.9%",
+     "16.2%"
+    ],
+    [
+     "Diluted EPS (GAAP)",
+     "$0.46",
+     "$0.64",
+     "$0.89",
+     "$1.11",
+     "**$1.14**"
+    ],
+    [
+     "Cash from operations",
+     "1.28",
+     "1.32",
+     "1.78",
+     "2.11",
+     "2.11"
+    ],
+    [
+     "Capex",
+     "0.44",
+     "0.48",
+     "0.56",
+     "0.59",
+     "0.67"
+    ],
+    [
+     "Maintenance capex (Greenwald)",
+     "0.09",
+     "0.24",
+     "0.29",
+     "0.27",
+     "0.53"
+    ],
+    [
+     "**Owner earnings**",
+     "1.01",
+     "0.99",
+     "1.37",
+     "1.70",
+     "**1.47**"
+    ],
+    [
+     "Owner earnings per share",
+     "$0.71",
+     "$0.70",
+     "$0.99",
+     "$1.24",
+     "**$1.09**"
+    ],
+    [
+     "Owner-earnings conversion (÷ net income)",
+     "155%",
+     "110%",
+     "112%",
+     "111%",
+     "95%"
+    ],
+    [
+     "Buybacks",
+     "0.47",
+     "0.83",
+     "0.59",
+     "1.00",
+     "**2.43**"
+    ],
+    [
+     "Cash and investments",
+     "1.35",
+     "1.29",
+     "1.86",
+     "2.29",
+     "1.25"
+    ],
+    [
+     "Operating lease liabilities",
+     "3.52",
+     "3.73",
+     "4.05",
+     "4.54",
+     "5.08"
+    ],
+    [
+     "Invested capital",
+     "4.47",
+     "4.81",
+     "5.25",
+     "5.91",
+     "6.66"
+    ],
+    [
+     "**ROIC**",
+     "14.5%",
+     "18.4%",
+     "22.5%",
+     "24.8%",
+     "**22.2%**"
+    ],
+    [
+     "**3-yr incremental ROIC (FY22→25)**",
+     "—",
+     "—",
+     "—",
+     "—",
+     "**32%**"
+    ],
+    [
+     "Reinvestment rate (capex − D&A ÷ NOPAT)",
+     "29%",
+     "22%",
+     "20%",
+     "18%",
+     "21% (51% incl. new leases)"
+    ],
+    [
+     "SBC % of revenue",
+     "2.3%",
+     "1.1%",
+     "1.3%",
+     "1.2%",
+     "1.0%"
+    ],
+    [
+     "SBC ÷ owner earnings",
+     "17%",
+     "10%",
+     "9%",
+     "8%",
+     "8%"
+    ],
+    [
+     "FCF conversion (FCF ÷ net income)",
+     "129%",
+     "94%",
+     "99%",
+     "99%",
+     "94%"
+    ],
+    [
+     "Debt; interest coverage",
+     "None; n/m",
+     "None; n/m",
+     "None; n/m",
+     "None; n/m",
+     "None; n/m"
+    ],
+    [
+     "Diluted shares (B)",
+     "1.42",
+     "1.40",
+     "1.39",
+     "1.38",
+     "**1.34**"
+    ],
+    [
+     "Net share change",
+     "—",
+     "−1.5%",
+     "−1.3%",
+     "−0.6%",
+     "**−2.5%**"
+    ]
+   ],
+   "note": "Split-adjusted. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001058090.json), 10-Ks. [Derived]: invested capital = equity + operating-lease liabilities − cash and investments (no debt); NOPAT at the reported effective tax rate; owner earnings = CFO − SBC − maintenance capex, with maintenance = capex − 0.223 × Δ revenue (five-year average PP&E ÷ revenue). Cycle position: operating margin 16.2% in FY2025 against a FY2021–25 range of 10.7–16.9%; not cyclical, but the margin has turned down from its peak. Built with Claude."
+  },
+  "levers": {
+   "columns": [
+    "Lever",
+    "Contribution now",
+    "Runway",
+    "~Evidence",
+    "Management intent",
+    "Stage"
+   ],
+   "rows": [
+    [
+     "Market growth",
+     "≈1–2 pts",
+     "Indefinite",
+     "U.S. limited-service spending grows low single digits; dining visits −2.4% in August (Placer.ai)",
+     "—",
+     "Proven, slowing"
+    ],
+    [
+     "Share gain (traffic)",
+     "**+1.0%** transactions",
+     "?",
+     "Positive two quarters, but −3.9% on two years; CAVA traffic +5.3%",
+     "\"Taken share in each month of 2026\"",
+     "Unproven"
+    ],
+    [
+     "Price and mix",
+     "+1.2% check (price +1.6%, mix −0.4%)",
+     "Ongoing",
+     "Pricing lagged beef and freight in H1; mid-2% in Q3",
+     "Price to match inflation from Q4",
+     "Proven, held back"
+    ],
+    [
+     "Attach / new products",
+     "LTOs (Honey Chicken), catering, Rewards relaunch",
+     "2–3 yrs",
+     "\"Hundreds of basis points\" of traffic lift from LTOs, with diminishing returns",
+     "Menu innovation, group occasions",
+     "Scaling"
+    ],
+    [
+     "New units",
+     "**≈7 pts** of revenue growth",
+     "**8–10 yrs**",
+     "350–370 a year to 7,000+; 80% with Chipotlanes; ≈60% year-two cash-on-cash",
+     "One restaurant a day",
+     "**Proven**"
+    ],
+    [
+     "New geographies",
+     "<1 pt",
+     "10+ yrs",
+     "Canada and Europe owned (Europe comps high single digits in Q2); Middle East, Mexico, Asia partner-operated",
+     "Partner-led",
+     "Option"
+    ],
+    [
+     "M&A",
+     "None",
+     "—",
+     "Never an acquirer; the Starbucks rumor ran the other way",
+     "—",
+     "n/a"
+    ],
+    [
+     "Margin",
+     {
+      "v": "−220 bps restaurant margin YoY",
+      "cls": "neg"
+     },
+     "2–3 yrs",
+     "Beef, freight, labor and hospitality spending; HEEP equipment and throughput",
+     "\"Approaching 30%\" long term",
+     "Reversing"
+    ],
+    [
+     "Share count",
+     "**−4 to −5% a year** (2025–26)",
+     "Limited",
+     "$3.8B repurchased in 18 months; cash down to $0.78B",
+     "\"Opportunistically repurchase\"",
+     "Slowing to FCF pace"
+    ]
+   ],
+   "note": "Source: [Q2 call](https://www.fool.com/earnings/call-transcripts/2026/08/07/chipotle-cmg-q2-2026-earnings-call-transcript/), [Q2 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1058090/000105809026000066/cmg-20260630.htm), [Placer.ai via Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/chipotle-slides-6-dining-traffic-200807189.html). Built with Claude."
+  },
+  "moat": {
+   "columns": [
+    "Read",
+    "Call",
+    "~Evidence"
+   ],
+   "rows": [
+    [
+     "Mechanism",
+     "**Branding** + **scale economies** (supply chain, real estate, digital)",
+     "Only fast-casual chain of its size that owns all U.S. units; 38% digital mix; 22% ROIC on a no-debt balance sheet"
+    ],
+    [
+     "Trend",
+     "**Narrowing**",
+     "Couldn't price for beef without hurting traffic; AUV down 3.4% in 2025 and 1.3% in the year to Q2; CAVA growing traffic about five times faster"
+    ],
+    [
+     "Profit pool",
+     "Shifting toward labor, food and value-led rivals",
+     "Labor and food up 1.1 pts of revenue in Q2; hospitality and LTO spending to hold traffic"
+    ],
+    [
+     "Customer",
+     "Lunch and dinner bowl buyers; younger and lower-income cohorts the most pressured, and the most improved in Q2",
+     "Job: fast, customizable, perceived-healthy meal for about $12–15. Retention and cohort data n/d; Rewards scans only ≈20% of in-store transactions"
+    ]
+   ],
+   "note": "7 Powers vocabulary (Helmer). Source: company filings and calls; assessments are the author's. Built with Claude."
+  },
+  "competitors": {
+   "columns": [
+    "Competitor",
+    "~Position",
+    "~Threat"
+   ],
+   "rows": [
+    [
+     "**CAVA**",
+     "Q2 same-restaurant sales +9.0%, traffic +5.3%, 476 restaurants, revenue +31% ([Q2 release](https://www.sec.gov/Archives/edgar/data/0001639438/000162828026055709/earningsrelease2026q2.htm)); stock −2% since Sep 14",
+     "Rising; the clearest share-taker in the bowl format"
+    ],
+    [
+     "**Taco Bell (Yum)**",
+     "Value-led Mexican QSR",
+     "Medium; the price ceiling in a trade-down"
+    ],
+    [
+     "**McDonald's**",
+     "Value menus and promotions",
+     "Medium; competes for the lower-income lunch"
+    ],
+    [
+     "**Starbucks (Niccol)**",
+     "Explored a bid per the FT; then \"not buying Chipotle\"",
+     "Not a competitor for diners; a possible floor for the stock that has now been withdrawn"
+    ]
+   ],
+   "note": "Source: company filings and press; threat reads are the author's. Built with Claude."
+  },
+  "risks": {
+   "columns": [
+    "~Risk",
+    "Impact",
+    "Prob.",
+    "Priced in?",
+    "~Would break the thesis if…"
+   ],
+   "rows": [
+    [
+     "⚠️ **Traffic recovery is only a compare**: two-year transactions −3.9%; TD Cowen sees October missing the Q4 inflection",
+     "High",
+     "Med",
+     "Partly",
+     "Q4 transactions not positive against −3.2% (test 1)"
+    ],
+    [
+     "⚠️ **Margin squeeze**: beef and freight inflation ahead of price; restaurant margin −220 bps",
+     "High",
+     "Med",
+     "Partly",
+     "Q3 restaurant margin below 24% or a FY2027 guide below 25% (test 2)"
+    ],
+    [
+     "⚠️ **Food safety** `[recurring]`: an industry Cyclospora episode cost ≈200 bps of Q3 comps; a salmonella probe of a jalapeño lot (company not implicated, Aug 4 8-K)",
+     "High",
+     "Low-Med",
+     "Partly",
+     "Any outbreak attributed to Chipotle; the 2015–16 episode cut comps by 20%+"
+    ],
+    [
+     "**Cannibalization**: AUV falling while 350+ restaurants open each year",
+     "Med",
+     "Med",
+     "No",
+     "AUV below $3.10M at FY2026 (test 3)"
+    ],
+    [
+     "**Buyback runway**: $3.8B in 18 months; cash and investments down to $0.78B",
+     "Med",
+     "Observed",
+     "Partly",
+     "Borrowing to buy back, or buybacks above FCF in 2027"
+    ],
+    [
+     "**Labor and wage regulation**: California and other state minimums; unionization efforts",
+     "Med",
+     "Med",
+     "Partly",
+     "Labor above 26% of revenue for a year"
+    ],
+    [
+     "**CEO execution**: Boatwright's first two years include three guidance cuts",
+     "Med",
+     "Low",
+     "Partly",
+     "Another FY guide cut in 2027"
+    ]
+   ],
+   "note": "No reflexive loop: no debt, no stock-funded growth. No ruin path: operating leases are the only fixed obligation and are covered about 4× by restaurant cash flow. Source: 10-K Item 1A, author's assessments. Built with Claude."
+  },
+  "catalysts": {
+   "columns": [
+    "Date",
+    "Catalyst",
+    "~Why it matters"
+   ],
+   "rows": [
+    [
+     "✅ Jul 29",
+     "Q2: comps +2.2%, FY guide raised; Q3 ≈+1% with a ≈200 bps Cyclospora drag ([release](https://www.sec.gov/Archives/edgar/data/1058090/000105809026000063/cmg-20260729xex991.htm))",
+     "Old Q2 test passed"
+    ],
+    [
+     "✅ Aug 4",
+     "8-K: salmonella investigation of a jalapeño lot; Chipotle not implicated by Minnesota health officials ([8-K](https://www.sec.gov/Archives/edgar/data/1058090/000105809026000069/cmg-20260804.htm))",
+     "Food-safety overhang"
+    ],
+    [
+     "✅ Sep 14–15",
+     "Former KFC CEO Sabir Sami joins the board ([release](https://www.sec.gov/Archives/edgar/data/1058090/000105809026000088/cmg-20260914xex991.htm)); Placer.ai August data hit restaurants, CMG −6%",
+     "Board adds operator depth; sector traffic"
+    ],
+    [
+     "✅ Oct 8–12",
+     "FT: Starbucks explored a bid (+6%); Starbucks: \"not buying Chipotle\" (−7% over two sessions)",
+     "Takeover premium in and out"
+    ],
+    [
+     "✅ Oct 21",
+     "TD Cowen downgrade to Hold, target $44 → $32 ([report summary](https://finance.yahoo.com/markets/stocks/articles/cmg-stock-drops-td-cowen-182322640.html))",
+     "October trends; below-consensus Q4 and 2027 comps"
+    ],
+    [
+     "📅 **Oct 28**, after the close",
+     "Q3 2026 results and the Q4-to-date update",
+     "Tests 1 and 2"
+    ],
+    [
+     "📅 Oct 29",
+     "Starbucks Q4 FY2026",
+     "Any change in Niccol's appetite for deals"
+    ],
+    [
+     "📅 Early February 2027",
+     "Q4, FY2027 guide, FY2026 10-K",
+     "Tests 1, 2 and 3"
+    ]
+   ],
+   "note": "Source: company releases, filings and press reports. Built with Claude."
+  },
+  "sentiment": {
+   "columns": [
+    "Signal",
+    "~Read"
+   ],
+   "rows": [
+    [
+     "Analysts",
+     "Buy (35), mean target $43.55 `[Analyst consensus]`, still carrying pre-cut targets; TD Cowen Hold $32 (Oct 21), Wells Fargo Overweight $40 (from $45)"
+    ],
+    [
+     "Short interest",
+     "37.8M shares, 3.0% of float, down from 39.7M a month earlier"
+    ],
+    [
+     "Insiders (Form 4, 90 days)",
+     "No open-market purchases at three-year lows; August filings are tax withholding on vesting; the controller sold 2,675 shares at $35.75 (Aug 21)"
+    ],
+    [
+     "Appearances (Jul 29 – Oct 23)",
+     "The Q2 call (Jul 29) is the only management appearance located; no conference, podcast or earnings-day media interview found. The board added Sabir Sami on Sep 14"
+    ],
+    [
+     "BAIT",
+     "Single (B): a 26% fall in five weeks into a takeover round-trip and a downgrade, with peers flat. The analytical read (two-year traffic, falling AUV) points the wrong way for a buyer; I and T Weak"
+    ]
+   ],
+   "note": "Context only; none of it moves a verb. Source: [StockAnalysis](https://stockanalysis.com/stocks/cmg/statistics/), [EDGAR Form 4](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001058090&type=4), [24/7 Wall St.](https://247wallst.com/investing/2026/10/21/chipotle-falls-5-as-td-cowen-downgrades-cuts-target-to-32-mcdonalds-and-yum-brands-slip/). Built with Claude."
+  }
+ },
+ "charts": {
+  "since_niccol_exit": {
+   "type": "line",
+   "file": "series/since_niccol_exit.json",
+   "baseline": 100,
+   "yTicks": [
+    40,
+    60,
+    80,
+    100,
+    120,
+    140,
+    160,
+    180
+   ],
+   "tableEvery": 10,
+   "aria": "Total return index from August 12, 2024 = 100 for Chipotle, CAVA, Starbucks and the S&P 500",
+   "note": "Total return including dividends, weekly, August 12, 2024 (the last close before Brian Niccol's move to Starbucks was announced) = 100. Source: Yahoo Finance adjusted closes. Built with Claude."
+  },
+  "cost_stack": {
+   "type": "bar100",
+   "keys": [
+    "Food and packaging",
+    "Labor",
+    "Occupancy and other",
+    "Restaurant-level margin"
+   ],
+   "unit": "%",
+   "valueLabel": "Share of revenue",
+   "prefix": "",
+   "suffix": "%",
+   "rows": [
+    {
+     "label": "Q2 2024",
+     "values": [
+      29.4,
+      24.1,
+      17.6,
+      28.9
+     ]
+    },
+    {
+     "label": "Q2 2025",
+     "values": [
+      28.9,
+      24.7,
+      19.0,
+      27.4
+     ]
+    },
+    {
+     "label": "Q4 2025",
+     "values": [
+      30.2,
+      25.5,
+      20.9,
+      23.4
+     ]
+    },
+    {
+     "label": "Q2 2026",
+     "values": [
+      29.7,
+      25.0,
+      20.1,
+      25.2
+     ]
+    }
+   ],
+   "aria": "Restaurant revenue split into food, labor, occupancy and other, and restaurant-level margin, Q2 2024 to Q2 2026",
+   "note": "Each bar is one quarter's revenue. Occupancy and other operating costs combined. Source: quarterly releases. Built with Claude."
+  }
+ },
+ "sources": [
+  {
+   "label": "Q2 2026 earnings release (8-K Ex-99.1)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000063/cmg-20260729xex991.htm"
+  },
+  {
+   "label": "Q2 2026 10-Q",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000066/cmg-20260630.htm"
+  },
+  {
+   "label": "Q2 2026 call transcript (Motley Fool)",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/08/07/chipotle-cmg-q2-2026-earnings-call-transcript/"
+  },
+  {
+   "label": "Q2 2026 call transcript (Investing.com cross-check)",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-chipotle-beats-q2-2026-estimates-as-stock-jumps-93CH-4821911"
+  },
+  {
+   "label": "Q1 2026 release",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000027/cmg-20260429xex991.htm"
+  },
+  {
+   "label": "Q4 and FY2025 release",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000007/cmg-20260203xex991.htm"
+  },
+  {
+   "label": "Q3 2025 release",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809025000086/cmg-20251029xex991.htm"
+  },
+  {
+   "label": "Q2 2025 release",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809025000055/cmg-20250723xex991.htm"
+  },
+  {
+   "label": "FY2025 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000009/cmg-20251231.htm"
+  },
+  {
+   "label": "FY2024 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809025000014/cmg-20241231.htm"
+  },
+  {
+   "label": "2026 proxy statement",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000114036126017294/ny20063214x1_def14a.htm"
+  },
+  {
+   "label": "8-K, Aug 4, 2026 (food safety)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000069/cmg-20260804.htm"
+  },
+  {
+   "label": "Board appointment release, Sep 14, 2026",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000088/cmg-20260914xex991.htm"
+  },
+  {
+   "label": "February 2024 release (7,000 restaurants, $4M AUV)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809024000006/cmg-20240206xex99_1.htm"
+  },
+  {
+   "label": "SEC XBRL company facts (CMG)",
+   "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001058090.json"
+  },
+  {
+   "label": "CAVA Q2 2026 release",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001639438/000162828026055709/earningsrelease2026q2.htm"
+  },
+  {
+   "label": "Bloomberg Government: Chipotle jumps on Starbucks report (Oct 8)",
+   "url": "https://news.bgov.com/mergers-and-acquisitions/chipotle-jumps-on-report-starbucks-has-explored-takeover-1"
+  },
+  {
+   "label": "CNBC: Starbucks denies Chipotle takeover (Oct 12)",
+   "url": "https://www.cnbc.com/amp/2026/10/12/starbucks-denies-chipotle-takeover.html"
+  },
+  {
+   "label": "Yahoo Finance: TD Cowen downgrade (Oct 21)",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/cmg-stock-drops-td-cowen-182322640.html"
+  },
+  {
+   "label": "24/7 Wall St.: TD Cowen downgrade (Oct 21)",
+   "url": "https://247wallst.com/investing/2026/10/21/chipotle-falls-5-as-td-cowen-downgrades-cuts-target-to-32-mcdonalds-and-yum-brands-slip/"
+  },
+  {
+   "label": "Yahoo Finance: dining traffic report hits restaurant stocks (Sep 15)",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/chipotle-slides-6-dining-traffic-200807189.html"
+  },
+  {
+   "label": "Bloomberg: Chipotle cuts outlook for third time in 2025",
+   "url": "https://news.bgov.com/antitrust/chipotle-cuts-outlook-for-third-time-in-2025-on-weak-traffic-1"
+  },
+  {
+   "label": "StockAnalysis statistics",
+   "url": "https://stockanalysis.com/stocks/cmg/statistics/"
+  },
+  {
+   "label": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/CMG/"
+  }
+ ],
+ "vars": {},
+ "return_math": {
+  "epv": "≈$12–14 per share: five-year average owner earnings of ≈$1.3B (FY2021–25), or FY2025's $1.47B, capitalized at 9% with no growth, plus $0.78B of cash, on 1.27B shares. About half of today's price pays for growth. The Bear ($18) sits above EPV because it keeps unit growth and buybacks while EPS goes nowhere.",
+  "base_rate": "The Bull needs ≈10% nominal (≈7.5% real) revenue growth for five years from $13B; for companies of $10–25B, roughly a quarter sustain ≥7.5% real. Plausible, given visible unit growth. The Base's 8% nominal is in line with the unit pipeline alone.",
+  "year_ten": "Still growing at year ten: 7,000 North American restaurants is about a decade of openings at 350 a year, plus international. The exit multiple is not doing the work in the Base, which ends at today's 24×."
+ }
+}

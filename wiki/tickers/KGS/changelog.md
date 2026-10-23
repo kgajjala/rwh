@@ -4,6 +4,31 @@
 
 ---
 
+## [2026-10-23] — Six-year anchor fails test 1; −22% with AI-power selloff · migrated v5.0 → v7.0
+
+**Trigger**: [West Texas power agreement](https://www.poweronline.com/doc/kodiak-gas-services-announces-power-supply-agreement-with-west-texas-data-center-0001) (Sep 21); a 22% fall from $58.41 to $45.45 against Archrock −6%; v7 migration on that material event.
+**Sources**: [Sep 21 release notes](../../../raw/KGS/press-releases/2026-09-21_west-texas-power-agreement_NOTES.txt) · [S-3ASR](../../../raw/KGS/filings/2026-09-28_S-3ASR_selling-stockholders.txt) and [8-K](../../../raw/KGS/filings/2026-09-28_8-K_series-A-elimination.txt) (Sep 28, stored) · [Q2 call](../../../raw/KGS/transcripts/2026-08-07_Q2-2026-earnings-call.txt) · Form 4s (McKee Oct 5, Lenamon Oct 12, Buhigas Sep 16) · [Yahoo](https://finance.yahoo.com/quote/KGS/) Oct 23 · [StockAnalysis](https://stockanalysis.com/stocks/kgs/statistics/) · [24/7 Wall St. on the Oct 22 AI-power rout](https://247wallst.com/investing/2026/10/22/ge-vernova-slumps-11-as-metas-spending-outlook-stokes-ai-financing-worries-vertiv-holdings-drops-7-eaton-slides-6/)
+
+### Scorecard
+- Ten-year-plus West Texas contract at new-build pricing by Feb 2027 — 🔴 Fail — signed at six years, 76 MW, existing recips, price undisclosed; pre-committed consequence applied
+- Leverage ≤3.5× at the next two prints, no equity below $71 — 🟡 Pending — 3.1× at June 30; Q3 in early November
+- Revenue per hp ≥+3.5% YoY at ≥97.5% utilization, margin ≥69% — 🟡 Pending — Q2 +4.5% / 98.2% / 70.0%
+- Replacement test 1: a turbine contract of seven years or longer for ≥100 MW at stated 15% returns by the Q4 print
+
+### Changed
+- **Why it fell**: anchor disappointment (−10% in four sessions vs. Archrock −3%), ten-year Treasury to 5.31%, target cuts (Barclays $67, Citi and RBC $82), then the AI-credit scare and the Oct 22 rout (KGS −10% with GE Vernova and Vistra). No compression news.
+- **Scenarios**: Bull 25% → 15% ($135 → $131); Base power cut to ≈1 GW at ≈$40K/MW-month, $87 → $67; Bear 25% → 30% ($27 → $25). Terminal compression margin normalized to 67% (cyclical flag set).
+- **Page rebuilt as a v7 deep dive** (report/ sources, two charts, MW-economics table, rings, compression debate).
+
+### Status
+- **Thesis**: Weakened (power); compression unchanged
+- **PW EV**: $84 → $64 · **PW return/yr**: 10.9% → 11.3% (hurdle 13%; probability-fragile, break-even Bear 21% vs. 30%) · **R/R**: 2.4 → 4.2 · **BAIT**: Double (B+A), held
+- **Verbs**: non-holder Watch (entry $53 → $42) · holder Hold
+
+**Next trigger**: 📅 Q3 print, early November (date TBA): tests 2 and 3.
+
+---
+
 ## [2026-09-17] — Q2 2026 earnings + August deck · migrated v3.0 → v5.0
 
 **Trigger**: [Q2 2026 results](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000052/kgsq22026earningsrelease.htm) (Aug 6) and [call](../../../raw/KGS/transcripts/2026-08-07_Q2-2026-earnings-call.txt) (Aug 7); v5.0 migration on first material touch.

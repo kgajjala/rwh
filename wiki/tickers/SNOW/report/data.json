@@ -1,0 +1,1666 @@
+{
+  "meta": {
+    "ticker": "SNOW",
+    "company": "Snowflake Inc.",
+    "title": "Snowflake: The Year the Market Changed Its Mind Twice",
+    "dek": "Between November 2025 and April 2026 Snowflake lost 56% because investors decided AI would eat the data warehouse. Then it rose 169% because AI fed it instead. The business grew every quarter of both moves. At $325, what is left to pay for?",
+    "date": "2026-10-24",
+    "date_long": "October 24, 2026",
+    "status": "Active",
+    "price": 325.43,
+    "price_note": "Oct 23, 2026 close",
+    "price_url": "https://finance.yahoo.com/quote/SNOW/",
+    "range52": [
+      118.3,
+      384.56
+    ],
+    "type": "Consumption-priced cloud data platform (AI Data Cloud)",
+    "stage": "High growth, pre-owner-earnings",
+    "cyclical": "No",
+    "competence": "Edge",
+    "compounder": false,
+    "terminal_label": "FY2032",
+    "accent": {
+      "light": "#1668b0",
+      "dark": "#6cb6ef"
+    },
+    "html_name": "SNOW-deep-dive.html",
+    "report_path": "../SNOW.md"
+  },
+  "verdict": {
+    "sentence": "The bears picked a falsifiable fight about agentic AI and lost it three quarters running, but at $325 the price needs FY2032 owner earnings about 40% above my Bull case just to return an ordinary 9%; the probability-weighted case pays [[pw_return]] a year against the 13% hurdle.",
+    "non_holder": {
+      "emoji": "\ud83d\udfe1",
+      "verb": "Watch (entry \u2264[[entry]])"
+    },
+    "holder": {
+      "emoji": "\ud83d\udd34",
+      "verb": "Trim"
+    },
+    "breaks_if": "Stock-based compensation stays near 29% of revenue instead of falling toward the low teens, in which case owner earnings never turn positive at scale and no exit multiple on them is defensible.",
+    "multiple_label": "FY2027E EV/product rev",
+    "multiple": "\u224818\u00d7",
+    "compounding": "n/m (owner EPS negative today)",
+    "bait": "Single (A), and it argues against owning",
+    "moat": "Moderate; widening in context, narrowing in storage",
+    "next": "Dec 2 (Q3 FY2027)",
+    "price_implies": "~[[Priced-in.owner_eps]] FY2032 owner EPS"
+  },
+  "call": "The agentic bear case was specific and it is beaten: product revenue growth went 29% \u2192 30% \u2192 34% \u2192 37%, net revenue retention turned up to 126%, and Ramaswamy says first-party AI contributed about half the acceleration. Consumption pricing was the right model for agents, because agents generate volume. None of that is the question now. Snowflake has never earned a dollar of owner earnings: FY2026 operating cash flow of $1,222M against $1,600M of stock issued, and SBC still ~29% of revenue. I value it on owner earnings, which are about \u2212$0.86 a share this year, and cap the exit at 25\u00d7 because anything higher implies perpetual growth above the 4.96% ten-year yield. On those terms the Bull alone returns [[Bull.return]] a year with certainty, so break-even and price-implied Bear odds are both negative: no probability weighting of my cases earns 9% from here. The price clears 13% at [[entry]]. Good business, wrong price; the verb is valuation, not thesis.",
+  "tests": [
+    {
+      "claim": "That the AI revenue mix is not structurally margin-dilutive.",
+      "test": "in Q3 FY2027 (Dec 2, 2026), non-GAAP product gross margin \u226574.0% for the quarter and the FY2027 full-year guide held at 74.0% rather than cut again.",
+      "if_fail": "move 10 points from Base to Bear (PW EV [[test1.pw_ev]], [[test1.pw_return]]/yr) \u2192 stays **[[test1.verb]]**, entry falls to [[test1.entry]].",
+      "shift": {
+        "from": "Base",
+        "to": "Bear",
+        "points": 0.1
+      }
+    },
+    {
+      "claim": "That the acceleration is a new baseline, not a migration burst.",
+      "test": "Q3 FY2027 product revenue growth of at least 37% (the guide is 37\u201338%), and an initial FY2028 guide at the Q4 print in late February 2027 of at least 30% growth.",
+      "if_fail": "move 10 points from Bull to Bear (PW EV [[test2.pw_ev]], [[test2.pw_return]]/yr) \u2192 stays **[[test2.verb]]**, entry falls to [[test2.entry]].",
+      "shift": {
+        "from": "Bull",
+        "to": "Bear",
+        "points": 0.1
+      }
+    },
+    {
+      "claim": "That the gap between cash flow and owner earnings is actually closing.",
+      "test": "the FY2027 10-K, due about March 2027, shows stock-based compensation at or below 26% of revenue (from 34.2% in FY2026) and diluted share count growth of 2% or less.",
+      "if_fail": "move 10 points from Bull to Base and 5 from Base to Bear (PW EV [[test3.pw_ev]], [[test3.pw_return]]/yr) \u2192 stays **[[test3.verb]]**, entry falls to [[test3.entry]].",
+      "shift": {
+        "from": "Bull",
+        "to": "Bear",
+        "points": 0.05
+      }
+    }
+  ],
+  "updates": [],
+  "charts": {
+    "drawdown": {
+      "type": "line",
+      "file": "series/drawdown.json",
+      "baseline": 100,
+      "yTicks": [
+        40,
+        60,
+        80,
+        100,
+        120,
+        140
+      ],
+      "tableEvery": 6,
+      "aria": "Total return index from October 31, 2025 = 100 for Snowflake, MongoDB and the S&P 500 through October 23, 2026",
+      "note": "Total return including dividends, weekly, October 31, 2025 = 100. Snowflake peaked at $277.14 on November 3, 2025, bottomed at $121.11 on April 10, 2026 and closed at $325.43 on October 23, 2026. Source: [Yahoo Finance](https://finance.yahoo.com/quote/SNOW/) adjusted closes. Built with Claude."
+    },
+    "revenue_dollar": {
+      "type": "bar100",
+      "keys": [
+        "Cash operating costs",
+        "Stock-based compensation",
+        "Non-GAAP operating income"
+      ],
+      "unit": "$M",
+      "valueLabel": "Revenue",
+      "prefix": "$",
+      "suffix": "M",
+      "rows": [
+        {
+          "label": "FY2024",
+          "values": [
+            1500,
+            1168,
+            138
+          ]
+        },
+        {
+          "label": "FY2025",
+          "values": [
+            1915,
+            1479,
+            232
+          ]
+        },
+        {
+          "label": "FY2026",
+          "values": [
+            2594,
+            1600,
+            490
+          ]
+        },
+        {
+          "label": "FY2027E",
+          "values": [
+            3548,
+            1840,
+            914
+          ]
+        }
+      ],
+      "aria": "Share of each revenue dollar going to cash operating costs, stock-based compensation and non-GAAP operating income, fiscal 2024 to fiscal 2027 estimated",
+      "note": "Total revenue split three ways. Non-GAAP operating income as reported ([FY2025 and FY2026](https://www.sec.gov/Archives/edgar/data/1640147/000162828026011631/fy2026q4earnings.htm)); FY2024 is [Derived] as GAAP operating loss plus SBC and acquired-intangible amortization. FY2027E uses the guided 14.5% non-GAAP operating margin on $6,070M of product revenue plus ~$232M of services [Estimate], with SBC of $1,840M [Estimate] from the $890M first-half run-rate. Cash operating costs are the residual. Built with Claude."
+    }
+  },
+  "tables": {
+    "quarters": {
+      "columns": [
+        "",
+        "Q3 FY2026",
+        "Q4 FY2026",
+        "Q1 FY2027",
+        "Q2 FY2027"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Quarter ended",
+            "Oct 31, 2025",
+            "Jan 31, 2026",
+            "Apr 30, 2026",
+            "Jul 31, 2026"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "**Product revenue ($M)**",
+            "1,158",
+            "1,230",
+            "1,330",
+            "**1,492**"
+          ],
+          "cls": "grp"
+        },
+        {
+          "cells": [
+            "Year-over-year growth",
+            "29%",
+            "30%",
+            "34%",
+            "**37%**"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "Net revenue retention",
+            "125%",
+            "125%",
+            "126%",
+            "126%"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "Remaining performance obligations ($B)",
+            "7.88",
+            "9.77",
+            "9.21",
+            "9.00"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "RPO year-over-year growth",
+            "37%",
+            "42%",
+            "38%",
+            "30%"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "Customers >$1M trailing 12-month",
+            "688",
+            "733",
+            "779",
+            "828"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "Net new customers added",
+            "\u2014",
+            "740",
+            "616",
+            "692"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "GAAP operating margin",
+            "(27%)",
+            "\u2014",
+            "(23.4%)",
+            "(17.0%)"
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "Non-GAAP operating margin",
+            "11%",
+            "11%",
+            "11.9%",
+            "**15.3%**"
+          ],
+          "cls": "pos"
+        },
+        {
+          "cells": [
+            "Stock-based compensation ($M)",
+            "\u2014",
+            "\u2014",
+            "434",
+            "456"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "Non-GAAP diluted EPS",
+            "\u2014",
+            "\u2014",
+            "$0.40",
+            "$0.62"
+          ],
+          "cls": "tot"
+        },
+        {
+          "cells": [
+            "Stock reaction, next session",
+            "\u221211.4%",
+            "\u22121.9%",
+            "**+36.5%**",
+            "**+16.6%**"
+          ],
+          "cls": "tot"
+        }
+      ],
+      "note": "Company-reported key business metrics. Q1 FY2027 non-GAAP diluted EPS is [Derived] as the $1.02 first-half figure less Q2's $0.62. Q4 FY2026 SBC and GAAP operating margin not separately shown in the release. Stock reactions are the next full session's close-to-close change. Sources: [Q3 FY2026](https://www.sec.gov/Archives/edgar/data/1640147/000164014725000211/fy2026q3earnings.htm), [Q4 FY2026](https://www.sec.gov/Archives/edgar/data/1640147/000162828026011631/fy2026q4earnings.htm), [Q1 FY2027](https://www.sec.gov/Archives/edgar/data/1640147/000164014726000027/fy2027q1earnings.htm) and [Q2 FY2027](https://www.sec.gov/Archives/edgar/data/1640147/000164014726000033/fy2027q2earnings.htm) releases; prices from Yahoo Finance. Built with Claude."
+    },
+    "roundtrip": {
+      "columns": [
+        "Phase",
+        "Period",
+        "Price",
+        "~Move",
+        "Tag",
+        "What happened"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "1. The AI Data Cloud peak",
+            "to Nov 3, 2025",
+            "\u2192 $277.14",
+            "four-year high",
+            "EXT-MARKET",
+            "The 2025 re-rating completes. Snowflake trades near 15\u00d7 revenue on 29% growth; Databricks is about to raise at $134B."
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "2. The first crack",
+            "Nov 3 \u2013 Dec 31, 2025",
+            "\u2192 $219.36",
+            "\u221221%",
+            "INT-FUND",
+            "Dec 3: Q3 beats, but Q4 is guided to 27% growth and a 7% operating margin. The stock falls 11.4% on Dec 4."
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "3. The de-rating",
+            "Jan 1 \u2013 Mar 31, 2026",
+            "\u2192 $150.82",
+            "\u221231%",
+            "EXT-SECTOR",
+            "Feb 25: FY2027 guided to $5,660M, 27% growth, read as deceleration. Software multiples compress on AI-disruption fears. Mar 31: the CRO is replaced and guidance reaffirmed."
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "4. Capitulation",
+            "Apr 1 \u2013 Apr 10, 2026",
+            "\u2192 $121.11",
+            "\u221220%",
+            "EXT-SECTOR",
+            "Apr 9: the sector reprices on managed-agent fears \u2014 Cloudflare \u221212%, Snowflake \u22129%, ServiceNow \u22127%. The 52-week low of $118.30 prints."
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "5. The refutation",
+            "Apr 10 \u2013 Oct 23, 2026",
+            "\u2192 $325.43",
+            "**+169%**",
+            "INT-FUND",
+            "May 27: Q1 +34%, record sequential dollar growth, $6B AWS deal, guide raised; +36.5% next day. Sep 2: Q2 +37%, guide raised again; +16.6%. Oct 9 high of $368.89; Oct 16 \u22128.4% on sector AI-financing worries."
+          ],
+          "cls": "pos"
+        }
+      ],
+      "note": "Closing prices from [Yahoo Finance](https://finance.yahoo.com/quote/SNOW/). Peak-to-trough was \u221256.3% over 110 trading sessions; trough-to-date +168.7%. Tags: INT-FUND = company fundamentals, EXT-SECTOR = sector repricing, EXT-MARKET = broad market. April 9 peer moves from [24/7 Wall St.](https://247wallst.com/investing/2026/04/09/net-down-12-snow-down-9-now-down-7-the-market-just-repriced-the-entire-software-sector-on-ai-agent-fears/). Built with Claude."
+    },
+    "unit": {
+      "columns": [
+        "Illustrative $1M customer",
+        "Pre-AI (FY2026)",
+        "With AI today",
+        "If AI mix triples"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Core platform consumption",
+            "$1,000,000",
+            "$1,040,000",
+            "$1,000,000"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "First-party AI products (CoCo, CoWork, Cortex)",
+            "\u2014",
+            "$40,000",
+            "$316,000"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "**Total product revenue**",
+            "**$1,000,000**",
+            "**$1,080,000**",
+            "**$1,316,000**"
+          ],
+          "cls": "grp"
+        },
+        {
+          "cells": [
+            "Core gross margin",
+            "76%",
+            "76%",
+            "76%"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "AI gross margin [Estimate]",
+            "\u2014",
+            "55%",
+            "55%"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "Gross profit",
+            "$760,000",
+            "$812,400",
+            "$933,800"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "**Blended gross margin**",
+            "**76.0%**",
+            "**75.2%**",
+            "**71.0%**"
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "Memo: reported / guided product gross margin",
+            "76% (FY2026)",
+            "74.0% (FY2027 guide)",
+            "71% (my Bear)"
+          ],
+          "cls": "tot"
+        }
+      ],
+      "note": "Author's illustration, not company disclosure. The AI revenue uplift is [Derived] from the acceleration itself: product growth rose 8 points between Q3 FY2026 and Q2 FY2027, and Ramaswamy said on the [Q2 call](https://stockanalysis.com/stocks/snow/transcripts/681381-q2-2027/) that first-party AI contributed \"approximately half of the acceleration,\" so roughly 4 points of revenue is first-party AI and 4 points is AI-driven core pull-through. The 55% AI gross margin is an [Estimate] calibrated so the middle column lands near the company's own 74.0% FY2027 guide; the gap is cloud cost inflation. The right-hand column shows why Robins cut the margin guide and why the Bear uses 71%. Built with Claude."
+    },
+    "rings": {
+      "columns": [
+        "Ring",
+        "~Share of gross profit",
+        "Gross margin",
+        "Exposure to the agentic thesis",
+        "Read"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Core warehousing and analytics",
+            "~55%",
+            "~78%",
+            "Agents query it more, not less; governance and row-level access are the barrier to entry",
+            "Safe, and the beneficiary"
+          ],
+          "cls": "pos"
+        },
+        {
+          "cells": [
+            "Data engineering and Snowpark",
+            "~20%",
+            "~74%",
+            "CoCo makes pipelines cheaper to build, which cuts hours but raises throughput",
+            "Mixed; volume should win"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "Storage and data sharing",
+            "~15%",
+            "~85%",
+            "Open Iceberg tables break the format lock-in that made this the best margin",
+            "Most exposed; margin pool erodes"
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "First-party AI (CoCo, CoWork, Cortex)",
+            "~10%",
+            "~55%",
+            "The growth engine, and the thesis itself",
+            "Fastest-growing, worst margin"
+          ],
+          "cls": "neg"
+        }
+      ],
+      "note": "Shares of gross profit are the author's [Estimate]; Snowflake reports one segment and does not split gross profit by workload. Margins are [Estimate] calibrated to the 74.0% blended FY2027 guide. The point of the table is the ordering, not the decimals. Built with Claude."
+    },
+    "owner": {
+      "columns": [
+        "$M",
+        "FY2022",
+        "FY2023",
+        "FY2024",
+        "FY2025",
+        "FY2026"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Operating cash flow",
+            "110",
+            "546",
+            "848",
+            "960",
+            "**1,222**"
+          ],
+          "cls": "pos"
+        },
+        {
+          "cells": [
+            "Less: capital expenditure",
+            "(16)",
+            "(25)",
+            "(35)",
+            "(46)",
+            "(102)"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "Free cash flow",
+            "94",
+            "521",
+            "813",
+            "914",
+            "**1,120**"
+          ],
+          "cls": "tot"
+        },
+        {
+          "cells": [
+            "Less: stock-based compensation",
+            "(605)",
+            "(862)",
+            "(1,168)",
+            "(1,479)",
+            "(1,600)"
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "**Owner earnings**",
+            "**(511)**",
+            "**(341)**",
+            "**(355)**",
+            "**(565)**",
+            "**(480)**"
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "SBC as % of revenue",
+            "49.6%",
+            "41.7%",
+            "41.6%",
+            "40.8%",
+            "**34.2%**"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "Buybacks",
+            "\u2014",
+            "\u2014",
+            "592",
+            "1,932",
+            "874"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "Buybacks \u00f7 SBC",
+            "\u2014",
+            "\u2014",
+            "51%",
+            "131%",
+            "55%"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "Diluted shares (M)",
+            "300",
+            "319",
+            "328",
+            "333",
+            "337"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "Net share change",
+            "\u2014",
+            "+6.3%",
+            "+2.8%",
+            "+1.5%",
+            "+1.2%"
+          ],
+          "cls": "neg"
+        }
+      ],
+      "note": "Fiscal years end January 31; FY2026 ended January 31, 2026. Owner earnings = operating cash flow \u2212 SBC \u2212 capital expenditure, [Derived]. Capital expenditure is so small that essentially all of it is maintenance. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001640147.json). Built with Claude."
+    },
+    "deals": {
+      "columns": [
+        "Year",
+        "Target",
+        "Price",
+        "What it brought",
+        "Verdict"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "FY2024",
+            "Neeva",
+            "~$185M",
+            "Sridhar Ramaswamy and a search team; he became CEO ten months later",
+            "Good \u2014 the cheapest CEO search in software"
+          ],
+          "cls": "pos"
+        },
+        {
+          "cells": [
+            "FY2025",
+            "Datavolo, Night Shift",
+            "undisclosed",
+            "Data pipelines and Iceberg tooling",
+            "Too early"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "FY2026",
+            "Crunchy Data",
+            "~$250M [Estimate]",
+            "Postgres, sold as Snowflake Postgres for agent-facing transactional workloads",
+            "Too early; strategically coherent"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "FY2026",
+            "Select Star, TensorStax",
+            "undisclosed",
+            "Metadata/context cataloguing; AI data engineering inside CoCo",
+            "Too early"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "FY2027",
+            "Observe (closed Feb 2, 2026)",
+            "undisclosed",
+            "Observability; entry to a $50B+ IT-operations market. Seller's CEO Jeremy Burton sat on Snowflake's board and resigned Jan 30, 2026",
+            "\u26a0\ufe0f Related party; approved by a special committee. Unclear"
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "FY2027",
+            "Natoma (announced May 2026)",
+            "undisclosed",
+            "Enterprise Model Context Protocol platform, 20 employees; now shipping as Cortex AI Gateway",
+            "Good \u2014 small, fast, already in product"
+          ],
+          "cls": "pos"
+        }
+      ],
+      "note": "Acquisition spend from the cash flow statement: $363M (FY2023), $276M (FY2024), $30M (FY2025), $179M (FY2026). Individual prices are mostly undisclosed; the Crunchy Data figure is press-reported [Estimate]. Observe governance from the [8-K of January 28, 2026](https://www.sec.gov/Archives/edgar/data/1640147/000162828026004606/snow-20260128.htm). Built with Claude."
+    },
+    "capital": {
+      "columns": [
+        "$M",
+        "FY2022",
+        "FY2023",
+        "FY2024",
+        "FY2025",
+        "FY2026",
+        "Cumulative"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Revenue",
+            "1,219",
+            "2,066",
+            "2,806",
+            "3,626",
+            "4,684",
+            "14,401"
+          ],
+          "cls": "grp"
+        },
+        {
+          "cells": [
+            "Year-over-year growth",
+            "106%",
+            "69%",
+            "36%",
+            "29%",
+            "29%",
+            "\u2014"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "GAAP operating income",
+            "(715)",
+            "(842)",
+            "(1,095)",
+            "(1,456)",
+            "(1,435)",
+            "(5,543)"
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "Operating cash flow",
+            "110",
+            "546",
+            "848",
+            "960",
+            "1,222",
+            "3,686"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "Capital expenditure",
+            "16",
+            "25",
+            "35",
+            "46",
+            "102",
+            "224"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "Free cash flow",
+            "94",
+            "521",
+            "813",
+            "914",
+            "1,120",
+            "3,462"
+          ],
+          "cls": "tot"
+        },
+        {
+          "cells": [
+            "Stock-based compensation",
+            "605",
+            "862",
+            "1,168",
+            "1,479",
+            "1,600",
+            "5,714"
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "Acquisitions, net of cash",
+            "\u2014",
+            "363",
+            "276",
+            "30",
+            "179",
+            "848"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "Buybacks",
+            "\u2014",
+            "\u2014",
+            "592",
+            "1,932",
+            "874",
+            "3,398"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "Buybacks as % of FCF",
+            "\u2014",
+            "\u2014",
+            "73%",
+            "211%",
+            "78%",
+            "98%"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "Dividends",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014",
+            "\u2014"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "Diluted shares (M)",
+            "300",
+            "319",
+            "328",
+            "333",
+            "337",
+            "+12%"
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "Stockholders' equity",
+            "5,049",
+            "5,456",
+            "5,180",
+            "3,000",
+            "1,924",
+            "\u221262%"
+          ],
+          "cls": "neg"
+        }
+      ],
+      "note": "Fiscal years end January 31. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001640147.json) and the [FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1640147/000164014726000008/snow-20260131.htm). After the quarter end, in September 2026, Snowflake issued $3.75B of 0% convertible notes due 2029 and 2031, spending $383.5M on capped calls and $548.3M retiring part of the 2027 notes. Built with Claude."
+    },
+    "incentives": {
+      "columns": [
+        "Component",
+        "Weight or size",
+        "What it pays for",
+        "Latest outcome"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "FY2027 PRSU \u2014 core metric",
+            "70%",
+            "Three-year product revenue growth against pre-set targets",
+            "Three-year cliff; first vest FY2029"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "FY2027 PRSU \u2014 profitability",
+            "15%",
+            "Non-GAAP operating margin, annual targets",
+            "FY2027 guide raised 13.5% \u2192 14.5%"
+          ],
+          "cls": "pos"
+        },
+        {
+          "cells": [
+            "FY2027 PRSU \u2014 cash",
+            "15%",
+            "Non-GAAP adjusted free cash flow",
+            "FY2027 guide 23% margin"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "Cash incentive bonus",
+            "Target % of salary, capped at 200%",
+            "Total revenue, semi-annual from FY2027 (quarterly product revenue in FY2026)",
+            "FY2026 pool funded at 103.0% of target"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "**Return on invested capital**",
+            "**0%**",
+            "Not a metric in any plan",
+            "Defensible here: invested capital is \u2248zero"
+          ],
+          "cls": "sub"
+        },
+        {
+          "cells": [
+            "\u26a0\ufe0f CEO Performance Award (Jul 15, 2026)",
+            "1,000,000 shares, 0.29% of the company",
+            "Five stock-price tranches \u2014 $324 / $375 / $427 / $479 / $531 \u2014 over 2 to 7 years, on a 90-day average, \"to culminate in adding up to $100 billion of stockholder value\"",
+            "Implies **8.4%\u201311.3% a year** from the $271.87 grant price. Every tranche pays below the 13% hurdle. Tranche 1 is already within reach"
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "\u26a0\ufe0f Say-on-pay",
+            "Advisory",
+            "Shareholder approval of NEO compensation",
+            "**Failed twice**: rejected in 2025, then 96.3M for / 124.5M against (44%) on Jun 29, 2026 \u2014 16 days before the award above"
+          ],
+          "cls": "neg"
+        }
+      ],
+      "note": "Plan design from the [2026 DEF 14A](https://www.sec.gov/Archives/edgar/data/1640147/000164014726000019/snow-20260518.htm); the CEO award from the [8-K of July 15, 2026](https://www.sec.gov/Archives/edgar/data/1640147/000162828026048373/snow-20260715.htm); vote results from the [8-K of June 29, 2026](https://www.sec.gov/Archives/edgar/data/1640147/000164014726000032/snow-20260629.htm). Implied annual returns are [Derived] from the $271.87 close on the grant date over each tranche's performance period. Built with Claude."
+    },
+    "five_year": {
+      "columns": [
+        "$M unless stated",
+        "FY2022",
+        "FY2023",
+        "FY2024",
+        "FY2025",
+        "FY2026"
+      ],
+      "rows": [
+        [
+          "Revenue",
+          "1,219",
+          "2,066",
+          "2,806",
+          "3,626",
+          "**4,684**"
+        ],
+        [
+          "Revenue growth",
+          "106%",
+          "69%",
+          "36%",
+          "29%",
+          "**29%**"
+        ],
+        [
+          "GAAP operating margin",
+          "(58.7%)",
+          "(40.8%)",
+          "(39.0%)",
+          "(40.2%)",
+          "**(30.6%)**"
+        ],
+        [
+          "Non-GAAP operating margin",
+          "(8.2%)",
+          "2.4%",
+          "4.9%",
+          "6.4%",
+          "**10.5%**"
+        ],
+        [
+          "GAAP net income",
+          "(680)",
+          "(798)",
+          "(838)",
+          "(1,289)",
+          "(1,329)"
+        ],
+        [
+          "GAAP diluted EPS",
+          "$(2.26)",
+          "$(2.50)",
+          "$(2.55)",
+          "$(3.86)",
+          "$(3.95)"
+        ],
+        [
+          "Operating cash flow",
+          "110",
+          "546",
+          "848",
+          "960",
+          "1,222"
+        ],
+        [
+          "Capital expenditure",
+          "16",
+          "25",
+          "35",
+          "46",
+          "102"
+        ],
+        [
+          "**Owner earnings** (CFO \u2212 SBC \u2212 capex)",
+          "**(511)**",
+          "**(341)**",
+          "**(355)**",
+          "**(565)**",
+          "**(480)**"
+        ],
+        [
+          "Invested capital [Derived]",
+          "n/d",
+          "n/d",
+          "n/d",
+          "n/d",
+          "**(120)**"
+        ],
+        [
+          "ROIC",
+          "n/m",
+          "n/m",
+          "n/m",
+          "n/m",
+          "**n/m**"
+        ],
+        [
+          "3-year ROIIC",
+          "n/m",
+          "n/m",
+          "n/m",
+          "n/m",
+          "**n/m**"
+        ],
+        [
+          "Reinvestment rate",
+          "n/m",
+          "n/m",
+          "n/m",
+          "n/m",
+          "**n/m**"
+        ],
+        [
+          "SBC as % of revenue",
+          "49.6%",
+          "41.7%",
+          "41.6%",
+          "40.8%",
+          "**34.2%**"
+        ],
+        [
+          "SBC \u00f7 owner earnings",
+          "n/m",
+          "n/m",
+          "n/m",
+          "n/m",
+          "**n/m**"
+        ],
+        [
+          "Diluted shares (M)",
+          "300",
+          "319",
+          "328",
+          "333",
+          "**337**"
+        ],
+        [
+          "Net share change",
+          "\u2014",
+          "+6.3%",
+          "+2.8%",
+          "+1.5%",
+          "**+1.2%**"
+        ],
+        [
+          "Buybacks against SBC",
+          "\u2014",
+          "\u2014",
+          "51%",
+          "131%",
+          "**55%**"
+        ],
+        [
+          "Net cash and investments",
+          "n/d",
+          "n/d",
+          "n/d",
+          "n/d",
+          "**2,505**"
+        ],
+        [
+          "Net debt / EBITDA",
+          "net cash",
+          "net cash",
+          "net cash",
+          "net cash",
+          "**net cash**"
+        ],
+        [
+          "FCF conversion (FCF \u00f7 revenue)",
+          "7.7%",
+          "25.2%",
+          "29.0%",
+          "25.2%",
+          "**23.9%**"
+        ],
+        [
+          "Accruals ratio",
+          "n/m",
+          "n/m",
+          "n/m",
+          "n/m",
+          "**n/m**"
+        ]
+      ],
+      "note": "Fiscal years end January 31. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001640147.json), the [FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1640147/000164014726000008/snow-20260131.htm) and the [Q2 FY2027 10-Q](https://www.sec.gov/Archives/edgar/data/1640147/000164014726000037/snow-20260731.htm). Non-GAAP operating margin for FY2025 and FY2026 is as reported; FY2022\u2013FY2024 is [Derived] as GAAP operating income plus SBC and acquired-intangible amortization. **Invested capital** is [Derived] as equity ($1,924M) + convertible notes ($2,280M) + operating leases ($461M) \u2212 cash and investments ($4,785M) = \u2212$120M at January 31, 2026, and +$584M at July 31, 2026. Because invested capital straddles zero \u2014 customers fund the business through $3.3B of deferred revenue \u2014 ROIC, incremental ROIC and the reinvestment rate are not meaningful, and SBC \u00f7 owner earnings is undefined on negative owner earnings. This is why the high-ROIIC compounder flag does not apply. Built with Claude."
+    },
+    "levers": {
+      "columns": [
+        "Lever",
+        "Contribution now",
+        "Runway",
+        "Evidence",
+        "Management intent",
+        "Stage"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Market growth",
+            "High",
+            "5\u201310 yrs",
+            "Enterprise data and AI spend still expanding; 14,554 customers against a far larger installed base of warehouses",
+            "Core",
+            "Proven"
+          ],
+          "cls": "pos"
+        },
+        {
+          "cells": [
+            "Share gain",
+            "Moderate",
+            "5+ yrs",
+            "692 net new customers in Q2, +32% YoY; 829 of the Forbes G2000",
+            "Core",
+            "Proven"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "Price and mix",
+            "Negative",
+            "\u2014",
+            "Product gross margin guided down 75% \u2192 74% on AI mix; tiered storage pricing and Iceberg reduce storage economics",
+            "Offset via model routing and inference cost",
+            "Headwind"
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "Attach / new products",
+            "**High**",
+            "3\u20135 yrs",
+            "CoCo in 9,100 accounts (+2,000 QoQ), CoWork in 5,800 (+11% QoQ); ~half the recent acceleration",
+            "The strategy",
+            "Scaling"
+          ],
+          "cls": "pos"
+        },
+        {
+          "cells": [
+            "New geographies",
+            "Low",
+            "5+ yrs",
+            "Not separately disclosed; sovereign and regulated verticals called out in the 10-K",
+            "Secondary",
+            "Proven"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "M&A",
+            "Low",
+            "ongoing",
+            "$848M of acquisitions in five years, all capability-led; Observe is the one scale bet",
+            "Tuck-in",
+            "Option"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "Margin",
+            "**High**",
+            "5+ yrs",
+            "Non-GAAP operating margin 6% \u2192 10% \u2192 14.5% guided; SBC 49.6% \u2192 34.2% of revenue",
+            "Explicit: 15% of the PRSU plan",
+            "Scaling"
+          ],
+          "cls": "pos"
+        },
+        {
+          "cells": [
+            "Share count",
+            "Negative",
+            "\u2014",
+            "$3.4B of buybacks and the share count still rose 12% in five years",
+            "Offset dilution, not shrink the count",
+            "Headwind"
+          ],
+          "cls": "neg"
+        }
+      ],
+      "note": "The Base case is carried by market growth, share gain and margin. The Bull additionally needs the attach lever \u2014 CoCo and CoWork \u2014 to keep compounding and the price/mix headwind to reverse as inference costs fall. Observe is the one lever valued as optionality outside the core. Adjacency test (Zook): Observe shares customers and data gravity with the core but not capabilities, so it is graded a genuine diversification. Built with Claude."
+    },
+    "moat": {
+      "columns": [
+        "",
+        "Read"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "**Mechanism (7 Powers)**",
+            "**Switching Costs**, primarily, reinforced by a weak **Network Economy** in the data-sharing marketplace and by **Cornered Resource** in the governance stack (role-based and row-level access control, replication) that Ramaswamy says \"take a lot of time to develop.\" Not Scale Economies: Snowflake rents its compute from the hyperscalers it competes with."
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "**Trend**",
+            "**Mixed.** Widening in context and governance \u2014 the semantic layer, Horizon Context and Agent Identity are new and hard to replicate. Narrowing in storage: Snowflake's own adoption of Iceberg v3 and bidirectional Polaris catalogues deliberately dissolves format lock-in. Net revenue retention at 126% is up from 125% but down from 171% at the peak, which is the number that decides it."
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "**Profit pool**",
+            "The margin is shifting from storage (\u224885% gross margin, eroding) to AI workloads (\u224855%, growing). The hyperscalers capture the compute layer underneath; the $6B AWS commitment is Snowflake buying scale economics it cannot build. Model providers capture inference. Snowflake's claim on the pool is the context and governance layer between them."
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "**Customer**",
+            "Large enterprises; 829 Forbes Global 2000 accounts produce ~41% of revenue. The job is a governed single source of truth that an autonomous agent can be trusted against. Retention is measured in consumption, not seats, so the metric is NRR at 126%. The last disclosed price action was a margin-reducing mix shift, not a price increase."
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "**Rating**",
+            "**Moderate and genuine, but not wide.** Data gravity and governance make Snowflake very hard to rip out and quite easy to grow alongside; they do not stop Databricks taking the newest workloads, and they no longer protect the storage margin."
+          ],
+          "cls": ""
+        }
+      ],
+      "note": "Vocabulary from [powers.md](../../frameworks/powers.md). Quotes from the Q1 and Q2 FY2027 calls. Built with Claude."
+    },
+    "competitors": {
+      "columns": [
+        "",
+        "Snowflake",
+        "Databricks",
+        "Hyperscaler native",
+        "ClickHouse / open engines"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Revenue scale",
+            "$6.07B FY2027E product",
+            "~$4.8B run-rate (Dec 2025)",
+            "Not disclosed separately",
+            "Much smaller"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "Growth",
+            "**36% guided**",
+            "**>55%**",
+            "n/d",
+            "n/d"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "Net revenue retention",
+            "126%",
+            ">140%",
+            "n/d",
+            "n/d"
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "AI revenue",
+            "~$100M (Dec 2025); not since disclosed",
+            ">$1B run-rate",
+            "n/d",
+            "n/d"
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "Valuation",
+            "$114.7B public, ~18\u00d7 FY2027E product revenue",
+            "$134B private (Dec 2025), ~28\u00d7 revenue",
+            "\u2014",
+            "\u2014"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "Strength",
+            "Governance, ease of use, installed base, model neutrality",
+            "Data science, open formats, AI-native workloads",
+            "Bundling, pricing, owning the compute",
+            "Query speed and cost per query"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "The threat to Snowflake",
+            "\u2014",
+            "Takes the newest and hardest workloads",
+            "Commoditizes the layer Snowflake rents",
+            "The literal agentic bear case: agents want cheap fast queries"
+          ],
+          "cls": "neg"
+        }
+      ],
+      "note": "Databricks figures are press-reported around its December 2025 Series L and are not audited; via [SaaStr](https://www.saastr.com/databricks-vs-snowflake-at-5b-arr-same-revenue-2x-valuation-gap-heres-why/). The ClickHouse argument is its CEO Aaron Katz's public framing of the AI bear case. Snowflake valuation at the October 23, 2026 close. Built with Claude."
+    },
+    "promises": {
+      "columns": [
+        "Promise",
+        "When and where",
+        "What happened",
+        "Grade"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "FY2027 product revenue of $5,660M, 27% growth",
+            "Q4 FY2026 release, Feb 25, 2026",
+            "Raised to $5,840M in May and $6,070M in September \u2014 beaten by $410M and 9 points inside six months",
+            "Beaten, but the miss was the forecast, not the business"
+          ],
+          "cls": "pos"
+        },
+        {
+          "cells": [
+            "FY2027 non-GAAP operating margin of 12.5%",
+            "Q4 FY2026 release, Feb 25, 2026",
+            "Raised to 13.5% in May and 14.5% in September",
+            "\u2705 Delivered"
+          ],
+          "cls": "pos"
+        },
+        {
+          "cells": [
+            "FY2027 non-GAAP product gross margin of 75.0%",
+            "Q4 FY2026 release, Feb 25, 2026",
+            "Cut to 74.0% in September on AI workload mix",
+            "\ud83d\udd34 Missed \u2014 the one guide that went the wrong way"
+          ],
+          "cls": "neg"
+        }
+      ],
+      "note": "Guidance grade over the last eight quarters: **Consistent beater on revenue and operating margin, misser on gross margin.** The one number that decides it: a $410M full-year revenue beat against its own initial guide, with a 100-basis-point gross margin cut alongside it. Sources: the FY2026 Q4, FY2027 Q1 and FY2027 Q2 releases. Built with Claude."
+    },
+    "risks": {
+      "columns": [
+        "Risk",
+        "Impact",
+        "Prob.",
+        "Priced in?",
+        "Would break the thesis if\u2026"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "\u26a0\ufe0f SBC stays near 29\u201334% of revenue instead of falling to the low teens",
+            "Severe \u2014 owner earnings never turn positive",
+            "Medium",
+            "**No.** The market values Snowflake on revenue and pre-SBC free cash flow",
+            "FY2027 SBC comes in above 28% of revenue with the share count still rising"
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "\u26a0\ufe0f AI mix is structurally gross-margin dilutive",
+            "High \u2014 every point of product gross margin is ~$60M of FY2027 gross profit",
+            "Medium",
+            "Partly; the guide is already cut to 74.0%",
+            "Product gross margin falls below 73% with AI still accelerating"
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "The acceleration is a migration burst",
+            "Severe \u2014 the Bear's mechanism",
+            "Medium-low",
+            "**No**, after three quarters of acceleration",
+            "Q3 or Q4 FY2027 growth decelerates sequentially with RPO growth below 25%"
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "Databricks takes the AI-native workloads",
+            "High",
+            "Medium",
+            "Partly",
+            "Snowflake's NRR falls back below 120% while Databricks holds above 140%"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "Hyperscalers bundle a good-enough governed warehouse",
+            "High",
+            "Low-medium",
+            "No",
+            "AWS or Microsoft prices a competing product into an existing enterprise agreement at a discount Snowflake cannot match"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "Governance: two failed say-on-pay votes, a $100B CEO award, $521.6M of insider selling with no buying",
+            "Moderate \u2014 a valuation and trust discount, not an earnings event",
+            "Occurred",
+            "No",
+            "The board responds to a third rejection with another outsized grant"
+          ],
+          "cls": "neg"
+        }
+      ],
+      "note": "Filtered per the materiality test: boilerplate risk factors (generic cybersecurity, key personnel, third-party reliance, revenue fluctuation) are dropped even though the 10-K carries them. The AI-strategy risk factor is in the [FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1640147/000164014726000008/snow-20260131.htm) Item 1A. Multi-year evolution: the FY2026 10-K's forward-looking language now names \"a continually evolving market in which enterprises are increasingly adopting AI to perform core functions and significant disruption is being driven by AI,\" wording that did not appear before the drawdown. Built with Claude."
+    },
+    "catalysts": {
+      "columns": [
+        "Date",
+        "Event",
+        "What it tests"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "\ud83d\udcc5 Dec 2, 2026",
+            "Q3 FY2027 results",
+            "Test 1 and test 2: product gross margin at 74.0% and growth of 37\u201338% against the guide"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "\ud83d\udcc5 Late Feb 2027",
+            "Q4 and full-year FY2027 results, with the initial FY2028 guide",
+            "Test 2: whether the first FY2028 guide is above 30%, and whether the forecasting blind spot has been fixed"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "\ud83d\udcc5 ~Mar 2027",
+            "FY2027 10-K",
+            "Test 3: SBC as a percentage of revenue and the diluted share count"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "\ud83d\udcc5 ~Jun 2027",
+            "Snowflake Summit 2027 and the annual meeting",
+            "Whether a third say-on-pay vote goes against the board; CoWork adoption at scale"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "\ud83d\udcb0 Ongoing",
+            "Buyback execution against the September convertible raise",
+            "Whether $3.75B of new paper funds repurchases at $325 or sits in cash"
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "\u26a0\ufe0f Unscheduled",
+            "A Databricks IPO",
+            "Would put a public multiple on the faster-growing comparable for the first time"
+          ],
+          "cls": ""
+        }
+      ],
+      "note": "Earnings date from [Yahoo Finance](https://finance.yahoo.com/quote/SNOW/). Built with Claude."
+    },
+    "sentiment": {
+      "columns": [
+        "",
+        "Reading"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Analyst consensus",
+            "Buy; 12-month target $425.14 across 52 analysts, 31% above spot. UBS raised to a street-high $500; Phillip Securities cut to Accumulate at $423."
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "Short interest",
+            "17.98M shares, about 5.2% of float \u2014 unremarkable, and far below where it sat during the drawdown."
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "Insiders (90 days to Oct 23, 2026)",
+            "**$521.6M of open-market sales, zero open-market purchases.** Frank Slootman (director, former CEO) ~$190M across Sept 16\u201321 and Oct 19; Benoit Dageville (co-founder) 50,000 shares on five separate dates; also Michael Speiser, Christian Kleinerman, Vivek Raghunathan, Mark Garrett and the new CRO. Mostly 10b5-1 plans."
+          ],
+          "cls": "neg"
+        },
+        {
+          "cells": [
+            "BAIT",
+            "**Single (A).** No behavioral edge \u2014 the crowd is now correctly positive on the business. No informational edge \u2014 everything here is in filings. No technical edge. The only edge is analytical: whether you charge stock-based compensation as a cost. It argues against owning, not for it."
+          ],
+          "cls": ""
+        },
+        {
+          "cells": [
+            "Position in the range",
+            "$325.43 against a 52-week range of $118.30\u2013$384.56: the 82nd percentile, 15% below the high and 175% above the low."
+          ],
+          "cls": ""
+        }
+      ],
+      "note": "Consensus and short interest from [stockanalysis.com](https://stockanalysis.com/stocks/snow/statistics/); insider data read from [SEC Form 4 XML](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001640147&type=4) for the 90 days to October 23, 2026. None of this moves a verb. Built with Claude."
+    }
+  },
+  "model_build": {
+    "note": "Base case. Highlighted cells are inputs; margins and expense ratios move linearly from the FY2027 estimate to the FY2032 input. Two row labels are the engine's generic ones and mean something specific here: the per-segment \"operating margin\" is the **gross margin**, and \"Corporate and other\" is **total operating expense**, both on a non-GAAP basis. The exit multiple applies to **owner earnings per share**, not to non-GAAP EPS, because Snowflake's non-GAAP measure excludes stock-based compensation. Owner earnings = non-GAAP net income \u00d7 1.30 cash-conversion \u2212 after-tax SBC; the 1.30 factor reflects cash taxes far below the book rate and capital expenditure under 1% of revenue. Source: author's model (model.json). Built with Claude."
+  },
+  "scenarios": {
+    "note": "Annual return is the price change to the FY2032 value; Snowflake pays no dividend, so there is no yield component. Values apply the exit multiple to owner earnings per share, except the Bear, which is floored at $105 \u2014 roughly 3.9\u00d7 FY2032 revenue plus net cash \u2014 because its terminal owner earnings are near zero and a multiple of near-zero earnings is meaningless. The Priced-in and Hurdle rows are solved by the model along the Base\u2192Bull path at a 25\u00d7 exit. Source: author's model. Built with Claude."
+  },
+  "return_math": {
+    "epv": "No positive earnings-power value: five-year average owner earnings are **negative $450M**, so capitalizing them gives nothing. On the kindest cash-based floor \u2014 FY2027 adjusted free cash flow of about $1.45B capitalized at 9% with no growth \u2014 the figure is roughly $16B, or **$43 a share**, against a $114.7B market capitalization. Essentially the entire price is paying for growth and for a margin structure that does not exist yet.",
+    "base_rate": "The Base needs 21% revenue growth a year for five years from a $6.1B base. In the Credit Suisse HOLT reference class, for companies above $25B of market value, roughly 10% sustain 20%+ nominal growth over five years; the best software franchises do it, so the Base is demanding but not heroic. The Bull's 25% is in the top few percent of the distribution. The binding constraint is not growth, though \u2014 it is the compensation line.",
+    "year_ten": "Still growing, probably low-to-mid teens, on enterprise AI adoption and the context layer. But in every case the terminal multiple is doing the majority of the work, because owner earnings start from below zero. That is the clearest signal that the price is a bet on a re-rating of profitability rather than on compounding.",
+    "note": "Computed rows come from model.json; EPV, base rate and year ten are the author's. Built with Claude."
+  },
+  "sources": [
+    {
+      "label": "FY2026 10-K (year ended January 31, 2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000008/snow-20260131.htm"
+    },
+    {
+      "label": "Q2 FY2027 10-Q (quarter ended July 31, 2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000037/snow-20260731.htm"
+    },
+    {
+      "label": "2026 DEF 14A proxy statement",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000019/snow-20260518.htm"
+    },
+    {
+      "label": "Q3 FY2026 results, December 3, 2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014725000211/fy2026q3earnings.htm"
+    },
+    {
+      "label": "Q4 and FY2026 results, February 25, 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000162828026011631/fy2026q4earnings.htm"
+    },
+    {
+      "label": "Q1 FY2027 results, May 27, 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000027/fy2027q1earnings.htm"
+    },
+    {
+      "label": "Q2 FY2027 results, September 2, 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000033/fy2027q2earnings.htm"
+    },
+    {
+      "label": "8-K: CEO Performance Award, July 15, 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000162828026048373/snow-20260715.htm"
+    },
+    {
+      "label": "8-K: 2026 annual meeting vote results, June 29, 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000032/snow-20260629.htm"
+    },
+    {
+      "label": "8-K: $3.75B convertible notes, September 28, 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000043/exhibit992-pricingpressrel.htm"
+    },
+    {
+      "label": "8-K: CRO appointment and guidance reaffirmed, March 31, 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000013/ex991_pressreleasex033126.htm"
+    },
+    {
+      "label": "8-K: Observe acquisition and director resignation, January 28, 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000162828026004606/snow-20260128.htm"
+    },
+    {
+      "label": "SEC XBRL company facts (CIK 0001640147)",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001640147.json"
+    },
+    {
+      "label": "Q2 FY2027 earnings call transcript, September 2, 2026",
+      "url": "https://stockanalysis.com/stocks/snow/transcripts/681381-q2-2027/"
+    },
+    {
+      "label": "Q1 FY2027 earnings call transcript, May 27, 2026",
+      "url": "https://stockanalysis.com/stocks/snow/transcripts/568996-q1-2027/"
+    },
+    {
+      "label": "Snowflake Summit 2026 keynote coverage (InformationWeek, June 5, 2026)",
+      "url": "https://www.informationweek.com/ai-innovations/the-agentic-shift-at-the-snowflake-summit-finding-a-platform-s-right-to-win-"
+    },
+    {
+      "label": "Snowflake Summit 2026 product recap (Constellation Research)",
+      "url": "https://www.constellationr.com/insights/news/snowflake-summit-2026-context-custom-model-training-iceberg-v3"
+    },
+    {
+      "label": "Ramaswamy on AI cost economics, Bloomberg Open Interest, August 18, 2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-18/snowflake-s-plan-to-cut-ai-costs-video"
+    },
+    {
+      "label": "April 9, 2026 software sector repricing on agent fears (24/7 Wall St.)",
+      "url": "https://247wallst.com/investing/2026/04/09/net-down-12-snow-down-9-now-down-7-the-market-just-repriced-the-entire-software-sector-on-ai-agent-fears/"
+    },
+    {
+      "label": "Databricks vs. Snowflake at $5B ARR (SaaStr, December 2025)",
+      "url": "https://www.saastr.com/databricks-vs-snowflake-at-5b-arr-same-revenue-2x-valuation-gap-heres-why/"
+    },
+    {
+      "label": "Price, 52-week range and consensus (Yahoo Finance)",
+      "url": "https://finance.yahoo.com/quote/SNOW/"
+    },
+    {
+      "label": "10-year Treasury constant maturity (FRED DGS10)",
+      "url": "https://fred.stlouisfed.org/series/DGS10"
+    }
+  ],
+  "vars": {}
+}

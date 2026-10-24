@@ -68,6 +68,7 @@ Schema and operating rules live in [`CLAUDE.md`](CLAUDE.md).
 | [SCHW](wiki/tickers/SCHW/SCHW.md) | Active | 2026-09-23 | Q2 beat-and-raise, NIM 3.00%, ~43% incremental returns, but the 19% rally leaves 12.4%/yr vs the 13% hurdle. **Watch**; entry ≤$98. |
 | [SHOP](wiki/tickers/SHOP/SHOP.md) | Active | 2026-09-23 | Q2 +34% and AI agents check out on Shop Pay, but ~60× FCF pays 9.3%/yr vs 13%. **Watch**; entry ≤$117, its own buyback level. |
 | [SN](wiki/tickers/SN/SN.md) | Active | 2026-05-10 | Q1 (May 6) beat-and-raise — net sales $1.41B (+15.6%), intl +31.6% accelerating; adj EBITDA $235M (+17.5%), 16.7% margin; adj EPS $1.09 (+25%) beat $1.01. **FY26 guide raised**: +11.5–12.5% rev / $1.29–1.30B EBITDA / $6.00–6.10 EPS. SEA tariff 20%→10%. GM –100 bps (1H tariff/resin drag — 2H recovery is central watch). Slow buyback pace ($18.5M). v2.9→v2.14. PW EV $150 (5-yr); R/R 2.7:1. **Initiate / Hold-Add on weakness**; entry $95–110. |
+| [SNOW](wiki/tickers/SNOW/SNOW.md) | Active | 2026-10-24 | AI didn't eat the warehouse, it fed it — growth went 29%→37%. But owner earnings are still negative and PW return is −5.8%/yr. **Watch / Trim**; entry ≤$131. |
 | [SPCX](wiki/tickers/SPCX/SPCX.md) | Active | 2026-10-21 | Compute turned profitable and Q1 2027 is guided to $33–37B, but $148 already pays for my Base; PW return 8.3%/yr. **Watch / Hold**; entry ≤$120. |
 | [SPOT](wiki/tickers/SPOT/SPOT.md) | Active | 2026-05-22 | **May 21 Investor Day** (2030 targets: 35–40% GM, >20% op margin, 1B MAU) + **landmark UMG AI-covers licensing deal** de-risked the label/AI overhang; stock +17% to ~$490. Thesis strengthened but the $400–450 deep-value entry closed. v2.9→v2.14 (5-yr terminal); PW EV ~$680 (+39%); R/R ~5:1. **Watch / Hold**. |
 | [TREX](wiki/tickers/TREX/TREX.md) | Active | 2026-05-10 | Q1 (May 7) beat — rev $343M (slight miss), EPS $0.59 beat (+$0.08), GM 40.5% (+100bps vs. plan); adj EBITDA $103M (+2%). FY26 reaffirmed ($1.185–1.230B / $315–340M EBITDA). Capex cut to $100–120M (from $224M). **Channel inventory 30–40 days vs. 90–120 historical = thesis-break trigger DE-RISKED ✅**. Arkansas plant 2027. Stock +6.2%; short int 6.5% (bears adding). v2.9→v2.14. PW EV $58 (5-yr); R/R ~3.7:1. **Initiate / Hold (add <$37)**. |
@@ -77,7 +78,7 @@ Schema and operating rules live in [`CLAUDE.md`](CLAUDE.md).
 | [WING](wiki/tickers/WING/WING.md) | Active | 2026-05-01 | Post-Q1 5-firm analyst cluster confirms thesis-weakening (Goldman Buy→Neutral $190; Mizuho/BMO/Wells Fargo PT cuts); consensus center-of-gravity reset to $190–$200, aligning with already-cut §11 Base. EBITDA/EPS resilience preserved but cyclical-vs-structural debate intact. **Watch / Reduce on bounce >$180**; next read = Q2 print late July. |
 | [ZG](wiki/tickers/ZG/ZG.md) | Active | 2026-05-10 | Q1 (May 6) rev $708M (+18%) beat / adj EBITDA $182M (26% margin) beat / GAAP NI $46M; Showcase 4.3% penetration (from 1.7%); mortgage origination +96% to $1.5B. **$626M record Q1 buyback** (13.5M shares). Q2 guide $750–765M / $150–165M EBITDA incl. $20M FTC trial costs. **FTC motion-to-dismiss DENIED May 7** — risk escalated. Zillow+Realtor.com Preview syndication May 5 (75% portal reach). v2.9→v2.14. PW EV $75 (5-yr); R/R ~4:1. **Initiate <$50 / Hold (selective add $38–45)**. |
 
-*49 tickers (45 Active / 4 Paused).*
+*50 tickers (46 Active / 4 Paused).*
 
 ## Frameworks Used
 

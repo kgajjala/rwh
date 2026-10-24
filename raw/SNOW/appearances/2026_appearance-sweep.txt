@@ -1,0 +1,53 @@
+SNOW APPEARANCE SWEEP — window Nov 2025 to Oct 23, 2026 (R9)
+Compiled 2026-10-24. Extracts and source links; full transcripts not redistributable here.
+
+1) SNOWFLAKE SUMMIT 2026 — San Francisco, week of June 1–5, 2026
+   Opening keynote: "The Agentic Enterprise", Sridhar Ramaswamy, with a fireside
+   featuring Daniela Amodei, President of Anthropic.
+   Source: https://www.snowflake.com/en/summit/keynote/
+   Coverage: https://www.informationweek.com/ai-innovations/the-agentic-shift-at-the-snowflake-summit-finding-a-platform-s-right-to-win-
+   (InformationWeek, June 5, 2026)
+   Quote (Ramaswamy, to press/analysts at Summit, per InformationWeek):
+     "AI is fundamentally taking the cost of making software to zero, and it is
+      going to take years to figure out what it means."
+     "We want to also be the intelligence and context layer."
+   Reported acknowledgements: everyone is early in the AI journey; differentiating
+   data platforms is getting harder.
+   Product news at Summit: Snowflake Intelligence renamed Snowflake CoWork;
+   Cortex Code renamed CoCo; Iceberg v3 in Snowflake Storage for Apache Iceberg
+   Tables; Horizon Catalog bidirectional read/write on Apache Polaris; Horizon
+   Context / Semantic Studio / Semantic View Autopilot; Adaptive Compute;
+   Cortex Training (customizing open-weight LLMs on managed GPUs); Cortex Sense;
+   Agent Identity; Snowflake Datastream (managed Kafka, private preview);
+   CoCo for Desktop GA plus VS Code, Excel and Claude Code plugins.
+   Source: https://www.constellationr.com/insights/news/snowflake-summit-2026-context-custom-model-training-iceberg-v3
+           https://select.dev/blog/snowflake-summit-2026-product-announcement-recap
+
+2) BLOOMBERG "OPEN INTEREST" — August 18, 2026
+   Ramaswamy exclusive. Argument: the next phase of enterprise AI is about
+   economics, not using the largest available model; model routing can cut AI
+   cost; single-model dependence is a risk; agents shift workers off repetitive
+   tasks. Relevant to the FY2027 product gross margin guide cut to 74.0%.
+   Source: https://www.bloomberg.com/news/videos/2026-08-18/snowflake-s-plan-to-cut-ai-costs-video
+
+3) SIX FIVE WEBCAST — Ramaswamy with Patrick Moorhead and Daniel Newman.
+   Coding agents as the foundation of enterprise AI; architectural flexibility
+   (model neutrality) as a competitive requirement.
+   Source: https://www.sixfivemedia.com/content/from-data-platform-to-ai-control-plane-snowflake-ceo-sridhar-ramaswamy-on-agentic-enterprise-architecture
+
+4) McKINSEY "AI is turning every company into a software company" — Ramaswamy
+   with Eric Kutcher. AI industrializing intelligence; rethinking pricing models.
+   Source: https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/ai-is-turning-every-company-into-a-software-company
+
+5) GEORGIA TECH SCHELLER "Tech Talks Business" — March 20, 2026.
+   Future of data, AI-driven analytics, scalable cloud platforms. Held during the
+   drawdown; no financial disclosure.
+   Source: https://www.scheller.gatech.edu/events/2026/tech-talks-business-featuring-sridhar-ramaswamy-ceo-snowflake.html
+
+GAP LOGGED: no CNBC or equivalent earnings-day CEO/CFO television hit was located
+for the Q1 FY2027 (May 27, 2026) or Q2 FY2027 (September 2, 2026) prints. Searched
+CNBC, Bloomberg and trade press. Absence is unconfirmed rather than verified.
+
+GAP LOGGED: Snowflake publishes no annual shareholder letter (R9 Pattern C). There
+is no chairman's letter in the FY2026 10-K or the 2026 DEF 14A. The CEO's Summit
+keynote and the quarterly calls are the substitute. Logged as a disclosure gap.

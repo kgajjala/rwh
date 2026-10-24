@@ -3,7 +3,8 @@
 *Position-agnostic per v2.1 schema (Core Rule #3): no portfolio allocation, no target %, no form (stock/options) splits. This file is pure analysis.*
 
 *Updated by LLM agent after each full thesis cycle, earnings update, or v2.x schema migration.*
-*Updated: 2026-10-23 — CMG and KGS migrate to v7.0 after 26% and 22% falls; both stay Watch / Hold, at 9.5%/yr (entry ≤$23) and 11.3%/yr (entry ≤$42).*
+*Updated: 2026-10-24 — SNOW ingested at #33d. A −56% drawdown on an AI-disruption narrative was refuted by three quarters of acceleration, but at $325 the PW case returns −5.8%/yr; Watch / Trim, entry ≤$131.*
+*Prior 2026-10-23 — CMG and KGS migrate to v7.0 after 26% and 22% falls; both stay Watch / Hold, at 9.5%/yr (entry ≤$23) and 11.3%/yr (entry ≤$42).*
 *Prior 2026-10-22 — TSLA refreshed on Q3: a cash beat and a capex cut, but no robotaxi economics; still Watch / Trim at −5.3%/yr.*
 *Prior 2026-10-14 — PEP and UNH refreshed on Q3. PEP failed both Oct 8 kill criteria and moves to Watch; UNH migrates to v6.0 and stays Watch at 8.3%/yr.*
 *Prior 2026-10-06 — ACN, ADBE and DKS refreshed. ACN and ADBE migrate to v5, fall short of the 13% hurdle, and move to 10g/10h as Watch. Detail on the pages and in `git log`.*
@@ -88,6 +89,7 @@
 | 33 | DELL | Low-Moderate | Double (A+I Mod) | PW EV **$366** (5-yr) vs. $405 = **–10%**; R/R **≈0.8:1** — Q1 FY27 blowout (+88% rev, +757% AI server) validated thesis; stock +89% to $405 has priced most of the upside; consensus $185→$503 | **Watch / Hold**; entry $340–365 | 📅 Q2 FY27 — **Sept 3, 2026** |
 | 33b | RIVN | **Low-Moderate** | **Single** (B) | PW EV $10.30 vs. $12.42 = **−17%**, no dividend; **−3.7%/yr vs the 13% hurdle**; R/R 0.9:1. R2 is ramping, but burn and SBC grow shares ~6%/yr; the price implies ~85% odds of the Bull | 🟡 **Watch** / 🔴 **Trim**; entry ≤$5.59 | 📅 Q3 results Oct 29 |
 | 33c | TSLA | **Moderate** | None | PW EV $295 vs. $386.47 = **−24%**, no dividend; **−5.3%/yr vs the 13% hurdle**; R/R 0.5:1. Q3 beat on cash (FCF +$1.5B, capex cut to ≈$20B); robotaxi economics still undisclosed | 🟡 **Watch (entry ≤$160)** / 🔴 **Trim** | 📅 NHTSA reply Oct 30; ACEA Sep–Dec; Q4 late Jan |
+| 33d | SNOW | **Moderate** | **Single** (A) | PW EV $241 vs. $325.43 = **−26%**, no dividend; **−5.8%/yr vs the 13% hurdle**; R/R 0.3:1. The AI bear case was beaten — growth 29%→37% — but owner earnings have never been positive | 🟡 **Watch (entry ≤$131)** / 🔴 **Trim** | 📅 Q3 FY2027 — Dec 2, 2026 |
 | 35 | PG | **Low** *(was Moderate)* | **Single** (A-Mod) | PW EV $164 vs. $147.40 = **+12%** + 2.98% div; **R/R 2.6:1** — ⚠️ upside below downside (−15% to bear); spot *above* the ≤$132 entry | 🟡 **Watch / Hold** | 📅 Q1 FY2027 — Oct 22, 2026 |
 
 **Ranking rationale notes (2026-05-01 weekly update)**:
@@ -115,6 +117,7 @@
 
 | Date | Ticker | Event | Key Watch Item | Signal If Positive | Signal If Negative |
 |------|--------|-------|---------------|-------------------|-------------------|
+| 📅 **Dec 2, 2026** | **SNOW** | **Q3 FY2027 earnings** | Non-GAAP product gross margin vs. the 74.0% guide (test 1); product revenue growth vs. the 37–38% guide (test 2); whether AI revenue is finally quantified | Margin ≥74.0% with a fourth consecutive acceleration → Bear odds fall, Bull rises | A second gross-margin cut → AI mix is structurally dilutive and the Base loses 10 points to the Bear |
 | 📅 **Sep 14, 2026** | **DKS** | **Goldman Sachs 33rd Annual Global Consumer & Retail Conference — fireside** | First unscripted management appearance since the –30.7% crash: does a replacement Foot Locker profitability timeline appear, and is the unused $3.0B authorization addressed? | A dated FL inflection + buyback deployment at ~$133 → Outsider-grade upgrade and re-rate | Another "still early" with no timeline and no buyback = credibility discount persists |
 | 📅 **~Dec 9, 2026** *[Est.]* | **CHWY** | **Q3 FY2026 earnings** | Net adds ≥150K; gross margin without Q2's ~$15M of one-offs; nine-month FCF and diluted share count vs. SBC | Adds hold and margin ≥6.6% guide → Base path intact | Net customer decline or margin guide cut → Bear odds rise |
 | 📅 **~Nov 24, 2026** *[Est.]* | **DKS** | **Q3 FY2026 earnings** | DICK'S comp vs. the unchanged +2.5–4.0% guide (the load-bearing fact); FL segment loss vs. the $(80)M floor; gross margin — management pre-flagged Q3 as *"most pronounced"*; FCF vs. the ~$450M dividend | DICK'S comp holds + FL loss narrows → sum-of-the-parts thesis validated | **DICK'S comp guidance cut = thesis-break trigger**; FL loss beyond $(80)M or a goodwill impairment |
@@ -198,6 +201,7 @@
 
 | Ticker | Current Price | Bear (prob) | Base (prob) | Bull (prob) | PW Expected Value | Upside |
 |--------|--------------|-------------|-------------|-------------|-------------------|--------|
+| SNOW | **$325.43** (10/23/26) | $105 (25%) | $204 (45%) | $396 (30%) | **~$241** | **−26% (5yr); −5.8%/yr vs 13% hurdle; R/R 0.3:1** |
 | EBAY | **$103.41** (9/4/26) | $60 (18%) | $130 (50%) | $195 (32%) | **~$138** | **+33.6% (5yr / ~6.0%/yr) + 1.2% div; R/R 2.1:1** |
 | CHWY | **$18.27** (9/25/26) | $14 (30%) | $37 (50%) | $60 (20%) | **~$34.70** | **+90% (5yr); 13.7%/yr vs 13% hurdle; R/R 9.8:1** |
 | DKS | **$137.13** (10/5/26) | $97 (30%) | $215 (50%) | $330 (20%) | **~$203** | **+48% (5yr); 11.8%/yr vs 13% hurdle; R/R 4.8:1** |

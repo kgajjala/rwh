@@ -1,0 +1,8 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1413447/000141344726000026/nxpi-20260427.htm
+(extract via web fetcher 2026-10-25; page text 252,071 chars; chars 0–200,000 read)
+CEO Rafael Sotomayor: age 57; joined NXP 2014; GM roles across Mobile, Industrial and IoT; led Secure Connected Edge; exec team since 2020; President from Apr 28, 2025; CEO from Oct 28, 2025. Kurt Sievers retired Oct 2025, advised to year-end.
+Board: ten directors, nine independent; Julie Southern chair (director since 2013, chair since May 2023); AGM Jun 10, 2026; 252,548,632 shares outstanding at Apr 10, 2026.
+Pay: CEO salary $1,050,000 (+84%); AIP target 170% of salary; 2025 AIP paid $549,780 (30.8% of target). Sievers AIP $714,043. CFO Betz salary $685,000, AIP target 100%, paid $210,980.
+AIP weights: H1 revenue 20%, H1 non-GAAP gross margin 20%, H2 revenue 20%, H2 non-GAAP GM 20%, sustainability scorecard 20% (gated by 34% non-GAAP op margin, not met -> 0%). Outcomes: H1 both 0%, H2 revenue 87.0%, H2 GM 66.9%.
+LTI: PSUs 70% of LTI value on relative TSR only (three-year cliff; 0–200%; capped at 100% if TSR negative; 2023 grant paid 50%; 2025 grant period Oct 28, 2025 – Oct 27, 2028); RSUs 30%, vest in thirds. No ROIC, FCF or EPS metric in the plan as extracted.
+Ownership: 15 directors and officers hold 113,966 shares (<1%); Sotomayor 13,837; Sievers 236,282. Pledging and hedging prohibited. Say-on-pay 2025: ~94% support. Peer group: AMD, ADI, AMAT, ASML, Corning, Infineon, Lam, Marvell, Microchip, Micron, ON, Qorvo, Qualcomm, Seagate, Skyworks, STMicro, TE, TI, Western Digital.

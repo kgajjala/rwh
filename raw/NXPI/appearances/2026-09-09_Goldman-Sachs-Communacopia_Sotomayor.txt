@@ -1,0 +1,11 @@
+SOURCE: https://www.investing.com/news/transcripts/nxp-at-goldman-sachs-conference-physical-ai-push-lifts-outlook-93CH-4894216
+(extract via web fetcher 2026-10-25; paraphrase; the page contains garbled passages — e.g. a Q3 gross-margin figure of 50.5% that conflicts with the 58.5% guide, and a "6–8%" revenue CAGR that conflicts with the 6–10% in the releases; both ignored)
+Speakers: Rafael Sotomayor (CEO), Mike Lucarelli (IR); moderator Jim Schneider (Goldman Sachs). Date: Wed 2026-09-09.
+Pricing: structural change from annual erosion to a better environment because semis are a larger share of system value; tight supply and input costs; selective increases rolling out gradually, building through Q3, Q4 and into 2027.
+Demand: Q2 ~+20% ex-MEMS; Q3 similar trajectory; OEM and Tier 1 inventories lean; customers have not restocked; a shift would take fear of shortage.
+Auto: SDV is the largest driver (16nm zonal, 5nm central compute replacing many small ECUs); radar, electrification, connectivity; accelerated drivers close to half of revenue, growing >20%.
+Physical AI: humanoid BOM $1,500–$4,000 (Western), NXP addressable ~half; a "2032-type" market. Data center $500M in 2026, ~20% growth next year; control plane.
+China: strong domestic competitors in infotainment, ADAS, power discretes, low-end MCUs; NXP will not compete at the low end, aims to win architecture; S32K5 traction.
+Fabs: moving from ~60/40 external/internal front-end to 80/20; 200mm -> 300mm; back-end ~80% internal.
+Targets reaffirmed: 57–63% GM, 34–40% operating margin; new SDV and physical-AI platforms do not fully ramp until late 2027.
+M&A: larger deals must clear a high bar and accelerate the physical-AI path; no buyback plans given.

@@ -1,0 +1,8 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1413447/000141344726000045/nxpi-20260628.htm ; Q1: https://www.sec.gov/Archives/edgar/data/1413447/000141344726000034/nxpi-20260329.htm
+(extract via web fetcher 2026-10-25)
+Q2 2026: revenue 3,496 (+19.5%); GAAP GM 57.3% (53.4%); R&D 604 (17.3%); SG&A 291 (8.3%); op income 1,071 (30.6%); diluted EPS 3.02. H1: revenue 6,677 (+15.9%), GM 56.8%, op income 2,576 (38.6%, includes MEMS gain in other income 616), EPS 7.44. Auto 1,938/3,720 (Q2/H1), I&IoT 755/1,383, Mobile 351/742, Comm 452/832. OCF H1 1,653; capex 148.
+Q1 2026: MEMS proceeds $878M, gain $627M, earn-out receivable up to $50M (fair value $44M). Q1 end markets: Auto 1,782 (1,674), I&IoT 628 (508), Mobile 391 (338), Comm 380 (315).
+Restructuring H1 2026: net release $6M (vs $81M charge H1 2025). Legal: Motorola-related injury cases settled in Q2 2026.
+Debt (6/28/26): principal $11,039M (YE25 $12,290M); current 999; LT 9,977; fair value $10.2B. Maturities: 2027 1,000; 2028 1,000; 2029 1,000; 2030 1,670; 2031 1,370; 2032 1,300; 2033 1,000; 2035 700; 2041 1,000; 2042 499; 2051 500. $2B CP program unused.
+VSMC: capacity contribution $1,200M committed, $1,098M paid to date; additional equity $653M through 2027 and $102M infrastructure through 2026; purchase commitment ~$14,096M over 37 years with minimum loading 80–90%. ESMC: additional equity $379M through 2029. Purchase commitments excl. JVs $2,908M through 2044. Operating lease obligations $670M.
+Effective tax 19.3% YTD. Expected intangible amortization $141M rest of 2026, $256M in 2027.

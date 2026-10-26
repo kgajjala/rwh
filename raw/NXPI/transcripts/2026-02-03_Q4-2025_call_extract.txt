@@ -1,0 +1,8 @@
+SOURCE: https://www.marketbeat.com/earnings/reports/2026-2-2-nxp-semiconductors-stock/
+(extract via web fetcher 2026-10-25; paraphrase)
+2025: Auto $7.1B flat (H1 digestion; Q4 within 1% of the 2023 peak); I&IoT $2.3B flat (Q4 ~+20% YoY); Mobile $1.6B +6%; Comm Infra $1.3B -24%. Accelerated drivers grew ~10% vs 8–12% model.
+Q1 2026 guide 3.15B ±100M; no broad restocking assumed; MEMS ~$25M (one month). Not guiding 2026; operating within long-term model. Opex ~23% of revenue long-term; rule of thumb ~100bp GM per $1B revenue; low-single-digit annual price declines modeled, auto VPAs mostly done.
+Long-term model intact (Palmer): not restating 2027; auto ~$9.5B 2027 to be recomputed ex ~$300M sensors; 6–10% CAGR; auto and I&IoT 8–12%.
+RF Power exit: stop new product development, ~$90M restructuring charge; RF to decline like Digital Networking (8 yrs). Secure Car ~50% of Comm Infra 2025.
+MEMS sale to ST: $900M + up to $50M; ~$630M gain; ~$300M revenue; ~100 people; GM +10–20bp.
+Capital: Q4 buybacks 338, dividends 254, 36 more post-quarter; net debt $8.96B, 1.9x; returned >$23B over ten years (~95% of FCF), diluted shares -27%; buybacks comfortable below 2x net leverage. VSMC+ESMC: ~$1.7B of planned $3.4B invested; majority of remainder in 2026; VSMC ramp 2027, full load 2028. Geographic reporting moves to headquarters-based regions.

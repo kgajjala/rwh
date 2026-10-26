@@ -1,0 +1,24 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/0001413447/000141344726000044/nxp2q26exhibit991.htm
+(extract via web fetcher 2026-10-25; figures $M unless noted)
+
+Q2 2026 | Q1 2026 | Q2 2025
+Revenue 3,496 | 3,181 | 2,926
+GAAP GM 57.3% | 56.2% | 53.4%; Non-GAAP GM 58.0% | 57.1% | 56.5%
+GAAP op income 1,071 | 1,505 | 687; Non-GAAP op income 1,228 | 1,052 | 935 (35.1% | 33.1% | 32.0%)
+GAAP NI to stockholders 767 | 1,122 | 445; Non-GAAP NI 918 | 774 | 690
+GAAP EPS 3.02 | 4.43 | 1.75; Non-GAAP EPS 3.61 | 3.05 | 2.72
+(Q1 2026 GAAP includes ~621 other-income gain, 627 gain on asset sale = MEMS Sensors, excluded from non-GAAP)
+End markets Q2 2026: Auto 1,938 (+9% QoQ, +12% YoY); Industrial & IoT 755 (+20%, +38%); Mobile 351 (-10%, +6%); Comm Infra & Other 452 (+19%, +41%)
+OCF 860; net capex 69; non-GAAP FCF 791 (22.6% of revenue); TTM FCF 2,807 (21%)
+Cash 3,222; ST debt 999; LT debt 9,977; gross debt 10,976; net debt 7,754; gross leverage 2.1x; net 1.5x; TTM adj EBITDA 5,106
+DIO 156; DPO 60; DSO 33; CCC 129 days (Q1 140). Channel inventory 11 weeks (Q2 2025: 9)
+Capital returned 360 (45.5% of FCF): dividends 256, buybacks 104; post-quarter buybacks 32 (Jun 29–Jul 24, 10b5-1)
+Diluted shares 254.0M (Q1 253.5M; Q2 2025 253.8M); repaid $750M 3.875% notes Apr 20, 2026
+Op-income reconciliation Q2: PPA 36; SBC 105; other incidentals 24; restructuring net credit (8) -> add-backs 157
+
+Q3 2026 outlook (low / mid / high): Revenue 3,650 / 3,750 / 3,850 (+15% / +18% / +21% YoY; +4% / +7% / +10% QoQ)
+Non-GAAP GM 58.0 / 58.5 / 59.0%; non-GAAP op income 1,314 / 1,382 / 1,449 (36.0 / 36.9 / 37.6%)
+Non-GAAP financial expense (85); tax 17.5–18.5%; NCI (15); diluted shares 254.0M
+Non-GAAP EPS 3.89 / 4.11 / 4.32; GAAP EPS 3.21 / 3.43 / 3.64
+Expected Q3 adjustments: PPA (36), SBC (115), restructuring and other (26)
+CEO statement (paraphrase): growth broad across end markets and regions, driven by software-defined vehicles and physical AI, data center emerging; first-half results plus Q3 guide support the long-term financial commitments.

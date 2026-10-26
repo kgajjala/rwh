@@ -1,0 +1,11 @@
+SOURCE: https://finance.yahoo.com/markets/stocks/articles/nxp-nxpi-q1-2026-earnings-221729785.html ; https://www.fool.com/earnings/call-transcripts/2026/04/28/nxp-nxpi-q1-2026-earnings-call-transcript/
+(extract via web fetcher 2026-10-25; paraphrase)
+Q1: revenue 3.18B (+12% YoY, -5% QoQ), +$31M vs guide midpoint; non-GAAP GM 57.1%, op margin 33.1%, EPS 3.05 (+$0.08); FCF 714 (22%). Auto 1.78B (+6%; +10% ex-MEMS); I&IoT 628 (+24%); Comm 380 (+21%); Mobile 391 (+16%). Company-specific drivers +18%, ~1/3 of revenue; core +10%.
+Q2 guide: revenue 3.45B ±100M; GM 58% ±50bp; opex 800M ±10M; EPS ~3.50.
+Auto drivers >45% of auto revenue, ~50% by year-end 2026. Industrial drivers ~37% of IoT, growing 40–50%. Data center ~$200M in 2025 (split IoT/Comm), >$500M in 2026; control plane only (power, cooling, board management, networking), control-plane serviceable market growing ~10–11%/yr; not targeting GPUs/accelerators.
+Reaffirmed Analyst Day targets (double-digit growth in 2026 and 2027; GM toward 60%+; long-term total company 6–10%). Palmer declined a 2027 revenue endpoint, told analysts to back out MEMS.
+MEMS: proceeds $878M in Q1; gain $627M (10-Q). Net debt $8.0B (1.7x). Retired $500M 5.35% notes (March) and $750M 3.875% (April 20).
+Inventory 165 days incl. 7 days pre-build; channel 11 weeks; utilization low-80s H1, mid-80s H2. Selective small price increases to offset input costs, immaterial in Q2. Memory = supply issue, no order impact yet.
+BSMC(VSMC) ~67% through investment cycle, $385M in Q1, $425M more in 2026; ESMC ~30% through, ~$50M in 2026; ~200bp structural GM expansion once fully operational in 2028. China grew YoY modestly; local competition mainly at low end; S32K5 entering production in China.
+Q&A: S32K5 zonal reference design with TTTech, customer sampling Q3; Aviva Links production 2028; Kinara funnel >$1B, >30 POCs, revenue 2027–2028.
+Stock +25.6% on Apr 29 (close $289.25 vs $230.39 prior), largest one-day gain recorded.

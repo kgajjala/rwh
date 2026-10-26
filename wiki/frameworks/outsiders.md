@@ -33,7 +33,7 @@ Add/refresh an Outsider read in the Summary's "Why / Why not" only when a **mate
 
 ---
 
-## Cross-Ticker Scoring (as of 2026-10-23)
+## Cross-Ticker Scoring (as of 2026-10-25)
 
 Anchored on the buyback-timing test, read from each page's §4 capital-allocation block. This table is the authoritative central record; each §4 block is the canonical per-ticker home.
 
@@ -95,6 +95,7 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 | **DELL** | 40-yr strategic capital-allocation mastery (LBO, EMC, VMware spin) but public-company framework is committed programmatic cadence. SLTA insider sales blunt the timing signal. |
 | **UNH** | **Outsider-leaning**: bought countercyclically — $2B+ at $300–355 in Q1 2026 and $5.0B by Q3 while 20–35% below the high. Capped by $54B of 2021–25 acquisitions at a −15% 3-yr ROIIC. |
 | **RKT** | $16B all-stock dilutive acquisitions (Mr. Cooper + Redfin); long-duration orientation, bold, but fails Thorndike's per-share discipline test; no buybacks during integration. |
+| **NXPI** | **Steward (not Outsider), added 2026-10-25.** $22.7B returned over 2016–2025 (~95% of free cash flow) and diluted shares −27%, but the 2021–2025 flows tracked cash flow, not price: a $4.0B buyback at ≈$195 funded by $4.0B of new notes in 2021, then $1.4B in 2022 when the stock hit its low. Dividends plus buybacks were 107% of reported FCF and 118% of owner earnings, with net debt +$3.6B. The last four quarters were countercyclical ($338M at the $183 low in Q4 2025, ≈$100M a quarter into the rally to $330). Pay is relative TSR and revenue/gross margin; no return-on-capital metric. |
 | **SCHW** | Bought $2.4B at ~$99 in Q1 2026, then only $1.0B at ~$89 in Q2 as the stock made its 52-wk low, while issuing $5.85B of senior notes. The inverse of the countercyclical test. |
 
 ### 🔴 Anti-Outsiders / Reforming

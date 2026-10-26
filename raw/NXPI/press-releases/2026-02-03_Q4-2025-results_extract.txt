@@ -1,0 +1,22 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/0001413447/000141344726000003/nxp4q25exhibit991.htm
+(extract via web fetcher 2026-10-25)
+Q4 2025 | FY2025 | FY2024
+Revenue 3,335 | 12,269 | 12,614
+Non-GAAP GM 57.4% | 56.8% | 58.1%
+Non-GAAP op income 1,154 | 4,064 | 4,369 (34.6% | 33.1% | 34.6%)
+Non-GAAP NI to stockholders 851 | 3,004 | 3,376; Non-GAAP diluted EPS 3.35 | 11.81 | 13.09; diluted shares 254,078k | 254,331k | 257,848k
+OCF 891 | 2,820 | 2,782; net capex 98 | 395 | 693; non-GAAP FCF 793 | 2,425 | 2,089; SBC 100 | 462 | 461
+FY2025 GAAP->non-GAAP op income: GAAP 3,047 + PPA 151 + restructuring 261 + SBC 462 + other incidentals 143 = 4,064
+Q1 2026 outlook midpoints: revenue 3,150; GM 57.0%; op margin 32.7%; EPS 2.97
+
+Earlier releases (Exhibit 99.1, via web fetcher):
+Q3 2025: revenue 3.17B (-2% YoY), GM 57.0%, op margin 33.8%, EPS 3.11, FCF 509; Auto 1,837, I&IoT 579, Mobile 430, Comm 327; channel 9 wks; Q4 outlook rev 3.2/3.3/3.4B, EPS 3.07/3.28/3.49; Sotomayor named incoming CEO; returns 310 (div 256, buyback 54) + 100 post-quarter to Oct 24.
+Q2 2025: revenue 2.93B, GM 56.5%, op margin 32.0%, EPS 2.72, FCF 696; Q3 outlook 3,050/3,150/3,250, EPS 2.89/3.10/3.30
+Q1 2025: revenue 2,835, GM 56.1%, op margin 31.9%, EPS 2.64, FCF 427; Q2 outlook 2,800/2,900/3,000, EPS 2.46/2.66/2.86
+Q4 2024: revenue 3,111; FY2024 non-GAAP op income 4,369 (34.6%), NI 3,376, EPS 13.09, FCF 2,089; FY2023 op income 4,662 (35.1%), NI 3,661, EPS 14.01, FCF 2,687; Q1 2025 outlook mid 2,825, EPS 2.59
+Q3 2024: revenue 3.25B, GM 58.2%, op margin 35.5%, EPS 3.45; Q4 2024 outlook mid 3,100, EPS 3.13
+Q2 2024: revenue 3,127, EPS 3.20; Q3 2024 outlook mid 3,250, EPS 3.42
+Q1 2024: revenue 3,126, EPS 3.24; Q2 2024 outlook mid 3,125, EPS 3.20
+Q4 2023: revenue 3,422; FY2023 revenue 13,276; FY2022 op income 4,791 (36.3%), FCF 2,834; Q1 2024 outlook mid 3,125, EPS 3.17
+FY2023/FY2022 end markets: Auto 7,484 / 6,879; I&IoT 2,351 / 2,713; Mobile 1,327 / 1,607; Comm 2,114 / 2,006
+FY2021: revenue 11,063; non-GAAP op income 3,641 (32.9%); FCF 2,311; buybacks 20.6M shares for $4.02B; dividends 562; FY2020: revenue 8,612, non-GAAP op income 2,228 (25.9%)

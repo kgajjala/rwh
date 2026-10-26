@@ -3,7 +3,8 @@
 *Position-agnostic per v2.1 schema (Core Rule #3): no portfolio allocation, no target %, no form (stock/options) splits. This file is pure analysis.*
 
 *Updated by LLM agent after each full thesis cycle, earnings update, or v2.x schema migration.*
-*Updated: 2026-10-24 — SNOW ingested at #33d. A −56% drawdown on an AI-disruption narrative was refuted by three quarters of acceleration, but at $325 the PW case returns −5.8%/yr; Watch / Trim, entry ≤$131.*
+*Updated: 2026-10-25 — NXPI ingested at #33e. The stock is back where it was before its record April rally while quarterly EPS guidance is 17% higher, but the recovery is part cycle and the PW case returns 6.2%/yr; Watch / Hold, entry ≤$171. Q3 print Oct 27.*
+*Prior 2026-10-24 — SNOW ingested at #33d. A −56% drawdown on an AI-disruption narrative was refuted by three quarters of acceleration, but at $325 the PW case returns −5.8%/yr; Watch / Trim, entry ≤$131.*
 *Prior 2026-10-23 — CMG and KGS migrate to v7.0 after 26% and 22% falls; both stay Watch / Hold, at 9.5%/yr (entry ≤$23) and 11.3%/yr (entry ≤$42).*
 *Prior 2026-10-22 — TSLA refreshed on Q3: a cash beat and a capex cut, but no robotaxi economics; still Watch / Trim at −5.3%/yr.*
 *Prior 2026-10-14 — PEP and UNH refreshed on Q3. PEP failed both Oct 8 kill criteria and moves to Watch; UNH migrates to v6.0 and stays Watch at 8.3%/yr.*
@@ -90,6 +91,7 @@
 | 33b | RIVN | **Low-Moderate** | **Single** (B) | PW EV $10.30 vs. $12.42 = **−17%**, no dividend; **−3.7%/yr vs the 13% hurdle**; R/R 0.9:1. R2 is ramping, but burn and SBC grow shares ~6%/yr; the price implies ~85% odds of the Bull | 🟡 **Watch** / 🔴 **Trim**; entry ≤$5.59 | 📅 Q3 results Oct 29 |
 | 33c | TSLA | **Moderate** | None | PW EV $295 vs. $386.47 = **−24%**, no dividend; **−5.3%/yr vs the 13% hurdle**; R/R 0.5:1. Q3 beat on cash (FCF +$1.5B, capex cut to ≈$20B); robotaxi economics still undisclosed | 🟡 **Watch (entry ≤$160)** / 🔴 **Trim** | 📅 NHTSA reply Oct 30; ACEA Sep–Dec; Q4 late Jan |
 | 33d | SNOW | **Moderate** | **Single** (A) | PW EV $241 vs. $325.43 = **−26%**, no dividend; **−5.8%/yr vs the 13% hurdle**; R/R 0.3:1. The AI bear case was beaten — growth 29%→37% — but owner earnings have never been positive | 🟡 **Watch (entry ≤$131)** / 🔴 **Trim** | 📅 Q3 FY2027 — Dec 2, 2026 |
+| 33e | NXPI | **Moderate** | None | PW EV $292 vs. $234.92 = **+24%** + 1.7% div; **6.2%/yr vs the 13% hurdle**; R/R 2.1:1. A narrow-moat auto and industrial chip franchise; the 2026 recovery is about half cycle, and 20× owner earnings in 2031 leaves the return short even at a flat multiple (10.2%) | 🟡 **Watch (entry ≤$171) / Hold** | 📅 Q3 results Oct 27 (after the close) |
 | 35 | PG | **Low** *(was Moderate)* | **Single** (A-Mod) | PW EV $164 vs. $147.40 = **+12%** + 2.98% div; **R/R 2.6:1** — ⚠️ upside below downside (−15% to bear); spot *above* the ≤$132 entry | 🟡 **Watch / Hold** | 📅 Q1 FY2027 — Oct 22, 2026 |
 
 **Ranking rationale notes (2026-05-01 weekly update)**:
@@ -117,6 +119,7 @@
 
 | Date | Ticker | Event | Key Watch Item | Signal If Positive | Signal If Negative |
 |------|--------|-------|---------------|-------------------|-------------------|
+| 📅 **Oct 27, 2026** | **NXPI** | **Q3 2026 earnings** (after the close; call 4:30pm EDT) | Channel inventory ≤12 weeks and a Q4 guide midpoint ≥$3.75B (test 1); non-GAAP gross margin ≥58.5% (test 2); company-specific drivers ≥⅓ of revenue growing ≥20% and the physical-AI funnel above $1.5B (test 3) | All three pass → Bull odds hold at 25%; margin is price and mix | Channel above 12 weeks or a falling Q4 guide → the Base loses 10 points to the Bear (PW EV $276) |
 | 📅 **Dec 2, 2026** | **SNOW** | **Q3 FY2027 earnings** | Non-GAAP product gross margin vs. the 74.0% guide (test 1); product revenue growth vs. the 37–38% guide (test 2); whether AI revenue is finally quantified | Margin ≥74.0% with a fourth consecutive acceleration → Bear odds fall, Bull rises | A second gross-margin cut → AI mix is structurally dilutive and the Base loses 10 points to the Bear |
 | 📅 **Sep 14, 2026** | **DKS** | **Goldman Sachs 33rd Annual Global Consumer & Retail Conference — fireside** | First unscripted management appearance since the –30.7% crash: does a replacement Foot Locker profitability timeline appear, and is the unused $3.0B authorization addressed? | A dated FL inflection + buyback deployment at ~$133 → Outsider-grade upgrade and re-rate | Another "still early" with no timeline and no buyback = credibility discount persists |
 | 📅 **~Dec 9, 2026** *[Est.]* | **CHWY** | **Q3 FY2026 earnings** | Net adds ≥150K; gross margin without Q2's ~$15M of one-offs; nine-month FCF and diluted share count vs. SBC | Adds hold and margin ≥6.6% guide → Base path intact | Net customer decline or margin guide cut → Bear odds rise |
@@ -202,6 +205,7 @@
 | Ticker | Current Price | Bear (prob) | Base (prob) | Bull (prob) | PW Expected Value | Upside |
 |--------|--------------|-------------|-------------|-------------|-------------------|--------|
 | SNOW | **$325.43** (10/23/26) | $105 (25%) | $204 (45%) | $396 (30%) | **~$241** | **−26% (5yr); −5.8%/yr vs 13% hurdle; R/R 0.3:1** |
+| NXPI | **$234.92** (10/23/26) | $135 (25%) | $296 (50%) | $441 (25%) | **~$292** | **+24% + 1.7% div (5yr) = 6.2%/yr vs 13% hurdle; R/R 2.1:1** |
 | EBAY | **$103.41** (9/4/26) | $60 (18%) | $130 (50%) | $195 (32%) | **~$138** | **+33.6% (5yr / ~6.0%/yr) + 1.2% div; R/R 2.1:1** |
 | CHWY | **$18.27** (9/25/26) | $14 (30%) | $37 (50%) | $60 (20%) | **~$34.70** | **+90% (5yr); 13.7%/yr vs 13% hurdle; R/R 9.8:1** |
 | DKS | **$137.13** (10/5/26) | $97 (30%) | $215 (50%) | $330 (20%) | **~$203** | **+48% (5yr); 11.8%/yr vs 13% hurdle; R/R 4.8:1** |
@@ -260,6 +264,7 @@
 | AI in travel | BKNG / ABNB existential risk | Watch Google, OpenAI travel agent product launches |
 | 30-year mortgage rates | RKT origination volume (critical); SCHW NIM (indirect); ZG / TREX / RH / **LOW** demand | Sustained <6.25% = RKT/ZG/TREX/RH/LOW bull trigger; >7.5% = bear |
 | Housing lock-in unlock | RKT purchase volume + ZG traffic + TREX/LOW R&R demand | Rate relief → unlock → broad housing-cycle benefit; LOW direct beneficiary via both existing-home R&R + Pro construction |
+| Semiconductor cycle, lead times and Section 232 tariffs | NXPI (automotive and industrial chips); read-across from TI, Infineon and Microchip results | Lead times above 16 weeks and channel above 12 weeks = cycle risk; phase-two chip tariffs covering automotive and industrial parts = margin and China risk |
 | Gig worker reclassification (federal) | DASH unit economics (existential) | Any federal legislative movement = DASH thesis-break risk |
 | Tariff path (consumer goods) | PG / SBUX / **CMG** / NKE / LULU / ONON / SN margins; broad consumer | **CMG**: mid-single-digit food cost inflation (beef + produce tariffs); ~40 bps cost-of-sales Q3 2026; limited pricing offset. PG-specific guidance + cross-cutting effect; SN largely de-risked (manufacturing flex) |
 | De minimis / cross-border trade | **FDX** (China-US lane ~2.5% of rev, most profitable intercontinental); broad air-cargo | China de-minimis removed May 2025 / globally Aug 2025 → ~$1B FY2026 FedEx trade headwind; watch whether anniversaried + Asia-Europe re-routing offsets; UPS read-across |

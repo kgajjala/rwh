@@ -1,0 +1,157 @@
+{
+ "spot": 234.92,
+ "dps": 4.056,
+ "discount_rate": 0.1,
+ "hurdle": 0.13,
+ "last_year": 2031,
+ "fy_prefix": "",
+ "eps_label": "Non-GAAP EPS",
+ "segment_names": {
+  "AUTO": "Automotive",
+  "IIOT": "Industrial & IoT",
+  "MOBILE": "Mobile",
+  "COMM": "Comm Infra & Other"
+ },
+ "base": {
+  "year": 2026,
+  "shares": 0.254,
+  "corp_pct": 0.0,
+  "other": -0.442,
+  "tax": 0.18,
+  "segments": {
+   "AUTO": {
+    "rev": 7.825,
+    "margin": 0.357
+   },
+   "IIOT": {
+    "rev": 2.983,
+    "margin": 0.357
+   },
+   "MOBILE": {
+    "rev": 1.607,
+    "margin": 0.357
+   },
+   "COMM": {
+    "rev": 1.847,
+    "margin": 0.357
+   }
+  },
+  "sbc_pct": 0.031,
+  "eps_excludes_sbc": true,
+  "oe_conversion": 0.75
+ },
+ "other_growth": 0.0,
+ "cases": {
+  "Bull": {
+   "role": "bull",
+   "prob": 0.25,
+   "pe": 22,
+   "basis": "owner",
+   "tax": 0.18,
+   "sbc_pct": 0.03,
+   "dilution": 0.011,
+   "buyback": 0.03,
+   "segments": {
+    "AUTO": {
+     "g": 0.1,
+     "m": 0.395
+    },
+    "IIOT": {
+     "g": 0.12,
+     "m": 0.395
+    },
+    "MOBILE": {
+     "g": 0.03,
+     "m": 0.395
+    },
+    "COMM": {
+     "g": 0.08,
+     "m": 0.395
+    }
+   },
+   "tier": "Plausible",
+   "story": "Management's own model delivered and extended: the S32N and S32K5 platforms ramp from late 2027, physical AI and the data-center control plane lift Industrial and Comm Infra, VSMC is fully loaded in 2028 and adds about 200 bps of gross margin, so the operating margin reaches the top of the 34\u201340% range (39.5%) and EPS roughly doubles the 2024 base by 2030."
+  },
+  "Base": {
+   "role": "base",
+   "prob": 0.5,
+   "pe": 20,
+   "basis": "owner",
+   "tax": 0.18,
+   "sbc_pct": 0.032,
+   "dilution": 0.012,
+   "buyback": 0.024,
+   "segments": {
+    "AUTO": {
+     "g": 0.07,
+     "m": 0.365
+    },
+    "IIOT": {
+     "g": 0.08,
+     "m": 0.365
+    },
+    "MOBILE": {
+     "g": 0.0,
+     "m": 0.365
+    },
+    "COMM": {
+     "g": 0.04,
+     "m": 0.365
+    }
+   },
+   "tier": "Probable",
+   "story": "The 2026 recovery is real but 2026\u201327 carry some cyclical catch-up. Automotive compounds 7% a year on content (the low half of management's 8\u201312%), Industrial 8%, Mobile is flat and Comm Infra grows 4% as RF Power fades. The operating margin settles at 36.5%, between the 34.6% five-year median and the 37% midpoint of management's range, because VSMC's 200 bps is partly given back to price and input costs. Net buybacks retire 1.2% of shares a year, as in 2022\u20132025."
+  },
+  "Bear": {
+   "role": "bear",
+   "prob": 0.25,
+   "pe": 15,
+   "basis": "owner",
+   "tax": 0.19,
+   "sbc_pct": 0.038,
+   "dilution": 0.013,
+   "buyback": 0.015,
+   "segments": {
+    "AUTO": {
+     "g": 0.03,
+     "m": 0.32
+    },
+    "IIOT": {
+     "g": 0.03,
+     "m": 0.32
+    },
+    "MOBILE": {
+     "g": -0.04,
+     "m": 0.32
+    },
+    "COMM": {
+     "g": -0.02,
+     "m": 0.32
+    }
+   },
+   "tier": "Probable",
+   "story": "2026\u201327 was the top of a restocking and pricing cycle. A 2028\u201329 downturn meets VSMC and ESMC take-or-pay volumes, utilization falls back to the high 70s, price erosion returns and local Chinese suppliers take the low end of the MCU range. Revenue grows 1.7% a year to about $15.5B, the operating margin is 32%, SBC stays near 4% of revenue and buybacks shrink to 1.5% of shares. The multiple returns to the 2022 trough."
+  }
+ },
+ "diagnostics": {
+  "Priced-in": {
+   "label": "Priced-in (10%/yr)",
+   "target_return": 0.1,
+   "pe": 20,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  },
+  "Hurdle": {
+   "label": "Hurdle (13%/yr)",
+   "target_return": 0.13,
+   "pe": 20,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  }
+ },
+ "risk_free": 0.0496
+}

@@ -1,0 +1,7 @@
+SOURCES: 8-K 2026-09-02 https://www.sec.gov/Archives/edgar/data/1413447/000141344726000051/nxpi-20260901.htm ; 8-K 2026-08-28 https://www.sec.gov/Archives/edgar/data/1413447/000141344726000047/nxpi-20260828.htm ; 8-K 2026-04-20 .../000141344726000016/nxpi-20260420.htm ; 8-K 2026-03-12 .../000141344726000010/nxpi-20260312.htm ; 8-K 2026-02-09 .../000141344726000005/nxpi-20260204.htm
+(extract via web fetcher 2026-10-25)
+Sep 1, 2026: NXP B.V. signs a $250.0M unsecured senior facility with the European Investment Bank (USD or EUR, fixed or floating, max tenor six years) to expand the Kuala Lumpur assembly and test facility; guaranteed by the parent, NXP Funding LLC and NXP USA; possible second EIB facility.
+Aug 28, 2026: Q3 interim dividend $1.014 per share; record Sep 16, paid Oct 8.
+Apr 20, 2026: redeemed the full $750M of 3.875% notes due June 2026.
+Mar 12, 2026: Q1 interim dividend $1.014, record Mar 25, paid Apr 9.
+Feb 4/9, 2026: General Counsel Jennifer Wuamett to retire as GC and Secretary Jun 30, 2026 (Michael Hoffmann succeeds); remains Chief Sustainability Officer to Dec 31, 2026.

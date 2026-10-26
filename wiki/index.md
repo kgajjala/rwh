@@ -12,7 +12,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 
 ## Tickers
 
-*Alphabetical. 50 tickers covered (46 Active / 4 Paused).*
+*Alphabetical. 51 tickers covered (47 Active / 4 Paused).*
 
 | Ticker | Status | Company | Moat | Conviction | Last Updated | Summary |
 |--------|--------|---------|------|-----------|--------------|---------|
@@ -47,6 +47,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | [MSFT](tickers/MSFT/MSFT.md) | Active | Microsoft | Wide | High | 2026-05-01 | Q3 FY26 — Azure +40%, EPS +23%; FY26 capex $190B drove –5–6% sell-off to ~$414; Hold/Add <$420 |
 | [NFLX](tickers/NFLX/NFLX.md) | Active | Netflix | Wide | Moderate | 2026-07-13 | Pre-Q2-earnings update — engagement deep dive + WBD break-fee correction; Triple BAIT (B+A+I-Mod); FY26 op-margin 31.5% intact; Initiate (small, scaled); entry $65–75 |
 | [NKE](tickers/NKE/NKE.md) | Active | Nike | Wide, stressed | Moderate | 2026-08-19 | **WEEKLY**: FY2026 10-K (Jul 15) + China online-distributor overhaul (Jul 23, effective Jan 1 2027) + JPM downgrade to **Sell** (Aug 4) + CAO resignation → CFO Denton also interim Controller; **China re-diagnosed**: Nike –13% c-c vs. **Adidas +16% c-c**, Anta core/FILA low-single-digit (brand CEO resigned), Li-Ning +3.3% with GM down on promotions, Xtep core negative → execution, not *guochao*; China $5.85B, EBIT –20%, **digital –29% vs stores –4%**; wholesale **+6% to $27.5B**; Wembanyama extended w/ signature line; 12-yr low $38.86; §11 migrated 3-yr→**5-yr**; PW EV $60.50→**$63**; R/R **4.9:1**; **Initiate (small,scaled) / Hold-Add**; entry $38–48 |
+| [NXPI](tickers/NXPI/NXPI.md) | Active | NXP Semiconductors | Narrow, stable | Moderate | 2026-10-25 | 🟡 **Watch (entry ≤$171) / Hold** — a good auto and industrial franchise, but the recovery is half cycle and 24× owner earnings already pays for it. **PW EV $292: +24% up / −42% down.** |
 | [ONON](tickers/ONON/ONON.md) | Active | On Holding | Narrow | **Mod-High** | 2026-08-27 | Q2 2026 (Aug 11): **deliberate US wholesale sell-in cut to protect full-price integrity** — wholesale +12.7% c-c (from +25.1%), rev CHF 850.3M missed; **revenue guide cut to low-20s c-c while GM guide RAISED to ≥65%**; record GM **65.4%**, DTC +34.3% c-c to record **45.7%** mix, APAC +54.7%; stock **–22%** to $31.18; ⚠️ **inventory +31% vs +13.5% reported sales**; 2nd founder cluster **$4.0M at $30.67**; Outsider **Reinvestor→Outsider-leaning**; BAIT Double→**Triple**; PW EV $59→**$55.50**; R/R **8.7:1**; **Initiate / Add**; entry $28–42; Q3 ~Nov |
 | [PG](tickers/PG/PG.md) | Active | Procter & Gamble | Wide | Low-Moderate | 2026-09-02 | 🟡 **Watch / Hold** — recovery stalled: FY26 organic growth was entirely price, Q4 volume 0%, FY27 core EPS guided ~1.5% against an 8% cost drag, still at 21×. **PW EV $164: +12% up / −15% down.** |
 | [PEP](tickers/PEP/PEP.md) | Active | PepsiCo | Wide, narrowing | Moderate | 2026-10-14 | 🟡 **Watch / Hold** — Both Oct 8 tests failed: guidance cut to +1–2% core cc EPS, and NA snacks share gains still aren't paying. Clears 13% only at $117. **PW EV $175: +38% up / −10% down.** |
@@ -102,6 +103,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | MSFT | $424.62 | –23.5% | **Quadruple (B+A+T-Strong, I-Mod)** | Initiate / Hold-Add; entry $380–440 |
 | NFLX | $73.37 (post-split) | –42.6% | Triple (B+A+I-Mod) | Initiate (small, scaled); entry $65–75 |
 | NKE | **$40.96** (8/19/26) | –48.9% (12-yr low) | Triple (B-Strong, A-Mod, I-Mod) | Initiate (small,scaled) / Hold-Add; entry $38–48; R/R 4.9:1 |
+| NXPI | **$234.92** (10/23/26) | −30.9% (33rd %ile) | **None** | 🟡 **Watch (entry ≤$171) / Hold**; PW EV $292; 6.2%/yr vs 13% hurdle |
 | ONON | **$29.10** (8/27/26) | –43.0% | **Triple** (B-Strong, A/I-Mod-Strong) | **Initiate / Add**; entry $28–42; R/R 13.6:1 ⚠️ spot-driven |
 | PG | **$147.40** (9/2/26) | –11.9% (~33rd %ile) | **Single (A-Mod)** | 🟡 **Watch / Hold**; entry ≤$132; PW EV $164; R/R 2.6:1 |
 | PEP | **$127.30** (10/13/26) | **−25.8%** (~8th %ile) | **Single (B)** | 🟡 **Watch / Hold**; entry ≤$117; PW EV $175; 11.3%/yr vs 13% hurdle |
@@ -168,6 +170,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | SPCX | GPU depreciation life; cloud revenue by customer; 2027 capex and funding mix for the 10 GW plan; EchoStar spectrum price (primary link); no shareholder letters exist (Pattern C, first proxy due 2027) | Q4 2026 10-K and call; 2027 DEF 14A |
 | TSLA | Full Q3 2026 call transcript (call details rest on one press recap); robotaxi fleet size and paid miles; Optimus unit count; 2019 Autonomy Day primary link; FY2021–25 Item 1A diff | Q3 transcript (ir.tesla.com replay); Q4 Update; 10-K |
 | SBUX | Uplift-store return (sales lift vs. control, payback on ~$150K); four-wall margin; Niccol Sep 10 CNBC full transcript | Q4 FY26 call; CNBC transcript |
+| NXPI | Full-text filings, transcripts and 8-Ks could not be stored (SEC and the IR site returned 403 to scripted fetches; extracts only, see `raw/NXPI/SOURCES.md`); no shareholder letter exists (Pattern C); monthly buyback tables (shares and average price); short-interest date and month-over-month change; the 2021 and 2024 Analyst Day decks (targets taken from press summaries); no earnings-day CEO/CFO media hit found for Q2 2026 | Q3 2026 call (Oct 27) and 10-Q; IR events page via browser; Investor Day deck |
 | SHOP | Executed insider sales behind the Aug–Sep Form 144 notices (insiders report on SEDI, not Form 4); merchant count; agentic GMV | SEDI; Q3 2026 call |
 | RKT | Short interest % of float | Fintel / aggregator |
 | RKT | Insider activity (last 90 days) | OpenInsider / SEC Form 4 |
@@ -182,4 +185,4 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 
 ---
 
-*Last updated: 2026-10-23*
+*Last updated: 2026-10-25*

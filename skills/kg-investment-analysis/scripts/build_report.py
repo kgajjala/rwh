@@ -42,6 +42,9 @@ PROBLEMS = []
 
 # ---------- formatting ----------
 def pct(x, d=1): return "n/a" if x is None else f"{x*100:.{d}f}%"
+def drate(x):
+    v = x * 100
+    return f"{v:.0f}%" if abs(v - round(v)) < 1e-9 else f"{v:.1f}%"
 def odds(x): return "n/a" if x is None else (">100%" if x > 1 else "<0%" if x < 0 else f"{x*100:.0f}%")
 def money(x, d=0): return f"${x:,.{d}f}"
 
@@ -227,7 +230,7 @@ def scenarios(mo, spec):
                     [f"{inp['segments'][s]['g']*100:+.1f}% / {inp['segments'][s]['m']*100:.1f}%" for s in segs] +
                     [f"{net*100:+.1f}%", money(per[-1], 2), pct(c["eps_cagr"]) if c.get("eps_cagr") is not None else "n/m", mult,
                      money(c["value"]), pct(c["return"]), pct(c.get("implied_g")) if c.get("implied_g") is not None else "n/a",
-                     c.get("story") or (f"Solved along {' → '.join(c['path'])} for {pct(c['target_return'],0)}/yr" if c.get("path") else "")])
+                     c.get("story") or (f"Solved along {' → '.join(c['path'])} for {drate(c['target_return'])}/yr" if c.get("path") else "")])
     s = mo.get("summary")
     if s:
         for o in s.get("optionality", []):
@@ -253,15 +256,15 @@ def return_math(mo, data, V):
     opts = s.get("optionality", [])
     rows.append(["Optionality", "; ".join(f"{o['name']}: {pct(o['prob'],0)} × {money(o['value'])} = {money(o['prob']*o['value'],1)}" for o in opts) if opts else T("optionality", "None valued.")])
     pi = mo["diagnostics"].get("Priced-in")
-    rows.append(["Price-implied expectations", T("price_implied", (f"At {pct(s['discount_rate'],0)}, spot needs {money(pi['rows']['eps'][-1],2)} of per-share earnings in the terminal year ({pct(pi['eps_cagr'])} a year) at {pi['pe']:.0f}×." if pi and "rows" in pi else "See the Priced-in case."))])
+    rows.append(["Price-implied expectations", T("price_implied", (f"At {drate(s['discount_rate'])}, spot needs {money(pi['rows']['eps'][-1],2)} of per-share earnings in the terminal year ({pct(pi['eps_cagr'])} a year) at {pi['pe']:.0f}×." if pi and "rows" in pi else "See the Priced-in case."))])
     rows.append(["EPV floor", T("epv", "State EPV per share, the growth share of price and where the Bear sits relative to EPV.")])
     rows.append(["Base rate / 3P", T("base_rate", "State where the Bull's real growth rate sits in the base-rate table, and each case's 3P tier.")])
     gl = "; ".join(f"{n} {pct(c['implied_g'])}" for n, c in cases.items() if c.get("implied_g") is not None)
     flag = (f" ⚠️ Above the risk-free rate: {', '.join(s['g_above_risk_free'])}." if s.get("g_above_risk_free") else (" All below the risk-free rate." if rf else ""))
-    rows.append(["Terminal-growth check", T("terminal_growth", f"Implied perpetual growth on owner earnings at {pct(s['discount_rate'],0)}: {gl}.{flag}")])
+    rows.append(["Terminal-growth check", T("terminal_growth", f"Implied perpetual growth on owner earnings at {drate(s['discount_rate'])}: {gl}.{flag}")])
     if s.get("breakeven_bear") is not None:
         rows.append(["Break-even and price-implied Bear odds", f"Break-even {odds(s['breakeven_bear'])} against {pct(s['bear_prob'],0)} assigned"
-                     + (" — ⚠️ **probability-fragile**" if s.get("fragile") else "") + f"; price-implied {odds(s['implied_bear'])} at {pct(s['discount_rate'],0)}."])
+                     + (" — ⚠️ **probability-fragile**" if s.get("fragile") else "") + f"; price-implied {odds(s['implied_bear'])} at {drate(s['discount_rate'])}."])
     rows.append(["Year ten", T("year_ten", "One sentence: is the business still growing at year ten, or is the terminal multiple doing the work?")])
     if s.get("rr") is not None:
         bu, be = cases[roles["bull"]], cases[roles["bear"]]

@@ -4,6 +4,32 @@ Append-only record of thesis updates. Format defined in CLAUDE.md.
 
 ---
 
+## [2026-10-26] — Q3 2026 earnings · migrated v5.0 → v7.0
+
+**Trigger**: Q3 2026 release and Fall Business Update (Oct 15) ([8-K](https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/a3q26exhibit991.htm)); stock −2.7% that day and −7.5% over three sessions.
+**Sources**: [Q3 release](../../../raw/SCHW/press-releases/2026-10-15_Q3-2026_earnings.txt) · [Q4 2025 release](../../../raw/SCHW/press-releases/2026-01-21_Q4-2025_earnings.txt) · [Fall Business Update notes](../../../raw/SCHW/appearances/2026-10-15_fall-business-update_wurster-verdeschi.txt) · [gap log](../../../raw/SCHW/SOURCES.md) · [Yahoo](https://finance.yahoo.com/quote/SCHW/) and [StockAnalysis](https://stockanalysis.com/stocks/schw/forecast/) Oct 26 close
+
+### Scorecard
+- Sweep cash does not fall >~$15B in a quarter — ✅ Pass — +$7.1B headline, but −$12.5B excluding long/short short credits
+- Earnings step-up survives peak NIM (4Q26 NIM 3.25–3.30%) — 🔴 Fail — CFO's +25–30 bps y/y implies 3.15–3.20%
+- Core NNA and Advisor Services ≥5% annualized — 🟡 Pending — 5.8% and ~8.4% in Q3; resolves Jan 21
+- Buyback ≥~$1B a quarter — 🔴 Fail — $0.5B (4.7M shares); adjusted Tier 1 at 7.0%
+
+### Changed
+- **Price** $101.14 → **$89.73** (−11%); 52-wk $83.96–$114.53, 19th %ile.
+- **v7 migration**: Base FY2031 EPS $10.35 → **$10.15**; exit multiples 17×/20×/13× → **16×/19×/12×**, now derived from a 9.5% cost of equity; Bear $85 → **$70** (2022–23 rerun). **PW EV $171 → $157**, entry $98 → **$91**.
+- **New finding**: sweep cash excluding long/short short credits is $429.5B, −2.8% q/q and +1.6% y/y against client assets +15%; ~$14B of the $53B of lending growth was unmatched wholesale funding.
+- 💰 Outsider grade **Steward** held (buybacks $2.4B → $1.0B → $0.5B). Tests rewritten around cash ex-long/short, NIM and capital return.
+
+### Status
+- **Thesis**: **Weakened** (value −8%; funding quality down, franchise intact)
+- **PW EV**: $171 → $157 · **PW return/yr**: 12.4% → 13.2% (hurdle 13%) · **R/R**: 9.1 → 7.2 · **BAIT**: Double (B+A), unchanged
+- **Verbs**: non-holder **Initiate (entry ≤$91, probability-fragile)** · holder **Add** (from Watch / Hold; driven by price, a lower entry crossed)
+
+**Next trigger**: 📅 Oct 29 IMPACT; mid-November October activity report (test 1); ~Jan 21, 2027 Q4 and the Winter Business Update (all three tests).
+
+---
+
 ## [2026-09-23] — Q2 2026 beat-and-raise · Fed hike · migrated v3.0 → v5.0
 
 **Trigger**: user-requested update. Window May 28 → Sep 23 covers Q2 earnings (Jul 21), the 10-Q (Aug 7), three senior-note issues, the Sep 16 Fed hike and the Sep 22 −6.1% session.

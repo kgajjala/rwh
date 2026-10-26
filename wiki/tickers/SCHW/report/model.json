@@ -1,0 +1,100 @@
+{
+ "spot": 89.73,
+ "dps": 1.28,
+ "discount_rate": 0.095,
+ "hurdle": 0.13,
+ "last_year": 2031,
+ "fy_prefix": "FY",
+ "eps_label": "Adjusted EPS",
+ "segment_names": {
+  "IS": "Investor Services",
+  "AS": "Advisor Services"
+ },
+ "actual": {
+  "year": 2025,
+  "segments": {
+   "IS": {"rev": 18.999, "op": 9.739},
+   "AS": {"rev": 4.922, "op": 2.232}
+  },
+  "ni": 8.807,
+  "shares": 1.809,
+  "eps": 4.87
+ },
+ "base": {
+  "year": 2026,
+  "shares": 1.732,
+  "corp_pct": 0.0,
+  "other": -0.514,
+  "tax": 0.231,
+  "segments": {
+   "IS": {"rev": 21.94, "margin": 0.536},
+   "AS": {"rev": 6.19, "margin": 0.528}
+  },
+  "sbc_pct": 0.013,
+  "eps_excludes_sbc": false,
+  "oe_conversion": 1.0
+ },
+ "other_growth": 0.0,
+ "cases": {
+  "Bull": {
+   "role": "bull",
+   "prob": 0.25,
+   "pe": 19,
+   "corp_pct": 0.0,
+   "tax": 0.235,
+   "dilution": 0.007,
+   "buyback": 0.039,
+   "segments": {
+    "IS": {"g": 0.078, "m": 0.570},
+    "AS": {"g": 0.105, "m": 0.565}
+   },
+   "tier": "Plausible",
+   "story": "The mid-teens framework holds: revenue ~8%/yr as advice, lending and trading replace NIM, adjusted pre-tax margin to ~57%, buybacks ~3.9% of shares a year; 19×."
+  },
+  "Base": {
+   "role": "base",
+   "prob": 0.5,
+   "pe": 16,
+   "corp_pct": 0.0,
+   "tax": 0.235,
+   "dilution": 0.007,
+   "buyback": 0.027,
+   "segments": {
+    "IS": {"g": 0.058, "m": 0.560},
+    "AS": {"g": 0.078, "m": 0.555}
+   },
+   "tier": "Probable",
+   "story": "NIM peaks near 3.3% in 2027 and settles ~3.1–3.2% by 2031; asset-linked fees compound ~10%; revenue ~6.3%/yr; expense ratio 46% to 44%; net buyback ~2%/yr; 16×, what a 23% return on equity, 4% growth and a 9.5% cost of equity justify."
+  },
+  "Bear": {
+   "role": "bear",
+   "prob": 0.25,
+   "pe": 12,
+   "corp_pct": 0.0,
+   "tax": 0.235,
+   "dilution": 0.008,
+   "buyback": 0.012,
+   "segments": {
+    "IS": {"g": 0.025, "m": 0.415},
+    "AS": {"g": 0.045, "m": 0.410}
+   },
+   "tier": "Probable",
+   "story": "A 2022–23 rerun: rates cut back toward 2.5%, cash sorts into money funds and is replaced with wholesale funding, equities fall a quarter; NIM toward 2.6%, expenses sticky, margin back to the FY2024–25 range; capital goes to lending, not buybacks; 12×."
+  }
+ },
+ "diagnostics": {
+  "Priced-in": {
+   "label": "Priced-in (9.5%/yr)",
+   "target_return": 0.095,
+   "pe": 16,
+   "path": ["Bear", "Base"]
+  },
+  "Hurdle": {
+   "label": "Hurdle (13%/yr)",
+   "target_return": 0.13,
+   "pe": 16,
+   "path": ["Bear", "Base"]
+  }
+ },
+ "risk_free": 0.05
+}

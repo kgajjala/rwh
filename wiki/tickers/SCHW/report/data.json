@@ -1,0 +1,1770 @@
+{
+ "meta": {
+  "ticker": "SCHW",
+  "company": "The Charles Schwab Corporation",
+  "title": "Schwab: A Record Quarter and the Cash Under It",
+  "dek": "Adjusted EPS rose 29% in the third quarter and the stock is 22% below its August high. The market is worried about cash, and the numbers back part of that worry. What does $89.73 already assume?",
+  "date": "2026-10-26",
+  "date_long": "October 26, 2026",
+  "status": "Active",
+  "price": 89.73,
+  "price_note": "Oct 26, 2026 close, cross-checked on StockAnalysis",
+  "price_url": "https://finance.yahoo.com/quote/SCHW/",
+  "range52": [
+   83.96,
+   114.53
+  ],
+  "type": "Brokerage and custody with an integrated bank",
+  "stage": "Mature compounder",
+  "cyclical": "No (rate-sensitive)",
+  "competence": "Core",
+  "compounder": false,
+  "terminal_label": "FY2031",
+  "accent": {
+   "light": "#1a4f9e",
+   "dark": "#86b6ef"
+  },
+  "html_name": "SCHW-deep-dive.html",
+  "report_path": "../SCHW.md"
+ },
+ "verdict": {
+  "sentence": "Schwab printed a record quarter and guided its net interest margin lower, so I cut my value 8%; the price fell 11% over the same weeks, and the probability-weighted case now pays [[pw_return]] a year against the 13% hurdle, a pass by a thin margin.",
+  "non_holder": {
+   "emoji": "🟢",
+   "verb": "Initiate (entry ≤[[entry]], probability-fragile)"
+  },
+  "holder": {
+   "emoji": "🟢",
+   "verb": "Add"
+  },
+  "breaks_if": "sweep cash excluding the long/short credits (Q3: $429.5B) falls below ~$415B at December 31 while the Fed is still hiking, or Q4 NIM prints under 3.15%.",
+  "multiple_label": "FY26E adj P/E",
+  "multiple": "≈13.9×",
+  "bait": "Double (B+A)",
+  "moat": "Wide, stable",
+  "next": "Oct 29 IMPACT · Jan 21 (Q4, est.)",
+  "price_implies": "~[[Priced-in.cagr]] EPS growth"
+ },
+ "call": "The market is selling a record. Third-quarter adjusted EPS rose 29% to $1.69 and revenue 17%, and the stock fell 2.7% on the day, 7.5% over three sessions and is now 22% below its August high. It is reacting to a real change. Management moved full-year revenue and NIM to the low end of its July ranges, and the 25 to 30 bps of year-over-year NIM expansion the CFO described puts Q4 near 3.15 to 3.20%, about 10 bps under the 3.25 to 3.30% given in July. The headline sweep-cash figure hides the cause. Cash rose $7.1B only because long/short short credits rose $19.6B; without them it fell $12.5B in the quarter and is up 1.6% in a year while client assets grew 15%. Money-fund balances were flat and clients put cash into the market, so this is not 2023, but NIM now depends on old assets repricing, not on free cash growing.\n\nI cut my five-year value 8%: Base EPS [[Base.eps]] at 16×, a multiple I now derive from a 9.5% cost of equity. The price fell further than the value, so the probability-weighted case returns [[pw_return]] and clears 13% at [[entry]]. The price asks for only [[Priced-in.cagr]] a year of EPS growth, against [[Base.cagr]] in my Base. The verb is probability-fragile: the break-even Bear odds are [[breakeven_bear]] against 25% assigned. December's cash balance excluding long/short settles it. The buyback fell to $0.5B at about $106 a share in the quarter, which keeps the Outsider grade at Steward.",
+ "tests": [
+  {
+   "claim": "That cash holds without the long/short balances.",
+   "test": "transactional sweep cash less long/short short credits (Q3: $429.5B; June: $442.0B) stays at or above $415B at December 31 (Jan 21 release) and in the October and November monthly reports.",
+   "if_fail": "move 10 points from Base to Bear (PW EV [[test1.pw_ev]], [[test1.pw_return]]/yr) → **[[test1.verb]]**, entry falls to [[test1.entry]].",
+   "shift": {
+    "from": "Base",
+    "to": "Bear",
+    "points": 0.1
+   }
+  },
+  {
+   "claim": "That NIM reaches the guided exit rate on stable funding costs.",
+   "test": "Q4 NIM at or above 3.15% in the Jan 21 release, and a January Winter Business Update that guides 2027 revenue growth to at least +8% (the low end of the high-single-digit framework) with positive operating leverage.",
+   "if_fail": "Base FY2031 EPS cut to ≈$9.00, NIM stuck near 3.1% (PW EV [[test2.pw_ev]], [[test2.pw_return]]/yr) → **[[test2.verb]]**, entry [[test2.entry]].",
+   "shift": {
+    "case": "Base",
+    "eps": 9.0
+   }
+  },
+  {
+   "claim": "That asset gathering and capital return both hold.",
+   "test": "Q4 core net new assets at or above a 5% annualized rate (≈$165B) with Advisor Services at or above 5% after the September long/short curbs, and a Q4 buyback of at least $1.0B with adjusted Tier 1 leverage at or below 7.0% (Jan 21 release).",
+   "if_fail": "move 10 points from Bull to Bear (PW EV [[test3.pw_ev]], [[test3.pw_return]]/yr) → **[[test3.verb]]**; the Outsider grade stays Steward and a second weak quarter moves it to Anti-Outsider.",
+   "shift": {
+    "from": "Bull",
+    "to": "Bear",
+    "points": 0.1
+   }
+  }
+ ],
+ "updates": [
+  {
+   "date": "2026-10-26",
+   "title": "Record Q3, a lower NIM exit rate, and a stock down 7.5% in three sessions",
+   "file": "updates/2026-10-26.md",
+   "scorecard": [
+    {
+     "test": "Sweep cash does not fall more than ~$15B in a quarter while the Fed hikes",
+     "result": "pass",
+     "evidence": "+$7.1B to $492.8B on the letter; excluding long/short short credits it fell $12.5B, the closest call of the four"
+    },
+    {
+     "test": "Earnings step-up survives peak NIM (4Q26 NIM inside 3.25–3.30%)",
+     "result": "fail",
+     "evidence": "the CFO's 25–30 bps year-over-year expansion implies 3.15–3.20% against 2.90% a year earlier; the Base is cut and the multiple re-derived"
+    },
+    {
+     "test": "Core NNA and Advisor Services at or above 5% annualized",
+     "result": "pending",
+     "evidence": "Q3 core NNA 5.8%, Advisor Services about 8.4%; resolves with the Q4 print and the first full quarter after the September long/short curbs"
+    },
+    {
+     "test": "Buyback at about $1B a quarter or more",
+     "result": "fail",
+     "evidence": "$0.5B in Q3 (4.7M shares), half of Q2, with adjusted Tier 1 leverage at the 7.0% top of the range"
+    }
+   ]
+  }
+ ],
+ "tables": {
+  "segments": {
+   "columns": [
+    "$ Million",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "6M 2025",
+    "6M 2026"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "**Investor Services**",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Net revenues",
+      "14,650",
+      "15,558",
+      "18,999",
+      "9,080",
+      "10,605"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Pre-tax income",
+      "5,211",
+      "6,320",
+      "9,321",
+      "4,285",
+      "5,374"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Pre-tax margin",
+      "35.6%",
+      "40.6%",
+      "49.1%",
+      "47.2%",
+      "50.7%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Advisor Services**",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Net revenues",
+      "4,187",
+      "4,048",
+      "4,922",
+      "2,370",
+      "2,949"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Pre-tax income",
+      "1,167",
+      "1,372",
+      "2,138",
+      "973",
+      "1,483"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Pre-tax margin",
+      "27.9%",
+      "33.9%",
+      "43.4%",
+      "41.1%",
+      "50.3%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Total net revenues",
+      "18,837",
+      "19,606",
+      "23,921",
+      "11,450",
+      "13,554"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "Total pre-tax income",
+      "6,378",
+      "7,692",
+      "11,459",
+      "5,258",
+      "6,857"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "Pre-tax margin",
+      "33.9%",
+      "39.2%",
+      "47.9%",
+      "45.9%",
+      "50.6%"
+     ],
+     "cls": "sub"
+    }
+   ],
+   "note": "GAAP segment results, which include amortization of acquired intangibles. Segment pre-tax income sums to the consolidated total. The Q3 10-Q is not filed yet, so the latest segment split is six months. Source: [FY2025 10-K note 24](https://www.sec.gov/Archives/edgar/data/316709/000031670926000009/schw-20251231.htm), [Q2 2026 10-Q](https://www.sec.gov/Archives/edgar/data/316709/000031670926000031/schw-20260630.htm). Built with Claude."
+  },
+  "lines": {
+   "columns": [
+    "$ Million",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "9M 2025",
+    "9M 2026",
+    "9M change"
+   ],
+   "rows": [
+    [
+     "Net interest revenue",
+     "9,427",
+     "9,144",
+     "11,750",
+     "8,578",
+     "9,977",
+     "+16%"
+    ],
+    [
+     "Asset management and administration fees",
+     "4,756",
+     "5,716",
+     "6,506",
+     "4,773",
+     "5,497",
+     "+15%"
+    ],
+    [
+     "Trading revenue",
+     "3,230",
+     "3,264",
+     "3,921",
+     "2,855",
+     "3,462",
+     "+21%"
+    ],
+    [
+     "Bank deposit account fees",
+     "705",
+     "729",
+     "977",
+     "739",
+     "973",
+     "+32%"
+    ],
+    [
+     "Other",
+     "719",
+     "753",
+     "767",
+     "640",
+     "816",
+     "+28%"
+    ],
+    {
+     "cells": [
+      "Total net revenues",
+      "18,837",
+      "19,606",
+      "23,921",
+      "17,585",
+      "20,725",
+      "+18%"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "Adjusted pre-tax margin",
+      "—",
+      "42.5%",
+      "50.0%",
+      "49.3%",
+      "53.5%",
+      "+4.2 pts"
+     ],
+     "cls": "sub"
+    }
+   ],
+   "note": "Adjusted excludes amortization of acquired intangibles and acquisition costs. Source: [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/316709/000031670926000009/schw-20251231.htm), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/a3q26exhibit991.htm), [Q4 2025 release](https://www.businesswire.com/news/home/20260121223561/en/Schwab-Reports-Record-4Q-and-Full-Year-2025-Results). Built with Claude."
+  },
+  "drivers": {
+   "columns": [
+    "Unit: a client dollar and an account",
+    "Q3 2025",
+    "Q4 2025",
+    "Q1 2026",
+    "Q2 2026",
+    "Q3 2026"
+   ],
+   "rows": [
+    [
+     "Active brokerage accounts (M)",
+     "37.96",
+     "38.51",
+     "39.10",
+     "39.80",
+     "**40.26**"
+    ],
+    [
+     "Client assets, quarter end ($T)",
+     "11.59",
+     "11.90",
+     "11.77",
+     "13.08",
+     "**13.33**"
+    ],
+    [
+     "Net new assets ($B)",
+     "134.4",
+     "158.2",
+     "139.9",
+     "118.7",
+     "**192.4**"
+    ],
+    [
+     "Annualized rate on beginning assets",
+     "5.0%",
+     "5.5%",
+     "4.7%",
+     "4.0%",
+     "**5.9%**"
+    ],
+    [
+     "Revenue ÷ average client assets (bps)",
+     "22.0",
+     "21.6",
+     "21.9",
+     "22.8",
+     "21.7"
+    ],
+    [
+     "Expense ÷ average client assets (bps)",
+     "11",
+     "11",
+     "11",
+     "11",
+     "10"
+    ],
+    [
+     "Revenue per active account, annualized",
+     "$646",
+     "$658",
+     "$663",
+     "$711",
+     "$712"
+    ],
+    [
+     "Net interest margin",
+     "2.88%",
+     "2.90%",
+     "n/d",
+     "3.00%",
+     "**3.04%**"
+    ],
+    [
+     "Pre-tax margin (GAAP)",
+     "49.2%",
+     "50.2%",
+     "49.2%",
+     "51.9%",
+     "52.7%"
+    ]
+   ],
+   "note": "Unit of value: a client dollar and a funded account. Rates on beginning assets and revenue per account are `[Derived]` from the release tables (ending accounts). Q1 2026 NIM is not in the files I could extract. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/a3q26exhibit991.htm), [Q4 2025 release](https://www.businesswire.com/news/home/20260121223561/en/Schwab-Reports-Record-4Q-and-Full-Year-2025-Results). Built with Claude."
+  },
+  "funding": {
+   "columns": [
+    "$ Billion, quarter end",
+    "Q3 2025",
+    "Q2 2026",
+    "Q3 2026",
+    "Change vs. Q3 2025"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "**Where the money went**",
+      "",
+      "",
+      "",
+      ""
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Bank loans",
+      "53.6",
+      "67.0",
+      "72.3",
+      "+18.7"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Margin receivables (non-long/short)",
+      "93.8",
+      "122.8",
+      "128.1",
+      "+34.3"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Available-for-sale and held-to-maturity securities",
+      "199.0",
+      "193.1",
+      "185.6",
+      "−13.4"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Cash and segregated cash",
+      "78.4",
+      "73.6",
+      "68.5",
+      "−9.9"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Where it came from**",
+      "",
+      "",
+      "",
+      ""
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Bank deposits",
+      "239.1",
+      "249.7",
+      "244.1",
+      "+5.0"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Payables to brokerage clients",
+      "115.4",
+      "124.0",
+      "125.2",
+      "+9.8"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Payables to brokers and clearing organizations (repo, securities loaned)",
+      "22.4",
+      "43.8",
+      "46.5",
+      "+24.1"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Other short-term borrowings",
+      "6.5",
+      "13.9",
+      "14.2",
+      "+7.7"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Federal Home Loan Bank borrowings",
+      "0.9",
+      "0.5",
+      "2.0",
+      "+1.1"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Long-term debt",
+      "20.2",
+      "22.7",
+      "23.8",
+      "+3.6"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Total assets",
+      "465.3",
+      "517.3",
+      "520.7",
+      "+55.4"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "Memo: receivables from brokers (securities borrowed, the matched side of the repo)",
+      "4.7",
+      "22.0",
+      "27.2",
+      "+22.5"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**The cash number**",
+      "",
+      "",
+      "",
+      ""
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Transactional sweep cash (headline)",
+      "425.6",
+      "485.7",
+      "492.8",
+      "+67.2"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Less long/short short credits",
+      "≈2.8",
+      "43.7",
+      "63.3",
+      "+60.5"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Sweep cash excluding long/short",
+      "≈422.8",
+      "442.0",
+      "**429.5**",
+      {
+       "v": "+6.7 (+1.6%)",
+       "cls": "neg"
+      }
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "The Q3 2025 short-credit figure is the quarter's average ($2.8B), used because the month-end is not in the files; the exclusion is `[Derived]`. Schwab's own definition of transactional sweep cash includes the short credits. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/a3q26exhibit991.htm) (balance sheet and September monthly activity report), [Q2 2026 release](../../../raw/SCHW/press-releases/2026-07-21_Q2-2026_earnings.txt). Built with Claude."
+  },
+  "cash_dollar": {
+   "columns": [
+    "A dollar of client cash is put into…",
+    "Q3 yield",
+    "Spread if funded by a sweep deposit (0.23%)",
+    "Spread if funded by wholesale borrowing (4.06%)"
+   ],
+   "rows": [
+    [
+     "Held-to-maturity securities",
+     "1.72%",
+     "+1.49 pts",
+     {
+      "v": "−2.34 pts",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Available-for-sale securities",
+     "2.31%",
+     "+2.08 pts",
+     {
+      "v": "−1.75 pts",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Cash at the Fed and segregated cash",
+     "3.59%",
+     "+3.36 pts",
+     {
+      "v": "−0.47 pts",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Bank loans (Pledged Asset Line, mortgages)",
+     "4.43%",
+     "+4.20 pts",
+     "+0.37 pts"
+    ],
+    [
+     "Margin loans",
+     "5.70%",
+     "+5.47 pts",
+     "+1.64 pts"
+    ],
+    {
+     "cells": [
+      "Memo: company net interest margin, Q3",
+      "3.04%",
+      "",
+      ""
+     ],
+     "cls": "tot"
+    },
+    [
+     "Moving $10B from held-to-maturity securities into bank loans, same funding",
+     "",
+     "+2.71 pts = +$271M a year before tax, about +$0.12 of EPS",
+     ""
+    ]
+   ],
+   "note": "Illustrative. Yields and funding rates are Q3 2026 averages from the net interest revenue table (bank deposits 0.23%, other short-term borrowings 4.06%); real marginal funding mixes several sources, and the EPS effect uses a 23.1% tax rate and 1.73B shares. The estimates are mine. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/a3q26exhibit991.htm). Built with Claude."
+  },
+  "rings": {
+   "columns": [
+    "Ring",
+    "Q3 2026 revenue ($M)",
+    "Share",
+    "Change vs. Q3 2025",
+    "~What moves it"
+   ],
+   "rows": [
+    [
+     "**1 · Net interest revenue**",
+     "3,476",
+     "48.5%",
+     "+14%",
+     "NIM and the funding mix; cash balances; securities running off at about $13B a year"
+    ],
+    [
+     "**2 · Bank deposit account fees and other**",
+     "624",
+     "8.7%",
+     "+50%",
+     "The net yield on third-party deposits; rate-linked and small"
+    ],
+    [
+     "**3 · Trading revenue**",
+     "1,158",
+     "16.1%",
+     "+16%",
+     "Daily trades (10.7M vs. 7.4M a year ago); revenue per trade fell 20% to $1.69"
+    ],
+    [
+     "**4 · Asset management and administration fees**",
+     "1,913",
+     "26.7%",
+     "+14%",
+     "Client asset levels and mix; money funds at 0.27%, managed solutions at 0.31%"
+    ]
+   ],
+   "note": "Share of Q3 2026 net revenue; profit by line is not disclosed, so rings are ranked by exposure to the cash and funding debate. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/a3q26exhibit991.htm). Built with Claude."
+  },
+  "nna": {
+   "columns": [
+    "$ Billion",
+    "Q3 2025",
+    "Q4 2025",
+    "Q1 2026",
+    "Q2 2026",
+    "Q3 2026"
+   ],
+   "rows": [
+    [
+     "Investor Services net new assets",
+     "52.7",
+     "60.4",
+     "54.1",
+     "38.5",
+     "72.3"
+    ],
+    [
+     "Advisor Services net new assets",
+     "81.7",
+     "97.8",
+     "85.8",
+     "80.2",
+     "**120.1**"
+    ],
+    {
+     "cells": [
+      "Total net new assets",
+      "134.4",
+      "158.2",
+      "139.9",
+      "118.7",
+      "**192.4**"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "Advisor Services, annualized on beginning assets",
+      "n/d",
+      "7.8%",
+      "6.6%",
+      "6.2%",
+      "**8.4%**"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Long/short margin loans, quarter end",
+      "≈3 (avg.)",
+      "n/d",
+      "n/d",
+      "42.1",
+      "**60.7**"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Long/short short credits, quarter end",
+      "≈3 (avg.)",
+      "n/d",
+      "n/d",
+      "43.7",
+      "**63.3**"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "New brokerage accounts (thousands)",
+      "1,143",
+      "1,268",
+      "1,299",
+      "1,388",
+      "1,243"
+     ],
+     "cls": "sub"
+    }
+   ],
+   "note": "Advisor Services rates are `[Derived]` on beginning-of-quarter Advisor Services assets. Schwab does not disclose how much of Advisor Services flow came from long/short clients. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/a3q26exhibit991.htm), [Q2 2026 release](../../../raw/SCHW/press-releases/2026-07-21_Q2-2026_earnings.txt). Built with Claude."
+  },
+  "deals": {
+   "columns": [
+    "Deal",
+    "~When and what",
+    "~What happened",
+    "Verdict"
+   ],
+   "rows": [
+    [
+     "**TD Ameritrade**",
+     "Closed Oct 6, 2020; all-stock merger",
+     "Integration finished Dec 31, 2024: $1.9T of assets and 17M+ accounts converted, about $2.0B of run-rate cost synergies, about $2.5B of integration cost and capex, attrition below the deal case ([FY2025 10-K](https://www.sec.gov/Archives/edgar/data/316709/000031670926000009/schw-20251231.htm))",
+     "Good"
+    ],
+    [
+     "**USAA-IMCO brokerage**",
+     "2020; $79.9B of client assets",
+     "Assets moved onto the platform (FY2021 10-K); no separate economics disclosed",
+     "Unclear"
+    ],
+    [
+     "**Wasmer Schroeder**",
+     "2020; $8.5B of client assets",
+     "Fixed-income separately managed accounts offered to retail from 2021; small",
+     "Unclear"
+    ],
+    [
+     "**TD Group nonvoting shares**",
+     "Feb 2025; 19.2M shares for $1.5B at $77.98",
+     "Retired the last TD overhang at $77.98, below today's $89.73",
+     "Good"
+    ],
+    [
+     "**Forge Global**",
+     "Mar 2, 2026; $636M cash and other consideration",
+     "Private-company access; about 100 bps of 2026 expense growth; no revenue disclosed ([Q2 10-Q](https://www.sec.gov/Archives/edgar/data/316709/000031670926000031/schw-20260630.htm))",
+     "Too early"
+    ]
+   ],
+   "note": "Source: company 10-Ks and 10-Q as linked; verdicts are the author's. Built with Claude."
+  },
+  "capital": {
+   "columns": [
+    "$ Billion",
+    "Net revenue",
+    "YoY",
+    "Diluted EPS (GAAP / adj.)",
+    "Net income to common",
+    "SBC",
+    "Capex",
+    "Common dividends",
+    "Buybacks",
+    "Payout",
+    "Diluted shares (B)"
+   ],
+   "rows": [
+    [
+     "FY2021",
+     "18.5",
+     "+58%",
+     "$2.83 / n/a",
+     "5.36",
+     "0.25",
+     "0.92",
+     "1.37",
+     "0.00",
+     "25%",
+     "1.897"
+    ],
+    [
+     "FY2022",
+     "20.8",
+     "+12%",
+     "$3.50 / n/a",
+     "6.64",
+     "0.37",
+     "0.97",
+     "1.59",
+     "3.40",
+     "75%",
+     "1.894"
+    ],
+    [
+     "FY2023",
+     "18.8",
+     "−9%",
+     "$2.54 / n/a",
+     "4.65",
+     "0.32",
+     "0.70",
+     "1.84",
+     "2.84",
+     "101%",
+     "1.831"
+    ],
+    [
+     "FY2024",
+     "19.6",
+     "+4%",
+     "$2.99 / $3.25",
+     "5.48",
+     "0.34",
+     "0.62",
+     "1.84",
+     "0.00",
+     "34%",
+     "1.834"
+    ],
+    [
+     "FY2025",
+     "23.9",
+     "+22%",
+     "$4.65 / $4.87",
+     "8.42",
+     "0.32",
+     "0.55",
+     "1.96",
+     "7.35",
+     "110%",
+     "1.809"
+    ],
+    [
+     "9M 2026",
+     "20.7",
+     "+18%",
+     "$4.53 / $4.73",
+     "7.89",
+     "n/d",
+     "0.65",
+     "≈1.67",
+     "3.9",
+     "≈71%",
+     "1.733 (Q3)"
+    ],
+    {
+     "cells": [
+      "FY2021–25 cumulative",
+      "101.6",
+      "",
+      "",
+      "30.54",
+      "1.59",
+      "3.74",
+      "8.59",
+      "13.58",
+      "73%",
+      "−4.6%"
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "Net income to common is GAAP. Capex is purchases of property and equipment; 9M 2026 excludes the $0.63B software-license liability recorded in Q2. 9M dividends are `[Derived]` at $0.32 a share. Banks' operating cash flow swings with brokerage balances, so it is not shown. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000316709.json), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/a3q26exhibit991.htm). Built with Claude."
+  },
+  "buybacks": {
+   "columns": [
+    "Quarter",
+    "Repurchased ($B)",
+    "Shares (M)",
+    "Average price paid",
+    "Stock range in the quarter",
+    "~Read"
+   ],
+   "rows": [
+    [
+     "Q4 2025",
+     "2.7",
+     "29.2",
+     "$92.5",
+     "$89.35–$102.28",
+     "Bought through the range"
+    ],
+    [
+     "Q1 2026",
+     "2.4",
+     "n/d",
+     "≈$99",
+     "$90.51–$107.50",
+     "Heavy near the middle of the range"
+    ],
+    [
+     "Q2 2026",
+     "1.0",
+     "11.2",
+     "$89.3",
+     "$83.96–$100.76",
+     {
+      "v": "Cut by 58% in the quarter of the 52-week low",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Q3 2026",
+     "0.5",
+     "4.7",
+     "≈$106",
+     "$92.31–$114.53",
+     {
+      "v": "Small, near the highs",
+      "cls": "neg"
+     }
+    ]
+   ],
+   "note": "Average price paid is repurchase dollars divided by shares (rounded to $0.1B, so Q3 is ±$10). Q1 dollars are six-month ($3.4B) less Q2 ([Q2 10-Q](https://www.sec.gov/Archives/edgar/data/316709/000031670926000031/schw-20260630.htm)); the Q1 average is from the prior page. About $10.6B remains of the $20B authorization (`[Derived]`: $14.5B at December 31 less $3.9B). Source: [Q4 2025 release](https://www.businesswire.com/news/home/20260121223561/en/Schwab-Reports-Record-4Q-and-Full-Year-2025-Results), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/a3q26exhibit991.htm), price ranges from Yahoo Finance daily bars. Built with Claude."
+  },
+  "incentives": {
+   "columns": [
+    "Component (Wurster, 2025)",
+    "Size",
+    "~What it pays for",
+    "~Latest outcome"
+   ],
+   "rows": [
+    [
+     "**Base salary**",
+     "$1.25M",
+     "Fixed",
+     "—"
+    ],
+    [
+     "**Annual cash incentive**",
+     "$4.73M paid",
+     "100% adjusted diluted EPS against the board-approved plan",
+     "2025 EPS $4.87 against a $4.18 target; funded at 116.5%"
+    ],
+    [
+     "**Performance RSUs**",
+     "$7.61M grant (60% of long-term pay)",
+     "Three-year average ROTCE excluding AOCI ÷ cost of equity",
+     "2023–25 award: 20.27% ÷ 9.50% = 213%, paid 100%"
+    ],
+    [
+     "**Stock options**",
+     "$5.08M grant (40% of long-term pay)",
+     "Share price",
+     "—"
+    ],
+    [
+     "**Return on invested capital**",
+     "Inside the PBRSU",
+     "ROTCE ÷ cost of equity",
+     "Above the cap on the 2023–25 award"
+    ],
+    {
+     "cells": [
+      "**Total, 2025 summary compensation table**",
+      "$18.76M",
+      "",
+      ""
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "Source: [2026 proxy statement](https://www.sec.gov/Archives/edgar/data/316709/000119312526142826/d930509ddef14a.htm). Built with Claude."
+  },
+  "five_year": {
+   "columns": [
+    "$B, except per share",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "FY2026E"
+   ],
+   "rows": [
+    [
+     "Net revenue",
+     "18.5",
+     "20.8",
+     "18.8",
+     "19.6",
+     "**23.9**",
+     "≈28.1"
+    ],
+    [
+     "Net interest margin",
+     "1.45%",
+     "1.78%",
+     "1.98%",
+     "2.12%",
+     "**2.74%**",
+     "≈3.02%"
+    ],
+    [
+     "Pre-tax margin, GAAP",
+     "41.6%",
+     "45.2%",
+     "33.9%",
+     "39.2%",
+     "47.9%",
+     "≈51.5%"
+    ],
+    [
+     "Pre-tax margin, adjusted",
+     "n/a",
+     "n/a",
+     "n/a",
+     "42.5%",
+     "50.0%",
+     "≈53.7%"
+    ],
+    [
+     "Diluted EPS, GAAP",
+     "$2.83",
+     "$3.50",
+     "$2.54",
+     "$2.99",
+     "$4.65",
+     "≈$6.20"
+    ],
+    [
+     "Diluted EPS, adjusted",
+     "n/a",
+     "n/a",
+     "n/a",
+     "$3.25",
+     "$4.87",
+     "≈$6.44 `[Analyst consensus]`"
+    ],
+    [
+     "Common equity ex-AOCI (invested capital)",
+     "47.4",
+     "49.5",
+     "49.9",
+     "54.0",
+     "53.6",
+     "55.6 (Q3)"
+    ],
+    [
+     "ROCE, GAAP / ex-AOCI",
+     "11.3% / 11.9%",
+     "18.1% / 13.7%",
+     "15.9% / 9.4%",
+     "15.4% / 10.5%",
+     "20.6% / 15.6%",
+     "≈25% / 20% (Q3 annualized)"
+    ],
+    [
+     "ROTCE, adjusted (company)",
+     "n/a",
+     "n/a",
+     "n/a",
+     "n/a",
+     "38%",
+     "44% (Q3)"
+    ],
+    [
+     "3-year incremental return on equity ex-AOCI",
+     "—",
+     "—",
+     "—",
+     "—",
+     "~43%",
+     "~107%"
+    ],
+    [
+     "Capital returned ÷ net income to common",
+     "25%",
+     "75%",
+     "101%",
+     "34%",
+     "110%",
+     "≈71% (9M)"
+    ],
+    [
+     "Reinvestment rate (1 − payout)",
+     "75%",
+     "25%",
+     "−1%",
+     "66%",
+     "−10%",
+     "≈29% (9M)"
+    ],
+    [
+     "SBC % of revenue",
+     "1.4%",
+     "1.8%",
+     "1.7%",
+     "1.7%",
+     "1.3%",
+     "—"
+    ],
+    [
+     "SBC ÷ adjusted net income to common",
+     "—",
+     "—",
+     "—",
+     "5.6%",
+     "3.6%",
+     "—"
+    ],
+    [
+     "Diluted shares (B)",
+     "1.897",
+     "1.894",
+     "1.831",
+     "1.834",
+     "1.809",
+     "1.733 (Q3)"
+    ],
+    [
+     "Net share change",
+     "—",
+     "−0.2%",
+     "−3.3%",
+     "+0.2%",
+     "−1.4%",
+     "−4.3% (Q3 y/y)"
+    ],
+    [
+     "Buybacks ÷ SBC",
+     "0×",
+     "9×",
+     "9×",
+     "0×",
+     "23×",
+     "—"
+    ],
+    [
+     "Interest coverage (long-term-debt interest)",
+     "21×",
+     "20×",
+     "9.9×",
+     "10.1×",
+     "14.7×",
+     "14.9× (Q3)"
+    ],
+    [
+     "FHLB advances at period end",
+     "n/a",
+     "12.4",
+     "26.4",
+     "16.7",
+     "1.85",
+     "2.0 (Q3)"
+    ],
+    [
+     "Adjusted Tier 1 leverage",
+     "n/a",
+     "n/a",
+     "n/a",
+     "n/a",
+     "7.1%",
+     "7.0% (target 6.75–7.00%)"
+    ]
+   ],
+   "note": "Fiscal years end December 31. Invested capital for a bank-broker is common equity ex-AOCI (equity − preferred − AOCI), `[Derived]`, because AOCI moves with bond marks. 3-year incremental return = change in GAAP net income to common ÷ change in equity ex-AOCI (FY2022→FY2025, FY2023→FY2026E); FY2026E net income to common ≈$10.8B `[Derived]`. Net debt ÷ EBITDA does not apply to a bank; nearest long-term maturities (Q2 10-Q): $1.0B in 2026, $3.5B in 2027, $5.3B in 2029. Cycle position: the 9M 2026 pre-tax margin is the highest of the five years and 17 points above the FY2023 low. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000316709.json), [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/316709/000031670926000009/schw-20251231.htm), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/a3q26exhibit991.htm). Built with Claude."
+  },
+  "levers": {
+   "columns": [
+    "Lever",
+    "~Contribution now",
+    "Runway",
+    "~Evidence",
+    "~Management intent",
+    "Stage"
+   ],
+   "rows": [
+    [
+     "Market growth",
+     "Client assets +15% y/y with the S&P 500 +14%",
+     "Indefinite, uncontrollable",
+     "Sep 30 client assets $13.33T",
+     "—",
+     "Proven"
+    ],
+    [
+     "Share gain",
+     "**5.8%** annualized organic (Q3); 5.1% in FY2025",
+     "10+ yrs",
+     "1,101 advisory firms added Schwab in 2025, more than three times the next provider",
+     "5–7% through the cycle (2024 investor day)",
+     "Proven"
+    ],
+    [
+     "Price and mix",
+     "NIM 2.88% → **3.04%** y/y",
+     "1–2 yrs, then rate-set",
+     "$190B of securities under 2%, running off at about $13B a year",
+     "NIM expands in 2027",
+     "Proven, cyclical"
+    ],
+    [
+     "Attach and new products",
+     "Wealth flows +55%; managed investing $24B; Pledged Asset Line $37.3B (+59%)",
+     "5+ yrs",
+     "5% of retail households use advice; 31% say they would pay",
+     "Proprietary long/short; crypto; prediction markets",
+     "Scaling"
+    ],
+    [
+     "New geographies",
+     "~0",
+     "—",
+     "US-focused",
+     "None",
+     "n/a"
+    ],
+    [
+     "M&A",
+     "Forge, about 100 bps of 2026 expense growth",
+     "Episodic",
+     "Crypto transfer called an attractive M&A opportunity (Jul)",
+     "Bolt-ons",
+     "Option"
+    ],
+    [
+     "Margin",
+     "~800 bps of 2026 operating leverage",
+     "Through the cycle, harder from 54%",
+     "Expense ÷ assets 10 bps; developer productivity +25% from AI",
+     "Positive operating leverage through the cycle",
+     "Proven"
+    ],
+    [
+     "Share count",
+     "−4.3% y/y diluted (Q3)",
+     "Ongoing, slowing",
+     "Q3 buyback $0.5B; about $10.6B authorized",
+     "Opportunistic after lending",
+     "Proven, lumpy"
+    ]
+   ],
+   "note": "Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/a3q26exhibit991.htm), [Fall Business Update notes](../../../raw/SCHW/appearances/2026-10-15_fall-business-update_wurster-verdeschi.txt), [InvestmentNews](https://www.investmentnews.com/goria/custodian/schwabs-ria-business-keeps-growing-even-as-it-reins-in-long-short-strategies/268621). Built with Claude."
+  },
+  "moat": {
+   "columns": [
+    "Read",
+    "Call",
+    "~Evidence"
+   ],
+   "rows": [
+    [
+     "Mechanism",
+     "**Scale economies** + **switching costs**",
+     "Expense ÷ client assets of 10 bps; re-papering an RIA practice or an account's holdings is costly. Customers pay through the sweep rate, which is a spread, not a fee"
+    ],
+    [
+     "Trend",
+     "**Stable**",
+     "Record NNA (5.8%) and 1.2M new accounts, but Fidelity paused new long/short accounts in December 2025 and Interactive Brokers' accounts grew 35% against Schwab's 6%; the AI-agent challenge has not shown up in flows yet"
+    ],
+    [
+     "Profit pool",
+     "Shifting toward lending and away from free cash",
+     "Loan balances now exceed securities; $60.7B of margin loans are long/short; sweep cash excluding long/short is flat in a year"
+    ],
+    [
+     "Customer",
+     "Self-directed investors, traders and about 16,000 RIAs",
+     "40.3M active accounts; asset-transfer ratio about 1.8; households with a dedicated consultant bring about 3× the NNA (management). Retention is not disclosed; CAC and LTV n/d"
+    ]
+   ],
+   "note": "7 Powers vocabulary (Helmer). Scale gains are shared on explicit fees (equity and bond funds and ETFs earn Schwab 7 bps of assets) and harvested in the cash spread, so the margin is not over-earned on fees but is on cash. Source: company filings and releases; assessments are the author's. Built with Claude."
+  },
+  "competitors": {
+   "columns": [
+    "Competitor",
+    "~Position",
+    "~Threat"
+   ],
+   "rows": [
+    [
+     "**Fidelity** (private)",
+     "Comparable scale; paused new long/short SMAs in December 2025",
+     "Highest. The only rival that matches on every dimension; its December pause fits Wurster's remark that a large competitor had less capacity for long/short"
+    ],
+    [
+     "**Interactive Brokers**",
+     "Q3: customer equity $964.7B (+27%), accounts 5.58M (+35%), 78% pre-tax margin",
+     "Medium, rising. Wins active and international traders; growing faster off a smaller base"
+    ],
+    [
+     "**Robinhood** ([HOOD](../HOOD/HOOD.md))",
+     "Young, mobile, moving into retirement and advice; stock −33% over the past year",
+     "Medium. A cohort risk over a decade"
+    ],
+    [
+     "**Vanguard** (private)",
+     "Passive and IRA leader",
+     "Medium. Competes for rollovers, weak in trading"
+    ],
+    [
+     "**Altruist · LPL · BNY Pershing**",
+     "RIA custody alternatives; Altruist launched an AI planning agent on Sep 22",
+     "Medium. The first direct AI challenge to custody; no flow impact seen"
+    ],
+    [
+     "**JPMorgan self-directed**",
+     "Bank-bundled brokerage",
+     "Medium. Reduces sweep friction"
+    ]
+   ],
+   "note": "Source: [Interactive Brokers 3Q2026 release](https://www.morningstar.com/news/business-wire/20261015881618/interactive-brokers-group-announces-3q2026-results), [InvestmentNews](https://www.investmentnews.com/equities/schwab-tightens-tax-aware-long-short-account-rules-yet-again-extending-custodian-retreat-from-strategy/268064), company releases; threat reads are the author's. Built with Claude."
+  },
+  "promises": {
+   "columns": [
+    "~Promised",
+    "Where, when",
+    "~Outcome"
+   ],
+   "rows": [
+    [
+     "Pay down bank supplemental funding and minimize its use",
+     "2023 business updates; [2024 investor day](../../../raw/SCHW/investor-day/2024-05-22_Institutional_Investor_Day.txt)",
+     "✅ FHLB $41B (mid-2023) → $2.0B; 🟡 up from $0.5B in Q2"
+    ],
+    [
+     "5–7% organic asset growth through the cycle",
+     "2024 investor day",
+     "✅ 5.1% in FY2025; 5.8% in Q3 2026"
+    ],
+    [
+     "Adjusted Tier 1 leverage of 6.75–7.00% with growth plus opportunistic capital return",
+     "2024 investor day",
+     "🟡 7.0% at the top; buybacks $2.4B → $1.0B → $0.5B across Q1 to Q3"
+    ],
+    [
+     "Mid-teens EPS growth through the cycle",
+     "[2026 investor day](../../../raw/SCHW/investor-day/2026-05_Institutional_Investor_Day.txt); repeated Oct 15",
+     "🟡 FY2026 EPS about +32%, then the framework has to carry it once NIM stops helping"
+    ]
+   ],
+   "note": "Source: Schwab investor days and releases as linked. Built with Claude."
+  },
+  "risks": {
+   "columns": [
+    "~Risk",
+    "Impact",
+    "Prob.",
+    "~Priced in?",
+    "~Would break the thesis if…"
+   ],
+   "rows": [
+    [
+     "⚠️ **Cash sorts again under higher rates**: 10-year at 5.0%, markets price more hikes; sweep cash excluding long/short already fell 2.8% in Q3",
+     "High",
+     "Low–Med",
+     "Partly (the 22% fall)",
+     "That balance below ~$415B at December 31"
+    ],
+    [
+     "⚠️ **Funding mix erodes NIM**: loans grew $53B in a year against $15B of client cash; wholesale-type funding up $36B, about $24B of it the matched repo book",
+     "Med",
+     "High (observed)",
+     "Partly: the guide was cut",
+     "Q4 NIM under 3.15%"
+    ],
+    [
+     "⚠️ **Long/short dependence**: $60.7B of margin loans and $63.3B of short credits; NNA contribution undisclosed; growth now throttled",
+     "Med",
+     "Med",
+     "🔴 No",
+     "Q4 Advisor Services NNA under 5% annualized"
+    ],
+    [
+     "**Capital return lags while the balance sheet grows**: Q3 buyback $0.5B, adjusted Tier 1 at 7.0%",
+     "Low–Med",
+     "Observed",
+     "Partly",
+     "A second quarter under $1B with leverage at 7.0%"
+    ],
+    [
+     "**AI agents commoditize advice and cash** (Altruist); counter-evidence: LLM-connected traders hold more cash",
+     "Med",
+     "Med",
+     "Partly",
+     "Organic growth under 4% for two quarters"
+    ],
+    [
+     "**Trading normalizes**: 10.7M daily trades against 7.4M a year ago; revenue per trade −20% y/y",
+     "Med",
+     "High (partial)",
+     "Partly",
+     "Trading revenue down more than 25% y/y"
+    ]
+   ],
+   "note": "Filtered for materiality. New in the Q3 data: the funding-mix and long/short rows. Item 1A of the Q3 10-Q (due early November) will be diffed against the FY2025 10-K. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/a3q26exhibit991.htm), [Q2 2026 10-Q](https://www.sec.gov/Archives/edgar/data/316709/000031670926000031/schw-20260630.htm), [FRED DGS10](https://fred.stlouisfed.org/series/DGS10). Built with Claude."
+  },
+  "catalysts": {
+   "columns": [
+    "Date",
+    "Catalyst",
+    "~Why it matters"
+   ],
+   "rows": [
+    [
+     "✅ Oct 15",
+     "Q3 2026 and the Fall Business Update ([release](https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/a3q26exhibit991.htm))",
+     "Tests 1 and 2 of the prior page resolved"
+    ],
+    [
+     "📅 **Oct 27–28**",
+     "FOMC",
+     "A further hike would test the cash and NIM claims"
+    ],
+    [
+     "📅 **Oct 29**",
+     "Schwab IMPACT conference",
+     "Advisor-facing; watch long/short and AI comments"
+    ],
+    [
+     "📅 Early Nov",
+     "Q3 10-Q",
+     "Funding table, dynamic NII sensitivity, Item 1A diff"
+    ],
+    [
+     "📅 Nov 13",
+     "Ex-dividend, $0.32",
+     "Yield 1.43%"
+    ],
+    [
+     "📅 **Mid-Nov and mid-Dec**",
+     "October and November activity reports",
+     "Sweep cash, NNA after the long/short curbs: test 1"
+    ],
+    [
+     "📅 Dec 8–9",
+     "FOMC",
+     "Management's July scenario assumed a December hike"
+    ],
+    [
+     "📅 **Jan 21, 2027 (est.)**",
+     "Q4 2026 and the Winter Business Update with the 2027 scenario",
+     "All three tests"
+    ]
+   ],
+   "note": "Source: Schwab and Federal Reserve calendars, Yahoo Finance. Built with Claude."
+  },
+  "sentiment": {
+   "columns": [
+    "Signal",
+    "~Read"
+   ],
+   "rows": [
+    [
+     "Analysts",
+     "24 polled, consensus Buy, mean target $117.59 (range $82–$147); post-print cuts at Morgan Stanley ($141 → $132), Goldman ($122 → $117), Deutsche ($130 → $125), BMO ($105 → $97, Hold); holds rose from 3 to 5 since September `[Analyst consensus]`"
+    ],
+    [
+     "Consensus EPS",
+     "FY2026 $6.44, FY2027 $7.81 `[Analyst consensus]`"
+    ],
+    [
+     "Short interest",
+     "16.98M shares, 1.05% of float, −11.3% vs. the prior report, 2.1 days to cover (Oct 15)"
+    ],
+    [
+     "Insiders (90 days, Form 4)",
+     "23 filings, all sales, no purchases, about $135M: co-chairmen Schwab and Bettinger, directors Schwab-Pomerantz and Sneed, five officers. One filing since September 23: Hathi, $0.49M at $97.80"
+    ]
+   ],
+   "note": "Context only; none of it moves a verb. Source: [StockAnalysis](https://stockanalysis.com/stocks/schw/forecast/), [MarketBeat](https://www.marketbeat.com/stocks/NYSE/SCHW/short-interest/), [OpenInsider](http://openinsider.com/screener?s=SCHW&fd=90&xp=1&xs=1&cnt=100&page=1). Built with Claude."
+  }
+ },
+ "charts": {
+  "since_wurster": {
+   "type": "line",
+   "file": "series/since_wurster.json",
+   "baseline": 100,
+   "yTicks": [
+    60,
+    80,
+    100,
+    120,
+    140,
+    160,
+    180,
+    200,
+    220
+   ],
+   "tableEvery": 8,
+   "names": {
+    "IBKR": "IBKR"
+   },
+   "aria": "Total return index from December 31, 2024 = 100 for Schwab, Interactive Brokers (IBKR) and the S&P 500",
+   "note": "Total return including dividends, weekly, December 31, 2024 (the day before Wurster became CEO) = 100, through October 26, 2026. Source: Yahoo Finance adjusted closes. Built with Claude."
+  },
+  "hiking_cycles": {
+   "type": "line",
+   "file": "series/hiking_cycles.json",
+   "baseline": 100,
+   "yTicks": [
+    25,
+    50,
+    100,
+    200,
+    300,
+    400
+   ],
+   "tableEvery": 6,
+   "names": {
+    "IBKR": "IBKR"
+   },
+   "aria": "Total return index from December 31, 2021 = 100 for Schwab, Interactive Brokers (IBKR) and the S&P 500",
+   "note": "Total return including dividends, monthly, December 31, 2021 = 100, through October 2026. Source: Yahoo Finance adjusted closes. Built with Claude."
+  },
+  "revenue_mix": {
+   "type": "bar100",
+   "keys": [
+    "Net interest revenue",
+    "Asset management fees",
+    "Trading",
+    "Deposit fees and other"
+   ],
+   "unit": "$M",
+   "valueLabel": "Net revenue",
+   "prefix": "$",
+   "suffix": "M",
+   "rows": [
+    {
+     "label": "FY2023",
+     "values": [
+      9427,
+      4756,
+      3230,
+      1424
+     ]
+    },
+    {
+     "label": "FY2024",
+     "values": [
+      9144,
+      5716,
+      3264,
+      1482
+     ]
+    },
+    {
+     "label": "FY2025",
+     "values": [
+      11750,
+      6506,
+      3921,
+      1744
+     ]
+    },
+    {
+     "label": "9M 2026",
+     "values": [
+      9977,
+      5497,
+      3462,
+      1789
+     ]
+    }
+   ],
+   "aria": "Share of net revenue by line, FY2023 to 9M 2026",
+   "note": "Share of net revenue. Source: [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/316709/000031670926000009/schw-20251231.htm), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/a3q26exhibit991.htm). Built with Claude."
+  }
+ },
+ "model_build": {
+  "note": "Base case on an adjusted basis (before amortization of acquired intangibles and acquisition costs). Margins are adjusted pre-tax margins by segment, moving linearly from the FY2026 estimate to the FY2031 input; net income is to common after preferred dividends. Source: author's model (model.json). Built with Claude."
+ },
+ "scenarios": {
+  "note": "Annual return = price change to the FY2031 value plus today's [[yield]] dividend yield. Probabilities apply to Bull, Base and Bear; the Priced-in and Hurdle rows are solved by the model along the Bear→Base path at a 16× exit. Per-share earnings are adjusted EPS. Source: author's model. Built with Claude."
+ },
+ "return_math": {
+  "epv": "$68 a share on 2026's earnings held flat ($11.2B ÷ 9.5% ÷ 1.73B), $44 on five-year average earnings (FY2022–26E). Growth pays for 24% of today's price on the first measure and 51% on the second. The Bear ([[Bear.value]]) sits at the first because it keeps earnings roughly flat at 12×.",
+  "base_rate": "Revenue of $28B puts Schwab in the >$25B bucket, where 31.8% of companies grew sales at least 5% a year in real terms over five years and the median is 2.0% ([`compounding.md`](../../frameworks/compounding.md)). The Bull's 8.4% nominal (about 5.9% real) is plausible. The Base's 6.3% nominal (about 3.8% real) sits above the median, carried by asset-linked fees that compound with markets and 5%+ organic gathering; it is the part I would trim first if the cash test fails. Tiers: Bull plausible, Base probable, Bear probable.",
+  "year_ten": "Still growing: client assets compound on 5%+ organic gathering plus market returns without needing retained capital, and 16× is a mature-financial multiple, so the terminal multiple is not doing the work.",
+  "rr_note": " The ratio is flattered by a Bull worth 2.6× spot; the Bear sits only 22% below spot because I value it near current earnings power.",
+  "note": "Computed rows come from model.json; EPV, base rate and year ten are the author's. Built with Claude."
+ },
+ "sources": [
+  {
+   "label": "Q3 2026 release (8-K, Oct 15)",
+   "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/a3q26exhibit991.htm"
+  },
+  {
+   "label": "Q3 2026 release (IR PDF)",
+   "url": "https://content.schwab.com/web/retail/public/about-schwab/schw_8k_101526.pdf"
+  },
+  {
+   "label": "Q3 2026 call and Fall Business Update transcript (Motley Fool via Mitrade)",
+   "url": "https://www.mitrade.com/insights/news/live-news/article-8-2166885-20261016"
+  },
+  {
+   "label": "Fall Business Update notes",
+   "url": "../../../raw/SCHW/appearances/2026-10-15_fall-business-update_wurster-verdeschi.txt"
+  },
+  {
+   "label": "Q4 2025 release (Business Wire)",
+   "url": "https://www.businesswire.com/news/home/20260121223561/en/Schwab-Reports-Record-4Q-and-Full-Year-2025-Results"
+  },
+  {
+   "label": "Q2 2026 release",
+   "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670926000027/a2q26exhibit991.htm"
+  },
+  {
+   "label": "Q2 2026 10-Q",
+   "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670926000031/schw-20260630.htm"
+  },
+  {
+   "label": "FY2025 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670926000009/schw-20251231.htm"
+  },
+  {
+   "label": "FY2021–24 10-Ks",
+   "url": "../../../raw/SCHW/filings/"
+  },
+  {
+   "label": "2026 DEF 14A",
+   "url": "https://www.sec.gov/Archives/edgar/data/316709/000119312526142826/d930509ddef14a.htm"
+  },
+  {
+   "label": "2026 investor day deck",
+   "url": "../../../raw/SCHW/investor-day/2026-05_Institutional_Investor_Day.txt"
+  },
+  {
+   "label": "2024 investor day deck",
+   "url": "../../../raw/SCHW/investor-day/2024-05-22_Institutional_Investor_Day.txt"
+  },
+  {
+   "label": "Annual-report letters 2020–25",
+   "url": "../../../raw/SCHW/shareholder-letters/"
+  },
+  {
+   "label": "SEC XBRL company facts",
+   "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000316709.json"
+  },
+  {
+   "label": "InvestmentNews: Schwab tightens long/short rules",
+   "url": "https://www.investmentnews.com/equities/schwab-tightens-tax-aware-long-short-account-rules-yet-again-extending-custodian-retreat-from-strategy/268064"
+  },
+  {
+   "label": "InvestmentNews: Schwab's RIA business keeps growing",
+   "url": "https://www.investmentnews.com/goria/custodian/schwabs-ria-business-keeps-growing-even-as-it-reins-in-long-short-strategies/268621"
+  },
+  {
+   "label": "ThinkAdvisor: proprietary long/short and AI",
+   "url": "https://www.thinkadvisor.com/2026/10/15/schwab-plans-proprietary-long-short-product-touts-ai-advances/"
+  },
+  {
+   "label": "TIKR: Schwab falls despite record flows",
+   "url": "https://www.tikr.com/blog/schwab-stock-falls-5-despite-record-190-billion-in-flows-heres-why"
+  },
+  {
+   "label": "Interactive Brokers 3Q2026 release",
+   "url": "https://www.morningstar.com/news/business-wire/20261015881618/interactive-brokers-group-announces-3q2026-results"
+  },
+  {
+   "label": "Yahoo Finance quote and price history",
+   "url": "https://finance.yahoo.com/quote/SCHW/"
+  },
+  {
+   "label": "StockAnalysis forecast",
+   "url": "https://stockanalysis.com/stocks/schw/forecast/"
+  },
+  {
+   "label": "MarketBeat short interest",
+   "url": "https://www.marketbeat.com/stocks/NYSE/SCHW/short-interest/"
+  },
+  {
+   "label": "OpenInsider Form 4 screener",
+   "url": "http://openinsider.com/screener?s=SCHW&fd=90&xp=1&xs=1&cnt=100&page=1"
+  },
+  {
+   "label": "FRED 10-year Treasury (DGS10)",
+   "url": "https://fred.stlouisfed.org/series/DGS10"
+  },
+  {
+   "label": "Base rates (compounding.md)",
+   "url": "../../frameworks/compounding.md"
+  }
+ ],
+ "vars": {
+  "base_is_g": "5.8%",
+  "base_as_g": "7.8%",
+  "base_rev_cagr": "6.3%",
+  "base_rev31": "$38.1B",
+  "base_eps27": "$7.06",
+  "base_after27": "6.8%"
+ }
+}

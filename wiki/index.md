@@ -55,7 +55,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | [RIVN](tickers/RIVN/RIVN.md) | Active | Rivian Automotive | Narrow, stable | Low-Moderate | 2026-10-19 | 🟡 **Watch** / 🔴 **Trim** — The R2 ramp is real and VW's loan eased funding, but shares grow ~6% a year and the price already needs the Bull. Clears 13% only at $5.59. **PW EV $10.30: −17% vs. spot / −84% down.** |
 | [RKT](tickers/RKT/RKT.md) | Active | Rocket Companies | Narrow-Emerging Wide | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 most-profitable in 4 yrs — EBITDA $738M (26% margin); **Mr. Cooper $400M synergies pulled 1 yr forward to end-2026**; Redfin attach 45% w/ "line of sight to 50%"; AI capacity $300B 2 yrs early; +10.88% to $15.69; PW EV $25.80 (5-yr); R/R 3.6:1; verb upgrade **Add / Hold-Add** |
 | [SBUX](tickers/SBUX/SBUX.md) | Active | Starbucks | Wide, stable | Moderate | 2026-10-20 | 🟡 **Watch (entry ≤$69) / Hold** — Traffic back three quarters, margin not yet; the price needs near-Bull EPS and the dividend exceeds owner earnings. **PW EV $114.5: +17% up / −29% down.** |
-| [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Wide, stable | Moderate | 2026-09-23 | 🟡 **Watch (entry ≤$98) / Hold** — the lowest-cost custodian compounding on almost no new capital; Q2 beat-and-raise, but the rally leaves 12.4%/yr. **PW EV $171: +69% up / −16% down.** |
+| [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Wide, stable | Moderate | 2026-10-26 | 🟢 **Initiate (entry ≤$91, fragile) / Add** — record Q3, NIM exit guide cut; the 22% pullback lifts the return to 13.2%/yr. **PW EV $157: +75% up / −22% down.** |
 | [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide, widening | Moderate | 2026-09-23 | 🟡 **Watch (entry ≤$117) / Hold** — five quarters of 30%+ growth and Shop Pay is the agents' checkout, but ~60× FCF needs a decade of it. **PW EV $217: +56% up / −32% down.** |
 | [SN](tickers/SN/SN.md) | Active | SharkNinja | Narrow & Widening | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 (May 6) beat-and-raise — rev $1.41B (+15.6%, intl +31.6% accelerating); EBITDA $235M; **FY26 raised** ($1.29–1.30B EBITDA / $6.00–6.10 EPS); SEA tariff 20%→10%; GM –100bps (1H drag, 2H recovery watch); PW EV $150 (5-yr); R/R 2.7:1; **Initiate / Hold-Add weakness**; entry $95–110 |
 | [SNOW](tickers/SNOW/SNOW.md) | Active | Snowflake | Moderate; widening in context, narrowing in storage | Moderate | 2026-10-24 | 🟡 **Watch (entry ≤$131)** / 🔴 **Trim** — the agentic bear case lost and growth hit 37%, but owner earnings are still negative. **PW EV $241: −26% to PW EV / −68% to Bear.** |
@@ -111,7 +111,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | RIVN | **$12.42** (10/16/26) | **−45%** (0th %ile, 52-wk low) | **Single (B)** | 🟡 **Watch** / 🔴 **Trim**; entry ≤$5.59; PW EV $10.30; −3.7%/yr vs 13% hurdle |
 | RKT | $15.60 | –35.9% | Double (B+A-Mod-Strong) | Initiate Spec. / Hold-Add; entry $11–14 |
 | SBUX | **$97.87** (10/19/26) | −11.4% (61st %ile) | **Single (A)** | 🟡 **Watch / Hold**; entry ≤$69; PW EV $114.5; 5.7%/yr vs 13% hurdle |
-| SCHW | **$101.14** (9/23/26) | −11.7% (56th %ile) | **Double (B+A)** | 🟡 **Watch / Hold**; entry ≤$98; PW EV $171; 12.4%/yr vs 13% hurdle |
+| SCHW | **$89.73** (10/26/26) | −21.7% (19th %ile) | **Double (B+A)** | 🟢 **Initiate / Add**; entry ≤$91; PW EV $157; 13.2%/yr vs 13% hurdle, probability-fragile |
 | SHOP | **$138.91** (9/23/26) | −23.8% (51st %ile) | **Single (A)** | 🟡 **Watch / Hold**; entry ≤$117; PW EV $217; 9.3%/yr vs 13% hurdle |
 | SNOW | **$325.43** (10/23/26) | −15.4% (78th %ile) | **Single (A)** | 🟡 **Watch (entry ≤$131)** / 🔴 **Trim**; PW EV $241; −5.8%/yr vs 13% hurdle |
 | SN | $115.74 | –13.6% | Triple (A-Mod-Strong; B+I+T-Mod) | Initiate; entry $95–105 |
@@ -165,7 +165,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | LLY | Geographic revenue by region (exact %) | LLY 10-K segment note |
 | WING | FCF, operating cash flow from 10-K | SEC EDGAR / ir.wingstop.com |
 | UNH | FY2025 10-K Item 1A diff; non-CEO annual-incentive metrics and weights; five years of chairman's letters; post-Q3 analyst actions | EDGAR 10-K and DEF 14A HTML; annual reports page; MarketBeat after indexing |
-| SCHW | Management appearances calendar (aboutschwab.com/schwabevents returned 403); Barclays Sep 15 conference participation unconfirmed | IR events page via browser; conference transcript |
+| SCHW | Q3 2026 10-Q (not filed); second Q3 call transcript; Q1 2026 release text (PDF would not extract); IR events page (403); Wurster Bloomberg TV transcript (Oct 16) | 10-Q early November; Investing.com or Seeking Alpha transcript; browser read of the IR events page |
 | SNOW | AI revenue is never quantified (no dollar figure, no AI net revenue retention, no share of the $6,070M guide); no shareholder letter exists (Pattern C — none in the 10-K or proxy); no earnings-day CEO/CFO media appearance found for the Q1 or Q2 FY2027 prints | Q3 FY2027 call (Dec 2, 2026); FY2027 10-K (~Mar 2027) |
 | SPCX | GPU depreciation life; cloud revenue by customer; 2027 capex and funding mix for the 10 GW plan; EchoStar spectrum price (primary link); no shareholder letters exist (Pattern C, first proxy due 2027) | Q4 2026 10-K and call; 2027 DEF 14A |
 | TSLA | Full Q3 2026 call transcript (call details rest on one press recap); robotaxi fleet size and paid miles; Optimus unit count; 2019 Autonomy Day primary link; FY2021–25 Item 1A diff | Q3 transcript (ir.tesla.com replay); Q4 Update; 10-K |
@@ -185,4 +185,4 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 
 ---
 
-*Last updated: 2026-10-25*
+*Last updated: 2026-10-26*

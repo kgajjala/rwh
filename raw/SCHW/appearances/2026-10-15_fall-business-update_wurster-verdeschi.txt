@@ -1,0 +1,41 @@
+Schwab Fall Business Update / Q3 2026 earnings call, October 15, 2026 (7:30 a.m. CT)
+Speakers: Rick Wurster (President & CEO), Mike Verdeschi (CFO). Q&A: Worthington (JPMorgan), Blostein (Goldman Sachs), Katz (TD Cowen), Fannon (Jefferies), Chubak (Wolfe), Budish (Barclays), Hawken (BMO), Cyprys (Morgan Stanley), Ryan (Citizens), Bedell (Deutsche Bank), Brown (UBS). One question per analyst.
+Primary release: raw/SCHW/press-releases/2026-10-15_Q3-2026_earnings.txt
+Notes compiled from the Motley Fool transcript as republished by Mitrade (read in full in a browser, 2026-10-26) plus the company release; a second independent transcript was not retrievable (Investing.com / Seeking Alpha returned no Q3 2026 transcript). Cross-checks used instead: the release itself, ThinkAdvisor and Tikr write-ups of the call. Logged as a gap in SOURCES.md.
+ - https://www.mitrade.com/insights/news/live-news/article-8-2166885-20261016
+ - https://www.thinkadvisor.com/2026/10/15/schwab-plans-proprietary-long-short-product-touts-ai-advances/
+
+GUIDANCE (Verdeschi, prepared remarks)
+ - Full-year revenue and NIM expected "towards the lower end of the ranges" given at the Summer Business Update (revenue +17.5% to +18.5%; NIM 3.00% to 3.10%). Expenses also at the low end of the range. Cause named: "loan growth has outpaced deposit growth, which has resulted in greater utilization of our diversified funding sources."
+ - About 800 bps of positive operating leverage in 2026, "roughly double what we expected at the beginning of the year."
+ - 2027: strong momentum entering the year; detailed 2027 financial scenario at the Winter Business Update in January 2027.
+ - Wurster: the same elements "underpin the financial framework we outlined at Investor Day to deliver mid-teens earnings growth through the cycle."
+NIM (Q&A, Blostein / Verdeschi)
+ - Q3 NIM 3.04%. Q4: "roughly 25 to 30 basis points of NIM expansion that year over year for 4Q25 to 4Q26," and further expansion in 2027. Q4 2025 NIM was 2.90% (Jan 21 release), so the implied Q4 2026 NIM is about 3.15% to 3.20%, against the 3.25% to 3.30% given in July. The analyst's question referred to the "325 to 330" prior guide; the CFO did not repeat it.
+ - Lending balances now exceed the securities portfolio. About $190B of securities yield under 2%; "even if we deployed it into securities relative to where those yields are today, that would be enormously accretive." "I do think about net interest margin as Fed funds plus."
+ - Rate sensitivity unchanged: the "$250 million to $300 million sensitivity that we include in our materials." Floating-rate loans partly swapped to fixed to match deposits.
+CASH (Verdeschi, Q&A Blostein and Chubak)
+ - Sweep cash $492.8B, +$7.1B q/q, "reflecting an increase in the long/short strategy and organic growth, partially offset by clients reinvesting in markets given improving sentiment."
+ - "Even with those higher rates, this is not cash sorting in any way." Cash went back to the market on sentiment and IPO activity. Seasonal inflow expected from mid-November.
+ - Chubak noted markets price three more hikes through 2027.
+CAPITAL (Verdeschi; Katz Q&A)
+ - Adjusted Tier 1 leverage 7.0%, top of the 6.75% to 7.00% range, "as we allowed capital to build to support continued strong client activity against a backdrop of volatile rates." Nine-month repurchases "almost $4 billion." Q3 repurchase $0.5B (4.7M shares, release).
+ - Priority order unchanged: capital to support clients first, then "opportunistically return capital across multiple forms." On pace of repurchase vs. earning-asset growth, no number given; "flexibility to return capital."
+GROWTH (Wurster)
+ - Core NNA $190.4B (+38% y/y, 5.8% annualized). Retail NNA +39% y/y; Advisor Services NNA continued "no deceleration" after growth in long/short was "throttled" in mid-September (minimum raised; see InvestmentNews/Bloomberg). Wurster: a competitor "had less availability to support this program, and so our growth accelerated at a path we likely did not anticipate."
+ - Plans a proprietary long/short product built on direct indexing; no launch date.
+ - Managed investing net flows $24B (record); Schwab Wealth Advisory flows +55%; advice penetration ~5% of retail households vs. 31% willing to pay. Schwab ~2% of the $37T U.S. advice market.
+ - Retail households with a dedicated financial consultant: ~3x the NNA, ~5x the managed investing flows.
+AI (Wurster, Worthington Q&A)
+ - Schwab blocks unauthorized agents logging in for clients; allows clients' LLMs to connect to its MCP servers under Schwab authentication with no money movement; first RIA custodian in Claude for Financial Advisors; "Charlie" AI assistant for all clients in coming months.
+ - LLM/API trading clients "doubled in about the last six months"; that group "holds more cash than other active traders." Developer productivity up ~25%. "AI has been an enormous accelerant for the company."
+OTHER
+ - Prediction markets: binary options on the S&P now; financial events and company KPIs "over the next 12 to 18 months" with Cboe; no sports. Crypto: transfers rolling out, three new coins by year-end. Extended-hours trading: 1% to 2% of activity, limited uptake. Will not build quantitative trading strategies for clients.
+ - Monetization (Ryan Q&A): ETF monetization, crypto, prediction markets; cash strategy unchanged.
+Stock reaction: SCHW closed $94.16 on Oct 15 (-2.7% from $96.80), then $91.96 and $89.58 on Oct 16 and 19.
+
+Window appearance sweep (2026-09-23 -> 2026-10-26):
+ - 2026-10-15 Fall Business Update (this file).
+ - 2026-10-16 Wurster on Bloomberg Television (customer trends, younger investors, blocking AI agents); a repost, no transcript retrieved.
+ - No podcast or CNBC appearance found.
+ - Upcoming: Schwab IMPACT conference Oct 29 (Yahoo/IR); Winter Business Update January 2027; Q4 2026 results ~Jan 21, 2027 (Yahoo estimate).

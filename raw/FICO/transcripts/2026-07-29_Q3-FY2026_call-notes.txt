@@ -1,0 +1,30 @@
+NOTES (not a verbatim copy) on the FICO Q3 FY2026 earnings call, July 29, 2026
+Source read in full: https://www.fool.com/earnings/call-transcripts/2026/08/07/fico-fico-q3-2026-earnings-call-transcript/ (Motley Fool, LLM-assisted transcript; 2nd source not retrieved, see SOURCES.md)
+Speakers: Will Lansing (CEO), Steve Weber (CFO), Dave Singleton (IR)
+
+SCRIPTED (Lansing)
+- Buyback: Q3 repurchases "exceeding 3x the historical record quarter"; including the ASR, bought $1.96B / 1.705M shares at an average $1,149.
+- FICO Score 10T: GSEs released 10T loan-level datasets; Milliman found 10T beats VantageScore 4.0 on all three statistical measures, more than a 10% predictive advantage for first-time buyers. 10T Adopter Program: 70 lenders, ~55% of volume of the top-50 originators ($587B eligible annual originations). 10T is bundled free with Classic.
+- Mortgage Direct Licensing Program (DLP): "still under review by the GSEs"; agreements with partners/resellers covering ~60% of mortgage volume, negotiating toward ~90%.
+- UltraFICO (with Plaid) generally available since May; "early days".
+- Software: platform in a land-and-expand motion; Accenture partnership; next-gen FICO Platform GA expected later in calendar 2026; 500 named target accounts.
+
+SCRIPTED (Weber)
+- B2B +49% "primarily attributable to a higher mortgage origination score unit price"; prior-year quarter had ~$16M one-off insurance-score renewal; normalized Scores +49%, B2B +59%.
+- Mortgage origination volumes up "low single digit"; mortgage origination revenue +97%; mortgage = 71% of B2B revenue and 62% of Scores revenue. Auto originations revenue +15%; cards/personal loans/other +9%.
+- Software ACV bookings $29M (TTM $128M, +39%); ARR $816M (+10%); platform ARR $413M (+62%, mid-30s% ex-migrations), non-platform $403M (-17%); DBNRR 109% (platform 148%, non-platform 82%). SaaS revenue +21%, on-prem -16%, professional services -24%. Normalized for point-in-time and services, Software grew 10%.
+- Non-GAAP operating margin 62% (57% a year ago). Tax: effective ~24%, operating tax rate 25-26%.
+- Debt $5.58B at 5.64% weighted average; 60% senior notes, 40% term loans/revolver (prepayable). Cash and investments $305M. Q4 opex "modestly higher" (Accenture marketing, one-time restructuring).
+- Capital return: "In the near term, we will be using cash to pay down debt."
+
+Q&A (selected)
+- Jason Haas (Wells Fargo) on VantageScore pilot: Lansing: lenders "pulling both scores"; "are we seeing volume loss? No"; calls lender choice "bad policy because it encourages gaming".
+- Ashish Sabadra (RBC): VantageScore share at big lenders near 20%. Lansing: "we don't anticipate more than the 20s for Vantage share" and the theoretical maximum is "in the 20s".
+- Jeff Meuler (Baird) on last quarter's +127% mortgage origination revenue growth vs a $10 vs $4.95 price: Weber blamed timing and quarter cut-offs against the bureaus'.
+- Simon Clinch (Redburn): volume loss "not that easy" to monitor.
+- Faiza Alwy (Deutsche): Weber: revenue guide raise reflects pushing out DLP performance-model revenue that had been planned, and a better-than-guided mortgage market. Lansing on 10T pricing: "One could easily imagine a revenue jump at FICO if we were to charge separately for the 2. But that's not the current plan."
+- Alex Hess (JPM): Lansing cites the ~30 bp MBS pricing difference "estimate that we've kind of talked about"; Vantage "has never been through a down cycle".
+- Craig Huber: DLP performance model "is not yet live ... it's waiting on the certification from one of the GSEs"; "It's theoretical until it gets certified."
+- Rayna Kumar (Oppenheimer) on bureaus: "We get along great with the bureaus ... But at the same time, we're now competing in mortgage scores."
+- Kyle Peterson (Needham) on buybacks: Weber: "it's probably not likely we're going to buy any shares -- additional shares beyond what's already in the ASR this quarter."
+- 2027 pricing: Lansing: "No final decisions have been made ... about any of the sectors".

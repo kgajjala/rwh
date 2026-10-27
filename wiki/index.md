@@ -34,6 +34,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | [DKS](tickers/DKS/DKS.md) | Active | DICK'S Sporting Goods | Narrow, narrowing | Moderate | 2026-10-06 | 🟡 **Watch (entry ≤$130) / Hold** — sum-of-the-parts still cheap and the comp guide held; $1.0B of new notes fund a dividend FCF doesn't cover, though the CFO is buying. **PW EV $203: +48% up / −29% down.** |
 | [EBAY](tickers/EBAY/EBAY.md) | Active | eBay | Narrow, widening | Moderate-High | 2026-09-07 | 🟢 **Initiate / Add** — Q2 beat and guide raised while Focus Categories crossed 40% of GMV; the stock round-tripped a rejected $125 GameStop bid. PW EV $138: +34% up / −42% down |
 | [FDX](tickers/FDX/FDX.md) | Active | FedEx Corporation | Narrow (eroding) | Moderate | 2026-06-24 | **v3.0 Initial Ingest** — post-spin parcel pure-play (FedEx Freight → FDXF, June 1, 2026; FY-end May→Dec) at ~$297 (−6% on the June 23 Q4 print). Record FY2026 ($94.7B / $20.24 adj EPS +11%) through a ~$1B trade headwind; optical FY2027 continuing-ops guide $16.90–$18.10 (Freight deconsolidation + ~$350M stranded costs + pilot-contract cost). DRIVE ($4B done) + Network 2.0 ($2B by FY27) → FY2029 ~8% margin the crux of lifting sub-WACC ROIC (~6.7%). Amazon now #1 US carrier by volume; Double BAIT (A+B-Mod); Outsider grade Reinvestor (reforming). PW EV $372 (+25% 5-yr); R/R ~3:1. **Initiate (scaled $280–300) / Hold-Add**; entry at 20%-MoS line; next read ~Sept 2026 |
+| [FICO](tickers/FICO/FICO.md) | Active | Fair Isaac | Wide, narrowing | Low-Moderate | 2026-10-27 | 🟡 **Watch (entry ≤$561) / Hold** — the mortgage-score toll that lifted EPS 42% is frozen at $10 against a $1 rival; even the Base misses 13%. **PW EV $1,033: +46% up / −46% down.** |
 | [FIG](tickers/FIG/FIG.md) | Active | Figma | Narrow-Emerging Wide | Moderate | 2026-05-10 | **v2.4→v2.14** + Anthropic Claude Design launch Apr 17 (named direct AI-disruption threat); FIG –16% in April; short int 20.67% (+27.5% MoM); Director Reed buy $36.5M; Q1 print May 14; PW EV ~$28 (5-yr); R/R ~5:1; **Initiate (small, contrarian) / Hold** |
 | [HD](tickers/HD/HD.md) | Active | The Home Depot | Wide | Moderate-High | 2026-05-31 | **Q1 FY2026 post-print Workflow B** — binary resolved positively (adj EPS $3.43 beat, comps +0.6%, FY26 guidance reaffirmed); ~$320 (+7.5% post-print); GMS closed Sep 4, Mingledorff's HVAC closed May 11; SRS cross-sell ~$400M/yr. At $320 / ≈21× P/E (top of entry zone); PW EV $377 (+18%); R/R ~2.0:1. **🟡 Initiate/Watch** (prefer $290–305 pullback) **/ Hold, add on weakness**; Q2 FY26 ~Aug |
 | [HOOD](tickers/HOOD/HOOD.md) | Active | Robinhood Markets, Inc. | Narrow-and-Widening | Moderate | 2026-08-07 | Q2 2026 beat — rev $1.31B (+32%), adj EBITDA $741M (57% margin), crypto –38% fully absorbed by non-crypto +44%; Robinhood Chain mainnet Jul 1; Malka $55M insider buy; §11 migrated 5-yr; PW EV $125 (+38%); R/R 2.9:1. **Initiate / Hold** at $75–100 |
@@ -91,6 +92,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | DKS | **$137.13** (10/5/26) | **−43.9%** (~14th %ile) | **Triple (B+A+T)** | 🟡 **Watch / Hold**; entry ≤$130; PW EV $203; 11.8%/yr vs 13% hurdle |
 | EBAY | $103.41 (9/4/26) | –13.3% | Single (A-Strong) | **Initiate / Add**; entry ≤$117 |
 | FDX | ~$297 (6/24/26) | –14% (post-spin band) | Double (A+B-Mod) | Initiate (scaled $280–300) / Hold-Add |
+| FICO | **$708.07** (10/26/26) | −61.9% (10th %ile) | **Single (B)** | 🟡 **Watch (entry ≤$561) / Hold**; PW EV $1,033; 7.8%/yr vs 13% hurdle |
 | FIG | $17.47 | –88% (post-IPO) | Triple (B+A+I) | Initiate (small, contrarian) / Hold-Add |
 | HOOD | **$90.71** (Aug 7) | **–41.1%** | Double (all Mod) | **Initiate / Hold** at $75–100; R/R ≈2.9:1 |
 | INTU | **$341.75** (8/26/26) | **–51.5%** | Double (B+I-Mod-Strong) | **Initiate (scaled) / Hold-Add on weakness**; entry $280–400; ≈14.9× FY27E (SBC-incl.), ≈9.2% FCF yld; R/R ≈6.5:1 |
@@ -166,6 +168,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | WING | FCF, operating cash flow from 10-K | SEC EDGAR / ir.wingstop.com |
 | UNH | FY2025 10-K Item 1A diff; non-CEO annual-incentive metrics and weights; five years of chairman's letters; post-Q3 analyst actions | EDGAR 10-K and DEF 14A HTML; annual reports page; MarketBeat after indexing |
 | SCHW | Q3 2026 10-Q (not filed); second Q3 call transcript; Q1 2026 release text (PDF would not extract); IR events page (403); Wurster Bloomberg TV transcript (Oct 16) | 10-Q early November; Investing.com or Seeking Alpha transcript; browser read of the IR events page |
+| FICO | FY2026 Q4 release and 10-K (Nov 4, mid-Nov); a second Q3 call transcript; FHFA, GSE and Preferred Program primary documents (secondary write-ups used); Q1–Q2 FY2026 releases; short interest; no letters or investor-day targets exist; no CEO/CFO appearance found since Jul 29 | Nov 4 release; fico.com IR (events and Preferred Program release, 403 to scripts); FHFA and Fannie/Freddie letters; browser read |
 | SNOW | AI revenue is never quantified (no dollar figure, no AI net revenue retention, no share of the $6,070M guide); no shareholder letter exists (Pattern C — none in the 10-K or proxy); no earnings-day CEO/CFO media appearance found for the Q1 or Q2 FY2027 prints | Q3 FY2027 call (Dec 2, 2026); FY2027 10-K (~Mar 2027) |
 | SPCX | GPU depreciation life; cloud revenue by customer; 2027 capex and funding mix for the 10 GW plan; EchoStar spectrum price (primary link); no shareholder letters exist (Pattern C, first proxy due 2027) | Q4 2026 10-K and call; 2027 DEF 14A |
 | TSLA | Full Q3 2026 call transcript (call details rest on one press recap); robotaxi fleet size and paid miles; Optimus unit count; 2019 Autonomy Day primary link; FY2021–25 Item 1A diff | Q3 transcript (ir.tesla.com replay); Q4 Update; 10-K |
@@ -185,4 +188,4 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 
 ---
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*

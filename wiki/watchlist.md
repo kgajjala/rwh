@@ -3,7 +3,8 @@
 *Position-agnostic per v2.1 schema (Core Rule #3): no portfolio allocation, no target %, no form (stock/options) splits. This file is pure analysis.*
 
 *Updated by LLM agent after each full thesis cycle, earnings update, or v2.x schema migration.*
-*Updated: 2026-10-26 — SCHW migrates to v7.0 on Q3: record quarter, but the NIM exit guide was cut and sweep cash ex-long/short fell; after the 22% pullback the PW case returns 13.2%/yr, a thin pass. Initiate (entry ≤$91) / Add, probability-fragile.*
+*Updated: 2026-10-27 — FICO ingested at #16b. The mortgage-score price that doubled earnings is frozen at $10 while the FHFA puts a $1 rival level on the pricing grid; the stock is down 62% in a year but the Base alone earns 11.3%/yr, so the PW case returns 7.8%/yr. Watch / Hold, entry ≤$561. Q4 and the FY27 guide Nov 4.*
+*Prior 2026-10-26 — SCHW migrates to v7.0 on Q3: record quarter, but the NIM exit guide was cut and sweep cash ex-long/short fell; after the 22% pullback the PW case returns 13.2%/yr, a thin pass. Initiate (entry ≤$91) / Add, probability-fragile.*
 *Prior 2026-10-25 — NXPI ingested at #33e. The stock is back where it was before its record April rally while quarterly EPS guidance is 17% higher, but the recovery is part cycle and the PW case returns 6.2%/yr; Watch / Hold, entry ≤$171. Q3 print Oct 27.*
 *Prior 2026-10-24 — SNOW ingested at #33d. A −56% drawdown on an AI-disruption narrative was refuted by three quarters of acceleration, but at $325 the PW case returns −5.8%/yr; Watch / Trim, entry ≤$131.*
 *Prior 2026-10-23 — CMG and KGS migrate to v7.0 after 26% and 22% falls; both stay Watch / Hold, at 9.5%/yr (entry ≤$23) and 11.3%/yr (entry ≤$42).*
@@ -72,6 +73,7 @@
 | 14b | SPOT | Moderate-High (post-Investor-Day re-rating; thesis strengthened) | Double (A-Mod-Strong, B+I+T-Mod) | PW EV $680 (5-yr) vs. $489.93 = **+39%** (~7%/yr); R/R **~5:1** (Bull $850 / Bear $420) — May 21 Investor Day 2030 targets (35–40% GM, >20% op margin, 1B MAU) + landmark UMG AI-covers deal de-risked label/AI; **+17% to ~$490 closed the deep-value entry** | **Watch** / **Hold** | Q2 2026 — late July 2026 |
 | 15 | RKT | Moderate-High (post-Q1; verb upgrade) | Double (B+A; B-Strong, A-Mod-Strong) | PW EV $25.80 (5-yr); R/R 3.6:1 — Q1 most-profitable in 4 yrs (EBITDA $738M / 26%); Mr. Cooper synergies pulled 1 yr forward; Redfin attach 45% w/ line-of-sight 50% | **Add** / **Hold-Add** (verb upgrade Speculative→Add) | Q2 2026 — Aug 2026 |
 | 16 | CPNG | **Low-Moderate** | **Single** (B) | PW EV $20.30 vs. $13.87 = **+46%**; **7.9%/yr vs the 13% hurdle**. Customers fully back; KFTC escalation (refused raid, court loss) and a revolver-funded buyback keep the multiple the state's to set | 🟡 **Watch (entry ≤$11.02) / Hold** | 📅 Q3 2026 — ~Nov 3, 2026 |
+| 16b | FICO | **Low-Moderate** | **Single** (B) | PW EV $1,033 vs. $708.07 = **+46%**; **7.8%/yr vs the 13% hurdle**; the Base alone earns 11.3%. Mortgage royalties, 55% of segment profit, are frozen at $10 against a $1 rival; leverage 3.7× against a 4.0× covenant from Dec 31 | 🟡 **Watch (entry ≤$561) / Hold** | 📅 Q4 FY26 and FY27 guide Nov 4 |
 | 17 | NFLX | Moderate | Triple (B+A+I-Mod/Mod-Strong) | PW EV $105 vs. $73.37 = +43% (3yr); R/R ~5.7:1 (mechanical, price-driven) | **Initiate (small, scaled)**; entry $65–75 | Q2 2026 earnings — Jul 16, 2026 (confirmed) |
 | 19 | TREX | Moderate (post-Q1 channel de-risk) | Double (B+A-Mod) | PW EV $58 (5-yr); R/R 3.7:1 — Q1 (May 7) beat; channel inv 30–40 days vs. 90–120 historical = thesis-break trigger DE-RISKED ✅; capex cut $224M→$100–120M | **Initiate** / **Hold (add <$37)** | Q2 2026 — Aug 2026 |
 | 19b | HOOD | **Moderate** | Double (all Mod) | PW EV ~$125 vs. **$90.71** = **+38%** (5yr / ~6.6%/yr); R/R **≈2.9:1** — Q2 beat +32% rev / +48% EPS; Chain mainnet; Malka $55M buy | **Initiate / Hold**; entry **$75–100** | Q3 2026 — Nov 4, 2026 |
@@ -121,6 +123,7 @@
 | Date | Ticker | Event | Key Watch Item | Signal If Positive | Signal If Negative |
 |------|--------|-------|---------------|-------------------|-------------------|
 | 📅 **Oct 27, 2026** | **NXPI** | **Q3 2026 earnings** (after the close; call 4:30pm EDT) | Channel inventory ≤12 weeks and a Q4 guide midpoint ≥$3.75B (test 1); non-GAAP gross margin ≥58.5% (test 2); company-specific drivers ≥⅓ of revenue growing ≥20% and the physical-AI funnel above $1.5B (test 3) | All three pass → Bull odds hold at 25%; margin is price and mix | Channel above 12 weeks or a falling Q4 guide → the Base loses 10 points to the Bear (PW EV $276) |
+| 📅 **Nov 4, 2026** | **FICO** | **Q4 FY2026 and the FY2027 guide** (after the close) | FY27 non-GAAP EPS guide ≥$46 and Q4 mortgage-origination revenue ≥~$250M (test 1); debt ≤$5.35B at Sep 30 (test 3); Preferred Program enrollment | Guide and mortgage hold → Base intact; Watch, entry ≤$561 | Guide under $46 or mortgage under $250M → Base owner EPS cut to $56 (PW EV $966, entry $525) |
 | 📅 **Dec 2, 2026** | **SNOW** | **Q3 FY2027 earnings** | Non-GAAP product gross margin vs. the 74.0% guide (test 1); product revenue growth vs. the 37–38% guide (test 2); whether AI revenue is finally quantified | Margin ≥74.0% with a fourth consecutive acceleration → Bear odds fall, Bull rises | A second gross-margin cut → AI mix is structurally dilutive and the Base loses 10 points to the Bear |
 | 📅 **Sep 14, 2026** | **DKS** | **Goldman Sachs 33rd Annual Global Consumer & Retail Conference — fireside** | First unscripted management appearance since the –30.7% crash: does a replacement Foot Locker profitability timeline appear, and is the unused $3.0B authorization addressed? | A dated FL inflection + buyback deployment at ~$133 → Outsider-grade upgrade and re-rate | Another "still early" with no timeline and no buyback = credibility discount persists |
 | 📅 **~Dec 9, 2026** *[Est.]* | **CHWY** | **Q3 FY2026 earnings** | Net adds ≥150K; gross margin without Q2's ~$15M of one-offs; nine-month FCF and diluted share count vs. SBC | Adds hold and margin ≥6.6% guide → Base path intact | Net customer decline or margin guide cut → Bear odds rise |
@@ -219,6 +222,7 @@
 | HOOD | **$90.71** (8/7/26) | $60 (25%) | $130 (50%) | $180 (25%) | **~$125** | **+38% (5yr / ~6.6%/yr); R/R ≈2.9:1** |
 | UNH | **$377.76** (10/13/26) | $281 (25%) | $508 (50%) | $711 (25%) | **~$502** | **+33% (5yr); 8.3%/yr vs 13% hurdle; R/R 3.4:1** |
 | SCHW | **$89.73** (10/26/26) | $70 (25%) | $162 (50%) | $232 (25%) | **~$157** | **+75% (5yr); 13.2%/yr vs 13% hurdle; R/R 7.2:1** |
+| FICO | **$708.07** (10/26/26) | $383 (35%) | $1,212 (45%) | $1,768 (20%) | **~$1,033** | **+46% (5yr); 7.8%/yr vs 13% hurdle; R/R 3.3:1** |
 | RKT | $15.60 | $9 (20%) | $22 (55%) | $35 (25%) | ~$22.65 | +45% (2-3yr) |
 | SHOP | **$138.91** (9/23/26) | $95 (25%) | $216 (50%) | $339 (25%) | **~$217** | **+56% (5yr); 9.3%/yr vs 13% hurdle; R/R 4.6:1** |
 | DASH | $233.50 | $80 (25%) | $240 (50%) | $420 (25%) | ~$245 | +4.9% (5yr, ≈+1%/yr); R/R ≈1.2:1 |
@@ -264,7 +268,7 @@
 | CMS Medicare Advantage rates | UNH MLR recovery | Favorable CMS 2027 rates = UNH significant upside |
 | GLP-1 oral competition | LLY competitive positioning (post-orforglipron approval Apr 1) | Viking VK2735 oral Phase 3, Roche CT-388 Phase 2 = LLY pricing pressure |
 | AI in travel | BKNG / ABNB existential risk | Watch Google, OpenAI travel agent product launches |
-| 30-year mortgage rates | RKT origination volume (critical); SCHW NIM (indirect); ZG / TREX / RH / **LOW** demand | Sustained <6.25% = RKT/ZG/TREX/RH/LOW bull trigger; >7.5% = bear |
+| 30-year mortgage rates | RKT origination volume (critical); FICO mortgage-score royalties (volume; Equifax sees 2027 volume down a high single digit); SCHW NIM (indirect); ZG / TREX / RH / **LOW** demand | Sustained <6.25% = RKT/ZG/TREX/RH/LOW bull trigger; >7.5% = bear |
 | Housing lock-in unlock | RKT purchase volume + ZG traffic + TREX/LOW R&R demand | Rate relief → unlock → broad housing-cycle benefit; LOW direct beneficiary via both existing-home R&R + Pro construction |
 | Semiconductor cycle, lead times and Section 232 tariffs | NXPI (automotive and industrial chips); read-across from TI, Infineon and Microchip results | Lead times above 16 weeks and channel above 12 weeks = cycle risk; phase-two chip tariffs covering automotive and industrial parts = margin and China risk |
 | Gig worker reclassification (federal) | DASH unit economics (existential) | Any federal legislative movement = DASH thesis-break risk |

@@ -1,0 +1,35 @@
+SCUTTLEBUTT NOTES (secondary sources; summaries, not verbatim copies). Collected 2026-10-27.
+
+EQUIFAX Q3 2026 CALL (Oct 20, 2026), Mark Begor (CEO) and John Gamble (CFO) per Motley Fool transcript
+https://www.fool.com/earnings/call-transcripts/2026/10/20/equifax-efx-q3-2026-earnings-call-transcript/
+- "In September, the FHFA accelerated the use of VantageScore for conforming mortgages to all U.S. mortgage lenders." About 2,000 mortgage lenders use VantageScore in underwriting, 7x since April; Equifax mortgage VantageScore volume up over 230% since April.
+- "Through September, the bulk of mortgage lenders continue to purchase both the FICO mortgage score and obtain a free Vantage score from Equifax"; over 200 lenders use VantageScore exclusively; more paid conversions expected in Q4 and 2027.
+- Equifax will keep VantageScore at $1 through 2028 (Begor).
+- About 45% of Equifax's 2026 USIS mortgage revenue is FICO royalty pass-through at no margin.
+- FHFA discussions about eliminating tri-merge for a two-bureau report; Equifax and "the vast majority of industry participants" oppose.
+- Guidance cut $80M of US mortgage revenue vs July; US mortgage transaction volumes expected to fall by a high single digit percentage in 2027 vs 2026 on current run rates; $20M Q3 shortfall attributed to a 75 bp rise in 30-year mortgage rates since July.
+- Guidance assumes Equifax sells FICO scores on all mortgage transactions with limited VantageScore revenue in Q4 and FY2026.
+
+HOUSINGWIRE, "FICO holds mortgage price as analysts flag volume play" (Oct 26-27, 2026): https://www.housingwire.com/articles/fico-preferred-program-analyst-reaction/
+- Preferred Program: $10 per score through tri-merge resellers for lenders and brokers who pull FICO on every relevant application; covers Classic FICO and FICO Score 10T; "flat year-over-year pricing" per FICO.
+- Mizuho: program partly aimed at "waterfalling" (cheaper score first); had assumed ~5% FICO mortgage price growth in 2027, now flat. UBS: $10 excludes funding, closed-loan and success fees; takes effect on enrollment; target $942 from $1,100 (Oct 26).
+- FHA will accept Classic FICO, FICO 10T and VantageScore 4.0 from Jan 1, 2027. Fannie and Freddie accept VantageScore 4.0; FICO 10T not yet eligible. FHFA put Classic FICO and VantageScore 4.0 on the same loan-level pricing grid.
+
+YAHOO/BARCHART, "FICO Stock Plunges 26% in Worst Day Ever" (Sep 29, 2026): https://finance.yahoo.com/real-estate/articles/fico-stock-plunges-26-worst-182349080.html
+- FHFA Director Bill Pulte announced Fannie and Freddie would merge their two pricing matrices into one grid with VantageScore on equal footing with Classic FICO. Intraday low $595.19. Rocket Mortgage to make VantageScore 4.0 its preferred model for eligible loans from Q4. VantageScore about $0.99 per score vs about $10 for FICO.
+- TD Cowen (Jaret Seiberg): earlier FHFA grids implied VantageScore overstated credit quality by about 20 points; MBS market still requires FICO scores, limiting downside. RBC: score-shopping risk; pressure to move off per-pull fees. Deutsche Bank: Buy, "meaningfully negative and consequential".
+
+INVESTING.COM (Sep 29, 2026): https://www.investing.com/news/stock-market-news/fico-stock-drops-20-analysts-break-down-the-impact-of-fhfas-single-pricing-grid-4922853 (TransUnion -4%, Equifax -6.7%, Experian -1.2% that morning).
+
+YAHOO, "FICO Sinks 16%..." (Oct 26, 2026): https://finance.yahoo.com/markets/stocks/articles/fico-sinks-16-holds-mortgage-171747908.html
+- Wells Fargo downgraded to Equal Weight, target $735 from $800. JPMorgan target $900 from $1,530, Neutral. UBS $942 from $1,100, Neutral. Forward P/E 17x at Friday's close vs 5-year average 40x; 12x on Sep 30.
+
+HOUSINGWIRE on TransUnion: TransUnion cut VantageScore 4.0 to $0.99 for lenders (Mar 2026) and bundles it free with FICO through 2026: https://www.housingwire.com/articles/transunion-vantagescore-price-cut/
+
+HOUSINGWIRE, "GSEs broaden VantageScore 4.0 access; Rocket, UWM dominate volume": https://www.housingwire.com/articles/gses-broaden-vantagescore-4-0-access-rocket-uwm-dominate-volume/ (KBW analysis of August data: about 99% of VantageScore 4.0 mortgage volume from Rocket and UWM; UWM reduces borrowers' VantageScore by 20 points for eligibility and pricing).
+
+SEN. HAWLEY letters to FICO and the FTC (Mar 23, 2026): https://www.hawley.senate.gov/wp-content/uploads/2026/03/2026-03-23-Hawley-Oversight-Letter-to-FICO.pdf ; trade-press summary https://www.housingwire.com/articles/hawley-fico-mortgage-pricing/ (describes the move from $4.95 to $10 as a doubling that could add about $500M of industry cost; FICO disputes the framing).
+
+FICO 2026 PRICING STRUCTURE per trade press (https://www.nationalmortgagenews.com/news/ficos-new-pricing-program-met-with-cautious-optimism): tri-merge resellers in the direct license program pay $10 per score, or a performance model at $4.95 base royalty plus a $33 per-borrower charge on funded loans.
+
+LAW-FIRM NOTICE (solicitation, not evidence): Levi & Korsinsky investigation notice Oct 5, 2026: https://www.globenewswire.com/news-release/2026/10/05/3374907/3080/en/levi-korsinsky-notifies-investors-of-pending-investigation-into-securities-claims-involving-fair-isaac-corporation-fico.html

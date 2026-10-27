@@ -1,0 +1,35 @@
+EXTRACT (labelled, not verbatim in full) of FICO Q3 FY2026 earnings release, 8-K Exhibit 99.1, July 29, 2026
+Source: https://www.sec.gov/Archives/edgar/data/814547/000081454726000031/exhibit991erq32026.htm
+Read in the built-in browser on 2026-10-27; tables transcribed from the page.
+
+HEADLINES
+- Revenue $674.2M vs $536.4M (+26%). GAAP NI $237.2M, GAAP EPS $10.45 (vs $7.40). Non-GAAP NI $276.6M, non-GAAP EPS $12.18 (vs $8.57). Op cash flow $380.4M; FCF $370.3M (vs $276.2M).
+- Scores $458.9M (+41%; B2B +49% "primarily attributable to a higher mortgage origination scores unit price"; B2C +5%).
+- Software $215.3M (+2%). Software ARR +10% y/y: platform ARR +62%, non-platform ARR -17%. Dollar-based net retention: total 109%, platform 148%, non-platform 82%.
+- Will Lansing, CEO: "we are raising our full year guidance."
+
+FY2026 GUIDANCE (previous -> updated): revenue $2.45B -> $2.53B; GAAP NI $825M -> $850M; GAAP EPS $35.60 -> $36.86; non-GAAP NI $946M -> $979M; non-GAAP EPS $40.45 -> $42.43. SBC in guide $188M.
+
+INCOME STATEMENT ($000) Q3 FY26 / Q3 FY25 / 9M FY26 / 9M FY25
+- On-prem and SaaS software 196,969 / 187,915 / 584,421 / 557,752
+- Professional services 18,322 / 24,191 / 54,999 / 60,343
+- Scores 458,897 / 324,309 / 1,238,404 / 857,023
+- Total revenue 674,188 / 536,415 / 1,877,824 / 1,475,118
+- Cost of revenue 87,017 / 87,571 / 265,477 / 262,546; R&D 53,708 / 47,212 / 157,536 / 137,394; SG&A 170,835 / 139,114 / 455,669 / 387,484
+- Operating income 362,628 / 262,518 / 999,142 / 687,694
+- Other expense, net (47,969) / (25,527) / (136,523) / (87,558)
+- Pre-tax 314,659 / 236,991 / 862,619 / 600,136; tax 77,487 / 55,202 / 202,616 / 103,204; NI 237,172 / 181,789 / 660,003 / 496,932
+- Diluted EPS 10.45 / 7.40 / 28.12 / 20.12; diluted shares (000) 22,703 / 24,575 / 23,470 / 24,696
+
+BALANCE SHEET ($000) Jun 30 2026 / Sep 30 2025
+- Cash 248,444 / 134,136; receivables 592,530 / 529,148; marketable securities 56,093 / 54,625; goodwill 791,815 / 783,340; total assets 2,037,373 / 1,868,133
+- Deferred revenue 205,424 / 187,372; current debt 300,000 / 399,541; long-term debt 5,282,389 / 2,656,150
+- Total liabilities 6,134,508 / 3,613,917; stockholders' deficit (4,097,135) / (1,745,784)
+
+CASH FLOW, 9M ($000) FY26 / FY25
+- Op cash flow 777,880 / 555,138; SBC 141,910 / 124,288; capex (PP&E) 1,355 / 4,751; capitalized software 26,491 / 21,831
+- Revolver and term-loan proceeds 2,950,000 / 450,000; repayments (1,015,000) / (1,368,750); senior-note issuance 1,000,000 / 1,500,000; senior-note payments (400,000) / 0
+- Repurchases of common stock (3,045,992) / (866,520); taxes paid on net share settlement (111,275) / (203,188)
+- FCF 9M 750,035 / 528,556
+
+NON-GAAP: SBC add-back Q3 52,331; 9M 141,910. Non-GAAP 9M EPS $31.91 vs $22.15.

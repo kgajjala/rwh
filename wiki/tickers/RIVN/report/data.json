@@ -1,0 +1,1297 @@
+{
+ "meta": {
+  "ticker": "RIVN",
+  "company": "Rivian Automotive, Inc.",
+  "title": "Rivian: The Car Works. Who Pays for the Loss?",
+  "dek": "The R2 outsold everything else Rivian makes in its first full quarter and the company raised guidance. The stock is 46% off its high anyway. What does $12 assume about the margin and about the share count?",
+  "date": "2026-10-31",
+  "date_long": "October 31, 2026",
+  "status": "Active",
+  "price": 12.16,
+  "price_note": "Oct 30, 2026 close, matched on Yahoo Finance and StockAnalysis",
+  "price_url": "https://finance.yahoo.com/quote/RIVN/",
+  "range52": [
+   11.38,
+   22.69
+  ],
+  "type": "Capital-intensive OEM (EVs) plus software and JV engineering services",
+  "stage": "Scaling (pre-profit)",
+  "cyclical": "Yes",
+  "competence": "Edge",
+  "compounder": false,
+  "terminal_label": "FY2031",
+  "accent": {
+   "light": "#a8651b",
+   "dark": "#f0c27a"
+  },
+  "html_name": "RIVN-deep-dive.html",
+  "report_path": "../RIVN.md"
+ },
+ "verdict": {
+  "sentence": "The R2 is landing and the guide moved up, but $12.16 already needs the Bull: the probability-weighted five-year value is [[pw_ev]], a [[pw_return]] a year return against the 13% hurdle, because about 6% a year of share-count growth sits between revenue growth and value per share.",
+  "non_holder": {
+   "emoji": "🟡",
+   "verb": "Watch (entry ≤[[entry]])"
+  },
+  "holder": {
+   "emoji": "🔴",
+   "verb": "Trim"
+  },
+  "breaks_if": "December does not exit at a positive automotive gross profit, which is also the condition for the first draw on the $4.5B DOE loan, or the next equity raise prices below $12.",
+  "multiple_label": "EV / FY26E sales",
+  "multiple": "≈2.2×",
+  "bait": "Single (B)",
+  "moat": "Narrow, stable",
+  "next": "Dec 9 (Autonomy & AI Day) · Feb (Q4)",
+  "price_implies": "the Bull (≈$20 by 2031 for 11%/yr)"
+ },
+ "call": "Rivian printed its best quarter: 19,248 deliveries (+46%), revenue of $2.155B (+38%), the R2 outselling both the R1 and the vans in its first full quarter, and a guide raised on deliveries, EBITDA and capex. The market, at $12.16 after a new 52-week low of $11.45 the day before, is not pricing failure. It is pricing something near the Bull: to earn even 11% a year the stock has to reach about $20 by 2031, a dollar short of our $22 Bull, and the price implies **less than zero** Bear odds. We assign the Bull 25%. What the bull story leaves out is the bridge from the company to the share. In the Base, revenue compounds 10% to $12.5B at a 4% EBIT margin, yet about $6.5B of cumulative burn and about $0.84B a year of stock pay lift the share count from 1.46B to about 1.95B, leaving about $6 a share. This year's 220M new shares came 39% from a $15.50 public offering, 38% from partners and 23% from employees. The number that settles the page is Q4 automotive gross profit excluding credits, due in February; management says December will exit positive but not the full quarter. The verb is not probability-fragile: no Bear probability, even zero, clears 13% from here.",
+ "tests": [
+  {
+   "claim": "That the R2 turns automotive gross profit positive.",
+   "test": "Q4 2026 automotive gross profit, excluding regulatory credits, above $0 for the quarter, in the Q4/FY2026 release (February 2027). Q3 was $(161)M excluding credits. Management said on October 29 it intends to *exit* the quarter at a positive automotive gross profit and that I should not expect the full quarter, so I expect this to fail as written.",
+   "if_fail": "10 points Base → Bear (PW EV [[test1.pw_ev]], [[test1.pw_return]]/yr) → **Watch / Trim**, entry ≤[[test1.entry]].",
+   "shift": {
+    "from": "Base",
+    "to": "Bear",
+    "points": 0.1
+   }
+  },
+  {
+   "claim": "That the ramp is volume, not a launch spike.",
+   "test": "Q4 2026 deliveries of at least 23,193 in the January 2027 delivery release (the new guide of 67–70K implies 25.2–28.2K), and FY2027 delivery guidance with a midpoint of at least 95,000 in the February 2027 release.",
+   "if_fail": "10 points Bull → Bear (PW EV [[test2.pw_ev]], [[test2.pw_return]]/yr) → **Watch / Trim**, entry ≤[[test2.entry]].",
+   "shift": {
+    "from": "Bull",
+    "to": "Bear",
+    "points": 0.1
+   }
+  },
+  {
+   "claim": "That funding stays strategic, not reflexive.",
+   "test": "through the Q2 2027 10-Q (early August 2027), no common or convertible offering below $12 outside the VW and Uber milestone agreements and employee plans, and a first DOE advance drawn. The stock closed at $12.16 on October 30.",
+   "if_fail": "Bear $2.00 → $1.50 and 5 points Base → Bear (PW EV $9.89, −4.1%/yr) → **Avoid / Exit**."
+  }
+ ],
+ "updates": [
+  {
+   "date": "2026-10-31",
+   "title": "Record quarter, raised guide, and a stock at the funding threshold",
+   "file": "updates/2026-10-31.md",
+   "scorecard": [
+    {
+     "test": "R2 turns automotive gross profit positive",
+     "result": "pending",
+     "evidence": "Q3 automotive gross profit excluding credits $(161)M; management guides an exit-rate positive in Q4, not the full quarter; resolves in February"
+    },
+    {
+     "test": "The ramp is volume, not a launch spike",
+     "result": "pending",
+     "evidence": "Q3 deliveries 19,248; the guide of 67–70K implies Q4 of 25.2–28.2K; first half resolves in January"
+    },
+    {
+     "test": "Funding stays strategic, not reflexive",
+     "result": "pending",
+     "evidence": "no new offering; the stock is at the $12 threshold; the DOE draw is not open"
+    }
+   ]
+  }
+ ],
+ "tables": {
+  "quarters": {
+   "columns": [
+    "$ Million",
+    "Q3 2025",
+    "Q4 2025",
+    "Q1 2026",
+    "Q2 2026",
+    "Q3 2026"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "Deliveries (vehicles)",
+      "13,201",
+      "9,745",
+      "10,365",
+      "12,194",
+      "**19,248**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Production",
+     "10,720",
+     "10,974",
+     "10,236",
+     "12,613",
+     "19,751"
+    ],
+    [
+     "Automotive revenue",
+     "1,142",
+     "839",
+     "908",
+     "1,143",
+     "1,550"
+    ],
+    [
+     "Software and services revenue",
+     "416",
+     "447",
+     "473",
+     "515",
+     "605"
+    ],
+    {
+     "cells": [
+      "Total revenue",
+      "1,558",
+      "1,286",
+      "1,381",
+      "1,658",
+      "**2,155**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Automotive gross profit",
+     {
+      "v": "(130)",
+      "cls": "neg"
+     },
+     "(59)",
+     "(62)",
+     "(36)",
+     {
+      "v": "**(80)**",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Software and services gross profit",
+     "154",
+     "179",
+     "181",
+     "215",
+     "**256**"
+    ],
+    {
+     "cells": [
+      "Gross profit",
+      "24",
+      "120",
+      "119",
+      "179",
+      "176"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Operating expenses",
+     "1,007",
+     "953",
+     "1,000",
+     "1,015",
+     "1,057"
+    ],
+    [
+     "Adjusted EBITDA",
+     {
+      "v": "(602)",
+      "cls": "neg"
+     },
+     "(465)",
+     "(472)",
+     "(379)",
+     {
+      "v": "(435)",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Free cash flow",
+     "(421)",
+     "(1,144)",
+     "(1,075)",
+     "(849)",
+     {
+      "v": "**(1,124)**",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Cash and short-term investments",
+     "7,088",
+     "6,082",
+     "4,830",
+     "5,310",
+     "5,502"
+    ]
+   ],
+   "note": "Automotive and software gross profit are revenue less cost of revenues by segment from the release. Regulatory credits were $108M in Q2 and $81M in Q3 (others n/d). Q3 automotive includes an undisclosed IEEPA tariff refund receivable. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/1874178/000187417826000065/ex-9913q26rivianearningspr.htm). Built with Claude."
+  },
+  "drivers": {
+   "columns": [
+    "Per delivered vehicle",
+    "Q2 2026",
+    "Q3 2026",
+    "Change"
+   ],
+   "rows": [
+    [
+     "Deliveries",
+     "12,194",
+     "19,248",
+     "+58%"
+    ],
+    [
+     "Automotive revenue excluding credits",
+     "$84.9K",
+     "**$76.3K**",
+     "−10%"
+    ],
+    [
+     "Automotive cost of revenues",
+     "$96.7K",
+     "**$84.7K**",
+     "−12%"
+    ],
+    {
+     "cells": [
+      "Gross profit excluding credits",
+      {
+       "v": "−$11.8K",
+       "cls": "neg"
+      },
+      {
+       "v": "**−$8.4K**",
+       "cls": "neg"
+      },
+      "+$3.4K"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Of which R2 ramp cost (≈$100M in Q2, ≈$120M in Q3)",
+     "≈$8.2K",
+     "≈$6.2K",
+     "—"
+    ],
+    [
+     "Gross profit excluding credits and ramp cost",
+     "≈−$3.6K",
+     "≈−$2.1K",
+     "—"
+    ],
+    [
+     "Regulatory credits",
+     "$108M",
+     "$81M",
+     "falling"
+    ],
+    [
+     "Software and services revenue / gross profit",
+     "$515M / $215M",
+     "$605M / $256M",
+     "+17% / +19%"
+    ],
+    [
+     "Software and services gross margin",
+     "42%",
+     "42%",
+     "—"
+    ],
+    [
+     "Share of software and services revenue from the Volkswagen JV",
+     "n/d",
+     "59% ($354M)",
+     "—"
+    ]
+   ],
+   "note": "`[Derived]` from the segment lines in the [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/1874178/000187417826000065/ex-9913q26rivianearningspr.htm) and the [Q2 2026 presentation](https://www.sec.gov/Archives/edgar/data/0001874178/000187417826000053/ex-9922q26rivianearnings.htm); the ramp costs are management's figures ($120M in Q3, ≈$100M in Q2). Mulvey: R2 contributed about a $12,000 per-vehicle step down in cost of goods sold in Q2. The Q3 gross profit includes an IEEPA tariff refund receivable of undisclosed size, so the improvement is overstated. Built with Claude."
+  },
+  "unit": {
+   "columns": [
+    "Illustrative automotive economics, per vehicle",
+    "Q3 2026",
+    "FY2031 Bear",
+    "FY2031 Base",
+    "FY2031 Bull"
+   ],
+   "rows": [
+    [
+     "Revenue per vehicle",
+     "$76.3K",
+     "≈$55K",
+     "≈$58K",
+     "≈$60K"
+    ],
+    [
+     "Cost of revenues per vehicle",
+     "$84.7K",
+     "≈$55K",
+     "≈$53K",
+     "≈$52K"
+    ],
+    {
+     "cells": [
+      "Gross profit per vehicle",
+      {
+       "v": "−$8.4K",
+       "cls": "neg"
+      },
+      "≈$0",
+      "**≈+$4.6K**",
+      "≈+$8.4K"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Automotive gross margin",
+     "−10.9%",
+     "0%",
+     "8%",
+     "14%"
+    ],
+    [
+     "Deliveries (a year)",
+     "≈77K (Q3 annualized)",
+     "≈116K",
+     "≈143K",
+     "≈201K"
+    ],
+    [
+     "Automotive revenue",
+     "$5.5B (FY2026E)",
+     "$6.4B",
+     "$8.3B",
+     "$12.1B"
+    ],
+    {
+     "cells": [
+      "What has to happen to cost",
+      "—",
+      "−35% from Q3",
+      "−37% from Q3",
+      "−39% from Q3"
+     ],
+     "cls": "sub"
+    }
+   ],
+   "note": "Author's illustration, `[Estimate]`: the model sets 2031 automotive revenue and gross margin; price and volume per vehicle are chosen so that they multiply to it. The Q3 mix is R1, vans and the first R2s at a $57,990 launch edition; management says R2 trims run from $45,000 to about $57,000 ([call](https://www.fool.com/earnings/call-transcripts/2026/10/30/rivian-rivn-q3-2026-earnings-call-transcript/)). Built with Claude."
+  },
+  "rings": {
+   "columns": [
+    "Ring",
+    "Q3 revenue ($M)",
+    "Q3 gross profit ($M)",
+    "~The threat",
+    "Exposure"
+   ],
+   "rows": [
+    [
+     "**1 · Software and services**",
+     "605",
+     "**256**",
+     "$354M of the revenue is the Volkswagen JV, which can roll off once VW vehicles reach production (2027+)",
+     "Medium; the profit that is real today"
+    ],
+    [
+     "**2 · Regulatory credits and refunds**",
+     "81 (credits)",
+     "81 plus an undisclosed tariff refund",
+     "Credits fall away in H2 (CFO, July); the tariff refund is a one-off",
+     "High; not repeatable"
+    ],
+    [
+     "**3 · Vehicles excluding credits** (R1, R2, vans)",
+     "1,469",
+     {
+      "v": "(161)",
+      "cls": "neg"
+     },
+     "R2 ramp cost, commodity inflation (memory), mix shifting to cheaper trims",
+     "**High; this is the debate**"
+    ],
+    {
+     "cells": [
+      "Consolidated",
+      "2,155",
+      "176",
+      "",
+      ""
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "Automotive gross profit of $(80)M includes $81M of regulatory credits, so vehicles excluding credits are $(161)M `[Derived]`. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/1874178/000187417826000065/ex-9913q26rivianearningspr.htm). Built with Claude."
+  },
+  "dilution": {
+   "columns": [
+    "Source of new shares, Dec 31, 2025 → Sep 30, 2026",
+    "Shares (M)",
+    "Price",
+    "Share of the increase"
+   ],
+   "rows": [
+    [
+     "Volkswagen (JV milestone equity)",
+     "63",
+     "$15.90",
+     "29%"
+    ],
+    [
+     "Uber (robotaxi agreement)",
+     "20",
+     "$15.34",
+     "9%"
+    ],
+    [
+     "Public offering (July)",
+     "86.25",
+     "$15.50",
+     "39%"
+    ],
+    [
+     "Employees and other (RSUs, bonuses settled in stock)",
+     "≈51",
+     "—",
+     "23%"
+    ],
+    {
+     "cells": [
+      "Total",
+      "**≈220** (1,240 → 1,460)",
+      "",
+      "**+17.7%**"
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "Shares outstanding from the [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/1874178/000187417826000065/ex-9913q26rivianearningspr.htm); partner and offering share counts from the 8-Ks and the [Q2 10-Q](https://www.sec.gov/Archives/edgar/data/0001874178/000187417826000054/rivn-20260630.htm); the employee line is the remainder `[Derived]`. Stock-based compensation was $634M in the first nine months (≈$0.84B a year, 4.7% of the market value). Built with Claude."
+  },
+  "funding": {
+   "columns": [
+    "Source",
+    "$ Billion",
+    "~Condition",
+    "Status"
+   ],
+   "rows": [
+    [
+     "Cash and short-term investments (Sep 30)",
+     "5.50",
+     "—",
+     "Reported"
+    ],
+    [
+     "Volkswagen non-recourse 10-year term loan",
+     "1.00",
+     "Fixed ≈6%; secured on the JV economics",
+     "Received in October ([8-K](https://www.sec.gov/Archives/edgar/data/1874178/000187417826000061/rivn-20261007.htm))"
+    ],
+    [
+     "Asset-based revolver capacity",
+     "0.59",
+     "Borrowing base",
+     "Undrawn"
+    ],
+    {
+     "cells": [
+      "**Liquidity pro forma**",
+      "**7.10**",
+      "",
+      "Company figure"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Volkswagen JV equity still to come",
+     "0.46",
+     "By late 2027",
+     "Contracted"
+    ],
+    [
+     "Uber equity",
+     "up to 0.95",
+     "Milestones, some on \"proven autonomy quality\"; next $250M expected by year-end",
+     "Pending"
+    ],
+    [
+     "Department of Energy loan",
+     "up to 4.50",
+     "Conditioned on positive gross margin for certain periods",
+     "No draw yet; conditions open"
+    ],
+    {
+     "cells": [
+      "**2026E free cash flow**",
+      "**≈−4.3**",
+      "9M: −$3.05B",
+      "Q3 alone −$1.12B"
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "Liquidity and the VW loan from the [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/1874178/000187417826000065/ex-9913q26rivianearningspr.htm); VW, Uber and DOE terms from the [call summary](https://www.marketbeat.com/instant-alerts/transcript-what-rivian-automotive-rivn-said-on-its-q3-earnings-call-2026-10-29/) and the earlier 8-Ks; the DOE condition is from the Q2 10-Q. The 2026E burn is nine months actual plus a Q4 estimate `[Estimate]`. Built with Claude."
+  },
+  "financing": {
+   "columns": [
+    "2026 financing",
+    "Date",
+    "Amount",
+    "Price",
+    "~Read"
+   ],
+   "rows": [
+    [
+     "Volkswagen JV equity",
+     "Apr",
+     "$1.0B",
+     "$15.90",
+     "Partner money at a premium to today"
+    ],
+    [
+     "Uber equity",
+     "May",
+     "$0.3B",
+     "$15.34",
+     "Robotaxi milestone"
+    ],
+    [
+     "Public offering",
+     "Jul 7",
+     "$1.34B",
+     "$15.50",
+     {
+      "v": "23% below the prior close",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Mind Robotics Series A (deconsolidation)",
+     "Q1",
+     "n/d",
+     "—",
+     "$506M accounting gain; $114M of cash left with the former subsidiary"
+    ],
+    [
+     "Volkswagen term loan",
+     "Oct 7",
+     "$1.0B",
+     "6.03%",
+     "Non-recourse debt"
+    ],
+    {
+     "cells": [
+      "Capital stock issued, nine months",
+      "",
+      "**$2.62B**",
+      "avg ≈$15.5",
+      "+220M shares"
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "Cash proceeds from issuance of capital stock, nine months, from the [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/1874178/000187417826000065/ex-9913q26rivianearningspr.htm); the individual events from the 8-Ks in `raw/RIVN/filings/`. Built with Claude."
+  },
+  "incentives": {
+   "columns": [
+    "Component",
+    "Size",
+    "~What it pays for",
+    "~Status"
+   ],
+   "rows": [
+    [
+     "**Founder performance award (Nov 2025)**",
+     "Up to ≈$4.6–5B at grant",
+     "Stock-price hurdles and operating milestones (per press coverage)",
+     "Metric weights not parsed from the DEF 14A `[link pending]`"
+    ],
+    [
+     "**Annual equity (all employees)**",
+     "≈$0.84B a year of stock compensation",
+     "Retention",
+     "Paid in shares, so a lower price costs more shares"
+    ],
+    [
+     "**Return on invested capital**",
+     {
+      "v": "0%",
+      "cls": "neg"
+     },
+     "Not a stated metric",
+     "—"
+    ]
+   ],
+   "note": "Source: [TechCrunch on the founder award](https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/); the proxy itself was not parsed. Built with Claude."
+  },
+  "five_year": {
+   "columns": [
+    "$B, except per share",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "FY2026E"
+   ],
+   "rows": [
+    [
+     "Revenue",
+     "0.06",
+     "1.66",
+     "4.43",
+     "4.97",
+     "**5.39**",
+     "≈7.7"
+    ],
+    [
+     "Gross profit",
+     "−0.47",
+     "−3.12",
+     "−2.03",
+     "−1.20",
+     "**+0.14**",
+     "≈0.68"
+    ],
+    [
+     "Gross margin",
+     "n/m",
+     "−188%",
+     "−46%",
+     "−24%",
+     "+2.7%",
+     "≈+9%"
+    ],
+    [
+     "Operating income (GAAP)",
+     "−4.22",
+     "−6.86",
+     "−5.74",
+     "−4.69",
+     "**−3.59**",
+     "≈−3.5"
+    ],
+    [
+     "Adjusted EBITDA",
+     "—",
+     "—",
+     "—",
+     "—",
+     "—",
+     "**−1.85 to −1.75** (guide)"
+    ],
+    [
+     "Operating cash flow",
+     "−2.62",
+     "−5.05",
+     "−4.87",
+     "−1.72",
+     "−0.78",
+     "≈−2.85"
+    ],
+    [
+     "Capex",
+     "1.79",
+     "1.37",
+     "1.03",
+     "1.14",
+     "1.71",
+     "**1.40–1.50** (guide)"
+    ],
+    [
+     "Free cash flow",
+     "−4.42",
+     "−6.42",
+     "−5.89",
+     "−2.86",
+     "−2.49",
+     "≈−4.3"
+    ],
+    [
+     "Stock compensation",
+     "0.57",
+     "0.99",
+     "0.82",
+     "0.69",
+     "0.74",
+     "≈0.84"
+    ],
+    {
+     "cells": [
+      "**Owner earnings**",
+      "−3.39",
+      "−6.69",
+      "−6.62",
+      "−3.44",
+      "**−2.30**",
+      "≈−4.6"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Owner earnings per diluted share",
+     "n/m",
+     "−$7.33",
+     "−$6.99",
+     "−$3.39",
+     "−$1.94",
+     "≈−$3.35"
+    ],
+    [
+     "SBC % of revenue",
+     "n/m",
+     "59%",
+     "19%",
+     "14%",
+     "14%",
+     "≈11%"
+    ],
+    [
+     "Equity raised (cash)",
+     "16.2 (IPO + private)",
+     "0.10",
+     "0",
+     "0",
+     "0.75",
+     "**2.62 (9M)**"
+    ],
+    [
+     "Diluted weighted shares (M)",
+     "204",
+     "913",
+     "947",
+     "1,013",
+     "1,186",
+     "**1,460 at Sep 30**"
+    ],
+    [
+     "Shares outstanding, period end (M)",
+     "900",
+     "926",
+     "968",
+     "1,131",
+     "1,240",
+     "1,460"
+    ],
+    [
+     "Net debt incl. leases",
+     "−16.6",
+     "−10.0",
+     "−4.5",
+     "−2.8",
+     "−1.0",
+     "≈−0.3"
+    ],
+    [
+     "Invested capital",
+     "2.9",
+     "3.8",
+     "4.6",
+     "3.8",
+     "3.6",
+     "≈5.4"
+    ],
+    {
+     "cells": [
+      "**ROIC (operating loss ÷ invested capital)**",
+      "−147%",
+      "−178%",
+      "−124%",
+      "−124%",
+      "**−99%**",
+      "≈−65%"
+     ],
+     "cls": "tot"
+    },
+    [
+     "3-year ROIIC",
+     "—",
+     "—",
+     "—",
+     "—",
+     "n/m",
+     "n/m"
+    ],
+    [
+     "Net debt ÷ EBITDA · coverage",
+     "n/m",
+     "n/m",
+     "n/m",
+     "n/m",
+     "n/m",
+     "n/m"
+    ]
+   ],
+   "note": "Fiscal years end December. Owner earnings = operating cash flow − stock compensation − maintenance capex (≈ D&A) `[Derived]`; invested capital = equity incl. NCI + debt + operating leases − cash and short-term investments `[Derived]`. FY2026E is nine months actual plus the guide midpoints and a Q4 `[Estimate]`. Cycle position: no through-cycle history; terminal values use a mature OEM EBIT range of ≈5–7% `[Estimate]`. The nearest maturity wall is $1.5B of 2029 convertibles, convertible at $20.13. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001874178.json), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/1874178/000187417826000065/ex-9913q26rivianearningspr.htm). Built with Claude."
+  },
+  "levers": {
+   "columns": [
+    "Lever",
+    "~Contribution now",
+    "Runway",
+    "~Evidence",
+    "~Management intent",
+    "Stage"
+   ],
+   "rows": [
+    [
+     "Market growth",
+     "**Negative**",
+     "—",
+     "US EV sales down ~20–25% in H1 2026 after the $7,500 credit ended Sept 30, 2025",
+     "—",
+     "Headwind"
+    ],
+    [
+     "Share gain",
+     "R2 is most of the Q3 delivery growth: best-selling Rivian by volume",
+     "5+ yrs",
+     "57,000+ demo drives; Launch Edition conversion \"above expectations\"",
+     "Two R2 shifts at Normal; Georgia from late 2028",
+     "Scaling"
+    ],
+    [
+     "Price and mix",
+     "Negative to revenue per unit: $84.9K → $76.3K a vehicle in one quarter",
+     "2027",
+     "Trims from $45,000 to ≈$57,000",
+     "Cheaper R2 trims early 2027",
+     "Scaling"
+    ],
+    [
+     "Attach / new products",
+     "Autonomy+ take rate \"exceeded expectations\" (not disclosed)",
+     "5+ yrs",
+     "Point to Point early access in 2026; general release 2027; Third Dimension AI acquired",
+     "Autonomy and AI Day Dec 9; R3 after R2",
+     "Option"
+    ],
+    [
+     "New geographies",
+     "≈0",
+     "2028+",
+     "US-only; VW ID.1 launches in Europe in 2027 using the JV's architecture",
+     "No dated Rivian plan",
+     "Option"
+    ],
+    [
+     "M&A",
+     "Third Dimension AI (small)",
+     "—",
+     "Simulation for autonomy",
+     "—",
+     "Option"
+    ],
+    [
+     "Margin",
+     "**The Base case**",
+     "5 yrs",
+     "Software and services at 42%; R2 cost step-down of ≈$12K a vehicle",
+     "Exit Q4 at positive automotive gross profit",
+     "Scaling"
+    ],
+    [
+     "Share count",
+     "**Negative** (+17.7% in nine months)",
+     "Ongoing",
+     "≈6% a year in the Base",
+     "No buyback possible",
+     "Headwind"
+    ]
+   ],
+   "note": "Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/1874178/000187417826000065/ex-9913q26rivianearningspr.htm), [call](https://www.fool.com/earnings/call-transcripts/2026/10/30/rivian-rivn-q3-2026-earnings-call-transcript/). Built with Claude."
+  },
+  "moat": {
+   "columns": [
+    "Read",
+    "Call",
+    "~Evidence"
+   ],
+   "rows": [
+    [
+     "Mechanism",
+     "**Counter-positioning** (software-defined zonal architecture) plus brand",
+     "VW pays up to $5.8B for the JV rather than build its own; Uber chose R2 for robotaxis; the first JV output, the VW ID.1, launches in 2027"
+    ],
+    [
+     "Trend",
+     "**Stable**",
+     "Software and services gross profit $256M (+66%), but R1 volume is eroding and the vehicle business has not yet earned a margin"
+    ],
+    [
+     "Profit pool",
+     "Suppliers and incumbents capture it; Rivian is negative at the vehicle level",
+     "Vehicles excluding credits: $(161)M gross profit in Q3"
+    ],
+    [
+     "Customer",
+     "Affluent, outdoor-oriented, often a first EV; fleets through the Amazon vans",
+     "R2 Launch conversion above plan (CEO); Amazon \"double down\" on vans; R1 needed lease cuts in 2026"
+    ]
+   ],
+   "note": "7 Powers vocabulary (Helmer). Rivian is not a scale-economies player at ≈70K units a year, so there is no shared-versus-harvested test to run. Rating: **Narrow, stable.** Built with Claude."
+  },
+  "competitors": {
+   "columns": [
+    "Competitor",
+    "~Position",
+    "~Threat"
+   ],
+   "rows": [
+    [
+     "**Tesla Model Y**",
+     "US EV leader; Rivian itself says only Tesla's FSD matches Point to Point",
+     "**High**: the R2's direct comparison, at lower prices"
+    ],
+    [
+     "**GM** (Equinox EV, Silverado EV)",
+     "Largest legacy EV line-up",
+     "Medium: price at the R2 tier"
+    ],
+    [
+     "**Hyundai / Kia**",
+     "Ioniq 5, EV9",
+     "Medium"
+    ],
+    [
+     "**Lucid** (Gravity)",
+     "Smaller, worse cash position; −83% in a year",
+     "Low; shows how the sector trades"
+    ]
+   ],
+   "note": "Scuttlebutt: the R1 decline predates the R2 (Q1 sales −26.5% per Motor Intelligence `[Estimate]`). The US EV market shrank after the federal credit ended, so the R2 is a share story. Source: [call](https://www.fool.com/earnings/call-transcripts/2026/10/30/rivian-rivn-q3-2026-earnings-call-transcript/). Built with Claude."
+  },
+  "promises": {
+   "columns": [
+    "~Promised",
+    "Where, when",
+    "~Outcome"
+   ],
+   "rows": [
+    [
+     "Adjusted EBITDA positive in 2027",
+     "Investor Day, June 2024",
+     "🔴 Withdrawn March 2026 for autonomy R&D, five weeks after it was reaffirmed ([CFO Dive](https://www.cfodive.com/news/rivian-quietly-walks-back-2027-profitability-targets-ev/815354/))"
+    ],
+    [
+     "R2 customer deliveries in H1 2026",
+     "FY2024–25 letters",
+     "✅ June 9, 2026; R2 the best-selling Rivian by Q3"
+    ],
+    [
+     "Automotive gross profit positive at the 2026 exit",
+     "Q4 2025 call, reaffirmed Jul 30 and Oct 29",
+     "🟡 Reiterated as an exit-rate goal, not a full quarter (test 1)"
+    ]
+   ],
+   "note": "Guidance grade: **Mixed.** Quarterly losses beat consensus in most recent quarters, but the multi-year profit targets keep moving. Source as linked and the calls. Built with Claude."
+  },
+  "risks": {
+   "columns": [
+    "~Risk",
+    "Impact",
+    "Prob.",
+    "~Priced in?",
+    "~Would break the thesis if…"
+   ],
+   "rows": [
+    [
+     "⚠️ **Reflexive funding and talent loop**: ≈$0.84B a year of stock compensation plus a funding gap, both paid in shares that cost more as the price falls",
+     "High",
+     "Ongoing",
+     "Partly: the price discounts failure, not dilution in the success case",
+     "Any common or convertible raise below $12 (test 3); the stock closed at $12.16"
+    ],
+    [
+     "⚠️ **R2 gross margin stays negative at scale**, and the DOE first draw (conditioned on positive gross margin) slips",
+     "Critical",
+     "35%",
+     "**No**: the price needs the Bull",
+     "Q4 automotive gross profit excluding credits not positive for the quarter (test 1)"
+    ],
+    [
+     "⚠️ **Credits and refunds fade**: $81M of credits plus a tariff refund inside Q3 gross profit",
+     "High",
+     "High (observed)",
+     "Partly",
+     "Q4 adjusted EBITDA worse than Q3's $(435)M on higher volume"
+    ],
+    [
+     "⚠️ **Software and services profit is concentrated in the VW JV** (59% of the revenue), which can roll off after VW vehicles reach production",
+     "High",
+     "30%",
+     "No",
+     "Software and services gross profit below $200M a quarter in 2027"
+    ],
+    [
+     "US EV demand stays down after the credit ended; R1 erosion continues",
+     "High",
+     "50%",
+     "Yes",
+     "FY2027 delivery guide midpoint below 95K (test 2)"
+    ],
+    [
+     "CFO transition into the DOE draw and the 2027 plan",
+     "Medium",
+     "—",
+     "Partly",
+     "An external CFO not named by the FY2026 release"
+    ],
+    [
+     "2029 convertibles ($1.5B at $20.13) mature inside the window",
+     "Medium",
+     "25%",
+     "Partly",
+     "Refinanced only with equity below $10"
+    ]
+   ],
+   "note": "Filtered for materiality. Item 1A of the Q3 10-Q (filed after the release) was not diffed. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/1874178/000187417826000065/ex-9913q26rivianearningspr.htm), [call](https://www.fool.com/earnings/call-transcripts/2026/10/30/rivian-rivn-q3-2026-earnings-call-transcript/). Built with Claude."
+  },
+  "catalysts": {
+   "columns": [
+    "Date",
+    "Catalyst",
+    "~Why it matters"
+   ],
+   "rows": [
+    [
+     "✅ Oct 29",
+     "Q3 results: record deliveries, guide raised ([release](https://www.sec.gov/Archives/edgar/data/1874178/000187417826000065/ex-9913q26rivianearningspr.htm))",
+     "Tests 1–3 set against it"
+    ],
+    [
+     "📅 Oct 30",
+     "CFO McDonough departs; Derek Mulvey interim CFO",
+     "Finance leadership into the DOE draw"
+    ],
+    [
+     "📅 ~Nov 6",
+     "Q3 10-Q",
+     "Item 1A diff; DOE and convertible detail"
+    ],
+    [
+     "📅 **Dec 9**",
+     "Autonomy and AI Day",
+     "Point to Point timing; autonomy cost"
+    ],
+    [
+     "📅 YE2026",
+     "Uber $250M milestone; second R2 shift volume; Point to Point early access",
+     "Funding and autonomy proof"
+    ],
+    [
+     "📅 Early Jan 2027",
+     "Q4 deliveries",
+     "Test 2, first half (the guide implies 25.2–28.2K)"
+    ],
+    [
+     "📅 Feb 2027",
+     "Q4/FY2026 results; FY2027 guide",
+     "Tests 1 and 2"
+    ],
+    [
+     "📅 Early 2027",
+     "Cheaper R2 trims; first DOE draw",
+     "Volume and test 3"
+    ]
+   ],
+   "note": "Source: company releases and calls. Built with Claude."
+  },
+  "sentiment": {
+   "columns": [
+    "Signal",
+    "~Read"
+   ],
+   "rows": [
+    [
+     "Analysts",
+     "Hold consensus before the print (12 Buy / 9 Hold / 7 Sell), mean target ≈$19; Citi Neutral $18, TD Cowen Buy $21, Morgan Stanley Underweight `[Analyst consensus]`; post-print target changes not retrieved"
+    ],
+    [
+     "Short interest",
+     "164.1M shares, 11.2% of shares outstanding and 17.4% of float (StockAnalysis, Oct 30), down from 169M at Sep 30"
+    ],
+    [
+     "Insiders (90 days, Form 4)",
+     "No purchases. The last sales: Chief Administrative Officer Callahan, 15,000 shares at $15.00 on Oct 1; CFO McDonough, two August sales at $14.50–16.00, under 10b5-1 plans ([OpenInsider](http://openinsider.com/RIVN))"
+    ],
+    [
+     "Appearances (Oct 19 – Oct 31)",
+     "The Q3 call (Oct 29) only; no conference or media interview found"
+    ],
+    [
+     "BAIT",
+     "Single (B): a 52-week low of $11.45 into the print, then +6.2%, with 17% of the float short. The analytical lens is Weak because the price already embeds the Bull; I and T Weak"
+    ]
+   ],
+   "note": "Context only; none of it moves a verb. Source: [StockAnalysis](https://stockanalysis.com/stocks/rivn/statistics/), [MarketBeat](https://www.marketbeat.com/instant-alerts/price-rivian-automotive-nasdaq-rivn-stock-falls-46-heres-why-2026-10-16/). Built with Claude."
+  }
+ },
+ "charts": {
+  "one_year": {
+   "type": "line",
+   "file": "series/one_year.json",
+   "baseline": 100,
+   "yTicks": [
+    0,
+    25,
+    50,
+    75,
+    100,
+    125
+   ],
+   "tableEvery": 9,
+   "names": {
+    "RIVN": "Rivian"
+   },
+   "aria": "Total return index from October 31, 2025 = 100 for Rivian, Tesla, Lucid and the S&P 500",
+   "note": "Total return, weekly, October 31, 2025 = 100, through October 30, 2026. Source: Yahoo Finance adjusted closes. Built with Claude."
+  },
+  "revenue_mix": {
+   "type": "bar100",
+   "keys": [
+    "Automotive",
+    "Software and services"
+   ],
+   "unit": "$M",
+   "valueLabel": "Revenue",
+   "prefix": "$",
+   "suffix": "M",
+   "rows": [
+    {
+     "label": "Q3 2025",
+     "values": [
+      1142,
+      416
+     ]
+    },
+    {
+     "label": "Q4 2025",
+     "values": [
+      839,
+      447
+     ]
+    },
+    {
+     "label": "Q1 2026",
+     "values": [
+      908,
+      473
+     ]
+    },
+    {
+     "label": "Q2 2026",
+     "values": [
+      1143,
+      515
+     ]
+    },
+    {
+     "label": "Q3 2026",
+     "values": [
+      1550,
+      605
+     ]
+    }
+   ],
+   "aria": "Share of revenue, automotive and software and services, Q3 2025 to Q3 2026",
+   "note": "Share of revenue. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/1874178/000187417826000065/ex-9913q26rivianearningspr.htm). Built with Claude."
+  }
+ },
+ "return_math": {
+  "price_implied": "At 11% a year the stock must reach about $20.5 by 2031 (12.16 × 1.11^5), which needs the Bull (≈$18B of revenue at a 9% EBIT margin). Even with no Bear at all, the Bull-and-Base mix is worth $11.65.",
+  "epv": "n/m: earnings power is negative. Book value is ≈$3.9 a share (equity $5.7B ÷ 1.46B), so about 70% of the price pays for growth. The Bear sits below book because it is a dilution case.",
+  "base_rate": "Revenue of $7.7B puts Rivian in the $7–12B bucket, where 3.6% of companies grew sales at least 20% a year in real terms for five years and 7.6% at least 15% ([`compounding.md`](../../frameworks/compounding.md)). The Bull's ≈18.5% nominal (about 16% real) is plausible but rare; the Base's ≈10% nominal (about 7.5% real) is probable, with Normal's capacity already built. Tiers: Bull plausible, Base probable, Bear probable.",
+  "terminal_growth": "n/m on EPS. On EBIT, the Bull's 25× and the Base's ≈27.5× imply perpetual growth of about 6.7% and 7.2% at an 11% discount rate, above the 5.0% Treasury. Both still grow double digits at year five, so the multiple carries runway that the growth levers have to deliver.",
+  "year_ten": "Still growing at year ten in the Base (Georgia phase one, R3), but thin margins mean the terminal multiple, not the earnings, does the work.",
+  "rr_note": " The ratio is near 1:1 and the downside is dilution, not just a lower multiple: the Bear sits 84% below spot.",
+  "note": "Computed rows come from model.json; terminal values are equity value per share set outside the engine (Bull EV 25× EBIT, Base EV 1.1× sales, Bear a dilution case), so EPS-based diagnostics are not defined. EPV, base rate and year ten are the author's. Built with Claude."
+ },
+ "sources": [
+  {
+   "label": "Q3 2026 release (8-K Ex. 99.1, Oct 29)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1874178/000187417826000065/ex-9913q26rivianearningspr.htm"
+  },
+  {
+   "label": "Q3 2026 release extract",
+   "url": "../../../raw/RIVN/press-releases/2026-10-29_Q3-2026_earnings.txt"
+  },
+  {
+   "label": "Q3 2026 call transcript, Q&A (Motley Fool)",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/10/30/rivian-rivn-q3-2026-earnings-call-transcript/"
+  },
+  {
+   "label": "Q3 2026 call notes",
+   "url": "../../../raw/RIVN/transcripts/2026-10-29_Q3-2026_call-notes.txt"
+  },
+  {
+   "label": "MarketBeat summary of the Q3 call",
+   "url": "https://www.marketbeat.com/instant-alerts/transcript-what-rivian-automotive-rivn-said-on-its-q3-earnings-call-2026-10-29/"
+  },
+  {
+   "label": "Q3 2026 deliveries release (Oct 2)",
+   "url": "../../../raw/RIVN/press-releases/2026-10-02_Q3-2026_production-deliveries.txt"
+  },
+  {
+   "label": "Q2 2026 results and 10-Q excerpts",
+   "url": "../../../raw/RIVN/filings/2026-07-30_10-Q_Q2-2026_excerpts.txt"
+  },
+  {
+   "label": "Q2 2026 presentation",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001874178/000187417826000053/ex-9922q26rivianearnings.htm"
+  },
+  {
+   "label": "Q2 2026 10-Q",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001874178/000187417826000054/rivn-20260630.htm"
+  },
+  {
+   "label": "CFO transition 8-K (Aug 27)",
+   "url": "../../../raw/RIVN/filings/2026-08-27_8-K_CFO-transition.txt"
+  },
+  {
+   "label": "VW term-loan 8-K (Oct 7)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1874178/000187417826000061/rivn-20261007.htm"
+  },
+  {
+   "label": "Insiders and short interest notes",
+   "url": "../../../raw/RIVN/filings/2026-10-18_insiders-and-short-interest.txt"
+  },
+  {
+   "label": "Morgan Stanley Laguna notes (Sep 15)",
+   "url": "../../../raw/RIVN/appearances/2026-09-15_morgan-stanley-laguna_scaringe.txt"
+  },
+  {
+   "label": "SEC XBRL company facts",
+   "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001874178.json"
+  },
+  {
+   "label": "CFO Dive: 2027 target withdrawn",
+   "url": "https://www.cfodive.com/news/rivian-quietly-walks-back-2027-profitability-targets-ev/815354/"
+  },
+  {
+   "label": "TechCrunch: founder award",
+   "url": "https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/"
+  },
+  {
+   "label": "StockAnalysis statistics",
+   "url": "https://stockanalysis.com/stocks/rivn/statistics/"
+  },
+  {
+   "label": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/RIVN/"
+  },
+  {
+   "label": "OpenInsider",
+   "url": "http://openinsider.com/RIVN"
+  },
+  {
+   "label": "Source log and gaps",
+   "url": "../../../raw/RIVN/SOURCES.md"
+  }
+ ],
+ "vars": {}
+}

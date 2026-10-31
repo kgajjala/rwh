@@ -36,11 +36,11 @@
 <text x="570.4" y="140.0" text-anchor="middle" fill="#ffffff" font-weight="600">19%</text>
 <rect x="633.4" y="124" width="114.6" height="24" fill="#1baf7a"/>
 <text x="690.7" y="140.0" text-anchor="middle" fill="#1a1a19" font-weight="600">18%</text>
-<text x="86" y="182.0" text-anchor="end" fill="#6f6e69">9M FY2026</text>
-<rect x="96.0" y="166" width="391.9" height="24" fill="#2a78d6"/>
-<text x="291.9" y="182.0" text-anchor="middle" fill="#ffffff" font-weight="600">60%</text>
-<rect x="489.9" y="166" width="141.6" height="24" fill="#eb6834"/>
-<text x="560.6" y="182.0" text-anchor="middle" fill="#ffffff" font-weight="600">22%</text>
-<rect x="633.4" y="166" width="114.6" height="24" fill="#1baf7a"/>
-<text x="690.7" y="182.0" text-anchor="middle" fill="#1a1a19" font-weight="600">18%</text>
+<text x="86" y="182.0" text-anchor="end" fill="#6f6e69">FY2026</text>
+<rect x="96.0" y="166" width="396.8" height="24" fill="#2a78d6"/>
+<text x="294.4" y="182.0" text-anchor="middle" fill="#ffffff" font-weight="600">61%</text>
+<rect x="494.8" y="166" width="135.2" height="24" fill="#eb6834"/>
+<text x="562.4" y="182.0" text-anchor="middle" fill="#ffffff" font-weight="600">21%</text>
+<rect x="632.0" y="166" width="116.0" height="24" fill="#1baf7a"/>
+<text x="690.0" y="182.0" text-anchor="middle" fill="#1a1a19" font-weight="600">18%</text>
 </svg>

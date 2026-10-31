@@ -1,0 +1,20 @@
+EXTRACT (labelled, transcribed from the page) of Starbucks Q4 and FY2026 earnings release, 8-K Exhibit 99.1, October 29, 2026
+Source: https://www.sec.gov/Archives/edgar/data/829224/000082922426000154/sbux-09272026xearningsrele.htm (read in the built-in browser 2026-10-31)
+
+Q4 FY2026 (13 weeks ended Sep 27, 2026) vs Q4 FY2025
+- Global comparable coffeehouse sales +7.2% (ticket +5.2%, transactions +1.8%). North America +7.9% (ticket +5.0%, transactions +2.7%); U.S. +7.7% (ticket +5.2%, transactions +2.4%); International +0.9% (ticket +3.7%, transactions -2.8%).
+- Net revenues $9,141.2M (-4.5%; China moved to a licensed JV in Q3). Net new coffeehouses 303; 41,607 total (32% company-operated, 68% licensed); U.S. 16,781; ~250 North America company-operated stores closed in September.
+- GAAP operating income $991.8M, margin 10.8% (+790 bps); non-GAAP operating margin 14.0% (+450-460 bps). GAAP EPS $0.59 (vs $0.12); non-GAAP EPS $0.80 (+54%). Tax rate 27.1% GAAP, 24.7% non-GAAP. Diluted shares 1,144.6M.
+- North America: revenue $7,328.4M (+6%), operating income $898.4M, margin 12.3% (4.5%); restructuring $270.2M. International: revenue $1,305.8M (-37%), operating income $256.9M, margin 19.7%. Channel Development: revenue $494.4M, operating income $264.3M, margin 53.5%.
+- Dividend $0.63 a quarter (66 consecutive quarters), payable Nov 27, 2026; CFO: "plans to resume share repurchases in fiscal 2027".
+
+FY2026 (52 weeks)
+- Net revenues $37,910.6M (+2%). Global comps +6.2% (transactions +3.2%, ticket +3.0%); North America +6.6%; U.S. +6.5% (transactions +3.4%).
+- GAAP operating income $3,691.1M (9.7%, +180 bps); non-GAAP operating margin 11.9% (+200 bps). Gain on China divestiture $536.3M. GAAP EPS $2.21 (+36%); non-GAAP EPS $2.72 (+28%) vs guide of >11.0% margin and $2.55-2.65. Tax rate 34.2% GAAP, 24.8% non-GAAP. Diluted shares 1,143.4M. Dividends declared $2.49.
+- North America operating income $3,454.2M (12.0% vs 11.5%); International $1,191.1M (17.7%); Channel Development $1,016.2M (46.8%).
+- Cash flow: operating $4,988.4M; capex $1,263.6M (FCF ≈ $3.72B); SBC $368.6M; dividends paid $2,824.7M; long-term debt repaid $2,815.9M; divestiture proceeds $2,544.2M. No buybacks.
+- Balance sheet Sep 27, 2026: cash $3,679.9M; short- and long-term investments $493.8M; current debt $1,499.0M + long-term debt $11,777.9M = $13.28B (from $16.07B); operating lease liabilities $9.14B; total shareholders' deficit $(7,661.8)M; shares outstanding 1,140.1M. Equity investments $1,784.1M (466.2 a year earlier; includes the retained China JV stake).
+
+FISCAL 2027 GUIDANCE (53-week year; comps vs 52-week FY2026)
+- Net revenues down ~1% (incl. ~$700M from the 53rd week; China transition). North America comparable sales ~+4.0%. Non-GAAP operating margin 13.5%-14.0%. Non-GAAP EPS $3.15-3.25 (incl. slightly more than ten cents from the 53rd week). ~1,200 net new coffeehouses globally, led by International.
+- Quotes: Brian Niccol: "Back to Starbucks started as our turnaround plan. Now, it's our growth plan." Cathy Smith: "plans to resume share repurchases in fiscal 2027".

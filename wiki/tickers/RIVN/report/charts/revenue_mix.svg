@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 258" width="760" height="258" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">
+<rect x="96" y="10" width="12" height="12" rx="3" fill="#2a78d6"/>
+<text x="114" y="20" fill="#6f6e69">Automotive</text>
+<rect x="198.0" y="10" width="12" height="12" rx="3" fill="#eb6834"/>
+<text x="216.0" y="20" fill="#6f6e69">Software and services</text>
+<line x1="96.0" x2="96.0" y1="36" y2="232" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="96.0" y="250" text-anchor="start" fill="#6f6e69">0%</text>
+<line x1="259.0" x2="259.0" y1="36" y2="232" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="259.0" y="250" text-anchor="middle" fill="#6f6e69">25%</text>
+<line x1="422.0" x2="422.0" y1="36" y2="232" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="422.0" y="250" text-anchor="middle" fill="#6f6e69">50%</text>
+<line x1="585.0" x2="585.0" y1="36" y2="232" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="585.0" y="250" text-anchor="middle" fill="#6f6e69">75%</text>
+<line x1="748.0" x2="748.0" y1="36" y2="232" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="748.0" y="250" text-anchor="end" fill="#6f6e69">100%</text>
+<text x="86" y="56.0" text-anchor="end" fill="#6f6e69">Q3 2025</text>
+<rect x="96.0" y="40" width="476.9" height="24" fill="#2a78d6"/>
+<text x="334.5" y="56.0" text-anchor="middle" fill="#ffffff" font-weight="600">73%</text>
+<rect x="574.9" y="40" width="173.1" height="24" fill="#eb6834"/>
+<text x="661.5" y="56.0" text-anchor="middle" fill="#ffffff" font-weight="600">27%</text>
+<text x="86" y="98.0" text-anchor="end" fill="#6f6e69">Q4 2025</text>
+<rect x="96.0" y="82" width="424.4" height="24" fill="#2a78d6"/>
+<text x="308.2" y="98.0" text-anchor="middle" fill="#ffffff" font-weight="600">65%</text>
+<rect x="522.4" y="82" width="225.6" height="24" fill="#eb6834"/>
+<text x="635.2" y="98.0" text-anchor="middle" fill="#ffffff" font-weight="600">35%</text>
+<text x="86" y="140.0" text-anchor="end" fill="#6f6e69">Q1 2026</text>
+<rect x="96.0" y="124" width="427.7" height="24" fill="#2a78d6"/>
+<text x="309.8" y="140.0" text-anchor="middle" fill="#ffffff" font-weight="600">66%</text>
+<rect x="525.7" y="124" width="222.3" height="24" fill="#eb6834"/>
+<text x="636.8" y="140.0" text-anchor="middle" fill="#ffffff" font-weight="600">34%</text>
+<text x="86" y="182.0" text-anchor="end" fill="#6f6e69">Q2 2026</text>
+<rect x="96.0" y="166" width="448.5" height="24" fill="#2a78d6"/>
+<text x="320.2" y="182.0" text-anchor="middle" fill="#ffffff" font-weight="600">69%</text>
+<rect x="546.5" y="166" width="201.5" height="24" fill="#eb6834"/>
+<text x="647.2" y="182.0" text-anchor="middle" fill="#ffffff" font-weight="600">31%</text>
+<text x="86" y="224.0" text-anchor="end" fill="#6f6e69">Q3 2026</text>
+<rect x="96.0" y="208" width="468.0" height="24" fill="#2a78d6"/>
+<text x="330.0" y="224.0" text-anchor="middle" fill="#ffffff" font-weight="600">72%</text>
+<rect x="566.0" y="208" width="182.0" height="24" fill="#eb6834"/>
+<text x="657.0" y="224.0" text-anchor="middle" fill="#ffffff" font-weight="600">28%</text>
+</svg>

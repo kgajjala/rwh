@@ -1,0 +1,27 @@
+EXTRACT (labelled, transcribed from the page) of Chipotle Q3 2026 earnings release, 8-K Exhibit 99.1, October 28, 2026
+Source: https://www.sec.gov/Archives/edgar/data/1058090/000105809026000103/cmg-20261028xex991.htm (read in the built-in browser 2026-10-31)
+
+HEADLINES (Q3 2026 vs Q3 2025)
+- Total revenue $3,293.2M (+9.6%); comparable restaurant sales +2.1% (check +1.3%, transactions +0.8%); digital 38.8% of food and beverage revenue (36.7%).
+- Operating margin 13.7% (15.9%); restaurant-level operating margin 23.3% (24.5%); diluted EPS $0.27 (-6.9% from $0.29); adjusted diluted EPS $0.27.
+- Opened 84 company-owned restaurants (53 with a Chipotlane) and 5 partner-operated; entry into three new markets this quarter (CEO).
+- Costs as % of revenue: food, beverage and packaging 29.5% (30.0%); labor 25.7% (25.2%); occupancy 5.4% (5.3%); other operating 16.0% (15.0%); G&A 5.6% (4.9%), $185.2M vs $146.7M (stock comp, bonuses, outside services); D&A 3.1%; pre-opening 0.5%; impairment and closure 0.4% (0.2%).
+- Interest and other income $5.2M (vs $19.8M). Tax rate 25.6% (23.1%). Net income $339.9M (vs $382.1M). Diluted shares 1,267.7M (1,339.5M).
+- Repurchased $110.0M at an average $34.05 in Q3; $1.6B authorization remaining at Sep 30.
+
+OUTLOOK
+- 2026: comparable restaurant sales growth in the low single digits (unchanged); 350-370 openings incl. 10-15 partner-operated; ~80% of new company-owned restaurants with a Chipotlane; underlying tax rate 24-26%.
+- 2027: 340-360 new company-owned openings in the U.S. and Canada; about 15-25 company-owned and partner-operated outside the U.S. and Canada.
+
+NINE MONTHS (2026 vs 2025)
+- Revenue $9,730.0M vs $8,942.1M; operating income $1,374.6M (14.1%) vs $1,515.5M (16.9%); net income $1,046.2M vs $1,204.8M; diluted EPS $0.82 vs $0.89.
+- Operating cash flow $1,922.1M vs $1,688.1M; capex $640.6M vs $468.9M; repurchases $1,464.9M vs $1,683.7M; tax withholding on SBC $56.7M. SBC expense $86.4M.
+
+BALANCE SHEET Sep 30, 2026 (Dec 31, 2025)
+- Cash $634.2M (350.5); investments current $268.4M (698.6); long-term investments $100.4M (197.1); total cash and investments about $1.003B. No debt. Operating lease liabilities $5.60B. Equity $2,455.1M. Shares issued 1,265.0M (1,304.4M).
+
+RESTAURANT DATA (Sep 30, 2026 / Jun 30 / Mar 31 / Dec 31, 2025 / Sep 30, 2025)
+- Company-owned restaurants 4,267 / 4,186 / 4,090 / 4,042 / 3,916; openings 84 / 100 / 49 / 132 / 84.
+- Average restaurant sales (trailing 12 months, $000) 3,106 / 3,102 / 3,094 / 3,104 / 3,132.
+- Comparable sales 2.1% / 2.2% / 0.5% / (2.5%) / 0.3%.
+- Partner-operated restaurants 20 / 15 / 14 / 14 / 7.

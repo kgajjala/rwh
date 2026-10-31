@@ -1,0 +1,131 @@
+{
+ "spot": 12.16,
+ "dps": 0.0,
+ "discount_rate": 0.11,
+ "hurdle": 0.13,
+ "risk_free": 0.05,
+ "last_year": 2031,
+ "fy_prefix": "FY",
+ "eps_label": "GAAP EPS",
+ "segment_names": {
+  "AUTO": "Automotive",
+  "SOFT": "Software and services"
+ },
+ "actual": {
+  "year": 2025,
+  "segments": {
+   "AUTO": {
+    "rev": 3.83,
+    "op": -0.432
+   },
+   "SOFT": {
+    "rev": 1.557,
+    "op": 0.576
+   }
+  },
+  "corp": -3.729,
+  "ni": -3.646,
+  "shares": 1.186,
+  "eps": -3.07
+ },
+ "base": {
+  "year": 2026,
+  "shares": 1.46,
+  "corp_pct": 0.539,
+  "other": -0.08,
+  "tax": 0.0,
+  "segments": {
+   "AUTO": {
+    "rev": 5.5,
+    "margin": -0.04
+   },
+   "SOFT": {
+    "rev": 2.2,
+    "margin": 0.415
+   }
+  },
+  "sbc_pct": 0.11,
+  "eps_excludes_sbc": false,
+  "oe_conversion": 1.0
+ },
+ "other_growth": 0.0,
+ "cases": {
+  "Bull": {
+   "role": "bull",
+   "prob": 0.25,
+   "pe": 1,
+   "value_override": 22.0,
+   "corp_pct": 0.176,
+   "tax": 0.0,
+   "dilution": 0.048,
+   "buyback": 0.0,
+   "sbc_pct": 0.05,
+   "segments": {
+    "AUTO": {
+     "g": 0.17,
+     "m": 0.14
+    },
+    "SOFT": {
+     "g": 0.24,
+     "m": 0.5
+    }
+   },
+   "tier": "Plausible",
+   "story": "Two plants near full rate: 2031 revenue \u2248$18B (\u224818.5%/yr), EBIT 9% \u2248$1.6B at 25\u00d7 \u2248$41B of equity on \u22481.85B shares; the converts convert."
+  },
+  "Base": {
+   "role": "base",
+   "prob": 0.45,
+   "pe": 1,
+   "value_override": 5.9,
+   "corp_pct": 0.165,
+   "tax": 0.0,
+   "dilution": 0.06,
+   "buyback": 0.0,
+   "sbc_pct": 0.06,
+   "segments": {
+    "AUTO": {
+     "g": 0.085,
+     "m": 0.08
+    },
+    "SOFT": {
+     "g": 0.14,
+     "m": 0.45
+    }
+   },
+   "tier": "Probable",
+   "story": "R2 fills Normal and Georgia starts in late 2028: 2031 revenue \u2248$12.5B (\u224810%/yr), EBIT 4%, equity value 1.1\u00d7 sales less \u2248$2.3B net debt on \u22481.95B shares."
+  },
+  "Bear": {
+   "role": "bear",
+   "prob": 0.3,
+   "pe": 1,
+   "value_override": 2.0,
+   "corp_pct": 0.2,
+   "tax": 0.0,
+   "dilution": 0.105,
+   "buyback": 0.0,
+   "sbc_pct": 0.07,
+   "segments": {
+    "AUTO": {
+     "g": 0.03,
+     "m": 0.0
+    },
+    "SOFT": {
+     "g": 0.08,
+     "m": 0.38
+    }
+   },
+   "tier": "Probable",
+   "story": "R2 margin stalls in a shrinking EV market, the DOE draw slips and the company raises repeatedly below $10, or accepts a take-under: \u22482.4B shares."
+  }
+ },
+ "optionality": [
+  {
+   "name": "L4 robotaxi on Uber at scale plus a second platform-licensing deal",
+   "prob": 0.1,
+   "value": 15.0
+  }
+ ],
+ "diagnostics": {}
+}

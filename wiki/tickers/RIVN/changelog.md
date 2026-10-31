@@ -4,6 +4,31 @@
 
 ---
 
+## [2026-10-31] — Q3 2026 earnings (Oct 29) · migrated v6.0 → v7.0
+
+**Trigger**: Q3 2026 results and call, Oct 29 after the close. Price $12.42 (Oct 16) → $11.45 (Oct 29, a new 52-week low) → **$12.16** (Oct 30, +6.2% on the print). A material event on a v6 page, so the update is a full v7 deep dive ("The Car Works. Who Pays for the Loss?").
+**Sources**: [Q3 release](../../../raw/RIVN/press-releases/2026-10-29_Q3-2026_earnings.txt) ([SEC](https://www.sec.gov/Archives/edgar/data/1874178/000187417826000065/ex-9913q26rivianearningspr.htm)), [call notes](../../../raw/RIVN/transcripts/2026-10-29_Q3-2026_call-notes.txt) ([Motley Fool, Q&A only](https://www.fool.com/earnings/call-transcripts/2026/10/30/rivian-rivn-q3-2026-earnings-call-transcript/); [MarketBeat summary](https://www.marketbeat.com/instant-alerts/transcript-what-rivian-automotive-rivn-said-on-its-q3-earnings-call-2026-10-29/)), [Yahoo](https://finance.yahoo.com/quote/RIVN/) and [StockAnalysis](https://stockanalysis.com/stocks/rivn/statistics/) price check, [OpenInsider](http://openinsider.com/RIVN). Gaps in [SOURCES.md](../../../raw/RIVN/SOURCES.md): prepared remarks, the Q3 10-Q, post-print analyst targets.
+
+### Scorecard
+- R2 turns automotive gross profit positive — 🟡 Pending — Q3 automotive gross profit excluding credits $(161)M; management guides an exit-rate positive in Q4, not the full quarter; expected to fail as written in February
+- The ramp is volume, not a launch spike — 🟡 Pending — Q3 deliveries 19,248; the guide of 67–70K implies Q4 of 25.2–28.2K, above the 23,193 bar
+- Funding stays strategic, not reflexive — 🟡 Pending — no offering since July; the stock is 1.3% above the $12 line
+
+### Changed
+- Q3: revenue $2.155B (+38%), deliveries 19,248 (+46%), R2 the best-selling Rivian; gross profit $176M (software and services $256M, automotive $(80)M incl. $81M credits and a tariff refund); adjusted EBITDA $(435)M; free cash flow $(1,124)M.
+- Guide: deliveries 67–70K (from 65–70K), adjusted EBITDA $(1.85)B to $(1.75)B (+$100M at the midpoint), capex $1.40–1.50B (−$300M, timing).
+- Shares outstanding 1,240M → 1,460M (+17.7%) since December; liquidity $7.1B pro forma for the VW loan; CFO McDonough left Oct 30, Derek Mulvey interim.
+- Page rebuilt as v7: new segment model (automotive; software and services), per-vehicle economics, share-count and funding debate. Build tool now prints cents for stocks under $20.
+
+### Status
+- **Thesis**: Unchanged (volume and software better, cash and dilution worse)
+- **PW EV**: $10.30 → $10.26 · **PW return/yr**: −3.7% → −3.4% (hurdle 13%) · **R/R**: 0.9 → 1.0 · **BAIT**: Single (B) unchanged
+- **Verbs**: non-holder Watch (entry ≤$5.57) · holder Trim (unchanged)
+
+**Next trigger**: 📅 Dec 9 Autonomy and AI Day; Q3 10-Q; Q4 deliveries early January 2027 and the Q4 print in February.
+
+---
+
 ## [2026-10-19] — Q2 2026 Earnings, Q3 Deliveries, July Equity Offering, CFO Departure; migrated to v6.0
 
 **Trigger**: Window May 18 → Oct 19. Q2 deliveries and guide raise (Jul 2), the $15.50 offering (Jul 7), Q2 results (Jul 30), the CFO resignation (Aug 27), Q3 deliveries without a raise (Oct 2), the $1.0B VW loan (Oct 7), and a new 52-week low of $12.42 (Oct 16).

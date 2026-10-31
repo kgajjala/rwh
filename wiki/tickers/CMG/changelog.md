@@ -4,6 +4,30 @@ Append-only. Most recent entry first.
 
 ---
 
+## [2026-10-31] — Q3 2026 earnings (Oct 28) · stock +16% in a week
+
+**Trigger**: Q3 2026 results and call, Oct 28 after the close. Price $27.52 (Oct 23) → **$31.89** (Oct 30 close; +8.9% on Oct 29).
+**Sources**: [Q3 release](../../../raw/CMG/press-releases/2026-10-28_Q3-2026-results.txt) ([SEC](https://www.sec.gov/Archives/edgar/data/1058090/000105809026000103/cmg-20261028xex991.htm)), [call notes](../../../raw/CMG/transcripts/2026-10-28_Q3-2026_call-notes.txt) ([Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/10/29/chipotle-cmg-q3-2026-earnings-call-transcript/)), [Yahoo](https://finance.yahoo.com/quote/CMG/) and [StockAnalysis](https://stockanalysis.com/stocks/cmg/statistics/) price check, [OpenInsider](http://openinsider.com/CMG). Gaps: the Q3 10-Q (filed Oct 28) was not read; no second call transcript stored.
+
+### Scorecard
+- Traffic recovery is a turn, not a compare — 🟡 Pending — Q3 leg passed (transactions +0.8% against −0.8%, comps +2.1%); Q4 leg needs +1.5% and the guide implies about +0.5%
+- Pricing catches up with beef — 🔴 Fail — restaurant margin 23.3% against the 24.0% bar; Q4 guided just under 22%; Base margin capped at 24%
+- New units are not eating the old ones — 🟡 Pending — AUV $3.106M, above $3.10M; resolves in the 10-K
+
+### Changed
+- Q3: revenue +9.6%, adjusted EPS $0.27 (−7%), buyback only $110M at $34.05 (blackout); cash and investments back to $1.0B.
+- Base restaurant margin 25% → 24%; base year rebased to 23.4% margin and $1.06 EPS; spot $27.50 → $31.89.
+- Three tests replaced or narrowed (Q4 traffic leg; Q4 and FY2027 margin; AUV unchanged).
+
+### Status
+- **Thesis**: Unchanged on the business; weaker on margin
+- **PW EV**: $43 → $42 · **PW return/yr**: 9.5% → 5.6% (hurdle 13%) · **R/R**: 4.5 → 2.7 · **BAIT**: Single (B) unchanged
+- **Verbs**: non-holder Watch (entry ≤$23) · holder Hold (unchanged)
+
+**Next trigger**: 📅 early February 2027 (Q4, FY2027 guide, 10-K); Smoked Brisket launch in early November.
+
+---
+
 ## [2026-10-23] — Q2 logged; −26% in five weeks · migrated v3.0 → v7.0
 
 **Trigger**: unlogged Q2 2026 print (Jul 29) and a 26% fall from $37.03 (Sep 14) to $27.50, a three-year low; v7 migration on those material events.

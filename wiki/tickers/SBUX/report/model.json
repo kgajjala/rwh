@@ -1,6 +1,6 @@
 {
- "spot": 97.87,
- "dps": 2.48,
+ "spot": 103.67,
+ "dps": 2.52,
  "discount_rate": 0.09,
  "hurdle": 0.13,
  "last_year": 2031,
@@ -15,20 +15,20 @@
   "year": 2026,
   "shares": 1.14,
   "corp_pct": 0.04,
-  "other": -0.47,
-  "tax": 0.24,
+  "other": -0.34,
+  "tax": 0.248,
   "segments": {
    "NA": {
     "rev": 28.9,
-    "margin": 0.126
+    "margin": 0.132
    },
    "INTL": {
-    "rev": 6.75,
-    "margin": 0.18
+    "rev": 5.2,
+    "margin": 0.2
    },
    "CD": {
-    "rev": 2.25,
-    "margin": 0.45
+    "rev": 2.17,
+    "margin": 0.47
    }
   },
   "sbc_pct": 0.009,
@@ -40,71 +40,74 @@
   "Bull": {
    "role": "bull",
    "prob": 0.25,
-   "pe": 28,
-   "corp_pct": 0.035,
-   "share_change": -0.003,
+   "pe": 26,
+   "corp_pct": 0.036,
+   "share_change": -0.012,
    "segments": {
     "NA": {
      "g": 0.06,
-     "m": 0.178
+     "m": 0.185
     },
     "INTL": {
      "g": 0.08,
-     "m": 0.215
+     "m": 0.22
     },
     "CD": {
-     "g": 0.05,
-     "m": 0.46
+     "g": 0.04,
+     "m": 0.47
     }
    },
    "tier": "Plausible",
-   "story": "FY2028 at the top of the target ($4.00), then ~11%/yr on international royalties and North America margin above 17%; 28\u00d7, capped so implied growth stays under the 10-year Treasury."
+   "story": "FY2028 at the top of the framework, then ~11%/yr on international royalties and North America margin near 18.5%; 26\u00d7, capped so implied growth stays under the 10-year Treasury.",
+   "tax": 0.248
   },
   "Base": {
    "role": "base",
    "prob": 0.5,
    "pe": 26,
-   "corp_pct": 0.036,
-   "share_change": 0.0,
+   "corp_pct": 0.039,
+   "share_change": -0.006,
    "segments": {
     "NA": {
      "g": 0.05,
-     "m": 0.161
+     "m": 0.175
     },
     "INTL": {
      "g": 0.065,
-     "m": 0.2
+     "m": 0.21
     },
     "CD": {
-     "g": 0.04,
-     "m": 0.45
+     "g": 0.025,
+     "m": 0.46
     }
    },
    "tier": "Probable",
-   "story": "FY2028 near the low end of the target, then ~9%/yr as North America margin rebuilds to ~16%; 26\u00d7, a normal mature-restaurant multiple."
+   "story": "FY2027 at the guide ($3.15\u20133.25 including the 53rd week), then ~10%/yr as North America margin rebuilds toward 17.5% and licensing grows; 26\u00d7, a normal mature-restaurant multiple.",
+   "tax": 0.248
   },
   "Bear": {
    "role": "bear",
    "prob": 0.25,
    "pe": 20,
-   "corp_pct": 0.039,
-   "share_change": 0.0,
+   "corp_pct": 0.042,
+   "share_change": -0.002,
    "segments": {
     "NA": {
      "g": 0.035,
-     "m": 0.1415
+     "m": 0.145
     },
     "INTL": {
      "g": 0.045,
-     "m": 0.175
+     "m": 0.19
     },
     "CD": {
-     "g": 0.02,
-     "m": 0.43
+     "g": 0.0,
+     "m": 0.44
     }
    },
    "tier": "Probable",
-   "story": "Margin stalls near 12% once refunds and uplift costs net out; ~5%/yr growth; 20\u00d7."
+   "story": "Traffic fades as the Back to Starbucks labor model's easy compares end; North America margin stalls near 14.5% and growth slows to ~4%; 20\u00d7.",
+   "tax": 0.248
   }
  },
  "diagnostics": {
@@ -127,5 +130,5 @@
    ]
   }
  },
- "risk_free": 0.052
+ "risk_free": 0.05
 }

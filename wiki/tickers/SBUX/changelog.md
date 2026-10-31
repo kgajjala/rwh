@@ -4,6 +4,32 @@
 
 ---
 
+## [2026-10-31] — Q4 FY2026 earnings (Oct 29) and the FY2027 guide
+
+**Trigger**: Q4 and full-year FY2026 results, Oct 29 after the close. Price $97.87 (Oct 19) → $105.51 (Oct 29) → **$103.67** (Oct 30, −1.7% on the print).
+**Sources**: [Q4 release](../../../raw/SBUX/press-releases/2026-10-29_Q4-FY2026-results.txt) ([SEC](https://www.sec.gov/Archives/edgar/data/829224/000082922426000154/sbux-09272026xearningsrele.htm)), [call notes](../../../raw/SBUX/transcripts/2026-10-29_Q4-FY26_call-notes.txt) ([Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/10/30/starbucks-sbux-q4-2026-earnings-call-transcript/)), [Yahoo](https://finance.yahoo.com/quote/SBUX/) and [StockAnalysis](https://stockanalysis.com/stocks/sbux/statistics/) price check, [OpenInsider](http://openinsider.com/SBUX). Gaps: the FY2026 10-K (mid-November) and a second call transcript were not read; post-print analyst target changes were not retrieved.
+
+### Scorecard
+- Margin walk holds without the refund — ✅ Pass — Q4 non-GAAP margin 14.0% against 13%; FY2026 11.9%; FY2027 guide 13.5–14.0%
+- Traffic survives the toughest compare — 🟡 Pending — Q4 leg passed (+7.7% comps, +2.4% transactions); Q1 FY2027 leg Jan 27
+- Owner earnings cover the dividend — 🟡 Pending — FCF $3.72B, owner earnings ≈$3.5B `[Estimate]` vs $2.82B dividends; 10-K and uplift disclosure owed
+
+### Changed
+- Base year rebuilt on FY2026 actuals ($2.72) with China as a full-year licensed business; Base FY2028 EPS $3.28 → $3.40, FY2031 $4.53 → $4.71; Bull multiple 28× → 26× (10-year Treasury 5.0%).
+- FY2027 guide: EPS $3.15–3.25 (includes >$0.10 from the 53rd week), margin 13.5–14.0%, North America comps ~4%, ~$1B of repurchases, 90–100 net new North America coffeehouses.
+- Net debt incl. leases ≈$22B → ≈$18B after the China proceeds repaid $2.8B of debt.
+- Incentive table: TSR since Sep 9, 2024 is +12% vs +35% for the index (the prior page showed 44% for the index, a miscomputation).
+- Replacement tests: guide reaffirmed with Q1 comps ≥+4%; Q1 transactions; owner earnings vs dividend and buyback.
+
+### Status
+- **Thesis**: Strengthened on the business; price already assumes it
+- **PW EV**: $114.5 → $114 · **PW return/yr**: 5.7% → 4.4% (hurdle 13%) · **R/R**: 1.9 → 1.1 · **BAIT**: Single (A) unchanged
+- **Verbs**: non-holder Watch (entry ≤$69) · holder Hold (unchanged)
+
+**Next trigger**: 📅 FY2026 10-K mid-November; Q1 FY2027 call Jan 27, 2027 (tentative).
+
+---
+
 ## [2026-10-20] — FT reports Chipotle bid exploration (denied) · price +3.7% · deep dive published
 
 **Trigger**: [FT report](https://www.cnbc.com/amp/2026/10/12/starbucks-denies-chipotle-takeover.html) on Oct 8 that Starbucks worked with advisers on a possible Chipotle takeover proposal; Starbucks said on Oct 12 it is "not buying Chipotle." Price $94.42 → $97.87.

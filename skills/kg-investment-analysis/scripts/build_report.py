@@ -46,11 +46,16 @@ def drate(x):
     v = x * 100
     return f"{v:.0f}%" if abs(v - round(v)) < 1e-9 else f"{v:.1f}%"
 def odds(x): return "n/a" if x is None else (">100%" if x > 1 else "<0%" if x < 0 else f"{x*100:.0f}%")
-def money(x, d=0): return f"${x:,.{d}f}"
+DEFAULT_D = 0   # whole dollars, or cents for a stock under $20 (set in build_vars)
+def money(x, d=None):
+    d = DEFAULT_D if d is None else d
+    return f"${x:,.{d}f}"
 
 def build_vars(data, mo):
+    global DEFAULT_D
     v = {}
     m = data["meta"]
+    DEFAULT_D = 2 if m["price"] < 20 else 0
     v["price"] = money(m["price"], 2); v["ticker"] = m["ticker"]; v["company"] = m["company"]
     if mo:
         v["yield"] = pct(mo["yield"]); s = mo.get("summary", {})

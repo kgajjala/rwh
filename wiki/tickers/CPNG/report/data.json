@@ -1,0 +1,1351 @@
+{
+ "meta": {
+  "ticker": "CPNG",
+  "company": "Coupang, Inc.",
+  "title": "Coupang: The Customers Came Back. Who Decides What They Pay For?",
+  "dek": "Revenue grew 11% in the quarter the fire, the fines and the margin all landed together. The stock is 53% off its high. What does $15 assume about the margin, and how much of it does Korea's regulator get to keep?",
+  "date": "2026-11-04",
+  "date_long": "November 4, 2026",
+  "status": "Active",
+  "price": 15.23,
+  "price_note": "Nov 3, 2026 regular close (pre-print), Yahoo chart API; the overnight session showed about $14.54",
+  "price_url": "https://finance.yahoo.com/quote/CPNG/",
+  "range52": [
+   13.35,
+   32.14
+  ],
+  "type": "Vertically integrated e-commerce: Korean 1P retail, WOW membership, logistics",
+  "stage": "Turnaround",
+  "cyclical": "No",
+  "competence": "Edge",
+  "compounder": false,
+  "terminal_label": "FY2031",
+  "accent": {
+   "light": "#b3382c",
+   "dark": "#f19a8f"
+  },
+  "html_name": "CPNG-deep-dive.html",
+  "report_path": "../CPNG.md"
+ },
+ "verdict": {
+  "sentence": "The customers are back and Q3 landed on guidance, but the cash, the Taiwan bill and the regulator all moved the wrong way, and at $15.23 the probability-weighted case pays [[pw_return]] a year against the 13% hurdle: Watch.",
+  "non_holder": {
+   "emoji": "🟡",
+   "verb": "Watch (entry ≤[[entry]])"
+  },
+  "holder": {
+   "emoji": "🟡",
+   "verb": "Hold"
+  },
+  "breaks_if": "The regulator reaches the operating model rather than the cash balance: a KFTC order that separates the Eats benefit from WOW or caps how Coupang shares coupon and price-match costs with suppliers removes the mechanism the mid-2027 margin recovery depends on.",
+  "multiple_label": "EV / FY25 adj EBITDA",
+  "multiple": "≈16× (0.65× sales)",
+  "bait": "Single (B)",
+  "moat": "Wide, stable; profit pool contested",
+  "next": "KFTC Eats/WOW decisions · late Feb (Q4)",
+  "price_implies": "between the Base and the Bull (≈$24.5 by 2031 for 10%/yr)"
+ },
+ "call": "Coupang printed the quarter it guided to: revenue of $9.96B, up 11% in constant currency against a guide of 8–9%, and an adjusted EBITDA margin of 1.2%, down 329 bps against a guide of 300–400. The customers are the good news. Korean WOW membership is at a record, the members who left have come back to their old spending, and Taiwan's WOW base doubled. The stock closed at $15.23 into the print, 53% below its high, and the PW return is [[pw_return]] a year, not the 13% a holder needs. The cash is why. Trailing free cash flow is $(409)M, the $750M revolver draw is repaid, but the company bought back $1.05B in nine months and net cash fell to $3.68B. The Developing Offerings loss guide went up again, and the October KFTC hearings on Eats and WOW put a remedy on the table that could split the membership bundle. Management says Q3 is the low point and Product Commerce margins return to pre-incident levels by mid-2027. I accept the date and price it in at an 8.5% terminal margin, half a point short. What the market has right is the multiple: ≈16× FY2025 EBITDA already prices recovery. What it has too little of is the order from Seoul. The verb is not probability-fragile; the number that settles it is the KFTC decision on WOW.",
+ "tests": [
+  {
+   "claim": "That the KFTC fight stays a fine.",
+   "test": "The KFTC decisions on the Eats merchant-terms case and the WOW tying case (hearings were held in October; fines of up to ₩360B were reported possible in Q4 2026, with the rest by H1 2027), plus the large-retail and dominance probes. A purely monetary sanction passes. A corrective order that separates the Eats benefit from WOW or caps cost-sharing with suppliers, or criminal charges against Coupang Corp., fails.",
+   "if_fail": "15 points Base → Bear (PW EV [[test1.pw_ev]], [[test1.pw_return]]/yr) → **Watch / Hold**, entry ≤[[test1.entry]], and the Bear becomes the working case for the margin.",
+   "shift": {
+    "from": "Base",
+    "to": "Bear",
+    "points": 0.15
+   }
+  },
+  {
+   "claim": "That margin returns with the volume.",
+   "test": "Product Commerce segment adjusted EBITDA margin of at least 8.0% in the Q2 2027 results (early August 2027), against 9.0% before the incident and 4.6% in Q3 2026. The interim check is the Q4 2026 consolidated margin inside the guided 1.7–2.7% in the late-February release.",
+   "if_fail": "10 points Base → Bear (PW EV [[test2.pw_ev]], [[test2.pw_return]]/yr) → **Watch / Hold**, entry ≤[[test2.entry]].",
+   "shift": {
+    "from": "Base",
+    "to": "Bear",
+    "points": 0.1
+   }
+  },
+  {
+   "claim": "That the buyback is paid for by the business.",
+   "test": "Net cash (cash less all borrowings, leases excluded) of at least $3.0B at the FY2026 10-K (February 2027) and at the Q1 2027 10-Q, with no revolver draw while trailing free cash flow is at or below zero. It was $3.68B on September 30, after the $750M revolver draw was repaid in September.",
+   "if_fail": "The Base buyback goes to zero and the Outsider grade drops from Outsider-leaning to Reinvestor (PW EV about $18.6, 4.1%/yr, entry about $10.1) → **Watch / Hold**."
+  }
+ ],
+ "updates": [
+  {
+   "date": "2026-11-04",
+   "title": "Q3: on guidance, off the cash, and a remedy on the table",
+   "file": "updates/2026-11-04.md",
+   "scorecard": [
+    {
+     "test": "KFTC fight stays a fine",
+     "result": "pending",
+     "evidence": "Hearings on the Eats and WOW cases were held in October; the 10-Q says outcomes can include separating the Eats benefit from WOW. PIPC approved six installments"
+    },
+    {
+     "test": "Margin returns with the volume (Q4 2026 PC margin ≥7%)",
+     "result": "pending",
+     "evidence": "Q3 PC margin was 4.6% and the CEO called it the low; the Q4 guide of +50–150 bps on a 1.2% consolidated margin makes ≥7% unlikely in February, so the test moves to Q2 2027"
+    },
+    {
+     "test": "Buyback paid for by the business",
+     "result": "pending",
+     "evidence": "Revolver repaid and short-term borrowings $988M vs $1,985M; but TTM FCF is $(409)M, so the FCF leg needs a +$0.63B Q4 and will not pass"
+    }
+   ]
+  }
+ ],
+ "tables": {
+  "quarters": {
+   "columns": [
+    "$ Million",
+    "Q3 2025",
+    "Q4 2025",
+    "Q1 2026",
+    "Q2 2026",
+    "Q3 2026"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "Total revenue",
+      "9,267",
+      "8,835",
+      "≈8,500",
+      "≈8,900",
+      "**9,962**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Growth, constant currency",
+     "+18%",
+     "+14%",
+     "+8%",
+     "+10%",
+     "**+11%**"
+    ],
+    [
+     "Product Commerce revenue",
+     "7,980",
+     "n/d",
+     "n/d",
+     "n/d",
+     "8,374"
+    ],
+    [
+     "Developing Offerings revenue",
+     "1,287",
+     "n/d",
+     "n/d",
+     "≈1,400",
+     "1,588"
+    ],
+    [
+     "Gross margin",
+     "29.4%",
+     "28.8%",
+     "27.0%",
+     "28.2%",
+     {
+      "v": "25.7% (26.7% ex fire)",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Product Commerce adj EBITDA margin",
+     "8.8%",
+     "7.7%",
+     "n/d",
+     "5.1%",
+     {
+      "v": "**4.6%**",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Developing Offerings adj EBITDA",
+     "(292)",
+     "n/d",
+     "n/d",
+     "(219)",
+     {
+      "v": "(269)",
+      "cls": "neg"
+     }
+    ],
+    {
+     "cells": [
+      "Adjusted EBITDA",
+      "413",
+      "267",
+      "29",
+      "163",
+      "**116**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Operating income (GAAP)",
+     "162",
+     "n/d",
+     "n/d",
+     "(556)",
+     {
+      "v": "(450)",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Net income to Coupang",
+     "95",
+     "(26)",
+     "(266)",
+     "(570)",
+     {
+      "v": "(501)",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Free cash flow",
+     "442",
+     "(283)",
+     "n/d",
+     "n/d",
+     {
+      "v": "(72)",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Share repurchases",
+     "—",
+     "n/d",
+     "391",
+     "459",
+     "201"
+    ]
+   ],
+   "note": "Q3 2025 gross margin and Q4 2025 free cash flow are `[Derived]` from the release and the FY2025 and nine-month totals. Q4 2025 and Q1/Q2 2026 figures are from the earlier releases cited in the Sources. Q2 2026 net loss includes the $410M PIPC fine; Q3 2026 includes $248M of fire costs excluded from the adjusted lines. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/0001834584/000183458426000084/cpng-09302026ex991.htm), [10-Q](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000086/cpng-20260930.htm). Built with Claude."
+  },
+  "drivers": {
+   "columns": [
+    "Per active customer",
+    "Q3 2025",
+    "Q3 2026",
+    "Change"
+   ],
+   "rows": [
+    [
+     "Product Commerce active customers",
+     "24.7M",
+     "**25.2M**",
+     "+2%"
+    ],
+    [
+     "Revenue per active customer, quarter",
+     "$323",
+     "**$332**",
+     "+3% (+6% constant currency)"
+    ],
+    [
+     "Segment adj EBITDA per customer, quarter `[Derived]`",
+     "$28.5",
+     {
+      "v": "**$15.3**",
+      "cls": "neg"
+     },
+     "−46%"
+    ],
+    [
+     "Segment adj EBITDA margin",
+     "8.8%",
+     {
+      "v": "4.6%",
+      "cls": "neg"
+     },
+     "−424 bps"
+    ],
+    [
+     "Gross margin ex fire",
+     "32.1%",
+     "29.5%",
+     "−260 bps"
+    ],
+    [
+     "WOW membership, Korea",
+     "—",
+     "**Record** (CEO)",
+     "count not disclosed"
+    ],
+    [
+     "WOW membership, Taiwan",
+     "—",
+     "+100% YoY, +14% QoQ (CEO)",
+     "Dawn Delivery reaches over half the population"
+    ],
+    [
+     "Developing Offerings revenue / adj EBITDA",
+     "$1,287M / $(292)M",
+     "**$1,588M / $(269)M**",
+     "+27% CC; FY loss guide raised"
+    ],
+    [
+     "Acquisition cost",
+     "n/d",
+     "n/d",
+     "Re-acquisition marketing elevated, tapering (CEO)"
+    ]
+   ],
+   "note": "Unit of value: the Product Commerce active customer. Segment EBITDA per customer is segment adjusted EBITDA ÷ active customers; it excludes depreciation and stock compensation. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/0001834584/000183458426000084/cpng-09302026ex991.htm), [call](https://www.investing.com/news/transcripts/earnings-call-transcript-coupang-q3-2026-revenue-beats-loss-widens-93CH-4996932). Built with Claude."
+  },
+  "unit": {
+   "columns": [
+    "Per active customer, per quarter",
+    "Q3 2025 actual",
+    "Q3 2026 actual",
+    "Mid-2027 Base",
+    "Order-capped Bear"
+   ],
+   "rows": [
+    [
+     "Revenue per customer",
+     "$323",
+     "$332",
+     "$332",
+     "$332"
+    ],
+    [
+     "Segment adj EBITDA margin",
+     "8.8%",
+     {
+      "v": "4.6%",
+      "cls": "neg"
+     },
+     "8.5%",
+     {
+      "v": "5.5%",
+      "cls": "neg"
+     }
+    ],
+    {
+     "cells": [
+      "Segment adj EBITDA per customer",
+      "$28.5",
+      "$15.3",
+      "$28.2",
+      "$18.3"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Annualized, at 25.2M customers `[Estimate]`",
+     "—",
+     "$1.5B",
+     "$2.8B",
+     "$1.8B"
+    ],
+    [
+     "Gap to the year-ago $28.5",
+     "—",
+     {
+      "v": "−$13.2",
+      "cls": "neg"
+     },
+     "−$0.3",
+     {
+      "v": "−$10.2",
+      "cls": "neg"
+     }
+    ],
+    [
+     "What has to be true",
+     "Peak margin, pre-incident",
+     "Q3 is the low (CEO)",
+     "Supply chain, utilization and marketing all normalize; ≈0.5 pt of residual enforcement cost",
+     "Supplier cost-sharing capped or Eats split from WOW; no recovery past 5.5%"
+    ]
+   ],
+   "note": "Illustrative. The two right-hand columns are the author's scenarios `[Estimate]`: 8.5% is the Base terminal margin, half a point under the 9% management calls pre-incident, and 5.5% is the Bear terminal margin. Revenue per customer is held at the Q3 2026 level to isolate margin. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/0001834584/000183458426000084/cpng-09302026ex991.htm). Built with Claude."
+  },
+  "rings": {
+   "columns": [
+    "Ring",
+    "Reported figure",
+    "~The threat",
+    "Exposure"
+   ],
+   "rows": [
+    [
+     "**1 · Korea Product Commerce** (retail, Rocket, WOW fees, marketplace)",
+     "Segment adj EBITDA $385M in Q3, $1,125M in nine months; 4.6% margin",
+     "Supplier cost-sharing (large-retail act), abuse of dominance, and the WOW tying case; the split inside the segment is not disclosed",
+     "**High; this is the debate**"
+    ],
+    [
+     "**2 · The cash**",
+     "Cash $5.44B less $1.76B of borrowings = $3.68B net cash, ex leases",
+     "TTM free cash flow $(409)M; the $410M PIPC fine and ≈$208M NTS assessment still to pay; $706M of buyback authorization left",
+     "Medium; funds the other two rings"
+    ],
+    [
+     "**3 · Developing Offerings** (Taiwan, Eats, Farfetch)",
+     "Revenue +27% CC; adj EBITDA $(817)M in nine months; FY loss guide raised by $50–100M",
+     "Not a regulatory exposure; a cash one, paid for by Ring 1",
+     "High; discretionary"
+    ],
+    {
+     "cells": [
+      "Consolidated",
+      "Adj EBITDA $308M in nine months",
+      "",
+      ""
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "Coupang does not disclose profit below the two segments, so the rings sort the segment and balance-sheet numbers by what each depends on. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/0001834584/000183458426000084/cpng-09302026ex991.htm), [10-Q](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000086/cpng-20260930.htm). Built with Claude."
+  },
+  "capalloc": {
+   "columns": [
+    "$B, except per share",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "9M 2026",
+    "Cumulative"
+   ],
+   "rows": [
+    [
+     "Revenue",
+     "18.41",
+     "20.58",
+     "24.38",
+     "30.27",
+     "34.53",
+     "27.32",
+     "—"
+    ],
+    [
+     "Growth",
+     "+54%",
+     "+12%",
+     "+18%",
+     "+24%",
+     "+14%",
+     "+6%",
+     "—"
+    ],
+    [
+     "Diluted EPS",
+     "−$1.08",
+     "−$0.05",
+     "$0.75",
+     "$0.08",
+     "$0.11",
+     {
+      "v": "−$0.74",
+      "cls": "neg"
+     },
+     "—"
+    ],
+    [
+     "Operating cash flow",
+     "−0.41",
+     "0.57",
+     "2.65",
+     "1.89",
+     "1.77",
+     "0.76",
+     "6.63"
+    ],
+    [
+     "Capex",
+     "0.67",
+     "0.82",
+     "0.90",
+     "0.88",
+     "1.25",
+     "0.90",
+     "5.42"
+    ],
+    {
+     "cells": [
+      "Free cash flow",
+      "−1.09",
+      "−0.26",
+      "1.76",
+      "1.01",
+      "0.52",
+      {
+       "v": "−0.13",
+       "cls": "neg"
+      },
+      "**1.81**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Stock compensation",
+     "0.25",
+     "0.26",
+     "0.33",
+     "0.43",
+     "0.48",
+     "n/d",
+     "1.75 (to FY2025)"
+    ],
+    [
+     "Buybacks",
+     "0",
+     "0",
+     "0",
+     "0.18",
+     "0.24",
+     "**1.05**",
+     "**1.47**"
+    ],
+    [
+     "Buybacks ÷ FCF",
+     "—",
+     "—",
+     "0%",
+     "18%",
+     "47%",
+     {
+      "v": "n/m (FCF < 0)",
+      "cls": "neg"
+     },
+     "81%"
+    ],
+    [
+     "Acquisitions, net of cash acquired",
+     "0",
+     "0",
+     "0",
+     "−0.07",
+     "0",
+     "0",
+     "—"
+    ],
+    [
+     "Borrowings (short- and long-term)",
+     "0.29",
+     "0.71",
+     "0.81",
+     "1.47",
+     "1.61",
+     "1.76",
+     "—"
+    ],
+    [
+     "Weighted diluted shares (M)",
+     "1,424",
+     "1,765",
+     "1,803",
+     "1,826",
+     "1,855",
+     "1,795 (Q3, basic)",
+     "—"
+    ]
+   ],
+   "note": "FCF = operating cash flow − purchases of property and equipment `[Derived]`. 9M 2026 buybacks are the cash-flow figure. Source: [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001834584.json), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/0001834584/000183458426000084/cpng-09302026ex991.htm), [10-Q](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000086/cpng-20260930.htm). Built with Claude."
+  },
+  "incentives": {
+   "columns": [
+    "Component",
+    "Size",
+    "~What it pays for",
+    "~Status"
+   ],
+   "rows": [
+    [
+     "**Founder CEO pay (2025)**",
+     "$1.1M salary, no stock award",
+     "Nothing performance-linked",
+     "Alignment is ownership and Class B control, not the plan ([2026 DEF 14A](https://www.sec.gov/Archives/edgar/data/1834584/000114036126017102/ny20063059x1_def14a.htm))"
+    ],
+    [
+     "**Executive equity**",
+     "Multi-year vesting awards",
+     "Retention; no metric identified in the CD&A",
+     "Not re-read in this update"
+    ],
+    [
+     "**Employee stock compensation**",
+     "≈$0.5B a year, 1.4–1.8% of revenue",
+     "Retention",
+     "Offset by buybacks only since 2026"
+    ],
+    [
+     "**Return on invested capital**",
+     {
+      "v": "0%",
+      "cls": "neg"
+     },
+     "Not a stated metric",
+     "—"
+    ]
+   ],
+   "note": "Source: the proxy as linked and the [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001834584.json). Built with Claude."
+  },
+  "five_year": {
+   "columns": [
+    "$B, except per share",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "TTM Q3 2026"
+   ],
+   "rows": [
+    [
+     "Revenue",
+     "18.41",
+     "20.58",
+     "24.38",
+     "30.27",
+     "**34.53**",
+     "36.16"
+    ],
+    [
+     "Operating income (GAAP)",
+     "−1.49",
+     "−0.11",
+     "0.47",
+     "0.44",
+     "**0.47**",
+     {
+      "v": "−1.24 (fire, fines)",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Adjusted EBITDA",
+     "n/d",
+     "≈0.17",
+     "≈1.10",
+     "≈1.37",
+     "**≈1.50**",
+     {
+      "v": "**0.58**",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Adjusted EBITDA margin",
+     "n/d",
+     "≈0.8%",
+     "≈4.5%",
+     "≈4.5%",
+     "≈4.3%",
+     {
+      "v": "1.6%",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Operating cash flow",
+     "−0.41",
+     "0.57",
+     "2.65",
+     "1.89",
+     "1.77",
+     "0.85"
+    ],
+    [
+     "Capex",
+     "0.67",
+     "0.82",
+     "0.90",
+     "0.88",
+     "1.25",
+     "≈1.25"
+    ],
+    {
+     "cells": [
+      "Free cash flow",
+      "−1.09",
+      "−0.26",
+      "1.76",
+      "1.01",
+      "**0.52**",
+      {
+       "v": "**−0.41**",
+       "cls": "neg"
+      }
+     ],
+     "cls": "tot"
+    },
+    [
+     "Stock compensation",
+     "0.25",
+     "0.26",
+     "0.33",
+     "0.43",
+     "0.48",
+     "n/d"
+    ],
+    {
+     "cells": [
+      "**Owner earnings** (OCF − SBC − capex at D&A)",
+      "−0.86",
+      "0.07",
+      "2.05",
+      "1.02",
+      "**0.78**",
+      "n/d"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Owner earnings per diluted share",
+     "n/m",
+     "$0.04",
+     "$1.14",
+     "$0.56",
+     "**$0.42**",
+     "n/d"
+    ],
+    [
+     "SBC % of revenue",
+     "1.4%",
+     "1.3%",
+     "1.3%",
+     "1.4%",
+     "1.4%",
+     "≈1.8% (Q2)"
+    ],
+    [
+     "Equity raised (cash)",
+     "IPO year",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Diluted weighted shares (M)",
+     "1,424",
+     "1,765",
+     "1,803",
+     "1,826",
+     "1,855",
+     "1,795 (Q3 basic)"
+    ],
+    [
+     "Net share change per year",
+     "n/m",
+     "n/m",
+     "+1.0%",
+     "+0.7%",
+     "+1.3%",
+     {
+      "v": "−1.7% (9M)",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Buybacks ÷ SBC",
+     "0%",
+     "0%",
+     "0%",
+     "41%",
+     "51%",
+     "≈2× `[Estimate]`"
+    ],
+    [
+     "Net cash ex leases",
+     "3.20",
+     "2.80",
+     "4.43",
+     "4.41",
+     "4.71",
+     "**3.68**"
+    ],
+    [
+     "Invested capital `[Derived]`",
+     "0.47",
+     "1.18",
+     "1.43",
+     "1.88",
+     "2.94",
+     "2.45"
+    ],
+    {
+     "cells": [
+      "**ROIC** (NOPAT = 75% of operating income, average capital)",
+      "n/m",
+      "n/m",
+      "27%",
+      "20%",
+      "**15%**",
+      {
+       "v": "n/m (loss)",
+       "cls": "neg"
+      }
+     ],
+     "cls": "tot"
+    },
+    [
+     "3-year ROIIC (FY2022 → FY2025)",
+     "",
+     "",
+     "",
+     "",
+     "**≈25%**",
+     "—"
+    ],
+    [
+     "Reinvestment (Δ invested capital)",
+     "—",
+     "0.71",
+     "0.25",
+     "0.45",
+     "1.06",
+     {
+      "v": "−0.49",
+      "cls": "neg"
+     }
+    ],
+    [
+     "FCF ÷ adj EBITDA",
+     "n/m",
+     "n/m",
+     "160%",
+     "74%",
+     "35%",
+     {
+      "v": "n/m",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Net debt ÷ EBITDA",
+     "net cash",
+     "net cash",
+     "net cash",
+     "net cash",
+     "net cash",
+     "net cash"
+    ]
+   ],
+   "note": "Invested capital = equity + short- and long-term borrowings + operating leases − cash `[Derived]`; it is small because suppliers finance inventory (payables $7.5B against inventory $2.4B), so ROIC swings with one year's profit. Owner earnings use D&A as the maintenance-capex proxy `[Estimate]`. TTM operating income is the 9M 2026 loss plus Q4 2025, approximate. Adjusted EBITDA for FY2022–FY2025 is from the earlier releases. Interest coverage is not meaningful with net cash; the nearest maturities are $119M of long-term debt within a year and Korean facilities maturing in 2027, undrawn. Cycle position: demand is not cyclical; the margin trough is incident- and regulation-driven. Source: [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001834584.json), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/0001834584/000183458426000084/cpng-09302026ex991.htm), [10-Q](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000086/cpng-20260930.htm). Built with Claude."
+  },
+  "levers": {
+   "columns": [
+    "Lever",
+    "~Contribution now",
+    "Runway",
+    "~Evidence",
+    "~Management intent",
+    "Stage"
+   ],
+   "rows": [
+    [
+     "Market growth",
+     "~6 pts",
+     "10 yrs, capped by demographics",
+     "Korean e-commerce growing 6–8%; online ≈38% of retail",
+     "—",
+     "Proven"
+    ],
+    [
+     "Share gain",
+     "~2 pts",
+     "5+ yrs",
+     "PC +8% CC (about 9% ex Chuseok) in a ~6% market, while a minority cohort has not returned",
+     "The non-returning cohort drops out of the comp next year",
+     "Proven, impaired"
+    ],
+    [
+     "Price and mix",
+     "~0 now",
+     "—",
+     "WOW fee rose 58% in 2024 with no churn; 2026 is spent on re-acquisition",
+     "No price action signalled",
+     "Proven, paused"
+    ],
+    [
+     "Attach / new products",
+     "+1–2 pts",
+     "5+ yrs",
+     "Rocket Fresh volume growing at over twice the pace of PC; Try Now, Pay Later; Eats into non-food",
+     "\"Still very early\" on non-food Eats (CEO)",
+     "Scaling"
+    ],
+    [
+     "New geographies",
+     "~+3 pts consolidated",
+     "10 yrs",
+     "DO revenue +27% CC; Taiwan WOW +100% YoY",
+     "Taiwan \"a meaningful contributor to consolidated cash flow in the years to come\"",
+     "Scaling"
+    ],
+    [
+     "M&A",
+     "~0",
+     "—",
+     "Farfetch (2024) shares few customers or costs with Korea",
+     "Silent",
+     "Option (diversification)"
+    ],
+    [
+     "Margin",
+     "**The Base case**",
+     "3–5 yrs",
+     "PC margin 8.8% → 4.6% in a year: supply chain, fixed-cost deleverage, marketing",
+     "Pre-incident levels by mid-2027; Q3 the low",
+     "Proven, interrupted"
+    ],
+    [
+     "Share count",
+     "~+1 pt/yr of per-share value",
+     "$0.7B left",
+     "56.4M shares repurchased in nine months; 1,787M outstanding vs 1,823M a year ago",
+     "Authorization +$1B in May 2026; $706M left",
+     "Proven"
+    ]
+   ],
+   "note": "Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/0001834584/000183458426000084/cpng-09302026ex991.htm), [10-Q](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000086/cpng-20260930.htm), [call](https://www.investing.com/news/transcripts/earnings-call-transcript-coupang-q3-2026-revenue-beats-loss-widens-93CH-4996932). Built with Claude."
+  },
+  "moat": {
+   "columns": [
+    "Read",
+    "Call",
+    "~Evidence"
+   ],
+   "rows": [
+    [
+     "Mechanism",
+     "**Scale economies** (logistics density) plus **switching costs** (WOW habit)",
+     "≈70% of Koreans within seven miles of a center; Dawn Delivery unmatched; WOW at a record after the largest breach in Korean history; Taiwan repeating the pattern"
+    ],
+    [
+     "Trend",
+     "**Stable**",
+     "Members who left and returned spend at prior levels and members who stayed spend at record levels (CEO); the rest of the cohort is the open question"
+    ],
+    [
+     "Profit pool",
+     "Coupang captures it from suppliers; **the state is contesting that**",
+     "KFTC cases on coupon cost-shifting, abuse of dominance, Eats merchant terms and WOW tying; the Eats and WOW hearings were held in October"
+    ],
+    [
+     "Customer",
+     "25.2M households, buying everything by tomorrow morning",
+     "Retention: full membership recovery; last price rise +58% in 2024 with volume up; CAC and LTV not disclosed"
+    ]
+   ],
+   "note": "7 Powers vocabulary (Helmer). Scale economies shared: savings go to price first (lowest prices, free Dawn Delivery), which is also what the regulator is probing. Source: [call](https://www.investing.com/news/transcripts/earnings-call-transcript-coupang-q3-2026-revenue-beats-loss-widens-93CH-4996932), [10-Q](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000086/cpng-20260930.htm). Built with Claude."
+  },
+  "competitors": {
+   "columns": [
+    "Competitor",
+    "~Position",
+    "~Threat"
+   ],
+   "rows": [
+    [
+     "**Naver**",
+     "≈15–17% share; search-led marketplace",
+     "The only scaled rival; would need logistics it does not own"
+    ],
+    [
+     "**AliExpress–Gmarket** (Alibaba–Shinsegae JV)",
+     "Cross-border plus domestic",
+     "Price wedge in commodity categories"
+    ],
+    [
+     "**Baemin** (Delivery Hero)",
+     "Food delivery leader",
+     "Eats' rival, and a co-defendant in the delivery-app antitrust case"
+    ],
+    [
+     "**Shopee, Momo**",
+     "Taiwan incumbents",
+     "Logistics-light; speed is Coupang's wedge"
+    ]
+   ],
+   "note": "Scuttlebutt: management said the elevated marketing is \"not a competitive response\" (Q&A, Q3 call). Competitor results were not re-pulled in this update. Source: [call](https://www.investing.com/news/transcripts/earnings-call-transcript-coupang-q3-2026-revenue-beats-loss-widens-93CH-4996932). Built with Claude."
+  },
+  "promises": {
+   "columns": [
+    "~Promised",
+    "Where, when",
+    "~Outcome"
+   ],
+   "rows": [
+    [
+     "Product Commerce adj EBITDA margin of 10%+ long-term",
+     "[Q4 2022 release and call](https://www.sec.gov/Archives/edgar/data/1834584/000183458423000016/cpng-12312022ex991.htm), Mar 2023",
+     "🔴 Peaked at 9.0% (Q2 2025); 4.6% in Q3 2026"
+    ],
+    [
+     "Q3 2026 revenue +8–9% CC and adj EBITDA margin down 300–400 bps",
+     "Q2 2026 call, Aug 4",
+     "✅ +11% CC and −329 bps"
+    ],
+    [
+     "2026 Developing Offerings loss $950M–$1B",
+     "[Q4 2025 script](https://s206.q4cdn.com/919117365/files/doc_financials/2025/q4/Q4-25-Earnings-Call-Script_Final.pdf), Feb 2026",
+     "🔴 Top end raised by $50–100M on Nov 3 (nine months: $817M)"
+    ]
+   ],
+   "note": "Guidance grade: **Mixed.** Near-term revenue and margin guides are met or beaten (Q3 on both); the multi-year margin target and the loss guide have both moved the wrong way. Source as linked and the [call](https://www.investing.com/news/transcripts/earnings-call-transcript-coupang-q3-2026-revenue-beats-loss-widens-93CH-4996932). Built with Claude."
+  },
+  "risks": {
+   "columns": [
+    "~Risk",
+    "Impact",
+    "Prob.",
+    "~Priced in?",
+    "~Would break the thesis if…"
+   ],
+   "rows": [
+    [
+     "⚠️ **Regulation reaches the operating model**: KFTC hearings on Eats merchant terms and WOW tying (a remedy could separate the Eats benefit from WOW), the large-retail and dominance probes, the new investigations bureau",
+     "High",
+     "45%",
+     "Partly: the multiple",
+     "A corrective order on supplier terms or WOW bundling, or charges against Coupang Corp. (test 1)"
+    ],
+    [
+     "⚠️ **Recurring extraction**: PIPC $410M (suit filed, six installments approved), NTS ≈$208M (appealed, $102M paid), KFTC fines of up to ₩360B reported possible",
+     "High",
+     "50%",
+     "Partly",
+     "Another ≥$200M assessment from a new front within 12 months"
+    ],
+    [
+     "⚠️ **Margin recovery slips past mid-2027**",
+     "High",
+     "35%",
+     "Partly",
+     "Q2 2027 PC margin below 8% (test 2)"
+    ],
+    [
+     "**Cash**: TTM FCF $(409)M, and $1.05B of buybacks in nine months ran ahead of cash generated",
+     "Med",
+     "40%",
+     "No",
+     "Net cash below $3.0B, or a revolver draw with FCF ≤ 0 (test 3)"
+    ],
+    [
+     "**Taiwan build-out** keeps raising the loss guide",
+     "Med",
+     "40%",
+     "Partly",
+     "FY2027 DO loss guide above $1.1B without a margin path"
+    ],
+    [
+     "**US legal and tax**: securities class action and derivative suits; possible valuation allowance on US deferred tax assets",
+     "Med",
+     "25%",
+     "Partly",
+     "A formal SEC inquiry, or a restated breach disclosure"
+    ],
+    [
+     "**Incheon fire**: $248M recognized, no insurance recovery booked",
+     "Med",
+     "Sized",
+     "Mostly",
+     "Recovery well below half, or remediation penalties"
+    ]
+   ],
+   "note": "Filtered for materiality. The FY2025 Item 1A diff and the Q3 10-Q Item 1A were not read (logged). The ₩360B figure is from [The Korea Times](https://www.koreatimes.co.kr/business/companies/20261104/coupangs-mounting-losses-threaten-growth-model-amid-regulatory-pressure) and is not in the filing. Source: [10-Q](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000086/cpng-20260930.htm). Built with Claude."
+  },
+  "catalysts": {
+   "columns": [
+    "Date",
+    "Catalyst",
+    "~Why it matters"
+   ],
+   "rows": [
+    [
+     "✅ Nov 3",
+     "Q3 results and Q4 guide ([release](https://www.sec.gov/Archives/edgar/data/0001834584/000183458426000084/cpng-09302026ex991.htm))",
+     "Tests 1–3 scored against it"
+    ],
+    [
+     "📅 Q4 2026 – H1 2027",
+     "KFTC decisions on the Eats merchant-terms and WOW tying cases (hearings held in October)",
+     "Test 1"
+    ],
+    [
+     "📅 Q4 2026",
+     "PIPC stay ruling; first installment of the $410M",
+     "Cash and the injunction"
+    ],
+    [
+     "📅 Late Feb 2027",
+     "Q4/FY2026 results; 2027 outlook and Developing Offerings guide",
+     "Interim margin read; Taiwan loss path; FY2026 free cash flow"
+    ],
+    [
+     "📅 Early Aug 2027",
+     "Q2 2027 results",
+     "Test 2: PC margin back toward pre-incident"
+    ],
+    [
+     "📅 Ongoing",
+     "Fire insurance claim; NTS appeal; US securities suits",
+     "Cash and tail risk"
+    ]
+   ],
+   "note": "Source: [10-Q](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000086/cpng-20260930.htm), [call](https://www.investing.com/news/transcripts/earnings-call-transcript-coupang-q3-2026-revenue-beats-loss-widens-93CH-4996932). Built with Claude."
+  },
+  "sentiment": {
+   "columns": [
+    "Signal",
+    "~Read"
+   ],
+   "rows": [
+    [
+     "Price",
+     "Closed at $15.23 on Nov 3 (+3.6%) into the print; the overnight session showed ≈$14.54 (−4.5%) on a Yahoo page with an error banner. 52-week range $13.35–$32.14"
+    ],
+    [
+     "Analysts",
+     "Mean target ≈$25 across 12 analysts before the print, range $17–$40 (MarketBeat summary, undated) `[Analyst consensus]`; post-print revisions were not published at retrieval"
+    ],
+    [
+     "Short interest",
+     "69.0M shares, 3.3 days to cover on Aug 14, down from 80.5M on Jul 31 (Curved Trading, FINRA data); no October settlement found"
+    ],
+    [
+     "Insiders (90 days)",
+     "Form 4s were filed Aug 11 (two) and Oct 5, and Form 144s on Aug 10 and Oct 2; the XML could not be opened, so direction and size are unread `[gap]`. The company, at $201M in Q3, is the buyer of size"
+    ],
+    [
+     "Appearances (Oct 3 – Nov 4)",
+     "The Q3 call (Nov 3) and Korean press write-ups of it; no conference, media or podcast appearance found. The IR events page was not opened"
+    ],
+    [
+     "BAIT",
+     "Single (B): −53% from the high, a sell side split from $17 to $40. Analytical and informational edges are Moderate at best because the state's terms cannot be estimated from outside"
+    ]
+   ],
+   "note": "Context only; none of it moves a verb. Source: [Yahoo Finance](https://finance.yahoo.com/quote/CPNG/), [Curved Trading](https://curvedtrading.com/stocks/cpng/short-interest/), [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/CPNG/forecast/), [EDGAR filing index](https://data.sec.gov/submissions/CIK0001834584.json). Built with Claude."
+  }
+ },
+ "charts": {
+  "one_year": {
+   "type": "line",
+   "file": "series/one_year.json",
+   "baseline": 100,
+   "yTicks": [
+    0,
+    25,
+    50,
+    75,
+    100,
+    125
+   ],
+   "tableEvery": 9,
+   "names": {
+    "CPNG": "Coupang"
+   },
+   "aria": "Total return index from November 3, 2025 = 100 for Coupang, MercadoLibre and the S&P 500",
+   "note": "Total return, weekly, November 3, 2025 = 100, through November 3, 2026. Source: Yahoo Finance adjusted closes. Built with Claude."
+  },
+  "revenue_mix": {
+   "type": "bar100",
+   "keys": [
+    "Product Commerce",
+    "Developing Offerings"
+   ],
+   "unit": "$M",
+   "valueLabel": "Revenue",
+   "prefix": "$",
+   "suffix": "M",
+   "rows": [
+    {
+     "label": "9M 2025",
+     "values": [
+      22184,
+      3515
+     ]
+    },
+    {
+     "label": "Q3 2025",
+     "values": [
+      7980,
+      1287
+     ]
+    },
+    {
+     "label": "9M 2026",
+     "values": [
+      22975,
+      4347
+     ]
+    },
+    {
+     "label": "Q3 2026",
+     "values": [
+      8374,
+      1588
+     ]
+    }
+   ],
+   "aria": "Share of revenue, Product Commerce and Developing Offerings, nine months and third quarter of 2025 and 2026",
+   "note": "Share of revenue. Source: [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000086/cpng-20260930.htm), [release](https://www.sec.gov/Archives/edgar/data/0001834584/000183458426000084/cpng-09302026ex991.htm). Built with Claude."
+  }
+ },
+ "return_math": {
+  "price_implied": "At 10% a year the stock must reach about $24.5 by 2031 (15.23 × 1.10^5), which sits between the Base and the Bull. Even with no Bear at all, the Base-and-Bull mix is worth less than that before the optionality line.",
+  "epv": "Earnings power today is negative on reported numbers. On FY2025 adjusted EBITDA of ≈$1.5B, less ≈$0.5B of stock pay and ≈$0.5B of depreciation, about $0.5B of pre-tax earnings power capitalized at 12× gives ≈$6B against a $27B market value, so roughly four-fifths of the price pays for recovery and growth `[Estimate]`.",
+  "base_rate": "Revenue of ≈$37B puts Coupang in the largest size bucket, where about 32% of companies sustain at least 5% real growth for five years and about 14% reach 10% ([`compounding.md`](../../frameworks/compounding.md)). The Base's ≈9% nominal (about 6–7% real) is a top-quarter outcome and the Bull's ≈11% sits near the 14%. Tiers: Bull plausible, Base probable, Bear probable.",
+  "terminal_growth": "On EPS, the 24× and 26× exits imply perpetual growth of about 5.6% and 5.9% at a 10% discount rate, above the 4.9% Treasury, so the multiples lean on growth continuing past 2031. The Base is still growing about 9% in FY2031, which the Taiwan lever has to supply. The Bear's $7.5 is set on EBITDA, not EPS.",
+  "year_ten": "The Base is still growing mid-single digits at year ten on online penetration, attach and Taiwan, against a population that peaks around 2030, so the terminal multiple is not doing all the work.",
+  "rr_note": " The downside is a regulatory order, not a weak quarter: the Bear sits about half below spot.",
+  "note": "Computed rows come from model.json. The Bear's terminal value is set outside the engine at 8× FY2031 adjusted EBITDA plus ≈$2.5B of net cash because its earnings are near zero. EPV, base rate and year ten are the author's. Built with Claude."
+ },
+ "sources": [
+  {
+   "label": "Q3 2026 release (8-K Ex. 99.1, Nov 3)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001834584/000183458426000084/cpng-09302026ex991.htm"
+  },
+  {
+   "label": "Q3 2026 release extract",
+   "url": "../../../raw/CPNG/press-releases/2026-11-03_Q3-2026_earnings.txt"
+  },
+  {
+   "label": "Q3 2026 10-Q",
+   "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000086/cpng-20260930.htm"
+  },
+  {
+   "label": "Q3 2026 10-Q extract",
+   "url": "../../../raw/CPNG/filings/2026-11-03_10-Q_Q3-2026_extract.txt"
+  },
+  {
+   "label": "Q3 2026 call transcript (Investing.com)",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-coupang-q3-2026-revenue-beats-loss-widens-93CH-4996932"
+  },
+  {
+   "label": "Q3 2026 call excerpts",
+   "url": "../../../raw/CPNG/transcripts/2026-11-03_Q3-2026_earnings-call.txt"
+  },
+  {
+   "label": "Coupang's mounting losses, The Korea Times",
+   "url": "https://www.koreatimes.co.kr/business/companies/20261104/coupangs-mounting-losses-threaten-growth-model-amid-regulatory-pressure"
+  },
+  {
+   "label": "Kim on lingering customer departures, FNnews",
+   "url": "https://en.fnnews.com/news/202611040920394714"
+  },
+  {
+   "label": "Q3 results announcement",
+   "url": "https://s206.q4cdn.com/919117365/files/doc_news/Coupang-to-Announce-Third-Quarter-2026-Results-on-November-3-2026-2026.pdf"
+  },
+  {
+   "label": "XBRL company facts",
+   "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001834584.json"
+  },
+  {
+   "label": "Price and 52-week range, Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/CPNG/"
+  },
+  {
+   "label": "Short interest, Curved Trading",
+   "url": "https://curvedtrading.com/stocks/cpng/short-interest/"
+  },
+  {
+   "label": "Analyst forecasts, MarketBeat",
+   "url": "https://www.marketbeat.com/stocks/NASDAQ/CPNG/forecast/"
+  },
+  {
+   "label": "10-year Treasury yield, FRED DGS10",
+   "url": "https://fred.stlouisfed.org/series/DGS10"
+  },
+  {
+   "label": "Q2 2026 release",
+   "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000070/cpng-06302026ex991.htm"
+  },
+  {
+   "label": "Q2 2026 call script",
+   "url": "https://s206.q4cdn.com/919117365/files/doc_financials/2026/q2/Q2-26-Earnings-Call-Script_.pdf"
+  },
+  {
+   "label": "Q2 2026 transcript, Motley Fool",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/08/11/coupang-cpng-q2-2026-earnings-call-transcript/"
+  },
+  {
+   "label": "Q4 2025 release",
+   "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000022/cpng-12312025ex991.htm"
+  },
+  {
+   "label": "Q4 2025 call script",
+   "url": "https://s206.q4cdn.com/919117365/files/doc_financials/2025/q4/Q4-25-Earnings-Call-Script_Final.pdf"
+  },
+  {
+   "label": "Q1 2026 10-Q",
+   "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000042/cpng-20260331.htm"
+  },
+  {
+   "label": "FY2025 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000024/cpng-20251231.htm"
+  },
+  {
+   "label": "FY2024 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458425000030/cpng-20241231.htm"
+  },
+  {
+   "label": "FY2023 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458424000023/cpng-20231231.htm"
+  },
+  {
+   "label": "FY2022 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458423000023/cpng-20221231.htm"
+  },
+  {
+   "label": "FY2021 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458422000015/cpng-20211231.htm"
+  },
+  {
+   "label": "Q4 2022 release",
+   "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458423000016/cpng-12312022ex991.htm"
+  },
+  {
+   "label": "2026 DEF 14A",
+   "url": "https://www.sec.gov/Archives/edgar/data/1834584/000114036126017102/ny20063059x1_def14a.htm"
+  },
+  {
+   "label": "PIPC fine 8-K (Jun 10)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1834584/000183458426000056/cpng-20260610.htm"
+  },
+  {
+   "label": "Coupang refuses KFTC inspection, JoongAng Daily",
+   "url": "https://www.koreajoongangdaily.com/business/coupang-turns-away-antitrust-inspectors-in-unprecedented-move-as-ftc-chief-threatens-criminal-referral/12846042"
+  },
+  {
+   "label": "Second KFTC raid, Seoul Economic Daily",
+   "url": "https://en.sedaily.com/finance/2026/09/01/korea-antitrust-agency-raids-coupang-again-this-time-under"
+  },
+  {
+   "label": "Court rejects injunction, Seoul Economic Daily",
+   "url": "https://en.sedaily.com/society/2026/09/23/court-rejects-coupang-bid-to-halt-antitrust-inspection"
+  },
+  {
+   "label": "Investigations bureau, Korea Times",
+   "url": "https://www.koreatimes.co.kr/business/companies/20261002/coupang-feared-to-become-1st-target-for-ftcs-investigative-task-force"
+  },
+  {
+   "label": "Source log and gaps",
+   "url": "../../../raw/CPNG/SOURCES.md"
+  },
+  {
+   "label": "Base rates",
+   "url": "../../frameworks/compounding.md"
+  }
+ ],
+ "vars": {}
+}

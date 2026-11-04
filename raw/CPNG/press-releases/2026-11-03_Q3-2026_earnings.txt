@@ -1,0 +1,29 @@
+LABELLED EXTRACT, NOT VERBATIM. Source: Coupang Q3 2026 earnings release, 8-K Ex. 99.1 filed 2026-11-03
+https://www.sec.gov/Archives/edgar/data/0001834584/000183458426000084/cpng-09302026ex991.htm
+Retrieved 2026-11-04 through WebFetch (www.sec.gov returns 403 to scripts). Figures $M unless noted.
+
+Q3 2026 vs Q3 2025
+Total net revenues 9,962 vs 9,267 (+7% reported, +11% constant currency)
+Net retail sales 7,626 vs 7,081; net other revenue 2,336 vs 2,186
+Gross profit 2,561 vs 2,720; gross margin 25.7% (-364 bps); ex fire 2,656, 26.7%
+Operating loss (450) vs income 162; ex fire (202)
+Net loss attributable to Coupang (501) vs income 95; ex fire (321); diluted EPS (0.28) vs 0.05; ex fire (0.18)
+Adjusted EBITDA 116 vs 413; margin 1.2% vs 4.5% (-329 bps)
+Operating cash flow 212 vs 792; free cash flow (72) vs 442
+TTM: revenue 36,157; OCF 845 (vs 2,367); FCF (409) (vs 1,268); adjusted EBITDA 575, 1.6% (vs 1,644, 4.9%)
+9M 2026: revenue 27,322 (vs 25,699); operating loss (1,248) (vs +465); net loss (1,337); diluted EPS (0.74); OCF 763 (1,691); capex 897 (891)
+
+Segments Q3 2026 vs Q3 2025
+Product Commerce: revenue 8,374 vs 7,980 (+5%, +8% CC); gross profit 2,376 vs 2,564; GM 28.4% (29.5% ex fire vs 32.1%); adj EBITDA 385 vs 705; margin 4.6% (-424 bps)
+Developing Offerings: revenue 1,588 vs 1,287 (+23%, +27% CC); gross profit 185 vs 156; adj EBITDA (269) vs (292)
+Active customers (Product Commerce) 25.2M vs 24.7M (+2%); revenue per active customer $332 vs $323 (+3%; $342 and +6% CC)
+
+Balance sheet, Sep 30 2026 vs Dec 31 2025
+Cash 5,444 vs 6,318; restricted cash 96 vs 94; short-term borrowings 988 vs 960; current portion LTD 119 vs 0; LTD 654 vs 648
+Total assets 18,294 vs 17,787; total equity 2,837 vs 4,623; accounts payable 7,532 vs 6,298; inventories 2,423 vs 2,256; PP&E net 4,227 vs 3,722
+Repurchases Q3: 12.7M Class A shares for 201; 9M cash flow 1,051 (vs 81)
+Shares outstanding Sep 30: 1,787M (A 1,629M, B 158M) vs 1,823M a year earlier; awards outstanding 81M
+
+Incheon FC fire (July 2026): 248 total (95 cost of sales, 153 OG&A); tax effect (68); excluded from adjusted measures. No insurance recovery recognized.
+Administrative fines: 410 in 9M 2026 (Q2), excluded from adjusted results.
+Guidance in the release: none (forward reconciliations not provided). Guidance came on the call.

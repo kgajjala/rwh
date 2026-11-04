@@ -1,0 +1,14 @@
+LABELLED EXTRACT, NOT VERBATIM. Source: Coupang Form 10-Q for the quarter ended 2026-09-30, filed 2026-11-03
+https://www.sec.gov/Archives/edgar/data/1834584/000183458426000086/cpng-20260930.htm
+Retrieved through WebFetch 2026-11-04 (first 100,000 of 100,903 characters; the MD&A liquidity narrative and Item 1A were not read).
+
+Liquidity: $1.5B syndicated revolver (Term SOFR + 0.75-1.25%); $750M borrowed in 2026, fully repaid in September; $0 outstanding at Sep 30. Korean subsidiary facilities ~$661M capacity, maturing 2027, undrawn. Other facilities: capacity $1.7B, outstanding $988M at 2.87% weighted. Covenants in compliance.
+Operating lease liabilities 3,296 (645 current, 2,651 non-current) vs 3,027.
+Buyback: Q3 12.7M shares for $201M; 9M 56.4M shares for ~$1.1B; remaining authorization $706M at Sep 30; no expiry. Shares outstanding Oct 29: 1,634.5M Class A + 157.8M Class B.
+PIPC: fines ~$410M (278 incident-related + 132 third-party advertising data), expensed in Q2, unpaid at Sep 30; administrative suit and stay request filed Oct 7; payment in six installments over two years approved Oct 8. Not tax-deductible.
+KFTC: (a) product-ranking case, ~$121M fine accrued 2024, paid in installments, final payment June 2026, appeal pending; (b) criminal case, indictment May 1 2025, max fine ~$0.2M, trial since Oct 2025; (c) Eats merchant-benefit investigation, examiner's report Oct 2025, hearings held Oct 2026; (d) WOW membership / Eats bundling investigation, examiner's report Oct 2025, hearings held Oct 2026, outcomes may include fines and a requirement to separate the Eats benefit from WOW. Company cannot estimate penalties.
+NTS: ~$208M assessed (transfer pricing 2021-2025); $102M paid in Q3 (net of refunds), refundable if positions sustained.
+Securities: IPO class action dismissed Sep 2025, appeal pending; incident-related securities class action (filed Jan 6 2026) and two derivative actions pending; negligence class action voluntarily dismissed Oct 5 2026. No loss estimates.
+Fire: $248M (95 inventory, 153 fixed-asset impairment and other); net-of-tax $180M; insurance claims to be pursued, none recognized; lease runs to June 2034.
+Taxes: Q3 benefit (13) on pre-tax loss (514); cash taxes paid 9M 461 (136); company may need a valuation allowance against US deferred tax assets within twelve months.
+Incident vouchers: ~$1.2B issued from January 2026 as revenue reductions; redemption ended mid-April 2026.

@@ -1,0 +1,61 @@
+{
+ "spot": 15.23,
+ "dps": 0.0,
+ "discount_rate": 0.10,
+ "hurdle": 0.13,
+ "risk_free": 0.049,
+ "last_year": 2031,
+ "fy_prefix": "FY",
+ "eps_label": "EPS ex fire and fines",
+ "segment_names": {"PC": "Product Commerce", "DO": "Developing Offerings"},
+ "actual": {
+  "year": 2025,
+  "segments": {"PC": {"rev": 28.9, "op": 1.9}, "DO": {"rev": 5.0, "op": -1.0}},
+  "corp": -1.03,
+  "ni": 0.208,
+  "shares": 1.855,
+  "eps": 0.11
+ },
+ "base": {
+  "year": 2026,
+  "shares": 1.79,
+  "corp_pct": 0.035,
+  "other": 0.10,
+  "tax": 0.0,
+  "segments": {"PC": {"rev": 31.0, "margin": 0.052}, "DO": {"rev": 6.0, "margin": -0.178}},
+  "sbc_pct": 0.018,
+  "eps_excludes_sbc": false,
+  "oe_conversion": 1.0
+ },
+ "other_growth": 0.0,
+ "cases": {
+  "Bull": {
+   "role": "bull", "prob": 0.20, "pe": 24, "corp_pct": 0.032, "tax": 0.28,
+   "dilution": 0.015, "buyback": 0.03, "sbc_pct": 0.017,
+   "segments": {"PC": {"g": 0.09, "m": 0.10}, "DO": {"g": 0.20, "m": 0.03}},
+   "tier": "Plausible",
+   "story": "PC margin back to the old 10% target and Taiwan at a profit by FY2031; revenue about $62B (+11%/yr); KFTC outcomes are fines only; buybacks run at 3% of shares a year."
+  },
+  "Base": {
+   "role": "base", "prob": 0.45, "pe": 26, "corp_pct": 0.033, "tax": 0.30,
+   "dilution": 0.015, "buyback": 0.015, "sbc_pct": 0.017,
+   "segments": {"PC": {"g": 0.075, "m": 0.085}, "DO": {"g": 0.15, "m": -0.01}},
+   "tier": "Probable",
+   "story": "PC margin back to 8.5% from mid-2027 (about half a point below the pre-incident 9%, for residual enforcement cost); Taiwan near break-even; revenue about $57B (+9%/yr); buybacks only offset stock pay."
+  },
+  "Bear": {
+   "role": "bear", "prob": 0.35, "pe": 1, "value_override": 7.5, "corp_pct": 0.034, "tax": 0.35,
+   "dilution": 0.016, "buyback": 0.0, "sbc_pct": 0.018,
+   "segments": {"PC": {"g": 0.04, "m": 0.055}, "DO": {"g": 0.10, "m": -0.04}},
+   "tier": "Probable",
+   "story": "A KFTC order caps supplier cost-sharing or splits Eats from WOW; PC margin stalls at 5.5% on 4% growth (about $47B of revenue); earnings near zero, so value is 8x adjusted EBITDA plus about $2.5B of net cash on 1.8B shares."
+  }
+ },
+ "optionality": [
+  {"name": "Taiwan as a second Korea beyond the Base", "prob": 0.2, "value": 5.0}
+ ],
+ "diagnostics": {
+  "Priced-in": {"label": "Priced-in (10%/yr)", "target_return": 0.10, "pe": 26, "path": ["Base", "Bull"]},
+  "Hurdle": {"label": "Hurdle (13%/yr)", "target_return": 0.13, "pe": 26, "path": ["Base", "Bull"]}
+ }
+}

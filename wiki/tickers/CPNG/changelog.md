@@ -4,6 +4,32 @@
 
 ---
 
+## [2026-11-04] — Q3 2026 Earnings + v5→v7.0 Migration
+
+**Trigger**: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/0001834584/000183458426000084/cpng-09302026ex991.htm) and [10-Q](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000086/cpng-20260930.htm) (Nov 3, after the close).
+**Sources**: [raw/CPNG/SOURCES.md](../../../raw/CPNG/SOURCES.md). Release and 10-Q came through WebFetch (labelled extracts); the call was read in full from the [Investing.com transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-coupang-q3-2026-revenue-beats-loss-widens-93CH-4996932). Gaps: Form 4 XML, October short interest, post-print analyst changes, a second transcript.
+
+### Scorecard
+- KFTC fight stays a fine — 🟡 Pending — Eats and WOW hearings held in October; the 10-Q lists separating the Eats benefit from WOW among outcomes
+- Q4 2026 Product Commerce margin ≥7% — 🟡 Pending — Q3 was 4.6% and the Q4 guide implies about 1.7–2.7% consolidated; test moved to Q2 2027 (≥8.0%)
+- Buyback paid for by the business — 🟡 Pending — revolver repaid, but TTM FCF is $(409)M; replaced by a net-cash floor of $3.0B
+
+### Changed
+- Q3: revenue $9,962M (+11% CC, above the 8–9% guide); adj EBITDA $116M (1.2%); PC margin 4.6%; DO loss $269M, FY guide top end +$50–100M; net loss $501M incl. $248M fire
+- Q4 guide: +13–14% CC, consolidated margin +50–150 bps q/q; PC margin back to pre-incident by mid-2027, unchanged
+- 💰 Q3 buyback $201M at ≈$15.83 (Q2 $459M at ≈$19.78); $750M revolver repaid; net cash ex leases $3.68B; Outsider grade stays Outsider-leaning, qualified (procyclical buying)
+- Model rebuilt as a segment model: Base $19.30, Bull $34.50, Bear $7.50 at 45/20/35
+- Page migrated v5 → v7.0
+
+### Status
+- **Thesis**: Weakened (cash and regulator); customer evidence stronger
+- **PW EV**: $20.30 → $19.20 · **PW return/yr**: 7.9% → 4.7% (hurdle 13%) · **R/R**: 4.1 → 2.5 · **BAIT**: Single (B), unchanged
+- **Verbs**: non-holder Watch (entry ≤$10.42) · holder Hold
+
+**Next trigger**: KFTC decisions on the Eats and WOW cases, or Q4 results in late February 2027.
+
+---
+
 ## [2026-10-02] — Q2 2026 Earnings + KFTC Confrontation + v3→v5 Migration
 
 **Trigger**: [Q2 2026 release](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000070/cpng-06302026ex991.htm) and [10-Q](https://www.sec.gov/Archives/edgar/data/1834584/000183458426000073/cpng-20260630.htm) (Aug 4). After them, a −15% slide to $13.87 driven by the KFTC fight: Coupang refused an on-site inspection (Aug 19–21), the KFTC raided again under the Fair Trade Act (Sep 1), and the court rejected Coupang's injunction (Sep 23).

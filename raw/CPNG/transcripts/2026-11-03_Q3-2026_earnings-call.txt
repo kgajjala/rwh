@@ -1,0 +1,24 @@
+VERBATIM EXCERPTS from the Q3 2026 earnings call, 2026-11-03. Source page (full transcript, read in the built-in browser via document.body.innerText on 2026-11-04):
+https://www.investing.com/news/transcripts/earnings-call-transcript-coupang-q3-2026-revenue-beats-loss-widens-93CH-4996932
+Cross-checks: Korea Times and FNnews write-ups (see SOURCES.md). A second full transcript was not retrieved (stockanalysis.com page lists it at /stocks/cpng/transcripts/724035-q3-2026/ but showed a summary only).
+
+Bom Kim, Founder and CEO:
+"Our expectation in returning next year to Product Commerce margins approximating pre-incident levels is unchanged."
+"We do not believe any of these items are structural. Some are near-term investments we have chosen to make, while others are temporary headwinds."
+"The soft spot in reported growth this quarter remains a small cohort of members who left after the data incident and have not yet returned."
+"As we lap the affected periods next year, the non-returning cohort drops out of the year-over-year comp, and our reported growth converges with the growth of the underlying customer base."
+"We believe Q3 represents the low point for our Product Commerce adjusted EBITDA margins."
+"The pace of improvement that you asked about, that may vary quarter-to-quarter, given seasonal factors and the speed at which we work through each of these items."
+"When we're at this early stage and we're growing as fast as we are, a lot of the infrastructure investments that are required for the level of service that we're trying to provide, they do involve a lot of lead time. So we do build ahead of demand."
+"As we continue to execute with discipline, we expect Taiwan to be a meaningful contributor to consolidated cash flow in the years to come."
+Taiwan: WOW membership up more than 100% YoY and 14% QoQ; Dawn Delivery reaches over 50% of the population.
+
+Gaurav Anand, CFO:
+"For Q4, we expect consolidated constant currency revenue growth of 13%-14%."
+"For consolidated adjusted EBITDA, we expect the margin to increase 50-150 basis points quarter-over-quarter in Q4, reflecting continued underlying progress in Product Commerce, as well as reduced levels of marketing spend."
+"We continue to expect Product Commerce adjusted EBITDA margins to return by mid-next year to levels approximating those we generated prior to the data incident."
+"For Developing Offerings, we previously guided to full-year losses this year of $950 million-$1 billion. We are now increasing the top end of that range by $50 million-$100 million. This update is primarily driven by our Taiwan build-out."
+"On cash flows, on the trailing 12-month basis, we generated operating cash flow of $845 million, and free cash flow was negative $409 million. The year-over-year declines reflect the lower profitability we have discussed this year, increases in capital expenditure, cash outlays relating to the fire, and elevated levels of tax payments."
+Chuseok timing: about 1 pt drag on CC revenue growth and about 40 bps on adjusted EBITDA margin. PC gross margin ex fire 29.5%, -260 bps YoY and -100 bps QoQ; PC adjusted EBITDA margin down 420 bps YoY and 50 bps QoQ.
+
+Q&A (from the transcript summary and page text; paraphrased): Goldman (Cha) asked for the margin cadence and whether DO losses peak this year or next: Kim gave no quarterly path and did not say whether losses have peaked. JPMorgan (Yang): Anand said Korea and Japan Eats run around break-even; did not answer the 2027 funding question; full 2027 DO guidance comes with Q4. Morgan Stanley (Park): marketing is for returning members, "not a competitive response". No question or answer on the KFTC, the PIPC fine, borrowing or fire insurance.

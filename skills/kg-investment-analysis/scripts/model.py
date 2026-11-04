@@ -72,7 +72,7 @@ def evaluate(spec, case):
     per = r["owner_eps"] if case.get("basis") == "owner" else r["eps"]
     value = case["value_override"] if "value_override" in case else per[-1] * case["pe"]
     spot = spec["spot"]; yld = spec.get("dps", 0.0) / spot
-    ret = (value / spot) ** (1 / yrs) - 1 + yld
+    ret = (value / spot) ** (1 / yrs) - 1 + yld if value > 0 else -1.0   # a non-positive value is a total loss, not a complex root
     cagr = (per[-1] / per[0]) ** (1 / yrs) - 1 if per[0] > 0 and per[-1] > 0 else None
     return r, value, ret, cagr
 

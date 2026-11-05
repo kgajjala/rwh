@@ -1,0 +1,27 @@
+Earnings-day media appearances, Harley Finkelstein (President), November 3–4, 2026
+Retrieved 2026-11-05. Secondary write-ups; full interview transcripts were not found. Quotes are as printed in the write-ups.
+
+1) CNBC "Squawk on the Street", Nov 3, 2026 — via CNBC article "Shopify falls over 8% after Q3 revenue and merchandise volume miss estimates" (Caleigh Keating, Nov 3, 2026, updated 4:03 PM EST)
+   https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html
+   - Finkelstein called the GMV results "consistent" and "durable"; per the write-up, the 13th consecutive quarter of GMV growth above 20%.
+   - "We're really proud of the print, and we're going to keep building for the long term and ignore the noise day to day"
+   - On AI agents and pricing: "We're not seeing that prices are being lowered"
+   - "I do think this is the first holiday season where AI-assisted shopping capabilities will become mainstream ... especially with the rise of personal agents"
+   - The write-up says he acknowledged some economic pressure on consumers heading into the holiday season (paraphrase, not quoted).
+   Consensus cited by CNBC [Analyst consensus]: adj EPS $0.49 vs $0.46 (LSEG); revenue $3.74B vs $3.75B (LSEG); Q4 growth guide "low thirties" vs 32.1% (LSEG); GMV $119.15B vs $120.03B (StreetAccount); subscription gross profit $661M vs $680.3M (StreetAccount); subscription revenue $836M vs $848.1M (FactSet). Merchant revenue and gross profit beat (no figures). Shares −8.74% on Nov 3.
+
+2) TBPN, aired ~Nov 3–4, 2026 — via Scuttlebutt newsletter, "Shopify's Harley Finkelstein says AI agents convert 2x better on its catalog", Nov 4, 2026
+   https://daily.scuttlebutt.co/p/shopifys-harley-finkelstein-says
+   - "Right now the current economics remain completely unchanged for Shopify merchants"
+   - "agentic transactions carry the same fees the online store transactions do."
+   - Reported (paraphrase): Shop Pay can serve as the buyer's identity with agents, carrying past orders to any assistant.
+   Note: this speaks to what merchants pay. It does not say whether Shopify pays an agent operator anything.
+
+3) Goldman Sachs Communacopia + Technology Conference, Sep 10, 2026 — Jeff Hoffmeister (CFO) and Archie Abrams (Head of Growth). Listed on https://www.shopify.com/investors/events. Full transcript not retrieved (gap); substance from a secondary Japanese-language summary:
+   https://stellagent.ai/ja/insights/shopify-goldman-sachs-agentic-commerce-catalog
+   - Real LLM-driven traffic to merchant sites is "6–9 months old" (paraphrase).
+   - LLM search sends shoppers to product pages ~2.5x more and converts ~80% better (paraphrase; the Q3 call later gave 3x and 64%).
+   - Entry point shifts to Muse/OpenAI but the transaction completes on merchant sites and Shopify rails; Catalog (taxonomy, de-duplication, live price and inventory) is the defence (paraphrase).
+
+IR events page (https://www.shopify.com/investors/events), read 2026-11-05: Nov 3 Q3 call; Sep 10 Goldman Sachs; Aug 5 Q2 call; Jun 16 AGM; Jun 9 Jefferies; May 5 Q1 call. No upcoming event listed.
+No podcast or conference appearance by Tobi Lütke was found for Sep 23 – Nov 5.

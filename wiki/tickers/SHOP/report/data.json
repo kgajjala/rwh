@@ -1,0 +1,1515 @@
+{
+ "meta": {
+  "ticker": "SHOP",
+  "company": "Shopify Inc.",
+  "title": "Shopify: Five Times the Business, the Same Stock",
+  "dek": "Revenue is nearly five times what it was in February 2021 and the stock is back at that week's price. The agents have arrived and every one of them checks out with Shop Pay. What does $153 assume, and who gets paid when an agent does the buying?",
+  "date": "2026-11-05",
+  "date_long": "November 5, 2026",
+  "status": "Active",
+  "price": 153.03,
+  "price_note": "Nov 4, 2026 close, 4:00 PM EST; the overnight session showed $151.19",
+  "price_url": "https://finance.yahoo.com/quote/SHOP/",
+  "range52": [
+   94.0,
+   180.88
+  ],
+  "type": "Commerce platform: merchant software plus payments",
+  "stage": "Scaling",
+  "cyclical": "No",
+  "competence": "Edge",
+  "compounder": false,
+  "terminal_label": "FY2031",
+  "accent": {
+   "light": "#5b7f2a",
+   "dark": "#a8cf6f"
+  },
+  "html_name": "SHOP-deep-dive.html",
+  "report_path": "../SHOP.md"
+ },
+ "verdict": {
+  "sentence": "Shopify grew 32% again and every new shopping agent checks out with Shop Pay, but at $153.03 the stock sits at its February 2021 price on a still-rich multiple, and the probability-weighted case pays [[pw_return]] a year against the 13% hurdle: Watch.",
+  "non_holder": {
+   "emoji": "🟡",
+   "verb": "Watch (entry ≤[[entry]])"
+  },
+  "holder": {
+   "emoji": "🟡",
+   "verb": "Hold"
+  },
+  "breaks_if": "Agents become a toll: Shopify discloses a fee or revenue share paid to an agent operator, or merchant-solutions gross margin falls below 37% for two quarters while management points to wallet or agent economics. Then the agent channel stops being new volume at today's take rate and becomes old volume at a lower one.",
+  "multiple_label": "EV / FY26E FCF",
+  "multiple": "≈64× (≈80× owner earnings)",
+  "bait": "Single (A)",
+  "moat": "Wide, widening; agent economics unproven",
+  "next": "BFCM (early Dec) · Q4 ~mid-Feb 2027",
+  "price_implies": "between the Base and the Bull (owner EPS ≈[[Priced-in.owner_eps]] in 2031 for 9%/yr)"
+ },
+ "call": "The operating case got stronger again. Q3 revenue grew 32% against a low-thirties guide, GMV grew 30% in constant currency for the sixth straight quarter, and in the US Shopify's merchants are now taking nearly half of all incremental e-commerce. The agent question moved too. Muse, Instinct, Claude Duet and Grok Bot all launched with Shop Pay as the wallet, Shop Pay GMV grew 50%, and the president says agent orders carry the same merchant fees as the online store. What the market has right is the price of all this. At $153.03 the enterprise value is about 64 times this year's free cash flow and about 80 times owner earnings after stock pay. Per-share owner earnings can compound at [[compounding]] a year in my Base and the stock still earns [[pw_return]], because the multiple has to come down by more than half. Spot already sits between my Base and my Bull. What the market may have too little of is the economics question. Analysts asked three times on the call who gets paid when an agent completes the purchase, and the answer covered only the case where the agent sends the shopper to the merchant's own site. The Base and Bull exits assume growth well above GDP after 2031, which I accept because the Base is still growing close to 20% a year then. The verb is not probability-fragile. Even with no Bear at all, the Base and Bull mix does not reach 13%.",
+ "tests": [
+  {
+   "claim": "That growth holds above 25% as comparisons harden.",
+   "test": "Q4 2026 revenue growth of at least 28% against the low-thirties guide, and a Q1 2027 revenue guide at a mid-twenties rate or better, both in the Q4 release (about mid-February 2027). Q3 delivered +32% on top of +32% a year earlier.",
+   "if_fail": "15 points Base → Bear (PW EV [[test1.pw_ev]], [[test1.pw_return]]/yr) → **Watch / Hold**, entry ≤[[test1.entry]].",
+   "shift": {
+    "from": "Base",
+    "to": "Bear",
+    "points": 0.15
+   }
+  },
+  {
+   "claim": "That agents stay a channel, not a toll.",
+   "test": "Through the Q2 2027 results (early August 2027): no disclosed fee or revenue share paid by Shopify to an agent operator on Shop Pay checkouts, and merchant-solutions gross margin of at least 37% in every quarter (38.5% in Q3 2026, 36.8% in the mix-heavy Q4 2025, so Q4 2026 is compared with that). An agent default that routes a named partner's checkouts away from Shop Pay also fails.",
+   "if_fail": "15 points Base → Bear (PW EV [[test2.pw_ev]], [[test2.pw_return]]/yr) → **Watch / Hold**, entry ≤[[test2.entry]].",
+   "shift": {
+    "from": "Base",
+    "to": "Bear",
+    "points": 0.15
+   }
+  },
+  {
+   "claim": "That gross profit keeps pace.",
+   "test": "FY2026 gross-profit growth of at least 25% and a free-cash-flow margin of at least 18% in the 10-K (February 2027). Nine months stand at +30% and 18.5%.",
+   "if_fail": "10 points Base → Bear (PW EV [[test3.pw_ev]], [[test3.pw_return]]/yr) → **Watch / Hold**, entry ≤[[test3.entry]].",
+   "shift": {
+    "from": "Base",
+    "to": "Bear",
+    "points": 0.1
+   }
+  }
+ ],
+ "updates": [
+  {
+   "date": "2026-11-05",
+   "title": "Q3: the sixth 30% quarter, and the agent toll question left open",
+   "file": "updates/2026-11-05.md",
+   "scorecard": [
+    {
+     "test": "Growth holds above 25% (Q3 low thirties; Q1 2027 guide ≥25%)",
+     "result": "pending",
+     "evidence": "Q3 revenue +32% passes the first leg; Q4 guided to the low thirties; the Q1 2027 guide arrives with the Q4 print"
+    },
+    {
+     "test": "Agentic checkout runs through Shop Pay at Shopify's economics (Shop Pay GMV ≥40% or agent GMV disclosed)",
+     "result": "pass",
+     "evidence": "Shop Pay GMV +50%; Muse, Instinct, Claude Duet and Grok Bot all use Shop Pay; agent orders \"carry the same fees\" (Finkelstein, TBPN). Agent GMV is still undisclosed and the fee-share question went unanswered, so test 2 is replaced with one on the economics"
+    },
+    {
+     "test": "Gross profit keeps pace (FY2026 GP ≥25%, FCF margin ≥18%)",
+     "result": "pending",
+     "evidence": "Nine months: gross profit +30%, FCF margin 18.5%; the Q4 guide (GP high twenties, FCF margin in line with Q4 2025) keeps both legs on track"
+    }
+   ]
+  }
+ ],
+ "tables": {
+  "quarters": {
+   "columns": [
+    "$ Million",
+    "Q3 2025",
+    "Q4 2025",
+    "Q1 2026",
+    "Q2 2026",
+    "Q3 2026"
+   ],
+   "rows": [
+    [
+     "GMV ($B)",
+     "92.0",
+     "≈123.8",
+     "100.7",
+     "115.6",
+     "**119.1**"
+    ],
+    [
+     "GMV growth (reported; constant currency where disclosed)",
+     "+32% (+30% CC)",
+     "≈+31%",
+     "+35%",
+     "+32% (+30% CC)",
+     "**+29% (+30% CC)**"
+    ],
+    [
+     "Subscription solutions revenue",
+     "699",
+     "777",
+     "750",
+     "802",
+     "836"
+    ],
+    [
+     "Merchant solutions revenue",
+     "2,145",
+     "2,895",
+     "2,420",
+     "2,781",
+     "2,906"
+    ],
+    {
+     "cells": [
+      "Revenue",
+      "2,844",
+      "3,672",
+      "3,170",
+      "3,583",
+      "**3,742**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Revenue growth",
+     "+32%",
+     "+31%",
+     "+34%",
+     "+34%",
+     "**+32%**"
+    ],
+    [
+     "Gross profit",
+     "1,391",
+     "1,693",
+     "1,546",
+     "1,708",
+     "1,781"
+    ],
+    [
+     "Gross profit growth",
+     "n/d",
+     "+25%",
+     "+32%",
+     "+31%",
+     {
+      "v": "+28%",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Subscription gross margin",
+     "81.7%",
+     "81.0%",
+     "80.3%",
+     "79.7%",
+     {
+      "v": "79.1%",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Merchant solutions gross margin",
+     "38.2%",
+     "36.8%",
+     "39.0%",
+     "38.4%",
+     {
+      "v": "38.5%",
+      "cls": "pos"
+     }
+    ],
+    [
+     "Operating expenses, % of revenue",
+     "36.8%",
+     "28.9%",
+     "36.7%",
+     "34.0%",
+     {
+      "v": "32.4%",
+      "cls": "pos"
+     }
+    ],
+    [
+     "Transaction and loan losses, % of revenue",
+     "5.2%",
+     "3.1%",
+     "3.7%",
+     "3.9%",
+     "3.2%"
+    ],
+    {
+     "cells": [
+      "Operating income",
+      "343",
+      "631",
+      "382",
+      "488",
+      "**568**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Operating margin",
+     "12.1%",
+     "17.2%",
+     "12.1%",
+     "13.6%",
+     "**15.2%**"
+    ],
+    [
+     "Free cash flow",
+     "507",
+     "≈719",
+     "476",
+     "654",
+     "**816**"
+    ],
+    [
+     "FCF margin",
+     "18%",
+     "≈20%",
+     "15%",
+     "18%",
+     "**22%**"
+    ],
+    [
+     "Stock compensation incl. payroll tax",
+     "116",
+     "125",
+     "138",
+     "133",
+     "147"
+    ],
+    [
+     "Share repurchases",
+     "—",
+     "—",
+     "n/d",
+     "≈1,910 (H1)",
+     "562"
+    ]
+   ],
+   "note": "Q4 2025 GMV and free cash flow are `[Derived]` from the FY2025 totals less the first nine months. H1 2026 repurchases are the nine-month cash figure less Q3 `[Derived]`; Q3 is cash paid ($543M of shares bought under the program). Q4 2025 GMV growth is against Q4 2024 GMV of about $94.5B `[Derived]`. From April 2026 merchant-cash-advance cash flows sit in investing, not operating, cash flow, which flatters FCF slightly. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000067/exhibit991pressreleaseq320.htm), [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/shop-20260930.htm) (eight-quarter table), [Q2 2026 release](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000046/exhibit991pressreleaseq220.htm). Built with Claude."
+  },
+  "drivers": {
+   "columns": [
+    "Per dollar of GMV and per merchant",
+    "Q3 2025",
+    "Q3 2026",
+    "Change"
+   ],
+   "rows": [
+    [
+     "GMV ($B)",
+     "92.0",
+     "**119.1**",
+     "+29% (+30% constant currency)"
+    ],
+    [
+     "Shopify Payments GMV ($B) and penetration",
+     "60.2 · 65%",
+     "**81.4 · 68%**",
+     "+35%; +3 pts"
+    ],
+    [
+     "Shop Pay GMV",
+     "n/d",
+     "n/d",
+     "**+50%**"
+    ],
+    [
+     "Revenue per $100 of GMV (take rate)",
+     "$3.09",
+     "**$3.14**",
+     "+5 bps"
+    ],
+    [
+     "Merchant gross profit per $100 of GMV",
+     "$0.89",
+     "**$0.94**",
+     "+5%"
+    ],
+    [
+     "Subscription gross profit per $100 of GMV",
+     "$0.62",
+     "$0.55",
+     {
+      "v": "−11%",
+      "cls": "neg"
+     }
+    ],
+    [
+     "MRR ($M); Plus share of MRR",
+     "193",
+     "**230 · 34%**",
+     "+19%; Plus MRR +18%"
+    ],
+    [
+     "GMV by region (constant currency)",
+     "",
+     "North America +28%, Europe +33%",
+     "International GMV +32% reported"
+    ],
+    [
+     "Offline · B2B GMV",
+     "",
+     "+30% · +74%",
+     "Locations +52%; 55% of new POS merchants new to Shopify"
+    ],
+    [
+     "AI-referred traffic · orders",
+     "",
+     "2.6× · 3.3×",
+     "74% of AI-attributed purchases outside the top 100 categories"
+    ],
+    [
+     "Merchant count · retention · CAC",
+     "n/d",
+     "n/d",
+     "MRR is the proxy for merchants"
+    ]
+   ],
+   "note": "Unit of value: the dollar of GMV and the merchant who brings it. Per-$100 figures are segment revenue or gross profit ÷ GMV `[Derived]`. Source: [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/shop-20260930.htm), [Q3 2026 call (Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/11/03/shopify-shop-q3-2026-earnings-call-transcript/). Built with Claude."
+  },
+  "unit": {
+   "columns": [
+    "Per $100 of GMV",
+    "Q3 2025 actual",
+    "Q3 2026 actual",
+    "Agent pays itself 0.3% of GMV",
+    "Agent checkout off Shop Pay"
+   ],
+   "rows": [
+    [
+     "Merchant solutions revenue",
+     "$2.33",
+     "$2.44",
+     "$2.44",
+     {
+      "v": "≈$0.73",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Merchant solutions gross profit",
+     "$0.89",
+     "$0.94",
+     {
+      "v": "$0.64",
+      "cls": "neg"
+     },
+     {
+      "v": "≈$0.28",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Subscription gross profit",
+     "$0.62",
+     "$0.55",
+     "$0.55",
+     "$0.55"
+    ],
+    {
+     "cells": [
+      "Total gross profit",
+      "$1.51",
+      "$1.49",
+      "$1.19",
+      "≈$0.83"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Operating expenses",
+     "$1.14",
+     "$1.02",
+     "$1.02",
+     "$1.02"
+    ],
+    {
+     "cells": [
+      "Operating profit",
+      "$0.37",
+      "$0.48",
+      {
+       "v": "$0.18",
+       "cls": "neg"
+      },
+      {
+       "v": "≈−$0.19",
+       "cls": "neg"
+      }
+     ],
+     "cls": "tot"
+    },
+    [
+     "What has to be true",
+     "—",
+     "Agents send shoppers to the merchant's store or check out with Shop Pay at today's fees",
+     "Shopify shares 30 bps of every agent order with the agent operator",
+     "The agent's own wallet wins the checkout; Shopify keeps the platform, loses the payment"
+    ]
+   ],
+   "note": "Illustrative. The two right-hand columns are the author's scenarios `[Estimate]`, applied as if every order went that way, to show the sensitivity; in the model only part of GMV is exposed. The 0.3% fee is a placeholder, not a disclosed or reported figure. The off-Shop-Pay column assumes payments make up about 70% of merchant-solutions revenue and gross profit `[Estimate]`; Shopify does not split it. Opex is held at the Q3 2026 level per $100. Source: [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/shop-20260930.htm). Built with Claude."
+  },
+  "rings": {
+   "columns": [
+    "Ring",
+    "Reported figure",
+    "~The threat",
+    "Exposure"
+   ],
+   "rows": [
+    [
+     "**1 · Subscriptions** (plans, Plus, variable platform fees, apps)",
+     "$661M of gross profit in Q3, 37% of the total; MRR $230M",
+     "Merchants pay for the plan whatever channel sells the goods; AI costs are compressing the margin (79.1%)",
+     "**Low**"
+    ],
+    [
+     "**2 · Payments and services on merchant-owned traffic** (storefronts reached by search, social, email, direct; offline POS; B2B)",
+     "Most of the $1,120M of merchant gross profit; offline GMV +30%, B2B +74%",
+     "Card-network and processor costs, competition from Stripe-style rails",
+     "**Low–medium**"
+    ],
+    [
+     "**3 · Payments on orders whose discovery moves into agents**",
+     "Not disclosed; management says \"the volume is still small\"",
+     "A fee share to the agent operator or a rival wallet at checkout",
+     "**High; this is the debate**"
+    ],
+    [
+     "**4 · Capital, ads and the Shop app** (Shopify Capital, Shop Campaigns, shop.com)",
+     "Loan book $2.35B; Shop GMV more than doubled; Shop Campaigns orders more than doubled year to date",
+     "Credit losses in a downturn; ad budgets moving to the agents' own placements",
+     "Medium"
+    ],
+    {
+     "cells": [
+      "Consolidated",
+      "Gross profit $1,781M, operating income $568M in Q3",
+      "",
+      ""
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "Shopify does not split merchant gross profit by product or channel, so the rings sort the reported figures by what each depends on. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000067/exhibit991pressreleaseq320.htm), [10-Q](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/shop-20260930.htm), [call](https://www.fool.com/earnings/call-transcripts/2026/11/03/shopify-shop-q3-2026-earnings-call-transcript/). Built with Claude."
+  },
+  "margin_bridge": {
+   "columns": [
+    "Q3 2026 vs Q3 2025",
+    "Points of revenue",
+    "~Repeats?"
+   ],
+   "rows": [
+    [
+     "Gross margin",
+     {
+      "v": "−130 bps",
+      "cls": "neg"
+     },
+     "Yes: payments mix and AI cost, guided to continue"
+    ],
+    [
+     "Transaction and loan losses",
+     "+200 bps",
+     "Mostly no: laps last year's 5.2% spike"
+    ],
+    [
+     "Sales and marketing",
+     "+200 bps",
+     "Partly: a two-week US spend pause; some spend \"will effectively shift to Q4\""
+    ],
+    [
+     "R&D and G&A",
+     "+50 bps",
+     "Yes, though R&D grew 33% on AI compute and people"
+    ],
+    {
+     "cells": [
+      "Operating margin",
+      "**+310 bps** (12.1% → 15.2%)",
+      ""
+     ],
+     "cls": "tot"
+    },
+    [
+     "FCF margin (18% → 22%)",
+     "+400 bps",
+     "About 150 bps structural by the CFO's split; the rest, marketing test, tax-receivable timing and the cash-advance reclassification, temporary"
+    ]
+   ],
+   "note": "The operating-margin split is `[Derived]` from the 10-Q line items and agrees with [MBI Deep Dives' 3Q'26 note](../../../raw/SHOP/analyst-reports/2026-11-04_MBI_shop3q26.txt) `[Analyst: MBI Deep Dives]`. The FCF split is Jeff Hoffmeister's, on the [Q3 call](https://www.fool.com/earnings/call-transcripts/2026/11/03/shopify-shop-q3-2026-earnings-call-transcript/). Built with Claude."
+  },
+  "capalloc": {
+   "columns": [
+    "$B, except per share",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "9M 2026",
+    "Cumulative"
+   ],
+   "rows": [
+    [
+     "Revenue",
+     "4.61",
+     "5.60",
+     "7.06",
+     "8.88",
+     "11.56",
+     "10.50",
+     "—"
+    ],
+    [
+     "Growth",
+     "+57%",
+     "+21%",
+     "+26%",
+     "+26%",
+     "+30%",
+     "+33%",
+     "—"
+    ],
+    [
+     "Diluted EPS (GAAP, incl. equity marks)",
+     "$2.29",
+     {
+      "v": "−$2.73",
+      "cls": "neg"
+     },
+     "$0.10",
+     "$1.55",
+     "$0.94",
+     "$1.06",
+     "—"
+    ],
+    [
+     "Operating cash flow",
+     "0.54",
+     {
+      "v": "−0.14",
+      "cls": "neg"
+     },
+     "0.94",
+     "1.62",
+     "2.03",
+     "1.96",
+     "6.95"
+    ],
+    [
+     "Capex",
+     "0.05",
+     "0.05",
+     "0.04",
+     "0.02",
+     "0.03",
+     "0.01",
+     "0.20"
+    ],
+    {
+     "cells": [
+      "Free cash flow",
+      "0.49",
+      {
+       "v": "−0.19",
+       "cls": "neg"
+      },
+      "0.91",
+      "1.60",
+      "2.01",
+      "1.95",
+      "**6.75**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "FCF margin",
+     "10.5%",
+     "−3.3%",
+     "12.8%",
+     "18.0%",
+     "17.4%",
+     "18.5%",
+     "—"
+    ],
+    [
+     "Stock compensation",
+     "0.33",
+     "0.55",
+     "0.62",
+     "0.43",
+     "0.45",
+     "≈0.40",
+     "≈2.77"
+    ],
+    [
+     "Buybacks",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "**2.47**",
+     "**2.47**"
+    ],
+    [
+     "Buybacks ÷ FCF",
+     "—",
+     "—",
+     "—",
+     "—",
+     "—",
+     "127%",
+     "37%"
+    ],
+    [
+     "Acquisitions (cash, incl. domain)",
+     "0.06",
+     {
+      "v": "1.75",
+      "cls": "neg"
+     },
+     "0.03",
+     "0.03",
+     "0.06",
+     "0.10",
+     "2.03"
+    ],
+    [
+     "Debt (convertible notes)",
+     "≈0.92",
+     "≈0.92",
+     "≈0.92",
+     "≈0.92",
+     "0 (repaid Nov 2025)",
+     "0",
+     "—"
+    ],
+    [
+     "Weighted diluted shares (M)",
+     "1,274",
+     "1,266",
+     "1,296",
+     "1,302",
+     "1,305",
+     "1,299 (Q3: 1,291)",
+     "—"
+    ]
+   ],
+   "note": "FCF = operating cash flow − purchases of property and equipment `[Derived]`. 9M 2026 stock compensation excludes payroll tax `[Estimate]`. 9M 2026 buybacks are the cash-flow figure; the average price is ≈$117 `[Derived: $1.93B at $114.63 in H1 plus $543M at ≈$127 in Q3]`. Convertible-note balances are approximate from the 10-Ks. Source: [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001594805.json), [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/shop-20260930.htm). Built with Claude."
+  },
+  "deals": {
+   "columns": [
+    "Year",
+    "Deal",
+    "Price",
+    "~What happened",
+    "Verdict"
+   ],
+   "rows": [
+    [
+     "2019",
+     "6 River Systems (warehouse robotics)",
+     "n/d here",
+     "Folded into the logistics push; sold with it in 2023",
+     "Poor"
+    ],
+    [
+     "2022",
+     "Deliverr (fulfillment network)",
+     "≈$1.75B cash in FY2022 acquisitions",
+     "Logistics sold to Flexport in 2023 for an equity stake; the FY2023 operating loss of $1.42B includes the write-down",
+     "**Poor**"
+    ],
+    [
+     "2019–2024",
+     "Minority stakes (Affirm, Klaviyo, Global-E and others)",
+     "Partnership warrants and small cash checks",
+     "Carried at $5.4B at Sep 30, 2026; they swing GAAP net income by up to $1.2B a quarter",
+     "Good"
+    ],
+    [
+     "2026",
+     "shop.com domain",
+     "≈$100M (intangible $99M)",
+     "Shop app moves to shop.com as a consumer destination",
+     "Too early"
+    ]
+   ],
+   "note": "Source: [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001594805.json) (acquisition cash, FY2023 operating loss), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000067/exhibit991pressreleaseq320.htm) (equity investments, intangible purchase), [call](https://www.fool.com/earnings/call-transcripts/2026/11/03/shopify-shop-q3-2026-earnings-call-transcript/). 6 River Systems' price and the Flexport terms were not re-read for this report `[link pending]`. Built with Claude."
+  },
+  "incentives": {
+   "columns": [
+    "Component",
+    "Size",
+    "~What it pays for",
+    "~Status"
+   ],
+   "rows": [
+    [
+     "**Flex Comp** (all named executives)",
+     "One annual dollar amount, split by each executive between cash, options and RSUs",
+     "Retention and the share price; no metric",
+     "Unchanged in the [2026 circular](../../../raw/SHOP/filings/SHOP-Circular-2026.txt)"
+    ],
+    [
+     "**Short-term incentive**",
+     "None",
+     "—",
+     "—"
+    ],
+    [
+     "**Performance-vested equity**",
+     "None",
+     "—",
+     "All awards time-vest"
+    ],
+    [
+     "**Return on invested capital**",
+     {
+      "v": "0%",
+      "cls": "neg"
+     },
+     "Not a metric",
+     "—"
+    ],
+    [
+     "**Founder control**",
+     "Founder share, about 40% of the vote",
+     "Tobi Lütke's alignment is ownership",
+     "Lead director Natale drew 9.6% against at the June AGM"
+    ]
+   ],
+   "note": "Source: [2026 management information circular](../../../raw/SHOP/filings/SHOP-Circular-2026.txt). Built with Claude."
+  },
+  "promises": {
+   "columns": [
+    "~Promised",
+    "Where, when",
+    "~Outcome"
+   ],
+   "rows": [
+    [
+     "Build a fulfillment network (Deliverr)",
+     "Q2 2022",
+     "🔴 Sold to Flexport in 2023; the FY2023 operating loss included the write-down"
+    ],
+    [
+     "Grow opex slower than revenue and expand FCF margin",
+     "2022–23 letters",
+     "✅ FCF margin −3% (FY2022) → 18.5% (9M 2026); opex 37% → 32% of revenue in a year"
+    ],
+    [
+     "Q3 2026: revenue low thirties, gross profit mid-to-high twenties, opex 33–34%",
+     "Q2 call, Aug 5, 2026",
+     "✅ +32%, +28%, 32.4%"
+    ]
+   ],
+   "note": "Guidance grade: **Consistent beater** against its own guide (every line of the Q3 guide met or beaten); against consensus, revenue and GMV were fractionally short (`[Analyst consensus]`, CNBC). Source: [Q2 2026 release](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000046/exhibit991pressreleaseq220.htm), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000067/exhibit991pressreleaseq320.htm), [XBRL](https://data.sec.gov/api/xbrl/companyfacts/CIK0001594805.json). Built with Claude."
+  },
+  "five_year": {
+   "columns": [
+    "$B, except per share",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "TTM Q3 2026"
+   ],
+   "rows": [
+    [
+     "Revenue",
+     "4.61",
+     "5.60",
+     "7.06",
+     "8.88",
+     "**11.56**",
+     "14.17"
+    ],
+    [
+     "Gross margin",
+     "53.8%",
+     "49.2%",
+     "49.8%",
+     "50.4%",
+     "48.1%",
+     "47.5%"
+    ],
+    [
+     "Operating income",
+     "0.27",
+     {
+      "v": "−0.82",
+      "cls": "neg"
+     },
+     {
+      "v": "−1.42",
+      "cls": "neg"
+     },
+     "1.08",
+     "**1.47**",
+     "2.07"
+    ],
+    [
+     "Operating margin",
+     "5.8%",
+     "−14.7%",
+     "−20.1%",
+     "12.1%",
+     "12.7%",
+     "14.6%"
+    ],
+    [
+     "Operating cash flow",
+     "0.54",
+     "−0.14",
+     "0.94",
+     "1.62",
+     "2.03",
+     "2.68"
+    ],
+    {
+     "cells": [
+      "Free cash flow",
+      "0.49",
+      {
+       "v": "−0.19",
+       "cls": "neg"
+      },
+      "0.91",
+      "1.60",
+      "**2.01**",
+      "**2.66**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Stock compensation",
+     "0.33",
+     "0.55",
+     "0.62",
+     "0.43",
+     "0.45",
+     "≈0.52"
+    ],
+    {
+     "cells": [
+      "**Owner earnings** (FCF − SBC)",
+      "0.15",
+      {
+       "v": "−0.74",
+       "cls": "neg"
+      },
+      "0.29",
+      "1.17",
+      "**1.56**",
+      "**≈2.14**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Owner earnings per diluted share",
+     "$0.12",
+     "n/m",
+     "$0.22",
+     "$0.90",
+     "$1.19",
+     "≈$1.66"
+    ],
+    [
+     "SBC % of revenue",
+     "7.2%",
+     "9.8%",
+     "8.7%",
+     "4.8%",
+     "3.9%",
+     "≈3.7%"
+    ],
+    [
+     "SBC ÷ owner earnings",
+     "2.2×",
+     "n/m",
+     "2.1×",
+     "0.37×",
+     "0.29×",
+     "≈0.24×"
+    ],
+    [
+     "Diluted weighted shares (M)",
+     "1,274",
+     "1,266",
+     "1,296",
+     "1,302",
+     "1,305",
+     "1,291 (Q3)"
+    ],
+    [
+     "Net share change per year",
+     "n/m",
+     "−0.6%",
+     "+2.4%",
+     "+0.5%",
+     "+0.2%",
+     {
+      "v": "−1.1%",
+      "cls": "pos"
+     }
+    ],
+    [
+     "Buybacks ÷ SBC",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "≈6× (9M)"
+    ],
+    [
+     "Cash and marketable securities (long-term included from FY2025)",
+     "7.77",
+     "5.05",
+     "5.01",
+     "≈5.5",
+     "6.75",
+     "5.25"
+    ],
+    [
+     "Equity stakes (equity and other plus equity method)",
+     "n/d",
+     "n/d",
+     "n/d",
+     "n/d",
+     "5.18",
+     "5.45"
+    ],
+    [
+     "Invested capital, operating `[Derived]`",
+     "n/d",
+     "n/d",
+     "n/d",
+     "n/d",
+     "1.54",
+     "2.05"
+    ],
+    {
+     "cells": [
+      "**ROIC** (NOPAT = 80% of operating income)",
+      "n/d",
+      "n/m",
+      "n/m",
+      "n/d",
+      "**≈76%**",
+      "**≈92%**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "3-year ROIIC",
+     "",
+     "",
+     "",
+     "",
+     "n/m (FY2022 NOPAT negative)",
+     "—"
+    ],
+    [
+     "Reinvestment rate (net loan originations + acquisitions + capex ÷ NOPAT)",
+     "",
+     "",
+     "",
+     "",
+     "n/d",
+     "≈70% (9M; mostly the loan book)"
+    ],
+    [
+     "FCF ÷ (operating income + SBC)",
+     "81%",
+     "n/m",
+     "n/m",
+     "106%",
+     "105%",
+     "103%"
+    ],
+    [
+     "Net debt ÷ EBITDA · coverage · nearest maturity",
+     "net cash",
+     "net cash",
+     "net cash",
+     "net cash",
+     "net cash; converts repaid",
+     "no debt"
+    ]
+   ],
+   "note": "Owner earnings = free cash flow − stock compensation; capex is about $20–50M a year and D&A about $30M, so maintenance capex is immaterial. Invested capital (operating) = shareholders' equity − cash, marketable securities, long-term investments, equity and other investments and the equity-method stake `[Derived]`; equivalently loans, receivables, goodwill and other operating assets less payables and accrued liabilities. It is mostly the Shopify Capital loan book. Component history before FY2025 was not rebuilt (`n/d`). TTM stock compensation includes payroll tax `[Estimate]`. Cycle position: e-commerce demand is mildly cyclical; Shopify has not been through a consumer recession at this scale with a $2.35B loan book. Source: [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001594805.json), [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/shop-20260930.htm). Built with Claude."
+  },
+  "levers": {
+   "columns": [
+    "Lever",
+    "~Contribution now",
+    "Runway",
+    "~Evidence",
+    "~Management intent",
+    "Stage"
+   ],
+   "rows": [
+    [
+     "Market growth",
+     "~8 pts",
+     "10+ yrs",
+     "US e-commerce grew about 8% a year over three years (CFO)",
+     "\"To believe in Shopify, you really just need to believe in commerce\"",
+     "Proven"
+    ],
+    [
+     "Share gain",
+     "~20 pts",
+     "5–10 yrs",
+     "US merchants' online sales +23% CAGR vs 8% for the market; nearly half of US incremental e-commerce since 2025 at about 14% share",
+     "Enterprise, luxury, offline",
+     "Proven"
+    ],
+    [
+     "Price and mix (attach)",
+     "~1–2 pts",
+     "3–5 yrs",
+     "Take rate 3.09% → 3.14%; payments 65% → 68%; Plus 34% of MRR",
+     "Attach every service",
+     "Proven"
+    ],
+    [
+     "Attach / new products",
+     "Offline +30%, B2B +74%, Capital book +32% in 9M",
+     "5+ yrs",
+     "55% of new POS merchants new to Shopify; Shop Campaigns orders more than doubled",
+     "Full stack, online and off",
+     "Scaling"
+    ],
+    [
+     "New geographies",
+     "Europe +33% CC",
+     "10 yrs",
+     "Local payment methods (OXXO), Shop app #1 in Japan's store the week of launch",
+     "\"A lot more of this to come in 2027\"",
+     "Scaling"
+    ],
+    [
+     "AI and agent channels",
+     "Orders 3.3×, \"still small\"",
+     "Unknown",
+     "All major personal agents on Shop Pay; Catalog converts 2× general AI search",
+     "Be the commerce layer behind every agent",
+     "**Option** (in the Bull)"
+    ],
+    [
+     "M&A",
+     "≈0",
+     "—",
+     "Deliverr failure; shop.com domain",
+     "None signalled; new shelf filed",
+     "n/a"
+    ],
+    [
+     "Margin",
+     "Opex 37% → 32% of revenue",
+     "3–5 yrs",
+     "Gross profit growth beat opex growth by about 12 points each quarter of 2026",
+     "Discipline plus investment in AI",
+     "Scaling"
+    ],
+    [
+     "Share count",
+     "−1.1% in a year",
+     "$2.5B authorization left",
+     "$2.47B bought in nine months at ≈$117",
+     "Opportunistic",
+     "Proven (new)"
+    ]
+   ],
+   "note": "Zook adjacency: every lever sells to the same merchants on the same rails; the Shop app and shop.com reach consumers, a new customer for Shopify, and are graded as an adjacency, not diversification, because they exist to send buyers to Shopify merchants. Source: [call](https://www.fool.com/earnings/call-transcripts/2026/11/03/shopify-shop-q3-2026-earnings-call-transcript/), [10-Q](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/shop-20260930.htm). Built with Claude."
+  },
+  "moat": {
+   "columns": [
+    "Read",
+    "Call",
+    "~Evidence"
+   ],
+   "rows": [
+    [
+     "Mechanism",
+     "**Switching costs** (the merchant's whole stack) plus **network economies** (Shop Pay's saved buyers)",
+     "Enterprise replatforms (Alice + Olivia after Shop Pay became its top payment method; Omaha Steaks off a custom stack); 400 million Shop and Shop Pay users (management)"
+    ],
+    [
+     "Trend",
+     "**Widening**",
+     "Merchants' share of incremental US e-commerce rose from about a fifth to nearly half in three years; Lululemon put Shop Pay on top of its own stack; every major personal agent launched with Shop Pay"
+    ],
+    [
+     "Profit pool",
+     "Shopify captures the payments spread; **the agent layer is unpriced**",
+     "Merchant gross margin up three quarters running on processor savings; the fee split between agent operator, wallet and platform has not been disclosed by anyone"
+    ],
+    [
+     "Customer",
+     "Merchants from first sale to enterprise; the job is to sell everywhere from one system",
+     "Retention and CAC/LTV not disclosed; MRR +19%; 43% more stores made a first sale within a day than three years ago (CFO)"
+    ]
+   ],
+   "note": "7 Powers vocabulary (Helmer). Scale economies shared: processor savings have gone to Shopify's margin, not to merchant prices, so far. Source: [call](https://www.fool.com/earnings/call-transcripts/2026/11/03/shopify-shop-q3-2026-earnings-call-transcript/). Built with Claude."
+  },
+  "competitors": {
+   "columns": [
+    "Competitor",
+    "~Position",
+    "~Threat"
+   ],
+   "rows": [
+    [
+     "**Amazon** (marketplace, Buy with Prime, Alexa for Shopping)",
+     "Shopify GMV is now about 46% of Amazon's estimated retail GMV `[Analyst: MBI Deep Dives]`",
+     "Medium. Wants its own agent to be the front door; objected to Muse"
+    ],
+    [
+     "**Agent operators** (Meta Muse, OpenAI, Google, Anthropic, xAI)",
+     "Own consumer intent; partners today",
+     "Medium, rising. The fee question is open"
+    ],
+    [
+     "**Stripe and other checkout rails**",
+     "Shopify Payments runs on processor partners",
+     "Low–medium. Could sell agentic checkout to non-Shopify merchants"
+    ],
+    [
+     "**Salesforce / Adobe Commerce**",
+     "Enterprise incumbents",
+     "Low, falling. Losing luxury and enterprise migrations"
+    ],
+    [
+     "**Wix · Squarespace · WooCommerce · BigCommerce**",
+     "SMB tools",
+     "Low"
+    ]
+   ],
+   "note": "Scuttlebutt: competitors' results were not re-pulled for this report. The Amazon comparison and the Muse objection are from [MBI Deep Dives' 3Q'26 note](../../../raw/SHOP/analyst-reports/2026-11-04_MBI_shop3q26.txt). Built with Claude."
+  },
+  "risks": {
+   "columns": [
+    "~Risk",
+    "Impact",
+    "Prob.",
+    "~Priced in?",
+    "~Would break the thesis if…"
+   ],
+   "rows": [
+    [
+     "⚠️ **Agents become a toll**: a fee share to agent operators, or a rival wallet at the agent's checkout",
+     "High",
+     "30%",
+     "**No**: spot sits above the Base",
+     "A disclosed fee share, or merchant gross margin below 37% (test 2)"
+    ],
+    [
+     "⚠️ **Multiple compression**: ≈64× FCF, ≈80× owner earnings",
+     "High",
+     "Med",
+     "**No**: the core of the valuation",
+     "— (a valuation, not a thesis, break)"
+    ],
+    [
+     "**Gross margin keeps sliding** on payments mix and AI cost (subscription margin down four quarters running)",
+     "Med",
+     "High (observed)",
+     "Partly",
+     "FY2026 gross-profit growth below 25% (test 3)"
+    ],
+    [
+     "**Growth slows** as comparisons harden and the consumer weakens (management acknowledged pressure into the holidays)",
+     "Med",
+     "Med",
+     "Partly",
+     "Q1 2027 guide below the mid-twenties (test 1)"
+    ],
+    [
+     "**Shopify Capital credit**: loans $2.35B, up 32% in nine months; lending losses +$83M",
+     "Med",
+     "Med",
+     "No",
+     "Lending losses outgrow the loan book for two quarters"
+    ],
+    [
+     "**Dilution**: universal shelf filed Nov 3",
+     "Low",
+     "Low",
+     "Yes",
+     "An equity raise or a large stock-funded acquisition"
+    ],
+    [
+     "Founder control (founder share)",
+     "Low",
+     "Certain",
+     "Yes",
+     "—"
+    ]
+   ],
+   "note": "Filtered for materiality; the 10-Q reports no material change to the FY2025 Item 1A risk factors, and the Item 1A diff was not re-run (logged). Reflexive loops and ruin paths: none; no debt, $5.25B of cash and marketable securities against a $2.35B loan book. Source: [10-Q](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/shop-20260930.htm), [CNBC](https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html). Built with Claude."
+  },
+  "catalysts": {
+   "columns": [
+    "Date",
+    "Catalyst",
+    "~Why it matters"
+   ],
+   "rows": [
+    [
+     "✅ Nov 3",
+     "Q3 results and Q4 guide",
+     "Tests scored in the update above"
+    ],
+    [
+     "📅 Late Nov – early Dec",
+     "Black Friday / Cyber Monday GMV, usually published by Shopify",
+     "First holiday with personal agents live; Shop Pay share"
+    ],
+    [
+     "📅 About mid-Feb 2027",
+     "Q4 results, Q1 2027 guide, FY2026 10-K",
+     "Tests 1 and 3; FY2026 owner earnings"
+    ],
+    [
+     "📅 Early Aug 2027",
+     "Q2 2027 results",
+     "Test 2: merchant gross margin and any agent fee disclosure"
+    ],
+    [
+     "📅 Any time",
+     "An offering under the new shelf, or a large acquisition",
+     "Capital allocation and dilution"
+    ]
+   ],
+   "note": "Source: [IR events](https://www.shopify.com/investors/events), [10-Q](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/shop-20260930.htm). Built with Claude."
+  },
+  "sentiment": {
+   "columns": [
+    "Signal",
+    "~Read"
+   ],
+   "rows": [
+    [
+     "Price",
+     "$156.22 before the print, −8.7% to $142.57 on Nov 3 on a GMV figure 0.7% under consensus, +7.3% to $153.03 on Nov 4. 52-week range $94.00–$180.88"
+    ],
+    [
+     "Analysts",
+     "Buy, 55 analysts; mean target $176.74, median $180, range $120–$220. Nov 3–4: UBS Hold $145 → $160, Morgan Stanley Buy $192, ATB Hold $168 → $170, Barclays Hold $145, Jefferies Buy $175 `[Analyst consensus]`"
+    ],
+    [
+     "Consensus vs Q3",
+     "Adjusted EPS $0.49 vs $0.46–0.47; revenue $3.74B vs $3.74–3.75B; GMV $119.15B vs $120.03B; subscription gross profit $661M vs $680M `[Analyst consensus]`"
+    ],
+    [
+     "Independent analyst",
+     "MBI Deep Dives (Nov 4): \"an excellent company with not-so-excellent risk-reward\"; would own it below $110 `[Analyst: MBI Deep Dives]`"
+    ],
+    [
+     "Short interest",
+     "20.8M shares, 1.61% of float, 2.6 days to cover on Oct 15, +3% after +23% in the prior period"
+    ],
+    [
+     "Insiders (90 days)",
+     "Form 144 notices Aug 5 – Sep 25; executed sales are reported on SEDI, not read (gap). No purchases seen. The Aug 31 Form 4 is Shopify's own Klaviyo warrant exercise"
+    ],
+    [
+     "Appearances (Sep 23 – Nov 5)",
+     "Q3 call (Nov 3, Finkelstein and Hoffmeister); CNBC Squawk on the Street and TBPN (Finkelstein, Nov 3–4). Goldman Sachs Communacopia (Sep 10, Hoffmeister and Abrams) fell just before the window; read only in a secondary write-up. No Lütke appearance found. No upcoming IR event listed"
+    ],
+    [
+     "BAIT",
+     "Single (A): the market trades the stock on a point of GMV while the decision is the five-year margin and the agent economics"
+    ]
+   ],
+   "note": "Context only; none of it moves a verb. Source: [Yahoo Finance](https://finance.yahoo.com/quote/SHOP/), [StockAnalysis](https://stockanalysis.com/stocks/shop/forecast/), [CNBC](https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html), [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/SHOP/short-interest/), [EDGAR filing index](https://data.sec.gov/submissions/CIK0001594805.json). Built with Claude."
+  }
+ },
+ "charts": {
+  "since_peak": {
+   "type": "line",
+   "file": "series/since_peak.json",
+   "baseline": 100,
+   "yTicks": [
+    0,
+    50,
+    100,
+    150,
+    200,
+    250
+   ],
+   "tableEvery": 26,
+   "names": {
+    "SHOP": "Shopify"
+   },
+   "aria": "Total return index from February 12, 2021 = 100 for Shopify, Amazon and the S&P 500",
+   "note": "Total return, weekly, February 12, 2021 = 100, through November 4, 2026. Shopify closed at $145.55 (split-adjusted) on February 12, 2021, peaked at $169.06 in November 2021 and bottomed at $25.67 in October 2022. Source: Yahoo Finance adjusted closes. Built with Claude."
+  },
+  "gp_mix": {
+   "type": "bar100",
+   "keys": [
+    "Subscription solutions",
+    "Merchant solutions"
+   ],
+   "unit": "$M",
+   "valueLabel": "Gross profit",
+   "prefix": "$",
+   "suffix": "M",
+   "rows": [
+    {
+     "label": "Q3 2025",
+     "values": [
+      571,
+      820
+     ]
+    },
+    {
+     "label": "FY2025",
+     "values": [
+      2232,
+      3323
+     ]
+    },
+    {
+     "label": "9M 2026",
+     "values": [
+      1902,
+      3133
+     ]
+    },
+    {
+     "label": "Q3 2026",
+     "values": [
+      661,
+      1120
+     ]
+    }
+   ],
+   "aria": "Share of gross profit, subscription and merchant solutions, Q3 2025, FY2025, nine months 2026 and Q3 2026",
+   "note": "Share of gross profit; segment revenue less segment cost of revenues `[Derived]`. Source: [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/shop-20260930.htm) (eight-quarter table). Built with Claude."
+  }
+ },
+ "return_math": {
+  "compounding": "Base owner earnings per share grow from ≈$1.64 in FY2026 to [[Base.owner_eps]] in FY2031, [[Base.cagr]] a year, with no dividend: that is the compounding rate at a flat multiple. Re-rating takes about 23 points a year off the Base return, because the exit at 35× is well under half of today's ≈90× FY2026 owner earnings. All of the gap to the hurdle is the multiple.",
+  "price_implied": "At 9%, spot needs owner earnings of [[Priced-in.owner_eps]] a share in FY2031 at 35×: revenue of about $44B and an operating margin near 22%, between my Base and Bull. On free cash flow alone, EV of ≈$186B on ≈$2.9B prices about 18% growth for ten years at 9%, then 4%.",
+  "epv": "Owner earnings power today is ≈$2.1–2.3B. Capitalized at 9% that is ≈$24B, or about $19 a share, plus ≈$8 of cash and stakes: ≈$27 against $153. About 82% of the price pays for growth. The Bear's ≈[[Bear.value]] is about three times EPV, so even the Bear assumes the business keeps growing.",
+  "base_rate": "Revenue of ≈$15B sits in the $12–25B bucket. The Base's ≈22% nominal growth (about 19–20% real) over five years is reached by roughly 3–4% of such companies, and the Bull's ≈25% by under 3% ([`compounding.md`](../../frameworks/compounding.md)). Shopify has been in that tail for a decade, which is why the Base is Probable rather than Plausible; the Bull is Plausible and the Bear Probable.",
+  "terminal_growth": "Implied perpetual growth on owner earnings at 9%: Bull [[Bull.g]], Base [[Base.g]], Bear [[Bear.g]]. The Bull and Base exceed the 4.95% Treasury, so their exit multiples assume Shopify is still growing well above GDP after 2031. I accept that for the Base because the business is still growing close to 20% in FY2031, but it is a real assumption.",
+  "year_ten": "Still growing in the low-to-mid teens at year ten on e-commerce share of retail, offline, B2B and international, with operating margin still rising, so the business compounds past the horizon; the 35× exit assumes exactly that.",
+  "rr_note": " The downside is a toll on the agent channel plus a normal growth company's multiple, not a broken business.",
+  "note": "Computed rows come from model.json. The segment 'operating margin' rows in the model build are gross margins, and 'Corporate and other' is total operating expenses. EPV, base rate and year ten are the author's. Built with Claude."
+ },
+ "sources": [
+  {
+   "label": "Q3 2026 release (8-K Ex. 99.1, Nov 3)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000067/exhibit991pressreleaseq320.htm"
+  },
+  {
+   "label": "Q3 2026 release extract",
+   "url": "../../../raw/SHOP/press-releases/2026-11-03_Q3-2026_earnings.txt"
+  },
+  {
+   "label": "Q3 2026 10-Q",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/shop-20260930.htm"
+  },
+  {
+   "label": "Q3 2026 10-Q extract",
+   "url": "../../../raw/SHOP/filings/2026-11-03_10-Q_Q3-2026_extract.txt"
+  },
+  {
+   "label": "Q3 2026 call transcript (Motley Fool)",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/11/03/shopify-shop-q3-2026-earnings-call-transcript/"
+  },
+  {
+   "label": "Q3 2026 call transcript (Investing.com, cross-check)",
+   "url": "https://in.investing.com/news/stock-market-news/earnings-call-transcript-shopify-tops-profit-view-in-q3-2026-but-shares-fall-93CH-5675737"
+  },
+  {
+   "label": "Q3 2026 call excerpts",
+   "url": "../../../raw/SHOP/transcripts/2026-11-03_Q3-2026_earnings-call.txt"
+  },
+  {
+   "label": "Shopify falls after GMV miss, CNBC (Nov 3)",
+   "url": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html"
+  },
+  {
+   "label": "Finkelstein on TBPN, Scuttlebutt (Nov 4)",
+   "url": "https://daily.scuttlebutt.co/p/shopifys-harley-finkelstein-says"
+  },
+  {
+   "label": "Earnings-day appearances notes",
+   "url": "../../../raw/SHOP/appearances/2026-11-03_CNBC-TBPN_finkelstein.txt"
+  },
+  {
+   "label": "Goldman Sachs Communacopia summary (Sep 10, secondary)",
+   "url": "https://stellagent.ai/ja/insights/shopify-goldman-sachs-agentic-commerce-catalog"
+  },
+  {
+   "label": "MBI Deep Dives, Shopify 3Q'26: Closing In on Half of Amazon (Nov 4, 2026)",
+   "url": "../../../raw/SHOP/analyst-reports/2026-11-04_MBI_shop3q26.txt"
+  },
+  {
+   "label": "MBI Deep Dives, Shopify: The Anti-Amazon Protagonist (Apr 9, 2021)",
+   "url": "../../../raw/SHOP/analyst-reports/2021-04-09_MBI_anti-amazon-protagonist.txt"
+  },
+  {
+   "label": "Q2 2026 release",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000046/exhibit991pressreleaseq220.htm"
+  },
+  {
+   "label": "Q2 2026 10-Q",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000047/shop-20260630.htm"
+  },
+  {
+   "label": "Q2 2026 call and window notes",
+   "url": "../../../raw/SHOP/appearances/2026-08-05_Q2-call_finkelstein-hoffmeister.txt"
+  },
+  {
+   "label": "2026 management information circular",
+   "url": "../../../raw/SHOP/filings/SHOP-Circular-2026.txt"
+  },
+  {
+   "label": "8-K buyback increase (Jun 2)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000028/shop-20260602.htm"
+  },
+  {
+   "label": "FY2024 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000039/shop-20241231.htm"
+  },
+  {
+   "label": "XBRL company facts",
+   "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001594805.json"
+  },
+  {
+   "label": "EDGAR filing index (S-3ASR, Form 144s)",
+   "url": "https://data.sec.gov/submissions/CIK0001594805.json"
+  },
+  {
+   "label": "IR events",
+   "url": "https://www.shopify.com/investors/events"
+  },
+  {
+   "label": "Price and 52-week range, Yahoo Finance",
+   "url": "https://finance.yahoo.com/quote/SHOP/"
+  },
+  {
+   "label": "Analyst forecasts, StockAnalysis",
+   "url": "https://stockanalysis.com/stocks/shop/forecast/"
+  },
+  {
+   "label": "Short interest, MarketBeat",
+   "url": "https://www.marketbeat.com/stocks/NASDAQ/SHOP/short-interest/"
+  },
+  {
+   "label": "10-year Treasury yield, FRED DGS10",
+   "url": "https://fred.stlouisfed.org/series/DGS10"
+  },
+  {
+   "label": "Source log and gaps",
+   "url": "../../../raw/SHOP/SOURCES.md"
+  },
+  {
+   "label": "Base rates",
+   "url": "../../frameworks/compounding.md"
+  }
+ ],
+ "vars": {}
+}

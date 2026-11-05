@@ -1,0 +1,60 @@
+Shopify 10-Q for the quarter ended September 30, 2026 (filed 2026-11-03) — extract
+Source: https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/shop-20260930.htm
+Retrieved 2026-11-05 via the built-in browser (document.body.innerText, 144,873 chars). Verbatim sentences quoted; tables re-typed. Sections not read in full: notes to the financial statements other than those quoted.
+
+COVER: 1,208,456,928 Class A Subordinate Voting Shares, 78,065,084 Class B Restricted Voting Shares and 1 Founder Share issued and outstanding as of October 30, 2026. (Total 1,286.5M.)
+
+MD&A — overview
+- 9M revenue $10.5B, +33%. Subscription 23% of revenue (25%). Merchant 77% (75%).
+- Subscription 9M $2.0B -> $2.4B (+21%). MRR $230M at Sep 30, +19% vs $193M.
+- "In the three months ended September 30, 2026, the MRR growth rate for the period was consistent with the same period in 2025."
+- Merchant solutions 9M $5.9B -> $8.1B (+37%).
+- GMV Q3 $119.1B, 9M $335.5B (Q3 2025 $92.0B, 9M $254.6B): +29% quarter, +32% YTD (2025 vs 2024: 32% and 29%). Constant currency +30% and +30% (2025: 30% and 28%).
+- Shopify Payments: "For the three months ended September 30, 2026, the Shopify Payments penetration rate was 68%, resulting in GMV of $81.4 billion that was facilitated using Shopify Payments. This compares to a penetration rate of 65% resulting in GMV of $60.2 billion ... in the same period in 2025." Payments GMV +$21.3B, +35%. Shopify Payments revenue +$619M in Q3. 9M: penetration 68% (65%), $226.5B ($164.3B), +38%.
+- Mix: "Gross profit margins on Shopify Payments ... are typically lower than on subscription solutions ... We view Shopify Payments as beneficial to our operating margins, as it requires significantly less sales and marketing and research and development expenses ... continued growth of merchant solutions has caused in the past, and may cause in the future, a decline in our overall gross margin percentage."
+
+Cost of revenues (Q3): subscription 175 (128), +37%: "driven by a $40 million increase in our infrastructure costs, including cloud hosting platforms, infrastructure software and LLM usage costs." 9M +$99M on the same.
+Gross profit Q3 1,781 (1,391), +28%; 48% of revenue (49%). 9M 5,035 (3,862), +30%.
+
+Opex (Q3 / Q3 2025):
+- S&M 466 / 410 (+14%), 12% of revenue (14%): +$26M marketing programs, +$21M affiliate payouts.
+- R&D 497 / 375 (+33%), 13% (13%): +$62M employee costs "including timing of product development events" and +$40M computer hardware and software "which includes AI-related usage".
+- G&A 130 / 115 (+13%).
+- Transaction and loan losses 120 / 148 (−19%): "$41 million decrease in losses related to Shopify Payments driven by lower realized losses ... offset by a $14 million increase in losses related to lending services driven by an expansion of our offerings". 9M 377 / 303 (+24%), lending +$83M.
+- Operating income 568 (343). 9M 1,438 (837).
+
+Equity investments: Q3 net loss on equity and other investments $127M incl. $126M unrealized loss on listed holdings; 9M $530M gross unrealized gain on "an observable price change of a private investment", $404M unrealized loss on listed holdings. Equity method loss $21M Q3.
+Tax: released $63M of US valuation allowance as a discrete benefit: "The main positive evidence was sustained profits of its U.S. operations and projections of future taxable income."
+
+EIGHT-QUARTER TABLE ($M)   Q3'26 Q2'26 Q1'26 Q4'25 Q3'25 Q2'25 Q1'25 Q4'24
+Subscription                836   802   750   777   699   656   620   666
+Merchant                  2,906 2,781 2,420 2,895 2,145 2,024 1,740 2,146
+Revenue                   3,742 3,583 3,170 3,672 2,844 2,680 2,360 2,812
+Gross profit              1,781 1,708 1,546 1,693 1,391 1,302 1,169 1,352
+S&M                         466   498   496   433   410   415   405   348
+R&D                         497   445   437   390   375   394   377   351
+G&A                         130   136   115   125   115   122   109   112
+Transaction & loan losses   120   141   116   114   148    80    75    76
+Total opex                1,213 1,220 1,164 1,062 1,048 1,011   966   887
+Operating income            568   488   382   631   343   291   203   465
+Net income                  462 1,502  (581)  743   264   906  (682) 1,293
+Non-GAAP EPS               0.49  0.42  0.36  0.48  0.34  0.35  0.25  0.44
+SBC incl payroll tax        147   133   138   125   116   120   123   118
+
+LIQUIDITY
+- "Concurrently with the filing of this Quarterly Report on Form 10-Q, we filed a new short-form base shelf prospectus with the Canadian securities regulators and a shelf registration statement on Form S-3 with the U.S. SEC. Once effective, the new shelf prospectus and registration statement will permit us to offer Class A subordinate voting shares, preferred shares, debt securities, warrants, subscription receipts, units, or any combination thereof ..."
+- "Although we currently are not a party to any material undisclosed agreement ... with respect to potential material investments in, or material acquisitions of, businesses or technologies, we may enter into these types of arrangements in the future, which could also require us to seek additional equity or debt financing."
+- Buyback: $2B authorized Q1 2026 (effective Feb 17), +$3B Q2 2026 = $5B. "During the three months ended September 30, 2026, we repurchased $543 million ... As of September 30, 2026, a total of $2.5 billion remained available".
+- Cash, equivalents and marketable securities $4.7B at Sep 30 (Dec 31: $5.8B), down $1.1B "as a result of cash used in repurchases ... and the purchase and origination of loans and merchant cash advances, net of repayments". Plus $524M long-term marketable securities.
+- 9M cash flows: operating 1,957 (1,308); investing 821 (−536); financing (2,449) (127). Repurchases 9M $2.5B. Net loan/MCA originations $702M; equity investments $217M; intangibles $99M; PP&E $11M.
+- Shopify Capital in Canada moved from MCAs to loans from April 2026 (regulation); MCA cash flows now in investing.
+- Litigation: "We are not aware of any litigation matters or loss contingencies that would be expected to have a material adverse effect".
+
+RISK FACTORS (Part II Item 1A): "There have been no material changes to the Company's risk factors from those disclosed in the 2025 Form 10-K."
+
+ISSUER PURCHASES Q3 2026
+Month       Shares      Avg price   Remaining ($M)
+July        2,938,885   $122.13     2,708
+August        671,001   $139.14     2,615
+September     675,962   $134.50     2,524
+Total       4,285,848   ≈$126.7 [Derived: $543M / 4.286M]

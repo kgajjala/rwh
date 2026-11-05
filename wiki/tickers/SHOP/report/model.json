@@ -1,0 +1,150 @@
+{
+ "spot": 153.03,
+ "dps": 0.0,
+ "discount_rate": 0.09,
+ "hurdle": 0.13,
+ "risk_free": 0.0495,
+ "last_year": 2031,
+ "fy_prefix": "FY",
+ "eps_label": "EPS ex equity-investment marks",
+ "segment_names": {
+  "SUB": "Subscription solutions",
+  "MER": "Merchant solutions"
+ },
+ "actual": {
+  "year": 2025,
+  "segments": {
+   "SUB": {
+    "rev": 2.752,
+    "op": 2.232
+   },
+   "MER": {
+    "rev": 8.804,
+    "op": 3.323
+   }
+  },
+  "corp": -4.087,
+  "ni": 1.46,
+  "shares": 1.305,
+  "eps": 1.12
+ },
+ "base": {
+  "year": 2026,
+  "shares": 1.29,
+  "corp_pct": 0.327,
+  "other": 0.25,
+  "tax": 0.2,
+  "segments": {
+   "SUB": {
+    "rev": 3.32,
+    "margin": 0.795
+   },
+   "MER": {
+    "rev": 12.03,
+    "margin": 0.38
+   }
+  },
+  "sbc_pct": 0.037,
+  "eps_excludes_sbc": false,
+  "oe_conversion": 1.08
+ },
+ "other_growth": 0.0,
+ "cases": {
+  "Bull": {
+   "role": "bull",
+   "prob": 0.25,
+   "pe": 40,
+   "basis": "owner",
+   "corp_pct": 0.215,
+   "tax": 0.21,
+   "dilution": 0.01,
+   "buyback": 0.025,
+   "sbc_pct": 0.03,
+   "segments": {
+    "SUB": {
+     "g": 0.19,
+     "m": 0.79
+    },
+    "MER": {
+     "g": 0.27,
+     "m": 0.38
+    }
+   },
+   "tier": "Plausible",
+   "story": "Agents and offline add GMV Shopify would not otherwise see: revenue about $47B (+25%/yr); merchant gross margin holds at 38% because agent checkouts carry the same fees; opex falls to 21.5% of revenue, so operating margin reaches about 23%; buybacks retire a net 1.5% of shares a year; 40× owner earnings."
+  },
+  "Base": {
+   "role": "base",
+   "prob": 0.5,
+   "pe": 35,
+   "basis": "owner",
+   "corp_pct": 0.24,
+   "tax": 0.21,
+   "dilution": 0.012,
+   "buyback": 0.015,
+   "sbc_pct": 0.032,
+   "segments": {
+    "SUB": {
+     "g": 0.17,
+     "m": 0.78
+    },
+    "MER": {
+     "g": 0.235,
+     "m": 0.375
+    }
+   },
+   "tier": "Probable",
+   "story": "Share gain, payments attach and international carry revenue to about $42B (+22%/yr compound); agents are a channel, not a toll; gross margin drifts down on mix; opex falls to 24% of revenue, so operating margin reaches about 20%; buybacks just offset stock pay; 35× owner earnings."
+  },
+  "Bear": {
+   "role": "bear",
+   "prob": 0.25,
+   "pe": 25,
+   "basis": "owner",
+   "corp_pct": 0.28,
+   "tax": 0.21,
+   "dilution": 0.013,
+   "buyback": 0.01,
+   "sbc_pct": 0.035,
+   "segments": {
+    "SUB": {
+     "g": 0.11,
+     "m": 0.76
+    },
+    "MER": {
+     "g": 0.16,
+     "m": 0.35
+    }
+   },
+   "tier": "Probable",
+   "story": "Growth fades to about 15% a year (about $31B of revenue) as agents and Amazon take the discovery layer and a fee share; merchant gross margin falls to 35% and AI costs keep subscription margin falling; operating margin about 14%; 25× owner earnings."
+  }
+ },
+ "optionality": [
+  {
+   "name": "Equity stakes (Affirm, Klaviyo, Global-E and others) at Sep 30 carrying value, $5.4B",
+   "prob": 1.0,
+   "value": 4.2
+  }
+ ],
+ "diagnostics": {
+  "Priced-in": {
+   "label": "Priced-in (9%/yr)",
+   "target_return": 0.09,
+   "pe": 35,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  },
+  "Hurdle": {
+   "label": "Hurdle (13%/yr)",
+   "target_return": 0.13,
+   "pe": 35,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  }
+ }
+}

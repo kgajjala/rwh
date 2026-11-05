@@ -1,0 +1,1246 @@
+MBI Deep Dives, 'Shopify: The Anti-Amazon Protagonist', Apr 9, 2021 (premium deep dive). User-supplied PDF, text extracted with PDFKit on 2026-11-05. Charts are not captured. Pre-split prices (10-for-1 split, June 2022). Analyst commentary: cite as [Analyst: MBI Deep Dives].
+
+
+=== PAGE 1 ===
+MBI Deep Dives
+BY MBI DEEP DIVES IN DEEP DIVE PREMIUM — APR 9, 2021
+Shopify: The Anti-Amazon
+Protagonist
+▶ Listen to this article
+1×
+Jordan · Warm Alex · Smooth
+On February 12, 2021, Shopify was trading at ~$1,500/share, an all-time high for the
+stock. From February 12, 2016 to the day it reached its record high, Shopify generated
+7,429.7% for its shareholders (source: KoyFin). I thought to myself, wait, is that ~75x in
+5 years? I was so incredulous that I had to take my calculator out and manually type it
+to confirm it is indeed ~75x in 5 years.
+A publicly listed company based out of Ottawa (from where I am writing this piece
+myself) probably beat the supermajority of successful venture capital investments
+during the same time. Ironically, BVP in their original Shopify investment memo
+mentioned “very few VCs believed that software businesses targeting SMBs were good
+investments”
+.
+I have read probably ~50 articles/substacks/blogs/podcasts/sell-side research on
+Shopify in the last one month, but perhaps nobody did as compelling and complete a
+job of covering Shopify as “The 10th man”
+. I read his ~11k-worded piece not once, but
+twice. I then had a two-hour long call with him to go through his model and his current
+thoughts on Shopify. As a testament to my name “MBI”
+, I have quite liberally borrowed
+ideas from him and many others, and then made an earnest attempt to see the long-
+term future of Shopify.
+0:00 / 86:00
+Voice:
+
+=== PAGE 2 ===
+Here is the outline for this month’s deep dive.
+Section 1 Shopify business model: I will get you up to speed on Shopify’s business
+model and how it makes money.
+Section 2 Exploring the future of retail: I did a mini-deep dive here to gauge long-term
+e-commerce penetration, the “Battle Royale” between marketplace and DTC, and
+whether Shopify should build a marketplace.
+Section 3 Shopify’s path (and resistance) to dominate the global retail operating
+system: I discuss three key topics here: a) How Shopify is way ahead of the curve in
+the status quo SMB e-commerce platform business, b) Competition for ancillary
+products/services, and c) the Facebook threat.
+Section 4 Valuation model and assumptions: In some ways, valuing Shopify is bit of a
+St. Petersburg paradox. I used expectations investing approach to sketch what we
+need to believe to generate a decent return. While the detailed model can seem too
+complex, I also discussed a back-of-the-envelope type calculation to do a quick
+valuation of Shopify. The complex model lets you visualize the drivers, but the quick
+and dirty method may be more useful to value an ultra-high growth company such as
+Shopify.
+Section 5 Final words: Concluding remarks on Shopify and a brief discussion on my
+portfolio.
+There is quite an extensive recommended reading list following this month’s deep dive.
+I wanted to make sure if you want to do your own work instead of relying on my
+inferences, you will have more than enough on your plate to dig deep into Shopify.
+Excel
+SHOP-Apr-08-2021.xlsx
+Section 1: Shopify Business Model
+• 625 KB
+
+=== PAGE 3 ===
+Before Shopify was founded in 2006, Shopify Co-founder and current CEO Tobi Lutke
+built an online store to sell snowboards in 2004 and he quickly realized how
+challenging it was to build an e-commerce store to sell things online. The company
+then pivoted from an online store to an e-commerce platform that provides a SaaS
+solution enabling anyone with a credit card to start selling online. Basically, anyone
+with a sense of entrepreneurial firepower can start selling things online in a matter of
+hours and in Shopify’s jargon, it wants to “arm these rebels”
+. The only thing these
+“rebels” need to do is master the core craft, create demand for the products they are
+selling, and utilize Shopify’s tools to build a direct relationship with their customers
+online.
+Shopify had enjoyed three distinct tailwinds in the last decade and half: the secular
+growth of e-commerce, the consumerization of enterprise software, and a golden
+decade for Direct-to-Customer (DTC) channel focused brands/companies. In many
+ways, Shopify not only enjoyed these tailwinds, but it also turbocharged the wind even
+faster with superior product and topnotch execution year after year. It is no wonder
+Shopify was able to grow its topline at 70.2% CAGR or ~14x (I kid you not) in the last
+five years.
+Before doing this deep dive, I always sort of wondered how Shopify could possibly
+grow at such a rate for so long and why there is no compelling neck-on-neck
+alternative when the product itself seems quite plain vanilla at first glance.
+Benedict Evans in a recent post on Shopify alluded to this sense of bewilderment when
+people think about Shopify and feel bemused how Shopify could build a ~$140 Bn
+market cap company solving such basic e-commerce problems. Evans reminisced an
+old story related to Dropbox to make a point for Shopify:
+“There’s a famous story that when Drew Houston was working on Dropbox, everyone
+he showed it to said ‘There are hundreds of these!’ and he always said ‘yes, but which
+one do you use?”
+So yes, merchants more often than not choose Shopify over other competitors. While
+the core product is perhaps somewhat commoditized by now, Shopify has beaten
+every other competitor in terms of velocity of the product development and kept
+adding new functionalities to stay a step ahead of others. Although subscription
+
+=== PAGE 4 ===
+solution was the source for the majority of revenues even five years back, today
+Shopify generates most of its revenue from Shopify Payments, its native payment
+integration that Shopify merchants can use, and as you will see by the end of this deep
+dive, Shopify may possibly generate majority of revenue from its recently launched
+fulfilment network in 2030. This velocity of the evolution of the product and the
+mindshare Shopify enjoys among SMBs have made it the market leader in today’s e-
+commerce platform business.
+Before we go into more detail about Shopify, let me take a step back and first discuss
+what a platform really is. While many tend to label most internet companies as some
+sort of “platform”
+, Bill Gates had a very short, crisp way to describe how to identify
+whether a company is platform or not: “A platform is when the economic value of
+everybody that uses it, exceeds the value of the company that creates it. Then it’s a
+platform.
+”
+Ben Thompson explained how Shopify passes the platform test:
+“
+…this is what Shopify has already accomplished when it comes to referral partners
+(who drive new merchants onto the platform), developers (who build apps for
+managing Shopify stores) and theme designers (who sell themes to customize the
+look-and-feel of stores).
+In other words, Shopify clears the Bill Gates Line — it captures a minority of the value
+in the ecosystem it has created — and the Shopify Fulfillment Network should fit right
+in:
+What is powerful about this model is that it leverages the best parts of modularity —
+diversity and competition at different parts of the value chain — and aligns the
+incentives of all of them. Every referral partner, developer, theme designer, and now
+3PL provider is simultaneously incentivized to compete with each other narrowly and
+ensure that Shopify succeeds broadly, because that means the pie is bigger for
+everyone.
+”
+Let me briefly explain how Shopify makes money. Shopify reports its revenue in two
+segments: Subscription Solutions and Merchant Solutions.
+
+=== PAGE 5 ===
+Subscription Solutions: As you can see below, Shopify has three subscription plans for
+SMBs to build an online store: Basic Shopify, Shopify, and Advanced Shopify. To
+explore more differences among these plans, go here.
+￼
+Apart from these three plans, Shopify also has a plan called “Shopify Lite” ($9/month)
+which is basically a “buy button” to your existing store, but you cannot build an online
+store with this plan.
+While Shopify initially targeted SMB merchants in e-commerce, today it has a number
+of enterprise clients from the likes of successful DTC brands such as Allbirds to legacy
+brick and mortar retailers who want to have e-commerce operations such as Staples.
+For these enterprise clients, Shopify Plus was launched which costs $2,000/month or
+0.25% of GMV whichever is higher with the maximum price being $40,000/month.
+A common concern among bears is the level of churn Shopify experiences in its
+subscription solutions which generated 31% of Shopify’s revenue in 2020. This concern
+is largely misplaced. Shopify does not disclose its churn related data, but it is quite
+conceivable that the basic tier ($29/month) experiences significant churn. BVP in its
+initial memo on Shopify indicated the level of churn Shopify typically experiences: “By
+month 3, Shopify retains roughly 75% of its customers. By month 12, 50–60% of
+customers remain. Once stabilized, monthly churn ranges from 3–5%.” As you can
+understand, it’s not the stickiest SaaS solution out there.
+The reason this concern is largely misplaced is adequately explained by Ben
+Thompson: “I would argue that for Shopify a high churn rate is just as much a positive
+signal as it is a negative one: the easier it is to start an e-commerce business on the
+
+=== PAGE 6 ===
+platform, the more failures there will be. And, at the same time, the greater likelihood
+there will be of capturing and supporting successes.
+”
+Focusing too much on the churn also doesn’t make quite the mathematical sense. “The
+10th man” made a very basic observation to dispel most concerns related to churn:
+“price of a Shopify plan is 2.7x the price of the Basic, while the starting price for
+Shopify Plus is 67x the price of Basic. If a single Basic customer grew into a Shopify
+Plus plan, it would completely offset the lost revenue from 66 small merchants going
+out of business.
+”
+Merchant Solutions: Shopify generates ~70% of its revenue from merchant solutions in
+2020, super-majority of which is from Shopify Payments. Launched in 2013 and
+currently available in 17 countries, Shopify Payments is a fully integrated payment
+processing service that allows merchants to accept and process payment cards online
+and offline. Shopify has payment service provider agreements with Stripe
+(automatically renews every 12 months unless terminated with 6 months’ notice).
+With Shopify Payments, subscribers of Basic, Shopify (standard/middle tier), and
+Advanced plans get charged 2.9%+30¢, 2.7%+30¢, 2.4%+30¢ respectively. In 2020,
+Shopify Payments penetration was 45.1% of total GMV. In terms of adoption of
+merchants, this is how the adoption looked like by country in 2020:
+
+=== PAGE 7 ===
+￼
+Apart from Shopify Payments, Merchant Solutions also consist of referral fees from
+partners, advertising revenue on the Shopify App Store, Shopify Capital, Shop Pay
+Installments, Shopify Shipping, Shopify Fulfillment Network, the sale of POS hardware
+and collaborative warehouse fulfillment solutions, and Shopify Email.
+Almost 90% of Shopify’s merchants use the Shopify AppStore and on average, they
+have installed 6 apps (2018 September data). While there are 5,876 apps on Shopify’s
+Appstore, only 29 of them are “Made by Shopify”
+. Shopify leveraged the third-party
+developer ecosystem and let them develop tools for its vibrant merchant ecosystem.
+With Shopify Capital, it is providing loans to the merchants to manage their working
+capital expenses. Incidentally, since I use Stripe to receive payments for “MBI Deep
+Dives”
+, I received a loan offer from Stripe Capital a couple of weeks ago and I was
+wondering whether Stripe Capital could provide the same offer to Shopify’s merchants.
+It turns out due to their agreement, Stripe cannot pursue Shopify’s merchants directly
+which effectively leaves Shopify as possibly one of the very few companies who would
+have access to lots of relevant data points to take underwriting decisions and offer
+loans to their merchants.
+
+=== PAGE 8 ===
+In 2019, Shopify acquired 6 River System (6RS) that provides collaborative warehouse
+fulfillment solutions. Shopify has partnered with Third-Party Logistics (3PL) companies,
+many of whom they might lease these robots to efficiently manage fulfilment. At the
+same time, Shopify also recently launched Shopify Fulfilment Network (SFN) in which
+they control end-to-end fulfilment but still let merchants control the brand and
+customer relationship. While Shopify is still taking somewhat asset-light approach in
+building SFN, I think it is quite likely that they will eventually try to build an Amazon-like
+end-to-end solution in which they control every step of the process.
+Alex Danco in a recent podcast appearance to discuss Shopify explained the essence
+of merchant solutions as first and second derivative of its core subscription business:
+“So merchants is similarly like, the more capital that you take from us and pay us back,
+the more money we make, and then that grows along with the size of your business.
+The more products that you buy on Handshake in our wholesale marketplace, the more
+money that we take as a cut of that. And so in contrast to Core, which is monetizing
+directly, we can say that Merchant Services monetizes the first derivative of customer
+success. As our customers become successful, we succeed with them. Now, if you go
+to Ecosystem, so if Core monetizes directly and Merchant Services monetizes the first
+derivative, Ecosystem monetizes the second derivative of customer success. So as our
+customers become successful, the Ecosystem around them grows because there's
+GMV and there's work to be done and there's this interesting ecosystem to contribute
+to And so we monetize directly to that, right? So it grows as a second function of
+merchant growth. So here, again, we have an app store and the app store takes a cut
+of what you make on it.
+This is a kind of compounding that is very powerful because it is the success of Core
+leads to Merchant Services being a good product, which leads to more GMV
+happening, which leads to more Ecosystem happening. It is a very, very powerful type
+of multi-player compounding. And our job is basically to just take a small but
+meaningful cut of that that allows us to keep reinvesting into making it better.
+”
+Section 2: Exploring the future of retail
+The size of the US retail market (excluding food services & drinking places) was $5.6
+Trillion in 2020. Given the size of the market, I would like to define the scope of our
+
+=== PAGE 9 ===
+discussion first. I will primarily focus on three big questions: a) e-commerce
+penetration rate in the long-term, b) the dynamics between DTC and marketplaces,
+and c) whether Shopify should build a marketplace.
+E-commerce penetration in the long-term
+While e-commerce is one of the largest beneficiaries of the pandemic, it has been one
+of the most potent secular themes for the last two decades. Covid-19 has certainly
+accelerated what has already been going on.
+Before talking about the possible long-term penetration, let me set the context.
+Although I just mentioned US retail market (excluding food services & drinking places)
+size is $5.6 Trillion, we need to adjust a little more to identify the Total Addressable
+Market (TAM). Gasoline sales, which is not addressable by e-commerce, is ~$500 Bn. If
+we also exclude Automobile & other moto vehicle/parts dealers which is ~$1.5 Trillion,
+the adjusted retail sales was $4 Trillion in 2020. Since US e-commerce sales was $792
+Bn in 2020, it implies ~20% penetration. As you can see below, while penetration was
+steadily increasing 80-150 bps each year before the pandemic, 2020 created a step
+function change in e-commerce sector. Of course, part of the ~400 bps increased
+penetration is just a factor of slow growth of the denominator since physical stores
+were closed or in operation with limited capacity. Although e-commerce was just ~16%
+of overall retail sales in 2019, it drove ~77% of the growth in overall retail sales in the
+US in 2020.
+
+=== PAGE 10 ===
+￼
+Since the pandemic effect is expected to subside this year and physical stores will
+come back in full capacity, we can perhaps understand why e-commerce penetration’s
+increase in 2021 and 2022 will be somewhat muted compared to the last few years.
+But JPM clearly expects things to pick up in 2023 and beyond.
+I don’t have high confidence on JPM’s (or anyone, including me) ability to forecast
+these numbers. I do, however, wonder how much the current pandemic may lead us to
+estimate the long-term e-commerce penetration biased upward. I don’t know whether
+it’s just me, but part of me sometimes wonder whether we should be a bit
+underwhelmed with just ~20% e-commerce penetration in 2020. We were all literally
+forced to buy things online by mother nature, and yet 80% of the sales did not happen
+online.
+
+=== PAGE 11 ===
+China, which is leaps and bound ahead of the US in terms of e-commerce, had 29%
+penetration in 2019 [Note: there seems to wide discrepancy around China’s e-
+commerce penetration. For example, this piece indicates ~21% penetration in 2020.
+Some even mentions ~45% penetration in 2020. There is perhaps discrepancy in terms
+of the denominator of these stats). While I do not have a firm grasp on China’s retail
+landscape, I understand that the cultural, logistics, and payment ecosystem is so vastly
+different from the US that it may be some sort of achievement for US/NA players to
+reach China’s current e-commerce level of penetration a decade from now. Bill Gurley
+had a great twitter thread (highly recommended) almost a year ago on the differences
+between US and China’s e-commerce ecosystem.
+These thoughts reminded me some of my former colleagues’ concerns when I was
+looking at Amazon in 2019. One of their concerns was the following table. Although I
+think we all agree at this point that we cannot exclude grocery from e-commerce
+penetration calculation, the consensus used to be that grocery logistics would be a
+major challenge to overcome for e-commerce. Those concerns are likely to be
+overblown, but since typical Shopify merchants are unlikely to sell groceries through
+their stores, the below table can be a relevant topic of discussion. I would agree that
+the 2030 penetration rate may be slightly higher after what we have experienced last
+year, but I am not sure there is much headroom for e-commerce penetration to reach
+~40% in 10 years which seems to be the new consensus now. Perhaps 2-5% higher
+penetration is possible than what is suggested in the table, but it appears to me the
+street is somewhat ebullient when it comes to long-term e-commerce penetration. For
+Shopify’s merchants, the opportunity set might be further limited in segments such as
+pharmaceutical drugs which was ~$510 Bn market in 2018. While this segment can
+possibly be addressed by scaled marketplaces such as Amazon, it can prove to be out
+of reach for Shopify’s merchants.
+
+=== PAGE 12 ===
+￼
+Shopify, of course, is a global company. While international (outside Canada, and US)
+revenue used to be ~20% of overall revenue in 2016, it has grown to be ~27% of total
+revenue in 2020 as international outpaced North America’s growth in most years.
+As indicated earlier, China is the biggest e-commerce market in the world with $1.7
+Trillion sales or ~2x the size of the US e-commerce market. The word “China” appeared
+just once in Shopify’s 10-k. Less than ~10% (could also be <5% since Shopify doesn’t
+specify it) of Shopify’s ~1.8 mn merchants are from China.
+Baozun, a NASDAQ listed company with ticker BZUN, is known as the “Shopify” of
+China. While it pales compared to Shopify’s ~66% topline CAGR from 2016 to 2020,
+
+=== PAGE 13 ===
+Baozun still grew its revenue at a more than respectable rate of ~30% in the last four
+years to generate ~$1.4 Bn revenue i.e. half of Shopify’s revenue but ~2.5% of Shopify’s
+market cap. Despite the massive e-commerce market of China, it is largely dominated
+by marketplaces today. The dynamics between marketplaces and DTC will be
+discussed shortly. From what I have read, it does not seem Shopify has much of a
+focus on China.
+Outside of China, Shopify is currently thriving and may continue to prosper, especially
+in Europe/Australia. While Shopify’s subscription services are incredibly cheap in the
+North America for anyone to start their store online, it may not appear so in countries
+such as India. Since the subscription plans cost the same across countries, even
+$79/month Shopify subscriptions can prove to be a psychological hindrance for
+someone to try out building an online store in India or many other international markets.
+This is perhaps naïve, but I actually do not understand why Shopify does not change its
+subscription plan prices in different geographies, especially in India and China (let me
+know if you know the answer; is it technically too cumbersome?) The pace of growth in
+international markets outside China can also be hindered by the reality that internet
+penetration itself is just ~50% in the developing world.
+International market is likely to prove to be of paramount importance for Shopify for
+them to deliver what is implied in the current stock price which will be discussed later.
+
+=== PAGE 14 ===
+￼
+The “Battle Royale” between DTC vs Marketplaces
+Broadly speaking, e-commerce can be segmented into four categories: pureplay
+marketplaces (Amazon, eBay, Etsy etc.), e-commerce segment of scaled brick & mortar
+players (Walmart, Target, Costco, Home Depot etc.), e-commerce segment of subscale
+brick & mortar players (Staples, local superstores), Direct-to-Consumer or DTC
+segment (traditional CPG brands such as Heinz, General Mills as well as DTC startups
+such as Allbirds). For the purpose of this discussion, I will just bucket the first two as
+“marketplaces” and the latter two as “DTC” even though there are important nuances
+within these buckets. Shopify’s merchants or target market primarily consist of the DTC
+segment, but their merchants can also use marketplaces as one of their channels to
+sell online, but that’s typically not why you would want to be a Shopify merchant. You
+want the customers to buy directly from your website.
+Shopify’s success hinges upon its merchants’ success. Even though Shopify is just a
+platform selling the tools to its merchants to sell online, Shopify lives (and dies) on how
+well its merchants do in convincing customers to buy things directly from them instead
+
+=== PAGE 15 ===
+of going to marketplaces. Therefore, even though Shopify does not directly compete
+against marketplaces, their merchants do, and their merchants’ fight is essentially their
+fight.
+In many cases in today’s technology space, competition may seem largely absent or
+weak horizontally in a particular market, but in a long enough time frame, many new
+competitions may emerge vertically or at least encroach into the juicy economics that
+an incumbent enjoys in a particular market.
+Benedict Evans put this perfectly,
+“This is very often what competitive threats look like
+in technology. In markets with strong network effects or winner-takes-most effects, it’s
+very hard to displace a new incumbent directly, but pretty common to address an
+underlying customer need in another way. So, Google doesn’t think about Bing nearly
+as much as it thinks about Amazon and Facebook, and Amazon thinks about Shopify,
+because they change what the businesses might be, and offer your customers a
+different way to solve their problem.
+”
+So, let’s talk about marketplace (e.g. Amazon) vs platform enabling army of merchants
+(e.g. Shopify).
+In 2020, top 100 global online marketplaces sold $2.7 trillion of products. Global e-
+commerce retail sales were $4.3 trillion, implying ~60% of e-commerce sales
+happening in marketplaces. As you can see below, just the three marketplaces in China
+alone generated ~$1.6 trillion of GMV, implying ~90% of Chinese e-commerce taking
+place in marketplaces. In the US, it is almost all about Amazon. 1P+3P generated ~38%
+of total US e-commerce GMV of ~$792 Bn in 2020. While not as high as 90%, market
+share of marketplaces in the US e-commerce perhaps also hovers around ~70-80%.
+While there may be many different reasons why marketplace businesses are so
+incredibly successful, I want to focus on things in the context of platforms such as
+Shopify.
+
+=== PAGE 16 ===
+￼
+The most successful and powerful marketplace businesses have almost always one
+thing in common: it unlocks a new vector of supply. Can we imagine how inferior the
+Uber business model would be if it could only allow taxi drivers (the supply in the then
+status quo market) to drive for them? Many people who may not want to rent a place to
+sell their things in the physical real world are more than willing to take a stab at it
+online. The cost of failure is just really, really low (especially compared to 19th and 20th
+century world) in the information age. Very few businesses capitalized on this simple
+idea better than marketplace businesses.
+Marketplaces and platforms unlock different vectors of supply. All the side hustlers or
+anyone who thinks they might be good at making something can sign up to sell things
+online. If their products don’t sell, they can just continue to do their primary job/career.
+Shopify, on the other hand, unlocks mostly new entrepreneurs who may be hindered in
+the past because of the difficulty of starting a business from scratch but can start a
+new endeavor just in hours now. Marketplace businesses can unlock both these supply,
+but Shopify by and large just unlocks the latter. Moreover, while Shopify’s merchants
+are all trying to acquire sometime similar customers independently, there is hardly any
+network effects among them. One merchant’s success does not contribute to any other
+
+=== PAGE 17 ===
+merchant’s success. The dynamic is quite different in a marketplace. Since marketplace
+is essentially a network of millions of buyers and sellers in the same place, we know
+from Metcalfe's law that value of a network is proportional to the square of the number
+of connected users of the system (n^2).
+When we look at numbers, it does exhibit these dynamics. There are 9.8 million sellers
+in Amazon marketplace. Even Etsy, which generated only $10 Bn GMV in 2020, had 4.4
+million sellers in its marketplace. Despite all its successes, Shopify currently has ~1.8
+mn merchants on its platform.
+Of course, the merchants who are successful on Shopify’s platform are able to build
+much more resilient business model than sellers in Amazon marketplace. But it almost
+feels like a “rich man’s problem” to me. If you are primarily building DTC brand
+leveraging Shopify’s platform, your first identity has to be an entrepreneur.
+Entrepreneurship requires not just one skillset, but an amalgamation of disparate and
+eclectic skillets that makes it so hard to be successful. If you are just good at making
+something and not so good at all the other things, you are much better off building a
+busines in a marketplace than on top of a platform. Shopify does not really help much
+in generating demand for its merchants, it is the merchants’ job to drive demand. Of
+course, sometimes your product itself can drive demand through superior/unique
+quality, but more often than not, sellers prefer a helping hand in driving demand. I
+admit the businesses that are built in marketplaces are not as resilient, but you are far
+more likely to put food on your table *today*
+. My guess is we are hardwired to take the
+trade-off to have food on our table today vs some probability event of losing it in the
+future when marketplace businesses make arbitrary changes or even worse, if we get
+kicked out of the marketplace for some reason. Moreover, it’s not like there aren’t wild
+success stories out there of people who built massive businesses entirely on
+marketplaces. Anker, an Amazon native brand and founded by ex-Google engineer
+Steven Yang, went public in Shenzen Stock Exchange in Aug 2020. Its LTM sales is
+~$1.5 Bn with a market cap of ~$9 Bn.
+Many sellers (and investors) complain about the “exorbitant” fees marketplace
+businesses charge. Marketplace businesses can afford to impose these fees because
+they know exactly how much value they can bring to your business. I read a very
+interesting piece written by an Amazon seller. He sells educational toys online and did
+$7.4 mn sales in 2020 across different marketplaces/channels. Despite his earnest
+
+=== PAGE 18 ===
+effort to diversify, he still sells 93% of the products in Amazon. His attempt to diversify
+is quite intuitive, especially when you see Amazon had a whopping ~52% take-rate
+whereas a sale generated in his own website just cost him ~17% of the revenues. There
+are lots of interesting, nuanced observation in that piece, but this one particularly
+stood out to me:
+“$4.6 million dollars worth of product were added to carts on our website in 2020. We
+finished the year with $97,000 in sales. The conversion rate on our website was 0.7% in
+2020. The conversion rate for a typical Amazon item for us is about 40%.”
+The trust Amazon (and other marketplaces) built over decades is just extremely
+difficult to replicate by a random website on the internet. As majority of US consumers
+start their product search directly on Amazon, it is hard to abdicate marketplaces for a
+seller. When you add the ability to reach all over the US in just two days (increasingly
+one day going forward), you realize there is a very steep trade-off sellers may have to
+make if they just focus on eye-popping margin/profitability instead of eye-popping
+topline with reasonable margin.
+￼
+Some might wonder that a merchant does not have to make these trade-offs as they
+can just focus on multiple channels. Alex Danco made the same point:
+“The first thing to note is that Amazon, Etsy, and Walmart are all channels of Shopify,
+right? So it's like we compete with them in one sense, but also not really because you
+can sell on Etsy from your Shopify store, you can sell on Amazon from your Shopify
+store. You can even sell on Walmart through a Shopify store. You can't actually add up
+
+=== PAGE 19 ===
+these numbers and get a total pie and then divide that pie and attribute which GMV is
+going to where, because in some places, they overlap. There is a lot of Amazon sales
+that happens that ultimately feeds back to a Shopify store.
+”
+One investor I spoke with about Shopify mentioned he is less concerned about GMV,
+but more concerned about take rates, especially in a potential situation if marketplaces
+trump the DTC channel. As Danco pointed out, GMVs can be double counted if you use
+Shopify platform but sell things in a marketplace. While both marketplace and Shopify
+can count it as GMV, Shopify’s take rates can potentially be lot lower if the merchant
+sells on marketplace instead of on his/her own website. Therefore, while success of
+marketplaces is not existential question for Shopify, they would much prefer their
+merchants be able to sell on their Shopify store.
+There is, however, no denying that SMBs were at the forefront on the DTC revolution in
+the last 10-12 years for which Shopify deserves a lot of credit. One McKinsey report
+mentioned that large CPG brands contributed just 25% of the industry growth despite
+generating half of the overall sales in the last four years. Many of these large CPG
+brands are now under pressure and giving it a serious thought to replicate the SMBs’
+success by going DTC.
+
+=== PAGE 20 ===
+￼
+Many of these large CPG brands may end up building DTC, but their success or failure
+will hardly depend on efficacy of Shopify’s platform. While Shopify certainly eliminates
+the friction out of the decision to go the DTC route, it cannot help you succeed in
+aggregating demand. The same McKinsey report indicated DTC is “commercially viable
+for only select CPG propositions—namely, those with an average basket and purchase
+frequency high enough to justify customer acquisition costs and make per-order
+economics viable.
+”
+As someone who hasn’t spent much time studying CPG brands, I am not quite
+comfortable in sharing my opinion on their potential success (or failure). I was
+reminded of this sense of discomfort after reading the following from Benedict Evans:
+“
+…half of the Shopify story is actually big companies - Heinz, or Unilever. Why are they
+on Shopify? Is this part of the ‘consumerisation of IT’ story? Bypassing their legacy
+
+=== PAGE 21 ===
+stack? Or leapfrogging to the latest tech with no legacy ecommerce to worry about?
+Yes, all of that. But mostly, it’s about going direct.
+Andy Warhol said that a millionaire drinks the same CocaCola as the man in the the
+street, but a lot of the story of tech in the last few decades has been that small
+companies have much better tech than big companies, stuck in legacy systems that
+take months to change anything. Only some of this is a technology problem (it’s also
+what ‘digital transformation’ is about).
+Will Heinz built a giant D2C businesses? Ask an FMCG analyst. To understand Casper’s
+margins, look at the mattress business, not the tech stack. The interesting question for
+Shopify is how far it can move from being a tool to becoming a network, and to become
+part of retail. And so (to close the loop), the idea that all of this will be swallowed by
+Amazon makes about as much sense as the idea that all physical retail would get
+swallowed by Walmart, not because of software but because of retail. So perhaps
+software isn’t eating retail - retail is eating software.
+”
+How about the SMBs or startups? Can the DTC revolution, powered by Shopify, gain
+even more momentum in the next 10-15 years? In many ways, the last decade or so
+was an anomaly in the CPG space. From 1923 to 1983, the top brands in more than 10
+categories were unchanged. Large CPG companies enjoyed the largest competitive
+advantage duration compared to probably any sector out there. Despite all the success
+of DTC brands in the last decade or so, I do wonder whether the best days of DTC are
+behind us. Some of my concerns are mentioned in this HBR piece on DTC published
+last year:
+“The direct-to-consumer startups’ rise was enabled by an environment of abundant
+venture capital, low competition, and above all, the advertising arbitrage that could be
+exploited on under-priced social media platforms.
+Fast forward to today, and many of those businesses are looking less viable than they
+once were.
+The landscape is almost unrecognizable from even a decade ago (save for the sans-
+serif fonts). For one, competitors have flooded in, spurred by the early success of a few
+standout brands. This has driven up the price of social media ads, eliminating any
+arbitrage and making the customer acquisition math that much more challenging.
+
+=== PAGE 22 ===
+Now-established players have learned that Instagram advertisements and influencer
+campaigns only scale to a point: they can net no more than a few hundred thousand of
+a brand’s “first best” customers. This has driven a shift toward physical retail and
+prompted founders to agonize over if and when to peddle their wares on Amazon,
+making direct to consumer brands look more like their predecessors each day.
+”
+I do sense a potentially large market for Shopify in the subscale brick & mortar retailers
+who mostly have terrible websites and can use help from Shopify’s cutting-edge e-
+commerce functionalities. When I spoke with “The 10th man”
+, he mentioned one of his
+acquaintances recently shared with him how after years of trying to build a good,
+functional website on their own, Shoppers Drug Mart (Canadian retail pharmacy chain)
+decided to go with Shopify Plus. There maybe thousands of these local/subscale brick
+& mortar retailers who will choose Shopify in the near future. I have a hard time figuring
+out how big this opportunity can be.
+But overall, I believe marketplaces will turn out to be superior model and most DTCs will
+probably find out how “unfair” the fight is. Of course, some will build engaging
+community around their product/services. In fact, an analysis done on 60k Shopify
+stores clearly demonstrated that “a whopping 75% of the total revenue for Shopify
+stores comes from the direct traffic (when visitors come right away to your store by
+typing its URL into their browsers or through browser bookmarks).
+” The bar is clearly
+high for Shopify merchants to be successful, and I have no doubt that some will defy
+the odds and reach greater heights with more compelling economics than they might
+be able to enjoy building in marketplaces. But to what extent it can be scalable will
+remain a very hard question for me. Considering my assessment of the power of
+marketplace business model, it is a natural question that I and most Shopify investors
+ponder: should Shopify just build a marketplace?
+
+=== PAGE 23 ===
+￼
+Should Shopify build a marketplace?
+There are two school of thoughts on this question: one school thinks it is a natural
+extension of Shopify’s business model and very much attuned with “arming the rebels”
+.
+Web Smith from 2PM is on this camp. The other school believes building a marketplace
+is deeply antagonistic to the core value proposition of Shopify. Stratechery’s Ben
+Thompson and NZS Capital’s Brad Slingerlend seem to be on this boat. Let’s first hear
+them out before I share what I think.
+Build the marketplace
+Excerpt from Web Smith piece:
+“Shopify has armed the rebels by supplying some of them with the funds necessary to
+operate or expand. Now, it needs to influence the demand curve for the businesses on
+its platforms. Shopify needs to become an evangelist for its brands.
+Given the market position that Shopify has earned, it’s become clear that Lütke’s
+position on psychological support must change and it should have begun with Super
+Bowl LIV. Shopify’s promotional power could reduce insurgent competition while closing
+
+=== PAGE 24 ===
+the gap with the incumbent company that it is challenging: Amazon. Shopify must
+evolve into its own marketplace. As customer acquisition costs rise for small-to-middle
+market retailers, Amazon has become a reasonable partner for retailers looking to
+increase top-of-funnel awareness.
+Lütke’s likely opposition to this idea is clear: By selecting brands or products to feature
+in a marketplace format, Shopify becomes a kingmaker of sorts. A kingmaker is a
+person or organization with great influence on the value of a candidate. This person or
+organization uses policy, finance, and competitive forces to influence succession. I
+contend that offering loans or advancements to merchants is another form of
+kingmaking. Now that Shopify has begun to market financial products, there is less of
+an argument to be made.
+…direct-to-consumer brands were noticeably absent, priced out by the exorbitant
+costs of doing business. Imagine a $5.7 million, 30-second advertisement that sent
+tens of millions of Americans to marketplace.shopify.com. When those potential
+customers, developers, and consumers arrive: they’d see a curation of Shopify’s
+greatest brands – new and old, established and fresh. Shopify wouldn’t have only
+gained new customers or partnership prospects. Shopify would have influenced the
+awareness, growth, and viability for a number of brands that are dependent on three
+key resources.
+When you arm the rebels, do whatever you can to make sure that they win. They’re
+fighting for their supplier as much as they’re fighting for their own well-being. After all,
+their war is now your war.
+”
+Don’t build the marketplace
+From Brad Slingerlend’s piece:
+“Ecommerce marketplaces always have a tension between serving the consumer and
+serving the merchant. Both constituents are customers of the company that runs the
+marketplace, but they have competing needs – the customer isn’t always right, but a
+marketplace has to assume they are at the expense of the seller. Meg Whitman buried
+eBay’s ecommerce lead in the mid-2000s by completely fumbling this delicate balance
+between consumer and merchant, which allowed Amazon to build a huge platform of
+3rd-party sellers thanks to their obsessive focus on customer satisfaction. The rapidly
+
+=== PAGE 25 ===
+growing ecommerce platform Shopify could face a similar tension in its business model
+in the next 5-10 years. The company has been successful in large part by focusing on
+the merchants, and it does not (yet) run a customer-focused marketplace.
+If Shopify chose to run a full marketplace, it would face the same set of issues that
+stalled eBay’s growth rate. I used to count myself among the many investors who want
+Shopify to run a centralized marketplace, but I’ve since evolved my view. A marketplace
+would require a consumer focus at odds with Shopify’s maniacal focus on serving
+entrepreneurs. There are, however, products where you can solve for both the buyer
+and the seller. Shopify’s payment engine is one such example – Shop Pay is both a very
+good consumer experience and improves sales for merchants. Shopify’s fulfillment
+ambitions may be another dual-sided solution without the need of a full marketplace.
+Shopify is an enabler of direct relationships between buyer and seller without a
+marketplace in between, and it charges a toll on transactions that is far smaller than
+what Amazon or other retailers impose. In return for that lower toll, merchants often
+need to spend marketing dollars online if their product doesn’t sell itself. Merchants on
+Shopify’s platform are in a survival-of-the-fittest landscape – if they can meet the
+needs of their customers, they will thrive, and, if they cannot, there is no centralized
+platform to prop them up via ads and a large user base; likewise, there is no middleman
+to suppress them in marketplace search results or charge a large tax on sales.
+”
+Ben Thompson had a largely similar point: “…suggesting that Shopify take responsibility
+for directly acquiring customers (as opposed to building tools to help merchants do so)
+is not only out of step with Shopify’s position in the value chain, but there is also no
+particularly good reason to believe that Shopify will be any better at this than their
+merchants.
+”
+What I think
+Tobi seems to indicate a bit of reluctance to build a marketplace, and Alex Danco all
+but confirmed on a recent podcast they are NOT building an aggregator or
+marketplace. However, Shopify recently rebranded an app from “Arrive”
+, which was just
+an app for tracking packages from Shopify merchants and other retailers, to “Shop”, in
+which you can not only track your orders but search for Shopify stores. Here’s what
+Danco said about the app:
+
+=== PAGE 26 ===
+“
+…Shop is not an aggregator. I promise you that is not how we're thinking about Shop,
+that is not the direction that shop is going to go, because to be totally honest, we don't
+want to take all of our merchants, who we've built all this trust with. We've built our
+trust battery up really high with them, and then to say, "Okay, we've now built
+something called Shop where merchants or buyers can now search across all the
+Shopify stores.
+" And then they say, "Okay, well, can I put ads in the store to promote
+search results?" And then we say, "Yes, we'll do that. Now you have to bet against the
+other stores.
+" And then before you know it, we've just built another aggregator. And
+then we will have been going down the path of eBay. We will have let this good thing
+go. Yes, it will create growth in the short term, but at the cost of getting rid of this high
+trust, very special commerce that we've worked so hard to try and build.
+”
+Personally, I think one of the reasons Amazon has been so incredibly successful is
+Amazon literally tried everything that you can possibly try in retail without making any
+philosophical assumption of what it should or should not do. If you think about 1P and
+3P dynamics and how it bamboozles regulators (although it is hardly a novel idea in
+retail, Walmart/Target/Costco have been doing it for decades; Amazon is just more
+scalable and much better at capitalizing on retail trends faster than its most physical
+retailer counterparts) it is conceivable we could make a compelling case that it would
+be a bad idea to run 1P and 3P simultaneously and could possibly hurt the 3P
+marketplace. If Amazon listened to such suggestion, it could end up making Amazon a
+laggard to eBay which actually had higher market cap than Amazon in most of 2000-
+2010 period. In fact, Amazon even tried its hands on building a Shopify-like platform in
+2006: Webstore. They decided to close Webstore in 2015, and it is funny that Amazon
+actually referred its clients to switch to Shopify. With Whole Foods acquisition and
+Amazon Go, Amazon has its physical footprint in the retail market as well. Amazon
+doesn’t have any fascination with a particular narrative, it just doubles down on
+whatever works, and if it doesn’t seem to work, they move on.
+When I installed the “Shop” app on my phone, I could sense Shopify’s ambivalence with
+what to do with the app. I could search for shops, but the search result is based on the
+brand name of the store, and not by products. If your store’s name is “Mr. Beast” and
+you sell shoes, you will not rank higher (or may not even appear at all) in the search
+result. So the onus on educating your customers about your brand is still on the
+merchants’ shoulders.
+
+=== PAGE 27 ===
+Even though Shopify denies building a marketplace, Shop does have an element of
+marketplace from an ESG angle. As you can see below from the picture, Shopify
+encourages me to buy from “Shop Asian-owned businesses”
+. If I swipe right, I can see
+three other choices: “Shop Women-owned brands”
+, “Shop Black-owned businesses”
+,
+and “Shop local today”
+. If I click any of these options, I see a list of shops although it is
+not clear to me how the order of the list is decided/ranked.
+￼
+
+=== PAGE 28 ===
+You may find it somewhat cynical, but I wonder whether Shopify is testing a new kind
+of “quasi-marketplace” (even if they brand it differently) while appearing to play to the
+ESG crowd. Is Shopify looking closely at the data how well the businesses that are
+included in these themes do over a certain time period and then iterate strategy based
+on that? Perhaps.
+I agree that building a marketplace may just invalidate a lot of the rhetoric Shopify has
+propagated so far to establish themselves as the Anti-Amazon protagonist. One
+possible way you could probably build the marketplace and keep the integrity of the
+brand is instead of 3-4 choices based on demographic characteristics I shared earlier,
+Shopify may have 10-20 such themes in the “Shop” app. Basically, instead of buying
+lowest priced commoditized products, buyers could go to Shop app to make their
+statements/worldviews by shopping based on themes (apart from what they already
+have, a few others could be environment friendly Shops, Trans owned Shops, Catholic
+owned Shops or maybe even Democrat/Republican owned Shops). The search result,
+however, needs to be based on products within those themes, and not by brand/store
+name. If they can pull off such a marketplace, Shopify can perhaps maintain its Anti-
+Amazon image that they have built. [Note: I wrote this a week ago, and when I went to
+the app yesterday, I saw another option apart from the few themes I mentioned earlier:
+“Shop sustainable businesses”]
+The next question is whether Shopify should allow brands to run ads. I don’t think they
+will initially, but as we all know by now in a long enough timeframe, every business sells
+ads. Amazon itself had fierce debate internally whether to run ads, and Bezos finally
+decided to go big on ads after understanding the inherent lucrative economics which
+can allow Amazon not only to make tons of money but also to invest in the business to
+innovate further. Fast forward to today, we are speculating whether Amazon makes
+more money from ads than it does from AWS. Despite the current Shopify rhetoric, I
+won’t be shocked if they change their mind later on ads.
+By no means, this would be easy to pull off, and there are probably more questions
+than I have answers and there already seems to be some concerns about the app from
+the merchants. I just think it would probably be a mistake on Shopify’s part if they
+decide to play armchair strategist before at least taking a stealth shot at building some
+sort of “marketplace” even if they brand it differently. The DNA required for building a
+
+=== PAGE 29 ===
+merchant focused platform and a consumer-focused app are indeed very different, but
+my guess is it is better to fail after taking a shot at it than not taking one at all. I don’t
+quite think Shopify’s “marketplace” is going to be a threat to Amazon, but if Shopify
+does build a thriving “marketplace”
+, the actual marketplace that may suffer the most is
+Etsy. Shopify already has the mindshare in terms of its counter-positioning against the
+“Bezos Machine”
+, and it does seem Etsy wants some of that mindshare. But without the
+fulfillment network and ancillary products such as Shopify Capital, Etsy may face a
+hard time staying relevant. Shopify can undercut Etsy in terms of take rates and if it
+can drive demand to its app, it is certainly not inconceivable that they can build a very
+profitable niche “marketplace”
+. As an Etsy shareholder, I will keep my eyes wide open in
+terms of what happens at Shopify.
+Section 3: Shopify’s path (and resistance) to
+dominate the global retail operating system
+Shopify’s ambition to be the operating system of global retail has weak competition
+from its direct competitors, and almost all of the roadblocks ahead of Shopify to realize
+its ambition will likely come from players (e.g. Facebook) in the broader ecosystem
+many of whom may not appear as direct competitors today. In this section, I will
+discuss three things: competitive dynamics in the status quo SMB e-commerce market,
+competition for ancillary products/services, and the Facebook threat.
+Shopify way ahead of the curve in the status quo SMB e-commerce platform
+business
+Shopify estimates the total number of SMBs (<500 employees) globally to be 47
+million. “The 10th man” used BuiltWith data to estimate just 9% (excluding China) of e-
+commerce websites utilized one of the seven biggest non-Chinese platforms (Shopify,
+WooCommerce, Wix, Magento, Weebly, Squarespace, BigCommerce) to build a
+website. The number of SMBs grew at ~60 bps/year and it is likely that 50-70% of
+these SMBs will need to have a functioning website by the next 10-15 years which
+implies the potential subscribers for the overall industry can be 5-7x from here during
+the same timeframe. Of course, it’s not just SMBs but there are also tens of thousands
+of enterprise businesses as well who are in the target market as well, especially for
+products such as Shopify Plus. While from unit perspective, they can be dwarfed by
+
+=== PAGE 30 ===
+the broader SMB category, they have a substantial impact from volume or GMV
+perspective. Shopify currently has ~20% market share in the overall e-commerce
+platform business.
+One consistent theme among current crop of direct competitors is almost nobody has
+the similar breadth of products/services as Shopify does. The status quo competitive
+dynamics is adequately explained by “The 10th man” in the following two paragraphs:
+“We spent some time looking at each of Shopify’s competitors, and one thing stood out
+to us immediately: few competitors, if any, are “merchant obsessed”
+. Most competitors,
+including Wix, Squarespace, Weebly, WooCommerce, and Magento, are either part of
+larger entities with other products to focus on, or aren’t exclusively focused on e-
+commerce: the majority of Wix, Squarespace, and Weebly subscribers seem to be
+outside of e-commerce; WooCommerce is actually just a plug-in for WordPress
+websites, which makes onboarding awkward; and Magento is owned by Adobe, but
+has changed hands multiple times in the last decade, and only focuses on enterprise
+customers. Shopify, on the other hand, has been a standalone entity since 2004, and
+only focuses on one thing: e-commerce. As a result, Shopify seems to have a better
+product, with faster updates, a simpler onboarding process, and the widest offering of
+solutions.
+In lots of cases, competitors don’t even target the entire market. WooCommerce
+doesn’t have an enterprise product, and Magento doesn’t have an SMB product. The
+team at WooCommerce won’t be thinking as intimately about the commerce problems
+that enterprises face, and the team at Magento won’t be thinking as intimately about
+the problems SMBs face. Without the holistic view on product development, and the
+same economies of scale benefits on R&D and marketing, it will be hard for
+WooCommerce and Magento to effectively compete with Shopify.
+”
+What makes things even more in Shopify’s favor is its own e-commerce app
+marketplace that lets third-party developers reach Shopify’s merchants with their apps.
+I think we all intuitively understand how powerful the flywheel of an “Appstore” can be,
+and Shopify can further differentiate itself from the core commodity business by
+helping merchants utilize lots of tools/apps in their business.
+However, by now, we also understand the risk that is implied in building your product
+on top of someone else’s Appstore. The question remains how Shopify will think about
+
+=== PAGE 31 ===
+its ecosystem as they continue to scale the business. We have already seen some
+tension within the Shopify Appstore when Mailchimp was delisted from the Appstore.
+This sub-reddit did a good job of covering both sides. Platform risk is pretty real,
+especially when Shopify can build and prioritize its own apps vs the direct competitors
+which can improve its own take rate.
+While the apps built on Shopify AppStore get distribution thanks to Shopify’s reach to
+merchants, investors probably do take platform risk into account. Many successful
+apps within Shopify Appstore which grew 2-3x faster than Shopify itself and yet
+received valuation of 10x ARR which is 25-30% of the valuation multiple Shopify itself
+has been trading at. If such discrepancy in valuation persists and platform risk
+becomes increasingly real, this can pose a dent to Shopify’s larger ambition with its
+Appstore. At the moment, thanks to the high-octane growth in e-commerce/DTC,
+developers have largely ignored this risk, but that can change if high-profile fallouts
+(e.g. Mailchimp) start happening more frequently.
+Competition for ancillary products/services
+Shopify’s ambition to be the global retail operating system has two blind spots: it
+cannot help merchants generate demand, and it does not have a robust logistics
+solution. While the former is somewhat incongruent with the business model itself,
+logistics is a very critical component in the e-commerce business if you want to build
+an extremely large resilient businesses, especially when your long-term competition is
+Amazon. If Shopify can build a robust end-to-end native logistics solution, I think that
+will prove to be game over for its direct competitors (Magento, BigCommerce,
+WooCommerce of the world). In such a scenario, Shopify will probably enjoy an
+outsized share of e-commerce platform business and indeed can truly become the
+global retail operating system.
+The first question that comes to mind is whether Shopify will focus on partnering with
+third-party logistics (3PL) companies or building an Amazon-like fulfilment network
+itself. The base case is they will focus on partnership in the initial years but will ramp
+up building their own fulfilment network in future. If it’s just partnership with 3PL
+companies, its direct competitors can also do similar deals with the same 3PL
+companies and therefore, it may not be a strong differentiator. But no other direct
+competitor of Shopify has even a remote possibility of thinking about building their own
+fulfilment network with warehouses and delivery logistics.
+
+=== PAGE 32 ===
+Although I am no logistics expert, it does seem to me that the path to get there can
+prove to be extremely difficult for Shopify. Logistics is extremely capital-intensive
+business and the economics may not be very lucrative even though it can certainly
+enhance moats of Shopify. For example, the cumulative capex of Fedex from 2005 to
+2019 was $55 Bn, and yet the total Enterprise Value of the company was ~$60 Bn at
+the end of 2019. Thanks to the pandemic, the stock has soared in 2020 and now its EV
+is ~$105 Bn.
+Let’s look at Amazon now. In 2011, Amazon had ~44 mn sqft fulfilment capacity. Its
+capacity has increased ~10x over the last 10 years to reach 402 mn sqft in 2020.
+Please note data centers’ capacity (AWS) was ~18 mn sqft in 2020, so ~95% of
+Amazon’s 402 mn sqft capacity is used for its e-commerce fulfilment. This excellent
+video on Amazon logistics can give you an idea how massive and complex Amazon’s
+logistics operation is.
+As you can see below, for every dollar of GMV, it required to have ~0.8 sqft capacity. If
+in 10 years Shopify drives ~$1 trillion GMV on behalf of its merchants and 15% of the
+GMV is part of its own fulfillment network, it will require to build ~150 mn sqft capacity.
+Of course, Amazon is not going to stop expanding its own capacity anytime soon. In 10
+years, they will probably surpass 1 billion sqft in capacity. One concern I have for
+Shopify’s fulfilment ambition is what if Amazon continues to expand at a rapid pace and
+start offering its logistics service in white label to Shopify’s merchants. I believe it is in
+Amazon’s best interest to not let Shopify build its own fulfilment network. Amazon has
+Prime and AWS to throw gargantuan amount of cash every year which they can invest
+heavily to build this while label logistics solution. If they undercut Shopify’s logistics
+pricing by 10-20%, I wonder how many merchants will opt for Amazon’s solution
+instead. I don’t know the answer to this, but it is something that crossed my mind.
+Amazon 2014 2015 2016 2017 2018 2019 2020
+Fulfillment, data centers, and other (Sqft mn) 103 120 160 209 233 272 402
+Growth 21.6% 17.0% 32.8% 30.6% 11.6% 16.8% 47.8%
+Est. 1P+3P GMV ($ Bn) 134 157 199 246 293 346 498
+Sqft/GMV 0.77 0.77 0.80 0.85 0.80 0.79 0.81
+
+=== PAGE 33 ===
+The funny thing is one of the bear thesis for Amazon was e-commerce related Shipping
+cost has no scale benefits (or worse, diseconomies of scale) and if you look at the
+data, it is hard to argue the bears did not have any merit on that argument. Shipping
+cost as % of GMV increased from 6.5% in 2014 to 12.3% in 2020 for Amazon. In the
+grand scheme of things, it just didn’t matter. One of the many reasons I think Amazon
+just continued to scale at an incredible pace and gain market share was the reluctance
+of other players in the US retail to join the e-commerce bandwagon. Many openly cast
+doubt on the sustainability of the business model itself because of the shipping costs
+and their primary argument was if Amazon could not become “profitable” being the
+best at this business, why would we even bother getting into it? Of course, nobody
+(including Shopify) will get a free pass like Amazon did for the next 10 years. Every
+single retail operation is thinking about e-commerce/omnichannel capacity after the
+pandemic and therefore, even if e-commerce penetration surpasses 32-35% of retail
+sales in 10 years, Shopify’s merchants may not be the driving force for that, rather it’s
+the laggards of the old economy brick & mortar retail “marketplaces” such as Home
+Depot, Costco, Target etc.
+I think with reasonable confidence we can say even after 25 years of operation,
+Amazon still loses money in 1P, and makes a modest margin in 3P today. Prime and
+AWS (also Amazon ads) simply made up for everything else. It is an important lesson
+that we probably should remember while looking at Shopify as well. When CEOs like
+Tobi get access to tens of billions of underlying FCF and invests aggressively through
+R&D, capex, and leases, it is perhaps not unlikely that they will stumble upon “AWS and
+Prime” of their own. It can be potentially dangerous to bet against that.
+
+=== PAGE 34 ===
+￼
+The Facebook threat
+Facebook or social media in general can pose threat to platforms such as Shopify in
+multiple ways. Social e-commerce, especially livestreaming e-commerce is increasingly
+gaining momentum in international markets. Sales from livestreaming e-commerce
+doubled to reach $60 Bn in 2020. I have a personal experience that helped me
+understand the power of livestreaming e-commerce.
+My elder brother and his wife live in Bangladesh. My sister-in-law graduated from
+college five years ago but was struggling to get a decent job. She worked for a few
+months at a place that paid her $250-300/month (not horrible in Bangladesh’s
+standard, but yes, it wasn’t good money). She eventually left her job and almost on a
+whim opened a Facebook page “Passion For Fashion” (PFF) to sell women’s apparel
+online. She started doing livestream, and it just took off very fast. After doing this for a
+year on her own, my brother realized this is getting too much for her to manage on her
+own. Then my brother left his job to focus on this.
+
+=== PAGE 35 ===
+This is how PFF works: They source products from wholesalers in Bangladesh or import
+the products from India/Pakistan. She shows the products during the livestreaming on
+Facebook, and customers just take screenshot of the products they like and send it via
+Facebook Messenger. Then an employee from PFF would respond to that and if they
+have the product/size in stock, customer would send his/her address. PFF partnered
+with a courier service to send the product and collect cash (card penetration is <5% in
+Bangladesh, some also transfer money in bKash which is Bangladesh’s most popular
+mobile wallet).
+Every time she livestreams (usually 5/6 times a week for an hour per day), it currently
+leads to $2-3K sales per livestream. The business has ~30% operating margin and ~10
+employees. Recently, PFF also launched its first physical outlet which enhanced the
+credibility of the Facebook page even more as my brother told me number of viewers
+and yield from each livestreaming increased following the launch of the physical outlet.
+How much does Facebook take from this business? Almost nothing. My brother just
+spends $200-300 per month (i.e. 0.005% take rate for Facebook) advertising the page
+on Facebook. PFF doesn’t even have a website yet. They do plan on building one and I
+did suggest them to take a look at Shopify.
+But the success of PFF alludes to the susceptibility of Shopify if livestreaming e-
+commerce becomes a larger share of total e-commerce. I am sure thousands of
+influencers around the world will try to make this work and while some will probably be
+successful in transitioning their audience from social media to their own website, the
+supermajority will be stuck within social network such as Facebook/Instagram/other
+social media.
+It is important to remember that Facebook Shops/Instagram Shopping are still at its
+nascent stage and by no means, their success is guaranteed. But they do seem well
+positioned at the moment. Shopify merchants depend on social media ads for traffic to
+their website. If they focus building their presence on social media, especially since
+Facebook just makes money on ads and has no monetization plan to take a cut as a
+marketplace does, Shopify’s significance on the broader ecosystem gets incrementally
+diminished. Ben Thompson elaborated on this point:
+
+=== PAGE 36 ===
+Shopify’s merchants, however, are hugely dependent on advertising, particularly on
+Facebook, but given that Shopify and Facebook are different companies, that meant
+that one or both had to work with 3rd-party data (i.e. Facebook with Shopify data) for
+advertising to be effective. By cutting that off Apple is forcing a shift in the point of
+integration in the e-commerce value chain: Facebook will now integrate advertising
+and a Facebook-based storefront, which will allow it to measure how effectively its ads
+convert. Shopify, meanwhile, can still provide payments, but it will need to invest ever
+more heavily in other merchant services if it is going to preserve its own integration in
+the value chain, or it risks becoming a commoditized player.
+This shift in Shopify’s business model is almost certainly why the company appears to
+be uncomfortable with this evolution of their “partnership” with Facebook. Sure,
+Facebook Shop integration will be a feature of Shopify’s Subscription Solutions, but
+Shopify will be locked out of sales made via Facebook Checkout, which means no
+Merchant Solutions revenue, and by extension, no participating in the upside of its
+merchants’ growth.
+Facebook Checkout, on the other hand, would mean a purchase that is completed in
+seconds, not minutes. After all, if anyone knows who you are, it is Facebook! That is
+going to mean a lot more conversions on Facebook and Instagram ads in particular —
+and Shopify isn’t going to see an incremental cent.
+Remember that a whole bunch of those Instagram advertisements are from Shopify
+merchants, all of whose websites are hosted on the same infrastructure. Image if
+Shopify could set a cookie when a user made a purchase on one website, and then
+when the user visited another Shopify website they were already logged in with all of
+their payment information ready to go. Notably, Shopify has built this infrastructure —
+it’s called Shop Pay — but you have to log in on every distinct Shopify website.
+The Facebook threat is also why it makes enormous sense for Shopify to build its own
+fulfilment network even if it comes at the expense of lower margins. As discussed
+earlier, the path to success is going to be difficult because of the capital intensity and
+potential strong response from Amazon, but if they are successful, it will ensure and
+possibly enhance their value to the broader e-commerce ecosystem. From the same
+Ben Thompson piece:
+
+=== PAGE 37 ===
+“This, though, is why I remain so excited about the Shopify Fulfillment Network. I’m not
+completely sold on Shopify’s approach — I thought it might make more sense to try and
+create a common interface for merchants to interact with independent 3PL providers,
+as opposed to building out Shopify own logistics service (but I could very well be
+wrong about this) — but I absolutely endorse the company making massive
+investments in this space.
+First, this is a service that no merchant can build on its own; it is a perfect example of
+how a platform can create something for an ecosystem that would not exist otherwise.
+Moreover, this is specifically what is needed to fulfill the promise I laid out last year, of
+Shopify as an Amazon competitor, not because users choose to go to Shopify, but
+because they have no reason to know that Shopify exists.
+Second, this is a service that Facebook Shops is going to make more valuable, not less:
+all of those merchants increasing sales thanks to Facebook Checkout still need to ship
+their things, and there is zero chance that Facebook ever integrates into the real world.
+Third, this is a service no one else is going to build. Yes, it is very difficult to build
+fulfillment centers and develop robots and employ lots of workers, but within that
+difficulty is an escape from competition, i.e. a far more reliable way to make sustainable
+profits in the long run.
+”
+Section 5: Valuation/model assumptions
+As always, if you are reading my deep dive for the first time, I encourage you to read
+my approach to valuation first. I follow an expectation investing or reverse DCF
+approach and try to derive what is embedded in the current stock price.
+Even for regular readers, there are some changes that I would like to highlight in this
+month’s deep dive. As mentioned earlier, I really loved the way “The 10th man”
+approached Shopify’s model. His model was publicly available, and we spoke for two
+hours going through his current thoughts on Shopify as well as some questions that I
+had on his model. In the end, I became so influenced by his model that when I started
+building one, it was becoming a clone of his model. I finally decided to just use his
+model and give credit to him. I updated his model with 2020 numbers and made many
+
+=== PAGE 38 ===
+changes in assumptions. While 10th man and I are both somewhat ambivalent on
+Shopify as a stock on current prices, he is somewhat more bullish than I am.
+Two things I would like mention before I delve into the model. First, this model can
+seem slightly more complex than my ones if you are a beginner in excel/financial
+modeling. And second, when I was going through Shopify model, I was reminded of the
+St. Petersburg Paradox and the resemblance the paradox may have for high growth
+stocks such as Shopify. I wrote this piece on this topic six months ago. Shopify truly
+fits this paradox. It is somewhat impossible to come up with any point estimate or even
+a low range for the stock price with any reasonable confidence. The range of outcome
+is pretty wide and spreadsheet-based model on Shopify is just not that useful. While
+the model may not be useful, it helps me (and you) visualize the business in more
+granular level and helps me connect the dots quicker. I will briefly discuss a back-of-
+the-envelope type valuation of Shopify after I discuss the model.
+As mentioned in Section 1, Shopify reports its revenues in two segments: Subscription
+Solutions and Merchant Solutions. I will discuss each of these segments separately.
+Subscription Solutions
+Shopify generates almost all of its subscription revenue from its four core subscription
+plans: Basic Shopify ($29/month), Shopify ($79/month), Advanced Shopify
+($299/month), and Shopify Plus ($2,000/month or 0.25% of GMV with max fee being
+$40,000/month) While Shopify discloses total number of merchants on its platform, it
+does not break it down further by each of these plans. But it is highly likely that
+supermajority of the merchants is in the basic plan and only a tiny minority opt for
+standard and advanced plan. Shopify, however, does disclose the number of Shopify
+Plus merchants.
+While it may seem 18% growth in merchants next year as too low compared to
+historical numbers, we should take into account of the impact of pandemic. In fact,
+there is a reasonable chance that even this may prove to be optimistic. For example,
+recent BuiltWith data shows that number of live Shopify websites has gone down from
+1.7 mn a month ago to 1.4 mn now. As more and more businesses fail that was
+launched during the pandemic, number of merchants growth may slow down
+considerably.
+
+=== PAGE 39 ===
+In terms of pricing, Shopify has not changed its prices apart from one increase in price
+for Shopify Advanced from $179/month to $299/month in 2016. “The 10th man”
+assumed 5% price increases for all the plans in 2025 and 2030 which seems
+reasonable to me. Having said that, international markets will be of paramount
+importance for Shopify’s growth story going forward. While $79/month may be pretty
+cheap for a merchant in the US, it may not be deemed cheap by an Indian merchant. If
+Shopify wants to penetrate every little corner of the world except China, it may need to
+maintain its current pricing much longer.
+￼
+Merchant Solutions
+Merchant solutions can be segmented into three categories: payments,
+shipping/fulfilment, and Shopify Capital/Balance. Let me discuss each of these
+separately. Please note that I have assumed zero revenue from the Shop app. If
+Shopify indeed builds a (quasi)marketplace in its rebranded Shop app, the model
+needs to be updated.
+￼
+
+=== PAGE 40 ===
+Payments: While ~32% of GMV was transacted via Shop Pay in 2015, it has
+consistently increased 200-300 bps each year to reach ~45% in 2020. As Shop Pay
+becomes available in more and more countries, penetration may increase to ~60% in
+the long-term. As Shopify merchants use multiple channels (Facebook, Instagram,
+Walmart etc.) to sell their products, there may be some ceiling on how deep the
+penetration can be in the long run. The pace of Shop Pay integration in international
+markets may play an important role here. Shopify’s recent Shopify POS Pro launch
+means as more and more merchants/retailers focus on omnichannel capabilities, Shop
+Pay will enjoy a growing share of the merchant wallet.
+The other thing that is hard to model and difficult to forecast is how Shopify’s reach of
+SMB merchants will lead to potential opportunities in the future that is not currently not
+quite visible. For example, Affirm made a deal with Shopify to be its exclusive “Buy Now
+Pay Later” (BNPL) partner. For that privilege, Shopify was granted warrants to buy up
+to 20.3 million shares (8% stake) in Affirm. Just 6 months after the deal, Affirm came to
+IPO and Shopify’s stake is worth ~$2 Bn.
+￼
+Shopify Shipping and SFN: It is estimated that almost two-fifth GMV adopted Shopify
+Shipping in 2020. But as Shopify focuses on building its fulfilment network, most
+shipping customers will just shift to Shopify Fulfilment Network (SFN). Within SFN,
+Shopify is likely to pursue both approaches: at one hand, they are partnering with 3PL
+companies, and on the other hand, they will also likely build end-to-end fulfilment
+capacity. As you can see below, while I expect ~5% of total GMV to be utilized in
+Shopify-owned SFN, it will likely be scaled to reach ~40% by 2030. Let me walk you
+through some calculation here.
+
+=== PAGE 41 ===
+As discussed earlier, sqft per $1 Bn GMV hovered between 0.77 to 0.85 in the last few
+years for Amazon. While 10thman initially assumed 0.65 sqft/$1 Bn GMV, we both later
+agreed that this is probably too low, especially after looking at Amazon. I wanted to
+assume the higher end of Amazon’s historical benchmark for a few reasons: First,
+Amazon has been investing in logistics for two decades and their level of efficiency
+may not match with Shopify given lack of experience and learning curve that’s perhaps
+required to ramp up; Second, I believe Shopify, even after further along the learning
+curve, may be lot less efficient than Amazon since the packages for each merchant are
+all different and inventory turnover likely to be lot lower than Amazon.
+Although 10thman assumed $65 cost per square foot, he later let me know that he
+probably undershot on the costs as well since he did not take into account the cost of
+land and therefore in reality, it maybe ~$90-100 per square foot.
+Take-rate for SFN in-source fulfilment was assumed to be 12.5%. Amazon mentioned in
+2018 10-k that their overall 3P take-rate was 26.7%. If we assume marketplace take-
+rate as 15%, FBA take rate is 12-15% (depending on the mix between FBA and FBM
+within Amazon marketplace). Fulfilment for 3PL partnership model was assumed to be
+0.5%. It is possible that I am being conservative here, but I have no clarity of the
+potential take rate here. It may well be 1% as Shopify is likely to sell/rent 6RS robots to
+partner network. By 2030, it is assumed in-source SFN will reach half of the total (in-
+source and partnership) SFN mix.
+In terms of margin, gross margin for SFN partnership model was assumed to be 55% in
+2021 and gradually increased to 75% once the partnership model scales further. On the
+other hand, gross margin for in-source SFN was assumed 27.5% and kept at this level
+for the forecasting period. This is in-line with FedEx’s gross margin, so while it may
+seem reasonable for out years, it is possible I am being generous on the in-source
+gross margin in the initial years. As internal SFN model ramps up in out years, its
+revenue contribution increases significantly and gross margin consequently starts
+going down. Shopify Shipping is assumed to generate 36% gross margin, but given
+SFN’s scaled operations, its contribution will be insignificant in out years.
+
+=== PAGE 42 ===
+￼
+Shopify Capital/Balance: As described in the beginning, Shopify Capital is a loan
+product whereas Balance is merchant banking account. 10thman looked into Aswath
+Damodaran’s working capital dataset which is typically 13-14% of total sales. If we
+assume Shopify Balance as effectively the source of the fund financing the loans,
+Shopify will essentially earn a spread between these products which is assumed to be
+~3.5%. While ancillary services such as this further differentiates Shopify from
+competing commoditized alternatives and enhance its value propositions, Shopify
+Capital/Balance may not move the needle much.
+￼
+Profitability:
+
+=== PAGE 43 ===
+Shopify is all about the end-state. Profitability is largely masked because of significant
+investment through income statement (higher S&M and R&D), but long-term EBIT
+margins are assumed to reach ~20% in 2030. There are too many moving parts here as
+you can probably expect.
+￼
+One thing I would like to highlight here is the below table. Notice how the revenue
+composition has changed from 2015 to 2020 and then notice again how the revenue
+mix is assumed to change in 2030. While Shopify used to generate majority of its
+revenue from subscription solution (i.e. SMB merchants running/managing e-commerce
+websites), thanks to its successful payments integration/adoption to its platform, in
+just five years Shopify generated majority of its revenue from payments. As less than
+half of GMV currently utilizes Shop Pay, it will continue to dominate overall revenue mix
+for the next few years until SFN will start ramping up and reach some scale. Basically,
+half of Shopify’s 2030 revenue is expected to come from a segment they just launched.
+￼
+I worry about market’s implied assumption that SFN is destined to succeed. It is hard to
+blame Mr. Market given the quality of management and their history of topnotch
+execution. But if FedEx and Amazon are any indication, logistics just seems like a
+different beast altogether. For example, operating margin for FedEx never reached
+~10% in the last 15 years, and the average operating margin during this time was
+~7.5%. Since SFN consists both partnership model and in-source fulfilment, it is not an
+apple-to-apple comparison with FedEx. But let me unpack a little why ~20% EBIT
+margin may still not be too difficult for Shopify to achieve. If SFN in-source model
+generates ~5% EBIT margin in 2030, SFN partnership model needs to generate ~25%
+EBIT margin, and the rest of Shopify needs to generate 25% EBIT margin for the overall
+
+=== PAGE 44 ===
+EBIT margin to reach 20%. Those don’t seem particularly lofty number to hit for
+Shopify.
+￼
+Back-of-the-envelope valuation: The model I just described is complex and has too
+many moving parts, but it does let you visualize the drivers and what we are roughly
+assuming to generate ~7% IRR. I have a back of the envelope valuation for Shopify that
+you can see below. Even if GMV grew at ~20% CAGR and take rates became 2x of what
+it was in 2020, SHOP can be dead money for the next decade. If GMV grew at ~24%
+CAGR and take rates become 3x of 2020 take rates in 10 years, we will probably make
+~6% IRR. For context, Shopify increased its GMV 8x in the last 5 years and it needs to
+increase GMV ~10x in the next 10 years. If you ask me, these are somewhat
+uncomfortable numbers.
+
+=== PAGE 45 ===
+￼
+Section 5: Final words
+I am sure this has been a long read for you, so I decided to skip the management
+section for Shopify. My guess is you all probably know about Tobi Lutke, but in any
+case I will leave plenty of reading material for you to explore.
+While I will be on the sidelines to see how Shopify fares in the next few quarters/years,
+especially SFN, I want to acknowledge that Shopify has defied perhaps the most
+bullish analyst/investor out there in the last 4/5 years. The numbers they have put out
+is simply jaw dropping and from my conversations with several investors/analysts, I
+could sense very few people will be surprised if Shopify proves my cautious tone as
+just “analysis paralysis”
+. One particular thing I may be underestimating is Tobi’s ability
+to deploy FCF in high ROIC or further moat enhancing investments. Shopify is not the
+kind of company that will buyback shares when they generate $5-10 Bn FCF in out
+
+=== PAGE 46 ===
+years. It will probably aggressively reinvest and when people like Tobi gets $5-10 Bn
+cash to deploy every year, you may get a Prime/AWS like outcome at some point.
+I will watch with interest to see how it unfolds and if I grow a sense of comfort with the
+numbers, I will be more than happy to act.
+Portfolio Discussion: Regular readers know that I publish my portfolio not to suggest
+you what to buy or sell, but just for transparency reasons. This would also be a good
+moment to acknowledge that being shareholder of two marketplaces (Etsy and
+Amazon) may have sowed some biases while studying Shopify.
+During March, I added more to some of my top holdings: IAC ($207.22/share), ADSK
+($268.55/share), and BRK ($261.86/share). There is nothing much to talk about the
+portfolio really. It’s the same old, same old.
+￼
+I encourage you to subscribe for the annual plan; annual subscribers receive the full
+schedule of deep dives in 2021. Please feel free to encourage your colleagues and
+
+=== PAGE 47 ===
+acquaintances to subscribe to my work. Your support is deeply appreciated. Thank you
+for reading.
+Recommended readings
+1. The 10th Man on SHOP (somewhat ambivalent on the stock, but probably more
+bullish than I am. Highly recommended. It will also help you understand the model
+better.)
+2. Heller House: Shopify’s Ambition (Bullish)
+3. Albert Wang’s deep dive on Shopify (Bullish)
+4. YouTube Video: How Amazon's Super-Complex Shipping System Works
+5. Base10’s Chris Zeoli discusses Shopify’s third-party ecosystem and potential
+platform risk
+6. Anthony Bardaro criticizes Ben Thompson’s Aggregation Theory and discusses
+Amazon, Shopify, and Etsy
+7. Bill Gurley’s twitter thread comparing China and US e-commerce ecosystem
+8. BVP’s initial memo on Shopify
+9. Recent NYT piece on Shopify vs Amazon
+10. S&P Global on Shopify’s Fulfilment Network
+11. Web Smith on arguing for building a Shopify marketplace
+12. Alex Danco on Shopify (Business Breakdown podcast)
+13. Tobi Lutke (Invest Like The Best podcast and interview by The Observer Effect)
+14. Ben Thompson pieces (Shopify and the Power of Platforms, The Facebook-Shopify
+Value Chain, Shopify’s reason t exist
+15. Benedict Evans on Shopify
+
+=== PAGE 48 ===
+16. Shallow dive on “BigCommerce”
+, a Shopify competitor
+17. Not Boring on Shopify’s narrative
+Disclaimer: All posts on “MBI Deep Dives” are for informational purposes only. This is
+not a recommendation to buy or sell securities discussed. Please do your own work
+before investing your money.
+PREVIOUS ISSUE
+Autodesk: The Horse for the Infrastructure Decade
+NEXT ISSUE
+Otis: “Lindy” business, but not without concerns
+MBI Deep Dives © 2026
+Sign up
+Gift a subscription
+Powered by Ghost

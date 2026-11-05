@@ -57,7 +57,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | [RKT](tickers/RKT/RKT.md) | Active | Rocket Companies | Narrow-Emerging Wide | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 most-profitable in 4 yrs — EBITDA $738M (26% margin); **Mr. Cooper $400M synergies pulled 1 yr forward to end-2026**; Redfin attach 45% w/ "line of sight to 50%"; AI capacity $300B 2 yrs early; +10.88% to $15.69; PW EV $25.80 (5-yr); R/R 3.6:1; verb upgrade **Add / Hold-Add** |
 | [SBUX](tickers/SBUX/SBUX.md) | Active | Starbucks | Wide, stable | Moderate | 2026-10-31 | 🟡 **Watch (entry ≤$69) / Hold** — The margin walk is proven and FY27 is guided up 18%, but at 32× the price still needs near-Bull EPS. **PW EV $114: +10% up / −35% down.** |
 | [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Wide, stable | Moderate | 2026-10-26 | 🟢 **Initiate (entry ≤$91, fragile) / Add** — record Q3, NIM exit guide cut; the 22% pullback lifts the return to 13.2%/yr. **PW EV $157: +75% up / −22% down.** |
-| [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide, widening | Moderate | 2026-09-23 | 🟡 **Watch (entry ≤$117) / Hold** — five quarters of 30%+ growth and Shop Pay is the agents' checkout, but ~60× FCF needs a decade of it. **PW EV $217: +56% up / −32% down.** |
+| [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide, widening | Moderate | 2026-11-05 | 🟡 **Watch (entry ≤$113) / Hold** — six quarters of 30% GMV growth and agents all check out on Shop Pay, but who pays whom inside the agent is unanswered. **PW EV $208: +36% up / −50% down.** |
 | [SN](tickers/SN/SN.md) | Active | SharkNinja | Narrow & Widening | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 (May 6) beat-and-raise — rev $1.41B (+15.6%, intl +31.6% accelerating); EBITDA $235M; **FY26 raised** ($1.29–1.30B EBITDA / $6.00–6.10 EPS); SEA tariff 20%→10%; GM –100bps (1H drag, 2H recovery watch); PW EV $150 (5-yr); R/R 2.7:1; **Initiate / Hold-Add weakness**; entry $95–110 |
 | [SNOW](tickers/SNOW/SNOW.md) | Active | Snowflake | Moderate; widening in context, narrowing in storage | Moderate | 2026-10-24 | 🟡 **Watch (entry ≤$131)** / 🔴 **Trim** — the agentic bear case lost and growth hit 37%, but owner earnings are still negative. **PW EV $241: −26% to PW EV / −68% to Bear.** |
 | [SPCX](tickers/SPCX/SPCX.md) | Active | Space Exploration Technologies (SpaceX) | Wide (launch, Starlink) / none yet (compute) | Low-Moderate | 2026-10-21 | 🟡 **Watch / Hold** — compute rental turned profitable and Starlink ARPU rose, but the price assumes scarcity pricing lasts through a $35–40B-a-quarter build. PW EV $220: +49% up / −81% down |
@@ -114,7 +114,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | RKT | $15.60 | –35.9% | Double (B+A-Mod-Strong) | Initiate Spec. / Hold-Add; entry $11–14 |
 | SBUX | **$103.67** (10/30/26) | −6.2% (79th %ile) | **Single (A)** | 🟡 **Watch / Hold**; entry ≤$69; PW EV $114; 4.4%/yr vs 13% hurdle |
 | SCHW | **$89.73** (10/26/26) | −21.7% (19th %ile) | **Double (B+A)** | 🟢 **Initiate / Add**; entry ≤$91; PW EV $157; 13.2%/yr vs 13% hurdle, probability-fragile |
-| SHOP | **$138.91** (9/23/26) | −23.8% (51st %ile) | **Single (A)** | 🟡 **Watch / Hold**; entry ≤$117; PW EV $217; 9.3%/yr vs 13% hurdle |
+| SHOP | **$153.03** (11/4/26) | −15.4% (68th %ile) | **Single (A)** | 🟡 **Watch / Hold**; entry ≤$113; PW EV $208; 6.4%/yr vs 13% hurdle |
 | SNOW | **$325.43** (10/23/26) | −15.4% (78th %ile) | **Single (A)** | 🟡 **Watch (entry ≤$131)** / 🔴 **Trim**; PW EV $241; −5.8%/yr vs 13% hurdle |
 | SN | $115.74 | –13.6% | Triple (A-Mod-Strong; B+I+T-Mod) | Initiate; entry $95–105 |
 | SPCX | $147.79 (10/20/26) | −34.5% | Single (I) | Watch / Hold; entry ≤$120 |
@@ -174,7 +174,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | TSLA | Full Q3 2026 call transcript (call details rest on one press recap); robotaxi fleet size and paid miles; Optimus unit count; 2019 Autonomy Day primary link; FY2021–25 Item 1A diff | Q3 transcript (ir.tesla.com replay); Q4 Update; 10-K |
 | SBUX | Uplift-store return (sales lift vs. control, payback on ~$150K); FY2026 10-K (owner earnings, ROIC); post-print analyst targets | FY2026 10-K mid-November; Q1 FY27 call Jan 27 |
 | NXPI | Full-text filings, transcripts and 8-Ks could not be stored (SEC and the IR site returned 403 to scripted fetches; extracts only, see `raw/NXPI/SOURCES.md`); no shareholder letter exists (Pattern C); monthly buyback tables (shares and average price); short-interest date and month-over-month change; the 2021 and 2024 Analyst Day decks (targets taken from press summaries); no earnings-day CEO/CFO media hit found for Q2 2026 | Q3 2026 call (Oct 27) and 10-Q; IR events page via browser; Investor Day deck |
-| SHOP | Executed insider sales behind the Aug–Sep Form 144 notices (insiders report on SEDI, not Form 4); merchant count; agentic GMV | SEDI; Q3 2026 call |
+| SHOP | Executed insider sales behind the Aug–Sep Form 144 notices (SEDI); merchant count; agent-originated GMV and any agent fee share; Goldman Sachs Sep 10 transcript | SEDI; Q4 2026 call |
 | RKT | Short interest % of float | Fintel / aggregator |
 | RKT | Insider activity (last 90 days) | OpenInsider / SEC Form 4 |
 | RKT | Full FY2025 adj revenue (post-acquisition, full year) | RKT 10-K |
@@ -188,4 +188,4 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 
 ---
 
-*Last updated: 2026-11-04*
+*Last updated: 2026-11-05*

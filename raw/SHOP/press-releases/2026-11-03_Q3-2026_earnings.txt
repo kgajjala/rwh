@@ -1,0 +1,88 @@
+Shopify Q3 2026 earnings release (8-K Ex. 99.1), November 3, 2026
+Source: https://www.sec.gov/Archives/edgar/data/1594805/000159480526000067/exhibit991pressreleaseq320.htm
+Retrieved 2026-11-05 via the built-in browser (document.body.innerText). Verbatim excerpts; tables re-typed from the page. Boilerplate endnotes trimmed.
+
+HEADLINE: Shopify Sustains Rapid Growth with Revenue Up 32% and Free Cash Flow Margin of 22%
+
+"Shopify is uncommonly good at operating in two realities at the same time: the world our merchants exist in today, and the one they are moving towards. Q3 is the perfect example. We powered $119 billion in GMV, while continuing to build commerce into every surface, every agent, and increasingly, everywhere," said Harley Finkelstein, President of Shopify.
+"We extended our track record of consistent execution, with 32% revenue growth and a 22% free cash flow margin," said Jeff Hoffmeister, Chief Financial Officer of Shopify. "Delivering these results at our scale speaks to the strength of our model, our multiple growth drivers, and our expanding addressable market."
+
+SELECTED ($M)                Q3 2026    Q3 2025
+GMV                          119,145     92,013
+MRR                              230        193
+Revenue                        3,742      2,844
+Gross profit                   1,781      1,391
+Operating income                 568        343
+Free cash flow                   816        507
+YoY revenue growth               32%        32%
+FCF margin                       22%        18%
+
+2026 OUTLOOK — fourth quarter of 2026:
+- Revenue to grow at a low-thirties percentage rate on a year-over-year basis;
+- Gross profit dollars to grow at a high-twenties percentage rate on a year-over-year basis;
+- Operating expenses as a percentage of revenue to be 29% to 30%;
+- Stock-based compensation to be $155 million; and
+- Free cash flow margin to be consistent with the fourth quarter of 2025.
+
+STATEMENT OF OPERATIONS ($M)  Q3 2026   Q3 2025
+Subscription solutions            836       699
+Merchant solutions              2,906     2,145
+Revenue                         3,742     2,844
+Cost of rev - subscription        175       128
+Cost of rev - merchant          1,786     1,325
+Gross profit                    1,781     1,391
+Sales and marketing               466       410
+Research and development          497       375
+General and administrative        130       115
+Transaction and loan losses       120       148
+Total opex                      1,213     1,048
+Operating income                  568       343
+Net other expense incl. taxes    (106)      (79)
+Net income                        462       264
+less equity investments MTM      (122)     (103)
+NI ex equity investments          584       367
+
+BALANCE SHEET ($M)           Sep 30 2026  Dec 31 2025
+Cash and equivalents            1,868       1,545
+Marketable securities           2,859       4,233
+Trade and other receivables       483         500
+Loans and MCAs, net             2,350       1,784
+Other current assets              226         234
+Total current assets            7,786       8,296
+Long-term assets (PP&E, ROU, intangibles, other) 327   210
+Deferred tax assets                83          33
+Long-term investments             524         975
+Equity and other investments    4,911       4,582
+Equity method investment          538         602
+Goodwill                          495         491
+Total assets                   14,664      15,189
+Accounts payable                  630         570
+Deferred tax liabilities           63          55
+Other liabilities               1,222       1,091
+Total liabilities               1,915       1,716
+Shareholders' equity           12,749      13,473
+
+CASH FLOW ($M)                Q3 2026   Q3 2025
+Net income                        462       264
+Amortization and depreciation       7         8
+Stock-based compensation          140       107
+Provision for transaction and loan losses 67  102
+Deferred income tax recovery      (68)       (5)
+Net loss on equity and other investments 117 62
+Net loss on equity method inv.     21        21
+Changes in operating A&L           84       (70)
+Operating cash flow               818       513
+Capex                              (2)       (6)
+Purchases/originations of loans and MCAs (1,700) (996)
+Repayments and sales of loans and MCAs 1,471   849
+Purchases of equity and other investments (161) (8)
+Acquisition of business            (5)        —
+Acquisition of intangible assets  (99)        —
+Repurchases of common stock      (562)        —
+Footnote 6: Starting in April 2026, cash flows associated with merchant cash advances are presented within investing cash flows rather than operating cash flows. For Q3 2026 this resulted in a net cash use of $30 million presented in investing activities.
+
+FREE CASH FLOW: OCF 818 − capex 2 = 816; margin 22% (Q3 2025: 507, 18%).
+
+NON-GAAP: SBC and related taxes 147 (116); non-GAAP net income 638 (441). Diluted EPS GAAP $0.36 ($0.20); non-GAAP $0.49 ($0.34). Diluted weighted shares 1,290,726,742 (1,312,872,709). Income tax effects include "a release of valuation allowance as a discrete tax benefit".
+
+CONSTANT CURRENCY (YoY):  GMV 29% (30% cc) · Revenue 32% (32%) · Subscription 20% (20%) · Merchant 35% (36%) · Gross profit 28% (28%) · Operating income 66% (65%).

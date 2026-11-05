@@ -1,0 +1,61 @@
+Shopify Q3 2026 earnings call, November 3, 2026, 8:30 a.m. ET
+Participants: Harley Finkelstein (President), Jeff Hoffmeister (CFO), Shane Kleinstein (IR). Tobi Lütke (CEO) did not speak.
+Source 1 (full read): Motley Fool transcript, https://www.fool.com/earnings/call-transcripts/2026/11/03/shopify-shop-q3-2026-earnings-call-transcript/ — read in the built-in browser (document.body.innerText, ~72K chars) on 2026-11-05.
+Source 2 (cross-check): Investing.com, https://in.investing.com/news/stock-market-news/earnings-call-transcript-shopify-tops-profit-view-in-q3-2026-but-shares-fall-93CH-5675737 (see cross-check note at the end).
+Verbatim excerpts below. Secondary transcripts can garble; quotes used in the wiki are the ones cross-checked.
+
+=== PREPARED REMARKS: FINKELSTEIN ===
+"Q3 was another signature Shopify quarter. GMV was up 29.5% to $119 billion. Revenue was up 32% to $3.7 billion, and our free cash flow margin was 22%."
+"Shopify is uncommonly good at operating in 2 realities at the same time. The agentic future we're building towards ... and the current reality for most of our merchants today."
+"Since our last earnings call, personal agents hit the mainstream, Muse, Instinct, Claude Duet, Grok Bot, all partner with Shopify. So our merchants checkouts are supported and buyers can use Shop Pay as their wallet."
+"Now while the volume is still small here, adoption is growing ... AI traffic is up 2.6x year-over-year. Orders are growing even faster at 3.3x, AI channels are sending shoppers straight to product pages at 3x the rate of organic search and shoppers are converting 64% more often."
+"Catalog powered searches are converting at 2x the rate of general AI search."
+"Q3 was the first time we saw shoppers experimenting with delegated purchasing through personal agents"
+"And with Claude Duet, Instinct and Grok Bot that reach even extends beyond stores built on Shopify. Shoppers can now use Shop Pay as their chosen wallet for any merchant, no extra setup required, it just works."
+Canvas (AI store builder): "Merchants are launching stores that are more personalized and they're doing it 20% faster."
+Sidekick: "Daily active merchants are up 3.7x year-over-year and daily sessions are up 4.2x ... In Q3, Sidekick created around 2/3 of all Shopify flows."
+Large-merchant forum: "The merchants did not spend much time talking about personal agents or even AI-powered discovery or even delegating purchasing. They talked about the fundamentals, trust, growth and simplicity"
+Shop Pay: "Lululemon, who just selected Shop Pay for their North American online store ... in Q3, GMV accelerated with Shop Pay grew over 50% year-over-year."
+Shop: "GMV in Q3 more than doubled year-on-year."
+Offline: "we hit a key milestone crossing $200 billion in lifetime offline GMV this quarter." (Investing.com and singjupost render $300 billion; Fool renders $200 billion twice. Not used.)
+"International GMV grew 32% in the quarter."
+"Year-to-date orders through Shop Campaigns more than doubled year-over-year, accelerating in the third quarter."
+"Our simple connected unifying operating system is the moat."
+Enterprise: Balmain, Givenchy, Jacquemus, Chaumet, Acne Studios; Alice + Olivia replatforming; Omaha Steaks migrating.
+
+=== PREPARED REMARKS: HOFFMEISTER ===
+"Over the last 3 years, our U.S. merchants online sales grew at a compound annual growth rate of 23% compared to 8% for U.S. e-commerce overall. In Europe ... our merchants grew online GMV at a compound annual growth rate of 37% compared to a market growth of 8%, doubling their share of e-commerce in just 3 years."
+"Three years ago, Shopify merchants drove nearly 1/5 of incremental e-commerce sales in the U.S. and nearly 1/4 in Europe. Since the start of 2025, they now capture nearly half in the U.S. and more than 40% in Europe."
+"In Q3, 3/4 of AI referred sales yet again came from product categories outside our top 100."
+"Ultimately, the thesis is simple. To believe in Shopify, you really just need to believe in commerce."
+"Q3 GMV was $119 billion up 30% in constant currency, our sixth consecutive quarter at these levels of growth ... remained evenly split among new and same-store sales ... The $2 million to $25 million cohort contributed the most incremental GMV ... The $25 million and greater band is the fastest growing".
+"North America ... GMV growing 28% in constant currency for the third consecutive quarter. GMV in Europe grew 33% in constant currency"
+"Off-line GMV grew 30% ... total locations on Shopify up 52% ... In Q3, 55% of merchants that added our point-of-sale were new to Shopify."
+"B2B GMV grew 74%."
+"Payments penetration surpassed 68%, up 3 points year-over-year, and Shop Pay GMV grew 50% year-over-year."
+"Q3 MRR grew 19% year-over-year. Plus MRR represented 34% of MRR, growing 18% year-over-year."
+"Gross profit grew 28%, in line with our guidance and gross margins came in at 47.6%, consistent with the second quarter. Merchant Solutions gross profit grew 37% with gross margins expanding year-over-year for the third consecutive quarter. Our year-over-year and sequential margin improvements were driven by margin expansion in Shopify payments from savings negotiated with partners across the full payments ecosystem."
+"Subscription Solutions gross profit grew 16%. Gross margins were 79%. On a year-over-year basis, Subscription Solutions gross margins compressed primarily from incremental AI spend on Sidekick, partially offset by efficiencies and support."
+"From Q2 to Q3, merchant conversations increased 14% while cost per conversation declined 28%, and total Sidekick cost fell 18%."
+"operating expenses at 32% of revenue in the third quarter, down from 37% last year. Throughout the year, gross profit growth has outpaced operating expense growth by approximately 12 points each quarter."
+"Sales and Marketing grew 14% year-over-year. The slightly slower Q3 growth rate resulted from testing that we did in the U.S. We paused spending for a couple of weeks in some channels and geographies in order to test the incrementality of our marketing efforts ... Some of the reduced spend will effectively shift to Q4"
+FCF (key): "Our free cash flow was $816 million, a 22% margin. I should point out that approximately 150 basis points of the year-over-year improvement in free cash flow margins stems from the structural operating discipline and expense leverage that we've been delivering. The remainder of the improvement results from items that are more temporary. The marketing test that we did this past quarter, the timing of certain tax receivables and the accounting change to merchant cash advances with each of these 3 being roughly equally sized."
+Q4 guide: "We expect Q4 revenue growth in the low 30s year-over-year. Our guidance reflects less than 1 point of FX headwind. This outlook compares to a 29% constant currency growth rate last year. We expect gross profit dollars to grow in the high 20s. We expect Q4 operating expenses to be 29% to 30% of revenue, reflecting higher marketing expenses ... we expect free cash flow margin for Q4 to be in line with Q4 of last year ... with higher taxes from the timing of payments in certain jurisdictions"
+"It took Shopify 18 years to reach our first $1 trillion in cumulative GMV. We expect to pass the second trillion by the end of this year, less than 2.5 years later."
+
+=== Q&A ===
+Samad Samana (Jefferies) asked how Muse/Meta "impact[s] the payment economics depending on whether they use Shop Pay or Meta Pay or another option." Finkelstein answered on traffic quality and integration ("I would say it's still quite early. Momentum is certainly strong. The quality of traffic is really, really quite high ... the agent is really just this new front door here. We are everything beyond that.") — he did not address payment economics. NON-ANSWER.
+"74% of AI attributed purchases in Q3 were from outside our top 100 categories."
+Andrew Boone (Citizens) on headless commerce and the moat. Finkelstein: "in the new world of personal agents, shop is not just a wallet. It is your complete buyer profile ... we have 400 million shoppers already trusting Shop and Shop Pay, now that trust goes with them into every single agent." And: "since start of 2025 ... we've captured nearly half of all incremental e-comm in the U.S. despite only being 14%."
+Michael Morton (MoffettNathanson) asked whether the ~80% subscription gross-margin "trend line" philosophy has changed after two quarters below it. Hoffmeister: "No." then discussed Sidekick efficiency and Q4 infrastructure spend; no number given.
+Mark Mahaney (Evercore) asked why Q4 FCF margin is not up sequentially. Hoffmeister: marketing shifted from Q3 to Q4; "the returns have been very, very good ... We're going to lean into opportunities like that"; infrastructure; "nothing has fundamentally changed."
+Ken Gawrelski (Wells Fargo) on subscription revenue decelerating vs GMV. Hoffmeister: GMV shows up in payments; "that would mark the seventh consecutive quarter of revenue in the low 30s."
+Jim Callahan (Piper) on the marketing test: "No, no top line impact."
+Shweta Khajuria (Wolfe) asked: "Will the merchants be paying a certain take rate? Or ... will you be sharing the economics with these agents?" Hoffmeister: "If you start for example, on Muse. And if you, as a consumer, then do a search, which leads to a merchant, which is using Shopify then the economics are exactly the same, essentially what this is another form of discovery, they're sending you to the merchant's website ... what we're trying to make sure we do is get Shop Pay out there more and more in terms of a wallet perspective and continue to expand the economics on that front as well." He answered the discovery case only; the delegated-purchase (checkout inside the agent) case and any fee share to agents were not addressed. PARTIAL NON-ANSWER.
+Paul Treiber (RBC) on the $100M shop.com purchase. Finkelstein: "this is a declaration that we're ready for more ambitious posture for Shop. We wanted to make a deliberate investment to Shop's credibility and discoverability as a consumer shopping destination, not just a tracking utility."
+Colin Sebastian (Baird) asked whether Sidekick/catalog value translates to higher monetization; Finkelstein answered the POS part and asked "what is the second part of your question?"; IR moved on. NON-ANSWER on monetization.
+Closing, Finkelstein: "today's results reflect decisions that we've made probably 3 years ago ... I believe we've earned the right to be considered a highly trusted public company because we do what we say we're going to do".
+
+=== CROSS-CHECK (Investing.com, read in the built-in browser 2026-11-05) ===
+Matches Fool on: the "approximately 150 basis points ... structural" FCF passage (Investing.com: "with each of these three being roughly equally sized"); Samana's "payment economics" question; Hoffmeister's "the economics to us are exactly the same. Essentially, this is another form of discovery"; "$200 billion in lifetime offline GMV" (Investing.com prepared remarks say $200B; the $300B rendering seen in search summaries was not found); "nearly half in the U.S. and more than 40% in Europe".
+Investing.com header [Analyst consensus]: EPS $0.49 vs $0.47 consensus; revenue $3.74B "exactly at the $3.74 billion forecast"; stock "fell 6.65% to $145.83 in premarket trading from the previous close of $156.22". Market cap shown $186.56B.

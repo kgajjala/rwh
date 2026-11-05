@@ -4,6 +4,32 @@
 
 ---
 
+## [2026-11-05] — Q3 2026 earnings · migrated v5.0 → v7.0
+
+**Trigger**: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000067/exhibit991pressreleaseq320.htm) and [10-Q](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/shop-20260930.htm), Nov 3; stock −8.7% then +7.3%.
+**Sources**: [release](../../../raw/SHOP/press-releases/2026-11-03_Q3-2026_earnings.txt) · [10-Q extract](../../../raw/SHOP/filings/2026-11-03_10-Q_Q3-2026_extract.txt) · [call](../../../raw/SHOP/transcripts/2026-11-03_Q3-2026_earnings-call.txt) · [CNBC and TBPN](../../../raw/SHOP/appearances/2026-11-03_CNBC-TBPN_finkelstein.txt) · [MBI 3Q'26](../../../raw/SHOP/analyst-reports/2026-11-04_MBI_shop3q26.txt) · [MBI 2021](../../../raw/SHOP/analyst-reports/2021-04-09_MBI_anti-amazon-protagonist.txt) · [gaps](../../../raw/SHOP/SOURCES.md) · [Yahoo](https://finance.yahoo.com/quote/SHOP/) Nov 4 close
+
+### Scorecard
+- Growth holds above 25% — 🟡 Pending — Q3 +32% passes the first leg; Q1 2027 guide due in February (Q4 ≥28% floor added).
+- Agentic checkout through Shop Pay at Shopify's economics — ✅ Pass — Shop Pay GMV +50%; all new personal agents use Shop Pay; no fee share disclosed. Replaced by "agents stay a channel, not a toll" (merchant gross margin ≥37%, no agent fee share, through Q2 2027).
+- Gross profit keeps pace — 🟡 Pending — 9M gross profit +30%, FCF margin 18.5%.
+
+### Changed
+- **Price** $138.91 → **$153.03** (+10%).
+- **v7 deep dive**: valued on owner earnings after SBC (35× Base) instead of FCF; **PW EV $217 → $208**; R/R 4.6 → **2.2:1** (Bear $95 → $77); entry $117 → **$113**.
+- FCF margin 22% is ~150 bps structural per the CFO; ~half of the 310 bps operating-margin gain laps loan losses and a marketing pause.
+- Agent economics: three analyst questions, only the send-to-merchant-site case answered.
+- 💰 Q3 buyback $543M at ≈$127, heaviest in July at $122; 9M $2.47B at ≈$117; $2.5B left. Universal shelf (S-3ASR) filed, unused. shop.com bought for ≈$100M.
+
+### Status
+- **Thesis**: Unchanged (operations stronger; agent economics unresolved).
+- **PW EV**: $217 → **$208** · **PW return/yr**: 9.3% → **6.4%** (hurdle 13%) · **R/R**: 4.6 → **2.2** · **BAIT**: Single (A), unchanged
+- **Verbs**: non-holder **Watch (≤$113)** · holder **Hold**
+
+**Next trigger**: 📅 BFCM GMV (early December); Q4 and FY2026 10-K (~mid-February 2027; tests 1 and 3).
+
+---
+
 ## [2026-09-23] — Q2 2026 re-acceleration · $5B buyback · Meta Muse on Shop Pay · migrated v3.0 → v5.0
 
 **Trigger**: user-requested update. Window May 10 → Sep 23: buyback raised to $5B (Jun 2), audit chair resigned (Jul 2), Q2 print (Aug 5, +18.4%), Meta Muse agentic checkout on Shop Pay (Sep 21).

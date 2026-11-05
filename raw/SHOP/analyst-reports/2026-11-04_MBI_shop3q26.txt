@@ -1,0 +1,254 @@
+MBI Deep Dives, 'Shopify 3Q'26: Closing In on Half of Amazon', Nov 4, 2026 (https://www.mbi-deepdives.com/shop3q26/). User-supplied PDF, text extracted with PDFKit on 2026-11-05. Charts are not captured. Analyst commentary: cite as [Analyst: MBI Deep Dives]; context only, never a reason for a verb (R8).
+
+
+=== PAGE 1 ===
+MBI Deep Dives
+BY MBI DEEP DIVES IN SHOP — NOV 4, 2026
+Shopify 3Q’26: Closing In on Half of
+Amazon
+▶ Listen to this article
+1×
+Jordan · Warm Alex · Smooth
+In 1Q'17, Shopify's Gross Merchandise Value (GMV) was ~10% of Amazon's estimated
+retail GMV. It took them seven years to reach ~30%. After growing GMV 30% (FXN) in
+3Q'26, their sixth consecutive quarter of 29-30% FXN growth, Shopify is now at ~46%
+and looks likely to cross 50% around the middle of next year. If it does, going from
+30% to 50% will have taken only about three years.
+0:00 / 13:49
+Voice:
+11/4/26, 10:04 PM Shopify 3Q’26: Closing In on Half of Amazon
+https://www.mbi-deepdives.com/shop3q26/ 1/13
+
+=== PAGE 2 ===
+￼
+Source: Company Filings, Daloopa
+In fact, even though it may sound a bit provocative, Shopify and Amazon retail may
+actually have similar GMV in just ~6-7 years. It is remarkable that this is no longer an
+absurd thing to write.
+￼
+Starts at ~45%, Shopify's share across 2Q and 3Q'26 combined, which removes the Prime Day shift, and
+holds growth constant. Shaded cell is closest to the last two quarters. Source: Company Filings (created
+by Claude)
+11/4/26, 10:04 PM Shopify 3Q’26: Closing In on Half of Amazon
+https://www.mbi-deepdives.com/shop3q26/ 2/13
+
+=== PAGE 3 ===
+On an incremental basis, Shopify added ~$27 Billion of GMV YoY in 3Q’26 whereas
+Amazon retail likely added ~$17 Billion, or ~158% of what Amazon added which is the
+highest reading since I started tracking this, but we need to normalize this for Prime
+Day change. Prime Day moved into 2Q this year for most of Amazon’s large countries
+whereas it was entirely in 3Q last year, and Amazon’s CFO said the shift cost ~400 bps
+of its overall 3Q growth. In hindsight, much of the moderation to ~80% that I noted in
+the 2Q’26 update was this timing shift, and 158% is flattered by the same shift in
+reverse. Putting the two quarters together is a better read.
+￼
+Source: Company Filings (created by Claude
+So a company less than half the size of Amazon retail added slightly more GMV dollars
+than Amazon did over the last six and twelve months.
+11/4/26, 10:04 PM Shopify 3Q’26: Closing In on Half of Amazon
+https://www.mbi-deepdives.com/shop3q26/ 3/13
+
+=== PAGE 4 ===
+￼
+Source: Company Filings, Daloopa
+During the call, Shopify’s CFO reminded the outsized incremental share gains of
+Shopify. From the call (emphasis mine):
+Indeed, GMV grew 33% FXN in Europe vs 28% in North America. It’s also not just e-
+commerce, Shopify’s offline GMV also grew 30%. Moreover, B2B GMV grew 74%,
+continuing a gradual deceleration from 84%, 80%, and 76% over the prior three
+quarters as the base scales.
+“Over the last three years, our U.S. merchants’ online sales grew at a compound
+annual growth rate of 23%, compared to 8% for U.S. e-commerce overall. In Europe,
+we saw a similar pattern. Our merchants grew online GMV at a compound annual
+growth rate of 37%, compared to a market growth of 8%, doubling their share of e-
+commerce in just three years. These trends have accelerated. Three years ago,
+Shopify merchants drove nearly a fifth of incremental e-commerce sales in the U.S.
+and nearly a quarter in Europe. Since the start of 2025, they now capture nearly
+half in the U.S. and more than 40% in Europe.”
+11/4/26, 10:04 PM Shopify 3Q’26: Closing In on Half of Amazon
+https://www.mbi-deepdives.com/shop3q26/ 4/13
+
+=== PAGE 5 ===
+I will discuss the quarter and some key takeaways from the call, along with some
+thoughts on the valuation, behind the paywall.
+Subscribers get the daily journal and five+ years of Deep Dives, i.e. full-length analyses
+with financial models on 70+ companies. The daily is just how I think out loud between
+the Deep Dives!
+Subscribe
+Reported GMV growth of 29.5% was the slowest since 1Q’25, but FXN growth did not
+slow at all. It was 30% in both 2Q and 3Q. Shopify guided 4Q’26 revenue to grow at
+low-30s with less than a point of FX headwind, which seems to imply yet another
+quarter of ~30% GMV growth on a comp that grew 29% (FXN).
+￼
+Source: Company Filings, Daloopa
+11/4/26, 10:04 PM Shopify 3Q’26: Closing In on Half of Amazon
+https://www.mbi-deepdives.com/shop3q26/ 5/13
+
+=== PAGE 6 ===
+Take rate was 3.14%, up ~5 bps YoY. All the talk about agents has not moved this
+number much in either direction so far.
+￼
+Source: Company Filings, Daloopa
+Gross margin fell ~130 bps YoY to 47.6% mostly due to the usual mix shift, as merchant
+solutions (+35%) outgrew subscription solutions (+20%). Merchant solutions gross
+margin actually expanded YoY for the third consecutive quarter, helped by savings
+negotiated across the payments ecosystem, FX activity, and advertising. Subscription
+gross margin, however, has now declined four quarters in a row.
+Management was clear that incremental AI spend on Sidekick, its AI assistant for
+merchants, was the primary reason for the YoY compression in subscription, partially
+offset by efficiencies in support, but said it is not the sequential culprit. From 2Q to
+3Q, merchant conversations grew 14%, cost per conversation fell 28%, and total
+Sidekick cost fell 18% thanks to better model selection, distillation, and caching.
+That is a pretty good data point on AI unit economics. The sequential decline was
+attributed to hosting capacity added ahead of Black Friday and some storefront and
+search work.
+11/4/26, 10:04 PM Shopify 3Q’26: Closing In on Half of Amazon
+https://www.mbi-deepdives.com/shop3q26/ 6/13
+
+=== PAGE 7 ===
+￼
+Source: Company Filings, Daloopa (created by Claude)
+Operating margin expanded from 12.1% to 15.2%. About 200 bps of the ~310 bps
+expansion came from lapping last year’s spike in transaction and loan losses (5.2% of
+revenue then, 3.2% now), and another ~200 bps came from sales and marketing,
+helped by a couple of weeks in which Shopify paused spend in some US channels to
+test incrementality.
+￼
+Source: Company Filings, Daloopa
+Since 2Q’26, “personal agents” have arrived. Pretty much all such agents can connect
+to a shopper’s Shop account and pay with Shop Pay. Management mentioned that “the
+11/4/26, 10:04 PM Shopify 3Q’26: Closing In on Half of Amazon
+https://www.mbi-deepdives.com/shop3q26/ 7/13
+
+=== PAGE 8 ===
+volume is still small” and has yet to disclose it, so here are the main data points they do
+share:
+￼
+AI-referred shoppers land on product pages at 3x the rate of organic search, which
+suggests they arrive much further along in their decision than someone typing a
+generic query into Google, so this comparison may not be apples to apples. The
+conversion premium also narrowed from ~80% to 64% in a single quarter, which is
+perhaps what you would expect as usage broadens beyond early adopters. The more
+durable data point to me is the Catalog one. From the call (emphasis mine):
+The merchant side has its own AI tailwinds as Shopify launched Canvas. Instead of
+picking a theme and tweaking it, a merchant describes the store they want to Sidekick
+and gets a bespoke one without any coding or design skills. It has been live for about a
+Catalog-powered searches are converting at 2x the rate of general AI search. That
+is because Catalog is quite literally written for agents. It turns over 1 billion product
+pages into structured dataset, translating details like size, color, and material into
+numerical values that an agent can read and understand. It is not just a linear
+product feed. It is live, cross-merchant map for what is available across all of
+Shopify, with current pricing and inventory that helps AI channels make more
+accurate recommendations, and that makes it insanely powerful.
+11/4/26, 10:04 PM Shopify 3Q’26: Closing In on Half of Amazon
+https://www.mbi-deepdives.com/shop3q26/ 8/13
+
+=== PAGE 9 ===
+month and stores launch ~20% faster. I find it more interesting as a response to the
+“why not just vibe-code your own store” argument. If Shopify’s own agent can do the
+design work and the store still comes with payments, tax, fraud, and everything else,
+that alternative looks a lot less appealing.
+The question investors seem most focused on is how Shopify gets paid in the agentic
+commerce world. It came up three times during the call. The first time, an analyst
+asked how payment economics change depending on whether a shopper uses Shop
+Pay, Meta’s wallet, or something else; the answer focused on agents being a “new front
+door” and did not really address economics. The second time, the CFO gave a more
+direct response (emphasis mine):
+While Amazon objected to Muse not identifying itself as an agent, and on its 3Q call,
+Andy Jassy said Alexa for Shopping is going to be the primary shopping agent
+customers use on Amazon, Shopify’s merchants have no such agent of their own and
+want the reach.
+That ambition around Shop may also explain shop.com. for which Shopify paid almost
+$100 million just for the domain (likely the highest ever for any domain ever). Here is
+how Shopify defended it:
+“If you start, for example, on Muse, and if you as a consumer then do a search which
+leads to a merchant which is using Shopify, then the economics to us are exactly
+the same. Essentially, this is another form of discovery. They’re sending you to the
+merchant’s website, and everything else that you would have done in any other form
+of discovery ends up to the same economics back to Shopify.
+”
+Look, in the physical retail world, location, location matters. We think the same thing
+applies on the internet as well, and we think shop.com is an incredible prime
+address for us. I think the way you should view this is this is a declaration that we
+are ready for a more ambitious posture for Shop. We wanted to make a deliberate
+investment to Shop’s credibility and discoverability as a consumer shopping
+destination, not just a tracking utility.
+11/4/26, 10:04 PM Shopify 3Q’26: Closing In on Half of Amazon
+https://www.mbi-deepdives.com/shop3q26/ 9/13
+
+=== PAGE 10 ===
+The analyst asked how it coexists with merchants’ own websites and why it matters
+now given the rise of agents, and they didn’t quite directly answer these questions. If
+agents do more of the browsing, a memorable web address should arguably matter
+less. My guess is that the real target is consumer awareness: if Shop has to be chosen
+on merit inside other companies’ agents, consumers need to know what it is.
+Shopify listed Balmain, MAC, Clinique, and lululemon among the names that “go live on
+Shopify” in Q3. Lululemon essentially added Shop Pay to its US and Canada sites,
+which Shopify’s VP of enterprise said sits “on top of their existing infrastructure”
+.
+Management’s hope is that this is a “toe in the door”
+. Lululemon has been one of the
+pioneers among brands selling directly to their customers, and if even it sees value in
+plugging into Shopify’s wallet, that to me is a positive signal to Shopify’s growing
+relevance even for the most sophisticated large enterprise customers.
+Shopify shares closed at ~$143 yesterday, which implies ~26x LTM EV/Gross Profit and
+~84x LTM FCF after deducting SBC. Shopify bought back ~$2.5 Billion of stock in the
+first nine months at an average of ~$117, more than the ~$1.9 Billion of free cash flow
+they generated, and share count is down ~1.3%. So the tables below assume all future
+free cash flow goes to buybacks after funding growth in the Capital loan book, SBC
+keeps issuing new shares, and the ~$5 Billion of cash on hand is credited at the exit. I
+flexed revenue growth, FCF margin after SBC (~15% today), and the exit multiple on
+that FCF. Here is the annualized return from ~$143 through 2031:
+￼
+11/4/26, 10:04 PM Shopify 3Q’26: Closing In on Half of Amazon
+https://www.mbi-deepdives.com/shop3q26/ 10/13
+
+=== PAGE 11 ===
+Revenue CAGR runs from 2026E, which is nine months reported plus the 4Q guide midpoint. Margin
+moves in a straight line from ~15% to the 2031 figure. Source: Company Filings (created by Claude)
+As you can see above, only 6 of the 25 combinations clear 10% at a 30x exit, 3 at 25x,
+and 12 at 35x. Each 2.5 points of revenue CAGR and each 2.5 points of margin are
+worth largely the same ~2-3 points of annual return, and each 5 turns of exit multiple is
+worth ~3-4 points. At today’s ~15% margin, none of these combinations gets to 10%;
+even 25% growth and a 35x exit gets you only ~8%. So you need ~5-10 points margin
+expansion,
+~20-25% 5-year revenue growth CAGR, and 30x or higher exit multiple
+simultaneously to get to low to mid-teen IRR. If you are confused why the stock is SO
+volatile based on a point or two GMV growth beat/miss, this should be clarifying.
+The same analysis expressed as the price that would earn 10%:
+￼
+Same assumptions as above. Source: Company Filings (created by Claude)
+As I have mentioned before, you need plenty of conviction on Shopify’s long-term
+prospect and then muster the courage to endure through the inevitable quarterly
+volatility to be a shareholder. Shopify remains an excellent company with not-so-
+excellent risk-reward profile as a stock which is why I could only see myself being a
+shareholder today if it were trading at below $110.
+Current Portfolio:
+11/4/26, 10:04 PM Shopify 3Q’26: Closing In on Half of Amazon
+https://www.mbi-deepdives.com/shop3q26/ 11/13
+
+=== PAGE 12 ===
+Please note that these are NOT my recommendation to buy/sell these securities, but
+just disclosure from my end so that you can assess potential biases that I may have
+because of my own personal portfolio holdings. Always consider my write-up my
+personal investing journal and never forget my objectives, risk tolerance, and
+constraints may have no resemblance to yours.
+My current portfolio is disclosed below:
+￼
+*Based on prices as of November 03, 2026 (time-weighted YTD: +6.3%); Since
+inception (August 24, 2018) time-weighted annualized return CAGR +15.5%
+Disclaimer: All posts on “MBI Deep Dives” are for informational purposes only. This is
+NOT a recommendation to buy or sell securities discussed. Please do your own work
+before investing your money.
+PREVIOUS ISSUE
+Microsoft FY 1Q'27: My Confusion vs. the Market’s Certainty
+MBI Deep Dives © 2026
+11/4/26, 10:04 PM Shopify 3Q’26: Closing In on Half of Amazon
+https://www.mbi-deepdives.com/shop3q26/ 12/13
+
+=== PAGE 13 ===
+Sign up
+Gift a subscription
+Powered by Ghost
+11/4/26, 10:04 PM Shopify 3Q’26: Closing In on Half of Amazon
+https://www.mbi-deepdives.com/shop3q26/ 13/13

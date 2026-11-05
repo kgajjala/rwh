@@ -62,7 +62,7 @@ The fourth hole is that the cohort that has not returned is still the weak spot,
 
 Here is the arithmetic. At 25.2 million customers and a flat $332 of revenue per customer, the Base margin of 8.5% earns about $2.8 billion of segment EBITDA a year, against $1.5 billion at the 4.6% run-rate and $1.8 billion in the Bear. The distance between my Base and my Bear on this one segment is about $1 billion a year, and it comes from the margin, not from the customers.
 
-Where I come out: the customer evidence is stronger than I expected in October, and the margin guidance is the same as in August. I accept management's destination in my Base, 8.5% instead of 9%, and I do not accept the path as a given. The Q4 print in February is a weak test because the Q4 guide already tells me the answer. The test that matters is the Q2 2027 result.
+Where I come out: the customer evidence is stronger than I expected in October, and the margin guidance is the same as in August. I accept management's destination in my Base, but I have to put a number on it, because management gives none: the roughly 9% Product Commerce earned in the second and third quarters of 2025, less half a point, so 8.5%, and I do not accept the path as a given. The Q4 print in February is a weak test because the Q4 guide already tells me the answer. The test that matters is the Q2 2027 result.
 
 ### Rings of profit
 

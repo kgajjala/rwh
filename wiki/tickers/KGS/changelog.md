@@ -4,6 +4,18 @@
 
 ---
 
+## [2026-11-06] — No Material Events
+
+**Window**: 2026-10-23 → 2026-11-06
+**Snapshot**: price ~$40.7 intraday (Nov 6; $44.31 on Oct 23, $46.54 on Nov 3, low close $38.93 on Nov 5) · 52-wk $32.55–$77.68 · short interest and consensus not pulled (Q3 print Nov 9)
+**Dismissed**: no Kodiak filing, guidance change or compression news in the window. Nov 2 (−5.1%): read-through from [Archrock's Q3](https://finviz.com/news/413591/archrock-reports-third-quarter-2026-results) (weak aftermarket, utilization 94.3%); inferred, not stated by any source. Nov 4–5 (−11.3%, −5.6%, about 2× volume): Democratic midterm sweep and [Texas governor-elect Hinojosa's data-center moratorium pledge](https://www.stocktitan.net/articles/ai-data-center-stocks-fall-texas-vote-november-4-2026); data-center names fell 10–23% (Vistra −13.5%, GE Vernova −9%). No source ties it to Kodiak or behind-the-meter gas power. CEO McKee sold 2,666 shares ($121K) Nov 3, immaterial.
+**Watch item**: the West Texas anchor (76 MW, six years, signed) is probably safe, but the 1.8 GW pipeline behind it is exposed to Texas policy. A policy-risk input to the Bull/Base/Bear weights, not yet a reason to change them.
+**Rough math, not in the model**: at ~$40.7 with PW EV $64 and an assumed $0.51 quarterly dividend (unverified), return is ~14.5%/yr; a 10-point Base→Bear shift gives ~13.0%, Bull→Bear ~10.6%. The $42 entry would rise to ~$43.50 on that yield. Rerun `model.py` after the Q3 print.
+
+**Recommendation**: Unchanged (Watch / Hold). **Next trigger**: 📅 Q3 print Mon Nov 9 pre-market, call 11:00 ET: tests 2 (leverage ≤3.5×, no equity) and 3 (rev/hp ≥+3.5%, utilization ≥97.5%, margin ≥69%), plus Texas commentary.
+
+---
+
 ## [2026-10-23] — Six-year anchor fails test 1; −22% with AI-power selloff · migrated v5.0 → v7.0
 
 **Trigger**: [West Texas power agreement](https://www.poweronline.com/doc/kodiak-gas-services-announces-power-supply-agreement-with-west-texas-data-center-0001) (Sep 21); a 22% fall from $58.41 to $45.45 against Archrock −6%; v7 migration on that material event.

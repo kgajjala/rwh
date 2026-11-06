@@ -7,7 +7,7 @@
 ## [2026-11-05] — Q3 2026 earnings · migrated v5.0 → v7.0
 
 **Trigger**: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000067/exhibit991pressreleaseq320.htm) and [10-Q](https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/shop-20260930.htm), Nov 3; stock −8.7% then +7.3%.
-**Sources**: [release](../../../raw/SHOP/press-releases/2026-11-03_Q3-2026_earnings.txt) · [10-Q extract](../../../raw/SHOP/filings/2026-11-03_10-Q_Q3-2026_extract.txt) · [call](../../../raw/SHOP/transcripts/2026-11-03_Q3-2026_earnings-call.txt) · [CNBC and TBPN](../../../raw/SHOP/appearances/2026-11-03_CNBC-TBPN_finkelstein.txt) · [MBI 3Q'26](../../../raw/SHOP/analyst-reports/2026-11-04_MBI_shop3q26.txt) · [MBI 2021](../../../raw/SHOP/analyst-reports/2021-04-09_MBI_anti-amazon-protagonist.txt) · [gaps](../../../raw/SHOP/SOURCES.md) · [Yahoo](https://finance.yahoo.com/quote/SHOP/) Nov 4 close
+**Sources**: [release](../../../raw/SHOP/press-releases/2026-11-03_Q3-2026_earnings.txt) · [10-Q extract](../../../raw/SHOP/filings/2026-11-03_10-Q_Q3-2026_extract.txt) · [call](../../../raw/SHOP/transcripts/2026-11-03_Q3-2026_earnings-call.txt) · [CNBC and TBPN](../../../raw/SHOP/appearances/2026-11-03_CNBC-TBPN_finkelstein.txt) · [gaps](../../../raw/SHOP/SOURCES.md) · [Yahoo](https://finance.yahoo.com/quote/SHOP/) Nov 4 close
 
 ### Scorecard
 - Growth holds above 25% — 🟡 Pending — Q3 +32% passes the first leg; Q1 2027 guide due in February (Q4 ≥28% floor added).

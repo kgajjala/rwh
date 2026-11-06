@@ -6,7 +6,6 @@ Fetched and stored (www.sec.gov returns 403 to scripts; the built-in browser rea
 - Q3 10-Q (144K chars), MD&A, liquidity, issuer purchases and cover read via the browser: filings/2026-11-03_10-Q_Q3-2026_extract.txt
 - Q3 call: full Motley Fool transcript read in the browser; key passages cross-checked against Investing.com: transcripts/2026-11-03_Q3-2026_earnings-call.txt
 - Earnings-day media (CNBC Squawk, TBPN) and the Sep 10 Goldman Sachs conference via write-ups: appearances/2026-11-03_CNBC-TBPN_finkelstein.txt
-- Analyst reports (user-supplied PDFs, PDFKit text): analyst-reports/2026-11-04_MBI_shop3q26.txt, analyst-reports/2021-04-09_MBI_anti-amazon-protagonist.txt
 - XBRL company facts via scripts/xbrl.py (FY2020–FY2025 plus Sep 30 2026 balance sheet)
 - Price: Yahoo quote page, $153.03 at the Nov 4 close (4:00 PM EST), 52-wk $94.00–$180.88, market cap $196.9B; total-return series via scripts/prices.py
 - Consensus and Nov 3–4 target changes: StockAnalysis; short interest: MarketBeat (Oct 15 settlement); 10-year Treasury: FRED DGS10 (4.95% on Nov 3)

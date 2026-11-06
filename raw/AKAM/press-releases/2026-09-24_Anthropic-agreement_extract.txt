@@ -1,0 +1,7 @@
+LABELLED EXTRACT. Source: https://www.sec.gov/Archives/edgar/data/1086222/000119312526401048/d288154dex991.htm (8-K Ex. 99.1, Sept 24, 2026), read in the built-in browser 2026-11-06.
+
+- $11.6B contractual commitment over seven years from Anthropic for CPU workloads on Akamai Cloud. Adds to >$2.8B of CIS commitments announced earlier in 2026.
+- Potential expansion of up to an additional $9B (total ~ $20B). Per CFO (secondary report), the extra amount is not contractually guaranteed.
+- Warrant issued to Anthropic for non-voting convertible Series B Preferred representing 7.7M common shares as-converted (up to ~5% of common outstanding), exercise price $111.33 per common share. ~2% vests with the $11.6B commitment; ~3% vests with expansion (each additional $3B of purchases vests ~1%). Seven-year term.
+- Estimated total capex for the $11.6B commitment ~ $5.5B. No impact to 2026 revenue guidance; +$1.7B 2026 capex to pre-purchase supply-chain components (memory).
+- Underlying master agreement dated May 5, 2026 (per 8-K body, secondary report).

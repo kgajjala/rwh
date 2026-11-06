@@ -3,7 +3,7 @@
 *Position-agnostic per v2.1 schema (Core Rule #3): no portfolio allocation, no target %, no form (stock/options) splits. This file is pure analysis.*
 
 *Updated by LLM agent after each full thesis cycle, earnings update, or v2.x schema migration.*
-*Updated: 2026-11-05 — SHOP migrates to v7.0 on Q3: revenue +32% and every new shopping agent checks out with Shop Pay, but the agent fee question went unanswered and ≈80× owner earnings pays 6.4%/yr. Watch / Hold (entry ≤$113).*
+*Updated: 2026-11-06 — AKAM ingested at v7.0: Watch / Hold (entry ≤$64), 7.2%/yr vs the 13% hurdle.*
 *Prior 2026-11-04 — CPNG migrates to v7.0 on Q3: on guidance and customers back, but TTM free cash flow is $(409)M and the KFTC hearings put a WOW–Eats split on the table. Watch / Hold, 4.7%/yr (entry ≤$10.42).*
 *Prior 2026-10-31 — CMG, RIVN and SBUX refreshed on their Oct 28–29 prints. CMG: traffic held but the margin test failed and the stock rebounded 16% (Watch / Hold, 5.6%/yr). RIVN migrates to v7.0: a record quarter, but a $1.1B burn and dilution keep Watch / Trim (−3.4%/yr). SBUX: margin walk proven, FY27 guided $3.15–3.25, price up 6% (Watch / Hold, 4.4%/yr).*
 *Prior 2026-10-27 — FICO ingested at #16b. The mortgage-score price that doubled earnings is frozen at $10 while the FHFA puts a $1 rival level on the pricing grid; the stock is down 62% in a year but the Base alone earns 11.3%/yr, so the PW case returns 7.8%/yr. Watch / Hold, entry ≤$561. Q4 and the FY27 guide Nov 4.*
@@ -69,6 +69,7 @@
 | 10h | ACN | **Moderate** | **Double** (B+A) | PW EV $254 vs. $195.05 = **+30%** + 3.51% yield; **8.9%/yr vs the 13% hurdle**. Bought 3% of itself at ~$131 in the trough; now ~3% organic growth, falling price, $8B of M&A | 🟡 **Watch (entry ≤$161) / Hold** | 📅 FY26 10-K mid-Oct; Q1 FY27 ~Dec 17 |
 | 10i | UNH | **Moderate** | **Single** (B) | PW EV $502 vs. $377.76 = **+33%** + 2.46% yield; **8.3%/yr vs the 13% hurdle**. Guide raised to ≥$20.50, but 18.4× already capitalizes normalized margins; 2027 framed at the low end of 13–16% | 🟡 **Watch (entry ≤$304) / Hold** | 📅 2027 outlook — by Dec 31, 2026 |
 | 10j | SPCX | **Low-Moderate** | **Single** (I) | PW EV $220 vs. $147.79 = **+49%**, no dividend; **8.3%/yr vs the 13% hurdle**. Compute revenue $7.6B in Q3 and a $33–37B Q1 guide, but the price already pays for my Base | 🟡 **Watch (entry ≤$120) / Hold** | 📅 Starship Flight 15 (Nov); Q4 print late Jan |
+| 10k | AKAM | **Low-Moderate** | **Single** (B) | PW EV $119 vs. $84.00 = **+41%**, no dividend; **7.2%/yr vs the 13% hurdle**. $14B of AI-cloud contracts at a ~13% IRR, $3.5B of 2026 capex, owner earnings at a five-year low | 🟡 **Watch (entry ≤$64) / Hold** | 📅 Q4 ~Feb 2027 |
 | 11 | ZG | Moderate (post-Q1; FTC overhang) | Triple (B+A-Strong, I-Mod) | PW EV $75 (5-yr); R/R ~4:1 — Q1 beat-and-buyback ($626M record) + Showcase 4.3%; FTC motion-to-dismiss DENIED May 7 escalates risk | **Initiate <$50** / **Hold (selective add $38–45)** | Q2 2026 — early Aug 2026 |
 | 12 | SN | Moderate-High (Q1 beat-and-raise) | Triple (A-Mod-Strong, B+I+T-Mod) | PW EV $150 (5-yr); R/R 2.7:1 — Q1 (May 6) +15.6% rev / intl +31.6% accelerating; FY26 raised; SEA tariff 20%→10% | **Initiate / Hold-Add weakness**; entry $95–110 | Q2 2026 — Aug 2026 |
 | 13 | BKNG | High (entry-zone reached) | Triple (B+A-Strong, I+T-Mod) | PW EV $192 vs. $168.36 = +14% (18mo); R/R ~3.7:1 — Iran/Hormuz Q2 guide cut + $3.6B Q1 buyback (130% pace step-up) | **Initiate** / **Add** | Q2 2026 — late July 2026 |
@@ -148,6 +149,7 @@
 | 📅 **Jan 27, 2027** *[Tentative]* | **SBUX** | **Q1 FY27 earnings** | FY27 guide reaffirmed with Q1 North America comps ≥+4%; U.S. transactions positive against +3.0% (tests 1 and 2) | Both hold → the guide is credible | Either fails → Base EPS cut to ≈$4.30 or 10 pts to the Bear |
 | ~~Nov 3, 2026~~ ✅ **DELIVERED** | **SHOP** | **Q3 2026 — guide met, GMV a hair short** | Revenue +32%, GMV $119.1B (+30% CC) vs $120.0B cons.; GP +28%; FCF margin 22% (≈150 bps structural); Shop Pay GMV +50% | Growth and Shop Pay tests passed | Agent fee question unanswered; −8.7% then +7.3% |
 | 📅 **~Mid-Feb 2027** | **SHOP** | **Q4 2026 + FY2026 10-K** | Q4 revenue ≥28%; Q1 2027 guide ≥mid-twenties; FY26 GP ≥25%, FCF margin ≥18% | Tests 1 and 3 pass | A guide below 25% moves 15 pts to the Bear |
+| 📅 **~Feb 2027** | **AKAM** | **Q4 2026 + FY2027 guide** | Q4 cloud revenue ≥$120M; FY27 cloud guide ≥$1.1B; FY27 non-GAAP margin guide ≥24% | Tests 1 and 2 pass | A cloud-guide cut moves 10 points from Bull to Bear |
 | ~~Apr 29, 2026~~ ✅ **DELIVERED** | **MSFT** | **Q3 FY26 earnings — Azure +40% beat / $190B capex guide** | Azure +40% above +35–37% cons; EPS $4.27 (+23%); FY26 capex ~$190B vs. $80–90B Street | ✅ Q3 thesis-break trigger DE-RISKED on Azure | Capex sticker-shock drove −5–6% sell-off to $414 |
 | ~~Apr 29, 2026~~ ✅ **DELIVERED** | **AMZN** | **Q1 FY26 earnings — AWS +28% / EPS +70% beat** | AWS $37.6B (+28%, fastest in 15 quarters); EPS $2.78 (+70% beat); ad +24%; capex $43.2B; Q2 guide $194–199B | ✅ Operationally strengthened — fresh ATH $265 | R/R compressed 3.5:1→1.4:1; verbs Initiate-small → Watch |
 | ~~Apr 29, 2026~~ ✅ **DELIVERED** | **WING** | **Q1 2026 SSS print — thesis-break activated** | Q1 dom SSS **–8.7%** (worse than –7% trigger); FY26 guide cut to LSD-decline; stock –12.5% to $165 | n/a | Trigger fired; verbs flipped to Watch / Reduce on bounce |
@@ -239,6 +241,7 @@
 | MSFT | $424.62 | $360 (20%) | $560 (50%) | $740 (30%) | ~$565 | +33% (3yr / ~10%/yr) |
 | AMZN | **$264.16** (8/19/26) | $160 (25%) | $385 (50%) | $550 (25%) | **~$370** (5-yr) | **+40% (~7.0%/yr); R/R ~2.7:1** |
 | ADBE | **$255.69** (10/21/26) | $179 (35%) | $459 (50%) | $704 (15%) | **~$398** | **+56% (5yr); 9.2%/yr vs 13% hurdle; R/R 5.9:1** |
+| AKAM | **$84.00** (11/6/26) | $42 (30%) | $124 (50%) | $219 (20%) | **~$119** | **+41% (5yr); 7.2%/yr vs 13% hurdle; R/R 3.2:1** |
 | ACN | **$195.05** (10/5/26) | $148 (30%) | $263 (50%) | $392 (20%) | **~$254** | **+30% (5yr); 8.9%/yr vs 13% hurdle; R/R 4.2:1** |
 | HD | ~$320 (5/31/26) | $215 (25%) | $395 (55%) | $530 (20%) | ~$377 | +18% (5yr); R/R ~2.0:1 |
 | INTU | $341.75 (8/26/26) | $265 (30%) | $530 (45%) | $845 (25%) | **~$529** | +55% (5yr); R/R ≈6.5:1 |

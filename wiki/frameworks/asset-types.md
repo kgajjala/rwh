@@ -27,6 +27,7 @@ Fixes the **unit of value** and the **driver-tree rows** for each business type 
 | People-based services | Billable headcount | Revenue per head · utilization · bookings and book-to-bill · attrition | P/E, P/FCF | Process power, switching | ACN |
 | Logistics network | Package / shipment | Volume · yield per package · cost per package · network utilization | EV/EBITDA, P/E | Scale | FDX |
 | Contracted infrastructure | Horsepower / installed capacity | Fleet size · utilization · $/hp/month · contract duration · maintenance capex per hp | EV/EBITDA, FCF yield | Scale, cornered resource | KGS |
+| Distributed cloud and security platform | Customer (security, delivery); contracted megawatt and dollar of capex (cloud infrastructure) | Revenue by solution · cloud revenue per megawatt and per capex dollar · contract term and customer concentration · after-tax IRR on new capacity · SBC % of revenue · owner earnings after SBC and capex | P/E on GAAP EPS, FCF after SBC | Switching costs (security), scale (delivery) | AKAM |
 
 **Lifecycle stage** (header field) is set per ticker, not per type: `early growth · scaling · mature compounder · mature ex-growth · turnaround · declining`, defined in [`compounding.md`](compounding.md).
 

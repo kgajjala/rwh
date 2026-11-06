@@ -1,0 +1,20 @@
+LABELLED EXTRACT (not verbatim full text). Source: https://www.sec.gov/Archives/edgar/data/0001086222/000108622226000097/exhibit991-q32026.htm (8-K Ex. 99.1, filed 2026-11-05). Read in the built-in browser 2026-11-06; www.sec.gov blocks scripted curl (403).
+
+Q3 2026 (quarter ended Sep 30, 2026), $ thousands unless noted
+Revenue 1,121,961 (Q3'25 1,054,630; Q2'26 1,099,682); 9M 3,295,253 (9M'25 3,113,263)
+ Security 621,892 (+9%, +10% cc) | Delivery & other cloud apps 391,266 (-3%) | Cloud infrastructure services (CIS) 108,803 (+34%, +35% cc)
+ US 558,618 (+5%) | International 563,343 (+7%, +9% cc)
+GAAP income from operations 108,721 (Q3'25 166,024), 10% margin. Non-GAAP op income 285,654 (25%; Q3'25 31%).
+GAAP net income 117,104; diluted EPS $0.77 (Q3'25 $0.97). Non-GAAP net income 262,084; non-GAAP EPS $1.77 (-5%). Adjusted EBITDA $435M.
+Cost of revenue 504,690 (Q3'25 429,532); R&D 141,419; S&M 164,397; G&A 174,237; amortization of acquired intangibles 26,331.
+Interest and securities income 41,719; interest expense (10,630). GAAP tax rate 15%.
+Diluted shares 151,166 (GAAP); basic 143,928. Shares outstanding 144M at Sep 30. No repurchases in Q3; 9M repurchases $616M, ~5M shares at $123.19 avg. 9M gross buybacks 615,744 cash.
+Cash from operations Q3 433,037 (9M 1,071,811 vs 1,152,181). Capex (cash) Q3 605,155 incl. capitalized software (9M 1,022,755). Accrual-basis capex Q3 464,146 = 41% of revenue (9M 1,017,019 = 31%).
+SBC Q3 131,917 (9M 406,888). D&A Q3 191,592. Employees 11,832.
+Business acquisition, net cash Q3: (191,234) (LayerX).
+Balance sheet Sep 30, 2026: cash 1,149,359; marketable securities current 2,369,959 + noncurrent 719,261 -> cash+securities $4.239B. Convertible senior notes current 1,148,346 + noncurrent 6,419,341 = $7.568B (Dec 31, 2025: 4,105,355 noncurrent). Operating lease liabilities 391,037 + 1,489,575. PP&E net 2,965,225 (Dec'25 2,333,462). Goodwill 3,352,563. Equity 5,148,628. Total assets 15,546,924.
+Financing 9M: converts issued net 3,452,160; warrants sold 657,125; note hedges bought (893,725); repurchases (615,744); net-share-settlement taxes (169,466).
+
+Guidance (Nov 5, 2026): Q4 revenue 1,145-1,170M; non-GAAP op margin ~24%; non-GAAP EPS 1.50-1.70; 149M shares; tax 18%. FY2026 revenue 4,440-4,465M (prior range 4,445-4,530M); non-GAAP op margin ~25%; EPS 6.47-6.68; 148M shares; tax 18.5%.
+FY2027: CIS revenue $1.1-1.3B; total revenue growth 17-22% cc. FY2028: total revenue > $7.0B.
+CEO quote in release: >$14B multi-year CIS commitments signed so far this year; launched Akamai Inference and Akamai Agent Sandbox.

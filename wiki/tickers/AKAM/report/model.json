@@ -1,0 +1,138 @@
+{
+ "spot": 84.0,
+ "dps": 0.0,
+ "discount_rate": 0.09,
+ "hurdle": 0.13,
+ "last_year": 2031,
+ "fy_prefix": "FY",
+ "eps_label": "GAAP EPS",
+ "segment_names": {
+  "SEC": "Security",
+  "DEL": "Delivery and other cloud applications",
+  "CIS": "Cloud infrastructure services"
+ },
+ "base": {
+  "year": 2026,
+  "shares": 0.148,
+  "corp_pct": 0.014,
+  "other": 0.07,
+  "tax": 0.19,
+  "segments": {
+   "SEC": {
+    "rev": 2.448,
+    "margin": 0.16
+   },
+   "DEL": {
+    "rev": 1.581,
+    "margin": 0.06
+   },
+   "CIS": {
+    "rev": 0.423,
+    "margin": -0.08
+   }
+  },
+  "sbc_pct": 0.124,
+  "eps_excludes_sbc": false,
+  "oe_conversion": 1.0
+ },
+ "other_growth": -0.35,
+ "cases": {
+  "Bull": {
+   "role": "bull",
+   "prob": 0.2,
+   "pe": 21,
+   "corp_pct": 0.019,
+   "tax": 0.2,
+   "dilution": 0.03,
+   "buyback": 0.02,
+   "segments": {
+    "SEC": {
+     "g": 0.1,
+     "m": 0.23
+    },
+    "DEL": {
+     "g": -0.01,
+     "m": 0.07
+    },
+    "CIS": {
+     "g": 0.6,
+     "m": 0.27
+    }
+   },
+   "tier": "Possible",
+   "story": "Large contracts deliver on time and the Anthropic option is partly exercised: cloud infrastructure reaches about $4.4B in FY2031 at a 27% GAAP margin, security compounds at 10%, and the market pays 21\u00d7 for a business that is growing again."
+  },
+  "Base": {
+   "role": "base",
+   "prob": 0.5,
+   "pe": 18,
+   "corp_pct": 0.0205,
+   "tax": 0.2,
+   "dilution": 0.032,
+   "buyback": 0.012,
+   "segments": {
+    "SEC": {
+     "g": 0.08,
+     "m": 0.2
+    },
+    "DEL": {
+     "g": -0.03,
+     "m": 0.06
+    },
+    "CIS": {
+     "g": 0.5,
+     "m": 0.24
+    }
+   },
+   "tier": "Probable",
+   "story": "The $14B of signed contracts ramp as guided to about $2.2B a year and hold; other cloud revenue and security grow, delivery shrinks 3% a year. Cloud infrastructure is about $3.2B in FY2031 at a 24% GAAP margin; 18\u00d7 GAAP EPS for a capital-heavy infrastructure business."
+  },
+  "Bear": {
+   "role": "bear",
+   "prob": 0.3,
+   "pe": 13,
+   "corp_pct": 0.0235,
+   "tax": 0.21,
+   "dilution": 0.036,
+   "buyback": 0.0,
+   "segments": {
+    "SEC": {
+     "g": 0.05,
+     "m": 0.17
+    },
+    "DEL": {
+     "g": -0.06,
+     "m": 0.05
+    },
+    "CIS": {
+     "g": 0.415,
+     "m": 0.12
+    }
+   },
+   "tier": "Plausible",
+   "story": "Contracts are delivered but returns are thin: cloud infrastructure stops at about $2.2B on a 12% GAAP margin (hardware cost overruns, short useful lives, the Anthropic floor price on the largest deal), refinancing costs rise, buybacks stay off and the stock is paid out as SBC; 13\u00d7."
+  }
+ },
+ "diagnostics": {
+  "Priced-in": {
+   "label": "Priced-in (9%/yr)",
+   "target_return": 0.09,
+   "pe": 18,
+   "path": [
+    "Bear",
+    "Base"
+   ]
+  },
+  "Hurdle": {
+   "label": "Hurdle (13%/yr)",
+   "target_return": 0.13,
+   "pe": 18,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  }
+ },
+ "risk_free": 0.049,
+ "optionality": []
+}

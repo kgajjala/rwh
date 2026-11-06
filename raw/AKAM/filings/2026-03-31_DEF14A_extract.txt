@@ -1,0 +1,8 @@
+LABELLED EXTRACT. Source: https://www.sec.gov/Archives/edgar/data/1086222/000108622226000042/akam-20260330.htm (DEF 14A filed 2026-03-31), read in the built-in browser 2026-11-06.
+
+CEO: Dr. Tom Leighton, co-founder, CEO since 2013, base salary $1; all other pay in stock; "nearly 100% of ... compensation is at risk". 2025 bonus paid entirely in stock: Leighton $2,268,956 (target $1.5M); funding 151.3% of target (149.2% on metrics x ESG/human-capital modifier +1.39%).
+Annual bonus metrics (2025): Revenue adjusted for FX 50% (threshold $3,693.3M / target $4,103.7M / max $4,514.1M; actual $4,137.6M; payout 108.3%); Non-GAAP operating income 50% (threshold $1,015.8M / target $1,128.6M / max $1,241.5M; actual $1,230.3M; payout 190.1%).
+PRSUs (2025 tranche): Revenue (FX-adjusted) 50% + Non-GAAP EPS 50% (threshold $5.57 / target $6.19 / max $6.81; actual $6.99 -> 200%); overall 154.1% of target. Relative TSR RSUs: 3-year TSR vs Index Group, period ending Dec 31, 2027; payout 0% below 25th percentile, 100% at 50th, 200% at/above 75th.
+No ROIC, FCF or capex-return metric in annual or PRSU plan. Non-GAAP measures exclude SBC and amortization. Anti-hedging, anti-pledging, clawback; double-trigger CIC.
+Ownership (Feb 20, 2026; 145,013,967 shares): Vanguard 12.7% (18.38M), BlackRock 6.9% (10.03M); Leighton 2,759,456 (1.9%); all executive officers and directors (18) 3,317,206 (2.3%). CFO Edward McGowan 28,428 shares.
+NEOs: Leighton, McGowan (CFO), Paul Joseph, Adam Karon, Mani Sundaram.

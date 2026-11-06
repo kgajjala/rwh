@@ -1,0 +1,1571 @@
+{
+ "meta": {
+  "ticker": "AKAM",
+  "company": "Akamai Technologies, Inc.",
+  "title": "Akamai, Betting the Cash Machine on AI",
+  "dek": "A security-and-delivery business that earned $1.5B of operating cash flow a year has signed $14B of seven-year contracts to rent out computers, and is spending $3.5B this year to build them. The stock has halved from May. What does $84 assume about whether the build pays?",
+  "date": "2026-11-06",
+  "date_long": "November 6, 2026",
+  "status": "Active",
+  "price": 84.0,
+  "price_note": "Nov 6, 2026, about 1:07 pm ET",
+  "price_url": "https://finance.yahoo.com/quote/AKAM/",
+  "range52": [
+   76.75,
+   165.45
+  ],
+  "type": "Distributed cloud and security platform: security, content delivery and cloud infrastructure services",
+  "stage": "Mid-pivot: a mature core funding a capital-heavy cloud build",
+  "cyclical": "No",
+  "competence": "Edge",
+  "compounder": false,
+  "terminal_label": "FY2031",
+  "accent": {
+   "light": "#0b5cab",
+   "dark": "#7db7f0"
+  },
+  "html_name": "AKAM-deep-dive.html",
+  "report_path": "../AKAM.md"
+ },
+ "verdict": {
+  "sentence": "The $14B of signed AI-cloud contracts are real and should add about $2.2B of revenue by 2028, but they earn roughly the hurdle at best-case pricing, and the probability-weighted case compounds at [[pw_return]] a year against the 13% hurdle.",
+  "non_holder": {
+   "emoji": "🟡",
+   "verb": "Watch (entry ≤[[entry]])"
+  },
+  "holder": {
+   "emoji": "🟡",
+   "verb": "Hold"
+  },
+  "breaks_if": "Cloud infrastructure revenue is below about $180M a quarter by the Q2 2027 print, or the FY2027 cloud guide of $1.1–1.3B is cut, which would put the >$7.0B FY2028 revenue target out of reach.",
+  "multiple_label": "FY26E non-GAAP P/E",
+  "multiple": "≈12.8× (33× GAAP)",
+  "bait": "Single (B)",
+  "moat": "Narrow, mixed",
+  "next": "Feb 2027 (Q4 + FY27 guide)",
+  "price_implies": "~[[Priced-in.cagr]] GAAP EPS growth"
+ },
+ "call": "Akamai has signed $14B of seven-year contracts to rent out compute, led by an $11.6B Anthropic deal, and the stock has gone from $165 in May to $84. I think that is roughly the right price, not a bargain. Management's own numbers put the after-tax return on those contracts at about 13%, and that is the floor price for the biggest customer, while capex this year is $3.5B against $1.5B of operating cash flow. Non-GAAP EPS of about $6.57 also leaves out roughly $3 a share of stock compensation, and owner earnings after SBC and capex fell from $657M in 2021 to $240M in 2025. To earn an ordinary 9% a year the stock needs [[Priced-in.eps]] of GAAP EPS in 2031, a shade above my Base of [[Base.eps]], and the price implies a Bear weight of about [[implied_bear]] against the [[Bear.prob]] I assign, so the market is slightly more optimistic than I am. No Bear weight, however small, earns 13% from $84, so the verb is Watch, and the case clears the hurdle at [[entry]]. The number that will settle it: cloud infrastructure revenue of about $180M a quarter by mid-2027, with non-GAAP operating margin stabilising in the mid-20s.",
+ "tests": [
+  {
+   "claim": "That the $14B of contracts ramp on schedule.",
+   "test": "Q4 2026 cloud infrastructure revenue of at least $120M (February 2027 print), the FY2027 guide of $1.1–1.3B held, and quarterly cloud revenue of at least $180M by the Q2 2027 print (August 2027).",
+   "if_fail": "move 10 points from Bull to Bear (PW EV [[test1.pw_ev]], [[test1.pw_return]]/yr) → stays **[[test1.verb]]**, entry falls to [[test1.entry]]; a second slip also removes the $7.0B FY2028 target from my Base.",
+   "shift": {
+    "from": "Bull",
+    "to": "Bear",
+    "points": 0.1
+   }
+  },
+  {
+   "claim": "That margins bottom in the first half of 2027 and then expand.",
+   "test": "FY2027 non-GAAP operating margin guided at or above 24% in February 2027, and a GAAP operating margin above 9% in Q4 2027.",
+   "if_fail": "cut Base FY2031 GAAP EPS to about $5.50 from the model's Base (PW EV [[test2.pw_ev]], [[test2.pw_return]]/yr) → stays **[[test2.verb]]**, entry [[test2.entry]].",
+   "shift": {
+    "case": "Base",
+    "eps": 5.5
+   }
+  },
+  {
+   "claim": "That the build is funded without a dilutive or downgraded financing.",
+   "test": "the $1.15B 0.375% notes due September 1, 2027 repaid from cash, no more than $2B of new debt or equity-linked paper raised through the FY2027 10-K, and no sub-investment-grade rating.",
+   "if_fail": "move 10 points from Base to Bear (PW EV [[test3.pw_ev]], [[test3.pw_return]]/yr) → **[[test3.verb]]**; the Outsider grade is cut to Anti-Outsider if buybacks resume while raising.",
+   "shift": {
+    "from": "Base",
+    "to": "Bear",
+    "points": 0.1
+   }
+  }
+ ],
+ "updates": [
+  {
+   "date": "2026-11-06",
+   "title": "Q3: $14B of commitments, a cut to this year, and a 2028 target of $7B",
+   "file": "updates/2026-11-06.md",
+   "scorecard": [
+    {
+     "test": "Contracts ramp on schedule",
+     "result": "pending",
+     "evidence": "two of three large deals billing; about $30M slips from Q4 into 2027; resolves February and August 2027"
+    },
+    {
+     "test": "Margins bottom in 1H27 then expand",
+     "result": "pending",
+     "evidence": "non-GAAP margin 25% in Q3, Q4 guided 24%; resolves February 2027 guide"
+    },
+    {
+     "test": "Funding without a dilutive financing",
+     "result": "pending",
+     "evidence": "$4.2B cash and securities; management expects 'measured incremental financing'; 2027 notes due Sept 1, 2027"
+    }
+   ]
+  }
+ ],
+ "tables": {
+  "segments": {
+   "columns": [
+    "$ Million",
+    "Q3 2025",
+    "Q2 2026",
+    "Q3 2026",
+    "9M 2025",
+    "9M 2026"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "**Security**",
+      "568",
+      "604",
+      "622",
+      "1,651",
+      "1,816"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "YoY growth",
+      "10%",
+      "10%",
+      "9%",
+      "9%",
+      "10%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Delivery and other cloud applications**",
+      "405",
+      "396",
+      "391",
+      "1,242",
+      "1,176"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "YoY growth",
+      "−5%",
+      "−6%",
+      {
+       "v": "−3%",
+       "cls": "neg"
+      },
+      "−4%",
+      "−5%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Cloud infrastructure services (CIS)**",
+      "81",
+      "99",
+      "109",
+      "220",
+      "303"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "YoY growth",
+      "39%",
+      "39%",
+      {
+       "v": "34%",
+       "cls": "pos"
+      },
+      "33%",
+      "37%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Total revenue",
+      "1,055",
+      "1,100",
+      "1,122",
+      "3,113",
+      "3,295"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "GAAP income from operations",
+      "166",
+      "80",
+      "109",
+      "472",
+      "303"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "GAAP operating margin",
+      "15.7%",
+      "7.3%",
+      {
+       "v": "9.7%",
+       "cls": "neg"
+      },
+      "15.2%",
+      "9.2%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Non-GAAP operating margin",
+      "31%",
+      "25%",
+      {
+       "v": "25%",
+       "cls": "neg"
+      },
+      "30%",
+      "25%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "GAAP diluted EPS",
+      "$0.97",
+      "$0.52",
+      "$0.77",
+      "$2.50",
+      "$2.00"
+     ],
+     "cls": "sub"
+    }
+   ],
+   "note": "Revenue by solution is recast for the three-category reporting begun in 2026. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/0001086222/000108622226000097/exhibit991-q32026.htm) and [Q2 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1086222/000108622226000086/akam-20260630.htm). Margins computed from reported figures. Built with Claude."
+  },
+  "drivers": {
+   "columns": [
+    "The large CIS contracts signed in 2026",
+    "~Management's figure",
+    "~Source"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "Total commitments signed in 2026",
+      "More than **$14B** over mostly seven years, of which Anthropic is $11.6B (Sept 24) plus an earlier ~$1.8B deal",
+      "[Q3 call](https://www.fool.com/earnings/call-transcripts/2026/11/06/akamai-akam-q3-2026-earnings-call-transcript/), [Anthropic 8-K](https://www.sec.gov/Archives/edgar/data/1086222/000119312526401048/d288154dex991.htm)"
+     ]
+    },
+    {
+     "cells": [
+      "Annual revenue at full ramp",
+      "About **$2.2B**, ramping from Q4 2026 and complete by end of 2028",
+      "Q3 call (CFO)"
+     ]
+    },
+    {
+     "cells": [
+      "Revenue per megawatt of contracted power",
+      "About **$22M**",
+      "Q3 call (CEO)"
+     ]
+    },
+    {
+     "cells": [
+      "Capex to serve the $11.6B deal",
+      "About **$5.5B**, of which $1.7B is pre-purchased in Q4 2026",
+      "[Anthropic 8-K](https://www.sec.gov/Archives/edgar/data/1086222/000119312526401048/d288154dex991.htm)"
+     ]
+    },
+    {
+     "cells": [
+      "Adjusted EBITDA / non-GAAP operating margin at full ramp",
+      "About **75%** / about **30%**",
+      "Q3 call"
+     ]
+    },
+    {
+     "cells": [
+      "After-tax IRR / average annual adjusted ROIC",
+      "About **13%** / about **15%**",
+      "Q3 call (CFO, IR slide)"
+     ]
+    },
+    {
+     "cells": [
+      "Pricing",
+      "Anthropic is the lowest-price, longest-term, largest-volume deal: 'the lowest prices you're going to see'",
+      "Q3 call (CFO)"
+     ]
+    },
+    {
+     "cells": [
+      "Hardware status",
+      "Space and power contracted for the whole $11.6B; about 70% of hardware secured; price-adjustment clause for the rest",
+      "Q3 call (CFO)"
+     ]
+    },
+    {
+     "cells": [
+      "Customer incentive",
+      "Warrant for up to ~5% of the stock at $111.33; ~2% vests on the $11.6B, ~1% per further $3B bought",
+      "[Anthropic 8-K](https://www.sec.gov/Archives/edgar/data/1086222/000119312526401048/d288154dex991.htm)"
+     ]
+    }
+   ],
+   "note": "All figures are management's, stated on the November 5, 2026 call or in the September 24 8-K; none is audited. Source: [Q3 call transcript](https://www.fool.com/earnings/call-transcripts/2026/11/06/akamai-akam-q3-2026-earnings-call-transcript/) (Motley Fool, LLM-assisted; quoted figures cross-checked to the release where it states them). Built with Claude."
+  },
+  "unit": {
+   "columns": [
+    "Illustrative return on $1.00 of capex",
+    "~What changes",
+    "After-tax IRR",
+    "~vs. 13% hurdle"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "**As guided**",
+      "$0.30 of revenue a year for 7 years, 75% adjusted EBITDA, 7-year straight-line depreciation, 20% tax, servers worth 15 cents at year 7",
+      "**12.7%**",
+      "Just under"
+     ]
+    },
+    {
+     "cells": [
+      "No residual value",
+      "Servers worth nothing at year 7",
+      "10.6%",
+      {
+       "v": "Below",
+       "cls": "neg"
+      }
+     ]
+    },
+    {
+     "cells": [
+      "Price 10% lower",
+      "Same costs, 10% less revenue per dollar of capex",
+      {
+       "v": "9.4%",
+       "cls": "neg"
+      },
+      {
+       "v": "Below",
+       "cls": "neg"
+      }
+     ]
+    },
+    {
+     "cells": [
+      "Price 10% higher",
+      "Later deals 'coming in higher'",
+      {
+       "v": "15.9%",
+       "cls": "pos"
+      },
+      {
+       "v": "Above",
+       "cls": "pos"
+      }
+     ]
+    },
+    {
+     "cells": [
+      "Hardware 20% dearer, no pass-through",
+      "Memory prices rise on the unordered ~30%",
+      {
+       "v": "8.6%",
+       "cls": "neg"
+      },
+      {
+       "v": "Below",
+       "cls": "neg"
+      }
+     ]
+    },
+    {
+     "cells": [
+      "Operating costs 20% higher",
+      "Colocation and power escalators",
+      "11.1%",
+      "Below"
+     ]
+    },
+    {
+     "cells": [
+      "Price −10% and hardware +20%",
+      "Both at once",
+      {
+       "v": "5.7%",
+       "cls": "neg"
+      },
+      {
+       "v": "Far below",
+       "cls": "neg"
+      }
+     ]
+    }
+   ],
+   "note": "Built from management's disclosed ratios: $11.6B over 7 years against ~$5.5B of capex is $0.30 of revenue per capex dollar a year; 75% EBITDA less depreciation gives a 28% operating margin, close to management's ~30%. The 7-year life, 20% tax rate and 15% residual are my estimates `[Estimate]`; with them the as-guided case reproduces management's ~13%. Source: [Q3 call](https://www.fool.com/earnings/call-transcripts/2026/11/06/akamai-akam-q3-2026-earnings-call-transcript/), [Anthropic 8-K](https://www.sec.gov/Archives/edgar/data/1086222/000119312526401048/d288154dex991.htm). Built with Claude."
+  },
+  "rings": {
+   "columns": [
+    "Ring",
+    "~Share of revenue",
+    "~What it earns",
+    "~Main threat",
+    "~Exposure to the debate"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "**1 · Security**",
+      "55% of FY2026E",
+      "The profit engine: +9–10% cc, 'adding $12–13M a quarter' sequentially",
+      "Platform competitors; AI-driven attack volume is a tailwind",
+      "Low: funds the build and is the reason a customer trusts the cloud"
+     ]
+    },
+    {
+     "cells": [
+      "**2 · Delivery and other cloud apps**",
+      "36%",
+      "Cash cow in slow decline: −3% to −6%; 'stable... down a point or 2 or 3'",
+      "Price cuts at renewal, hyperscaler cost pressure, media traffic optimisation",
+      "Medium: shrinks as capacity is redirected to cloud"
+     ]
+    },
+    {
+     "cells": [
+      "**3 · Cloud infrastructure, existing customers**",
+      "9%",
+      "Developer and enterprise compute: +34–41% a year",
+      "Hyperscaler pricing",
+      "Medium: the proof the platform sells without a megadeal"
+     ]
+    },
+    {
+     "cells": [
+      "**4 · Large AI contracts**",
+      "~0% now; ~30% of FY2028",
+      "$2.2B a year at ~75% EBITDA, ~30% non-GAAP margin, ~13% IRR",
+      "Counterparty, hardware cost, execution, financing",
+      "**High: the whole debate**"
+     ]
+    }
+   ],
+   "note": "Akamai reports one segment and no segment profit, so rings are by revenue. FY2026E shares from Q3 guidance (security ~2.45B, delivery ~1.58B, CIS ~0.42B, `[Derived]`); ring 4 is $2.2B ÷ the >$7.0B FY2028 target. Source: [Q3 release](https://www.sec.gov/Archives/edgar/data/0001086222/000108622226000097/exhibit991-q32026.htm) and call. Assessments are the author's. Built with Claude."
+  },
+  "capital": {
+   "columns": [
+    "$ Billion",
+    "Revenue",
+    "YoY",
+    "GAAP EPS",
+    "OCF",
+    "Capex",
+    "FCF",
+    "SBC",
+    "Buybacks",
+    "% FCF",
+    "Acquisitions",
+    "Converts (par)",
+    "Dil. shares (M)"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "FY2021",
+      "3.46",
+      "8%",
+      "$3.93",
+      "1.41",
+      "0.55",
+      "0.86",
+      "0.20",
+      "0.52",
+      "61%",
+      "0.60",
+      "2.30",
+      "166"
+     ]
+    },
+    {
+     "cells": [
+      "FY2022",
+      "3.62",
+      "5%",
+      "$3.26",
+      "1.28",
+      "0.46",
+      "0.82",
+      "0.22",
+      "0.61",
+      "74%",
+      "0.87",
+      "2.30",
+      "160"
+     ]
+    },
+    {
+     "cells": [
+      "FY2023",
+      "3.81",
+      "5%",
+      "$3.52",
+      "1.35",
+      "0.73",
+      "0.62",
+      "0.33",
+      "0.65",
+      "106%",
+      "0.11",
+      "3.57",
+      "155"
+     ]
+    },
+    {
+     "cells": [
+      "FY2024",
+      "3.99",
+      "5%",
+      "$3.27",
+      "1.52",
+      "0.69",
+      "0.83",
+      "0.39",
+      "0.56",
+      "67%",
+      "0.43",
+      "3.57",
+      "154"
+     ]
+    },
+    {
+     "cells": [
+      "FY2025",
+      "4.21",
+      "5%",
+      "$3.07",
+      "1.52",
+      "0.82",
+      "0.70",
+      "0.46",
+      "0.80",
+      "114%",
+      "0.06",
+      "4.14",
+      "147"
+     ]
+    },
+    {
+     "cells": [
+      "9M 2026",
+      "3.30",
+      "6%",
+      "$2.00",
+      "1.07",
+      "1.02",
+      {
+       "v": "0.05",
+       "cls": "neg"
+      },
+      "0.41",
+      "0.62",
+      "n/m",
+      "0.19",
+      {
+       "v": "7.64",
+       "cls": "neg"
+      },
+      "152"
+     ]
+    },
+    {
+     "cells": [
+      "FY2021–25",
+      "19.09",
+      "",
+      "",
+      "7.07",
+      "3.24",
+      "3.83",
+      "1.60",
+      "3.14",
+      "82%",
+      "2.07",
+      "",
+      ""
+     ],
+     "cls": "tot"
+    }
+   ],
+   "note": "Capex is purchases of property and equipment plus capitalised internal-use software (cash basis); FCF = OCF − capex. Acquisitions are cash paid for businesses. Convertible par: 2021–22 two issues, 2025 three, 9M 2026 five. Dil. shares are GAAP weighted-average diluted. Source: [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1086222/000108622226000022/akam-20251231.htm), [FY2022 10-K](https://www.sec.gov/Archives/edgar/data/1086222/000108622223000078/akam-20221231.htm), [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001086222.json), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/0001086222/000108622226000097/exhibit991-q32026.htm). Built with Claude."
+  },
+  "incentives": {
+   "columns": [
+    "Component",
+    "Size / weight",
+    "What it pays for",
+    "~Latest outcome"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "**Base salary (CEO)**",
+      "$1",
+      "Nothing: Leighton has taken $1 since 2013",
+      "Unchanged"
+     ]
+    },
+    {
+     "cells": [
+      "**Annual bonus**",
+      "Target $1.5M for the CEO; paid in stock",
+      "50% FX-adjusted revenue, 50% non-GAAP operating income; ±10% ESG modifier",
+      "2025 funded at 151.3% of target ($2.27M); non-GAAP operating income paid at 190%"
+     ]
+    },
+    {
+     "cells": [
+      "**PRSUs**",
+      "Annual tranches, 0–200%",
+      "50% FX-adjusted revenue, 50% non-GAAP EPS",
+      "2025 tranche earned 154%; EPS $6.99 vs. $6.19 target"
+     ]
+    },
+    {
+     "cells": [
+      "**Relative-TSR RSUs**",
+      "0–200%, 3 years to Dec 31, 2027",
+      "TSR rank in an index group: 0% below the 25th percentile, 100% at the 50th, 200% at the 75th",
+      "Stock −48% from the May high; a poor 2027 rank pays little"
+     ]
+    },
+    {
+     "cells": [
+      "**Time-vesting RSUs**",
+      "Rest of long-term award",
+      "Retention",
+      "—"
+     ]
+    },
+    {
+     "cells": [
+      "**Return on invested capital**",
+      "**0%**",
+      "Not in any plan",
+      "No metric charges management for the $3.5B capex or the converts"
+     ]
+    }
+   ],
+   "note": "Metrics, weights and 2025 outcomes from the 2026 proxy. Non-GAAP operating income and EPS exclude stock-based compensation and acquired-intangible amortisation. Source: [DEF 14A](https://www.sec.gov/Archives/edgar/data/1086222/000108622226000042/akam-20260330.htm). Built with Claude."
+  },
+  "deals": {
+   "columns": [
+    "Year",
+    "~Deal",
+    "Price",
+    "~What happened",
+    "~Verdict"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "2021",
+      "Guardicore (microsegmentation)",
+      "≈$0.6B cash `[Derived]`",
+      "'Still growing at a very healthy clip' with low penetration of the base (CFO, Q3 2026 call)",
+      "Good"
+     ]
+    },
+    {
+     "cells": [
+      "2022",
+      "Linode (developer cloud)",
+      "≈$0.9B cash `[Derived]`",
+      "Became Akamai Cloud and the platform for the 2026 pivot; the 'next billion-dollar business' arrived years late but is now guided to $1.1–1.3B in 2027",
+      "Good, long fuse"
+     ]
+    },
+    {
+     "cells": [
+      "2024",
+      "Noname Security (API security)",
+      "≈$0.4B cash `[Derived]`",
+      "API Security named by management as a lead growth driver in Q3 2026",
+      "Good so far"
+     ]
+    },
+    {
+     "cells": [
+      "2024",
+      "Edgio, Lumen and StackPath customer contracts",
+      "$0.13B asset deals",
+      "'Incremental traffic from contracts acquired' (10-K); delivery revenue still falling",
+      "Unclear"
+     ]
+    },
+    {
+     "cells": [
+      "2026",
+      "LayerX (AI-use data-leak control)",
+      "$0.19B cash (Q3)",
+      "'Already a lot of sales', including a large US streaming company (CEO)",
+      "Too early"
+     ]
+    }
+   ],
+   "note": "Prices are cash paid for acquisitions in the cash-flow statement for the year (2021: $599M; 2022: $872M; 2024: $434M plus $133M of asset deals; Q3 2026: $191M); they may include smaller deals, so treat them as bounds. Source: [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1086222/000108622226000022/akam-20251231.htm), [FY2022 10-K](https://www.sec.gov/Archives/edgar/data/1086222/000108622223000078/akam-20221231.htm), [Q3 call](https://www.fool.com/earnings/call-transcripts/2026/11/06/akamai-akam-q3-2026-earnings-call-transcript/). Built with Claude."
+  },
+  "five_year": {
+   "columns": [
+    "$B, except per share",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "**Revenue**",
+      "3.46",
+      "3.62",
+      "3.81",
+      "3.99",
+      "**4.21**"
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "YoY",
+      "8.2%",
+      "4.5%",
+      "5.4%",
+      "4.7%",
+      "5.4%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "GAAP operating income",
+      "0.78",
+      "0.68",
+      "0.64",
+      "0.53",
+      "0.57"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "GAAP operating margin",
+      "22.6%",
+      "18.7%",
+      "16.7%",
+      "13.4%",
+      {
+       "v": "13.5%",
+       "cls": "neg"
+      }
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Diluted EPS (GAAP)",
+      "$3.93",
+      "$3.26",
+      "$3.52",
+      "$3.27",
+      "$3.07"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Cash and reinvestment**",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Operating cash flow",
+      "1.41",
+      "1.28",
+      "1.35",
+      "1.52",
+      "1.52"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Capex (incl. capitalised software)",
+      "0.55",
+      "0.46",
+      "0.73",
+      "0.69",
+      "0.82"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Free cash flow",
+      "0.86",
+      "0.82",
+      "0.62",
+      "0.83",
+      "0.70"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Stock-based compensation",
+      "0.20",
+      "0.22",
+      "0.33",
+      "0.39",
+      "0.46"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "SBC % of revenue",
+      "5.9%",
+      "6.0%",
+      "8.6%",
+      "9.8%",
+      {
+       "v": "10.9%",
+       "cls": "neg"
+      }
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Owner earnings** (OCF − SBC − capex) `[Derived]`",
+      "0.66",
+      "0.60",
+      "0.29",
+      "0.44",
+      {
+       "v": "**0.24**",
+       "cls": "neg"
+      }
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "Owner earnings per diluted share",
+      "$3.96",
+      "$3.75",
+      "$1.87",
+      "$2.86",
+      {
+       "v": "$1.63",
+       "cls": "neg"
+      }
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "FCF ÷ net income",
+      "1.32×",
+      "1.56×",
+      "1.13×",
+      "1.65×",
+      "1.55×"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Returns on capital** `[Derived]`",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Invested capital (equity + convert par + leases − cash and securities)",
+      "5.55",
+      "6.12",
+      "6.87",
+      "7.66",
+      "8.77"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "NOPAT (GAAP operating income × 80%)",
+      "0.63",
+      "0.54",
+      "0.51",
+      "0.43",
+      "0.45"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "ROIC (year-end capital)",
+      "11.3%",
+      "8.8%",
+      "7.4%",
+      "5.6%",
+      {
+       "v": "5.2%",
+       "cls": "neg"
+      }
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "3-year ROIIC",
+      "—",
+      "—",
+      "—",
+      {
+       "v": "−9.5%",
+       "cls": "neg"
+      },
+      {
+       "v": "−3.3%",
+       "cls": "neg"
+      }
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Reinvestment rate (net capex + acquisitions ÷ NOPAT)",
+      "95%",
+      "136%",
+      "76%",
+      "142%",
+      "43%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Survivability and dilution**",
+      "",
+      "",
+      "",
+      "",
+      ""
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Net debt (convert par − cash and securities)",
+      "0.13",
+      "0.87",
+      "1.27",
+      "1.69",
+      "2.22"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Net debt ÷ EBITDA (operating income + D&A)",
+      "0.1×",
+      "0.7×",
+      "1.1×",
+      "1.4×",
+      "1.7×"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Nearest maturity",
+      "",
+      "",
+      "",
+      "",
+      "$1.15B Sept 1, 2027"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Diluted shares (M)",
+      "166",
+      "160",
+      "155",
+      "154",
+      "147"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Year-end shares outstanding, change",
+      "−1.4%",
+      "−2.5%",
+      "−3.4%",
+      "−0.8%",
+      "−3.5%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Buybacks ÷ SBC",
+      "2.6×",
+      "2.8×",
+      "2.0×",
+      "1.4×",
+      "1.7×"
+     ],
+     "cls": "sub"
+    }
+   ],
+   "note": "Invested capital is built as equity + convertible-note par + operating-lease liabilities − cash − marketable securities (`[Derived]`; note carrying values are within 2% of par). 3-year ROIIC = change in NOPAT ÷ change in invested capital over three years. The pivot has not yet shown up in returns: 2026 capex of ~$3.5B is not in this table. Cycle position: not cyclical, though media and gaming traffic moves delivery revenue. Source: [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001086222.json), [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1086222/000108622226000022/akam-20251231.htm), [FY2022 10-K](https://www.sec.gov/Archives/edgar/data/1086222/000108622223000078/akam-20221231.htm). Built with Claude."
+  },
+  "levers": {
+   "columns": [
+    "Lever",
+    "Contribution now",
+    "Runway",
+    "~Evidence",
+    "Management intent",
+    "Stage"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "Market growth",
+      "+1–2 pts",
+      "5+ years",
+      "Security spend follows AI use and attack volume; delivery traffic growth 'moderated' (10-K)",
+      "'AI continues to be a tailwind for our security solutions'",
+      "Proven"
+     ]
+    },
+    {
+     "cells": [
+      "Share gain",
+      "+2–3 pts",
+      "5+ years",
+      "Security +9–10% cc: API Security, Guardicore, LayerX cross-sell",
+      "Add customers 'at a faster clip'",
+      "Proven"
+     ]
+    },
+    {
+     "cells": [
+      "Price and mix",
+      "−1 to −2 pts",
+      "Ongoing drag",
+      "Delivery −3% to −6%; renewals reprice lower; 'holding pricing better now'",
+      "Selective on big media; skip low-end deals",
+      "Proven (negative)"
+     ]
+    },
+    {
+     "cells": [
+      "Attach / new products",
+      "+3 pts now; +15 pts by 2028",
+      "3–7 years",
+      "CIS +34% in Q3; Inference, Agent Sandbox launched; $14B signed",
+      "'Full AI stack'",
+      "Scaling"
+     ]
+    },
+    {
+     "cells": [
+      "New geographies",
+      "+0.5 pt",
+      "5+ years",
+      "International +9% cc vs. US +5%; ~50% of revenue",
+      "—",
+      "Proven"
+     ]
+    },
+    {
+     "cells": [
+      "M&A",
+      "+0.5 pt",
+      "Opportunistic",
+      "LayerX $191M; Noname, Guardicore",
+      "Tuck-ins in security",
+      "Proven"
+     ]
+    },
+    {
+     "cells": [
+      "Margin",
+      "−6 pts of non-GAAP margin in a year",
+      "Down to 1H27, then up",
+      "Colocation ahead of revenue; 1–2 pts non-cash straight-line rent; 30% on full ramp",
+      "'Bottom out... first half of next year'",
+      "Option"
+     ]
+    },
+    {
+     "cells": [
+      "Share count",
+      "−1% a year to +2%",
+      "Reversed",
+      "Buybacks paused since Q2; Anthropic warrant up to ~5%; SBC $0.5B",
+      "'Highly disciplined' capital allocation; ~$565M authorisation left",
+      "Negative"
+     ]
+    }
+   ],
+   "note": "Contributions are rough shares of the ~6% growth in FY2026 and the 17–22% guided for FY2027, `[Estimate]`. The Base case rests on attach/new products (CIS) and security; the Bull adds the Anthropic option and later deals at higher prices; margin is an option, not a given. Source: [Q3 call](https://www.fool.com/earnings/call-transcripts/2026/11/06/akamai-akam-q3-2026-earnings-call-transcript/), [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1086222/000108622226000022/akam-20251231.htm). Built with Claude."
+  },
+  "moat": {
+   "columns": [
+    "Read",
+    "Call",
+    "~Evidence"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "Mechanism",
+      "**Switching costs** (security) + **scale economies** (delivery); none yet proven in cloud infrastructure",
+      "Security is embedded in customers' applications and sold on multi-year terms; the CDN's 4,000+ points of presence in 130 countries are a scale asset, but ~90% of new servers are commodity CPUs anyone can buy. Cloud infrastructure wins on being 'close to users' and 'one platform', not on a cost advantage that the 13% IRR confirms"
+     ]
+    },
+    {
+     "cells": [
+      "Trend",
+      "**Security stable-to-widening; delivery narrowing; cloud unproven**",
+      "Security +9–10% cc for eight quarters; delivery −5% in 9M 2026 and price cuts at renewal; non-GAAP margin 31% → 25% in a year"
+     ]
+    },
+    {
+     "cells": [
+      "Profit pool",
+      "In AI infrastructure the buyer captures the margin",
+      "The largest buyer received 'the lowest prices you're going to see' and a warrant; component makers (memory) take the rest, hence the price-adjustment clause"
+     ]
+    },
+    {
+     "cells": [
+      "Customer",
+      "Concentration is new",
+      "No customer reached 10% of revenue in 2023–2025 (10-K); the Anthropic deal is ~$1.66B a year, about a quarter of FY2028's >$7.0B"
+     ]
+    }
+   ],
+   "note": "7 Powers vocabulary (Helmer). Source: [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1086222/000108622226000022/akam-20251231.htm), [Q3 call](https://www.fool.com/earnings/call-transcripts/2026/11/06/akamai-akam-q3-2026-earnings-call-transcript/); assessments are the author's. Built with Claude."
+  },
+  "competitors": {
+   "columns": [
+    "Competitor",
+    "~Position",
+    "~Threat"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "**Cloudflare**",
+      "Closest peer in security, delivery and edge compute; stock +19.5% over the year to Nov 6 against Akamai +14.8% (total return)",
+      "High in delivery and application security; low in contracted AI compute"
+     ]
+    },
+    {
+     "cells": [
+      "**Hyperscalers (AWS, Microsoft, Google)**",
+      "Sell delivery, security and compute; per the CEO 'even the hyperscalers use Akamai cloud' for latency-sensitive work; the 10-K blames 'market dynamics driven by the hyperscalers' for rising colocation costs",
+      "High: price-setter in compute and delivery"
+     ]
+    },
+    {
+     "cells": [
+      "**Neoclouds (GPU renters)**",
+      "Different model: bare metal, GPUs, short-term contracts; management says it is 'not in the business of training the big frontier models'",
+      "Indirect: set the market price for compute and compete for the same power and memory"
+     ]
+    },
+    {
+     "cells": [
+      "**Security platforms (Palo Alto, Zscaler, CrowdStrike, Cisco)**",
+      "Compete in segmentation, zero trust and API security",
+      "Medium: Akamai's security growth is share gain against them"
+     ]
+    }
+   ],
+   "note": "Total-return comparison from Yahoo Finance adjusted closes, Nov 5, 2025 to Nov 6, 2026 (`prices.py`). I did not read competitors' filings for this ingest; threat reads are the author's. Source: [Q3 call](https://www.fool.com/earnings/call-transcripts/2026/11/06/akamai-akam-q3-2026-earnings-call-transcript/), [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1086222/000108622226000022/akam-20251231.htm). Built with Claude."
+  },
+  "promises": {
+   "columns": [
+    "~Promised",
+    "Where, when",
+    "~Outcome"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "Cloud computing to be 'the next billion-dollar business'; the CEO later put a $1B cloud segment at 2027 (secondary report)",
+      "Shareholder letter after the Linode deal (Feb 2022); Q4 2024 call per [CIO Dive](https://www.ciodive.com/news/akamai-public-cloud-infrastructure-revenue-growth/740700/) `[link pending: primary]`",
+      "🟡 Late. Cloud revenue was $630M in 2024 (infrastructure $230M); CIS alone is now guided to $1.1–1.3B in 2027, but only because of three contracts"
+     ]
+    },
+    {
+     "cells": [
+      "FY2026 CIS growth of at least 50% cc; revenue ~$4.5B; non-GAAP EPS ~$6.78 (midpoints, per secondary reports)",
+      "Q1 2026 call, May 7, 2026; [Q1 release](https://www.sec.gov/Archives/edgar/data/0001086222/000108622226000054/exhibit991-q12026.htm) not re-read",
+      "🔴 Cut within six months: CIS 40–42%, revenue $4.44–4.465B, EPS $6.47–6.68"
+     ]
+    },
+    {
+     "cells": [
+      "Q3 revenue $1,105–1,130M and non-GAAP EPS $1.60–1.80; FY revenue $4.445–4.53B",
+      "[Q2 2026 release](https://www.sec.gov/Archives/edgar/data/0001086222/000108622226000083/exhibit991-q22026.htm), Aug 6, 2026",
+      "✅ Q3 delivered $1,122M and $1.77 (top of the EPS range); FY midpoint then lowered by ~$30M in revenue and 15 cents in EPS"
+     ]
+    }
+   ],
+   "note": "Guidance grade over the last three prints: **Mixed**. The deciding number is the FY2026 CIS cut from at least 50% to 40–42% after a year of 'missed compute or only in line' (Piper's James Fish, Q3 call). Source: releases and calls as linked. Built with Claude."
+  },
+  "risks": {
+   "columns": [
+    "~Risk",
+    "Impact",
+    "Prob.",
+    "Priced in?",
+    "~Would break the thesis if…"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "⚠️ **One customer carries the build**: $11.6B of the $14B is Anthropic, a private company; the 8-K makes the commitment 'subject to termination terms and service delivery requirements'",
+      "High",
+      "Low–Med",
+      "🟡 Partly: the stock is 49% below its May high",
+      "Anthropic delays, renegotiates or terminates a project plan (test 1)"
+     ]
+    },
+    {
+     "cells": [
+      "⚠️ **Returns are at the hurdle with no slack**: ~13% IRR at the best-case price; hardware +20% with no pass-through cuts it to ~9%",
+      "High",
+      "Med",
+      "🟡 Partly",
+      "Component costs rise on the ~30% of hardware not yet ordered and the clause fails to bite"
+     ]
+    },
+    {
+     "cells": [
+      "⚠️ **Financing**: $7.64B of converts; $1.15B due Sept 1, 2027; a holder put on the $1.725B 2033 notes in May 2031 at a $93.01 conversion price; cash and securities fall from $4.2B toward ~$2B by year-end after Q4 capex of ~$2.5B",
+      "High",
+      "Med",
+      "🔴 **No**: the call says only 'measured incremental financing'",
+      "More than $2B of new paper raised by the FY2027 10-K, or a rating cut (test 3)"
+     ]
+    },
+    {
+     "cells": [
+      "**Earnings quality**: SBC is 10.9% of revenue (about $3 a share against $6.57 of non-GAAP EPS); both bonus and PRSU metrics exclude it",
+      "Med",
+      "High",
+      "🟡 Partly: the stock trades at 33× GAAP, 13× non-GAAP",
+      "Owner earnings per share stay below $2 while the cloud ramps"
+     ]
+    },
+    {
+     "cells": [
+      "**Delivery erosion** and hyperscaler cost pressure ('market dynamics driven by the hyperscalers', 10-K)",
+      "Med",
+      "High",
+      "✅ In the Base",
+      "Delivery declines faster than 6% a year"
+     ]
+    },
+    {
+     "cells": [
+      "**Execution and credibility**: data-centre and supply-chain delays pushed ~$30M of Q4 into 2027; Piper: 'missed compute or only been in line' every quarter",
+      "Med",
+      "Med",
+      "🟡 Partly",
+      "Q4 CIS revenue below $120M (test 1)"
+     ]
+    },
+    {
+     "cells": [
+      "**Dilution**: Anthropic warrant for up to ~5% at $111.33; $0.5B a year of SBC at a lower price means more shares; buybacks paused",
+      "Med",
+      "High",
+      "🟡 Partly",
+      "Net share count rises faster than 2% a year"
+     ]
+    },
+    {
+     "cells": [
+      "**AI-capex sentiment**: management said the post-midterm market scrutiny 'dragged' the stock down",
+      "Med",
+      "Med",
+      "n/a",
+      "Not a thesis break on its own; it moves the price, not the cash flows"
+     ]
+    }
+   ],
+   "note": "Filtered for materiality; new in the FY2025 10-K are the AI-initiatives risk factor and the debt-obligations factor (compare Item 1A headings). Assessments are the author's. Source: [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1086222/000108622226000022/akam-20251231.htm), [Q2 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1086222/000108622226000086/akam-20260630.htm), [Anthropic 8-K](https://www.sec.gov/Archives/edgar/data/1086222/000119312526401048/d288154dex991.htm), [Q3 call](https://www.fool.com/earnings/call-transcripts/2026/11/06/akamai-akam-q3-2026-earnings-call-transcript/). Built with Claude."
+  },
+  "catalysts": {
+   "columns": [
+    "Date",
+    "Catalyst",
+    "~Why it matters"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "✅ Sep 24, 2026",
+      "$11.6B Anthropic agreement, warrant for up to ~5% ([8-K](https://www.sec.gov/Archives/edgar/data/1086222/000119312526401048/d288154dex991.htm))",
+      "Turns CIS from an option into the revenue plan"
+     ]
+    },
+    {
+     "cells": [
+      "✅ Nov 5, 2026",
+      "Q3 print, FY2027 and FY2028 revenue guidance ([release](https://www.sec.gov/Archives/edgar/data/0001086222/000108622226000097/exhibit991-q32026.htm))",
+      "FY2027 +17–22% cc, FY2028 >$7.0B"
+     ]
+    },
+    {
+     "cells": [
+      "📅 Nov 2026",
+      "Q3 10-Q (not yet filed when this was written)",
+      "Debt, lease and customer-concentration notes"
+     ]
+    },
+    {
+     "cells": [
+      "📅 Feb 2027",
+      "Q4 2026 print, full FY2027 guide `[date pending]`",
+      "Tests 1 and 2: Q4 CIS ≥$120M, margin guide ≥24%"
+     ]
+    },
+    {
+     "cells": [
+      "📅 Aug 2027",
+      "Q2 2027 print",
+      "Test 1 second leg: ≥$180M a quarter"
+     ]
+    },
+    {
+     "cells": [
+      "📅 Sep 1, 2027",
+      "$1.15B 0.375% convertible notes mature",
+      "Test 3: repaid from cash?"
+     ]
+    },
+    {
+     "cells": [
+      "📅 May 15, 2031",
+      "Holders may put the 2033 notes if the stock is below $93.01",
+      "$1.725B call on cash if the stock is still below $93"
+     ]
+    }
+   ],
+   "note": "Source: company announcements and the [Q2 2026 10-Q](https://www.sec.gov/Archives/edgar/data/1086222/000108622226000086/akam-20260630.htm) debt note. Built with Claude."
+  },
+  "sentiment": {
+   "columns": [
+    "Signal",
+    "~Read"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "Analysts",
+      "Consensus Buy from 24 analysts (11 Strong Buy, 4 Buy, 8 Hold, 1 Strong Sell), mean target $154.24; Nov 6 cuts include RBC to $85 (Hold) from $135, UBS to $90 from $100, Craig-Hallum to $170 from $190, D.A. Davidson to $125 from $150 `[Analyst consensus]`"
+     ]
+    },
+    {
+     "cells": [
+      "Short interest",
+      "18.7M shares, 13.0% of shares outstanding, about 3 days to cover (StockAnalysis, Nov 6); prior-month change not retrieved"
+     ]
+    },
+    {
+     "cells": [
+      "Insiders (180 days, Form 4 via OpenInsider)",
+      "Six open-market sales, none above $1M (largest: Mani Sundaram, EVP Security, 7,022 shares at $125.62 on Sept 25 ≈ $0.9M); no purchases; no CEO or CFO trades"
+     ]
+    },
+    {
+     "cells": [
+      "Holders and rates",
+      "Vanguard 12.7%, BlackRock 6.9%, officers and directors 2.3% (Feb 2026); 10-year Treasury 4.90% (Nov 4) as context only"
+     ]
+    }
+   ],
+   "note": "Context only; none of it moves a verb. Source: [StockAnalysis forecast](https://stockanalysis.com/stocks/akam/forecast/) and [statistics](https://stockanalysis.com/stocks/akam/statistics/), [OpenInsider](http://openinsider.com/screener?s=AKAM), [DEF 14A](https://www.sec.gov/Archives/edgar/data/1086222/000108622226000042/akam-20260330.htm), [FRED DGS10](https://fred.stlouisfed.org/series/DGS10). Built with Claude."
+  }
+ },
+ "charts": {
+  "since_may": {
+   "type": "line",
+   "file": "series/stock_vs_peers.json",
+   "baseline": 100,
+   "yTicks": [
+    80,
+    100,
+    120,
+    140,
+    160,
+    180,
+    200,
+    220
+   ],
+   "tableEvery": 25,
+   "aria": "Total return index from November 5, 2025 = 100 for Akamai, Cloudflare and the S&P 500 through November 6, 2026",
+   "note": "Total return including dividends, daily, November 5, 2025 (the close before the Q3 2025 print) = 100, through November 6, 2026. Akamai peaked at 220.8 on May 13, 2026. Source: Yahoo Finance adjusted closes via `prices.py`. Built with Claude."
+  },
+  "rev_mix": {
+   "type": "bar100",
+   "keys": [
+    "Security",
+    "Delivery and other",
+    "Cloud infrastructure"
+   ],
+   "unit": "$M",
+   "valueLabel": "Revenue",
+   "prefix": "$",
+   "suffix": "M",
+   "rows": [
+    {
+     "label": "Q3 2025",
+     "values": [
+      568,
+      405,
+      81
+     ]
+    },
+    {
+     "label": "Q2 2026",
+     "values": [
+      604,
+      396,
+      99
+     ]
+    },
+    {
+     "label": "Q3 2026",
+     "values": [
+      622,
+      391,
+      109
+     ]
+    }
+   ],
+   "aria": "Share of revenue by solution, Q3 2025, Q2 2026 and Q3 2026",
+   "note": "Share of revenue (Akamai does not report profit by solution). Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/0001086222/000108622226000097/exhibit991-q32026.htm). Built with Claude."
+  }
+ },
+ "model_build": {
+  "note": "Base case. Highlighted cells are inputs; margins move linearly from the FY2026 estimate to the FY2031 input. Margins are GAAP operating margins after stock-based compensation and acquired-intangible amortisation; segment margins are my allocation of the consolidated GAAP margin `[Estimate]` because Akamai reports none. Corporate and net financing costs sit in one line. Source: author's model (model.json). Built with Claude."
+ },
+ "scenarios": {
+  "note": "Annual return = price change to the FY2031 value; there is no dividend. Probabilities apply to Bull, Base and Bear; the Priced-in row is solved along the Bear→Base path and the Hurdle row along the Base→Bull path, both at 18×. Source: author's model. Built with Claude."
+ },
+ "sources": [
+  {
+   "label": "Q3 2026 earnings release (8-K Ex. 99.1), Nov 5, 2026",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001086222/000108622226000097/exhibit991-q32026.htm"
+  },
+  {
+   "label": "Q3 2026 earnings call transcript (Motley Fool)",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/akamai-akam-q3-2026-earnings-call-transcript/"
+  },
+  {
+   "label": "Anthropic agreement press release (8-K Ex. 99.1), Sept 24, 2026",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000119312526401048/d288154dex991.htm"
+  },
+  {
+   "label": "Q2 2026 earnings release, Aug 6, 2026",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001086222/000108622226000083/exhibit991-q22026.htm"
+  },
+  {
+   "label": "Q2 2026 10-Q (debt note: convertible notes)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000086/akam-20260630.htm"
+  },
+  {
+   "label": "FY2025 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000022/akam-20251231.htm"
+  },
+  {
+   "label": "FY2022 10-K (capex for FY2020–22)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622223000078/akam-20221231.htm"
+  },
+  {
+   "label": "2026 proxy statement (DEF 14A)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000042/akam-20260330.htm"
+  },
+  {
+   "label": "SEC XBRL company facts (AKAM)",
+   "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001086222.json"
+  },
+  {
+   "label": "Yahoo Finance: AKAM",
+   "url": "https://finance.yahoo.com/quote/AKAM/"
+  },
+  {
+   "label": "StockAnalysis: AKAM statistics",
+   "url": "https://stockanalysis.com/stocks/akam/statistics/"
+  },
+  {
+   "label": "StockAnalysis: AKAM forecast",
+   "url": "https://stockanalysis.com/stocks/akam/forecast/"
+  },
+  {
+   "label": "OpenInsider: AKAM Form 4 screener",
+   "url": "http://openinsider.com/screener?s=AKAM"
+  },
+  {
+   "label": "FRED: 10-year Treasury (DGS10)",
+   "url": "https://fred.stlouisfed.org/series/DGS10"
+  },
+  {
+   "label": "CIO Dive: Akamai cloud revenue goal (secondary)",
+   "url": "https://www.ciodive.com/news/akamai-public-cloud-infrastructure-revenue-growth/740700/"
+  }
+ ],
+ "vars": {},
+ "return_math": {
+  "epv": "$30–40 per share (five-year average owner earnings of $0.45B ÷ 9% ≈ $5.0B on 144M shares, about $35). Roughly 40% of the price pays for today's earnings power after SBC and capex; the rest pays for the contracts. The Bear ($42) sits just above EPV because it keeps the contracts but earns thin returns on them.",
+  "base_rate": "The Base takes revenue from $4.45B to $8.2B, 13% a year nominal, roughly 10% real; for companies of $4.5–7B sales, 21% have done 10% real over five years, and ~16% a year to FY2028 is already guided and largely signed. The Bull (17% nominal, ~14% real) is a one-in-ten outcome for the size bucket.",
+  "year_ten": "Mixed. The seven-year contracts end in 2033–34 and have to be renewed on hardware that is by then 7–10 years old; security still grows at year ten in the Base, delivery has shrunk by a third. The terminal multiple (18×) is below the market's for software and above it for infrastructure, so it is not carrying the value; the contract renewals are.",
+  "note": "Computed rows come from model.json; EPV, base rate and year ten are the author's. Base rates from Mauboussin, The Base Rate Book. Built with Claude."
+ }
+}

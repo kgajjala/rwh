@@ -91,6 +91,7 @@ Anchored on the buyback-timing test, read from each page's §4 capital-allocatio
 | **NKE** | 22+ yr dividend streak; FY22–24 buybacks at mid-cycle prices; Hill's April 2026 $1M personal buy is a positive signal but not institutional countercyclical discipline — and no insider bought the August 2026 12-year low. |
 | **AMCR** | 51-yr unbroken dividend record treated as inviolable; buybacks paused during Berry integration; Dividend Aristocrat archetype. |
 | **SBUX** | Dividend first (~95% of FY26 non-GAAP EPS; FY25 dividend exceeded FCF); no buyback since FY24; China and possibly Japan moved to licensed models, with proceeds to debt reduction. |
+| **AKAM** | Bought ~5M shares at $123 in H1 2026 and nothing in Q3 as the price fell below $100 while capex rose; $3.5B of new converts with hedges; non-GAAP bonus and PRSU metrics, no ROIC measure. Grade set 2026-11-06. |
 | **MSFT** | $20B+ annual programmatic buybacks + dividend growing since 2003; M&A at strategic premiums. Nadella is an exceptional steward — the Outsider test doesn't fit a patterned return program. |
 | **DELL** | 40-yr strategic capital-allocation mastery (LBO, EMC, VMware spin) but public-company framework is committed programmatic cadence. SLTA insider sales blunt the timing signal. |
 | **UNH** | **Outsider-leaning**: bought countercyclically — $2B+ at $300–355 in Q1 2026 and $5.0B by Q3 while 20–35% below the high. Capped by $54B of 2021–25 acquisitions at a −15% 3-yr ROIIC. |

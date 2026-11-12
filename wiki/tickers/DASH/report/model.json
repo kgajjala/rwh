@@ -1,0 +1,144 @@
+{
+ "spot": 178.26,
+ "dps": 0.0,
+ "discount_rate": 0.09,
+ "hurdle": 0.13,
+ "risk_free": 0.0488,
+ "last_year": 2031,
+ "fy_prefix": "FY",
+ "eps_label": "GAAP EPS (after SBC)",
+ "segment_names": {
+  "US": "United States",
+  "INTL": "International"
+ },
+ "actual": {
+  "year": 2025,
+  "segments": {
+   "US": {
+    "rev": 11.46,
+    "op": 5.832
+   },
+   "INTL": {
+    "rev": 2.257,
+    "op": 1.148
+   }
+  },
+  "corp": -6.256,
+  "ni": 0.935,
+  "shares": 0.4397,
+  "eps": 2.13
+ },
+ "base": {
+  "year": 2026,
+  "shares": 0.44,
+  "corp_pct": 0.458,
+  "other": 0.17,
+  "tax": 0.08,
+  "segments": {
+   "US": {
+    "rev": 13.94,
+    "margin": 0.524
+   },
+   "INTL": {
+    "rev": 4.02,
+    "margin": 0.524
+   }
+  },
+  "sbc_pct": 0.066,
+  "eps_excludes_sbc": false,
+  "oe_conversion": 1.0
+ },
+ "other_growth": 0.0,
+ "cases": {
+  "Bull": {
+   "role": "bull",
+   "prob": 0.25,
+   "pe": 28,
+   "basis": "eps",
+   "corp_pct": 0.35,
+   "tax": 0.21,
+   "dilution": 0.012,
+   "buyback": 0.012,
+   "sbc_pct": 0.05,
+   "segments": {
+    "US": {
+     "g": 0.18,
+     "m": 0.55
+    },
+    "INTL": {
+     "g": 0.2,
+     "m": 0.54
+    }
+   },
+   "tier": "Plausible",
+   "story": "Grocery and retail reach restaurant-like frequency, ads and DashPass lift take rate, Deliveroo and Wolt scale: revenue about $42B (+19%/yr); gross margin 55% as grocery and DashMart absorb their fixed costs; opex falls to 35% of revenue, so operating margin reaches about 20%; buybacks offset stock pay; 28× GAAP EPS."
+  },
+  "Base": {
+   "role": "base",
+   "prob": 0.5,
+   "pe": 24,
+   "basis": "eps",
+   "corp_pct": 0.385,
+   "tax": 0.21,
+   "dilution": 0.014,
+   "buyback": 0.007,
+   "sbc_pct": 0.055,
+   "segments": {
+    "US": {
+     "g": 0.15,
+     "m": 0.54
+    },
+    "INTL": {
+     "g": 0.15,
+     "m": 0.53
+    }
+   },
+   "tier": "Probable",
+   "story": "Growth fades from about 20% to about 10% over five years (about $36B of revenue, +15%/yr); gross margin drifts up to 54% on ads and grocery mix; opex falls to 38.5% of revenue as the global platform is finished and Deliveroo is integrated, so operating margin reaches about 15%; buybacks offset half of stock pay; 24× GAAP EPS. The Instacart deal is assumed value-neutral at the $17B price."
+  },
+  "Bear": {
+   "role": "bear",
+   "prob": 0.25,
+   "pe": 18,
+   "basis": "eps",
+   "corp_pct": 0.44,
+   "tax": 0.21,
+   "dilution": 0.015,
+   "buyback": 0.004,
+   "sbc_pct": 0.06,
+   "segments": {
+    "US": {
+     "g": 0.095,
+     "m": 0.51
+    },
+    "INTL": {
+     "g": 0.1,
+     "m": 0.5
+    }
+   },
+   "tier": "Probable",
+   "story": "Growth falls to about 10% a year (about $28B of revenue) as share is lost to Uber and Amazon and grocery needs continued price investment; DashMart and the Instacart integration keep gross margin near 51% and opex near 44%, so operating margin stalls near 7%; Instacart's price is not earned back; 18× GAAP EPS."
+  }
+ },
+ "optionality": [],
+ "diagnostics": {
+  "Priced-in": {
+   "label": "Priced-in (9%/yr)",
+   "target_return": 0.09,
+   "pe": 24,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  },
+  "Hurdle": {
+   "label": "Hurdle (13%/yr)",
+   "target_return": 0.13,
+   "pe": 24,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  }
+ }
+}

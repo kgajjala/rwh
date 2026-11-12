@@ -4,6 +4,32 @@
 
 ---
 
+## [2026-11-12] — Migration to v7.0: Q3 2026 and the Instacart Agreement
+
+**Trigger**: Q3 2026 results and the definitive agreement to acquire Instacart, both Oct 28–29, 2026: a material event on a v3 page, so the update was done as a v7 full deep dive.
+**Sources**: [Q3 release and letter](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm), [Q3 10-Q](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm), [Q3 call](https://www.investing.com/news/transcripts/earnings-call-transcript-doordash-beats-q3-2026-estimates-as-shares-jump-6-93CH-4984252), [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1792789/000179278926000013/dash-20251231.htm); extracts and gaps in `raw/DASH/`.
+
+### Scorecard
+- Core delivers against the Q3 guide (Adj EBITDA ≥ $950M) — ✅ Pass — $1,060M, above the $1,025M midpoint
+- New Verticals gross-profit positive by Q4 2026 — 🟡 Pending — "pretty close to being breakeven"
+- U.S. share ≥60% and no margin compression — 🟡 Pending — contribution profit 5.2% of GOV; share not re-measured
+
+### Changed
+- **Format**: v3 page replaced by a v7 report (`report/` sources, front matter, deep dive). The Aug 26 §5A DashMart section became the grocery chapter; its MBI comparison is kept as a subsection.
+- **Model rebuilt** on GAAP EPS after SBC (US and International revenue, shared gross margin, exits 28× / 24× / 18×); Instacart assumed value-neutral and outside the cases. Old Bull/Base/Bear $420/$240/$80 → **$425/$237/$64**.
+- **Price** $233.50 → **$178.26** (−24%). Zones: entry $184–208 → **≤$131**; trim $245–420 → $241–425.
+- **Facts corrected from the filings**: FY2025 Total Orders were 3,172M and GOV $102.0B (the v3 page carried FY2024's 2.58B orders); Q3 free cash flow was $787M, +9%, not a decline.
+- **Outsider grade** kept at Outsider-leaning, on watch (Instacart is the disciplined-M&A test).
+
+### Status
+- **Thesis**: Unchanged (core stronger; capital-allocation risk up)
+- **PW EV**: $245 → $241 · **PW return/yr**: ≈1.0% → 6.2% (hurdle 13%) · **R/R**: 1.2 → 2.2 · **BAIT**: Triple → Double (B+A)
+- **Verbs**: non-holder Watch (entry ≤$131) · holder Hold
+
+**Next trigger**: Q4 2026 results and FY2026 10-K (~mid-Feb 2027); Instacart vote and antitrust review.
+
+---
+
 ## [2026-11-12] — DashMart Research Section (Q3 2026 filings + MBI comparison)
 
 **Trigger**: User request to review [MBI Deep Dives' DashMart analysis](https://www.mbi-deepdives.com/dashmart/) and build a DashMart section from primary sources. The window contains two unscored material events: Q3 2026 earnings (Oct 29) and the **$17B Instacart agreement** (Oct 28).

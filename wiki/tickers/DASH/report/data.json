@@ -1,0 +1,1523 @@
+{
+ "meta": {
+  "ticker": "DASH",
+  "company": "DoorDash, Inc.",
+  "title": "DoorDash: Buying the Volume for a Warehouse",
+  "dek": "Orders grew 28% and GAAP profit nearly doubled in the quarter the company agreed to pay $17 billion for Instacart. Management says the deal exists to give its own warehouses enough volume to pay. What does $178 assume, and does the volume earn its price?",
+  "date": "2026-11-12",
+  "date_long": "November 12, 2026",
+  "status": "Active",
+  "price": 178.26,
+  "price_note": "Nov 11, 2026 close, 4:00 PM EST",
+  "price_url": "https://finance.yahoo.com/quote/DASH/",
+  "range52": [
+   143.3,
+   239.0
+  ],
+  "type": "Three-sided local-commerce marketplace",
+  "stage": "Scaling",
+  "cyclical": "No",
+  "competence": "Edge",
+  "compounder": false,
+  "terminal_label": "FY2031",
+  "accent": {
+   "light": "#c8321f",
+   "dark": "#f08a7a"
+  },
+  "html_name": "DASH-deep-dive.html",
+  "report_path": "../DASH.md"
+ },
+ "verdict": {
+  "sentence": "DoorDash grew orders 28% and agreed to buy Instacart for about $17 billion to give its DashMart warehouses the volume they need, but at $178.26 the probability-weighted case pays [[pw_return]] a year against the 13% hurdle: Watch.",
+  "non_holder": {
+   "emoji": "🟡",
+   "verb": "Watch (entry ≤[[entry]])"
+  },
+  "holder": {
+   "emoji": "🟡",
+   "verb": "Hold"
+  },
+  "breaks_if": "The grocery bet fails to pay: New Verticals is still not gross-profit positive in the Q4 2026 letter, or the Instacart deal closes with DoorDash's investment-grade rating lost or the stock consideration above the 25% cap. Then the largest deal in the company's history buys volume without profit.",
+  "multiple_label": "EV / TTM Adj EBITDA",
+  "multiple": "≈21× (≈74× TTM GAAP EPS)",
+  "bait": "Double (B+A), Low-Moderate",
+  "moat": "Narrow, stable; grocery moat unproven",
+  "next": "Q4 ~mid-Feb 2027 · Instacart vote and antitrust clearance (dates TBD)",
+  "price_implies": "between the Base and the Bull (GAAP EPS ≈[[Priced-in.eps]] in 2031 for 9%/yr)"
+ },
+ "call": "The business is stronger than in August. Q3 orders grew 28% (17% without Deliveroo), contribution profit reached 5.2% of GOV and adjusted EBITDA was $1.06 billion, above the midpoint of the guide for the third quarter running. The stock is 24% lower, at $178.26. At that price a 9% return needs GAAP EPS of [[Priced-in.eps]] in 2031 at 24 times, a third of the way from my Base ([[Base.eps]]) to my Bull, and 13% needs [[Hurdle.eps]]. The probability-weighted value is [[pw_ev]], a return of [[pw_return]] a year, and the price that returns 13% is [[entry]]. The price implies a Bear probability of only [[implied_bear]]. What the market may have wrong is the Instacart deal: it is about $17 billion, at least $12.75 billion of it in cash, bought to give a warehouse business, DashMart, volume it cannot disclose the cost of, and DoorDash says it will reinvest more than 100% of the synergies in year one. I value the deal at no value created. The number that proves or breaks it is New Verticals gross profit, which the CFO says is 'pretty close to breakeven' and is committed to turn positive by the end of 2026.",
+ "tests": [
+  {
+   "claim": "That New Verticals, DashMart included, pays for itself.",
+   "test": "A statement in the Q4 2026 letter or call (about mid-February 2027) that New Verticals was gross-profit positive for Q4 or the second half. At the Q3 call the CFO said 'We are pretty close to being breakeven on a gross profit level' and had committed to positive by year end.",
+   "if_fail": "10 points Base → Bear (PW EV [[test1.pw_ev]], [[test1.pw_return]]/yr) → **Watch / Hold**, entry ≤[[test1.entry]].",
+   "shift": {
+    "from": "Base",
+    "to": "Bear",
+    "points": 0.1
+   }
+  },
+  {
+   "claim": "That the core keeps turning growth into profit.",
+   "test": "Q4 2026 adjusted EBITDA of at least $1.0 billion (guide $0.9–1.1 billion; Q3 was $1,060 million) and Q4 Marketplace GOV of at least $35.4 billion, both in the Q4 release (about mid-February 2027), with FY2026 GAAP operating margin of at least 6% in the 10-K.",
+   "if_fail": "10 points Base → Bear (PW EV [[test2.pw_ev]], [[test2.pw_return]]/yr) → **Watch / Hold**, entry ≤[[test2.entry]].",
+   "shift": {
+    "from": "Base",
+    "to": "Bear",
+    "points": 0.1
+   }
+  },
+  {
+   "claim": "That the deal is financed and cleared on the announced terms.",
+   "test": "Through the Q2 2027 10-Q (early August 2027): DoorDash keeps an investment-grade rating (it has said it is targeting one), stock consideration stays within the 25% cap, and no antitrust remedy or repricing changes what DoorDash is buying. The deal is not expected to close until the end of 2027 or the first half of 2028, so this is a test of the path, not the close.",
+   "if_fail": "15 points Base → Bear (PW EV [[test3.pw_ev]], [[test3.pw_return]]/yr) → **Watch / Hold**, entry ≤[[test3.entry]].",
+   "shift": {
+    "from": "Base",
+    "to": "Bear",
+    "points": 0.15
+   }
+  }
+ ],
+ "updates": [
+  {
+   "date": "2026-11-12",
+   "title": "Q3 and the $17 billion Instacart agreement: a stronger core, a bigger bet, a lower price",
+   "file": "updates/2026-11-12.md",
+   "scorecard": [
+    {
+     "test": "Core delivers against the Q3 guide (adjusted EBITDA at or above the $950M low end)",
+     "result": "pass",
+     "evidence": "Q3 adjusted EBITDA $1,060M against a $950M–$1.1B guide, above the midpoint; Q3 GOV $33.9B against a $33.0–34.0B guide, at the top"
+    },
+    {
+     "test": "New Verticals gross-profit positive by Q4 2026",
+     "result": "pending",
+     "evidence": "CFO, Oct 29: 'We are pretty close to being breakeven on a gross profit level'; the commitment stands for year end"
+    },
+    {
+     "test": "U.S. share at or above 60% and no margin compression",
+     "result": "pending",
+     "evidence": "Contribution profit rose to 5.2% of GOV from 4.4% in Q1; U.S. share was not re-measured this pass"
+    }
+   ]
+  }
+ ],
+ "tables": {
+  "quarters": {
+   "columns": [
+    "$ Million unless stated",
+    "Q3 2025",
+    "Q4 2025",
+    "Q1 2026",
+    "Q2 2026",
+    "Q3 2026"
+   ],
+   "rows": [
+    [
+     "Total Orders (M)",
+     "776",
+     "903",
+     "933",
+     "970",
+     "**993**"
+    ],
+    [
+     "Total Orders growth",
+     "+21%",
+     "+32%",
+     "+27%",
+     "+27%",
+     "**+28%** (+17% ex-Deliveroo)"
+    ],
+    [
+     "Marketplace GOV ($B)",
+     "25.0",
+     "29.7",
+     "31.6",
+     "33.1",
+     "**33.9**"
+    ],
+    [
+     "GOV growth",
+     "+25%",
+     "+39%",
+     "+37%",
+     "+36%",
+     "**+36%** (+23% ex-Deliveroo)"
+    ],
+    {
+     "cells": [
+      "Revenue",
+      "3,446",
+      "3,955",
+      "4,036",
+      "4,454",
+      "**4,616**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Revenue growth",
+     "+27%",
+     "+38%",
+     "+33%",
+     "+36%",
+     "**+34%**"
+    ],
+    [
+     "Net Revenue Margin (revenue ÷ GOV)",
+     "13.8%",
+     "13.3%",
+     "12.8%",
+     "13.5%",
+     "13.6%"
+    ],
+    [
+     "GAAP gross profit",
+     "1,689",
+     "1,911",
+     "1,944",
+     "2,223",
+     "2,311"
+    ],
+    [
+     "Contribution profit",
+     "1,268",
+     "1,405",
+     "1,380",
+     "1,641",
+     "**1,780**"
+    ],
+    [
+     "Contribution profit, % of GOV",
+     "5.1%",
+     "4.7%",
+     {
+      "v": "4.4%",
+      "cls": "neg"
+     },
+     "5.0%",
+     {
+      "v": "5.2%",
+      "cls": "pos"
+     }
+    ],
+    {
+     "cells": [
+      "Adjusted EBITDA",
+      "754",
+      "780",
+      "754",
+      "914",
+      "**1,060**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Adjusted EBITDA, % of GOV",
+     "3.0%",
+     "2.6%",
+     "2.4%",
+     "2.8%",
+     "3.1%"
+    ],
+    [
+     "GAAP net income",
+     "244",
+     "213",
+     "184",
+     "200",
+     "**466**"
+    ],
+    [
+     "Diluted shares (M)",
+     "442",
+     "443",
+     "442",
+     "439",
+     "440"
+    ]
+   ],
+   "note": "Source: [Q3 2026 release, key metrics table](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm); local extract in raw/DASH/press-releases. Q3 2026 guide was GOV $33.0–34.0B and adjusted EBITDA $950M–$1.1B; the Q4 guide is GOV $35.4–36.4B and adjusted EBITDA $900M–$1,100M. Built with Claude."
+  },
+  "drivers": {
+   "columns": [
+    "Per order, $",
+    "Q3 2025",
+    "Q3 2026",
+    "Change"
+   ],
+   "rows": [
+    [
+     "Total Orders (M)",
+     "776",
+     "**993**",
+     "+28%"
+    ],
+    [
+     "Marketplace GOV per order `[Derived]`",
+     "32.24",
+     "34.18",
+     "+6%"
+    ],
+    [
+     "Revenue per order",
+     "4.44",
+     "**4.65**",
+     "+5%"
+    ],
+    [
+     "GAAP gross profit per order",
+     "2.18",
+     "2.33",
+     "+7%"
+    ],
+    [
+     "Contribution profit per order",
+     "1.63",
+     "**1.79**",
+     "+10%"
+    ],
+    [
+     "Adjusted EBITDA per order",
+     "0.97",
+     "1.07",
+     "+10%"
+    ],
+    [
+     "Stock compensation per order",
+     "0.33",
+     "0.27",
+     "−18%"
+    ],
+    [
+     "Depreciation and amortization per order",
+     "0.22",
+     "0.31",
+     "+44%"
+    ],
+    {
+     "cells": [
+      "GAAP operating income per order",
+      "0.33",
+      "**0.45**",
+      "+34%"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Free cash flow per order",
+     "0.93",
+     "0.79",
+     {
+      "v": "−15%",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Customer, retention, CAC",
+     "n/d",
+     "n/d",
+     "MAUs and subscribers are reported yearly; mature-cohort order rates are described only as double-digit growth"
+    ]
+   ],
+   "note": "Unit of value: an order. Per-order figures are the quarter's total divided by Total Orders `[Derived]`; Total Orders includes Drive and other non-marketplace orders while GOV is marketplace only, so GOV per order slightly understates the marketplace basket. Source: [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm). Built with Claude."
+  },
+  "unit": {
+   "columns": [
+    "Orders per week a DashMart needs to break even",
+    "$5 contribution/order",
+    "$8",
+    "$11"
+   ],
+   "rows": [
+    [
+     "Annual fixed cost per site: $1.5M",
+     "5,800",
+     "3,600",
+     "2,600"
+    ],
+    [
+     "$2.5M",
+     "9,600",
+     "6,000",
+     "4,400"
+    ],
+    [
+     "$3.5M",
+     "13,500",
+     "8,400",
+     "6,100"
+    ],
+    {
+     "cells": [
+      "Reference: 100 sites, 3,000 orders a week each",
+      "≈3.9M orders a quarter",
+      "0.4% of Q3 orders",
+      "—"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Reference: 1% of Instacart's Q3 orders over 100 sites",
+     "≈700 more a week per site",
+     "a quarter of the 3,000 benchmark",
+     "—"
+    ]
+   ],
+   "note": "Illustrative. Breakeven orders per week = annual fixed cost ÷ (52 × contribution per order). DoorDash has never disclosed a DashMart's rent, labor, inventory cost or contribution per order, so every input is an assumption `[Estimate]`; the 3,000-a-week figure is the manual dark-store throughput MBI Deep Dives cites from McKinsey, not independently verified. Instacart's Q3 2026 orders are 91.4M ([Maplebear 8-K](https://www.sec.gov/Archives/edgar/data/0001579091/000119312526437014/d24470dex991.htm)). Source for the 100 sites: [DoorDash, Sep 30, 2025](https://about.doordash.com/en-us/news/doordash-unveils-dashmart-fulfillment-services); no later count has been disclosed. Built with Claude."
+  },
+  "rings": {
+   "columns": [
+    "Ring",
+    "~What it is",
+    "~Disclosed",
+    "~Exposure to the grocery and DashMart debate"
+   ],
+   "rows": [
+    [
+     "1. U.S. restaurants, DashPass, advertising",
+     "The core: orders, subscriptions and merchant advertising",
+     "U.S. revenue $10.2B of $13.1B in nine months (78%); U.S. restaurant GOV growth at its fastest for a third quarter since 2020; DashPass cut transaction fees per order 9% in two years",
+     "**Low.** Funds the bet; its margin is the best evidence that scale pays"
+    ],
+    [
+     "2. International",
+     "Wolt and Deliveroo",
+     "International revenue $2.9B in nine months (22%), $997M in Q3 vs $520M; profit contribution 'exceeded our expectations'",
+     "**Low.** Integration risk, not grocery risk"
+    ],
+    [
+     "3. U.S. grocery and retail marketplace",
+     "Third-party store orders",
+     "Grows at more than twice the U.S. restaurant rate; accuracy 'low 90s' on store-picked orders (Xu); size undisclosed",
+     "**High.** The product the deal is meant to improve"
+    ],
+    [
+     "4. DashMart and Fulfillment Services",
+     "Self-operated warehouses; third-party inventory",
+     "More than 100 sites (Sep 2025); 99%+ accuracy; no orders, revenue or cost; New Verticals 'close to breakeven' on gross profit",
+     "**Highest.** A fixed-cost layer; under about 2% of orders on generous assumptions `[Estimate]`"
+    ]
+   ],
+   "note": "DoorDash does not report profit by category or geography. Source: [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm), [Q3 2026 letter](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm), [Q3 2026 call](https://www.investing.com/news/transcripts/earnings-call-transcript-doordash-beats-q3-2026-estimates-as-shares-jump-6-93CH-4984252). Built with Claude."
+  },
+  "bridge": {
+   "columns": [
+    "$ Million",
+    "Q3 2025",
+    "Q3 2026",
+    "Change"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "Adjusted EBITDA",
+      "754",
+      "**1,060**",
+      "+41%"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Stock-based compensation",
+     "(258)",
+     "(268)",
+     "+4%"
+    ],
+    [
+     "Depreciation and amortization",
+     "(169)",
+     "(312)",
+     {
+      "v": "+85%",
+      "cls": "neg"
+     }
+    ],
+    [
+     "Other adjustments, residual `[Derived]`",
+     "(69)",
+     "(38)",
+     "—"
+    ],
+    {
+     "cells": [
+      "Income from operations",
+      "258",
+      "**442**",
+      "+71%"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Interest income and other, net",
+     "(10)",
+     "42",
+     "—"
+    ],
+    [
+     "Pre-tax income",
+     "248",
+     "484",
+     "+95%"
+    ],
+    [
+     "Income tax",
+     "(5)",
+     {
+      "v": "(19)",
+      "cls": "neg"
+     },
+     "3.9% rate"
+    ],
+    [
+     "Redeemable non-controlling interests",
+     "1",
+     "1",
+     "—"
+    ],
+    {
+     "cells": [
+      "Net income attributable to DoorDash",
+      "244",
+      "**466**",
+      "+91%"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Conversion of adjusted EBITDA to operating income",
+     "43%",
+     "42%",
+     "—"
+    ],
+    [
+     "Net income at a 21% tax rate `[Estimate]`",
+     "—",
+     "≈382",
+     "—"
+    ]
+   ],
+   "note": "Other adjustments are the residual between adjusted EBITDA less stock compensation and depreciation and amortization and GAAP operating income: payroll tax on stock compensation, legal, tax and regulatory items and restructuring. Q3 2025 other income included an $81M expense. Source: [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm). Built with Claude."
+  },
+  "deals": {
+   "columns": [
+    "Year",
+    "Deal",
+    "~Price and form",
+    "~What happened",
+    "Verdict"
+   ],
+   "rows": [
+    [
+     "2022",
+     "Wolt (Finland)",
+     "About $8B in stock at announcement `[link pending]`; closed May 31, 2022",
+     "Diluted shares +10% in 2022; international became a platform; Wolt is run alongside Deliveroo on a shared technology stack being unified in 2026",
+     "Mixed"
+    ],
+    [
+     "2025",
+     "SevenRooms",
+     "≈$1.2B",
+     "Restaurant software, folded into the merchant stack; no separate disclosure of results",
+     "Too early"
+    ],
+    [
+     "2025",
+     "Deliveroo (UK and Europe, Middle East)",
+     "≈$3.9B cash; cash paid for acquisitions $4.15B in FY2025 ([10-K](https://www.sec.gov/Archives/edgar/data/1792789/000179278926000013/dash-20251231.htm))",
+     "International revenue $1.32B (2024) → $2.26B (2025); Q3 2026 international growth 'accelerated'; ex-Deliveroo growth is the figure to watch",
+     "Good so far"
+    ],
+    [
+     "2026",
+     "Instacart (agreement Oct 28)",
+     "$65.00/share, ≈$17B; ≥75% cash",
+     "Closing not before end-2027; antitrust clearance outstanding",
+     "Unclear"
+    ]
+   ],
+   "note": "Source: [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1792789/000179278926000013/dash-20251231.htm), [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm). Wolt and SevenRooms prices are from memory of announcements and carry `[link pending]`. Built with Claude."
+  },
+  "capalloc": {
+   "columns": [
+    "$B, except per share",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "9M 2026",
+    "Cumulative"
+   ],
+   "rows": [
+    [
+     "Revenue",
+     "4.89",
+     "6.58",
+     "8.64",
+     "10.72",
+     "13.72",
+     "13.11",
+     "—"
+    ],
+    [
+     "Growth",
+     "+69%",
+     "+35%",
+     "+31%",
+     "+24%",
+     "+28%",
+     "+34%",
+     "—"
+    ],
+    [
+     "Diluted EPS (GAAP)",
+     {
+      "v": "−$1.39",
+      "cls": "neg"
+     },
+     {
+      "v": "−$3.68",
+      "cls": "neg"
+     },
+     {
+      "v": "−$1.42",
+      "cls": "neg"
+     },
+     "$0.29",
+     "$2.13",
+     "$1.93",
+     "—"
+    ],
+    [
+     "Operating cash flow",
+     "0.69",
+     "0.37",
+     "1.67",
+     "2.13",
+     "2.43",
+     "2.53",
+     "9.83"
+    ],
+    [
+     "Capex incl. capitalized software",
+     "0.24",
+     "0.35",
+     "0.32",
+     "0.33",
+     "0.61",
+     "0.58",
+     "2.43"
+    ],
+    {
+     "cells": [
+      "Free cash flow",
+      "0.46",
+      "0.02",
+      "1.35",
+      "1.80",
+      "1.83",
+      "1.95",
+      "**7.40**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Stock compensation",
+     "0.49",
+     "0.89",
+     "1.09",
+     "1.10",
+     "1.05",
+     "0.85",
+     "≈5.46"
+    ],
+    [
+     "FCF less stock compensation",
+     {
+      "v": "−0.03",
+      "cls": "neg"
+     },
+     {
+      "v": "−0.87",
+      "cls": "neg"
+     },
+     "0.26",
+     "0.70",
+     "0.78",
+     "1.10",
+     "**≈1.94**"
+    ],
+    [
+     "Buybacks",
+     "0",
+     "0.40",
+     "0.75",
+     "0.22",
+     "0",
+     "≈1.0",
+     "**≈2.37**"
+    ],
+    [
+     "Buybacks ÷ stock compensation",
+     "0",
+     "0.45×",
+     "0.69×",
+     "0.20×",
+     "0",
+     "≈1.2×",
+     "0.43×"
+    ],
+    [
+     "Acquisitions (cash)",
+     "0",
+     "(0.07)",
+     "0",
+     "0",
+     "4.15",
+     "0.06",
+     "≈4.14"
+    ],
+    [
+     "Debt (convertible notes)",
+     "0",
+     "0",
+     "0",
+     "0",
+     "2.72",
+     "2.73",
+     "—"
+    ],
+    [
+     "Diluted shares (M)",
+     "337",
+     "371",
+     "393",
+     "430",
+     "440",
+     "440 (Q3)",
+     "—"
+    ]
+   ],
+   "note": "FCF = operating cash flow − purchases of property and equipment − capitalized software `[Derived]` (the company's own definition). Cumulative column is FY2021 to 9M 2026. Buybacks in 9M 2026: 6.8M shares at a $155.25 average, about $1.0B ([10-Q](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm)); 2022 acquisitions were net cash acquired (Wolt was paid in stock). Source: [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001792789.json), [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1792789/000179278926000013/dash-20251231.htm), [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm). Built with Claude."
+  },
+  "incentives": {
+   "columns": [
+    "Component",
+    "Size",
+    "~What it pays for",
+    "~Status"
+   ],
+   "rows": [
+    [
+     "**CEO Performance Award**",
+     "10,379,000 performance-based RSUs granted Nov 2020; 9,341,100 still eligible at Sep 30, 2026",
+     "Stock-price goals; vesting also needs service",
+     "No unrecognized expense remains ([10-Q](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm))"
+    ],
+    [
+     "**Employee RSUs**",
+     "$2.5B unrecognized, over 2.69 years; $1.2B of stock compensation expected in 2026",
+     "Retention; time-vested",
+     "SBC ≈6.6% of trailing revenue"
+    ],
+    [
+     "**Annual cash bonus, other performance metrics**",
+     "Not read",
+     "—",
+     "DEF 14A not read in this pass (gap)"
+    ],
+    [
+     "**Return on invested capital**",
+     {
+      "v": "0% (not seen as a metric)",
+      "cls": "neg"
+     },
+     "—",
+     "Nothing read pays for it"
+    ]
+   ],
+   "note": "The proxy statement was not read in this pass, so weights for the named executives are a gap; the CEO award and RSU balances are from the Q3 10-Q. Source: [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm). Built with Claude."
+  },
+  "promises": {
+   "columns": [
+    "~Promised",
+    "Where, when",
+    "~Outcome"
+   ],
+   "rows": [
+    [
+     "DashMart is 'a strong signal [of] product market fit'; its costs are in guidance",
+     "Q2 2022 call, Aug 5, 2022 (then-CFO Adarkar)",
+     "🟡 Still no orders, revenue or cost disclosed in 2026; 'more than 100' sites in Sep 2025; the 2026 10-Q and letter call it a fixed-cost business needing scale"
+    ],
+    [
+     "New Verticals gross-profit positive in the second half of 2026",
+     "Q2 call, Aug 5, 2026 (CFO); reaffirmed Oct 29",
+     "⏳ 'Pretty close to being breakeven'; test 1"
+    ],
+    [
+     "Use the $5B buyback authorization",
+     "Authorized Feb 2025",
+     "🟡 $0 in 2025; 6.8M shares for about $1.0B in 9M 2026; none in Q3"
+    ],
+    [
+     "International: Deliveroo adds growth and profit",
+     "Q4 2025 letter, Feb 2026 (as cited in the prior page)",
+     "✅ International revenue $520M → $997M in Q3; profit contribution 'exceeded expectations'"
+    ]
+   ],
+   "note": "Guidance grade: **Consistent beater** against its own guide: adjusted EBITDA above the midpoint of the guided range in each of the last three quarters (Q1 $754M vs $675–775M, Q2 $914M vs $770–870M, Q3 $1,060M vs $950M–$1.1B). Source: [Q2 2022 call](https://www.fool.com/earnings/call-transcripts/2022/08/05/doordash-inc-dash-q2-2022-earnings-call-transcript/), [Q3 2026 call](https://www.investing.com/news/transcripts/earnings-call-transcript-doordash-beats-q3-2026-estimates-as-shares-jump-6-93CH-4984252), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm). Built with Claude."
+  },
+  "five_year": {
+   "columns": [
+    "$B, except per share",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "TTM Q3 2026"
+   ],
+   "rows": [
+    [
+     "Revenue",
+     "4.89",
+     "6.58",
+     "8.64",
+     "10.72",
+     "**13.72**",
+     "17.06"
+    ],
+    [
+     "Total Orders (M)",
+     "n/d",
+     "n/d",
+     "2,161",
+     "2,583",
+     "3,172",
+     "3,799"
+    ],
+    [
+     "Marketplace GOV",
+     "n/d",
+     "n/d",
+     "66.8",
+     "80.2",
+     "102.0",
+     "128.3"
+    ],
+    [
+     "Gross margin (revenue less cost of revenue ex-D&A)",
+     "n/d",
+     "n/d",
+     "46.9%",
+     "48.3%",
+     "50.9%",
+     "51.9%"
+    ],
+    [
+     "Operating income",
+     {
+      "v": "−0.45",
+      "cls": "neg"
+     },
+     {
+      "v": "−1.12",
+      "cls": "neg"
+     },
+     {
+      "v": "−0.58",
+      "cls": "neg"
+     },
+     {
+      "v": "−0.04",
+      "cls": "neg"
+     },
+     "**0.72**",
+     "0.90"
+    ],
+    [
+     "Operating margin",
+     {
+      "v": "−9.2%",
+      "cls": "neg"
+     },
+     {
+      "v": "−17.1%",
+      "cls": "neg"
+     },
+     {
+      "v": "−6.7%",
+      "cls": "neg"
+     },
+     {
+      "v": "−0.4%",
+      "cls": "neg"
+     },
+     "5.3%",
+     "5.3%"
+    ],
+    [
+     "Adjusted EBITDA",
+     "n/d",
+     "n/d",
+     "1.19",
+     "1.90",
+     "2.78",
+     "3.51"
+    ],
+    [
+     "Operating cash flow",
+     "0.69",
+     "0.37",
+     "1.67",
+     "2.13",
+     "2.43",
+     "2.95"
+    ],
+    {
+     "cells": [
+      "Free cash flow",
+      "0.46",
+      "0.02",
+      "1.35",
+      "1.80",
+      "**1.83**",
+      "**2.20**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Stock compensation",
+     "0.49",
+     "0.89",
+     "1.09",
+     "1.10",
+     "1.05",
+     "1.12"
+    ],
+    {
+     "cells": [
+      "**Owner earnings** (FCF − SBC)",
+      {
+       "v": "−0.03",
+       "cls": "neg"
+      },
+      {
+       "v": "−0.87",
+       "cls": "neg"
+      },
+      "0.26",
+      "0.70",
+      "**0.78**",
+      "**≈1.08**"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Owner earnings per diluted share",
+     "n/m",
+     "n/m",
+     "$0.66",
+     "$1.63",
+     "$1.76",
+     "≈$2.45"
+    ],
+    [
+     "SBC % of revenue",
+     "9.9%",
+     "13.5%",
+     "12.6%",
+     "10.3%",
+     "7.7%",
+     "6.6%"
+    ],
+    [
+     "SBC ÷ owner earnings",
+     "n/m",
+     "n/m",
+     "4.2×",
+     "1.6×",
+     "1.4×",
+     "1.0×"
+    ],
+    [
+     "FCF ÷ adjusted EBITDA (conversion)",
+     "n/d",
+     "n/d",
+     "113%",
+     "95%",
+     "66%",
+     "63%"
+    ],
+    [
+     "Diluted weighted shares (M)",
+     "337",
+     "371",
+     "393",
+     "430",
+     "440",
+     "440 (Q3)"
+    ],
+    [
+     "Net share change per year",
+     "n/m",
+     "+10%",
+     "+6%",
+     "+9%",
+     "+2%",
+     {
+      "v": "−0.3% (Q3 y/y)",
+      "cls": "pos"
+     }
+    ],
+    [
+     "Buybacks ÷ SBC",
+     "0",
+     "0.45×",
+     "0.69×",
+     "0.20×",
+     "0",
+     "≈1.2× (9M)"
+    ],
+    [
+     "Cash and investments",
+     "5.41",
+     "3.92",
+     "4.66",
+     "6.18",
+     "6.34",
+     "6.79"
+    ],
+    [
+     "Debt (0% convertible notes due May 2030)",
+     "0",
+     "0",
+     "0",
+     "0",
+     "2.72",
+     "2.73"
+    ],
+    [
+     "Net debt ÷ adjusted EBITDA",
+     "n/m",
+     "n/m",
+     "net cash",
+     "net cash",
+     "net cash (−1.3×)",
+     "net cash (−1.2×)"
+    ],
+    [
+     "Interest coverage",
+     "n/m",
+     "n/m",
+     "n/m",
+     "n/m",
+     "n/m (no cash coupon)",
+     "n/m"
+    ],
+    [
+     "Invested capital, operating `[Derived]`",
+     "0.66",
+     "3.35",
+     "2.67",
+     "2.16",
+     "6.98",
+     "7.23"
+    ],
+    [
+     "NOPAT (operating income × 79%) `[Derived]`",
+     {
+      "v": "−0.36",
+      "cls": "neg"
+     },
+     {
+      "v": "−0.89",
+      "cls": "neg"
+     },
+     {
+      "v": "−0.46",
+      "cls": "neg"
+     },
+     {
+      "v": "−0.03",
+      "cls": "neg"
+     },
+     "0.57",
+     "0.71"
+    ],
+    [
+     "ROIC (NOPAT ÷ year-end invested capital)",
+     "n/m",
+     "n/m",
+     "n/m",
+     "n/m",
+     "8.2%",
+     "9.8%"
+    ],
+    [
+     "3-year ROIIC",
+     "",
+     "",
+     "",
+     "",
+     "40% (FY22→FY25)",
+     "26% (FY23→TTM)"
+    ],
+    [
+     "Capex incl. software ÷ NOPAT (reinvestment rate, ex-M&A)",
+     "n/m",
+     "n/m",
+     "n/m",
+     "n/m",
+     "106%",
+     "106%"
+    ]
+   ],
+   "note": "Cycle position: not cyclical in the usual sense; order frequency is somewhat elastic to consumer spending. Invested capital = equity + debt + operating leases − cash and short- and long-term investments `[Derived]`; NOPAT uses a notional 21% tax because cash taxes are negligible. ROIC is under 10% and the 3-year ROIIC is flattered by a recovery from losses and by Deliveroo, so DoorDash does not meet the compounder test (ROIC ≥ 20%). The implied organic growth (ROIIC × reinvestment rate) of 26–40% overstates the 23% ex-Deliveroo growth for the same reason. TTM = Q4 2025 plus the first three quarters of 2026. GOV and orders for FY2021–22 and adjusted EBITDA before FY2023 were not rebuilt (n/d). Source: [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001792789.json), [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1792789/000179278926000013/dash-20251231.htm), [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm). Built with Claude."
+  },
+  "levers": {
+   "columns": [
+    "Lever",
+    "~Contribution now",
+    "Runway",
+    "~Evidence",
+    "~Management intent",
+    "Stage"
+   ],
+   "rows": [
+    [
+     "Market growth",
+     "Local delivery category",
+     "10+ yrs",
+     "U.S. restaurant GOV growth accelerated slightly in Q3",
+     "'Grocery delivery is still early in its adoption'",
+     "Proven"
+    ],
+    [
+     "Share gain",
+     "Not disclosed",
+     "5+ yrs",
+     "Not re-measured this pass; prior page cited ≈66% of U.S. food delivery (Bloomberg Second Measure)",
+     "Keep investing in product",
+     "Proven (U.S.)"
+    ],
+    [
+     "Price and mix",
+     "DashPass cut transaction fees per order 9% in two years",
+     "3–5 yrs",
+     "Net Revenue Margin 13.6% vs 13.8%",
+     "Lower consumer costs, reinvest",
+     "Proven"
+    ],
+    [
+     "Attach / new products",
+     "U.S. grocery and retail GOV growing at >2× restaurants",
+     "5+ yrs",
+     "Reservations +340% Q/Q in existing geographies; ads and autonomy not sized in the Q3 materials",
+     "Merchant services, AI, autonomy",
+     "Scaling"
+    ],
+    [
+     "New geographies",
+     "International revenue $997M vs $520M",
+     "5+ yrs",
+     "Deliveroo and Wolt accelerated Y/Y in Q3",
+     "Diffuse operating insights",
+     "Scaling"
+    ],
+    [
+     "M&A",
+     "Instacart ≈$17B, not before end-2027",
+     "—",
+     "$500M+ synergies net of investment, >100% reinvested in year one",
+     "'Play offense' (Xu)",
+     "**Option** (not in the cases)"
+    ],
+    [
+     "Margin",
+     "Contribution profit 4.4% → 5.2% of GOV in two quarters",
+     "3–5 yrs",
+     "Operating income per order +34% Y/Y",
+     "Reinvest part of the profit",
+     "Proven; the Base's main lever"
+    ],
+    [
+     "Share count",
+     "Net −0.3% Y/Y; deal adds ≤5.5%",
+     "—",
+     "Buyback $1.0B in 9M, none in Q3",
+     "'Opportunistic' buybacks (CFO)",
+     "Neutral"
+    ]
+   ],
+   "note": "Adjacency test: grocery and retail share customers and the Dasher network with the core; DashMart shares the network but adds a fixed-cost asset base. Source: [Q3 2026 letter](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm), [Q3 2026 call](https://www.investing.com/news/transcripts/earnings-call-transcript-doordash-beats-q3-2026-estimates-as-shares-jump-6-93CH-4984252). Built with Claude."
+  },
+  "moat": {
+   "columns": [
+    "Read",
+    "Call",
+    "~Evidence"
+   ],
+   "rows": [
+    [
+     "Mechanism",
+     "**Network economies** (consumers, merchants and Dashers on one platform) plus **scale economies** in delivery density; **switching costs** through DashPass",
+     "Orders density lowers fulfillment cost; Instacart's volume is sought for 'density across the grocery store network'"
+    ],
+    [
+     "Trend",
+     "**Stable**; grocery unproven",
+     "U.S. restaurant growth accelerated; DashPass growth; grocery accuracy gap is claimed by the company, not measured outside it"
+    ],
+    [
+     "Profit pool",
+     "DoorDash keeps about 13.6% of GOV as revenue and 5.2% as contribution profit; the rest goes to merchants and Dashers",
+     "Scale economies shared: the 9% fall in transaction fees per order over two years went to consumers; Dasher pay is the variable cost"
+    ],
+    [
+     "Customer",
+     "Consumers who want local delivery in minutes; merchants who want demand without building it",
+     "Mature-cohort order rates up double digits (letter); retention, CAC and LTV not disclosed"
+    ]
+   ],
+   "note": "7 Powers vocabulary (Helmer). Source: [Q3 2026 letter](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm). Built with Claude."
+  },
+  "competitors": {
+   "columns": [
+    "Competitor",
+    "~What they do",
+    "~Read"
+   ],
+   "rows": [
+    [
+     "Uber Eats / Uber One",
+     "U.S. delivery number two with a rides-and-delivery membership",
+     "Named by DoorDash's 10-Q among its competitors; no comparable U.S. warehouse business (MBI quoting Uber's CFO, not verified)"
+    ],
+    [
+     "Amazon, Walmart",
+     "Own logistics, grocery and membership",
+     "Named by Xu as 'the world's biggest companies'; the 10-Q lists Amazon; heavy investment in grocery fulfillment (call summary)"
+    ],
+    [
+     "Instacart (Maplebear)",
+     "U.S. grocery marketplace and enterprise software; Q3 orders 91.4M (+10%), GTV $10.5B (+15%)",
+     "To be acquired; trades below the offer"
+    ],
+    [
+     "Prosus / Delivery Hero and local incumbents",
+     "International delivery",
+     "Named in the 10-Q; relevant to the international case"
+    ]
+   ],
+   "note": "Share data are not re-measured here. Source: [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm), [Maplebear Q3 2026 8-K](https://www.sec.gov/Archives/edgar/data/0001579091/000119312526437014/d24470dex991.htm), [Q3 2026 call](https://www.investing.com/news/transcripts/earnings-call-transcript-doordash-beats-q3-2026-estimates-as-shares-jump-6-93CH-4984252). Built with Claude."
+  },
+  "risks": {
+   "columns": [
+    "~Risk",
+    "Impact",
+    "Prob.",
+    "~Priced in?",
+    "~Would break the thesis if…"
+   ],
+   "rows": [
+    [
+     "⚠️ **Instacart: price, financing and integration** (≥$12.75B cash, ≤5.5% dilution, >100% of synergies reinvested in year one, close not before end-2027)",
+     "High",
+     "Med",
+     "**No**: not in my cases; value-neutral by assumption",
+     "Rating loses investment grade, stock above the 25% cap, or a remedy changes the deal (test 3)"
+    ],
+    [
+     "⚠️ **DashMart fixed costs**: volume may not cover them, as in 2022; undisclosed",
+     "Med",
+     "Med",
+     "**No**",
+     "New Verticals still not gross-profit positive in the Q4 letter (test 1)"
+    ],
+    [
+     "⚠️ **GAAP earnings quality**: SBC 6.6% of revenue, D&A up 85%, a 4% tax rate",
+     "High",
+     "Live",
+     "**Partly**: the model charges SBC and taxes at 21% by 2031",
+     "Operating margin below 6% for FY2026 (test 2)"
+    ],
+    [
+     "Gig-worker reclassification (federal or international)",
+     "Critical",
+     "10%",
+     "Partly",
+     "Would end the variable-cost Dasher model; prior page's regulatory read not re-verified"
+    ],
+    [
+     "Uber One and Amazon bundling",
+     "Med-High",
+     "30%",
+     "Partly",
+     "U.S. share below 60% for two quarters"
+    ],
+    [
+     "Commission caps (city, state, national)",
+     "Med",
+     "35%",
+     "Partly",
+     "A national cap on take rate"
+    ],
+    [
+     "Autonomy execution and liability (Dot, DoorDash Air)",
+     "Med",
+     "20%",
+     "No",
+     "A grounding or Dot safety incident (prior page, Aug 2026)"
+    ],
+    [
+     "Consumer slowdown",
+     "Med-High",
+     "25%",
+     "Partly",
+     "Order growth below 20% ex-Deliveroo"
+    ],
+    [
+     "Founder and dual-class control",
+     "Low",
+     "Certain",
+     "Yes",
+     "—"
+    ]
+   ],
+   "note": "Filtered for materiality. The Q3 10-Q risk factor on self-operated businesses now also covers fulfillment services for third-party merchants; it was not diffed against the FY2025 10-K (logged in raw/DASH/SOURCES.md). Source: [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm), [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm). Built with Claude."
+  },
+  "catalysts": {
+   "columns": [
+    "Date",
+    "Catalyst",
+    "~Why it matters"
+   ],
+   "rows": [
+    [
+     "✅ Oct 28–29",
+     "Q3 results and the Instacart agreement",
+     "Scored in the update above"
+    ],
+    [
+     "📅 About mid-Feb 2027 `[Est.]`",
+     "Q4 results, FY2027 guide, FY2026 10-K",
+     "Tests 1 and 2; first guide with Instacart in view; the date is not yet announced"
+    ],
+    [
+     "📅 2027 (dates TBD)",
+     "Instacart stockholder vote, U.S. antitrust review, Canada and Israel approvals",
+     "Test 3; holders of about 19% of Instacart have agreed to vote in favor"
+    ],
+    [
+     "📅 Year-end 2026",
+     "New Verticals gross profit positive; Dot at a high-single-digit share of Phoenix orders (prior page)",
+     "Test 1; autonomy milestone"
+    ],
+    [
+     "📅 End-2027 or 1H 2028",
+     "Expected Instacart close",
+     "Bridge refinancing and the first synergy year"
+    ]
+   ],
+   "note": "Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm), [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm). Built with Claude."
+  },
+  "sentiment": {
+   "columns": [
+    "Signal",
+    "~Read"
+   ],
+   "rows": [
+    [
+     "Price",
+     "$178.26 at the Nov 11 close; 52-week range $143.30–$239.00; market cap ≈$77.7B; was $233.50 on Aug 26, −24%"
+    ],
+    [
+     "Analysts",
+     "After the Oct 29 print: Wedbush upgraded to Outperform, target $230; Wells Fargo Equal Weight $200; Needham Buy $235; UBS $213; BofA Buy $257 `[Analyst consensus]`. Aggregators show a mean target near $249 and roughly 41 of 51 Buy ratings, via search snippets, not verified"
+    ],
+    [
+     "Short interest",
+     "Not read this pass (gap)"
+    ],
+    [
+     "Insiders (90 days)",
+     "Form 4s not read this pass (gap)"
+    ],
+    [
+     "Appearances (Aug 26 – Nov 12)",
+     "Q3 call Oct 29 (Xu, Inukonda); an internal Q&A on the deal filed with the SEC; no podcast or conference transcript found for Xu in the window. No later events page was read (gap)"
+    ],
+    [
+     "BAIT",
+     "Double (B+A), Low-Moderate: the stock fell 24% on a deal and dilution concern while the quarter beat; the informational and technical edges are thin"
+    ]
+   ],
+   "note": "Context only; none of it moves a verb. Source: [Yahoo Finance](https://finance.yahoo.com/quote/DASH/), [Investing.com analyst actions](https://www.investing.com/news/analyst-ratings/wedbush-upgrades-doordash-stock-rating-on-instacart-deal-93CH-4987677), [TradingView/StockTwits](https://www.tradingview.com/news/stocktwits:3896bdf71094b:0-doordash-s-17b-instacart-deal-draws-significant-street-attention-a-look-at-what-analysts-have-to-say/). Built with Claude."
+  }
+ },
+ "charts": {
+  "since_ipo": {
+   "type": "line",
+   "file": "series/since_ipo.json",
+   "baseline": 100,
+   "yTicks": [
+    0,
+    50,
+    100,
+    150,
+    200,
+    250
+   ],
+   "tableEvery": 52,
+   "names": {
+    "DASH": "DoorDash"
+   },
+   "aria": "Total return index from December 10, 2020 = 100 for DoorDash, Uber and the S&P 500",
+   "note": "Total return, weekly, December 10, 2020 = 100, through November 11, 2026. DoorDash closed at $186.00 on December 10, 2020; its weekly index high was 145.8 in the week of October 3, 2025 and its low 23.2 in October 2022. Source: Yahoo Finance adjusted closes. Built with Claude."
+  },
+  "rev_mix": {
+   "type": "bar100",
+   "keys": [
+    "United States",
+    "International"
+   ],
+   "unit": "$M",
+   "valueLabel": "Revenue",
+   "prefix": "$",
+   "suffix": "M",
+   "rows": [
+    {
+     "label": "FY2023",
+     "values": [
+      7781,
+      854
+     ]
+    },
+    {
+     "label": "FY2024",
+     "values": [
+      9403,
+      1319
+     ]
+    },
+    {
+     "label": "FY2025",
+     "values": [
+      11460,
+      2257
+     ]
+    },
+    {
+     "label": "9M 2026",
+     "values": [
+      10180,
+      2926
+     ]
+    },
+    {
+     "label": "Q3 2026",
+     "values": [
+      3619,
+      997
+     ]
+    }
+   ],
+   "aria": "Share of revenue, United States and International, FY2023 to Q3 2026",
+   "note": "Share of revenue by geography. Source: [FY2025 10-K](https://www.sec.gov/Archives/edgar/data/1792789/000179278926000013/dash-20251231.htm), [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm). Built with Claude."
+  }
+ },
+ "return_math": {
+  "compounding": "Base GAAP EPS compounds from ≈$2.83 in FY2026 to [[Base.eps]] in FY2031, [[Base.cagr]] a year, with no dividend: that is the compounding rate at a flat multiple, and it is high because FY2026 is a thin-margin base (operating margin ≈7%) that the Base takes to ≈15%. Re-rating takes about 22 points a year off the Base return, because the exit at 24× is far below today's ≈63× FY2026 GAAP EPS. All of the gap to the hurdle is the multiple.",
+  "price_implied": "At 9%, spot needs GAAP EPS of [[Priced-in.eps]] in FY2031 at 24×: revenue near $38B and an operating margin near 17%, between my Base and Bull. At 13% it needs [[Hurdle.eps]].",
+  "epv": "Earnings power today is thin on GAAP numbers: TTM operating income of $0.90B taxed at 21% is ≈$0.71B, or ≈$8B capitalized at 9%, plus ≈$4.1B of net cash: ≈$12B, about $28 a share. On adjusted EBITDA less stock compensation and about $0.75B of capex, taxed at 21%, it is ≈$18B, about $42 a share. Neither is a floor for a business that is reinvesting for growth; both show how much of the $178 is growth.",
+  "base_rate": "Revenue of ≈$18B sits in the $12–25B bucket. The Base's 15% nominal growth (≈12.5% real) was achieved over five years by about 15% of companies this size; the Bull's 19% (≈16.5% real) by about 7%. Credit Suisse HOLT, 1950–2015, ([Base Rate Book](https://sorfis.com/wp-content/uploads/2021/09/The-Base-Rate-Book-Integrating-the-Past-to-Better-Anticipate-the-Future-September-2016.pdf)); survivorship makes the true odds somewhat lower.",
+  "terminal_growth": "Implied perpetual growth on GAAP earnings at 9%: Bull [[Bull.g]], Base [[Base.g]], Bear [[Bear.g]], against a 4.88% ten-year Treasury yield (FRED, Nov 9, 2026). The Bull sits above it, so it is a stretch case.",
+  "year_ten": "Still growing at about 10% a year at the end of the Base, and the exit multiple assumes that continues into year ten; if growth falls to mid-single digits the multiple is doing the work.",
+  "rr_note": " The downside is share loss plus an unearned Instacart price at a normal multiple, not a broken business.",
+  "note": "Computed rows come from model.json. Segment margin rows are gross margins after cost of revenue (excluding D&A), applied equally to both geographies `[Estimate]`; 'Corporate and other' is all other operating expense, D&A and restructuring. The Instacart acquisition is not in any case."
+ },
+ "sources": [
+  {
+   "label": "Q3 2026 release and shareholder letter (8-K Ex. 99.1, Oct 29, 2026)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm"
+  },
+  {
+   "label": "Q3 2026 letter extract",
+   "url": "../../../raw/DASH/shareholder-letters/2026-Q3_letter_DashMart_extract.txt"
+  },
+  {
+   "label": "Q3 2026 key-metrics extract",
+   "url": "../../../raw/DASH/press-releases/2026-10-29_Q3-2026_metrics_extract.txt"
+  },
+  {
+   "label": "Q3 2026 10-Q",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm"
+  },
+  {
+   "label": "Q3 2026 10-Q extract",
+   "url": "../../../raw/DASH/filings/2026-Q3_10-Q_DashMart_extract.txt"
+  },
+  {
+   "label": "Q3 2026 earnings call (Investing.com)",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-doordash-beats-q3-2026-estimates-as-shares-jump-6-93CH-4984252"
+  },
+  {
+   "label": "Q3 2026 call extract",
+   "url": "../../../raw/DASH/transcripts/2026-10-29_Q3-2026_call_DashMart_extract.txt"
+  },
+  {
+   "label": "FY2025 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792789/000179278926000013/dash-20251231.htm"
+  },
+  {
+   "label": "SEC XBRL company facts",
+   "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001792789.json"
+  },
+  {
+   "label": "DashMart Fulfillment Services launch (Sep 30, 2025)",
+   "url": "https://about.doordash.com/en-us/news/doordash-unveils-dashmart-fulfillment-services"
+  },
+  {
+   "label": "Q2 2022 earnings call (Motley Fool)",
+   "url": "https://www.fool.com/earnings/call-transcripts/2022/08/05/doordash-inc-dash-q2-2022-earnings-call-transcript/"
+  },
+  {
+   "label": "Maplebear (Instacart) Q3 2026 8-K Ex. 99.1",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001579091/000119312526437014/d24470dex991.htm"
+  },
+  {
+   "label": "MBI Deep Dives: DashMart",
+   "url": "https://www.mbi-deepdives.com/dashmart/"
+  },
+  {
+   "label": "Investing.com: Jefferies cuts Instacart rating (Instacart ≈$57)",
+   "url": "https://www.investing.com/news/analyst-ratings/jefferies-cuts-instacart-stock-rating-on-doordash-acquisition-deal-93CH-4985270"
+  },
+  {
+   "label": "Investing.com: Wedbush upgrades DoorDash",
+   "url": "https://www.investing.com/news/analyst-ratings/wedbush-upgrades-doordash-stock-rating-on-instacart-deal-93CH-4987677"
+  },
+  {
+   "label": "Yahoo Finance: DASH quote",
+   "url": "https://finance.yahoo.com/quote/DASH/"
+  },
+  {
+   "label": "FRED: 10-year Treasury yield (DGS10)",
+   "url": "https://fred.stlouisfed.org/series/DGS10"
+  },
+  {
+   "label": "Prior page: DoorDash, Aug 26, 2026 (git history)",
+   "url": "https://github.com/kgajjala/rwh/blob/ec68fc0/wiki/tickers/DASH/DASH.md"
+  },
+  {
+   "label": "Source gaps log",
+   "url": "../../../raw/DASH/SOURCES.md"
+  }
+ ],
+ "vars": {}
+}

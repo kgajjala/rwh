@@ -1,0 +1,18 @@
+EXTRACT — DoorDash Q3 2026 results release (8-K Ex. 99.1, Oct 29, 2026), key metrics table and first-page text
+Source: https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm  (captured 2026-11-12)
+
+Quarter ended:            Sep 25    Dec 25    Mar 26    Jun 26    Sep 26
+Total Orders (M):          776       903       933       970       993      (Y/Y +21% +32% +27% +27% +28%)
+Marketplace GOV ($M):    25,015    29,683    31,604    33,078    33,941     (Y/Y +25% +39% +37% +36% +36%)
+Revenue ($M):             3,446     3,955     4,036     4,454     4,616     (Y/Y +27% +38% +33% +36% +34%)
+Net Revenue Margin:       13.8%     13.3%     12.8%     13.5%     13.6%
+GAAP gross profit ($M):   1,689     1,911     1,944     2,223     2,311
+Contribution Profit ($M): 1,268     1,405     1,380     1,641     1,780     (5.1% 4.7% 4.4% 5.0% 5.2% of GOV)
+GAAP net income ($M):       244       213       184       200       466
+Adjusted EBITDA ($M):       754       780       754       914     1,060     (3.0% 2.6% 2.4% 2.8% 3.1% of GOV)
+Diluted shares (M):         442       443       442       439       440
+
+Q3 2026 ex-Deliveroo: Total Orders +17% Y/Y, Marketplace GOV +23%, revenue +23%. "Beginning in Q4 2026, we intend to stop disclosing quarterly results excluding Deliveroo."
+Q3: "growth in the U.S. restaurant category ... grew faster in Q3 2026 than in any third quarter since Q3 2020"; DashPass growth "has helped drive a 9% reduction in transaction fees per order in the U.S. restaurant category" over two years; international: "contributions to total profitability that exceeded our expectations entering the quarter."
+Q4 2026 outlook: Marketplace GOV $35.4-36.4B; Adjusted EBITDA $900M-$1,100M. Prior (Q3) guide: GOV $33.0-34.0B; Adj EBITDA $950M-$1.1B.
+FY2025 (10-K): Total Orders 3,172M; Marketplace GOV $102.0B; revenue $13,717M; Adj EBITDA $2,779M; net income $935M. U.S. revenue $11,460M, International $2,257M (FY2025); $9,403M / $1,319M (FY2024); $7,781M / $854M (FY2023).

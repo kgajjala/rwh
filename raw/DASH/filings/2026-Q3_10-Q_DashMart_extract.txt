@@ -16,3 +16,12 @@ Acquisitions, net of cash acquired: $(1,198)M | $(58)M
 
 --- Subsequent event: Instacart ---
 2026-10-28 definitive agreement to acquire Instacart: $65.00 per share, equity value ~ $17B. Per-share election: (i) $65.00 cash, (ii) 0.3372 DASH shares, or (iii) $48.75 cash + 0.0843 DASH shares; total stock consideration capped at 25% of aggregate consideration, proration applies. Conditions include Instacart stockholder approval, HSR expiry, other regulatory approvals incl. Canada and Israel. Financing: 364-day senior unsecured bridge term loan up to $13.0B (JPMorgan commitment) per 10-Q.
+
+--- Additional lines captured 2026-11-12 for the v7 migration ---
+MD&A: "In the third quarter of 2026, we generated net cash provided by operating activities of $994 million and Free Cash Flow of $787 million, up from $871 million and $723 million, respectively, in the same quarter of 2025."
+Liquidity: cash, cash equivalents and investments $6.8B (cash $5.1B, short-term investments $929M, long-term investments $805M); funds held at payment processors $660M.
+Balance sheet Sep 30, 2026: convertible notes (2030 Notes, 0% coupon) $2,728M; operating lease liabilities $104M current + $466M non-current; equity $10,717M; 411,954K Class A + 24,006K Class B shares outstanding.
+Income statement Q3 2026 vs Q3 2025: revenue $4,616M vs $3,446M; cost of revenue ex-D&A $2,171M vs $1,687M; S&M $765M vs $576M; R&D $499M vs $355M; G&A $426M vs $400M; D&A $312M vs $169M; income from operations $442M vs $258M; tax provision $19M on $484M pre-tax; net income attributable $466M vs $244M; diluted shares 440.3M vs 441.8M. 9M 2026: revenue $13,106M, operating income $749M, net income $850M, SBC $847M (cash-flow statement).
+Revenue by geography, Q3: U.S. $3,619M (2025: $2,926M); International $997M ($520M). 9M: U.S. $10,180M ($8,411M); International $2,926M ($1,351M).
+Share repurchases: 9M 2026 6.8M shares at a $155.25 weighted average, ~$1.0B, retired; none in Q3 2026. Program: $5.0B authorized Feb 2025 (inclusive of $876M remaining from the Feb 2024 program).
+CEO Performance Award: 10,379,000 PSUs granted Nov 2020, 9,341,100 still eligible to vest at Sep 30, 2026 on stock-price goals; no unrecognized expense remains. $2.5B unrecognized RSU expense over 2.69 years.

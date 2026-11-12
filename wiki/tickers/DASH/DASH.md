@@ -5,6 +5,7 @@
 > **Status**: Active
 > **Live Price Verified**: **$233.50** at Aug 26, 2026 (+26.5% since Jun 30 baseline) ([Yahoo Finance](https://finance.yahoo.com/quote/DASH))
 > **Ticker Type**: Three-sided marketplace
+> **2026-11-12 addendum**: §5A (DashMart) added from Q3 2026 filings and call. Price, verdict, scenarios and zones in this page are still the 2026-08-26 set and predate Q3 2026 and the Instacart agreement (Oct 28); not re-underwritten.
 
 ---
 
@@ -342,6 +343,97 @@ This subsection synthesizes 6 years of Tony Xu's primary-source CEO communicatio
 6. **SevenRooms**: restaurant CRM, reservations, and loyalty — merchant stickiness plus SaaS revenue at 70%+ gross margin; already integrated into Deliveroo's in-app reservations.
 7. **Unified global tech stack**: "several hundred million" of 2026 spend consolidating DoorDash + Wolt + Deliveroo, with a smaller tail into 2027. Q2 demonstrated the platform can absorb this and still beat the EBITDA guide.
 8. **"Ask DoorDash" AI ordering assistant**: DoorDash's answer to agentic-commerce disintermediation — owning the conversational interface rather than being scraped through it (§10).
+9. **DashMart and the $17B Instacart bid** (Oct 28–29, 2026): the company's stated route to "perfect grocery delivery" — see §5A.
+
+## Section 5A — DashMart: Inventory, Fulfillment Services and the Instacart Bet
+
+*Added 2026-11-12 from the Q3 2026 10-Q, shareholder letter and call, and reconciled against [MBI Deep Dives' DashMart analysis](https://www.mbi-deepdives.com/dashmart/). The valuation sections of this page (§8, §11–§13) are still the 2026-08-26 set and do not yet reflect Q3 2026 or Instacart; see the last paragraph of this section.*
+
+### What DashMart is, and what DoorDash tells us about it
+
+DashMart is the one place in U.S. delivery where DoorDash holds inventory. Small, closed-to-the-public warehouses are leased, stocked and staffed by DoorDash, and orders are picked by employees rather than by a gig shopper walking a store. The Q3 letter dates the project to "five years ago." On **Sep 30, 2025** it became **DashMart Fulfillment Services**: retailers keep ownership of the goods, DoorDash stores, picks and delivers them. [CVS and Party City launched first, Kroger was named as joining, and DoorDash cited more than 100 DashMart locations](https://about.doordash.com/en-us/news/doordash-unveils-dashmart-fulfillment-services). The Q3 2026 letter adds **Giant Eagle and Albertsons** and "thousands of high-quality products." Wolt runs the same model as Wolt Fulfillment inside its Wolt Market stores.
+
+The disclosure is thin, and the thinness is the first finding:
+
+| Item | Disclosed? | Latest |
+|---|---|---|
+| Store count | Once | ">100" (Sep 2025); no update in the Q3 2026 letter, call or 10-Q |
+| Orders, GOV, revenue, margin | No | Folded into Marketplace and "New Verticals" |
+| Capex / inventory / lease cost | No | Not broken out; 9M-2026 purchases of PP&E were **$208M** vs. $203M in 9M-2025 [10-Q] |
+| Quality | Yes, DoorDash-reported | **99%+ fulfillment accuracy** and **>10 min faster** (Q3 2026 letter, footnotes 8–9) |
+| Profit | Indirectly | New Verticals "pretty close to breakeven" on gross profit; the target is positive **by end-2026** (Inukonda, Q3 call) |
+
+**The quality claim is real but narrower than it reads.** Footnote 8 measures accuracy for DashMart orders only. Footnote 9 compares DashMart delivery time with "all other grocery orders in the U.S. geographies with an active DashMart store", so it is a same-market comparison but not a same-basket one: a DashMart carries a few thousand pre-selected items, a store-picked order can be anything. The comparison number, "low 90s" for third-party-store accuracy, is Tony Xu's spoken figure on the Q3 call, not a footnoted metric. I treat the gap as directionally credible and unmeasured for like-for-like baskets.
+
+### Management's own words: the fixed-cost admission
+
+Management is unusually direct that this is the hard part:
+
+> "Managing inventory inside a warehouse is a fixed cost business. Scale is a necessary (though insufficient) input into helping lower costs. This is one of the reasons we're attracted to Instacart, as it adds scale that is unique to our network." — Q3 2026 shareholder letter, Oct 29, 2026
+
+> "That is the vision of DashMart, but it is a sequencing process." — Tony Xu, Q3 2026 call, answering Raymond James on how large the footprint must grow
+
+Xu's sequence: (1) day one after close, Instacart's orders add density to the network; (2) that scale lowers the per-order cost of running warehouses; (3) more SKUs per site; (4) eventually "bring every single store... to you in minutes." On footprint he says the real estate is "already designed for us": the grocer's store becomes the "showroom" and DoorDash builds "the correct square footage as the warehouse or the back-of-house." In other words, he is not describing thousands of DoorDash-leased sites. The Q3 10-Q backs the caution: DoorDash "may not be able to generate a sufficient number of orders to cover our fixed costs," and it adds that leveraging self-operated locations "to enable fulfillment services on behalf of third-party merchants... has required, and is expected to continue requiring, additional investment and operational enhancements."
+
+The history shows why that sentence is in the filing. On the Q2 2022 call, then-CFO Prabir Adarkar said ["roughly half of the increase in cost of sales as a percentage of GOV is driven by DashMart"](https://www.fool.com/earnings/call-transcripts/2022/08/05/doordash-inc-dash-q2-2022-earnings-call-transcript/) as sites launched ahead of volume. DashMart lost money when volume lagged rent and labor once before.
+
+### How big is it? Small, and that is the point
+
+DoorDash does not say, so I bound it. At the Sep 2025 count of ~100 sites, an assumed 3,000 orders per site per week (the dark-store throughput range MBI cites from McKinsey, not independently verified) and 13 weeks, that is ≈**3.9M orders a quarter, ≈0.4% of Q3's 993M Total Orders**. Doubling the site count and the throughput takes it to ≈1.6%. At a $60 basket (assumption) ≈$0.2B a quarter against $33.9B of Marketplace GOV [Derived, Illustrative]. DashMart cannot move consolidated EBITDA ($1.06B in Q3) in either direction, and the 9M capex figure above caps what the whole company spent on property and equipment. **The reason to study DashMart is what it does to grocery retention and to the Instacart price, not its own P&L.**
+
+What it would take for a single site to pay, by formula: breakeven orders per week = annual fixed cost ÷ (52 × contribution per order). Both inputs are unknown; the grid is scale-setting, not an estimate.
+
+| Annual fixed cost per site | $5 contribution/order | $8 | $11 |
+|---|---|---|---|
+| $1.5M | 5,800/wk | 3,600 | 2,600 |
+| $2.5M | 9,600 | 6,000 | 4,400 |
+| $3.5M | 13,500 | 8,400 | 6,100 |
+
+*[Assumption] — no public DashMart cost data; compare with the 2,400–3,000/wk benchmark above.* A site at benchmark throughput clears only with low fixed cost and high contribution per order. That is why management keeps pointing at density.
+
+### Instacart: what the deal does for DashMart, and what it costs
+
+| | |
+|---|---|
+| Price | **$65.00/share, ≈$17B equity**; election of cash, 0.3372 DASH shares, or $48.75 + 0.0843 shares; stock capped at 25% (10-Q) |
+| Cash needed | ≥75% ≈ **≥$12.75B**; JPMorgan bridge up to **$13.0B**; closing late 2027 or 1H 2028 (press coverage) |
+| Dilution | ≤$4.25B stock ÷ $178.26 ≈ **24M shares ≈ 5.5%** of ≈436M [Derived] |
+| What Instacart is | Q3 2026: 91.4M orders (+10%), GTV $10.5B (+15%), Adj EBITDA $342M (+23%) ([Maplebear 8-K](https://www.sec.gov/Archives/edgar/data/0001579091/000119312526437014/d24470dex991.htm)); ≈31% of DoorDash's Marketplace GOV, ≈9% of its orders. $17B ≈ 12× annualized Q3 Adj EBITDA [Derived] |
+| Synergies | "$500 million or more of annual synergies, net of investments," with **more than 100%** reinvested in year one, positive net synergies from year two |
+
+Three readings:
+
+1. **The synergy case is not mainly DashMart.** Inukonda's blocks were cross-listing, CPG advertising, cross-selling software, Dasher/shopper density and opex. DashMart appears as the product that benefits from density and as a cross-sell. Xu's wording, orders "unique to our network", is about volume DoorDash cannot get itself.
+2. **The throughput arithmetic is workable but modest.** Routing 1% of Instacart's 91.4M quarterly orders through 100 sites adds ≈700 orders/week each [Derived], a quarter of the benchmark and far short of the breakeven grid's middle rows. Instacart's $115 average basket also tells me much of its volume is large stock-up baskets that a few-thousand-SKU site cannot fill. Density has to come with the model changing, not just more orders: hence "showroom plus back-of-house."
+3. **The deal is a far larger bet than the program it is meant to rescue.** ≈$17B of equity value, a $13B bridge and 5.5% dilution, set against a buyback that had executed $1.05B through Q2 (§4). Q4 is guided at Adj EBITDA **$900M–$1.1B**, a midpoint below Q3's $1.06B actual, while management says it will reinvest over 100% of synergies in year one. Near-term EBITDA is where this shows first.
+
+### How this compares to MBI Deep Dives
+
+I read [MBI's DashMart piece](https://www.mbi-deepdives.com/dashmart/) after drafting the above from primary sources, then reconciled the two.
+
+**Where we agree.**
+- DashMart is not the main reason for the Instacart price, but it is the clearest expression of the end state: MBI's "FBA-like" bet is Xu's "managing the inventory ourselves for third-party grocers."
+- Fixed cost is the crux, and volume is what Instacart supplies.
+- The likely end state is inventory and picking inside part of a grocer's footprint, not DoorDash-owned dark stores everywhere.
+- The 99%+/10-minute claims, the "low 90s", Giant Eagle and Albertsons, the "sequencing" language, the $500M synergy and the Q2 2022 "half of the increase" fact all check out against filings, letters and calls (in the raw extracts). MBI's 700-orders-per-site arithmetic reproduces.
+
+**Where MBI goes further than I can.** It estimates the shopper-pay and error-compounding economics (Instacart's replacement rate, shopper pay of ~$9.45 per order against ~$8.60 of gross profit, the share of customers who hit at least one bad order). These are Instacart-side numbers I did not rebuild, and they are the most persuasive part of its case that third-party picking has a quality ceiling. It also supplies industry context (McKinsey's fulfillment mix, Kroger's retreat from automated fulfillment, the Amazon third-party-seller history) that I have not independently verified.
+
+**Where this work adds or differs.**
+- *Provenance and scope of the quality claim.* The 99% is DoorDash's own metric, DashMart-only, and the speed comparison is same-geography but not same-basket (letter footnotes 8–9). The "low 90s" is a spoken figure. MBI builds its error-compounding math on the gap; the gap is a company claim.
+- *Sizing.* MBI says the article does not disclose DashMart revenue, margin or capex. Bounding it from throughput and the 10-Q capex line shows DashMart is under ~1–2% of orders even on generous assumptions, so its P&L impact is small and the strategic weight sits in grocery retention and the deal.
+- *Disclosure.* The store count has not been updated since ">100" in Sep 2025, and DashMart is not named in the 10-Q. The filing risk factor does now cover third-party fulfillment investment explicitly.
+- *Capital and price.* MBI frames the deal through DashMart. Here the financing and dilution (≥$12.75B cash, up to 5.5% more shares) and the Q4 guide are part of the answer, because the cost of the volume matters as much as the volume.
+- *Open point.* MBI's FBA analogy rests on Amazon charging third-party sellers for fulfillment. DoorDash discloses no Fulfillment Services fee schedule, so whether retailers pay per unit, per order or through take rate is unknown, and it decides whether this is a revenue line or a customer-acquisition cost.
+
+### What to watch, and where this stands
+
+- **Disclosure:** a DashMart or Fulfillment Services order count, site count or margin; any change in the New Verticals definition when Instacart consolidates.
+- **Proof:** whether New Verticals reaches gross-profit positive by end-2026 as committed (the page's thesis-break trigger in §6 already tracks this).
+- **Deal:** HSR and Canada/Israel clearance, the election split, and whether DoorDash buys back stock at all while funding ≥$12.75B in cash.
+- **Test of the model:** a Fulfillment Services partner moving a **large** share of its online orders onto DashMart, rather than "thousands of items."
+
+**Status of the numbers on this page.** At the latest close of **$178.26** ([Yahoo Finance](https://finance.yahoo.com/quote/DASH/), read 2026-11-12; ≈$77.7B market cap; 52-week range $143.30–$239.00), spot sits below the $184–208 entry band set in August. That band, the $245 PW EV and the Watch / Hold verbs all predate Q3 2026 (Adj EBITDA $1.06B, GAAP net income $466M), the Q4 guide and the Instacart agreement, which the scenario set does not contain. I have not re-underwritten them in this pass. Under the schema this is a material event on a pre-v7 page, so the right next step is a full v7 migration with Instacart modeled as its own line.
 
 ## Section 6 — Key Risks
 
@@ -354,7 +446,8 @@ Filtered for risks that are DASH-specific, materially differentiated from peers,
 | ⚠️ **First-party autonomy execution + liability (DoorDash Air / Dot)** | High | 20% | Not priced in | **[NEW 2026-08-26]** DoorDash now holds its own FAA air-carrier certificate (§5) — it owns the safety, regulatory, and liability exposure rather than outsourcing it to Wing or Flytrex. A Rule #23(d) large discretionary investment: a grounding event, a certificate action, or a Dot safety incident in Phoenix would hit both the cost thesis and the narrative that has carried the stock since June. Concrete near-term test: Dot's high-single-digit share of Phoenix orders by year-end 2026. |
 | ⚠️ **Uber Eats + Uber One bundling escalation** | Medium-High | 30% | Partially | Uber One's rides+delivery bundle is a structural threat to DashPass economics. Mitigated by DASH's share *widening* through 2024–2025 and by record DashPass adds (more paid subscribers in the last 12 months than the prior 24 combined). Re-rate trigger if U.S. share drops below 60% for two consecutive quarters. |
 | ⚠️ Commission cap regulation (NYC 15%, SF 20% → national) | Medium | 35% | Partially | A national cap would compress take rate 200–400bps against a 13.5% net revenue margin. Material to the bull-case margin path; watch state legislative cycles. |
-| ⚠️ Instacart cross-category escalation | Medium | 15% | Not priced in | Instacart dominates grocery delivery (≈50%+) and could acquire into restaurants. Not in consensus models; would delay the New Verticals margin path just as it turns gross-profit positive. |
+| ⚠️ Instacart cross-category escalation | Medium | 15% | Not priced in | Instacart dominates grocery delivery (≈50%+) and could acquire into restaurants. Not in consensus models; would delay the New Verticals margin path just as it turns gross-profit positive. **[2026-11-12]** Overtaken by events: DoorDash agreed to *buy* Instacart (§5A). |
+| ⚠️ **DashMart fixed-cost absorption + $17B Instacart integration** | High | Live | Not priced in (scenario set predates the deal) | **[NEW 2026-11-12]** Management calls warehouse inventory "a fixed cost business" needing scale (Q3 letter); the 10-Q warns volume may not cover fixed costs. Deal is ≥$12.75B cash, ≤5.5% dilution, >100% of synergies reinvested in year one, Q4 EBITDA guided $0.9–1.1B. Test: New Verticals gross-profit positive by end-2026, and a disclosed Fulfillment Services volume. See §5A. |
 | Advertising growth plateau | Medium | 20% | Not priced in | Advertising is one of the two named drivers of the Q2 beat and the primary margin-expansion mechanism in the Bull case. Deceleration below 30% for two consecutive quarters compresses the Base multiple. |
 | Consumer discretionary slowdown / recession | Medium-High | 25% | Partially | Order frequency is elastic to real disposable income. Less priced in than it was in May — the stock has recovered 63% off its March low and no longer carries a recession discount. |
 | ✅ ~~Margin disappointment vs. Q2 2026 guide~~ | — | — | **DE-RISKED 2026-08-05** | Q2 printed **$914M Adj EBITDA, above the $770–870M range**, beating consensus by 8.5%. Two consecutive guide-beats. Next test: the $950M–$1.1B Q3 guide. |
@@ -597,6 +690,15 @@ The rebuild is driven by confirmed fundamentals, not by price: Q2 delivered Adj 
 - [Tony Xu FY2025 Letter / Q4 2025 release (Feb 18, 2026)](https://ir.doordash.com/news/news-details/2026/DoorDash-Releases-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx) — Deliveroo *"massive and expensive undertaking"* framing
 - [Tony Xu Q4 2025 Earnings Call Transcript (Feb 18, 2026)](https://www.fool.com/earnings/call-transcripts/2026/02/18/doordash-dash-q4-2025-earnings-call-transcript/) — Deliveroo early proof + DashPass + autonomous + AI commerce
 - [Letter analysis index — A Letter a Day (Tony Xu 2020)](https://aletteraday.substack.com/p/letter-59-tony-xu-2020) — third-party synthesis backup
+
+**DashMart research (added 2026-11-12, §5A)**:
+- [DoorDash Q3 2026 shareholder letter / results, 8-K Ex. 99.1 (Oct 29, 2026)](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm) — [local extract](../../../raw/DASH/shareholder-letters/2026-Q3_letter_DashMart_extract.txt)
+- [DoorDash 10-Q, quarter ended Sep 30, 2026](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm) — [local extract](../../../raw/DASH/filings/2026-Q3_10-Q_DashMart_extract.txt)
+- [DoorDash Q3 2026 earnings call — Investing.com transcript (Oct 29, 2026)](https://www.investing.com/news/transcripts/earnings-call-transcript-doordash-beats-q3-2026-estimates-as-shares-jump-6-93CH-4984252) — [local extract](../../../raw/DASH/transcripts/2026-10-29_Q3-2026_call_DashMart_extract.txt)
+- [DoorDash — DashMart Fulfillment Services launch (Sep 30, 2025)](https://about.doordash.com/en-us/news/doordash-unveils-dashmart-fulfillment-services)
+- [DoorDash Q2 2022 call — Motley Fool (Aug 5, 2022)](https://www.fool.com/earnings/call-transcripts/2022/08/05/doordash-inc-dash-q2-2022-earnings-call-transcript/) — DashMart ≈ half of cost-of-sales increase
+- [Maplebear (Instacart) Q3 2026 8-K Ex. 99.1](https://www.sec.gov/Archives/edgar/data/0001579091/000119312526437014/d24470dex991.htm)
+- [MBI Deep Dives — DashMart](https://www.mbi-deepdives.com/dashmart/) — third-party analysis compared in §5A; gaps in [raw/DASH/SOURCES.md](../../../raw/DASH/SOURCES.md)
 
 **Coverage and context**:
 - [DoorDash IR — Q2 2026 results (Aug 5, 2026)](https://ir.doordash.com/news/news-details/2026/DoorDash-Releases-Second-Quarter-2026-Financial-Results/default.aspx) — primary source for all Q2 figures

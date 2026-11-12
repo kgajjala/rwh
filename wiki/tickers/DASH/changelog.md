@@ -4,6 +4,28 @@
 
 ---
 
+## [2026-11-12] — DashMart Research Section (Q3 2026 filings + MBI comparison)
+
+**Trigger**: User request to review [MBI Deep Dives' DashMart analysis](https://www.mbi-deepdives.com/dashmart/) and build a DashMart section from primary sources. The window contains two unscored material events: Q3 2026 earnings (Oct 29) and the **$17B Instacart agreement** (Oct 28).
+**Sources**: [Q3 2026 letter / 8-K](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm), [Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm), [Q3 call](https://www.investing.com/news/transcripts/earnings-call-transcript-doordash-beats-q3-2026-estimates-as-shares-jump-6-93CH-4984252) — extracts in `raw/DASH/`, gaps in `raw/DASH/SOURCES.md`.
+
+### Scorecard
+Not scored: this was a research addendum, not a Workflow B update. The v3 page carries no three-test scorecard; scoring belongs to the v7 migration.
+
+### Changed
+- **§5A added**: DashMart history, disclosure table, fixed-cost quotes, size bound (≈0.4% of orders at ~100 sites × 3,000/wk, [Derived]), breakeven grid, Instacart terms and dilution (≥$12.75B cash, ≤5.5% shares), MBI reconciliation.
+- **§6**: new DashMart/Instacart integration risk row; old "Instacart cross-category" row annotated as overtaken.
+- **Header and Sources**: addendum note; DashMart sources and raw extracts linked.
+- **Not changed**: price, scenarios, PW EV $245, zones and verbs remain the 2026-08-26 set. Spot is now $178.26 (below the $184–208 band) and the set predates Q3 and Instacart.
+
+### Status
+- **Thesis**: Unchanged pending re-underwriting
+- **Verbs**: non-holder Watch · holder Hold (stale; not re-derived)
+
+**Next trigger**: v7 migration with Instacart modeled as its own line (material event on a pre-v7 page); DoorDash's Instacart HSR clearance.
+
+---
+
 ## [2026-08-26] — Earnings Q2 2026: Guide-Beating Print, First Buyback Execution, Scenario Set Rebuilt
 
 **Trigger**: Q2 2026 earnings released **Aug 5, 2026** (after close) — one day later than the previously-confirmed Jul 30 date. Adjusted EBITDA landed above the top of the guide range, the $5B buyback was disclosed as executing for the first time, and DoorDash received its own FAA air-carrier certificate. Price +26.5% since the Jul 1 baseline.

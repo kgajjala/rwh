@@ -1,0 +1,18 @@
+EXTRACT (not full text) — DoorDash Form 10-Q for quarter ended 2026-09-30 (accession 0001792789-26-000070)
+Source: https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000070/dash-20260930.htm
+Captured 2026-11-12 (built-in browser). DashMart is NOT named anywhere in the 10-Q; the only disclosure is the risk factor and Instacart subsequent event below.
+
+--- Item 1A risk factor (verbatim) ---
+"We face certain risks in connection with our self-operated convenience, grocery, and other retail businesses. To build and expand our self-operated businesses, we have made substantial investments, including in establishing and managing a reliable supply chain for in-store products, establishing supply-related contractual partnerships, leasing premises, hiring personnel, and rolling out relevant technologies and processes. The maintenance and expansion of our self-operated businesses, whether organic or inorganic, also requires significant investment, and there is no assurance that we will realize any of the anticipated benefits. In locations where we operate these facilities, we may not be able to generate a sufficient number of orders to cover our fixed costs and make such services viable and we may incur significant costs before we can determine the viability of these locations. Our self-operated retail locations also expose us to different regulatory requirements and risks than our Marketplaces and Commerce Platform, in particular with respect to food safety, permit and license requirements, and zoning restrictions, and certain other business risks, including inventory shrinkage and the impact of changing economic policy on the cost of resold goods. In some cases, we are also leveraging our self-operated retail locations to enable fulfillment services on behalf of third-party merchants, which has required, and is expected to continue requiring, additional investment and operational enhancements. Our expansion into convenience, grocery, and other retail categories, as well as into fulfillment services on behalf of third parties, may also result in the diversion of management's attention from other business opportunities..."
+(NOTE: not diffed against FY2025 10-K / Q2 2026 10-Q — logged as a gap in SOURCES.md.)
+
+--- Cost of revenue (MD&A) ---
+Q3 2026: cost of revenue ex-D&A +$484M (+29%) Y/Y; "$320 million in order management costs and ... $117 million in platform costs, both driven primarily by growth in Total Orders." Nine months: +$1.5B (+31%). No DashMart or self-operated cost line is broken out.
+
+--- Cash flow, nine months ended Sep 30 (2025 | 2026) ---
+Purchases of property and equipment: $(203)M | $(208)M
+Capitalized software and website development: $(235)M | $(375)M
+Acquisitions, net of cash acquired: $(1,198)M | $(58)M
+
+--- Subsequent event: Instacart ---
+2026-10-28 definitive agreement to acquire Instacart: $65.00 per share, equity value ~ $17B. Per-share election: (i) $65.00 cash, (ii) 0.3372 DASH shares, or (iii) $48.75 cash + 0.0843 DASH shares; total stock consideration capped at 25% of aggregate consideration, proration applies. Conditions include Instacart stockholder approval, HSR expiry, other regulatory approvals incl. Canada and Israel. Financing: 364-day senior unsecured bridge term loan up to $13.0B (JPMorgan commitment) per 10-Q.

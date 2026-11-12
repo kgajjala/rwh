@@ -1,0 +1,33 @@
+EXTRACT (not full text) — DoorDash Q3 2026 shareholder letter, Exhibit 99.1 to 8-K filed 2026-10-29
+Source: https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm
+Captured 2026-11-12 via built-in browser (document.body.innerText). Only DashMart / grocery / Instacart / outlook passages kept.
+
+--- Section "Grocery Delivery and Instacart" ---
+
+"Grocery delivery is still early in its adoption. We've made meaningful progress over the past five years at DoorDash, significantly improving logistics quality for grocery delivery, but as we've said many times, the product still isn't there. Consumers are still asked to pay a premium for imperfect delivery."
+
+"To achieve the end state of perfect grocery delivery every time at the best possible prices, we believe that invention is required on the fulfillment and business models of grocery delivery. In order to obtain perfect delivery every time from the widest selection of grocers, we believe managing the inventory ourselves for third-party grocers is important. This is why we started our DashMart project five years ago, first learning how to do this by holding our own inventory, and now managing thousands of high-quality products from Giant Eagle, Albertsons, and others. When we manage inventory ourselves, we achieve 99%+ fulfillment accuracy.[8] We also deliver more than 10 minutes faster on average,[9] because the warehouse environment is optimized for delivery whereas a grocery store was never set up for delivery. In addition to faster delivery, managing the inventory ourselves gives us the potential to reduce the cost of fulfillment, and lower costs enable us to reinvest into more value for consumers."
+
+"Managing inventory inside a warehouse is a fixed cost business. Scale is a necessary (though insufficient) input into helping lower costs. This is one of the reasons we're attracted to Instacart, as it adds scale that is unique to our network."
+
+"Over the past 14 years, Instacart has built a great brand that serves millions of consumers. Hence, we believe that combining our reach will enable the best possible logistics and software infrastructure ... We expect this to be true on Day 1 (after close), as the combined reach will increase density across the grocery store network, helping increase delivery speed, lower fulfillment costs, and provide greater earning opportunities for Shoppers."
+
+"To this end, we see a multi-year path to $500 million or more of annual synergies, net of investments. We expect to invest more than 100% of total synergies in the first year after close, followed by positive net synergies in year two and beyond. However, our initial aims in online grocery with third-party fulfillment won't be the end state, and Instacart's scale will benefit us on the journey toward creating a better product experience for grocery delivery. First, the expected efficiencies created can give us the investment capacity to invest further in our fulfillment network. Second, Instacart's scale will help amortize the fixed cost of managing inventory on behalf of grocers."
+
+"... when we combine Instacart's leading Enterprise software with our leading fulfillment services, we believe we can offer grocers an even more efficient logistics network and best-in-class first-party products, too."
+
+"As AI personal agents are now starting to become more mainstream, our strategy today remains focused on winning the battle for atoms."
+
+--- Footnotes ---
+[8] "Based on fulfillment accuracy for DashMart orders during Q3 2026."
+[9] "Based on a comparison of the average delivery time for DashMart orders compared to that of all other grocery orders in the U.S. geographies with an active DashMart store during Q3 2026."
+
+--- U.S. grocery and retail (Q3 2026 commentary) ---
+"In our U.S. grocery and retail categories, Y/Y growth in Marketplace GOV in Q3 2026 remained strong, growing at more than double the pace of Y/Y growth in our U.S. restaurant category ... continued double-digit Y/Y growth in order rates for nearly all mature cohorts in Q3 2026, as well as Y/Y growth in new consumers to our U.S. grocery and retail categories that was consistent with Y/Y growth in the first half of 2026."
+
+--- Financial outlook ---
+Q4 2026: Marketplace GOV $35.4B - $36.4B; Adjusted EBITDA $900M - $1,100M.
+2026 SBC ~ $1.2B; 2026 D&A ~ $1.2B (incl. ~$450M acquired-intangible amortization); 2026 year-end merchant-payment timing reduces reported 2026 FCF by $700M-$800M.
+Q3 2026 actuals: Total Orders 993M (+28% Y/Y).
+
+NOT DISCLOSED anywhere in the release: DashMart count, orders, GOV, revenue, margin, capex, or fulfillment-services fees.

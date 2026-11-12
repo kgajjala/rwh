@@ -1,0 +1,25 @@
+EXTRACT (not full text) — DoorDash Q3 2026 earnings call, 2026-10-29, Investing.com transcript
+Source: https://www.investing.com/news/transcripts/earnings-call-transcript-doordash-beats-q3-2026-estimates-as-shares-jump-6-93CH-4984252
+Captured 2026-11-12 (built-in browser, document.body.innerText). DashMart / grocery passages only.
+
+[Andrew Boone, Citizens JMP — Q: vision for DashMarts and how Instacart plays in]
+Tony Xu, CEO: "If you think about where grocery delivery is, it really is just a fraction of what its potential could be... Customers today are still being asked to pay a premium for imperfect delivery... The way I think about this is it really is a sequencing roadmap. Our journey really started five years ago when we began our own work in new verticals... we recognized that in order to offer the best possible service at the most affordable prices, we really needed to manage the inventory because stock-outs were a key issue."
+
+Xu: "When you look at, for example, the deliveries that we fulfill from DashMarts versus the deliveries that we do third party, even though we have best-in-class logistics operations quality in the third party stores, we are near perfect in our deliveries with DashMarts, but we are only in the low 90s in terms of our accuracy through the third party stores. There is a meaningful gap. But we have been able to prove demonstrably that we can close it both first by holding our own inventory and now actually managing thousands of items for fantastic retail partners like Giant Eagle or Albertsons, and many others. But when you think about this business, it is a fixed cost business when you are managing inventory. So scale is really helpful."
+
+Xu: "...they have unique demand, or orders that are unique to our network, that not only helps, certainly on a day one scenario post-close, where the added density in the last mile network brings fulfillment efficiencies to offer faster delivery as well as lower cost throughout the system. But it allows us to continue to invest on our end state journey of building what we believe will be the best-in-class product for all retailers..."
+
+[Josh Beck, Raymond James — Q: ambitions on DashMart, selection, footprint, investment]
+Xu: "If you look at the next decade of work, it really is about making sure that we can build the local infrastructure for all things last mile delivery for everything inside your city... That is about building new fulfillment models, so some of the warehousing that you are discussing... You are right, there is going to be investment. The way I think about this is a lot of the real estate, though, that we are talking about, in many ways, is already been designed for us. There are hundreds of thousands of grocery stores available that carry these millions of items... None of these stores, as you probably know, are built for delivery. They were effectively built for browsing... How do we allow those stores to shine as the showrooms, and how do we actually build the correct square footage as the warehouse or the back-of-house infrastructure, such that we can offer fast delivery at attractive prices... That is the vision of DashMart, but it is a sequencing process."
+
+Xu: "Step one, day one after close... the combined network where you have added density... How do we then take that added scale to then drive down further costs as we think about managing warehouses, which is a fixed cost business. How do we then do that with more types of SKUs and items, so that we can bring more of the store. Then how do we bring every single store and ultimately everything inside your city to you in minutes?"
+
+[Shweta Khajuria, Wolfe — Q: synergy sources]
+Ravi Inukonda, CFO: synergy blocks = cross-listing merchants (restaurants onto Instacart); ads (CPG advertisers reach more consumers); cross-sell (Instacart first-party software to grocers on DoorDash; "DashMart Fulfillment Services... make that available to more customers across both platforms"); efficiency ("Dasher density, shopper density is going to be pretty critical. As you increase the volume, that's going to drive efficiency in the fulfillment network"); opex (S&M, support).
+
+[Nikhil Devnani, Bernstein — Q: has organic grocery been harder than expected]
+Inukonda: "A couple of calls ago, I mentioned that the overall new verticals portfolio is going to be gross profit positive by the end of the year... We are pretty close to being breakeven on a gross profit level."
+
+[Michael Morton, MoffettNathanson — Q: grocer reaction / use of shares]
+Xu: expects "a very positive response from grocers"; "More and new fulfillment models, which we are inventing as we speak."
+Inukonda: "It was important for Instacart to have some stock in the deal... our philosophy on buyback has not changed... We've been conservative. We were going to be opportunistic."

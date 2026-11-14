@@ -72,12 +72,7 @@ rwh/
 - **Model numbers go through tokens.** Any figure the model produces is written as a `[[token]]` in prose, tables and the front matter, so it is stated once and cannot drift.
 - **Quote where it earns its place.** Management's own words carry the debate chapters, at length where paraphrase would weaken them, always attributed to person, venue and date. Never a chronological table of source extracts where 2–3 sentences would do.
 - **No schema mechanics in the report.** No references to this file, no "corrected from" / "prior framing" / "previously we said". Git is the audit trail.
-- **Budget — a guardrail against sprawl, not a hard cap.** Prose only, excluding tables, block quotes, the Appendix and source lists:
-  - **~4,000–7,000 words** for a full deep dive;
-  - **600–1,200 words** for a Mode B update note, **200–500** for Mode C;
-  - **~250 words** for a changelog entry.
-  - The front matter is generated and has no budget of its own.
-  - When a draft runs long, compress before deleting: collapse a restated claim to a reference, drop a second example, cut a quote that paraphrase would carry. Overshooting by 10–15% to keep load-bearing evidence is correct; cutting evidence to hit the number is not.
+- **Balance, not a word count.** No limit. Every paragraph must be needed for comprehension and add something the reader doesn't have; cut restatement before evidence, never evidence to save space (`deep-dive-style.md` §8).
 - **Closing audit, required**: scan the prose for any thesis-carrying *claim* — a figure, a rate, a named risk, a valuation multiple — appearing more than twice, and collapse the extras to a reference. Proper nouns are exempt. Then run `build_report.py --check`; it must be clean.
 
 **R8 — Valuation: one 5-year forward lens, one hurdle.**
@@ -147,7 +142,7 @@ A v7 report is **one Markdown file, `[TICKER].md`**, built from the sources in `
 1. **Front matter** (generated):
    - the header (schema, updated, status, verified price, 52-week range, type, stage, flags);
    - the Verdict (one sentence, two verbs, the one-row table `PW EV | PW return/yr | Compounding/yr | R/R | Entry | Trim | Avoid | multiple | Yield | BAIT | Moat | Next`, **Breaks if**);
-   - The Call (~200 words);
+   - The Call (short);
    - What I'd Have To Be Wrong About (exactly three kill criteria with pre-committed, model-computed consequences);
    - the latest update with its scorecard, and links to earlier updates.
 2. **Deep Dive: [title]**, chapters in order:
@@ -222,7 +217,7 @@ Trigger: *"weekly update"* / *"update [TICKER]"*.
 
    Do not touch chapters the news did not touch. The key-debate and moat chapters rarely move on a single print.
 5. **Quiet week** → write only a `[YYYY-MM-DD] — No Material Events` changelog entry with a price / short-interest / consensus snapshot. **Do not rebuild the report or modify `[TICKER].md`, and do not bump any dates.**
-6. **Changelog** entry (~250 words, R7) recording what changed and why. Then §8: re-derive the `index.md` Summary against the new price and scenario set, since both the verb and the upside/downside pair move whenever the model or the price does. Then §9.
+6. **Changelog** entry (concise, R7) recording what changed and why. Then §8: re-derive the `index.md` Summary against the new price and scenario set, since both the verb and the upside/downside pair move whenever the model or the price does. Then §9.
 
 ## 8. Cross-File Layer
 

@@ -33,20 +33,20 @@ Two habits make it work. Every claim that matters has a number next to it. And t
 
 Use these chapters in this order. Rename them to fit the company (e.g. "North America: Traffic Is Back. The Margin Isn't."), but keep the job of each.
 
-| # | Chapter | Its job | Typical length |
-|---|---|---|---|
-| — | **Front matter** (generated from data.json) | Header, Verdict, The Call, the three tests, latest update with scorecard; then the essay title and dek | — |
-| — | `::toc` | A contents line linking the chapters | — |
-| 0 | **Opening** (no heading) | The history in 3–5 paragraphs: a dated, concrete moment (a CEO hire, an IPO, a crash); what the business did since; what the stock did, against a named rival and the S&P 500 (`::chart`); the question the market can't answer; a roadmap paragraph listing the chapters and ending with the valuation question | 400–700 words |
-| 1 | **Business Overview** | Segments in one table (revenue, operating income, margin across 3–5 periods); the profit mix (`bar100` chart); "a few accounting points" the reader needs before the debate (non-GAAP adjustments, one-offs, deconsolidations) | 400–700 |
-| 2 | **The key debate** | Where things stand (a table) → **Management's narrative** (h3; 1–3 long quotes, attributed) → **Poking holes in it** (h3; 3–4 numbered-in-prose holes, each with a number) → the illustrative unit-economics table → "Where I come out" paragraph | 1,200–2,000 |
-| 2b | **Rings of profit** (h3) | Profit split into 3–4 rings by exposure to the debate, as a table, with one paragraph on what is safe and what is not | 250–400 |
-| 3 | **The second debate** | The other segment or strategic question (beverages vs. Coke, international and an acquisition, the ad business). Same pattern, shorter | 600–1,200 |
-| 4 | **Management, Capital Allocation and Incentives** | CEO background and **prior-tenure record** (chart + table when there is one); the deal list with verdicts; the capital-allocation table with cumulative row; the incentive table; "Is X the right manager?" paragraph | 1,000–1,800 |
-| 5 | **Valuation and Model Assumptions** | Method in one paragraph; `::model_build Base`; one paragraph walking the Base; `::scenarios`; the **Priced-in** paragraph (what spot assumes); the **Hurdle** paragraph (what 13% needs); PW value, return, entry; the EPV floor cross-check | 700–1,100 |
-| 6 | **Final Words** | The conclusion in plain language: what the market has right, what it has wrong, the verdict, and the three things (= the kill criteria) that would change it, with dates | 300–500 |
-| 7 | **Appendix: The Numbers** | Required R16 tables that don't fit the narrative (five-year record with ROIC/ROIIC/owner earnings, driver tree, growth levers, moat table, risks table, catalysts) | tables |
-| — | **Sources** `{#sources}` + `::sources`, `::disclaimer` | Every document used | — |
+| # | Chapter | Its job |
+|---|---|---|
+| — | **Front matter** (generated from data.json) | Header, Verdict, The Call, the three tests, latest update with scorecard; then the essay title and dek |
+| — | `::toc` | A contents line linking the chapters |
+| 0 | **Opening** (no heading) | The history in a few paragraphs: a dated, concrete moment (a CEO hire, an IPO, a crash); what the business did since; what the stock did, against a named rival and the S&P 500 (`::chart`); the question the market can't answer; a roadmap paragraph listing the chapters and ending with the valuation question |
+| 1 | **Business Overview** | Segments in one table (revenue, operating income, margin across 3–5 periods); the profit mix (`bar100` chart); "a few accounting points" the reader needs before the debate (non-GAAP adjustments, one-offs, deconsolidations) |
+| 2 | **The key debate** | Where things stand (a table) → **Management's narrative** (h3; 1–3 long quotes, attributed) → **Poking holes in it** (h3; 3–4 numbered-in-prose holes, each with a number) → the illustrative unit-economics table → "Where I come out" paragraph |
+| 2b | **Rings of profit** (h3) | Profit split into 3–4 rings by exposure to the debate, as a table, with one paragraph on what is safe and what is not |
+| 3 | **The second debate** | The other segment or strategic question (beverages vs. Coke, international and an acquisition, the ad business). Same pattern, shorter |
+| 4 | **Management, Capital Allocation and Incentives** | CEO background and **prior-tenure record** (chart + table when there is one); the deal list with verdicts; the capital-allocation table with cumulative row; the incentive table; "Is X the right manager?" paragraph |
+| 5 | **Valuation and Model Assumptions** | Method in one paragraph; `::model_build Base`; one paragraph walking the Base; `::scenarios`; the **Priced-in** paragraph (what spot assumes); the **Hurdle** paragraph (what 13% needs); PW value, return, entry; the EPV floor cross-check |
+| 6 | **Final Words** | The conclusion in plain language: what the market has right, what it has wrong, the verdict, and the three things (= the kill criteria) that would change it, with dates |
+| 7 | **Appendix: The Numbers** | Required R16 tables that don't fit the narrative (five-year record with ROIC/ROIIC/owner earnings, driver tree, growth levers, moat table, risks table, catalysts) |
+| — | **Sources** `{#sources}` + `::sources`, `::disclaimer` | Every document used |
 
 ## 3. Recurring devices
 
@@ -120,8 +120,8 @@ Nothing the framework requires is dropped; it moves to where it reads best.
 An update keeps the deep dive true and puts the news on top. It never starts a new essay unless the thesis changed.
 
 1. **Write the update note** as `updates/YYYY-MM-DD.md` and add it to `data.json` `updates` with a title and the **scorecard** (each standing test: `pass`, `fail` or `pending`, plus the number that decided it).
-   - **Mode B (earnings or a material event): 600–1,200 words.** What was reported against what was expected. Management's three to five points, quoted where it matters. Q&A pushback and non-answers. What it does to the debate. The scorecard consequences, applied as pre-committed. The verb, and why.
-   - **Mode C (news or price move): 200–500 words.** What drove the move, whether it touches a test, and the return math at the new price.
+   - **Mode B (earnings or a material event).** What was reported against what was expected. Management's three to five points, quoted where it matters. Q&A pushback and non-answers. What it does to the debate. The scorecard consequences, applied as pre-committed. The verb, and why.
+   - **Mode C (news or price move).** What drove the move, whether it touches a test, and the return math at the new price.
 2. **Refresh the data, not just the note.**
    - New quarter rows go into the tables.
    - Move `model.json` `spot` to the verified price and re-run `model.py`.
@@ -131,12 +131,19 @@ An update keeps the deep dive true and puts the news on top. It never starts a n
 4. **Rebuild with `--check`** and read the result once. If the report is shared as an Artifact, republish it to the same URL.
 5. **Full rewrite (Mode A again) when the thesis changes**, a year has passed since the last full report, or more than four update notes have accumulated. Older notes stay in `updates/`; the report links them under "Earlier updates".
 
-## 8. Length
+## 8. Length: balance, not a count
 
-- Full deep dive: **about 4,000–7,000 words of prose**, excluding tables, quotes and the Appendix. The Uber piece that set the style runs about 11,000 words including long quotes; aim shorter.
-- The budget guards against sprawl. When a draft runs long, cut restated claims and second examples before cutting evidence.
-- Update notes: 600–1,200 words (Mode B) or 200–500 words (Mode C).
-- Front matter: generated; about 400–700 words including the latest update's scorecard.
+There is no word limit. Length follows the evidence: a chapter is as long as the argument needs and no longer. Test every paragraph two ways.
+
+- **Comprehension**: could a smart reader who has not followed the company still understand the debate, the numbers behind it and the verdict from this page alone? If not, something load-bearing is missing: a definition, a quote, a comparison, a number.
+- **Bloat**: does the paragraph add a fact, a number, a quote or a step of the argument the reader doesn't already have? Restated claims, second examples that prove nothing new, scene-setting, hedges, recaps of earlier chapters and tables that repeat the prose are bloat. Cut or collapse them to a clause.
+
+Rules of thumb, not caps:
+- A debate gets the room its evidence needs; a minor segment or a quiet quarter gets a paragraph.
+- An update note covers what changed and what it does to the verdict. A routine print is short; a thesis-changing one is long.
+- Prefer a table to a paragraph of numbers, and a one-clause reference to a second explanation.
+- When trimming, cut restatement before evidence, never evidence to save space.
+- The front matter is generated and stays tight: the verdict, the call, three tests, the latest update.
 - **Closing audit**: no thesis-carrying number or claim more than twice in the prose (tables and tokens excepted); every number sourced or tagged; `build_report.py --check` clean.
 
 ## 9. Checklist before building

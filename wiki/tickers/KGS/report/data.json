@@ -2,13 +2,13 @@
  "meta": {
   "ticker": "KGS",
   "company": "Kodiak Gas Services, Inc.",
-  "title": "Kodiak: The Anchor Came In Short",
-  "dek": "The compression business has never been better. The first data-center anchor turned out to be six years on old engines, and since then the stock has traded like an AI-power stock. At $45, is the compressor franchise on sale, or is the power plan still priced too generously?",
-  "date": "2026-10-23",
-  "date_long": "October 23, 2026",
+  "title": "Kodiak: Compression Held, Power Is Still Unpriced",
+  "dek": "The compression business just posted another record quarter, and the balance sheet passed its first test. The market still values the power build below its cost. At $45, is that fair, or is it the opportunity?",
+  "date": "2026-11-14",
+  "date_long": "November 14, 2026",
   "status": "Active",
-  "price": 45.45,
-  "price_note": "Oct 23, 2026, 12:14 PM ET (StockAnalysis $45.43)",
+  "price": 44.69,
+  "price_note": "Nov 13, 2026 close (Yahoo Finance)",
   "price_url": "https://finance.yahoo.com/quote/KGS/",
   "range52": [
    32.55,
@@ -29,7 +29,7 @@
   "report_path": "../KGS.md"
  },
  "verdict": {
-  "sentence": "A best-in-class compression fleet is funding a power build whose first anchor came in at six years on existing engines, not ten on new turbines; at $45 the probability-weighted case pays [[pw_return]] a year against the 13% hurdle, so the selloff is close to an opportunity without yet being one.",
+  "sentence": "A best-in-class compression fleet posted a record quarter at 3.1× leverage and funds a power build that is still unproven on new-build terms; at $45 the probability-weighted case pays [[pw_return]] a year against the 13% hurdle, close to the line but not over it.",
   "non_holder": {
    "emoji": "🟡",
    "verb": "Watch (entry ≤[[entry]])"
@@ -38,15 +38,15 @@
    "emoji": "🟡",
    "verb": "Hold"
   },
-  "breaks_if": "credit-agreement leverage goes above 3.5× at the November or February print, or Kodiak issues primary equity to fund power. Then the build costs shareholders more than it earns, and 10 points move from the Base to the Bear.",
+  "breaks_if": "credit-agreement leverage goes above 3.5× at the February print, or Kodiak issues primary equity to fund power. Then the build costs shareholders more than it earns, and 10 points move from the Base to the Bear.",
   "multiple_label": "FY26E EV/EBITDA",
   "multiple": "≈8.6×",
   "bait": "Double (B+A)",
   "moat": "Narrow, stable",
-  "next": "early Nov (Q3, ≈Nov 3)",
+  "next": "late Feb 2027 (Q4, FY2027 capex plan)",
   "price_implies": "~[[Priced-in.cagr]] owner cash flow growth at 10%"
  },
- "call": "Since September 16 Kodiak has fallen 22% while Archrock fell 6%. Three things did it. On September 21 the West Texas project that management had at limited notice to proceed was signed as a six-year, 76 MW deal served from the existing recip fleet, at an undisclosed price, and the stock lost 10% in four sessions while Archrock lost 3%. The ten-year Treasury went to 5.3%. And from October 14 Kodiak traded with the AI-power complex, as CoreWeave's bonds broke and Meta's spending outlook reopened the financing question; it fell 10% on October 22 alongside GE Vernova and Vistra. Compression, which earns most of the cash, had no news at all. The six-year term fails my first test as written, so I cut the Bull to 15% and take management's new-build economics out of the Base. What remains is a business compounding at about [[compounding]] a year at a flat multiple, 4.3 points of it the dividend, plus a power fleet priced near legacy rates. The price implies [[implied_bear]] Bear odds at a 10% discount rate; I assign 30%. That earns [[pw_return]], short of 13%, and the verb is probability-fragile: break-even Bear odds are [[breakeven_bear]]. Leverage at the Q3 print settles it.",
+ "call": "Kodiak fell 23% from September 16 to $44.69 despite no bad compression news, because the anchor power contract came in at six years on old engines, rates rose, and the stock traded with the AI-power complex. The Q3 print on November 9 answered some of that. Compression ran at 98.3% utilization and a 70% margin, adjusted EBITDA hit a record $224.5M, leverage was 3.1×, and management said the build was pre-funded by May's equity raise. Revenue per horsepower rose 3.0%, under my 3.5% bar, but management attributes the gap to lease buyouts and one terminated contract and puts the clean figure just above $24. The open items are the FY2027 capex plan, which comes in February, and Texas: a new governor-elect has pledged a data-center moratorium, and management admits \"a little bit of uncertainty.\" I hold the Bear at 30%. What remains is a business compounding at about [[compounding]] a year at a flat multiple, 4.6 points of it the dividend. That earns [[pw_return]], short of 13%, and the verb is still probability-fragile: break-even Bear odds are [[breakeven_bear]] against my 30%.",
  "tests": [
   {
    "claim": "That new-build power earns its cost of capital.",
@@ -60,7 +60,7 @@
   },
   {
    "claim": "That the build stays inside the balance sheet.",
-   "test": "credit-agreement leverage at or below 3.5× at both the Q3 (early November) and Q4 (February) prints, a FY2027 capex plan funded from discretionary cash flow, the ABL and notes, and no primary equity issued.",
+   "test": "credit-agreement leverage at or below 3.5× at the Q4 print (February), a FY2027 capex plan funded from discretionary cash flow, the ABL and notes, and no primary equity issued. (Q3: 3.1×, no equity since May.)",
    "shift": {
     "from": "Base",
     "to": "Bear",
@@ -70,7 +70,7 @@
   },
   {
    "claim": "That compression pricing holds at peak utilization.",
-   "test": "Q3 and Q4 revenue per horsepower up at least 3.5% year over year (≥$24.40 by Q4), utilization ≥97.5% and compression adjusted gross margin ≥69% despite lube oil.",
+   "test": "Q4 revenue per horsepower up at least 3.5% year over year (≥$24.40, on a basis that states any lease-buyout effect), utilization ≥97.5% and compression adjusted gross margin ≥69%.",
    "shift": {
     "case": "Base",
     "value": 60.0
@@ -79,6 +79,28 @@
   }
  ],
  "updates": [
+  {
+   "date": "2026-11-14",
+   "title": "Record compression quarter, 3.1× leverage, and a Texas question",
+   "file": "updates/2026-11-14.md",
+   "scorecard": [
+    {
+     "test": "Anchor: a ten-year-plus new-build West Texas contract at new-build pricing by February 2027 (replacement: turbine contract ≥7 years, ≥100 MW, stated 15% returns)",
+     "result": "pending",
+     "evidence": "management says new contracts are 10–15 years at high-teens returns, 5–6 year payback, but no signed turbine contract is announced; due by the Q4 print"
+    },
+    {
+     "test": "The build stays inside the balance sheet: leverage ≤3.5× at two prints, no equity below $71",
+     "result": "pending",
+     "evidence": "Q3 passes at 3.1× with no new equity; the FY2027 capex plan and the Q4 leverage read are still to come"
+    },
+    {
+     "test": "Compression pricing holds: revenue per hp ≥+3.5% YoY at ≥97.5% utilization, margin ≥69%",
+     "result": "fail",
+     "evidence": "reported +3.0% ($23.51) at 98.3% and 70.0%; management's clean figure is just above $24 (≈+5% [Derived]); consequence not applied because the shortfall is explained by one-offs that did not exist when the test was written; retested at Q4"
+    }
+   ]
+  },
   {
    "date": "2026-10-23",
    "title": "The anchor came in at six years, and Kodiak became an AI-power stock",
@@ -109,6 +131,7 @@
     "Q2 2025",
     "Q1 2026",
     "Q2 2026",
+    "Q3 2026",
     "FY2026 guide"
    ],
    "rows": [
@@ -118,6 +141,7 @@
       "293.5",
       "307.0",
       "315.1",
+      "n/d",
       "1,250–1,280"
      ],
      "cls": "grp"
@@ -127,6 +151,7 @@
       "Adjusted gross margin",
       "68.3%",
       "70.6%",
+      "70.0%",
       "70.0%",
       "69.0–70.5%"
      ],
@@ -138,6 +163,7 @@
       "$22.78",
       "—",
       "**$23.80** (+4.5%)",
+      "**$23.51** (+3.0%)",
       "—"
      ],
      "cls": "sub"
@@ -148,6 +174,7 @@
       "97.2%",
       "98.0%",
       "**98.2%**",
+      "**98.3%**",
       "—"
      ],
      "cls": "sub"
@@ -158,6 +185,7 @@
       "—",
       "—",
       "32.9",
+      "**42**",
       "95–125"
      ],
      "cls": "grp"
@@ -168,6 +196,7 @@
       "—",
       "—",
       "64.5%",
+      "75.2%",
       "60–70%"
      ],
      "cls": "sub"
@@ -178,6 +207,7 @@
       "—",
       "—",
       "405 MW / 89.6%",
+      "413 MW / 92.5%",
       "—"
      ],
      "cls": "sub"
@@ -188,6 +218,7 @@
       "29.3",
       "38.8",
       "43.1",
+      "n/d",
       "125–160"
      ],
      "cls": "grp"
@@ -198,6 +229,7 @@
       "24.5%",
       "15.9%",
       "11.3%",
+      "n/d",
       "13–16%"
      ],
      "cls": "sub"
@@ -208,6 +240,7 @@
       "322.8",
       "345.8",
       "**391.1**",
+      "**401.8**",
       "≈1,470–1,565"
      ],
      "cls": "tot"
@@ -218,7 +251,8 @@
       "178.2",
       "190.1",
       "**216.8**",
-      "**830–860**"
+      "**224.5**",
+      "**≈850 (mid)**"
      ],
      "cls": "tot"
     },
@@ -227,6 +261,7 @@
      "116.4",
      "126.5",
      "163.3",
+     "158",
      "570–600"
     ],
     [
@@ -237,6 +272,7 @@
       "v": "−87.5",
       "cls": "neg"
      },
+     "n/d",
      "capex 805–895"
     ],
     [
@@ -244,10 +280,11 @@
      "—",
      "3.6×",
      "3.1×",
+     "**3.1×**",
      "\"peaks in the mid-3s\""
     ]
    ],
-   "note": "Adjusted gross margin is revenue less cost of operations before D&A. Discretionary cash flow is adjusted EBITDA less cash interest, cash taxes and maintenance capex. Source: [Q2 2026 release](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000052/kgsq22026earningsrelease.htm), [Q2 10-Q](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000055/kgs-20260630.htm). Built with Claude."
+   "note": "Adjusted gross margin is revenue less cost of operations before D&A. Discretionary cash flow is adjusted EBITDA less cash interest, cash taxes and maintenance capex. Source: [Q2 2026 release](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000052/kgsq22026earningsrelease.htm), [Q2 10-Q](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000055/kgs-20260630.htm). Built with Claude. Q3 2026 from the [call transcript](https://www.webull.com/news/15894937675624448) and trade press; the Q3 release and 10-Q were not read directly (gap logged in the raw notes)."
   },
   "power_drivers": {
    "columns": [
@@ -1111,14 +1148,19 @@
      "Peer compression pricing; turbine demand and pricing"
     ],
     [
-     "📅 **Early November (≈Nov 3)**",
-     "Kodiak Q3 and first FY2027 capex framing (date not yet announced)",
-     "Tests 2 and 3"
+     "✅ Nov 9",
+     "Kodiak Q3: record EBITDA $224.5M, 3.1× leverage, rev/hp +3.0%, FY26 EBITDA guide to $850M",
+     "Test 2 half passed; test 3 missed on reported basis"
     ],
     [
      "📅 Dec 31",
      "$150M repurchase authorization expires",
      "Renewal or lapse reads the capital-allocation grade"
+    ],
+    [
+     "📅 Q1 2027",
+     "West Texas 76 MW project starts (Q1); Texas legislature and governor-elect on data-center rules",
+     "Whether the 1.8 GW pipeline is exposed to Texas policy"
     ],
     [
      "📅 Late Feb 2027",
@@ -1147,8 +1189,8 @@
      "10b5-1 sales only, all small: CEO McKee 2,666 shares at $53.95 (Oct 5), COO Lenamon 1,000 at $53.25 (Oct 12), CIO Buhigas 3,663 at $58.14 (Sep 16); no purchases"
     ],
     [
-     "Appearances (Sep 17 – Oct 23)",
-     "No conference or media appearance located; the Sep 21 release quote, the Oct 21 Midland campus opening and McKee joining Reworld's board (Oct 1) are the only management items. Q3 date not yet on the IR calendar"
+     "Appearances (Sep 17 – Nov 14)",
+     "Q3 call Nov 9 (CEO McKee, CFO Griggs) is the main item; no conference or media appearance located otherwise. McKee sold 2,666 shares ($121K) on Nov 3, immaterial. Short interest, consensus and Form 4s not refreshed this update"
     ],
     [
      "BAIT",

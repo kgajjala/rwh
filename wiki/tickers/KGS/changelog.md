@@ -4,6 +4,59 @@
 
 ---
 
+## [2026-11-14] — Q3 2026 earnings · price $44.69
+
+**Trigger**: Q3 print Nov 9; stock −23% from Sep 16, +10% from Nov 6.
+**Sources**: [Q3 call notes](../../../raw/KGS/transcripts/2026-11-09_Q3-2026-earnings-call_NOTES.txt) (release and 10-Q not read directly; gap logged there) · [Yahoo](https://finance.yahoo.com/quote/KGS/) Nov 13
+
+### Scorecard
+- Anchor / replacement test 1, turbine contract ≥7 years at stated 15% by Q4 — 🟡 Pending — management cites 10–15-year terms and high-teens returns, no signed turbine contract
+- Test 2, leverage ≤3.5×, no equity — 🟡 Pending — Q3 3.1×, no equity since May; FY2027 capex plan and Q4 read due February
+- Test 3, rev/hp ≥+3.5% at ≥97.5% utilization, margin ≥69% — 🔴 Fail on the reported figure, consequence not applied — +3.0% ($23.51), 98.3%, 70.0%; management's clean figure just above $24 (≈+5%); retested at Q4 ≥$24.40
+
+### Changed
+- Record quarter: revenue $401.8M (+24.5%), adj EBITDA $224.5M (+28.5%), EPS $0.70 vs ≈$0.63; FY26 EBITDA guide midpoint +$5M to $850M. Power margin 75%, fleet 413 MW.
+- Texas: management concedes "a little bit of uncertainty"; no moratorium discussion. Bear unchanged at 30%.
+- Model: spot $45.45 → $44.69, dividend $1.96 → $2.04 (verified $0.51 quarterly); cases unchanged. Test 2 and 3 text rewritten.
+- Skill: word limits removed in favor of a comprehension-versus-bloat test.
+
+### Status
+- **Thesis**: Unchanged
+- **PW EV**: $64 → $64 · **PW return/yr**: 11.3% → 11.9% (hurdle 13%) · **R/R**: 4.2 → 4.4 · **BAIT**: unchanged
+- **Verbs**: non-holder Watch (entry ≤$43) · holder Hold
+
+**Next trigger**: 📅 Late Feb 2027 Q4 print: FY2027 capex plan, leverage, rev/hp, any turbine contract.
+
+---
+
+## [2026-11-07] — Third-party cross-check (Bespoke) · no change to the page
+
+**Trigger**: user-requested sweep of bespokepremium.com for KGS coverage; no new company event.
+**Sources**: [Bespoke Chart of the Day, Aug 29, 2024](../../../raw/KGS/third-party/2024-08-29_bespoke_chart-of-the-day_NOTES.txt) (notes; [original](https://www.bespokepremium.com/chart-of-the-day/chart-of-the-day-kodiak-gas-services-kgs/)) · [KGS.md](KGS.md) as of Oct 23
+
+**Coverage**: one Bespoke article on Kodiak, 14 months old. Bespoke 50 posts match the search but their stock list is gated, so membership is unverified. A May 2025 "KGS" hit is Kratos Government Solutions, not this ticker.
+
+### Scorecard
+- Test 1, anchor at ten years on new-build turbines — 🔴 Fail, standing (Sep 21); replacement test due at the Q4 print
+- Test 2, leverage ≤3.5×, no equity — 🟡 Pending — Q3 print Nov 9
+- Test 3, revenue per hp ≥+3.5% at ≥97.5% utilization, margin ≥69% — 🟡 Pending — Q3 print Nov 9
+
+### Changed
+- **Nothing in the model or on the page.** The article is non-primary, predates the power build, and carries no new fact.
+- **Agrees**: fleet quality and scale, a large-horsepower mix, and a dividend-plus-compression case. `[Third-party]`
+- **Stale**: 6% yield then vs 4.3% now; 14.5× forward earnings then vs ≈8.6× FY26E EV/EBITDA now; its view that gas demand growth must come from exports ignores the 2026 power-for-data-centers case, the whole current debate.
+- **Does not reconcile**: its "EBITDA near 25%" against company adjusted EBITDA margins of roughly 52–56% in recent years. Likely a different EBITDA definition; not used.
+- **Direction held, magnitude changed**: capex above a quarter of revenue was a flag in 2024; the FY2026 guide of $805–895M is roughly triple last year's.
+
+### Status
+- **Thesis**: Unchanged
+- **PW EV**: $64 · **PW return/yr**: 11.3% (hurdle 13%) · **R/R**: 4.2 · **BAIT**: unchanged
+- **Verbs**: non-holder Watch (entry ≤$42) · holder Hold
+
+**Next trigger**: 📅 Q3 print Mon Nov 9 pre-market: tests 2 and 3, plus Texas policy commentary.
+
+---
+
 ## [2026-11-06] — No Material Events
 
 **Window**: 2026-10-23 → 2026-11-06

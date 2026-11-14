@@ -160,7 +160,7 @@ The essay's structure is set by `references/deep-dive-style.md`. The front matte
 
 - **Header**: schema, updated date, status; price with timestamp and source, 52-week range, percentile, distance from the high; type, stage, Cyclical, Competence, 🔁 if it qualifies; a link to the deep dive.
 - **Verdict**: one sentence, the two verbs, the one-row table (`PW EV | PW return/yr | Compounding/yr | R/R | Entry | Trim | Avoid | multiple | Yield | BAIT | Moat | Next`), **Breaks if**.
-- **The Call** (~200 words, from `data.json` `call`). What the market has priced, what it has wrong, the one number that proves it; say "probability-fragile" when the rule applies.
+- **The Call** (short, from `data.json` `call`). What the market has priced, what it has wrong, the one number that proves it; say "probability-fragile" when the rule applies.
 - **What I'd Have To Be Wrong About**: exactly three kill criteria, each with source, date and a pre-committed consequence (give the test a `shift` so its PW EV, return and entry are computed).
 - **Latest update** with its scorecard, then a rule and **Deep Dive: [title]** with the essay, Appendix and Sources (chapters one heading level down).
 
@@ -205,7 +205,7 @@ Pull these for Mode A. Log gaps; never fabricate a number.
 
 - **State each fact once.** It lives in one chapter; elsewhere it gets a one-clause reference. Model numbers go through `[[tokens]]` so the essay, tables and front matter agree.
 - **Quote management where its own words carry the argument**, at length if needed, always attributed to person, venue and date. Paraphrase everything else.
-- **Budget**: about 4,000–7,000 words of prose for a full deep dive, excluding tables, quotes and the Appendix; 600–1,200 words for a Mode B note; 200–500 for Mode C. The budget guards against sprawl, not against evidence.
+- **Balance, not a word count.** No limit; length follows the evidence. Every paragraph must be needed for comprehension (a definition, a quote, a number, a step of the argument) and must add something the reader doesn't already have. Cut restatement, second examples, recaps and prose that repeats a table; never cut evidence. See `references/deep-dive-style.md` section 8.
 - **Tables run time in columns, metrics in rows**; every table and chart has a sourced note.
 - **Emoji** stay out of the essay; they appear only in the generated front matter, with their usual meanings (🟢 🔴 🟡 ⚠️ ✅ 📅 💰 🎯 🔁).
 - **No HTML** anywhere in the sources; the build emits plain GitHub-flavored Markdown.
@@ -220,7 +220,7 @@ Pull these for Mode A. Log gaps; never fabricate a number.
    - Apply each pre-committed consequence exactly as written.
    - Overriding a consequence requires evidence that did not exist when the test was written; name that evidence.
    - Write a replacement for each resolved test.
-3. **Write the update note** `updates/YYYY-MM-DD.md` (600–1,200 words) in the deep-dive voice. Cover:
+3. **Write the update note** `updates/YYYY-MM-DD.md` in the deep-dive voice, as long as the news warrants. Cover:
    - the numbers against consensus and last year;
    - segments;
    - guidance and why it changed;
@@ -237,7 +237,7 @@ Pull these for Mode A. Log gaps; never fabricate a number.
 
 ## Mode C: news and price update
 
-- Write a 200–500-word update note covering what drove the move (earnings, macro, sector or company-specific) and whether the move looks warranted.
+- Write a short update note covering what drove the move (earnings, macro, sector or company-specific) and whether the move looks warranted.
 - Set the new spot in `model.json` and re-run the model, because zones can be crossed without news. Say if a kill criterion is touched.
 - Refresh `meta` and anything the news made false. No verb change without the bias check. Rebuild.
 

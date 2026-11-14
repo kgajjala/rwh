@@ -1,0 +1,16 @@
+Bespoke Investment Group — "Chart of the Day – Kodiak Gas Services (KGS)"
+Published: 2024-08-29 | Source: https://www.bespokepremium.com/chart-of-the-day/chart-of-the-day-kodiak-gas-services-kgs/ (subscriber site)
+Retrieved: 2026-11-07 via logged-in Chrome. NOTES in my own words, not a copy of the article. Non-primary: tag any figure [Third-party].
+
+Search coverage (2026-11-07, site search "Kodiak Gas Services", "Kodiak", "KGS"):
+- This is the ONLY Bespoke article written about Kodiak Gas Services.
+- Six Bespoke 50 Growth Stocks posts (9/26/24, 11/7/24, 12/5/24, 12/30/24, 1/30/25, 2/27/25) match the search, but the public post is a template (performance chart + trial pitch); the 50-stock list is not in the page text, so KGS membership could not be confirmed.
+- "KGS" alone also returns a 2025-05-21 Bespoke Baskets post where KGS = Kratos Government Solutions (a Kratos segment). Unrelated to this ticker.
+
+What the article says (as of Aug 2024, ~14 months after IPO):
+- Thesis: steady US gas production (>110 bcf/d) and LNG export growth; KGS as a compression-leasing way to play it. Rated "attractive".
+- Power read: gas-plant additions small vs. solar (0.4 GW vs 12.0 GW in H1 2024), so domestic power-sector gas demand unlikely to keep growing; exports carry the growth.
+- Fleet: >3,000 units; about half by count and ~80% of horsepower are >1,000 hp.
+- Margins: gross ~60%; "EBITDA" near 25%. Depreciation in the low-to-mid 20s % of revenue (~7%/yr of PP&E); capex >25% of revenue.
+- Valuation/income: ~6% dividend yield; 20.6x trailing, 14.5x forward earnings.
+- Risks named: gas downturn, equipment supply, operating the fleet.

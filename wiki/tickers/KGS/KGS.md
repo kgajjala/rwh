@@ -36,13 +36,13 @@ Kodiak fell 23% from September 16 to $44.69 despite no bad compression news, bec
 
 Kodiak reported Q3 on Monday, November 9, and the stock closed Friday at $44.69, 23% below September 16 but about 10% above its November 6 level of $40.7. The print answered two of my open questions and left a third, Texas, open. The probability-weighted return is 11.9% against the 13% hurdle, and the verbs hold at Watch (entry ≤$43) and Hold.
 
-**What was reported.** Revenue was $401.8M, up 24.5%. Adjusted EBITDA was a record $224.5M, up 28.5%, and discretionary cash flow was $158M. Net income to common was $0.70 a share against about $0.63 expected `[Analyst consensus]`. Guidance for FY2026 adjusted EBITDA rose $5M at the midpoint to $850M, a small raise that implies Q4 slightly below Q3. The dividend is $0.51 for the quarter, up 4% from a year ago and covered more than three times by discretionary cash flow. Source: [Q3 call](../../../raw/KGS/transcripts/2026-11-09_Q3-2026-earnings-call_NOTES.txt); I could not read the release or 10-Q directly, so the figures come from the transcript and trade press.
+**What was reported.** Revenue was $401.8M, up 24.5%: compression $318.4M (+7.2%), power $42.0M and other services $41.4M. Adjusted EBITDA was a record $224.5M, up 28.5%, and discretionary cash flow was $158M. Net income to common was $0.70 a share against about $0.63 expected `[Analyst consensus]`. Guidance for FY2026 adjusted EBITDA is now $840–860M (was $830–860M), a $5M midpoint raise that implies Q4 slightly below Q3; discretionary cash flow guidance rose to $580–600M. The dividend is $0.51 for the quarter, up 4% from a year ago and covered more than three times by discretionary cash flow. Source: [Q3 call](../../../raw/KGS/transcripts/2026-11-09_Q3-2026-earnings-call_NOTES.txt); Figures are checked against the [Q3 release](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000076/kgsq32026earningsrelease.htm) and the [10-Q](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000079/kgs-20260930.htm).
 
 **Compression.** Utilization was 98.3% and the adjusted gross margin 70%, up 170 basis points on the year. Revenue per ending horsepower was $23.51, up 3.0% year over year and down from Q2's $23.80. CEO Mickey McKee and CFO John Griggs said excluding 43,000 horsepower bought out of operating leases and one terminated contract it is "just a shade over $24." I take that at face value but treat it as management's number. Revenue-generating horsepower reached 4.5M, and about 170,000 horsepower will be added in 2026. McKee on pricing: "I don't think we've seen any change on outlook on pricing going forward."
 
 **Power.** Revenue was $42M, up 28% from Q2, at a 75% margin against 64.5% last quarter. The fleet is 413 MW, 382 MW of it earning revenue. Griggs said new projects are "penciling in at high teens or better with, call it, somewhere between a five- and six-year payback," and McKee said terms are "a minimum of 10-year terms, most of them at 15-year terms." That is the same claim as August's. What is missing is a signed turbine contract at those terms and any price per MW-month. Until one exists, the Bull stays at 15%.
 
-**Balance sheet.** Leverage was 3.1×, debt about $2.8B with $1.6B undrawn. Griggs said the May equity raise was "pre-funding our equity needs." The commitment to Baker Hughes is 1.1 GW through 2031, over $1.4B of capital. Management gave no FY2027 capex figure and said it will on the Q4 call.
+**Balance sheet.** Leverage was 3.1×, debt about $2.8B with $1.6B undrawn. Griggs said the May equity raise was "pre-funding our equity needs." The commitment to Baker Hughes is 1.1 GW through 2031, over $1.4B of capital. The 2026 power growth capex guide is unchanged at $350–400M although the release says delivery timing moved. Management gave no FY2027 capex figure and said it will on the Q4 call.
 
 **The pushback.** The useful questions were about Texas. J.P. Morgan asked about a post-election shift, and McKee said "there is some, a little bit of uncertainty in Texas." Wells Fargo noted softer language on water, noise and emissions rules. Jefferies asked whether Texas stays the majority of the pipeline, and McKee replied there is "a lot of water to go under the bridge." No one asked about the moratorium pledge by name, and management did not address it. I read that as honest uncertainty, not reassurance. The 76 MW West Texas project is signed and likely safe; the pipeline behind it is exposed.
 
@@ -52,6 +52,8 @@ Kodiak reported Q3 on Monday, November 9, and the stock closed Friday at $44.69,
 - *Anchor replacement*: pending until February.
 
 **Model.** I moved spot to $44.69 and the dividend to $2.04, the verified $0.51 quarterly rate. I left the case inputs and probabilities alone. The leverage pass argues for a lower Bear, Texas for a higher one, and the pricing miss is unresolved. Break-even Bear odds are 24% against my 30%, so the verb remains probability-fragile. The price that clears 13% on these cases is $43, about 5% below spot. The stock is not yet an Initiate. A clean Q4 on pricing and a FY2027 plan that needs no equity would be the next step toward one.
+
+**Insiders and the buyback.** Three directors bought on the open market after the print: Alexander Darden 10,000 shares at $44.99 on Nov 11 (about $450K), Margaret Montana 1,000 at $44.26 and Gretchen Holloway 1,145 at $43.62 ([Form 4s](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001767042&type=4)). A COO sale of 1,000 shares under a 10b5-1 plan is the only sale in the window. That is a small cluster of dollar-light but unusual buying, and context only; it moves no verb. The board also extended the $100M buyback to December 31, 2027, with $31.7M left. Nothing was bought, so the capital-allocation grade is unchanged.
 
 **Earlier updates**: [2026-10-23 · The anchor came in at six years, and Kodiak became an AI-power stock](report/updates/2026-10-23.md)
 
@@ -93,22 +95,22 @@ Kodiak reports three segments. **Compression Infrastructure** owns and operates 
 
 | $ Million | Q2 2025 | Q1 2026 | Q2 2026 | Q3 2026 | FY2026 guide |
 |---|---|---|---|---|---|
-| **Compression Infrastructure revenue** | 293.5 | 307.0 | 315.1 | n/d | 1,250–1,280 |
-|  Adjusted gross margin | 68.3% | 70.6% | 70.0% | 70.0% | 69.0–70.5% |
+| **Compression Infrastructure revenue** | 293.5 | 307.0 | 315.1 | **318.4** | 1,255–1,275 |
+|  Adjusted gross margin | 68.3% | 70.6% | 70.0% | 70.0% | 69.5–70.5% |
 |  Revenue per hp-month | $22.78 | — | **$23.80** (+4.5%) | **$23.51** (+3.0%) | — |
 |  Utilization | 97.2% | 98.0% | **98.2%** | **98.3%** | — |
-| **Power Infrastructure revenue** | — | — | 32.9 | **42** | 95–125 |
-|  Adjusted gross margin | — | — | 64.5% | 75.2% | 60–70% |
+| **Power Infrastructure revenue** | — | — | 32.9 | **42** | 100–120 |
+|  Adjusted gross margin | — | — | 64.5% | 75.2% | 65–70% |
 |  Fleet / utilization | — | — | 405 MW / 89.6% | 413 MW / 92.5% | — |
-| **Other Services revenue** | 29.3 | 38.8 | 43.1 | n/d | 125–160 |
-|  Adjusted gross margin | 24.5% | 15.9% | 11.3% | n/d | 13–16% |
-| **Total revenue** | 322.8 | 345.8 | **391.1** | **401.8** | ≈1,470–1,565 |
-| **Adjusted EBITDA** | 178.2 | 190.1 | **216.8** | **224.5** | **≈850 (mid)** |
-| Discretionary cash flow | 116.4 | 126.5 | 163.3 | 158 | 570–600 |
-| Free cash flow (company definition) | 70.3 | 37.0 | −87.5 | n/d | capex 805–895 |
+| **Other Services revenue** | 29.3 | 38.8 | 43.1 | 41.4 | 125–160 |
+|  Adjusted gross margin | 24.5% | 15.9% | 11.3% | 11.3% | 13–16% |
+| **Total revenue** | 322.8 | 345.8 | **391.1** | **401.8** | ≈1,480–1,555 [Derived] |
+| **Adjusted EBITDA** | 178.2 | 190.1 | **216.8** | **224.5** | **840–860** |
+| Discretionary cash flow | 116.4 | 126.5 | 163.3 | 158.5 | 580–600 |
+| Free cash flow (company definition) | 70.3 | 37.0 | −87.5 | **−28.1** | capex 805–895 |
 | Net leverage (credit agreement) | — | 3.6× | 3.1× | **3.1×** | "peaks in the mid-3s" |
 
-*Adjusted gross margin is revenue less cost of operations before D&A. Discretionary cash flow is adjusted EBITDA less cash interest, cash taxes and maintenance capex. Source: [Q2 2026 release](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000052/kgsq22026earningsrelease.htm), [Q2 10-Q](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000055/kgs-20260630.htm). Built with Claude. Q3 2026 from the [call transcript](https://www.webull.com/news/15894937675624448) and trade press; the Q3 release and 10-Q were not read directly (gap logged in the raw notes).*
+*Adjusted gross margin is revenue less cost of operations before D&A. Discretionary cash flow is adjusted EBITDA less cash interest, cash taxes and maintenance capex. Source: [Q2 2026 release](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000052/kgsq22026earningsrelease.htm), [Q2 10-Q](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000055/kgs-20260630.htm). Built with Claude. Q3 2026 and the guide from the [Q3 release](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000076/kgsq32026earningsrelease.htm) and [10-Q](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000079/kgs-20260930.htm); revenue per hp ($23.51) is revenue ÷ three months ÷ ending revenue-generating hp [Derived], matching management's figure.*
 
 Three things stand out in the recent quarters. Compression pricing is rising faster than costs even with lube oil, a big input, elevated by $100 crude. Power is small: $33 million of revenue a quarter, about 8% of the total. And free cash flow has turned negative because the capex budget roughly tripled this year to $805–895 million, half of it for power.
 
@@ -244,7 +246,7 @@ Mickey McKee founded Kodiak and took it public in June 2023, with EQT as the spo
 
 Two things stand out. Over FY2022–25 Kodiak generated $283 million of free cash flow after all capex and paid out $468 million in dividends and buybacks. The gap was covered by the IPO and, more importantly, by issuing stock for acquisitions: diluted shares rose from 59 million to 89 million, then to 101 million this year after May's $836 million offering at $71. In the year the power plan began, the per-share story became an equity-funded story.
 
-The second thing is that the 2025 buybacks were well timed. Kodiak repurchased $104 million at an average of $34.02, which is roughly the bottom of the five-year range, and raised the dividend twice. In 2026 the posture reversed. Kodiak bought nothing in the first half while the $150 million authorization runs out in December. It held the dividend flat and stopped tying it to cash flow, and buybacks became the last priority behind the dividend, the balance sheet and power capex. Raising equity at $71 to buy power assets at about five times EBITDA was good Outsider arithmetic *if* the assets earn what management says. September made that a bigger if.
+The second thing is that the 2025 buybacks were well timed. Kodiak repurchased $104 million at an average of $34.02, which is roughly the bottom of the five-year range, and raised the dividend twice. In 2026 the posture reversed. Kodiak bought nothing in the first half, and on November 4 the board extended the $100 million program to the end of 2027 with $31.7 million left, so the option exists but is small against $836 million of equity raised at $71. It held the dividend flat and stopped tying it to cash flow, and buybacks became the last priority behind the dividend, the balance sheet and power capex. Raising equity at $71 to buy power assets at about five times EBITDA was good Outsider arithmetic *if* the assets earn what management says. September made that a bigger if.
 
 I grade capital allocation **Reinvestor**. The countercyclical buyback in 2025 was textbook, but 2026 is a reinvestment program whose returns are not yet visible.
 
@@ -401,7 +403,7 @@ The tables below carry the framework's required numbers. The argument for each i
 | New geographies | None | — | U.S.-only since the Mexico exit; power is sited at load | — | n/a |
 | M&A | Episodic | — | CSI Compressco 2024, DPS 2026, both integrated on schedule | Fourth priority | Proven |
 | Margin | +170 bps YoY | 1–2 yrs | 70% compression margin, above the ≈66.5% median | 69–70.5% guide | Near peak |
-| Share count | +13% in 2026 | — | $836M raised at $71; $150M authorization unused, expiring Dec 31 | Repurchases "opportunistic" | Negative |
+| Share count | +13% in 2026 | — | $836M raised at $71; $100M repurchase program extended to Dec 31, 2027, $31.7M remaining | Repurchases "opportunistic" | Negative |
 
 *Lever taxonomy per the framework. Source: [Q2 call](https://www.fool.com/earnings/call-transcripts/2026/08/07/kodiak-gas-services-kgs-q2-2026-earnings-call-transcript/), [Aug 2026 investor deck](https://ir.kodiakgas.com/news-events/presentations). Built with Claude.*
 
@@ -450,7 +452,7 @@ The tables below carry the framework's required numbers. The argument for each i
 | ✅ Oct 14–22 | AI-infrastructure credit scare (CoreWeave bonds) and the Oct 22 AI-power rout | Kodiak −10% on Oct 22 with GE Vernova and Vistra |
 | 📅 Oct 27–28 | Archrock Q3; GE Vernova Q3 | Peer compression pricing; turbine demand and pricing |
 | ✅ Nov 9 | Kodiak Q3: record EBITDA $224.5M, 3.1× leverage, rev/hp +3.0%, FY26 EBITDA guide to $850M | Test 2 half passed; test 3 missed on reported basis |
-| 📅 Dec 31 | $150M repurchase authorization expires | Renewal or lapse reads the capital-allocation grade |
+| ✅ Nov 4 | Board extends the share repurchase program to Dec 31, 2027; $31.7M of the $100M remains ([10-Q](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000079/kgs-20260930.htm)) | Authorization kept alive; no buyback made, so the capital-allocation grade is unchanged |
 | 📅 Q1 2027 | West Texas 76 MW project starts (Q1); Texas legislature and governor-elect on data-center rules | Whether the 1.8 GW pipeline is exposed to Texas policy |
 | 📅 Late Feb 2027 | Q4, FY2027 guide, FY2026 10-K | Tests 1, 2 and 3; the leverage peak |
 
@@ -462,7 +464,7 @@ The tables below carry the framework's required numbers. The argument for each i
 |---|---|
 | Analysts | Strong Buy (15), mean target $81 `[Analyst consensus]`; October cuts at Barclays ($72 → $67), Citi ($86 → $82) and RBC ($88 → $82), no three-firm cluster in a week |
 | Short interest | 8.34M shares, 8.3% of float, flat month over month |
-| Insiders (Form 4, since Sep 16) | 10b5-1 sales only, all small: CEO McKee 2,666 shares at $53.95 (Oct 5), COO Lenamon 1,000 at $53.25 (Oct 12), CIO Buhigas 3,663 at $58.14 (Sep 16); no purchases |
+| Insiders (Form 4, since Sep 16) | **Three director purchases after the print**: Darden 10,000 shares at $44.99 (Nov 11, ≈$450K), Montana 1,000 at $44.26 (Nov 11), Holloway 1,145 at $43.62 (Nov 12). Sales are small 10b5-1 plans: COO Lenamon 1,000 at $44.28 (Nov 11), CEO McKee 2,666 at ~$45 (Nov 3), earlier sales in October. Context only |
 | Appearances (Sep 17 – Nov 14) | Q3 call Nov 9 (CEO McKee, CFO Griggs) is the main item; no conference or media appearance located otherwise. McKee sold 2,666 shares ($121K) on Nov 3, immaterial. Short interest, consensus and Form 4s not refreshed this update |
 | BAIT | Double (B+A): B Moderate (a 22% fall into an AI-financing narrative while compression peers fell 3–6%); A Moderate (the market prices Kodiak as AI-power beta, while earnings power of ≈$55 a share sits above the price). I and T Weak |
 

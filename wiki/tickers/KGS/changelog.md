@@ -7,7 +7,7 @@
 ## [2026-11-14] — Q3 2026 earnings · price $44.69
 
 **Trigger**: Q3 print Nov 9; stock −23% from Sep 16, +10% from Nov 6.
-**Sources**: [Q3 call notes](../../../raw/KGS/transcripts/2026-11-09_Q3-2026-earnings-call_NOTES.txt) (release and 10-Q not read directly; gap logged there) · [Yahoo](https://finance.yahoo.com/quote/KGS/) Nov 13
+**Sources**: [Q3 call notes](../../../raw/KGS/transcripts/2026-11-09_Q3-2026-earnings-call_NOTES.txt) · [Q3 release](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000076/kgsq32026earningsrelease.htm) · [10-Q](https://www.sec.gov/Archives/edgar/data/1767042/000176704226000079/kgs-20260930.htm) · Form 4s Nov 11–12 (all verified against filings) · [Yahoo](https://finance.yahoo.com/quote/KGS/) Nov 13
 
 ### Scorecard
 - Anchor / replacement test 1, turbine contract ≥7 years at stated 15% by Q4 — 🟡 Pending — management cites 10–15-year terms and high-teens returns, no signed turbine contract
@@ -16,6 +16,8 @@
 
 ### Changed
 - Record quarter: revenue $401.8M (+24.5%), adj EBITDA $224.5M (+28.5%), EPS $0.70 vs ≈$0.63; FY26 EBITDA guide midpoint +$5M to $850M. Power margin 75%, fleet 413 MW.
+- Filings check corrected the page: compression revenue $318.4M, FCF −$28.1M, guide ranges (EBITDA $840–860M, DCF $580–600M); the buyback is a $100M program extended Nov 4 to Dec 31, 2027 with $31.7M left (not a $150M authorization expiring Dec 31).
+- Insiders: three directors bought after the print (Darden 10,000 at $44.99, Montana 1,000, Holloway 1,145); context only.
 - Texas: management concedes "a little bit of uncertainty"; no moratorium discussion. Bear unchanged at 30%.
 - Model: spot $45.45 → $44.69, dividend $1.96 → $2.04 (verified $0.51 quarterly); cases unchanged. Test 2 and 3 text rewritten.
 - Skill: word limits removed in favor of a comprehension-versus-bloat test.

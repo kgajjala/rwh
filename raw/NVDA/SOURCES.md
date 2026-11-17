@@ -13,6 +13,9 @@ First ingest: 2026-11-17 (Workflow A, v7). Fetch method per the repo's SEC notes
 | `filings/2026-11-12_8-K_CEO_transition_extract.md` | 8-K on Huang's resignation | Summary extract |
 | `appearances/2026-09-10_goldman-communacopia_huang.md` | Goldman Sachs Communacopia fireside | Summary extract |
 | `appearances/2026-10-21_gtc-berlin_huang.md` | GTC Berlin keynote | Summary extract |
+| `press-releases/2026-11-17_Q3FY27_press_release.txt` | Q3 FY2027 press release (newsroom HTML, text extract) | Yes |
+| `press-releases/2026-11-17_Q3FY27_CFO_commentary.txt` | CFO commentary, Q3 FY2027 (IR PDF, PDFKit extract) | Yes |
+| `transcripts/2026-11-17_Q3FY27_earnings_call_extract.txt` | Q3 FY2027 call, key passages from the Investing.com transcript (AI-assisted, editor-reviewed) | Verbatim excerpts |
 | `../clippings/2026-11-03_AMD_Q3_2026_prepared_remarks.txt` | AMD Q3 2026 prepared remarks (competitor) | Yes |
 
 ## Gaps (logged, not fabricated)
@@ -24,3 +27,4 @@ First ingest: 2026-11-17 (Workflow A, v7). Fetch method per the repo's SEC notes
 - **Investor day**: none held recently; GTC 2026 roadmap read through SemiAnalysis and HPCwire.
 - **Huang separation terms**: not disclosed in the Nov 12 8-K.
 - **Mellanox and Arm deal prices**: from memory of the announcements, marked `[link pending]` in the report.
+- **Q3 FY2027 call (Nov 17, 2026)**: one transcript (Investing.com) plus CNBC's write-up; the IR-hosted FactSet transcript was not yet posted. Re-check against it when it appears (R9).

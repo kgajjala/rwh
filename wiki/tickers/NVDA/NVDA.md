@@ -1,38 +1,79 @@
 # NVDA — NVIDIA Corporation
 
 > **Schema** v7.0 · **Updated** 2026-11-17 · **Status** Active
-> **Price** $154.60 verified Nov 17, 2026, about 2:15 PM EST, intraday, before the Q3 FY2027 release ([Yahoo](https://finance.yahoo.com/quote/NVDA/)) · 52-wk $148.80–$243.37 · 6th %ile · −36.5% from high
+> **Price** $162.98 verified Nov 17, 2026, 6:09 PM EST, after hours, after the Q3 FY2027 release (regular-session close $155.46) ([Yahoo](https://finance.yahoo.com/quote/NVDA/)) · 52-wk $148.80–$243.37 · 15th %ile · −33.0% from high
 > **Type** Fabless AI-infrastructure platform (accelerators, systems, networking, software) · **Stage** Scaling · **Cyclical** Yes · **Competence** Edge
 
 ## Verdict
 
-**Nvidia is guided to grow revenue about 70% next year, yet after a 36% fall and its founder's resignation the stock trades at 9.7× next year's consensus EPS; my probability-weighted case, which assumes share falls toward 58% and revenue goes flat after FY2028, returns 13.7% a year at $154.60, just over the 13% hurdle: Initiate, probability-fragile.**
+**Nvidia has just raised next year's growth outlook to about 75%, yet after a one-third fall from its high and its founder's resignation the stock trades at about 10× next year's pre-print consensus EPS; my probability-weighted case, which assumes share falls toward 58% and revenue goes flat after FY2028, returns 13.6% a year at $162.98, just over the 13% hurdle: Initiate, probability-fragile.**
 
-🟢 **Non-holder: Initiate (≤$159), fragile** · 🟢 **Holder: Add**
+🟢 **Non-holder: Initiate (≤$167), fragile** · 🟢 **Holder: Add**
 
 | PW EV | PW return/yr | Compounding/yr | R/R | Entry | Trim | Avoid | P/E | Yield | BAIT | Moat | Next |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| **$285** | **13.7% (≥13%)** | 11.6% | 6.9:1 | ≤$159 | $285–$520 | ≥$520 | 16.7× FY2027E · 9.7× FY2028 consensus | 0.6% | Double (B+A), Moderate | Wide; narrowing at the largest buyers | 📅 Q3 FY2027 tonight (Nov 17, after the close) · Q4 FY2027 ~late Feb 2027 · CEO search |
+| **$300** | **13.6% (≥13%)** | 12.5% | 6.4:1 | ≤$167 | $300–$537 | ≥$537 | 17.0× FY2027E · 10.2× FY2028 consensus (pre-print) | 0.6% | Double (B+A), Moderate | Wide; narrowing at the largest buyers | 📅 Q4 FY2027 ~late Feb 2027 (test 1) · CEO search · Hugging Face close |
 
-**Breaks if**: The FY2028 outlook of about 70% growth is cut, hyperscale revenue falls two quarters running while Broadcom's AI revenue keeps its guide, or non-GAAP gross margin breaks below the 71% floor management set. Any of these says the share-break case is arriving, and each moves 10–15 points from Base to Bear.
+**Breaks if**: The FY2028 outlook is cut below 70% growth or receivables pass 70 days of sales, hyperscale revenue falls two quarters running while Broadcom's AI revenue keeps its guide, or non-GAAP gross margin breaks below the 71% floor management set. Any of these says the share-break case is arriving, and each moves 10–15 points from Base to Bear.
 
 ⚠️ **Probability-fragile**: break-even Bear odds 26% against 25% assigned.
 
 ## The Call
 
-The market is pricing FY2028 as close to the peak. At $154.60, a 10% return needs FY2032 EPS of $15.11 at 16 times, a little below my Base of $15.58, and my Base already has revenue going roughly flat after the guided jump to about $697 billion, as Google's TPU, AMD's Helios and Broadcom's custom chips take share at the largest buyers. What I think the price has slightly wrong is how much is left after that: even with share falling from about 83% of spending to about 58% and gross margin to 69%, buybacks and cash returns compound EPS at 11.0% a year, and the Bull, a platform that holds two-thirds of a growing market, is worth $520. Weighted, the value is $285 and the return 13.7%, so the price that returns 13% is $159. The verdict is probability-fragile: the break-even Bear probability is 26% against the 25% I assign, so one notch more pessimism on share, demand or the post-Huang roadmap turns it into a Watch. The number that settles it first is tonight's FY2028 outlook; the one that settles it over a year is hyperscale revenue against Broadcom's AI revenue.
+The market is pricing FY2028 as close to the peak. At $162.98, a 10% return needs FY2032 EPS of $15.95 at 16 times, a little below my Base of $16.73, and my Base already has revenue going roughly flat after the guided jump to about $740 billion, as Google's TPU, AMD's Helios and Broadcom's custom chips take share at the largest buyers. What I think the price has slightly wrong is how much is left after that: even with share falling from about 83% of spending to about 58% and gross margin to 69%, buybacks and cash returns compound EPS at 11.9% a year, and the Bull, a platform that holds two-thirds of a growing market, is worth $537. Weighted, the value is $300 and the return 13.6%, so the price that returns 13% is $167. The verdict is probability-fragile: the break-even Bear probability is 26% against the 25% I assign, so one notch more pessimism on share, demand or the post-Huang roadmap turns it into a Watch. The first check, the FY2028 outlook, came back raised on November 17; the number that settles it over a year is hyperscale revenue against Broadcom's AI revenue.
 
 ## What I'd Have To Be Wrong About
 
-1. **That FY2028 is the year management says it is.** Test: Tonight's Q3 FY2027 release and call (Nov 17, 2026): a Q4 FY2027 revenue guide with a midpoint of at least $118 billion (consensus about $124 billion) and the FY2028 outlook of about 70% growth reaffirmed, with no cut below 60%. **If Fail →** 15 points Base → Bear (PW EV $263, 11.8%/yr) → **Watch / Hold**, entry ≤$147.
-2. **That share bleeds rather than breaks at the hyperscalers.** Test: Hyperscale revenue grows sequentially in Q4 FY2027 and Q1 FY2028 (reported about late February and late May 2027), as the CFO said it would reaccelerate in Q4 with Vera Rubin supply. Fail: two consecutive sequential declines while Broadcom's AI semiconductor revenue meets its own guide. **If Fail →** 10 points Base → Bear (PW EV $270, 12.5%/yr) → **Watch / Hold**, entry ≤$151.
-3. **That the price umbrella holds while memory costs rise.** Test: Non-GAAP gross margin of at least 71.0% in Q4 FY2027 and at least 72.0% in Q1 FY2028 (management guided a bottom of 71–72% in Q4, then 72–73% in FY2028 as price increases take effect in Q1). **If Fail →** 10 points Base → Bear (PW EV $270, 12.5%/yr) → **Watch / Hold**, entry ≤$151.
+1. **That FY2028 is the year management says it is, paid for in cash.** Test: Q4 FY2027 release and call (about late February 2027): the FY2028 outlook held at 70% growth or better (from about 75% now) and days sales outstanding at 70 or below (64 at Q3). **If Fail →** 15 points Base → Bear (PW EV $275, 11.7%/yr) → **Watch / Hold**, entry ≤$153.
+2. **That share bleeds rather than breaks at the hyperscalers.** Test: Hyperscale revenue grows sequentially in Q4 FY2027 and Q1 FY2028 (reported about late February and late May 2027), as the CFO said it would reaccelerate in Q4 with Vera Rubin supply. Fail: two consecutive sequential declines while Broadcom's AI semiconductor revenue meets its own guide. **If Fail →** 10 points Base → Bear (PW EV $283, 12.3%/yr) → **Watch / Hold**, entry ≤$158.
+3. **That the price umbrella holds while memory costs rise.** Test: Non-GAAP gross margin of at least 71.0% in Q4 FY2027 and at least 72.0% in Q1 FY2028 (management guided a bottom of 71–72% in Q4, then 72–73% in FY2028 as price increases take effect in Q1). **If Fail →** 10 points Base → Bear (PW EV $283, 12.3%/yr) → **Watch / Hold**, entry ≤$158.
+
+## Latest update: 2026-11-17 · Q3 FY2027: beat, $130B guide, FY2028 raised to ~75%
+
+- FY2028 is the year management says it is — ✅ Pass — Q4 guide $130.0B midpoint (≈$121B on 13 weeks) vs ≥$118B; FY2028 growth raised to ≈75% from 70%
+- Share bleeds rather than breaks at the hyperscalers — 🟡 Pending — Q3 hyperscale +23% q/q to $60.1B, a good start; the test window is Q4 FY2027 and Q1 FY2028
+- The price umbrella holds while memory costs rise — 🟡 Pending — Q3 74.9%; Q4 guided 71–72% and FY2028 72–73% reaffirmed; resolves late Feb and late May
+
+Nvidia reported its third fiscal quarter of 2027 a few hours after the page above went up, and the number that mattered most moved the right way. Revenue was $115.8 billion against a $108 billion guide and about $109 billion of consensus, up 103% from a year ago. Non-GAAP EPS was $2.68 against about $2.47. The fourth-quarter guide is $130 billion, plus or minus 3%, which includes an extra week and no China compute; at thirteen weeks it would be about $121 billion, still above the bar I set. Then on the call Kress raised next year:
+
+> "This combined with increased support from our supply base, we are raising our fiscal year 2028 outlook. We expect revenue to grow approximately 75% year-over-year, up from 70%, and off what is now a higher fiscal 2027 base. Our outlook considers data center readiness, the strength and durability of end customer demand, and our customers' access to capital."
+> — Colette Kress, interim CEO and CFO, Q3 FY2027 earnings call, November 17, 2026 ([transcript](https://in.investing.com/news/stock-market-news/earnings-call-transcript-nvidia-tops-q3-2026-estimates-and-lifts-outlook-93CH-5711032))
+
+Fiscal 2027 now comes out near $424 billion, so 75% on top of it is roughly $740 billion for fiscal 2028 `[Derived]`. The stock closed at $155.46 and traded at $162.98 after hours, up about 5%.
+
+### What was reported, against the debates
+
+**The share debate went Nvidia's way this quarter.** Hyperscale revenue, the line I watch against Broadcom, grew 23% sequentially to $60.1 billion, the fastest of the two Data Center subsegments, on what Kress called "the Vera Rubin ramp and sustained strength in Grace Blackwell." Vera Rubin generated nearly $20 billion in its first quarter of production shipments, and hyperscalers brought it into production in about a month, half the time Grace Blackwell took. Networking passed $21 billion. Frontier labs are expected to be about 15% of Data Center revenue this year. None of this says custom chips are not gaining at Google or Anthropic; it says that, in the quarter Vera Rubin shipped, Nvidia's largest buyers bought more of it than I expected.
+
+**The financing debate got bigger, and the tone changed.** Supply commitments rose to $390 billion from $279 billion, with $203 billion due in fiscal 2028. Guarantees reached $118 billion at their maximum, including a new $9.5 billion of credit support for power and systems. Receivables went to 64 days of sales. Nvidia took a $1.8 billion impairment on its private stakes. Against that, Kress was noticeably more cautious than in August: Nvidia is "rigorously evaluating future investments, commitments, and guarantees," and on customer financing "a lot of things have changed over this last quarter." Asked by Bernstein's Stacy Rasgon whether the new disclosure that neocloud commitments only take effect once those customers secure their own financing was a change, she said: "Is it new? No. Did we change anything? No." I read the quarter as more exposure already signed, with less appetite to sign more.
+
+**China is now worth less.** Q3 included $2.4 billion of licensed Hopper sales to China. Kress said Nvidia is "no longer shipping licensed Hopper data center products to China," and new Commerce Department rules restrict renting compute to Chinese firms. The Q4 guide carries none of it, so the sequential growth in the guide is all ex-China.
+
+**Management.** The chair, Harvey Jones, opened the call: the board "does not intend to reinstate Jensen as CEO," has hired Heidrick & Struggles for the search, and has formed a National Security and Export Control Oversight Committee. He took no questions on the circumstances or the investigation. Huang said the same day he would be "honored" to return. Kress's answers were heavy on supply and customer support and light on strategy, which is what an interim CEO who is also CFO should sound like.
+
+**Pushback and non-answers.** UBS's Tim Arcuri asked whether pricing power survives as frontier labs lean "even more aggressively on ASICs." Kress reaffirmed the 72–73% gross-margin range for fiscal 2028 and said long-term pricing is "something for the future." That reaffirms the near-term floor and says nothing about the competitive question. Asked about a slowdown in 2028, she pointed to customers asking for more supply "even in the last week." That is evidence about calendar 2027, not about what comes after.
+
+### Scorecard and consequences
+
+The first test passed on both legs. The other two resolve in late February and late May. A pass carries no pre-committed change, and I have not moved the probabilities. The demand evidence is better than my Base assumed, but the new negatives cancel it in my judgment: the national-security side of the CEO departure, the China rules and a larger signed balance-sheet exposure.
+
+What I did change was where the evidence moved the inputs:
+
+- fiscal 2027 base revenue to about $424 billion;
+- Base Data Center growth from 11.6% to 12.5% a year, so the Base still plateaus at the new, higher fiscal 2028 level rather than declining from it;
+- equity stakes to about $110 billion of carrying value;
+- guarantees to $118 billion;
+- the odds that China sales resume under license, cut from 20% to 15%.
+
+The probability-weighted value is $300, the return 13.6% a year at $162.98, and the entry $167. The verb stays **Initiate (≤$167) / Add**, and it is still probability-fragile: the break-even Bear probability is 26% against the 25% I assign.
+
+The replacement first test moves to the February print, where the fiscal 2028 outlook gets its first revision with a quarter of the year in view. I combine it with receivables, because a raised outlook paid for with longer terms is not the same thing as demand.
 
 ---
 
 ## Deep Dive: Nvidia: The Platform, the Price Umbrella and the Balance Sheet
 
-*Revenue is guided to grow about 70% next year, the stock is 36% off its high, and the founder resigned five days ago. Every large buyer now has a second chip in volume. What does $155 assume, and is that enough?*
+*Revenue is now guided to grow about 75% next year, the stock is a third off its high, and the founder resigned last week. Every large buyer now has a second chip in volume. What does $163 assume, and is that enough?*
 
 **Contents**: [Business Overview](#business-overview) · [The Platform Against the Chips Its Customers Design](#the-platform-against-the-chips-its-customers-design) · [Financing the Customers](#financing-the-customers) · [Management, Capital Allocation and Incentives](#management-capital-allocation-and-incentives) · [Valuation and Model Assumptions](#valuation-and-model-assumptions) · [Final Words](#final-words) · [Appendix: The Numbers](#appendix-the-numbers) · [Sources](#sources)
 
@@ -54,7 +95,7 @@ On November 30, 2022, OpenAI released ChatGPT. Nvidia had just finished a year i
 
 The last six weeks are the part the market is trading. Nvidia's index peaked in early October. On November 5 the stock fell 9% in a sell-off of AI hardware names. On November 12 Jensen Huang, who co-founded the company in 1993 and ran it for 33 years, resigned as chief executive and director, effective immediately, after reports about his relationship with a woman suspected of ties to Chinese intelligence; the chief financial officer, Colette Kress, is interim CEO ([8-K](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm)). On November 16 the Commerce Department required export licenses for five more countries and for data centers that rent compute to Chinese firms. The stock closed that day at $156.14 and traded at $154.60 this afternoon, 36% below its 52-week high, a few hours before the company reports its third fiscal quarter.
 
-All this time the numbers kept rising. In August management guided revenue up about 70% in fiscal 2028, the first time it had given a full-year outlook, and called that number constrained by supply, with customer forecasts pointing to demand doubling. Consensus for fiscal 2028 EPS has risen about a quarter in 90 days. At today's price the stock trades at 9.7 times that consensus.
+All this time the numbers kept rising. In August management guided revenue up about 70% in fiscal 2028, the first time it had given a full-year outlook, and called that number constrained by supply, with customer forecasts pointing to demand doubling. On the third-quarter call in November, Kress raised it to about 75%, off a higher base. Consensus for fiscal 2028 EPS has risen about a quarter in 90 days. At today's price the stock trades at 9.7 times that consensus.
 
 So the question is not whether next year is good. It is what comes after it. Every large buyer of Nvidia systems now has a second chip in volume: Google's TPU, which Google now sells outright; Amazon's Trainium; AMD's Helios rack; and the custom chips Broadcom designs for six customers, whose revenue Broadcom expects to double in each of the next two years. Nvidia is also financing a growing share of its own demand. I start with the business and how it makes money per gigawatt. The key debate comes next: can a general-purpose platform hold its price and share against chips its customers design. The second debate is the balance sheet behind the growth. Then management, now without its founder, and the valuation: what $155 assumes and what 13% a year would need.
 
@@ -62,24 +103,24 @@ So the question is not whether next year is good. It is what comes after it. Eve
 
 Nvidia designs accelerated-computing systems and outsources their manufacture, mainly to TSMC for chips and packaging and to the three memory makers for HBM. Since fiscal 2027 it reports two market platforms. Data Center is GPUs, CPUs, networking, the Groq LPU and software, sold as chips, boards or whole racks to cloud providers and to everyone else. Edge Computing is workstations, PCs, gaming, cars and robots. Data Center was 93% of revenue in the latest quarter, and Nvidia splits it into Hyperscale and a group it calls ACIE: AI clouds (the neoclouds), industrial and enterprise customers, sovereign programs and AI start-ups.
 
-| $ Billion unless stated | Q2 FY2026 | Q1 FY2027 | Q2 FY2027 | Q3 FY2027 guide |
-|---|---|---|---|---|
-| **Revenue** | 46.74 | 81.62 | **96.22** | 108.0 ± 2% |
-| Revenue growth, year over year | +56% | n/r | **+106%** | ≈+89% `[Derived]` |
-| Data Center | 41.10 | 75.25 | **89.02** | n/d |
-|  Hyperscale | 24.17 | 43.05 | 48.71 | n/d |
-|  AI clouds, industrial and enterprise (ACIE) | 16.93 | 32.20 | **40.31** | n/d |
-|  ACIE share of Data Center | 41% | 43% | 45% | Growth led by ACIE |
-| Edge Computing | 5.65 | 6.37 | 7.20 | n/d |
-| Gross margin (non-GAAP) | 72.5% | 75.0% | 75.0% | 74.0% ± 0.5 pt |
-| Operating expenses (non-GAAP) | 5.36 | 7.45 | 8.23 | ≈9.0 |
-| **Operating income (non-GAAP)** | 28.54 | 53.78 | **63.96** | n/d |
-| Net income (GAAP), incl. equity-security gains | 26.42 | 58.32 | 59.69 | n/d |
-| Diluted EPS (non-GAAP) | $1.01 | $1.87 | **$2.22** | consensus ≈$2.47 `[Analyst consensus]` |
-| Operating cash flow | 15.4 | 50.3 | 24.1 | n/d |
-| Days sales outstanding | n/r | 45 | 60 | — |
+| $ Billion unless stated | Q3 FY2026 | Q1 FY2027 | Q2 FY2027 | Q3 FY2027 | Q4 FY2027 guide |
+|---|---|---|---|---|---|
+| **Revenue** | 57.01 | 81.62 | 96.22 | **115.84** | 130.0 ± 3% (14 weeks) |
+| Revenue growth, year over year | +62% | n/r | +106% | **+103%** | ≈+91% `[Derived]` |
+| Data Center | 51.2 | 75.25 | 89.02 | **107.6** | n/d; no China compute assumed |
+|  Hyperscale | 35.1 | 43.05 | 48.71 | 60.1 | n/d |
+|  AI clouds, industrial and enterprise (ACIE) | 16.1 | 32.20 | 40.31 | **47.5** | n/d |
+|  ACIE share of Data Center | 31% | 43% | 45% | 44% | n/d |
+| Edge Computing | 5.8 | 6.37 | 7.20 | 8.2 | n/d |
+| Gross margin (non-GAAP) | 73.5% | 75.0% | 75.0% | 74.9% | 71.0–72.0% |
+| Operating expenses (non-GAAP) | 5.80 | 7.45 | 8.23 | 8.84 | ≈10.7 |
+| **Operating income (non-GAAP)** | 36.10 | 53.78 | 63.96 | **77.88** | ≈82 `[Derived]` |
+| Net income (GAAP), incl. equity-security gains | 31.91 | 58.32 | 59.69 | 65.29 | n/d |
+| Diluted EPS (non-GAAP) | $1.27 | $1.87 | $2.22 | **$2.68** (consensus ≈$2.47) | n/d |
+| Operating cash flow | 23.8 | 50.3 | 24.1 | 48.3 | n/d |
+| Days sales outstanding | n/r | 45 | 60 | 64 | — |
 
-*Fiscal years end in late January: FY2027 runs from late January 2026 to late January 2027. In Q2 FY2027 one company was reclassified from ACIE to Hyperscale and prior periods recast. Q1 FY2027 GAAP net income includes large gains on equity securities ($7.8B of net gains in Q2 alone). Source: [CFO commentary, Q2 FY2027](https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q227/Q2FY27-CFO-Commentary.pdf) (text in raw/NVDA/press-releases). Built with Claude.*
+*Fiscal years end in late January: FY2027 runs from late January 2026 to late January 2027, and its Q4 has 14 weeks. In Q2 FY2027 one company was reclassified from ACIE to Hyperscale and prior periods recast. GAAP net income includes gains on equity securities ($7.8B in Q2 FY2027, $1.8B in Q3 after a $1.8B impairment of private stakes). Q3 FY2027 includes $2.4B of Hopper shipments to China. Source: [Q3 FY2027 release](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027), [CFO commentary, Q3 FY2027](https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q327/Q3FY27-CFO-Commentary.pdf), [CFO commentary, Q2 FY2027](https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q227/Q2FY27-CFO-Commentary.pdf) (text in raw/NVDA/press-releases). Built with Claude.*
 
 Three things stand out. First, the growth is broad: ACIE grew 25% in the quarter against 13% for Hyperscale and is now 45% of Data Center revenue. Second, margins are at a peak. Gross margin held at 75% for two quarters and management has said it will fall to 71–72% in the fourth quarter. Third, cash lagged profit. Operating cash flow was $24.1 billion against $59.7 billion of net income because receivables rose to 60 days of sales and inventory to $31.6 billion.
 
@@ -195,19 +236,19 @@ The point of the rings is that the threat is real and concentrated. About 45% of
 
 The second debate is quieter and, for a ten-year holder, nearly as important. Nvidia is now part of how its customers pay for Nvidia systems.
 
-| Jul 26, 2026, $ Billion | Amount | What it is | When it bites |
+| Oct 25, 2026, $ Billion | Amount | What it is | When it bites |
 |---|---|---|---|
-| Supply and capacity commitments | **279** | Mostly memory; up from $119B a quarter earlier and $95.2B at Jan 25, 2026 | $92B in the rest of FY2027, $87B FY2028, $88B FY2029: fixed if demand turns |
-| Cloud service agreements, data-center leases, capex, equity commitments | 87 | Nvidia's own R&D compute, leases up to 20 years, $25B of committed investments | Spread to FY2033+ |
-| AI-cloud agreements and leases for third parties | 56 | Take-or-pay on part of partners' capacity, in exchange for a revenue share | FY2028 onward |
-| Guarantees, maximum exposure | **108.5** | $105B for SB Energy's 4.25 GW OpenAI campus in Ohio; $3.5B for AI-cloud partners' leases | Phased in from FY2029 as sites become ready |
-| Equity holdings | ≈96 | $47.9B non-marketable plus $47.8B public; nearly $50B invested in frontier labs | Marked to market each quarter |
-| Accounts receivable | 63.1 | 60 days of sales, up from 45, on extended terms for investment-grade buyers | Now |
-| Inventory | 31.6 | Up from $25.8B, for the Vera Rubin ramp | Now |
-| **Against: cash and marketable debt securities** | 56.6 | After $25B of senior notes issued in Q2 FY2027 | — |
-| Against: FY2027 revenue `[Derived]` | ≈410 | Q1, Q2, the Q3 guide and Q4 consensus | — |
+| Supply and capacity commitments | **390** | Mostly multi-year memory; up from $279B in July and $95.2B at Jan 25, 2026 | $69B in the rest of FY2027, **$203B in FY2028**, $92B FY2029: fixed if demand turns |
+| Cloud service agreements, data-center leases, capex, equity commitments | 128 | Nvidia's own R&D compute ($28B), leases up to 20 years not yet commenced ($74B), $20B of committed investments | Mostly FY2032+ for the leases |
+| Neocloud agreements | 32 | Take-or-pay on partners' capacity once financed and accepted, in exchange for a revenue share (formerly 'AI cloud agreements') | FY2028 onward |
+| Guarantees, maximum exposure | **118.0** | $105B for SB Energy's 4.25 GW OpenAI campus in Ohio; $9.5B of power and systems credit support (new); $3.5B for neocloud land, power and shell | Phased in from FY2029 as sites become ready |
+| Equity holdings | ≈110 | $65.5B non-marketable plus $44.2B public; $1.8B impairment of private stakes in Q3 | Marked to market each quarter |
+| Accounts receivable | 81.0 | 64 days of sales, up from 60 and 45, on extended terms for investment-grade buyers | Now |
+| Inventory | 39.7 | Up from $31.6B, for the Vera Rubin ramp | Now |
+| **Against: cash and marketable debt securities** | 53.5 | After a record $28.1B returned in Q3 | — |
+| Against: FY2027 revenue `[Derived]` | ≈424 | Three reported quarters plus the Q4 guide midpoint | — |
 
-*Kress expects the labs Nvidia supports with its balance sheet to be 'roughly a quarter of our business next year'. Equity holdings from the 10-Q balance sheet; the CFO commentary states commitments and guarantees by fiscal year. Source: [CFO commentary, Q2 FY2027](https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q227/Q2FY27-CFO-Commentary.pdf), [Q2 FY2027 10-Q](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm), [FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm). Built with Claude.*
+*Kress expects the labs Nvidia supports with its balance sheet to be 'roughly a quarter of our business next year' (August call). Commitments and guarantees are stated by fiscal year in the CFO commentary; equity holdings from the Q3 balance sheet. Source: [CFO commentary, Q3 FY2027](https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q327/Q3FY27-CFO-Commentary.pdf), [Q3 FY2027 release](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027), [FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm). Built with Claude.*
 
 #### Management's narrative
 
@@ -220,17 +261,17 @@ Huang made the same point at the Goldman conference more briefly: "we put a litt
 
 #### Poking holes in it
 
-The first hole is size. The guarantees alone, $108.5 billion at their maximum, are about a quarter of this year's revenue, and they arrive from fiscal 2029, exactly when my Base has demand flattening. A guarantee on a data-center lease is called when the tenant cannot pay, which is the case where GPUs are also hardest to redeploy at a good price.
+The first hole is size. The guarantees alone, $118 billion at their maximum in October, are about a quarter of this year's revenue, and they arrive from fiscal 2029, exactly when my Base has demand flattening. A guarantee on a data-center lease is called when the tenant cannot pay, which is the case where GPUs are also hardest to redeploy at a good price.
 
-The second is the supply commitments. They rose from $95 billion in January to $279 billion in July, mostly memory, and $175 billion of them fall due in fiscal 2028 and 2029. Nvidia has been here in miniature: it took a $4.5 billion charge in the first quarter of fiscal 2026 when export controls stranded H20 inventory and purchase obligations. The same commitments that secure supply in a boom fix costs in a bust.
+The second is the supply commitments. They rose from $95 billion in January to $279 billion in July and $390 billion in October, mostly multi-year memory, and $295 billion of them fall due in fiscal 2028 and 2029. Nvidia has been here in miniature: it took a $4.5 billion charge in the first quarter of fiscal 2026 when export controls stranded H20 inventory and purchase obligations. The same commitments that secure supply in a boom fix costs in a bust.
 
-The third is quality of revenue. Receivables went from 45 to 60 days of sales in one quarter on extended terms for large buyers, and Kress's "roughly a quarter of our business next year" means roughly a quarter of fiscal 2028 revenue goes to customers who rely on Nvidia's balance sheet. That does not make the revenue fake. It does make it more cyclical than the headline growth suggests, and it means the equity stakes, worth about $96 billion, rise and fall with the same customers.
+The third is quality of revenue. Receivables went from 45 to 60 days of sales in one quarter, and to 64 in the next, on extended terms for large buyers, and Kress's "roughly a quarter of our business next year" means roughly a quarter of fiscal 2028 revenue goes to customers who rely on Nvidia's balance sheet. That does not make the revenue fake. It does make it more cyclical than the headline growth suggests, and it means the equity stakes, carried at about $110 billion in October after a $1.8 billion impairment of private holdings, rise and fall with the same customers.
 
-Where I come out: this is vendor financing at a scale I have not seen in a technology hardware company, and I treat it as a Bear amplifier, not a Base cost. In the Base it costs nothing, because the labs keep growing and pay. In the Bear it costs about $1.50 a share in guarantee losses, valued as an option line, and it is part of why the Bear multiple is 13 times. The test I would watch is receivables: above 70 days of sales would say the terms are doing the selling.
+Where I come out: this is vendor financing at a scale I have not seen in a technology hardware company, and I treat it as a Bear amplifier, not a Base cost. In the Base it costs nothing, because the labs keep growing and pay. In the Bear it costs about $1.60 a share in guarantee losses, valued as an option line, and it is part of why the Bear multiple is 13 times. In November Kress signalled a slower pace: Nvidia is "rigorously evaluating future investments, commitments, and guarantees," and on customer financing "a lot of things have changed over this last quarter" (Q3 FY2027 call, November 17, 2026). I welcome that, but it changes nothing about what is already signed. The test I would watch is receivables: above 70 days of sales would say the terms are doing the selling.
 
 ### Management, Capital Allocation and Incentives
 
-For 33 years management was Jensen Huang. He set the bets that made the company, CUDA in 2006, the data center long before it paid, the purchase of Mellanox in 2020, and the move from chips to whole racks, and he was its public voice on every one. The record since ChatGPT is in the opening chart: revenue up fifteen-fold, the stock up about nine. He resigned on November 12. The board has an independent investigation under way, a search for internal and external candidates, and, by the Financial Times's account, has approached Arm's chief executive, Rene Haas; Nvidia says it has not formally engaged anyone ([CNBC](https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html)). The board chair said operations, customer commitments and the roadmap should "continue without interruption." Kress, the interim CEO, has been CFO since 2013 and is also keeping that job.
+For 33 years management was Jensen Huang. He set the bets that made the company, CUDA in 2006, the data center long before it paid, the purchase of Mellanox in 2020, and the move from chips to whole racks, and he was its public voice on every one. The record since ChatGPT is in the opening chart: revenue up fifteen-fold, the stock up about nine. He resigned on November 12. The board has an independent investigation under way, a search for internal and external candidates, and, by the Financial Times's account, has approached Arm's chief executive, Rene Haas; Nvidia says it has not formally engaged anyone ([CNBC](https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html)). The board chair said operations, customer commitments and the roadmap should "continue without interruption." On the third-quarter call he went further: the board "does not intend to reinstate Jensen as CEO," has retained Heidrick & Struggles for the search, and has formed a National Security and Export Control Oversight Committee of independent directors and outside advisers (Harvey Jones, Q3 FY2027 call, November 17, 2026). Huang said the same day he would be "honored" to return. Kress, the interim CEO, has been CFO since 2013 and is also keeping that job.
 
 I cannot judge from outside how much of the roadmap lived in one person. I can say what to watch: whether the architecture and systems leads stay, whether Rubin Ultra ships in the second half of 2027, and who is named. Until then I treat the leadership change as a risk to the Bull, not as a change to the Base.
 
@@ -276,7 +317,7 @@ What changed in 2026 is where the rest of the cash goes. About $96 billion now s
 | **Single-year PSUs** | $15.5M target | Non-GAAP operating income: base $71B, stretch $96B (cut from $120B) | $137.3B actual; CEO 150% |
 | **Multi-year PSUs** | $15.5M target | Three-year TSR against the S&P 500: 50th percentile for target, 75th for maximum | 100th percentile (TSR +1,055%); CEO 150% |
 | **Ownership** | Huang 870.6M shares, 3.58% (Mar 23, 2026); directors and officers 3.94% | Guideline: 10× salary for the CEO | Huang resigned Nov 12, 2026; his awards now follow the plan's separation terms (not read) |
-| **Return on invested capital** | 0% | Not a metric in any plan | Nothing pays for capital efficiency, the $366B of commitments or the $108.5B of guarantees |
+| **Return on invested capital** | 0% | Not a metric in any plan | Nothing pays for capital efficiency, the $550B of commitments or the $118B of guarantees |
 
 *Total target pay for the CEO was $35.5M, over 90% at risk, and all equity was PSUs. Stretch goals were set so far below results that every plan paid at or near the maximum. Interim CEO Colette Kress's terms were not disclosed in the Nov 12 8-K. Source: [2026 proxy (DEF 14A)](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000036/nvda-20260512.htm), [8-K, Nov 12, 2026](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm). Built with Claude.*
 
@@ -301,63 +342,63 @@ I value Nvidia at the end of fiscal 2032 (about January 2032), five fiscal years
 
 | $ Billion | FY2026A | FY2027E | FY2028E | FY2029E | FY2030E | FY2031E | FY2032E |
 |---|---|---|---|---|---|---|---|
-| **Data Center revenue** | 193.7 | 379.0 | 423.0 | 472.0 | 526.8 | 587.9 | 656.1 |
-|  YoY growth | — | 95.7% | **11.6%** | **11.6%** | **11.6%** | **11.6%** | **11.6%** |
+| **Data Center revenue** | 193.7 | 393.0 | 442.1 | 497.4 | 559.6 | 629.5 | 708.2 |
+|  YoY growth | — | 102.9% | **12.5%** | **12.5%** | **12.5%** | **12.5%** | **12.5%** |
 |  Operating margin | 71.1% | 73.6% | 72.7% | 71.8% | 70.8% | 69.9% | **69.0%** |
-|  Operating profit | 137.70 | 278.94 | 307.41 | 338.73 | 373.17 | 411.05 | 452.70 |
-| **Edge Computing revenue** | 22.2 | 31.0 | 32.3 | 33.7 | 35.1 | 36.5 | 38.1 |
-|  YoY growth | — | 39.6% | **4.2%** | **4.2%** | **4.2%** | **4.2%** | **4.2%** |
+|  Operating profit | 137.70 | 289.25 | 321.34 | 356.93 | 396.40 | 440.15 | 488.66 |
+| **Edge Computing revenue** | 22.2 | 30.5 | 31.8 | 33.1 | 34.5 | 36.0 | 37.5 |
+|  YoY growth | — | 37.4% | **4.2%** | **4.2%** | **4.2%** | **4.2%** | **4.2%** |
 |  Operating margin | 71.1% | 73.6% | 72.7% | 71.8% | 70.8% | 69.9% | **69.0%** |
-|  Operating profit | 15.78 | 22.82 | 23.48 | 24.15 | 24.85 | 25.55 | 26.28 |
-| Corporate and other | (23.08) | (35.01) | (40.66) | (47.15) | (54.59) | (63.12) | (72.89) |
-| **Total revenue** | 215.9 | 410.0 | 455.3 | 505.7 | 561.9 | 624.4 | 694.2 |
-| **Operating profit** | 130.40 | 266.75 | 290.22 | 315.73 | 343.43 | 373.49 | 406.09 |
+|  Operating profit | 15.78 | 22.45 | 23.10 | 23.76 | 24.44 | 25.14 | 25.85 |
+| Corporate and other | (23.08) | (36.17) | (42.33) | (49.46) | (57.72) | (67.27) | (78.29) |
+| **Total revenue** | 215.9 | 423.5 | 473.9 | 530.5 | 594.1 | 665.5 | 745.7 |
+| **Operating profit** | 130.40 | 275.53 | 302.11 | 331.23 | 363.12 | 398.03 | 436.21 |
 |  Operating margin | 60.4% | 65.1% | 63.7% | 62.4% | 61.1% | 59.8% | 58.5% |
-| Net income | 120.07 | 224.40 | 243.13 | 263.40 | 285.32 | 309.03 | 334.63 |
+| Net income | 120.07 | 231.74 | 253.02 | 276.25 | 301.59 | 329.22 | 359.34 |
 | Diluted shares (B) | 24.514 | 24.250 | 23.668 | 23.100 | 22.546 | 22.004 | 21.476 |
 |  Net share change | — | — | -2.4% | -2.4% | -2.4% | -2.4% | -2.4% |
 |  SBC (% of revenue) | — | 2.2% | 2.2% | 2.2% | 2.2% | 2.2% | 2.2% |
-| **EPS ex equity-security gains (≈ non-GAAP, after SBC)** | $4.90 | $9.25 | $10.27 | $11.40 | $12.66 | $14.04 | $15.58 |
-|  YoY growth | — | 88.9% | 11.0% | 11.0% | 11.0% | 11.0% | 10.9% |
+| **EPS ex equity-security gains (≈ non-GAAP, after SBC)** | $4.90 | $9.56 | $10.69 | $11.96 | $13.38 | $14.96 | $16.73 |
+|  YoY growth | — | 95.0% | 11.9% | 11.9% | 11.9% | 11.8% | 11.8% |
 
 *Bold cells are model inputs.*
 
-The model grows each segment at a constant rate, but the Base I have in mind is lumpy: revenue jumps about 70% in fiscal 2028 as guided, then grows little, as a market that keeps growing is offset by share falling to about 58% of spending. Data Center reaches about $655 billion and total revenue about $694 billion in fiscal 2032. Operating margin falls from about 65% to 58.5% as gross margin gives up five points and operating expenses rise to 10.5% of revenue. Buybacks retire a net 2.4% of shares a year. EPS rises from $9.25 to $15.58, and at 16 times that is $249. Sixteen times is about where the stock trades on this year's earnings, and an ordinary multiple for a business that has stopped growing but returns most of its cash.
+The model grows each segment at a constant rate, but the Base I have in mind is lumpy: revenue jumps about 75% in fiscal 2028 as guided, then grows little, as a market that keeps growing is offset by share falling to about 58% of spending. Data Center reaches about $710 billion and total revenue about $745 billion in fiscal 2032. Operating margin falls from about 65% to 58.5% as gross margin gives up five points and operating expenses rise to 10.5% of revenue. Buybacks retire a net 2.4% of shares a year. EPS rises from $9.56 to $16.73, and at 16 times that is $268. Sixteen times is about where the stock trades on this year's earnings, and an ordinary multiple for a business that has stopped growing but returns most of its cash.
 
 | Case | Prob. | 3P | Data Center growth / margin | Edge Computing growth / margin | Net shares/yr | Per-share earnings FY2032 | CAGR | Exit multiple | Value | Return/yr | Implied g | Driving assumption |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **Bull** | 25% | Plausible | +22.8% / 72.0% | +10.0% / 72.0% | -1.6% | $25.98 | 22.9% | 20.0× EPS ex equity-security gains (≈ non-GAAP, after SBC) | $520 | 28.1% | 4.8% | Boom demand and the platform holds: AI spending outside China reaches about $1.7 trillion by 2030 and Nvidia keeps about two-thirds of it, so Data Center revenue reaches about $1.06 trillion in FY2032 (+23%/yr from FY2027); gross margin settles at 72% as Rubin and Feynman keep their cost-per-token lead; opex 9% of revenue; buybacks retire a net 1.6% a year; 20× EPS. |
-| **Base** | 50% | Probable | +11.6% / 69.0% | +4.2% / 69.0% | -2.4% | $15.58 | 11.0% | 16.0× EPS ex equity-security gains (≈ non-GAAP, after SBC) | $249 | 10.7% | 3.5% | Spending plateaus near the 2028 level and share bleeds to about 58%: revenue jumps about 70% in FY2028 as guided, then grows little, so Data Center revenue is about $655 billion in FY2032 (+12%/yr from FY2027, almost all of it in the first year); gross margin 69% as price is conceded to TPU and AMD; opex 10.5%; buybacks retire a net 2.4% a year; 16× EPS. |
-| **Bear** | 25% | Probable | +0.6% / 61.0% | -1.3% / 61.0% | -2.9% | $7.80 | -3.4% | 13.0× EPS ex equity-security gains (≈ non-GAAP, after SBC) | $101 | -7.4% | 2.1% | Digestion and share break: capex falls about a third from its peak after FY2028 while custom chips reach training parity at the labs, so Data Center revenue drifts back to about $390 billion in FY2032; gross margin 61% on price cuts and stranded supply commitments; opex 14%; buybacks retire a net 2.9% a year at low prices; 13× trough-ish EPS. |
-| **Priced-in (10%/yr)** | — | diagnostic | +11.0% / 68.8% | +3.9% / 68.8% | -2.4% | $15.11 | 10.3% | 16.0× EPS ex equity-security gains (≈ non-GAAP, after SBC) | $242 | 10.0% | 3.5% | Solved along Base → Bull for 10%/yr |
-| **Hurdle (13%/yr)** | — | diagnostic | +13.8% / 69.6% | +5.3% / 69.6% | -2.2% | $17.30 | 13.3% | 16.0× EPS ex equity-security gains (≈ non-GAAP, after SBC) | $277 | 13.0% | 3.5% | Solved along Base → Bull for 13%/yr |
-| Option: Equity stakes in AI labs and partners (≈$96B carrying value, Jul 26, 2026) | 100% | possible |  |  |  |  |  |  | $4 |  |  | valued as probability × value, outside the core |
-| Option: China data-center sales resume under license (≈$20B/yr) | 20% | possible |  |  |  |  |  |  | $8 |  |  | valued as probability × value, outside the core |
-| Option: Guarantee and take-or-pay losses in a bust (30% of $108.5B) | 25% | possible |  |  |  |  |  |  | $-2 |  |  | valued as probability × value, outside the core |
-| **Probability-weighted** | 100% |  |  |  |  |  |  |  | $285 | 13.7% |  |  |
+| **Bull** | 25% | Plausible | +22.8% / 72.0% | +10.0% / 72.0% | -1.6% | $26.87 | 23.0% | 20.0× EPS ex equity-security gains (≈ non-GAAP, after SBC) | $537 | 27.6% | 4.8% | Boom demand and the platform holds: AI spending outside China reaches about $1.7 trillion by 2030 and Nvidia keeps about two-thirds of it, so Data Center revenue reaches about $1.1 trillion in FY2032 (+23%/yr from FY2027); gross margin settles at 72% as Rubin and Feynman keep their cost-per-token lead; opex 9% of revenue; buybacks retire a net 1.6% a year; 20× EPS. |
+| **Base** | 50% | Probable | +12.5% / 69.0% | +4.2% / 69.0% | -2.4% | $16.73 | 11.9% | 16.0× EPS ex equity-security gains (≈ non-GAAP, after SBC) | $268 | 11.0% | 3.5% | Spending plateaus near the 2028 level and share bleeds to about 58%: revenue jumps about 75% in FY2028 as guided, then grows little, so Data Center revenue is about $710 billion in FY2032 (+12.5%/yr from FY2027, almost all of it in the first year); gross margin 69% as price is conceded to TPU and AMD; opex 10.5%; buybacks retire a net 2.4% a year; 16× EPS. |
+| **Bear** | 25% | Probable | +0.6% / 61.0% | -1.3% / 61.0% | -2.9% | $8.06 | -3.3% | 13.0× EPS ex equity-security gains (≈ non-GAAP, after SBC) | $105 | -7.8% | 2.1% | Digestion and share break: capex falls about a third from its peak after FY2028 while custom chips reach training parity at the labs, so Data Center revenue drifts back to about $405 billion in FY2032; gross margin 61% on price cuts and stranded supply commitments; opex 14%; buybacks retire a net 2.9% a year at low prices; 13× trough-ish EPS. |
+| **Priced-in (10%/yr)** | — | diagnostic | +11.5% / 68.7% | +3.6% / 68.7% | -2.5% | $15.95 | 10.8% | 16.0× EPS ex equity-security gains (≈ non-GAAP, after SBC) | $255 | 10.0% | 3.5% | Solved along Base → Bull for 10%/yr |
+| **Hurdle (13%/yr)** | — | diagnostic | +14.3% / 69.5% | +5.2% / 69.5% | -2.3% | $18.26 | 13.8% | 16.0× EPS ex equity-security gains (≈ non-GAAP, after SBC) | $292 | 13.0% | 3.5% | Solved along Base → Bull for 13%/yr |
+| Option: Equity stakes in AI labs and partners (≈$110B carrying value, Oct 25, 2026) | 100% | possible |  |  |  |  |  |  | $4 |  |  | valued as probability × value, outside the core |
+| Option: China data-center sales resume under license (≈$20B/yr; licensed Hopper shipments stopped Nov 2026) | 15% | possible |  |  |  |  |  |  | $8 |  |  | valued as probability × value, outside the core |
+| Option: Guarantee and take-or-pay losses in a bust (30% of $118B) | 25% | possible |  |  |  |  |  |  | $-2 |  |  | valued as probability × value, outside the core |
+| **Probability-weighted** | 100% |  |  |  |  |  |  |  | $300 | 13.6% |  |  |
 
-The Bull is boom demand plus a platform that holds: spending reaches about $1.7 trillion by 2030 and Nvidia keeps about two-thirds, so revenue passes $1.1 trillion, gross margin settles at 72%, and the stock is worth $520 at 20 times. Its implied perpetual growth is below the risk-free rate, so it is a high case rather than an impossible one, but only about 2% of companies above $25 billion of sales have grown this fast for five years. The Bear is digestion plus a share break: capex falls about a third from its peak after fiscal 2028, custom chips reach parity in training at the labs, revenue drifts back to about $420 billion, gross margin falls to 61% as supply commitments are absorbed, and at 13 times it is worth $101. That is close to the company's earnings power on this year's numbers.
+The Bull is boom demand plus a platform that holds: spending reaches about $1.7 trillion by 2030 and Nvidia keeps about two-thirds, so revenue passes $1.1 trillion, gross margin settles at 72%, and the stock is worth $537 at 20 times. Its implied perpetual growth is below the risk-free rate, so it is a high case rather than an impossible one, but only about 2% of companies above $25 billion of sales have grown this fast for five years. The Bear is digestion plus a share break: capex falls about a third from its peak after fiscal 2028, custom chips reach parity in training at the labs, revenue drifts back to about $435 billion, gross margin falls to 61% as supply commitments are absorbed, and at 13 times it is worth $105. That is close to the company's earnings power on this year's numbers.
 
 The option lines sit outside the cases: the equity stakes at their carrying value, about $4 a share; a 20% chance of China sales resuming under license; and a 25% chance of guarantee losses in a bust.
 
 | Return math |  |
 |---|---|
-| PW return/yr vs. hurdle | **13.7% (≥13%)**, of which 0.6% is the dividend yield. Entry ≤$159. 10-year Treasury 5.15%; the hurdle sits 7.9 points above it. |
-| Compounding at a flat multiple | Base per-share earnings growth 11.0% + 0.6% dividend = **11.6%**. Re-rating subtracts 1.0 points from the Base return: the multiple compresses. |
-| Optionality | Equity stakes in AI labs and partners (≈$96B carrying value, Jul 26, 2026): 100% × $4 = $4.0; China data-center sales resume under license (≈$20B/yr): 20% × $8 = $1.5; Guarantee and take-or-pay losses in a bust (30% of $108.5B): 25% × $-2 = $-0.4 |
-| Price-implied expectations | At 10%, spot needs EPS of $15.11 in FY2032 at 16×, a little below my Base ($15.58): revenue near $690 billion, roughly the FY2028 guide held flat for four years, at a 58% operating margin. At 13% it needs $17.30, a fifth of the way from my Base to my Bull. |
-| EPV floor | Earnings power with no growth: FY2026 operating income of $130.4B taxed at 15% and capitalized at 10% is ≈$1.11T, plus ≈$23B of net cash, ≈$47 a share. On FY2027's ≈$267B of operating income it is ≈$2.25T, ≈$93 a share. The Bear ($101) sits at FY2027 earnings power, and spot is about 1.7× it. |
+| PW return/yr vs. hurdle | **13.6% (≥13%)**, of which 0.6% is the dividend yield. Entry ≤$167. 10-year Treasury 5.15%; the hurdle sits 7.9 points above it. |
+| Compounding at a flat multiple | Base per-share earnings growth 11.9% + 0.6% dividend = **12.5%**. Re-rating subtracts 1.4 points from the Base return: the multiple compresses. |
+| Optionality | Equity stakes in AI labs and partners (≈$110B carrying value, Oct 25, 2026): 100% × $4 = $4.5; China data-center sales resume under license (≈$20B/yr; licensed Hopper shipments stopped Nov 2026): 15% × $8 = $1.1; Guarantee and take-or-pay losses in a bust (30% of $118B): 25% × $-2 = $-0.4 |
+| Price-implied expectations | At 10%, spot needs EPS of $15.95 in FY2032 at 16×, a little below my Base ($16.73): revenue near $690 billion, roughly the FY2028 guide held flat for four years, at a 58% operating margin. At 13% it needs $18.26, a fifth of the way from my Base to my Bull. |
+| EPV floor | Earnings power with no growth: FY2026 operating income of $130.4B taxed at 15% and capitalized at 10% is ≈$1.11T, plus ≈$23B of net cash, ≈$47 a share. On FY2027's ≈$267B of operating income it is ≈$2.25T, ≈$93 a share. The Bear ($105) sits at FY2027 earnings power, and spot is about 1.7× it. |
 | Base rate / 3P | FY2027 revenue of ≈$410B sits in the >$25B bucket. The Bull's ≈23% nominal growth (≈20% real) was achieved over five years by about 2% of companies this size, and none started this large; most of it is the guided, supply-committed FY2028. The Base's ≈11% nominal (≈8.5% real) was achieved by roughly 20%. Credit Suisse HOLT, 1950–2015 ([Base Rate Book](https://sorfis.com/wp-content/uploads/2021/09/The-Base-Rate-Book-Integrating-the-Past-to-Better-Anticipate-the-Future-September-2016.pdf)). 3P: Bull Plausible, Base and Bear Probable. |
 | Terminal-growth check | Implied perpetual growth on earnings at 10%: Bull 4.8%, Base 3.5%, Bear 2.1%, all below the 5.15% ten-year Treasury yield (FRED, Nov 13, 2026). |
-| Break-even and price-implied Bear odds | Break-even 26% against 25% assigned — ⚠️ **probability-fragile**; price-implied 41% at 10%. |
+| Break-even and price-implied Bear odds | Break-even 26% against 25% assigned — ⚠️ **probability-fragile**; price-implied 40% at 10%. |
 | Year ten | In the Base the business is not growing at year ten: it is a replacement cycle in which installed gigawatts are refreshed every four to six years and Nvidia holds about half, and the 16× multiple is carried by buybacks and cash returns, not growth. |
-| R/R | **6.9:1** (Bull +236% / Bear −34%) The downside is a cyclical bust at a normal multiple, not a broken company; the Bear still earns $163B in FY2032. |
+| R/R | **6.4:1** (Bull +230% / Bear −36%) The downside is a cyclical bust at a normal multiple, not a broken company; the Bear still earns $163B in FY2032. |
 
 *Computed rows come from model.json. Segment margin rows are gross margins, applied equally to both segments `[Estimate]`; 'Corporate and other' is operating expense. EPS excludes gains on equity securities, so it is close to Nvidia's non-GAAP EPS, which now includes stock compensation.*
 
-Here is where the price stands. To earn an ordinary 10% a year from $154.60, the stock needs fiscal 2032 EPS of $15.11 at 16 times, a little below my Base: the fiscal 2028 guide, held roughly flat for four years. To earn 13% it needs $17.30, a fifth of the way from my Base to my Bull.
+Here is where the price stands. To earn an ordinary 10% a year from $162.98, the stock needs fiscal 2032 EPS of $15.95 at 16 times, a little below my Base: the fiscal 2028 guide, held roughly flat for four years. To earn 13% it needs $18.26, a fifth of the way from my Base to my Bull.
 
-Weighted 25% Bull, 50% Base and 25% Bear, plus the option lines, the value is $285 and the return is 13.7% a year. The price that returns exactly 13% is $159, just above today's price. The return is nearly all compounding: EPS grows 11.0% a year in the Base and the dividend adds 0.6%, while the multiple contributes nothing. That passes the re-rating test easily. It does not pass the fragility test. The break-even Bear probability is 26%, one point above the 25% I assign, and the market's price implies 41%. Ten points moved from Base to Bear take the return to about 12.5%. So the verb is Initiate by the rules, with the strongest possible warning attached: the answer depends on whether the Bear is one chance in four or one in three.
+Weighted 25% Bull, 50% Base and 25% Bear, plus the option lines, the value is $300 and the return is 13.6% a year. The price that returns exactly 13% is $167, just above today's price. The return is nearly all compounding: EPS grows 11.9% a year in the Base and the dividend adds 0.6%, while the multiple contributes nothing. That passes the re-rating test easily. It does not pass the fragility test. The break-even Bear probability is 26%, one point above the 25% I assign, and the market's price implies 40%. Ten points moved from Base to Bear take the return to about 12.5%. So the verb is Initiate by the rules, with the strongest possible warning attached: the answer depends on whether the Bear is one chance in four or one in three.
 
 This is an Edge case for me. I can judge the unit economics, the customer contracts and the financing. I cannot judge from outside whether Nvidia's next two architectures keep a cost-per-token lead over TPU 8 and Jalapeño, or how much of the roadmap depended on Huang, and those two things decide the Bull.
 
@@ -365,11 +406,11 @@ Bias check, because the wiki's competition study written this morning read Watch
 
 ### Final Words
 
-Nvidia is the best-positioned company in the most important buildout in computing, and its stock is down 36% because the market has started to price what happens after the buildout peaks. The market has that right. Every large buyer now has a credible second chip, the alternatives are cheaper per gigawatt, Nvidia is financing a quarter of next year's demand, and the person who made every big bet just left.
+Nvidia is the best-positioned company in the most important buildout in computing, and its stock is down about a third from its high because the market has started to price what happens after the buildout peaks. The market has that right. Every large buyer now has a credible second chip, the alternatives are cheaper per gigawatt, Nvidia is financing a quarter of next year's demand, and the person who made every big bet just left.
 
-What I think the price gets slightly wrong is how much is left even in an unexciting outcome. My Base has Nvidia losing about a third of its share and growing almost nothing after next year, and it still compounds EPS at about 11% a year through buybacks on a balance sheet with net cash. At $154.60 the probability-weighted case just clears the 13% hurdle.
+What I think the price gets slightly wrong is how much is left even in an unexciting outcome. My Base has Nvidia losing about a third of its share and growing almost nothing after next year, and it still compounds EPS at about 11% a year through buybacks on a balance sheet with net cash. At $162.98 the probability-weighted case just clears the 13% hurdle.
 
-The verb is Initiate for someone who does not own it, at or below $159, and Add for someone who does. It is probability-fragile, and I would say so to anyone acting on it. Tonight's report is the first test. The three that would change my mind, with consequences fixed in advance:
+The verb is Initiate for someone who does not own it, at or below $167, and Add for someone who does. It is probability-fragile, and I would say so to anyone acting on it. The first test, the fiscal 2028 outlook, passed on November 17. The three that would change my mind now, with consequences fixed in advance:
 
 *The three tests, with their pre-committed consequences, are listed at the top of this report under [What I'd Have To Be Wrong About](#what-id-have-to-be-wrong-about).*
 
@@ -459,8 +500,8 @@ The tables carry the framework's required numbers. The argument for each is in t
 | Risk | Impact | Prob. | Priced in? | Would break the thesis if… |
 |---|---|---|---|---|
 | ⚠️ **Custom chips and the TPU take inference at the largest buyers**, and Google and Amazon sell systems to ACIE buyers from 2027 | High | Live | **Partly**: my Base has share at ≈58% by 2030 | Hyperscale revenue falls two quarters running while Broadcom keeps its guide (test 2) |
-| ⚠️ **Demand digestion after FY2028**: hyperscaler capex near 100% of operating cash flow, labs funded by vendors | Critical | 30% | **Partly**: the Bear has capex down a third | FY2028 outlook cut tonight or in February (test 1) |
-| ⚠️ **Balance-sheet support for customers**: $108.5B of guarantees, $366B of commitments, ≈$96B of stakes, DSO 60 | High | 25% | **No**: not visible in consensus EPS; a −$1.50 option line in my model | A guarantee is called, or receivables rise above 70 days |
+| ⚠️ **Demand digestion after FY2028**: hyperscaler capex near 100% of operating cash flow, labs funded by vendors | Critical | 30% | **Partly**: the Bear has capex down a third | FY2028 outlook cut in February, or DSO above 70 (test 1) |
+| ⚠️ **Balance-sheet support for customers**: $118B of guarantees, ≈$550B of commitments, ≈$110B of stakes, DSO 64 | High | 25% | **No**: not visible in consensus EPS; a −$1.60 option line in my model | A guarantee is called, or receivables rise above 70 days |
 | ⚠️ **Leadership and talent after Huang's resignation** (Nov 12, 2026); board investigation and congressional inquiry continue `[NEW]` | High | Live | **Partly**: the stock fell about 5% around the news | Departures among the architecture and systems leads, or a Rubin Ultra slip into 2028 |
 | Memory costs and price concessions compress gross margin | Med-High | Live | Partly; guided to 71–72% | Gross margin under 71% (test 3) |
 | Export controls (China at zero; new licenses for Indonesia, Malaysia, Singapore, Thailand and Brazil, Nov 16) `[NEW]` | Med | Live | Yes for China; not for Southeast Asia | Licenses denied or slow for the five countries |
@@ -488,18 +529,18 @@ Reflexive loops: the labs Nvidia finances buy Nvidia systems, and their ability 
 
 | Signal | Read |
 |---|---|
-| Price | $154.60 intraday Nov 17 (close Nov 16 $156.14); 52-week range $148.80–$243.37; −36% from the high; market cap ≈$3.73T on 24.1B shares |
+| Price | $162.98 after hours Nov 17 (+4.8%; regular close $155.46) after the Q3 beat; 52-week range $148.80–$243.37; −33% from the high; market cap ≈$3.9T on 24.1B shares |
 | Analysts | FY2028 consensus EPS ≈$15.91 and revenue ≈$692B, revised up about 24% in 90 days with no downgrades in the month; 59 of 62 rated Buy; mean target ≈$327 `[Analyst consensus]`. Some targets were cut on Nov 16 (names not given) |
 | Short interest | ≈302M shares on Oct 15, 2026, about 1.3% of float and 2.9 days to cover; the largest short position in the S&P 500 by dollar value (S3) |
 | Insiders (90 days) | Form 4s not read this pass (gap). Huang held 870.6M shares (3.58%) at Mar 23, 2026 |
-| Appearances (Aug 26 – Nov 17) | Q2 call Aug 26 (Huang, Kress); Goldman Sachs Communacopia Sep 10 (Huang); GTC Berlin keynote Oct 21 (Huang). No appearance by Kress as interim CEO before tonight's call |
+| Appearances (Aug 26 – Nov 17) | Q2 call Aug 26 (Huang, Kress); Goldman Sachs Communacopia Sep 10 (Huang); GTC Berlin keynote Oct 21 (Huang); Q3 call Nov 17 (Kress as interim CEO, chair Harvey Jones, Ian Buck in Q&A). Huang statement Nov 17 that he would be 'honored' to return |
 | BAIT | Double (B+A), Moderate: the stock fell 36% on a sector sell-off, the CEO's exit and a new export rule while estimates rose (behavioral); the market-share arithmetic in this report is analytical. No informational edge |
 
-*Context only; none of it moves a verb. Source: [Yahoo Finance](https://finance.yahoo.com/quote/NVDA/), [Yahoo Finance on FY2028 estimates](https://finance.yahoo.com/markets/stocks/articles/nvidia-fiscal-2028-revenue-estimate-132028810.html), [Massive.com short interest](https://massive.com/quote/nvda), [Stocktwits on S3](https://stocktwits.com/news-articles/markets/equity/nvidia-stock-biggest-short-sp500-hsbc-beat-and-raise-quarter/cZXDZilReVR), [2026 proxy](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000036/nvda-20260512.htm). Built with Claude.*
+*Context only; none of it moves a verb. Source: [Yahoo Finance](https://finance.yahoo.com/quote/NVDA/), [CNBC live updates, Nov 17](https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html), [Yahoo Finance on FY2028 estimates](https://finance.yahoo.com/markets/stocks/articles/nvidia-fiscal-2028-revenue-estimate-132028810.html), [Massive.com short interest](https://massive.com/quote/nvda), [Stocktwits on S3](https://stocktwits.com/news-articles/markets/equity/nvidia-stock-biggest-short-sp500-hsbc-beat-and-raise-quarter/cZXDZilReVR), [2026 proxy](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000036/nvda-20260512.htm). Built with Claude.*
 
 ### Sources
 
-[CFO commentary, Q2 FY2027 (Aug 26, 2026)](https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q227/Q2FY27-CFO-Commentary.pdf) · [CFO commentary extract](../../../raw/NVDA/press-releases/2026-08-26_Q2FY27_CFO_commentary.txt) · [Q2 FY2027 earnings call transcript (FactSet, IR-hosted)](https://s201.q4cdn.com/141608511/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf) · [Q2 FY2027 call text](../../../raw/NVDA/transcripts/2026-08-26_Q2FY27_earnings_call.txt) · [Q2 FY2027 10-Q](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm) · [FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm) · [2026 proxy statement (DEF 14A)](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000036/nvda-20260512.htm) · [8-K: CEO transition (Nov 12, 2026)](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm) · [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json) · [Goldman Sachs Communacopia, Huang (Sep 10, 2026)](https://stockanalysis.com/stocks/nvda/transcripts/740955-goldman-sachs-communacopia-technology-conference-2026/) · [GTC Berlin keynote (Oct 21, 2026)](https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/) · [Goldman Sachs Communacopia, Kurian (Sep 8, 2026)](https://stockanalysis.com/stocks/googl/transcripts/737252-goldman-sachs-communacopia-technology-conference-2026/) · [AMD Q3 2026 prepared remarks](https://newsroom.amd.com/documents/2026/11/84f4476b-f064-4f0f-957c-fe484853e178.pdf) · [Broadcom Q3 FY2026 release](https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial) · [Broadcom Q3 FY2026 call summary (GuruFocus via Yahoo)](https://finance.yahoo.com/technology/ai/articles/broadcom-inc-avgo-q3-2026-110030403.html) · [Amazon Q3 2026 call](https://www.fool.com/earnings/call-transcripts/2026/10/30/amazon-amzn-q3-2026-earnings-call-transcript/) · [Alphabet Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000084/goog-20260930.htm) · [CNBC: Google enlists partners to sell TPUs (Oct 28, 2026)](https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html) · [SemiAnalysis: TPU InferenceX](https://newsletter.semianalysis.com/p/tpu-inferencex-full-steam) · [SemiAnalysis: GTC 2026 roadmap](https://newsletter.semianalysis.com/p/nvidia-the-inference-kingdom-expands) · [Tom's Hardware: Anthropic's S-1 compute contracts](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ipo-filing-shows-most-of-its-compute-goes-to-r-and-d-not-serving-customers-company-details-massive-usd800-billion-in-tpu-and-gpu-contracts) · [CNBC: calls for Huang's return (Nov 16, 2026)](https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html) · [Fortune: Commerce remote-access rule (Nov 16, 2026)](https://fortune.com/2026/11/16/new-commerce-rule-nvidia-chip-singapore-malaysia-china/) · [Yahoo Finance: NVDA quote](https://finance.yahoo.com/quote/NVDA/) · [Yahoo Finance: FY2028 consensus](https://finance.yahoo.com/markets/stocks/articles/nvidia-fiscal-2028-revenue-estimate-132028810.html) · [FRED: 10-year Treasury yield (DGS10)](https://fred.stlouisfed.org/series/DGS10) · [Wiki study: Nvidia against the field (Nov 17, 2026)](../../insights/NVDA-accelerator-competition-2026-11-17.md) · [Wiki snapshot: AI circular deals (Oct 27, 2026)](../../insights/ai-circular-deals-2026-10-27.md) · [Source gaps log](../../../raw/NVDA/SOURCES.md)
+[Q3 FY2027 press release (Nov 17, 2026)](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027) · [Q3 FY2027 press release extract](../../../raw/NVDA/press-releases/2026-11-17_Q3FY27_press_release.txt) · [CFO commentary, Q3 FY2027 (Nov 17, 2026)](https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q327/Q3FY27-CFO-Commentary.pdf) · [CFO commentary extract, Q3 FY2027](../../../raw/NVDA/press-releases/2026-11-17_Q3FY27_CFO_commentary.txt) · [Q3 FY2027 earnings call transcript (Investing.com, AI-assisted, editor-reviewed)](https://in.investing.com/news/stock-market-news/earnings-call-transcript-nvidia-tops-q3-2026-estimates-and-lifts-outlook-93CH-5711032) · [Q3 FY2027 call extract](../../../raw/NVDA/transcripts/2026-11-17_Q3FY27_earnings_call_extract.txt) · [CNBC, Q3 FY2027 live updates (Nov 17, 2026)](https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html) · [CFO commentary, Q2 FY2027 (Aug 26, 2026)](https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q227/Q2FY27-CFO-Commentary.pdf) · [CFO commentary extract](../../../raw/NVDA/press-releases/2026-08-26_Q2FY27_CFO_commentary.txt) · [Q2 FY2027 earnings call transcript (FactSet, IR-hosted)](https://s201.q4cdn.com/141608511/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf) · [Q2 FY2027 call text](../../../raw/NVDA/transcripts/2026-08-26_Q2FY27_earnings_call.txt) · [Q2 FY2027 10-Q](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm) · [FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm) · [2026 proxy statement (DEF 14A)](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000036/nvda-20260512.htm) · [8-K: CEO transition (Nov 12, 2026)](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm) · [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json) · [Goldman Sachs Communacopia, Huang (Sep 10, 2026)](https://stockanalysis.com/stocks/nvda/transcripts/740955-goldman-sachs-communacopia-technology-conference-2026/) · [GTC Berlin keynote (Oct 21, 2026)](https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/) · [Goldman Sachs Communacopia, Kurian (Sep 8, 2026)](https://stockanalysis.com/stocks/googl/transcripts/737252-goldman-sachs-communacopia-technology-conference-2026/) · [AMD Q3 2026 prepared remarks](https://newsroom.amd.com/documents/2026/11/84f4476b-f064-4f0f-957c-fe484853e178.pdf) · [Broadcom Q3 FY2026 release](https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial) · [Broadcom Q3 FY2026 call summary (GuruFocus via Yahoo)](https://finance.yahoo.com/technology/ai/articles/broadcom-inc-avgo-q3-2026-110030403.html) · [Amazon Q3 2026 call](https://www.fool.com/earnings/call-transcripts/2026/10/30/amazon-amzn-q3-2026-earnings-call-transcript/) · [Alphabet Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000084/goog-20260930.htm) · [CNBC: Google enlists partners to sell TPUs (Oct 28, 2026)](https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html) · [SemiAnalysis: TPU InferenceX](https://newsletter.semianalysis.com/p/tpu-inferencex-full-steam) · [SemiAnalysis: GTC 2026 roadmap](https://newsletter.semianalysis.com/p/nvidia-the-inference-kingdom-expands) · [Tom's Hardware: Anthropic's S-1 compute contracts](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ipo-filing-shows-most-of-its-compute-goes-to-r-and-d-not-serving-customers-company-details-massive-usd800-billion-in-tpu-and-gpu-contracts) · [CNBC: calls for Huang's return (Nov 16, 2026)](https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html) · [Fortune: Commerce remote-access rule (Nov 16, 2026)](https://fortune.com/2026/11/16/new-commerce-rule-nvidia-chip-singapore-malaysia-china/) · [Yahoo Finance: NVDA quote](https://finance.yahoo.com/quote/NVDA/) · [Yahoo Finance: FY2028 consensus](https://finance.yahoo.com/markets/stocks/articles/nvidia-fiscal-2028-revenue-estimate-132028810.html) · [FRED: 10-year Treasury yield (DGS10)](https://fred.stlouisfed.org/series/DGS10) · [Wiki study: Nvidia against the field (Nov 17, 2026)](../../insights/NVDA-accelerator-competition-2026-11-17.md) · [Wiki snapshot: AI circular deals (Oct 27, 2026)](../../insights/ai-circular-deals-2026-10-27.md) · [Source gaps log](../../../raw/NVDA/SOURCES.md)
 
 ---
 

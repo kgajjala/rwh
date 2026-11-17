@@ -1,0 +1,51 @@
+NVIDIA Q3 FY2027 earnings call, November 17, 2026, 5:00 PM ET
+Source: Investing.com transcript (AI-assisted, editor-reviewed)
+https://in.investing.com/news/stock-market-news/earnings-call-transcript-nvidia-tops-q3-2026-estimates-and-lifts-outlook-93CH-5711032
+Cross-checked against: CNBC live updates https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html (FY2028 75% raise, Jones "does not intend to reinstate") and the IR CFO commentary (figures).
+Gap: no second full transcript yet (IR-hosted FactSet PDF usually posts days later). Verbatim passages below, extracted 2026-11-17.
+
+--- Harvey Jones, Chairman ---
+On November 12, our Board of Directors announced that after disclosure of personal behavior inconsistent with the company's code of conduct, standards, and cultural norms, Jensen Huang voluntarily resigned his positions as President, CEO, and Board Member. The NVIDIA board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO. The board appointed Colette Kress, NVIDIA's longtime and well-respected CFO, as Interim CEO.
+
+In addition, the board announced it was initiating a search for a permanent Chief Executive, and we have since retained Heidrick & Struggles to lead the search. ... This morning, the company announced that our board has established a National Security and Export Control Oversight Committee that will include a select group of our independent board directors, senior external advisors, and legal counsel. This committee will enhance our engagement with the U.S. government, including all relevant agencies. We will not be addressing or taking questions on today's call regarding the circumstances of Jensen's resignation and the ongoing investigation.
+
+--- Colette Kress, prepared remarks ---
+Vera Rubin is off to an extraordinary start. In its first quarter of production shipments, the Rubin platform generated nearly $20 billion in revenue, making it the fastest product ramp in NVIDIA's history.
+
+This combined with increased support from our supply base, we are raising our fiscal year 2028 outlook. We expect revenue to grow approximately 75% year-over-year, up from 70%, and off what is now a higher fiscal 2027 base. Our outlook considers data center readiness, the strength and durability of end customer demand, and our customers' access to capital. Q3 data center revenue increased 21% quarter-over-quarter to $108 billion, with balanced growth across hyperscale and AI cloud, industrial, and enterprise subsegments. Hyperscale revenue of $60 billion grew 23% sequentially, driven by the Vera Rubin ramp and sustained strength in Grace Blackwell. Our hyperscale customers' cloud revenue growth accelerated for the sixth consecutive quarter. Cloud industry backlog now sits at $2.5 trillion, up from $2 trillion just three months ago.
+
+We expect the major frontier labs to contribute approximately 15% of our data center revenue this year.
+
+Token prices have fallen nearly 60% since May, accelerating token usage and demand for compute. As a result, GPU rental prices are rising across generations. Hopper GPUs have recontracted at up to twice their original price under the multi-year agreements, while the B300 rates have risen more than 60% since their introduction.
+
+We continue to see very strong demand for Vera and expect total CPU revenue to more than double in fiscal year 2028. AI Clouds, Industrial, and Enterprise, or ACIE, revenue of $47 billion increased 18% sequentially and nearly tripled year-over-year. Sequential growth was driven by Vera Rubin shipments to top leading neocloud customers and the start of our frontier labs building their own data centers. ... We have supported the development of this ecosystem, and we will continue to be disciplined and selective in our support.
+
+Q3 sales of licensed Hopper data center products to China was $2.4 billion. Our guidance does not have any licensed Hopper data center products included, and we are no longer shipping licensed Hopper data center products to China.
+
+In Q3, our purchase commitments increased to $390 billion, reflecting our confidence in the long-term sustainability of demand for NVIDIA infrastructure. ... Commitments associated with our neocloud agreements totaled $32 billion at the end of Q3. ... Total guarantees were $118 billion at the end of Q3, including the $105 billion in credit support for land, power, and shell capacity for the PORTS-Pike campus we discussed last quarter. ... SB Energy plans are on track, with capacity expected to come online in phases beginning in calendar 2028.
+
+As we advance this work, we will remain thoughtful in how we participate and disciplined in how we commit capital. ... As the market matures and additional sources of capital become available, we are rigorously evaluating future investments, commitments, and guarantees.
+
+Our networking franchise continues to scale, with Q3 revenue exceeding $21 billion. ... We remain on track to launch Vera Rubin Ultra next year and Feynman in 2028.
+
+In Q3, we returned a record $28 billion to shareholders, $22 billion through share repurchases, and $6 billion in cash dividends. We have returned 65% of free cash flow on a year-to-date basis. Going forward, we intend to return all excess free cash flow, net of strategic uses, to shareholders during this last quarter and going forward. ... We continue to plan to execute our buyback authorization by the end of fiscal 2028.
+
+Total revenue is expected to be $130 billion, plus or minus 3%. ... New export controls were released by the U.S. Commerce Department this week. However, with demand far exceeding supply, we expect our performance to remain strong. ... We expect Q4 to mark the bottom of gross margins before improving to the 72%-73% range in fiscal year 2028.
+
+--- Q&A ---
+Joseph Moore (Morgan Stanley) on the 75% raise. Kress: We had originally indicated that we would be at about 70% growth year over year, and now we are increasing that to 75% growth. We took a lot of time working into both our demand that continues to be growing, as well as our additional supply that we are able to provide to our different customers. ... Additionally, we did look at an assessment in terms of the current export controls, and we are still going to spend some time studying those to see the different pieces of it.
+
+Vivek Arya (BofA) on moats and talent. Kress: From a business perspective, it's business as usual. We've engaged with our customers, we've engaged with our suppliers, our partners. They're all 100% up behind us.
+Jones: We're going to look into internal candidates as well as external candidates. ... we won't expedite the CEO before finding exactly the right person.
+
+Timothy Arcuri (UBS) on pricing power as frontier labs lean "even more aggressively on ASICs". Kress: What we provided here in Q4 is our bottom. ... those changes regarding FY 2028 are in line with what we communicated last quarter that we see in FY 2028. We see no changes at this time. ... I think our pricing is well thought through, but that is something for the future.
+
+CJ Muse (Cantor) on vendor financing appetite. Kress: The most important part of the financing that we would probably review, but have to review in detail to make sure it is the right thing, is focusing on land, power, and shell. ... Right now, I think we would look at this and taking a very strong look in terms of the types of companies that we would want to help in terms of the financing, as a lot of things have changed over this last quarter.
+
+Stacy Rasgon (Bernstein) on the new neocloud contingency sentence. Kress: If all of that begins and unfortunately they are delayed or they have a challenge in terms of building that, our guarantee doesn't exist anymore. ... Is it new? No. Did we change anything? No.
+
+Ben Reitzes (Melius) on a 2028 slowdown. Kress: I'd say even in the last week, the continued ask, how are we going to receive more and more supply to help them with the demand that they have in front of them?
+
+Joshua Buchalter (TD Cowen) on allocation. Kress: All are getting the same pricing.
+
+Jim Schneider (Goldman) on capital priorities. Kress: Super top priority for us, first and foremost ... the 150 increase ... It is going to be used, and hopefully, in terms of fully used for the full fiscal year 2028. ... The top priority is going to be our suppliers ... some of that supply needs assistance in terms of capital from any forms of different types of prepaids.

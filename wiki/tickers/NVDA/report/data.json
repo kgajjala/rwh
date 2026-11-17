@@ -1,0 +1,382 @@
+{
+ "meta": {
+  "ticker": "NVDA",
+  "company": "NVIDIA Corporation",
+  "title": "Nvidia: The Platform, the Price Umbrella and the Balance Sheet",
+  "dek": "Revenue is guided to grow about 70% next year, the stock is 36% off its high, and the founder resigned five days ago. Every large buyer now has a second chip in volume. What does $155 assume, and is that enough?",
+  "date": "2026-11-17",
+  "date_long": "November 17, 2026",
+  "status": "Active",
+  "price": 154.60,
+  "price_note": "Nov 17, 2026, about 2:15 PM EST, intraday, before the Q3 FY2027 release",
+  "price_url": "https://finance.yahoo.com/quote/NVDA/",
+  "range52": [148.80, 243.37],
+  "type": "Fabless AI-infrastructure platform (accelerators, systems, networking, software)",
+  "stage": "Scaling",
+  "cyclical": "Yes",
+  "competence": "Edge",
+  "compounder": false,
+  "terminal_label": "FY2032",
+  "accent": {"light": "#4a7a0c", "dark": "#9ccc5a"},
+  "html_name": "NVDA-deep-dive.html",
+  "report_path": "../NVDA.md"
+ },
+ "verdict": {
+  "sentence": "Nvidia is guided to grow revenue about 70% next year, yet after a 36% fall and its founder's resignation the stock trades at 9.7× next year's consensus EPS; my probability-weighted case, which assumes share falls toward 58% and revenue goes flat after FY2028, returns [[pw_return]] a year at [[price]], just over the 13% hurdle: Initiate, probability-fragile.",
+  "non_holder": {"emoji": "🟢", "verb": "Initiate (≤[[entry]]), fragile"},
+  "holder": {"emoji": "🟢", "verb": "Add"},
+  "breaks_if": "The FY2028 outlook of about 70% growth is cut, hyperscale revenue falls two quarters running while Broadcom's AI revenue keeps its guide, or non-GAAP gross margin breaks below the 71% floor management set. Any of these says the share-break case is arriving, and each moves 10–15 points from Base to Bear.",
+  "multiple_label": "P/E",
+  "multiple": "16.7× FY2027E · 9.7× FY2028 consensus",
+  "bait": "Double (B+A), Moderate",
+  "moat": "Wide; narrowing at the largest buyers",
+  "next": "Q3 FY2027 tonight (Nov 17, after the close) · Q4 FY2027 ~late Feb 2027 · CEO search",
+  "price_implies": "a little below my Base (EPS ≈[[Priced-in.eps]] in FY2032 for 10%/yr)"
+ },
+ "call": "The market is pricing FY2028 as close to the peak. At [[price]], a 10% return needs FY2032 EPS of [[Priced-in.eps]] at 16 times, a little below my Base of [[Base.eps]], and my Base already has revenue going roughly flat after the guided jump to about $697 billion, as Google's TPU, AMD's Helios and Broadcom's custom chips take share at the largest buyers. What I think the price has slightly wrong is how much is left after that: even with share falling from about 83% of spending to about 58% and gross margin to 69%, buybacks and cash returns compound EPS at [[Base.cagr]] a year, and the Bull, a platform that holds two-thirds of a growing market, is worth [[Bull.value]]. Weighted, the value is [[pw_ev]] and the return [[pw_return]], so the price that returns 13% is [[entry]]. The verdict is probability-fragile: the break-even Bear probability is [[breakeven_bear]] against the 25% I assign, so one notch more pessimism on share, demand or the post-Huang roadmap turns it into a Watch. The number that settles it first is tonight's FY2028 outlook; the one that settles it over a year is hyperscale revenue against Broadcom's AI revenue.",
+ "tests": [
+  {
+   "claim": "That FY2028 is the year management says it is.",
+   "test": "Tonight's Q3 FY2027 release and call (Nov 17, 2026): a Q4 FY2027 revenue guide with a midpoint of at least $118 billion (consensus about $124 billion) and the FY2028 outlook of about 70% growth reaffirmed, with no cut below 60%.",
+   "if_fail": "15 points Base → Bear (PW EV [[test1.pw_ev]], [[test1.pw_return]]/yr) → **[[test1.verb]] / Hold**, entry ≤[[test1.entry]].",
+   "shift": {"from": "Base", "to": "Bear", "points": 0.15}
+  },
+  {
+   "claim": "That share bleeds rather than breaks at the hyperscalers.",
+   "test": "Hyperscale revenue grows sequentially in Q4 FY2027 and Q1 FY2028 (reported about late February and late May 2027), as the CFO said it would reaccelerate in Q4 with Vera Rubin supply. Fail: two consecutive sequential declines while Broadcom's AI semiconductor revenue meets its own guide.",
+   "if_fail": "10 points Base → Bear (PW EV [[test2.pw_ev]], [[test2.pw_return]]/yr) → **[[test2.verb]] / Hold**, entry ≤[[test2.entry]].",
+   "shift": {"from": "Base", "to": "Bear", "points": 0.10}
+  },
+  {
+   "claim": "That the price umbrella holds while memory costs rise.",
+   "test": "Non-GAAP gross margin of at least 71.0% in Q4 FY2027 and at least 72.0% in Q1 FY2028 (management guided a bottom of 71–72% in Q4, then 72–73% in FY2028 as price increases take effect in Q1).",
+   "if_fail": "10 points Base → Bear (PW EV [[test3.pw_ev]], [[test3.pw_return]]/yr) → **[[test3.verb]] / Hold**, entry ≤[[test3.entry]].",
+   "shift": {"from": "Base", "to": "Bear", "points": 0.10}
+  }
+ ],
+ "updates": [],
+ "tables": {
+  "quarters": {
+   "columns": ["$ Billion unless stated", "Q2 FY2026", "Q1 FY2027", "Q2 FY2027", "Q3 FY2027 guide"],
+   "rows": [
+    {"cells": ["Revenue", "46.74", "81.62", "**96.22**", "108.0 ± 2%"], "cls": "tot"},
+    ["Revenue growth, year over year", "+56%", "n/r", "**+106%**", "≈+89% `[Derived]`"],
+    {"cells": ["Data Center", "41.10", "75.25", "**89.02**", "n/d"], "cls": "grp"},
+    {"cells": ["Hyperscale", "24.17", "43.05", "48.71", "n/d"], "cls": "sub"},
+    {"cells": ["AI clouds, industrial and enterprise (ACIE)", "16.93", "32.20", "**40.31**", "n/d"], "cls": "sub"},
+    {"cells": ["ACIE share of Data Center", "41%", "43%", "45%", "Growth led by ACIE"], "cls": "sub"},
+    ["Edge Computing", "5.65", "6.37", "7.20", "n/d"],
+    ["Gross margin (non-GAAP)", "72.5%", "75.0%", "75.0%", "74.0% ± 0.5 pt"],
+    ["Operating expenses (non-GAAP)", "5.36", "7.45", "8.23", "≈9.0"],
+    {"cells": ["Operating income (non-GAAP)", "28.54", "53.78", "**63.96**", "n/d"], "cls": "tot"},
+    ["Net income (GAAP), incl. equity-security gains", "26.42", "58.32", "59.69", "n/d"],
+    ["Diluted EPS (non-GAAP)", "$1.01", "$1.87", "**$2.22**", "consensus ≈$2.47 `[Analyst consensus]`"],
+    ["Operating cash flow", "15.4", "50.3", "24.1", "n/d"],
+    ["Days sales outstanding", "n/r", "45", {"v": "60", "cls": "neg"}, "—"]
+   ],
+   "note": "Fiscal years end in late January: FY2027 runs from late January 2026 to late January 2027. In Q2 FY2027 one company was reclassified from ACIE to Hyperscale and prior periods recast. Q1 FY2027 GAAP net income includes large gains on equity securities ($7.8B of net gains in Q2 alone). Source: [CFO commentary, Q2 FY2027](https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q227/Q2FY27-CFO-Commentary.pdf) (text in raw/NVDA/press-releases). Built with Claude."
+  },
+  "drivers": {
+   "columns": ["Driver", "Hopper", "Grace Blackwell", "Vera Rubin", "~Read"],
+   "rows": [
+    ["Nvidia revenue per gigawatt of capacity, $B", "≈18", "≈25", "**≈40**", "Kress and Huang, Q2 FY2027 call; Rubin now includes Vera CPU, NVLink, scale-out networking and the Groq LPU"],
+    ["Customer's all-in cost per gigawatt, $B", "—", "—", "≈50–60", "Huang: 'a 1 gigawatt AI factory costs about $50 billion' (GTC Berlin, Oct 21); ≈$60B 'today' (Q2 call)"],
+    ["Nvidia share of the customer's spend", "—", "—", "≈67–80% `[Derived]`", "Content ÷ all-in cost"],
+    ["Custom-chip content per gigawatt (Broadcom), $B", "—", "≈20–30", "≈20–30", "Hock Tan, Broadcom Q3 FY2026 call, Sep 2, 2026"],
+    {"cells": ["Implied gigawatts shipped by Nvidia `[Derived]`", "—", "FY2027 ≈14", "FY2028 ≈18", "Data Center revenue ÷ blended $/GW (≈$26B FY2027, ≈$36B FY2028)"], "cls": "tot"},
+    ["Neocloud installed capacity on Nvidia, GW", "—", "≈3 (end-2025)", "≈8 (end-2026)", "Kress, Q2 FY2027 call"],
+    ["Largest single commitment", "—", "—", "OpenAI ≈12 GW", "'existing and planned commitments', Kress, Q2 FY2027 call"],
+    ["Customer block", "—", "—", "—", "Two direct customers were 22% and 14% of FY2026 revenue; five were 10–22% of receivables at Jul 26, 2026; retention, CAC and LTV not disclosed"]
+   ],
+   "note": "Unit of value: one gigawatt of AI data-center capacity, which Nvidia itself uses. Growth splits into more gigawatts (units) and more dollars per gigawatt (content); since Hopper, content has more than doubled. Implied gigawatts are author's estimates `[Estimate]`. Source: [Q2 FY2027 call](https://s201.q4cdn.com/141608511/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf), [GTC Berlin keynote](https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/), [Broadcom Q3 FY2026 call summary](https://finance.yahoo.com/technology/ai/articles/broadcom-inc-avgo-q3-2026-110030403.html), [FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm), [Q2 FY2027 10-Q](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm). Built with Claude."
+  },
+  "share": {
+   "columns": ["Vendor revenue, $B", "2026", "2027", "2028", "~Basis"],
+   "rows": [
+    ["Nvidia Data Center", "≈379", "≈645", "750–850", "FY2027 from reported quarters, guide and consensus; FY2028 from the ≈70% outlook; 2028 my range `[Estimate]`"],
+    ["Broadcom AI semiconductors (custom XPUs ≈73%, networking the rest)", "58", "≈115", "≈230", "`[Management guidance]`, fiscal years ending about Nov 1"],
+    ["AMD data-center AI", "≈13", "≈35", "≈60", "`[Estimate]`: AMD does not disclose; data center more than doubles in 2026, total revenue guided +80% in 2027"],
+    ["Marvell, MediaTek, Alchip custom, specialists", "≈7", "≈13", "≈25", "`[Estimate]`"],
+    {"cells": ["Total", "≈457", "≈808", "≈1,065–1,165", ""], "cls": "tot"},
+    {"cells": ["**Nvidia share of spend**", "**≈83%**", "**≈80%**", "**≈70–73%**", "`[Derived]`; fiscal years differ, so ±3 points"], "cls": "tot"},
+    ["Anthropic contracted capacity (≈11 GW)", "Nvidia ≈42%", "TPU ≈41%", "Trainium ≈11%, AMD ≈7%", "[TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/262241466-anthropic-ipo-reveals-11gw-compute-footprint-nvidia-accounts-42-tradingkey) `[Estimate]`; the S-1 gives no split"],
+    ["OpenAI announced capacity (≈30 GW)", "Nvidia ≈40% (12 GW)", "Broadcom custom 10 GW", "AMD 6 GW, Trainium 2 GW", "`[Derived]` from the Nvidia call and deal announcements"],
+    ["TSMC CoWoS packaging, 2026", "Nvidia ≈55–60%", "Broadcom ≈15%", "AMD ≈10–11%", "Morgan Stanley and DigiTimes via [ClusterBid](https://clusterbid.com/blog/gpu-supply-chain-2026-tsmc-cowos-nvidia-allocation-lead-times) `[Estimate, secondary]`"]
+   ],
+   "note": "No audited share table exists for AI accelerators. This adds up what the vendors report; hyperscalers' in-house chips appear as their design partners' revenue, so nothing is counted twice. Third-party estimates of Nvidia's 2026 revenue share run 75–85%. China's domestic chips are excluded. Source: [Nvidia CFO commentary Q2 FY2027](https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q227/Q2FY27-CFO-Commentary.pdf), [Broadcom Q3 FY2026 release](https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial), [AMD Q3 2026 prepared remarks](https://newsroom.amd.com/documents/2026/11/84f4476b-f064-4f0f-957c-fe484853e178.pdf), [Marvell FQ2 2027 call](https://www.tradingkey.com/news/transcripts/262137259-tradingkey). Built with Claude."
+  },
+  "unit": {
+   "columns": ["Per gigawatt built, $B", "Vera Rubin today", "Price cut 15%", "40% of gigawatts go to custom chips", "Both"],
+   "rows": [
+    ["Nvidia revenue per gigawatt built", "40.0", "34.0", "24.0", "20.4"],
+    ["Gross margin", "72%", "67%", "72%", "67%"],
+    {"cells": ["Nvidia gross profit per gigawatt built", "**28.8**", "22.8", "17.3", {"v": "**13.7**", "cls": "neg"}], "cls": "tot"},
+    ["Change against today", "—", "−21%", "−40%", {"v": "−52%", "cls": "neg"}],
+    ["Gigawatt growth needed to hold gross profit flat", "—", "+26%", "+67%", "+110%"],
+    ["Customer's saving per gigawatt moved to custom chips (content $40B → $25B)", "—", "—", "≈15", "≈9 after the price cut"],
+    {"cells": ["Reference: actual Q2 FY2027", "75.0% non-GAAP gross margin", "FY2028 guide 72–73%", "Broadcom content $20–30B/GW", "—"], "cls": "sub"}
+   ],
+   "note": "Illustrative `[Estimate]`. A price cut lowers revenue per gigawatt with costs unchanged, so gross margin falls from 72% to 67%: (0.72 × 40 − 6) ÷ 34. The custom-chip column assumes Nvidia keeps its full content on 60% of the gigawatts built and none on the rest. Custom-chip content of $25B is the midpoint of Hock Tan's $20–30B range. Source: [Q2 FY2027 call](https://s201.q4cdn.com/141608511/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf), [Broadcom Q3 FY2026 call summary](https://finance.yahoo.com/technology/ai/articles/broadcom-inc-avgo-q3-2026-110030403.html). Built with Claude."
+  },
+  "rings": {
+   "columns": ["Ring", "~What it is", "~Size", "~Exposure to custom chips and the TPU"],
+   "rows": [
+    ["1. ACIE: neoclouds, sovereigns, enterprises, AI natives", "Buyers who do not design chips; Nvidia sells them the whole factory, and sometimes the financing", "45% of Q2 FY2027 Data Center revenue; +138% y/y; sovereign tripled y/y", "**Low today, rising from 2027**: Google now sells TPU systems outright and through Oracle and a Blackstone neocloud; AMD sells Helios through the same OEMs"],
+    ["2. Hyperscale and lab training", "Frontier pre- and post-training at Microsoft, Amazon, Meta, Oracle, OpenAI, xAI", "Part of the 55% Hyperscale share; training vs inference not disclosed", "**Medium**: Google trains on TPUs; Anthropic's first million TPUs were mainly for training"],
+    ["3. Hyperscale and lab inference", "Serving a handful of models at very large volume", "Part of the 55%; the fastest-growing workload", "**High**: TPU, Trainium (most of Bedrock), MTIA, Maia, Jalapeño and MI455X all aim here first"],
+    ["4. Attach: networking, CPUs, Groq LPX", "NVLink, Spectrum-X, InfiniBand, Vera and Grace, low-latency LPUs", "Grace >$5B trailing; networking +18% q/q; Nvidia #1 in data-center Ethernet (20.4%)", "**Medium**: rides on GPU wins; Broadcom Tomahawk and UALink compete on custom-chip racks"],
+    ["5. Edge Computing", "Workstations, PCs, gaming, auto, robotics", "$7.2B in Q2 FY2027 (7.5% of revenue)", "**Low** to custom chips; exposed to memory costs and the PC cycle"]
+   ],
+   "note": "Nvidia reports Hyperscale and ACIE, not workloads, so rings 2 and 3 are split by judgment. Source: [CFO commentary, Q2 FY2027](https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q227/Q2FY27-CFO-Commentary.pdf), [Q2 FY2027 call](https://s201.q4cdn.com/141608511/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf), [IDC Ethernet tracker, Q2 2026](https://www.idc.com/resource-center/blog/ethernet-switch-market-surges-43-4-to-18-9b-in-2q26-as-ai-infrastructure-demand-drives-record-datacenter-spending/). Built with Claude."
+  },
+  "financing": {
+   "columns": ["Jul 26, 2026, $ Billion", "Amount", "~What it is", "~When it bites"],
+   "rows": [
+    {"cells": ["Supply and capacity commitments", "**279**", "Mostly memory; up from $119B a quarter earlier and $95.2B at Jan 25, 2026", "$92B in the rest of FY2027, $87B FY2028, $88B FY2029: fixed if demand turns"], "cls": "grp"},
+    ["Cloud service agreements, data-center leases, capex, equity commitments", "87", "Nvidia's own R&D compute, leases up to 20 years, $25B of committed investments", "Spread to FY2033+"],
+    ["AI-cloud agreements and leases for third parties", "56", "Take-or-pay on part of partners' capacity, in exchange for a revenue share", "FY2028 onward"],
+    {"cells": ["Guarantees, maximum exposure", "**108.5**", "$105B for SB Energy's 4.25 GW OpenAI campus in Ohio; $3.5B for AI-cloud partners' leases", "Phased in from FY2029 as sites become ready"], "cls": "grp"},
+    ["Equity holdings", "≈96", "$47.9B non-marketable plus $47.8B public; nearly $50B invested in frontier labs", "Marked to market each quarter"],
+    ["Accounts receivable", "63.1", "60 days of sales, up from 45, on extended terms for investment-grade buyers", "Now"],
+    ["Inventory", "31.6", "Up from $25.8B, for the Vera Rubin ramp", "Now"],
+    {"cells": ["Against: cash and marketable debt securities", "56.6", "After $25B of senior notes issued in Q2 FY2027", "—"], "cls": "tot"},
+    ["Against: FY2027 revenue `[Derived]`", "≈410", "Q1, Q2, the Q3 guide and Q4 consensus", "—"]
+   ],
+   "note": "Kress expects the labs Nvidia supports with its balance sheet to be 'roughly a quarter of our business next year'. Equity holdings from the 10-Q balance sheet; the CFO commentary states commitments and guarantees by fiscal year. Source: [CFO commentary, Q2 FY2027](https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q227/Q2FY27-CFO-Commentary.pdf), [Q2 FY2027 10-Q](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm), [FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm). Built with Claude."
+  },
+  "deals": {
+   "columns": ["Year", "Deal", "~Price and form", "~What happened", "Verdict"],
+   "rows": [
+    ["2020", "Mellanox", "≈$6.9B cash `[link pending]`", "Became the networking business: InfiniBand, then Spectrum-X; networking revenue +142% in FY2026 and Nvidia is now the largest data-center Ethernet switch vendor", "Good"],
+    ["2020–22", "Arm (attempted)", "≈$40B, mostly stock `[link pending]`", "Abandoned in February 2022 under regulatory opposition; prepayment written off `[link pending]`", "Poor (cost small, distraction large)"],
+    ["2025", "Groq (non-exclusive license plus most of the team)", "≈$20B; $2.9B paid in 1H FY2027, $0.99B accrued at Jul 26, 2026", "Groq 3 LPX in full production; volume to Nebius from Q3 FY2027; LP40 planned with Feynman", "Too early"],
+    ["2025–26", "Equity stakes in AI labs, neoclouds and partners (OpenAI, Anthropic, xAI/SpaceX, CoreWeave, Nebius, Intel and others)", "Nearly $50B in frontier labs; ≈$96B carried at Jul 26, 2026; $25B more committed", "Demand tied to Nvidia systems; $7.8B of net gains in Q2 FY2027; two labs may list", "Too early"],
+    ["2026", "SB Energy PORTS-Pike guarantees for OpenAI", "Up to $105B of credit support, phased from FY2029", "Each generation at the site 'could represent' $150–200B of Nvidia revenue (CFO commentary)", "Too early"]
+   ],
+   "note": "Mellanox and Arm prices are from the announcements as I recall them and carry `[link pending]`. Source: [FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm), [Q2 FY2027 10-Q](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm), [CFO commentary, Q2 FY2027](https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q227/Q2FY27-CFO-Commentary.pdf). Built with Claude."
+  },
+  "capalloc": {
+   "columns": ["$B, except per share", "FY2022", "FY2023", "FY2024", "FY2025", "FY2026", "Q2 FY2027", "Cumulative FY2022–26"],
+   "rows": [
+    ["Revenue", "26.91", "26.97", "60.92", "130.50", "**215.94**", "96.22", "—"],
+    ["Growth", "+61%", "+0%", "+126%", "+114%", "+65%", "+106%", "—"],
+    ["Diluted EPS (GAAP, split-adjusted)", "$0.39", "$0.17", "$1.19", "$2.94", "**$4.90**", "$2.46", "—"],
+    ["Operating cash flow", "9.11", "5.64", "28.09", "64.09", "102.72", "24.1", "209.65"],
+    ["Capex", "0.98", "1.83", "1.07", "3.24", "6.04", "n/r", "13.16"],
+    {"cells": ["Free cash flow", "8.13", "3.81", "27.02", "60.85", "**96.68**", "n/r", "**196.49**"], "cls": "tot"},
+    ["FCF margin", "30%", "14%", "44%", "47%", "45%", "—", "—"],
+    ["Stock compensation", "2.00", "2.71", "3.55", "4.74", "6.39", "n/r", "19.39"],
+    ["Dividends", "0.40", "0.40", "0.40", "0.83", "0.97", "≈6", "3.00"],
+    ["Buybacks", "0", {"v": "10.04", "cls": "pos"}, "9.53", "33.71", "40.09", "≈20", "**93.37**"],
+    ["Buybacks ÷ FCF", "0%", {"v": "264%", "cls": "pos"}, "35%", "55%", "41%", "—", "48%"],
+    ["Average buyback price (split-adjusted)", "—", "≈$16 `[Estimate]`", "n/r", "n/r", "≈$143", "n/r", "—"],
+    ["Acquisitions (cash, net)", "0.26", "0.05", "0.08", "1.01", "1.54", "Groq $2.9B (1H)", "2.94"],
+    ["Debt", "10.95", "10.95", "9.71", "8.46", "8.47", "≈33.5", "—"],
+    ["Diluted shares (B, split-adjusted)", "25.35", "25.07", "24.94", "24.80", "24.51", "24.26", "−3.3% over four years"]
+   ],
+   "note": "Fiscal years end in late January (FY2026 = year to Jan 25, 2026). FCF = operating cash flow − purchases of property, equipment and intangibles `[Derived]`. Q2 FY2027 buybacks and dividends from the call ('$20 billion through share repurchases and $6 billion through our quarterly dividend of $0.25 per share'). The FY2023 average price is an estimate from the year's trading range. FY2026 average = $40.4B ÷ 282M shares. Remaining authorization $99.3B at Jul 26, 2026. Equity investments and the Groq license are outside 'acquisitions'. Source: [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json), [FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm), [Q2 FY2027 10-Q](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm). Built with Claude."
+  },
+  "incentives": {
+   "columns": ["Component", "Size (FY2026)", "~What it pays for", "~Outcome"],
+   "rows": [
+    ["**Variable cash plan**", "$3.0M target for the CEO", "Revenue: threshold $100B, base $130B, stretch $160B (stretch cut from $190B after the H20 controls)", "$215.9B actual; 200% payout, $6.0M"],
+    ["**Single-year PSUs**", "$15.5M target", "Non-GAAP operating income: base $71B, stretch $96B (cut from $120B)", "$137.3B actual; CEO 150%"],
+    ["**Multi-year PSUs**", "$15.5M target", "Three-year TSR against the S&P 500: 50th percentile for target, 75th for maximum", "100th percentile (TSR +1,055%); CEO 150%"],
+    ["**Ownership**", "Huang 870.6M shares, 3.58% (Mar 23, 2026); directors and officers 3.94%", "Guideline: 10× salary for the CEO", "Huang resigned Nov 12, 2026; his awards now follow the plan's separation terms (not read)"],
+    {"cells": ["**Return on invested capital**", {"v": "0%", "cls": "neg"}, "Not a metric in any plan", "Nothing pays for capital efficiency, the $366B of commitments or the $108.5B of guarantees"], "cls": "tot"}
+   ],
+   "note": "Total target pay for the CEO was $35.5M, over 90% at risk, and all equity was PSUs. Stretch goals were set so far below results that every plan paid at or near the maximum. Interim CEO Colette Kress's terms were not disclosed in the Nov 12 8-K. Source: [2026 proxy (DEF 14A)](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000036/nvda-20260512.htm), [8-K, Nov 12, 2026](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm). Built with Claude."
+  },
+  "promises": {
+   "columns": ["~Promised", "Where, when", "~Outcome"],
+   "rows": [
+    ["About $1 trillion of revenue over the three fiscal years FY2026–FY2028 (as analysts summarized the earlier outlook)", "Bernstein's question on the Q2 FY2027 call, Aug 26, 2026, citing the prior outlook", "✅ On track and raised: FY2026 $215.9B, FY2027 ≈$410B `[Derived]`, FY2028 guided +≈70%, which Bernstein put at ≈$200B above the prior path"],
+    ["One new data-center platform a year; Vera Rubin in the second half of 2026", "GTC and Computex roadmaps, 2024–2026", "✅ Rubin production shipments began August 2026, ≈20% of Q3 Data Center revenue guided; Rubin Ultra (2H 2027) not yet tested"],
+    ["Return 50% or more of free cash flow", "Q2 FY2027 call, Aug 26, 2026 (Kress)", "✅ 60% year to date; 'we intend to increase and return excess free cash flow net of strategic uses'"],
+    ["Resume data-center sales in China (H20, then H200 under license)", "Huang, repeatedly in 2025–2026", "🔴 Hopper shipments to China under 1% of Data Center revenue; zero in the outlook"]
+   ],
+   "note": "Guidance grade: **Consistent beater**. Revenue and EPS beat consensus for six straight quarters through Q2 FY2027 `[Analyst consensus]`, and Q2 revenue of $96.2B compared with ≈$91.7B expected. Source: [Q2 FY2027 call](https://s201.q4cdn.com/141608511/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf), [Yahoo Finance on the estimate record](https://finance.yahoo.com/markets/stocks/articles/why-nvidia-13-times-expected-160800388.html), [Bloomberg on H200 sales](https://www.bloomberg.com/news/articles/2026-08-26/nvidia-steps-back-into-china-market-with-first-h200-chip-sales). Built with Claude."
+  },
+  "five_year": {
+   "columns": ["$B, except per share", "FY2022", "FY2023", "FY2024", "FY2025", "FY2026", "1H FY2027"],
+   "rows": [
+    ["Revenue", "26.91", "26.97", "60.92", "130.50", "**215.94**", "177.84"],
+    ["Gross margin (GAAP)", "64.9%", "56.9%", "72.7%", "75.0%", "71.1%", "75.0%"],
+    ["Operating income", "10.04", "4.22", "32.97", "81.45", "**130.39**", "117.27"],
+    ["Operating margin", "37.3%", "15.7%", "54.1%", "62.4%", "60.4%", "65.9%"],
+    ["R&D", "5.27", "7.34", "8.68", "12.91", "18.50", "n/r"],
+    ["Net income (GAAP)", "9.75", "4.37", "29.76", "72.88", "120.07", "118.01"],
+    ["Operating cash flow", "9.11", "5.64", "28.09", "64.09", "102.72", "74.4"],
+    {"cells": ["Free cash flow", "8.13", "3.81", "27.02", "60.85", "**96.68**", "n/r"], "cls": "tot"},
+    ["Stock compensation", "2.00", "2.71", "3.55", "4.74", "6.39", "n/r"],
+    {"cells": ["**Owner earnings** (FCF − SBC)", "6.13", "1.10", "23.47", "56.12", "**90.29**", "n/r"], "cls": "tot"},
+    ["Owner earnings per diluted share", "$0.24", "$0.04", "$0.94", "$2.26", "$3.68", "n/r"],
+    ["SBC % of revenue", "7.4%", "10.0%", "5.8%", "3.6%", "3.0%", "≈2.2% `[Estimate]`"],
+    ["SBC ÷ owner earnings", "0.33×", "2.46×", "0.15×", "0.08×", "0.07×", "—"],
+    ["FCF conversion (FCF ÷ net income)", "83%", "87%", "91%", "83%", "81%", "—"],
+    ["Diluted shares (B, split-adjusted)", "25.35", "25.07", "24.94", "24.80", "24.51", "24.26 (Q2)"],
+    ["Net share change per year", "n/m", "−1.1%", "−0.5%", "−0.5%", "−1.2%", "−1.0% (Q2 y/y) `[Derived]`"],
+    ["Buybacks ÷ SBC", "0", "3.7×", "2.7×", "7.1×", "6.3×", "—"],
+    ["Cash and marketable securities", "21.21", "13.30", "25.98", "43.21", "59.73", "56.6"],
+    ["Debt", "10.95", "10.95", "9.71", "8.46", "8.47", "≈33.5"],
+    ["Net debt ÷ EBITDA", "net cash", "net cash", "net cash", "net cash", "net cash", "net cash"],
+    ["Inventory", "2.61", "5.16", "5.28", "10.08", "21.40", "31.6"],
+    ["Invested capital `[Derived]`", "17.24", "20.84", "28.05", "46.39", "108.98", "n/r"],
+    ["NOPAT (operating income × 85%) `[Derived]`", "8.53", "3.59", "28.03", "69.24", "110.83", "n/r"],
+    {"cells": ["ROIC (NOPAT ÷ year-end invested capital)", "49%", {"v": "17%", "cls": "neg"}, "100%", "149%", "**102%**", "—"], "cls": "tot"},
+    ["3-year ROIIC", "", "", "", "208% (FY22→FY25)", "**122%** (FY23→FY26)", "—"],
+    ["Reinvestment rate (Δ invested capital ÷ NOPAT)", "n/m", "n/m", "n/m", "26%", "56%", "—"],
+    ["Implied organic growth (ROIIC × reinvestment)", "", "", "", "≈54%", "≈68%", "—"]
+   ],
+   "note": "Cycle position: early-to-mid upcycle in AI data-center spending, with FY2023 (the year to January 2023) as the last trough: revenue flat and operating margin 16% after a crypto and gaming inventory correction. Invested capital = equity + debt + operating leases − cash and marketable securities `[Derived]`; FY2026 includes about $12.9B of equity securities and $20.8B of goodwill, so operating ROIC is higher. NOPAT uses a notional 15% tax. FY2026 reinvestment is mostly working capital (receivables, inventory, supply prepayments) and strategic investments, not plant. ROIC passes the 20% test in four of five years and ROIIC and reinvestment pass, but the runway test fails in my own Base, where growth is exhausted after FY2028, so I do not flag Nvidia as a high-ROIIC compounder. Splits: 4:1 in July 2021 and 10:1 in June 2024. Source: [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json), [FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm), [CFO commentary, Q2 FY2027](https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q227/Q2FY27-CFO-Commentary.pdf). Built with Claude."
+  },
+  "levers": {
+   "columns": ["Lever", "~Contribution now", "Runway", "~Evidence", "~Management intent", "Stage"],
+   "rows": [
+    ["Market growth", "Top-five hyperscaler capex ≈$800B in 2026, ≈$1.3T expected in 2027", "2–5 yrs", "Kress, Q2 FY2027 call; Amazon and Alphabet both guide 2027 capex 'meaningfully' or 'significantly' higher", "'demand is much greater than 70%' (Huang)", "Proven; cyclical"],
+    ["Share gain", "Negative: ≈83% → ≈70–73% of spend by 2028 `[Derived]`", "—", "Labs split orders; Broadcom AI revenue doubling twice; AMD Helios in volume", "Win ACIE and every cloud", "Reversing"],
+    ["Price and mix", "Content ≈$18B → ≈$25B → ≈$40B per gigawatt", "3–5 yrs", "More of the rack each generation; price increases in Q1 FY2028", "'after that, it's going to be higher' (Huang)", "Proven"],
+    ["Attach / new products", "Grace >$5B trailing; CPU revenue to more than double in FY2028; Spectrum-X 2.6× y/y; Groq LPX shipping", "5+ yrs", "Q2 FY2027 call", "Sell the whole AI factory, standalone Vera CPUs", "Scaling"],
+    ["New geographies", "Sovereign +35% q/q and tripled y/y; China ≈0", "5+ yrs", "Q2 FY2027 call; new export licenses for five countries (Nov 16)", "Neutral partner to every sovereign", "Scaling; China is an option"],
+    ["M&A", "Groq license ≈$20B", "—", "LPX in production", "Ecosystem stakes rather than large acquisitions", "Option"],
+    ["Margin", "Gross margin 75% → 71–72% bottom in Q4 FY2027", "—", "Memory costs; price increases from Q1 FY2028", "72–73% in FY2028", "Under pressure"],
+    ["Share count", "−1.2% in FY2026", "Ongoing", "$99.3B authorization", "Return ≥50% of FCF", "Proven"]
+   ],
+   "note": "Adjacency test: CPUs, networking and LPUs share customers, systems and software with the GPU; the equity stakes and guarantees are financing, not adjacency, and are graded in the second debate. The Base rests on market growth through FY2028 and the share count; the Bull adds price and mix and attach. Source: [Q2 FY2027 call](https://s201.q4cdn.com/141608511/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf), [Amazon Q3 2026 call](https://www.fool.com/earnings/call-transcripts/2026/10/30/amazon-amzn-q3-2026-earnings-call-transcript/), [Alphabet Q3 2026 10-Q](https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000084/goog-20260930.htm). Built with Claude."
+  },
+  "moat": {
+   "columns": ["Read", "Call", "~Evidence"],
+   "rows": [
+    ["Mechanism", "**Scale economies** in R&D and supply ($279B of pre-committed capacity is close to a cornered resource in memory and packaging) plus **switching costs** through CUDA and the full-stack system", "Annual platform cadence; ≈55–60% of 2026 CoWoS; nearly all open models run on Nvidia first"],
+    ["Trend", "**Narrowing at the largest buyers; stable elsewhere**", "Anthropic and OpenAI ≈40% Nvidia by contracted capacity; Google sells TPUs outright from 2026; AI-written ports (Anthropic on AMD in a weekend)"],
+    ["Profit pool", "Nvidia takes ≈67–80% of a gigawatt's cost at a 75% gross margin; custom-chip content is $20–30B per gigawatt", "Scale economies shared: per-token cost falls each generation ('35x lower token cost' for Rubin vs Blackwell Ultra) while content per gigawatt rises, so customers keep the productivity and Nvidia keeps a bigger share of the capex"],
+    ["Customer", "Hyperscalers (55%) who can build alternatives; ACIE buyers (45%) who cannot", "Two direct customers 22% and 14% of FY2026 revenue; no retention, CAC or price-elasticity disclosure; last price increase announced for Q1 FY2028"]
+   ],
+   "note": "7 Powers vocabulary (Helmer). Counter-positioning against the hyperscalers (Nvidia does not run a competing cloud) is a third candidate that I fold into the ACIE argument. Source: [Q2 FY2027 call](https://s201.q4cdn.com/141608511/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf), [AMD Q3 2026 prepared remarks](https://newsroom.amd.com/documents/2026/11/84f4476b-f064-4f0f-957c-fe484853e178.pdf). Built with Claude."
+  },
+  "competitors": {
+   "columns": ["Nvidia family", "~Competing now", "~Arriving 2027–28", "Threat"],
+   "rows": [
+    ["Blackwell / Blackwell Ultra (GB200, GB300 NVL72)", "TPU v7 Ironwood (≈1 GW to Anthropic in 2026); Trainium 2 and 3; AMD MI355X; MTIA 300/400; Maia 200", "Superseded", "High in inference at the largest buyers"],
+    ["Vera Rubin NVL72 (shipping since Aug 2026)", "AMD MI455X in Helios racks at Anthropic, Meta, Microsoft, OpenAI and Oracle", "TPU 8t/8i (broad external availability late 2027); OpenAI Jalapeño with Broadcom; Trainium 4 (sold outside AWS from late 2027); MTIA 450/500; Maia 300", "**High**: every large buyer has a second source in volume"],
+    ["Rubin Ultra / Kyber NVL144 (target 2H 2027)", "—", "AMD MI500 (multi-gigawatt talks with frontier labs); next TPU and Trainium", "Medium-high; a slip to 2028 opens a window"],
+    ["Feynman (2028)", "—", "Successors of all the above", "Too early"],
+    ["Groq 3 LPX", "Cerebras (OpenAI contract >$20B for 750 MW); SambaNova", "AMD with Taalas; Jalapeño on latency", "Low in dollars; defensive"],
+    ["Vera / Grace CPUs", "AMD EPYC Turin and Venice; Intel Xeon; Graviton, Axion, Cobalt", "AMD Helion all-CPU racks", "Nvidia is the challenger"],
+    ["NVLink (scale-up)", "AMD Helios; Broadcom Tomahawk Ultra", "UALink 1.0 products", "Medium; open standard 1–2 generations behind"],
+    ["Spectrum-X and InfiniBand (scale-out)", "Broadcom Tomahawk 6 through Arista, Cisco, Celestica and white boxes", "Tomahawk 7", "Medium"],
+    ["China SKUs (H200)", "Huawei Ascend 950; Cambricon", "Ascend 960", "Lost for now; upside only"],
+    ["CUDA and the software stack", "ROCm 10; JAX and TorchTPU; TorchNeuron", "AI-written ports", "Rising at the labs; low at ACIE buyers"]
+   ],
+   "note": "Nvidia's FY2026 10-K names AMD, Huawei and Intel for accelerators, and Alibaba, Alphabet, Amazon, Baidu, Huawei and Microsoft for in-house designs. The full mapping and its sources are in the wiki's [competition study](../../insights/NVDA-accelerator-competition-2026-11-17.md). Source: [FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm), [AMD Q3 2026 prepared remarks](https://newsroom.amd.com/documents/2026/11/84f4476b-f064-4f0f-957c-fe484853e178.pdf), [Tom's Hardware on Jalapeño](https://www.tomshardware.com/tech-industry/artificial-intelligence/hot-chips-2026-openais-jalapeno-ai-asic-unpacked-accelerator-developed-using-ai-achieves-efficiency-and-throughput-gains-against-power-hungry-blackwell), [Meta on MTIA](https://about.fb.com/news/2026/03/expanding-metas-custom-silicon-to-power-our-ai-workloads/). Built with Claude."
+  },
+  "risks": {
+   "columns": ["~Risk", "Impact", "Prob.", "~Priced in?", "~Would break the thesis if…"],
+   "rows": [
+    ["⚠️ **Custom chips and the TPU take inference at the largest buyers**, and Google and Amazon sell systems to ACIE buyers from 2027", "High", "Live", "**Partly**: my Base has share at ≈58% by 2030", "Hyperscale revenue falls two quarters running while Broadcom keeps its guide (test 2)"],
+    ["⚠️ **Demand digestion after FY2028**: hyperscaler capex near 100% of operating cash flow, labs funded by vendors", "Critical", "30%", "**Partly**: the Bear has capex down a third", "FY2028 outlook cut tonight or in February (test 1)"],
+    ["⚠️ **Balance-sheet support for customers**: $108.5B of guarantees, $366B of commitments, ≈$96B of stakes, DSO 60", "High", "25%", "**No**: not visible in consensus EPS; a −$1.50 option line in my model", "A guarantee is called, or receivables rise above 70 days"],
+    ["⚠️ **Leadership and talent after Huang's resignation** (Nov 12, 2026); board investigation and congressional inquiry continue `[NEW]`", "High", "Live", "**Partly**: the stock fell about 5% around the news", "Departures among the architecture and systems leads, or a Rubin Ultra slip into 2028"],
+    ["Memory costs and price concessions compress gross margin", "Med-High", "Live", "Partly; guided to 71–72%", "Gross margin under 71% (test 3)"],
+    ["Export controls (China at zero; new licenses for Indonesia, Malaysia, Singapore, Thailand and Brazil, Nov 16) `[NEW]`", "Med", "Live", "Yes for China; not for Southeast Asia", "Licenses denied or slow for the five countries"],
+    ["Customer concentration: two direct customers 36% of FY2026 revenue", "Med", "Certain", "Yes", "—"],
+    ["Supply: CoWoS, HBM and wafers constrain the guide", "Med", "Live", "Yes; the guide is supply-constrained", "—"]
+   ],
+   "note": "Filtered for materiality (CLAUDE.md R11). Item 1A of the FY2026 10-K warns that customers 'can use or develop their own solutions to replace those we are providing' and that supply-commitment risks 'have increased and may continue to increase'; a full year-over-year diff of Item 1A was not done (logged in raw/NVDA/SOURCES.md). Source: [FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm), [8-K, Nov 12, 2026](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm), [Fortune on the Nov 16 rule](https://fortune.com/2026/11/16/new-commerce-rule-nvidia-chip-singapore-malaysia-china/). Built with Claude."
+  },
+  "catalysts": {
+   "columns": ["Date", "Catalyst", "~Why it matters"],
+   "rows": [
+    ["📅 Nov 17, 2026, after the close", "Q3 FY2027 results; first call under interim CEO Kress", "Test 1: the Q4 guide and the FY2028 outlook"],
+    ["📅 Early to mid-Dec 2026 `[Est.]`", "Broadcom Q4 FY2026 results and FY2027 AI outlook", "Custom-chip share for 2027 and 2028"],
+    ["📅 Open", "Permanent CEO named; outcome of the board investigation", "Roadmap and talent continuity"],
+    ["📅 About late Feb 2027 `[Est.]`", "Q4 FY2027 results, FY2026 10-K diff", "Tests 1, 2 and 3; first quarter of the gross-margin bottom"],
+    ["📅 1H 2027", "First Anthropic gigawatt on AMD; TPU 8 external availability ramp; Alphabet's 2027 TPU revenue", "Share at the labs and in ACIE"],
+    ["📅 2H 2027", "Rubin Ultra and Kyber; Trainium sold outside AWS; UALink products", "Roadmap lead against MI500"]
+   ],
+   "note": "Source: [Q2 FY2027 call](https://s201.q4cdn.com/141608511/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf), [Amazon Q3 2026 call](https://www.fool.com/earnings/call-transcripts/2026/10/30/amazon-amzn-q3-2026-earnings-call-transcript/), [AMD Q3 2026 prepared remarks](https://newsroom.amd.com/documents/2026/11/84f4476b-f064-4f0f-957c-fe484853e178.pdf). Built with Claude."
+  },
+  "sentiment": {
+   "columns": ["Signal", "~Read"],
+   "rows": [
+    ["Price", "$154.60 intraday Nov 17 (close Nov 16 $156.14); 52-week range $148.80–$243.37; −36% from the high; market cap ≈$3.73T on 24.1B shares"],
+    ["Analysts", "FY2028 consensus EPS ≈$15.91 and revenue ≈$692B, revised up about 24% in 90 days with no downgrades in the month; 59 of 62 rated Buy; mean target ≈$327 `[Analyst consensus]`. Some targets were cut on Nov 16 (names not given)"],
+    ["Short interest", "≈302M shares on Oct 15, 2026, about 1.3% of float and 2.9 days to cover; the largest short position in the S&P 500 by dollar value (S3)"],
+    ["Insiders (90 days)", "Form 4s not read this pass (gap). Huang held 870.6M shares (3.58%) at Mar 23, 2026"],
+    ["Appearances (Aug 26 – Nov 17)", "Q2 call Aug 26 (Huang, Kress); Goldman Sachs Communacopia Sep 10 (Huang); GTC Berlin keynote Oct 21 (Huang). No appearance by Kress as interim CEO before tonight's call"],
+    ["BAIT", "Double (B+A), Moderate: the stock fell 36% on a sector sell-off, the CEO's exit and a new export rule while estimates rose (behavioral); the market-share arithmetic in this report is analytical. No informational edge"]
+   ],
+   "note": "Context only; none of it moves a verb. Source: [Yahoo Finance](https://finance.yahoo.com/quote/NVDA/), [Yahoo Finance on FY2028 estimates](https://finance.yahoo.com/markets/stocks/articles/nvidia-fiscal-2028-revenue-estimate-132028810.html), [Massive.com short interest](https://massive.com/quote/nvda), [Stocktwits on S3](https://stocktwits.com/news-articles/markets/equity/nvidia-stock-biggest-short-sp500-hsbc-beat-and-raise-quarter/cZXDZilReVR), [2026 proxy](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000036/nvda-20260512.htm). Built with Claude."
+  }
+ },
+ "charts": {
+  "since_chatgpt": {
+   "type": "line",
+   "file": "series/since_chatgpt.json",
+   "baseline": 100,
+   "yTicks": [0, 250, 500, 750, 1000, 1250, 1500],
+   "tableEvery": 26,
+   "names": {"NVDA": "Nvidia", "AMD": "AMD", "AVGO": "Broadcom", "SPY": "S&P 500"},
+   "aria": "Total return index from November 30, 2022 = 100 for Nvidia, AMD, Broadcom and the S&P 500",
+   "note": "Total return, weekly, November 30, 2022 (the day ChatGPT launched) = 100, through November 17, 2026 (intraday). Nvidia's index peaked at 1,387 in October 2026 and stood at 917. Source: Yahoo Finance adjusted closes via prices.py. Built with Claude."
+  },
+  "rev_mix": {
+   "type": "bar100",
+   "keys": ["Data Center", "Edge and other (gaming, pro visualization, auto, robotics)"],
+   "unit": "$B",
+   "valueLabel": "Revenue",
+   "prefix": "$",
+   "suffix": "B",
+   "rows": [
+    {"label": "FY2023", "values": [15.0, 12.0]},
+    {"label": "FY2024", "values": [47.5, 13.4]},
+    {"label": "FY2025", "values": [115.2, 15.3]},
+    {"label": "FY2026", "values": [193.7, 22.2]},
+    {"label": "1H FY2027", "values": [164.3, 13.6]}
+  ],
+   "aria": "Share of revenue, Data Center versus everything else, FY2023 to 1H FY2027",
+   "note": "Share of revenue. Nvidia began reporting Data Center and Edge Computing as market platforms in FY2027; earlier years put gaming, professional visualization, automotive and OEM in the second bar, so the split is approximate `[Derived]`. Source: [XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json), [CFO commentary, Q2 FY2027](https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q227/Q2FY27-CFO-Commentary.pdf). Built with Claude."
+  }
+ },
+ "return_math": {
+  "price_implied": "At 10%, spot needs EPS of [[Priced-in.eps]] in FY2032 at 16×, a little below my Base ([[Base.eps]]): revenue near $690 billion, roughly the FY2028 guide held flat for four years, at a 58% operating margin. At 13% it needs [[Hurdle.eps]], a fifth of the way from my Base to my Bull.",
+  "epv": "Earnings power with no growth: FY2026 operating income of $130.4B taxed at 15% and capitalized at 10% is ≈$1.11T, plus ≈$23B of net cash, ≈$47 a share. On FY2027's ≈$267B of operating income it is ≈$2.25T, ≈$93 a share. The Bear ([[Bear.value]]) sits at FY2027 earnings power, and spot is about 1.7× it.",
+  "base_rate": "FY2027 revenue of ≈$410B sits in the >$25B bucket. The Bull's ≈23% nominal growth (≈20% real) was achieved over five years by about 2% of companies this size, and none started this large; most of it is the guided, supply-committed FY2028. The Base's ≈11% nominal (≈8.5% real) was achieved by roughly 20%. Credit Suisse HOLT, 1950–2015 ([Base Rate Book](https://sorfis.com/wp-content/uploads/2021/09/The-Base-Rate-Book-Integrating-the-Past-to-Better-Anticipate-the-Future-September-2016.pdf)). 3P: Bull Plausible, Base and Bear Probable.",
+  "terminal_growth": "Implied perpetual growth on earnings at 10%: Bull [[Bull.g]], Base [[Base.g]], Bear [[Bear.g]], all below the 5.15% ten-year Treasury yield (FRED, Nov 13, 2026).",
+  "year_ten": "In the Base the business is not growing at year ten: it is a replacement cycle in which installed gigawatts are refreshed every four to six years and Nvidia holds about half, and the 16× multiple is carried by buybacks and cash returns, not growth.",
+  "rr_note": " The downside is a cyclical bust at a normal multiple, not a broken company; the Bear still earns $163B in FY2032.",
+  "note": "Computed rows come from model.json. Segment margin rows are gross margins, applied equally to both segments `[Estimate]`; 'Corporate and other' is operating expense. EPS excludes gains on equity securities, so it is close to Nvidia's non-GAAP EPS, which now includes stock compensation."
+ },
+ "sources": [
+  {"label": "CFO commentary, Q2 FY2027 (Aug 26, 2026)", "url": "https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q227/Q2FY27-CFO-Commentary.pdf"},
+  {"label": "CFO commentary extract", "url": "../../../raw/NVDA/press-releases/2026-08-26_Q2FY27_CFO_commentary.txt"},
+  {"label": "Q2 FY2027 earnings call transcript (FactSet, IR-hosted)", "url": "https://s201.q4cdn.com/141608511/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf"},
+  {"label": "Q2 FY2027 call text", "url": "../../../raw/NVDA/transcripts/2026-08-26_Q2FY27_earnings_call.txt"},
+  {"label": "Q2 FY2027 10-Q", "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm"},
+  {"label": "FY2026 10-K", "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm"},
+  {"label": "2026 proxy statement (DEF 14A)", "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000036/nvda-20260512.htm"},
+  {"label": "8-K: CEO transition (Nov 12, 2026)", "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"},
+  {"label": "SEC XBRL company facts", "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json"},
+  {"label": "Goldman Sachs Communacopia, Huang (Sep 10, 2026)", "url": "https://stockanalysis.com/stocks/nvda/transcripts/740955-goldman-sachs-communacopia-technology-conference-2026/"},
+  {"label": "GTC Berlin keynote (Oct 21, 2026)", "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/"},
+  {"label": "Goldman Sachs Communacopia, Kurian (Sep 8, 2026)", "url": "https://stockanalysis.com/stocks/googl/transcripts/737252-goldman-sachs-communacopia-technology-conference-2026/"},
+  {"label": "AMD Q3 2026 prepared remarks", "url": "https://newsroom.amd.com/documents/2026/11/84f4476b-f064-4f0f-957c-fe484853e178.pdf"},
+  {"label": "Broadcom Q3 FY2026 release", "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial"},
+  {"label": "Broadcom Q3 FY2026 call summary (GuruFocus via Yahoo)", "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-inc-avgo-q3-2026-110030403.html"},
+  {"label": "Amazon Q3 2026 call", "url": "https://www.fool.com/earnings/call-transcripts/2026/10/30/amazon-amzn-q3-2026-earnings-call-transcript/"},
+  {"label": "Alphabet Q3 2026 10-Q", "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000084/goog-20260930.htm"},
+  {"label": "CNBC: Google enlists partners to sell TPUs (Oct 28, 2026)", "url": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html"},
+  {"label": "SemiAnalysis: TPU InferenceX", "url": "https://newsletter.semianalysis.com/p/tpu-inferencex-full-steam"},
+  {"label": "SemiAnalysis: GTC 2026 roadmap", "url": "https://newsletter.semianalysis.com/p/nvidia-the-inference-kingdom-expands"},
+  {"label": "Tom's Hardware: Anthropic's S-1 compute contracts", "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ipo-filing-shows-most-of-its-compute-goes-to-r-and-d-not-serving-customers-company-details-massive-usd800-billion-in-tpu-and-gpu-contracts"},
+  {"label": "CNBC: calls for Huang's return (Nov 16, 2026)", "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html"},
+  {"label": "Fortune: Commerce remote-access rule (Nov 16, 2026)", "url": "https://fortune.com/2026/11/16/new-commerce-rule-nvidia-chip-singapore-malaysia-china/"},
+  {"label": "Yahoo Finance: NVDA quote", "url": "https://finance.yahoo.com/quote/NVDA/"},
+  {"label": "Yahoo Finance: FY2028 consensus", "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-fiscal-2028-revenue-estimate-132028810.html"},
+  {"label": "FRED: 10-year Treasury yield (DGS10)", "url": "https://fred.stlouisfed.org/series/DGS10"},
+  {"label": "Wiki study: Nvidia against the field (Nov 17, 2026)", "url": "../../insights/NVDA-accelerator-competition-2026-11-17.md"},
+  {"label": "Wiki snapshot: AI circular deals (Oct 27, 2026)", "url": "../../insights/ai-circular-deals-2026-10-27.md"},
+  {"label": "Source gaps log", "url": "../../../raw/NVDA/SOURCES.md"}
+ ],
+ "vars": {}
+}

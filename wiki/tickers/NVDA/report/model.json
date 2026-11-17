@@ -1,0 +1,160 @@
+{
+ "spot": 154.6,
+ "dps": 1.0,
+ "discount_rate": 0.1,
+ "hurdle": 0.13,
+ "risk_free": 0.0515,
+ "last_year": 2032,
+ "fy_prefix": "FY",
+ "eps_label": "EPS ex equity-security gains (\u2248 non-GAAP, after SBC)",
+ "segment_names": {
+  "DC": "Data Center",
+  "EDGE": "Edge Computing"
+ },
+ "actual": {
+  "year": 2026,
+  "segments": {
+   "DC": {
+    "rev": 193.7,
+    "op": 137.7
+   },
+   "EDGE": {
+    "rev": 22.2,
+    "op": 15.78
+   }
+  },
+  "corp": -23.08,
+  "ni": 120.067,
+  "shares": 24.514,
+  "eps": 4.9
+ },
+ "base": {
+  "year": 2027,
+  "shares": 24.25,
+  "corp_pct": 0.0854,
+  "other": 2.0,
+  "tax": 0.165,
+  "segments": {
+   "DC": {
+    "rev": 379.0,
+    "margin": 0.736
+   },
+   "EDGE": {
+    "rev": 31.0,
+    "margin": 0.736
+   }
+  },
+  "sbc_pct": 0.022,
+  "eps_excludes_sbc": false,
+  "oe_conversion": 1.0
+ },
+ "other_growth": 0.0,
+ "cases": {
+  "Bull": {
+   "role": "bull",
+   "prob": 0.25,
+   "pe": 20,
+   "basis": "eps",
+   "corp_pct": 0.09,
+   "tax": 0.17,
+   "dilution": 0.006,
+   "buyback": 0.022,
+   "sbc_pct": 0.022,
+   "segments": {
+    "DC": {
+     "g": 0.228,
+     "m": 0.72
+    },
+    "EDGE": {
+     "g": 0.1,
+     "m": 0.72
+    }
+   },
+   "tier": "Plausible",
+   "story": "Boom demand and the platform holds: AI spending outside China reaches about $1.7 trillion by 2030 and Nvidia keeps about two-thirds of it, so Data Center revenue reaches about $1.06 trillion in FY2032 (+23%/yr from FY2027); gross margin settles at 72% as Rubin and Feynman keep their cost-per-token lead; opex 9% of revenue; buybacks retire a net 1.6% a year; 20\u00d7 EPS."
+  },
+  "Base": {
+   "role": "base",
+   "prob": 0.5,
+   "pe": 16,
+   "basis": "eps",
+   "corp_pct": 0.105,
+   "tax": 0.18,
+   "dilution": 0.006,
+   "buyback": 0.03,
+   "sbc_pct": 0.022,
+   "segments": {
+    "DC": {
+     "g": 0.116,
+     "m": 0.69
+    },
+    "EDGE": {
+     "g": 0.042,
+     "m": 0.69
+    }
+   },
+   "tier": "Probable",
+   "story": "Spending plateaus near the 2028 level and share bleeds to about 58%: revenue jumps about 70% in FY2028 as guided, then grows little, so Data Center revenue is about $655 billion in FY2032 (+12%/yr from FY2027, almost all of it in the first year); gross margin 69% as price is conceded to TPU and AMD; opex 10.5%; buybacks retire a net 2.4% a year; 16\u00d7 EPS."
+  },
+  "Bear": {
+   "role": "bear",
+   "prob": 0.25,
+   "pe": 13,
+   "basis": "eps",
+   "corp_pct": 0.14,
+   "tax": 0.18,
+   "dilution": 0.006,
+   "buyback": 0.035,
+   "sbc_pct": 0.025,
+   "segments": {
+    "DC": {
+     "g": 0.006,
+     "m": 0.61
+    },
+    "EDGE": {
+     "g": -0.013,
+     "m": 0.61
+    }
+   },
+   "tier": "Probable",
+   "story": "Digestion and share break: capex falls about a third from its peak after FY2028 while custom chips reach training parity at the labs, so Data Center revenue drifts back to about $390 billion in FY2032; gross margin 61% on price cuts and stranded supply commitments; opex 14%; buybacks retire a net 2.9% a year at low prices; 13\u00d7 trough-ish EPS."
+  }
+ },
+ "optionality": [
+  {
+   "name": "Equity stakes in AI labs and partners (\u2248$96B carrying value, Jul 26, 2026)",
+   "prob": 1.0,
+   "value": 4.0
+  },
+  {
+   "name": "China data-center sales resume under license (\u2248$20B/yr)",
+   "prob": 0.2,
+   "value": 7.5
+  },
+  {
+   "name": "Guarantee and take-or-pay losses in a bust (30% of $108.5B)",
+   "prob": 0.25,
+   "value": -1.5
+  }
+ ],
+ "diagnostics": {
+  "Priced-in": {
+   "label": "Priced-in (10%/yr)",
+   "target_return": 0.1,
+   "pe": 16,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  },
+  "Hurdle": {
+   "label": "Hurdle (13%/yr)",
+   "target_return": 0.13,
+   "pe": 16,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  }
+ }
+}

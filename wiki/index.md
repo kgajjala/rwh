@@ -12,7 +12,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 
 ## Tickers
 
-*Alphabetical. 51 tickers covered (47 Active / 4 Paused).*
+*Alphabetical. 57 tickers covered (53 Active / 4 Paused).*
 
 | Ticker | Status | Company | Moat | Conviction | Last Updated | Summary |
 |--------|--------|---------|------|-----------|--------------|---------|
@@ -60,6 +60,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | [SBUX](tickers/SBUX/SBUX.md) | Active | Starbucks | Wide, stable | Moderate | 2026-10-31 | 🟡 **Watch (entry ≤$69) / Hold** — The margin walk is proven and FY27 is guided up 18%, but at 32× the price still needs near-Bull EPS. **PW EV $114: +10% up / −35% down.** |
 | [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Wide, stable | Moderate | 2026-10-26 | 🟢 **Initiate (entry ≤$91, fragile) / Add** — record Q3, NIM exit guide cut; the 22% pullback lifts the return to 13.2%/yr. **PW EV $157: +75% up / −22% down.** |
 | [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide, widening | Moderate | 2026-11-05 | 🟡 **Watch (entry ≤$113) / Hold** — six quarters of 30% GMV growth and agents all check out on Shop Pay, but who pays whom inside the agent is unanswered. **PW EV $208: +36% up / −50% down.** |
+| [SKYD](tickers/SKYD/SKYD.md) | Active | Skydance (Paramount + Warner Bros. Discovery) | Narrow, narrowing | Low-Moderate | 2026-11-18 | 🟡 **Watch (entry ≤$5.04) / Hold**. Six weeks after a debt-funded merger, $6B of synergies roughly pays $6B of interest while cable shrinks; the equity needs the plan in full. **PW EV $8.14: +19% up / −92% down.** |
 | [SN](tickers/SN/SN.md) | Active | SharkNinja | Narrow & Widening | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 (May 6) beat-and-raise — rev $1.41B (+15.6%, intl +31.6% accelerating); EBITDA $235M; **FY26 raised** ($1.29–1.30B EBITDA / $6.00–6.10 EPS); SEA tariff 20%→10%; GM –100bps (1H drag, 2H recovery watch); PW EV $150 (5-yr); R/R 2.7:1; **Initiate / Hold-Add weakness**; entry $95–110 |
 | [SNOW](tickers/SNOW/SNOW.md) | Active | Snowflake | Moderate; widening in context, narrowing in storage | Moderate | 2026-10-24 | 🟡 **Watch (entry ≤$131)** / 🔴 **Trim** — the agentic bear case lost and growth hit 37%, but owner earnings are still negative. **PW EV $241: −26% to PW EV / −68% to Bear.** |
 | [SPCX](tickers/SPCX/SPCX.md) | Active | Space Exploration Technologies (SpaceX) | Wide (launch, Starlink) / none yet (compute) | Low-Moderate | 2026-10-21 | 🟡 **Watch / Hold** — compute rental turned profitable and Starlink ARPU rose, but the price assumes scarcity pricing lasts through a $35–40B-a-quarter build. PW EV $220: +49% up / −81% down |
@@ -119,6 +120,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | SBUX | **$103.67** (10/30/26) | −6.2% (79th %ile) | **Single (A)** | 🟡 **Watch / Hold**; entry ≤$69; PW EV $114; 4.4%/yr vs 13% hurdle |
 | SCHW | **$89.73** (10/26/26) | −21.7% (19th %ile) | **Double (B+A)** | 🟢 **Initiate / Add**; entry ≤$91; PW EV $157; 13.2%/yr vs 13% hurdle, probability-fragile |
 | SHOP | **$153.03** (11/4/26) | −15.4% (68th %ile) | **Single (A)** | 🟡 **Watch / Hold**; entry ≤$113; PW EV $208; 6.4%/yr vs 13% hurdle |
+| SKYD | **$6.83** (11/18/26, intraday) | −60.2% (2nd %ile) | **Single (B)** | 🟡 **Watch / Hold**; entry ≤$5.04; PW EV $8.14; 6.5%/yr vs 13% hurdle |
 | SNOW | **$325.43** (10/23/26) | −15.4% (78th %ile) | **Single (A)** | 🟡 **Watch (entry ≤$131)** / 🔴 **Trim**; PW EV $241; −5.8%/yr vs 13% hurdle |
 | SN | $115.74 | –13.6% | Triple (A-Mod-Strong; B+I+T-Mod) | Initiate; entry $95–105 |
 | SPCX | $147.79 (10/20/26) | −34.5% | Single (I) | Watch / Hold; entry ≤$120 |
@@ -181,6 +183,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | NVDA | First ingest from XBRL and extracts: 10-Ks FY2022–25 not read, Item 1A not diffed, no letter (ARS not parsed), Form 4s not read (see `raw/NVDA/SOURCES.md`) | EDGAR 10-K text; Form 4 XML; annual report PDF |
 | NXPI | Full-text filings, transcripts and 8-Ks could not be stored (SEC and the IR site returned 403 to scripted fetches; extracts only, see `raw/NXPI/SOURCES.md`); no shareholder letter exists (Pattern C); monthly buyback tables (shares and average price); short-interest date and month-over-month change; the 2021 and 2024 Analyst Day decks (targets taken from press summaries); no earnings-day CEO/CFO media hit found for Q2 2026 | Q3 2026 call (Oct 27) and 10-Q; IR events page via browser; Investor Day deck |
 | SHOP | Executed insider sales behind the Aug–Sep Form 144 notices (SEDI); merchant count; agent-originated GMV and any agent fee share; Goldman Sachs Sep 10 transcript | SEDI; Q4 2026 call |
+| SKYD | IR site not fetched (shareholder letter, trending schedules, official transcript); 10-K Items 1A/7 FY2021–25 unread; DEF 14A CD&A incentive metrics; 90-day Form 4s; no combined pro forma financials yet (FY2026 base is an estimate) | Q4 2026 call and pro forma financials (~Mar 2027); EDGAR |
 | RKT | Short interest % of float | Fintel / aggregator |
 | RKT | Insider activity (last 90 days) | OpenInsider / SEC Form 4 |
 | RKT | Full FY2025 adj revenue (post-acquisition, full year) | RKT 10-K |
@@ -194,4 +197,4 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 
 ---
 
-*Last updated: 2026-11-17*
+*Last updated: 2026-11-18*

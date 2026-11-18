@@ -1,0 +1,186 @@
+
+## Rhea-AI Filing Summary
+
+- [English](#)
+- [Italian](#)
+- [Spanish](#)
+- [German](#)
+- [Korean](#)
+- [French](#)
+- [Arabic](#)
+
+Paramount Skydance Corp (renamed Skydance Corporation) completed the acquisition of Warner Bros. Discovery, which became a wholly owned subsidiary. WBD shareholders received **$31.01666668 per share in cash**; aggregate Ticking Consideration was $41,886,975.78. PIPE investors subscribed for 3,917,657,246 Class B shares at $12.00 per share. Class B shares moved from Nasdaq to the New York Stock Exchange under ticker SKYD, replacing PSKY.
+
+Acquisition financing included $41.4 billion of U.S. dollar senior secured notes, €885 million of second-lien notes, $8.5 billion of dollar and €850 million of euro seven-year Term B-1 loans, and $5.0 billion of Term A loans. The company used financing proceeds and cash on hand for the acquisition, debt repayment and related costs. It targets $6 billion-plus of run-rate synergies over three years and a 3.0x net leverage target by the end of 2029. Andrew Brandon-Gordon was appointed President effective at closing.
+
+1 point · 0 major
+
+NegativeiHow this balance works
+
+How this balance works
+
+Rhea-AI gives every point it takes from this document a weight. Minor counts 1, Moderate 3 and Major 9, so one Major point outweighs several Minor ones. The bar adds up the weights on each side, and when neither side holds more than 65% of the total the balance reads Mixed.
+
+It reads the document as published, with the same rules for every company, and it does not look at what the market expected or at how the stock traded, so a point can be objectively good on a day the stock falls.
+
+Rhea-AI Sentiment measures something else, the tone of the wording.
+
+[How the balance works](https://www.stocktitan.net/rhea-ai.html#point-weights)[How Sentiment works](https://www.stocktitan.net/rhea-ai.html#sentiment)
+
+1 major · 1 point
+
+[How the balance works](https://www.stocktitan.net/rhea-ai.html#point-weights)
+
+### Positive
+
+- Moderate pointThe completed combination includes **200+ million streaming subscribers** across platforms.
+
+### Negative
+
+- Major pointAcquisition financing includes **$51.9 billion of New Permanent Financing**, in addition to $5.0 billion of Term A loans. 4.7× market cap
+
+## Filing Explained
+
+With the acquisition complete, each eligible Class B share held on October 5, 2026 is to receive one 10-year warrant, expected to be distributed around October 13, 2026; exercising it at $12 per share would add shares and dilute existing ownership.
+
+### 8-K Event Classification
+
+10 items: 1.01, 1.02, 2.01, 2.03, 3.02, 5.02, 5.03, 5.07, 7.01, 9.01
+
+10 items
+
+Item 1.01 Entry into a Material Definitive Agreement Business
+
+The company signed a significant contract such as a merger agreement, credit facility, or major partnership.
+
+Item 1.02 Termination of a Material Definitive Agreement Business
+
+A significant contract was terminated, which may affect business operations or revenue.
+
+Item 2.01 Completion of Acquisition or Disposition of Assets Financial
+
+The company completed a significant acquisition or sale of business assets.
+
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement Financial
+
+The company incurred a new significant debt or off-balance-sheet obligation.
+
+Item 3.02 Unregistered Sales of Equity Securities Securities
+
+The company sold equity securities in a private placement or other unregistered transaction.
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers Governance
+
+Key personnel changes including departures, elections, or appointments of directors and executive officers.
+
+Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Governance
+
+The company amended its charter documents, bylaws, or changed its fiscal year.
+
+Item 5.07 Submission of Matters to a Vote of Security Holders Governance
+
+Results of a shareholder vote on proposals at an annual or special meeting.
+
+Item 7.01 Regulation FD Disclosure Disclosure
+
+Material non-public information disclosed under Regulation Fair Disclosure, often investor presentations or guidance.
+
+Item 9.01 Financial Statements and Exhibits Exhibits
+
+Financial statements, pro forma financial information, or exhibit attachments filed with this report.
+
+### Key Figures
+
+WBD shareholder cash consideration: $31.01666668 per share Aggregate Ticking Consideration: $41,886,975.78 PIPE Class B shares: 3,917,657,246 shares +5 more
+
+8 metrics
+
+WBD shareholder cash consideration $31.01666668 per share Per-share amount stated for the completed acquisition
+
+Aggregate Ticking Consideration $41,886,975.78 Cash payable with respect to eligible WBD common shares
+
+PIPE Class B shares 3,917,657,246 shares Subscribed for at $12.00 per share
+
+U.S. dollar senior secured notes $41.4 billion Notes issued in U.S. dollars
+
+Euro second-lien notes €885 million Senior secured second-lien notes due 2031
+
+New Permanent Financing $51.9 billion $9.5 billion of Term B Loans, $30.0 billion of first-lien notes and $12.4 billion of second-lien notes
+
+Run-rate synergies target $6 billion-plus Targeted over the next three years
+
+Net leverage target 3.0x Targeted by the end of 2029
+
+### Key Terms
+
+Ticking Consideration, New Permanent Financing, first-priority liens, Change of Control Triggering Event, +2 more
+
+6 terms
+
+**Ticking Consideration financial**
+
+"The “Ticking Consideration” is an amount in cash"
+
+**New Permanent Financing financial**
+
+"The New Permanent Financing totaled $51.9 billion"
+
+**first-priority liens financial**
+
+"secured by first-priority liens on substantially all personal property"
+
+A first-priority lien is a legal claim that gives a lender or creditor the first right to specific assets if a borrower cannot pay, meaning they are first in line to be repaid from those assets. For investors, that higher claim lowers the lender’s risk and usually affects interest rates and recovery expectations—similar to having the front seat in a queue to get paid back if the borrower defaults.
+
+**Change of Control Triggering Event financial**
+
+"upon the occurrence of a Change of Control Triggering Event"
+
+A change of control triggering event is a corporate transaction or shift—such as a merger, sale of a majority of shares, or a new party gaining board control—that automatically activates specific contractual rights or penalties. Investors care because these triggers can accelerate debt repayment, alter executive compensation, terminate agreements, or prompt buyouts, and those outcomes can materially affect a company’s value, cash flow and stock price like a sudden change in who runs or owns a household.
+
+**Term B-1 Loan Facility financial**
+
+"the facility under which the Term B-1 Loans are made"
+
+**make-whole premium financial**
+
+"redeemable at a “make-whole” premium"
+
+A make-whole premium is an extra payment a borrower must give bondholders when repaying debt early to compensate them for lost future interest; think of it as a lump-sum “catch-up” to leave lenders financially where they would have been if the loan had run its full term. It matters to investors because it affects how much they receive on early redemption and influences a company’s decision to refinance or repay debt, altering bond value and expected returns.
+
+## FAQ
+
+AI-generated questions and answers. [How Rhea-AI works](https://www.stocktitan.net/rhea-ai.html). Not financial advice.
+
+### How much did Warner Bros. Discovery shareholders receive per share?
+
+Each WBD share converted into **$31.00 plus Ticking Consideration** in cash. The stated per-share amount was $31.01666668, and aggregate Ticking Consideration was $41,886,975.78.
+
+### What debt financing did Skydance use for the WBD acquisition?
+
+The New Permanent Financing totaled **$51.9 billion**: $9.5 billion of Term B Loans, $30.0 billion of first-lien notes and $12.4 billion of second-lien notes. The company also borrowed $5.0 billion of Term A loans. Proceeds supported the acquisition, repayment of certain debt and related costs.
+
+### When do Skydance’s Term B-1 loans mature?
+
+The Term B-1 Loans mature and are payable in full on the **seventh anniversary of the Closing Date**. The facility consists of dollar-denominated and euro-denominated loans.
+
+AI-generated analysis. [How Rhea-AI works](https://www.stocktitan.net/rhea-ai.html). Not financial advice.
+
+[Understanding 8-K Material Events →](https://www.stocktitan.net/articles/8k-material-events)
+
+[![Share on X](https://static.stocktitan.net/img/icons/x-icon.png)](https://twitter.com/intent/tweet?text=%24PSKY%20Warner%20Bros.%20Discovery%20becomes%20a%20subsidiary%20of%20Skydance%20(SKYD)%20after%20a%20debt-financed%20acquisition.%0Ahttps%3A%2F%2Fwww.stocktitan.net%2Fsec-filings%2FPSKY%2F8-k-paramount-skydance-corp-reports-material-event-e1470761c887.html "Share on X") [![Share on Reddit](https://static.stocktitan.net/img/icons/reddit-icon.png)](https://reddit.com/submit?url=https%3A%2F%2Fwww.stocktitan.net%2Fsec-filings%2FPSKY%2F8-k-paramount-skydance-corp-reports-material-event-e1470761c887.html&title=Warner%20Bros.%20Discovery%20becomes%20a%20subsidiary%20of%20Skydance%20(SKYD)%20after%20a%20debt-financed%20acquisition. "Share on Reddit") [![Share on Facebook](https://static.stocktitan.net/img/icons/facebook-icon.png)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.stocktitan.net%2Fsec-filings%2FPSKY%2F8-k-paramount-skydance-corp-reports-material-event-e1470761c887.html&quote=%24PSKY%20%7C%20Warner%20Bros.%20Discovery%20becomes%20a%20subsidiary%20of%20Skydance%20(SKYD)%20after%20a%20debt-financed%20acquisition. "Share on Facebook") [![Add StockTitan on Google](https://static.stocktitan.net/img/icons/Google_News_icon.svg)](https://www.google.com/preferences/source?q=stocktitan.net "Add StockTitan as a preferred source on Google") [![Copy link](https://static.stocktitan.net/img/icons/link-icon.png)](# "Copy link")
+
+ 
+
+Each share of Paramount Class B Common Stock (excluding shares held by any Equity Investor or affiliate thereof, certain Company subsidiaries and the Paramount Global 401(k) Plan and the Paramount Global Master Trust (collectively, the “Benefit Plans”)) as of the record date of October 5, 2026 will receive, without payment of any consideration, one 10-year warrant (each, a “Warrant”) for each share held, exercisable at an initial exercise price per share equal to the Syndication Purchase Price of $12.00 and subject to customary anti-dilution and fundamental change make-whole adjustments. Beginning on the third anniversary of issuance, the Company may call the Warrants for early expiration if the closing price of Paramount Class B Common Stock equals or exceeds $30.00 for at least 20 trading days in any 30 consecutive trading day period and warrant holders will have until such early expiration date to exercise their Warrants. The Company expects to distribute the Warrants on or about October 13, 2026.
+
+ 
+
+In addition, the Company previously entered into committed debt financing arrangements, including the Pro Rata Credit Agreement, which provided for (i) $2.5 billion of three-year Term A-1 loans (“Term A-1 Loan Facility”), (ii) $2.5 billion of five-year Term A-2 loans (“Term A-2 Loan Facility”) and (iii) $5.0 billion of five-year revolving credit commitments, as well as a $49.0 billion 364-day senior secured bridge term loan facility (the “Bridge Commitments”). The Bridge Commitments were intended as contingent financing and no borrowings were made under the Bridge Commitments in connection with the closing of the Acquisition. In lieu of the Bridge Commitments, the Company funded the Acquisition with the New Permanent Financing (as defined below), which consisted of additional secured credit facilities and secured capital markets indebtedness across the investment grade and non-investment grade markets as described below. The New Permanent Financing, together with borrowings under the Pro Rata Credit Agreement, is included in the Company’s post-closing capital structure and was incurred in the form of first lien and second lien indebtedness, including term loan borrowings and secured notes (collectively, the “Acquisition Financing Transactions”). The unaudited pro forma condensed combined financial statements reflect the issuance of the New Permanent Financing.
+
+ 
+
+The Acquisition Financing Transactions include (i) $9.5 billion of seven-year Term B Loans (“Term B Loans”), (ii) $30.0 billion of New First Lien Secured Notes (“New First Lien Secured Notes”), and (iii) $12.4 billion of New Second Lien Secured Notes (“New Second Lien Secured Notes”), in an aggregate amount of $51.9 billion (the “New Permanent Financing”), in addition to the $5.0 billion Term A loans under the Pro Rata Credit Agreement.
+
+ 
+
+On October 6, 2026, the Company entered into Credit Agreement Amendment No. 1 to the Pro Rata Credit Agreement and pursuant to this agreement obtained the Term B Loans, consisting of (i) $8.5 billion of seven-year U.S. dollar denominated term B loans (the “Dollar Term B Loans”) and (ii) €850 million of seven-year Euro term B loans (the “Euro Term B Loans”). The Dollar Term B Loans bear interest, at the Company’s option, at a rate per annum equal to either the Alternative Base Rate (as defined in the Pro Rata Credit Agreement) or the Secured Overnight Financing Rate (“SOFR”) plus a margin based on the Company’s Consolidated Total Net Leverage Ratio (as defined in the Pro Rata Credit Agreement) that ranges between 1.75% and 1.50% for Alternative Base Rate loans and 2.75% and 2.50% 

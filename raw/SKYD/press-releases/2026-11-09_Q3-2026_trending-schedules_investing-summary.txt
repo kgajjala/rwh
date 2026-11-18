@@ -1,0 +1,91 @@
+[SKYD-1.22%](https://uk.investing.com/equities/viacom-cl-b)
+
+## Introduction & Market Context
+
+[Skydance Corporation](https://uk.investing.com/equities/viacom-cl-b) released its September quarter 2026 trending schedules on November 9, 2026, detailing financial results that exceeded profitability expectations even as shares declined 5.37% to $16.91, near the lower end of its 52-week range of $16.70 to $23.89. The presentation highlighted a complex post-merger landscape following the October 6, 2026 completion of the Warner Bros. Discovery acquisition and the August 7, 2025 Skydance transactions that created distinct "Predecessor" and "Successor" accounting periods.
+
+The company reported third-quarter adjusted EBITDA of $1 billion, above the top end of guidance, with standalone Paramount revenue rising 5% year over year. However, investors appeared focused on near-term challenges, including a $200 million fourth-quarter headwind from film underperformance and the complexity of integrating large-scale operations across studios, streaming, and television.
+
+## Quarterly Performance Highlights
+
+As shown in the following summarized GAAP results for the reporting period, Skydance’s financial performance demonstrated solid operational execution despite transformation-related complexities.
+
+![](https://csv-storage.forexpros.com/slides/a6beb930af901a9727fbe33a1f2b206dd62fa11c1d9ff38bcd75e149e2ac8895.png)
+
+For the nine months ended September 30, 2026, Skydance generated total revenues of $21.3 billion across its diversified business model. The revenue mix included $6.3 billion in advertising, $10.5 billion in affiliate and subscription fees, $402 million in theatrical releases, and $4.1 billion in licensing and other revenue streams. Operating income reached $1.5 billion, while net earnings attributable to the parent company totaled $282 million, or $0.25 per diluted share.
+
+The third quarter specifically delivered revenues of $7.0 billion, operating income of $368 million, and net earnings of $73 million, translating to $0.06 per diluted share on a GAAP basis.
+
+The company’s adjusted results paint a more favorable picture of underlying operational performance, as illustrated in the following non-GAAP reconciliation.
+
+![](https://csv-storage.forexpros.com/slides/c52b28fa9d18a9e93c2c10669c398bf79868f5f0bf22088f269837b09a743ef6.png)
+
+On an adjusted basis, the nine-month period generated adjusted EBITDA of $3.3 billion and adjusted net earnings of $972 million, or $0.87 per diluted share. The third quarter alone contributed adjusted EBITDA of $1.0 billion and adjusted net earnings of $506 million, or $0.45 per diluted share. These adjusted figures exclude stock-based compensation, restructuring charges, transaction-related costs, and other one-time items that obscure operational trends.
+
+## Segment Performance Analysis
+
+Skydance reorganized its operations into three distinct segments: Studios, Direct-to-Consumer, and TV Media, with 2025 results recast to reflect the new structure.
+
+The Studios segment, detailed in the following financial breakdown, faced headwinds but maintained profitability through the nine-month period.
+
+![](https://csv-storage.forexpros.com/slides/6db443d9a1bd5eeecce74b5b0239fc553c48cea272fdbc1f80cd5a71912ab643.png)
+
+Studios generated $329 million in adjusted EBITDA for the nine months ended September 30, 2026, though management noted the segment would face slower growth than previously expected due to film slate underperformance. The business model relies on theatrical releases and licensing revenue, with content costs representing the largest expense category at $818 million for the combined third quarter 2025 pro forma period.
+
+The Direct-to-Consumer segment emerged as the growth driver, as shown in the following detailed results including Paramount+ subscriber metrics.
+
+![](https://csv-storage.forexpros.com/slides/02606b58b1139b2a60684cb8154582d5928dcbe03b1ff92295bd8e8d9031dc50.png)
+
+Direct-to-Consumer delivered the strongest performance, generating $7.4 billion in revenue for the nine-month period and $842 million in adjusted EBITDA. Paramount+ specifically reached 82.2 million subscribers globally and produced $6.2 billion in revenue, with management reporting 21% revenue growth and more than 20% engagement growth year over year. The segment’s content costs totaled $3.7 billion for the nine months, reflecting significant investment in original programming to drive subscriber acquisition and retention.
+
+The TV Media segment continued to generate substantial cash flow from traditional linear television operations, as illustrated in the following segment results.
+
+![](https://csv-storage.forexpros.com/slides/1e773606bf3c8a3095ca8a86fa6ffc2d9985dac5fbeec0f872ba7bbd99737f78.png)
+
+TV Media remained the largest contributor to profitability, delivering $3.1 billion in adjusted EBITDA for the nine-month period. The segment generated balanced revenue from advertising ($1.5 billion in the combined Q3 2025 pro forma period) and affiliate fees ($1.6 billion), though management acknowledged ongoing structural pressure in linear television. CBS maintained its position as the number one broadcast network in primetime excluding sports, while the cable portfolio includes more than 50 networks.
+
+## Financial Reconciliation and Profitability Drivers
+
+The company provided detailed reconciliations to help investors understand the path from adjusted EBITDA to net earnings, as shown in the following comprehensive bridge.
+
+![](https://csv-storage.forexpros.com/slides/1a97747a63b1683b03e6210dd6d1e0ea7feeb4ea489e0a89cf0e669549ca128e.png)
+
+The reconciliation reveals how $3.3 billion in adjusted EBITDA for the nine-month period translated to $282 million in net earnings attributable to the parent. Key deductions included $1.1 billion in depreciation and amortization, $226 million in stock-based compensation, $478 million in restructuring and transaction-related costs, $655 million in net interest expense, and $739 million in income tax provisions. Corporate and elimination adjustments reduced segment EBITDA by $1.1 billion.
+
+The impact on per-share earnings is further detailed in the following EPS reconciliation.
+
+![](https://csv-storage.forexpros.com/slides/6fe9ee28ab90d66c759ef174694a33bf981eb3cb1d1555b736f498f983c61c44.png)
+
+For the combined third quarter 2025, reported diluted earnings per share of negative $0.37 improved to adjusted diluted EPS of negative $0.12 after accounting for $0.25 in adjustments. The reconciliation demonstrates how one-time charges and accounting adjustments significantly impact reported profitability versus underlying operational performance.
+
+Management identified specific items affecting comparability between periods, as outlined in the following detailed schedule.
+
+![](https://csv-storage.forexpros.com/slides/3e51ce2abdfae249e679c90010d0081c07081396720071329be5313c9683f814.png)
+
+For the nine months ended September 30, 2026, restructuring, transaction-related items, and other corporate matters totaled $478 million. After accounting for a $55 million income tax benefit on these items and $267 million in discrete tax items, the net impact on earnings was $690 million, or $0.62 per diluted share. Earlier periods included programming charges related to abandoned Skydance Media content and impairment charges to reduce the carrying value of intangible assets.
+
+## Liquidity and Capital Structure
+
+The company’s cash generation and leverage position are critical metrics for investors assessing the feasibility of the ambitious transformation plan, as shown in the following free cash flow and net debt summary.
+
+![](https://csv-storage.forexpros.com/slides/333c44456da07617fb22232ff9b9a7fbd7075dd00aff3ce12447764b05af0708.png)
+
+Skydance generated $353 million in free cash flow for the nine months ended September 30, 2026, calculated as $649 million in operating cash flow less $296 million in capital expenditures. The third quarter specifically contributed $101 million in free cash flow. Net debt stood at $13.7 billion as of September 30, 2026, representing total debt of $15.0 billion less cash and cash equivalents of $1.4 billion.
+
+Management emphasized that the company does not need asset sales or new capital to meet leverage goals, with any excess cash beyond reinvestment and dividends directed toward debt repayment. The transformation program carries $4 billion in cash costs, with most spending expected in 2027 and 2028.
+
+## Strategic Context and Transformation Plan
+
+The presentation reflects a company in the midst of major transformation following two significant transactions. The August 7, 2025 Skydance transactions created Paramount Skydance Corporation, combining Paramount Global with Skydance Media. The subsequent October 6, 2026 acquisition of Warner Bros. Discovery expanded the combined entity’s scale significantly, though WBD results are not yet reflected in these schedules.
+
+Management outlined at least $6 billion in run-rate synergies over three years, with $2.7 billion in standalone Paramount efficiency savings expected by year-end 2026. The synergy plan encompasses more than 20 work streams covering corporate overhead, marketing, technology, and procurement. The company plans to launch a Paramount+ and HBO Max bundle in early 2027 as the first step toward a more unified streaming offering that will reach 203 million subscribers globally, plus 75 million Pluto TV monthly active users.
+
+## Market Reception and Forward Outlook
+
+Despite beating profitability expectations, the stock declined following the earnings call, suggesting investors remain cautious about execution risks. Management maintained its full-year 2026 adjusted EBITDA outlook at $3.9 billion, at the high end of the company’s range, but warned of a $200 million fourth-quarter headwind primarily from continued weakness in Warner Bros. film performance.
+
+The company expects strong Direct-to-Consumer revenue growth to continue in the fourth quarter, while linear television trends should remain broadly in line with recent quarters, adjusted for seasonality around politics and sports. Management indicated it will provide full 2027 guidance at the next earnings call and plans to move toward annual guidance with quarterly updates used mainly for trend color.
+
+Chairman and CEO David Ellison emphasized confidence in building "a next-generation media and entertainment company," arguing that "in a world of AI slop, we think there will always be a premium for truly handcrafted storytelling." Co-CEO Ynon Kreiz stressed "very strong confidence in achieving the 6 billion of synergy in the next three years," while CFO Dennis Cinelli urged investors to "focus on full year and medium-term outcomes" rather than short-term quarterly targets.
+
+The presentation reveals a company with solid operational fundamentals, particularly in streaming, but facing significant integration complexity and near-term headwinds that have tempered investor enthusiasm despite strong third-quarter results.

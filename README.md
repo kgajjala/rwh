@@ -71,6 +71,7 @@ Schema and operating rules live in [`CLAUDE.md`](CLAUDE.md).
 | [SBUX](wiki/tickers/SBUX/SBUX.md) | Active | 2026-10-31 | Q4 cleared every bar and FY27 EPS is guided $3.15–3.25, but at 32× the price still needs near-Bull margins. PW return 4.4% vs 13%. **Watch / Hold**; entry ≤$69. |
 | [SCHW](wiki/tickers/SCHW/SCHW.md) | Active | 2026-10-26 | Record Q3 but the NIM exit guide fell; after the 22% pullback the PW case returns 13.2%/yr, a thin pass. **Initiate** (fragile); entry ≤$91. |
 | [SHOP](wiki/tickers/SHOP/SHOP.md) | Active | 2026-11-05 | 🟡 **Watch (entry ≤$113) / Hold** — Q3 grew 32% and every new agent checks out on Shop Pay, but ≈80× owner earnings pays 6.4%/yr vs 13%. |
+| [SKYD](wiki/tickers/SKYD/SKYD.md) | Active | 2026-11-18 | Bought Warner Bros. Discovery with $87B of debt; synergies roughly cover the new $6B interest bill. PW return 6.5%/yr vs 13%. **Watch / Hold**; entry ≤$5.04. |
 | [SN](wiki/tickers/SN/SN.md) | Active | 2026-05-10 | Q1 (May 6) beat-and-raise — net sales $1.41B (+15.6%), intl +31.6% accelerating; adj EBITDA $235M (+17.5%), 16.7% margin; adj EPS $1.09 (+25%) beat $1.01. **FY26 guide raised**: +11.5–12.5% rev / $1.29–1.30B EBITDA / $6.00–6.10 EPS. SEA tariff 20%→10%. GM –100 bps (1H tariff/resin drag — 2H recovery is central watch). Slow buyback pace ($18.5M). v2.9→v2.14. PW EV $150 (5-yr); R/R 2.7:1. **Initiate / Hold-Add on weakness**; entry $95–110. |
 | [SNOW](wiki/tickers/SNOW/SNOW.md) | Active | 2026-10-24 | AI didn't eat the warehouse, it fed it — growth went 29%→37%. But owner earnings are still negative and PW return is −5.8%/yr. **Watch / Trim**; entry ≤$131. |
 | [SPCX](wiki/tickers/SPCX/SPCX.md) | Active | 2026-10-21 | Compute turned profitable and Q1 2027 is guided to $33–37B, but $148 already pays for my Base; PW return 8.3%/yr. **Watch / Hold**; entry ≤$120. |
@@ -82,7 +83,7 @@ Schema and operating rules live in [`CLAUDE.md`](CLAUDE.md).
 | [WING](wiki/tickers/WING/WING.md) | Active | 2026-05-01 | Post-Q1 5-firm analyst cluster confirms thesis-weakening (Goldman Buy→Neutral $190; Mizuho/BMO/Wells Fargo PT cuts); consensus center-of-gravity reset to $190–$200, aligning with already-cut §11 Base. EBITDA/EPS resilience preserved but cyclical-vs-structural debate intact. **Watch / Reduce on bounce >$180**; next read = Q2 print late July. |
 | [ZG](wiki/tickers/ZG/ZG.md) | Active | 2026-05-10 | Q1 (May 6) rev $708M (+18%) beat / adj EBITDA $182M (26% margin) beat / GAAP NI $46M; Showcase 4.3% penetration (from 1.7%); mortgage origination +96% to $1.5B. **$626M record Q1 buyback** (13.5M shares). Q2 guide $750–765M / $150–165M EBITDA incl. $20M FTC trial costs. **FTC motion-to-dismiss DENIED May 7** — risk escalated. Zillow+Realtor.com Preview syndication May 5 (75% portal reach). v2.9→v2.14. PW EV $75 (5-yr); R/R ~4:1. **Initiate <$50 / Hold (selective add $38–45)**. |
 
-*54 tickers (50 Active / 4 Paused).*
+*55 tickers (51 Active / 4 Paused).*
 
 ## Frameworks Used
 

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 216" width="760" height="216" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">
+<rect x="96" y="10" width="12" height="12" rx="3" fill="#2a78d6"/>
+<text x="114" y="20" fill="#6f6e69">TV Media</text>
+<rect x="183.6" y="10" width="12" height="12" rx="3" fill="#eb6834"/>
+<text x="201.6" y="20" fill="#6f6e69">Direct-to-Consumer</text>
+<rect x="343.2" y="10" width="12" height="12" rx="3" fill="#1baf7a"/>
+<text x="361.2" y="20" fill="#6f6e69">Studios</text>
+<line x1="96.0" x2="96.0" y1="36" y2="190" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="96.0" y="208" text-anchor="start" fill="#6f6e69">0%</text>
+<line x1="259.0" x2="259.0" y1="36" y2="190" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="259.0" y="208" text-anchor="middle" fill="#6f6e69">25%</text>
+<line x1="422.0" x2="422.0" y1="36" y2="190" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="422.0" y="208" text-anchor="middle" fill="#6f6e69">50%</text>
+<line x1="585.0" x2="585.0" y1="36" y2="190" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="585.0" y="208" text-anchor="middle" fill="#6f6e69">75%</text>
+<line x1="748.0" x2="748.0" y1="36" y2="190" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="748.0" y="208" text-anchor="end" fill="#6f6e69">100%</text>
+<text x="86" y="56.0" text-anchor="end" fill="#6f6e69">FY2026 PF</text>
+<rect x="96.0" y="40" width="443.9" height="24" fill="#2a78d6"/>
+<text x="318.0" y="56.0" text-anchor="middle" fill="#ffffff" font-weight="600">68%</text>
+<rect x="541.9" y="40" width="130.2" height="24" fill="#eb6834"/>
+<text x="607.0" y="56.0" text-anchor="middle" fill="#ffffff" font-weight="600">20%</text>
+<rect x="674.1" y="40" width="73.9" height="24" fill="#1baf7a"/>
+<text x="711.1" y="56.0" text-anchor="middle" fill="#1a1a19" font-weight="600">11%</text>
+<text x="86" y="98.0" text-anchor="end" fill="#6f6e69">FY2031 Bear</text>
+<rect x="96.0" y="82" width="335.9" height="24" fill="#2a78d6"/>
+<text x="263.9" y="98.0" text-anchor="middle" fill="#ffffff" font-weight="600">52%</text>
+<rect x="433.9" y="82" width="235.7" height="24" fill="#eb6834"/>
+<text x="551.7" y="98.0" text-anchor="middle" fill="#ffffff" font-weight="600">36%</text>
+<rect x="671.6" y="82" width="76.4" height="24" fill="#1baf7a"/>
+<text x="709.8" y="98.0" text-anchor="middle" fill="#1a1a19" font-weight="600">12%</text>
+<text x="86" y="140.0" text-anchor="end" fill="#6f6e69">FY2031 Base</text>
+<rect x="96.0" y="124" width="311.9" height="24" fill="#2a78d6"/>
+<text x="252.0" y="140.0" text-anchor="middle" fill="#ffffff" font-weight="600">48%</text>
+<rect x="409.9" y="124" width="244.8" height="24" fill="#eb6834"/>
+<text x="532.3" y="140.0" text-anchor="middle" fill="#ffffff" font-weight="600">38%</text>
+<rect x="656.7" y="124" width="91.3" height="24" fill="#1baf7a"/>
+<text x="702.4" y="140.0" text-anchor="middle" fill="#1a1a19" font-weight="600">14%</text>
+<text x="86" y="182.0" text-anchor="end" fill="#6f6e69">FY2031 Bull</text>
+<rect x="96.0" y="166" width="284.1" height="24" fill="#2a78d6"/>
+<text x="238.0" y="182.0" text-anchor="middle" fill="#ffffff" font-weight="600">44%</text>
+<rect x="382.1" y="166" width="271.8" height="24" fill="#eb6834"/>
+<text x="518.0" y="182.0" text-anchor="middle" fill="#ffffff" font-weight="600">42%</text>
+<rect x="655.9" y="166" width="92.1" height="24" fill="#1baf7a"/>
+<text x="701.9" y="182.0" text-anchor="middle" fill="#1a1a19" font-weight="600">14%</text>
+</svg>

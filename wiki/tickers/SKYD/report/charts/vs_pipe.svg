@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="760" height="380" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">
+<defs><clipPath id="plot"><rect x="48" y="40" width="598" height="312"/></clipPath></defs>
+<rect x="48" y="12" width="14" height="3" rx="1.5" fill="#2a78d6"/>
+<text x="68" y="17" fill="#6f6e69">Skydance (% of the $12.00 PIPE price)</text>
+<line x1="48" x2="640" y1="346.0" y2="346.0" stroke="#8a8a8a" stroke-opacity="0.25" stroke-width="1"/>
+<text x="40" y="350.0" text-anchor="end" fill="#6f6e69">50</text>
+<line x1="48" x2="640" y1="286.0" y2="286.0" stroke="#8a8a8a" stroke-opacity="0.25" stroke-width="1"/>
+<text x="40" y="290.0" text-anchor="end" fill="#6f6e69">60</text>
+<line x1="48" x2="640" y1="226.0" y2="226.0" stroke="#8a8a8a" stroke-opacity="0.25" stroke-width="1"/>
+<text x="40" y="230.0" text-anchor="end" fill="#6f6e69">70</text>
+<line x1="48" x2="640" y1="166.0" y2="166.0" stroke="#8a8a8a" stroke-opacity="0.25" stroke-width="1"/>
+<text x="40" y="170.0" text-anchor="end" fill="#6f6e69">80</text>
+<line x1="48" x2="640" y1="106.0" y2="106.0" stroke="#8a8a8a" stroke-opacity="0.25" stroke-width="1"/>
+<text x="40" y="110.0" text-anchor="end" fill="#6f6e69">90</text>
+<line x1="48" x2="640" y1="46.0" y2="46.0" stroke="#8a8a8a" stroke-opacity="0.6" stroke-width="1"/>
+<text x="40" y="50.0" text-anchor="end" fill="#6f6e69">100</text>
+<text x="48.0" y="370" text-anchor="start" fill="#6f6e69">2026-09</text>
+<polyline clip-path="url(#plot)" points="48.0,116.2 107.2,135.4 166.4,148.0 225.6,170.8 284.8,188.2 344.0,300.4 403.2,257.2 462.4,248.8 521.6,245.2 580.8,269.8 640.0,304.6" fill="none" stroke="#2a78d6" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="640.0" cy="304.6" r="4" fill="#2a78d6"/>
+<text x="649.0" y="308.6" fill="#6f6e69">Skydance (% of the $12.00 PIPE price) 57</text>
+</svg>

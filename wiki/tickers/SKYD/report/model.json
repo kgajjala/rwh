@@ -1,0 +1,141 @@
+{
+ "spot": 6.83,
+ "dps": 0.2,
+ "discount_rate": 0.1,
+ "hurdle": 0.13,
+ "risk_free": 0.05,
+ "last_year": 2031,
+ "fy_prefix": "FY",
+ "eps_label": "Free cash flow per share",
+ "segment_names": {
+  "DTC": "Direct-to-Consumer",
+  "STU": "Studios",
+  "TV": "TV Media"
+ },
+ "base": {
+  "year": 2026,
+  "shares": 5.04,
+  "corp_pct": 0.107,
+  "other": -6.0,
+  "tax": 0.21,
+  "segments": {
+   "DTC": {
+    "rev": 22.5,
+    "margin": 0.133
+   },
+   "STU": {
+    "rev": 13.8,
+    "margin": 0.123
+   },
+   "TV": {
+    "rev": 28.7,
+    "margin": 0.352
+   }
+  },
+  "sbc_pct": 0.015,
+  "eps_excludes_sbc": true,
+  "oe_conversion": 1.0
+ },
+ "other_growth": -0.03,
+ "cases": {
+  "Bull": {
+   "role": "bull",
+   "prob": 0.2,
+   "pe": 12,
+   "basis": "owner",
+   "corp_pct": 0.031,
+   "sbc_pct": 0.012,
+   "dilution": 0.016,
+   "buyback": 0.0,
+   "segments": {
+    "DTC": {
+     "g": 0.1,
+     "m": 0.23
+    },
+    "STU": {
+     "g": 0.05,
+     "m": 0.15
+    },
+    "TV": {
+     "g": -0.045,
+     "m": 0.38
+    }
+   },
+   "tier": "Plausible",
+   "story": "Management's plan arrives: the $6B of synergies land in full, the Paramount+/HBO Max bundle lifts ARPU toward peers (DTC +10% a year at a 23% margin) and linear shrinks only 4.5% a year. Adjusted EBITDA ≈$19B (24% margin), FCF ≈$9.5B in 2031, net leverage ≈2.8×, warrants exercised. FY2031 owner FCF per share × 12 (≈8.5× EV/EBITDA)."
+  },
+  "Base": {
+   "role": "base",
+   "prob": 0.5,
+   "pe": 10,
+   "basis": "owner",
+   "corp_pct": 0.06,
+   "sbc_pct": 0.013,
+   "dilution": 0.01,
+   "buyback": 0.0,
+   "segments": {
+    "DTC": {
+     "g": 0.07,
+     "m": 0.19
+    },
+    "STU": {
+     "g": 0.03,
+     "m": 0.13
+    },
+    "TV": {
+     "g": -0.06,
+     "m": 0.36
+    }
+   },
+   "tier": "Probable",
+   "story": "Synergies mostly arrive, but linear revenue falls 6% a year and eats about half of them, as at WBD after 2022. DTC grows 7% a year to a 19% margin. Adjusted EBITDA ≈$14.6B (21%), FCF ≈$5B, net leverage ≈4.9× in 2031, so the 3× target slips. FY2031 owner FCF per share × 10 (≈7.9× EV/EBITDA)."
+  },
+  "Bear": {
+   "role": "bear",
+   "prob": 0.3,
+   "pe": 8,
+   "basis": "owner",
+   "corp_pct": 0.085,
+   "sbc_pct": 0.014,
+   "dilution": 0.04,
+   "buyback": 0.0,
+   "segments": {
+    "DTC": {
+     "g": 0.05,
+     "m": 0.15
+    },
+    "STU": {
+     "g": 0.01,
+     "m": 0.09
+    },
+    "TV": {
+     "g": -0.09,
+     "m": 0.34
+    }
+   },
+   "tier": "Probable",
+   "story": "Linear falls 9% a year as sports and carriage renewals reset, the bundle fails to lift ARPU and synergies are spent defending share. Adjusted EBITDA ≈$10B, leverage above the 5.5× covenant, the dividend is cut and equity is raised (+4% shares a year); refinancing $20B of maturities keeps interest near $6B. FY2031 owner FCF per share × 8 (≈7.7× EV/EBITDA, generous for this case) stands in for the option value of a 7×-levered equity."
+  }
+ },
+ "diagnostics": {
+  "Priced-in": {
+   "label": "Priced-in (10%/yr)",
+   "target_return": 0.1,
+   "pe": 10,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  },
+  "Hurdle": {
+   "label": "Hurdle (13%/yr)",
+   "target_return": 0.13,
+   "pe": 10,
+   "path": [
+    "Base",
+    "Bull"
+   ]
+  }
+ },
+ "optionality": []
+}

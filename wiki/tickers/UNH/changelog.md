@@ -25,6 +25,7 @@
 - **Tests**: test 2 adds "no RADV carve-out from adjusted EPS"; test 3 adds the Fifth Circuit ruling or a CRUSH final rule without the PY2018 start.
 - **BAIT**: Single (B) → Double (B+A), Moderate.
 - **Schema**: v6.0 page → v7.0 deep dive (report/ sources, charts, update note).
+- **Precedent added**: the Jan–Apr 2026 rate-notice scare (UNH −19.6% on Jan 27, trough $259.02, back to $353.52 by Apr 22). Lobbying lifted the rate from +0.09% to +2.48% and dropped the risk-model recalibration, but the chart-review coding exclusion was kept, so no January-style reversal is assumed for CRUSH; the CY2028 advance notice (late Jan/early Feb 2027) is the next likely scare ([raw](../../../raw/UNH/regulatory/2026-01-26_to_04-06_CMS-2027-rate-cycle.md)).
 - **Gaps**: FY2025 10-K Item 1A diff; DEF 14A NEO metrics; 90-day Form 4s; no company statement or appearance found Oct 14–Nov 18.
 
 ### Status

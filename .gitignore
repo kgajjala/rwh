@@ -4,3 +4,5 @@
 outputs/*.html
 .claude/*
 .claire/
+__pycache__/
+*.pyc

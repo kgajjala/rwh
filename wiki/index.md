@@ -68,7 +68,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | [TREX](tickers/TREX/TREX.md) | Active | Trex Company | Narrow & Widening | Moderate | 2026-05-10 | **v2.9→v2.14** + Q1 beat ($343M / $0.59 EPS / GM 40.5% +100bps); FY26 reaffirmed; capex cut $224M→$100–120M; **channel inventory 30–40 days vs. 90–120 historical = thesis-break trigger DE-RISKED ✅**; Arkansas plant 2027; PW EV $58 (5-yr); R/R 3.7:1; **Initiate / Hold (add <$37)** |
 | [TSLA](tickers/TSLA/TSLA.md) | Active | Tesla | Narrow, narrowing (autos) + optional Wide (autonomy) | Moderate | 2026-10-22 | 🟡 **Watch** / 🔴 **Trim** — Q3 beat on cash and margin, but robotaxi economics and Optimus units still undisclosed; $386 needs more than my Bull. PW EV $295: −24% up / −85% down |
 | [UBER](tickers/UBER/UBER.md) | Active | Uber Technologies | Wide (network + scale), widening | High | 2026-09-07 | 🟢 **Initiate / Add** — bookings +22% on flat invested capital at a 6.3% FCF yield; Delivery Hero and a paused buyback are the open test. **PW EV $178: +134% up / −27% down.** |
-| [UNH](tickers/UNH/UNH.md) | Active | UnitedHealth Group | Wide, narrowing | Moderate | 2026-10-14 | 🟡 **Watch / Hold** — Recovery ahead of plan (FY26 ≥$20.50 after three raises), but 18.4× already capitalizes normalized margins; 2027 framed near $23. Clears 13% only at $304. **PW EV $502: +33% up / −26% down.** |
+| [UNH](tickers/UNH/UNH.md) | Active | UnitedHealth Group | Wide, narrowing | Moderate | 2026-11-19 | 🟡 **Watch / Hold** — Fell 15% on CMS's RADV clawback proposal; the bill is ≈$7/share risk-weighted, so the fall overshot, but it landed at fair, not cheap. **PW EV $471: +35% up / −20% down.** |
 | [WING](tickers/WING/WING.md) | Active | Wingstop | Narrow | Lower-Moderate | 2026-05-01 | 5-firm post-Q1 analyst cluster confirms thesis-weakening (Goldman Buy→Neutral $190); zones unchanged; Watch / Reduce on bounce |
 | [ZG](tickers/ZG/ZG.md) | Active | Zillow Group | Wide consumer / Narrow agent | Moderate | 2026-05-10 | **v2.9→v2.14** + Q1 (May 6) rev $708M (+18%) beat / EBITDA $182M (26%) beat; **record $626M Q1 buyback**; Showcase 4.3% (from 1.7%); mortgage +96%; Q2 guide incl. $20M FTC trial costs; **FTC motion-to-dismiss DENIED May 7** — risk escalated; Zillow+Realtor.com Preview May 5; PW EV $75 (5-yr); R/R ~4:1; **Initiate <$50 / Hold (selective add $38–45)** |
 
@@ -128,7 +128,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | TREX | $41.90 | –39% | Double (B+A-Mod) | Initiate (patient) / Hold; entry $30–42 |
 | TSLA | $386.47 (10/21/26) | −22.5% | None | Watch / Trim; entry ≤$160 |
 | UBER | **$75.76** (9/4/26) | –25.7% (~28th %ile) | Triple (B+A+I; T Weak) | 🟢 **Initiate / Add**; entry ≤$96; PW EV $178; R/R 12.2:1 |
-| UNH | **$377.76** (10/13/26) | −18.2% (~59th %ile) | **Single (B)** | 🟡 **Watch / Hold**; entry ≤$304; PW EV $502; 8.3%/yr vs 13% hurdle |
+| UNH | **$349.91** (11/18/26) | −24.2% (46th %ile) | **Double (B+A; Mod)** | 🟡 **Watch / Hold**; entry ≤$288; PW EV $471; 8.8%/yr vs 13% hurdle |
 | WING | $165.64 | –57% | Triple (B-Strong, A-Mod, T-Weak) | Watch / Reduce on bounce >$180; entry $135–150 |
 | ZG | $45.41 | –51.6% | Triple (B+A-Strong, I-Mod) | Initiate / Add; entry $38–50 |
 
@@ -173,7 +173,7 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 | LLY | Precise drug revenue breakdown FY2025 full year | LLY 10-K or Q4 press release |
 | LLY | Geographic revenue by region (exact %) | LLY 10-K segment note |
 | WING | FCF, operating cash flow from 10-K | SEC EDGAR / ir.wingstop.com |
-| UNH | FY2025 10-K Item 1A diff; non-CEO annual-incentive metrics and weights; five years of chairman's letters; post-Q3 analyst actions | EDGAR 10-K and DEF 14A HTML; annual reports page; MarketBeat after indexing |
+| UNH | FY2025 10-K Item 1A diff and RADV disclosure; non-CEO incentive metrics and weights (DEF 14A); five years of chairman's letters; 90-day Form 4s; post-CRUSH analyst estimates | EDGAR 10-K and DEF 14A HTML; annual reports page; MarketBeat after indexing |
 | SCHW | Q3 2026 10-Q (not filed); second Q3 call transcript; Q1 2026 release text (PDF would not extract); IR events page (403); Wurster Bloomberg TV transcript (Oct 16) | 10-Q early November; Investing.com or Seeking Alpha transcript; browser read of the IR events page |
 | FICO | FY2026 Q4 release and 10-K (Nov 4, mid-Nov); a second Q3 call transcript; FHFA, GSE and Preferred Program primary documents (secondary write-ups used); Q1–Q2 FY2026 releases; short interest; no letters or investor-day targets exist; no CEO/CFO appearance found since Jul 29 | Nov 4 release; fico.com IR (events and Preferred Program release, 403 to scripts); FHFA and Fannie/Freddie letters; browser read |
 | SNOW | AI revenue is never quantified (no dollar figure, no AI net revenue retention, no share of the $6,070M guide); no shareholder letter exists (Pattern C — none in the 10-K or proxy); no earnings-day CEO/CFO media appearance found for the Q1 or Q2 FY2027 prints | Q3 FY2027 call (Dec 2, 2026); FY2027 10-K (~Mar 2027) |
@@ -197,4 +197,4 @@ user-directed, Workflow C). Per-page schema-version history lives in git.
 
 ---
 
-*Last updated: 2026-11-18*
+*Last updated: 2026-11-19*

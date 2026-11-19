@@ -1,0 +1,56 @@
+{
+ "spot": 349.91,
+ "dps": 9.28,
+ "discount_rate": 0.09,
+ "hurdle": 0.13,
+ "risk_free": 0.0515,
+ "last_year": 2031,
+ "fy_prefix": "FY",
+ "eps_label": "Adjusted EPS",
+ "segment_names": {"UHC": "UnitedHealthcare", "OPT": "Optum (external revenue)"},
+ "base": {
+  "year": 2026,
+  "shares": 0.903,
+  "corp_pct": 0.0,
+  "other": -4.2,
+  "tax": 0.22,
+  "segments": {
+   "UHC": {"rev": 345.0, "margin": 0.039},
+   "OPT": {"rev": 104.0, "margin": 0.138}
+  },
+  "sbc_pct": 0.0022,
+  "eps_excludes_sbc": false,
+  "oe_conversion": 1.0
+ },
+ "other_growth": 0.0,
+ "cases": {
+  "Bull": {
+   "role": "bull", "prob": 0.20, "pe": 17, "basis": "eps",
+   "dilution": 0.003, "buyback": 0.020,
+   "segments": {"UHC": {"g": 0.06, "m": 0.055}, "OPT": {"g": 0.06, "m": 0.165}},
+   "tier": "Plausible",
+   "story": "Management's 13–16% delivered: membership grows again from 2027, Medicare Advantage margins sit at the top of 2–4% and commercial reprices to target, Optum Health reaches 6–8%. Revenue grows 6% a year to ≈$601B at an 8.1% operating margin, the ten-year median. The RADV fight is won or settled small. FY2031 EPS × 17, below the 18–22× UNH earned before 2024."
+  },
+  "Base": {
+   "role": "base", "prob": 0.50, "pe": 15, "basis": "eps",
+   "dilution": 0.003, "buyback": 0.020,
+   "segments": {"UHC": {"g": 0.045, "m": 0.049}, "OPT": {"g": 0.045, "m": 0.15}},
+   "tier": "Probable",
+   "story": "Margin normalizes to ≈7.2%, held below the median by PBM pass-through, arbitration awards and tighter MA coding rules priced into bids. Revenue grows 4.5% a year to ≈$559B. FY2031 EPS × 15, a managed-care multiple with a premium for Optum."
+  },
+  "Bear": {
+   "role": "bear", "prob": 0.30, "pe": 12, "basis": "eps",
+   "dilution": 0.003, "buyback": 0.012,
+   "segments": {"UHC": {"g": 0.03, "m": 0.037}, "OPT": {"g": 0.03, "m": 0.125}},
+   "tier": "Probable",
+   "story": "Regulation caps the margin near 5.8%: RADV extrapolation and coding rules cut MA revenue per member, a DOJ settlement or a forced PBM/provider separation strips integration profit, and a Democratic Congress legislates PBM economics. Revenue grows 3% a year to ≈$520B. FY2031 EPS × 12, the peer multiple."
+  }
+ },
+ "diagnostics": {
+  "Priced-in": {"label": "Priced-in (9%/yr)", "target_return": 0.09, "pe": 15, "path": ["Bear", "Base"]},
+  "Hurdle": {"label": "Hurdle (13%/yr)", "target_return": 0.13, "pe": 15, "path": ["Base", "Bull"]}
+ },
+ "optionality": [
+  {"name": "CRUSH: retroactive RADV recoveries, PY2018–2026 (FY2031 value)", "prob": 0.5, "value": -20.0}
+ ]
+}

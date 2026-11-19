@@ -49,7 +49,7 @@ def odds(x): return "n/a" if x is None else (">100%" if x > 1 else "<0%" if x < 
 DEFAULT_D = 0   # whole dollars, or cents for a stock under $20 (set in build_vars)
 def money(x, d=None):
     d = DEFAULT_D if d is None else d
-    return f"${x:,.{d}f}"
+    return f"−${-x:,.{d}f}" if x < 0 else f"${x:,.{d}f}"
 
 def build_vars(data, mo):
     global DEFAULT_D

@@ -1,0 +1,1553 @@
+{
+ "meta": {
+  "ticker": "UNH",
+  "company": "UnitedHealth Group Incorporated",
+  "title": "UnitedHealth: The Repair and the Referee",
+  "dek": "Hemsley has rebuilt the margin faster than he promised. In two days in November the government proposed to claw back part of the last decade's Medicare Advantage revenue, and the stock gave back the whole post-earnings rally and more. How much of that is a bill, and how much is fear?",
+  "date": "2026-11-19",
+  "date_long": "November 19, 2026",
+  "status": "Active",
+  "price": 349.91,
+  "price_note": "Nov 18, 2026, 4:00 PM ET close (Yahoo, cross-checked StockAnalysis)",
+  "price_url": "https://finance.yahoo.com/quote/UNH/",
+  "range52": [
+   255.97,
+   461.62
+  ],
+  "type": "Managed care: insurer (UnitedHealthcare) plus care delivery, PBM and health data (Optum)",
+  "stage": "Turnaround (margin repair inside a mature franchise)",
+  "cyclical": "Yes (underwriting cycle)",
+  "competence": "Edge",
+  "compounder": false,
+  "terminal_label": "FY2031",
+  "accent": {
+   "light": "#1f5aa6",
+   "dark": "#8db8ef"
+  },
+  "html_name": "UNH-deep-dive.html",
+  "artifact_url": "",
+  "report_path": "../UNH.md"
+ },
+ "verdict": {
+  "sentence": "The repair is real and the CRUSH clawback is a bill worth about $7 a share probability-weighted, not the $62 the stock lost in two days; but even at [[price]] the probability-weighted case returns [[pw_return]] a year against the 13% hurdle, so non-holders still wait for [[entry]] and holders hold.",
+  "non_holder": {
+   "emoji": "🟡",
+   "verb": "Watch (entry ≤[[entry]])"
+  },
+  "holder": {
+   "emoji": "🟡",
+   "verb": "Hold"
+  },
+  "breaks_if": "the medical cost ratio's fall turns out to be reserve releases and benefit cuts rather than durable underwriting, or extrapolated RADV audits survive in court and reach back to PY2018. Either one turns a margin recovery into a regulated utility margin.",
+  "multiple_label": "FY26E adj P/E",
+  "multiple": "17.1× [Derived]",
+  "bait": "Double (B+A), Moderate",
+  "moat": "Wide, narrowing",
+  "next": "2027 outlook, by Dec 31; Fifth Circuit RADV ruling, pending",
+  "price_implies": "~[[implied_bear]] Bear odds at 9%",
+  "compounding": "[[compounding]] (Base EPS growth is mostly margin repair)"
+ },
+ "call": "UnitedHealth fell 15% in two sessions, from $412.02 on November 16 to [[price]] on November 18, after CMS proposed CRUSH, a rule that would extrapolate Medicare Advantage audit findings back to payment year 2018 with no fee-for-service adjuster. The bill is real but bounded. CMS puts recoveries at about $9 billion per payment year across the industry; at UnitedHealth's ~28% share that is ~$2.5 billion pre-tax a year, about $13 a share in present value if all nine back years are collected, and about $7 if, as I think, the rule has even odds in court [Estimate]. The market took $62 a share, about $56 billion. Cigna, which sold its Medicare Advantage book, fell 5% with it; most of the move is a sector de-rating on politics, not arithmetic. That does not make the stock cheap. I value the clawback as its own line ([[optionality_value]] of FY2031 value) and move five points from Bull to Bear for a Congress and an agency now pulling the same way. The probability-weighted value is [[pw_ev]], [[pw_return]] a year with the dividend, and spot implies about [[implied_bear]] Bear odds against my 30%. The market has gone from too hopeful to about right. The 2027 outlook, due before year-end, settles it: at $23 or above the Base holds; with an explicit RADV reserve, the Bear gains ground.",
+ "tests": [
+  {
+   "claim": "That the recovery is underwriting, not reserve releases.",
+   "test": "in the Q4/FY2026 release (**mid-January 2027**), the full-year medical cost ratio is at or below 88.1% and adjusted EPS is at least $20.50 ([Q3 release](https://www.sec.gov/Archives/edgar/data/731766/000073176626000255/earningsrelease3q26unh.htm)).",
+   "shift": {
+    "case": "Base",
+    "value": 477.0
+   },
+   "if_fail": "the Base normalized margin falls to ≈6.8% (Base $477; PW EV [[test1.pw_ev]], [[test1.pw_return]]/yr) → **[[test1.verb]]** (entry [[test1.entry]])."
+  },
+  {
+   "claim": "That 2027 starts the 13–16% path, CRUSH included.",
+   "test": "the 2027 outlook (promised **before year-end 2026**, at the latest in the Q4 release) guides FY2027 adjusted EPS to at least $23.00 with no RADV charge carved out of adjusted earnings ([Q3 call](https://www.fool.com/earnings/call-transcripts/2026/10/13/unitedhealth-unh-q3-2026-earnings-call-transcript/)).",
+   "shift": {
+    "from": "Base",
+    "to": "Bear",
+    "points": 0.1
+   },
+   "if_fail": "move 10 points from Base to Bear (PW EV [[test2.pw_ev]], [[test2.pw_return]]/yr) → **[[test2.verb]]** (entry [[test2.entry]])."
+  },
+  {
+   "claim": "That extrapolated RADV stays contested and no remedy breaks the integrated model.",
+   "test": "the Fifth Circuit rules for Humana in *Humana v. Kennedy* (argued Oct 5, 2026) or the CRUSH final rule drops the PY2018 start; and through the FY2026 10-K (**February 2027**) no DOJ complaint or settlement seeks structural separation or more than $5B ([CMS fact sheet](https://www.cms.gov/newsroom/fact-sheets/comprehensive-regulations-uncover-suspicious-healthcare-crush-proposed-rule-cms-6098-p), [STAT](https://www.statnews.com/2026/10/05/humana-medicare-advantage-radv-audits-lawsuit-hearing/)).",
+   "shift": {
+    "from": "Bull",
+    "to": "Bear",
+    "points": 0.1
+   },
+   "if_fail": "move 10 points from Bull to Bear (PW EV [[test3.pw_ev]], [[test3.pw_return]]/yr) → **[[test3.verb]]** (entry [[test3.entry]]); the CRUSH line is then valued at 80%, not 50%, which takes about $6 more off the PW EV."
+  }
+ ],
+ "updates": [
+  {
+   "date": "2026-11-19",
+   "title": "CRUSH: a $9 billion-a-year audit proposal and a $56 billion sell-off",
+   "file": "updates/2026-11-19.md",
+   "scorecard": [
+    {
+     "test": "Full-year MCR ≤88.1% and adjusted EPS ≥$20.50",
+     "result": "pending",
+     "evidence": "No print in the window; resolves with the Q4 release in mid-January 2027"
+    },
+    {
+     "test": "FY2027 guide ≥$23.00",
+     "result": "pending",
+     "evidence": "Outlook not yet given; consensus ≈$23.3 [Analyst consensus] predates CRUSH"
+    },
+    {
+     "test": "No DOJ complaint or settlement seeking separation or >$5B",
+     "result": "pending",
+     "evidence": "Nothing filed; the CMS CRUSH proposal is a separate regulatory risk now folded into test 3"
+    }
+   ]
+  }
+ ],
+ "tables": {
+  "selloff": {
+   "columns": [
+    "Ticker",
+    "~Medicare Advantage exposure",
+    "Nov 16",
+    "Nov 18",
+    "Two days"
+   ],
+   "rows": [
+    [
+     "**UnitedHealth**",
+     "Largest MA book, ~29% of enrollment; M&R ≈38% of UNH revenue",
+     "$412.02",
+     "$349.91",
+     "**−15.1%**"
+    ],
+    [
+     "Humana",
+     "MA ≈77% of 2025 revenue",
+     "$461.25",
+     "$385.78",
+     "**−16.4%**"
+    ],
+    [
+     "Elevance",
+     "Mid-size MA book; mostly commercial and Medicaid",
+     "$446.28",
+     "$400.84",
+     "−10.2%"
+    ],
+    [
+     "Centene",
+     "Small MA book; Medicaid and exchanges",
+     "$74.77",
+     "$67.45",
+     "−9.8%"
+    ],
+    [
+     "CVS (Aetna)",
+     "#3 MA book inside a PBM and retailer",
+     "$88.59",
+     "$81.35",
+     "−8.2%"
+    ],
+    [
+     "Cigna",
+     "Sold its MA business in March 2025",
+     "$300.16",
+     "$285.37",
+     "−4.9%"
+    ],
+    [
+     "S&P 500 (SPY)",
+     "—",
+     "$739.95",
+     "$730.20",
+     "−1.3%"
+    ]
+   ],
+   "note": "Daily closes from [Yahoo Finance](https://finance.yahoo.com/quote/UNH/history/). MA exposure: [KFF via Healthcare Dive](https://www.healthcaredive.com/news/medicare-advantage-enrollment-2025-unitedhealth-humana/738048/), [Yahoo Finance, Nov 18](https://finance.yahoo.com/healthcare/articles/unitedhealth-sinks-12-cms-fraud-194116346.html); M&R share from the [Q3 release](https://www.sec.gov/Archives/edgar/data/731766/000073176626000255/earningsrelease3q26unh.htm) [Derived]. UNH volume was 17.3M shares on Nov 18, about four times normal."
+  },
+  "segments": {
+   "columns": [
+    "$ Billion",
+    "Q3 2025",
+    "Q3 2026",
+    "9M 2025",
+    "9M 2026"
+   ],
+   "rows": [
+    {
+     "cells": [
+      "**UnitedHealthcare**",
+      "",
+      "",
+      "",
+      ""
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Revenue",
+      "87.1",
+      "86.3",
+      "257.8",
+      "258.6"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Earnings from operations",
+      "1.81",
+      "2.83",
+      "9.11",
+      "12.47"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Operating margin",
+      "2.1%",
+      "3.3%",
+      "3.5%",
+      "4.8%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Optum Health**",
+      "",
+      "",
+      "",
+      ""
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Revenue",
+      "25.4",
+      "22.9",
+      "75.0",
+      "70.5"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Earnings from operations",
+      "0.04",
+      "0.74",
+      "1.88",
+      "3.07"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Operating margin",
+      "0.2%",
+      "3.2%",
+      "2.5%",
+      "4.3%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Optum Insight**",
+      "",
+      "",
+      "",
+      ""
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Revenue",
+      "5.3",
+      "5.5",
+      "15.6",
+      "16.0"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Earnings from operations",
+      "0.92",
+      "1.28",
+      "3.29",
+      "3.61"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Operating margin",
+      "17.3%",
+      "23.4%",
+      "21.1%",
+      "22.6%"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "**Optum Rx**",
+      "",
+      "",
+      "",
+      ""
+     ],
+     "cls": "grp"
+    },
+    {
+     "cells": [
+      "Revenue",
+      "39.7",
+      "39.9",
+      "113.3",
+      "114.0"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Earnings from operations",
+      "1.55",
+      "1.72",
+      "4.31",
+      "4.40"
+     ],
+     "cls": "sub"
+    },
+    {
+     "cells": [
+      "Operating margin",
+      "3.9%",
+      "4.3%",
+      "3.8%",
+      "3.9%"
+     ],
+     "cls": "sub"
+    },
+    [
+     "Eliminations (revenue)",
+     "(44.3)",
+     "(41.9)",
+     "(127.3)",
+     "(122.6)"
+    ],
+    {
+     "cells": [
+      "Consolidated revenue",
+      "113.2",
+      "112.7",
+      "334.4",
+      "336.4"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "Earnings from operations",
+      "4.32",
+      "6.56",
+      "18.58",
+      "23.54"
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "Operating margin",
+      "3.8%",
+      "5.8%",
+      "5.6%",
+      "7.0%"
+     ],
+     "cls": "sub"
+    }
+   ],
+   "note": "GAAP, from the segment schedules of the [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/731766/000073176626000255/earningsrelease3q26unh.htm); prior periods recast by the company for the Optum Financial realignment. Nine-month 2026 earnings include $415M of net divestiture and South American items removed from adjusted earnings."
+  },
+  "quarter": {
+   "columns": [
+    "$B, except EPS",
+    "Q3 2025",
+    "Q3 2026",
+    "Change"
+   ],
+   "rows": [
+    [
+     "Revenue",
+     "113.2",
+     "**112.7**",
+     "−0.4%"
+    ],
+    [
+     "Medical cost ratio",
+     "89.9%",
+     "**88.4%**",
+     "−150 bps"
+    ],
+    [
+     "of which favorable prior-period development",
+     "—",
+     "0.61",
+     "≈0.7 pts of MCR"
+    ],
+    [
+     "Operating cost ratio",
+     "13.5%",
+     "12.8%",
+     "−70 bps"
+    ],
+    [
+     "Adjusted EPS",
+     "$2.92",
+     "**$4.69**",
+     "+61%"
+    ],
+    [
+     "Medical members (M)",
+     "50.13",
+     "48.30",
+     "−3.6%"
+    ],
+    [
+     "FY2026 adjusted EPS outlook",
+     "—",
+     "≥$20.50",
+     "from $19.50–20.00"
+    ]
+   ],
+   "note": "[Q3 2026 release](https://www.sec.gov/Archives/edgar/data/731766/000073176626000255/earningsrelease3q26unh.htm). Consensus adjusted EPS was ≈$4.15 `[Analyst consensus]`. The underlying ratio excluding development is ≈89.1% `[Derived]`."
+  },
+  "radv": {
+   "columns": [
+    "Line",
+    "Low",
+    "Mid",
+    "High",
+    "~How it is built"
+   ],
+   "rows": [
+    [
+     "Industry recoveries per payment year",
+     "$9.0B",
+     "$9.0B",
+     "$9.0B",
+     "CMS estimate, average per payment year"
+    ],
+    [
+     "UnitedHealth share",
+     "25%",
+     "28%",
+     "33%",
+     "~29% of 2025 MA enrollment (KFF); higher end if its coding intensity is above average"
+    ],
+    [
+     "UNH recoveries per payment year, pre-tax",
+     "$2.25B",
+     "$2.5B",
+     "$3.0B",
+     ""
+    ],
+    [
+     "After tax (23%), per share (≈0.87B shares)",
+     "$2.00",
+     "$2.21",
+     "$2.65",
+     "≈11% of FY2026 adjusted EPS at the mid"
+    ],
+    [
+     "Back years at risk",
+     "PY2018–2026",
+     "PY2018–2026",
+     "PY2018–2026",
+     "Nine payment years, collected 2027–2035 (Oppenheimer: mostly 2028–2030)"
+    ],
+    {
+     "cells": [
+      "**Undiscounted, per share**",
+      "$18",
+      "$20",
+      "$24",
+      ""
+     ],
+     "cls": "tot"
+    },
+    {
+     "cells": [
+      "**Present value today at 9%**",
+      "$12",
+      "**$13**",
+      "$16",
+      "One payment year collected per year from 2027"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Probability the extrapolated back years survive in court",
+     "50%",
+     "50%",
+     "50%",
+     "My estimate: CRUSH cures the 2025 notice defect, not the actuarial-equivalence or retroactivity arguments"
+    ],
+    {
+     "cells": [
+      "**Probability-weighted cost, today**",
+      "$6",
+      "**$7**",
+      "$8",
+      "Against a $62 two-day fall"
+     ],
+     "cls": "tot"
+    },
+    [
+     "Same, in FY2031 dollars (the model's CRUSH line)",
+     "",
+     "−$20 × 50%",
+     "",
+     "Payments to 2031 compounded at 9%, later ones discounted to 2031"
+    ]
+   ],
+   "note": "`[Estimate]` throughout except the CMS figure ([fact sheet](https://www.cms.gov/newsroom/fact-sheets/comprehensive-regulations-uncover-suspicious-healthcare-crush-proposed-rule-cms-6098-p)). Share from [KFF via Healthcare Dive](https://www.healthcaredive.com/news/medicare-advantage-enrollment-2025-unitedhealth-humana/738048/). Litigation: [Crowell on the 2025 vacatur](https://www.crowell.com/en/insights/client-alerts/court-vacates-cmss-2023-final-rule-on-radv-audits), [STAT on the Oct 5 argument](https://www.statnews.com/2026/10/05/humana-medicare-advantage-radv-audits-lawsuit-hearing/). Prospective years (PY2027 on) are left out: plans can code and bid for them, so their cost sits in the Base and Bear margins rather than in this line."
+  },
+  "rings": {
+   "columns": [
+    "Ring",
+    "~What it is",
+    "Share of 9M 2026 operating earnings",
+    "~Exposure to CMS and Congress"
+   ],
+   "rows": [
+    [
+     "1. Untouched",
+     "Optum Insight (claims software, payment integrity) and employer ASO fees",
+     "≈20%",
+     "Low. If anything, payment-integrity demand rises under CRUSH"
+    ],
+    [
+     "2. Repriceable",
+     "Commercial risk, Medicaid, the PBM",
+     "≈35%",
+     "Medium. Trend and arbitration are priced annually; PBM pass-through by 2028 is already in the Base"
+    ],
+    [
+     "3. MA, prospective",
+     "Medicare Advantage margin on today's coding rules",
+     "≈30%",
+     "High but biddable: coding rules and RADV are priced into the June bids from 2028"
+    ],
+    [
+     "4. MA, retrospective",
+     "PY2018–2026 revenue already earned and spent",
+     "n/a (a liability, not a ring of profit)",
+     "Fixed: cannot be repriced, only litigated. ≈$13 a share in present value at full exposure"
+    ],
+    [
+     "5. Structural",
+     "Optum Health and Optum Rx owned by an insurer",
+     "≈35% (overlaps 2 and 3)",
+     "Low odds, high impact: the Break Up Big Medicine Act or a DOJ remedy"
+    ]
+   ],
+   "note": "Shares are author's estimates from the [Q3 release](https://www.sec.gov/Archives/edgar/data/731766/000073176626000255/earningsrelease3q26unh.htm) segment schedule; UnitedHealthcare is split between MA, commercial and Medicaid using segment revenue and stated margin ranges `[Estimate]`. Rings overlap, so shares do not sum to 100%."
+  },
+  "deals": {
+   "columns": [
+    "Year",
+    "~Deal",
+    "Price",
+    "~What happened",
+    "Verdict"
+   ],
+   "rows": [
+    [
+     "2022",
+     "Change Healthcare",
+     "$13B",
+     "Closed after a DOJ suit; the Feb 2024 ransomware attack cost ≈$3B+ and exposed 190M people's data",
+     "Poor"
+    ],
+    [
+     "2022",
+     "LHC Group (home health)",
+     "$5.4B",
+     "Folded into Optum Health; part of the value-based-care build now being shrunk",
+     "Mixed"
+    ],
+    [
+     "2023",
+     "Amedisys (home health, hospice)",
+     "$3.3B",
+     "Closed Aug 2025 after divestitures; now Warren's example for the break-up bill",
+     "Too early"
+    ],
+    [
+     "2021–25",
+     "Physician practices and value-based care (incl. Kelsey-Seybold, Atrius affiliations)",
+     "≈$20B+ in all",
+     "Optum Health margin fell from ≈7% to break-even by 2025; turnaround now",
+     "Poor"
+    ],
+    [
+     "2025–26",
+     "Optum UK sold; South America held for sale; Florida WellMed minority stake to TPG",
+     "Undisclosed",
+     "The new team is pruning, not buying",
+     "Good direction"
+    ]
+   ],
+   "note": "Acquisition totals from the cash-flow statement in [SEC XBRL](https://data.sec.gov/api/xbrl/companyfacts/CIK0000731766.json); deal sizes from company announcements. Verdicts are mine."
+  },
+  "capital": {
+   "columns": [
+    "$B",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "Cumulative"
+   ],
+   "rows": [
+    [
+     "Revenue",
+     "287.6",
+     "324.2",
+     "371.6",
+     "400.3",
+     "447.6",
+     ""
+    ],
+    [
+     "Operating cash flow",
+     "22.3",
+     "26.2",
+     "29.1",
+     "24.2",
+     "19.7",
+     "121.5"
+    ],
+    [
+     "Capex",
+     "2.5",
+     "2.8",
+     "3.4",
+     "3.5",
+     "3.6",
+     "15.8"
+    ],
+    [
+     "Owner earnings ex-float",
+     "17.4",
+     "19.0",
+     "22.6",
+     "18.7",
+     "11.4",
+     "89.1"
+    ],
+    [
+     "Dividends",
+     "5.3",
+     "6.0",
+     "6.8",
+     "7.5",
+     "7.9",
+     "33.5"
+    ],
+    [
+     "Buybacks",
+     "5.0",
+     "7.0",
+     "8.0",
+     "9.0",
+     "5.5",
+     "34.5"
+    ],
+    [
+     "Acquisitions",
+     "4.8",
+     "21.5",
+     "10.1",
+     "13.4",
+     "4.5",
+     "54.3"
+    ],
+    [
+     "Net debt incl. leases",
+     "26.6",
+     "34.5",
+     "37.8",
+     "52.7",
+     "54.9",
+     "+28.3"
+    ],
+    [
+     "Diluted shares (M)",
+     "956",
+     "950",
+     "938",
+     "929",
+     "911",
+     "−4.7%"
+    ]
+   ],
+   "note": "[SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000731766.json). Owner earnings ex-float = operating cash flow − SBC − maintenance capex − growth in medical costs payable `[Derived]`; see the five-year record."
+  },
+  "incentives": {
+   "columns": [
+    "Component",
+    "Size",
+    "~Pays for",
+    "~Latest"
+   ],
+   "rows": [
+    [
+     "Hemsley salary",
+     "$1M",
+     "Showing up",
+     "No annual bonus"
+    ],
+    [
+     "Hemsley option grant",
+     "Substantially all pay; cliff-vests 2028, plus a two-year hold",
+     "Share price above the 2025 strike",
+     "Granted at the trough; amended Feb 2026"
+    ],
+    [
+     "Other NEOs: annual plan",
+     "Metrics and weights `[link pending]`",
+     "Historically adjusted EPS, revenue, cash flow, plus quality and customer measures",
+     "Not read this pass (gap)"
+    ],
+    [
+     "Other NEOs: long-term plan",
+     "`[link pending]`",
+     "Historically relative TSR and EPS growth",
+     "Not read this pass (gap)"
+    ],
+    [
+     "Return on invested capital",
+     "0%",
+     "Nothing",
+     "No ROIC or ROIIC metric found in any plan"
+    ]
+   ],
+   "note": "[2026 annual meeting FAQ](https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2026/2026_Annual_Meeting_FAQs.6.3.26_230pm.pdf). The 2026 DEF 14A CD&A was not parsed; the NEO rows are logged as a gap."
+  },
+  "promises": {
+   "columns": [
+    "Promised",
+    "Where, when",
+    "Outcome"
+   ],
+   "rows": [
+    [
+     "FY2025 adjusted EPS $29.50–30.00",
+     "Investor conference, Dec 2024",
+     "$16.35; guidance suspended May 2025"
+    ],
+    [
+     "FY2026 adjusted EPS >$17.75",
+     "Q4 2025 release, Jan 2026",
+     "≥$20.50 after three raises"
+    ],
+    [
+     "2026 buyback ≈$2.5B; debt-to-capital ≈40% by year-end",
+     "Jan 2026; Wells Fargo, Sep 2026",
+     "$5.0B done by Q3; 41.7% at Sep 30"
+    ]
+   ],
+   "note": "Company releases and the [Q3 call](https://www.fool.com/earnings/call-transcripts/2026/10/13/unitedhealth-unh-q3-2026-earnings-call-transcript/)."
+  },
+  "five_year": {
+   "columns": [
+    "$B, except per share",
+    "FY2021",
+    "FY2022",
+    "FY2023",
+    "FY2024",
+    "FY2025",
+    "FY2026E"
+   ],
+   "rows": [
+    [
+     "Revenue",
+     "287.6",
+     "324.2",
+     "371.6",
+     "400.3",
+     "**447.6**",
+     "≈449"
+    ],
+    [
+     "Growth",
+     "+11.8%",
+     "+12.7%",
+     "+14.6%",
+     "+7.7%",
+     "+11.8%",
+     "≈0%"
+    ],
+    [
+     "Medical cost ratio",
+     "82.0%",
+     "82.0%",
+     "83.2%",
+     "85.5%",
+     "**89.1%**",
+     "≈88%"
+    ],
+    [
+     "Operating income (GAAP)",
+     "24.0",
+     "28.4",
+     "32.4",
+     "32.3",
+     "**19.0**",
+     "≈27"
+    ],
+    [
+     "Operating margin (GAAP)",
+     "8.3%",
+     "8.8%",
+     "8.7%",
+     "8.1%",
+     "**4.2%**",
+     "≈6.2% adj"
+    ],
+    [
+     "Adjusted EPS",
+     "$18.33",
+     "$22.19",
+     "$25.12",
+     "$27.66",
+     "**$16.35**",
+     "**≥$20.50**"
+    ],
+    [
+     "Diluted EPS",
+     "$18.08",
+     "$21.18",
+     "$23.86",
+     "$15.51",
+     "$13.23",
+     "≥$19.50"
+    ],
+    [
+     "Operating cash flow",
+     "22.3",
+     "26.2",
+     "29.1",
+     "24.2",
+     "19.7",
+     "—"
+    ],
+    [
+     "Maintenance capex (est.)",
+     "1.6",
+     "1.8",
+     "2.0",
+     "2.7",
+     "2.3",
+     "—"
+    ],
+    [
+     "Owner earnings",
+     "20.0",
+     "23.5",
+     "26.0",
+     "20.5",
+     "16.5",
+     "—"
+    ],
+    [
+     "of which float growth",
+     "2.6",
+     "4.6",
+     "3.3",
+     "1.8",
+     "5.1",
+     "—"
+    ],
+    [
+     "**Owner earnings ex-float**",
+     "17.4",
+     "19.0",
+     "22.6",
+     "18.7",
+     "**11.4**",
+     "—"
+    ],
+    [
+     "Ex-float owner earnings per share",
+     "$18.08",
+     "$19.95",
+     "$24.09",
+     "$20.09",
+     "**$12.47**",
+     "—"
+    ],
+    [
+     "Ex-float conversion (÷ GAAP NI)",
+     "100%",
+     "94%",
+     "101%",
+     "130%",
+     "94%",
+     "—"
+    ],
+    [
+     "Invested capital",
+     "101.6",
+     "116.0",
+     "132.2",
+     "150.9",
+     "155.0",
+     "—"
+    ],
+    [
+     "**ROIC** (GAAP, average capital)",
+     "19.3%",
+     "20.5%",
+     "20.7%",
+     "17.3%",
+     "**10.8%**",
+     "—"
+    ],
+    [
+     "**3-yr incremental ROIC**",
+     "—",
+     "—",
+     "—",
+     "+11.1%",
+     "**−14.8%**",
+     "—"
+    ],
+    [
+     "Reinvestment rate (Δ IC ÷ NOPAT)",
+     "28%",
+     "64%",
+     "63%",
+     "76%",
+     "24%",
+     "—"
+    ],
+    [
+     "Diluted shares (M)",
+     "956",
+     "950",
+     "938",
+     "929",
+     "911",
+     "≈903"
+    ],
+    [
+     "Net share change",
+     "−0.5%",
+     "−0.6%",
+     "−1.3%",
+     "−1.0%",
+     "−1.9%",
+     "≈−0.9%"
+    ],
+    [
+     "SBC % of revenue",
+     "0.28%",
+     "0.29%",
+     "0.29%",
+     "0.25%",
+     "0.22%",
+     "—"
+    ],
+    [
+     "SBC ÷ owner earnings ex-float",
+     "4.6%",
+     "4.9%",
+     "4.7%",
+     "5.4%",
+     "8.5%",
+     "—"
+    ],
+    [
+     "Buybacks ÷ SBC",
+     "6.3×",
+     "7.6×",
+     "7.6×",
+     "8.8×",
+     "5.7×",
+     "≈5×"
+    ],
+    [
+     "FCF conversion (FCF ÷ NI)",
+     "115%",
+     "116%",
+     "115%",
+     "144%",
+     "133%",
+     "—"
+    ],
+    [
+     "Net debt incl. leases",
+     "26.6",
+     "34.5",
+     "37.8",
+     "52.7",
+     "**54.9**",
+     "48.5 (Sep 30)"
+    ],
+    [
+     "Net debt ÷ EBITDA",
+     "1.0×",
+     "1.1×",
+     "1.0×",
+     "1.5×",
+     "**2.4×**",
+     "—"
+    ],
+    [
+     "Interest coverage",
+     "14.4×",
+     "13.6×",
+     "10.0×",
+     "8.3×",
+     "**4.7×**",
+     "—"
+    ]
+   ],
+   "note": "Fiscal years end December. [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000731766.json); adjusted EPS from company releases; FY2026E `[Management guidance]` and `[Derived]`. Invested capital = equity incl. NCI + debt + operating leases − cash and short-term investments (long-term investments back medical reserves and stay in) `[Derived]`. Maintenance capex = capex − 0.029 × Δ revenue (Greenwald). Owner earnings = CFO − SBC − maintenance capex; ex-float also removes growth in medical costs payable. Diluted shares and SBC ratios `[Derived]` from XBRL."
+  },
+  "drivers": {
+   "columns": [
+    "Line",
+    "Units, Sep 30, 2026",
+    "YoY",
+    "Q3 revenue",
+    "Revenue per unit",
+    "~Contribution"
+   ],
+   "rows": [
+    [
+     "Employer & Individual",
+     "29.76M (7.58M risk, 22.18M fee-based)",
+     "−0.6%",
+     "$20.2B",
+     "≈$226 per member-month",
+     "Margin flat YoY; trend above 11%"
+    ],
+    [
+     "Medicare & Retirement",
+     "7.61M MA + 4.25M Medicare Supplement",
+     "MA **−9.8%**",
+     "$42.4B",
+     "≈$1,190 per member-month",
+     "MA margin near the top of 2–4%"
+    ],
+    [
+     "Community & State",
+     "6.70M",
+     "**−10.3%**",
+     "$23.7B",
+     "≈$1,180 per member-month",
+     "Core margin ≈ −1%, the 2026 trough"
+    ],
+    [
+     "**UnitedHealthcare**",
+     "**48.30M**",
+     "**−3.6%**",
+     "$86.3B",
+     "—",
+     "Operating margin **3.3%** (2.1%)"
+    ],
+    [
+     "Optum Health",
+     "≈4M fully accountable",
+     "−10% revenue",
+     "$22.9B",
+     "n/d",
+     "Margin 3.2% (0.2%); target 6–8% by 2028"
+    ],
+    [
+     "Optum Insight",
+     "—",
+     "+3% revenue",
+     "$5.5B",
+     "—",
+     "Margin 23.4%"
+    ],
+    [
+     "Optum Rx",
+     "393M adjusted scripts",
+     "−5.1%",
+     "$39.9B",
+     "≈$102 per script",
+     "≈$4.37 operating profit per script (from $3.74)"
+    ]
+   ],
+   "note": "Unit = medical member (UnitedHealthcare) and adjusted script (Optum Rx). [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/731766/000073176626000255/earningsrelease3q26unh.htm); per-unit figures `[Derived]`. 2026 is *fewer units, more per unit*; 2027 needs units to stop falling."
+  },
+  "levers": {
+   "columns": [
+    "Lever",
+    "~Contribution now",
+    "Runway",
+    "~Evidence",
+    "~Management intent",
+    "Stage"
+   ],
+   "rows": [
+    [
+     "Market growth",
+     "US health spending ~5–6% nominal `[Estimate]`",
+     "Indefinite",
+     "Medicare enrollment growth; commercial trend above 11%",
+     "—",
+     "Proven"
+    ],
+    [
+     "Share gain",
+     "**Negative in 2026**",
+     "—",
+     "MA −830K, Medicaid −765K, commercial −175K YoY; scripts −5%",
+     "\"Very competitive\" 2027 MA pricing (DeVeydt, Sep 9)",
+     "Reversing; 2027 is the test"
+    ],
+    [
+     "Price and mix",
+     "**The 2026 engine**",
+     "1–2 yrs",
+     "Revenue per member up while members fall; MCR −150 bps",
+     "Price for trend as it is",
+     "Proven"
+    ],
+    [
+     "Attach / new products",
+     "Small",
+     "3–5 yrs",
+     "D-SNP, C-SNP; Optum Insight payment-integrity tools",
+     "—",
+     "Scaling"
+    ],
+    [
+     "New geographies",
+     "None",
+     "—",
+     "South America held for sale; UK sold",
+     "Exit",
+     "n/a"
+    ],
+    [
+     "M&A",
+     "Reversing",
+     "—",
+     "$54B in 2021–25 at negative ROIIC",
+     "Tuck-ins only",
+     "Proven, value-destructive"
+    ],
+    [
+     "Margin",
+     "**Carries the Base**: ≈6.2% → ≈7.2%",
+     "2027–28",
+     "Optum Health to 6–8%; Medicaid to target by end-2028; AI savings",
+     "13–16% EPS growth from 2027",
+     "Scaling; CRUSH and pass-through cap it"
+    ],
+    [
+     "Share count",
+     "~1.7%/yr net",
+     "Indefinite",
+     "≥$5B 2026 buyback",
+     "Balanced capital return",
+     "Proven"
+    ]
+   ],
+   "note": "[Q3 release](https://www.sec.gov/Archives/edgar/data/731766/000073176626000255/earningsrelease3q26unh.htm), [Q3 call](https://www.fool.com/earnings/call-transcripts/2026/10/13/unitedhealth-unh-q3-2026-earnings-call-transcript/), [Wells Fargo notes](https://www.investing.com/news/transcripts/unitedhealthcare-at-wells-fargo-conference-turnaround-gains-traction-93CH-4893633). Optum passes Zook's adjacency test (shared customers, data and cost with UnitedHealthcare); that integration is also what Congress and DOJ are probing."
+  },
+  "moat": {
+   "columns": [
+    "Read",
+    "Call",
+    "~Evidence"
+   ],
+   "rows": [
+    [
+     "Mechanism",
+     "**Scale economies** + **cornered resource** (claims data) + **switching costs**",
+     "Largest US claims base gives provider-contracting leverage; Optum Insight sees rivals' claims; employer ASO contracts run multi-year"
+    ],
+    [
+     "Trend",
+     "**Narrowing**",
+     "ROIC 20.7% (FY2023) → 10.8% (FY2025); MA members −10% YoY; PBM pass-through, prior-approval cuts, ACA rebates; now RADV extrapolation proposed back to 2018"
+    ],
+    [
+     "Profit pool",
+     "Shifting to providers, plan sponsors and the government",
+     "Arbitration awards 10–11× Medicare (Noel, Q3 call); rebates passed through; CMS sets about half the revenue and is now auditing the other side of it"
+    ],
+    [
+     "Customer",
+     "Employers, CMS and states, individuals",
+     "High national-account retention; Optum Rx retention high-90s; 2026 repricing cost 1.8M members. CAC and LTV n/d"
+    ]
+   ],
+   "note": "[Q3 call](https://www.fool.com/earnings/call-transcripts/2026/10/13/unitedhealth-unh-q3-2026-earnings-call-transcript/), [CMS fact sheet](https://www.cms.gov/newsroom/fact-sheets/comprehensive-regulations-uncover-suspicious-healthcare-crush-proposed-rule-cms-6098-p). **Scale economies shared or harvested?** 2026 harvested them; the promised competitive 2027 MA pricing would be the first sharing."
+  },
+  "competitors": {
+   "columns": [
+    "Competitor",
+    "~Position",
+    "~Threat"
+   ],
+   "rows": [
+    [
+     "**Humana**",
+     "MA pure play, plaintiff in *Humana v. Kennedy*",
+     "Fell more than UNH on CRUSH; if it wins the appeal, UNH wins too"
+    ],
+    [
+     "**Elevance**",
+     "#2 commercial; Carelon services",
+     "Steadier underwriting, narrower model; the main commercial rival"
+    ],
+    [
+     "**CVS (Aetna + Caremark)**",
+     "Insurer + #1 PBM + retail",
+     "The closest integrated analog, and a co-target of the break-up bill"
+    ],
+    [
+     "**Cigna (Evernorth)**",
+     "PBM-heavy, out of MA since March 2025",
+     "Competes for PBM and employer business; insulated from RADV"
+    ],
+    [
+     "**Centene / Molina**",
+     "Medicaid and exchange specialists",
+     "Same Medicaid rate pressure; no Optum offset"
+    ]
+   ],
+   "note": "Company filings; peer moves from [Yahoo Finance](https://finance.yahoo.com/quote/UNH/history/)."
+  },
+  "risks": {
+   "columns": [
+    "~Risk",
+    "Impact",
+    "Prob.",
+    "~Priced in?",
+    "~Would break the thesis if…"
+   ],
+   "rows": [
+    [
+     "⚠️ **CRUSH: extrapolated RADV back to PY2018, no FFS adjuster** `[NEW]`",
+     "≈$13/share PV at full exposure",
+     "50%",
+     "**Over-priced**: the stock lost $62 in two days",
+     "The Fifth Circuit upholds extrapolation, or the final rule keeps PY2018 (test 3)"
+    ],
+    [
+     "⚠️ **Political: Democratic Congress, Break Up Big Medicine Act, PBM reform** `[NEW]`",
+     "Very high",
+     "Low",
+     "Partly: Cigna −5% on the same days",
+     "A separation bill passes either chamber, or PBM economics are legislated"
+    ],
+    [
+     "**Reserve releases flatter the recovery**: $610M in Q3, $860M in Q2",
+     "High",
+     "Med",
+     "Partly",
+     "Full-year MCR misses 88.1% (test 1)"
+    ],
+    [
+     "**2027 framed low while MA keeps shrinking**",
+     "High",
+     "Med",
+     "Mostly, at [[price]]",
+     "FY2027 guide under $23 (test 2)"
+    ],
+    [
+     "⚠️ **DOJ**: Claritev antitrust probe; MA criminal and civil inquiries",
+     "Very high",
+     "Low-Med",
+     "🔴 No: absent from the call",
+     "A complaint or settlement seeks structural relief or >$5B (test 3)"
+    ],
+    [
+     "**Commercial trend above 11%** and arbitration awards",
+     "Med-High",
+     "Med-High",
+     "Partly",
+     "January 2027 renewals show commercial margin down again"
+    ],
+    [
+     "**Optum Health relapse**",
+     "Med",
+     "Med",
+     "Partly",
+     "FY2026 segment earnings below $2B"
+    ],
+    [
+     "**Succession**: Hemsley's options vest in 2028",
+     "Med",
+     "Low",
+     "🔴 No",
+     "He departs before the cliff"
+    ]
+   ],
+   "note": "10-K Item 1A diff for FY2025 not read (gap). [CMS fact sheet](https://www.cms.gov/newsroom/fact-sheets/comprehensive-regulations-uncover-suspicious-healthcare-crush-proposed-rule-cms-6098-p); [TIKR on the break-up bill](https://www.tikr.com/blog/we-need-to-break-up-big-medicine-warren-targets-unitedhealth-as-democrats-win-congress). No reflexive loop: no equity funding need. No ruin path: maturities are serviceable from ≈$25B of operating cash flow, and the full CRUSH back-bill is ≈$20B after tax spread over nine years."
+  },
+  "catalysts": {
+   "columns": [
+    "Date",
+    "~Catalyst",
+    "~Why it matters"
+   ],
+   "rows": [
+    [
+     "📅 By Dec 31, 2026",
+     "2027 outlook and membership guidance",
+     "Test 2; first read on whether management reserves for RADV"
+    ],
+    [
+     "📅 Pending",
+     "Fifth Circuit ruling, *Humana v. Kennedy*",
+     "Test 3: decides whether extrapolation survives at all"
+    ],
+    [
+     "📅 Jan 19, 2027",
+     "CRUSH comment deadline",
+     "Industry and UNH comment letters size the claim"
+    ],
+    [
+     "📅 Mid-Jan 2027",
+     "Q4/FY2026 release",
+     "Test 1"
+    ],
+    [
+     "📅 Feb 2027",
+     "FY2026 10-K (RADV disclosure, legal proceedings); CMS 2028 MA advance notice",
+     "Test 3; the 2028 rate path"
+    ],
+    [
+     "📅 Early Apr 2027",
+     "CMS 2028 final rate notice",
+     "Bull versus Base margin"
+    ],
+    [
+     "✅ Nov 16, 2026",
+     "~~CMS CRUSH proposed rule~~",
+     "**Delivered**: $9B per payment year, back to PY2018"
+    ],
+    [
+     "✅ Nov 3, 2026",
+     "~~Midterms~~",
+     "**Delivered**: Democrats won both chambers"
+    ],
+    [
+     "✅ Oct 13, 2026",
+     "~~Q3 2026 results~~",
+     "**Delivered**: beat; FY2026 ≥$20.50"
+    ]
+   ],
+   "note": "Company and CMS calendars; court docket per [Benchlight](https://benchlight.org/courts/fifth-circuit/cases/25-11293-humana-v-kennedy)."
+  },
+  "sentiment": {
+   "columns": [
+    "Signal",
+    "~Read"
+   ],
+   "rows": [
+    [
+     "Price",
+     "$349.91 on Nov 18; 52-week range $255.97–$461.62; −24% from the high; market cap ≈$314B on 896M shares; EV ≈$362B"
+    ],
+    [
+     "Analysts",
+     "Consensus Buy (26), mean target $476 ([StockAnalysis](https://stockanalysis.com/stocks/unh/statistics/)). In the window: Raymond James $475 → $450 (Oct 23); Baird Neutral $453 → $427; Barclays $441 → $440. No post-CRUSH changes indexed yet `[Analyst consensus]`"
+    ],
+    [
+     "Short interest",
+     "13.96M shares, 1.56% of float, down from 15.95M; it predates the sell-off"
+    ],
+    [
+     "Insiders (90 days)",
+     "Form 4s not re-read this pass (gap). To Oct 14: no open-market purchases; small Optum CEO sales in August"
+    ],
+    [
+     "Appearances (Oct 14 – Nov 18)",
+     "None found: no conference, no media hit, no company statement on CRUSH"
+    ],
+    [
+     "BAIT",
+     "Double (B+A), Moderate. Behavioral: a 15% two-day fall on a proposed rule, with Cigna down 5% and no company news. Analytical: the probability-weighted CRUSH cost is ≈$7 a share against a $62 fall. Informational and technical weak"
+    ]
+   ],
+   "note": "[StockAnalysis](https://stockanalysis.com/stocks/unh/statistics/), [Yahoo](https://finance.yahoo.com/quote/UNH/history/), [TIKR](https://www.tikr.com/blog/we-need-to-break-up-big-medicine-warren-targets-unitedhealth-as-democrats-win-congress)."
+  }
+ },
+ "charts": {
+  "tr_2021": {
+   "type": "line",
+   "file": "series/tr_2021.json",
+   "baseline": 100,
+   "yTicks": [
+    50,
+    100,
+    150,
+    200,
+    250
+   ],
+   "tableEvery": 6,
+   "aria": "Total return of UnitedHealth, Humana, Elevance and the S&P 500, December 2020 to November 2026",
+   "note": "Month-end total return, dividends reinvested, Dec 31, 2020 = 100; last point Nov 18, 2026. Source: [Yahoo Finance](https://finance.yahoo.com/quote/UNH/history/) via prices.py. Built with Claude."
+  },
+  "profit_mix": {
+   "type": "bar100",
+   "keys": [
+    "UnitedHealthcare",
+    "Optum Health",
+    "Optum Insight",
+    "Optum Rx"
+   ],
+   "unit": "$B",
+   "valueLabel": "Earnings from operations",
+   "prefix": "$",
+   "suffix": "B",
+   "rows": [
+    {
+     "label": "9M 2025",
+     "values": [
+      9.11,
+      1.88,
+      3.29,
+      4.31
+     ]
+    },
+    {
+     "label": "9M 2026",
+     "values": [
+      12.47,
+      3.07,
+      3.61,
+      4.4
+     ]
+    }
+   ],
+   "aria": "Share of segment earnings from operations by segment, first nine months of 2025 and 2026",
+   "note": "GAAP segment earnings from operations, nine months to Sep 30. Source: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/731766/000073176626000255/earningsrelease3q26unh.htm). Built with Claude."
+  }
+ },
+ "sources": [
+  {
+   "label": "CMS fact sheet: CRUSH proposed rule (CMS-6098-P), Nov 16, 2026",
+   "url": "https://www.cms.gov/newsroom/fact-sheets/comprehensive-regulations-uncover-suspicious-healthcare-crush-proposed-rule-cms-6098-p"
+  },
+  {
+   "label": "CMS press release: CRUSH, Nov 16, 2026",
+   "url": "https://www.cms.gov/newsroom/press-releases/cms-crush-proposed-rule-aims-reap-nearly-90-billion-taxpayers-savings-targeting-fraud-across"
+  },
+  {
+   "label": "Crowell: court vacates CMS's 2023 RADV rule (Sep 2025)",
+   "url": "https://www.crowell.com/en/insights/client-alerts/court-vacates-cmss-2023-final-rule-on-radv-audits"
+  },
+  {
+   "label": "Crowell: CMS appeals Humana v. Becerra (Nov 2025)",
+   "url": "https://www.crowell.com/en/insights/client-alerts/cms-appeals-humana-v-becerra"
+  },
+  {
+   "label": "STAT: Fifth Circuit argument in Humana v. Kennedy, Oct 5, 2026",
+   "url": "https://www.statnews.com/2026/10/05/humana-medicare-advantage-radv-audits-lawsuit-hearing/"
+  },
+  {
+   "label": "Yahoo Finance: UnitedHealth sinks on CMS rule; Oppenheimer and Warren, Nov 18, 2026",
+   "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-sinks-12-cms-fraud-194116346.html"
+  },
+  {
+   "label": "Investing.com: why UnitedHealth is sliding (Mizuho), Nov 18, 2026",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-unitedhealth-stock-sliding-today-93CH-5036505"
+  },
+  {
+   "label": "TIKR: Warren, the midterms and the Break Up Big Medicine Act, Nov 6, 2026",
+   "url": "https://www.tikr.com/blog/we-need-to-break-up-big-medicine-warren-targets-unitedhealth-as-democrats-win-congress"
+  },
+  {
+   "label": "KFF 2025 MA enrollment shares (via Healthcare Dive)",
+   "url": "https://www.healthcaredive.com/news/medicare-advantage-enrollment-2025-unitedhealth-humana/738048/"
+  },
+  {
+   "label": "Q3 2026 earnings release (8-K Ex-99.1)",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000255/earningsrelease3q26unh.htm"
+  },
+  {
+   "label": "Q3 2026 earnings call transcript (Motley Fool)",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/10/13/unitedhealth-unh-q3-2026-earnings-call-transcript/"
+  },
+  {
+   "label": "Wells Fargo conference summary, Sep 9, 2026 (Investing.com)",
+   "url": "https://www.investing.com/news/transcripts/unitedhealthcare-at-wells-fargo-conference-turnaround-gains-traction-93CH-4893633"
+  },
+  {
+   "label": "UnitedHealthcare 2027 Medicare plans, Oct 1, 2026",
+   "url": "https://www.unitedhealthgroup.com/newsroom/2026/2026-10-01-uhc-2027-medicare-plans-focus-on-affordability-simplicity.html"
+  },
+  {
+   "label": "FY2025 results and 2026 outlook, Jan 27, 2026",
+   "url": "https://www.unitedhealthgroup.com/newsroom/2026/2026-01-27-uhg-reports-2025-results-and-issues-2026-outlook.html"
+  },
+  {
+   "label": "2026 annual meeting FAQ (Hemsley option grant)",
+   "url": "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2026/2026_Annual_Meeting_FAQs.6.3.26_230pm.pdf"
+  },
+  {
+   "label": "FY2024 10-K",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000063/unh-20241231.htm"
+  },
+  {
+   "label": "SEC XBRL company facts",
+   "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000731766.json"
+  },
+  {
+   "label": "Bloomberg: DOJ Claritev probe expanded, Jul 14, 2026",
+   "url": "https://www.bloomberg.com/news/articles/2026-07-14/doj-s-claritev-probe-intensifies-with-new-information-demands"
+  },
+  {
+   "label": "Yahoo Finance price history",
+   "url": "https://finance.yahoo.com/quote/UNH/history/"
+  },
+  {
+   "label": "StockAnalysis statistics",
+   "url": "https://stockanalysis.com/stocks/unh/statistics/"
+  },
+  {
+   "label": "FRED 10-year Treasury (DGS10)",
+   "url": "https://fred.stlouisfed.org/series/DGS10"
+  },
+  {
+   "label": "Base rates (compounding.md)",
+   "url": "../../../frameworks/compounding.md"
+  }
+ ],
+ "vars": {},
+ "scenarios": {
+  "note": "Exit multiples apply to FY2031 adjusted EPS. Interest held at ≈$4.2B; tax 22%. The CRUSH line is valued outside the cases at FY2031 value × 50%. Priced-in is solved along Bear→Base and Hurdle along Base→Bull, both at 15×. Built with Claude."
+ },
+ "model_build": {
+  "note": "Optum revenue is consolidated revenue minus UnitedHealthcare (≈$104B in FY2026E), so its margin is on external revenue and includes intersegment profit. \"Other\" is net interest expense. FY2026E is the author's build to the ≥$20.50 guide `[Derived]`."
+ },
+ "return_math": {
+  "price_implied": "At 9%, spot needs FY2031 EPS of [[Priced-in.eps]] at 15×, about four-fifths of the way from my Bear to my Base. Perpetual cross-check: ≈$20B of unlevered owner earnings ex-float on a ≈$362B EV is a 5.5% yield, which at 9% prices ≈3.3% growth forever [Derived].",
+  "epv": "$220–320 a share: five-year ex-float owner earnings of $17.8B ÷ 9% on an equity basis ($220), or the median 8.1% margin capitalized on an enterprise basis ($320). Spot is about 9% above the top of the range, so 9–37% of the price pays for growth. The Bear ([[Bear.value]]) sits inside it.",
+  "base_rate": "The Bull's 6% nominal (~3.5% real) revenue growth sits between the 1.5% median and the ≥5%-real threshold (≈27% of >$50B companies) ([compounding.md](../../../frameworks/compounding.md)): Plausible. The Base's ~2% real is the median: Probable. The Bear is Probable now that CMS and Congress pull the same way.",
+  "terminal_growth": "Implied perpetual growth at 9%: Bull [[Bull.g]], Base [[Base.g]], Bear [[Bear.g]], all below the ≈5.15% ten-year Treasury.",
+  "year_ten": "Still growing at year ten: health spending and Medicare enrollment compound past 2036. The uncertainty is the regulated margin, not the runway.",
+  "rr_note": " The Bear is a regulated utility margin, not a broken company; it earns ≈$20B of net income in 2031.",
+  "note": "Computed rows come from model.json. Adjusted EPS excludes intangible amortization; SBC is ≈0.2% of revenue, so EPS and owner earnings converge."
+ }
+}

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 132" width="760" height="132" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">
+<rect x="96" y="10" width="12" height="12" rx="3" fill="#2a78d6"/>
+<text x="114" y="20" fill="#6f6e69">UnitedHealthcare</text>
+<rect x="241.2" y="10" width="12" height="12" rx="3" fill="#eb6834"/>
+<text x="259.2" y="20" fill="#6f6e69">Optum Health</text>
+<rect x="357.6" y="10" width="12" height="12" rx="3" fill="#1baf7a"/>
+<text x="375.6" y="20" fill="#6f6e69">Optum Insight</text>
+<rect x="481.20000000000005" y="10" width="12" height="12" rx="3" fill="#eda100"/>
+<text x="499.20000000000005" y="20" fill="#6f6e69">Optum Rx</text>
+<line x1="96.0" x2="96.0" y1="36" y2="106" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="96.0" y="124" text-anchor="start" fill="#6f6e69">0%</text>
+<line x1="259.0" x2="259.0" y1="36" y2="106" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="259.0" y="124" text-anchor="middle" fill="#6f6e69">25%</text>
+<line x1="422.0" x2="422.0" y1="36" y2="106" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="422.0" y="124" text-anchor="middle" fill="#6f6e69">50%</text>
+<line x1="585.0" x2="585.0" y1="36" y2="106" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="585.0" y="124" text-anchor="middle" fill="#6f6e69">75%</text>
+<line x1="748.0" x2="748.0" y1="36" y2="106" stroke="#8a8a8a" stroke-opacity="0.25"/>
+<text x="748.0" y="124" text-anchor="end" fill="#6f6e69">100%</text>
+<text x="86" y="56.0" text-anchor="end" fill="#6f6e69">9M 2025</text>
+<rect x="96.0" y="40" width="318.5" height="24" fill="#2a78d6"/>
+<text x="255.3" y="56.0" text-anchor="middle" fill="#ffffff" font-weight="600">49%</text>
+<rect x="416.5" y="40" width="63.9" height="24" fill="#eb6834"/>
+<text x="448.5" y="56.0" text-anchor="middle" fill="#ffffff" font-weight="600">10%</text>
+<rect x="482.4" y="40" width="113.4" height="24" fill="#1baf7a"/>
+<text x="539.1" y="56.0" text-anchor="middle" fill="#1a1a19" font-weight="600">18%</text>
+<rect x="597.8" y="40" width="150.2" height="24" fill="#eda100"/>
+<text x="672.9" y="56.0" text-anchor="middle" fill="#1a1a19" font-weight="600">23%</text>
+<text x="86" y="98.0" text-anchor="end" fill="#6f6e69">9M 2026</text>
+<rect x="96.0" y="82" width="344.2" height="24" fill="#2a78d6"/>
+<text x="268.1" y="98.0" text-anchor="middle" fill="#ffffff" font-weight="600">53%</text>
+<rect x="442.2" y="82" width="83.0" height="24" fill="#eb6834"/>
+<text x="483.7" y="98.0" text-anchor="middle" fill="#ffffff" font-weight="600">13%</text>
+<rect x="527.2" y="82" width="97.9" height="24" fill="#1baf7a"/>
+<text x="576.2" y="98.0" text-anchor="middle" fill="#1a1a19" font-weight="600">15%</text>
+<rect x="627.2" y="82" width="120.8" height="24" fill="#eda100"/>
+<text x="687.6" y="98.0" text-anchor="middle" fill="#1a1a19" font-weight="600">19%</text>
+</svg>

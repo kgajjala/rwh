@@ -4,6 +4,38 @@
 
 ---
 
+## [2026-11-19] — CMS CRUSH proposal and a 15% two-day sell-off · page migrated to v7.0
+
+**Trigger**: CMS proposed CRUSH (CMS-6098-P) on Nov 16, codifying extrapolated Medicare Advantage RADV audits from PY2018 with no fee-for-service adjuster ([fact sheet](https://www.cms.gov/newsroom/fact-sheets/comprehensive-regulations-uncover-suspicious-healthcare-crush-proposed-rule-cms-6098-p)). UNH fell from $412.02 to $349.91 (−15.1%) on Nov 17–18. Window also had the Nov 3 midterms, with Democrats winning both chambers.
+**Sources**:
+- [CRUSH extract](../../../raw/UNH/regulatory/2026-11-16_CMS-CRUSH-proposed-rule-CMS-6098-P.md), [price and peer snapshot](../../../raw/UNH/press-releases/2026-11-18_price-action-snapshot.md), [Q3 call verbatim extracts](../../../raw/UNH/transcripts/2026-10-13_Q3-2026_call_verbatim-extracts.txt)
+- [CMS press release](https://www.cms.gov/newsroom/press-releases/cms-crush-proposed-rule-aims-reap-nearly-90-billion-taxpayers-savings-targeting-fraud-across), [Crowell on the 2025 vacatur](https://www.crowell.com/en/insights/client-alerts/court-vacates-cmss-2023-final-rule-on-radv-audits), [STAT on the Fifth Circuit argument](https://www.statnews.com/2026/10/05/humana-medicare-advantage-radv-audits-lawsuit-hearing/), [Yahoo Finance, Nov 18](https://finance.yahoo.com/healthcare/articles/unitedhealth-sinks-12-cms-fraud-194116346.html), [TIKR on Warren and the midterms](https://www.tikr.com/blog/we-need-to-break-up-big-medicine-warren-targets-unitedhealth-as-democrats-win-congress)
+- [Yahoo price history](https://finance.yahoo.com/quote/UNH/history/), [StockAnalysis](https://stockanalysis.com/stocks/unh/statistics/), [SEC XBRL company facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0000731766.json)
+
+### Scorecard
+- Full-year MCR ≤88.1% and adjusted EPS ≥$20.50 — 🟡 Pending — no print; resolves mid-January 2027
+- FY2027 guide ≥$23.00 — 🟡 Pending — outlook not yet given; consensus ≈$23.3 predates CRUSH
+- No DOJ complaint or settlement seeking separation or >$5B — 🟡 Pending — nothing filed; test 3 now also covers the Fifth Circuit RADV ruling and the CRUSH final rule
+
+### Changed
+- **Price**: $377.76 → **$349.91** (−7.4%; −15.1% from $412.02 in two sessions on 4× volume). Peers Nov 16→18: HUM −16.4%, ELV −10.2%, CNC −9.8%, CVS −8.2%, CI (no MA) −4.9%, SPY −1.3%.
+- **Fear vs. bill**: UNH share of CMS's ≈$9B per payment year ≈$2.5B pre-tax; nine back years ≈$13/share PV at full exposure, ≈$7 at 50% litigation odds `[Estimate]`. My valuation changes are worth ≈$21/share today against a $62 fall: about one-third practical threat, two-thirds fear.
+- **Scenarios**: probabilities 25/50/25 → **20/50/30** (Bull → Bear, for CMS and a Democratic Congress pulling the same way). Values Bull $711 → $706, Base $508 → $513, Bear $281 → $278 on a two-segment v7 model; new CRUSH line −$20 (FY2031 value) × 50%.
+- **Price-implied Bear odds**: 19% → **32%** (≈2% at $412).
+- **Tests**: test 2 adds "no RADV carve-out from adjusted EPS"; test 3 adds the Fifth Circuit ruling or a CRUSH final rule without the PY2018 start.
+- **BAIT**: Single (B) → Double (B+A), Moderate.
+- **Schema**: v6.0 page → v7.0 deep dive (report/ sources, charts, update note).
+- **Gaps**: FY2025 10-K Item 1A diff; DEF 14A NEO metrics; 90-day Form 4s; no company statement or appearance found Oct 14–Nov 18.
+
+### Status
+- **Thesis**: Weakened (regulatory), but the price fell further than the value
+- **PW EV**: $502 → **$471** · **PW return/yr**: 8.3% → **8.8%** (hurdle 13%) · **R/R**: 3.4:1 → 5.0:1 · **BAIT**: Single → Double (B+A)
+- **Verbs**: non-holder Watch (entry ≤$304 → **≤$288**) · holder Hold (Trim $471–706)
+
+**Next trigger**: the 2027 outlook, promised before year-end; the Fifth Circuit's *Humana v. Kennedy* ruling (pending); CRUSH comments close Jan 19, 2027.
+
+---
+
 ## [2026-10-14] — Q3 2026 earnings · guide raised to ≥$20.50 · page migrated to v6.0
 
 **Trigger**: [Q3 2026 release](https://www.sec.gov/Archives/edgar/data/731766/000073176626000255/earningsrelease3q26unh.htm) on Oct 13. Window events: the Wells Fargo conference and the TPG Florida WellMed stake (Sep 9).
